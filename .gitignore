@@ -27,3 +27,4 @@ src/bower.json
 src/.powenv
 src/.byebug_history
 docs/*.*~
+*.mp4
