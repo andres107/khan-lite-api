@@ -3,14 +3,14 @@ services:
     ka-lite:
         image: quantumobject/docker-ka-lite
         ports:
-            - "8008:8008"
+            - "${KHAN_PORT}:8008"
         volumes_from:
             - data
     data:
         image: quantumobject/docker-ka-lite
         volumes:
-            - ./content:/var/ka-lite/.kalite/content
-            - ./database:/var/ka-lite/.kalite/database
+            - ./khan-data/content:/var/ka-lite/.kalite/content
+            - ./khan-data/database:/var/ka-lite/.kalite/database
         command: "true"
     rails:
         image: rails:5.0.0.1
