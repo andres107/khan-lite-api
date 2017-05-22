@@ -1,0 +1,27 @@
+version: '2'
+services:
+    ka-lite:
+        image: quantumobject/docker-ka-lite
+        ports:
+            - "8008:8008"
+        volumes_from:
+            - data
+    data:
+        image: quantumobject/docker-ka-lite
+        volumes:
+            - ./content:/var/ka-lite/.kalite/content
+            - ./database:/var/ka-lite/.kalite/database
+        command: "true"
+    rails:
+        image: rails:5.0.0.1
+        hostname: "${PROJECT_NAME}Rails"
+        container_name: "${PROJECT_NAME}Rails"
+        ports:
+            - "${RAILS_PORT}:3000"
+            - "${DOCS_PORT}:8808"
+        volumes:
+            - ./src:/usr/src/app
+        working_dir: /usr/src/app
+        volumes_from:
+            - data
+        entrypoint: ./postinstall.sh
