@@ -1,0 +1,543 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.570 --> 00:00:01.290
+Bienvenido.
+
+00:00:01.290 --> 00:00:04.580
+Sólo estoy tratando de mostrarle como muchos ejemplos posibles de
+
+00:00:04.580 --> 00:00:07.560
+resolver ecuaciones diferenciales exactas.
+
+00:00:07.560 --> 00:00:09.210
+Uno, intentando averiguar si la
+
+00:00:09.210 --> 00:00:10.350
+ecuaciones son exactas.
+
+00:00:10.350 --> 00:00:12.650
+Y entonces si sabes que están exactos, cómo puedes adivinar
+
+00:00:12.650 --> 00:00:14.470
+el psi y figura a la solución de la
+
+00:00:14.470 --> 00:00:15.650
+¿ecuación diferencial?
+
+00:00:15.650 --> 00:00:27.820
+Por lo que el siguiente en mi libro es 3 x al cuadrado menos 2xy plus 2
+
+00:00:27.820 --> 00:00:40.400
+veces dx, plus 6y cuadrado menos x squared plus 3 veces
+
+00:00:40.400 --> 00:00:43.060
+DY es igual a 0.
+
+00:00:43.060 --> 00:00:45.040
+Así que el camino que estaba escrito, no es
+
+00:00:45.040 --> 00:00:47.330
+¿superficialmente en esa forma que queremos, derecho?
+
+00:00:47.330 --> 00:00:48.370
+¿Cuál es la forma que queremos?
+
+00:00:48.370 --> 00:00:54.120
+Queremos alguna función de x y y además otra función de x
+
+00:00:54.120 --> 00:01:00.530
+y y, tiempos y prime o dx dy, es igual a 0.
+
+00:01:00.530 --> 00:01:01.570
+Estamos cercanos.
+
+00:01:01.570 --> 00:01:04.410
+¿Cómo podríamos conseguir esta ecuación en este formulario?
+
+00:01:04.410 --> 00:01:07.580
+¿Sólo dividimos ambos lados de esta ecuación por dx, correcto?
+
+00:01:07.580 --> 00:01:14.110
+Y entonces obtenemos 3 x al cuadrado menos 2xy más 2.
+
+00:01:14.110 --> 00:01:17.530
+Nos estamos dividiendo por dx, por lo que dx se convierte sólo en un 1.
+
+00:01:17.530 --> 00:01:23.830
+Además, 6y cuadrado menos x squared plus 3.
+
+00:01:23.830 --> 00:01:28.360
+Y entonces nos estamos dividiendo por dx, por lo que se convierte en dx dy, es
+
+00:01:28.360 --> 00:01:30.190
+igual a--¿qué es 0 dividido por dx?
+
+00:01:30.190 --> 00:01:31.430
+Bien es sólo 0.
+
+00:01:31.430 --> 00:01:32.200
+Y ahí lo tenemos.
+
+00:01:32.200 --> 00:01:33.800
+Hemos escrito esta en la forma que nos
+
+00:01:33.800 --> 00:01:35.580
+es necesario, en este formulario.
+
+00:01:35.580 --> 00:01:38.260
+Y ahora tenemos que demostrar a nosotros mismos que esto es un
+
+00:01:38.260 --> 00:01:39.390
+ecuación exacta.
+
+00:01:39.390 --> 00:01:40.670
+Así que vamos a hacer eso.
+
+00:01:40.670 --> 00:01:43.660
+¿Qué es el parcial de M?
+
+00:01:43.660 --> 00:01:47.180
+¿Esto es la función de M, correcto?
+
+00:01:47.180 --> 00:01:49.380
+Esto fue un plus aquí.
+
+00:01:49.380 --> 00:01:52.980
+¿Qué es el parcial de este respecto de y?
+
+00:01:52.980 --> 00:01:54.450
+Esto sería 0.
+
+00:01:54.450 --> 00:01:57.980
+Esto sería menos x 2 y, a continuación, sólo un 2.
+
+00:01:57.980 --> 00:02:01.070
+Así que el parcial de este respecto y es menos x 2.
+
+00:02:01.070 --> 00:02:04.490
+¿Qué es el parcial de n con respecto a x?
+
+00:02:04.490 --> 00:02:08.550
+Esto sería 0, esto sería menos x 2.
+
+00:02:08.550 --> 00:02:10.470
+Así que ahí lo tienen.
+
+00:02:10.470 --> 00:02:13.620
+El parcial de m respecto de y es igual para el parcial
+
+00:02:13.620 --> 00:02:16.170
+de n con respecto a x.
+
+00:02:16.170 --> 00:02:18.870
+Mi es igual a Nx.
+
+00:02:18.870 --> 00:02:24.650
+Así que estamos ante una ecuación exacta.
+
+00:02:24.650 --> 00:02:26.020
+Así que ahora tenemos que encontrar psi.
+
+00:02:29.910 --> 00:02:33.360
+El parcial de psi con respecto a x es igual a M,
+
+00:02:33.360 --> 00:02:39.840
+que es igual a 3 x al cuadrado menos 2xy más 2.
+
+00:02:39.840 --> 00:02:44.890
+Tomar la primitiva con respecto a x en ambos lados,
+
+00:02:44.890 --> 00:02:51.510
+y obtendrá psi es igual a x al tercero menos x al cuadrado
+
+00:02:51.510 --> 00:02:55.740
+y--porque es simplemente una constante--plus x 2, además de algunas
+
+00:02:55.740 --> 00:02:57.270
+función de y.
+
+00:02:57.270 --> 00:02:57.530
+¿Verdad?
+
+00:02:57.530 --> 00:02:59.620
+Porque sabemos que psi es una función de x e y.
+
+00:02:59.620 --> 00:03:02.220
+Así que cuando llevas un derivado, cuando llevas un parcial con
+
+00:03:02.220 --> 00:03:05.920
+respecto a la justa x, una función pura y simplemente obtendría
+
+00:03:05.920 --> 00:03:08.510
+perdido. Así es como la constante, cuando nos primera
+
+00:03:08.510 --> 00:03:10.620
+aprendido tomando anti-derivatives.
+
+00:03:10.620 --> 00:03:13.880
+Y ahora, para calcular psi, sólo tenemos que solucionar para h de y.
+
+00:03:13.880 --> 00:03:15.340
+Y ¿cómo lo hacemos?
+
+00:03:15.340 --> 00:03:20.110
+Bien vamos a tomar el parcial de psi con respecto a y.
+
+00:03:20.110 --> 00:03:22.140
+Va a ser igual a este derecho aquí.
+
+00:03:22.140 --> 00:03:25.520
+Así que el parcial de psi con respecto a y, esto es 0, esto
+
+00:03:25.520 --> 00:03:26.815
+es menos x al cuadrado.
+
+00:03:26.815 --> 00:03:33.210
+Por lo tanto es menos x cuadrado--o--plus h prime de y, es
+
+00:03:33.210 --> 00:03:34.290
+¿va a ser capaz de qué?
+
+00:03:34.290 --> 00:03:36.520
+Va a ser igual a nuestro n de x, y.
+
+00:03:36.520 --> 00:03:38.970
+Va a ser capaz de esto.
+
+00:03:38.970 --> 00:03:40.080
+Y entonces podemos resolver esto.
+
+00:03:40.080 --> 00:03:43.580
+Así va a ser igual a 6y cuadrado menos x
+
+00:03:43.580 --> 00:03:45.096
+squared plus 3.
+
+00:03:45.096 --> 00:03:47.610
+Puede agregar x al cuadrado a ambos lados para obtener
+
+00:03:47.610 --> 00:03:50.760
+eliminar esto y esto.
+
+00:03:50.760 --> 00:03:57.290
+Y entonces estamos salimos con h primo de y es igual a 6y
+
+00:03:57.290 --> 00:03:59.650
+squared plus 3.
+
+00:03:59.650 --> 00:04:06.850
+Primitiva--h de y es igual a lo que es esto--2y
+
+00:04:06.850 --> 00:04:09.260
+cubos plus 3 y.
+
+00:04:09.260 --> 00:04:12.920
+Y podría poner un plus c allí, pero la c plus combina
+
+00:04:12.920 --> 00:04:15.080
+más tarde cuando resolvemos la ecuación diferencial, así que usted
+
+00:04:15.080 --> 00:04:17.040
+no tiene que preocuparse demasiado.
+
+00:04:17.040 --> 00:04:18.459
+¿Cuál es nuestro psi de función?
+
+00:04:18.459 --> 00:04:20.920
+Lo voy a escribir en un nuevo color.
+
+00:04:20.920 --> 00:04:30.240
+Nuestra función psi como una función de x e y es igual a x a
+
+00:04:30.240 --> 00:04:38.150
+el tercero menos x al cuadrado y plus x 2.
+
+00:04:38.150 --> 00:04:40.800
+Además h de y, que solucionamos solo para.
+
+00:04:40.800 --> 00:04:46.030
+H y es además 2y a la tercera plus 3 y.
+
+00:04:46.030 --> 00:04:47.870
+Y luego son podría ser un plus c allí, pero ya verás
+
+00:04:47.870 --> 00:04:50.890
+que no importa mucho.
+
+00:04:50.890 --> 00:04:52.390
+Realmente quiero hacer algo
+
+00:04:52.390 --> 00:04:53.690
+un poco diferente.
+
+00:04:53.690 --> 00:04:54.780
+No sólo voy a marchan por el problema.
+
+00:04:54.780 --> 00:04:56.740
+Deseo de volver a la intuición.
+
+00:04:56.740 --> 00:04:59.120
+Porque no quiero que esto sea completamente mecánica.
+
+00:04:59.120 --> 00:05:02.310
+Permítanme sólo mostrarles lo que la derivada--con lo que
+
+00:05:02.310 --> 00:05:08.810
+sabía antes que incluso aprendido nada sobre el parcial
+
+00:05:08.810 --> 00:05:13.090
+regla de la cadena de derivados--¿qué es la derivada de psi con
+
+00:05:13.090 --> 00:05:14.340
+respecto a x.
+
+00:05:16.580 --> 00:05:18.770
+¿Qué es la derivada de psi con respecto a x?
+
+00:05:18.770 --> 00:05:22.760
+Aquí solo utilizamos nuestras habilidades de diferenciación implícita.
+
+00:05:22.760 --> 00:05:27.520
+Así que la derivada de esto--lo haré en un nuevo color--x 3
+
+00:05:27.520 --> 00:05:30.810
+cuadrados menos--ahora vamos a tener que utilizar la cadena
+
+00:05:30.810 --> 00:05:33.190
+regla aquí--así la derivada de la primera expresión con
+
+00:05:33.190 --> 00:05:37.570
+respecto a x es--bien, que me acabo de poner el signo menos y yo
+
+00:05:37.570 --> 00:05:44.510
+podría poner que--por lo que es x 2 veces y además la primera
+
+00:05:44.510 --> 00:05:48.080
+función, x cuadrado veces la derivada de la segunda
+
+00:05:48.080 --> 00:05:49.260
+función con respecto a x.
+
+00:05:49.260 --> 00:05:51.710
+¿Así es justo y primo, derecha?
+
+00:05:51.710 --> 00:05:55.430
+Es la derivada de y respecto de y es 1, veces la
+
+00:05:55.430 --> 00:05:58.890
+derivada de y con respecto a x, que es justo y primo.
+
+00:05:58.890 --> 00:06:00.740
+Bastante justo.
+
+00:06:00.740 --> 00:06:04.940
+Además es fácil, la derivada de esto con respecto a x 2.
+
+00:06:04.940 --> 00:06:07.020
+Además la derivada de esto con respecto a x.
+
+00:06:07.020 --> 00:06:08.710
+Bien, tomemos la derivada respecto de y
+
+00:06:08.710 --> 00:06:10.580
+primer. Simplemente estamos haciendo diferenciación implícita de
+
+00:06:10.580 --> 00:06:11.770
+la regla de la cadena.
+
+00:06:11.770 --> 00:06:18.480
+Esto es además 6y cuadrado.
+
+00:06:18.480 --> 00:06:20.320
+Y, a continuación, estamos utilizando la regla de la cadena, por lo que tomamos la
+
+00:06:20.320 --> 00:06:21.390
+derivada respecto de y.
+
+00:06:21.390 --> 00:06:23.500
+Y luego tienes multiplicar veces la derivada de y
+
+00:06:23.500 --> 00:06:27.450
+con respeto x, que es justo y primo.
+
+00:06:27.450 --> 00:06:31.280
+Además la derivada de esto con respecto a por qué es 3
+
+00:06:31.280 --> 00:06:33.350
+veces--sólo estamos haciendo la regla de la cadena--la derivada de
+
+00:06:33.350 --> 00:06:34.410
+y con respecto a x.
+
+00:06:34.410 --> 00:06:37.550
+Por lo es y primo.
+
+00:06:37.550 --> 00:06:39.700
+Vamos a ver si podemos simplificar esto.
+
+00:06:39.700 --> 00:06:51.550
+Así obtenemos esto es iguales a 3 x al cuadrado menos 2xy más 2.
+
+00:06:51.550 --> 00:06:54.320
+Así es este término, este término y este término.
+
+00:06:56.970 --> 00:07:04.700
+Plus--sólo pongamos el primer y principal exterior--y
+
+00:07:04.700 --> 00:07:09.240
+veces--vamos a ver, usted tiene un signo negativo aquí--menos
+
+00:07:09.240 --> 00:07:18.730
+x al cuadrado más 6y cuadrado más 3.
+
+00:07:18.730 --> 00:07:23.780
+Esto es la derivada de nuestra psi como lo solucionamos.
+
+00:07:23.780 --> 00:07:27.670
+Mira esta estrechamente y observe que es lo mismo--
+
+00:07:27.670 --> 00:07:30.170
+Esperemos que es lo mismo--que nuestro problema original.
+
+00:07:30.170 --> 00:07:32.630
+¿Lo que fue nuestro problema original que empezamos a trabajar con?
+
+00:07:32.630 --> 00:07:45.440
+El problema original fue 3 x al cuadrado menos 2xy plus 2, plus
+
+00:07:45.440 --> 00:07:52.010
+6Y al cuadrado menos x cuadrado plus 3 veces, y
+
+00:07:52.010 --> 00:07:54.070
+primo, es igual a 0.
+
+00:07:54.070 --> 00:07:55.650
+Esta era nuestro problema original.
+
+00:07:55.650 --> 00:07:59.170
+Y observe que la derivada de psi con respecto a x sólo
+
+00:07:59.170 --> 00:08:03.020
+utilizando la diferenciación implícita es exactamente esto.
+
+00:08:03.020 --> 00:08:04.970
+Así que esperemos que esto le da un poco de intuición de por qué podemos
+
+00:08:04.970 --> 00:08:11.980
+sólo reescribir esta ecuación como el derivado con respeto x
+
+00:08:11.980 --> 00:08:16.720
+de psi, que es una función de x e y, es igual a 0.
+
+00:08:16.720 --> 00:08:19.120
+Porque esto es el derivado de psi con respecto a x.
+
+00:08:19.120 --> 00:08:19.870
+Escribí aquí.
+
+00:08:19.870 --> 00:08:22.830
+¿Es la misma cosa--este derecho derecho aquí--?
+
+00:08:22.830 --> 00:08:24.710
+Por lo es igual a 0.
+
+00:08:24.710 --> 00:08:27.310
+Así que si tomamos la primitiva de ambos lados,
+
+00:08:27.310 --> 00:08:29.620
+Sabemos que la solución de esta ecuación diferencial es
+
+00:08:29.620 --> 00:08:34.909
+que psi de x e y es igual a c como la solución.
+
+00:08:34.909 --> 00:08:37.780
+Y sabemos qué psi es, por lo que acaba de establecer que sea igual a c, y
+
+00:08:37.780 --> 00:08:40.470
+Tenemos la implícita--tenemos una solución para el diferencial
+
+00:08:40.470 --> 00:08:42.490
+ecuación, voy sólo defino implícitamente.
+
+00:08:42.490 --> 00:08:44.890
+Por lo tanto la solución--no tienes que hacerlo cada vez.
+
+00:08:44.890 --> 00:08:50.010
+Este derecho de paso aquí usted tendría que hacer si eres
+
+00:08:50.010 --> 00:08:51.190
+tomar una prueba, a menos que el maestro
+
+00:08:51.190 --> 00:08:52.440
+pedido explícitamente.
+
+00:08:52.440 --> 00:08:55.170
+Sólo quería tipo de hacer seguro que sabes lo que estás
+
+00:08:55.170 --> 00:08:57.420
+haciendo, que no sólo estás haciendo cosas completamente
+
+00:08:57.420 --> 00:08:58.000
+mecánicamente.
+
+00:08:58.000 --> 00:09:01.280
+Que realmente ver que realmente no la derivada de la psi
+
+00:09:01.280 --> 00:09:03.560
+darle--solucionamos psi.
+
+00:09:03.560 --> 00:09:05.490
+Y yo sólo quería mostrarle que la derivada de la psi
+
+00:09:05.490 --> 00:09:08.980
+con respecto a x, usando únicamente la diferenciación implícita y
+
+00:09:08.980 --> 00:09:11.700
+nuestra regla de la cadena estándar, le da realmente la izquierda
+
+00:09:11.700 --> 00:09:14.450
+lado de la ecuación diferencial, que era nuestro
+
+00:09:14.450 --> 00:09:15.640
+versión del problema.
+
+00:09:15.640 --> 00:09:17.600
+Y entonces que es lo que sabemos que la derivada de
+
+00:09:17.600 --> 00:09:20.730
+PSI con respeto x es igual a 0, porque nuestro original
+
+00:09:20.730 --> 00:09:23.390
+ecuación diferencial fue igual a 0.
+
+00:09:23.390 --> 00:09:26.950
+Tome la primitiva de ambos lados de este, obtendrá
+
+00:09:26.950 --> 00:09:29.510
+PSI es igual a C, es la solución de la
+
+00:09:29.510 --> 00:09:31.210
+ecuación diferencial.
+
+00:09:31.210 --> 00:09:34.190
+O si desea escribir it out, psi es esta cosa.
+
+00:09:34.190 --> 00:09:36.215
+Nuestra solución a la ecuación diferencial es x
+
+00:09:36.215 --> 00:09:42.530
+el tercero, menos x cuadrado x y, plus 2, plus 2y al tercero,
+
+00:09:42.530 --> 00:09:51.060
+más de 3 años, es igual a c, es la solución implícitamente definida de
+
+00:09:51.060 --> 00:09:52.940
+nuestra ecuación diferencial original.
+
+00:09:52.940 --> 00:09:55.050
+De todas formas he agotado tiempo otra vez.
+
+00:09:55.050 --> 00:09:56.440
+Nos vemos en el siguiente vídeo.

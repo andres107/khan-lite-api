@@ -1,0 +1,123 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.003 --> 00:00:04.735
+Encuentra el rango y el "rango medio" de la siguiente serie de números
+
+00:00:04.735 --> 00:00:06.923
+Lo que el rango nos dice esencialmente es
+
+00:00:06.923 --> 00:00:08.738
+cuan dispersos son esos números
+
+00:00:08.738 --> 00:00:10.258
+Y el modo en que se calcula es
+
+00:00:10.258 --> 00:00:12.044
+simplemente tomando la diferencia entre
+
+00:00:12.044 --> 00:00:14.506
+el mayor de esos números y el menor
+
+00:00:14.506 --> 00:00:15.833
+de esos números
+
+00:00:15.833 --> 00:00:17.187
+Y así, si nos fijamos en el mayor
+
+00:00:17.187 --> 00:00:18.055
+de esos números
+
+00:00:18.055 --> 00:00:20.562
+Lo rodearé en magenta, parece que es el 94
+
+00:00:20.562 --> 00:00:23.191
+94 es mayor que cualquer otro número aquí
+
+00:00:23.191 --> 00:00:25.418
+Por tanto es el mayor de los números
+
+00:00:25.418 --> 00:00:27.481
+Y de él queremos restar
+
+00:00:27.481 --> 00:00:29.466
+el más pequeño de los números
+
+00:00:29.466 --> 00:00:31.131
+Y el más pequeño de los números de nuestra serie
+
+00:00:31.131 --> 00:00:32.320
+justo por aquí es 65
+
+00:00:32.320 --> 00:00:33.959
+(rodeado en verde)
+
+00:00:33.959 --> 00:00:36.408
+entonces debes restar 65 de 94
+
+00:00:36.408 --> 00:00:38.133
+y esto es igual a...
+
+00:00:38.133 --> 00:00:40.822
+si fuese 95 menos 65, sería 30
+
+00:00:40.822 --> 00:00:42.562
+94 es uno menos que 95
+
+00:00:42.562 --> 00:00:44.426
+por tanto es 29
+
+00:00:44.426 --> 00:00:48.165
+Entonces, cuanto mayor es este número (subrayado en dorado) significa que se extiende más la
+
+00:00:48.165 --> 00:00:50.969
+diferencia entre el mayor y el menor número.
+
+00:00:50.969 --> 00:00:54.194
+Cuanto más pequeño es, significa que más se estrecha
+
+00:00:54.194 --> 00:00:58.557
+el "rango" (para usar la palabra correcta) de los números, que [], así que eso es el rango.
+
+00:00:58.557 --> 00:01:01.552
+El "rango medio" es una forma de pensar
+
+00:01:01.552 --> 00:01:05.297
+hasta cierto grado, de un tipo de tendencia central, por lo que el rango medio,
+
+00:01:05.297 --> 00:01:09.744
+el rango medio, y lo que harás con el rango medio es tomar la media
+
+00:01:09.744 --> 00:01:12.987
+del mayor número y el menor número
+
+00:01:12.987 --> 00:01:17.786
+entonces, aquí tomamos la diferencia, que es el rango. El "rango medio" sería la media de estos dos números
+
+00:01:17.786 --> 00:01:27.272
+así 94 más 65 (cuando hablamos de la media estamos hablando de la media aritmética) dividido por 2, así que esto va a ser...
+
+00:01:27.272 --> 00:01:32.532
+90 más 60 son 150, 150 más...
+
+00:01:32.532 --> 00:01:39.697
+4 más 5 son 159, 159 dividido por 2 es igual a
+
+00:01:39.697 --> 00:01:45.273
+150 dividido por 2, es 75, 9 dividido por 2 es 4,5
+
+00:01:45.273 --> 00:01:49.996
+entonces esto será 79,5
+
+00:01:49.996 --> 00:01:52.810
+Por tanto, es una manera de pensar sobre una media de esos números,
+
+00:01:52.810 --> 00:01:57.556
+otra manera es, obviamente, la media aritmética []
+
+00:01:57.556 --> 00:01:59.886
+obviamente, también puedes verlo como la mediana y la moda
+
+00:01:59.886 --> 00:02:02.600
+Por tanto, rango y "rango medio"

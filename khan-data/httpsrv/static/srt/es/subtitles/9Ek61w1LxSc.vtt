@@ -1,0 +1,591 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.202 --> 00:00:12.460
+Aquí tenemos la ecuación 7 por x es igual a 14.
+
+00:00:12.460 --> 00:00:16.200
+Antes de intentar resolver esta ecuación vamos a
+
+00:00:16.200 --> 00:00:20.271
+pensar un poco sobre lo que esto significa.
+
+00:00:20.271 --> 00:00:26.958
+7x es igual a 14, es decir 7 por x
+
+00:00:26.958 --> 00:00:34.612
+--déjame escribirlo de esta manera – 7 por x
+
+00:00:34.612 --> 00:00:39.948
+escribimos la x en color anaranjado. 7 por x es igual a 14.
+
+00:00:40.763 --> 00:00:43.667
+Ahora bien, quizás te parezca fácil resolver esta ecuación.
+
+00:00:43.667 --> 00:00:46.132
+Podrías pensar en la tabla del número 7.
+
+00:00:46.132 --> 00:00:49.000
+Por ejemplo, 7 por 1 es igual a 7 entonces la respuesta no es 1.
+
+00:00:49.000 --> 00:00:54.962
+7 por 2 es igual a 14, entonces aquí funciona el número 2.
+
+00:00:54.962 --> 00:00:56.869
+Podrías resolver la ecuación inmediatamente
+
+00:00:56.869 --> 00:00:59.455
+intentando con diferentes números.
+
+00:00:59.455 --> 00:01:02.119
+Entonces tu respuesta en este caso tendría que ser 2.
+
+00:01:02.119 --> 00:01:03.800
+Pero lo que queremos hacer es pensar
+
+00:01:03.800 --> 00:01:05.400
+en la forma de resolver la ecuación de manera sistemática.
+
+00:01:05.400 --> 00:01:07.840
+Ya veremos que las ecuaciones se vuelven más
+
+00:01:07.840 --> 00:01:10.322
+y más complicadas y no vamos a poder
+
+00:01:10.322 --> 00:01:12.333
+resolverlas así no más.
+
+00:01:12.333 --> 00:01:14.501
+Entonces es muy importante que, primero, entiendas cómo
+
+00:01:14.501 --> 00:01:16.669
+manipular estas ecuaciones pero es todavía más importante que
+
+00:01:16.669 --> 00:01:19.000
+entiendas lo que representan las variables.
+
+00:01:19.000 --> 00:01:22.260
+Esta ecuación literalmente dice 7 por x es igual a 14.
+
+00:01:22.260 --> 00:01:24.933
+En algebra no escribimos el “por”.
+
+00:01:24.933 --> 00:01:28.533
+Cuando escribes dos números uno junto al otro, o si escribes un número
+
+00:01:28.533 --> 00:01:30.600
+junto a un variable, significa que
+
+00:01:30.600 --> 00:01:31.667
+estás multiplicando.
+
+00:01:31.667 --> 00:01:34.589
+Es una forma abreviada para anotar las cosas.
+
+00:01:34.589 --> 00:01:37.254
+Y en general no vamos a utilizar el signo de multiplicación porque
+
+00:01:37.254 --> 00:01:40.937
+es muy confuso, dado que la letra x es la variable más común
+
+00:01:40.937 --> 00:01:42.267
+en algebra.
+
+00:01:42.267 --> 00:01:49.296
+Y si yo escribiera 7 por x es igual a 14 y escribo
+
+00:01:49.296 --> 00:01:52.588
+el signo de multiplicación como “x” entonces se vería raro, quedaría
+
+00:01:52.588 --> 00:01:54.834
+como x-x es decir por-por.
+
+00:01:54.834 --> 00:01:56.667
+Entonces en general, cuando se trata de ecuaciones
+
+00:01:56.667 --> 00:01:58.831
+especialmente cuando una de las variables es la letra x,
+
+00:01:58.831 --> 00:02:01.867
+no se usa el signo tradicional para la multiplicación.
+
+00:02:01.867 --> 00:02:04.372
+Podrías usar otra cosa, por ejemplo un punto para
+
+00:02:04.372 --> 00:02:06.694
+representar la multiplicación
+
+00:02:06.694 --> 00:02:10.000
+Entonces podrías escribir 7 por x es igual a 14.
+
+00:02:10.000 --> 00:02:12.232
+Pero no es muy común.
+
+00:02:12.232 --> 00:02:14.557
+Si estás multiplicando un número por un variable
+
+00:02:14.557 --> 00:02:15.933
+entonces escribes 7x.
+
+00:02:15.933 --> 00:02:17.933
+Literalmente esto quiere decir 7 por x.
+
+00:02:17.933 --> 00:02:23.151
+Ahora hay que entender cómo puedes manipular esta ecuación para
+
+00:02:23.151 --> 00:02:25.633
+resolverla. Vamos a visualizar este concepto.
+
+00:02:25.633 --> 00:02:28.219
+7 por x, ¿qué quiere decir?
+
+00:02:28.219 --> 00:02:31.297
+Voy a volver a escribir la ecuación
+
+00:02:31.297 --> 00:02:35.287
+pero la voy a escribir en una forma visual.
+
+00:02:35.287 --> 00:02:37.884
+Literalmente significa que es la cantidad x, sumando a esta misma cantidad 7 veces.
+
+00:02:37.884 --> 00:02:41.071
+Esta es la definición de la multiplicación.
+
+00:02:41.071 --> 00:02:48.333
+Literalmente es x más x más x más x más x –
+
+00:02:48.333 --> 00:02:52.304
+son 5 x – más x más x.
+
+00:02:52.304 --> 00:02:55.067
+Aquí está en una forma literal, son 7x.
+
+00:02:55.067 --> 00:02:57.028
+Es lo mismo que 7x.
+
+00:02:57.028 --> 00:03:00.933
+Lo voy a volver a escribir
+
+00:03:00.933 --> 00:03:03.641
+7x.
+
+00:03:03.641 --> 00:03:10.949
+Ahora bien, la ecuación nos dice que 7x es igual a 14.
+
+00:03:11.026 --> 00:03:14.299
+Entonces voy a dibujar 14 objetos aquí.
+
+00:03:14.299 --> 00:03:19.733
+Aquí tengo 1, 2, 3, 4, 5, 6, 7, 8
+
+00:03:19.733 --> 00:03:23.886
+9, 10, 11, 12, 13, 14.
+
+00:03:23.886 --> 00:03:27.073
+Literalmente estamos diciendo que 7x es igual a 14 objetos.
+
+00:03:27.073 --> 00:03:29.293
+Es lo mismo.
+
+00:03:29.293 --> 00:03:32.480
+Ahora bien, lo dibujo de esta manera para que
+
+00:03:32.480 --> 00:03:34.933
+puedas entender lo que vamos a hacer cuando
+
+00:03:34.933 --> 00:03:38.672
+dividamos los dos lados de la ecuación por 7.
+
+00:03:38.672 --> 00:03:40.473
+Voy a borrar esta parte.
+
+00:03:46.211 --> 00:03:49.400
+Voy a dibujar este último círculo.
+
+00:03:49.400 --> 00:03:52.291
+En general cuando quieres simplificar la ecuación
+
+00:03:52.291 --> 00:03:55.703
+el coeficiente es el número que se multiplica por
+
+00:03:55.703 --> 00:03:56.878
+la variable.
+
+00:03:56.878 --> 00:03:59.948
+Existe un número que se multiplica por la variable o podríamos decir
+
+00:03:59.995 --> 00:04:02.046
+que es el coeficiente multiplicado por la variable igual a
+
+00:04:02.046 --> 00:04:03.109
+otra cosa.
+
+00:04:03.109 --> 00:04:04.667
+Lo que quieres hacer es dividir los dos lados de la ecuación por el
+
+00:04:04.667 --> 00:04:08.852
+coeficiente, en este caso es el número 7.
+
+00:04:08.913 --> 00:04:11.860
+Si divides los dos lados de la ecuación por 7, ¿cuál es el resultado?
+
+00:04:12.029 --> 00:04:16.470
+7 por algo dividido por 7 es nada más
+
+00:04:16.470 --> 00:04:18.482
+la cantidad original.
+
+00:04:18.482 --> 00:04:22.687
+Los 7 se eliminan uno al otro y 14 entre 7 son 2.
+
+00:04:22.687 --> 00:04:26.400
+Entonces la solución va a ser x es igual a 2.
+
+00:04:26.400 --> 00:04:29.375
+Pero para entenderlo mejor,
+
+00:04:29.375 --> 00:04:33.032
+lo que está pasando es que estamos dividiendo ambos lados de
+
+00:04:33.032 --> 00:04:36.611
+la ecuación por 7, literalmente dividiendo ambos lados por 7.
+
+00:04:36.611 --> 00:04:37.708
+Es una ecuación.
+
+00:04:37.708 --> 00:04:40.268
+Es decir que esto es igual a esto.
+
+00:04:40.268 --> 00:04:43.600
+Lo que hago al lado izquierdo de la ecuación, lo tengo que hacer al lado derecho.
+
+00:04:43.600 --> 00:04:46.276
+Si los dos lados son iguales, no puedo hacer una operación
+
+00:04:46.276 --> 00:04:48.800
+a un solo lado y esperar que sigan siendo iguales.
+
+00:04:48.800 --> 00:04:54.870
+Entonces si divido el lado izquierdo por 7 tengo que dividirlo
+
+00:04:54.870 --> 00:04:56.067
+en 7 grupos.
+
+00:04:56.067 --> 00:04:58.841
+Había 7 x aquí, había uno, dos, tres
+
+00:04:58.841 --> 00:05:02.367
+cuatro, cinco, seis, siete.
+
+00:05:02.367 --> 00:05:04.733
+Entonces hay uno, dos, tres, cuatro, cinco, seis, siete grupos.
+
+00:05:04.733 --> 00:05:07.383
+Si divido este lado de la ecuación en siete grupos también quiero
+
+00:05:07.383 --> 00:05:10.753
+dividir el lado derecho en siete grupos.
+
+00:05:10.753 --> 00:05:16.003
+Uno, dos, tres, cuatro, cinco, seis, siete.
+
+00:05:16.003 --> 00:05:18.933
+Si todo esto es igual a todo esto, entonces cada
+
+00:05:18.933 --> 00:05:23.200
+una de estas siete partes
+
+00:05:23.200 --> 00:05:27.236
+son equivalentes.
+
+00:05:27.236 --> 00:05:32.042
+Entonces se puede decir que esta parte es igual a esta parte.
+
+00:05:32.042 --> 00:05:35.020
+Esta parte es igual a esta parte—son
+
+00:05:35.020 --> 00:05:36.091
+partes equivalentes.
+
+00:05:36.091 --> 00:05:37.467
+Aquí hay siete partes, aquí hay siete partes.
+
+00:05:37.467 --> 00:05:41.603
+Entonces cada x tiene que ser igual a dos de estos objetos.
+
+00:05:41.603 --> 00:05:44.867
+En este caso
+
+00:05:44.867 --> 00:05:49.733
+dibujamos estos objetos y
+
+00:05:49.733 --> 00:05:51.033
+x es igual a 2.
+
+00:05:51.033 --> 00:05:53.533
+Ahora vamos a hacer un par de ejemplos más para que
+
+00:05:53.533 --> 00:05:55.800
+te quede claro que estamos hablando de una ecuación
+
+00:05:55.800 --> 00:05:58.374
+y que cualquier operación que hagas a un lado de la ecuación
+
+00:05:58.374 --> 00:06:01.556
+tienes que hacerla al otro lado.
+
+00:06:05.033 --> 00:06:13.943
+Aquí tenemos la ecuación 3x es igual a 15.
+
+00:06:13.943 --> 00:06:16.268
+Una vez más, es posible resolverla sin escribir nada.
+
+00:06:16.268 --> 00:06:19.455
+Me dices que esto es 3 veces algún
+
+00:06:19.455 --> 00:06:20.317
+número que es igual a 15.
+
+00:06:20.317 --> 00:06:22.694
+Podrías revisar la tabla del número 3 e identificar la respuesta.
+
+00:06:22.694 --> 00:06:24.940
+Pero si quieres resolverla en una forma sistemática,
+
+00:06:24.940 --> 00:06:27.133
+y es bueno entenderla sistemáticamente, entonces . . .
+
+00:06:27.133 --> 00:06:30.348
+lo que está al lado izquierdo es igual a lo que está al lado derecho.
+
+00:06:30.348 --> 00:06:32.333
+¿Qué tengo que hacer al lado izquierdo
+
+00:06:32.333 --> 00:06:34.267
+para que quede solamente la x?
+
+00:06:34.267 --> 00:06:37.061
+Para tener solamente la x, tengo que dividir por 3.
+
+00:06:37.061 --> 00:06:40.248
+Y queremos hacer esto porque si tenemos 3 veces
+
+00:06:40.248 --> 00:06:43.670
+algún número y dividimos por 3, los 3 se eliminan
+
+00:06:43.670 --> 00:06:45.081
+y me quedo solamente con la x.
+
+00:06:45.081 --> 00:06:48.163
+Ahora bien, 3x es igual a 15.
+
+00:06:48.163 --> 00:06:52.333
+Entonces si divido el lado izquierdo por tres, para mantener
+
+00:06:52.333 --> 00:06:57.600
+la ecuación también tendría que dividir el lado derecho por tres.
+
+00:06:57.600 --> 00:06:58.926
+¿Qué tenemos?
+
+00:06:58.926 --> 00:07:00.075
+Al lado izquierdo tenemos
+
+00:07:00.075 --> 00:07:03.811
+x, solamente x.
+
+00:07:03.811 --> 00:07:07.833
+Y al lado derecho, ¿cuánto es 15 dividido por tres?
+
+00:07:07.833 --> 00:07:11.256
+Es 5.
+
+00:07:11.256 --> 00:07:14.495
+Podrías haber resuelto la ecuación de otra manera,
+
+00:07:14.495 --> 00:07:15.827
+aunque realmente son equivalentes.
+
+00:07:15.827 --> 00:07:20.503
+Si empiezo con la ecuación 3x es igual a 15, podrías decir
+
+00:07:20.503 --> 00:07:26.271
+que en vez de dividir por tres, podría quitar este tres y
+
+00:07:26.271 --> 00:07:28.733
+quedarme solamente con x si multiplico los dos lados
+
+00:07:28.733 --> 00:07:31.161
+de la ecuación por 1/3.
+
+00:07:31.161 --> 00:07:33.068
+También funciona cuando multiplico los dos
+
+00:07:33.068 --> 00:07:36.195
+lados de la ecuación por 1/3.
+
+00:07:36.410 --> 00:07:38.736
+Cuando multiplicas el lado derecho, 1/3 por
+
+00:07:38.736 --> 00:07:46.776
+3, es igual a 1, o 1x.
+
+00:07:46.776 --> 00:07:52.842
+1x es igual a 15 por 1/3, es igual a 5.
+
+00:07:52.842 --> 00:07:55.011
+Y 1 por x es lo mismo que x, entonces
+
+00:07:55.011 --> 00:07:58.511
+x es igual a 5.
+
+00:07:58.511 --> 00:08:02.090
+Estas dos formas de resolver la ecuación son equivalentes.
+
+00:08:02.090 --> 00:08:04.200
+Si divides los dos lados por 3, es lo mismo que
+
+00:08:04.200 --> 00:08:11.154
+multiplicar los dos lados de la ecuación por 1/3.
+
+00:08:11.154 --> 00:08:12.748
+Ahora vamos a resolver otra ecuación, una
+
+00:08:12.748 --> 00:08:14.667
+que es un poco más complicada.
+
+00:08:14.667 --> 00:08:16.666
+Y voy a cambiar la variable.
+
+00:08:16.666 --> 00:08:36.807
+Digamos que la ecuación es 2y más 4y es igual a 18.
+
+00:08:36.807 --> 00:08:38.740
+Ahora es más difícil resolverla
+
+00:08:38.740 --> 00:08:39.867
+así no más.
+
+00:08:39.867 --> 00:08:42.318
+Estamos diciendo que 2 veces algo, más 4 veces este mismo algo
+
+00:08:42.318 --> 00:08:45.667
+es igual a 18.
+
+00:08:45.667 --> 00:08:47.804
+Esta vez es más difícil pensar así no más en el número.
+
+00:08:47.804 --> 00:08:48.849
+Podrías intentarlo.
+
+00:08:48.849 --> 00:08:52.140
+Por ejemplo si “y” fuera igual a 1 sería 2 por 1 más 4 por 1.
+
+00:08:52.140 --> 00:08:53.400
+No funciona.
+
+00:08:53.400 --> 00:08:55.439
+Entonces pensamos en cómo resolverla de manera sistemática.
+
+00:08:55.439 --> 00:08:56.869
+Podrías seguir adivinando y posiblemente llegarías
+
+00:08:56.869 --> 00:08:59.481
+a la respuesta, pero veamos cómo resolverla de manera sistemática.
+
+00:08:59.481 --> 00:09:00.735
+Vamos a visualizar el proceso.
+
+00:09:00.735 --> 00:09:05.067
+Si tengo dos “y” ¿qué quiere decir?
+
+00:09:05.067 --> 00:09:08.933
+Literalmente implica que tengo dos “y”, una sumando a la otra.
+
+00:09:08.933 --> 00:09:11.948
+Y más y.
+
+00:09:11.948 --> 00:09:21.379
+A esta cantidad voy a sumar cuatro “y” más, en términos reales cuatro veces “y”.
+
+00:09:21.510 --> 00:09:25.917
+Entonces es “y” más “y” más “y” más “y”.
+
+00:09:25.917 --> 00:09:33.883
+Y esta ecuación tiene que ser igual a 18.
+
+00:09:33.883 --> 00:09:39.474
+Entonces ¿cuántas “y” tengo que tener al lado izquierdo?
+
+00:09:39.474 --> 00:09:40.911
+¿Cuántas “y” tengo?
+
+00:09:40.911 --> 00:09:45.796
+Tengo una, dos, tres, cuatro, cinco, seis “y”.
+
+00:09:45.796 --> 00:09:50.600
+Se puede simplificar la ecuación para que diga 6y es igual a 18.
+
+00:09:51.862 --> 00:09:56.558
+Esta parte, 2y más 4y es igual a 6y.
+
+00:09:56.558 --> 00:10:00.477
+Entonces 2y más 4y es igual a 6y y esto tiene sentido.
+
+00:10:00.477 --> 00:10:03.507
+Si tengo 2 manzanas más 4 manzanas, voy a tener
+
+00:10:03.507 --> 00:10:04.578
+6 manzanas.
+
+00:10:04.578 --> 00:10:07.896
+Si tengo 2 “y” más 4 “y” entonces voy a tener 6 “y”.
+
+00:10:07.896 --> 00:10:09.933
+Todo esto tiene que ser igual a 18.
+
+00:10:12.302 --> 00:10:15.430
+Ahora, ojalá podamos entender cómo resolverla.
+
+00:10:15.430 --> 00:10:17.900
+Si tengo 6 veces algo es igual a 18, si divido ambos
+
+00:10:17.900 --> 00:10:22.993
+lados de la ecuación por 6, puedo resolver por la variable.
+
+00:10:23.070 --> 00:10:29.232
+Entonces divido el lado izquierdo por 6 y divido el
+
+00:10:29.262 --> 00:10:32.424
+lado derecho por 6.
+
+00:10:32.424 --> 00:10:39.118
+Y nos quedamos con “y” igual a 3.
+
+00:10:39.118 --> 00:10:40.817
+Puedes utilizar el número para verificar.
+
+00:10:40.817 --> 00:10:42.048
+Es la parte bonita de la ecuación.
+
+00:10:42.048 --> 00:10:44.733
+Siempre puedes verificar para saber si te salió bien la respuesta.
+
+00:10:44.733 --> 00:10:45.904
+Vamos a ver si funciona.
+
+00:10:45.904 --> 00:10:51.892
+¿2 por 3 más 4 por 3 es igual a qué?
+
+00:10:51.892 --> 00:10:56.400
+2 por 3 es igual a 6.
+
+00:10:56.400 --> 00:10:59.618
+Y luego 4 por 3 es igual a 12.
+
+00:10:59.618 --> 00:11:03.458
+6 más 12 es, de hecho, igual a 18.
+
+00:11:03.458 --> 99:59:59.999
+Entonces nos funcionó.

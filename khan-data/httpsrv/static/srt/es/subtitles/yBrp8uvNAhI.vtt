@@ -1,0 +1,933 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.053 --> 00:00:02.093
+En el video donde presentamos el átomo, hablé mucho
+
+00:00:02.093 --> 00:00:06.042
+sobre cómo en el centro del átomo tenemos
+
+00:00:06.042 --> 00:00:09.009
+al núcleo, y que es este es una fracción muy pequeña de
+
+00:00:09.009 --> 00:00:10.026
+el volumen total del átomo.
+
+00:00:10.026 --> 00:00:13.092
+Y el electrón, aunque lo llamamos una partícula, puede
+
+00:00:13.092 --> 00:00:16.064
+describirse mejor como una
+
+00:00:16.064 --> 00:00:19.060
+mancha alrededor del núcleo.
+
+00:00:19.060 --> 00:00:22.098
+Que aunque es una partícula, debido al principio
+
+00:00:22.098 --> 00:00:26.073
+de incertidumbre de Heisenberg, nunca podemos saber exactamente en un
+
+00:00:26.073 --> 00:00:29.087
+momento específico dónde está la partícula y cuál es su velocidad.
+
+00:00:29.087 --> 00:00:32.047
+Así que describirlo como una partícula es un poco,
+
+00:00:32.047 --> 00:00:35.053
+no sé, al menos, es un poco extraño.
+
+00:00:35.053 --> 00:00:37.088
+Y dijimos que en a manera que lo describimos, no se dice que
+
+00:00:37.088 --> 00:00:42.017
+esta partícula está en una órbita, como los planetas
+
+00:00:42.017 --> 00:00:44.071
+alrededor del Sol, una órbita sería eso.
+
+00:00:44.071 --> 00:00:46.003
+Eso sería como la órbita de el
+
+00:00:46.003 --> 00:00:47.067
+cometa Halley alrededor del Sol.
+
+00:00:47.067 --> 00:00:51.059
+En lugar de eso, se puede describir como una función de probabilidad
+
+00:00:51.059 --> 00:00:52.092
+alrededor del núcleo.
+
+00:00:52.092 --> 00:00:57.003
+Así que si el núcleo está ahí, tenemos un orbital, de hecho
+
+00:00:57.003 --> 00:00:59.089
+el orbital 1s, y hablaremos de eso en este video.
+
+00:00:59.089 --> 00:01:07.084
+Será una esfera alrededor del núcleo.
+
+00:01:07.084 --> 00:01:09.089
+Y realmente la esfera no tiene un límite específico.
+
+00:01:09.089 --> 00:01:14.043
+Cuando ves que alguien lo dibuja, ellos sólo están mostràndo dónde
+
+00:01:14.043 --> 00:01:17.004
+va a estar el electrón 90% del tiempo.
+
+00:01:17.004 --> 00:01:18.012
+Y crean un límite.
+
+00:01:18.012 --> 00:01:20.045
+Y dicen, OK, va a estar dentro de esta esfera
+
+00:01:20.045 --> 00:01:22.029
+y se hace más densa mientras te acercas al
+
+00:01:22.029 --> 00:01:23.026
+centro de la esfera.
+
+00:01:23.026 --> 00:01:25.054
+si esto fuera un corte transversal, sería
+
+00:01:25.054 --> 00:01:28.032
+muy denso en el centro, y se haría menos denso, y menos
+
+00:01:28.032 --> 00:01:29.034
+denso mientras te alejas.
+
+00:01:29.034 --> 00:01:31.032
+Lo que simplemente significa que hay una probabilidad más alta de
+
+00:01:31.032 --> 00:01:36.056
+encontrar el electrón cerca del centro que
+
+00:01:36.056 --> 00:01:37.065
+en las afueras.
+
+00:01:37.065 --> 00:01:40.070
+Aunque este límite aquí es solamente artificial.
+
+00:01:40.070 --> 00:01:44.006
+Ya que puedes encontrar al electrón básicamente en cualquier sitio.
+
+00:01:44.006 --> 00:01:45.081
+Soloque tiene una probabilidad mucho más baja
+
+00:01:45.081 --> 00:01:46.056
+de estar allí en lugar de aquì.
+
+00:01:46.056 --> 00:01:49.015
+Entraremos en más detalles sobre eso
+
+00:01:49.015 --> 00:01:50.067
+en el resto de este video.
+
+00:01:50.067 --> 00:01:54.009
+Pero quería volver al modelo de Bohr.
+
+00:01:54.009 --> 00:01:57.043
+Y el modelo de Bohr es como-- déjame escribir esto.
+
+00:01:57.043 --> 00:01:58.006
+Modelo de Bohr.
+
+00:01:58.006 --> 00:01:59.023
+Y se llama así
+
+00:01:59.023 --> 00:02:01.056
+por Niels Bohr.
+
+00:02:01.056 --> 00:02:03.054
+Y no creas que este hombre era un vago.
+
+00:02:03.054 --> 00:02:05.015
+Estaba en la vanguardia y eso no fue
+
+00:02:05.015 --> 00:02:06.028
+hace tanto tiempo.
+
+00:02:06.028 --> 00:02:08.055
+Fue aproximadamente hace 100 años.
+
+00:02:08.055 --> 00:02:12.097
+Así que ya estamos hablando de cosas que probablemente puedes
+
+00:02:12.097 --> 00:02:15.062
+encontrar trabajos de investigación en tu bilioteca de hace no tanto tiempo donde
+
+00:02:15.062 --> 00:02:17.059
+personas están debatiendo algunos de estos asuntos.
+
+00:02:17.059 --> 00:02:20.059
+Pero el modelo de Bohr, es el modelo
+
+00:02:20.059 --> 00:02:24.046
+dònde los electrones, como los planetas, dan vueltas alrededor de una estrella o
+
+00:02:24.046 --> 00:02:25.096
+alrededor del sol.
+
+00:02:25.096 --> 00:02:28.094
+Y ese modelo es útil, por lo menos es útil
+
+00:02:28.094 --> 00:02:32.037
+en mi cerebro, para conceptualizar la idea de los estados de energía.
+
+00:02:32.037 --> 00:02:36.013
+Así que esto es un electrón alrededor del núcleo, ¿verdad?
+
+00:02:36.013 --> 00:02:38.040
+Está moviendose alrededor en una órbita.
+
+00:02:38.040 --> 00:02:41.006
+Y ya sabemos, y quiero enfatizar, que órbitas no es
+
+00:02:41.006 --> 00:02:42.006
+lo que realmente ocurre.
+
+00:02:42.006 --> 00:02:43.052
+Lo que ocurren son orbitales.
+
+00:02:43.052 --> 00:02:50.075
+Y las orbitales son funciones de probabilidad sobre
+
+00:02:50.075 --> 00:02:53.074
+dónde podrías encontrar un electrón, mientras que una órbita es
+
+00:02:53.074 --> 00:02:56.074
+como una manera muy clásica, y mecánica de describir
+
+00:02:56.074 --> 00:02:59.061
+la trayectoria de un objeto clásico, como un
+
+00:02:59.061 --> 00:03:00.078
+planeta alrededor de una estrella.
+
+00:03:00.078 --> 00:03:02.052
+No quiero usar esta analogía demasiado.
+
+00:03:02.052 --> 00:03:06.087
+Pero si ves este modelo, la idea de niveles de energía
+
+00:03:06.087 --> 00:03:07.090
+comienza a tener sentido.
+
+00:03:07.090 --> 00:03:09.084
+Por ejemplo, si tengo algo orbitando, si tengo
+
+00:03:09.084 --> 00:03:15.002
+un planeta orbitando alrededor de una estrella, así.
+
+00:03:15.002 --> 00:03:19.038
+Y si fuera a tener más energía, quizá su órbita
+
+00:03:19.038 --> 00:03:20.093
+se volvería más eliptica.
+
+00:03:20.093 --> 00:03:24.015
+Quizá por alguna razón le pongo energía a esto.
+
+00:03:24.015 --> 00:03:27.063
+Si tuviera un pequeño cohete en este planeta ahora que
+
+00:03:27.063 --> 00:03:30.043
+le proveyera algo de energía.
+
+00:03:30.043 --> 00:03:35.099
+En lugar de ir en esta trayectoria, quizá lo empujara en esta
+
+00:03:35.099 --> 00:03:37.094
+dirección, y quizá lo acelera
+
+00:03:37.094 --> 00:03:38.084
+para que vaya un poco más rápido.
+
+00:03:38.084 --> 00:03:40.053
+Y quizá sea algo como esto.
+
+00:03:40.053 --> 00:03:42.018
+No sé, no he hecho los cálculos.
+
+00:03:42.018 --> 00:03:43.084
+Pero en general va a tener una energía cinética
+
+00:03:43.084 --> 00:03:46.015
+un poco más alta, así que se va a alejar un
+
+00:03:46.015 --> 00:03:47.044
+poco del planeta.
+
+00:03:47.044 --> 00:03:50.058
+Y quizá si le pusiera otro cohete,
+
+00:03:50.058 --> 00:03:52.022
+su trayectoria se vería como algo así.
+
+00:03:55.006 --> 00:04:00.055
+Su órbita se alejaría mientras
+
+00:04:00.055 --> 00:04:02.074
+se acerca al planeta, y de hecho alcanzaría velocidades
+
+00:04:02.074 --> 00:04:05.002
+más altas mientras se acerca al planeta por el efecto de la gravedad.
+
+00:04:05.002 --> 00:04:06.056
+Y hay un par de cosas interesantes en esto
+
+00:04:06.056 --> 00:04:11.056
+Primero, obviamente, el planeta o el cohete que está en esta órbita
+
+00:04:11.056 --> 00:04:12.081
+tiene más energía.
+
+00:04:16.025 --> 00:04:26.056
+Este va a tener más energía que, digamos,
+
+00:04:26.056 --> 00:04:27.052
+este otro
+
+00:04:27.052 --> 00:04:30.051
+Y energía, aunque estamos hablando en el mundo cuántico
+
+00:04:30.051 --> 00:04:32.050
+y esto es sólo una analogía, porque sabemos que no son
+
+00:04:32.050 --> 00:04:35.026
+órbitas, pero energía es realmente la misma energíia que
+
+00:04:35.026 --> 00:04:36.016
+hablamos sobre cualquier cosa.
+
+00:04:36.016 --> 00:04:40.061
+Y energía es la habilidad de hacer trabajo o transmitir calor o
+
+00:04:40.061 --> 00:04:41.036
+crear calor.
+
+00:04:41.036 --> 00:04:43.016
+Así que si no estás trabajándo y tienes
+
+00:04:43.016 --> 00:04:44.099
+energía, podrías desperdiciar ese trabajo
+
+00:04:44.099 --> 00:04:45.094
+al generar calor.
+
+00:04:45.094 --> 00:04:48.031
+Hablaremos más sobre eso en videos en el futuro.
+
+00:04:48.031 --> 00:04:49.064
+Pero es la misma idea, ¿verdad?
+
+00:04:49.064 --> 00:04:51.097
+Si tuviera este cohete y le pusiera un poco de energía a esto,
+
+00:04:51.097 --> 00:04:57.056
+o si lo empujara de alguna manera, podría llegar a esta órbita de mayor energía.
+
+00:04:57.056 --> 00:05:00.094
+La idea de orbitales es lo mismo, excepto obviamente
+
+00:05:00.094 --> 00:05:02.080
+que no tienen estas trayectorias bien definidas.
+
+00:05:02.080 --> 00:05:06.033
+asi mientras los electrones ganan energía, y la energía puede ser
+
+00:05:06.033 --> 00:05:10.097
+transmitida al electrón, mayormente a través de ondas de luz, u
+
+00:05:10.097 --> 00:05:13.037
+ondas electromagnéticas , pueden ser dadas al electrón.
+
+00:05:13.037 --> 00:05:14.085
+Y cuando veamos mecánica cuántica, veremos eso en
+
+00:05:14.085 --> 00:05:15.064
+más detalle.
+
+00:05:15.064 --> 00:05:18.062
+Pero, esencialmente, si visualizas la luz como un montón de paquetes,
+
+00:05:18.062 --> 00:05:21.043
+como un montón de protones, y un fotón choca con un electrón en un
+
+00:05:21.043 --> 00:05:24.094
+estado de energía específico, de repente va a entrar en un estado
+
+00:05:24.094 --> 00:05:27.054
+de energa más alto.
+
+00:05:27.054 --> 00:05:32.025
+Y quizá irá a una distribución de probabilidad que es
+
+00:05:32.025 --> 00:05:33.085
+cómo una capa a su alrededor
+
+00:05:33.085 --> 00:05:37.098
+Y quizá si, después que está excitado-- estas son las palabras
+
+00:05:37.098 --> 00:05:41.050
+que oyes a los fisicos y químicos decir mucho-- y
+
+00:05:41.050 --> 00:05:44.055
+excitado simplemente significa que se le añade energía al electrón y
+
+00:05:44.055 --> 00:05:46.064
+que pasa asi a un estado de energía más alto.
+
+00:05:46.064 --> 00:05:48.092
+Y quizá se quede ahí o puede que quiera regresar
+
+00:05:48.092 --> 00:05:51.006
+a su estado de menor energia.
+
+00:05:51.006 --> 00:05:53.025
+Así que para regresar a su estado de menor energia
+
+00:05:53.025 --> 00:05:55.085
+lanza el fotón de vuelta , y por eso ves
+
+00:05:55.085 --> 00:05:57.059
+cosas que a veces brillan.
+
+00:05:57.059 --> 00:05:59.092
+Pero hablaremos más de eso en el futuro también.
+
+00:05:59.092 --> 00:06:01.098
+Pero quiero darros este momento intuitivo porque en
+
+00:06:01.098 --> 00:06:04.069
+el resto de la química y en gran parte de la física se habla
+
+00:06:04.069 --> 00:06:07.020
+mucho de los estados de energía, o del electrón yendo a un
+
+00:06:07.020 --> 00:06:10.072
+estado de energía más alto o más bajo, y esa es la
+
+00:06:10.072 --> 00:06:15.024
+idea general: es que a un electrón en un orbital más alto
+
+00:06:15.024 --> 00:06:17.067
+se le ha puesto energía, aunque quiere regresar a su
+
+00:06:17.067 --> 00:06:18.080
+orbital más bajo.
+
+00:06:18.080 --> 00:06:20.048
+Ahora tú preguntas, ¿cómo puede un electrón
+
+00:06:20.048 --> 00:06:21.085
+quedarse en un orbital más alto?
+
+00:06:21.085 --> 00:06:24.093
+Por ejemplo, que pasaría si un electrón se quedara, ¿que pasaría si
+
+00:06:24.093 --> 00:06:28.043
+ya tuvieramos dos electrones en este orbital de aquí?
+
+00:06:28.043 --> 00:06:31.064
+Y hablaremos un poco sobre cómo los diferentes
+
+00:06:31.064 --> 00:06:32.095
+orbitales se llenan.
+
+00:06:32.095 --> 00:06:34.088
+Pero primero quiero darte la idea clave. Digamos que
+
+00:06:34.088 --> 00:06:36.058
+tienes dos electrones.
+
+00:06:36.058 --> 00:06:37.079
+Están por todos sitios.
+
+00:06:37.079 --> 00:06:39.017
+Ni siquiera los puedes señalar.
+
+00:06:39.017 --> 00:06:41.063
+Y si entonces añadiera un tercer electrón.
+
+00:06:41.063 --> 00:06:44.063
+dirías, ok, el nivel de energía más bajo es esta
+
+00:06:44.063 --> 00:06:47.085
+esfera interior de color magenta que acabo de dibujar.
+
+00:06:47.085 --> 00:06:50.006
+¿Por qué ese tercer electrón no va ashi?
+
+00:06:50.006 --> 00:06:52.049
+Bueno, intuyo que ya hay dos
+
+00:06:52.049 --> 00:06:56.058
+electrones ahí, y aunque los electrones son atraídos
+
+00:06:56.058 --> 00:06:59.018
+al núcleo porque el núcleo tiene toda la carga
+
+00:06:59.018 --> 00:07:00.085
+positiva, y los electrones tienen toda
+
+00:07:00.085 --> 00:07:04.012
+la carga negativa, el tercero es repelido por estos dos electrones.
+
+00:07:04.012 --> 00:07:06.043
+Porque cargas negativas iguales se repelen.
+
+00:07:06.043 --> 00:07:09.069
+Así que va a querer mantenerse alejado de estos dos electrones.
+
+00:07:09.069 --> 00:07:11.060
+Y va a ir al próximo estado de energía.
+
+00:07:11.060 --> 00:07:15.051
+Quizá irá a esta capa ded aquí
+
+00:07:15.051 --> 00:07:17.058
+Y el otro aspecto interesante sobre los estados de energía--
+
+00:07:17.058 --> 00:07:20.039
+y esta es la clave de la química cuando empezamos a hablar sobre
+
+00:07:20.039 --> 00:07:22.089
+reactividad y cómo algo podría reaccionar con otra
+
+00:07:22.089 --> 00:07:26.063
+cosa, y por qué lo haría-- es que un objeto en un estado de energía alto,
+
+00:07:26.063 --> 00:07:29.075
+por ejemplo si usamos la analogía de la órbita, este
+
+00:07:29.075 --> 00:07:35.018
+estado de energía, en el caso de los planetas se alejan
+
+00:07:35.018 --> 00:07:37.031
+del cuerpo al que están como atraídos, así que
+
+00:07:37.031 --> 00:07:39.030
+la fuerza gravitatoria es más débil.
+
+00:07:39.030 --> 00:07:43.052
+O en el caso de los electrones, cuando se alejan
+
+00:07:43.052 --> 00:07:45.036
+de un estado de energía alto, la fuerza
+
+00:07:45.036 --> 00:07:47.025
+de coulomb es más débil, ¿cierto?
+
+00:07:47.025 --> 00:07:50.017
+Las cargas de las que hablamos cuando hablamos de electrones y
+
+00:07:50.017 --> 00:07:51.056
+protones, esas son fuerzas de coulomb.
+
+00:07:51.056 --> 00:07:54.012
+Así que esta es una carga negativa y entonces tienes una carga
+
+00:07:54.012 --> 00:07:55.031
+positiva en el centro.
+
+00:07:55.031 --> 00:07:57.032
+Pero se aleja, creo que esta es la mejor forma
+
+00:07:57.032 --> 00:07:57.098
+de explicarlo.
+
+00:07:57.098 --> 00:08:00.033
+Así que la fuerza del núcleo es más débil, de manera que
+
+00:08:00.033 --> 00:08:02.048
+es más fácil separarlos de ahi.
+
+00:08:02.048 --> 00:08:06.038
+Son más fáciles de separar y quizá tambén de compartir con otros
+
+00:08:06.038 --> 00:08:08.098
+átomos. O quizá dárselos a otros átomos, y hablaremos
+
+00:08:08.098 --> 00:08:10.076
+mucho de eso cuando hablemos de enlaces.
+
+00:08:10.076 --> 00:08:12.048
+Pero quería daros estas claves primero.
+
+00:08:12.048 --> 00:08:15.035
+Así que la próxima pregunta que podría surgir es bueno, cómo
+
+00:08:15.035 --> 00:08:18.018
+los electrones llenan los diferentes orbitales, y cómo
+
+00:08:18.018 --> 00:08:19.099
+realmente se ven esos orbitales?
+
+00:08:19.099 --> 00:08:22.017
+Y he copiado e insertado algunas gráficos
+
+00:08:22.017 --> 00:08:24.044
+interesantes de Wikipedia.
+
+00:08:24.044 --> 00:08:27.008
+Así que aquí están los orbitales.
+
+00:08:27.008 --> 00:08:29.012
+Aquí están los diferentes orbitales.
+
+00:08:29.012 --> 00:08:31.037
+Y hay dos aspectos de un orbital.
+
+00:08:31.037 --> 00:08:34.009
+Uno es su capa. su capa de energía.
+
+00:08:34.009 --> 00:08:37.061
+Y eso está dado por este número aquí, n.
+
+00:08:37.061 --> 00:08:38.096
+Esa es la capa de energía.
+
+00:08:38.096 --> 00:08:40.054
+Y sólo para que sepas, todo
+
+00:08:40.054 --> 00:08:41.092
+como encaja..
+
+00:08:41.092 --> 00:08:46.025
+Esas capas de energía corresponden a periodos en
+
+00:08:46.025 --> 00:08:47.037
+la tabla periódica.
+
+00:08:47.037 --> 00:08:49.087
+Así que un periodo en la tabla periódica es literalmente
+
+00:08:49.087 --> 00:08:50.090
+sólo una fila en la misma.
+
+00:08:50.090 --> 00:08:59.005
+Así que este es un periodo en la tabla periódica, desde ahí
+
+00:08:59.005 --> 00:09:00.097
+hasta el helio.
+
+00:09:00.097 --> 00:09:01.078
+Ese es el primer periodo.
+
+00:09:01.078 --> 00:09:04.039
+Es simplemente la primera fila.
+
+00:09:04.039 --> 00:09:09.035
+Y eso significa que en los elementos en esa primera fila,
+
+00:09:09.035 --> 00:09:12.051
+sus electrones van a llenar la primera capa de energía.
+
+00:09:12.051 --> 00:09:17.011
+Así que por ejemplo, el hidrógeno tiene un protón.
+
+00:09:17.011 --> 00:09:19.067
+Y en todo lo que hagamos, vamos a asumir que son átomos neutrales.
+
+00:09:19.067 --> 00:09:22.087
+Así que podemos tomar-- aprendimos en el último video que
+
+00:09:22.087 --> 00:09:27.044
+el número atómico te dice cuántos protones hay, ¿verdad?
+
+00:09:27.044 --> 00:09:30.064
+Esto es cuántos protones hay en el hidrógeno.
+
+00:09:30.064 --> 00:09:33.012
+Pero si asumimos que es un átomo neutral, podemos decir que
+
+00:09:33.012 --> 00:09:34.065
+este es también el número de electrones.
+
+00:09:34.065 --> 00:09:38.021
+Así que podemos usar el número atómico también como un indicador de
+
+00:09:38.021 --> 00:09:39.063
+cuántos electrones hay en un átomo neutral.
+
+00:09:39.063 --> 00:09:41.000
+Así que este tiene un electrón.
+
+00:09:41.000 --> 00:09:42.052
+¿Dónde va?
+
+00:09:42.052 --> 00:09:45.017
+Bueno, está en el primer periodo, así que va a ir
+
+00:09:45.017 --> 00:09:48.011
+a la primera capa de energía.
+
+00:09:48.011 --> 00:09:51.062
+Así que el electrón va a ir ahí en
+
+00:09:51.062 --> 00:09:55.041
+la primera capa de energía.
+
+00:09:55.041 --> 00:09:58.030
+Así que si quisieramos escribir la configuración electrónica
+
+00:09:58.030 --> 00:10:02.042
+para hidrógeno, escribiríamos: hidrógeno, configuración
+
+00:10:02.042 --> 00:10:08.057
+electrónica, está en la primera capa de energía, en 1s.
+
+00:10:08.057 --> 00:10:10.077
+Y solamente hay un electrón ahí.
+
+00:10:10.077 --> 00:10:14.008
+¿Y cómo se ve esa primera subcapa del orbital, la
+
+00:10:14.008 --> 00:10:14.097
+subcapa ?
+
+00:10:14.097 --> 00:10:15.097
+Es simplemente una esfera.
+
+00:10:15.097 --> 00:10:17.076
+De hecho es lo que dibujé al principio del video.
+
+00:10:17.076 --> 00:10:18.087
+Es literalmente una esfera.
+
+00:10:18.087 --> 00:10:21.082
+Y si fueramos a dibujar un corte transversal , se vería
+
+00:10:21.082 --> 00:10:23.054
+más densa en el centro y menos densa
+
+00:10:23.054 --> 00:10:24.087
+mientras te alejas
+
+00:10:24.087 --> 00:10:28.003
+Y en el último video mostré cómose veia la función
+
+00:10:28.003 --> 00:10:29.075
+orbital del helio
+
+00:10:29.075 --> 00:10:31.045
+Y viste que era muy oscuro y denso en el centro
+
+00:10:31.045 --> 00:10:33.028
+y se hacía más disperso y gris y
+
+00:10:33.028 --> 00:10:35.064
+blanco mientras te alejabas.
+
+00:10:35.064 --> 00:10:40.096
+¿Y cuál es la configuración electrónica del helio?
+
+00:10:40.096 --> 00:10:45.058
+Bueno, en cada una de estas subcapas-- y seré
+
+00:10:45.058 --> 00:10:47.055
+un poco más específico probablemente en el próximo video,
+
+00:10:47.055 --> 00:10:51.034
+porque ya casi se me acabó el tiempo-- puedes poner dos.
+
+00:10:51.034 --> 00:10:54.008
+Supongo que en cada configuración geométrica para
+
+00:10:54.008 --> 00:10:57.017
+cada subcapa, puedes poner dos electrones.
+
+00:10:57.017 --> 00:10:59.062
+Y haremos eso con más detalle en el futuro.
+
+00:10:59.062 --> 00:11:03.037
+Así que la configuración para el helio.
+
+00:11:03.037 --> 00:11:04.082
+Está en el primer periodo.
+
+00:11:04.082 --> 00:11:07.055
+Y es 1s2.
+
+00:11:07.055 --> 00:11:13.051
+Y en la subcapa s dentro del primer periodo o la primera
+
+00:11:13.051 --> 00:11:17.037
+capa de energía, tiene dos electrones ahí.
+
+00:11:17.037 --> 00:11:18.035
+Fascinante.
+
+00:11:18.035 --> 00:11:20.094
+¿Y el litio?
+
+00:11:20.094 --> 00:11:23.030
+Litio, aquí.
+
+00:11:23.030 --> 00:11:27.089
+Que también es el nombre de una canción de Evanescence.
+
+00:11:27.089 --> 00:11:30.001
+Creo que es el nombre de una canción de Evanescence porque se
+
+00:11:30.001 --> 00:11:32.053
+usa para tratar la depresión, o por lo menos en el pasado ha sido
+
+00:11:32.053 --> 00:11:34.061
+usado para tratar la depresión.
+
+00:11:34.061 --> 00:11:36.033
+Bueno, litio.
+
+00:11:36.033 --> 00:11:38.001
+¿Cuál es su configuración electrónica?
+
+00:11:38.001 --> 00:11:41.045
+Pues el primer electrón va al 1s1.
+
+00:11:41.045 --> 00:11:42.076
+El segundo electrón va al 1s2.
+
+00:11:42.076 --> 00:11:44.027
+Y cuando digo el primero o segundo, estoy
+
+00:11:44.027 --> 00:11:45.062
+hablando de estados de energía.
+
+00:11:45.062 --> 00:11:46.067
+Así que el primer electrón quiere ir al
+
+00:11:46.067 --> 00:11:47.080
+estado de menor energía.
+
+00:11:47.080 --> 00:11:49.035
+Eso es en el s1.
+
+00:11:49.035 --> 00:11:51.024
+Entonces el segundo electrón también quiere ir ahí.
+
+00:11:51.024 --> 00:11:54.037
+Y dos electrones caben en ese primer estado de energía, o
+
+00:11:54.037 --> 00:11:57.051
+ese primer suborbital, o sea primera capa.
+
+00:11:57.051 --> 00:11:59.048
+Así que se convierte en 1s2.
+
+00:11:59.048 --> 00:12:00.072
+Osea litio.
+
+00:12:00.072 --> 00:12:03.053
+Llena ese primer 1s2.
+
+00:12:03.053 --> 00:12:07.075
+Llena el primer estado de energía y la primera capa,
+
+00:12:07.075 --> 00:12:09.016
+la cual es la de forma S.
+
+00:12:09.016 --> 00:12:11.069
+Así que ahora tiene que ir a la segunda capa de energía, y eso
+
+00:12:11.069 --> 00:12:14.034
+funciona en relación con lo que te dije antes, porque está
+
+00:12:14.034 --> 00:12:16.092
+en el segundo periodo.
+
+00:12:16.092 --> 00:12:21.057
+El segundo periodo está aquí.
+
+00:12:21.057 --> 00:12:22.005
+¿De acuerdo?
+
+00:12:22.005 --> 00:12:22.097
+Está en el segundo periodo.
+
+00:12:22.097 --> 00:12:28.019
+Así que la configuración electrónica va a ser 1s2.
+
+00:12:28.019 --> 00:12:31.025
+Dos de sus electrones se llenan de la misma manera que el helio se llenó.
+
+00:12:31.025 --> 00:12:33.060
+Y entonces su tercer electrón va a ser 2s1.
+
+00:12:36.042 --> 00:12:37.098
+Así que esa es la configuración del electron
+
+00:12:37.098 --> 00:12:40.087
+¿Qué quiero decir con 2s1?
+
+00:12:40.087 --> 00:12:44.052
+pues que el litio va a tener dos electrones en ese
+
+00:12:44.052 --> 00:12:45.096
+punto pequeño que subrayé
+
+00:12:45.096 --> 00:12:48.087
+Y entonces alrededor de ese punto, hay otra capa, la
+
+00:12:48.087 --> 00:12:50.025
+segunda capa de energía.
+
+00:12:50.025 --> 00:12:51.096
+Y va a tener un electrón ahí.
+
+00:12:51.096 --> 00:12:53.025
+A ver si puedo dibujar eso.
+
+00:12:53.025 --> 00:12:59.007
+Así que va a tener una, supongo que, esfera de probabilidad
+
+00:12:59.007 --> 00:13:01.012
+donde están los dos primeros electrones.
+
+00:13:01.012 --> 00:13:03.032
+Y si esto es un corte transversal, ese tercer
+
+00:13:03.032 --> 00:13:06.050
+electrón va a estar en esa capa de probabilidad
+
+00:13:06.050 --> 00:13:06.097
+alrededor de eso.
+
+00:13:06.097 --> 00:13:09.052
+Cuando dibujo estas, no significa que el electrón está exactamente
+
+00:13:09.052 --> 00:13:10.054
+ahí en el orbital.
+
+00:13:10.054 --> 00:13:14.021
+Sólo estoy dibujando donde se traza un línea, donde
+
+00:13:14.021 --> 00:13:16.011
+digamos hay un 90% de probabilidad de encontrar el electrón.
+
+00:13:16.011 --> 00:13:18.087
+El electrón podría aparecer ahí o ahí o ahí.
+
+00:13:18.087 --> 00:13:21.050
+Pero tendría una probabilidad muy baja, mientras que aquí
+
+00:13:21.050 --> 00:13:23.087
+sería una muy, muy alta probabilidad.
+
+00:13:23.087 --> 00:13:25.034
+De todas maneras, se me acabó el tiempo en este video.
+
+00:13:25.034 --> 00:13:27.042
+Continuaré esta discusión en el próximo video.
+
+00:13:27.042 --> 00:13:30.028
+Y comenzaré a hablar sobre las formas más extrañas
+
+00:13:30.028 --> 00:13:32.024
+que los orbitales pueden tomar, y quizá te daré unas
+
+00:13:32.024 --> 00:13:35.090
+claves sobre el por qué estas formas no son realmente tan extrañas.

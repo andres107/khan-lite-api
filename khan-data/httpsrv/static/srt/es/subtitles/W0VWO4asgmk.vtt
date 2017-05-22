@@ -1,0 +1,411 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:03.610
+Bienvenidos a esta presentación sobre límites.
+
+00:00:03.610 --> 00:00:06.290
+Vamos a empezar con algo... bueno, primero una explicación
+
+00:00:06.290 --> 00:00:07.530
+antes de resolver cualquier problema
+
+00:00:07.530 --> 00:00:11.110
+Digamos que tenemos... déjenme asegurarme de que tengo
+
+00:00:11.110 --> 00:00:12.070
+el color correcto y mi bolígrafo funciona
+
+00:00:12.070 --> 00:00:17.480
+OK, digamos que tengo el límite, y voy a explicar qué es
+
+00:00:17.480 --> 00:00:18.840
+el límite en un momento.
+
+00:00:18.840 --> 00:00:22.780
+Pero la forma de escribirlo es diciendo que el limite... mi color
+
+00:00:22.780 --> 00:00:26.860
+esta mal... OK, déjenme usar el color amarillo
+
+00:00:26.860 --> 00:00:38.181
+OK, el límite cuando x tiende a 2 de x cuadrada.
+
+00:00:38.181 --> 00:00:42.550
+Ahora, todo esto se dice ¿A que valor se aproxima la expresión
+
+00:00:46.340 --> 00:00:49.680
+x cuadrada cuando x tiende a 2 ?
+
+00:00:49.680 --> 00:00:51.130
+Bueno, esto es muy fácil.
+
+00:00:51.130 --> 00:00:53.065
+Si nos fijamos ... déjenme al menos dibujar la gráfica.
+
+00:00:53.065 --> 00:00:57.010
+Me voy a quedar con el color amarillo.
+
+00:00:57.010 --> 00:00:59.420
+Déjenme dibujarlo.
+
+00:00:59.420 --> 00:01:03.813
+x cuadrada se mira algo así como... déjenme usar
+
+00:01:03.813 --> 00:01:05.610
+un color diferente.
+
+00:01:05.610 --> 00:01:07.900
+x cuadrada se ve algo así, cierto?
+
+00:01:07.900 --> 00:01:10.730
+Y cuando x es igual a 2, y, o la expresión.... porque
+
+00:01:20.040 --> 00:01:21.320
+no decimos a que ésto es igual a
+
+00:01:21.320 --> 00:01:23.570
+Es solo la expresión... x cuadrada es igual a 4, correcto?
+
+00:01:23.570 --> 00:01:27.650
+Entonces el límite, cuando x tiende a 2
+
+00:01:33.100 --> 00:01:37.920
+por ambos lados, desde números a la izquierda del 2 y desde
+
+00:01:37.920 --> 00:01:41.940
+números a la derecha del 2, ¿A qué se aproxima la expresión?
+
+00:01:41.940 --> 00:01:44.630
+y creo que ya vieron hacia donde va esto y se deben
+
+00:01:44.630 --> 00:01:46.920
+de estar preguntando por qué nos estamos metiendo en el problema de aprender este
+
+00:01:46.920 --> 00:01:50.040
+nuevo concepto, porque se ve muy obvio, pero mientras x
+
+00:01:50.040 --> 00:01:53.320
+se acerca más y mas al 2 desde esta dirección y
+
+00:01:53.320 --> 00:01:55.530
+x se va acercando más y más a 2 desde esta dirección
+
+00:01:55.530 --> 00:01:58.940
+¿A qué es igual esta expresión?
+
+00:01:58.940 --> 00:02:01.670
+Bueno, es esencialmente igual a 4, correcto?
+
+00:02:01.670 --> 00:02:04.690
+La expresión es igual a 4
+
+00:02:04.690 --> 00:02:08.090
+La forma en que pienso esto es que mientras te mueves sobre la curva más cerca
+
+00:02:08.090 --> 00:02:12.390
+y más cerca al valor de la expresión, ¿cuál es el valor
+
+00:02:12.390 --> 00:02:13.500
+de la expresión?
+
+00:02:13.500 --> 00:02:14.660
+En este caso, es igual a 4.
+
+00:02:14.660 --> 00:02:17.850
+Probablemente digan, Sal, este parece un concepto
+
+00:02:17.850 --> 00:02:20.690
+inutil porque yo podría haber puesto el 2 ahí, y
+
+00:02:20.690 --> 00:02:23.850
+saber que si esto es - decir que esto es f de x, que si f de x es
+
+00:02:23.850 --> 00:02:27.590
+igual a x cuadrada, que f de 2 es igual a 4, y que
+
+00:02:27.590 --> 00:02:29.050
+habría sido una obviedad.
+
+00:02:29.050 --> 00:02:33.840
+Bueno, déjame tal vez darte un tip en esto, y probablemente
+
+00:02:33.840 --> 00:02:36.970
+empezarás a ver cual es el uso de un límite.
+
+00:02:36.970 --> 00:02:51.620
+Permíteme definir - déjame decir f de x es igual a x cuadrada
+
+00:02:51.620 --> 00:02:59.390
+cuando, si x no es igual a 2, y digamos que es igual
+
+00:02:59.390 --> 00:03:04.270
+a 3 cuando x es igual a 2.
+
+00:03:04.270 --> 00:03:04.560
+Interesante.
+
+00:03:04.560 --> 00:03:08.600
+Así que es una ligera variación de esta expresión justo aquí.
+
+00:03:08.600 --> 00:03:09.490
+Así que este es nuestro nuevo f de x.
+
+00:03:09.490 --> 00:03:10.670
+Déjame hacerte una pregunta.
+
+00:03:10.670 --> 00:03:16.300
+¿Qué es - mi pluma sigue funcionando - ¿Cuál es el límite - usé
+
+00:03:16.300 --> 00:03:23.180
+cursiva esta vez - cual es el límite cuando x - esa es una x -
+
+00:03:23.180 --> 00:03:25.580
+cuando x tiende a 2 de f de x?
+
+00:03:25.580 --> 00:03:29.590
+Esa es una x.
+
+00:03:30.210 --> 00:03:31.120
+Se dice que x tiende a 2.
+
+00:03:31.120 --> 00:03:31.800
+Es así como así.
+
+00:03:35.460 --> 00:03:39.250
+OK, déjame graficar esto ahora.
+
+00:03:39.250 --> 00:03:43.360
+Así que eso es el aspecto del gráfico de la igualdad como
+
+00:03:43.360 --> 00:03:46.100
+la que acabo de dibujar.
+
+00:03:46.100 --> 00:03:46.790
+Déjame dibujar.
+
+00:03:46.790 --> 00:03:50.100
+Ahora es casi lo mismo que esta curva, a excepción de que algo
+
+00:03:50.100 --> 00:03:52.330
+interesante sucede en x igual a 2.
+
+00:03:52.330 --> 00:03:53.715
+Es como esto.
+
+00:03:53.715 --> 00:03:58.480
+Es como una curva de x cuadrada de esa manera.
+
+00:03:58.480 --> 00:04:02.710
+Pero en x igual a 2 y f de x igual a 4,
+
+00:04:02.710 --> 00:04:04.890
+dibujamos un pequeño agujero.
+
+00:04:04.890 --> 00:04:08.050
+Dibujamos un agujero porque no está definido en x igual a 2.
+
+00:04:08.050 --> 00:04:10.320
+Esto es la x es igual a 2.
+
+00:04:10.320 --> 00:04:11.960
+Esto es 2.
+
+00:04:11.960 --> 00:04:12.680
+Esto es 4.
+
+00:04:12.680 --> 00:04:14.690
+Este es el eje f de x, por supuesto.
+
+00:04:14.690 --> 00:04:19.820
+Y cuando x es igual a 2 - digamos que ésto es 3.
+
+00:04:19.820 --> 00:04:23.860
+Cuando x es igual a 2, f de x es igual a 3.
+
+00:04:23.860 --> 00:04:25.240
+Esto es de hecho justo debajo de este.
+
+00:04:25.240 --> 00:04:27.610
+Debería -- no se ve completamente justo debajo de éste,
+
+00:04:27.610 --> 00:04:29.730
+pero creo que entiendes la imágen.
+
+00:04:29.730 --> 00:04:31.400
+Mira, esta gráfica es x cuadrada
+
+00:04:31.400 --> 00:04:35.983
+Es exactamente x cuadrado hasta que llegamos a x igual a 2.
+
+00:04:35.983 --> 00:04:40.030
+En x igual a 2, tenemos un grap - No, no un grap.
+
+00:04:40.030 --> 00:04:42.770
+Tenemos una brecha en la gráfica, que tal vez
+
+00:04:42.770 --> 00:04:44.720
+que se podría llamar un grap.
+
+00:04:44.720 --> 00:04:49.540
+Tenemos una brecha en la gráfica, y luego seguimos - y después de x
+
+00:04:49.540 --> 00:04:51.350
+es igual a 2, seguimos avanzando.
+
+00:04:51.350 --> 00:04:54.300
+Y ese vacío, y esa brecha definida justo aquí, lo que
+
+00:04:54.300 --> 00:04:55.350
+ocurre cuando x es igual a 2?
+
+00:04:55.350 --> 00:04:57.300
+Bueno, entonces f de x es igual a 3.
+
+00:04:57.300 --> 00:05:02.960
+Así que este tipo de gráfico - es igual al de x cuadrada, pero
+
+00:05:02.960 --> 00:05:08.470
+en lugar de que f de 2 sea 4, f de 2 desciende a 3, pero
+
+00:05:08.470 --> 00:05:10.260
+entonces seguimos adelante
+
+00:05:10.260 --> 00:05:12.400
+Así que volviendo al problema de límites, ¿cuál es el
+
+00:05:12.400 --> 00:05:14.880
+límite cuando x se aproxima a 2?
+
+00:05:14.880 --> 00:05:17.050
+Ahora bien, pensemos acerca de lo mismo
+
+00:05:17.050 --> 00:05:19.200
+Vamos a - así es como lo visualizo.
+
+00:05:23.130 --> 00:05:28.050
+Así en tanto que x se aproxima a 2 desde este lado, desde el lado izquierdo
+
+00:05:28.050 --> 00:05:35.200
+o desde números menores que 2, f de x se aproxima a los valores
+
+00:05:35.200 --> 00:05:40.520
+se aproxima a 4, ¿verdad? f de x se está aproximando a 4 conforme x
+
+00:05:40.520 --> 00:05:41.540
+se aproxima a 2, ¿verdad?
+
+00:05:41.540 --> 00:05:42.200
+Creo quete das cuenta de eso.
+
+00:05:42.200 --> 00:05:46.820
+Si sólo sigues por la curva, conforme te aproximas a f de 2,
+
+00:05:46.820 --> 00:05:48.420
+te acercas más y más a 4.
+
+00:05:48.420 --> 00:05:53.010
+Del mismo modo, a medida que avanza desde el lado derecho - asegúrate de que
+
+00:05:53.010 --> 00:05:54.370
+esta cosa está trabajando todavía
+
+00:05:54.370 --> 00:05:57.780
+A medida que vas desde el lado derecho, vas a lo largo de la
+
+00:05:57.780 --> 00:06:05.200
+curva, y f de x está también aproximandose lentamente a 4.
+
+00:06:05.200 --> 00:06:07.120
+Por lo tanto, como puedes ver, a medida que nos acercamos más y más y
+
+00:06:07.120 --> 00:06:11.610
+más a x es igual a 2, f de cualquier número se
+
+00:06:11.610 --> 00:06:13.540
+aproxima a 4, ¿correcto?
+
+00:06:13.540 --> 00:06:15.860
+Por lo tanto, en este caso, el límite cuando x se aproxima
+
+00:06:15.860 --> 00:06:21.130
+a 2 es igual a 4.
+
+00:06:21.130 --> 00:06:24.120
+Bueno, esto es interesante porque, en este caso, el
+
+00:06:24.120 --> 00:06:35.980
+límite cuando x se aproxima a 2 de f de x no es igual a f de 2
+
+00:06:35.980 --> 00:06:38.170
+Ahora, normalmente, esto sería en esta línea.
+
+00:06:38.170 --> 00:06:41.300
+En este caso, el límite cuando se aproxima a la expresión es
+
+00:06:41.300 --> 00:06:44.030
+igual a la evaluación de la expresión de ese valor.
+
+00:06:44.030 --> 00:06:46.450
+En este caso, el límite no lo es.
+
+00:06:46.450 --> 00:06:49.220
+Creo que ahora estamos empezando a ver por qué el límite es un
+
+00:06:49.220 --> 00:06:51.260
+concepto ligeramente diferente a la sola evaluación de la función en
+
+00:06:51.260 --> 00:06:53.770
+ese punto, ya que tienes funciones en las que, por cualquier
+
+00:06:53.770 --> 00:06:57.530
+razón en un punto determinado, ya sea que la función puede no
+
+00:06:57.530 --> 00:07:01.640
+estar definida o el tipo de función de saltos arriba o abajo, pero a medida que
+
+00:07:01.640 --> 00:07:05.370
+te aproximas a ese punto, aun te aproximas a un valor diferente
+
+00:07:05.370 --> 00:07:06.700
+al de la función en este punto.
+
+00:07:06.700 --> 00:07:08.110
+Ahora, ese es mi introducción.
+
+00:07:08.110 --> 00:07:12.020
+Creo que esto te dará una intuición de lo que es un límite.
+
+00:07:12.020 --> 00:07:14.110
+En otra presentación, te voy a dar la más formal
+
+00:07:14.110 --> 00:07:16.460
+matemáticamente, ya sabes, la definición delta-epsilon
+
+00:07:16.460 --> 00:07:17.890
+de un límite.
+
+00:07:17.890 --> 00:07:20.190
+Y, de hecho, en el módulo siguiente, ahora voy a
+
+00:07:20.190 --> 00:07:23.210
+hacer un montón de problemas que implican el límite.
+
+00:07:23.210 --> 00:07:25.510
+Creo que conforme resuelvas más y más problemas, tendrás más y
+
+00:07:25.510 --> 00:07:28.380
+más de la intuición de lo que es un límite.
+
+00:07:28.380 --> 00:07:30.490
+Y entonces a medida que vayamos penetrando en derivadas de e integrales,
+
+00:07:30.490 --> 00:07:33.350
+entenderás de hecho porqué probablemente la gente inventó
+
+00:07:33.350 --> 00:07:34.910
+los límites, para comenzar con ellos.
+
+00:07:34.910 --> 00:07:36.930
+Nos veremos en la próxima presentación.

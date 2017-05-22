@@ -1,0 +1,531 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.600 --> 00:00:06.795
+En el último video, hablamos un poco sobre
+
+00:00:06.820 --> 00:00:09.800
+Estoy hablando de una gran inversión
+
+00:00:09.800 --> 00:00:12.950
+por eso he hecho una hoja de cálculo en Excel.
+
+00:00:12.950 --> 00:00:21.163
+que está disponible en khanacademy.org/downloads/cupcake.xls
+
+00:00:21.163 --> 00:00:23.710
+Si haces click aquí, verás todo en
+
+00:00:23.710 --> 00:00:26.365
+el directorio de descarga, pero voy a empezar añadiendo más
+
+00:00:26.365 --> 00:00:27.860
+Os animo a utilizar esto.
+
+00:00:27.860 --> 00:00:30.760
+Excel fundamentalmente hará los cálculos
+
+00:00:30.760 --> 00:00:35.225
+que hicimos en el último video, la inverción en el negocio
+
+00:00:35.225 --> 00:00:39.128
+En el mundo real, una vez recibas ofertas
+
+00:00:39.128 --> 00:00:41.459
+de los contratistas y demás, resulta que
+
+00:00:41.470 --> 00:00:44.450
+La capacidad anual es un millón de pasteles al año
+
+00:00:44.450 --> 00:00:48.075
+El costo de fabricación de un pastel es... digamos , no sé, el costo
+
+00:00:48.075 --> 00:00:52.466
+Ahora que la computadora está haciendo los cálculos por mi,
+
+00:00:52.466 --> 00:00:54.680
+Así que digamos , que el precio es $ 1.05
+
+00:00:54.680 --> 00:00:58.740
+El precio de venta por pastel es de $ 2
+
+00:00:58.740 --> 00:01:00.820
+Bueno, en realidad puede ser cualquier número ¿No?
+
+00:01:00.820 --> 00:01:04.762
+El campo de entrada dice $2
+
+00:01:04.762 --> 00:01:08.915
+Asumamos que esto indica cuantos pasteles venderemos
+
+00:01:08.915 --> 00:01:13.649
+En este contexto, este es el ingreso
+
+00:01:13.649 --> 00:01:18.090
+Excel calcula que tenemos unos ingresos de 2 millones de dólares.
+
+00:01:18.090 --> 00:01:19.570
+Fijaos en lo que ocurre cuando lo cambio.
+
+00:01:19.570 --> 00:01:26.052
+Si vendo mis pasteles a $ 1.50 por cada uno,
+
+00:01:26.052 --> 00:01:28.760
+Así que solo calcula lo que nosotros queremos calcular.
+
+00:01:28.760 --> 00:01:30.340
+Esto calcula el coste de los bienes vendidos
+
+00:01:30.340 --> 00:01:33.040
+Si cambio el número de pasteles,
+
+00:01:33.040 --> 00:01:40.150
+en lugar de un millón, vendo 500,000, Excel calcula todo
+
+00:01:40.150 --> 00:01:43.040
+y en todos estos contextos, me dice cuáles son mis ingresos.
+
+00:01:43.040 --> 00:01:46.857
+Si vamos más abajo, me indica la capacidad
+
+00:01:46.880 --> 00:01:50.725
+Esto es simplemente el número de pasteles vendidos, dividido
+
+00:01:50.725 --> 00:01:53.914
+Da un 50% de productividad.
+
+00:01:53.914 --> 00:02:01.267
+Por otro lado, la rentabilidad económica consiste en dividir mi inverción, ¿cierto?
+
+00:02:01.267 --> 00:02:05.300
+Es decir, 275,000 entre 1.1 que da menos 25
+
+00:02:05.300 --> 00:02:07.610
+Esto es un mal resultado
+
+00:02:07.610 --> 00:02:10.919
+En este resultado, me doy cuenta de que
+
+00:02:10.919 --> 00:02:17.234
+para mi, como el proprietario de mi negocio, puedo cambiar el precio
+
+00:02:17.234 --> 00:02:21.245
+Obviamente, cuanto más bajo sea el precio, más personas comprarán mis pasteles
+
+00:02:21.245 --> 00:02:23.453
+y si cobro un precio más alto, menos personas
+
+00:02:23.453 --> 00:02:27.522
+De todas maneras, a veces, cuando el precio es más alto, a quienes piensen que es mejor
+
+00:02:27.522 --> 00:02:31.230
+y quieren enseñárselo a sus amigos
+
+00:02:31.230 --> 00:02:34.410
+para que vean lo caros que son los pasteles que comen y se empieza a ver como un símbolo de estatus
+
+00:02:34.410 --> 00:02:38.383
+Pero, generalmente, cuanto más bajo es un precio,
+
+00:02:38.383 --> 00:02:42.724
+Ahora podemos descubrir con qué combinaciones de precios
+
+00:02:42.724 --> 00:02:47.493
+Si vendo cada pastel a $ 1.50 y solo puedo vender
+
+00:02:47.493 --> 00:02:51.234
+vender 500,000 pasteles, tendré unas pérdidas anuales
+
+00:02:51.240 --> 00:02:57.100
+Si los vendo a $ 1.75 y vendo
+
+00:02:57.100 --> 00:03:00.570
+700,000 pasteles , estoy casi en el punto muerto
+
+00:03:00.570 --> 00:03:02.850
+Si los vendo a $ 1.85
+
+00:03:02.850 --> 00:03:04.790
+es cuando empiezo a ganar dinero
+
+00:03:04.790 --> 00:03:07.410
+obtengo una rentabilidad del 5 %
+
+00:03:07.410 --> 00:03:11.668
+Es una gran inversión
+
+00:03:11.670 --> 00:03:15.308
+Por ello quiero estar completamente seguro de todas las posibilidades
+
+00:03:15.330 --> 00:03:19.224
+Por eso he utilizado Excel para estudiar mis opciones
+
+00:03:19.224 --> 00:03:26.683
+Lo que he hecho aqui es -- voy a esa sección de la hoja de cálculo
+
+00:03:26.683 --> 00:03:29.751
+Os recomiendo que utilicéis Excel porque es muy interesante
+
+00:03:29.751 --> 00:03:33.798
+Te muestra hasta como en un negocio bastante simple. os podeis hacer muchos análisis
+
+00:03:33.798 --> 00:03:37.000
+y , si estás en secundaria o primaria, esto podría llegar a ser divertido.
+
+00:03:37.000 --> 00:03:40.137
+No sé si los dejan hacer este tipo de proyectos en ciencia
+
+00:03:40.140 --> 00:03:44.145
+Pero podéis ir a una empresa local y analizar
+
+00:03:44.150 --> 00:03:46.270
+Y si estudias los videos que hablan de probabilidad
+
+00:03:46.270 --> 00:03:49.399
+Yo muestro estas coasas en processos Poisson y cosas similares
+
+00:03:49.400 --> 00:03:51.720
+Podéis analizar la empresa y hacer hojas de Excel
+
+00:03:51.720 --> 00:03:54.520
+seguramente os acabaréis aprovechando de él pronto. Para proyectos, trabajos
+
+00:03:54.520 --> 00:03:56.740
+de matemáticas, de ingeniería...
+
+00:03:56.740 --> 00:04:00.561
+De todas maneras lo que quiero saber es cuál es mi rendimiento
+
+00:04:00.561 --> 00:04:06.172
+Esto es , mi beneficio dividido entre my
+
+00:04:06.172 --> 00:04:10.013
+inversión inicial, dependiendo de los diferentes precios
+
+00:04:10.030 --> 00:04:19.532
+Esto es un poco difícli de visualizar, así que lo he dibujado
+
+00:04:19.560 --> 00:04:28.931
+Así que como podéis ver, si vendo cada unidad a 2.80$ y solo vendo
+
+00:04:28.950 --> 00:04:32.070
+Esta curva es la curva del umbral de rentabilidad
+
+00:04:32.070 --> 00:04:33.900
+Este es el punto muerto
+
+00:04:33.900 --> 00:04:38.360
+En cualquier punto de esta curva no obtengo ni beneficios ni pérdidas
+
+00:04:38.360 --> 00:04:45.542
+S iel precio es de 2.80 $ y solo vendo 300,000 uds.
+
+00:04:45.550 --> 00:04:47.240
+Veamos, ¿qué es esto?
+
+00:04:47.240 --> 00:04:55.855
+Si el precio es de 1.60 $ y vendo 900,000 uds.
+
+00:04:55.870 --> 00:04:59.487
+Así que ésta es mi curva de punto muerto
+
+00:04:59.490 --> 00:05:05.850
+Aquí todo es negativo de acuerdo
+
+00:05:05.870 --> 00:05:10.697
+Aquí estoy perdiendo dinero y lo colorearía si
+
+00:05:10.700 --> 00:05:15.505
+Si el precio es 1.60 $ por pastel y solo vendo 400,000 uds.
+
+00:05:15.505 --> 00:05:17.038
+voy a tener un resultado negativo
+
+00:05:17.038 --> 00:05:19.692
+Lo podemos hallar en esta
+
+00:05:19.700 --> 00:05:24.026
+De todas maneras esto es divertido y os recomiendo
+
+00:05:24.040 --> 00:05:27.264
+Os muestra que Excel es algo realmente interesante y
+
+00:05:27.264 --> 00:05:29.248
+sofisticado, tenéis estas dos
+
+00:05:29.248 --> 00:05:32.430
+Esto es tan simple como lo puede ser un negocio
+
+00:05:32.430 --> 00:05:34.420
+No podéis imaginar lo que ocurre cuando empiezas a variar
+
+00:05:34.420 --> 00:05:36.500
+los parámetros, pero éstos dos son los importantes.
+
+00:05:36.500 --> 00:05:43.362
+Supongamos que cuando empiezo el negocio, quiero que todo
+
+00:05:43.380 --> 00:05:48.842
+porque pienso que cuando los prueben, se darán cuenta de que
+
+00:05:48.842 --> 00:05:51.800
+Además , he aprendido gracias a las tabacaleras
+
+00:05:51.800 --> 00:05:56.574
+a añadir nicotina a mis pasteles así
+
+00:05:56.574 --> 00:05:59.258
+Quiero vender a un precio
+
+00:05:59.258 --> 00:06:04.130
+Digamos , que el precio de salida es de 1.75 $
+
+00:06:04.130 --> 00:06:06.470
+y que se trata de un precio muy barato para pasteles
+
+00:06:06.470 --> 00:06:09.586
+No hay ningún productor de pasteles
+
+00:06:09.586 --> 00:06:14.974
+Así que vendo uno, dos, tres.
+
+00:06:14.974 --> 00:06:19.196
+Gano 200,000 $ al año, eso supone
+
+00:06:19.196 --> 00:06:21.800
+Muchos estarían contentos con este resultado pero
+
+00:06:21.800 --> 00:06:26.418
+sé que podría ganar más dinero
+
+00:06:26.440 --> 00:06:30.280
+Entonces, ¿Qué pasa si subo mi precio un poquito ?
+
+00:06:30.280 --> 00:06:33.412
+Estoy produciendo al máximo ¿No?
+
+00:06:33.430 --> 00:06:37.650
+Así que tiene sentido pensar
+
+00:06:37.650 --> 00:06:41.608
+que habrá algunas personas que quieren pasteles que no podrán conseguirlos
+
+00:06:41.608 --> 00:06:43.520
+Así que voy a subir el precio un poquito más
+
+00:06:43.520 --> 00:06:47.580
+Lo subo a 1.85 $
+
+00:06:47.580 --> 00:06:51.838
+A 1.85 $ scontinúo vendiendo un millón de
+
+00:06:51.850 --> 00:06:54.502
+Tenía razón
+
+00:06:54.502 --> 00:06:58.395
+Ahora gano 300,000$
+
+00:06:58.395 --> 00:07:00.730
+Quiero saber cuánta gente está dispuesta a pagar.
+
+00:07:00.730 --> 00:07:03.750
+Así que subo el precio a 2 $
+
+00:07:03.750 --> 00:07:07.119
+Pero, en este contexto, 2 $ empieza a ser un precio demasiado elevado
+
+00:07:07.119 --> 00:07:10.250
+Tal vez , lo mejor hubiese sido vender a 1.99$
+
+00:07:10.255 --> 00:07:15.907
+aunque no vendería un millón, sino
+
+00:07:15.930 --> 00:07:18.580
+Habrá 50,000 personas al margen
+
+00:07:18.580 --> 00:07:23.662
+que pensarán " Lo compraría a 1.85 $ pero no estoy dispuesto a
+
+00:07:23.662 --> 00:07:26.012
+Pero sigue funcionando ¿No?
+
+00:07:26.012 --> 00:07:28.550
+Aunque vendo menos cantidad de pasteles, porque los vendo
+
+00:07:28.550 --> 00:07:33.700
+a un precio más elevado, estoy consiguiendo una rentabilidad del 37 %
+
+00:07:33.700 --> 00:07:35.360
+Supongamos que sigo calculando los posibles resultados.
+
+00:07:35.360 --> 00:07:39.941
+y descubro que el precio óptimo es
+
+00:07:39.950 --> 00:07:47.091
+Con 3$ por pastel, soy capaz de
+
+00:07:47.110 --> 00:07:52.185
+y gano 962,000 $ al año y obtengo una gran
+
+00:07:52.185 --> 00:07:56.984
+Imaginaos un negocio o una inversión en la que obtengas un 88%
+
+00:07:56.990 --> 00:08:05.562
+Así que todo va bien y me compro un Bentley y la
+
+00:08:05.600 --> 00:08:08.907
+Algunas personas empezarán a pensar que lo único que
+
+00:08:08.910 --> 00:08:13.271
+y que ellas también pueden hacer pasteles y gastar algunos de sus ahorros
+
+00:08:13.271 --> 00:08:17.335
+Pensarán que eso es mejor que la bolsa
+
+00:08:17.350 --> 00:08:24.950
+Así que decidirán montar un negocio de pasteles.
+
+00:08:24.950 --> 00:08:32.062
+Aquí está la segunda hoja de cálculo
+
+00:08:32.090 --> 00:08:38.804
+Así que digamos, que ganaba 1.3 millones de dólares
+
+00:08:38.804 --> 00:08:45.136
+Lo voy a acercar un poco
+
+00:08:45.166 --> 00:08:50.602
+Así que es lo mismo. Dije $3 y 750,000 pasteles y
+
+00:08:50.602 --> 00:08:53.350
+mi costo era de $1.05 por unidad
+
+00:08:53.350 --> 00:08:55.370
+Así que estaba ganando $ 962,000
+
+00:08:55.370 --> 00:09:00.697
+Entonces Imran... Si tenéis curiosidad por saber por qué no he grabado videos estas últimas dos semanas,
+
+00:09:00.700 --> 00:09:04.350
+Imran es el nombre de mi hijo que nació hace dos semanas
+
+00:09:04.350 --> 00:09:08.824
+enfin, creo que es lógico llamar mi tienda de pasteles así
+
+00:09:08.824 --> 00:09:13.441
+Así que cuando el niño crece, y esta cansado de pedir dinero de bolsilla de su papá
+
+00:09:13.460 --> 00:09:16.080
+y que también quiere producir pasteles
+
+00:09:16.080 --> 00:09:20.800
+Él tiene bastante dinero porque su abuela se lo regaló
+
+00:09:20.800 --> 00:09:24.550
+porque lo quiere más que ha su hijo
+
+00:09:24.550 --> 00:09:27.560
+Así que él tiene 1.5 millones de dólares para invertir y piensa
+
+00:09:27.560 --> 00:09:31.555
+que lo de los pasteles es una gran inversión
+
+00:09:31.570 --> 00:09:36.182
+Él construye una fábrica capaz de producir dos millones de pasteles por año
+
+00:09:36.182 --> 00:09:41.604
+y además es una fábrica mucho más eficiente que
+
+00:09:41.604 --> 00:09:47.422
+utiliza menos electricidad y gasta menos
+
+00:09:47.430 --> 00:09:51.660
+Así que el coste por pastel es menor
+
+00:09:51.660 --> 00:09:59.398
+Así que decide poner un precio por pastel más bajo que el de su padre
+
+00:09:59.398 --> 00:10:03.210
+Y cuando los vende a 2.90 $ todo el mundo compra sus pasteles
+
+00:10:03.210 --> 00:10:05.550
+empieza a comprarle a él porque sus pasteles son tan buenos como los otros
+
+00:10:05.550 --> 00:10:06.890
+Realmente no hay una barrera
+
+00:10:06.890 --> 00:10:13.250
+Digamos que él vende 500,000 pasteles
+
+00:10:13.250 --> 00:10:19.190
+y yo solo vendo 250,000 a 3 $
+
+00:10:19.190 --> 00:10:21.510
+Solo algunas personas prefieren mis pasteles
+
+00:10:21.510 --> 00:10:27.049
+Estoy casi en el punto muerto y digo bueno
+
+00:10:27.060 --> 00:10:29.300
+Para aprovecharme , estos clientes no van a dejar de comprarme,
+
+00:10:29.300 --> 00:10:31.150
+subo los precios un poquito
+
+00:10:31.150 --> 00:10:34.180
+porque se que a estas personas les gusto
+
+00:10:34.180 --> 00:10:36.560
+Por lo menos en esta situación estoy recortando beneficios
+
+00:10:36.560 --> 00:10:39.494
+Pero entonces pienso que , no es un buen negocio
+
+00:10:39.494 --> 00:10:40.800
+Mi hijo se hizo con mi negocio.
+
+00:10:40.800 --> 00:10:44.221
+Quiero que os fijéis en lo que
+
+00:10:44.240 --> 00:10:47.620
+Estaba obteniendo una rentabilidad de activos del 88%
+
+00:10:47.620 --> 00:10:56.335
+Pero Imran entra en el mercado
+
+00:10:56.335 --> 00:10:58.732
+Él está produciendo a un 25 % de su capacidad
+
+00:10:58.732 --> 00:11:02.530
+Pero su rentabilidad se ha ido al 20%
+
+00:11:02.530 --> 00:11:06.481
+y, porque él esta en esta utilización, su rentabilidad ha bajado a 20%
+
+00:11:06.481 --> 00:11:09.400
+y mi rentabilidad se ha ido a un 1%
+
+00:11:09.400 --> 00:11:10.890
+Aquí hay algo que destacar
+
+00:11:10.890 --> 00:11:16.502
+Cuando alguien tiene mucho éxito,
+
+00:11:16.510 --> 00:11:19.250
+Atrae capacidad productiva
+
+00:11:19.250 --> 00:11:25.332
+y si hay suficiente demanda para absorver la nueva capacidad de producción
+
+00:11:25.332 --> 00:11:30.818
+En general, con el tiempo si hay una buena rentabilidad
+
+00:11:30.818 --> 00:11:32.370
+Se me ha acabado mi tiempo en el estudio.
+
+00:11:32.370 --> 00:11:35.451
+En el próximo video, hablaré más de escenarios con la competencia
+
+00:11:35.451 --> 00:11:36.700
+Hasta pronto

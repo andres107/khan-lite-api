@@ -1,0 +1,295 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:07.639
+Para cualquier número real x, permitamos que [x] represente al mayor entero que es menor o igual a x,
+
+00:00:07.639 --> 00:00:10.472
+muchas veces conocida como la función del máximo entero o mayor entero
+
+00:00:10.472 --> 00:00:16.138
+Sea f una función real definida, en el intervalo de -10 a 10, incluidos los límites
+
+00:00:16.138 --> 00:00:24.311
+por f(x)= x - [x], si el máximo entero de x([x]) es impar y
+
+00:00:24.311 --> 00:00:29.791
+1 + [x] - x si el máximo entero de x es par.
+
+00:00:29.791 --> 00:00:38.383
+Entonces, el valor de pi cuadrado más de 10 veces la integral definida desde -10 hasta 10 de f (x) cos (pi * x) dx es ...?
+
+00:00:38.383 --> 00:00:42.794
+Así que antes de siquiera tratar de evaluar esta integral, vamos a ver si al menos podemos visualizar
+
+00:00:42.794 --> 00:00:48.460
+esta función f (x) por aquí. Así que vamos a hacer nuestro mejor esfuerzo para visualizarla.
+
+00:00:48.460 --> 00:00:59.467
+Así que déjame dibujar mi eje x, y déjame sacar mi eje y. Así que déjame dibujar mi eje y.
+
+00:00:59.467 --> 00:01:03.321
+Y luego vamos a pensar en como se verá esta función.
+
+00:01:03.321 --> 00:01:10.800
+Así que este es x = 0, este es x = 0, este es x = 1, x = 2,
+
+00:01:10.800 --> 00:01:17.810
+x = 3, ... podríamos bajar a 1 negativo, 2 negativo, podríamos seguir adelante si así lo queremos;
+
+00:01:17.810 --> 00:01:22.267
+espero veamos algún tipo de patrón, ya que parece cambiar de impar a par.
+
+00:01:22.267 --> 00:01:29.792
+Así que entre cero y uno , ¿Cual es el absoluto?, ¡Oh! Perdon. ¿Cual es el mayor entero de x?
+
+00:01:29.792 --> 00:01:35.364
+Así que entre cero y uno, permitanme escribir por aquí, así que entre cero y uno,
+
+00:01:35.364 --> 00:01:39.126
+hasta que lleges a uno, quizá debería hacerlo así.
+
+00:01:39.126 --> 00:01:46.974
+desde cero (incluyendolo) , hasta uno, el máximo entero de x, el máximo entero de x, es igul a cero
+
+00:01:46.974 --> 00:01:52.965
+Si yo me encuentro en punto cinco, el máximo entero de 0.5 ([0.5]) es igual a 0.
+
+00:01:52.965 --> 00:02:02.114
+Con forme me muevo desde uno a dos, con forme me muevo desde uno a dos, el máximo, este [x] es igual a 1, este es el máximo
+
+00:02:02.114 --> 00:02:07.129
+entero..., para 1.5 el mayor entero es uno. Si estoy en 1.9, ¿el máximo entero es 1!
+
+00:02:07.129 --> 00:02:14.792
+Y entonces, si voy hacia arriba, de dos a tres, entonces si voy entre dos y tres
+
+00:02:14.792 --> 00:02:21.108
+entonces el máximo entero será dos. Si estoy en 2.5, el máximo entero será dos.
+
+00:02:21.108 --> 00:02:24.962
+Así que vamos a intentar dibujar la función sobre estos intervalos.
+
+00:02:24.962 --> 00:02:31.371
+Entre 0 y 1, el mayor entero es 0. Cero - Podríamos considerar (este) ha ser par.
+
+00:02:31.371 --> 00:02:36.804
+Cero es par, especificamente par alternación: 1 es impar, 2 es par, 3 es inmpar
+
+00:02:36.804 --> 00:02:42.145
+Así que 0 es par, así que podamos ver la circunstancia justo aquí, si [x] es par.
+
+00:02:42.145 --> 00:02:48.786
+Y entonces en este periodo de tiempo, o sobre esta parte del eje x, el máximo entero de x es sólo cero
+
+00:02:48.786 --> 00:02:57.981
+Así que la ecuación, o la línea, o la función será 1 - x para este intervalo, porque [x] = 0
+
+00:02:57.981 --> 00:03:06.805
+Así que 1 - x será como esto. Si este es 1, 1 - x entonces ira hacía abajo como esto. Esto es lo que parece
+
+00:03:06.805 --> 00:03:12.470
+de 0 a 1. Ahora piensa acerca de que sucede si vamos de 1 a 2
+
+00:03:12.470 --> 00:03:18.368
+Conforme nos movemos de 1 a 2, sin incluir a 2, pero incluyendo 1, todo el camino hacia 2, sin incluirlo
+
+00:03:18.368 --> 00:03:24.963
+el máximo entero es 1. O el máximo entero, [x] es impar.
+
+00:03:24.963 --> 00:03:30.117
+Así que usamos este caso. Y por aquí, vamos a tener x - [x].
+
+00:03:30.117 --> 00:03:37.316
+Sobre este intervalo, [x] = 1. Así que esta es la gráfica de x -1.
+
+00:03:37.316 --> 00:03:43.533
+Así x - 1 será 0, si x= 1 , y con x = 2, volvera a ser 1.
+
+00:03:43.533 --> 00:03:50.458
+Asi que será de esta forma. Será justo como esto. Así que justo aquí es x -1 y por
+
+00:03:50.458 --> 00:03:55.148
+acá esencialmente estaba 1 - x. Y podemos seguir haciendo esto. Conforme nos movemos de 2 a 3.
+
+00:03:55.148 --> 00:04:04.111
+[x] = 2, podemos mirar este caso. Así que amos a tener 1 + 2, así que tendremos 3
+
+00:04:04.111 --> 00:04:10.799
+Vamos a tener 3 aquí, menos x. Así cuando comenzamos por aquí, cuando x=2, o un poco arriba de este,
+
+00:04:10.799 --> 00:04:14.978
+vamos a tener 3 - 2, vamos a ir a 1, que va a estar justo en 1
+
+00:04:14.978 --> 00:04:20.133
+Y entonces, como x = 3, 3 - 3 = 0; Esta oscilara atrás y abajo como esto.
+
+00:04:20.133 --> 00:04:23.802
+Así que creo que tenemos una apreciación de como se vera este gráfico.
+
+00:04:23.802 --> 00:04:29.142
+Se mantiene, y se mantendrá yendo de arriba hacia abajo won una pendiente de negativa de 1 y positiva de 1.
+
+00:04:29.142 --> 00:04:34.297
+entonces 1 negativo entonces uno positivo; Se mantendra haciendolo una y otra vez,
+
+00:04:34.297 --> 00:04:38.802
+Puedes seguir probando don otros intervalos, pero es muy obvio que ese es el patron.
+
+00:04:38.802 --> 00:04:45.768
+Ahora, cual es, lo que queremos hacer es evaluar la integral de 10 a -10 de esta función por el cos(
+
+00:04:45.768 --> 00:04:51.294
+Ahora vamos a pensar acerca de cos(pi*x). Piensa si esta es también es periódica, y por supuesto que lo es
+
+00:04:51.294 --> 00:04:57.146
+Y entonces si podemos simplificar esta integral, entonces no tendremos que evaluarla sobre, sobre este periodo completo
+
+00:04:57.146 --> 00:05:01.790
+por aquí. Podría ser que podamos simplificarla dentro de una integral más simple.
+
+00:05:01.790 --> 00:05:10.800
+Así que cos(pi*x), cos(0)= 0.Coseno... perdón cos(0)=1. ¡Nadie puede tener ese equivocado!
+
+00:05:10.800 --> 00:05:22.641
+Eso es cos(pi*0) = cos(0), que es 1. Cos(pi) = -1, entonces siendo x = 1, ese se convierte en cos(pi), así que entonces
+
+00:05:22.641 --> 00:05:31.200
+el valor de la función es -1, esto será por aquí, y entonces cos(2*pi) es 1 de nuevo,
+
+00:05:31.200 --> 00:05:37.781
+Entonces se vera así. Quiero decir, por supuesto que este será, esta es una mitad, cuando la pones por aquí
+
+00:05:37.781 --> 00:05:48.648
+este se convertira en pi/2, cos(pi/2)=0, cero. Así que se verá de esta forma. Esto se verá, dejeme dibujarlo tan claro como me sea posible...
+
+00:05:48.648 --> 00:05:53.867
+Entonces se ve así. Coseno, y !entonces este seguirá así!. Y continuará de esta forma...
+
+00:05:53.867 --> 00:06:01.790
+Así que también es periódica. Así que si quicieramos encontrar, si quicieramos entoncontrar, la, la integral
+
+00:06:01.790 --> 00:06:08.292
+de el producto de estas dos funciones periódicas, en todo el trayecto desde -10 a 10, podríamos simplemente hacerlo,
+
+00:06:08.292 --> 00:06:14.700
+y parece que sólo sería, porque podemos tener este intervalo. Vamos a mirar el intervalo de aquí
+
+00:06:14.700 --> 00:06:23.106
+Vamos a mirar solamente desde 0 a 1. Así que sólo de 0 a 1, vamos a tomar está función, y tomar el
+
+00:06:23.106 --> 00:06:31.465
+producto del coseno por, escencialmente, (1 - x), y entonces encontrar el área bajo la curva, cualquiera que este sea...
+
+00:06:31.465 --> 00:06:39.639
+entonces cuando vayamos de 1 a 2, cuando nosotros tomamos el producto de este y (x-1), 
+que en realidad va a ser la
+
+00:06:39.639 --> 00:06:47.719
+misma área. Porque estos dos, irán de 0 a 1, yendo de 0 a 1, y yendo de 1 a 2, es completamente
+
+00:06:47.719 --> 00:06:52.642
+simétrico, podrías girarlo, podrías darle la vuelta sobre la línea de simetria, y en ambas funciones
+
+00:06:52.642 --> 00:06:58.467
+son completamente, son completamente, simetricas, así que tendrás la misma área cuando tomes el producto.
+
+00:06:58.467 --> 00:07:04.112
+Así que, lo que vemos es, cada intervalo, sobre cada intervalo, cuando vas desde 2 a 3, sera...
+
+00:07:04.112 --> 00:07:07.456
+Antes que todo, es claro hacia donde va, la integral de 2 a 3 es claramente la misma cosa que la integral
+
+00:07:07.456 --> 00:07:13.122
+de 0 a 1, ambas funciones parecen identicas sobre esa integral, sobrel el intervalo.
+
+00:07:13.122 --> 00:07:18.787
+Pero, tambien sera el mismo que ir desde 1 hacia 2. Porque es completamente simetrica
+
+00:07:18.787 --> 00:07:23.478
+el producto de estas funciones, esta función será completamente simétrica alrededor de los ejes. Así que la integral
+
+00:07:23.478 --> 00:07:29.533
+desde aquí hasta aquí será la misma que la integral desde allí a allí. Así que dicho esto, podemos volver a escribir
+
+00:07:29.533 --> 00:07:38.533
+esta cosa por aqui, así podriamos querer evaluar pi al cuadrado sobre 10 veces la integral desde -10 hasta 10 de
+
+00:07:38.533 --> 00:07:47.766
+f (x) cos (pi * x), usando la lógica que acabamos de hablar, esto va a ser lo mismo que ser igual
+
+00:07:47.766 --> 00:07:57.379
+a pi cuadrada sobre 10, pi cuadrada sobre 10, multiplicada por la intregral, bueno, por la integral, de, desde 0 a 1
+
+00:07:57.379 --> 00:08:04.809
+pero 20 veces eso. Porque nosotros tenemos 20 enteros entre -10 y 10. Nosotros tenemos 20 intervalos de longitud 1.
+
+00:08:04.809 --> 00:08:16.698
+Así que 20 veces, veces la integral, veces la integral, desde 0 a 1, de f(x), de f(x) cos(pi*x)dx. Alvidé
+
+00:08:16.698 --> 00:08:21.296
+escribir, olvide excrivir dx por aquí. Quiero estar seguro que lo entienden, por que es realmente
+
+00:08:21.296 --> 00:08:25.800
+la parte complicada del problema - dando cuenta de que la integral sobre este intervalo es sólo una vigésima
+
+00:08:25.800 --> 00:08:30.769
+parte del total, porque sobre cada intervalo de 0 a 1, será, la integral
+
+00:08:30.769 --> 00:08:34.810
+evaluara lo mismo que llendo de 1 a 2, lo cual será lo mismo que ir de 2 a 3,
+
+00:08:34.810 --> 00:08:39.639
+o ir desde -2 a -1, así que en lugar de hacer todo el intervalo negativo (-10), solamente
+
+00:08:39.639 --> 00:08:46.466
+haremos 20 veces el intervalo desde 0 a 1. Desde -10 to 10, se tienen en realidad 20, hay una diferencia
+
+00:08:46.466 --> 00:08:50.971
+de 20 aquí, asi que estamos multiplicando por 20. Y esto lo simplifica. Antes que todo, esta parte por
+
+00:08:50.971 --> 00:08:57.797
+aquí simplifica a 20/10 = 2. Así que 2 pi cuadrado, así que se combierte en 2 pi cuadrado- sólo esta parte
+
+00:08:57.797 --> 00:09:05.135
+por aqúi, por la integral de 0 a 1, ahora desde 0 a 1, ¿cual es f(x)? Nosotros ya la encontramos. Desde
+
+00:09:05.135 --> 00:09:18.649
+0 a 1, f(x) es sólo (1-x). f(x) es sólo (1-x) desde 0 a 1, por cos(pi<i>x), cos(pi</i>x), dx. Y ahora nosotros
+
+00:09:18.649 --> 00:09:25.200
+sólo tenemos que evaluar esta intragral justo por aquí. Así que hagamoslo. Así que (1-x) multiplicado por cos(pi*x) es lo
+
+00:09:25.200 --> 00:09:36.807
+mismo que cos(pi<i>x) - cos(pi</i>x). Ahora, esto justo aquí, tomando la anti-deriv... tomemos,
+
+00:09:36.807 --> 00:09:42.147
+vamos a tomar, bueno vamos a enfocarnos en la anti-derivada. Eso es muy fácil, pero vamos
+
+00:09:42.147 --> 00:09:48.463
+a intentar hacer esta, porque parece ser un poco más complicada. Así que tomemos la anti-derivada de
+
+00:09:48.463 --> 00:09:56.312
+x cos(pi*x)dx y lo que debe saltar en tu mente es que bueno si, esto no es tan simple, pero si yo
+
+00:09:56.312 --> 00:10:00.770
+estuviera listo para tomar la derivada de x, eso podría simplificar las cosas, es muy facil tomar la anti-derivada
+
+00:10:00.770 --> 00:10:07.132
+de cos(pi*x) sin hacerla más complicada. Así que podríamos estar integrando por partes. Y recuerden, integración
+
+00:10:07.132 --> 00:10:20.785
+por partes nos dice que la integral, que escribire aqui, la integral de u dv = uv menos la integral de v du
+
+00:10:20.785 --> 00:10:25.151
+Y aplicaremos eso aqui. Pero allí esta, he hecho muchos videos donde pruebo esto y muestro ejemplos
+
+00:10:25.151 --> 00:10:31.699
+de lo que significa exactamente. Pero vamos a aplicarlo por aquí. Y en general, vamos a tomar
+
+00:10:31.699 --> 00:10:36.714
+la derivada cualquier cosa que sea u sea. Nosotros queremos que u sea algo que sea simple cuando come su derivada
+
+00:10:36.714 --> 00:10:41.126
+Y entonces vamos a

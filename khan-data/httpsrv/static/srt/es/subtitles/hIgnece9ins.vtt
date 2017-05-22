@@ -1,0 +1,1293 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.660 --> 00:00:02.940
+Vamos a ver si podemos utilizar todo lo que sabemos acerca de
+
+00:00:02.940 --> 00:00:06.020
+diferenciación y concavidad y máximos y
+
+00:00:06.020 --> 00:00:09.760
+puntos mínimos y puntos de inflexión, para realmente gráficar una
+
+00:00:09.760 --> 00:00:12.530
+función sin utilizar una calculadora gráfica.
+
+00:00:12.530 --> 00:00:16.650
+Así que vamos a decir nuestra función, vamos a decir que f x es igual
+
+00:00:16.650 --> 00:00:27.630
+a x 3 a la cuarta menos 4 x para la tercera más 2.
+
+00:00:27.630 --> 00:00:30.850
+Y por supuesto, siempre podrías gráficar una función sólo por tratar de
+
+00:00:30.850 --> 00:00:33.370
+fuera un montón de puntos, pero queremos centrarnos en el
+
+00:00:33.370 --> 00:00:35.830
+puntos que son interesantes para nosotros y, a continuación, sólo para obtener el
+
+00:00:35.830 --> 00:00:38.240
+forma general de la función, especialmente queremos centrarnos
+
+00:00:38.240 --> 00:00:42.160
+las cosas que podemos sacar de esta función usando nuestro
+
+00:00:42.160 --> 00:00:44.930
+Kit de herramientas de cálculo, o nuestro kit de herramientas de derivados.
+
+00:00:44.930 --> 00:00:46.940
+Así que probablemente lo primero que queremos hacer, es figura
+
+00:00:46.940 --> 00:00:48.680
+los puntos críticos.
+
+00:00:48.680 --> 00:00:54.590
+Queremos averiguar, voy a escribir aquí, los puntos críticos.
+
+00:00:54.590 --> 00:00:58.520
+Y así como un repaso de lo que significa los puntos críticos, es la
+
+00:00:58.520 --> 00:01:02.320
+puntos donde la derivada de f de x es 0.
+
+00:01:02.320 --> 00:01:06.200
+Por lo que son puntos críticos f primo de x es cualquiera igual a
+
+00:01:06.200 --> 00:01:08.460
+0, o se ha definido.
+
+00:01:12.160 --> 00:01:14.610
+Esta función busca diferenciable en todas partes, por lo que
+
+00:01:14.610 --> 00:01:17.320
+los puntos críticos que nos preocupa son probablemente,
+
+00:01:17.320 --> 00:01:19.920
+Pues bien, puedo decirles, son definitivamente sólo los puntos
+
+00:01:19.920 --> 00:01:22.580
+donde prime f de x va a ser igual a 0.
+
+00:01:22.580 --> 00:01:26.620
+Este derivado, primer f de x, va a definirse realmente
+
+00:01:26.620 --> 00:01:27.840
+sobre todo el dominio.
+
+00:01:27.840 --> 00:01:31.010
+Así que vamos a realmente anote el derivado ahora.
+
+00:01:31.010 --> 00:01:36.390
+Derivado de ello, primer f de x, esto es
+
+00:01:36.390 --> 00:01:37.470
+bastante sencillo.
+
+00:01:37.470 --> 00:01:42.530
+La derivada de 3 x a la cuarta, 4 veces 3 es 12,
+
+00:01:42.530 --> 00:01:47.420
+x 12, sólo nos podrá disminuir 4 por 1, 3.
+
+00:01:47.420 --> 00:01:47.750
+¿Verdad?
+
+00:01:47.750 --> 00:01:50.910
+Sólo multiplicar veces el exponente y luego disminuir la
+
+00:01:50.910 --> 00:01:57.020
+nuevo exponente por uno menos 3 veces 4 es 12 veces, x
+
+00:01:57.020 --> 00:01:59.910
+el 1 de menos de 3 es 2.
+
+00:01:59.910 --> 00:02:02.990
+Y, a continuación, la derivada de una constante, la pendiente de
+
+00:02:02.990 --> 00:02:04.810
+una constante, casi podía imaginar, es cero.
+
+00:02:04.810 --> 00:02:05.600
+No está cambiando.
+
+00:02:05.600 --> 00:02:07.350
+Una constante, por definición, no está cambiando.
+
+00:02:07.350 --> 00:02:08.884
+Por lo es primo de f x.
+
+00:02:08.884 --> 00:02:11.230
+Así que vamos a averiguar los puntos críticos.
+
+00:02:11.230 --> 00:02:13.750
+Los puntos críticos son donde esta cosa es ir a
+
+00:02:13.750 --> 00:02:16.270
+ser igual a 0, o es indefinido.
+
+00:02:16.270 --> 00:02:18.930
+Ahora, puedo mirar sobre todo el dominio de los números reales, y
+
+00:02:18.930 --> 00:02:20.610
+esta cosa se define prácticamente en cualquier lugar.
+
+00:02:20.610 --> 00:02:22.970
+Pude poner cualquier número aquí, y no va a estallar.
+
+00:02:22.970 --> 00:02:26.720
+Va a darme una respuesta a lo que es la función.
+
+00:02:26.720 --> 00:02:28.680
+Por lo que ha definido en todas partes, así que vamos a
+
+00:02:28.680 --> 00:02:30.400
+sólo averiguar donde es igual a 0.
+
+00:02:30.400 --> 00:02:35.300
+Por lo tanto primer f de x es igual a 0.
+
+00:02:35.300 --> 00:02:38.670
+Así que vamos a resolver, que x es, vamos a resolver--no tengo
+
+00:02:38.670 --> 00:02:41.130
+volver a escribir, sólo escribí.
+
+00:02:41.130 --> 00:02:43.570
+Vamos a resolver para cuando esto es igual a 0.
+
+00:02:43.570 --> 00:02:45.350
+Y podrá hacerlo en el mismo color.
+
+00:02:45.350 --> 00:02:56.980
+Para que x 12 para el tercero menos 12 x al cuadrado es igual a 0.
+
+00:02:56.980 --> 00:02:59.530
+Y así vamos a lo que podemos hacer para solucionar esto.
+
+00:02:59.530 --> 00:03:01.860
+Nosotros podríamos factor fuera una x 12.
+
+00:03:01.860 --> 00:03:07.830
+Así que si tenemos un factor fuera una x 12, entonces este término se convierte en justa x,
+
+00:03:07.830 --> 00:03:11.450
+y entonces--en realidad, vamos a factor fuera una x 12 cuadrado.
+
+00:03:11.450 --> 00:03:12.900
+Factor de fuera una x 12 al cuadrado.
+
+00:03:12.900 --> 00:03:15.500
+Si dividimos ambos por 12 x al cuadrado, este término sólo
+
+00:03:15.500 --> 00:03:19.990
+se convierte en una x y, a continuación, menos 12 x cuadrado dividido por 12 x
+
+00:03:19.990 --> 00:03:22.650
+cuadrado es 1, es igual a 0.
+
+00:03:22.650 --> 00:03:24.680
+Sólo reescribió esta cosa superior como esta.
+
+00:03:24.680 --> 00:03:25.370
+Podría ir al revés.
+
+00:03:25.370 --> 00:03:28.420
+Si distribuye esta x 12 cuadrado veces este completo
+
+00:03:28.420 --> 00:03:31.870
+cantidad, obtendría mi derivado allí.
+
+00:03:31.870 --> 00:03:36.530
+Así la razón por qué hicieron eso es porque, para resolver de 0, o si
+
+00:03:36.530 --> 00:03:41.530
+Quiero que todos los que hacen esta ecuación igual a 0, x
+
+00:03:41.530 --> 00:03:43.960
+han escrito en un formulario donde yo estoy multiplicando uno
+
+00:03:43.960 --> 00:03:46.250
+lo que por otra cosa.
+
+00:03:46.250 --> 00:03:49.960
+Y para que esto sea 0, uno o ambos de estos
+
+00:03:49.960 --> 00:03:51.480
+las cosas deben ser iguales a 0.
+
+00:03:51.480 --> 00:03:55.920
+Por lo que 12 x al cuadrado es igual a 0, lo que significa que x es igual
+
+00:03:55.920 --> 00:03:58.750
+0 hará que esta cantidad es igual a 0.
+
+00:03:58.750 --> 00:04:01.255
+Y la otra cosa que haría esta cantidad 0 es si
+
+00:04:01.255 --> 00:04:04.100
+x menos 1 es igual a 0.
+
+00:04:04.100 --> 00:04:08.050
+Tan x menos 1 es igual a 0 cuando x es igual a 1.
+
+00:04:08.050 --> 00:04:10.510
+Así que estas son 2 puntos críticos.
+
+00:04:10.510 --> 00:04:14.560
+Nuestros 2 puntos críticos son x es igual a 0 y x es igual a 1.
+
+00:04:14.560 --> 00:04:18.190
+Y recuerde, estos son sólo los puntos donde nuestro primer
+
+00:04:18.190 --> 00:04:20.050
+derivada es igual a 0.
+
+00:04:20.050 --> 00:04:22.280
+Si la pendiente es 0.
+
+00:04:22.280 --> 00:04:25.560
+Podrían ser puntos máximos, podrían ser puntos mínimos,
+
+00:04:25.560 --> 00:04:27.400
+que podrían ser puntos de inflexión, no sabemos.
+
+00:04:27.400 --> 00:04:29.850
+Sean, ya saben, si se trata de una función constante,
+
+00:04:29.850 --> 00:04:31.590
+sólo podría ser cualquier cosa.
+
+00:04:31.590 --> 00:04:34.690
+Por lo tanto, realmente no podemos decir mucho sobre ellos todavía, pero ellos
+
+00:04:34.690 --> 00:04:36.300
+son puntos de interés.
+
+00:04:36.300 --> 00:04:37.580
+Supongo que es todo lo que podemos decir.
+
+00:04:37.580 --> 00:04:39.340
+Que sin duda son puntos de interés.
+
+00:04:39.340 --> 00:04:41.450
+Pero vamos a seguir adelante y vamos a tratar de comprender el
+
+00:04:41.450 --> 00:04:43.520
+concativity y quizás nosotros podemos conseguir un mejor sentido
+
+00:04:43.520 --> 00:04:45.260
+de este gráfico.
+
+00:04:45.260 --> 00:04:49.980
+Así que vamos a averiguar la segunda derivada.
+
+00:04:49.980 --> 00:04:53.540
+Podrá hacerlo en este color naranja.
+
+00:04:53.540 --> 00:04:59.320
+Así que la segunda derivada de mi función, vamos a ver, 3 veces
+
+00:04:59.320 --> 00:05:05.590
+12 es 36 x al cuadrado menos x 24.
+
+00:05:08.380 --> 00:05:09.220
+Así que vamos a ver.
+
+00:05:09.220 --> 00:05:10.570
+Bueno, hay un par de cosas que podemos hacer.
+
+00:05:10.570 --> 00:05:13.290
+Ahora que conocemos la segunda derivada, podemos responder a la
+
+00:05:13.290 --> 00:05:16.890
+la pregunta, es mi gráfico cóncava hacia arriba o hacia abajo en
+
+00:05:16.890 --> 00:05:18.300
+¿cualquiera de estos puntos?
+
+00:05:18.300 --> 00:05:20.270
+Así que vamos a averiguar lo que, en cualquiera de estos
+
+00:05:20.270 --> 00:05:21.780
+puntos críticos.
+
+00:05:21.780 --> 00:05:23.010
+Y lo voy todos encajan entre sí.
+
+00:05:23.010 --> 00:05:25.140
+Recuerde que si es cóncava hacia arriba, entonces estamos
+
+00:05:25.140 --> 00:05:26.340
+tipo de en forma de U.
+
+00:05:26.340 --> 00:05:29.370
+Si es cóncava hacia abajo, entonces estamos en una especie de
+
+00:05:29.370 --> 00:05:30.850
+forma de u invertida.
+
+00:05:30.850 --> 00:05:34.400
+F primo primer, nuestra segunda derivada, x es igual
+
+00:05:34.400 --> 00:05:36.800
+¿0, es igual a qué?
+
+00:05:36.800 --> 00:05:40.530
+Es igual a 36 0 cuadrado menos 24 veces 0.
+
+00:05:40.530 --> 00:05:42.350
+Eso es sólo 0.
+
+00:05:42.350 --> 00:05:45.210
+Primer primo f es apenas igual a 0.
+
+00:05:45.210 --> 00:05:49.120
+Estamos cóncavo hacia arriba ni cóncavo hacia abajo aquí.
+
+00:05:49.120 --> 00:05:50.420
+Podría ser un punto de transición.
+
+00:05:50.420 --> 00:05:50.990
+No puede.
+
+00:05:50.990 --> 00:05:52.850
+Si es un punto de transición, entonces estamos tratando con
+
+00:05:52.850 --> 00:05:53.620
+un punto de inflexión.
+
+00:05:53.620 --> 00:05:55.190
+No estamos seguros todavía.
+
+00:05:55.190 --> 00:05:57.910
+Ahora vamos a ver qué primer primo f, nuestra segunda derivada,
+
+00:05:57.910 --> 00:06:00.190
+evalúan en 1 es.
+
+00:06:00.190 --> 00:06:03.580
+Eso es 1 36 veces, déjame escribir, que es igual
+
+00:06:03.580 --> 00:06:11.910
+a veces 36 1 cuadrado, que es 36, menos 1 24 veces.
+
+00:06:11.910 --> 00:06:16.650
+Por eso, 36 24 menos, por lo que es igual a 12.
+
+00:06:16.650 --> 00:06:20.150
+Así que esto es positivo, nuestra segunda derivada es positiva aquí.
+
+00:06:20.150 --> 00:06:22.880
+Es igual a 12, lo que significa nuestra primera derivada,
+
+00:06:22.880 --> 00:06:24.500
+nuestro pendiente está aumentando.
+
+00:06:24.500 --> 00:06:26.950
+La tasa de cambio de nuestro pendiente aquí es positiva.
+
+00:06:26.950 --> 00:06:30.945
+Así que en este momento justo aquí, somos cóncavas hacia arriba.
+
+00:06:34.020 --> 00:06:36.200
+Que me dice que este es probablemente un mínimo
+
+00:06:36.200 --> 00:06:36.770
+¿punto, correcto?
+
+00:06:36.770 --> 00:06:40.550
+La pendiente es 0 aquí, pero estamos cóncavas hacia arriba en ese momento.
+
+00:06:40.550 --> 00:06:41.880
+Eso es interesante.
+
+00:06:41.880 --> 00:06:43.920
+Así que vamos a ver si hay cualquier otro potencial
+
+00:06:43.920 --> 00:06:44.780
+puntos de inflexión aquí.
+
+00:06:44.780 --> 00:06:49.460
+Ya sabemos que esto es un posible punto de inflexión.
+
+00:06:49.460 --> 00:06:50.680
+Permítanme círculo en rojo.
+
+00:06:50.680 --> 00:06:52.640
+Es un posible punto de inflexión.
+
+00:06:52.640 --> 00:06:54.830
+No sabemos si nuestra función realmente
+
+00:06:54.830 --> 00:06:55.970
+transiciones en ese momento.
+
+00:06:55.970 --> 00:06:58.310
+Tendremos que experimentar un poco para ver si
+
+00:06:58.310 --> 00:06:59.130
+es realmente el caso.
+
+00:06:59.130 --> 00:07:02.860
+Pero vamos a ver si hay cualquier otro flexión puntos, o
+
+00:07:02.860 --> 00:07:04.140
+posibles puntos de inflexión.
+
+00:07:04.140 --> 00:07:07.050
+Así que vamos a ver si esto es igual a 0 en cualquier otro lugar.
+
+00:07:07.050 --> 00:07:11.790
+24 X 36 x al cuadrado menos es igual a 0.
+
+00:07:11.790 --> 00:07:13.240
+Vamos a resolver para x.
+
+00:07:13.240 --> 00:07:17.780
+Permítanos factor, bien, nosotros podemos factor fuera x 12.
+
+00:07:17.780 --> 00:07:25.070
+x 12 veces x 3, derecho, x 3 veces x 12 es 36 x al cuadrado,
+
+00:07:25.070 --> 00:07:28.560
+menos 2, es igual a 0.
+
+00:07:28.560 --> 00:07:31.090
+Así que estos dos son expresiones equivalentes.
+
+00:07:31.090 --> 00:07:33.520
+Si se multiplica este, obtendrá esta cosa aquí.
+
+00:07:33.520 --> 00:07:36.510
+Así que esta cosa va a ser igual a 0, o bien si 12 x es
+
+00:07:36.510 --> 00:07:39.710
+igual a 0, por lo que 12 x es igual a cero, nos da
+
+00:07:39.710 --> 00:07:41.240
+x es igual a cero.
+
+00:07:41.240 --> 00:07:43.880
+Así en x es igual a 0, esta cosa es igual a 0.
+
+00:07:43.880 --> 00:07:46.850
+La segunda derivada es 0 allí, así que ya sabíamos
+
+00:07:46.850 --> 00:07:48.690
+que, debido a que hemos probado que fuera número.
+
+00:07:48.690 --> 00:07:52.180
+O esta cosa, si esta expresión es 0, entonces la
+
+00:07:52.180 --> 00:07:54.970
+toda segunda derivada también sería cero.
+
+00:07:54.970 --> 00:07:55.740
+Así que vamos a escribir.
+
+00:07:55.740 --> 00:08:03.090
+3 X menos 2 es igual a 0, 3 x es igual a 2, solo agregando 2 a
+
+00:08:03.090 --> 00:08:07.280
+ambas partes, 3 x es igual a 2/3.
+
+00:08:07.280 --> 00:08:11.310
+Así que esto es otro punto interesante que realmente no disponemos
+
+00:08:11.310 --> 00:08:14.050
+golpeó a antes de podría ser un punto de inflexión.
+
+00:08:14.050 --> 00:08:15.620
+La razón por qué podría ser, es porque la
+
+00:08:15.620 --> 00:08:18.330
+segunda derivada es definitivamente aquí 0.
+
+00:08:18.330 --> 00:08:20.580
+Pones 2/3 aquí, vas a conseguir el 0.
+
+00:08:20.580 --> 00:08:22.830
+Así que lo que tenemos que hacer es ver si la segunda derivada
+
+00:08:22.830 --> 00:08:28.050
+es positivo o negativo en ambos lados de 2/3.
+
+00:08:28.050 --> 00:08:29.200
+Ya tenemos la sensación de.
+
+00:08:29.200 --> 00:08:31.540
+Es decir, nosotros podríamos probar un par de números.
+
+00:08:31.540 --> 00:08:37.210
+Sabemos que, usted sabe, si decimos que x es mayor que 2/3.
+
+00:08:37.210 --> 00:08:38.690
+Permítanme que baje un poco, tan
+
+00:08:38.690 --> 00:08:40.420
+tenemos algo de espacio.
+
+00:08:40.420 --> 00:08:50.410
+Así que vamos a ver qué pasa cuando x es mayor que 2/3,
+
+00:08:50.410 --> 00:08:51.580
+¿Qué es primer primo de f?
+
+00:08:51.580 --> 00:08:53.470
+¿Qué es la segunda derivada?
+
+00:08:53.470 --> 00:08:55.900
+Así que vamos a probar un valor que está bastante cercano, sólo
+
+00:08:55.900 --> 00:08:59.020
+para obtener un sentido de las cosas.
+
+00:08:59.020 --> 00:09:04.190
+Así que permítanme reescribirla. primer primo f de x es igual a,
+
+00:09:04.190 --> 00:09:05.080
+me permito escribir como este.
+
+00:09:05.080 --> 00:09:06.550
+Quiero decir, podría escribir así, pero esto podría ser
+
+00:09:06.550 --> 00:09:07.490
+fáciles de tratar.
+
+00:09:07.490 --> 00:09:13.030
+Es igual a x 12 veces x 3 menos 2.
+
+00:09:13.030 --> 00:09:16.790
+Así que si x es mayor que 2/3, este término es
+
+00:09:16.790 --> 00:09:18.270
+va a ser positivo.
+
+00:09:18.270 --> 00:09:21.240
+Definitivamente, es cualquier número positivo momento 12
+
+00:09:21.240 --> 00:09:22.560
+va a ser positivo.
+
+00:09:22.560 --> 00:09:25.390
+Pero ¿qué pasa con este término, derecho aquí?
+
+00:09:25.390 --> 00:09:29.270
+¿3 veces 2 de menos de 2/3 es exactamente 0, correcto?
+
+00:09:29.270 --> 00:09:30.490
+Eso es 2 menos 2.
+
+00:09:30.490 --> 00:09:33.270
+Pero nada más grande que el, 3 veces, ya sabes, si tuviera
+
+00:09:33.270 --> 00:09:38.670
+2.1/3, esto va a ser una cantidad positiva.
+
+00:09:38.670 --> 00:09:41.670
+Cualquier valor superior a 2/3 x hará esta cosa
+
+00:09:41.670 --> 00:09:43.580
+positivo aquí.
+
+00:09:43.580 --> 00:09:44.400
+¿Verdad?
+
+00:09:44.400 --> 00:09:46.670
+Esto también va a ser positivo.
+
+00:09:46.670 --> 00:09:50.250
+Por lo que significa que cuando x es mayor que 2/3, que
+
+00:09:50.250 --> 00:09:54.700
+nos dice que la segunda derivada es positiva.
+
+00:09:54.700 --> 00:09:56.800
+Es mayor que 0.
+
+00:09:56.800 --> 00:10:00.530
+En nuestro dominio, siempre y cuando x es mayor que 2/3,
+
+00:10:00.530 --> 00:10:02.110
+Somos cóncavas hacia arriba.
+
+00:10:02.110 --> 00:10:05.200
+Y vimos que aquí, en x es igual a 1.
+
+00:10:05.200 --> 00:10:06.840
+Estábamos cóncavas hacia arriba.
+
+00:10:06.840 --> 00:10:10.240
+Pero, ¿x es inferior a 2/3?
+
+00:10:10.240 --> 00:10:13.540
+Así que cuando x es inferior a 2/3, permítanme escribirlo, déjame
+
+00:10:13.540 --> 00:10:15.720
+Desplácese hacia abajo un poco.
+
+00:10:15.720 --> 00:10:19.170
+¿Cuando x es inferior a 2/3, lo que está sucediendo?
+
+00:10:19.170 --> 00:10:20.320
+Te reescribirla.
+
+00:10:20.320 --> 00:10:22.500
+f primo primo de x, la segunda derivada,
+
+00:10:22.500 --> 00:10:27.000
+x 12 veces x 3 menos 2.
+
+00:10:27.000 --> 00:10:30.020
+Bueno, si nos vamos ahora realmente dejó, vamos a obtener un negativo
+
+00:10:30.020 --> 00:10:31.230
+número aquí y esto podrían ser [UNINTELLIGIBLE].
+
+00:10:31.230 --> 00:10:35.020
+Pero si nosotros solo ir a la derecha por debajo de 2/3, cuando todavía estamos
+
+00:10:35.020 --> 00:10:36.700
+en el dominio positivo.
+
+00:10:36.700 --> 00:10:41.250
+Así que si esto era como 1,9/3, que es una mezcla de un decimal y
+
+00:10:41.250 --> 00:10:43.640
+una fracción o incluso 1/3, esta cosa va todavía
+
+00:10:43.640 --> 00:10:44.810
+a ser positivo.
+
+00:10:44.810 --> 00:10:47.910
+Justo por debajo de 2/3, esto todavía va a ser positivo.
+
+00:10:47.910 --> 00:10:50.265
+Vamos a ser multiplicar 12 por un número positivo.
+
+00:10:50.265 --> 00:10:53.310
+¿Pero lo que está pasando aquí?
+
+00:10:55.850 --> 00:10:57.760
+En 2/3, estamos exactamente 0.
+
+00:10:57.760 --> 00:11:00.700
+Pero como vas a algo menos de 2 por 3, 3
+
+00:11:00.700 --> 00:11:02.230
+veces 1/3 es sólo 1.
+
+00:11:02.230 --> 00:11:04.820
+1 menos 2, vas a obtener números negativos.
+
+00:11:04.820 --> 00:11:07.280
+Así que cuando x es inferior a 2/3, esto aquí es
+
+00:11:07.280 --> 00:11:09.290
+va a ser negativo.
+
+00:11:09.290 --> 00:11:13.480
+Así que la segunda derivada, si x es inferior a 2/3, la segunda
+
+00:11:13.480 --> 00:11:16.370
+derivados, el derecho a la izquierda, justo cuando vas menos de
+
+00:11:16.370 --> 00:11:20.270
+2/3, los segundos derivada de x es menor que 0.
+
+00:11:20.270 --> 00:11:23.690
+Ahora el hecho de que tengamos esta transición, desde cuando estamos
+
+00:11:23.690 --> 00:11:28.115
+menos de 2 por 3, tenemos un segundo negativo derivado, y
+
+00:11:28.115 --> 00:11:30.340
+cuando estamos superiores a 2/3, tenemos un segundo positivo
+
+00:11:30.340 --> 00:11:34.300
+derivado, que nos dice que, de hecho, es un
+
+00:11:34.300 --> 00:11:36.800
+punto de inflexión.
+
+00:11:36.800 --> 00:11:40.240
+Que x es igual a 2/3 tercios es definitivamente una flexión
+
+00:11:40.240 --> 00:11:43.940
+punto para nuestra función original hasta aquí.
+
+00:11:43.940 --> 00:11:47.180
+Ahora, tenemos un punto más de inflexión candidato y luego
+
+00:11:47.180 --> 00:11:48.210
+Estamos listos para el gráfico.
+
+00:11:48.210 --> 00:11:49.970
+A continuación, usted sabe, una vez que lo hacen todos los puntos de inflexión y el
+
+00:11:49.970 --> 00:11:53.700
+máximo y el mínimo, estás listo para la función de la gráfica.
+
+00:11:53.700 --> 00:11:56.460
+Así que vamos a ver si x es igual a 0 es un punto de inflexión.
+
+00:11:56.460 --> 00:11:59.520
+Sabemos que la segunda derivada es 0 a 0.
+
+00:11:59.520 --> 00:12:02.380
+¿Pero lo que pasa por encima y por debajo de la segunda derivada?
+
+00:12:02.380 --> 00:12:04.670
+Así que permítanme hacer nuestra prueba poco aquí.
+
+00:12:04.670 --> 00:12:09.310
+Así que cuando x es, permítanme dibujar una línea para no confundirse
+
+00:12:09.310 --> 00:12:12.070
+con todas las cosas que escribí aquí.
+
+00:12:12.070 --> 00:12:16.400
+Así que cuando x es mayor que 0, lo que está sucediendo en
+
+00:12:16.400 --> 00:12:17.840
+¿la segunda derivada?
+
+00:12:17.840 --> 00:12:21.850
+Recuerde, la segunda derivada es igual a
+
+00:12:21.850 --> 00:12:24.790
+x 12 veces x 3 menos 2.
+
+00:12:24.790 --> 00:12:27.010
+Me gusta escribirlo de esta forma, porque tienes que tipo de
+
+00:12:27.010 --> 00:12:29.830
+descomponer en dos expresiones lineales, y se podían ver
+
+00:12:29.830 --> 00:12:32.030
+cada uno de ellos sean positivos o negativos.
+
+00:12:32.030 --> 00:12:35.720
+Así que si x es mayor que 0, esto aquí es definitivamente
+
+00:12:35.720 --> 00:12:39.900
+va a ser positivo y entonces esta cosa aquí, derecho
+
+00:12:39.900 --> 00:12:42.820
+cuando vas derecho por encima de x es mayor que 0, lo que tenemos que
+
+00:12:42.820 --> 00:12:45.810
+¿Asegúrese de estar muy cerca de este número, correcto?
+
+00:12:45.810 --> 00:12:50.360
+Este número, vamos a decir que es 0,1.
+
+00:12:50.360 --> 00:12:52.070
+Tienes razón por encima de 0.
+
+00:12:52.070 --> 00:12:54.260
+Así que esto no va a ser verdad para todos de x mayor que 0.
+
+00:12:54.260 --> 00:12:56.000
+Sólo queremos comprobar exactamente lo que sucede, justo cuando
+
+00:12:56.000 --> 00:12:57.920
+vamos derecho por encima de 0.
+
+00:12:57.920 --> 00:12:59.020
+Esto es 0.1.
+
+00:12:59.020 --> 00:13:02.080
+Tendrías 0,3, 0.3 menos 2, que sería un
+
+00:13:02.080 --> 00:13:03.520
+¿número negativo, correcto?
+
+00:13:03.520 --> 00:13:06.470
+Tan bien como x va derecho por encima de 0, esta cosa
+
+00:13:06.470 --> 00:13:08.410
+justo aquí es negativo.
+
+00:13:08.410 --> 00:13:12.630
+Así en x es mayor que 0, tendrá su segunda
+
+00:13:12.630 --> 00:13:15.250
+derivado va a ser menor que 0.
+
+00:13:15.250 --> 00:13:17.010
+Eres cóncava hacia abajo.
+
+00:13:17.010 --> 00:13:19.530
+Que tiene sentido, porque en algún momento, vamos a
+
+00:13:19.530 --> 00:13:20.900
+estar golpeando una transición.
+
+00:13:20.900 --> 00:13:23.430
+Recuerde que estábamos cóncavas hacia abajo antes de que
+
+00:13:23.430 --> 00:13:25.250
+¿llegué a 2/3, correcto?
+
+00:13:25.250 --> 00:13:26.400
+Esto es coherente.
+
+00:13:26.400 --> 00:13:30.580
+De 0 a 2/3, somos cóncavas hacia abajo y luego en 2/3,
+
+00:13:30.580 --> 00:13:32.540
+nos convertimos en cóncavas hacia arriba.
+
+00:13:32.540 --> 00:13:38.390
+Ahora veamos qué ocurre cuando x es menos que, cuando x
+
+00:13:38.390 --> 00:13:42.400
+es apenas, apenas inferior a 0.
+
+00:13:42.400 --> 00:13:45.520
+Así que una vez más, primer f, la segunda derivitive de x es igual
+
+00:13:45.520 --> 00:13:49.030
+x 12 veces x 3 menos 2.
+
+00:13:49.030 --> 00:13:49.590
+Bueno, derecha.
+
+00:13:49.590 --> 00:13:54.830
+Si x fue menos 0,1 o 0,0001, pase lo que pase, esto es
+
+00:13:54.830 --> 00:13:57.470
+va a ser negativo, esta expresión aquí va
+
+00:13:57.470 --> 00:14:01.410
+a ser negativo, el x 12, derecho, solo tienen algunos negativos
+
+00:14:01.410 --> 00:14:03.910
+valor aquí, multiplicado por 12, va a ser negativo.
+
+00:14:03.910 --> 00:14:05.940
+Y entonces ¿qué es este va a ser?
+
+00:14:05.940 --> 00:14:10.000
+Así, 3 veces menos 0,1 va a ser menos 0.3,
+
+00:14:10.000 --> 00:14:12.090
+menos 2 es menos 2.3.
+
+00:14:12.090 --> 00:14:13.250
+Definitivamente va a tener un resultado negativo.
+
+00:14:13.250 --> 00:14:15.363
+Este valor correcto aquí va a ser negativo y entonces cuando
+
+00:14:15.363 --> 00:14:17.075
+restar de una negativa, definitivamente va
+
+00:14:17.075 --> 00:14:18.120
+a ser negativo.
+
+00:14:18.120 --> 00:14:20.270
+Por lo que también va a ser negativo.
+
+00:14:20.270 --> 00:14:22.090
+Pero si se multiplica un negativo veces negativo, estás
+
+00:14:22.090 --> 00:14:23.290
+vamos a sacar un positivo.
+
+00:14:23.290 --> 00:14:27.660
+De hecho, derecho por debajo de x es menor que 0, el segundo
+
+00:14:27.660 --> 00:14:28.455
+derivada es positiva.
+
+00:14:32.420 --> 00:14:35.140
+Ahora, todo esto podría haber sido un poco confuso, pero nos
+
+00:14:35.140 --> 00:14:37.120
+Ahora debería tener la recompensa.
+
+00:14:37.120 --> 00:14:38.390
+Ahora tenemos la recompensa.
+
+00:14:38.390 --> 00:14:41.050
+Tenemos todas las cosas interesantes sucediendo.
+
+00:14:41.050 --> 00:14:46.060
+Sabemos que x es igual a 1, sabemos que x es igual
+
+00:14:46.060 --> 00:14:48.690
+1, déjame escribir aquí.
+
+00:14:48.690 --> 00:14:55.106
+Nos hemos imaginado en x es igual a 1, la pendiente es 0.
+
+00:14:55.106 --> 00:14:59.840
+Primer primo f es, lo siento, me permito escribir de esta manera.
+
+00:14:59.840 --> 00:15:03.500
+Yo debo haber dicho, sabemos que la pendiente es 0.
+
+00:15:03.500 --> 00:15:04.670
+Pendiente es igual a 0.
+
+00:15:04.670 --> 00:15:07.020
+Y averiguamos porque la primera derivada es 0.
+
+00:15:07.020 --> 00:15:09.000
+Se trata de un punto crítico.
+
+00:15:09.000 --> 00:15:12.860
+Y sabemos que nos estamos ocupando de la función es cóncava
+
+00:15:12.860 --> 00:15:14.860
+hacia arriba en este punto.
+
+00:15:14.860 --> 00:15:17.740
+Y eso nos dice que esto va a ser un punto mínimo.
+
+00:15:21.100 --> 00:15:22.520
+Y realmente debemos obtener las coordenadas lo
+
+00:15:22.520 --> 00:15:23.390
+realmente puede gráfico.
+
+00:15:23.390 --> 00:15:24.980
+Fue el objetivo de este video.
+
+00:15:24.980 --> 00:15:29.600
+¿Así que f de 1 es igual a qué?
+
+00:15:29.600 --> 00:15:33.510
+f 1, volvamos a nuestra función original es 3 veces
+
+00:15:33.510 --> 00:15:38.190
+1, a la derecha, 1 para el cuarto es sólo 1, 1 3 veces menos
+
+00:15:38.190 --> 00:15:40.810
+4 y 2, verdad?
+
+00:15:40.810 --> 00:15:47.510
+Por lo tanto es 3 veces 1 menos 1 4 veces, que es menos 1 y 2,
+
+00:15:47.510 --> 00:15:48.930
+bueno, eso es simplemente un positivo 1.
+
+00:15:48.930 --> 00:15:50.920
+Así que f 1 es uno.
+
+00:15:50.920 --> 00:15:56.420
+Y, a continuación, sabemos en x es igual a 0, también averiguamos que
+
+00:15:56.420 --> 00:15:59.260
+la pendiente es igual a 0.
+
+00:15:59.260 --> 00:16:02.020
+¿Pero averiguamos que esto fue un punto de inflexión, correcto?
+
+00:16:02.020 --> 00:16:05.040
+El concativity cambia antes y después.
+
+00:16:05.040 --> 00:16:06.510
+Este es un punto de inflexión.
+
+00:16:10.080 --> 00:16:15.700
+Y somos cóncavas por debajo de 0, cuando x es menor
+
+00:16:15.700 --> 00:16:17.535
+a 0, estamos arriba.
+
+00:16:20.040 --> 00:16:22.180
+Nuestra segunda derivada es positiva.
+
+00:16:22.180 --> 00:16:25.250
+Y cuando x es mayor que 0, estamos abajo.
+
+00:16:25.250 --> 00:16:26.420
+Estamos cóncavas hacia abajo.
+
+00:16:26.420 --> 00:16:28.400
+Derecho supra, no para todos los [? dominio?]
+
+00:16:28.400 --> 00:16:32.760
+x y 0, justo por encima de 0, hacia abajo.
+
+00:16:32.760 --> 00:16:35.520
+Y entonces ¿qué es f 0, solo, por lo que sabemos, porque nos
+
+00:16:35.520 --> 00:16:37.660
+¿quieres gráfico ese punto?
+
+00:16:37.660 --> 00:16:39.960
+f 0.
+
+00:16:39.960 --> 00:16:41.620
+Véase, f de 0, esto es fácil.
+
+00:16:41.620 --> 00:16:45.380
+0 3 veces menos 4 veces 0 más 2, que sólo 2.
+
+00:16:45.380 --> 00:16:48.080
+f 0 es 2.
+
+00:16:48.080 --> 00:16:50.630
+Y entonces finalmente llegamos al punto, x es igual a 2/3.
+
+00:16:53.270 --> 00:16:56.420
+Permítanme hacer eso en otro color.
+
+00:16:56.420 --> 00:17:00.970
+Teníamos el punto x es igual a 2/3.
+
+00:17:00.970 --> 00:17:05.670
+Averiguamos que este era un punto de inflexión.
+
+00:17:05.670 --> 00:17:09.670
+La vertiente definitivamente no es 0, porque no era una
+
+00:17:09.670 --> 00:17:11.740
+de los puntos críticos.
+
+00:17:11.740 --> 00:17:15.390
+Y sabemos que estamos abajo.
+
+00:17:15.390 --> 00:17:19.210
+Sabemos que cuando x es inferior a 2/3, o derecha inferior
+
+00:17:19.210 --> 00:17:22.100
+2/3, somos cóncavas hacia abajo.
+
+00:17:22.100 --> 00:17:27.120
+Y cuando x es mayor que 2/3, lo vimos hasta aquí, cuando fue de x
+
+00:17:27.120 --> 00:17:31.810
+superior a 2/3, hasta aquí, estábamos cóncavas hacia arriba.
+
+00:17:31.810 --> 00:17:35.040
+La segunda derivada es positiva.
+
+00:17:35.040 --> 00:17:35.885
+Fuimos hacia arriba.
+
+00:17:38.460 --> 00:17:40.790
+Ahora realmente podríamos averiguar, ¿qué es f de 2/3?
+
+00:17:40.790 --> 00:17:43.420
+Ha hecho un poco complicado.
+
+00:17:43.420 --> 00:17:44.530
+Aún no tenemos que figura fuera,
+
+00:17:44.530 --> 00:17:45.320
+no creo, al gráfico.
+
+00:17:45.320 --> 00:17:48.180
+Creo que podríamos hacer un buen trabajo de gráficos sólo
+
+00:17:48.180 --> 00:17:49.270
+con lo que sabemos ahora.
+
+00:17:49.270 --> 00:17:50.370
+Por lo es nuestro ubicaciones de tomar.
+
+00:17:50.370 --> 00:17:52.740
+Permítanme hacer un gráfico áspero.
+
+00:17:52.740 --> 00:17:54.340
+Vamos a ver.
+
+00:17:54.340 --> 00:17:57.840
+Así que permítanme hacer mis ejes, al igual.
+
+00:17:57.840 --> 00:18:02.200
+Así vamos a querer gráfico el punto 0, 2.
+
+00:18:02.200 --> 00:18:04.120
+Así que vamos a decir que el punto, 0, 2.
+
+00:18:04.120 --> 00:18:08.570
+Así que esto es x es igual a 0, y nos vamos arriba, 1, 2.
+
+00:18:08.570 --> 00:18:10.610
+Así que este es el punto 0, 2.
+
+00:18:10.610 --> 00:18:12.640
+Tal vez lo haré en ese color, el color era
+
+00:18:12.640 --> 00:18:14.480
+utilizando, por lo es este color.
+
+00:18:14.480 --> 00:18:17.050
+Por lo es ese punto justo ahí.
+
+00:18:17.050 --> 00:18:19.650
+Luego tenemos el punto x, tienen la f 1, que es
+
+00:18:19.650 --> 00:18:21.930
+¿el punto 1, 1, derecho?
+
+00:18:21.930 --> 00:18:23.090
+Por lo tanto este punto aquí.
+
+00:18:26.100 --> 00:18:29.150
+Ese es el punto 1, 1.
+
+00:18:29.150 --> 00:18:32.250
+Este fue el punto 0, 2.
+
+00:18:32.250 --> 00:18:36.260
+Y luego tenemos x es igual a 2/3, que es nuestro
+
+00:18:36.260 --> 00:18:36.940
+punto de inflexión.
+
+00:18:36.940 --> 00:18:39.730
+Así que cuando x es 2/3, no sabemos exactamente qué
+
+00:18:39.730 --> 00:18:41.110
+es el número f de 2/3.
+
+00:18:41.110 --> 00:18:42.350
+Tal vez aquí algún lugar.
+
+00:18:42.350 --> 00:18:43.890
+Supongamos f de 2/3 existe.
+
+00:18:43.890 --> 00:18:48.840
+Por lo que es el punto, 2/3, y, a continuación, donde es f de 2/3.
+
+00:18:48.840 --> 00:18:50.960
+Parece que va a ser algo 1 punto.
+
+00:18:50.960 --> 00:18:52.280
+f de 2/3.
+
+00:18:52.280 --> 00:18:53.840
+Puede calcular, si lo desea, sólo tienes
+
+00:18:53.840 --> 00:18:55.500
+para sustituir a la función.
+
+00:18:55.500 --> 00:18:59.440
+Pero estamos listos para esta cosa de la gráfica.
+
+00:18:59.440 --> 00:19:04.100
+Por lo que sabemos que x es igual a 1, la pendiente es 0.
+
+00:19:04.100 --> 00:19:05.110
+Sabemos que la pendiente es 0.
+
+00:19:05.110 --> 00:19:05.750
+Es plana aquí.
+
+00:19:05.750 --> 00:19:07.520
+Sabemos que es cóncava hacia arriba.
+
+00:19:07.520 --> 00:19:12.070
+Por lo que estamos tratando, este aspecto, parece
+
+00:19:12.070 --> 00:19:13.030
+durante ese intervalo.
+
+00:19:13.030 --> 00:19:14.480
+Estamos cóncavas hacia arriba.
+
+00:19:14.480 --> 00:19:17.440
+Y sabemos que somos cóncavas hacia arriba de x es igual
+
+00:19:17.440 --> 00:19:19.480
+¿2/3 y el derecho?
+
+00:19:19.480 --> 00:19:20.690
+Permítanme hacer de ese color.
+
+00:19:20.690 --> 00:19:23.310
+Sabíamos que x es igual a 2/3 y, estamos cóncavas hacia arriba.
+
+00:19:23.310 --> 00:19:25.670
+Y por eso fui capaz de dibujar esta forma de U.
+
+00:19:25.670 --> 00:19:29.390
+Ahora sabemos que cuando x es inferior a 2/3 y superior
+
+00:19:29.390 --> 00:19:31.760
+0, estamos cóncavas hacia abajo.
+
+00:19:31.760 --> 00:19:33.740
+Por lo que el gráfico sería algo como esto,
+
+00:19:33.740 --> 00:19:34.270
+Durante este intervalo.
+
+00:19:34.270 --> 00:19:36.890
+Estaremos cóncavas hacia abajo.
+
+00:19:36.890 --> 00:19:38.820
+Permítanme señalar muy bien.
+
+00:19:38.820 --> 00:19:41.080
+Durante este intervalo, la pendiente es decreciente.
+
+00:19:41.080 --> 00:19:42.950
+Y se puede ver, si seguir dibujando líneas tangentes.
+
+00:19:42.950 --> 00:19:45.660
+Es flattish allí, obtiene negativo, más negativo más
+
+00:19:45.660 --> 00:19:48.490
+negativo, hasta el punto de inflexión y luego se inicia
+
+00:19:48.490 --> 00:19:51.330
+aumentar nuevamente, porque volvemos a cóncava hacia arriba.
+
+00:19:51.330 --> 00:19:54.600
+Y, a continuación, finalmente, el último intervalo está por debajo de 0 y nos
+
+00:19:54.600 --> 00:19:58.280
+Sabemos por debajo de 0, cuando x es menor que 0, estamos cóncavas hacia arriba.
+
+00:19:58.280 --> 00:20:01.110
+Por lo que el gráfico tiene este aspecto.
+
+00:20:01.110 --> 00:20:02.820
+El gráfico se ve así.
+
+00:20:02.820 --> 00:20:05.490
+Y también sabemos que x es igual a 0 fue un crítico
+
+00:20:05.490 --> 00:20:06.620
+punto, la pendiente de 0.
+
+00:20:06.620 --> 00:20:08.820
+Así el gráfico realmente plana justo ahí, es demasiado.
+
+00:20:08.820 --> 00:20:11.880
+Así que esto es un punto de inflexión donde la pendiente también fue 0.
+
+00:20:11.880 --> 00:20:13.260
+Este es nuestro gráfico final.
+
+00:20:13.260 --> 00:20:14.060
+Nosotros estamos hecho.
+
+00:20:14.060 --> 00:20:16.550
+Después de todo lo que trabajan, fuimos capaces de utilizar nuestro cálculo
+
+00:20:16.550 --> 00:20:18.590
+habilidades y nuestro conocimiento de los puntos de inflexión, y
+
+00:20:18.590 --> 00:20:21.600
+concativity y transiciones en concativity, a
+
+00:20:21.600 --> 00:20:25.510
+gráfico realmente este gráfico bastante peludo buscando.
+
+00:20:25.510 --> 00:20:28.395
+Pero este debe ser el tipo de lo que parece, si usted gráfico
+
+00:20:28.395 --> 00:20:30.100
+que en su calculadora.

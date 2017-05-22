@@ -1,0 +1,90 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.606 --> 00:00:03.762
+Vamos a intentar calcular 3 x 32.
+
+00:00:03.762 --> 00:00:06.411
+Y me gustaría reescribirlo - y esta es una forma de hacerlo.
+
+00:00:06.411 --> 00:00:10.079
+Me gustaría reescribirlo en la parte superior, donde tengo el número mayor.
+
+00:00:10.079 --> 00:00:11.751
+(lo que en este caso es 32)
+
+00:00:11.751 --> 00:00:13.423
+Y escribo el número más pequeño justo debajo.
+
+00:00:13.423 --> 00:00:17.324
+Y dado que el número pequeño es sólo un dígito, sólo un dígito de las unidades, ...
+
+00:00:17.324 --> 00:00:19.767
+lo pongo por debajo del lugar de las unidades del número más grande.
+
+00:00:19.767 --> 00:00:23.767
+Así que puse el 3 por aquí (y por supuesto no podemos olvidar nuestro símbolo de multiplicación).
+
+00:00:23.767 --> 00:00:26.233
+Y esto es esencialmente una forma de decir lo mismo.
+
+00:00:26.233 --> 00:00:33.021
+Podrías leer esto como "32 por 3". Pero "32 por 3" es exactamente igual que "3 por 32".
+
+00:00:33.021 --> 00:00:35.343
+No importa en qué orden los multipliques.
+
+00:00:35.343 --> 00:00:36.833
+Y ahora vamos a tratar de calcularlo.
+
+00:00:36.833 --> 00:00:40.080
+Y una vez más, este es un modo de hacerlo. Hay muchas maneras de hacerlo.
+
+00:00:40.080 --> 00:00:42.100
+Y quiero que pienses acerca de por qué esto funciona.
+
+00:00:42.100 --> 00:00:48.833
+Así que empezamos con este 3 de aquí y vamos a multiplicar por cada uno de los 32 dígitos.
+
+00:00:48.833 --> 00:00:52.107
+Así que vamos a empezar con "3 por 2".
+
+00:00:52.107 --> 00:00:53.767
+Bien, 3 por 2...
+
+00:00:53.767 --> 00:00:58.005
+(a partir de la tabla de multiplicar podrías entenderlo, incluso si no la sabes)
+
+00:00:58.005 --> 00:01:02.603
+... es 6. Así que "3 por 2". Escribiré 6 por aquí en el lugar de las unidades.
+
+00:01:02.603 --> 00:01:07.167
+Ahora, vamos averiguar cuánto es "3 por 3".
+
+00:01:07.167 --> 00:01:11.101
+Bueno, una vez más, sabemos que "3 por 3" es 9...
+
+00:01:11.101 --> 00:01:17.092
+... y ya que estoy multiplicando en el sitio de las decenas, justo aquí, voy a ponerlo en el lugar correcto, como éste, de las decenas.
+
+00:01:17.092 --> 00:01:21.086
+¡Hemos terminado! Tenemos que "32 por 3" es igual a "96".
+
+00:01:21.086 --> 00:01:24.012
+Y te animo a que pienses en por qué esto funcionó.
+
+00:01:24.012 --> 00:01:28.423
+Te doy una pequeña pista aquí. Una pista acerca de por qué esto funcionó:
+
+00:01:28.423 --> 00:01:39.430
+Recuerda: "3 por 32" es lo mismo que "3 por 30" más "3 por 2".
+
+00:01:39.430 --> 00:01:42.773
+Y si se mira de esa manera, eso es esencialmente lo que hizo este proceso.
+
+00:01:42.773 --> 00:01:46.767
+Multiplicamos "3 por 2" que es "6", y "3 por 30" que es "90".
+
+00:01:46.767 --> 00:01:50.767
+Si los juntas, verás que... "90 más 6"... es igual a "96".

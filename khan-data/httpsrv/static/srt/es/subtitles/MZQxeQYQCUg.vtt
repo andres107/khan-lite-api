@@ -1,0 +1,96 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.292 --> 00:00:09.408
+Pay-off diagrams are a way of depicting what an option or a set of options or options combined with other securities are worth at option expiration.
+
+00:00:09.855 --> 00:00:14.698
+What you do is you plot it based on the value of the underlying stock price.
+
+00:00:14.698 --> 00:00:19.249
+And I have two different plot types here. One that you might see more in an academic setting or a text book
+
+00:00:19.249 --> 00:00:24.012
+and one that you might see more if you look up pay-off diagrams on the internet or people actually trading options.
+
+00:00:24.351 --> 00:00:28.630
+But they are very similar. This one just worries about the actual value
+
+00:00:28.630 --> 00:00:33.878
+of the options at expiration. This worries about the profit and loss so this will incorporate what
+
+00:00:33.878 --> 00:00:39.126
+you paid for the option, this will not. This just says what it is worth. So with that said, we have company
+
+00:00:39.126 --> 00:00:46.556
+ABCD trading at $50 per share. Then we have a call option with a $50 strike price or $50 exercise price
+
+00:00:47.064 --> 00:00:54.219
+trading at $10 which tells us that the owner of that option has the rigth, but not the obligation, to
+
+00:00:54.219 --> 00:01:02.000
+buy company ABCD stock at $50 per share up to expiration, assuming it is an american option. If it was
+
+00:01:02.000 --> 00:01:11.790
+a european option it would be ON expiration. So what is the value of this option at expiration? So it's value at expiration, at expiration.
+
+00:01:11.852 --> 00:01:23.846
+So if the stock is worth less than $50, the owner wouldn't execute it. They wouldn't exercise the option so the option would be worthless, it would be worthless,
+
+00:01:23.846 --> 00:01:28.610
+they would just let it expire. No reason to actually exercise the option.
+
+00:01:28.748 --> 00:01:33.467
+Now if the underlying stock price is worth more than $50, if it is $51 then you would exercise it
+
+00:01:33.467 --> 00:01:39.133
+because now the option is worth one dollar, you can buy something for $50 and sell it for $51 so it is now worth
+
+00:01:39.133 --> 00:01:49.733
+one dollar. If the underlying stock price is $60 of course you would exercise it and now is worth $10 because you can buy something for 50 and you could immediately sell it at 60.
+
+00:01:49.733 --> 00:01:55.200
+We are saying that the underlying stock price is 60 so it would be worth 10. So you have a pay-off diagram
+
+00:01:55.200 --> 00:02:00.733
+that looks something like this. It kind of "hockey-sticks", below 50 it is worthless and then above 50
+
+00:02:00.733 --> 00:02:07.333
+all of a sudden it becomes worth something. Now if you do it in the profit and loss model, all you have
+
+00:02:07.333 --> 00:02:13.933
+to do is incorporate what you actually paid for the option. So in this situation, below $50 you still
+
+00:02:13.933 --> 00:02:19.800
+would not actually exercise your option because, why would you pay $50 for something that is actually
+
+00:02:19.800 --> 00:02:26.667
+trading for less than $50? But you would say, hey, I would have had to take a $10 dollar loss because
+
+00:02:26.667 --> 00:02:36.400
+I paid $10 for that option. So up until $50 your profit is negative 10. You have lost $10, you have lost the
+
+00:02:36.400 --> 00:02:42.000
+price of the option because you wouldn't exercise it. Then all of a sudden the stock price goes above
+
+00:02:42.000 --> 00:02:46.067
+$50 you would exercise it but you still have a negative profit because you still haven't made up the
+
+00:02:46.067 --> 00:02:53.933
+price of the option. All the way up until 60, at $60 per share for the underlying stock price you could
+
+00:02:53.933 --> 00:02:59.133
+exercise the option, buy the stock at 50, sell it at 60, you would make $10 doing that, but of course,
+
+00:02:59.133 --> 00:03:04.333
+you had to spend $10 on the option. So there you are break-even. But then you get as you get above
+
+00:03:04.333 --> 00:03:10.067
+a $60 stock price at maturity then all of a sudden you start to make money. So these are both legitimate
+
+00:03:10.067 --> 00:03:15.800
+pay-off diagrams for a call option, for this call option right over here.
+
+00:03:15.800 --> 99:59:59.999
+There are just different ways of doing it. This is the value of the option, this incorporates the actual cost of it.

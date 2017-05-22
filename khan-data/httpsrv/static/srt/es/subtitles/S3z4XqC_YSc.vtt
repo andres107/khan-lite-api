@@ -1,0 +1,516 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.495 --> 00:00:03.916
+En el video pasado hicimos un par de problemas de multiplicación con rejilla
+
+00:00:03.916 --> 00:00:05.409
+y vimos que es bastante simple.
+
+00:00:05.409 --> 00:00:07.385
+Tienes que hacer todas las multiplicaciones primero
+
+00:00:07.385 --> 00:00:09.080
+y luego haces todas las sumas.
+
+00:00:09.080 --> 00:00:12.060
+Bien, ahora tratemos de entender por que funcionó.
+
+00:00:12.060 --> 00:00:14.150
+Fue casi como magia.
+
+00:00:14.160 --> 00:00:16.530
+Y para ver cómo funcionó voy a volver a hacer este problema
+
+00:00:16.530 --> 00:00:19.802
+y también voy a explicar lo que hicimos en los problemas más grandes.
+
+00:00:19.802 --> 00:00:22.849
+Cuando multiplicamos 27--
+
+00:00:22.849 --> 00:00:27.200
+escribimos el dos y el siete aquí-- por 48.
+
+00:00:27.210 --> 00:00:29.670
+Estoy haciendo lo mismo que hicimos en el último video.
+
+00:00:29.670 --> 00:00:34.550
+Dibujamos una rejilla, le dimos una columna al dos y otra al siete.
+
+00:00:34.560 --> 00:00:36.470
+Así.
+
+00:00:36.470 --> 00:00:40.810
+Le dimos una hilera al cuatro y le dimos una hilera al ocho.
+
+00:00:40.820 --> 00:00:42.960
+Y después dibujamos las diagonales.
+
+00:00:42.960 --> 00:00:45.502
+La clave son las diagonales, como podrás imaginar,
+
+00:00:45.502 --> 00:00:47.780
+si no, ¡no las estaríamos dibujando!
+
+00:00:47.780 --> 00:00:49.120
+Tenemos nuestras diagonales.
+
+00:00:49.130 --> 00:00:50.297
+Ahora, la forma de pensarlo
+
+00:00:50.297 --> 00:00:53.280
+es que cada una de estas diagonales tienen un lugar de número.
+
+00:00:53.280 --> 00:00:59.970
+Por ejemplo, esta diagonal, es la diagonal de las unidades.
+
+00:01:00.001 --> 00:01:04.210
+La diagonal que sigue -- voy a usar un color verde --
+
+00:01:04.210 --> 00:01:07.350
+La diagonal que sigue, aquí de color verde,
+
+00:01:07.350 --> 00:01:09.330
+es la de las decenas.
+
+00:01:09.340 --> 00:01:13.578
+Ahora la diagonal que sigue a la izquierda, o arriba, dependiendo de como lo quieras ver,
+
+00:01:13.578 --> 00:01:16.950
+-- Voy a usar este color rosa --
+
+00:01:16.950 --> 00:01:21.709
+Puede que hayas adivinado que va a ser la diagonal de las centenas.
+
+00:01:21.709 --> 00:01:24.514
+Y finalmente tenemos esta pequeña diagonal aquí,
+
+00:01:24.514 --> 00:01:27.141
+y ahora voy a usar un color azul claro.
+
+00:01:27.141 --> 00:01:32.080
+Este es el lugar de los millares.
+
+00:01:32.080 --> 00:01:35.303
+Así que cuando multiplicamos un dígito por otro dígito
+
+00:01:35.303 --> 00:01:38.610
+sólo tenemos que ponerlo en la cubeta correcta
+
+00:01:38.610 --> 00:01:39.650
+o en el lugar correcto.
+
+00:01:39.650 --> 00:01:41.780
+Y verás a lo que me refiero en un momento.
+
+00:01:41.790 --> 00:01:43.790
+Hicimos 7 x 4.
+
+00:01:43.790 --> 00:01:46.150
+Bueno, sabemos que 7 x 4 = 28
+
+00:01:46.150 --> 00:01:50.460
+Escribimos un dos y un ocho así nada más.
+
+00:01:50.460 --> 00:01:51.630
+Pero, ¿qué hicimos en realidad?
+
+00:01:51.640 --> 00:01:53.460
+La mejor manera de verlo es que este siete --
+
+00:01:53.460 --> 00:01:55.330
+este siete en el 27.
+
+00:01:55.340 --> 00:01:58.310
+Es un siete normal, ¿no?
+
+00:01:58.310 --> 00:02:02.130
+Pero este cuatro, es el cuatro en el 48.
+
+00:02:02.140 --> 00:02:04.920
+Así que no es un cuatro regular, en realidad es un 40.
+
+00:02:04.920 --> 00:02:09.050
+48 puede escribirse como 40 + 8.
+
+00:02:09.050 --> 00:02:13.520
+Este cuatro en realidad representa un cuarenta.
+
+00:02:13.530 --> 00:02:16.520
+Así que aquí no estamos multiplicando siete por cuatro,
+
+00:02:16.520 --> 00:02:19.810
+en realidad estamos multiplicando 7 x 40.
+
+00:02:19.810 --> 00:02:27.360
+Y 7 x 40 no es 28, es 280.
+
+00:02:27.370 --> 00:02:29.440
+Y 280, ¿de qué otra forma podemos escribirlo?
+
+00:02:29.440 --> 00:02:37.320
+Podemos decir que son dos centenas más ocho decenas.
+
+00:02:37.330 --> 00:02:39.620
+Y eso es exactamente lo que escribimos aquí.
+
+00:02:39.620 --> 00:02:44.820
+Mira: esta columna-- perdón, esta diagonal aquí
+
+00:02:44.830 --> 00:02:48.110
+Que ya te he dicho, es la diagonal de las decenas.
+
+00:02:48.110 --> 00:02:50.810
+Y multiplicamos 7 x 40.
+
+00:02:50.810 --> 00:02:54.520
+Pusimos el ocho aquí en la diagonal de las decenas.
+
+00:02:54.530 --> 00:02:56.580
+Así que eso significa ocho decenas.
+
+00:02:56.590 --> 00:02:59.240
+Siete por cuarenta es dos centenas--
+
+00:02:59.250 --> 00:03:01.590
+Escribimos un dos en la diagonal de las centenas--
+
+00:03:01.590 --> 00:03:03.310
+y ocho decenas.
+
+00:03:03.310 --> 00:03:04.600
+Eso es lo que significa este dos y el ocho.
+
+00:03:04.610 --> 00:03:06.810
+En realidad escribimos 280.
+
+00:03:06.810 --> 00:03:07.920
+¡Sigamos!
+
+00:03:07.930 --> 00:03:10.500
+Cuando multiplico 2 x 4
+
+00:03:10.500 --> 00:03:12.295
+Puede que digas: "Oh, 2 x 4, eso es 8."
+
+00:03:12.311 --> 00:03:13.325
+Pero, ¿qué estamos haciendo en realidad?
+
+00:03:13.325 --> 00:03:15.300
+Este es el 2 en el 27.
+
+00:03:15.310 --> 00:03:18.520
+En realidad esto es un veinte y esto es un cuarenta.
+
+00:03:18.520 --> 00:03:26.120
+Así que 20 x 40 es igual a ocho con dos ceros.
+
+00:03:26.120 --> 00:03:27.300
+Es igual a 800.
+
+00:03:27.310 --> 00:03:28.290
+Y, ¿qué hicimos?
+
+00:03:28.300 --> 00:03:31.630
+Multiplicamos dos por cuatro y dijimos: "oh, dos por cuatro es ocho"
+
+00:03:31.630 --> 00:03:35.079
+Escribimos un cero y un ocho así.
+
+00:03:35.079 --> 00:03:37.072
+Pero mira donde escribimos el ocho.
+
+00:03:37.072 --> 00:03:41.387
+Escribimos el ocho en la diagonal de las centenas.
+
+00:03:41.387 --> 00:03:42.864
+Voy a cambiar de color.
+
+00:03:42.864 --> 00:03:44.740
+Lo escribimos en la diagonal de las centenas.
+
+00:03:44.750 --> 00:03:46.159
+Así que literalmente escribimos --
+
+00:03:46.159 --> 00:03:48.796
+aunque parece que sólo multiplicamos 2 x 4 y dijimos que es 8--
+
+00:03:48.796 --> 00:03:50.146
+por el lugar en donde lo escribimos,
+
+00:03:50.146 --> 00:03:54.572
+en realidad hicimos 20 x 40 = 800.
+
+00:03:54.572 --> 00:03:56.380
+Recuerda, esta es la diagonal de las centenas,
+
+00:03:56.380 --> 00:03:57.900
+todo esto de aquí.
+
+00:03:57.900 --> 00:04:00.180
+Y podemos continuar.
+
+00:04:00.180 --> 00:04:02.270
+Cuando multiplicas 7 x 8.
+
+00:04:02.270 --> 00:04:06.090
+Recuerda, esto es en un 7 -- bueno, esto es el 7 en el 27,
+
+00:04:06.090 --> 00:04:07.090
+así que es un siete normal.
+
+00:04:07.090 --> 00:04:09.870
+Esto es el 8 en el 48, así que es un ocho normal.
+
+00:04:09.880 --> 00:04:11.850
+7 x 8 = 56
+
+00:04:11.860 --> 00:04:14.170
+Escribimos un 6 en el lugar de las unidades.
+
+00:04:14.180 --> 00:04:17.800
+56 es 5 decenas y 6 unidades.
+
+00:04:17.810 --> 00:04:23.920
+Así que son 5 decenas en la diagonal de las decenas y un 6. 56.
+
+00:04:23.920 --> 00:04:26.195
+Ahora cuando multiplicas 2 x 8
+
+00:04:26.195 --> 00:04:28.210
+toma nota: eso no es realmente sólo 2 x 8.
+
+00:04:28.220 --> 00:04:31.625
+Bueno, si escribimos 2 x 8 = 16 cuando hicimos el problema aquí,
+
+00:04:31.625 --> 00:04:33.630
+pero en realidad estamos multiplicando 20.
+
+00:04:33.630 --> 00:04:35.500
+Esto es un 20 por 8.
+
+00:04:35.510 --> 00:04:39.810
+20 x 8 es igual a 160.
+
+00:04:39.810 --> 00:04:41.942
+O podríamos decir es 1 centena--
+
+00:04:41.942 --> 00:04:45.820
+toma nota del 1 en la diagonal de las centenas-- y 6 decenas.
+
+00:04:45.842 --> 00:04:48.114
+Eso es 160.
+
+00:04:48.114 --> 00:04:51.635
+Así que lo que hicimos con esta multiplicación con rejilla,
+
+00:04:51.635 --> 00:04:54.991
+es que pusimos todos los dígitos en los lugares correctos.
+
+00:04:54.991 --> 00:04:56.830
+Pusimos el 6 en el lugar de las unidades.
+
+00:04:56.830 --> 00:04:59.590
+Pusimos el 6, el 5 y el 8 en el lugar de las decenas.
+
+00:04:59.600 --> 00:05:02.080
+Pusimos el 1, el 8 y el 2 en el lugar de las centenas.
+
+00:05:02.080 --> 00:05:04.930
+Y no pusimos nada por ahora en el lugar de los millares.
+
+00:05:04.930 --> 00:05:07.087
+Ahora, ya que acabamos las multiplicaciones
+
+00:05:07.087 --> 00:05:09.720
+podemos hacer las sumas.
+
+00:05:09.730 --> 00:05:11.196
+Y sólo tienes que seguir sumando,
+
+00:05:11.196 --> 00:05:13.445
+y si hay algo que sobrepasa el lugar en donde está
+
+00:05:13.445 --> 00:05:14.699
+solo llevas ese número.
+
+00:05:14.699 --> 00:05:18.230
+Así que 6 en las unidades, bueno, eso es 6.
+
+00:05:18.240 --> 00:05:19.610
+Ahora vamos a las decenas.
+
+00:05:19.610 --> 00:05:22.640
+¿Cuánto es 8 + 5 + 6?
+
+00:05:22.640 --> 00:05:24.150
+8 + 5 = 13
+
+00:05:24.160 --> 00:05:26.570
+13 + 6 = 19
+
+00:05:26.570 --> 00:05:28.050
+Pero mira, estamos en el lugar de las decenas.
+
+00:05:28.060 --> 00:05:34.620
+Son 19 decenas, o podemos decir que son 9 decenas y una centena.
+
+00:05:34.620 --> 00:05:38.902
+Llevamos el 1 aquí arriba, si lo puedes ver, al lugar de las centenas.
+
+00:05:38.902 --> 00:05:40.500
+Ahora sumamos todas las centenas.
+
+00:05:40.500 --> 00:05:43.850
+100 + 200 + 800 + 100
+
+00:05:43.860 --> 00:05:45.110
+¿Cuánto es eso?
+
+00:05:45.120 --> 00:05:46.740
+1,200
+
+00:05:46.750 --> 00:05:49.180
+Así que escribimos '2' en el lugar de las centenas.
+
+00:05:49.180 --> 00:05:53.180
+1,200 es lo mismo que dos centenas y un millar.
+
+00:05:53.180 --> 00:05:57.110
+Y ahora solo queda un millar en la diagonal de millares.
+
+00:05:57.120 --> 00:05:59.000
+Así que escribimos un '1' aquí.
+
+00:05:59.000 --> 00:06:01.120
+Eso es exactamente lo que hicimos.
+
+00:06:01.130 --> 00:06:05.750
+El mismo raciocinio aplica al problema más complejo.
+
+00:06:05.760 --> 00:06:07.010
+Podemos nombrar nuestros lugares.
+
+00:06:07.020 --> 00:06:10.690
+Este es el lugar de las unidades.
+
+00:06:10.690 --> 00:06:11.490
+Y tiene sentido.
+
+00:06:11.500 --> 00:06:14.224
+Cuando multiplicamos 9 x 7
+
+00:06:14.224 --> 00:06:17.510
+esos son literalmente nueves y sietes. Es 63.
+
+00:06:17.520 --> 00:06:19.770
+6 decenas y 3 unidades.
+
+00:06:19.770 --> 00:06:22.610
+Esto aquí es la diagonal de las decenas.
+
+00:06:22.620 --> 00:06:25.120
+Tenemos 6 decenas y 3 unidades.
+
+00:06:25.120 --> 00:06:30.085
+Cuando multiplicamos 9 x 80--recuerda, 787,
+
+00:06:30.085 --> 00:06:36.368
+es lo mismo que siete centenas más ocho decenas más siete unidades.
+
+00:06:36.370 --> 00:06:39.050
+Así que este 9 x 8 es en realidad 9 x 80.
+
+00:06:39.060 --> 00:06:42.870
+9 x 80 = 720
+
+00:06:42.870 --> 00:06:46.360
+Siete centenas-- este es el lugar de las centenas.
+
+00:06:46.360 --> 00:06:52.810
+Siete centenas y veinte-- dos dieces justo aquí.
+
+00:06:52.810 --> 00:06:53.850
+Y podemos seguir.
+
+00:06:53.860 --> 00:06:56.390
+Esto es el lugar de los millares.
+
+00:06:56.390 --> 00:06:58.680
+Aquí son las decenas de millares.
+
+00:06:58.680 --> 00:07:00.000
+Así lo voy a escribir.
+
+00:07:00.010 --> 00:07:04.040
+Esto es el lugar de las centenas de millares.
+
+00:07:04.050 --> 00:07:08.773
+Y finalmente este es el lugar de los millones.
+
+00:07:08.773 --> 00:07:10.796
+Así que hicimos todas las multiplicaciones,
+
+00:07:10.796 --> 00:07:15.172
+y pusimos todo en su lugar, dependiendo de lo que realmente era cada número.
+
+00:07:15.187 --> 00:07:17.339
+Este número aquí,
+
+00:07:17.339 --> 00:07:20.975
+parece que sólo multiplicamos 4 x 8 y obtuvimos 32,
+
+00:07:20.975 --> 00:07:27.170
+pero en realidad multiplicamos 400 -- esto es un 400-- por 80.
+
+00:07:27.180 --> 00:07:35.610
+Y 400 x 80 es igual a 3, 2 y tres ceros.
+
+00:07:35.610 --> 00:07:37.270
+Es igual a 32,000
+
+00:07:37.270 --> 00:07:41.870
+Y el lugar donde lo pusimos-- mira, pusimos un 2 aquí,
+
+00:07:41.870 --> 00:07:43.150
+¿qué diagonal es esa?
+
+00:07:43.160 --> 00:07:45.820
+Es la diagonal de los millares.
+
+00:07:45.820 --> 00:07:49.500
+Decimos que son dos millares y tres decenas de millares.
+
+00:07:49.510 --> 00:07:51.500
+Así que tres decenas de millares y dos millares.
+
+00:07:51.500 --> 00:07:53.375
+Eso es 32,000
+
+00:07:53.375 --> 00:07:54.867
+Con suerte entendiste todo esto.
+
+00:07:54.867 --> 00:07:59.141
+Es divertido hacer multiplicaciones con rejilla y practicar.
+
+00:07:59.141 --> 00:08:01.865
+Pero a veces parece ser lago bizarro y mágico.
+
+00:08:01.865 --> 00:08:03.830
+Pero con suerte con este video entendiste que todo lo que es
+
+00:08:03.830 --> 00:08:08.246
+es un a forma diferente de dibujar donde van las unidades, decenas, centenas, y demás.
+
+00:08:08.250 --> 00:08:09.765
+Con la ventaja que se ve bonito y
+
+00:08:09.765 --> 00:08:12.310
+es claro, y no toma mucho espacio.
+
+00:08:12.310 --> 00:08:15.723
+Y te permite hacer todas las multiplicaciones primero,
+
+00:08:15.723 --> 00:08:20.750
+y luego, cambiar tu cerebro al modo de adición.

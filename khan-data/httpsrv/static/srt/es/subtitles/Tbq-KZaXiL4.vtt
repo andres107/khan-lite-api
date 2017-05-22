@@ -1,0 +1,936 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.670
+~Pausa~
+
+00:00:00.670 --> 00:00:04.040
+Creo que tenemos una idea digna de cómo se transmite una señal
+
+00:00:04.040 --> 00:00:05.620
+a lo largo de la neurona.
+
+00:00:05.620 --> 00:00:08.800
+Vimos que un par de dendritas, lo mejor que uno y
+
+00:00:08.800 --> 00:00:13.000
+que uno y que uno podría obtener emocionado o activa.
+
+00:00:13.000 --> 00:00:14.960
+Y cuando decimos que se dispara, que estamos diciendo
+
+00:00:14.960 --> 00:00:16.800
+algún tipo de canal se abre.
+
+00:00:16.800 --> 00:00:18.290
+Probablemente es el gatillo.
+
+00:00:18.290 --> 00:00:22.790
+Ese canal permite iones para ser liberados en la celda--o
+
+00:00:22.790 --> 00:00:25.120
+en realidad, hay situaciones donde se pueden liberar iones a
+
+00:00:25.120 --> 00:00:25.550
+de la celda.
+
+00:00:25.550 --> 00:00:27.700
+Podría ser inhibitoria, pero tomemos el caso donde los iones
+
+00:00:27.700 --> 00:00:31.820
+se liberan en las celdas de manera electrotónico.
+
+00:00:31.820 --> 00:00:35.510
+Cambia la carga o el gradiente de voltaje a través de la
+
+00:00:35.510 --> 00:00:38.750
+membrana y si los efectos combinados del cambio en la
+
+00:00:38.750 --> 00:00:42.280
+gradiente de tensión es suficiente en la Loma de axon a
+
+00:00:42.280 --> 00:00:46.790
+con ese umbral, entonces los canales de sodio aquí
+
+00:00:46.790 --> 00:00:51.030
+Abra arriba, sodio inundaciones en y, a continuación, tenemos la situación
+
+00:00:51.030 --> 00:00:54.160
+donde la tensión se vuelve muy positiva.
+
+00:00:54.160 --> 00:00:57.090
+Abrir canales de potasio hasta cambiar las cosas nuevamente, pero por
+
+00:00:57.090 --> 00:00:59.710
+el tiempo nos fuimos muy positivos, luego que
+
+00:00:59.710 --> 00:01:03.320
+eletrotonically afecta la próxima bomba de sodio.
+
+00:01:03.320 --> 00:01:06.730
+Pero luego tenemos la situación donde que permitirá sodio
+
+00:01:06.730 --> 00:01:09.360
+iones a inundar en y, a continuación, la señal sigue recibiendo
+
+00:01:09.360 --> 00:01:10.550
+transmitido.
+
+00:01:10.550 --> 00:01:15.240
+Ahora la siguiente pregunta natural es, ¿qué sucede en la neurona
+
+00:01:15.240 --> 00:01:17.590
+¿para uniones de neurona?
+
+00:01:17.590 --> 00:01:19.640
+Dijimos que obtiene esta dendrita
+
+00:01:19.640 --> 00:01:21.550
+dispara u obtiene emocionado.
+
+00:01:21.550 --> 00:01:24.050
+En la mayoría de los casos, es más activa o excitado por
+
+00:01:24.050 --> 00:01:24.810
+otra neurona.
+
+00:01:24.810 --> 00:01:26.340
+Podría ser algo más.
+
+00:01:26.340 --> 00:01:31.550
+Y aquí, cuando se dispara este axón, debería ser excitante
+
+00:01:31.550 --> 00:01:32.520
+cualquiera otra celda.
+
+00:01:32.520 --> 00:01:35.760
+Podría ser una célula muscular o--probablemente la mayoría de los casos de la
+
+00:01:35.760 --> 00:01:39.820
+cuerpo humano--lo es emocionante otra neurona.
+
+00:01:39.820 --> 00:01:41.050
+Y entonces, ¿cómo hace?
+
+00:01:41.050 --> 00:01:43.140
+Esto es el extremo terminal del axón.
+
+00:01:43.140 --> 00:01:46.535
+Podría haber la dendrita de otra neurona aquí.
+
+00:01:46.535 --> 00:01:51.910
+~Pausa~
+
+00:01:51.910 --> 00:01:55.430
+Esta es otra neurona con su propio axon, su propia celda.
+
+00:01:55.430 --> 00:01:58.400
+Esto desencadenaría la dendrita allí.
+
+00:01:58.400 --> 00:02:00.190
+Así que la pregunta es, ¿que ocurre?
+
+00:02:00.190 --> 00:02:04.130
+¿Cómo la señal va desde el axón de una neurona a la siguiente
+
+00:02:04.130 --> 00:02:04.990
+¿dendrita de la neurona?
+
+00:02:04.990 --> 00:02:07.770
+Realmente siempre no tiene que ir de axon a
+
+00:02:07.770 --> 00:02:09.449
+dendrita, pero eso es lo más típico.
+
+00:02:09.449 --> 00:02:12.460
+Realmente puede ir de un axón a axón, dendrita a Dendrita,
+
+00:02:12.460 --> 00:02:16.040
+AXON a soma--pero solo Concentrémonos en axon a Dendrita
+
+00:02:16.040 --> 00:02:19.340
+debido a que es la más tradicional manera de que las neuronas
+
+00:02:19.340 --> 00:02:22.180
+transmitir información desde uno a otro.
+
+00:02:22.180 --> 00:02:22.990
+Así que vamos a acercar.
+
+00:02:22.990 --> 00:02:24.700
+Vamos a ampliar aquí.
+
+00:02:24.700 --> 00:02:27.610
+Esta pequeña caja derecha allí, vamos a acercar a la base, el
+
+00:02:27.610 --> 00:02:31.740
+extremo de este axón terminal y vamos a acercar
+
+00:02:31.740 --> 00:02:33.020
+en todo este ámbito.
+
+00:02:33.020 --> 00:02:35.010
+Luego también voy acercar--también vamos a obtener el
+
+00:02:35.010 --> 00:02:37.370
+dendrita de esta neurona siguiente--y voy a hacerla girar.
+
+00:02:37.370 --> 00:02:39.320
+En realidad, incluso no tienen para hacerla girar.
+
+00:02:39.320 --> 00:02:42.950
+Para ello, permítanme señalar el extremo terminal.
+
+00:02:42.950 --> 00:02:45.090
+Así que vamos a decir que el extremo terminal se ve algo como esto.
+
+00:02:45.090 --> 00:02:47.215
+Yo soy ampliada en big time.
+
+00:02:47.215 --> 00:02:49.900
+~Pausa~
+
+00:02:49.900 --> 00:02:52.090
+Este es el extremo terminal de la neurona.
+
+00:02:52.090 --> 00:02:58.160
+Esto está dentro de la neurona y la dendrita siguiente--deje
+
+00:02:58.160 --> 00:02:59.485
+me dibuje aquí.
+
+00:02:59.485 --> 00:03:06.280
+~Pausa~
+
+00:03:06.280 --> 00:03:07.800
+Así que realmente hemos ampliada.
+
+00:03:07.800 --> 00:03:17.100
+Esto es la dendrita de la neurona siguiente.
+
+00:03:17.100 --> 00:03:19.710
+Esto está dentro de la primera neurona.
+
+00:03:19.710 --> 00:03:22.080
+Así que tenemos este potencial de acción que
+
+00:03:22.080 --> 00:03:23.640
+mantiene viajando a lo largo.
+
+00:03:23.640 --> 00:03:27.580
+Finalmente para quizás por aquí--no sé si
+
+00:03:27.580 --> 00:03:30.970
+puede acercar--que sería aquí, la acción
+
+00:03:30.970 --> 00:03:34.680
+potencial hace que el potencial eléctrico o la tensión
+
+00:03:34.680 --> 00:03:38.480
+potencial a través de esta membrana sólo lo suficientemente positiva para
+
+00:03:38.480 --> 00:03:42.410
+desencadenar este canal de sodio.
+
+00:03:42.410 --> 00:03:47.610
+Así que en realidad, tal vez estoy muy cerca.
+
+00:03:47.610 --> 00:03:49.750
+Este canal es este un derecho aquí.
+
+00:03:49.750 --> 00:03:53.340
+Entonces permite una inundación de sodio a entrar en la célula.
+
+00:03:53.340 --> 00:03:56.110
+~Pausa~
+
+00:03:56.110 --> 00:03:57.560
+Y entonces el pasa de todo.
+
+00:03:57.560 --> 00:03:59.780
+Tiene potasio que luego puede llevarlo fuera, pero por el
+
+00:03:59.780 --> 00:04:03.340
+Cargue el tiempo viene, este positivo, puede
+
+00:04:03.340 --> 00:04:06.930
+desencadenar otro canal y podría desencadenar otro sodio
+
+00:04:06.930 --> 00:04:09.240
+canal si hay otro sodio canales más abajo,
+
+00:04:09.240 --> 00:04:11.750
+pero cerca del final del axón hay
+
+00:04:11.750 --> 00:04:15.470
+realmente los canales de calcio.
+
+00:04:15.470 --> 00:04:17.200
+Lo haré en rosa.
+
+00:04:17.200 --> 00:04:23.680
+Este es un canal de calcio que tradicionalmente está cerrado.
+
+00:04:23.680 --> 00:04:25.960
+Este es un canal de iones de calcio.
+
+00:04:25.960 --> 00:04:27.545
+Calcio tiene una carga de 2 plus.
+
+00:04:27.545 --> 00:04:30.070
+~Pausa~
+
+00:04:30.070 --> 00:04:33.230
+Tiende a cerrarse, pero también es tensión controlada.
+
+00:04:33.230 --> 00:04:37.960
+Cuando el voltaje aumente lo suficiente, es muy similar a un
+
+00:04:37.960 --> 00:04:41.670
+canal de sodio voltaje gated es que si se convierte en positivo
+
+00:04:41.670 --> 00:04:45.640
+suficientemente cerca de la puerta, abrirá y cuando se abre
+
+00:04:45.640 --> 00:04:49.400
+permite que los iones de calcio a inundar en la célula.
+
+00:04:49.400 --> 00:04:53.450
+Así los iones de calcio, sus 2 plus cargar,
+
+00:04:53.450 --> 00:04:55.180
+inundaciones en las células.
+
+00:04:55.180 --> 00:04:58.270
+Ahora que estás diciendo, oye Sal, por qué están inundando los iones de calcio
+
+00:04:58.270 --> 00:04:58.980
+¿en las células?
+
+00:04:58.980 --> 00:05:00.660
+Estos tienen carga positiva.
+
+00:05:00.660 --> 00:05:03.530
+Pensé que dijiste que la célula se convierte en positiva
+
+00:05:03.530 --> 00:05:05.130
+debido a todo el sodio que fluye en.
+
+00:05:05.130 --> 00:05:07.300
+¿Por qué querría este calcio fluya en?
+
+00:05:07.300 --> 00:05:09.890
+Y la razón de por qué quiere fluir en es porque la celda
+
+00:05:09.890 --> 00:05:14.940
+también--como bombea sodio y potasio, bombas
+
+00:05:14.940 --> 00:05:19.990
+la célula también tiene bombas de iones de calcio y el mecanismo es
+
+00:05:19.990 --> 00:05:23.120
+casi idéntico a lo que le mostré en el sodio
+
+00:05:23.120 --> 00:05:26.090
+bomba de potasio, pero sólo se ocupa de calcio.
+
+00:05:26.090 --> 00:05:30.550
+Así que literalmente tienes estas proteínas que están sentados
+
+00:05:30.550 --> 00:05:31.820
+a través de la membrana.
+
+00:05:31.820 --> 00:05:35.720
+Se trata de una membrana de la capa de phospobilipid.
+
+00:05:35.720 --> 00:05:38.560
+Tal vez te llamo dos capas aquí solo para que te das cuenta de que ha
+
+00:05:38.560 --> 00:05:41.470
+una membrana de doble capa.
+
+00:05:41.470 --> 00:05:42.525
+Permítanme dibujarlo así.
+
+00:05:42.525 --> 00:05:47.020
+Que hace que se vea un poco más realista, aunque
+
+00:05:47.020 --> 00:05:48.670
+todo esto no es muy realista.
+
+00:05:48.670 --> 00:05:52.776
+Y esto también va a ser una membrana bilipid.
+
+00:05:52.776 --> 00:05:56.660
+Usted consigue la idea, pero me deja hacerlo a
+
+00:05:56.660 --> 00:05:59.400
+aclarar el punto.
+
+00:05:59.400 --> 00:06:02.620
+Así también hay estas bombas de iones de calcio que son
+
+00:06:02.620 --> 00:06:07.100
+también subconjuntos de ATPasas, que son al igual que el sodio
+
+00:06:07.100 --> 00:06:08.180
+bombas de potasio.
+
+00:06:08.180 --> 00:06:13.720
+Les das un ATP y un calcio adhiera a un lugar
+
+00:06:13.720 --> 00:06:20.240
+otra cosa y te Separe el fosfato desde el ATP y
+
+00:06:20.240 --> 00:06:22.950
+será suficiente energía para cambiar la confirmación de
+
+00:06:22.950 --> 00:06:25.720
+Esta proteína y te saque el calcio.
+
+00:06:25.720 --> 00:06:29.040
+Esencialmente, lo que fue el calcio se adhiera y entonces
+
+00:06:29.040 --> 00:06:33.500
+abrirán hacia arriba para que el calcio sólo puede salir de la celda.
+
+00:06:33.500 --> 00:06:36.350
+Es como las bombas de sodio potasio, pero es bueno
+
+00:06:36.350 --> 00:06:38.880
+para conocer en el estado de reposo, tiene una alta concentración
+
+00:06:38.880 --> 00:06:42.200
+de calcio iones aquí y es impulsado por la ATP.
+
+00:06:42.200 --> 00:06:45.170
+Una concentración mucho mayor en el exterior que tienes
+
+00:06:45.170 --> 00:06:47.870
+el interior y es impulsado por las bombas de iones.
+
+00:06:47.870 --> 00:06:50.980
+Así que una vez que tenga este potencial de acción, en lugar de
+
+00:06:50.980 --> 00:06:54.360
+desencadenar otra puerta de sodio, empieza disparo
+
+00:06:54.360 --> 00:06:58.630
+puertas de calcio y estos iones calcio inundación en la
+
+00:06:58.630 --> 00:07:01.190
+extremo de este axón terminal.
+
+00:07:01.190 --> 00:07:05.810
+Ahora, estos iones de calcio, unir a otras proteínas.
+
+00:07:05.810 --> 00:07:07.980
+Y antes de pasar a las otras proteínas, tenemos que tener
+
+00:07:07.980 --> 00:07:12.230
+Tenga en cuenta lo que sucede cerca de este cruce aquí.
+
+00:07:12.230 --> 00:07:14.840
+Y he usado la sinapsis de palabra ya--
+
+00:07:14.840 --> 00:07:16.100
+en realidad, tal vez no tengo.
+
+00:07:16.100 --> 00:07:21.240
+El lugar donde este axón está cumpliendo con esta dendrita,
+
+00:07:21.240 --> 00:07:22.490
+se trata de la sinapsis.
+
+00:07:22.490 --> 00:07:29.060
+~Pausa~
+
+00:07:29.060 --> 00:07:31.680
+O tipo de verlo como el punto de contacto o la
+
+00:07:31.680 --> 00:07:34.020
+punto de comunicación o el punto de conexión.
+
+00:07:34.020 --> 00:07:37.480
+Y esta neurona derecho aquí, esto se llama
+
+00:07:37.480 --> 00:07:39.920
+la neurona presináptica.
+
+00:07:39.920 --> 00:07:40.730
+Permítanme anote.
+
+00:07:40.730 --> 00:07:42.660
+Es bueno tener una terminología un poco bajo nuestro cinturón.
+
+00:07:42.660 --> 00:07:49.220
+~Pausa~
+
+00:07:49.220 --> 00:07:51.250
+Se trata de la neurona post-sináptica.
+
+00:07:51.250 --> 00:07:58.550
+~Pausa~
+
+00:07:58.550 --> 00:08:02.740
+Y el espacio entre las dos neuronas, entre este axón y
+
+00:08:02.740 --> 00:08:05.680
+Esta dendrita, esto se llama la hendidura sináptica.
+
+00:08:05.680 --> 00:08:12.610
+~Pausa~
+
+00:08:12.610 --> 00:08:15.700
+Es un espacio realmente pequeño en términos de--para que lo que estamos
+
+00:08:15.700 --> 00:08:18.900
+vamos a tratar en este video es una sinapsis química.
+
+00:08:18.900 --> 00:08:21.450
+En general, cuando la gente habla acerca de las sinapsis, son
+
+00:08:21.450 --> 00:08:23.260
+hablando de las sinapsis químicas.
+
+00:08:23.260 --> 00:08:25.880
+También existen sinapsis eléctricas, pero no voy a entrar en
+
+00:08:25.880 --> 00:08:26.810
+detalle de aquellos.
+
+00:08:26.810 --> 00:08:29.470
+Este es uno de los más tradicional que las personas
+
+00:08:29.470 --> 00:08:30.650
+hablar.
+
+00:08:30.650 --> 00:08:34.669
+Por lo tanto su hendidura sináptica en Sinapsis químicas es aproximadamente 20
+
+00:08:34.669 --> 00:08:38.460
+nanómetros, que es realmente pequeño.
+
+00:08:38.460 --> 00:08:45.620
+Si piensas en el ancho promedio de una celda como unos 10 a
+
+00:08:45.620 --> 00:08:49.150
+100 micras--este micron es 10 a la menos 6.
+
+00:08:49.150 --> 00:08:52.160
+Esto es 20 veces 10 a los menos 9 metros.
+
+00:08:52.160 --> 00:08:54.290
+Esto es una distancia muy pequeña y tiene sentido
+
+00:08:54.290 --> 00:08:56.950
+porque miren cuán grande las células buscar siguientes
+
+00:08:56.950 --> 00:08:58.040
+a esta pequeña distancia.
+
+00:08:58.040 --> 00:09:02.210
+Por lo que es una distancia muy pequeña y tiene--en el
+
+00:09:02.210 --> 00:09:05.370
+neurona presináptica cerca del extremo terminal,
+
+00:09:05.370 --> 00:09:06.750
+tienes estas vesículas.
+
+00:09:06.750 --> 00:09:07.770
+Recuerde cuáles eran vesículas.
+
+00:09:07.770 --> 00:09:13.920
+Estas son sólo membrana enlazado cosas dentro de la célula.
+
+00:09:13.920 --> 00:09:16.120
+Así que tienes estas vesículas.
+
+00:09:16.120 --> 00:09:20.760
+También tienen sus capas de phospobilipid, sus
+
+00:09:20.760 --> 00:09:21.360
+membranas poco.
+
+00:09:21.360 --> 00:09:23.590
+Así que tienes estas vesículas lo son sólo--puede tipo
+
+00:09:23.590 --> 00:09:25.350
+de verlos como contenedores.
+
+00:09:25.350 --> 00:09:31.020
+Voy sólo señalo uno más justo como ese.
+
+00:09:31.020 --> 00:09:34.060
+Y ellos pueden formar estas moléculas llamadas
+
+00:09:34.060 --> 00:09:36.520
+neurotransmisores y me voy sacar el
+
+00:09:36.520 --> 00:09:41.280
+neurotransmisores en verde.
+
+00:09:41.280 --> 00:09:42.790
+Por lo que tienen estas moléculas llamadas
+
+00:09:42.790 --> 00:09:45.140
+neurotransmisores en ellos.
+
+00:09:45.140 --> 00:09:48.410
+Probablemente has escuchado la palabra antes.
+
+00:09:48.410 --> 00:09:53.050
+De hecho, muchos de los medicamentos que usa la gente para la depresión o
+
+00:09:53.050 --> 00:09:59.380
+otras cosas relacionadas con nuestro estado mental, que afectan a
+
+00:09:59.380 --> 00:10:01.100
+neurotransmisores.
+
+00:10:01.100 --> 00:10:03.720
+No voy a entrar en detalle allí, pero que contienen estos
+
+00:10:03.720 --> 00:10:04.710
+neurotransmisores.
+
+00:10:04.710 --> 00:10:08.810
+Y cuando los canales de calcio--son tensión
+
+00:10:08.810 --> 00:10:11.360
+Country--cuando se hace un poco más positiva,
+
+00:10:11.360 --> 00:10:15.310
+Abra las inundaciones de calcio en y lo hace el calcio es,
+
+00:10:15.310 --> 00:10:19.820
+bonos de estas proteínas que se han acoplado estas vesciles.
+
+00:10:19.820 --> 00:10:26.170
+Por lo que estas vesículas pequeñas, están acoplados a la
+
+00:10:26.170 --> 00:10:30.430
+membrana de presynpatic o a esta membrana terminal del axón
+
+00:10:30.430 --> 00:10:30.820
+allí.
+
+00:10:30.820 --> 00:10:33.520
+Estas proteínas se llaman realmente las proteínas SNARE.
+
+00:10:33.520 --> 00:10:36.290
+Es una sigla, pero también es una buena palabra porque han
+
+00:10:36.290 --> 00:10:39.540
+literalmente obtuvo las vesículas a esta membrana.
+
+00:10:39.540 --> 00:10:41.470
+Eso es lo que son estas proteínas.
+
+00:10:41.470 --> 00:10:45.810
+Y cuando las inundaciones en estos iones de calcio, adherir a estas
+
+00:10:45.810 --> 00:10:50.970
+las proteínas, que atribuyen a estas proteínas, y cambian la
+
+00:10:50.970 --> 00:10:53.850
+confirmación de las proteínas sólo suficientemente que estos
+
+00:10:53.850 --> 00:11:00.610
+proteínas traen estas vesículas más cerca a la membrana y
+
+00:11:00.610 --> 00:11:03.090
+también tipo de separar las dos membranas para que el
+
+00:11:03.090 --> 00:11:04.040
+fusión de membranas.
+
+00:11:04.040 --> 00:11:07.180
+Permítanme hacer un zoom en eso sólo para que quede claro
+
+00:11:07.180 --> 00:11:08.370
+Qué pasa.
+
+00:11:08.370 --> 00:11:11.700
+Después de que haya adherido--esto es tipo de antes el calcio
+
+00:11:11.700 --> 00:11:16.070
+entra, adhiere a las proteínas SNARE, luego el lazo
+
+00:11:16.070 --> 00:11:20.190
+proteína traerá la vesícula ultra-close a
+
+00:11:20.190 --> 00:11:22.580
+la membrana presináptica.
+
+00:11:22.580 --> 00:11:25.710
+Lo es la vesícula y luego será la membrana presináptica
+
+00:11:25.710 --> 00:11:32.370
+Este aspecto y luego tienes tus proteínas SNARE.
+
+00:11:32.370 --> 00:11:34.560
+Y obviamente no estoy sacando es exactamente como se ve la
+
+00:11:34.560 --> 00:11:37.210
+celular, pero lo voy a dar la idea de lo que está pasando.
+
+00:11:37.210 --> 00:11:42.000
+Sus proteínas SNARE esencialmente han tirado las cosas
+
+00:11:42.000 --> 00:11:44.510
+juntos y han tirado aparte para que estos dos
+
+00:11:44.510 --> 00:11:45.780
+fusión de membranas.
+
+00:11:45.780 --> 00:11:48.050
+Y, a continuación, el principal efecto secundario--la razón por qué todos los
+
+00:11:48.050 --> 00:11:51.350
+Esto está ocurriendo--es que permite esos neurotransmisores
+
+00:11:51.350 --> 00:11:54.070
+ser volcada en la hendidura sináptica.
+
+00:11:54.070 --> 00:11:57.980
+Así que esos neurotransmisores que estaban dentro de nuestro
+
+00:11:57.980 --> 00:12:01.360
+vesícula luego se vierten en la hendidura sináptica.
+
+00:12:01.360 --> 00:12:04.840
+~Pausa~
+
+00:12:04.840 --> 00:12:07.630
+Este proceso aquí se denomina exocitosis.
+
+00:12:07.630 --> 00:12:12.170
+Está cerrando el citoplasma, se podría decir, de la
+
+00:12:12.170 --> 00:12:14.210
+neurona presináptica.
+
+00:12:14.210 --> 00:12:17.130
+Estos neurotransmisores--y usted probablemente ha escuchado el
+
+00:12:17.130 --> 00:12:20.560
+nombres específicos de muchos de ellos--serotonina, dopamina,
+
+00:12:20.560 --> 00:12:23.770
+epinefrina--que también es adrenalina, pero que es también un
+
+00:12:23.770 --> 00:12:26.130
+hormona, sino que también actúa como un neurotransmisor.
+
+00:12:26.130 --> 00:12:29.380
+Norepinefrina, también ambos una hormona y un
+
+00:12:29.380 --> 00:12:29.830
+neurotransmisor.
+
+00:12:29.830 --> 00:12:32.820
+Así que estas son palabras que probablemente has escuchado antes.
+
+00:12:32.820 --> 00:12:36.070
+Pero de todas formas, estos entrar en la hendidura sináptica y entonces
+
+00:12:36.070 --> 00:12:43.780
+bond sobre la superficie de la membrana de la
+
+00:12:43.780 --> 00:12:46.100
+neurona post-sináptica o esta dendrita.
+
+00:12:46.100 --> 00:12:49.910
+~Pausa~
+
+00:12:49.910 --> 00:12:53.890
+Digamos aquí de bonos, enlace aquí y ellos bonos aquí.
+
+00:12:53.890 --> 00:12:56.560
+Por lo tanto de bonos de proteínas especiales sobre esta membrana
+
+00:12:56.560 --> 00:13:02.000
+superficie, pero el efecto principal de es, que se activará
+
+00:13:02.000 --> 00:13:03.200
+canales iónicos.
+
+00:13:03.200 --> 00:13:07.880
+Así que vamos a decir que esta neurona es emocionante esta dendrita.
+
+00:13:07.880 --> 00:13:11.540
+Así que cuando estos neurotransmisores bonos en este
+
+00:13:11.540 --> 00:13:14.780
+membrana, tal vez los canales de sodio abren.
+
+00:13:14.780 --> 00:13:18.650
+Tal vez causará un canal de sodio a abrirse.
+
+00:13:18.650 --> 00:13:20.240
+Así, en vez de ser de tensión controlada, tiene
+
+00:13:20.240 --> 00:13:22.050
+neurotransmisor gated.
+
+00:13:22.050 --> 00:13:24.950
+Por lo que esto hará que un canal de sodio a abrir y luego
+
+00:13:24.950 --> 00:13:29.350
+sodio se fluyen en y sólo entonces, como hemos dicho antes, si
+
+00:13:29.350 --> 00:13:31.970
+vamos a la original, que es como este conseguir
+
+00:13:31.970 --> 00:13:34.680
+emocionado, resulta un poco positivo y entonces si es
+
+00:13:34.680 --> 00:13:38.870
+lo suficientemente positivo, electrotonically podrá aumentar la
+
+00:13:38.870 --> 00:13:41.250
+potencial en este momento sobre el axón Loma y luego te
+
+00:13:41.250 --> 00:13:45.600
+tienen otra neurona--en este caso, siendo esta neurona
+
+00:13:45.600 --> 00:13:46.370
+estimulado.
+
+00:13:46.370 --> 00:13:48.070
+Por lo es esencialmente cómo sucede.
+
+00:13:48.070 --> 00:13:49.160
+Realmente podría ser inhibitorio.
+
+00:13:49.160 --> 00:13:54.860
+Podrías imaginar si esta, en lugar de desencadenar un sodio
+
+00:13:54.860 --> 00:14:00.340
+canal iónico, si activa un canal de iones de potasio.
+
+00:14:00.340 --> 00:14:04.450
+Si activa un canal de iones de potasio, de iones de potasio
+
+00:14:04.450 --> 00:14:06.400
+gradiente de concentración hará quiere ir
+
+00:14:06.400 --> 00:14:07.900
+fuera de la célula.
+
+00:14:07.900 --> 00:14:09.740
+Lo positivo de las cosas van a salir los
+
+00:14:09.740 --> 00:14:11.870
+celda si es potasio.
+
+00:14:11.870 --> 00:14:14.430
+Recuerde, usé triángulos para el potasio.
+
+00:14:14.430 --> 00:14:18.430
+Y eso si cosas positivas dejan la celda, luego si vas
+
+00:14:18.430 --> 00:14:21.550
+más abajo la neurona, convertirá menos positiva y así
+
+00:14:21.550 --> 00:14:25.520
+va a ser aún más difícil para que el potencial de acción poner en marcha
+
+00:14:25.520 --> 00:14:29.050
+porque tendrá lugar otra aún más positivo
+
+00:14:29.050 --> 00:14:30.370
+hacer el umbral degradado.
+
+00:14:30.370 --> 00:14:32.300
+Espero que no estoy confuso le cuando lo digo.
+
+00:14:32.300 --> 00:14:33.960
+Así que esta conexión, la forma en primera
+
+00:14:33.960 --> 00:14:35.240
+describió, es emocionante.
+
+00:14:35.240 --> 00:14:38.140
+Cuando este chico obtiene emocionado de un potencial de acción,
+
+00:14:38.140 --> 00:14:39.620
+inundaciones de calcio en.
+
+00:14:39.620 --> 00:14:43.680
+Estas vesículas hace volcar su contenido en el synaptic
+
+00:14:43.680 --> 00:14:49.680
+hendido y luego que hará abrir otras puertas de sodio y
+
+00:14:49.680 --> 00:14:51.930
+luego estimulará esta neurona, pero si hace
+
+00:14:51.930 --> 00:14:55.050
+puertas de potasio se abren, luego inhibirá--y
+
+00:14:55.050 --> 00:14:59.520
+es, francamente, estas sinapsis funcionan.
+
+00:14:59.520 --> 00:15:01.600
+Estaba a punto de decir que hay millones de sinapsis, pero
+
+00:15:01.600 --> 00:15:02.480
+eso sería incorrecto.
+
+00:15:02.480 --> 00:15:04.840
+Hay billones de sinapsis.
+
+00:15:04.840 --> 00:15:07.870
+La mejor estimación del número de sinapsis en nuestro
+
+00:15:07.870 --> 00:15:18.990
+corteza cerebral es de 100 a 500 trillones de sinapsis justo en el
+
+00:15:18.990 --> 00:15:19.860
+corteza cerebral.
+
+00:15:19.860 --> 00:15:22.450
+La razón de por qué podemos tener tantos es que una neurona puede
+
+00:15:22.450 --> 00:15:25.840
+realmente formar sinapsis muchas, muchas, muchas, muchas.
+
+00:15:25.840 --> 00:15:27.740
+O sea, te imaginas si este original dibujo de un
+
+00:15:27.740 --> 00:15:29.760
+celda, es posible que tenga una sinapsis aquí, una sinapsis aquí, un
+
+00:15:29.760 --> 00:15:30.600
+sinapsis allí.
+
+00:15:30.600 --> 00:15:33.680
+Usted podría tener cientos o miles de sinapsis incluso,
+
+00:15:33.680 --> 00:15:36.120
+en una neurona o salir de una neurona.
+
+00:15:36.120 --> 00:15:38.240
+Esto podría ser una sinapsis con una neurona, otro
+
+00:15:38.240 --> 00:15:39.250
+otro, otro.
+
+00:15:39.250 --> 00:15:42.260
+Así que muchas, muchas, muchas, muchas, muchas conexiones.
+
+00:15:42.260 --> 00:15:47.220
+Y así las sinapsis son realmente lo que nos dan la complejidad de
+
+00:15:47.220 --> 00:15:50.400
+lo que probablemente nos hacen marca en términos de nuestra mente humana y
+
+00:15:50.400 --> 00:15:50.980
+todo eso.
+
+00:15:50.980 --> 00:15:53.390
+Pero de todos modos, ojalá encontrado esto útil.

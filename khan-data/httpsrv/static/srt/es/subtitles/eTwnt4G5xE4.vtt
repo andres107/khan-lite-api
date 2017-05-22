@@ -1,0 +1,197 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.062 --> 00:00:05.399
+Dado un grupo de líneas que intersectan de diferentes maneras y forman triángulos
+
+00:00:05.399 --> 00:00:07.750
+y lo que quiero hacer en este video,
+
+00:00:07.750 --> 00:00:09.849
+es que si nos es dada la medida de algunos de los ángulos
+
+00:00:09.849 --> 00:00:10.866
+este ángulo
+
+00:00:10.866 --> 00:00:11.366
+ese ángulo
+
+00:00:11.366 --> 00:00:12.549
+y aquel ángulo
+
+00:00:12.549 --> 00:00:16.365
+y lo que queremos hacer en este video es encontrar cual es la medida de este ángulo
+
+00:00:16.365 --> 00:00:18.549
+vamos a llamar a este ángulo "x"
+
+00:00:18.549 --> 00:00:22.949
+te animo a que pauses el video en este momento y lo intentes hacer por ti mismo.
+
+00:00:22.949 --> 00:00:25.300
+y después te doy la solución.
+
+00:00:25.300 --> 00:00:29.382
+Voy a considerar que ya quitaste la pausa y que lo haz resuelto o que al menos tienes una buena idea de como hacerlo
+
+00:00:29.382 --> 00:00:30.516
+vamos a tratar de hacerlo
+
+00:00:30.516 --> 00:00:32.681
+lo divertido de esto es que hay muchas maneras de resolverlo
+
+00:00:32.681 --> 00:00:35.432
+y lo podemos averiguar de la manera que tu te lo imagines
+
+00:00:35.432 --> 00:00:38.808
+vamos a empezar por la izquierda
+
+00:00:38.808 --> 00:00:48.283
+si este ángulo es de 121 grados, entonces este otro ángulo es suplementario a este de por aquí
+
+00:00:48.283 --> 00:00:57.215
+así que este es de 121 grados, 121 grados más este ángulo verde tiene que ser igual a 180 grados.
+
+00:00:57.215 --> 00:01:04.383
+así que esté será 180 menos 121, vamos a ver, que es lo mismo que 80 menos 21.
+
+00:01:04.383 --> 00:01:08.050
+80 menos 20 es 60 así que es 59
+
+00:01:08.050 --> 00:01:12.981
+vamos a escribirlo, 59 grados.
+
+00:01:12.981 --> 00:01:16.149
+Aora vemos que tenemos dos ángulos de un triángulo
+
+00:01:16.149 --> 00:01:19.399
+Si tenemos dos ángulos de un triángulo, podemos encontrar el tercer ángulo
+
+00:01:19.399 --> 00:01:20.932
+porque todo deben sumar 180.
+
+00:01:20.932 --> 00:01:25.955
+O podemos decir que este ángulo de por aquí, vamos a llamarlo "incógnita"
+
+00:01:25.955 --> 00:01:33.865
+sabemos que 59 más 29 más "incógnita" necesita ser igual a 180 grados
+
+00:01:33.865 --> 00:01:36.736
+si restamos el 59 y el 29 de ambos lados tenemos
+
+00:01:36.736 --> 00:01:43.629
+que "incógnita" es igual a 180 menos 59 menos 29 grados
+
+00:01:43.629 --> 00:01:53.641
+así que va a ser 180 menos 59 menos 29. veamos 180 menos 59 ya lo sabemos es 121
+
+00:01:53.641 --> 00:02:04.000
+y después 121 menos 29. Si restamos sólo 20, tenemos 101. Y ahora restamos otros 9, obtenemos 92
+
+00:02:04.000 --> 00:02:06.501
+así que será igual a 92 grados
+
+00:02:06.501 --> 00:02:13.773
+Vemos que este aquí es igual a 92 grados, y este ángulo es vertical con esta ángulo
+
+00:02:13.773 --> 00:02:17.717
+así que también va a ser igual a 92 grados
+
+00:02:17.717 --> 00:02:21.716
+y ahora estamos muy cerca, podemos ampliar este triángulo aca
+
+00:02:21.716 --> 00:02:26.949
+vamos a hacer algo de espacio por aquí. digamos que por aquí van a ser 92 grados
+
+00:02:26.949 --> 00:02:32.850
+y en este triángulo de aquí abajo, tenemos dos de los lados del el triángulo. Sólo tenemos que encontrar el tercero
+
+00:02:32.850 --> 00:02:36.782
+y no tenemos que hacer muchas matemáticas porque uno de los lados-
+
+00:02:36.782 --> 00:02:38.782
+lo siento.
+
+00:02:38.782 --> 00:02:41.782
+Tenemos dos de los ángulos del triángulo. Tenemos que encontrar el tercero.
+
+00:02:41.782 --> 00:02:48.750
+Así que por aquí tenemos un ángulo de 92 grados, uno de 29 y el otro será de 180 menos 92 menos 29
+
+00:02:48.750 --> 00:02:50.816
+y no tenemos que hacer nada de matemáticas porque
+
+00:02:50.816 --> 00:02:54.766
+esencialmente es exactamente los mismos ángulos que tenemos por acá.
+
+00:02:54.766 --> 00:02:59.882
+tenemos un ángulo de 92 grados, otro de 29 grados y otro más de 59 grados
+
+00:02:59.882 --> 00:03:05.681
+así que en este caso tiene que ser también de 59 grados porque por aquí sumaron 180
+
+00:03:05.681 --> 00:03:07.599
+y por allá también deben sumar 180
+
+00:03:07.599 --> 00:03:10.732
+así que obtendremos de nuevo 59 grados.
+
+00:03:10.732 --> 00:03:15.349
+Podríamos obtener eso tomando 180 y restando 29 y restando 92
+
+00:03:15.349 --> 00:03:22.566
+y entonces este es de 59 grados, entonces este ángulo también es de 59 grados porque son ángulos verticales
+
+00:03:22.566 --> 00:03:27.483
+Terminamos, x es igual a 59 grados
+
+NOTE Paragraph
+
+00:03:27.483 --> 00:03:31.433
+Ahora, hay muchas maneras en las que podrías haber razonado este problema
+
+00:03:31.433 --> 00:03:36.715
+podrías haber dicho de inmediato... vamos a empezar de nuevo
+
+00:03:36.715 --> 00:03:40.566
+tal vez un camino más rápido, pero no hubieras podido hacer esos pasos básicos aquí...
+
+00:03:40.566 --> 00:03:48.899
+este es un ángulo exterior por aquí. Es igual a la suma de los ángulos opuestos interiores
+
+00:03:48.899 --> 00:03:53.215
+así que 121 será 29 más este de por acá.
+
+00:03:53.215 --> 00:03:56.266
+y terminamos haciendo esto cuando lo hice paso a paso anteriormente.
+
+00:03:56.266 --> 00:04:03.132
+pero ahora estamos usando algunas de las cosas que sabemos de triángulos para ahorrar tiempo y saltarnos un paso o dos
+
+00:04:03.132 --> 00:04:07.382
+también me gustaría hacerlo de otra manera para asegurar que no hicimos nada raro
+
+00:04:07.382 --> 00:04:13.866
+así que de cualquier manera este va a ser 121 menos 29 lo que da 92
+
+00:04:13.866 --> 00:04:17.699
+y si este es 92, entonces este otro también es 92
+
+00:04:17.699 --> 00:04:20.949
+y entonces, si este es x entonces este también es x
+
+00:04:20.949 --> 00:04:27.816
+y x más 92 más 29 es igual a 180 grados.
+
+00:04:27.816 --> 00:04:35.532
+y x más 92 más 29 va a ser 121 grados. Eso ya lo sabíamos antes
+
+00:04:35.532 --> 00:04:41.250
+y entonces va a ser igual a 180 grados
+
+00:04:41.250 --> 00:04:47.982
+así que x es igual a 59 grados
+
+00:04:47.982 --> 99:59:59.999
+así que hay muchos caminos por los que podrías haber pensado sobre este problema.

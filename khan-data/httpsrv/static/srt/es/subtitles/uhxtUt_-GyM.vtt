@@ -1,0 +1,888 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.990 --> 00:00:03.270
+Bienvenidos a la lista de reproducción de estadística.
+
+00:00:03.270 --> 00:00:06.380
+Algo que he querido hacer por un tiempo.
+
+00:00:06.380 --> 00:00:08.710
+De todos modos, quiero empezar con lo más grueso y
+
+00:00:08.710 --> 00:00:12.220
+Trataré de hacer la mayor cantidad de ejemplos posibles y espero
+
+00:00:12.220 --> 00:00:14.990
+que te pueda dar una idea de lo que trata la estadística.
+
+00:00:14.990 --> 00:00:16.850
+Y, realmente, trataré de empezar en caso de que no estés
+
+00:00:16.850 --> 00:00:18.550
+familiarizado con el tema-- sin embargo, pienso que muchas personas tienen una
+
+00:00:18.550 --> 00:00:20.660
+idea de lo que significa la estadística.
+
+00:00:22.414 --> 00:00:27.169
+Y esencialmente -- bueno, en términos bien generales es como
+
+00:00:27.169 --> 00:00:28.590
+envolver tu cabeza con datos (analizar datos).
+
+00:00:28.590 --> 00:00:30.540
+Y puede ser clasificado de una manera general.
+
+00:00:30.540 --> 00:00:32.640
+Bueno, hay quizás tres categorías.
+
+00:00:32.640 --> 00:00:35.330
+Tienes la estadística descriptiva.
+
+00:00:35.330 --> 00:00:39.150
+Digamos que tienes muchos datos y quieres explicárselo a alguien
+
+00:00:39.150 --> 00:00:41.480
+sin darles todos los datos.
+
+00:00:41.480 --> 00:00:45.360
+Quizás puedes encontrar números indicativos que
+
+00:00:45.360 --> 00:00:47.560
+de una manera representan todos los datos sin tener que
+
+00:00:47.560 --> 00:00:48.540
+revisar todos los datos.
+
+00:00:48.540 --> 00:00:50.370
+Eso sería estadística descriptiva.
+
+00:00:50.370 --> 00:00:51.510
+También hay predictiva.
+
+00:00:51.510 --> 00:00:53.110
+Bueno, intentaré agruparlos todos juntos.
+
+00:00:53.110 --> 00:00:55.110
+Hay estadística inferencial.
+
+00:00:58.310 --> 00:01:00.908
+Y aquí es cuando utilizas los datos para hacer esencialmente
+
+00:01:00.920 --> 00:01:02.200
+conclusiones sobre las cosas.
+
+00:01:02.200 --> 00:01:06.500
+Digamos entonces que has muestreado algunos datos a partir de una población --
+
+00:01:06.500 --> 00:01:08.890
+y hablaremos mucho sobre muestras versus poblaciones, pero
+
+00:01:08.890 --> 00:01:11.390
+Pienso que tienes una idea básica de lo que es,  ¿Verdad?
+
+00:01:11.390 --> 00:01:13.800
+Si yo encuesto a tres personas que van a votar por un
+
+00:01:13.800 --> 00:01:16.500
+presidente, claramente no he encuestado a la población entera.
+
+00:01:16.500 --> 00:01:18.160
+He encuestado a una muestra.
+
+00:01:18.160 --> 00:01:21.780
+Pero de qué la estadística inferencial trata es, si podemos hacer
+
+00:01:21.780 --> 00:01:24.890
+un poco de matemática en las muestras, quizás podemos hacer inferencias o
+
+00:01:24.890 --> 00:01:27.740
+conclusiones sobre la población en su totalidad.
+
+00:01:27.740 --> 00:01:29.760
+Bueno, de todos modos, eso es el gran panorama de que
+
+00:01:29.760 --> 00:01:30.800
+consiste la estadística.
+
+00:01:30.800 --> 00:01:33.620
+Vamos a entrar a lo grueso y comenzaremos
+
+00:01:33.620 --> 00:01:34.746
+con la descriptiva.
+
+00:01:37.931 --> 00:01:41.012
+Entonces lo primero que, no sé, que yo quisiera
+
+00:01:41.040 --> 00:01:44.330
+hacer o creo que la mayoría quisiera hacer cuando les
+
+00:01:44.330 --> 00:01:47.320
+dan un conjunto completo de números y les dicen que los describan.
+
+00:01:47.320 --> 00:01:51.030
+Bueno, quizás yo puedo utilizar un número que es el más
+
+00:01:51.030 --> 00:01:54.430
+indicativo de todos los números en el conjunto.
+
+00:01:54.430 --> 00:01:57.092
+O algún número que representa, más o menos, la tendencia central
+
+00:01:57.092 --> 00:01:59.900
+-- ésta es una palabra que verás mucho en los libros de estadística.
+
+00:01:59.900 --> 00:02:03.040
+La tendencia central de un conjunto de números.
+
+00:02:07.040 --> 00:02:09.375
+Y esto es también llamado el promedio.
+
+00:02:09.375 --> 00:02:11.780
+Y seré un poco más exacto aquí de lo que normalmente soy
+
+00:02:11.780 --> 00:02:16.060
+con la palabra "promedio". Cuando hablamos de promedio en este contexto,
+
+00:02:16.060 --> 00:02:20.090
+significa simplemente que el promedio es un número que de alguna manera
+
+00:02:20.090 --> 00:02:22.640
+nos da una idea de la tendencia central.
+
+00:02:22.640 --> 00:02:25.430
+o tal vez es un número que es el más representativo del conjunto
+
+00:02:25.430 --> 00:02:27.030
+Y yo sé que por el momento suena abstracto pero
+
+00:02:27.030 --> 00:02:28.870
+hagamos un par de ejemplos.
+
+00:02:28.870 --> 00:02:31.850
+Hay un sinnúmero de maneras en las que uno puede medir
+
+00:02:31.850 --> 00:02:35.200
+la tendencia central o el promedio de un conjunto de números
+
+00:02:35.200 --> 00:02:37.950
+y probablemente los has visto antes.
+
+00:02:37.950 --> 00:02:40.534
+Son conocidos como la "media"
+
+00:02:40.534 --> 00:02:42.960
+y en realidad, hay varios tipos de medias pero vamos a utilizar
+
+00:02:42.960 --> 00:02:44.040
+la media aritmética
+
+00:02:48.260 --> 00:02:53.810
+Luego cuando veamos retornos de inversiones veremos media geométrica y tal vez veamos la media armónica
+
+00:02:53.810 --> 00:02:55.040
+algún día
+
+00:02:55.040 --> 00:03:02.640
+Entonces tenemos la media, la mediana y la moda
+
+00:03:02.640 --> 00:03:07.050
+Y en estadística, todos estos conceptos pueden
+
+00:03:07.050 --> 00:03:10.620
+ser representativo de un conjunto de datos o una población de tendencia central
+
+00:03:10.620 --> 00:03:12.650
+o una muestra de tendencia central
+
+00:03:12.650 --> 00:03:15.590
+Y en conjunto, pueden llamarse
+
+00:03:15.590 --> 00:03:17.070
+tipos de promedio
+
+00:03:17.070 --> 00:03:18.520
+Y creo que cuando veamos ejemplos, va a
+
+00:03:18.520 --> 00:03:19.470
+tener un poquito más de sentido
+
+00:03:19.470 --> 00:03:23.440
+En el día a día, cuando la gente habla de promedios, y considero
+
+00:03:23.440 --> 00:03:26.100
+que en algún punto de sus vidas todos hemos calculado un promedio, la gente,
+
+00:03:26.100 --> 00:03:28.710
+por lo general, se refiere a la media aritmética.
+
+00:03:28.710 --> 00:03:30.320
+Asi que cuando alguien dice "Tomemos el promedio de
+
+00:03:30.320 --> 00:03:32.530
+estos números", y ellos esperan que hagas algo, ellos quieren
+
+00:03:32.530 --> 00:03:34.470
+que tu calcules la media aritmética.
+
+00:03:34.470 --> 00:03:36.490
+No quieren que obtengas la mediana o la moda.
+
+00:03:36.490 --> 00:03:38.780
+Pero antes de continuar, les voy a explicar
+
+00:03:38.780 --> 00:03:41.110
+que significan estos conceptos.
+
+00:03:41.110 --> 00:03:43.230
+Inventemos una serie de números
+
+00:03:43.230 --> 00:03:45.630
+Asumamos que tengo el número 1
+
+00:03:45.630 --> 00:03:50.220
+Y digamos que tengo otro uno, un dos y un tres
+
+00:03:50.220 --> 00:03:54.495
+Y digamos que tengo un cuatro
+
+00:03:55.095 --> 00:03:56.170
+Eso es suficiente
+
+00:03:56.170 --> 00:03:58.370
+Solo queremos un ejemplo simple
+
+00:03:58.370 --> 00:04:02.650
+Así que la media o la media aritmética es probablemente
+
+00:04:02.650 --> 00:04:05.710
+el método con el que estás más familiarizado especialmente cuando la gente habla de promedios
+
+00:04:05.710 --> 00:04:07.600
+Y básicamente, se suman todos los números y
+
+00:04:07.600 --> 00:04:09.160
+la suma se divide por la cantidad de números que hay
+
+00:04:09.160 --> 00:04:16.290
+En este caso, sería 1 + 1 + 2 + 3 + 4
+
+00:04:16.290 --> 00:04:19.420
+y vas a dividir por uno, dos, tres
+
+00:04:19.420 --> 00:04:21.020
+cuatro, cinco números.
+
+00:04:21.020 --> 00:04:21.540
+Y eso es?
+
+00:04:21.540 --> 00:04:23.470
+1 más 1 es dos
+
+00:04:23.470 --> 00:04:25.600
+2 más 2 es cuatro
+
+00:04:25.600 --> 00:04:27.640
+4 más 3 es 7
+
+00:04:27.640 --> 00:04:29.500
+7 más 4 es 11
+
+00:04:29.500 --> 00:04:32.550
+así que tenemos 11 / 5
+
+00:04:32.550 --> 00:04:33.040
+Y cuánto es?
+
+00:04:33.040 --> 00:04:34.410
+Eso es igual a 2 1/5
+
+00:04:34.410 --> 00:04:38.320
+y eso es igual a 2.2
+
+00:04:38.320 --> 00:04:39.560
+Y si alguien te dice, "Ey,
+
+00:04:39.560 --> 00:04:41.060
+ese número es representativo con respecto
+
+00:04:41.060 --> 00:04:42.490
+al conjunto.
+
+00:04:42.490 --> 00:04:44.680
+Ese es el número del cual todos los otros números
+
+00:04:44.680 --> 00:04:47.390
+están más cerca. O, 2.2 representa la
+
+00:04:47.390 --> 00:04:49.140
+tendencia central de este conjunto.
+
+00:04:49.140 --> 00:04:51.400
+y en el día a día, eso sería el promedio.
+
+00:04:51.400 --> 00:04:53.450
+Pero si somos más específicos, esto
+
+00:04:53.450 --> 00:04:55.410
+se conoce como la media aritmética de este conjunto de números
+
+00:04:55.410 --> 00:04:56.740
+Y puedes ver que este número los representa
+
+00:04:56.740 --> 00:04:59.210
+Si no te hubiese dado la lista de 5 números, yo
+
+00:04:59.210 --> 00:05:01.030
+podría decir, "Oye, tengo un conjunto de cinco números y
+
+00:05:01.030 --> 00:05:03.680
+su media es 2.2". Te dice algo sobre el conjunto de números
+
+00:05:03.680 --> 00:05:05.900
+y por lo menos sobre cómo y dónde están los números.
+
+00:05:05.900 --> 00:05:08.510
+Hablaremos un poco más sobre como saber la distancia entre
+
+00:05:08.510 --> 00:05:12.500
+los números y su media, en el siguiente video.
+
+00:05:12.500 --> 00:05:13.840
+Así que esa es una medida.
+
+00:05:13.840 --> 00:05:17.150
+Otra medida, en lugar de encontrar el promedio de esta manera,
+
+00:05:17.150 --> 00:05:19.510
+podemos encontrar el promedio si ponemos los números en orden
+
+00:05:19.510 --> 00:05:20.460
+Lo que ya hice
+
+00:05:20.460 --> 00:05:23.340
+Así que los voy a escribir en orden otra vez
+
+00:05:23.340 --> 00:05:26.810
+1,1,2,3,4
+
+00:05:26.810 --> 00:05:28.490
+Y tomas el número que está en la mitad.
+
+00:05:28.490 --> 00:05:31.790
+asi que tenemos, uno, dos, tres, cuatro, cinco números
+
+00:05:31.790 --> 00:05:34.010
+y este es el que está justo en la mitad.
+
+00:05:34.010 --> 00:05:34.940
+El número del medio es 2.
+
+00:05:34.940 --> 00:05:37.240
+Hay dos números que son mayores que dos y
+
+00:05:37.240 --> 00:05:38.610
+dos números que son menores que dos.
+
+00:05:38.610 --> 00:05:39.720
+Y esto es la mediana.
+
+00:05:39.720 --> 00:05:41.560
+en realidad, casi no hay nada que calcular
+
+00:05:41.560 --> 00:05:43.440
+Básicamente tienes que poner los números en orden
+
+00:05:43.440 --> 00:05:45.620
+Y luego hallas el número con el que tienes
+
+00:05:45.620 --> 00:05:48.260
+igual cantidad de números mayores o menores
+
+00:05:48.260 --> 00:05:51.430
+Así que la mediana de este conjunto es 2.
+
+00:05:51.430 --> 00:05:53.010
+Y como puedes ver, está bastante
+
+00:05:53.010 --> 00:05:54.320
+cerca de la media.
+
+00:05:54.320 --> 00:05:56.020
+Pero no hay una sola respuesta correcta.
+
+00:05:56.020 --> 00:05:58.550
+Una medida no es mejor que la otra
+
+00:05:58.550 --> 00:06:01.890
+Simplemente son métodos diferentes de medir el promedio
+
+00:06:01.890 --> 00:06:05.020
+Así que aquí está la mediana
+
+00:06:05.020 --> 00:06:06.980
+Y yo sé lo que están pensando, "Bueno, "
+
+00:06:06.980 --> 00:06:08.640
+"es fácil cuando uno tiene cinco números.
+
+00:06:08.640 --> 00:06:12.160
+Pero qué pasa si tenemos seis números?" Qué pasaría si fuese así?
+
+00:06:12.160 --> 00:06:14.260
+¿Qué pasa si este fuera nuestro conjunto de números?
+
+00:06:14.260 --> 00:06:19.880
+1, 1, 2, 3, y añadamos otro 4
+
+00:06:19.880 --> 00:06:21.660
+ahora no hay un número en la mitad, verdad?
+
+00:06:21.660 --> 00:06:24.870
+2 no está en la mitad porque tenemos 2 números
+
+00:06:24.870 --> 00:06:26.600
+menores y 3 mayores
+
+00:06:26.600 --> 00:06:28.820
+Y 3, tampoco está en la mitad porque hay
+
+00:06:28.820 --> 00:06:31.530
+2 números mayores y 3 que
+
+00:06:31.530 --> 00:06:32.550
+son más pequeños.
+
+00:06:32.550 --> 00:06:33.990
+así que no hay un número en la mitad.
+
+00:06:33.990 --> 00:06:36.390
+Cuando tienes un conjunto con un número par de elementos y te dicen
+
+00:06:36.390 --> 00:06:38.500
+que tienes que calcular la mediana, lo que haces es
+
+00:06:38.500 --> 00:06:43.750
+tomar los dos números del medio y calcular la media aritmética
+
+00:06:43.750 --> 00:06:45.050
+de esos dos números.
+
+00:06:45.050 --> 00:06:50.770
+Así que en este caso, la mediana sería 2.5
+
+00:06:50.770 --> 00:06:51.730
+Eso parece justo...
+
+00:06:51.730 --> 00:06:54.020
+pero pongamos esto a un lado porque quiero comparar
+
+00:06:54.020 --> 00:06:56.680
+mediana, media y moda para el mismo
+
+00:06:56.680 --> 00:06:57.620
+grupo de números
+
+00:06:57.620 --> 00:07:00.160
+Pero es bueno entender esto porque a veces
+
+00:07:00.160 --> 00:07:01.340
+puede ser un poco confuso
+
+00:07:01.340 --> 00:07:03.760
+todos estos ejemplos son definiciones
+
+00:07:03.760 --> 00:07:05.930
+Son distintas herramientas matemáticas para
+
+00:07:05.930 --> 00:07:08.470
+lograr entender los números
+
+00:07:08.470 --> 00:07:11.720
+No es que un día alguien vió estas fórmulas
+
+00:07:11.720 --> 00:07:13.660
+en la cara del sol y dijo " oh, eso es parte del
+
+00:07:13.660 --> 00:07:16.980
+universo, así es cómo se deben calcular promedios"
+
+00:07:16.980 --> 00:07:20.380
+Estas son construcciones humanas que nos ayudan a decifrar
+
+00:07:20.380 --> 00:07:22.110
+cantidades grandes de data.
+
+00:07:22.110 --> 00:07:24.670
+Este ejemplo no tiene mucho datos, pero si en vez de 5 números,
+
+00:07:24.670 --> 00:07:26.760
+tuviéramos 5 milones de números , podrían imaginarse que
+
+00:07:26.760 --> 00:07:28.780
+no pensarían en cada número individualmente.
+
+00:07:28.780 --> 00:07:31.640
+De cualquier manera, antes de seguir, déjenme decirles
+
+00:07:31.640 --> 00:07:33.410
+qué es la moda
+
+00:07:33.410 --> 00:07:36.200
+y la moda hasta cierto grado , es la medida que la mayoría
+
+00:07:36.200 --> 00:07:39.650
+de personas olvidan o que no aprenden y cuando la ven
+
+00:07:39.650 --> 00:07:41.930
+en un examen, se confunden porque la consideran
+
+00:07:41.930 --> 00:07:45.420
+un término muy avanzado, pero de cierta manera es la más facil
+
+00:07:45.420 --> 00:07:49.450
+de todas las medidas de tendencia central o de promedio
+
+00:07:49.450 --> 00:07:53.810
+La moda es esencialmente el número más común en un conjunto
+
+00:07:53.824 --> 00:07:55.904
+En este ejemplo tenemos 2 veces 1
+
+00:07:55.934 --> 00:07:57.924
+1 vez el resto de números, verdad?
+
+00:07:57.924 --> 00:07:59.514
+Así que la moda aquí es 1.
+
+00:07:59.514 --> 00:08:02.844
+Entonces, la moda es el número más común
+
+00:08:02.844 --> 00:08:04.804
+Y podrías decir: "Dime, Sal, ¿qué pasa
+
+00:08:04.804 --> 00:08:05.554
+si éste fuera nuestro conjunto?
+
+00:08:05.558 --> 00:08:11.408
+1, 1, 2, 3, 4, 4" Aquí tengo 2 veces 1 y 2 veces 4
+
+00:08:11.408 --> 00:08:14.038
+Y aquí la moda se complica un poco porque
+
+00:08:14.038 --> 00:08:18.038
+cualquier de las dos puede ser una respuesta decente para la moda
+
+00:08:18.038 --> 00:08:19.918
+Podrías decir que la moda es 1 o
+
+00:08:19.918 --> 00:08:23.668
+la moda es 4, lo cual se vuelve ambiguo
+
+00:08:23.668 --> 00:08:24.938
+y lo que quieres es claridad de
+
+00:08:24.938 --> 00:08:25.878
+la persona que te está preguntando
+
+00:08:25.878 --> 00:08:28.198
+En los exámenes cuando te pregunten
+
+00:08:28.198 --> 00:08:29.518
+no habrá esta ambiguedad
+
+00:08:29.518 --> 00:08:33.028
+Habrá un número más común en el grupo.
+
+00:08:33.028 --> 00:08:35.591
+Bueno, entonces ¿por qué no era una de
+
+00:08:35.591 --> 00:08:36.801
+esas correcta?
+
+00:08:36.801 --> 00:08:38.281
+Tu sabes para que aprendimos promedios
+
+00:08:38.281 --> 00:08:40.231
+¿por qué no usamos promedios?
+
+00:08:40.231 --> 00:08:43.351
+O por qué no usamos la media aritmética todo el tiempo?
+
+00:08:43.351 --> 00:08:44.921
+¿De qué sirve la mediana y la moda?
+
+00:08:44.921 --> 00:08:48.921
+Intentaré hacer un ejemplo y veré si
+
+00:08:48.921 --> 00:08:50.301
+si es que les parece correcto
+
+00:08:50.301 --> 00:08:52.181
+y luego pueden pensar un poco más
+
+00:08:52.181 --> 00:08:54.151
+Dígamos que tengo este grupo de números
+
+00:08:54.151 --> 00:09:04.521
+3, 3, 3, 3, 3, y, no sé, 100.
+
+00:09:04.521 --> 00:09:09.221
+Así que, ¿cuál es la media aritmética aquí?
+
+00:09:09.221 --> 00:09:12.131
+Tengo 1, 2, 3, 4...cinco veces 3 y 100
+
+00:09:12.131 --> 00:09:17.514
+Así que sería 115 dividido entre 6, verdad?
+
+00:09:17.514 --> 00:09:20.014
+Porque tengo 1, 2, 3, 4, 5, 6 números
+
+00:09:20.014 --> 00:09:22.174
+115 es sólo la suma de todos esos.
+
+00:09:22.174 --> 00:09:27.514
+Así que eso es igual a - ¿cuántos 6 hay en 115?
+
+00:09:27.514 --> 00:09:28.844
+sólo hay un número 6
+
+00:09:28.844 --> 00:09:29.934
+1 por 6 es 6
+
+00:09:29.934 --> 00:09:32.174
+hay 9 veces 55
+
+00:09:32.174 --> 00:09:34.444
+9 por 6 es 54
+
+00:09:34.444 --> 00:09:38.664
+entonces, es igual a 19 1/6
+
+00:09:38.673 --> 00:09:39.233
+Listo
+
+00:09:39.233 --> 00:09:40.583
+Acabo de agregar todos los números y dividirlos por
+
+00:09:40.583 --> 00:09:42.303
+la cantidad de números que hay
+
+00:09:42.303 --> 00:09:44.983
+Pero mi pregunta es, es esto representativo
+
+00:09:44.983 --> 00:09:45.633
+del grupo?
+
+00:09:45.633 --> 00:09:48.193
+Tengo muchos 3 y luego tengo 100 de la nada
+
+00:09:48.193 --> 00:09:52.203
+y decimos que la tendencia central es 19 1/6
+
+00:09:52.203 --> 00:09:53.713
+y 19 1/6 no parece ser muy indicativo
+
+00:09:53.713 --> 00:09:54.353
+del grupo.
+
+00:09:54.353 --> 00:09:56.053
+Bueno, quizás si es, dependiendo de la aplicación, pero
+
+00:09:56.053 --> 00:09:57.943
+parece no serlo, verdad?
+
+00:09:57.943 --> 00:10:00.073
+Mi intuición sería que la tendencia central
+
+00:10:00.073 --> 00:10:03.023
+es cercana a 3 ya que hay varios 3
+
+00:10:03.023 --> 00:10:06.843
+Y que nos diría la mediana?
+
+00:10:06.843 --> 00:10:09.343
+Ya puse estos números en orden
+
+00:10:09.343 --> 00:10:11.443
+Si está en desorden, los pondrías
+
+00:10:11.443 --> 00:10:13.623
+en este orden y dirías cuál el número del medio?
+
+00:10:13.623 --> 00:10:16.353
+Veamos, los 2 números del medio, como tengo
+
+00:10:16.353 --> 00:10:18.703
+un número par, son 3 y 3
+
+00:10:18.703 --> 00:10:20.293
+Así que si tomo el promedio de ambos --
+
+00:10:20.293 --> 00:10:22.073
+o en palabras más correctas -- si
+
+00:10:22.073 --> 00:10:26.973
+tomo la media aritmética de 3 y 3, tengo 3
+
+00:10:26.973 --> 00:10:29.563
+Y puede ser una mejor medida de la
+
+00:10:29.563 --> 00:10:34.583
+tendencia central o del promedio de esta lista de números, correcto?
+
+00:10:34.583 --> 00:10:38.583
+Esencialmente, al sacar la mediana, no me vi
+
+00:10:38.583 --> 00:10:40.643
+muy afectado por el número grande que es
+
+00:10:40.643 --> 00:10:42.163
+muy diferente de los otros.
+
+00:10:42.163 --> 00:10:44.173
+En estadística lo llaman un valor atípico
+
+00:10:44.173 --> 00:10:47.223
+Un número que, si habláramos del promedio de precios
+
+00:10:47.223 --> 00:10:51.673
+de casas, quizás cada casa en la ciudad cueste $100,000 y
+
+00:10:51.673 --> 00:10:54.063
+hay una que cuesta $1 trillón
+
+00:10:54.063 --> 00:10:56.603
+Y si alguien te dijera que el promedio de precios de casas es
+
+00:10:56.603 --> 00:10:58.283
+1 millón, entonces tendrías una
+
+00:10:58.283 --> 00:10:59.913
+percepción equivocada de la ciudad
+
+00:10:59.913 --> 00:11:03.393
+Pero la mediana sería $100,000 y eso
+
+00:11:03.393 --> 00:11:06.363
+te da un mejor idea de cómo son las casas en esa ciudad
+
+00:11:06.363 --> 00:11:08.723
+De la misma forma, esta mediana, te da una
+
+00:11:08.723 --> 00:11:12.113
+mejor idea de cómo son los números en la lista.
+
+00:11:12.113 --> 00:11:15.513
+Porque la media aritmética fue afectada por
+
+00:11:15.513 --> 00:11:17.683
+lo que llamamos un valor atípico
+
+00:11:17.683 --> 00:11:19.823
+Y poder saber cuál es el valor atípico es
+
+00:11:19.823 --> 00:11:21.953
+una de esas cosas que los estadistas dirían
+
+00:11:21.953 --> 00:11:23.303
+que los reconocen cuando los ven
+
+00:11:23.303 --> 00:11:25.333
+No hay una definición formal para el valor
+
+00:11:25.333 --> 00:11:27.793
+pero tiende a ser un número que sobresale
+
+00:11:27.793 --> 00:11:31.303
+y a veces se debe a un error en las medidas
+
+00:11:31.303 --> 00:11:32.863
+Y finalmente, la moda.
+
+00:11:32.863 --> 00:11:35.293
+Cuál es el número más común en la lista?
+
+00:11:35.293 --> 00:11:38.653
+Hay 5 veces 3 y hay 1 100.
+
+00:11:38.653 --> 00:11:41.533
+Así que el número más común es, nuevamente, 3
+
+00:11:41.533 --> 00:11:45.073
+Así que en este caso, con el valor atípico, la mediana y
+
+00:11:45.073 --> 00:11:47.493
+la moda son, quizás, mejores para
+
+00:11:47.493 --> 00:11:50.393
+darte una indicación de que lo que
+
+00:11:50.393 --> 00:11:51.933
+estos números representan
+
+00:11:51.933 --> 00:11:53.443
+Quizás esto fue un error de medida.
+
+00:11:53.443 --> 00:11:54.533
+Pero no sé, no sabemos
+
+00:11:54.533 --> 00:11:55.723
+lo que estos representan
+
+00:11:55.723 --> 00:11:56.983
+Si son precios de casas, entonces diría que
+
+00:11:56.983 --> 00:12:00.313
+son medidas más indicativas de lo que
+
+00:12:00.313 --> 00:12:03.143
+las casas en esa área cuestan.
+
+00:12:03.143 --> 00:12:06.023
+Pero si son otra cosa, como notas de un examen,
+
+00:12:06.023 --> 00:12:08.003
+entonces diría que hay un niño en la clase
+
+00:12:08.003 --> 00:12:09.873
+1 de 6 al que le fue muy bien y el resto
+
+00:12:09.873 --> 00:12:10.973
+no estudió.
+
+00:12:10.973 --> 00:12:13.093
+Y esto es más indicativo de como los
+
+00:12:13.093 --> 00:12:14.963
+estudiantes de ese nivel les va en promedio
+
+00:12:14.963 --> 00:12:17.193
+Bueno, ya terminé de hablar de este tema.
+
+00:12:17.193 --> 00:12:20.283
+Y les invito a que jueguen con muchos números y
+
+00:12:20.283 --> 00:12:21.923
+con los conceptos ustedes mismos.
+
+00:12:21.923 --> 00:12:24.553
+En el siguiente video, exploraremos más sobre
+
+00:12:24.553 --> 00:12:25.743
+estadística descriptiva.
+
+00:12:25.743 --> 00:12:27.423
+En vez de hablar sobre la tendencia central
+
+00:12:27.423 --> 00:12:30.133
+hablaremos sobre que tan lejos están las variables
+
+00:12:30.133 --> 00:12:31.250
+de la tendencia central
+
+00:12:31.250 --> 00:12:34.140
+Nos vemos en el siguiente video

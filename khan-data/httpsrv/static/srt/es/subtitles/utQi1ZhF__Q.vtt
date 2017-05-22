@@ -1,0 +1,498 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.790 --> 00:00:02.770
+Hagamos algunos ejemplos más con exacta
+
+00:00:02.770 --> 00:00:03.670
+ecuaciones diferenciales.
+
+00:00:03.670 --> 00:00:08.300
+Y estoy recibiendo estos problemas de la página 80 de mi antiguo colegio
+
+00:00:08.300 --> 00:00:09.430
+libros de ecuaciones diferenciales.
+
+00:00:09.430 --> 00:00:11.890
+Esta es la quinta edición de la escuela primaria diferencial
+
+00:00:11.890 --> 00:00:15.540
+Ecuaciones por William Boyce y Richard DiPrima.
+
+00:00:15.540 --> 00:00:17.800
+Quiero para asegurarse de que reciben crédito, que no me compensa
+
+00:00:17.800 --> 00:00:19.980
+estos problemas. Estoy recibiendo de su libro.
+
+00:00:19.980 --> 00:00:22.180
+De todos modos, así que sólo voy a dar un montón de ecuaciones.
+
+00:00:22.180 --> 00:00:23.760
+Tenemos que averiguar si son exactas, y si son
+
+00:00:23.760 --> 00:00:26.850
+exacto, vamos a usar lo que sabemos sobre el diferencial exacta
+
+00:00:26.850 --> 00:00:29.070
+ecuaciones para averiguar sus soluciones.
+
+00:00:29.070 --> 00:00:40.850
+Por lo que es la primera de ellas tienen, 2 x plus 3 plus 2y menos 2,
+
+00:00:40.850 --> 00:00:43.840
+tiempos y primo es igual a 0.
+
+00:00:43.840 --> 00:00:47.440
+Así que esto es nuestro m de x e y, aunque esto es sólo una
+
+00:00:47.440 --> 00:00:50.360
+función de x y, a continuación, este es nuestro N, ¿verdad?
+
+00:00:50.360 --> 00:00:53.130
+Se podría decir que es M, o que el N.
+
+00:00:53.130 --> 00:00:55.560
+También se podría decir que, si esto es exacto--bueno, primero
+
+00:00:55.560 --> 00:00:55.873
+vamos a [? prueba?]
+
+00:00:55.873 --> 00:00:58.120
+Este exacto, antes de empezar a hablar de psi.
+
+00:00:58.120 --> 00:01:02.220
+¿Qué es el parcial de esto, con respecto a y?
+
+00:01:02.220 --> 00:01:04.950
+El parcial de M, con respecto a y.
+
+00:01:04.950 --> 00:01:07.590
+Bueno, no hay ninguna y aquí, por lo que es la 0.
+
+00:01:07.590 --> 00:01:10.230
+La tasa de cambio que esto cambia con
+
+00:01:10.230 --> 00:01:12.580
+respecto de y es 0.
+
+00:01:12.580 --> 00:01:14.380
+Y ¿cuál es la tasa de cambio que esto cambia,
+
+00:01:14.380 --> 00:01:15.120
+¿con respecto a x?
+
+00:01:15.120 --> 00:01:18.140
+El parcial de N, con respecto a x es igual a--bien,
+
+00:01:18.140 --> 00:01:19.490
+¿no hay ningún x aquí, la derecha?
+
+00:01:19.490 --> 00:01:22.510
+Así que estas son tan sólo constantes desde el punto de vista x,
+
+00:01:22.510 --> 00:01:24.240
+Esto es todo va a ser 0.
+
+00:01:24.240 --> 00:01:26.210
+Pero vemos que son ambos 0.
+
+00:01:26.210 --> 00:01:30.480
+Por lo que es igual a sub m y o el parcial con respecto a y,
+
+00:01:30.480 --> 00:01:32.060
+el parcial con respecto a x.
+
+00:01:32.060 --> 00:01:34.380
+Esto es exacto.
+
+00:01:34.380 --> 00:01:36.500
+Y realmente, no tenemos que utilizar las ecuaciones exactas aquí.
+
+00:01:36.500 --> 00:01:38.340
+Lo haremos, sólo para que nos acostumbramos a ella.
+
+00:01:38.340 --> 00:01:40.010
+Pero si ves aquí, usted realmente podría haber calculado
+
+00:01:40.010 --> 00:01:41.670
+que esto es realmente una ecuación separable.
+
+00:01:41.670 --> 00:01:43.310
+Pero de todas formas, esto es exacto.
+
+00:01:43.310 --> 00:01:46.240
+Así que sabiendo que s exacta, nos dice que hay algunos
+
+00:01:46.240 --> 00:01:50.610
+función psi, donde psi es una función de x e y.
+
+00:01:50.610 --> 00:01:55.040
+Donde psi sub x es igual a esta función, es igual a x 2
+
+00:01:55.040 --> 00:01:58.800
+Plus 3 y psi--no digo sub x.
+
+00:01:58.800 --> 00:02:00.920
+Digo el parcial de psi, con respecto a x.
+
+00:02:00.920 --> 00:02:05.310
+Y el parcial de psi, con respecto a y, es igual a
+
+00:02:05.310 --> 00:02:09.270
+Este, 2y menos 2.
+
+00:02:09.270 --> 00:02:15.000
+Y si podemos encontrar nuestro psi, sabemos que esto es sólo el
+
+00:02:15.000 --> 00:02:16.960
+derivado de psi.
+
+00:02:16.960 --> 00:02:20.290
+Porque sabemos que la derivada, con respecto a x
+
+00:02:20.290 --> 00:02:24.510
+de psi, es igual al parcial de psi, con respeto
+
+00:02:24.510 --> 00:02:26.840
+a x, más el parcial de psi, con respeto
+
+00:02:26.840 --> 00:02:29.270
+y, a veces y prime.
+
+00:02:29.270 --> 00:02:31.750
+Este este igual es como.
+
+00:02:31.750 --> 00:02:35.280
+Por lo que si podemos averiguar de y, a continuación, nos podemos reescribir esto
+
+00:02:35.280 --> 00:02:41.390
+ecuación DX, la derivada de psi, con respecto a x, es
+
+00:02:41.390 --> 00:02:44.250
+igual a 0.
+
+00:02:44.250 --> 00:02:46.490
+Me deja cambiar colores, o va a hacer monótono.
+
+00:02:46.490 --> 00:02:53.890
+Esta aquí, si podemos encontrar un psi, donde el parcial
+
+00:02:53.890 --> 00:02:56.130
+con respecto a x, es este, el parcial con respecto a y,
+
+00:02:56.130 --> 00:02:59.930
+es esto, entonces esto puede ser reescrita como esto.
+
+00:02:59.930 --> 00:03:00.700
+Y ¿cómo sabemos?
+
+00:03:00.700 --> 00:03:03.870
+Porque la derivada de psi, con respecto a x, usando el
+
+00:03:03.870 --> 00:03:07.990
+las reglas de la cadena derivada parcial, es esto.
+
+00:03:07.990 --> 00:03:10.190
+Este parcial con respecto a x, que es esto.
+
+00:03:10.190 --> 00:03:14.070
+Este parcial con respecto a y, es este, tiempos y prime.
+
+00:03:14.070 --> 00:03:16.070
+Así que este es el punto entero de ecuaciones exactas.
+
+00:03:16.070 --> 00:03:18.760
+Pero de todos modos, así que vamos a averiguar lo que es nuestro psi.
+
+00:03:18.760 --> 00:03:21.170
+En realidad, antes averiguar, si la derivada de psi,
+
+00:03:21.170 --> 00:03:23.410
+con respecto a x, es 0, entonces si usted integrar ambos lados,
+
+00:03:23.410 --> 00:03:25.710
+Usted simplemente--la solución de esta ecuación es
+
+00:03:25.710 --> 00:03:27.440
+PSI es igual a c.
+
+00:03:27.440 --> 00:03:36.030
+Utilizando esta información, si podemos resolver para psi, entonces nos
+
+00:03:36.030 --> 00:03:39.630
+Sabemos que la solución de esta ecuación diferencial es psi
+
+00:03:39.630 --> 00:03:41.140
+es igual a c.
+
+00:03:41.140 --> 00:03:42.880
+Y, a continuación, si tenemos algunas condiciones iniciales, podríamos
+
+00:03:42.880 --> 00:03:43.970
+resolver para c.
+
+00:03:43.970 --> 00:03:47.960
+Así que vamos a resolver para psi.
+
+00:03:47.960 --> 00:03:49.830
+Así que vamos a integrar ambos lados de esta ecuación,
+
+00:03:49.830 --> 00:03:51.350
+con respecto a x.
+
+00:03:51.350 --> 00:03:58.980
+Y luego llegamos psi es igual a x al cuadrado más x 3, además de
+
+00:03:58.980 --> 00:04:01.180
+alguna función de y.
+
+00:04:01.180 --> 00:04:03.590
+Llamemos al h de y.
+
+00:04:03.590 --> 00:04:05.740
+Y recuerde, normalmente cuando usted toma una primitiva,
+
+00:04:05.740 --> 00:04:07.810
+¿tiene sólo un plus c aquí, derecha?
+
+00:04:07.810 --> 00:04:09.210
+Pero se puede decir que tomamos un anti-partial tipo de
+
+00:04:09.210 --> 00:04:10.560
+derivado.
+
+00:04:10.560 --> 00:04:12.760
+Así que cuando usted tomó una derivada parcial, con respecto a x,
+
+00:04:12.760 --> 00:04:15.370
+no sólo pierdes constantes--por eso tenemos
+
+00:04:15.370 --> 00:04:17.870
+una c plus, normalmente--pero también pierdes nada que tiene un
+
+00:04:17.870 --> 00:04:20.570
+función de y y x.
+
+00:04:20.570 --> 00:04:23.110
+Así, por ejemplo, tomar la derivada parcial de este
+
+00:04:23.110 --> 00:04:25.130
+¿con respecto a x, vas a conseguir esto, la derecha?
+
+00:04:25.130 --> 00:04:27.430
+Porque la derivada parcial de una función puramente de y,
+
+00:04:27.430 --> 00:04:29.090
+con respecto a x, va a ser 0.
+
+00:04:29.090 --> 00:04:30.450
+Por lo que desaparecerá.
+
+00:04:30.450 --> 00:04:32.550
+Así que de todos modos, tomamos la primitiva de
+
+00:04:32.550 --> 00:04:34.440
+Esto, conseguimos esto.
+
+00:04:34.440 --> 00:04:36.270
+Ahora, utilizamos esta información.
+
+00:04:36.270 --> 00:04:37.650
+Bien, utilizamos esta información.
+
+00:04:37.650 --> 00:04:40.240
+Tomamos el parcial de esta expresión, y decimos, bien,
+
+00:04:40.240 --> 00:04:44.000
+el parcial de esta expresión, con respecto a y,
+
+00:04:44.000 --> 00:04:46.805
+tiene que igual esto, y entonces podemos resolver para h y, a continuación,
+
+00:04:46.805 --> 00:04:47.420
+nos va hacer.
+
+00:04:47.420 --> 00:04:48.890
+Así que vamos a hacer eso.
+
+00:04:48.890 --> 00:04:52.920
+Para que el parcial de psi, con respecto a y, es igual a--
+
+00:04:52.920 --> 00:04:56.980
+bueno, va a ser de 0, 0, 0.
+
+00:04:56.980 --> 00:04:58.850
+Esta parte es una función de x.
+
+00:04:58.850 --> 00:05:00.910
+Si usted toma el parcial con respecto a y, es 0, porque
+
+00:05:00.910 --> 00:05:03.370
+Estas son constantes, desde un punto de vista de y.
+
+00:05:03.370 --> 00:05:08.460
+Así te dejan con h prime de y.
+
+00:05:08.460 --> 00:05:13.810
+Por lo tanto sabemos prime h de y, que es el parcial de psi,
+
+00:05:13.810 --> 00:05:16.540
+con respecto a y, es igual a esto.
+
+00:05:16.540 --> 00:05:20.200
+Primer tan h de y es igual a 2y menos 2.
+
+00:05:20.200 --> 00:05:23.580
+Y luego, si queríamos averiguar qué h de y es, nos
+
+00:05:23.580 --> 00:05:26.180
+Get h de y--acaba de integrar ambos lados, con respecto a
+
+00:05:26.180 --> 00:05:31.020
+y--es igual a y cuadrada plus--perdón--y
+
+00:05:31.020 --> 00:05:32.720
+al cuadrado menos 2 y.
+
+00:05:32.720 --> 00:05:35.340
+Ahora, podría tener un plus c allí, pero si vieron la
+
+00:05:35.340 --> 00:05:37.410
+el ejemplo anterior, verá que tipo de combinaciones que c
+
+00:05:37.410 --> 00:05:38.740
+con el otro c, así que usted no tiene que preocuparse
+
+00:05:38.740 --> 00:05:39.750
+sobre ello ahora mismo.
+
+00:05:39.750 --> 00:05:43.540
+¿Cuál es nuestra función psi, tal como lo conocemos ahora, no
+
+00:05:43.540 --> 00:05:45.640
+¿preocuparse por el c plus?
+
+00:05:45.640 --> 00:05:56.160
+Es psi de x e y es igual a x al cuadrado más 3 x más h
+
+00:05:56.160 --> 00:05:58.810
+y--lo que hemos averiguados es esto--plus y
+
+00:05:58.810 --> 00:06:02.100
+cuadrado, menos 2 y.
+
+00:06:02.100 --> 00:06:05.450
+Y sabemos que una solución de la ecuación diferencial original
+
+00:06:05.450 --> 00:06:10.400
+es psi es igual a c.
+
+00:06:10.400 --> 00:06:13.280
+La solución de la ecuación diferencial es
+
+00:06:13.280 --> 00:06:14.710
+es igual a c.
+
+00:06:14.710 --> 00:06:19.230
+x squared plus 3 x plus y al cuadrado, menos
+
+00:06:19.230 --> 00:06:20.860
+2y es igual a c.
+
+00:06:20.860 --> 00:06:23.520
+Si tuvieras algunas condiciones adicionales, se podría probar.
+
+00:06:23.520 --> 00:06:27.600
+Y os animo a probar esta fuera en este original
+
+00:06:27.600 --> 00:06:32.390
+ecuación, o me animo a tomar la derivada de psi,
+
+00:06:32.390 --> 00:06:34.800
+y probar a usted que si tomaste la derivada de
+
+00:06:34.800 --> 00:06:39.750
+PSI, con respecto a x, aquí, implícitamente, que el que obtiene
+
+00:06:39.750 --> 00:06:42.150
+Esta ecuación diferencial.
+
+00:06:42.150 --> 00:06:44.710
+De todos modos, vamos a hacer otro.
+
+00:06:44.710 --> 00:06:46.770
+Vamos a borrar la imagen.
+
+00:06:46.770 --> 00:06:49.190
+Ejemplos así que cuanto más que vea, mejor.
+
+00:06:49.190 --> 00:07:04.130
+Así que vamos a ver, éste dice x 2 plus 4 plus 2 x menos 2y, y
+
+00:07:04.130 --> 00:07:06.420
+primo es igual a 0.
+
+00:07:06.420 --> 00:07:10.340
+¿Qué es el parcial de este respecto de y?
+
+00:07:10.340 --> 00:07:15.230
+Tan M, el parcial de M, respecto y--esto es 0--tan
+
+00:07:15.230 --> 00:07:16.160
+es igual a 4.
+
+00:07:16.160 --> 00:07:18.180
+¿Qué es el parcial de esto, con respecto a x, este
+
+00:07:18.180 --> 00:07:19.970
+¿parte derecha aquí?
+
+00:07:19.970 --> 00:07:23.460
+El parcial de N, con respecto a x, es 2.
+
+00:07:23.460 --> 00:07:24.980
+Esto es 0.
+
+00:07:24.980 --> 00:07:28.090
+Por lo que es diferente el parcial de esto, con respecto a y,
+
+00:07:28.090 --> 00:07:29.920
+que el parcial de N, con respecto a x.
+
+00:07:29.920 --> 00:07:33.500
+Así que esto no es exacto.
+
+00:07:33.500 --> 00:07:37.360
+Así que no podemos solucionar esto utilizando nuestra metodología exacta.
+
+00:07:37.360 --> 00:07:39.070
+Por lo era un problema bastante sencillo.
+
+00:07:39.070 --> 00:07:41.960
+Vamos a hacer otro.
+
+00:07:41.960 --> 00:07:42.790
+Vamos a ver.
+
+00:07:42.790 --> 00:07:44.710
+Estoy corriendo fuera de tiempo, por lo que quiero hacer uno que no es demasiado
+
+00:07:44.710 --> 00:07:46.190
+complicado.
+
+00:07:46.190 --> 00:07:54.130
+Vamos a ver, 3 x al cuadrado menos 2xy--en realidad, me deja hacer esto
+
+00:07:54.130 --> 00:07:54.810
+en el siguiente problema.
+
+00:07:54.810 --> 00:07:56.170
+No quiero correr estas cosas.
+
+00:07:56.170 --> 00:07:58.430
+Yo seguiré en el siguiente vídeo.
+
+00:07:58.430 --> 00:07:59.680
+Nos vemos luego.

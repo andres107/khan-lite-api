@@ -1,0 +1,428 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:01.280
+Un búfer o corredor ribereño
+
+00:00:01.280 --> 00:00:04.040
+es una área alrededor de un río
+
+00:00:04.040 --> 00:00:06.230
+eso está cubierto con vegetación
+
+00:00:06.230 --> 00:00:08.720
+El búfer proteje el agua en el río
+
+00:00:08.720 --> 00:00:10.932
+de la actividad que ocurre cerca de su cauce
+
+00:00:10.932 --> 00:00:12.390
+así que, imaginemos esto un poco
+
+00:00:12.390 --> 00:00:15.460
+digamos que yo tengo una corriente de agua justo aquí.
+
+00:00:15.460 --> 00:00:18.840
+así esto aquí es mi corriente
+
+00:00:18.840 --> 00:00:20.720
+y el búfer ribereño es un área
+
+00:00:20.720 --> 00:00:23.070
+cerca de la corriente que está cubierta en vegetación
+
+00:00:23.070 --> 00:00:25.950
+así, el búfer ribereño puede estar justo aquí,
+
+00:00:25.950 --> 00:00:28.160
+en este lado de la corriente, y puede haber
+
+00:00:28.160 --> 00:00:32.259
+otro en este lado de la corriente justo aquí.
+
+00:00:32.259 --> 00:00:35.750
+suponga que usted tiene una finca cerca al búfer ribereño
+
+00:00:35.750 --> 00:00:39.530
+El búfer empieza S pies desde el límite de su finca
+
+00:00:39.530 --> 00:00:44.020
+y termina B pies desde el límite de su finca
+
+00:00:44.020 --> 00:00:46.870
+¿Qué tan ancho es el búfer o corredor ribereño?
+
+00:00:46.870 --> 00:00:49.860
+así que esto aquí puede ser mi finca
+
+00:00:49.860 --> 00:00:57.360
+como tengo mi finca acá, esos son mis cultivos, justo así.
+
+00:00:57.360 --> 00:00:59.500
+y ellos dicen que el búfer empieza
+
+00:00:59.500 --> 00:01:01.170
+S pies desde el límite de la finca
+
+00:01:01.170 --> 00:01:03.720
+así que, digamos que esto aquí
+
+00:01:03.720 --> 00:01:06.810
+es el límite de mi finca
+
+00:01:06.810 --> 00:01:09.890
+y dice que comienza S pies desde el límite de la finca
+
+00:01:09.890 --> 00:01:11.640
+así que depende del lado que usted considere
+
+00:01:11.640 --> 00:01:14.210
+sea el comienzo del búfer ribereño
+
+00:01:14.210 --> 00:01:16.590
+tal vez, tomemos este lado como el comienzo
+
+00:01:16.590 --> 00:01:21.300
+y ellos dicen que esta distancia de aquí es S pies,
+
+00:01:21.300 --> 00:01:24.580
+y termina en B pies desde el límite de la finca
+
+00:01:24.580 --> 00:01:29.150
+así que ellos dicen que toda esta distancia de acá
+
+00:01:29.150 --> 00:01:33.210
+hasta la otra orilla del búfer ribereño es B pies
+
+00:01:33.210 --> 00:01:35.690
+¿Qué tan ancho es el búfer ribereño?
+
+00:01:35.690 --> 00:01:37.440
+Así que la forma en que yo hago mis supuestos
+
+00:01:37.440 --> 00:01:41.860
+sobre dónde el búfer ribereño empieza y termina,
+
+00:01:41.860 --> 00:01:46.130
+se ve como B menos S
+
+00:01:46.130 --> 00:01:48.800
+B menos S será esta distancia de aquí
+
+00:01:48.800 --> 00:01:53.670
+Así que esto es B menos S
+
+00:01:53.670 --> 00:01:54.720
+pero yo he asumido que el
+
+00:01:54.720 --> 00:01:57.810
+búfer empieza justo acá y termina aquí.
+
+00:01:57.810 --> 00:01:59.690
+pero yo puede haberlo visto al contrario
+
+00:01:59.690 --> 00:02:01.580
+Yo pude haber dicho, hey, mira,
+
+00:02:01.580 --> 00:02:08.730
+el búfer empieza en este lado y este sería mi S
+
+00:02:08.730 --> 00:02:10.870
+y pude haber dicho, tal vez termina en este lado,
+
+00:02:10.870 --> 00:02:13.020
+y entonces este sería el B.
+
+NOTE Paragraph
+
+00:02:13.020 --> 00:02:14.840
+Nosotros realmente no sabemos
+
+00:02:14.840 --> 00:02:17.640
+qué lado es el comienzo o el final del búfer
+
+00:02:17.640 --> 00:02:19.720
+y en este mundo, justo acá
+
+00:02:19.720 --> 00:02:22.800
+decimos que la diferencia,
+
+00:02:22.800 --> 00:02:31.620
+o qué tan ancho es el búfer ribereño sería S menos B
+
+00:02:31.620 --> 00:02:33.580
+Pero una forma que podemos estar seguros que
+
+00:02:33.580 --> 00:02:36.038
+vamos a obtener una respuesta positiva de cualquier forma
+
+00:02:36.038 --> 00:02:37.584
+---porque queremos que la distancia sea positiva es---
+
+00:02:37.584 --> 00:02:39.000
+bien, podemos decir, mira, no sabemos
+
+00:02:39.000 --> 00:02:41.700
+si es S menos B ó B menos S
+
+00:02:41.700 --> 00:02:43.785
+así que solo tomemos el valor absoluto de esto.
+
+00:02:43.785 --> 00:02:46.030
+Así, valor absoluto de B menos S,
+
+00:02:46.030 --> 00:02:51.180
+incluso en esta situación de aquí vamos a obtener exactamente la misma respuesta
+
+00:02:51.180 --> 00:02:53.470
+que en el valor absoluto de S menos B.
+
+00:02:53.470 --> 00:02:57.200
+Es hallar justo la diferencia absoluta entre estos dos valores
+
+00:02:57.200 --> 00:03:00.050
+sin importar cual de ellos es mayor
+
+00:03:00.050 --> 00:03:01.150
+Quiero dejar claro esto:
+
+00:03:01.150 --> 00:03:03.640
+El valor absoluto de B menos S es lo mismo
+
+00:03:03.640 --> 00:03:07.763
+que el valor absoluto de S menos B
+
+00:03:07.766 --> 00:03:11.090
+Y así yo iría con cualquiera de los dos
+
+00:03:11.090 --> 00:03:13.900
+Hagamos otro caso:
+
+00:03:13.900 --> 00:03:18.490
+El doctor When es un extraterrestre viajero del tiempo con un doctorado
+
+00:03:18.490 --> 00:03:23.340
+en el año 1999, doctor When está sentado en el parque Central
+
+00:03:23.340 --> 00:03:26.130
+de la ciudad de Nueva York comiendo un perro caliente
+
+00:03:26.130 --> 00:03:29.340
+Entonces él se da cuenta que ha perdido su sombrero
+
+00:03:29.340 --> 00:03:32.540
+para recuperar su sombrero, él viaja T años,
+
+00:03:32.540 --> 00:03:36.320
+donde T es negativo para representar
+
+00:03:36.320 --> 00:03:38.580
+un viaje al pasado
+
+00:03:38.580 --> 00:03:42.750
+Qué sabemos sobre la suma de 1999 más T?
+
+00:03:42.750 --> 00:03:44.730
+pues sabemos que T es un número negativo
+
+00:03:44.730 --> 00:03:45.990
+y que él está devolviéndose al pasado
+
+00:03:45.990 --> 00:03:47.610
+así que miremos las opciones:
+
+00:03:47.610 --> 00:03:53.330
+1999 más T es el valor absoluto de T mayor que 1999.
+
+00:03:53.330 --> 00:03:56.110
+no, eso sería cierto si T fuera un número positivo
+
+00:03:56.110 --> 00:03:58.080
+por tanto diríamos, hey, esta de acá es
+
+00:03:58.080 --> 00:04:02.540
+el valor absoluto de T mayor que 1999
+
+00:04:02.540 --> 00:04:04.570
+Esto sería posible solo en positivo
+
+00:04:04.570 --> 00:04:08.650
+sería esta opción en el caso de que T fuera positivo
+
+00:04:08.650 --> 00:04:09.617
+así que leamos esta otra.
+
+00:04:09.617 --> 00:04:15.070
+1999 más T es el valor absoluto de T menor que 1999
+
+00:04:15.070 --> 00:04:15.777
+Eso es correcto.
+
+00:04:15.777 --> 00:04:17.860
+Imagine una situación --sabemos que T es negativo--
+
+00:04:17.860 --> 00:04:21.920
+imagine que T es igual a 3 negativo
+
+00:04:21.920 --> 00:04:29.710
+entonces 1999 más T sería igual a 1996
+
+00:04:29.710 --> 00:04:41.180
+el cual es 3 años menor, esto es 3 años menor que 1999,
+
+00:04:41.180 --> 00:04:43.260
+y este 3 de aquí
+
+00:04:43.260 --> 00:04:47.594
+o podríamos escribir que 1996 es --en efecto
+
+00:04:47.594 --> 00:04:49.010
+decirlo 3 años menor que -- su
+
+00:04:49.010 --> 00:04:57.560
+el valor absoluto de (-3) años menor que 1999.
+
+00:04:57.560 --> 00:04:59.480
+así que esta opción funciona
+
+00:04:59.480 --> 00:05:03.100
+1999 más T sería el valor absoluto,
+
+00:05:03.100 --> 00:05:06.090
+la magnitud absoluta de ese número negativo
+
+00:05:06.090 --> 00:05:08.590
+T menor que 1999
+
+00:05:08.590 --> 00:05:11.590
+Así que podemos seguir con esta de acá.
+
+00:05:11.590 --> 00:05:13.430
+Hagamos uno más.
+
+00:05:13.430 --> 00:05:17.130
+Usted está usando un taladro para abrir un hueco para un poste de una cerca.
+
+00:05:17.130 --> 00:05:20.950
+el fondo del hueco está en la posición de 2.3 negativo
+
+00:05:20.950 --> 00:05:22.210
+respecto al nivel del suelo
+
+00:05:22.210 --> 00:05:23.680
+Dibujemos el suelo.
+
+00:05:23.680 --> 00:05:28.840
+Aquí está el suelo, justo aquí está el nivel del suelo
+
+00:05:28.840 --> 00:05:33.955
+y el fondo del hueco -- he abierto un orificio--
+
+00:05:33.955 --> 00:05:37.020
+y el fondo del hueco está en la posición
+
+00:05:37.020 --> 00:05:39.970
+de 2.3 pies negativos
+
+00:05:39.970 --> 00:05:47.090
+así que esta posición aquí es 2.3 pies negativos
+
+00:05:47.090 --> 00:05:48.550
+respecto al nivel del suelo
+
+00:05:48.550 --> 00:05:51.880
+el poste de la cerca tiene una longitud de 4.7 pies.
+
+00:05:51.880 --> 00:05:53.770
+¿cuánto más alto es el poste de la cerca
+
+00:05:53.770 --> 00:05:55.930
+cuando esta parado a nivel del suelo que
+
+00:05:55.930 --> 00:05:58.050
+cuando está dentro del hueco que usted perforó?
+
+00:05:58.050 --> 00:06:00.070
+así, cuando está parado a nivel del piso
+
+00:06:00.070 --> 00:06:02.390
+-- déjeme dibujarle el poste de la cerca
+
+00:06:02.390 --> 00:06:05.480
+cuando está ubicado a nivel del piso,
+
+00:06:05.480 --> 00:06:08.360
+el poste se verá algo como esto, y
+
+00:06:08.360 --> 00:06:12.180
+cuando está parado a nivel del piso, tiene 4.7 pies de altura
+
+00:06:12.180 --> 00:06:15.490
+4.7. así esta distancia de acá
+
+00:06:15.490 --> 00:06:18.960
+así, si lo fuera a dibujar. -- quiero aclarar esto--
+
+00:06:18.960 --> 00:06:22.990
+esto de acá es 2.3 negativo
+
+00:06:22.990 --> 00:06:26.190
+esto de acá es 4.7
+
+00:06:26.190 --> 00:06:28.905
+Eso es, lo alto que es cuando está ubicado en el suelo.
+
+00:06:28.905 --> 00:06:30.280
+Qué tanto es más alto el poste de la cerca
+
+00:06:30.280 --> 00:06:31.946
+cuando está parado a nivel del piso que
+
+00:06:31.946 --> 00:06:33.690
+cuando está ubicado en el hueco que usted perforó?
+
+00:06:33.690 --> 00:06:36.920
+así cuando usted pone este poste en el hueco perforado
+
+00:06:36.920 --> 00:06:39.500
+se va a hundir 2.3 pies
+
+00:06:39.500 --> 00:06:45.815
+así irá hacia abajo 2.3 pies
+
+00:06:45.815 --> 00:06:47.967
+usted puede descubrir que altura esta,
+
+00:06:47.967 --> 00:06:50.550
+pero ellos no nos están preguntando por esta altura sobresaliente
+
+00:06:50.550 --> 00:06:53.890
+ellos están diciendo solo, cuánto baja la altura
+
+00:06:53.890 --> 00:06:55.630
+cuando está ubicado en el hueco que usted perforó?
+
+00:06:55.630 --> 00:06:59.700
+así está muy claro que esta distancia de aquí
+
+00:06:59.700 --> 00:07:02.440
+será 2.3 pies
+
+00:07:02.440 --> 00:07:05.910
+será 2.3 pies más bajo, cuando
+
+00:07:05.910 --> 00:07:08.080
+usted lo ubique dentro del hueco
+
+00:07:08.080 --> 00:07:09.610
+luego, qué tanto es más alto el poste de la cerca
+
+00:07:09.610 --> 00:07:11.076
+cuando está parado a nivel del piso que
+
+00:07:11.076 --> 00:07:12.540
+cuando está ubicado en el hueco que usted perforó?
+
+00:07:12.540 --> 00:07:19.339
+es 2.3 pies más alto cuando está parado a nivel del piso.

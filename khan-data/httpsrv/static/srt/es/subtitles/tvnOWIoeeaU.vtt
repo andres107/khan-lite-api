@@ -1,0 +1,93 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.467 --> 00:00:04.000
+Factorizar 'x' cuadrado menos 49 'y' cuadrado
+
+00:00:04.000 --> 00:00:05.968
+asi que lo es interesante aqui es
+
+00:00:05.968 --> 00:00:07.802
+cuando 'x' cuadrado es cuadrado perfecto, sin duda
+
+00:00:07.802 --> 00:00:08.800
+es el caudrado de 'x'
+
+00:00:08.800 --> 00:00:12.000
+49 'y' cuadrado tambien es caudrado perfecto
+
+00:00:12.000 --> 00:00:15.133
+es el cuadrado de siete 'y'
+
+00:00:15.133 --> 00:00:17.554
+lo mira como tengamos un forma especial
+
+00:00:17.554 --> 00:00:19.933
+solo cosa es lo que sucede
+
+00:00:19.933 --> 00:00:24.333
+'a' mas 'b' por 'a' menos 'b'
+
+00:00:24.333 --> 00:00:27.000
+Hago en general para que podamos ver un patron aqui
+
+00:00:27.000 --> 00:00:29.629
+puede ser: 'a' por 'a'
+
+00:00:29.629 --> 00:00:33.200
+lo que seria 'a' cuadrado-, mas: 'a' por negativa 'b'
+
+00:00:33.200 --> 00:00:37.709
+lo que seria negativa 'ab-', mas 'b' por 'a'
+
+00:00:37.709 --> 00:00:41.471
+o 'a' por 'b' otra vez, lo que seria 'ab'
+
+00:00:41.471 --> 00:00:45.302
+y despues tenga 'b' por negativa 'b', lo que seria menos 'b' cuadrado
+
+00:00:45.302 --> 00:00:49.000
+Ahora, estos terminos cancelan: menos 'ab' mas 'ab'
+
+00:00:49.000 --> 00:00:53.067
+y solo todo mas es 'a' cuadrado menos 'b' cuadrado
+
+00:00:53.067 --> 00:00:57.133
+y es patron exactamente que tengamos aqui, tenemos un 'a' cuadrado menos un 'b' cuadrado
+
+00:00:57.133 --> 00:01:06.804
+aqui 'a' es 'x' y 'b' es siete 'y'
+
+00:01:06.804 --> 00:01:11.471
+tengamos 'x' cuadrado menos siete 'y', de todo cuadrado
+
+00:01:11.471 --> 00:01:16.400
+podamos expandir esto de differencia de los cuadrados
+
+00:01:16.400 --> 00:01:19.333
+o tambien este aquies es differencia de los cuadrados
+
+00:01:19.333 --> 00:01:22.965
+podamos expandir esto, asi, porque este sera igual a:
+
+00:01:22.965 --> 00:01:30.047
+'x' mas siete 'y' por 'x' menos siete 'y'
+
+00:01:30.047 --> 00:01:31.881
+y tambien, otra vez, lo coincidimos
+
+00:01:31.881 --> 00:01:34.000
+lo que de este realizacion aqui:
+
+00:01:34.000 --> 00:01:37.200
+si tome 'a' mas 'b', yo puedo tener differencia de los cuadrados
+
+00:01:37.200 --> 00:01:39.133
+este es differencia de los cuadrados
+
+00:01:39.133 --> 00:01:43.200
+y cuando yo factorizarelo, debe ser algo que mira como
+
+00:01:43.200 --> 00:01:47.369
+'a' mas 'b' por 'a' menos 'b' o 'x' mas siete 'y', por 'x' menos siete 'y'

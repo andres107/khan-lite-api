@@ -1,0 +1,672 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.660
+...
+
+00:00:00.660 --> 00:00:02.850
+Estamos en el problema 61.
+
+00:00:02.850 --> 00:00:07.170
+Dice que el punto menos 3,2 se encuentra en un círculo cuya
+
+00:00:07.170 --> 00:00:11.990
+ecuación es: "x" más 3 al cuadrado, más "y", más 1 al cuadrado, todo ello igual
+
+00:00:11.990 --> 00:00:13.270
+a "r" al cuadrado.
+
+00:00:13.270 --> 00:00:18.080
+¿Cuál de los siguientes es el radio del círculo?
+
+00:00:18.080 --> 00:00:21.100
+La manera de pensarlo es que este punto
+
+00:00:21.100 --> 00:00:22.770
+cumple la ecuación.
+
+00:00:22.770 --> 00:00:27.270
+...
+
+00:00:27.270 --> 00:00:30.800
+Cualquier punto en la ecuación cumplirá a ambos lados de este
+
+00:00:30.800 --> 00:00:31.500
+signo de igual.
+
+00:00:31.500 --> 00:00:33.290
+Por lo tanto, lo que tenemos que hacer es sustituir x e y
+
+00:00:33.290 --> 00:00:35.850
+aquí, y comprobar que el cuadrado de "r" es igual a esa suma.
+
+00:00:35.850 --> 00:00:38.110
+Hagámoslo.
+
+00:00:38.110 --> 00:00:40.080
+Si sustituimos "x" por menos 3.
+
+00:00:40.080 --> 00:00:44.310
+Lo haré aquí, con un color oscuro.
+
+00:00:44.310 --> 00:00:48.100
+Pones -3, y sólo sustituyo la "x".
+
+00:00:48.100 --> 00:00:55.280
+Más 3 al cuadrado; ahora "y"; "y" es 2.
+
+00:00:55.280 --> 00:01:01.370
+2 más el cuadrado de 1 es igual al cuadrado de "r".
+
+00:01:01.370 --> 00:01:03.120
+Menos 3 más tres, es 0.
+
+00:01:03.120 --> 00:01:04.410
+O al cuadrado es 0.
+
+00:01:04.410 --> 00:01:06.180
+Y entonces, 2 más el cuadrado de 1.
+
+00:01:06.180 --> 00:01:09.040
+Entonces el cuadrado de 3 es igual al cuadrado de "r".
+
+00:01:09.040 --> 00:01:11.080
+Puedes decir que el cuadrado de "r" es 9 y entonces que r es igual
+
+00:01:11.080 --> 00:01:14.060
+a 3, porque no puedes tener un radio negativo.
+
+00:01:14.060 --> 00:01:16.925
+Vemos inmediatamente que "r" es igual a 3.
+
+00:01:16.925 --> 00:01:19.020
+Por lo tanto, todo lo que tienes que hacer es sustituir
+
+00:01:19.020 --> 00:01:20.920
+los valores de "x" e "y".
+
+00:01:20.920 --> 00:01:25.410
+Porque cualquier punto que satisfaga esta igualdad está en
+
+00:01:25.410 --> 00:01:27.490
+el círculo, definido por esta ecuación.
+
+00:01:27.490 --> 00:01:29.460
+Dicen este punto está en el círculo, sólo tienes que
+
+00:01:29.460 --> 00:01:32.620
+substituírlos y sólo resolver r.
+
+00:01:32.620 --> 00:01:35.390
+Problema 62.
+
+00:01:35.390 --> 00:01:37.380
+Parece que vamos a hacer algo de trigonometría.
+
+00:01:37.380 --> 00:01:41.860
+En la figura, abajo si el seno de x es igual a 5 sobre 13
+
+00:01:41.860 --> 00:01:44.570
+cuál es el coseno de x y la tangente de x?
+
+00:01:44.570 --> 00:01:46.370
+Y yo no sé si has visto los videos de trigonometría básica,
+
+00:01:46.370 --> 00:01:48.190
+quizá los quieras ver.
+
+00:01:48.190 --> 00:01:51.450
+Pero un buen mnemotécnico para memorizar seno, coseno y
+
+00:01:51.450 --> 00:01:52.700
+tangente es SOHCAHTOA
+
+00:01:52.700 --> 00:01:59.380
+...
+
+00:01:59.380 --> 00:02:05.630
+Y significa SOH es: seno es igual a lo opuesto sobre
+
+00:02:05.630 --> 00:02:06.970
+hipotenusa
+
+00:02:06.970 --> 00:02:09.770
+CAH es: coseno es igual a adyacente sobre hipotenusa
+
+00:02:09.770 --> 00:02:11.750
+Y te diré que significan en un segundo.
+
+00:02:11.750 --> 00:02:15.760
+Y tangente, puedes haberlo adivinado, es igual a opuesto
+
+00:02:15.760 --> 00:02:17.250
+sobre adyacente.
+
+00:02:17.250 --> 00:02:18.270
+¿Qué significa esto?
+
+00:02:18.270 --> 00:02:19.590
+¿Qué es toda esta mnemotécnica?
+
+00:02:19.590 --> 00:02:20.810
+Así que es posible que sólo quieras recordar SOHCAHTOA
+
+00:02:20.810 --> 00:02:23.550
+Entonces podrías descomponerlo de esta manera
+
+00:02:23.550 --> 00:02:26.550
+Así que si tomo el seno de este ángulo.
+
+00:02:26.550 --> 00:02:30.350
+Eso significa el lado opuesto de este ángulo sobre la
+
+00:02:30.350 --> 00:02:32.860
+hipotenusa es igual al seno de este ángulo.
+
+00:02:32.860 --> 00:02:35.920
+...
+
+00:02:35.920 --> 00:02:37.170
+Llamemos éste el opuesto.
+
+00:02:37.170 --> 00:02:39.740
+...
+
+00:02:39.740 --> 00:02:42.530
+Esta es la hipotenusa.
+
+00:02:42.530 --> 00:02:44.310
+Este es el lado adyacente.
+
+00:02:44.310 --> 00:02:46.650
+Porque es adyacente al ángulo.
+
+00:02:46.650 --> 00:02:49.660
+Este es opuesto, hipotenusa, adyacente.
+
+00:02:49.660 --> 00:02:56.080
+Entonces el seno de x es igual a, sabemos por nuestra mnemotécnica
+
+00:02:56.080 --> 00:03:01.760
+SOHCAHTOA, opuesto sobre hipotenusa.
+
+00:03:01.760 --> 00:03:10.300
+Y nos dicen que eso es igual a 5/13.
+
+00:03:10.300 --> 00:03:16.610
+Entonces opuesto sobre hipotenusa es igual a 5/13.
+
+00:03:16.610 --> 00:03:18.970
+Ahora sabemos que eso es solamente el radio entre los dos.
+
+00:03:18.970 --> 00:03:19.700
+Entonces no sabemos.
+
+00:03:19.700 --> 00:03:21.990
+Esto podría ser 10, esto podría ser 26.
+
+00:03:21.990 --> 00:03:25.010
+Esto podría ser 1 y esto podría ser 13/5.
+
+00:03:25.010 --> 00:03:25.730
+Quién sabe.
+
+00:03:25.730 --> 00:03:27.040
+Eso de verdad no importa.
+
+00:03:27.040 --> 00:03:28.670
+Y eso es lo que es estupendo sobre la trigonometría.
+
+00:03:28.670 --> 00:03:29.585
+Se trata de la relación.
+
+00:03:29.585 --> 00:03:32.160
+Entonces asumamos que esto es 5.
+
+00:03:32.160 --> 00:03:34.050
+Que el opuesto es igual a 5.
+
+00:03:34.050 --> 00:03:36.430
+Y que la hipotenusa es igual a 13.
+
+00:03:36.430 --> 00:03:37.960
+Déjenme elegir un color diferente.
+
+00:03:37.960 --> 00:03:40.390
+Esto es un poco nauseabundo.
+
+00:03:40.390 --> 00:03:40.860
+Bien.
+
+00:03:40.860 --> 00:03:43.120
+Así que si el opuesto de pronto es 5 y la hipotenusa es 13, ¿a qué
+
+00:03:43.120 --> 00:03:44.590
+sería igual el adyacente?
+
+00:03:44.590 --> 00:03:46.910
+Podríamos usar el teorema de Pitágoras.
+
+00:03:46.910 --> 00:03:49.700
+Entonces podríamos decir que la adyacente al cuadrado
+
+00:03:49.700 --> 00:03:51.620
+Un cuadrado más el opuesto al cuadrado.
+
+00:03:51.620 --> 00:03:54.850
+Así, más el 5 al cuadrado, más el 25.
+
+00:03:54.850 --> 00:03:56.940
+Es igual a 13 al cuadrado.
+
+00:03:56.940 --> 00:04:02.090
+13 al cuadrado es 169.
+
+00:04:02.090 --> 00:04:04.870
+Si restas 25 de ambos lados de esta ecuación, tu
+
+00:04:04.870 --> 00:04:08.900
+puedes obtener un cuadrado es igual a 144.
+
+00:04:08.900 --> 00:04:14.320
+A es igual a 12
+
+00:04:14.320 --> 00:04:16.040
+No sabemos que A es definitivamente igual a 12
+
+00:04:16.040 --> 00:04:18.920
+Pero sabemos que el radio del opuesto a
+
+00:04:18.920 --> 00:04:20.579
+adyacente es 5 a 12.
+
+00:04:20.579 --> 00:04:22.710
+Porque sólo asumimos que el opuesto es 5.
+
+00:04:22.710 --> 00:04:25.890
+De todos modos, por lo que quieren saber cuáles son coseno de x y
+
+00:04:25.890 --> 00:04:27.040
+tangente de x.
+
+00:04:27.040 --> 00:04:27.960
+Así CAH.
+
+00:04:27.960 --> 00:04:29.520
+SOHCAHTOA.
+
+00:04:29.520 --> 00:04:38.770
+Coseno de x es igual a la adyacente sobre la hipotenusa.
+
+00:04:38.770 --> 00:04:40.500
+El vecino tiene 12.
+
+00:04:40.500 --> 00:04:41.710
+Hipotenusa es 13.
+
+00:04:41.710 --> 00:04:44.720
+Así que es igual a 12/13.
+
+00:04:44.720 --> 00:04:46.460
+Ese es el coseno de x.
+
+00:04:46.460 --> 00:04:52.140
+Y la tangente de x es igual a opuesto sobre adyacente.
+
+00:04:52.140 --> 00:04:53.590
+TOA, opuesto sobre adyacente.
+
+00:04:53.590 --> 00:04:56.430
+Así que lo contrario es 4, adyacente es de 12.
+
+00:04:56.430 --> 00:04:58.080
+Igual a 5/12.
+
+00:04:58.080 --> 00:04:59.290
+Y vamos a ver lo que es elección.
+
+00:04:59.290 --> 00:05:02.110
+Esa es la opción A, el coseno de x es 12/13.
+
+00:05:02.110 --> 00:05:05.550
+Tangente de x es 5/12.
+
+00:05:05.550 --> 00:05:08.530
+Siguiente pregunta.
+
+00:05:08.530 --> 00:05:10.140
+Parece que quieren que aprender mucho de la trigonometría
+
+00:05:10.140 --> 00:05:10.760
+y geometría.
+
+00:05:10.760 --> 00:05:11.540
+Lo cual es bueno.
+
+00:05:11.540 --> 00:05:14.040
+Esto se está poniendo usted se preparó para el trigonometría.
+
+00:05:14.040 --> 00:05:17.810
+En la figura siguiente, sine de A es igual a 0,7.
+
+00:05:17.810 --> 00:05:19.520
+Así que vamos a llamar a este ángulo a.
+
+00:05:19.520 --> 00:05:22.750
+...
+
+00:05:22.750 --> 00:05:24.680
+Dicen que es la longitud de AC?
+
+00:05:24.680 --> 00:05:26.480
+Por eso queremos saber eso.
+
+00:05:26.480 --> 00:05:28.970
+Vamos a llamar a que x.
+
+00:05:28.970 --> 00:05:30.330
+Así Sohcahtoa.
+
+00:05:30.330 --> 00:05:39.410
+SOH nos dice que seno de un ángulo, vamos a llamarlo así theta,
+
+00:05:39.410 --> 00:05:43.220
+es igual al opuesto sobre la hipotenusa.
+
+00:05:43.220 --> 00:05:52.090
+Así seno de A, en este ejemplo, va a ser igual a la
+
+00:05:52.090 --> 00:05:59.930
+opuesto, 21, sobre la hipotenusa, sobre x.
+
+00:05:59.930 --> 00:06:01.710
+Y nos dicen que el seno de A es igual a 0,7.
+
+00:06:01.710 --> 00:06:05.500
+...
+
+00:06:05.500 --> 00:06:09.080
+Así que ahora sólo podemos resolver esta ecuación para x, y hemos terminado.
+
+00:06:09.080 --> 00:06:10.410
+Vamos a ver.
+
+00:06:10.410 --> 00:06:14.980
+Así que si usted multiplica ambos lados por x, se obtiene 21 es
+
+00:06:14.980 --> 00:06:17.670
+igual a 0,7 x.
+
+00:06:17.670 --> 00:06:20.240
+Y divide ambos lados por 0,7.
+
+00:06:20.240 --> 00:06:25.000
+Usted consigue 21/0.7 es igual a x.
+
+00:06:25.000 --> 00:06:26.510
+21 dividido por 7 es 3.
+
+00:06:26.510 --> 00:06:30.740
+Así que 21 dividido por 0.7 es 30.
+
+00:06:30.740 --> 00:06:36.730
+Así que x es igual a 30.
+
+00:06:36.730 --> 00:06:38.540
+Y esa es la longitud de AC.
+
+00:06:38.540 --> 00:06:41.060
+...
+
+00:06:41.060 --> 00:06:43.170
+Eso es opción C.
+
+00:06:43.170 --> 00:06:44.030
+Siguiente pregunta.
+
+00:06:44.030 --> 00:06:46.360
+64.
+
+00:06:46.360 --> 00:06:50.910
+Aproximadamente, ¿cuántos pies de altura es la luz de la calle?
+
+00:06:50.910 --> 00:06:54.580
+OK, así que podemos usar un poco de trigonometría aquí.
+
+00:06:54.580 --> 00:06:58.440
+Entonces, si sabemos que este punto de vista, y nos dan la totalidad de la
+
+00:06:58.440 --> 00:07:01.940
+relaciones trigonométricas de ese ángulo, que estamos tratando de
+
+00:07:01.940 --> 00:07:03.130
+averiguar la altura.
+
+00:07:03.130 --> 00:07:10.700
+Así que si escribo Sohcahtoa, ¿qué vamos tratando de entender?
+
+00:07:10.700 --> 00:07:12.360
+Así que nos dio la adyacente.
+
+00:07:12.360 --> 00:07:16.110
+Esto es adyacente al ángulo, que está justo al lado de él.
+
+00:07:16.110 --> 00:07:17.250
+La altura a la que estamos tratando de entender
+
+00:07:17.250 --> 00:07:18.500
+fuera, esto es lo opuesto.
+
+00:07:18.500 --> 00:07:20.810
+...
+
+00:07:20.810 --> 00:07:22.620
+Así que si podemos tener un disparo a desempeñarse de que se ocupa del
+
+00:07:22.620 --> 00:07:24.470
+opuesto y adyacente al.
+
+00:07:24.470 --> 00:07:26.310
+Bueno, eso es tangente.
+
+00:07:26.310 --> 00:07:27.120
+TOA.
+
+00:07:27.120 --> 00:07:32.020
+Tangente de cualquier ángulo es igual a la
+
+00:07:32.020 --> 00:07:33.660
+contrario en la adyacente.
+
+00:07:33.660 --> 00:07:42.030
+En este caso, la tangente de 40 grados va a ser igual
+
+00:07:42.030 --> 00:07:45.940
+al contrario, lo opuesto es h, que es lo que estamos tratando de
+
+00:07:45.940 --> 00:07:48.080
+para resolver, a través de la adyacente.
+
+00:07:48.080 --> 00:07:50.780
+El adyacente es de 20 pies.
+
+00:07:50.780 --> 00:07:54.120
+OK, tangente de 40 grados no es algo que la mayoría
+
+00:07:54.120 --> 00:07:58.330
+la gente ha aprendido de memoria, eso está bien porque nos dieron a nosotros.
+
+00:07:58.330 --> 00:08:02.140
+Tangente de 40 grados es de 0.84.
+
+00:08:02.140 --> 00:08:07.850
+Así obtenemos 0.84 es igual a h/20.
+
+00:08:07.850 --> 00:08:15.760
+Así que podemos multiplicar ambos lados de esa por 20 y obtenemos h es
+
+00:08:15.760 --> 00:08:21.710
+igual a 20 veces 0.84.
+
+00:08:21.710 --> 00:08:39.490
+Y que es igual a 16.8.
+
+00:08:39.490 --> 00:08:40.740
+Y esa es la opción C.
+
+00:08:40.740 --> 00:08:43.970
+...
+
+00:08:43.970 --> 00:08:45.900
+Problema 65.
+
+00:08:45.900 --> 00:08:50.570
+Triángulo rectángulo ABC se muestra a continuación.
+
+00:08:50.570 --> 00:08:56.320
+¿Qué ecuación da el valor correcto de BC?
+
+00:08:56.320 --> 00:08:59.200
+Así que esto es lo que nos quieren hacer entender.
+
+00:08:59.200 --> 00:09:03.100
+Se trata de BC ahí
+
+00:09:03.100 --> 00:09:05.970
+OK, vamos a leerlos.
+
+00:09:05.970 --> 00:09:08.710
+Déjame escribir Sohcahtoa, yo en realidad hacer esto mucho.
+
+00:09:08.710 --> 00:09:12.300
+...
+
+00:09:12.300 --> 00:09:18.070
+OK, así que dicen que el seno de 32 grados es igual a
+
+00:09:18.070 --> 00:09:19.230
+BC sobre 8.2.
+
+00:09:19.230 --> 00:09:19.970
+¿Es eso cierto?
+
+00:09:19.970 --> 00:09:23.290
+Sine es opuesto sobre hipotenusa.
+
+00:09:23.290 --> 00:09:26.550
+BC es definitivamente lo contrario.
+
+00:09:26.550 --> 00:09:29.760
+8.2 no es la hipotenusa, 10.6 es la hipotenusa.
+
+00:09:29.760 --> 00:09:31.780
+Así que están haciendo, esta es la adyacente.
+
+00:09:31.780 --> 00:09:33.030
+Así que esto está mal.
+
+00:09:33.030 --> 00:09:36.230
+...
+
+00:09:36.230 --> 00:09:37.890
+Así que esto debe ser una tangente.
+
+00:09:37.890 --> 00:09:41.590
+Tangente de 32 es igual a BC más de 8.2.
+
+00:09:41.590 --> 00:09:45.740
+Este es el lado adyacente, contiguo a 32 grados.
+
+00:09:45.740 --> 00:09:47.580
+Eso es todo lo contrario, y esa es la hipotenusa.
+
+00:09:47.580 --> 00:09:49.750
+Así que eso no es cierto.
+
+00:09:49.750 --> 00:09:51.190
+La opción B, el coseno de 32.
+
+00:09:51.190 --> 00:09:54.160
+Coseno es adyacente sobre hipotenusa.
+
+00:09:54.160 --> 00:10:00.210
+Así coseno de 32 debería ser 8.2/10.6.
+
+00:10:00.210 --> 00:10:02.870
+Así que esto debe ser un 8.2 aquí.
+
+00:10:02.870 --> 00:10:04.980
+Así que esto no es correcto.
+
+00:10:04.980 --> 00:10:08.550
+OK, así que la siguiente, tangente de 58 grados.
+
+00:10:08.550 --> 00:10:10.050
+¿Dónde están consiguiendo que el 58?
+
+00:10:10.050 --> 00:10:12.940
+Bueno, saben que este es 32, esto es 90, así que es este
+
+00:10:12.940 --> 00:10:15.600
+Va a ser 180 menos 32 menos 90.
+
+00:10:15.600 --> 00:10:18.300
+Debido a que los ángulos de un triángulo suman 180.
+
+00:10:18.300 --> 00:10:23.670
+Así que aquí está en ángulo recto 58.
+
+00:10:23.670 --> 00:10:26.390
+Y ahora, si usamos ese punto de vista, tenemos que volver a etiquetar opuesto
+
+00:10:26.390 --> 00:10:28.190
+y adyacentes y que todos.
+
+00:10:28.190 --> 00:10:32.770
+Así que desde este punto de vista el punto de vista de la tangente es
+
+00:10:32.770 --> 00:10:35.420
+opuesto sobre adyacente.
+
+00:10:35.420 --> 00:10:40.040
+Así que si se escribe la tangente de 58 es igual a la opuesta
+
+00:10:40.040 --> 00:10:44.820
+lado, debe ser igual a 8.2 durante su
+
+00:10:44.820 --> 00:10:47.800
+lateral adyacente, sobre BC.
+
+00:10:47.800 --> 00:10:49.190
+Esto es adyacente a este ángulo.
+
+00:10:49.190 --> 00:10:51.080
+Estaba enfrente este punto de vista, pero es BC
+
+00:10:51.080 --> 00:10:52.760
+adyacente a este ángulo.
+
+00:10:52.760 --> 00:10:54.040
+Así que eso es lo que escribieron.
+
+00:10:54.040 --> 00:10:57.770
+Así que la opción C es la correcta
+
+00:10:57.770 --> 00:10:58.630
+Y hemos terminado.
+
+00:10:58.630 --> 00:10:59.850
+Nos vemos en el siguiente video.
+
+00:10:59.850 --> 00:11:01.180
+Bueno, no hemos terminado con todo el asunto.
+
+00:11:01.180 --> 00:11:02.180
+Ya he terminado con este video.
+
+00:11:02.180 --> 00:11:03.430
+ves
+
+00:11:03.430 --> 00:11:03.500
+...

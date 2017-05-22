@@ -1,0 +1,259 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:07.707
+Factoriza 8K al cuadrado menos 24k menos 144.
+
+00:00:07.707 --> 00:00:10.895
+Lo primero que podemos hacer, al observar cada uno de estos términos,
+
+00:00:10.895 --> 00:00:13.742
+si queremos simplificarlo un poco, es
+
+00:00:13.742 --> 00:00:16.528
+que todos son divisibles entre 8.
+
+00:00:16.528 --> 00:00:19.769
+Es claro que 8K es divisible entre 8; 24 es divisible entre 8
+
+00:00:19.769 --> 00:00:24.266
+y 144, podría no ser evidente que sea divisible entre 8,
+
+00:00:24.266 --> 00:00:26.801
+pero parece que sí lo es.
+
+00:00:26.801 --> 00:00:32.024
+El 8 cabe en el 14 una vez. 1 por 8 es 8...
+
+00:00:32.024 --> 00:00:35.357
+...resta: obtienes 6 (14 menos 8 es 6),...
+
+00:00:35.357 --> 00:00:40.083
+...baja el 4... el 8 cabe 8 veces en el 68.
+
+00:00:40.083 --> 00:00:42.846
+Así que cabe 18 veces en 144. Factoricemos pues
+
+00:00:42.846 --> 00:00:45.616
+el 8, y entonces se simplificará
+
+00:00:45.616 --> 00:00:48.957
+nuestra expresión. De hecho, nos dará un coeficiente al inicio.
+
+00:00:48.957 --> 00:00:54.102
+De modo que esto será 8 veces k al cuadrado menos
+
+00:00:54.102 --> 00:01:04.607
+24 dividido entre 8 es tres K menos 18.
+
+00:01:04.607 --> 00:01:07.979
+Ahora tenemos que factorizar esta cosa de aquí
+
+00:01:07.979 --> 00:01:10.196
+y recordar que si se tiene la forma:
+
+00:01:10.196 --> 00:01:14.034
+x cuadrada más bx más c, donde se tiene
+
+00:01:14.034 --> 00:01:17.006
+un coeficiente al inicio (éste implícitamente es un
+
+00:01:17.006 --> 00:01:18.700
+uno, tenemos que en esta expresión entre
+
+00:01:18.700 --> 00:01:21.915
+paréntesis), entonces literalmente sólo necesitamos un
+
+00:01:21.915 --> 00:01:23.998
+(y esto lo podemos hacer varias veces), 
+pero necesitamos
+
+00:01:23.998 --> 00:01:27.490
+encontrar dos números cuya suma sea igual al
+
+00:01:27.490 --> 00:01:31.063
+coeficiente de x. De modo que dos número cuya suma sea igual
+
+00:01:31.063 --> 00:01:35.642
+a menos tres y cuyo producto sea igual
+
+00:01:35.642 --> 00:01:37.805
+al término constante, es decir, cuyo producto sea
+
+00:01:37.805 --> 00:01:39.468
+igual a -18. Así que pensemos simplemente
+
+00:01:39.468 --> 00:01:44.282
+en los factores de -18. Veamos si
+
+00:01:44.282 --> 00:01:47.378
+podemos hacer algo interesante. Podría ser
+
+00:01:47.378 --> 00:01:50.154
+uno y, dado que uno de los números es negativo,
+
+00:01:50.154 --> 00:01:51.783
+uno tiene que ser positivo y el otro tiene que ser negativo.
+
+00:01:51.783 --> 00:01:55.036
+1 y el 18 es si fuera positivo, y uno de estos
+
+00:01:55.036 --> 00:01:57.703
+podría ser positivo y el otro podría ser negativo;
+
+00:01:57.703 --> 00:01:59.376
+pero, sin importar cuál sea, vamos a tener
+
+00:01:59.376 --> 00:02:01.750
+posi... vamos a... si tienes... si éste es negativo
+
+00:02:01.750 --> 00:02:05.365
+y éste es positivo, su suma es 17; pero
+
+00:02:05.365 --> 00:02:07.248
+si los cambiamos, entonces suman menos 17,
+
+00:02:07.248 --> 00:02:09.584
+de modo que eso no servirá. Así que (puedes escribirlo
+
+00:02:09.584 --> 00:02:12.860
+de esta forma) ya sea 1 o -1 y luego
+
+00:02:12.860 --> 00:02:14.507
+18 o -18 para mostrar que tienen
+
+00:02:14.507 --> 00:02:16.644
+diferentes signos. Así que esos no funcionan.
+
+00:02:16.644 --> 00:02:20.049
+Después tienes 3 o -3 y luego
+
+00:02:20.049 --> 00:02:22.807
+6 o -6, sólo para saber que tienen
+
+00:02:22.807 --> 00:02:25.199
+signos diferentes. Así que si tienes 3 y
+
+00:02:25.199 --> 00:02:28.116
+-6, juntos suman menos 3, lo cual
+
+00:02:28.116 --> 00:02:31.761
+es lo que necesitamos sumar. Y está claro:
+
+00:02:31.761 --> 00:02:33.619
+ellos... 3 multiplicado por -6 da
+
+00:02:33.619 --> 00:02:36.814
+-18. !Y además nos sirve! Así que vamos a tomar
+
+00:02:36.814 --> 00:02:41.044
+3 y -6 como nuestros dos números.
+
+00:02:41.044 --> 00:02:43.663
+Ahora, para este ejemplo, por conveniencia,
+
+00:02:43.663 --> 00:02:47.392
+hagamos esto para agrupar. Así, lo que
+
+00:02:47.392 --> 00:02:50.345
+podemos hacer es separar este término de enmedio de aquí
+
+00:02:50.345 --> 00:02:54.342
+como la suma de 3k y -6k, de modo que puedo escribir
+
+00:02:54.342 --> 00:03:00.376
+-3k como más 3k menos 6k (déjame escribir el
+
+00:03:00.376 --> 00:03:04.558
+el resto)... así que tenemos que k al cuadrado aquí, más 3k,
+
+00:03:04.558 --> 00:03:07.727
+menos 6k, lo cual es lo mismo que esto de aquí,
+
+00:03:07.727 --> 00:03:10.654
+y obtenemos -18. Y luego todo está multiplicado
+
+00:03:10.654 --> 00:03:15.944
+por 8. Ahora estamos listos para agrupar esto...
+
+00:03:15.944 --> 00:03:18.265
+...podemos agrupar estos dos primeros términos: ambos son
+
+00:03:18.265 --> 00:03:23.435
+divisibles entre k, y luego podemos agrupar estos siguientes
+
+00:03:23.435 --> 00:03:28.266
+dos términos. Así que tenemos entonces que 8 por (déjame
+
+00:03:28.266 --> 00:03:30.788
+poner entre corchetes aquí... Dado que estamos usando doble paréntesis,
+
+00:03:30.788 --> 00:03:32.663
+los corchetes son en realidad paréntesis que parecen
+
+00:03:32.663 --> 00:03:35.637
+un poco más serios). De acuerdo, factoricemos ahora
+
+00:03:35.637 --> 00:03:40.678
+una K a partir de este término de aquí (al usar un color
+
+00:03:40.678 --> 00:03:43.491
+distinto)... Factoricemos esta k de aquí. Así que esto es k por
+
+00:03:43.491 --> 00:03:47.673
+k más 3, y luego tenemos un más, y por aquí
+
+00:03:47.673 --> 00:03:51.715
+tenemos lo que parece que podríamos factorizar como un -6.
+
+00:03:51.715 --> 00:03:53.628
+Entonces factoricemos (déjame usar otro color)...
+
+00:03:53.628 --> 00:03:55.554
+...factoricemos un -6 aquí. Así,
+
+00:03:55.554 --> 00:04:04.887
+más -6 por (k más 3). Ahora parece
+
+00:04:04.887 --> 00:04:08.188
+que podemos factorizar k más 3. Se tiene k más 3
+
+00:04:08.188 --> 00:04:11.339
+por k, y entonces tenemos k más 3 por
+
+00:04:11.339 --> 00:04:16.483
+-6. Factoricemos eso. De modo que tenemos este 8
+
+00:04:16.483 --> 00:04:19.432
+enfrente, lo que no cambia (déjame escribirlo y los
+
+00:04:19.432 --> 00:04:22.893
+corchetes). Estamos factorizando k más 3. Así que entonces
+
+00:04:22.893 --> 00:04:27.204
+tenemos una k más 3 que factorizamos, y luego dentro
+
+00:04:27.204 --> 00:04:31.766
+de eso hemos dejado justo esta k (en vez de escribir
+
+00:04:31.766 --> 00:04:40.096
+más -6, podría sólo escribir k menos 6).
+
+00:04:40.096 --> 00:04:42.608
+Factorizamos k más 3 y ¡lo hicimos! Y luego
+
+00:04:42.608 --> 00:04:44.419
+podemos reescribir esto... esto, la forma en que lo escribimos
+
+00:04:44.419 --> 00:04:48.148
+es 8 por el producto de k más 3 por k menos 6,
+
+00:04:48.148 --> 00:04:50.770
+pero sabemos por las propiedades de la multiplicación que
+
+00:04:50.770 --> 00:04:56.211
+esto es exactamente lo mismo que 8 por k más 3
+
+00:04:56.211 --> 00:05:01.008
+por k menos 6. Y ya acabamos.

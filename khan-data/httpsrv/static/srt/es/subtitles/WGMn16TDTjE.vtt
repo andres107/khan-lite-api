@@ -1,0 +1,679 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.535 --> 00:00:02.369
+Tengo una noticia
+
+00:00:02.369 --> 00:00:04.705
+La NASA ha dicho que
+habra hardware
+
+00:00:04.705 --> 00:00:06.123
+generador de números
+aleatorios en
+
+00:00:06.123 --> 00:00:08.292
+el Rover al que tenemos acceso.
+
+00:00:09.107 --> 00:00:10.794
+Después de eso, hicieron
+otro comentario
+
+00:00:10.794 --> 00:00:13.422
+ellos me recordaron que solo
+necesitamos nuestro algoritmo
+
+00:00:13.422 --> 00:00:15.849
+para que funcione en práctica.
+
+00:00:16.258 --> 00:00:17.718
+Para que algo funcione en práctica,
+
+00:00:17.718 --> 00:00:22.264
+significa que hay siempre alguna posibilidad de error,
+
+00:00:22.264 --> 00:00:26.060
+pero tal vez la posibilidad es tan pequeña que la ignoramos
+
+00:00:26.060 --> 00:00:29.187
+en la practica, y si eso suena loco,
+
+00:00:29.187 --> 00:00:31.106
+solo date cuenta de que en el mundo físico
+
+00:00:31.106 --> 00:00:33.358
+nada es siempre incuestionable, siempre hay
+
+00:00:33.358 --> 00:00:35.285
+posibilidad de error.
+
+00:00:35.318 --> 00:00:38.363
+Por ejemplo, el empaquetado de chips contine pequeñas cantidades
+
+00:00:38.363 --> 00:00:40.907
+de contaminantes radioactivos,
+
+00:00:40.907 --> 00:00:44.619
+y cuando estos decaen, se liberan particulas alfa
+
+00:00:44.619 --> 00:00:48.206
+las cuales pueden en realidad cambiar bits en memoria,
+
+00:00:48.206 --> 00:00:51.342
+y quizás cambiar un número inesperadamente.
+
+00:00:51.501 --> 00:00:54.755
+Aún mas interesante, los rayos cósmicos pueden también causar
+
+00:00:54.755 --> 00:00:58.508
+pequeños errores, nunca podemos borrar
+
+00:00:58.508 --> 00:01:00.727
+la posibilidad de error completamente
+
+00:01:00.844 --> 00:01:02.637
+Le pregunte a la NASA exactamente qué
+
+00:01:02.637 --> 00:01:05.348
+posibilidad de error es aceptable.
+
+00:01:05.348 --> 00:01:07.684
+Ellos dijeron, "Solo tenemos que estar seguros que
+
+00:01:07.684 --> 00:01:10.771
+"la probabilidad de error, por una prueba dada,
+
+00:01:10.771 --> 00:01:13.774
+"es menos que las posibilidades de
+
+00:01:13.774 --> 00:01:15.950
+"ganar la loteria dos veces seguidas
+
+00:01:16.402 --> 00:01:17.402
+Las posibilidades de ganar la loteria,
+
+00:01:17.402 --> 00:01:19.322
+digamos 649 dos veces seguidas,
+
+00:01:19.322 --> 00:01:22.407
+es seis veces diez elevado a menos catorce,
+
+00:01:22.407 --> 00:01:24.159
+entones aseguremosnos y redondiemoslo
+
+00:01:24.159 --> 00:01:26.119
+y digamos que nuestra posibilidad
+
+00:01:26.119 --> 00:01:28.797
+es diez a la menos quince
+
+00:01:28.830 --> 00:01:31.708
+Suficientemente seguro; no esperaremos ver un error,
+
+00:01:31.708 --> 00:01:35.053
+y esto podria correr cientos o miles de veces.
+
+00:01:35.337 --> 00:01:38.381
+Ahora mi pregunta es, el acceso a la aleatoriedad
+
+00:01:38.381 --> 00:01:41.426
+nos ayudaría a acelerar un algoritmo de decisión
+
+00:01:41.426 --> 00:01:43.561
+tal como esta prueba preliminar?
+
+00:01:43.720 --> 00:01:46.306
+Esta es una pregunta profunda, 
+asi que demos un paso atras
+
+00:01:46.306 --> 00:01:48.066
+y miremos la imagen completa.
+
+00:01:48.725 --> 00:01:51.186
+Dada alguna colección de enteros desde uno
+
+00:01:51.186 --> 00:01:54.106
+hasta algun limite N digamos, pensemos en esto
+
+00:01:54.106 --> 00:01:56.775
+como en nuestro universo de enteros.
+
+00:01:56.775 --> 00:01:59.744
+Podemos siempre dividir una
+colección en dos conjuntos.
+
+00:02:01.714 --> 00:02:03.990
+Un problema de decisión puede en realidad
+
+00:02:03.990 --> 00:02:07.753
+ser pensado como una
+particion en dos conjuntos.
+
+00:02:08.245 --> 00:02:11.582
+Por ejemplo, dados 
+algun N es N menos que 100,
+
+00:02:11.582 --> 00:02:16.845
+eso dara como salida 'si' para todos
+los enteros menores que 100.
+
+00:02:16.920 --> 00:02:20.423
+Aqui esta una colección
+y 'no' para todos los otros,
+
+00:02:20.423 --> 00:02:22.058
+lo cual es otra colección.
+
+00:02:22.175 --> 00:02:25.095
+Ok, entonces ahora concentrémonos en
+
+00:02:25.095 --> 00:02:28.014
+reconocer primos con la decisión.
+
+00:02:28.014 --> 00:02:31.059
+Idealmente, lo que nos gustaria
+es algún criterio
+
+00:02:31.059 --> 00:02:34.980
+simplemente computado que satisface a todos los primos
+
+00:02:34.980 --> 00:02:37.365
+y no satisface a factoreables.
+
+00:02:40.277 --> 00:02:42.237
+Ahora si supieramos algún patrón simple
+
+00:02:42.237 --> 00:02:44.823
+el cual describe la
+localización de todos los primos,
+
+00:02:44.823 --> 00:02:47.785
+y solo los primos, entonces 
+dado algún número N
+
+00:02:47.785 --> 00:02:50.795
+podríamos simplemente
+verificar si N sigue ese patrón.
+
+00:02:50.954 --> 00:02:53.790
+El problema es hasta ahora no exaustivo
+
+00:02:53.790 --> 00:02:57.127
+y se ha encontrado un 
+patrón simplemente computado
+
+00:02:57.127 --> 00:03:00.380
+para todos los primos y no factoriables,
+
+00:03:00.380 --> 00:03:03.224
+o todos los factoriables y no primos.
+
+00:03:08.359 --> 00:03:10.641
+Bero nos sabemos pruebas rapidas
+
+00:03:10.641 --> 00:03:14.235
+para la mayoria de los números factoriables.
+
+00:03:15.979 --> 00:03:19.399
+Por ejemplo, un criterio
+simplemente computado
+
+00:03:19.399 --> 00:03:22.652
+sería una prueba por paridad,
+
+00:03:22.652 --> 00:03:26.915
+y todos los numeros pares
+son divisibles por dos.
+
+00:03:27.782 --> 00:03:29.868
+Es rápido porque podemos
+decir si algo es par
+
+00:03:29.868 --> 00:03:31.049
+solo mirando el último digito,
+
+00:03:31.049 --> 00:03:32.230
+y aún cuando N crece, el problema
+
+00:03:32.230 --> 00:03:33.413
+no se hace mas dificil, solo miramos
+a ese último dígito
+
+00:03:37.167 --> 00:03:39.427
+también conocido como 
+bit de bajo orden.
+
+00:03:40.253 --> 00:03:43.673
+Ahora date cuenta que podemos
+usar esta prueba de paridad
+
+00:03:43.673 --> 00:03:47.894
+como un prueba de baja calidad
+para factoriables.
+
+00:03:48.887 --> 00:03:50.347
+En eso podríamos hacer
+que el algoritmo
+
+00:03:50.347 --> 00:03:52.515
+acepte nuestro entero N,
+
+00:03:52.515 --> 00:03:54.017
+y todo lo que nuestro
+algoritmo hace
+
+00:03:54.017 --> 00:03:55.644
+es verificar si es par.
+
+00:03:55.644 --> 00:03:58.605
+si es par, y mayor a dos,
+
+00:03:58.605 --> 00:04:02.317
+entonces sabemos con 
+100 % de certeza
+
+00:04:02.317 --> 00:04:05.954
+de que es factoriable 
+porque tenemos prueba.
+
+00:04:06.071 --> 00:04:08.657
+Piensa en dos como 
+nuestro factoriable testigo.
+
+00:04:08.657 --> 00:04:12.669
+Aunque si no, entonces
+no estamos totalmente seguros.
+
+00:04:12.953 --> 00:04:16.039
+Si es impar, podría ser primo
+ya que todos los primos son impares,
+
+00:04:16.039 --> 00:04:17.999
+o podría ser uno de muchos
+
+00:04:17.999 --> 00:04:21.052
+factoriables que son impares,
+solo nueve o quince.
+
+00:04:21.543 --> 00:04:24.256
+Esta región masiva de 
+factoriables impares
+
+00:04:24.256 --> 00:04:27.100
+causa un test inaceptable.
+
+00:04:27.217 --> 00:04:28.718
+Ahora para que quede claro,
+dibujemos esto.
+
+00:04:28.718 --> 00:04:31.013
+Dado algun N, N puede ser
+
+00:04:31.013 --> 00:04:33.014
+o primo o factoriable.
+
+00:04:33.014 --> 00:04:35.850
+Si N es primo, nuestro 
+algoritmo dira
+
+00:04:35.850 --> 00:04:37.769
+primo 100 porciento
+del tiempo
+
+00:04:37.769 --> 00:04:40.605
+ya que no hay primos pares
+
+00:04:40.605 --> 00:04:44.325
+Nunca dira factoriable
+cuando se dé un primo
+
+00:04:44.609 --> 00:04:46.069
+Aunque, si N es factoriable,
+
+00:04:46.069 --> 00:04:48.446
+nuestro algoritmo dira factoriable
+
+00:04:48.446 --> 00:04:49.823
+aproximadamente cincuenta
+porciento del tiempo,
+
+00:04:49.823 --> 00:04:52.208
+y primo cincuenta
+porciento del tiempo
+
+00:04:53.159 --> 00:04:55.495
+Esto significa que si nuestro 
+algoritmo da como salida 'factoriable',
+
+00:04:55.495 --> 00:04:58.331
+significa que encontro prueba
+de testigo factoriable.
+
+00:05:02.853 --> 00:05:04.963
+Aunque, para que nuestro algoritmo
+de salida 'primo'
+
+00:05:04.963 --> 00:05:07.507
+sabemos que hay una
+inaceptablemente
+
+00:05:07.507 --> 00:05:09.559
+grande posibilidad de error.
+
+00:05:12.053 --> 00:05:13.624
+Hasta ahora, nuestra estrategia
+ha lidiado con este
+
+00:05:13.624 --> 00:05:15.195
+grande, inaceptablemente
+grande error,
+
+00:05:15.195 --> 00:05:16.766
+por iteración y dibujemos 
+el flujo de nuestra maquina.
+
+00:05:16.766 --> 00:05:22.280
+Dado algun N, nuestra maquina 
+hace unas series
+
+00:05:22.480 --> 00:05:25.984
+de pruebas de divisibilidad
+empezando con A es 2
+
+00:05:25.984 --> 00:05:30.747
+pregunta si A divide N.
+
+00:05:31.072 --> 00:05:33.450
+si no divide N, entonces podemos
+
+00:05:33.450 --> 00:05:36.161
+eliminar todo de esta región.
+
+00:05:36.161 --> 00:05:38.671
+Entonces formula la siguiente pregunta,
+
+00:05:39.372 --> 00:05:40.582
+N divide tres?
+
+00:05:40.582 --> 00:05:42.125
+Si no, entonces eliminamos 
+toda esa sección.
+
+00:05:42.125 --> 00:05:45.428
+N divide cinco, siete, y continuando asi.
+
+00:05:45.629 --> 00:05:49.515
+Notese que estos son conjuntos
+disjuntos los cuales
+
+00:05:49.591 --> 00:05:51.468
+gradualmente llenan 
+todo posible factoriable.
+
+00:05:51.468 --> 00:05:55.229
+ahora si alguna vez dijimos si
+a lo largo del camino,
+
+00:05:55.638 --> 00:05:57.891
+entonces encontramos prueba
+de que N es factoriable.
+
+00:05:57.891 --> 00:06:00.602
+A, lo que sea is en ese punto,
+nuestro testigo.
+
+00:06:00.602 --> 00:06:04.322
+nos detenemos, N da salida 'factoriable'
+desde nuestro algoritmo
+
+00:06:04.647 --> 00:06:07.692
+De otra forma, continuamos 
+intentando hasta
+
+00:06:07.692 --> 00:06:10.111
+que agotamos todo
+posible factoriable.
+
+00:06:10.111 --> 00:06:12.447
+Hasta que damos con la
+raiz cuadrada de N
+
+00:06:12.447 --> 00:06:14.991
+ya que sabemos, recuerda 
+todo número factoriable N
+
+00:06:14.991 --> 00:06:17.285
+debe tener un factor menos que
+
+00:06:17.285 --> 00:06:19.704
+o igual que la raiz cuadrada de N
+
+00:06:19.704 --> 00:06:21.757
+Esto realmente nos lleva
+a
+
+00:06:22.373 --> 00:06:23.666
+la pregunta final en
+nuestro algoritmo
+
+00:06:23.666 --> 00:06:25.251
+si no se encuentra ningun 
+testigo, y A
+
+00:06:25.251 --> 00:06:28.546
+es mayor a la raiz cuadrada de N,
+
+00:06:28.546 --> 00:06:30.674
+entonces de pronto
+tenemos prueba
+
+00:06:30.674 --> 00:06:32.801
+y nos detenemos y 
+devolvemos 'primo'
+
+00:06:32.801 --> 00:06:34.727
+Date cuenta que tenemos dos
+caminos a la salida en el algoritmo.
+
+00:06:40.058 --> 00:06:43.061
+Ambos senderos representan
+prueba de certeza
+
+00:06:43.061 --> 00:06:46.231
+que N es o primo o factoriable.
+
+00:06:46.231 --> 00:06:48.525
+Cuando N es primo, probamos
+todos los posibles divisores
+
+00:06:48.525 --> 00:06:52.904
+y basicamente los 
+descartamos a todos
+
+00:06:52.904 --> 00:06:54.948
+y esa es nuestra prueba que N
+es primo.
+
+00:06:54.948 --> 00:06:57.667
+El problema con esta estrategia
+es que nuestro
+
+00:06:58.076 --> 00:07:00.203
+valor de prueba A cuando menos
+necesita que
+
+00:07:00.203 --> 00:07:03.874
+se itere por todo numero primo
+empezando
+
+00:07:03.874 --> 00:07:05.875
+desde dos hasta la
+raiz cuadrada de N.
+
+00:07:05.875 --> 00:07:08.261
+Mientras N crece, el numero
+de primos crece con el.
+
+00:07:08.336 --> 00:07:11.931
+Esto resulta en demasiadas iteraciones
+
+00:07:12.257 --> 00:07:13.925
+en el peor escenario tal
+como cuando
+
+00:07:13.925 --> 00:07:16.094
+damos al algoritmo
+un primo.
+
+00:07:16.094 --> 00:07:18.563
+Mirando a la imagen completa ahora,
+
+00:07:18.930 --> 00:07:20.140
+date cuenta se esta dando
+prueba cuando N es primo
+
+00:07:20.140 --> 00:07:23.317
+Lo cual sabemos no necesitamos 
+excactamente.
+
+00:07:23.643 --> 00:07:26.988
+Nadie dijo que necesitabamos probarlo.
+
+00:07:27.021 --> 00:07:28.940
+Solo necesitamos estar 
+99.9999
+
+00:07:28.940 --> 00:07:32.277
+quince nueves por ciento seguros.
+
+00:07:32.277 --> 00:07:34.988
+Hmmm, entonces en realidad 
+necesitamos pensar acerca
+
+00:07:36.110 --> 00:07:38.700
+de la prueba de factoriable que
+esta siendo usada en nuestro algoritmo
+
+00:07:38.700 --> 00:07:42.745
+Recuerda, nuestra prueva de 
+division mas rapida
+
+00:07:42.745 --> 00:07:44.956
+las pruebas de numeros primos 
+hasta ahora han intentado usar
+
+00:07:44.956 --> 00:07:48.877
+un patron primo tal como 6k,
+
+00:07:48.877 --> 00:07:52.213
+o todos los primos de la 
+forma 6k mas o menos uno,
+
+00:07:52.213 --> 00:07:56.593
+para ayudar a caminar a lo 
+largo de primos solamente
+
+00:07:56.593 --> 00:07:58.887
+y eliminar muchos de los
+factoriables para ahorrar tiempo.
+
+00:07:58.887 --> 00:08:01.856
+Recuerda, una prueba como esta
+puede tornarse
+
+00:08:02.140 --> 00:08:04.684
+una prueba de factoriable.
+
+00:08:04.684 --> 00:08:06.311
+Eso es, dado un entero N
+
+00:08:06.311 --> 00:08:08.563
+es de la forma 6K mas menos uno,
+
+00:08:08.563 --> 00:08:11.357
+entonces podemos decir 
+'es probablemente un primo'
+
+00:08:11.357 --> 00:08:14.194
+pero hay muchos factoriables aún
+
+00:08:14.194 --> 00:08:16.487
+los cuales siguen el patron.
+
+00:08:16.487 --> 00:08:18.615
+esto no incluye solo primos,
+
+00:08:18.615 --> 00:08:20.867
+solo todos los primos y algunos 
+factoriables,
+
+00:08:20.867 --> 00:08:24.537
+y podemos pensar en estos
+factoriables extra como una fuga
+
+00:08:24.537 --> 00:08:27.332
+y esta fuga es nuestra causa de error.
+
+00:08:27.332 --> 00:08:29.842
+Ahora si lo invertimos y 
+si N no es
+
+00:08:31.044 --> 00:08:32.921
+de la forma 6K mas menos 1,
+
+00:08:32.921 --> 00:08:35.590
+entonces podemos decir con
+100 porciento seguros
+
+00:08:35.590 --> 00:08:39.552
+es un factoriable, entonces 
+la fuga es nuestra causa de error
+
+00:08:39.552 --> 00:08:42.597
+del lado de los primos, pero en
+este caso es inaceptable
+
+00:08:42.597 --> 00:08:46.351
+no es un error 
+no-insignificante.
+
+00:08:46.351 --> 00:08:49.195
+Hay una probabilidad
+mucho mas grande.
+
+00:08:49.312 --> 00:08:51.197
+Necesitamos definir un procedimiento 
+de prueba
+
+00:08:51.481 --> 00:08:53.149
+para factoriables el cual
+pueda reducir este espacio
+
+00:08:53.149 --> 00:08:56.819
+y hacer la posibilidad de error
+insignificante.
+
+00:08:56.819 --> 00:09:00.415
+Lo que significa necesitaremos
+revisar cómo
+
+00:09:00.865 --> 00:09:03.034
+podemos en realidad reducir
+errores con iteraciones.
+
+00:09:03.034 --> 00:09:06.421
+Creo que debemos ahora postear
+nuestras ideas debajo
+
+00:09:06.579 --> 00:09:09.415
+respecto a que clase de pruebas
+podriamos realizar
+
+00:09:09.415 --> 00:09:14.337
+y tambien mas importante
+¿cómo podría
+
+00:09:14.337 --> 00:09:16.673
+un generador de numeros 
+aleatorios realmente ayudarnos?

@@ -1,0 +1,328 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.523 --> 00:00:03.036
+Digamos que tengo cierta función f,
+
+00:00:03.036 --> 00:00:11.241
+que es continua en un intervalo entre a y b,
+
+00:00:11.241 --> 00:00:14.946
+y tengo estas escuadras aquí, por lo que también incluye a y b y el intervalo.
+
+00:00:14.946 --> 00:00:17.968
+Así que permítanme ver esto, para nosotros tener una idea de lo que estoy hablando sobre
+
+00:00:17.968 --> 00:00:24.895
+Por lo es mi eje vertical, se trata de mi eje horizontal.
+Voy a mi t de eje horizontal, de la etiqueta
+
+00:00:24.895 --> 00:00:28.698
+por lo que podemos ahorrar x para más adelante y puede hacer todavía esta derecha allá
+
+00:00:28.698 --> 00:00:34.986
+y permítanme gráfico, este derecho aquí es el gráfico de: y es igual a f (t)
+
+00:00:34.986 --> 00:00:41.826
+Ahora, es el extremo inferior, para que de un, derecho allí
+
+00:00:41.826 --> 00:00:45.708
+Nuestro límite superior es b,
+
+00:00:45.708 --> 00:00:49.819
+.. .para que hacer claro y sólo para mostrar que estamos incluyendo a ese extremo,
+
+00:00:49.819 --> 00:00:52.494
+Permítanme hacer ellas líneas audaces, llenar en líneas.
+
+00:00:52.494 --> 00:00:56.714
+Límite tan inferior a, b límite superior, sólo estamos diciendo, y lo he dibujado así,
+
+00:00:56.714 --> 00:00:58.633
+que f es continua en eso.
+
+00:00:58.633 --> 00:01:04.721
+Ahora, vamos a definir alguna función nueva que es el área bajo la curva
+
+00:01:04.721 --> 00:01:10.236
+entre una y algún momento en el que se encuentra en el intervalo.
+
+00:01:10.236 --> 00:01:13.135
+Me deja elegir este derecho aquí, x.
+
+00:01:13.135 --> 00:01:19.309
+Así que vamos a definir alguna función nueva, para capturar el área bajo la curva,
+
+00:01:19.309 --> 00:01:22.575
+entre a y x.
+
+00:01:22.575 --> 00:01:26.886
+Bueno, ¿cómo nos indican el área bajo la curva entre dos puntos finales?
+
+00:01:26.886 --> 00:01:30.642
+Bueno, sólo utilizamos nuestra integral definida, que es nuestro Riemann integral, que es realmente...
+
+00:01:30.642 --> 00:01:34.501
+ahora, antes que llegar a la conclusión de este video,
+
+00:01:34.501 --> 00:01:37.887
+realmente sólo representa el área bajo la curva entre dos puntos finales.
+
+00:01:37.887 --> 00:01:40.634
+Así este derecho aquí, que podemos decir es,
+
+00:01:40.634 --> 00:01:59.570
+la integral definida de una x de f (t), dt.
+
+00:01:59.570 --> 00:02:03.106
+Ahora, este derecho aquí va a ser una función de x, permítanme dejar claro,
+
+00:02:03.106 --> 00:02:11.568
+donde x es en el intervalo entre a y b. 
+Esta cosa sobre aquí
+
+00:02:11.568 --> 00:02:15.642
+va a ser otra función de x.
+Este valor va a depender
+
+00:02:15.642 --> 00:02:18.468
+en lo que x elegimos realmente.
+
+00:02:18.468 --> 00:02:23.109
+Así que vamos a definir, en función de x, así que voy a decir que esto es igual a
+
+00:02:23.109 --> 00:02:27.773
+mayúsculas f (x).
+
+00:02:27.773 --> 00:02:32.903
+Modo mayúsculas todos justo y bueno, f (x) es una función, si me dan un valor de x
+
+00:02:32.903 --> 00:02:38.168
+que existe entre a y b, te dirá el área bajo minúsculas f (t)
+
+00:02:38.168 --> 00:02:40.637
+entre a y x.
+
+00:02:40.637 --> 00:02:44.902
+Ahora, la parte fría, el Teorema fundamental del cálculo,
+
+00:02:44.902 --> 00:02:48.802
+el Teorema fundamental del cálculo nos dice, déjame escribir esto,
+
+00:02:48.802 --> 00:03:00.378
+es un gran problema. 
+Teorema fundamental del cálculo nos dice:
+
+00:03:00.378 --> 00:03:06.669
+eso si tuviéramos que tomar la derivada de nuestra capital F,
+
+00:03:06.669 --> 00:03:09.769
+así que si yo fuera a tomar el derivado de capital F respecto de x,
+
+00:03:09.769 --> 00:03:13.703
+que es lo mismo que tomar el derivado de esto, con respecto a x,
+
+00:03:13.703 --> 00:03:18.128
+que es igual a la derivada de todo este negocio, me dejó copiar esto
+
+00:03:18.128 --> 00:03:24.901
+Por lo tanto, copiar y pegar.
+Que es lo mismo,
+
+00:03:24.901 --> 00:03:28.502
+Yo he definido capital F como estas cosas, por lo que si estoy tomando la derivada de la izquierda,
+
+00:03:28.502 --> 00:03:30.902
+es lo mismo que tomar el derivado de la derecha.
+
+00:03:30.902 --> 00:03:34.101
+Nos dice el Teorema fundamental del cálculo
+
+00:03:34.101 --> 00:03:37.384
+que esto va a ser igual a,
+
+00:03:37.384 --> 00:03:43.502
+va a ser igual a f, f (x) minúsculas
+
+00:03:43.502 --> 00:03:48.245
+Ahora, ¿por qué esto es un gran problema?
+¿Por qué consigue un título tan importante,
+
+00:03:48.245 --> 00:03:53.969
+¿como el Teorema fundamental del cálculo?
+
+00:03:53.969 --> 00:03:58.769
+Bien, nos dice que para cualquier función continua f,
+
+00:03:58.769 --> 00:04:04.546
+Si yo defino una función, que es el área bajo la curva entre a y x la derecha aquí,
+
+00:04:04.546 --> 00:04:08.510
+que el derivado de esa función va a ser f.
+
+00:04:08.510 --> 00:04:09.635
+Así que permítanme dejar claro,
+
+00:04:09.635 --> 00:04:26.966
+cada f continua tiene un antiderivative f (x).
+
+00:04:26.966 --> 00:04:30.169
+Eso por sí mismo es algo fresco, pero otra cosa genial,
+
+00:04:30.169 --> 00:04:33.054
+o supongo que estos son algo relacionado, es, recuerda, en esto,
+
+00:04:33.054 --> 00:04:39.884
+todo lo que hicimos es, que sólo han consultado a la integral definida como simbolizando el área bajo la curva
+
+00:04:39.884 --> 00:04:43.030
+entre dos puntos.
+Ahí es donde esa definición de Riemann
+
+00:04:43.030 --> 00:04:46.530
+de integración proviene. Pero ahora vemos una conexión,
+
+00:04:46.530 --> 00:04:50.446
+entre eso y derivados.
+Cuando usted está tomando la integral definida,
+
+00:04:50.446 --> 00:04:55.279
+una manera de pensar, especialmente si usted está tomando la integral definida entre un límite inferior y una x,
+
+00:04:55.279 --> 00:04:58.869
+una manera de pensar en eso es que usted está tomando esencialmente una primitiva.
+
+00:04:58.869 --> 00:05:00.299
+Por lo que ahora vemos una conexión,
+
+00:05:00.299 --> 00:05:04.234
+por esta razón es el Teorema fundamental del cálculo,
+
+00:05:04.234 --> 00:05:13.782
+conecta cálculo diferencial y cálculo integral.
+Conexión entre derivados,
+
+00:05:13.782 --> 00:05:17.967
+y (tal vez debería decir antiderivatives), derivados y la integración,
+
+00:05:17.967 --> 00:05:21.566
+que antes de este video, que sólo ver la integración como área bajo la curva.
+
+00:05:21.566 --> 00:05:24.287
+Ahora vemos que tiene una conexión a los derivados.
+
+00:05:24.287 --> 00:05:30.037
+¿Realmente utilizas el Teorema fundamental del cálculo, tal vez en el contexto de una clase de cálculo,
+
+00:05:30.037 --> 00:05:32.536
+y haremos la intuición de por qué esto sucede,
+
+00:05:32.536 --> 00:05:35.165
+o por qué esto es cierto y tal vez una prueba en los videos posteriores,
+
+00:05:35.165 --> 00:05:38.028
+pero ¿cómo usted realmente aplicaría este derecho aquí?
+
+00:05:38.028 --> 00:05:43.531
+Bien, supongamos que alguien dijo, que quieren encontrar el derivado
+
+00:05:43.531 --> 00:05:50.507
+Supongamos que alguien quería encontrar el derivado con respecto a x
+
+00:05:50.507 --> 00:05:54.840
+de la integral de, no sé, a escoger algunos número aleatorio aquí,
+
+00:05:54.840 --> 00:05:59.784
+PI x, de, voy a poner algo loco aquí,
+
+00:05:59.784 --> 00:06:10.703
+coseno había cuadrado de t, sobre el logaritmo natural de t menos la raíz cuadrada de t, dt.
+
+00:06:10.703 --> 00:06:13.898
+Así que quieren tomar la derivada con respecto a x de esta locura,
+
+00:06:13.898 --> 00:06:18.790
+Recuerde, esta cosa en los paréntesis, es una función de x.
+
+00:06:18.790 --> 00:06:22.036
+Su valor va a tener un valor que depende de x, le dan un x diferente,
+
+00:06:22.036 --> 00:06:26.389
+y va a tener un valor diferente.
+¿Qué es el derivado de éste con respecto a x?
+
+00:06:26.389 --> 00:06:30.141
+Bien, el Teorema fundamental del cálculo nos dice que puede ser muy simple.
+
+00:06:30.141 --> 00:06:36.806
+Esencialmente y usted puede incluso patrón del partido hasta aquí, nos pondremos más intuición de por qué esto es cierto en futuros videos,
+
+00:06:36.806 --> 00:06:41.052
+pero, esencialmente, en todas partes donde ves que este derecho aquí es una f (t)
+
+00:06:41.052 --> 00:06:44.472
+por todas partes usted ve una t, reemplazarlo con una x, y se convierte en una f (x).
+
+00:06:44.472 --> 00:06:46.030
+Así que esto va a ser igual a
+
+00:06:46.030 --> 00:06:53.832
+coseno cuadrado de x, sobre el logaritmo natural de x menos la raíz cuadrada de x,
+
+00:06:53.832 --> 00:06:58.500
+tomar el derivado de la integral indefinida, Dónde está el límite superior x derecho aquí,
+
+00:06:58.500 --> 00:07:04.471
+sólo se convierte, lo que estaba tomando el integral de, que en función de, en lugar de t,
+
+00:07:04.471 --> 00:07:07.799
+ahora es una función de x.
+
+00:07:07.799 --> 00:07:10.233
+Así puede realmente simplificar a veces, tomando un derivado,
+
+00:07:10.233 --> 00:07:11.830
+y a veces, usted verá en exámenes,
+
+00:07:11.830 --> 00:07:15.499
+estos problemas de truco donde tienes esta cosa realmente peluda que deba toman un integral definida de
+
+00:07:15.499 --> 00:07:16.767
+y luego tomar el derivado
+
+00:07:16.767 --> 00:07:19.305
+basta con recordar el Teorema fundamental del cálculo,
+
+00:07:19.305 --> 00:07:22.297
+lo que une todo, conecta derivados e integración,
+
+00:07:22.297 --> 00:07:26.775
+sólo puede simplificar, por darse cuenta de que esto va a ser,
+
+00:07:26.775 --> 00:07:31.567
+en lugar de f (t una función minúsculas), va a minúsculas f (x),
+
+00:07:31.567 --> 00:07:34.635
+Permítanme dejar claro, en este ejemplo justo por aquí,
+
+00:07:34.635 --> 00:07:37.133
+este derecho aquí era minúscula f (t),
+
+00:07:37.133 --> 00:07:40.965
+y ahora se convirtió en minúsculas f (x).
+
+00:07:40.965 --> 00:07:45.233
+Este derecho aquí fue nuestra,
+
+00:07:45.233 --> 00:07:48.883
+y aviso, no importa lo que el límite inferior de un realmente es.
+
+00:07:48.883 --> 00:07:52.840
+No tienes algo en el lado derecho que es de alguna manera dependen de una.
+
+00:07:52.840 --> 00:07:56.099
+De todos modos, espero disfrutaste y en el siguiente par de videos pensará sobre la intuición,
+
+00:07:56.099 --> 00:08:00.099
+y hacen más ejemplos haciendo uso del Teorema fundamental del cálculo.

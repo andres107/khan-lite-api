@@ -1,0 +1,66 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.360 --> 00:00:03.870
+En este video quiere hacer varios ejemplos de como factorizar
+
+00:00:03.870 --> 00:00:06.590
+un polinomio de grado 2, que a menudo se llama
+
+00:00:06.590 --> 00:00:08.870
+una ecuación cuadrática.
+
+00:00:08.870 --> 00:00:12.650
+A veces, un polinomio cuadrático o simplemente
+
+00:00:12.650 --> 00:00:15.850
+un cuadrático de sí mismo, pero todo significa
+
+00:00:15.850 --> 00:00:18.300
+un polinomio del grado 2.
+
+00:00:18.300 --> 00:00:22.440
+Entonces, será un variable al
+
+00:00:22.440 --> 00:00:23.080
+segundo grado.
+
+00:00:23.080 --> 00:00:26.460
+En este caso, todos los ejemplos que investigaremos usarán el variable "x."
+
+00:00:26.460 --> 00:00:30.740
+Digamos que tengo la expresión cuadrática, "x"
+
+00:00:30.740 --> 00:00:35.280
+al segundo grado más "10x" más 9.
+
+00:00:35.280 --> 00:00:39.870
+Y quiero factorizarla en el producto de dos binomiales.
+
+00:00:39.870 --> 00:00:41.520
+¿Cómo hacemos eso?
+
+00:00:41.520 --> 00:00:44.440
+Pues, debemos pensar en lo que pasa si
+
+00:00:44.440 --> 00:00:51.690
+tomaríamos "x" más "a" y multiplicarlo por "x" más "b."
+
+00:00:51.690 --> 00:00:55.050
+Si multiplicaríamos estas dos expresiones, ¿qué pasa?
+
+00:00:55.050 --> 00:00:57.090
+Pues, tenemos un poquito de experiencia en hacer esto.
+
+00:00:57.090 --> 00:01:03.170
+Será "x" multiplicada por "x" que es igual a "x' al grado dos más "x" multiplicada por b,
+
+00:01:03.170 --> 00:01:12.690
+que es igual a "bx" más a multiplicada por "x", más "a" multiplicada por "b"--más "ab."
+
+00:01:12.690 --> 00:01:15.800
+O, si queremos añadir estas dos en el medio aquí,
+
+00:01:15.800 --> 00:01:18.890
+porque los dos son coeficiente de "x."

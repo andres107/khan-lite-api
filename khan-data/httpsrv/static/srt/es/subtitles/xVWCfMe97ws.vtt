@@ -1,0 +1,330 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.640 --> 00:00:03.180
+Creo que es razonable hacer uno más separable
+
+00:00:03.180 --> 00:00:07.214
+problema de ecuaciones diferenciales, así que vamos a hacerlo.
+
+00:00:07.214 --> 00:00:13.430
+La derivada de y con respecto a x es igual a y
+
+00:00:13.430 --> 00:00:22.460
+coseno de x dividido por 1 + 2y cuadrado, y nos dan
+
+00:00:22.460 --> 00:00:27.080
+una condición inicial y 0 es igual a 1.
+
+00:00:27.080 --> 00:00:29.920
+O cuando x es igual a 0, y es igual a 1.
+
+00:00:29.920 --> 00:00:32.130
+Y sé que hicimos un par ya, pero de otra manera
+
+00:00:32.130 --> 00:00:34.530
+es pensar en separables ecuaciones diferenciales
+
+00:00:34.530 --> 00:00:37.300
+realmente, todo lo que estás haciendo es implícito
+
+00:00:37.300 --> 00:00:39.000
+diferenciación en sentido inverso.
+
+00:00:39.000 --> 00:00:41.930
+U otra forma de pensar es siempre que usted tomó una
+
+00:00:41.930 --> 00:00:46.340
+derivados implícitos, el producto final fue una separable
+
+00:00:46.340 --> 00:00:47.800
+ecuación diferencial.
+
+00:00:47.800 --> 00:00:52.130
+Y así, esperemos que esto forma un poco más de una conexión.
+
+00:00:52.130 --> 00:00:53.030
+De todos modos, vamos a hacer esto.
+
+00:00:53.030 --> 00:00:55.480
+Tenemos que separar el y el x
+
+00:00:55.480 --> 00:00:59.170
+Vamos a multiplicar ambos lados veces 1 más 2y cuadrado.
+
+00:00:59.170 --> 00:01:07.050
+Obtenemos 1 plus 2y squared veces dy dx es igual
+
+00:01:07.050 --> 00:01:10.360
+y el coseno de x.
+
+00:01:10.360 --> 00:01:13.130
+Nos aún plenamente no hemos separado la y y la x
+
+00:01:13.130 --> 00:01:17.190
+Vamos a dividir ambos lados de este y y luego vamos a ver.
+
+00:01:17.190 --> 00:01:23.080
+Obtenemos 1 sobre y plus 2y al cuadrado dividido por y, que
+
+00:01:23.080 --> 00:01:31.020
+2y justa, tiempos dy dx es igual al coseno de x.
+
+00:01:31.020 --> 00:01:34.430
+Yo sólo puedo multiplicar ambos lados por dx.
+
+00:01:34.430 --> 00:01:42.860
+1 veces y además 2y que DY es igual al coseno de x dx.
+
+00:01:42.860 --> 00:01:45.380
+Y ahora podemos integrar ambos lados.
+
+00:01:50.670 --> 00:01:54.090
+¿Cuál es la integral de 1 sobre y con respecto a y?
+
+00:01:54.090 --> 00:01:57.620
+Sé que la reacción de su aparato digestivo es el logaritmo natural de y, que es
+
+00:01:57.620 --> 00:02:01.060
+correcto, pero no hay realmente una función ligeramente más amplia
+
+00:02:01.060 --> 00:02:03.450
+que eso, cuya derivada es realmente 1 sobre y, y
+
+00:02:03.450 --> 00:02:06.550
+el logaritmo natural del valor absoluto de y.
+
+00:02:06.550 --> 00:02:11.640
+Y esto es sólo una función ligeramente más amplia, porque es
+
+00:02:11.640 --> 00:02:15.550
+dominio incluye positivos y números negativos, sólo
+
+00:02:15.550 --> 00:02:16.240
+excluye el 0.
+
+00:02:16.240 --> 00:02:18.910
+Mientras que el logaritmo natural de y sólo incluye
+
+00:02:18.910 --> 00:02:21.160
+números mayores que 0.
+
+00:02:21.160 --> 00:02:23.750
+Registro tan natural de valor absoluto de y es bonito, y es
+
+00:02:23.750 --> 00:02:27.200
+realmente cierto que en todos los puntos que no sea 0, su
+
+00:02:27.200 --> 00:02:28.990
+derivada es 1 sobre y.
+
+00:02:28.990 --> 00:02:31.140
+Es sólo una función ligeramente más amplia.
+
+00:02:31.140 --> 00:02:33.550
+Por lo es la primitiva de 1 sobre y, y demostramos
+
+00:02:33.550 --> 00:02:35.330
+eso, o al menos demostramos que la derivada de la natural
+
+00:02:35.330 --> 00:02:38.000
+registro de y es 1 sobre y.
+
+00:02:38.000 --> 00:02:40.890
+Además, ¿qué es la primitiva de 2y con
+
+00:02:40.890 --> 00:02:41.410
+¿respeto y?
+
+00:02:41.410 --> 00:02:45.020
+Bueno, y su cuadrado, es igual a--voy a hacer la
+
+00:02:45.020 --> 00:02:47.230
+Además de c en este lado.
+
+00:02:47.230 --> 00:02:48.990
+¿Cuya derivada es coseno de x?
+
+00:02:48.990 --> 00:02:50.240
+Bueno, es seno de x.
+
+00:02:53.290 --> 00:02:56.650
+Y entonces podríamos añadir la c plus.
+
+00:02:56.650 --> 00:02:59.340
+Podríamos añadir que c plus allí.
+
+00:02:59.340 --> 00:03:00.870
+¿Y lo que era nuestra condición inicial? y de
+
+00:03:00.870 --> 00:03:02.000
+0 es igual a 1.
+
+00:03:02.000 --> 00:03:04.470
+Así que cuando x es igual a 0, y es igual a 1.
+
+00:03:08.175 --> 00:03:13.350
+Por lo tanto ln del valor absoluto de 1 + 1 al cuadrado es igual a
+
+00:03:13.350 --> 00:03:16.870
+seno de 0 plus c.
+
+00:03:16.870 --> 00:03:19.170
+El logaritmo natural de uno, e poder ¿qué es 1?
+
+00:03:19.170 --> 00:03:24.530
+Bien, 0, + 1 - seno de 0 es 0--es igual a C.
+
+00:03:24.530 --> 00:03:27.600
+Así obtenemos c es iguales a 1.
+
+00:03:27.600 --> 00:03:32.710
+Así que la solución a esta ecuación diferencial aquí
+
+00:03:32.710 --> 00:03:35.740
+es, incluso no tengo que escribirlo, hemos encontrado la c
+
+00:03:35.740 --> 00:03:37.820
+es igual a 1, por lo que sólo nos podemos rayar esto, y
+
+00:03:37.820 --> 00:03:39.020
+podríamos poner un 1.
+
+00:03:39.020 --> 00:03:42.060
+El logaritmo natural del valor absoluto de y más y
+
+00:03:42.060 --> 00:03:46.210
+cuadrado es igual al seno de x + 1.
+
+00:03:46.210 --> 00:03:49.080
+Y realmente, si fueras de la gráfica esto, verá
+
+00:03:49.080 --> 00:03:53.430
+y realmente nunca huecos debajo o incluso golpea el eje x.
+
+00:03:53.430 --> 00:03:55.470
+Por lo que realmente puede librarse de ese absoluto
+
+00:03:55.470 --> 00:03:56.700
+función de valor allí.
+
+00:03:56.700 --> 00:03:58.150
+Pero de todos modos, eso es sólo un poco tecnicismo.
+
+00:03:58.150 --> 00:04:02.520
+Pero esta es la forma implícita de la solución a este
+
+00:04:02.520 --> 00:04:03.380
+ecuación diferencial.
+
+00:04:03.380 --> 00:04:05.680
+Que tiene sentido, porque el diferencial separable
+
+00:04:05.680 --> 00:04:06.800
+las ecuaciones son realmente sólo
+
+00:04:06.800 --> 00:04:09.740
+derivados implícitos hacia atrás.
+
+00:04:09.740 --> 00:04:13.120
+Y en general, una cosa que la clase de diversión sobre
+
+00:04:13.120 --> 00:04:15.810
+ecuaciones diferenciales, pero de no conformes
+
+00:04:15.810 --> 00:04:19.490
+acerca de las ecuaciones diferenciales, es realmente es sólo un conjunto
+
+00:04:19.490 --> 00:04:22.840
+batiburrillo de herramientas para resolver diferentes tipos de ecuaciones.
+
+00:04:22.840 --> 00:04:27.380
+No hay una sola herramienta o una teoría que resolverá todos
+
+00:04:27.380 --> 00:04:28.180
+ecuaciones diferenciales.
+
+00:04:28.180 --> 00:04:30.600
+Hay pocos que va a resolver una cierta clase de
+
+00:04:30.600 --> 00:04:32.810
+ecuaciones diferenciales, pero no es sólo uno
+
+00:04:32.810 --> 00:04:34.320
+manera coherente para resolver todas ellas.
+
+00:04:34.320 --> 00:04:37.100
+Y aún hoy, hay diferencial no resuelto
+
+00:04:37.100 --> 00:04:39.390
+ecuaciones, donde la única forma que sabemos cómo llegar
+
+00:04:39.390 --> 00:04:42.660
+soluciones está utilizando un equipo numéricamente.
+
+00:04:42.660 --> 00:04:44.060
+Y un día voy a hacer videos sobre eso.
+
+00:04:44.060 --> 00:04:47.280
+Y realmente, que encontrará en la mayoría de las aplicaciones que
+
+00:04:47.280 --> 00:04:49.460
+lo que terminas haciendo de todos modos, porque más diferencial
+
+00:04:49.460 --> 00:04:54.280
+ecuaciones que se encuentra en la ciencia o con cualquier tipo de
+
+00:04:54.280 --> 00:04:56.500
+Ciencia, economía o física, o
+
+00:04:56.500 --> 00:05:01.260
+Ingeniería, que a menudo son unsolveable, porque ellos
+
+00:05:01.260 --> 00:05:04.050
+podría tener un segundo o tercer derivado involucrado, y
+
+00:05:04.050 --> 00:05:05.090
+van a multiplicar.
+
+00:05:05.090 --> 00:05:06.760
+O sea, sólo van a ser realmente complicado, muy
+
+00:05:06.760 --> 00:05:08.040
+difícil de resolver analíticamente.
+
+00:05:08.040 --> 00:05:10.260
+Y en realidad, vas a resolverlos numéricamente, que
+
+00:05:10.260 --> 00:05:11.910
+a menudo es mucho más fácil.
+
+00:05:11.910 --> 00:05:14.520
+Pero de todas formas, esperemos que en este momento tienes un bastante bien
+
+00:05:14.520 --> 00:05:15.950
+sentido de ecuaciones separables.
+
+00:05:15.950 --> 00:05:17.860
+Son simplemente diferenciación implícita hacia atrás, y
+
+00:05:17.860 --> 00:05:20.020
+realmente no es nada nuevo.
+
+00:05:20.020 --> 00:05:24.600
+Nuestra próxima cosa que aprenderemos es exactas de las ecuaciones diferenciales,
+
+00:05:24.600 --> 00:05:27.210
+y, a continuación, vamos a ir en métodos cada vez más.
+
+00:05:27.210 --> 00:05:29.640
+Y, a continuación, esperemos que, al final de esta lista de reproducción, tendrás
+
+00:05:29.640 --> 00:05:32.470
+un bonito toolkit de todas las diferentes formas de resolver en
+
+00:05:32.470 --> 00:05:34.890
+menos las ecuaciones diferenciales pueden ser resueltos.
+
+00:05:34.890 --> 00:05:36.140
+Nos vemos en el siguiente vídeo.

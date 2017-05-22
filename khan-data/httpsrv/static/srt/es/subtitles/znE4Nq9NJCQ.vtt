@@ -1,0 +1,555 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:05.440
+Ahora estamos listos para resolver no homogénea segundo orden
+
+00:00:05.440 --> 00:00:08.440
+ecuaciones diferenciales lineales con coeficientes constantes.
+
+00:00:08.440 --> 00:00:09.870
+¿Qué significa todo esto?
+
+00:00:09.870 --> 00:00:12.870
+Bueno, es una ecuación que tiene este aspecto.
+
+00:00:12.870 --> 00:00:17.760
+A veces el segundo derivado más b veces el primero
+
+00:00:17.760 --> 00:00:24.990
+derivados más c la función es igual a g de x.
+
+00:00:24.990 --> 00:00:28.390
+Antes de mostrarle un ejemplo real, quiero mostrarle
+
+00:00:28.390 --> 00:00:29.310
+algo interesante.
+
+00:00:29.310 --> 00:00:33.630
+Que la solución general de esta ecuación no homogénea
+
+00:00:33.630 --> 00:00:35.770
+es realmente la solución general de la homogénea
+
+00:00:35.770 --> 00:00:38.030
+ecuación además una solución particular.
+
+00:00:38.030 --> 00:00:39.920
+Voy a explicarlo que significa en un segundo.
+
+00:00:39.920 --> 00:00:43.340
+Así que vamos a decir que h es una solución de
+
+00:00:43.340 --> 00:00:45.425
+la ecuación homogénea.
+
+00:00:47.950 --> 00:00:50.790
+Y que funcionó bien, porque, h para homogénea.
+
+00:00:50.790 --> 00:00:53.593
+h es la solución para homogénea.
+
+00:00:59.370 --> 00:01:01.320
+Debe haber alguna notación abreviada para homogénea.
+
+00:01:04.129 --> 00:01:05.880
+¿Qué significa eso?
+
+00:01:05.880 --> 00:01:11.700
+Esto significa que a veces la segunda derivada de h plus b
+
+00:01:11.700 --> 00:01:18.670
+veces primer h más veces c h es igual a 0.
+
+00:01:18.670 --> 00:01:21.980
+Eso es lo que me refiero cuando digo que h es una solución--y
+
+00:01:21.980 --> 00:01:24.570
+en realidad, digamos que h es la solución general para
+
+00:01:24.570 --> 00:01:26.190
+Esta ecuación homogénea.
+
+00:01:26.190 --> 00:01:27.790
+Y sabemos resolver.
+
+00:01:27.790 --> 00:01:30.000
+Tomar la ecuación característica dependiendo de cuántos
+
+00:01:30.000 --> 00:01:32.030
+raíces tiene y si son reales o complejos.
+
+00:01:32.030 --> 00:01:35.310
+Puede averiguar una solución general.
+
+00:01:35.310 --> 00:01:37.190
+Y, a continuación, si tiene condiciones iniciales, puede sustituir
+
+00:01:37.190 --> 00:01:39.940
+ellos y obtener los valores de las constantes.
+
+00:01:39.940 --> 00:01:40.970
+Bastante justo.
+
+00:01:40.970 --> 00:01:45.060
+Ahora vamos a decir que dijera que g es una solución.
+
+00:01:45.060 --> 00:01:47.450
+Así no, ya utilicé g aquí arriba.
+
+00:01:47.450 --> 00:01:48.770
+Bueno, no me gusta usar vocales.
+
+00:01:48.770 --> 00:01:49.930
+Digamos j.
+
+00:01:49.930 --> 00:01:53.860
+Digamos que j es una solución particular
+
+00:01:53.860 --> 00:01:54.790
+ecuación diferencial.
+
+00:01:54.790 --> 00:01:55.520
+¿Qué significa eso?
+
+00:01:55.520 --> 00:02:03.585
+Esto significa que a veces primer primo j plus b veces j
+
+00:02:03.585 --> 00:02:09.410
+veces primeros plus c j es igual a g de x.
+
+00:02:09.410 --> 00:02:09.789
+¿Verdad?
+
+00:02:09.789 --> 00:02:20.150
+Tan sólo nos estamos definiendo j de x es una solución particular.
+
+00:02:25.180 --> 00:02:32.150
+Ahora lo que quiero mostrar es j x plus h de x es
+
+00:02:32.150 --> 00:02:35.820
+también va a ser una solución a esta ecuación original.
+
+00:02:35.820 --> 00:02:38.730
+Y que es la solución general para este
+
+00:02:38.730 --> 00:02:40.040
+ecuación no homogénea.
+
+00:02:40.040 --> 00:02:41.800
+Y antes solo hacerlo
+
+00:02:41.800 --> 00:02:43.380
+Matemáticamente, ¿qué es la intuición?
+
+00:02:43.380 --> 00:02:46.200
+Bueno, cuando usted sustituir h aquí, obtendrá 0.
+
+00:02:46.200 --> 00:02:49.340
+Cuando se sustituye j aquí, obtendrá g de x.
+
+00:02:49.340 --> 00:02:51.300
+Así que cuando se les agreguen juntos, vas a obtener
+
+00:02:51.300 --> 00:02:52.950
+0 plus g de x aquí.
+
+00:02:52.950 --> 00:02:53.930
+Así que vas a obtener g de x aquí.
+
+00:02:53.930 --> 00:02:55.120
+Y te voy a mostrar ahora.
+
+00:02:55.120 --> 00:03:00.350
+Así que vamos a decir que quería sustituir h plus j aquí.
+
+00:03:00.350 --> 00:03:02.985
+Y lo haré en un color diferente.
+
+00:03:02.985 --> 00:03:06.460
+Un--así que la segunda derivada de la suma de esos dos
+
+00:03:06.460 --> 00:03:08.520
+funciones va a ser la segunda derivada de ambos
+
+00:03:08.520 --> 00:03:16.090
+les resumió--plus b veces la primera derivada de la
+
+00:03:16.090 --> 00:03:20.490
+suma más c veces la suma de las funciones.
+
+00:03:23.510 --> 00:03:25.970
+Y mi objetivo es mostrar que esto es igual a g de x.
+
+00:03:25.970 --> 00:03:27.600
+Así que ¿qué es esto simplificado a?
+
+00:03:27.600 --> 00:03:31.990
+Bien si tomamos todos los términos h, obtenemos primer primo Ah
+
+00:03:31.990 --> 00:03:39.978
+más prime Bh más Ch plus, vamos a hacer todos los términos de j. AJ
+
+00:03:39.978 --> 00:03:48.800
+primer Prime plus Bj prime plus Cj.
+
+00:03:48.800 --> 00:03:51.710
+Bien por la definición de cómo definimos h y j, lo
+
+00:03:51.710 --> 00:03:54.260
+¿Esto es igual a?
+
+00:03:54.260 --> 00:03:57.360
+Dijimos que h es una solución para la ecuación homogénea,
+
+00:03:57.360 --> 00:03:59.610
+o que esta expresión es igual a 0.
+
+00:03:59.610 --> 00:04:01.820
+Por lo es igual a 0.
+
+00:04:01.820 --> 00:04:05.910
+¿Y por nuestra definición de j, lo que esto significa?
+
+00:04:05.910 --> 00:04:09.210
+Dijimos j es una solución particular para la
+
+00:04:09.210 --> 00:04:12.830
+ecuación no homogénea, o que esta expresión es
+
+00:04:12.830 --> 00:04:14.080
+igual a g de x.
+
+00:04:18.010 --> 00:04:21.680
+Así que cuando usted sustituir h plus j en este diferencial
+
+00:04:21.680 --> 00:04:23.600
+ecuación del lado izquierdo.
+
+00:04:23.600 --> 00:04:26.740
+En el lado derecho, verdadero, obtendrá g de x.
+
+00:04:26.740 --> 00:04:31.190
+Por lo que sólo hemos demostrado si se definen h y j de esta manera,
+
+00:04:31.190 --> 00:04:38.380
+que la función, llamaremos k de x es igual a h de x
+
+00:04:38.380 --> 00:04:39.490
+Además j de x.
+
+00:04:39.490 --> 00:04:41.390
+Estoy quedando sin espacio.
+
+00:04:41.390 --> 00:04:43.290
+Es la solución general.
+
+00:04:43.290 --> 00:04:46.830
+Yo no he comprobado que es la solución más general, pero
+
+00:04:46.830 --> 00:04:48.630
+¿Creo que tienes la intuición, correcta?
+
+00:04:48.630 --> 00:04:51.150
+Porque la solución general por un homogéneo que
+
+00:04:51.150 --> 00:04:54.950
+fue la solución más general, y ahora vamos a añadir un
+
+00:04:54.950 --> 00:04:57.240
+solución en particular que usted obtiene la g de x en la
+
+00:04:57.240 --> 00:04:58.620
+lado derecho.
+
+00:04:58.620 --> 00:05:01.830
+Puede ser muy confuso para usted, así que vamos a tratar de realidad
+
+00:05:01.830 --> 00:05:04.470
+hacerlo con números reales.
+
+00:05:04.470 --> 00:05:07.190
+Y creo que haremos mucho más sentido.
+
+00:05:07.190 --> 00:05:09.100
+Digamos que tenemos las ecuaciones diferenciales--y
+
+00:05:09.100 --> 00:05:10.970
+Voy a enseñarte una técnica ahora para averiguar
+
+00:05:10.970 --> 00:05:14.690
+ese j en ese último ejemplo.
+
+00:05:14.690 --> 00:05:17.500
+Entonces, ¿cómo puedes adivinar solución en particular?
+
+00:05:17.500 --> 00:05:18.840
+Digamos que tengo la ecuación diferencial de la
+
+00:05:18.840 --> 00:05:24.910
+segunda derivada de y menos 3 veces la primera derivada
+
+00:05:24.910 --> 00:05:29.860
+menos 4 veces y es igual a 3e para el x 2.
+
+00:05:32.680 --> 00:05:36.260
+Así, el primer paso es que queremos la solución general de la
+
+00:05:36.260 --> 00:05:38.660
+ecuación homogénea.
+
+00:05:38.660 --> 00:05:40.620
+Y en ese ejemplo que acabo de hacer, que tendría
+
+00:05:40.620 --> 00:05:42.250
+sido nuestro h de x.
+
+00:05:42.250 --> 00:05:47.310
+Así que tenemos la solución y primos primos menos prime 3 años
+
+00:05:47.310 --> 00:05:49.850
+menos de 4 años es igual a 0.
+
+00:05:49.850 --> 00:05:53.060
+Tomar la ecuación característica.
+
+00:05:53.060 --> 00:05:55.030
+Este 4 es igual a 0.
+
+00:05:55.030 --> 00:06:02.950
+r menos r 4 veces más 1 es igual a 0.
+
+00:06:02.950 --> 00:06:08.760
+2 raíces, r puede ser negativo o 4 1.
+
+00:06:08.760 --> 00:06:12.610
+Y por lo tanto nuestra solución general--que llamaré que h.
+
+00:06:12.610 --> 00:06:14.520
+Bien, vamos a llamar y general.
+
+00:06:14.520 --> 00:06:17.060
+y sub g.
+
+00:06:17.060 --> 00:06:21.440
+Así que nuestra solución general es igual a--y que hemos hecho esto
+
+00:06:21.440 --> 00:06:28.810
+muchas veces--C1 e a la x 4 plus e C2 negativo
+
+00:06:28.810 --> 00:06:30.660
+1 x o menos x.
+
+00:06:30.660 --> 00:06:31.640
+Bastante justo.
+
+00:06:31.640 --> 00:06:34.210
+Así que hemos resuelto la ecuación homogénea.
+
+00:06:34.210 --> 00:06:38.260
+Entonces, ¿cómo obtenemos, en este último ejemplo, una j de x que
+
+00:06:38.260 --> 00:06:39.820
+nos dan una solución particular, en el
+
+00:06:39.820 --> 00:06:42.030
+derecha que obtenemos esto.
+
+00:06:42.030 --> 00:06:43.370
+Bien aquí solo tenemos que pensar un poquito.
+
+00:06:43.370 --> 00:06:46.320
+Y este método es llamado el método de indeterminado
+
+00:06:46.320 --> 00:06:46.900
+Coeficientes.
+
+00:06:46.900 --> 00:06:50.260
+Y tienes que decir, bueno, si quiero alguna función donde me
+
+00:06:50.260 --> 00:06:53.510
+tomar una segunda derivada y que añadir o restar algunos
+
+00:06:53.510 --> 00:06:56.610
+múltiplo de su primera derivada menos algunos múltiples
+
+00:06:56.610 --> 00:06:59.670
+de la función, obtener e a la x 2.
+
+00:06:59.670 --> 00:07:01.890
+Esa función y sus derivados y su segundo
+
+00:07:01.890 --> 00:07:03.860
+derivados deben ser algo de la forma, algo
+
+00:07:03.860 --> 00:07:05.550
+veces e a la x 2.
+
+00:07:05.550 --> 00:07:06.840
+Tan esencialmente tomamos una suposición.
+
+00:07:06.840 --> 00:07:12.770
+Decimos bien apariencia que cuando tomamos los diversos
+
+00:07:12.770 --> 00:07:15.270
+derivados y las funciones y se multipliquen múltiplos de
+
+00:07:15.270 --> 00:07:16.410
+¿lo más mutuamente?
+
+00:07:16.410 --> 00:07:17.170
+Y todo eso.
+
+00:07:17.170 --> 00:07:21.230
+Nos reuníamos e el x 2 o algún múltiplo de e a la x 2.
+
+00:07:21.230 --> 00:07:25.970
+Bien, una buena estimación podría ser sólo ese j--así que llamaré
+
+00:07:25.970 --> 00:07:28.460
+y particular.
+
+00:07:28.460 --> 00:07:33.100
+Podría ser nuestra solución particular aquí--y en particular
+
+00:07:33.100 --> 00:07:35.170
+Estoy usando un poco diferente de lo particular de solución
+
+00:07:35.170 --> 00:07:37.510
+solución cuando tuvimos las condiciones iniciales.
+
+00:07:37.510 --> 00:07:40.400
+Aquí podemos ver esto como una solución particular.
+
+00:07:40.400 --> 00:07:43.680
+Una solución que nos da esta en el lado derecho.
+
+00:07:43.680 --> 00:07:49.450
+Así que vamos a decir que el que escoger es algunas veces constante a
+
+00:07:49.450 --> 00:07:51.526
+e a la x 2.
+
+00:07:51.526 --> 00:07:56.100
+Si es mi suposición, entonces la derivada de la es igual a
+
+00:07:56.100 --> 00:07:59.450
+2Ae el x 2.
+
+00:07:59.450 --> 00:08:02.490
+Y la segunda derivada de ello, de mi particular
+
+00:08:02.490 --> 00:08:07.310
+solución, es igual a 4Ae a la x 2.
+
+00:08:07.310 --> 00:08:09.440
+Y ahora puedo sustituir aquí y vamos a ver si puedo
+
+00:08:09.440 --> 00:08:11.740
+resolver para un, y, a continuación, voy a tener mi solución en particular.
+
+00:08:11.740 --> 00:08:14.030
+Por eso la segunda derivitive, que es esto.
+
+00:08:14.030 --> 00:08:21.660
+Para obtener 4Ae al 2 x menos 3 veces la primera derivitive.
+
+00:08:21.660 --> 00:08:22.760
+Lo menos 3 veces esto.
+
+00:08:22.760 --> 00:08:30.550
+Eso es menos 6Ae al 2 x menos 4 veces la función.
+
+00:08:30.550 --> 00:08:36.750
+Por lo tanto menos 4Ae a la x 2 y todo eso va a ser
+
+00:08:36.750 --> 00:08:39.929
+igual a 3e para el x 2.
+
+00:08:39.929 --> 00:08:43.140
+Bien sabemos e con el 2 x 0 igual, así que podemos dividir
+
+00:08:43.140 --> 00:08:44.150
+ambos lados por.
+
+00:08:44.150 --> 00:08:47.120
+Sólo un factor, realmente.
+
+00:08:47.120 --> 00:08:48.970
+Deshacerse de todos los de la ñ a la x 2.
+
+00:08:48.970 --> 00:08:51.340
+En el lado izquierdo, tenemos una 4A negativo y 4A.
+
+00:08:51.340 --> 00:08:53.300
+Bueno, los cancelan.
+
+00:08:53.300 --> 00:08:58.540
+Y luego lo aquí, tenemos menos 6A es igual a 3.
+
+00:08:58.540 --> 00:09:03.400
+Divide ambos lados por 6 y get a es igual a menos 1/2.
+
+00:09:03.400 --> 00:09:03.940
+Así que ahí.
+
+00:09:03.940 --> 00:09:05.330
+Tenemos nuestra solución particular.
+
+00:09:05.330 --> 00:09:11.710
+Es igual a menos 1/2 e a la x 2.
+
+00:09:11.710 --> 00:09:14.640
+Y ahora, como sólo mostré le antes de que se borra la
+
+00:09:14.640 --> 00:09:18.390
+pantalla, nuestra solución general de este homogénea
+
+00:09:18.390 --> 00:09:21.650
+ecuación va a ser nuestra solución particular además de la
+
+00:09:21.650 --> 00:09:23.790
+solución general de la ecuación homogénea.
+
+00:09:23.790 --> 00:09:27.170
+Por lo que podemos llamar esto la más general
+
+00:09:27.170 --> 00:09:28.770
+Solución: no sé.
+
+00:09:28.770 --> 00:09:30.360
+Yo simplemente llamaremos y.
+
+00:09:30.360 --> 00:09:41.230
+Es nuestra solución general C1e a x 4 plus C2e a la
+
+00:09:41.230 --> 00:09:45.300
+menos x plus nuestra solución particular hemos encontrado.
+
+00:09:45.300 --> 00:09:51.840
+Eso es menos de 1/2e a la x 2.
+
+00:09:51.840 --> 00:09:53.300
+Bastante limpio.
+
+00:09:53.300 --> 00:09:55.780
+De todos modos, voy a hacer un par de ejemplos más de esto.
+
+00:09:55.780 --> 00:09:56.790
+Y creo que obtendrá el cuelgue de él.
+
+00:09:56.790 --> 00:10:00.560
+En los siguientes ejemplos, haremos algo más que una e a
+
+00:10:00.560 --> 00:10:02.260
+el x 2 o una función e aquí.
+
+00:10:02.260 --> 00:10:05.750
+Intentaremos hacer cosas con polinomios y trig
+
+00:10:05.750 --> 00:10:06.860
+funciones así.
+
+00:10:06.860 --> 00:10:09.440
+Nos vemos en el siguiente vídeo.

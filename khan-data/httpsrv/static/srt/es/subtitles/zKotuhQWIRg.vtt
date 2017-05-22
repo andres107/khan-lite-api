@@ -1,0 +1,105 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.721 --> 00:00:04.644
+Resolver para x: tenemos 8 tiempo la cantidad 3 x + 10
+
+00:00:04.644 --> 00:00:08.959
+es igual a 28 x - 14-4 x
+
+00:00:08.959 --> 00:00:11.041
+Como cada ecuación que hemos hecho hasta ahora,
+
+00:00:11.041 --> 00:00:14.164
+sólo queremos aislar todas las x en un lado de esta ecuación.
+
+00:00:14.164 --> 00:00:17.355
+Pero antes de hacerlo, realmente podemos simplificar cada una de estas partes.
+
+00:00:17.355 --> 00:00:21.246
+El lado izquierdo: nosotros podemos multiplicar la cantidad 3 x + 8 10 veces
+
+00:00:21.246 --> 00:00:24.305
+así nos esencialmente sólo estamos distribuyendo el 8
+
+00:00:24.305 --> 00:00:25.533
+(aquí propiedad distributiva)
+
+00:00:25.533 --> 00:00:29.718
+Así que esto es lo mismo como 8 veces x 3 que es 24 x
+
+00:00:29.718 --> 00:00:34.625
+Además de 10 8 veces que es 80 es igual a
+
+00:00:34.625 --> 00:00:38.075
+y aquí tenemos 28 x - 14-4 x
+
+00:00:38.075 --> 00:00:41.575
+por lo tanto podemos combinar el 28 x y x-4
+
+00:00:41.575 --> 00:00:45.271
+28 x - 4 x que es x 24
+
+00:00:45.271 --> 00:00:49.185
+y luego tienes la -14 por aquí.
+
+00:00:49.185 --> 00:00:50.154
+Ahora la próxima cosa que podemos hacer
+
+00:00:50.154 --> 00:00:52.046
+y ya está estudiando un poquito suspiscious
+
+00:00:52.046 --> 00:00:54.815
+pero sólo para confirmar que es sospechoso como parece,
+
+00:00:54.815 --> 00:00:58.710
+vamos a intentar restar x 24 desde ambos lados de esta ecuación.
+
+00:00:58.710 --> 00:01:03.385
+Y si lo hacemos, vemos que realmente eliminamos la x a ambos lados de la ecuación
+
+00:01:03.385 --> 00:01:05.887
+porque tenemos 24 x allí y tenemos un 24 x allí.
+
+00:01:05.887 --> 00:01:08.231
+Usted podría decir: "Hey, vamos a poner todas las x en el lado izquierdo
+
+00:01:08.231 --> 00:01:12.216
+así que vamos a deshacernos de esta x 24"para restar x 24 por allí
+
+00:01:12.216 --> 00:01:15.087
+pero tiene que hacer al lado izquierdo.
+
+00:01:15.087 --> 00:01:18.548
+Y entonces estamos dejamos con: en el lado izquierdo se cancelan estos chicos
+
+00:01:18.548 --> 00:01:22.733
+te dejan con sólo 80 es igual a
+
+00:01:22.733 --> 00:01:25.390
+es igual a estos chicos se cancelan así:
+
+00:01:25.390 --> 00:01:27.769
+es igual a -14
+
+00:01:27.769 --> 00:01:29.161
+Ahora esto parece muy extraño.
+
+00:01:29.161 --> 00:01:32.985
+Por lo que estamos haciendo una declaración que 80 es igual a -14
+
+00:01:32.985 --> 00:01:35.898
+que sabemos que no es cierto. Esto no sucede
+
+00:01:35.898 --> 00:01:40.243
+80 nunca es igual a -14, son intrínsecamente sólo inequal.
+
+00:01:40.243 --> 00:01:45.336
+Por lo tanto esta ecuación aquí realmente no tiene solución.
+
+00:01:45.336 --> 00:01:48.564
+Esto no tiene solución.
+
+00:01:48.564 --> 00:01:53.801
+No hay ningún valor de x que hará 80 igual a -14

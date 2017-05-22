@@ -1,0 +1,543 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+
+
+99:59:59.999 --> 99:59:59.999
+secante.
+
+00:00:00.660 --> 00:00:05.141
+En el último vídeo hemos intentado averiguar la pendiente
+
+00:00:05.141 --> 00:00:07.570
+de un punto o la pendiente de una curva en cierto punto.
+
+00:00:07.570 --> 00:00:10.310
+Y lo que hemos hecho es decir, OK, vamos a buscar la pendiente
+
+00:00:10.310 --> 00:00:12.970
+entre este punto y otro punto que no esté
+
+00:00:12.970 --> 00:00:14.220
+demasiado lejos de dicho punto.
+
+00:00:14.220 --> 00:00:15.953
+Y hemos obtenido la pendiente de la línea
+
+00:00:15.953 --> 00:00:19.530
+Y se ve todo de lujo, pero esto es sólo el valor y de la
+
+00:00:19.530 --> 00:00:23.570
+punto que no está demasiado lejos, y esto es sólo el valor y
+
+00:00:23.570 --> 00:00:25.700
+punto del punto en cuestión, por lo que es
+
+00:00:25.700 --> 00:00:27.100
+sólo el cambio en y.
+
+00:00:27.100 --> 00:00:29.020
+Y luego se divide por el que el cambio en x.
+
+00:00:29.020 --> 00:00:31.580
+Así en el ejemplo que hicimos, h es la diferencia
+
+00:00:31.580 --> 00:00:33.610
+entre nuestros dos valores de x.
+
+00:00:33.610 --> 00:00:35.420
+Esta distancia se h.
+
+00:00:35.420 --> 00:00:39.210
+Y eso nos dio la pendiente de esa línea.
+
+00:00:39.210 --> 00:00:42.940
+Nos dijo que bueno, lo que si tomamos el límite en este punto
+
+00:00:42.940 --> 00:00:45.510
+aquí se acerca más y más cerca de este punto.
+
+00:00:45.510 --> 00:00:48.420
+Si este punto en esencia casi se convierte en este punto, entonces
+
+00:00:48.420 --> 00:00:51.230
+nuestros pendiente va a ser la pendiente de nuestra recta tangente.
+
+00:00:51.230 --> 00:00:54.620
+Y definimos que, como la derivada de nuestra función.
+
+00:00:54.620 --> 00:00:57.280
+Hemos dicho que es igual a f prima de x
+
+00:00:57.280 --> 00:01:00.520
+Así es que si podemos aplicar esto en este video para que tal vez
+
+00:01:00.520 --> 00:01:03.750
+las cosas un poco más concreto en su cabeza.
+
+00:01:03.750 --> 00:01:04.910
+Así que permítanme hacer una.
+
+00:01:04.910 --> 00:01:07.140
+En primer lugar voy a hacer un caso particular en el que desea encontrar el
+
+00:01:07.140 --> 00:01:09.980
+pendiente en exactamente un punto.
+
+00:01:09.980 --> 00:01:14.670
+Así que me saco mis ejes de nuevo.
+
+00:01:14.670 --> 00:01:17.520
+Vamos a dibujar unos ejes ahí.
+
+00:01:17.520 --> 00:01:25.400
+Digamos que tienen la curva - esto es la curva - y
+
+00:01:25.400 --> 00:01:27.110
+es igual al cuadrado de x.
+
+00:01:27.110 --> 00:01:32.790
+Así que esta es mi eje, este es mi eje x, y quiero saber
+
+00:01:32.790 --> 00:01:37.270
+la pendiente en el punto x es igual a 3.
+
+00:01:37.270 --> 00:01:41.660
+Cuando digo que la pendiente se puede imaginar una línea tangente aquí.
+
+00:01:41.660 --> 00:01:44.760
+Se puede imaginar una línea tangente que va así como así, y
+
+00:01:44.760 --> 00:01:47.710
+que acaba de apenas rozar la curva en ese punto.
+
+00:01:47.710 --> 00:01:51.260
+Pero ¿cuál es la pendiente de esta recta tangente?
+
+00:01:51.260 --> 00:01:53.570
+¿Cuál es la pendiente de esta recta tangente que es lo mismo
+
+00:01:53.570 --> 00:01:56.360
+como la pendiente de la curva a la derecha en ese punto.
+
+00:01:56.360 --> 00:01:58.770
+Así que para hacerlo, de hecho voy a hacer esta técnica exacta que
+
+00:01:58.770 --> 00:02:01.270
+hemos hecho antes, entonces vamos a generalizar por lo que no tienen
+
+00:02:01.270 --> 00:02:03.910
+para hacerlo cada vez que un número en particular.
+
+00:02:03.910 --> 00:02:06.805
+Así que vamos a tener otro punto aquí.
+
+00:02:09.610 --> 00:02:14.110
+Llamemos a esta 3 más delta x.
+
+00:02:14.110 --> 00:02:16.380
+Voy a cambiar la notación ya que en algunos libros que va
+
+00:02:16.380 --> 00:02:19.530
+ver una hora, algunos libros que usted verá una x delta, no hace daño
+
+00:02:19.530 --> 00:02:20.660
+estar expuesto a los dos.
+
+00:02:20.660 --> 00:02:22.500
+Así que esto es 3 + x. delta
+
+00:02:22.500 --> 00:02:25.770
+Así que en primer lugar lo que es el punto aquí?
+
+00:02:25.770 --> 00:02:31.890
+Esta es una curva y es igual al cuadrado de x, por lo que f de x es 3
+
+00:02:31.890 --> 00:02:33.720
+cuadrado - este es el punto 9.
+
+00:02:33.720 --> 00:02:36.805
+Este es el punto 3,9 aquí.
+
+00:02:39.350 --> 00:02:40.870
+¿Y cuál es este punto aquí?
+
+00:02:40.870 --> 00:02:45.180
+Así que si se va todo el camino hasta aquí, ¿cuál es ese punto?
+
+00:02:45.180 --> 00:02:49.120
+Bueno, aquí está nuestra x 3 + x delta
+
+00:02:49.120 --> 00:02:50.310
+Es lo mismo que esta aquí,
+
+00:02:50.310 --> 00:02:50.990
+como x [ininteligible]
+
+00:02:50.990 --> 00:02:51.300
+además h.
+
+00:02:51.300 --> 00:02:54.235
+Podría haber llamado a este 3 más horas con la misma facilidad.
+
+00:02:54.235 --> 00:02:58.110
+Por lo que es 3 x delta más arriba.
+
+00:02:58.110 --> 00:02:59.930
+¿Cuál es el valor y va a ser?
+
+00:02:59.930 --> 00:03:02.080
+Así cualquier valor x es, está en la curva, lo que está pasando
+
+00:03:02.080 --> 00:03:03.550
+a que se enfrentaron.
+
+00:03:03.550 --> 00:03:12.310
+Por lo tanto, va a ser el punto 3 más x delta cuadrado.
+
+00:03:12.310 --> 00:03:14.790
+Así que vamos a averiguar la pendiente de la secante
+
+00:03:14.790 --> 00:03:15.240
+la línea.
+
+00:03:18.080 --> 00:03:20.270
+Y me dejó acercar un poco más, porque eso podría ayudar.
+
+00:03:20.270 --> 00:03:22.950
+Así que si el zoom sólo en esta parte de la curva,
+
+00:03:22.950 --> 00:03:25.250
+que podría ser así.
+
+00:03:25.250 --> 00:03:28.330
+Y luego tengo un punto de aquí, y luego tengo el
+
+00:03:28.330 --> 00:03:29.776
+otro punto es aquí.
+
+00:03:32.330 --> 00:03:33.070
+Ese es el secante
+
+00:03:33.070 --> 00:03:33.510
+la línea.
+
+00:03:39.100 --> 00:03:40.210
+Así como así.
+
+00:03:40.210 --> 00:03:45.510
+Este fue el punto aquí, el punto 3,9.
+
+00:03:45.510 --> 00:03:50.230
+Y luego este punto aquí es el punto 3 más x delta, por lo que
+
+00:03:50.230 --> 00:03:54.340
+sólo un número mayor que 3, y luego se va a
+
+00:03:54.340 --> 00:03:55.790
+que ese número al cuadrado.
+
+00:03:55.790 --> 00:03:58.110
+Por lo tanto, va a ser de 3 x delta más cuadrado.
+
+00:03:58.110 --> 00:03:59.070
+¿Qué es eso?
+
+00:03:59.070 --> 00:04:01.310
+Eso va a ser 9.
+
+00:04:01.310 --> 00:04:03.720
+Estoy frustrar esto, o que se distribuyen los
+
+00:04:03.720 --> 00:04:04.940
+propiedad dos veces.
+
+00:04:04.940 --> 00:04:09.280
+a, b, más cuadrado es un cuadrado más 2 ab más cuadrado b, por lo que
+
+00:04:09.280 --> 00:04:11.430
+que va a ser de 9, más dos veces el producto
+
+00:04:11.430 --> 00:04:12.020
+de estas cosas.
+
+00:04:12.020 --> 00:04:17.345
+Por lo tanto, más 6 delta x, y además x delta cuadrado.
+
+00:04:21.070 --> 00:04:22.530
+Esa es la coordenada de la segunda línea.
+
+00:04:22.530 --> 00:04:25.470
+Esto parece complicado, pero me llevó a este valor x y yo
+
+00:04:25.470 --> 00:04:29.230
+cuadrado, porque está en la recta y es igual al cuadrado de x.
+
+00:04:29.230 --> 00:04:32.430
+Por lo que la pendiente de la secante
+
+00:04:32.430 --> 00:04:35.500
+la línea va a ser el cambio en y dividido
+
+00:04:35.500 --> 00:04:37.050
+por el cambio en x.
+
+00:04:37.050 --> 00:04:42.500
+Por lo tanto el cambio en y sólo va a ser el valor de este hombre y,
+
+00:04:42.500 --> 00:04:49.430
+que es 9 más 6 x delta plus x delta cuadrado.
+
+00:04:49.430 --> 00:04:52.610
+Ese es el valor de este hombre y, menos el valor y de este tipo.
+
+00:04:55.310 --> 00:04:58.000
+Por lo menos 9.
+
+00:04:58.000 --> 00:04:59.510
+Ese es el cambio en y.
+
+00:04:59.510 --> 00:05:03.630
+Y que desea dividir que por su cambio en x.
+
+00:05:03.630 --> 00:05:05.020
+Bueno, ¿qué es el cambio en x?
+
+00:05:05.020 --> 00:05:07.210
+Esto es en realidad va a ser muy conveniente.
+
+00:05:07.210 --> 00:05:09.490
+Este valor de x mayor - que comenzó con este punto de la
+
+00:05:09.490 --> 00:05:11.460
+superior, por lo que tenemos que empezar con este punto en la parte inferior.
+
+00:05:11.460 --> 00:05:15.680
+Por lo tanto, va a ser 3, además de x. delta
+
+00:05:15.680 --> 00:05:17.340
+Y entonces ¿cuál es el valor x?
+
+00:05:17.340 --> 00:05:20.700
+¿Qué es la menos 3?
+
+00:05:20.700 --> 00:05:22.070
+Ese es su valor de x.
+
+00:05:22.070 --> 00:05:23.760
+¿Qué significa esto para simplificar?
+
+00:05:23.760 --> 00:05:27.020
+El numerador - este 9 y 9 se cancelan,
+
+00:05:27.020 --> 00:05:28.320
+tenemos un nueve menos 9.
+
+00:05:28.320 --> 00:05:30.780
+Y en el denominador lo que pasa?
+
+00:05:30.780 --> 00:05:32.560
+Este 3 y menos 3 se anulan.
+
+00:05:32.560 --> 00:05:35.550
+Así que el cambio en x en realidad terminan por convertirse en este delta x, que
+
+00:05:35.550 --> 00:05:38.490
+Tiene sentido, porque este delta x es esencialmente la forma mucho más
+
+00:05:38.490 --> 00:05:39.990
+este tipo es entonces ese tipo.
+
+00:05:39.990 --> 00:05:43.360
+Por lo que se debe el cambio en x, delta x.
+
+00:05:43.360 --> 00:05:44.810
+Por lo tanto la pendiente de mi secante
+
+00:05:44.810 --> 00:05:53.860
+la línea ha simplificado a 6 veces mi cambio de x, además de mi cambio
+
+00:05:53.860 --> 00:06:00.130
+en el cuadrado de x, todo eso sobre mi cambio en x.
+
+00:06:00.130 --> 00:06:02.640
+Y ahora podemos simplificar aún más.
+
+00:06:02.640 --> 00:06:05.140
+Vamos a dividir el numerador y el denominador
+
+00:06:05.140 --> 00:06:06.790
+por nuestro cambio en x.
+
+00:06:06.790 --> 00:06:09.900
+Y voy a cambiar de color sólo para aliviar la monotonía.
+
+00:06:09.900 --> 00:06:13.110
+Así que mi pendiente de mi de mi tangente secante
+
+00:06:13.110 --> 00:06:15.580
+la línea - la que pasa a través de estos dos - es
+
+00:06:15.580 --> 00:06:17.483
+va a ser igual si se divide el numerador y el
+
+00:06:17.483 --> 00:06:19.650
+denominador esto se convierte en 6.
+
+00:06:19.650 --> 00:06:21.420
+Estoy dividiendo el numerador y el denominador por delta
+
+00:06:21.420 --> 00:06:26.130
+x más seis más delta x.
+
+00:06:26.130 --> 00:06:28.080
+Por lo que es la pendiente de esta secante
+
+00:06:28.080 --> 00:06:34.630
+Así que la línea de pendiente es igual a 6 más x. delta
+
+00:06:34.630 --> 00:06:36.280
+Eso es este uno aquí.
+
+00:06:36.280 --> 00:06:38.990
+Esa es la línea roja que he dibujado allí.
+
+00:06:38.990 --> 00:06:42.340
+Por lo que este número de aquí, si el delta x es [? una vez?], si
+
+00:06:42.340 --> 00:06:46.390
+estos fueron los puntos 3 y 4, entonces mi inclinación sería de 6 más
+
+00:06:46.390 --> 00:06:49.640
+1, ya que estoy recogiendo el punto 4, donde el delta x aquí
+
+00:06:49.640 --> 00:06:50.480
+tendría que ser una.
+
+00:06:50.480 --> 00:06:53.780
+Así que la pendiente sería de 7.
+
+00:06:53.780 --> 00:06:56.730
+Así que tenemos una fórmula general para no importa qué mi delta
+
+00:06:56.730 --> 00:07:00.790
+x es, no puedo encontrar el lento entre 3 y 3, además de x. delta
+
+00:07:00.790 --> 00:07:02.640
+Entre esos dos puntos.
+
+00:07:02.640 --> 00:07:08.010
+Ahora queremos encontrar la pendiente exactamente en ese
+
+00:07:08.010 --> 00:07:09.120
+punto allí.
+
+00:07:09.120 --> 00:07:12.100
+Así que vamos a ver qué pasa cuando x delta se
+
+00:07:12.100 --> 00:07:12.810
+cada vez más pequeños.
+
+00:07:12.810 --> 00:07:14.470
+Esto es lo delta x es ahora mismo.
+
+00:07:14.470 --> 00:07:15.580
+Es esta distancia.
+
+00:07:15.580 --> 00:07:18.510
+Pero si delta x tiene un poco más pequeña, entonces la secante
+
+00:07:18.510 --> 00:07:20.160
+línea se parecería a esto.
+
+00:07:20.160 --> 00:07:21.360
+Se hizo aún más pequeña, la secante
+
+00:07:21.360 --> 00:07:23.680
+línea se parecería a eso, se pone aún más pequeña.
+
+00:07:23.680 --> 00:07:25.240
+Entonces estamos llegando muy cerca de la pendiente
+
+00:07:25.240 --> 00:07:26.860
+de la recta tangente.
+
+00:07:26.860 --> 00:07:28.970
+La tangente es esta cosa aquí que yo
+
+00:07:28.970 --> 00:07:30.910
+quiere encontrar la pendiente de.
+
+00:07:30.910 --> 00:07:34.970
+Vamos a encontrar un límite en nuestro delta x tiende a 0.
+
+00:07:34.970 --> 00:07:39.400
+Por lo tanto el límite como delta x tiende a 0 de nuestra
+
+00:07:39.400 --> 00:07:40.240
+pendiente de la secante
+
+00:07:40.240 --> 00:07:43.700
+línea de 6 x plus delta es igual a qué?
+
+00:07:43.700 --> 00:07:44.830
+Esto es muy sencillo.
+
+00:07:44.830 --> 00:07:48.350
+Usted sólo puede establecer esta igual a 0 y es igual a 6.
+
+00:07:48.350 --> 00:07:54.280
+Por lo tanto la pendiente de nuestra recta tangente en el punto x es igual a
+
+00:07:54.280 --> 00:07:57.615
+3 allí es igual a 6.
+
+00:07:57.615 --> 00:08:01.280
+Y de otra manera se podría escribir esto, si nos escribió que f de
+
+00:08:01.280 --> 00:08:04.450
+x es igual al cuadrado de x.
+
+00:08:04.450 --> 00:08:08.770
+Ahora sabemos que la derivada o la pendiente de la tangente
+
+00:08:08.770 --> 00:08:13.350
+línea de esta función en el punto 3 - Acabo sólo se evalúa
+
+00:08:13.350 --> 00:08:18.410
+que en el punto 3, allí mismo - que es igual a 6.
+
+00:08:18.410 --> 00:08:22.670
+Todavía no he llegado a una fórmula general para la pendiente
+
+00:08:22.670 --> 00:08:25.790
+de esta línea en cualquier momento, y yo voy a hacer que
+
+00:08:25.790 --> 00:08:26.330
+en el siguiente video.

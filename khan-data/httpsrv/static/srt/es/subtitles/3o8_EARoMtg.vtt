@@ -1,0 +1,732 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.760 --> 00:00:06.010
+Bien, ya hemos dedicado bastantes vídeos a los campos
+
+00:00:06.010 --> 00:00:10.160
+electrostáticos y al potencial de una carga o la energía potencial
+
+00:00:10.160 --> 00:00:11.930
+de una carga cuando está en un lugar.
+
+00:00:11.930 --> 00:00:15.330
+Pero veamos qué pasa cuando, dado un potencial, qué
+
+00:00:15.330 --> 00:00:18.060
+sucede cuando permitimos que la carga se mueva.
+
+00:00:18.060 --> 00:00:20.490
+Eso seguramente le resultará mucho más interesante,
+
+00:00:20.490 --> 00:00:26.070
+porque aprenderá cómo funciona gran parte del mundo moderno.
+
+00:00:26.070 --> 00:00:30.120
+Bueno, digamos que tengo una fuente de tensión.
+
+00:00:30.120 --> 00:00:32.220
+Veamos cómo voy a dibujar esto.
+
+00:00:32.220 --> 00:00:34.430
+Voy a dibujarlo así.
+
+00:00:36.930 --> 00:00:39.580
+Ésta es mi fuente de tensión,
+
+00:00:39.580 --> 00:00:41.990
+lo que se conoce normalmente como pila.
+
+00:00:41.990 --> 00:00:43.310
+Éste es el terminal positivo.
+
+00:00:43.310 --> 00:00:44.830
+Éste es el terminal negativo.
+
+00:00:44.830 --> 00:00:48.230
+Otro tema muy distinto, otro vídeo muy distinto, y haré
+
+00:00:48.230 --> 00:00:51.080
+uno algún día, es el de cómo funciona una pila.
+
+00:00:51.080 --> 00:00:54.590
+Pero, digamos por ahora que no importa cuánta corriente,
+
+00:00:54.590 --> 00:00:58.260
+bueno, vale, lo explico ahora mismo, pero no importa cuánta
+
+00:00:58.260 --> 00:01:01.860
+carga fluye de un extremo de la pila al otro,
+
+00:01:01.860 --> 00:01:04.010
+que de algún modo
+
+00:01:04.010 --> 00:01:06.040
+la tensiones permanecen constantes.
+
+00:01:06.040 --> 00:01:08.090
+Eso no es muy intuitivo, que digamos, porque
+
+00:01:08.090 --> 00:01:10.290
+ya sabemos algo de condensadores y más que sabremos sobre ellos
+
+00:01:10.290 --> 00:01:13.180
+en el contexto de los circuitos, pero por lo que sabemos
+
+00:01:13.180 --> 00:01:17.200
+de condensadores, si nos desprendemos de algo de carga
+
+00:01:17.200 --> 00:01:19.540
+en un extremo, la tensión total a través del
+
+00:01:19.540 --> 00:01:20.130
+condensador decrecerá.
+
+00:01:20.130 --> 00:01:22.930
+Pero una pila es esa cosa mágica.
+
+00:01:22.930 --> 00:01:25.920
+Creo que la inventó Volta, y por eso hablamos de
+
+00:01:25.920 --> 00:01:28.040
+voltios y de voltaje (tensión) y todo eso.
+
+00:01:28.040 --> 00:01:33.810
+Pero por esa cosa mágica, incluso cuando un extremo
+
+00:01:33.810 --> 00:01:36.900
+pierde carga para el otro extremo, la tensión real o el
+
+00:01:36.900 --> 00:01:39.070
+potencial entre los dos extremos
+
+00:01:39.070 --> 00:01:40.420
+permanece de hecho constante.
+
+00:01:40.420 --> 00:01:41.500
+Ésa es la magia de la pila.
+
+00:01:41.500 --> 00:01:43.320
+Así que, supongamos por ahora que tenemos uno de estos
+
+00:01:43.320 --> 00:01:44.060
+instrumentos mágicos.
+
+00:01:44.060 --> 00:01:47.520
+Seguramente tendrá Ud. uno en su calculadora o en su móvil.
+
+00:01:47.520 --> 00:01:51.460
+Veamos ahora qué pasa cuando permitimos que la carga
+
+00:01:51.460 --> 00:01:53.990
+se desplace de un extremo a otro.
+
+00:01:53.990 --> 00:01:58.200
+Digamos que tengo un conductor buenísimo.
+
+00:01:58.200 --> 00:02:01.328
+Digamos que es un conductor perfecto.
+
+00:02:01.328 --> 00:02:03.180
+Normalmente se dibuja más recto de lo que
+
+00:02:03.180 --> 00:02:04.180
+yo soy capaz de hacerlo.
+
+00:02:04.180 --> 00:02:05.680
+Y no, no he bebido nada
+
+00:02:05.680 --> 00:02:06.930
+antes de hacer este vídeo.
+
+00:02:12.350 --> 00:02:14.270
+Bueno, ¿qué es lo que he hecho?
+
+00:02:14.270 --> 00:02:19.170
+Mientras he tratado de conectar el terminal
+
+00:02:19.170 --> 00:02:21.400
+positivo con el negativo de la pila, le estoy
+
+00:02:21.400 --> 00:02:26.630
+mostrando cuál es la notación esquemática que usan
+
+00:02:26.630 --> 00:02:29.250
+los ingenieros eléctricos y los electricistas,
+
+00:02:29.250 --> 00:02:30.560
+etc., etc.
+
+00:02:30.560 --> 00:02:34.700
+Bueno, esto son, estas líneas son básicamente hilos eléctricos.
+
+00:02:34.700 --> 00:02:37.180
+No tiene nada de especial que haya dibujado aquí en ángulo recto.
+
+00:02:37.180 --> 00:02:39.970
+Es sólo para que quede bonito, con esos ángulos rectos.
+
+00:02:39.970 --> 00:02:42.910
+Y se asume que este hilo eléctrico es un conducto ideal,
+
+00:02:42.910 --> 00:02:47.310
+de modo que la carga puede fluir libre de toda resistencia.
+
+00:02:47.310 --> 00:02:50.540
+Esto de aquí, este garabato, es un
+
+00:02:50.540 --> 00:02:53.540
+resistor (resistencia), y es algo que, de hecho,
+
+00:02:53.540 --> 00:02:54.970
+obstruye el paso de la carga.
+
+00:02:54.970 --> 00:02:58.630
+Impide que la carga se mueva tan rápido como sería posible.
+
+00:02:58.630 --> 00:03:01.680
+Y luego, claro, aquí afuera, ahí tenemos otra vez
+
+00:03:01.680 --> 00:03:03.770
+un conductor perfecto.
+
+00:03:03.770 --> 00:03:07.240
+Vale, ¿en qué sentido fluirá la carga?
+
+00:03:07.240 --> 00:03:10.190
+Bueno, creo que ya lo he dicho antes, pero en los circuitos
+
+00:03:10.190 --> 00:03:13.400
+eléctricos, lo que de verdad se desplaza son los electrones.
+
+00:03:13.400 --> 00:03:16.130
+Los electrones son esas minipartículas que se mueven, muy,
+
+00:03:16.130 --> 00:03:18.880
+muy rápido alrededor del núcleo de un átomo.
+
+00:03:18.880 --> 00:03:21.240
+Y son de hecho los electrones los que cuenta con esa fluidez
+
+00:03:21.240 --> 00:03:24.390
+que les permite fluir por un conductor.
+
+00:03:24.390 --> 00:03:27.490
+Así que el movimiento real de objetos, si se puede decir que un
+
+00:03:27.490 --> 00:03:30.090
+electrón es un objeto (algunos dirían que se trata casi
+
+00:03:30.090 --> 00:03:33.540
+de objetos nocionales), que el flujo real es el de los electrones
+
+00:03:33.540 --> 00:03:37.160
+desde el terminal negativo al terminal positivo.
+
+00:03:37.160 --> 00:03:42.640
+Pero la gente y aquellos que inventaron los esquemas de circuitos y
+
+00:03:42.640 --> 00:03:45.410
+fueron los pioneros de la ingeniería eléctrica
+
+00:03:45.410 --> 00:03:48.390
+y los electricistas y, quien fuera, no sé a quién se le ocurrió,
+
+00:03:48.390 --> 00:03:52.500
+decidieron decir (y creo que lo que pretendían
+
+00:03:52.500 --> 00:03:55.450
+era confundir al personal), que la corriente fluye del
+
+00:03:55.450 --> 00:03:56.700
+positivo al negativo.
+
+00:03:56.700 --> 00:04:00.620
+Así que la dirección de la corriente normalmente se señaliza en
+
+00:04:00.620 --> 00:04:05.970
+esa dirección, y la corriente se especifica como I.
+
+00:04:05.970 --> 00:04:07.340
+¿Y qué es la corriente?
+
+00:04:07.340 --> 00:04:08.770
+Bueno, la corriente, espere.
+
+00:04:08.770 --> 00:04:10.690
+Antes de que le diga qué es la corriente, recuerde,
+
+00:04:10.690 --> 00:04:13.250
+aunque se diga que la corriente, y la mayoría de los
+
+00:04:13.250 --> 00:04:15.260
+libros de texto lo hacen, y si se encuentra con un ingeniero
+
+00:04:15.260 --> 00:04:17.740
+eléctrico, se dice que la corriente es
+
+00:04:17.740 --> 00:04:19.560
+el flujo del terminal positivo al terminal negativo,
+
+00:04:19.560 --> 00:04:23.770
+el flujo real de las cosas tiene lugar desde
+
+00:04:23.770 --> 00:04:25.810
+el terminal negativo al terminal positivo.
+
+00:04:25.810 --> 00:04:28.610
+No es que esos grandes y pesados protones y núcleos
+
+00:04:28.610 --> 00:04:32.170
+estén desplazándose de ese modo.
+
+00:04:32.170 --> 00:04:34.540
+Si compara el tamaño de un electrón con el de un protón,
+
+00:04:34.540 --> 00:04:36.140
+se dará cuenta que no puede ser de ningún modo.
+
+00:04:36.140 --> 00:04:40.110
+Son los electrones, esas partículas superrápidas,
+
+00:04:40.110 --> 00:04:42.730
+las que se mueven así por el conductor
+
+00:04:42.730 --> 00:04:43.970
+desde el terminal negativo
+
+00:04:43.970 --> 00:04:46.870
+Así que podría visualizar esa corriente como si la falta de
+
+00:04:46.870 --> 00:04:48.430
+electrones estuviera moviéndose en ese sentido.
+
+00:04:48.430 --> 00:04:49.310
+No pretendo confundirle.
+
+00:04:49.310 --> 00:04:52.330
+En fin, recuerde que ésa es la convención, pero
+
+00:04:52.330 --> 00:04:55.130
+la realidad es, en cierto sentido, la contraria a la
+
+00:04:55.130 --> 00:04:56.430
+convención.
+
+00:04:56.430 --> 00:05:00.040
+Bueno, ¿y qué es el resistor?
+
+00:05:00.040 --> 00:05:03.740
+Bien, cuando la corriente se mueve, y quiero ceñirme a la
+
+00:05:03.740 --> 00:05:05.680
+realidad todo lo posible de modo que pueda visualizar
+
+00:05:05.680 --> 00:05:07.170
+bien lo que está pasando,
+
+00:05:07.170 --> 00:05:10.740
+cuando los electrones fluyen, Ud. tiene esos pequeños
+
+00:05:10.740 --> 00:05:13.600
+electrones, y están fluyendo por este hilo.
+
+00:05:13.600 --> 00:05:16.620
+Y, por alguna razón, asumimos que este hilo es tan increíble
+
+00:05:16.620 --> 00:05:18.850
+que no chocan, de ningún modo, contra los átomos del
+
+00:05:18.850 --> 00:05:19.580
+hilo ni nada.
+
+00:05:19.580 --> 00:05:22.370
+Pero cuando llegan al resistor, entonces esos
+
+00:05:22.370 --> 00:05:24.300
+electrones sí que empiezan a chocar con cosas.
+
+00:05:24.300 --> 00:05:26.020
+Empiezan a chocar contra los otros
+
+00:05:26.020 --> 00:05:27.840
+electrones de ese material.
+
+00:05:27.840 --> 00:05:29.210
+Así que aquí está el resistor.
+
+00:05:29.210 --> 00:05:30.430
+Y se ponen a chocar contra los otros
+
+00:05:30.430 --> 00:05:31.610
+electrones de ese material.
+
+00:05:31.610 --> 00:05:34.750
+Chocan contra los átomos y moléculas de ese material.
+
+00:05:34.750 --> 00:05:37.760
+Y al hacerlo los electrones básicamente pierden
+
+00:05:37.760 --> 00:05:38.360
+velocidad, ¿vale?
+
+00:05:38.360 --> 00:05:39.790
+Están chocando con otras cosas.
+
+00:05:39.790 --> 00:05:42.040
+Así que, básicamente, cuantas más cosas haya contra las que
+
+00:05:42.040 --> 00:05:44.990
+chocar, o cuanto menos espacio haya para que fluyan los electrones,
+
+00:05:44.990 --> 00:05:50.450
+tanto más ralentizará ese material el paso de los
+
+00:05:50.450 --> 00:05:50.890
+electrones.
+
+00:05:50.890 --> 00:05:53.350
+Y, como veremos, cuanto más largo sea, eso sólo
+
+00:05:53.350 --> 00:05:56.480
+aumentara la probabilidad de que los electrones choquen.
+
+00:05:56.480 --> 00:06:05.850
+Y esto se llama resistor y ofrece resistencia,
+
+00:06:05.850 --> 00:06:09.870
+y determina la rapidez del flujo de la corriente.
+
+00:06:09.870 --> 00:06:13.120
+Así que, aunque por convención se acepta que la corriente fluye
+
+00:06:13.120 --> 00:06:16.860
+de positivo a negativo, la corriente real es tan sólo
+
+00:06:16.860 --> 00:06:18.210
+flujo de carga por segundo.
+
+00:06:18.210 --> 00:06:19.340
+Así que, tomemos nota.
+
+00:06:19.340 --> 00:06:21.720
+Ya sé que lo que estoy diciendo parece inconexo, pero
+
+00:06:21.720 --> 00:06:22.540
+creo que me ha entendido.
+
+00:06:22.540 --> 00:06:28.630
+La corriente es flujo de carga, es decir, cambio en la carga por segundo,
+
+00:06:28.630 --> 00:06:32.360
+o por unidad de tiempo, ¿vale?
+
+00:06:32.360 --> 00:06:35.550
+¿Y cómo podríamos imaginar qué es la tensión?
+
+00:06:35.550 --> 00:06:38.760
+¿La tensión es las ganas que la corriente tiene de fluir?
+
+00:06:38.760 --> 00:06:43.490
+Así que si hay una gran diferencia de tensión entre estos dos
+
+00:06:43.490 --> 00:06:47.670
+terminales, entonces los electrones que están aquí sentados
+
+00:06:47.670 --> 00:06:51.430
+tienen pero que muchas ganas de pasar aquí, ¿vale?
+
+00:06:51.430 --> 00:06:52.870
+Y si la tensión es incluso mayor, entonces esos electrones
+
+00:06:52.870 --> 00:06:55.510
+tienen aún más ganas de pasar allí.
+
+00:06:55.510 --> 00:06:59.110
+Así que antes de que se entendiera que la tensión era sólo
+
+00:06:59.110 --> 00:07:01.810
+diferencia de potencial, a este deseo deseo de los electrones
+
+00:07:01.810 --> 00:07:04.630
+de pasar de aquí a aquí se la llamó
+
+00:07:04.630 --> 00:07:06.260
+"fuerza electromotriz"
+
+00:07:06.260 --> 00:07:08.390
+Pero lo que acabamos de aprender no es, de hecho, una fuerza.
+
+00:07:08.390 --> 00:07:11.040
+Es sólo una diferencia de potencial y podríamos visualizarla
+
+00:07:11.040 --> 00:07:13.000
+como una presión eléctrica y así es como solía
+
+00:07:13.000 --> 00:07:15.280
+llamarse, de hecho, a la tensión:
+
+00:07:15.280 --> 00:07:16.480
+presión eléctrica.
+
+00:07:16.480 --> 00:07:19.340
+Que tanto queremos que los electrones viajen de ahi hacia alla?
+
+00:07:19.340 --> 00:07:21.750
+Apenas le brindemos a los electrones un camino en el circuito
+
+00:07:21.750 --> 00:07:24.610
+los electrones empezaran a moverse.
+
+00:07:24.610 --> 00:07:28.190
+Empezaran a viajar, y vamos a asumir que este cable
+
+00:07:28.190 --> 00:07:30.190
+no genera resistencia, asi que ellos viajan tan
+
+00:07:30.190 --> 00:07:31.060
+rapido como quieren.
+
+00:07:31.060 --> 00:07:33.480
+Pero cuando se encuentra con esta resistencia, empiezan a chocarse
+
+00:07:33.480 --> 00:07:36.190
+contra cosas. y esto limita la velocidad
+
+00:07:36.190 --> 00:07:37.900
+de movimiento de los electrones.
+
+00:07:37.900 --> 00:07:41.440
+Entonces podes imaginarte que si este objeto aca es
+
+00:07:41.440 --> 00:07:44.290
+de alguna manera el factor limitante en la velocidad
+
+00:07:44.290 --> 00:07:47.180
+de los electrones, mas alla de la velocidad de movimiento de los
+
+00:07:47.180 --> 00:07:50.450
+electrones despues de ese objeto, ese fue el ¨embotellamiento¨
+
+00:07:50.450 --> 00:07:53.535
+Entonces aunque los electrones pueden viajar muy rapido aca, ellos
+
+00:07:53.535 --> 00:07:55.540
+tienen que desacelerar aca, entonces ellos pueden viajar muy rapido
+
+00:07:55.540 --> 00:07:59.580
+aca, los electrones aca no pueden viajar mas rapido que
+
+00:07:59.580 --> 00:08:00.750
+los electrones a traves de esto.
+
+00:08:00.750 --> 00:08:01.940
+Entonces, porque pasa eso?
+
+00:08:01.940 --> 00:08:05.970
+Porque si estos electrones estan viajando mas lento, la
+
+00:08:05.970 --> 00:08:08.590
+corriente aca es mas baja -- la corriente es realmente solo
+
+00:08:08.590 --> 00:08:12.440
+la frecuencia en la cual la carga esta viajando, no?
+
+00:08:12.440 --> 00:08:14.600
+Entonces si la corriente es mas baja aca y era
+
+00:08:14.600 --> 00:08:17.280
+mas alta aca, estariamos esencialmente teniendo un
+
+00:08:17.280 --> 00:08:20.120
+aumento de carga en algun lugar, mientras toda la corriente
+
+00:08:20.120 --> 00:08:21.700
+estaria esperando viajar a traves de esto.
+
+00:08:21.700 --> 00:08:25.740
+Y sabemos que ese no es el caso, que todos
+
+00:08:25.740 --> 00:08:28.170
+los electrones realmente viajan a la misma frecuencia a lo largo
+
+00:08:28.170 --> 00:08:30.570
+del circuito entero.
+
+00:08:30.570 --> 00:08:33.380
+Voy a ir en sentido opuesto de la convencion ahora,
+
+00:08:33.380 --> 00:08:36.960
+porque convencion es que de alguna manera tenemos lo positivo
+
+00:08:36.960 --> 00:08:38.120
+viajando en esta direccion.
+
+00:08:38.120 --> 00:08:40.630
+Pero quiero darte un sentido intuitivo de
+
+00:08:40.630 --> 00:08:42.340
+que esta pasando en un circuito, porque creo que una vez
+
+00:08:42.340 --> 00:08:46.880
+que entiendas eso, todos los problemas que sean mas complicados
+
+00:08:46.880 --> 00:08:48.380
+no lo van a ser tanto.
+
+00:08:48.380 --> 00:08:54.100
+Entonces lo que sabemos, y esto se llama Ley de Ohm, sabemos que
+
+00:08:54.100 --> 00:08:59.350
+la corriente es proporcional al voltaje
+
+00:08:59.350 --> 00:09:02.360
+a lo largo del circuito.
+
+00:09:02.360 --> 00:09:06.040
+Entonces sabemos que el voltaje -- o podriamos verlo de la otra
+
+00:09:06.040 --> 00:09:08.760
+manera, que el voltaje es proporcional a la corriente
+
+00:09:08.760 --> 00:09:10.700
+a traves de un circuito.
+
+00:09:10.700 --> 00:09:14.610
+Entonces el voltaje es igual a la corrientes por la resistencia
+
+00:09:14.610 --> 00:09:17.330
+o podrias decir que el voltaje dividido
+
+00:09:17.330 --> 00:09:20.140
+la resistencia es igual a la corriente.
+
+00:09:20.140 --> 00:09:26.860
+Esto se llama la ley de Ohm, y es verdadera siempre y cuando estemos
+
+00:09:26.860 --> 00:09:28.170
+en una temperatura constante.
+
+00:09:28.170 --> 00:09:30.390
+vamos a entrar en mas detalle despues, y aprenderemos que
+
+00:09:30.390 --> 00:09:33.360
+si una resistencia aumenta su temperatura entonces
+
+00:09:33.360 --> 00:09:35.850
+sus particulas y moleculas se estan moviendo
+
+00:09:35.850 --> 00:09:38.530
+mas, tienen mayor carga cinetica.
+
+00:09:38.530 --> 00:09:41.520
+Y entonces hay mas probabilidades que los electrones choquen contra
+
+00:09:41.520 --> 00:09:43.160
+ellos,entonces la resistencia aumenta con
+
+00:09:43.160 --> 00:09:43.580
+la temperatura.
+
+00:09:43.580 --> 00:09:47.310
+Pero si debemos asumir una temperatura constante por un dado
+
+00:09:47.310 --> 00:09:49.840
+material-- y ademas debemos aprender despues que distintos
+
+00:09:49.840 --> 00:09:52.180
+materiales tienen distintas resistividades.
+
+00:09:52.180 --> 00:09:54.960
+Pero para un material dado a una temperatura constante en una
+
+00:09:54.960 --> 00:10:00.040
+configuracion dada, el voltaje a traves de una resistencia
+
+00:10:00.040 --> 00:10:02.870
+dividido por la resistencia es igual a la corriente que
+
+00:10:02.870 --> 00:10:03.990
+fluje a traves de el.
+
+00:10:03.990 --> 00:10:07.145
+La resistencia de un objeto es medida en ohms, y
+
+00:10:07.145 --> 00:10:10.510
+esta dada por la letra griega Omega.
+
+00:10:10.510 --> 00:10:12.430
+Entonces, vamos a hacer un ejemplo simple
+
+00:10:12.430 --> 00:10:17.140
+Digamos que esta es una bateria de 16 volt, entonces
+
+00:10:17.140 --> 00:10:20.550
+la diferencia potencial aca es 16 volts entre el terminal positivo
+
+00:10:20.550 --> 00:10:21.860
+y el terminal negativo.
+
+00:10:21.860 --> 00:10:24.690
+Entonces es una bateria de 16 volt.
+
+00:10:24.690 --> 00:10:31.130
+Digamos que esta resistencia tiene 8 ohms. Cual es la corriente
+
+00:10:31.130 --> 00:10:34.120
+fluyendo --- y yo sigo haciendo en la convencion opuesta
+
+00:10:34.120 --> 00:10:36.530
+pero volvamos a la convencion...
+
+00:10:36.530 --> 00:10:40.380
+Cual es la corriente fluyendo en este circuito?
+
+00:10:40.380 --> 00:10:41.990
+Bueno, es bastante directo
+
+00:10:41.990 --> 00:10:46.860
+Es la Ley de Ohm, V es igual a IR
+
+00:10:46.860 --> 00:10:51.720
+El voltaje es de 16 volts y se iguala con la corriente
+
+00:10:51.720 --> 00:11:00.250
+por la resistencia de 8ohm,Entonces la corriente es igual a 16
+
+00:11:00.250 --> 00:11:05.750
+volts divididos por 8 ohms, que da un resultado de 2,
+
+00:11:05.750 --> 00:11:09.880
+y esto serian 2 amperes.
+
+00:11:09.880 --> 00:11:11.520
+O a veces se los llama Amps, y esa
+
+00:11:11.520 --> 00:11:15.150
+es la unidad para corriente.
+
+00:11:15.150 --> 00:11:19.910
+Pero como sabemos, la corriente es, la cantidad de carga
+
+00:11:19.910 --> 00:11:24.670
+por el tiempo, entonces un ampere es 2 coulombs por
+
+00:11:24.670 --> 00:11:28.280
+segundo, no?
+
+00:11:28.280 --> 00:11:30.190
+Ya llegue a los 11 minutos y 1/2
+
+00:11:30.190 --> 00:11:31.250
+Asi que los dejo aca.
+
+00:11:31.250 --> 00:11:33.640
+Ahora ya saben las basicas de la Ley de Ohm y tal vez
+
+00:11:33.640 --> 00:11:36.240
+un poco de intuicion sobre que esta sucediendo en un circuito,
+
+00:11:36.240 --> 00:11:38.730
+y los veo en el proximo video.

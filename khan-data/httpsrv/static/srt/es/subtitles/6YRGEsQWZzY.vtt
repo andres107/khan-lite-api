@@ -1,0 +1,489 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.010 --> 00:00:04.120
+Vamos a hacer una ecuación diferencial más homogénea, o
+
+00:00:04.120 --> 00:00:06.190
+primer orden ecuación diferencial homogénea, a
+
+00:00:06.190 --> 00:00:08.530
+diferenciarla de la homogénea lineal
+
+00:00:08.530 --> 00:00:09.810
+ecuaciones diferenciales que haremos más adelante.
+
+00:00:09.810 --> 00:00:12.040
+Pero de todos modos, el problema que tenemos aquí.
+
+00:00:12.040 --> 00:00:18.110
+Es que la derivada de y con respecto a x es igual a--
+
+00:00:18.110 --> 00:00:23.550
+que x parece una y--es igual a x
+
+00:00:23.550 --> 00:00:28.090
+squared plus 3 años al cuadrado.
+
+00:00:28.090 --> 00:00:30.312
+Estoy escribiendo lo un poco pequeña, así que me
+
+00:00:30.312 --> 00:00:31.970
+no se quede sin espacio.
+
+00:00:31.970 --> 00:00:35.670
+Dividido por 2xy.
+
+00:00:35.670 --> 00:00:39.270
+En todas estas ecuaciones homogéneas--y obviamente, nos
+
+00:00:39.270 --> 00:00:40.370
+no sé aún es homogéneo.
+
+00:00:40.370 --> 00:00:43.440
+Así que tenemos que intentar escribirlo como una función de
+
+00:00:43.440 --> 00:00:44.910
+y dividido por x.
+
+00:00:44.910 --> 00:00:46.930
+Así que parece que podríamos hacer eso, si dividimos la parte superior y
+
+00:00:46.930 --> 00:00:48.110
+la parte inferior por x al cuadrado.
+
+00:00:48.110 --> 00:00:50.450
+Si multiplicamos justo--déjenme hacerlo de una manera diferente
+
+00:00:50.450 --> 00:00:54.370
+color--1 sobre x al cuadrado, o x el 2 negativo,
+
+00:00:54.370 --> 00:00:56.240
+más 1 sobre x al cuadrado.
+
+00:00:56.240 --> 00:00:58.370
+Esencialmente estamos multiplicando sólo de 1.
+
+00:00:58.370 --> 00:01:00.860
+¿Y entonces, que es igual a qué?
+
+00:01:00.860 --> 00:01:11.370
+1 más de 3 años al cuadrado sobre x al cuadrado dividido por 2--Si usted
+
+00:01:11.370 --> 00:01:14.110
+dividir x, dividir por x al cuadrado, sólo pasar un 1 x--tan 2
+
+00:01:14.110 --> 00:01:16.610
+tiempos de y sobre x.
+
+00:01:16.610 --> 00:01:19.730
+O simplemente podríamos volver a escribir todo esto, y esto es sólo
+
+00:01:19.730 --> 00:01:27.930
+igual a 1 plus 3 años sobre x al cuadrado dividido por 2
+
+00:01:27.930 --> 00:01:29.260
+tiempos de y sobre x.
+
+00:01:29.260 --> 00:01:31.840
+Así que sí, esto es una ecuación homogénea.
+
+00:01:31.840 --> 00:01:34.260
+Porque hemos podido escribirlo como una función de
+
+00:01:34.260 --> 00:01:35.490
+y dividido por x.
+
+00:01:35.490 --> 00:01:37.570
+Ahora, podemos hacer la sustitución con v.
+
+00:01:37.570 --> 00:01:39.200
+Y esperemos que esto empieza a ser un poco
+
+00:01:39.200 --> 00:01:40.750
+poco de segunda naturaleza para usted.
+
+00:01:40.750 --> 00:01:43.610
+Para que podamos hacer la sustitución v es igual
+
+00:01:43.610 --> 00:01:47.720
+a y sobre x, u otra forma de escribir es es
+
+00:01:47.720 --> 00:01:50.660
+igual al xv.
+
+00:01:50.660 --> 00:01:53.150
+Y entonces, por supuesto, la derivada de y con respeto
+
+00:01:53.150 --> 00:01:56.130
+a x, o si tomamos la derivada con respecto a x
+
+00:01:56.130 --> 00:01:59.100
+de ambos lados de ésta, que es igual a la derivada de x
+
+00:01:59.100 --> 00:02:05.060
+1 veces v, esto es simplemente la regla del producto, además de x veces el
+
+00:02:05.060 --> 00:02:09.050
+derivado de v con respecto a x.
+
+00:02:09.050 --> 00:02:11.545
+Y ahora, nos podemos sustituir la derivada de y con respeto
+
+00:02:11.545 --> 00:02:13.490
+a x es simplemente esto.
+
+00:02:13.490 --> 00:02:15.270
+Y luego el lado derecho de la ecuación es esto.
+
+00:02:15.270 --> 00:02:17.360
+Pero podemos sustituimos v de y sobre x.
+
+00:02:17.360 --> 00:02:19.230
+Así que vamos a hacer eso.
+
+00:02:19.230 --> 00:02:24.180
+Y así obtenemos v plus x.
+
+00:02:24.180 --> 00:02:25.020
+En lugar de dv [? dv?]
+
+00:02:25.020 --> 00:02:27.570
+x, voy a escribir primer v por ahora, sólo para que no me tomo
+
+00:02:27.570 --> 00:02:29.150
+demasiado espacio.
+
+00:02:29.150 --> 00:02:36.420
+primo de v es igual a 1 más cuadrada de 3v, estamos haciendo la
+
+00:02:36.420 --> 00:02:38.475
+v de sustitución es igual a y sobre x.
+
+00:02:41.800 --> 00:02:43.140
+Todo eso sobre 2v.
+
+00:02:46.320 --> 00:02:47.290
+Ahora, veamos qué podemos hacer.
+
+00:02:47.290 --> 00:02:49.970
+Esto es donde sólo obtenemos nuestro sombrero de álgebra y tratar de
+
+00:02:49.970 --> 00:02:53.990
+simplificar hasta que es una ecuación separable en v.
+
+00:02:53.990 --> 00:02:54.860
+Así que vamos a hacer eso.
+
+00:02:54.860 --> 00:02:57.950
+Así que vamos a multiplicar ambos lados de esta ecuación por 2v.
+
+00:02:57.950 --> 00:03:08.250
+Así que vamos a llegar 2v squared plus 2xv v primer--2v veces x, yep,
+
+00:03:08.250 --> 00:03:14.570
+Esta es la primer 2xv de v--es igual a 1 más 3v al cuadrado.
+
+00:03:14.570 --> 00:03:16.760
+Ahora vamos a ver, vamos a restar 2v cuadrada de
+
+00:03:16.760 --> 00:03:18.350
+ambos lados de esta.
+
+00:03:18.350 --> 00:03:29.580
+Y nos quedará con 2xv primer v es igual a 1 plus--
+
+00:03:29.580 --> 00:03:31.700
+vamos a ver, nosotros estamos restando 2v cuadrada de ambos lados.
+
+00:03:31.700 --> 00:03:34.520
+¿Así que estamos simplemente izquierdo con un 1 plus v cuadrado aquí, derecha?
+
+00:03:34.520 --> 00:03:37.800
+cuadrado menos 2v cuadrada de 3V es justo v al cuadrado.
+
+00:03:37.800 --> 00:03:40.080
+Y vamos a ver, queremos que sea separable, así que vamos a poner todos los
+
+00:03:40.080 --> 00:03:42.420
+el v's en el lado izquierdo.
+
+00:03:42.420 --> 00:03:51.900
+Así obtenemos el primer v de 2xv dividido por 1 plus v
+
+00:03:51.900 --> 00:03:55.640
+cuadrado es igual a 1.
+
+00:03:55.640 --> 00:03:58.350
+Y vamos a dividir ambos lados por x.
+
+00:03:58.350 --> 00:04:00.100
+Así obtenemos la equis en el otro lado.
+
+00:04:00.100 --> 00:04:05.210
+Entonces obtenemos 2v--y ahora podrá volver
+
+00:04:05.210 --> 00:04:06.100
+a la otra notación.
+
+00:04:06.100 --> 00:04:11.520
+En lugar de prime v, voy a escribir dx dv.
+
+00:04:11.520 --> 00:04:15.760
+2V veces la derivada de v con respecto a x dividido por 1
+
+00:04:15.760 --> 00:04:20.140
+Plus v al cuadrado es igual a--estoy dividir a ambos lados por x,
+
+00:04:20.140 --> 00:04:22.200
+aviso que no escribo la x por este lado--por lo que es igual
+
+00:04:22.200 --> 00:04:24.560
+1 sobre x.
+
+00:04:24.560 --> 00:04:27.970
+Y luego, si sólo multiplicamos ambos lados de este momento dx,
+
+00:04:27.970 --> 00:04:30.310
+nos hemos separado las dos variables y podemos integrar
+
+00:04:30.310 --> 00:04:30.940
+ambos lados.
+
+00:04:30.940 --> 00:04:32.710
+Así que vamos a hacer eso.
+
+00:04:32.710 --> 00:04:33.530
+Vamos a ir hasta aquí.
+
+00:04:33.530 --> 00:04:35.290
+Te cambio a un color diferente, para que sepa que estoy trabajando
+
+00:04:35.290 --> 00:04:37.540
+en otra columna.
+
+00:04:37.540 --> 00:04:39.400
+Así multiplicar ambos lados por dx.
+
+00:04:39.400 --> 00:04:51.050
+Obtener más 1 de 2v plus v dv al cuadrado es igual a 1 sobre x dx.
+
+00:04:51.050 --> 00:04:54.640
+Y ahora sólo podemos integrar ambos lados de esta ecuación.
+
+00:04:54.640 --> 00:04:57.960
+Esta es una ecuación separable en términos de v y x.
+
+00:04:57.960 --> 00:04:58.980
+Y ¿cuál es la integral de esto?
+
+00:04:58.980 --> 00:05:00.860
+En primer lugar, usted podría pensar, oh chico, esto es complicado.
+
+00:05:00.860 --> 00:05:03.750
+Esto es difícil, que tal vez algún tipo de función trig.
+
+00:05:03.750 --> 00:05:05.110
+Pero verás que es tipo de las
+
+00:05:05.110 --> 00:05:06.740
+regla de la cadena inversa.
+
+00:05:06.740 --> 00:05:09.860
+Tenemos una función aquí, 1 plus v al cuadrado,
+
+00:05:09.860 --> 00:05:10.500
+expresión aquí.
+
+00:05:10.500 --> 00:05:12.890
+Y tenemos su derivado sentado allí.
+
+00:05:12.890 --> 00:05:17.040
+Por lo que la primitiva de esto y usted puede hacer un
+
+00:05:17.040 --> 00:05:18.070
+sustitución si te gusta.
+
+00:05:18.070 --> 00:05:21.790
+Se podría decir u es igual a 1 más v al cuadrado, entonces es du
+
+00:05:21.790 --> 00:05:23.240
+igual a 2v dv.
+
+00:05:23.240 --> 00:05:25.360
+Y entonces, bueno, acabaría diciendo que la
+
+00:05:25.360 --> 00:05:27.320
+antiderivative es sólo el registro natural de ustedes.
+
+00:05:27.320 --> 00:05:30.760
+O, en este caso, la primitiva de esto es simplemente
+
+00:05:30.760 --> 00:05:35.640
+el logaritmo natural de 1 plus v al cuadrado.
+
+00:05:35.640 --> 00:05:37.440
+Aún no tenemos que escribir un valor absoluto allí.
+
+00:05:37.440 --> 00:05:40.940
+Porque siempre que va a ser un valor positivo.
+
+00:05:40.940 --> 00:05:44.820
+Así que el logaritmo natural de 1 plus v cuadrado.
+
+00:05:44.820 --> 00:05:48.260
+Y espero que no confundir a te.
+
+00:05:48.260 --> 00:05:49.120
+Es cómo lo pienso.
+
+00:05:49.120 --> 00:05:51.670
+Digo, si tengo una expresión, y tengo su
+
+00:05:51.670 --> 00:05:54.630
+derivado se multiplica y, a continuación, sólo puedo tomar el
+
+00:05:54.630 --> 00:05:56.860
+primitiva de la expresión entera.
+
+00:05:56.860 --> 00:05:59.060
+Y no tener que preocuparse de lo que está dentro de ella.
+
+00:05:59.060 --> 00:06:01.980
+Así que si esto fue un 1 sobre una x o 1 sobre u, es sólo la
+
+00:06:01.980 --> 00:06:03.270
+logaritmo natural de la misma.
+
+00:06:03.270 --> 00:06:05.460
+Así es cómo yo sabía que esto era la primitiva.
+
+00:06:05.460 --> 00:06:08.170
+Y si no me creéis, utilizar la regla de la cadena y tomar
+
+00:06:08.170 --> 00:06:09.770
+el derivado de éste y usted obtendrá esto.
+
+00:06:09.770 --> 00:06:11.570
+Y ojalá, hará un poco más de sentido.
+
+00:06:11.570 --> 00:06:13.880
+Pero de todas formas, es el lado izquierdo y luego
+
+00:06:13.880 --> 00:06:17.000
+igual--bien, éste es fácil.
+
+00:06:17.000 --> 00:06:21.630
+Es el logaritmo natural, el valor absoluto de x.
+
+00:06:21.630 --> 00:06:24.180
+Que podríamos decir, además de c, pero sólo para que lo podemos simplificar un
+
+00:06:24.180 --> 00:06:27.640
+poco, una constante arbitraria c, podemos realmente sólo
+
+00:06:27.640 --> 00:06:31.100
+escribir como el logaritmo natural del valor absoluto de algunas
+
+00:06:31.100 --> 00:06:32.400
+c constante.
+
+00:06:32.400 --> 00:06:35.400
+O sea, esto es todavía algunos c constante arbitraria.
+
+00:06:35.400 --> 00:06:40.880
+Así nos podemos reescribir esta ecuación toda como el logaritmo natural de
+
+00:06:40.880 --> 00:06:45.900
+1 plus v al cuadrado es igual a--al agregar registros naturales, usted
+
+00:06:45.900 --> 00:06:48.240
+esencialmente sólo puede multiplicar a los dos números que eres
+
+00:06:48.240 --> 00:06:51.640
+tomando el logaritmo natural de--el registro natural de, podríamos
+
+00:06:51.640 --> 00:06:54.710
+decir, el valor absoluto de cx.
+
+00:06:54.710 --> 00:06:56.760
+Así que el logaritmo natural de esto es igual a la
+
+00:06:56.760 --> 00:07:00.150
+logaritmo natural de esta.
+
+00:07:00.150 --> 00:07:07.010
+Así que podríamos decir que 1 plus v al cuadrado es igual a cx.
+
+00:07:07.010 --> 00:07:08.850
+Y ahora nos podemos unsubstitute.
+
+00:07:08.850 --> 00:07:12.700
+Por lo que sabemos v es igual a y sobre x, así que vamos a hacer eso.
+
+00:07:12.700 --> 00:07:22.541
+Así obtenemos 1 plus y sobre x al cuadrado es igual a cx.
+
+00:07:22.541 --> 00:07:25.240
+Me permito desplazarse un poco esta abajo.
+
+00:07:25.240 --> 00:07:29.100
+Vamos a multiplicar ambos lados de los tiempos de la ecuación x al cuadrado.
+
+00:07:29.100 --> 00:07:31.730
+Esto nos podríamos reescribir y cuadrado sobre x al cuadrado.
+
+00:07:31.730 --> 00:07:34.900
+Por lo que multiplicamos ambos lados veces x al cuadrado, obtienes x
+
+00:07:34.900 --> 00:07:41.500
+squared plus y al cuadrado es igual a cx a la tercera.
+
+00:07:41.500 --> 00:07:42.370
+Y hemos terminado esencialmente.
+
+00:07:42.370 --> 00:07:45.040
+Si queremos poner todos los términos de la variables en la mano izquierda
+
+00:07:45.040 --> 00:07:49.010
+lado, podríamos decir que esto es igual a x al cuadrado más y
+
+00:07:49.010 --> 00:07:53.210
+cuadrados menos cx a la tercera es igual a 0.
+
+00:07:53.210 --> 00:07:57.200
+Y esta función definida implícitamente, o curva, o sin embargo
+
+00:07:57.200 --> 00:08:00.980
+que desea llamar, es la solución a nuestro original
+
+00:08:00.980 --> 00:08:04.480
+homogénea primera orden ecuación diferencial.
+
+00:08:04.480 --> 00:08:06.340
+Así que ahí va.
+
+00:08:06.340 --> 00:08:07.780
+Nos vemos en el siguiente vídeo.
+
+00:08:07.780 --> 00:08:09.340
+Y ahora, realmente vamos a hacer algo.
+
+00:08:09.340 --> 00:08:12.260
+Vamos a empezar a embarcarse en orden superior
+
+00:08:12.260 --> 00:08:12.980
+ecuaciones diferenciales.
+
+00:08:12.980 --> 00:08:15.190
+Y en realidad, estas son las formas más útiles y en algunos,
+
+00:08:15.190 --> 00:08:17.630
+más fácil hacer que la homogénea y la exacta
+
+00:08:17.630 --> 00:08:19.740
+ecuaciones que hemos estado haciendo hasta ahora.
+
+00:08:19.740 --> 00:08:21.720
+Nos vemos en el siguiente vídeo.

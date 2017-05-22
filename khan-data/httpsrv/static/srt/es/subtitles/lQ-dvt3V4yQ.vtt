@@ -1,0 +1,207 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.207 --> 00:00:05.200
+Vamos hacer otro ejemplo en relación con el desplazamiento, velocidad y tiempo
+
+00:00:05.200 --> 00:00:06.600
+entonces tenemos:
+
+00:00:06.662 --> 00:00:15.933
+Si Marcia viaja por un minuto a 5m/s hacia el sur, ¿Cuanto se desplazará?
+
+00:00:15.933 --> 00:00:31.460
+así que sabemos que velocidad es igual al desplazamiento dividido por el tiempo.
+
+00:00:31.460 --> 00:00:35.243
+En realidad, es divido por el cambio en el tiempo pero diremos solamente tiempo,
+
+00:00:35.243 --> 00:00:37.267
+implícitamente es cambio en el tiempo.
+
+00:00:37.267 --> 00:00:41.819
+y si la ecaución se manipula un poco, multiplicando ambos lados por tiempo
+
+00:00:41.819 --> 00:00:44.884
+... multiplicas ambos lados por la variable "t"
+
+00:00:44.884 --> 00:00:49.000
+"t" se cancela y obtienes desplazamiento.
+
+00:00:49.000 --> 00:00:53.467
+Luego invertiremos esta ecuación, lo que esta a la derecha
+
+00:00:53.467 --> 00:00:54.956
+hacia la izquierda.
+
+00:00:55.018 --> 00:00:56.968
+Así que el desplazamiento es igual
+
+00:00:56.999 --> 00:00:59.041
+a tiempo por velocidad.
+
+00:00:59.041 --> 00:01:01.068
+o velocidad por tiempo.
+
+00:01:01.068 --> 00:01:08.385
+es igual a velocidad por tiempo o velocidad por el cambio temporal.
+
+00:01:08.385 --> 00:01:10.995
+Entonces, la pregunta es: ¿Cuál es el desplazamiento?
+
+00:01:10.995 --> 00:01:13.867
+Preguntan ¿qué tanto se desplazó Marcia?
+
+00:01:13.867 --> 00:01:16.881
+y dicen que ella viajó por un minuto.
+
+00:01:16.881 --> 00:01:21.452
+Entonces, un minuto aqui es el tiempo o cambio de tiempo
+
+00:01:21.452 --> 00:01:24.985
+realmente es su cambio temporal. Frecuentemente cuando dicen:
+
+00:01:24.985 --> 00:01:28.816
+eran cero minutos en su cronómetro cuando empezó, al final dirá un minuto
+
+00:01:28.816 --> 00:01:33.754
+o si era las 3:05 cuando empezó será 3:06 cuando terminó
+
+00:01:33.754 --> 00:01:35.505
+es decir el cambio en el tiempo,
+
+00:01:35.505 --> 00:01:38.133
+una vez más, no voy a escribir el ∆t cada vez
+
+00:01:38.133 --> 00:01:41.216
+porque "t" es la forma más común que usted lo verá escrito,
+
+00:01:41.216 --> 00:01:44.267
+pero quiero recalcar que ambos son la misma cosa
+
+00:01:44.267 --> 00:01:47.230
+pero algunas veces usted verá el "∆t"
+
+00:01:47.230 --> 00:01:49.005
+así que 1 min
+
+00:01:49.005 --> 00:01:52.937
+es la "t" justo aquí es un minuto
+
+00:01:52.937 --> 00:01:59.954
+a 5 metros por segundo, hacia el sur.
+
+00:01:59.954 --> 00:02:03.579
+Esto justo aquí es la velocidad.
+
+00:02:03.579 --> 00:02:07.892
+Nos dieron la magnitud, que es 5m/s o es lo mismo que la rapidez,
+
+00:02:07.908 --> 00:02:11.000
+y también nos dan la dirección. "Hacia el sur",
+
+00:02:11.000 --> 00:02:19.595
+entoces esto es 5m/s hacia el sur.
+
+00:02:19.625 --> 00:02:23.940
+Tambien podemos decir, si queremos desplazamiento eso solo será
+
+00:02:23.940 --> 00:02:36.748
+igual a: 5 m/s hacia el sur, multiplicado por 1 minuto.
+
+00:02:39.579 --> 00:02:43.733
+El problema aqui es que si hablamos de desplazamiento
+
+00:02:43.733 --> 00:02:46.882
+tenemos que pensar sobre la magnitud de cuanto se movió
+
+00:02:46.882 --> 00:02:50.231
+es decir, la distancia y también una dirección
+
+00:02:50.231 --> 00:02:53.894
+Tenemos la dirección aquí pero no queremos otras unidades en el resultado.
+
+00:02:53.894 --> 00:02:57.981
+Y si multiplcamos, tenemos minutos aquí, pero tenemos segundos en el denominador,
+
+00:02:57.981 --> 00:03:00.071
+así que no puedes cancelar minutos con segundos.
+
+00:03:01.840 --> 00:03:04.902
+Por lo tanto para que las unidades sean correctas,
+
+00:03:04.933 --> 00:03:15.959
+debes cambiar 5 metros sobre segundos por metros sobre minutos
+
+00:03:15.959 --> 00:03:22.070
+o conviertes 1 minuto a segundos. Para mí es más fácil convertir
+
+00:03:22.177 --> 00:03:24.866
+minutos a segundos.
+
+00:03:24.866 --> 00:03:29.049
+Entonces la ecuación es: un minuto por
+
+00:03:29.049 --> 00:03:35.287
+y queremos eliminar los minutos que estan en el numerador
+
+00:03:35.364 --> 00:03:38.800
+entonces dividimos por minutos.
+
+00:03:38.800 --> 00:03:44.547
+y multiplicamos por segundos en el numerador.
+
+00:03:44.547 --> 00:03:47.068
+Cuantos segundos hay por minuto?
+
+00:03:47.068 --> 00:03:51.301
+hay 60 segundos en cada minuto.
+
+00:03:51.301 --> 00:03:54.005
+Así que los minutos se cancelan con minutos
+
+00:03:54.190 --> 00:03:56.386
+y finalmente tiene 5m/s hacia el sur
+
+00:03:56.386 --> 00:03:57.548
+por 60 segundos.
+
+00:03:57.548 --> 00:04:03.552
+Esto esta bien porque ahora tienes segundos y segundos
+
+00:04:03.552 --> 00:04:08.161
+y segundo sobre segundos se cancelan
+
+00:04:08.161 --> 00:04:18.067
+por lo que el desplzamiento será igual a 5 por 60
+
+00:04:18.067 --> 00:04:21.185
+y las unidades restantes son metros
+
+00:04:21.185 --> 00:04:23.800
+todas las unidades temporales se han cancelado
+
+00:04:23.800 --> 00:04:28.425
+y es metros hacia el sur
+
+00:04:28.425 --> 00:04:31.154
+entonces metros hacia el sur
+
+00:04:31.154 --> 00:04:33.600
+y esto es igual a
+
+00:04:33.600 --> 00:04:41.533
+(5)*(60) = 300 metros hacia el sur
+
+00:04:41.533 --> 00:04:45.267
+y hemos terminado. Esto es cuanto ella se desplazó.
+
+00:04:45.267 --> 00:04:48.186
+Si preguntan sólo por la distancia.
+
+00:04:48.186 --> 00:04:51.667
+puedes decir que ella recorrió 300m
+
+00:04:51.667 --> 99:59:59.999
+la magnitud del desplazamiento es la distancia que ella viajó.

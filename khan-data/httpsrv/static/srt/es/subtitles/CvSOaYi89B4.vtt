@@ -1,0 +1,390 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:02.540
+¿Qué es un algoritmo?
+
+00:00:02.975 --> 00:00:06.975
+Una definición puede ser: Un conjunto
+de pasos para realizar una tarea.
+
+00:00:07.511 --> 00:00:09.241
+Quizá tengas un algoritmo
+
+00:00:09.241 --> 00:00:10.971
+para llegar a casa 
+desde la escuela,
+
+00:00:11.107 --> 00:00:13.564
+para hacer un sándwich tostado de queso,
+
+00:00:13.564 --> 00:00:17.334
+o para encontrar lo que buscas 
+en el supermercado.
+
+00:00:17.759 --> 00:00:19.369
+En las ciencias 
+de la computación,
+
+00:00:19.369 --> 00:00:21.199
+un algoritmo es un conjunto de pasos
+
+00:00:21.199 --> 00:00:22.579
+para que un programa de computadora
+
+00:00:22.579 --> 00:00:24.399
+pueda realizar una tarea.
+
+00:00:24.654 --> 00:00:28.104
+Los algoritmos son la ciencia 
+en las ciencias de la computación.
+
+00:00:28.104 --> 00:00:31.734
+y encontrar buenos algoritmos 
+y saber cuándo implementarlos
+
+00:00:31.734 --> 00:00:35.514
+te permitirá escribir interesantes 
+e importantes programas.
+
+00:00:35.781 --> 00:00:38.571
+Hablemos de algunos algoritmos famosos.
+
+00:00:39.188 --> 00:00:41.788
+¿Cómo es que Google Hangouts 
+transmite video en vivo
+
+00:00:41.788 --> 00:00:44.088
+a través de Internet tan rápido?
+
+00:00:44.243 --> 00:00:47.683
+Usan algoritmos de 
+compresión de audio y video.
+
+00:00:48.341 --> 00:00:50.961
+¿Cómo es que Google Maps averigua
+como llegar desde
+
+00:00:50.961 --> 00:00:54.521
+Dallas, Texas a Orlando, Florida 
+para que tú puedas ir a Disney World?
+
+00:00:55.373 --> 00:00:58.373
+Usan un algoritmo para encontrar rutas.
+
+00:00:58.606 --> 00:01:01.626
+¿Cómo es que Pixar colorea un modelo 3D de un personaje
+
+00:01:01.626 --> 00:01:04.626
+basado en la iluminación
+en una habitación virtual?
+
+00:01:04.626 --> 00:01:08.026
+Usan un algoritmo de renderizado.
+
+00:01:08.026 --> 00:01:11.214
+Cómo decide Nasa cómo colocar los panales solares
+
+00:01:11.214 --> 00:01:15.484
+en la Estación Espacial Internacional 
+y cuándo recolocarlos?
+
+00:01:15.484 --> 00:01:19.458
+Usan un algoritmo de optimización y planificación.
+
+00:01:20.330 --> 00:01:23.540
+Esos algoritmos son más complejos 
+que nuestros algoritmos cotidianos,
+
+00:01:23.540 --> 00:01:25.780
+como hacer un sándwich tostado de queso,
+
+00:01:25.780 --> 00:01:27.780
+pero se reducen a la misma cosa:
+
+00:01:27.780 --> 00:01:30.660
+Un conjunto de pasos
+para realizar una tarea.
+
+00:01:31.047 --> 00:01:33.507
+Si sabes algo sobre 
+los algoritmos ya existentes,
+
+00:01:33.507 --> 00:01:35.977
+puedes ahorrarte mucho esfuerzo,
+
+00:01:35.977 --> 00:01:37.777
+y hacer que tus 
+programas sean más rápidos
+
+00:01:37.777 --> 00:01:39.717
+al implementar el adecuado.
+
+00:01:40.312 --> 00:01:43.262
+Por ejemplo, digamos que 
+estás escribiendo un juego,
+
+00:01:43.262 --> 00:01:46.282
+y quieres que el usuario 
+pueda jugar en contra de la computadora,
+
+00:01:46.282 --> 00:01:49.972
+Bien, puedes comprobar el juego de las 
+damas para inspirarte.
+
+00:01:49.972 --> 00:01:52.422
+Los científicos de la computación han averiguado
+
+00:01:52.422 --> 00:01:55.252
+como escribir programas de damas
+que nunca pierden
+
+00:01:55.252 --> 00:01:59.672
+usando el algoritmo de búsqueda Minimax 
+para buscar entre el enorme "árbol"
+
+00:01:59.672 --> 00:02:01.992
+de todos los movimientos posibles.
+
+00:02:02.984 --> 00:02:05.264
+Si tu juego es parecido al de Damas,
+
+00:02:05.264 --> 00:02:08.514
+quizá puedas usar algoritmos 
+basados en estas técnicas.
+
+00:02:08.514 --> 00:02:12.124
+Si no, saber las limitaciones de esos algoritmos
+
+00:02:12.124 --> 00:02:14.364
+algoritmos podría llevarte 
+a rediseñar tu juego
+
+00:02:14.364 --> 00:02:17.464
+si requiere tener un hábil jugador 
+controlado por la computadora.
+
+00:02:17.464 --> 00:02:20.874
+También es importante saber
+diseñar nuevos algoritmos
+
+00:02:20.874 --> 00:02:24.874
+y también analizar 
+su exactitud y eficiencia.
+
+00:02:24.874 --> 00:02:26.924
+En las ciencias biológicas,
+
+00:02:26.924 --> 00:02:29.434
+se diseñan continuamente nuevos algoritmos
+
+00:02:29.434 --> 00:02:32.474
+con fines como diseñar 
+estructuras moleculares,
+
+00:02:32.474 --> 00:02:35.494
+que son la base de medicamentos
+que combaten enfermedades.
+
+00:02:36.014 --> 00:02:40.014
+En la física, los algoritmos
+simulan patrones climáticos y de tiempo,
+
+00:02:40.014 --> 00:02:42.784
+y otros buscan y analizan
+
+00:02:42.784 --> 00:02:46.434
+las grandes cantidades de 
+datos de las estrellas en el universo
+
+00:02:46.434 --> 00:02:49.304
+que son recopilados por 
+telescopios automatizados.
+
+00:02:49.682 --> 00:02:53.682
+En todas las ciencias, e incluso 
+en páginas web como Khan Academy
+
+00:02:53.682 --> 00:02:57.462
+se necesitan algoritmos eficientes para 
+analizar conjuntos de datos enormes
+
+00:02:57.462 --> 00:02:59.592
+, o para elegir inteligentemente
+
+00:02:59.592 --> 00:03:01.722
+entre un número enorme de decisiones.
+
+00:03:01.923 --> 00:03:04.863
+En casi todas las áreas que
+te puedan interesar,
+
+00:03:04.863 --> 00:03:08.473
+nuevos algoritmos permitirán 
+cosechar poder computacional masivo
+
+00:03:08.473 --> 00:03:11.823
+para hacer cosas que las personas
+necesitan y que les preocupan
+
+00:03:12.033 --> 00:03:15.263
+Ahora, no todos los algoritmos 
+son creados iguales.
+
+00:03:15.483 --> 00:03:18.583
+¿Qué es lo que hace un buen algoritmo?
+
+00:03:18.583 --> 00:03:22.393
+Los dos criterios más 
+importantes son que resuelva el problema,
+
+00:03:22.393 --> 00:03:25.153
+y que lo haga eficientemente.
+
+00:03:25.690 --> 00:03:26.950
+La mayor parte del tiempo,
+
+00:03:26.950 --> 00:03:31.070
+queremos que el algoritmo nos dé una
+respuesta que sea siempre correcta.
+
+00:03:31.070 --> 00:03:33.840
+De vez en cuando, 
+podemos vivir con un algoritmo
+
+00:03:33.840 --> 00:03:36.320
+que no nos da una respuesta correcta, 
+o la mejor respuesta
+
+00:03:36.320 --> 00:03:39.130
+porque los únicos algoritmos perfectos que 
+conocemos
+
+00:03:39.130 --> 00:03:43.130
+para esos problemas tardan mucho tiempo.
+
+00:03:43.410 --> 00:03:46.140
+Por ejemplo, digamos que 
+queremos un programa
+
+00:03:46.140 --> 00:03:50.880
+que determinaría la ruta más eficiente
+para un camión que entrega paquetes
+
+00:03:51.120 --> 00:03:54.240
+empezando y terminando 
+el día en una estación.
+
+00:03:54.664 --> 00:03:58.264
+Tardaría semanas en examinar
+todas las posibilidades.
+
+00:03:58.664 --> 00:04:00.284
+Pero si nos conformamos con un programa
+
+00:04:00.284 --> 00:04:02.454
+que determinaría una ruta que es buena,
+
+NOTE Paragraph
+
+00:04:02.454 --> 00:04:05.654
+pero tal vez no la mejor, 
+solo tardaría segundos en ejecutarse
+
+00:04:06.212 --> 00:04:09.362
+Y algunas veces, tener una solución es suficiente
+
+00:04:09.671 --> 00:04:12.061
+¿Cómo mides la eficiencia de un algoritmo?
+
+00:04:12.553 --> 00:04:15.623
+Podríamos medir cuánto tiempo
+tarda en ejecutar el código,
+
+00:04:15.623 --> 00:04:19.183
+pero eso solo nos diría sobre 
+esa implementación en particular
+
+00:04:19.183 --> 00:04:20.693
+en un lenguaje de programación particular,
+
+00:04:20.693 --> 00:04:24.213
+en un equipo particular, y solo 
+para la entrada que se le dio.
+
+00:04:24.693 --> 00:04:26.893
+En cambio, 
+los científicos de la computación
+
+00:04:26.893 --> 00:04:29.653
+usan una técnica
+llamada "análisis asintótica",
+
+00:04:29.653 --> 00:04:33.100
+la cual permite comparar los
+algoritmos independientemente
+
+00:04:33.100 --> 00:04:35.010
+de un lenguaje o hardware particular.
+
+00:04:35.010 --> 00:04:37.130
+Así, podríamos concluir que sí,
+
+00:04:37.130 --> 00:04:40.750
+algunos algoritmos
+son más eficientes que otros.
+
+00:04:41.230 --> 00:04:43.300
+Ahora puedes aprender 
+sobre los algoritmos
+
+00:04:43.300 --> 00:04:45.770
+y la análisis asintótica en Khan Academy
+
+00:04:45.980 --> 00:04:49.650
+gracias a la contribución de dos de los
+profesores de la universidad de Dartmouth.
+
+00:04:49.920 --> 00:04:55.290
+Thomas Cormen es el primer autor del libro
+de algoritmos más popular en el mundo,
+
+00:04:55.915 --> 00:04:58.945
+además de ser el autor de Algorithms Unlocked
+(Algoritmos Desbloqueados).
+
+00:04:59.045 --> 00:05:02.315
+Devin Balkcom diseñó el curso 
+introductorio a CS de Dartmouth
+
+00:05:02.315 --> 00:05:07.195
+e investiga sobre la robótica. Construyó 
+el primer robot del mundo que hace origami
+
+00:05:07.616 --> 00:05:09.976
+Tom y Devin te enseñarán 
+muchos de los algoritmos
+
+00:05:09.976 --> 00:05:12.556
+que aprenderías en APCS o CS-101,
+
+00:05:12.556 --> 00:05:15.986
+como algoritmos de búsqueda, 
+ordenamiento, algoritmos recursivos
+
+00:05:16.066 --> 00:05:19.396
+y mi favorito personal, 
+algoritmos de grafos.
+
+00:05:19.396 --> 00:05:21.716
+Habrá muchas visualizaciones 
+interactivas,
+
+00:05:21.716 --> 00:05:23.665
+pruebas y desafíos de
+codificación
+
+00:05:23.665 --> 00:05:27.345
+para ayudarte a entender mejor a lo largo 
+de tu viaje de aprendizaje.

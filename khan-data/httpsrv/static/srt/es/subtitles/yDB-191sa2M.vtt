@@ -1,0 +1,223 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.014 --> 00:00:04.350
+Despues de explorar el teorema de Stokes, quiero hablar de
+
+00:00:04.350 --> 00:00:08.448
+las situaciones en las que podemos usarlo. Verás que es un teorema bastante general.
+
+00:00:08.448 --> 00:00:12.538
+Pero tenemos que pensar en qué tipo de superficies
+
+00:00:12.538 --> 00:00:16.602
+y qué tipo de límite son aquellas superficies con que estamos tratando
+
+00:00:16.602 --> 00:00:19.834
+y el caso de Stokes, necesitamos
+
+00:00:19.834 --> 00:00:23.017
+superficies que son trozos...
+
+00:00:23.017 --> 00:00:25.593
+y lisos
+
+00:00:26.608 --> 00:00:31.372
+superficies a trozos y lisos para que esta superficie por aquí
+
+00:00:31.372 --> 00:00:34.644
+es realmente liso, no sólo a trozos y liso.
+
+00:00:34.644 --> 00:00:39.856
+Parece que es un término muy elegante pero la parte lisa significa
+
+00:00:39.856 --> 00:00:42.332
+que sólo tienes derivados continuos
+
+00:00:42.332 --> 00:00:45.334
+y ya que estamos hablando de las superficies que vamos a tener
+
+00:00:45.334 --> 00:00:48.549
+derivadas parciales continuas independientemente de la dirección que elijas.
+
+00:00:48.549 --> 00:00:51.510
+Estos son derivados continuos,
+
+00:00:51.618 --> 00:00:56.114
+y otra manera de pensar de conceptualmente es si escoges una dirección
+
+00:00:56.114 --> 00:00:59.347
+en la superficie si dices que vamos en esa dirección, la pendiente en
+
+00:00:59.362 --> 00:01:04.853
+dirección cambia gradualmente, no saltar alrededor. Si escoges esta dirección por aquí,
+
+00:01:05.115 --> 00:01:08.957
+la pendiente está cambiando gradualmente. Así tenemos una continua
+
+00:01:08.957 --> 00:01:12.029
+derivado. Y eres como "¿Qué significa la 'por partes'?"
+
+00:01:12.029 --> 00:01:14.779
+Bueno, los trozos realmente nos permiten utilizar el teorema de Stokes con superficies más.
+
+00:01:14.872 --> 00:01:19.966
+Porque si usted tiene una superficie que parece... Supongamos una superficie que sea
+
+00:01:19.966 --> 00:01:24.219
+similar a esto. Digamos que parece una taza. Así que esta es la apertura de la parte superior de la taza
+
+00:01:24.219 --> 00:01:27.787
+digamos que no tiene ninguna abertura en la parte superior para que podamos ver la parte trasera de la taza
+
+00:01:27.818 --> 00:01:31.319
+y este es el lado de la Copa y este aquí es la parte inferior
+
+00:01:31.319 --> 00:01:34.665
+de la taza y si era transparente realmente podríamos ver adentro de ella. Por lo tanto
+
+00:01:34.665 --> 00:01:38.892
+superficies como esto no son completamente lisa, porque tiene
+
+00:01:38.892 --> 00:01:41.644
+bordes. Hay puntos por aquí. Por lo tanto este borde
+
+00:01:41.644 --> 00:01:46.114
+por aquí... Si pasamos esta... digamos si recogemos esta dirección para ir y si vamos
+
+00:01:46.114 --> 00:01:50.907
+esta dirección a lo largo de la parte inferior, entonces llegamos al borde, de repente los cambios de la pendiente saltan dramáticamente.
+
+00:01:50.907 --> 00:01:54.808
+Así que la pendiente no es continua en ese borde. La pendiente salta
+
+00:01:54.808 --> 00:01:58.995
+y empezamos a ir hacia arriba. Y así este completo
+
+00:01:58.995 --> 00:02:02.760
+superficie no es lisa. Pero la función a trozos 
+realmente nos dan
+
+00:02:02.760 --> 00:02:06.296
+un out. Esto nos dicen que está bien como nos podemos romper
+
+00:02:06.296 --> 00:02:09.655
+las superficies hasta en trozos que son lisas. Y así
+
+00:02:09.655 --> 00:02:13.780
+esta taza nos podemos desmantelar pero que lo estábamos haciendo cuando aboramos integrales de superficies.
+
+00:02:13.780 --> 00:02:16.411
+nosotros podemos desmantelar en la parte inferior, que es una
+
+00:02:16.411 --> 00:02:22.997
+superficie lisa, tiene derivado continuo y los lados
+
+00:02:22.997 --> 00:02:24.788
+que envuelven es también
+
+00:02:24.788 --> 00:02:29.292
+una superficie lisa
+
+00:02:29.292 --> 00:02:32.610
+así que la mayoría de las cosas te vas a encontrar en un curso de cálculo tradicional
+
+00:02:32.610 --> 00:02:36.788
+en realidad, especialmente de las superficies, son por tramos y lisas.
+
+00:02:36.788 --> 00:02:41.079
+Este concepto es difícil de visualizar. Me imagino que estas partes exteriores puntiagudas
+
+00:02:41.079 --> 00:02:44.877
+donde es difícil de hacer pedazos
+
+00:02:44.877 --> 00:02:49.127
+lisos. Es para la parte superficial pero también
+
+00:02:49.127 --> 00:02:53.138
+necesitamos tener cuidado acerca de la frontera, para aplicar el teorema de Stokes. Y es que
+
+00:02:53.138 --> 00:02:57.296
+allí. El límite debe ser simple,
+
+00:02:57.296 --> 00:03:02.892
+o, no debe cruzar a sí mismo, un
+
+00:03:02.892 --> 00:03:04.843
+límite simple cerrado por tramos y lisos. Así que otra vez:
+
+00:03:04.843 --> 00:03:08.461
+simple y cerrada sólo significa que esto no es un
+
+00:03:08.461 --> 00:03:12.824
+límite simple. Si realmente se cruza o lo mismo intersecta, aunque puedes romperlo
+
+00:03:12.824 --> 00:03:16.629
+en remolque límites sencillos. Pero algo como esto es un simple
+
+00:03:16.629 --> 00:03:20.596
+límite. Así es un límite simple allí. También tiene que estar cerrada
+
+00:03:20.596 --> 00:03:25.996
+lo que realmente significa que lo mismo serpentea. Sólo tienes algo parecido. Realmente tiene que
+
+00:03:25.996 --> 00:03:31.111
+cerrar y necesita serpentea en el mismo. Para utilizar el teorema de Stokes y una vez más
+
+00:03:31.111 --> 00:03:34.421
+tiene que ser lisa y por tramos, pero ahora estamos hablando de un trayectoria o un
+
+00:03:34.421 --> 00:03:39.039
+línea o curva como este y isa y por tramos simplemente significa que usted puede romper
+
+00:03:39.039 --> 00:03:42.477
+en las secciones donde derivados son continuos. La forma en que he dibujado,
+
+00:03:42.477 --> 00:03:44.878
+este uno y este otro, la pendiente está cambiando gradualmente. Lo allí
+
+00:03:44.878 --> 00:03:50.183
+la pendiente es así. Está cambiando poco a poco mientras vamos
+
+00:03:50.183 --> 00:03:53.798
+esta trayectoria. Algo que no es liso, un camino que no es
+
+00:03:53.798 --> 00:03:56.176
+liso podría ser algo como esto.
+
+00:03:56.176 --> 00:04:01.566
+Podría parecer algo similar. Y los lugares que no son lisos
+
+00:04:01.566 --> 00:04:06.171
+en los bordes: no lisa allí...no lisa alla...no lisa allí
+
+00:04:06.171 --> 00:04:09.634
+Pero tenemos que ser cerrado y simple y esto es simple y cerrada. Y no es
+
+00:04:09.634 --> 00:04:12.496
+lisa pero es lisa por tramos. Nosotros podemos desmantler
+
+00:04:12.496 --> 00:04:17.445
+Esta sección de la ruta. Esa línea allí es lisa,
+
+00:04:17.445 --> 00:04:21.532
+esa línea allí es lisa, esa línea es lisa y esa línea es
+
+00:04:21.532 --> 00:04:24.506
+lisa. Y lo hemos hecho al evaluar en integrales de línea. Nos separó
+
+00:04:24.506 --> 00:04:28.174
+segmentos lisos que luego podemos utilizar para calcular
+
+00:04:28.174 --> 00:04:33.328
+integrales de línea. Así que si encuentras... Si tienes un límite donde la...
+
+00:04:33.328 --> 00:04:36.861
+Si usted tiene una superficie suave por tramos y su
+
+00:04:36.861 --> 00:04:40.732
+límite es un simple cerrado por partes liso
+
+00:04:40.732 --> 99:59:59.999
+límite, serás listo.

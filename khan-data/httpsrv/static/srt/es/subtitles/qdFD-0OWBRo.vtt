@@ -1,0 +1,1074 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.550
+Digamos que tenemos el caminho mismo apresentado in el vídeo passado.
+
+00:00:00.550 --> 00:00:04.770
+Dibujamos mi eixo y, eso es mi eixo x.
+
+00:00:04.770 --> 00:00:09.710
+Digamos que o camino tiene esta forma, parecendo-se
+
+00:00:09.710 --> 00:00:12.630
+com isto.
+
+00:00:12.630 --> 00:00:13.570
+Es el mismo que teniamos en el vídeo pasado
+
+00:00:13.570 --> 00:00:16.080
+Posibilemente no parece exactamente igual, me permite ver lo que yo
+
+00:00:16.080 --> 00:00:18.270
+hice en el video pasado
+
+00:00:18.270 --> 00:00:19.430
+Tenía aquella forma en el último vídeo, pero parecido bastante.
+
+00:00:19.430 --> 00:00:22.330
+Digamos que estamos lidando con exactamente la
+
+00:00:22.330 --> 00:00:24.270
+misma curva del último vídeo.
+
+00:00:24.270 --> 00:00:25.450
+La podemos llamar de curva C
+
+00:00:25.450 --> 00:00:27.840
+En el último vídeo liadmos con um vector que tenía
+
+00:00:27.840 --> 00:00:32.850
+vectores en la dirección i.
+
+00:00:32.850 --> 00:00:34.240
+Construyimos con otro vector que tenía apenas vectores en
+
+00:00:34.240 --> 00:00:37.590
+dirección j, o la dirección vertical.
+
+00:00:37.590 --> 00:00:39.680
+Digamos que q, el campo de vectores q de xy, es igual
+
+00:00:39.680 --> 00:00:46.810
+a Q maiúsculo de xy vezes j, y vamos a preocuparnos
+
+00:00:46.810 --> 00:00:54.430
+vamos a preocuparnos con
+
+00:00:54.430 --> 00:00:58.120
+a integral fechada de línea sobre el camino c de q punto dr. Y
+
+00:00:58.120 --> 00:01:09.310
+ya lo hemos visto.
+
+00:01:09.310 --> 00:01:11.760
+dr puede ser reescrito como dx vezes i, plus dy vezes j.
+
+00:01:11.760 --> 00:01:20.240
+Si ibamos a tomar el producto punto de estos dos, esta
+
+00:01:20.240 --> 00:01:23.940
+integral de línea será exactamente el mismo.
+
+00:01:23.940 --> 00:01:26.300
+Será la misma como la integral línea fechada
+
+00:01:26.300 --> 00:01:29.830
+sobre c de q punto dr. Q tiene apenas componente j.
+
+00:01:29.830 --> 00:01:34.090
+Pues, si se toma su
+
+00:01:34.090 --> 00:01:34.830
+0i, 0 vezes dx es 0, y vas a tener
+
+00:01:34.830 --> 00:01:38.780
+Q (x,y) vezes dy.
+
+00:01:38.780 --> 00:01:41.190
+Tenían no componente i, será apenas Q,
+
+00:01:41.190 --> 00:01:44.810
+Lo cambio al color mismo otra vez, Q(x,y) vejez dy.
+
+00:01:44.810 --> 00:01:51.780
+Eso es el producto punto.
+
+00:01:51.780 --> 00:01:52.900
+No había un componente i, por eso eliminamos el dx.
+
+00:01:52.900 --> 00:01:56.960
+Vemos si hay una forma de resolver esta Integral
+
+00:01:56.960 --> 00:02:00.030
+línea sin recurrir a un parámetro tercero, t.
+
+00:02:00.030 --> 00:02:02.710
+Exactamente como hicimos en el último vídeo.
+
+00:02:02.710 --> 00:02:03.780
+Actulamente, será praticamente identico, estamos apenas lidando
+
+00:02:03.780 --> 00:02:05.875
+con y's ahora en vez de x´s.
+
+00:02:05.875 --> 00:02:08.080
+Lo que podemos hacer es, que podemos decir, pues, qué es nuestro
+
+00:02:08.080 --> 00:02:09.920
+minimo y e o nuestro máximo y?
+
+00:02:09.920 --> 00:02:12.070
+Nuestro mínimo y, digamos que está aqui.
+
+00:02:12.070 --> 00:02:15.120
+El minimo y, lo llamamos a.
+
+00:02:15.120 --> 00:02:17.840
+Digamos que nuestro máximo de y que nos obtenemos es exactamente aqui.
+
+00:02:17.840 --> 00:02:22.906
+Lo llamamos b.
+
+00:02:22.906 --> 00:02:24.880
+Ah! Assim como no ultimo, eu esqueci de dizer
+
+00:02:24.880 --> 00:02:26.960
+a direção da curva.
+
+00:02:26.960 --> 00:02:28.250
+Mas esta é a mesma curva da última vez, que estamos indo em
+
+00:02:28.250 --> 00:02:30.270
+sentido antí-horário.
+
+00:02:30.270 --> 00:02:32.070
+A mesma curva, o mesmo caminho.
+
+00:02:32.070 --> 00:02:36.500
+Então estamos indo nesta direção.
+
+00:02:36.500 --> 00:02:39.180
+Agora como no último video, dividimos em duas funções de
+
+00:02:39.180 --> 00:02:42.160
+xs, dois ys como função de x.
+
+00:02:42.160 --> 00:02:44.600
+Agora queremos lidar com os ys.
+
+00:02:44.600 --> 00:02:45.920
+Vamos dividir em duas funções de y.
+
+00:02:45.920 --> 00:02:48.530
+Então se dividirmos esta curva em duas, estes são
+
+00:02:48.530 --> 00:02:54.560
+os nossos pontos extremos, vamos chamar este caminho daqui,
+
+00:02:54.560 --> 00:02:59.720
+vamos chamar este caminho de, de y, e aquele
+
+00:02:59.720 --> 00:03:06.110
+de x, então aqui, ao longo deste caminho, x é igual a...
+
+00:03:06.110 --> 00:03:10.930
+Poderia apenas escrever caminho 2, ou c2.
+
+00:03:10.930 --> 00:03:16.350
+Poderiamos dizer que,
+
+00:03:16.350 --> 00:03:18.956
+x é igual a x2 de y.
+
+00:03:18.956 --> 00:03:22.210
+Este é o caminho.
+
+00:03:22.210 --> 00:03:23.550
+E então o primeiro caminho, ou este não tem que ser o
+
+00:03:23.550 --> 00:03:26.250
+primeiro caminho, dependendo onde começa.
+
+00:03:26.250 --> 00:03:27.740
+Você pode começar onde quiser.
+
+00:03:27.740 --> 00:03:28.670
+Digamos este em magenta.
+
+00:03:28.670 --> 00:03:30.410
+Vamos chamar de caminho 1, e podemos dizer que, este é definido
+
+00:03:30.410 --> 00:03:33.050
+como x é igual a x1 de y.
+
+00:03:33.050 --> 00:03:36.480
+É um pouco confuso quando você tem x como função de y,
+
+00:03:36.480 --> 00:03:39.395
+Mas na verdade é completamente analogo ao que
+
+00:03:39.395 --> 00:03:41.290
+fizemos no último vídeo.
+
+00:03:41.290 --> 00:03:42.470
+Estamos apenas trocando x e y.
+
+00:03:42.470 --> 00:03:44.630
+Estamos agora expressando x como uma função de y, ao invés
+
+00:03:44.630 --> 00:03:47.140
+de y como função de x.
+
+00:03:47.140 --> 00:03:48.870
+Então temosduas curvas.
+
+00:03:48.870 --> 00:03:50.560
+Você pode imaginar apenas inverter, e estamos fazendo exatamente
+
+00:03:50.560 --> 00:03:52.680
+a mesma coisa que no último vídeo, apenas
+
+00:03:52.680 --> 00:03:54.460
+agora em termos de y
+
+00:03:54.460 --> 00:03:55.820
+Mas se você olhar para isso dessa forma, esta integral de linha pode ser
+
+00:03:55.820 --> 00:03:59.610
+reescrita como sendo igual a integral, vamos
+
+00:03:59.610 --> 00:04:07.590
+resolver a curva c2 primeiro.
+
+00:04:07.590 --> 00:04:11.650
+Esta é a integral de b e a.
+
+00:04:11.650 --> 00:04:15.380
+Começamos em b, e vamos até a.
+
+00:04:15.380 --> 00:04:17.860
+Isto é, estamos voltando do y elevado para o y baixo.
+
+00:04:17.860 --> 00:04:21.290
+A integral de b para a de Q, em cor cinza.
+
+00:04:21.290 --> 00:04:30.240
+Ao invés de ter um x aqui, que conhecemos ao longo desta curva
+
+00:04:30.240 --> 00:04:34.430
+aqui, x é igual a, nos queremos tudo em termos de y.
+
+00:04:34.430 --> 00:04:37.650
+Então aqui, x é igual a x2 de y.
+
+00:04:37.650 --> 00:04:40.210
+Logo Q de x2 de y, x2 de y virgula y, talvez eu esteja usando cores demais
+
+00:04:40.210 --> 00:04:47.800
+aqui, mas acho que você entendeu a idéia.
+
+00:04:47.800 --> 00:04:50.680
+dy.
+
+00:04:50.680 --> 00:04:51.045
+dy.
+
+00:04:54.320 --> 00:04:56.580
+Así que esta es la parte de la línea integral, poco más de
+
+00:04:56.580 --> 00:04:57.800
+Esta curva de la mano izquierda.
+
+00:04:57.800 --> 00:05:03.940
+Y, a continuación, vamos a agregar que la integral de línea, o
+
+00:05:03.940 --> 00:05:07.980
+realmente sólo un integral regular ahora, y es igual a una y
+
+00:05:07.980 --> 00:05:18.325
+es igual a b q, en lugar de x es igual a x 2, ahora x
+
+00:05:18.325 --> 00:05:21.170
+es igual a 1 x de y, es igual a esta curva, esto
+
+00:05:21.170 --> 00:05:22.780
+otra función.
+
+00:05:22.780 --> 00:05:33.060
+Así 1 x de y, x 1 y coma y, dy, y podemos hacer exactamente lo que
+
+00:05:33.060 --> 00:05:34.900
+lo hicimos en el video anterior.
+
+00:05:34.900 --> 00:05:37.370
+En lugar de, no nos gusta el número más grande en la parte inferior, por lo que
+
+00:05:37.370 --> 00:05:39.760
+vamos a intercambiar estos dos alrededor.
+
+00:05:39.760 --> 00:05:42.870
+Así que si usted intercambiar estos dos, si haces esto en una, y
+
+00:05:42.870 --> 00:05:46.800
+Esto en un b, que hace que la negativa de la integral,
+
+00:05:46.800 --> 00:05:50.200
+al intercambiar los dos, cambiar la dirección.
+
+00:05:50.200 --> 00:05:52.150
+Esto es exactamente lo que hicimos en el último video, así que esperemos
+
+00:05:52.150 --> 00:05:53.000
+no es nada demasiado elegantes.
+
+00:05:53.000 --> 00:05:55.490
+Pero ahora que tenemos los mismos límites de la integración,
+
+00:05:55.490 --> 00:05:58.690
+estas dos integrales definidas, sólo podemos escribir como
+
+00:05:58.690 --> 00:06:00.280
+una integral definida.
+
+00:06:00.280 --> 00:06:05.470
+Así que esto va a ser igual a la integral de un a b.
+
+00:06:05.470 --> 00:06:08.450
+Y voy a escribir esta en primer lugar, ya que es positiva.
+
+00:06:08.450 --> 00:06:10.370
+Voy a escribir en éste.
+
+00:06:10.370 --> 00:06:18.500
+Q de x 1 y coma y, menos ésta.
+
+00:06:18.500 --> 00:06:18.730
+¿Verdad?
+
+00:06:18.730 --> 00:06:19.710
+Aquí tenemos el signo.
+
+00:06:19.710 --> 00:06:28.590
+Menos de 2 x y y q dy.
+
+00:06:28.590 --> 00:06:31.540
+Permítanme hacer eso en ese color neutro.
+
+00:06:31.540 --> 00:06:35.590
+dy, que se multiplica por todas estas cosas.
+
+00:06:35.590 --> 00:06:38.060
+Distribuyen la dy, creo que usted consigue la idea.
+
+00:06:38.060 --> 00:06:39.930
+Esto es idéntico a lo que hicimos en el último video.
+
+00:06:39.930 --> 00:06:43.810
+Y esto podría ser reescrita como, esto es igual a la integral
+
+00:06:43.810 --> 00:06:49.120
+de una a la b y dentro de la integral, nosotros estamos evaluando
+
+00:06:49.120 --> 00:06:57.490
+la función de q de xy de los límites, la parte superior
+
+00:06:57.490 --> 00:07:02.880
+límites, donde el límite superior va a ser de x
+
+00:07:02.880 --> 00:07:08.696
+es igual a 1 x de y, y es el límite inferior
+
+00:07:08.696 --> 00:07:11.560
+x es igual a 2 x de y.
+
+00:07:11.560 --> 00:07:11.970
+¿Verdad?
+
+00:07:11.970 --> 00:07:14.950
+Todos los x sustituimos con eso y luego conseguimos algunos
+
+00:07:14.950 --> 00:07:18.490
+expresión, y luego de eso, nos resta esto con x
+
+00:07:18.490 --> 00:07:19.650
+sustituido como 2 x de y.
+
+00:07:19.650 --> 00:07:22.110
+Eso es exactamente lo que hicimos, y como me dijo en el último video,
+
+00:07:22.110 --> 00:07:24.160
+Somos el tipo de curso de la dirección inversa que nosotros normalmente
+
+00:07:24.160 --> 00:07:24.990
+ir en integrales definidas.
+
+00:07:24.990 --> 00:07:26.640
+Normalmente llegamos a esto y, a continuación, la siguiente
+
+00:07:26.640 --> 00:07:27.580
+es el paso, conseguimos esto.
+
+00:07:27.580 --> 00:07:29.210
+Pero ahora vamos en la dirección contraria, pero
+
+00:07:29.210 --> 00:07:30.420
+diferencia de los mismos.
+
+00:07:30.420 --> 00:07:31.860
+Y todo eso tiempos dy.
+
+00:07:35.540 --> 00:07:38.740
+Y al igual que vimos en el último video, esto me deja hacerlo
+
+00:07:38.740 --> 00:07:41.870
+en orange, esta expresión aquí, realmente me deja
+
+00:07:41.870 --> 00:07:43.590
+señalar dy un poco fuera más por lo que no
+
+00:07:43.590 --> 00:07:45.460
+obtener todo congestionada.
+
+00:07:45.460 --> 00:07:49.830
+Permítanme hacer dy aquí.
+
+00:07:49.830 --> 00:07:56.100
+Esta expresión, esta expresión completa, es la misma exacta
+
+00:07:56.100 --> 00:08:07.410
+lo que la integral de x es igual a, sólo puedo escribirlo
+
+00:08:07.410 --> 00:08:11.280
+aquí, me permito escribir en los mismos colores.
+
+00:08:11.280 --> 00:08:27.450
+2 x de y a x 1 y x 1 y el parcial de q
+
+00:08:27.450 --> 00:08:31.760
+con respecto a x dx.
+
+00:08:35.220 --> 00:08:36.020
+Quiero que quede muy claro.
+
+00:08:36.020 --> 00:08:38.620
+Esto es, al menos en mi mente, la primera parte,
+
+00:08:38.620 --> 00:08:39.680
+un poco confuso.
+
+00:08:39.680 --> 00:08:41.620
+Pero si acabo de ver una integral como este, es el
+
+00:08:41.620 --> 00:08:42.680
+dentro de una integral doble.
+
+00:08:42.680 --> 00:08:43.390
+Y lo es.
+
+00:08:43.390 --> 00:08:46.250
+El exterior es lo que vimos allí, la integral
+
+00:08:46.250 --> 00:08:50.380
+desde un b, dy.
+
+00:08:50.380 --> 00:08:53.280
+Pero si sólo se ha visto en una integral doble, lo que lo haría
+
+00:08:53.280 --> 00:08:55.620
+hacer es que tomaría la primitiva, la
+
+00:08:55.620 --> 00:08:58.640
+antiderivative de esto con respecto a x, el
+
+00:08:58.640 --> 00:09:01.430
+primitiva del parcial de q con respecto a x con
+
+00:09:01.430 --> 00:09:04.510
+respecto a x, va a ser solo q de xy.
+
+00:09:04.510 --> 00:09:07.120
+Y ya que es una integral definida, se evaluaría
+
+00:09:07.120 --> 00:09:11.850
+1 x de y y, a continuación, reste de eso, esta función
+
+00:09:11.850 --> 00:09:14.370
+evalúan 2 x de y, que es exactamente lo que hicimos.
+
+00:09:14.370 --> 00:09:16.220
+Así que esperemos aprecias.
+
+00:09:16.220 --> 00:09:18.520
+Y, a continuación, tenemos nuestro resultado, que es muy similar
+
+00:09:18.520 --> 00:09:19.410
+el último resultado.
+
+00:09:19.410 --> 00:09:24.220
+¿Qué significa esta representan integral doble?
+
+00:09:24.220 --> 00:09:28.390
+Representa, pues, nada, si tienes cualquier integral doble
+
+00:09:28.390 --> 00:09:31.970
+que va desde--si imaginar, se trata de alguna función,
+
+00:09:31.970 --> 00:09:33.640
+Permítanme dibujar en tres dimensiones.
+
+00:09:33.640 --> 00:09:35.430
+Esto es realmente casi una revisión de lo que hicimos
+
+00:09:35.430 --> 00:09:36.360
+en el último video.
+
+00:09:36.360 --> 00:09:42.240
+Si ese es el eje y, que es nuestro eje x, es nuestro eje z.
+
+00:09:42.240 --> 00:09:45.720
+Se trata de alguna función de x y y, por lo que algunas de superficie le
+
+00:09:45.720 --> 00:09:48.595
+puede imaginar el plano xy.
+
+00:09:48.595 --> 00:09:50.750
+Se trata de alguna superficie.
+
+00:09:50.750 --> 00:09:56.160
+Lo podríamos llamar el parcial de q con respecto a x.
+
+00:09:56.160 --> 00:09:59.260
+Y lo que es esta integral doble, esto es esencialmente
+
+00:09:59.260 --> 00:10:02.490
+definición de una región y usted puede tipo de vista este dx veces
+
+00:10:02.490 --> 00:10:05.550
+DY como especie de un pequeño diferencial de área.
+
+00:10:05.550 --> 00:10:09.690
+Por lo tanto la región en cuestión, los puntos de frontera, son de y
+
+00:10:09.690 --> 00:10:14.460
+va, y va desde, en la parte inferior, va desde 2 x de y,
+
+00:10:14.460 --> 00:10:17.130
+que vimos fue una curva que se ve algo como esto.
+
+00:10:17.130 --> 00:10:19.620
+Que es la más baja y y aquí, si trazamos en dos
+
+00:10:19.620 --> 00:10:22.600
+dimensiones, se trata de la curva y inferior.
+
+00:10:22.600 --> 00:10:27.730
+La curva y superior es 1 x de y, por lo que se ve la curva y superior
+
+00:10:27.730 --> 00:10:29.210
+algo así.
+
+00:10:29.210 --> 00:10:32.570
+La curva y superior pasa algo parecido.
+
+00:10:32.570 --> 00:10:35.510
+Tan x varía de la curva y inferior a la superior
+
+00:10:35.510 --> 00:10:36.650
+¿y curva, derecha?
+
+00:10:36.650 --> 00:10:38.540
+Eso es lo que estamos haciendo aquí.
+
+00:10:38.540 --> 00:10:42.180
+Y, a continuación, y varía de un a b.
+
+00:10:42.180 --> 00:10:44.340
+Y por lo que esencialmente está diciendo esto, tomemos el doble
+
+00:10:44.340 --> 00:10:51.020
+integral sobre esta región aquí de esta función.
+
+00:10:51.020 --> 00:10:53.950
+Por lo que es esencialmente el volumen, si este es el techo,
+
+00:10:53.950 --> 00:10:56.300
+y este límite es esencialmente la pared.
+
+00:10:56.300 --> 00:10:57.680
+Es el volumen de esa sala.
+
+00:10:57.680 --> 00:10:58.750
+Y no sabe de lo que vería cuando
+
+00:10:58.750 --> 00:11:00.140
+llega aquí.
+
+00:11:00.140 --> 00:11:01.840
+Pero puede que como ese tipo de imaginar algo.
+
+00:11:01.840 --> 00:11:02.990
+Sería el volumen de ese.
+
+00:11:02.990 --> 00:11:04.690
+Eso es lo que nos estamos tomando.
+
+00:11:04.690 --> 00:11:07.490
+Este es el resultado idéntico que llegamos en el último video.
+
+00:11:07.490 --> 00:11:09.060
+Y esto es una cosa bastante limpio.
+
+00:11:09.060 --> 00:11:13.600
+Tan de repente, este vector, que--y q de xy, me
+
+00:11:13.600 --> 00:11:16.060
+no llamar como lo hice la última vez, Q de xy
+
+00:11:16.060 --> 00:11:16.630
+sólo tiene [? cosas?]
+
+00:11:16.630 --> 00:11:19.475
+en la dirección j, tan sólo tiene, si tuviera que señalar su
+
+00:11:19.475 --> 00:11:21.920
+campo vectorial, los vectores sólo ir arriba y abajo.
+
+00:11:25.960 --> 00:11:28.650
+No tienen ningún componente horizontal a ellos.
+
+00:11:28.650 --> 00:11:32.270
+Pero vimos, cuando se inicia con un campo vectorial como este,
+
+00:11:32.270 --> 00:11:35.810
+tomar la línea integral alrededor de este bucle cerrado y I'll
+
+00:11:35.810 --> 00:11:39.000
+reescribir aquí, usted tomar esta línea integral alrededor de este
+
+00:11:39.000 --> 00:11:44.200
+cerrado bucle de q punto dr, que es igual a la integral alrededor de
+
+00:11:44.200 --> 00:11:49.560
+el bucle cerrado de q de xy dy.
+
+00:11:49.560 --> 00:11:53.240
+Sólo averiguamos que es equivalente a la doble
+
+00:11:53.240 --> 00:11:58.490
+integral sobre la región.
+
+00:11:58.490 --> 00:12:00.660
+Se trata de la región.
+
+00:12:00.660 --> 00:12:00.920
+¿Verdad?
+
+00:12:00.920 --> 00:12:02.380
+Eso es exactamente lo que estamos haciendo aquí.
+
+00:12:02.380 --> 00:12:03.950
+Si sólo dio la región, tiene que definirlo, lo haría
+
+00:12:03.950 --> 00:12:07.116
+decir, bueno, x se va, se va de este
+
+00:12:07.116 --> 00:12:09.780
+función y esa función, y va desde un b, y
+
+00:12:09.780 --> 00:12:11.310
+que desee revisar los vídeos integrales dobles, si
+
+00:12:11.310 --> 00:12:11.970
+¿te confunde.
+
+00:12:11.970 --> 00:12:15.270
+Así que nos estamos tomando la doble integral sobre la región de la
+
+00:12:15.270 --> 00:12:20.370
+parcial de q con respecto a x, d--bueno, podría escribir dx
+
+00:12:20.370 --> 00:12:23.490
+¿dy, o usted puede incluso derecho da un poco, derecho?
+
+00:12:23.490 --> 00:12:26.110
+El diferencial de área, a la derecha, que podemos imaginar
+
+00:12:26.110 --> 00:12:28.670
+como un da, que es lo mismo que un dx dy.
+
+00:12:28.670 --> 00:12:31.390
+Y si tenemos combinar con el último video y esto son una especie de
+
+00:12:31.390 --> 00:12:35.030
+el neat ponerla parte junto, el resultado de
+
+00:12:35.030 --> 00:12:36.760
+el último video fue esto.
+
+00:12:36.760 --> 00:12:39.940
+Que si tenía una función que está completamente definida en términos de
+
+00:12:39.940 --> 00:12:42.270
+x, teníamos esto, aquí.
+
+00:12:42.270 --> 00:12:43.090
+Hemos tenido ese resultado.
+
+00:12:43.090 --> 00:12:46.280
+En realidad, me permito copiar y pegar ambos a un bonito limpio
+
+00:12:46.280 --> 00:12:51.100
+parte de mi pizarra, y entonces podemos hacer la
+
+00:12:51.100 --> 00:12:53.030
+conclusión emocionante.
+
+00:12:53.030 --> 00:12:57.170
+Me deja copiar y pegar.
+
+00:12:57.170 --> 00:12:59.300
+Eso es lo que tenemos en el último video.
+
+00:12:59.300 --> 00:13:03.200
+Y este video, llegamos a este resultado.
+
+00:13:03.200 --> 00:13:07.080
+Sólo podrá copiar y pegar la parte derecha.
+
+00:13:07.080 --> 00:13:12.140
+Ya puede predecir dónde va.
+
+00:13:12.140 --> 00:13:13.490
+Y, a continuación, me permito pegarlo aquí.
+
+00:13:13.490 --> 00:13:16.240
+Este es el resultado de este video.
+
+00:13:16.240 --> 00:13:20.390
+Ahora vamos a pensar en un campo vectorial arbitrario pero es
+
+00:13:20.390 --> 00:13:27.160
+definido como, todo lo que en rosa, vamos a decir f es un vector
+
+00:13:27.160 --> 00:13:32.780
+el campo definido por el plano xy y f es igual a p
+
+00:13:32.780 --> 00:13:39.920
+de xy además q de xy j.
+
+00:13:39.920 --> 00:13:43.520
+Casi te imaginas f ser la adición de nuestro vector
+
+00:13:43.520 --> 00:13:46.040
+campos, P y Q, que hicimos en los dos últimos vídeos.
+
+00:13:46.040 --> 00:13:49.550
+Q fue este video y lo hicimos p en el video antes de eso.
+
+00:13:49.550 --> 00:13:53.570
+Pero esto es realmente cualquier campo vectorial arbitrario.
+
+00:13:53.570 --> 00:13:56.710
+Y supongamos que deseamos tomar el vector de campo, o perdón, la
+
+00:13:56.710 --> 00:14:00.680
+integral de línea del campo vectorial por algún camino.
+
+00:14:00.680 --> 00:14:02.730
+Podría ser el mismo que hemos hecho, que ha sido
+
+00:14:02.730 --> 00:14:03.870
+uno muy arbitrario.
+
+00:14:03.870 --> 00:14:05.440
+Es realmente cualquier trazado arbitrario.
+
+00:14:05.440 --> 00:14:09.620
+Así que permítanme señalar algún camino arbitrario aquí.
+
+00:14:09.620 --> 00:14:13.010
+Digamos, que es mi camino arbitrario, mi curva arbitraria.
+
+00:14:13.010 --> 00:14:17.610
+Digamos que va en esa dirección en sentido antihorario,
+
+00:14:17.610 --> 00:14:18.530
+sólo así.
+
+00:14:18.530 --> 00:14:22.830
+Y lo que me interesa la integral de línea, la línea cerrada
+
+00:14:22.830 --> 00:14:27.570
+es integral, alrededor de ese camino de dr de punto F.
+
+00:14:27.570 --> 00:14:29.810
+Y hemos visto varias veces.
+
+00:14:29.810 --> 00:14:36.700
+Dr es igual a dx además dy veces j.
+
+00:14:36.700 --> 00:14:40.740
+Para que esta línea integral puede reescribirse como, esto es igual
+
+00:14:40.740 --> 00:14:44.390
+la línea integral alrededor de la c de ruta.
+
+00:14:44.390 --> 00:14:48.990
+F punto dr, que va a ser este término veces dx, así que
+
+00:14:48.990 --> 00:15:00.090
+p de xy veces dx más este término, Q de xy veces dy.
+
+00:15:00.090 --> 00:15:04.250
+Y todo este asunto, básicamente esto es lo mismo
+
+00:15:04.250 --> 00:15:11.470
+lo que la integral de línea de p de xy dx, además de la línea
+
+00:15:11.470 --> 00:15:16.660
+integral de q de xy dy.
+
+00:15:16.660 --> 00:15:17.750
+Ahora, ¿cuáles son estas cosas?
+
+00:15:17.750 --> 00:15:20.180
+Esto es lo que averiguamos en el primer video, esto es lo que
+
+00:15:20.180 --> 00:15:22.160
+averiguamos justo ahora en este video.
+
+00:15:22.160 --> 00:15:25.190
+Esto aquí es exactamente lo mismo
+
+00:15:25.190 --> 00:15:26.510
+como que allí.
+
+00:15:26.510 --> 00:15:35.270
+Así que esto va a ser igual a la integral doble sobre esto
+
+00:15:35.270 --> 00:15:41.310
+región justo aquí, de al menos parcial de p con respecto a y.
+
+00:15:45.710 --> 00:15:48.550
+En lugar de un dx dy, podríamos decir poco más del
+
+00:15:48.550 --> 00:15:50.750
+diferencial de área.
+
+00:15:50.750 --> 00:15:53.870
+Y entonces más este uno, este resultado.
+
+00:15:53.870 --> 00:15:54.120
+Q.
+
+00:15:54.120 --> 00:15:56.930
+Esto aquí es exactamente lo que nos demostró sólo
+
+00:15:56.930 --> 00:15:59.480
+es exactamente lo que mostramos en este video solo.
+
+00:15:59.480 --> 00:16:02.380
+Por lo que es más, lo dejo ahí arriba, tal vez podrá hacerlo
+
+00:16:02.380 --> 00:16:06.760
+el amarillo, además de la integral doble sobre la misma región
+
+00:16:06.760 --> 00:16:11.220
+de los parciales de q con respecto a x.
+
+00:16:11.220 --> 00:16:15.090
+da, donde es justo dx dy, o dx dy, puede
+
+00:16:15.090 --> 00:16:15.950
+cambiar el orden, es
+
+00:16:15.950 --> 00:16:18.010
+el diferencial de área.
+
+00:16:18.010 --> 00:16:20.130
+Y ahora, podemos añadir estas dos integrales.
+
+00:16:20.130 --> 00:16:21.070
+¿Qué obtenemos?
+
+00:16:21.070 --> 00:16:23.220
+Así que esto es igual a, y esto es una especie de nuestro
+
+00:16:23.220 --> 00:16:25.680
+gran, gran conclusión.
+
+00:16:25.680 --> 00:16:28.130
+Quizás magenta se llama aquí.
+
+00:16:28.130 --> 00:16:31.720
+La integral doble sobre la región de, voy a escribir este
+
+00:16:31.720 --> 00:16:34.230
+en primer lugar porque es positivo, que es negativo, de la
+
+00:16:34.230 --> 00:16:42.390
+parcial de q con respecto a x, menos el parcial de p con
+
+00:16:42.390 --> 00:16:48.360
+respecto a y d, el diferencial de área.
+
+00:16:48.360 --> 00:16:50.960
+Este es nuestro gran punto.
+
+00:16:50.960 --> 00:16:52.670
+Este es nuestro gran punto.
+
+00:16:52.670 --> 00:16:54.700
+Me permito escribir aquí.
+
+00:16:54.700 --> 00:16:59.620
+La integral de línea del bucle cerrado de dr de punto f es igual a
+
+00:16:59.620 --> 00:17:02.420
+la doble integral de esta expresión.
+
+00:17:02.420 --> 00:17:03.720
+Y es algo, recuerda.
+
+00:17:03.720 --> 00:17:07.545
+Nos estamos tomando la función que fue asociada con la
+
+00:17:07.545 --> 00:17:09.540
+componente x, o el componente i, nos estamos tomando la
+
+00:17:09.540 --> 00:17:11.880
+parcial con respecto a y.
+
+00:17:11.880 --> 00:17:13.610
+Y la función que fue asociada con la
+
+00:17:13.610 --> 00:17:16.530
+componente y, estamos tomando el parcial con respecto a x.
+
+00:17:16.530 --> 00:17:18.580
+Y la primera de ellas, estamos tomando el negativo de.
+
+00:17:18.580 --> 00:17:19.910
+Es una buena forma de recordarlo.
+
+00:17:19.910 --> 00:17:23.140
+Pero este resultado a la derecha aquí, esto es, tal vez debería
+
+00:17:23.140 --> 00:17:30.730
+escribir en verde, que esto es el teorema de Green.
+
+00:17:33.850 --> 00:17:38.080
+Y es una manera ordenada para relacionar una integral de línea de un campo vectorial
+
+00:17:38.080 --> 00:17:40.770
+tiene estas derivadas parciales, suponiendo que tiene
+
+00:17:40.770 --> 00:17:44.460
+Estas derivadas parciales, a la región, a un doble
+
+00:17:44.460 --> 00:17:45.330
+integral de la región.
+
+00:17:45.330 --> 00:17:48.680
+Ahora, y esto es un poco más de una nota al margen, hemos visto en
+
+00:17:48.680 --> 00:17:56.980
+varios videos antes, hemos aprendido si f es
+
+00:17:56.980 --> 00:18:02.780
+conservador, que significa que es el gradiente de alguna función,
+
+00:18:02.780 --> 00:18:06.280
+que es independiente de la ruta, que la integral cerrada alrededor de
+
+00:18:06.280 --> 00:18:09.550
+la ruta es igual a 0.
+
+00:18:09.550 --> 00:18:10.980
+Y eso es cierto.
+
+00:18:10.980 --> 00:18:14.720
+Por lo que nos dice que si f es conservador, esta cosa correcta
+
+00:18:14.720 --> 00:18:17.560
+aquí debe ser igual a 0.
+
+00:18:17.560 --> 00:18:20.070
+Es la única manera que siempre vas a exigir
+
+00:18:20.070 --> 00:18:23.350
+esta integral toda va a ser igual, va a ser igual
+
+00:18:23.350 --> 00:18:25.970
+a 0 sobre cualquier, cualquier, cualquier región.
+
+00:18:25.970 --> 00:18:27.270
+Estoy seguro de que usted podría pensar en situaciones donde se
+
+00:18:27.270 --> 00:18:29.880
+se cancelan entre sí fuera, pero realmente en cualquier región.
+
+00:18:29.880 --> 00:18:31.700
+Es la única manera de que esto va a ser cierto.
+
+00:18:31.700 --> 00:18:33.880
+Que estas dos cosas van a ser igual a 0.
+
+00:18:33.880 --> 00:18:38.220
+Así se podría decir, parcial de q con respecto a x, menos
+
+00:18:38.220 --> 00:18:42.370
+el parcial de p con respecto a y, tiene que ser igual a 0, o
+
+00:18:42.370 --> 00:18:44.970
+estas dos cosas tienen iguales entre sí.
+
+00:18:44.970 --> 00:18:45.300
+O.
+
+00:18:45.300 --> 00:18:47.370
+Se trata de un tipo de corolario teorema de Green.
+
+00:18:47.370 --> 00:18:49.900
+Tipo de fruto colgando bajo que usted podría haber averiguado.
+
+00:18:49.900 --> 00:18:53.010
+El parcial de q con respecto a x es igual al parcial
+
+00:18:53.010 --> 00:18:56.920
+de p con respecto a y.
+
+00:18:56.920 --> 00:18:59.070
+Y cuando usted estudia ecuaciones diferenciales exactas
+
+00:18:59.070 --> 00:19:01.460
+ecuaciones, verá esto mucho más.
+
+00:19:01.460 --> 00:19:04.140
+Y efectivamente, bueno, no voy a demasiado, pero conservador
+
+00:19:04.140 --> 00:19:07.330
+campos, en realidad, eres la forma diferencial de lo que
+
+00:19:07.330 --> 00:19:10.500
+Consulte en las integrales de línea, si es conservador, sería
+
+00:19:10.500 --> 00:19:11.450
+ser una ecuación exacta.
+
+00:19:11.450 --> 00:19:12.610
+Pero no vamos a entrar en demasiado.
+
+00:19:12.610 --> 00:19:15.330
+Pero Ojalá pudiera ver los paralelismos si ya ha ejecutado
+
+00:19:15.330 --> 00:19:17.790
+en las ecuaciones exactas en ecuaciones diferenciales.
+
+00:19:17.790 --> 00:19:20.980
+Pero este es el gran punto y tal vez hagamos algunos
+
+00:19:20.980 --> 00:19:25.780
+ejemplos de uso de este punto en el siguiente video.

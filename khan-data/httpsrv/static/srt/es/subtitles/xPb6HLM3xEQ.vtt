@@ -1,0 +1,564 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.920 --> 00:00:04.560
+Continuemos haciendo el primer problema del 2008
+
+00:00:04.560 --> 00:00:06.030
+Examen de Calculo BC
+
+00:00:06.030 --> 00:00:07.400
+Estamos en la parte B
+
+00:00:11.790 --> 00:00:13.640
+Creo que eso esta muy grueso
+
+00:00:13.640 --> 00:00:18.970
+Ok, dice la linea y es igual a menos 2 y divide
+
+00:00:18.970 --> 00:00:22.460
+la región r -esta es r- en dos partes
+
+00:00:22.460 --> 00:00:26.340
+Escribe, mas no evalúes, una expresión integral de
+
+00:00:26.340 --> 00:00:30.780
+el área de la parte de r que se encuentra por debajo de las lineas horizontales
+
+00:00:30.780 --> 00:00:32.980
+Dibujemos y igual a menos 2
+
+00:00:32.980 --> 00:00:37.500
+Entonces y igual a menos dos se ve así
+
+00:00:37.500 --> 00:00:39.460
+Y es solo una constante
+
+00:00:39.460 --> 00:00:40.350
+Creo que no quedo suficientemente gruesa
+
+00:00:40.350 --> 00:00:41.300
+No se si puedan verla
+
+00:00:41.300 --> 00:00:46.190
+Permitanme hacerla mas gruesa y con un color mas oscuro
+
+00:00:46.190 --> 00:00:51.300
+y igual a menos 2 se ve así
+
+00:00:51.300 --> 00:00:53.740
+Y lo que nos dicen es que si y divide la región r en
+
+00:00:53.740 --> 00:00:56.550
+dos partes, esta parte y esta otra
+
+00:00:56.550 --> 00:01:00.260
+Y lo que quieren saber es la expresión de la integral de
+
+00:01:00.260 --> 00:01:04.250
+el área de la parte de r que se encuentra por debajo de la linea horizontal
+
+00:01:04.250 --> 00:01:09.670
+Asi que la parte que les importa es esta parte de r
+
+00:01:09.670 --> 00:01:12.570
+Y recuerden, solo quieren que escribamos la expresión
+
+00:01:12.570 --> 00:01:13.600
+no evaluarla
+
+00:01:13.600 --> 00:01:15.470
+Eso nos ayudará a ahorrar tiempo
+
+00:01:15.470 --> 00:01:17.880
+¿Que figuura es esta entonces?
+
+00:01:17.880 --> 00:01:20.480
+Bueno la parte sencilla de hecho es averiguar de que
+
+00:01:20.480 --> 00:01:22.600
+expresión tomaremos la integral definida
+
+00:01:22.600 --> 00:01:25.250
+y será un poco mas complejo determinar
+
+00:01:25.250 --> 00:01:26.570
+los puntos extremos
+
+00:01:26.570 --> 00:01:30.510
+Bien, ¿cual es la expresión dentro de la integral definida
+
+00:01:30.510 --> 00:01:31.510
+que vamos a usar?
+
+00:01:31.510 --> 00:01:34.290
+Bien, tal como hicimos en la parte A, pensemoslo como que haremos
+
+00:01:34.290 --> 00:01:37.600
+la suma de varios rectángulos
+
+00:01:37.600 --> 00:01:39.530
+y la altura de los rectángulos será
+
+00:01:39.530 --> 00:01:41.795
+la diferencia entre las dos funciones
+
+00:01:44.410 --> 00:01:47.330
+y esta es y igual a menos 2, y entonces esta
+
+00:01:47.330 --> 00:01:50.680
+Funcion de aqui es y igual a -- y teníamos escrito
+
+00:01:50.680 --> 00:01:54.680
+en la parte 3, pero eso es x cubica menos 4x
+
+00:01:54.680 --> 00:01:57.310
+es esta curva de aqui
+
+00:01:57.310 --> 00:02:00.780
+Asi que la altura de cada uno de esos rectángulos será
+
+00:02:00.780 --> 00:02:10.480
+Menos 2 menos x cubica menos 4x
+
+00:02:10.480 --> 00:02:12.150
+Esa es la altura de cada uno de los rectángulos
+
+00:02:12.150 --> 00:02:15.630
+y para el ancho de cada uno de los rectángulos sabemos de
+
+00:02:15.630 --> 00:02:18.760
+bueno de aprender cálculo o integrales
+
+00:02:18.760 --> 00:02:19.420
+que el ancho es dx
+
+00:02:19.420 --> 00:02:21.600
+Entonces multiplicamos eso por dx
+
+00:02:21.600 --> 00:02:24.300
+y luego tomaremos todas las sumas de x igual a
+
+00:02:24.300 --> 00:02:27.460
+cualquiera que sea este punto a cualquiera que sea este otro
+
+00:02:27.460 --> 00:02:31.550
+Asi que debemos averiguar que punto es este, este valor de f, que
+
+00:02:31.550 --> 00:02:34.600
+estaraque estará aquí, y luego este valor de x, que
+
+00:02:34.600 --> 00:02:36.350
+estará acá
+
+00:02:36.350 --> 00:02:41.210
+Y entonces estos son solo dos de los puntos donde
+
+00:02:41.210 --> 00:02:43.390
+Estas dos funciones se intersectan
+
+00:02:43.390 --> 00:02:44.860
+Asi que, ¿Cómo encontramos esos puntos?
+
+00:02:44.860 --> 00:02:49.790
+Bueno lo que podemos hacer es igualar las funciones
+
+00:02:49.790 --> 00:02:54.640
+Asi que podemos decir a qué valores de x sucede que x cubica
+
+00:02:54.640 --> 00:03:00.260
+menos menos 4x es igual a menos 2
+
+00:03:00.260 --> 00:03:03.880
+¿A que valores de x los valores de y son iguales?
+
+00:03:03.880 --> 00:03:07.120
+Asi que las igualamos
+
+00:03:07.120 --> 00:03:11.220
+Si quisiéramos escribir el polinomio de forma apropiada,
+
+00:03:11.220 --> 00:03:18.650
+tendríamos x cubica menos 4x mas 2 es igual a cero
+
+00:03:18.650 --> 00:03:22.940
+Y de hecho, acabo de intentar grabar un video donde yo estaba
+
+00:03:22.940 --> 00:03:25.120
+haciendo esto al aventón, y siempre empezaba aqui y tenia
+
+00:03:25.120 --> 00:03:28.080
+Como, vaya, este es un factor difícil de un polinomio
+
+00:03:28.080 --> 00:03:31.220
+Continue tratando de adivinar números, o encontarlos, incluso trate
+
+00:03:31.220 --> 00:03:33.670
+utilizando el método de Newton y seguía obteniendo números raros
+
+00:03:33.670 --> 00:03:35.830
+Hasta que sospeche de mi mismo
+
+00:03:35.830 --> 00:03:38.410
+y luego vi el ejercicio concreto y de hecho
+
+00:03:38.410 --> 00:03:39.350
+Puedo mostrarselos
+
+00:03:42.840 --> 00:03:46.940
+Dice ahí, una calculadora gráfica se requiere para algunos
+
+00:03:46.940 --> 00:03:49.390
+problemas o partes de problemas
+
+00:03:49.390 --> 00:03:51.830
+Y entonces descubrí que quizá querían que usáramos una
+
+00:03:51.830 --> 00:03:53.920
+Calculadora para encontrar las raíces
+
+00:03:53.920 --> 00:03:55.290
+de este polinomio
+
+00:03:55.290 --> 00:03:56.550
+Asi que hagamos eso
+
+00:03:56.550 --> 00:04:00.150
+Hace mucho que tome calculo, y
+
+00:04:00.150 --> 00:04:05.250
+ahoraya hora recuerdo que las calculadoras gráficas eran una maravilla
+
+00:04:05.250 --> 00:04:08.425
+he bajado este emulador de una TI-85
+
+00:04:08.425 --> 00:04:11.940
+Así que usemos esto para averiguar las raíces de este polinomio
+
+00:04:11.940 --> 00:04:13.130
+Prendamosla
+
+00:04:16.230 --> 00:04:18.040
+Si queremos encontrar las raíces utilizamos la función "poly"
+
+00:04:18.040 --> 00:04:21.900
+Así que otra vez "poly"
+
+00:04:21.900 --> 00:04:23.540
+¿De que orden es este polinomio?
+
+00:04:23.540 --> 00:04:25.550
+¿Cual es el polinomio de tercer grado?
+
+00:04:25.550 --> 00:04:26.670
+F de x al cubo
+
+00:04:26.670 --> 00:04:30.110
+Asi que el orden es 3, Enter
+
+00:04:30.110 --> 00:04:31.980
+¿Y cuáles son los coeficientes?
+
+00:04:31.980 --> 00:04:36.302
+Bueno el coeficiente con x cubica es 1
+
+00:04:36.302 --> 00:04:37.880
+Mas abajo
+
+00:04:37.880 --> 00:04:40.960
+¿Cual es el coeficiente de x cuadrada?
+
+00:04:40.960 --> 00:04:43.490
+Pues no hay termino con x cuadrada, verdad?
+
+00:04:43.490 --> 00:04:45.910
+Entonces el coeficiente es cero
+
+00:04:45.910 --> 00:04:47.260
+Mas abajo
+
+00:04:47.260 --> 00:04:49.610
+¿Cual es el coefficiente del termino x?
+
+00:04:49.610 --> 00:04:52.690
+Es menos 4
+
+00:04:52.690 --> 00:04:55.420
+Así que menos 4
+
+00:04:55.420 --> 00:04:56.980
+Abajo otra vez
+
+00:04:56.980 --> 00:04:59.720
+Y el coeficiente del termino constante
+
+00:04:59.720 --> 00:05:02.390
+Bueno ese es 2
+
+00:05:02.390 --> 00:05:04.403
+Y ahora podemos apretar resolver
+
+00:05:08.440 --> 00:05:11.820
+Y obtenemos tres números muy extraños, lo cual les muestra que
+
+00:05:11.820 --> 00:05:16.440
+Hubiera sido muy difícil para ustedes resolverlo analíticamente
+
+00:05:16.440 --> 00:05:17.490
+Si tienen un cerebro normal
+
+00:05:17.490 --> 00:05:19.260
+Asi que veamos
+
+00:05:19.260 --> 00:05:25.220
+Haydos lugares donde y igual a menos 2 intersecta y
+
+00:05:25.220 --> 00:05:27.645
+Igual a x cubica menos 4x
+
+00:05:27.645 --> 00:05:31.090
+Intersecta en menos 2.21
+
+00:05:31.090 --> 00:05:33.650
+Bueno eso esta fuera de esta gráfica, ni siquiera aparece aqui
+
+00:05:33.650 --> 00:05:35.290
+Esta en algún lado a la izquierda
+
+00:05:35.290 --> 00:05:37.520
+Esta curva probablemente vuelve a bajar y cruza
+
+00:05:37.520 --> 00:05:39.040
+en menos 2
+
+00:05:39.040 --> 00:05:45.680
+Pero también cruza en 1.675 que esta probablemente aqui
+
+00:05:45.680 --> 00:05:47.980
+Si, eso parece un 1.675
+
+00:05:47.980 --> 00:05:51.660
+También intersecta en 0.539, que esta acá
+
+00:05:51.660 --> 00:05:57.100
+Así que podemos usar esos valores que nos dio nuestra calculadora gráfica
+
+00:05:57.100 --> 00:05:59.740
+Y los ponemos en nuestra integral definida
+
+00:05:59.740 --> 00:06:06.350
+Asi que este punto de aqui, nuestra calculadora de polinomios nos dijo
+
+00:06:06.350 --> 00:06:10.526
+que es x igual a 0.539
+
+00:06:10.526 --> 00:06:16.560
+Asi que ponemos aqui 0.539
+
+00:06:16.560 --> 00:06:19.360
+Y luego, este punto aqui, así que estos son los puntos limite
+
+00:06:19.360 --> 00:06:21.152
+De nuestra integral definida, cierto?
+
+00:06:21.152 --> 00:06:25.193
+Vamos a sumar estos rectángulos pequeños de x igual
+
+00:06:25.193 --> 00:06:35.170
+A 0.539 a x igual a 1.675
+
+00:06:35.170 --> 00:06:37.585
+Y nos dijeron que no quieren que lo evaluemos
+
+00:06:37.585 --> 00:06:39.140
+Asi que ya terminamos la parte B
+
+00:06:39.140 --> 00:06:41.500
+Podemos solo escribir esto y esperamos obtener
+
+00:06:41.500 --> 00:06:43.410
+El punto completo
+
+00:06:43.410 --> 00:06:45.250
+Quizas quisieran que simplificáramos un poco
+
+00:06:45.250 --> 00:06:48.040
+Pero me sorprendería que nos quitaran puntos por eso
+
+00:06:48.040 --> 00:06:52.240
+De cualquier forma, hagamos la parte c
+
+00:06:52.240 --> 00:06:54.510
+Si tenemos tiempo
+
+00:06:54.510 --> 00:06:56.350
+Parte c
+
+00:06:56.350 --> 00:06:59.490
+Entonces hemo dicho que la región r es la base de un solido.
+
+00:06:59.490 --> 00:07:02.570
+para este sólido cada intersección perpendicular
+
+00:07:02.570 --> 00:07:04.650
+para el eje x es un cuadrado.
+
+00:07:04.650 --> 00:07:05.780
+Calcular el volumen del sólido.
+
+00:07:05.780 --> 00:07:08.310
+OK, yo sé que esto es interesante.
+
+00:07:08.310 --> 00:07:09.700
+Déjame ver si puedo dibujar.
+
+00:07:09.700 --> 00:07:11.610
+Así que las curvas, me voy a dibujar con una especie de
+
+00:07:11.610 --> 00:07:14.650
+punto de vista para que pueda ver que están hablando del sólido.
+
+00:07:14.650 --> 00:07:16.620
+Se que es la misma region r.
+
+00:07:16.620 --> 00:07:19.320
+Así que tuvimos una función de seno en la parte superior.
+
+00:07:19.320 --> 00:07:20.720
+Parece algo así.
+
+00:07:20.720 --> 00:07:24.150
+Entonces, tenemos la función polinómica abajo que
+
+00:07:24.150 --> 00:07:26.310
+parece algo así.
+
+00:07:26.310 --> 00:07:29.260
+Estoy tratando de dibujarlo en un angulo.
+
+00:07:29.260 --> 00:07:31.270
+Entonces, para mostrarte el eje x.
+
+00:07:34.760 --> 00:07:36.220
+Este va a ser el eje x.
+
+00:07:44.460 --> 00:07:47.660
+Permiteme dibujar el eje y.
+
+00:07:47.660 --> 00:07:51.110
+Como lo dibuje, ahora parece algo así.
+
+00:07:51.110 --> 00:07:53.710
+Estoy tratando de hacer un poco de prospectivo para que podemos
+
+00:07:53.710 --> 00:07:55.910
+visualizar lo que están diciendo.
+
+00:07:58.650 --> 00:08:00.300
+Entonces, este es el eje y.
+
+00:08:00.300 --> 00:08:02.310
+Entonces, este es x y.
+
+00:08:02.310 --> 00:08:04.720
+Y lo que están diciendo (esta es la región "R" de nuevo)
+
+00:08:04.720 --> 00:08:08.330
+como en la ultima dos partes de la problema.
+
+00:08:08.330 --> 00:08:10.330
+Dicen que la región "R" es la base de un solido.
+
+00:08:10.330 --> 00:08:11.890
+Entonces, este es la base de un solido.
+
+00:08:11.890 --> 00:08:14.630
+Por este solido, cada sección transversal que este perpendicular
+
+00:08:14.630 --> 00:08:15.490
+al eje x.
+
+00:08:15.490 --> 00:08:18.470
+Entonces, una sección transversal al eje x.
+
+00:08:18.470 --> 00:08:20.210
+Vamos a ver si podemos dibujarlo.
+
+00:08:20.210 --> 00:08:22.310
+Entonces, este sería una sección transversal.
+
+00:08:22.310 --> 00:08:25.100
+Entonces, es como que tomemos un cuchillo y lo cortemos así, cortemos
+
+00:08:25.100 --> 00:08:26.140
+paralelo al eje y.
+
+00:08:30.270 --> 00:08:34.410
+Digamos que tomemos esta sección trasversal de este solido ahora mismo.
+
+00:08:34.410 --> 00:08:36.160
+Dicen que es un cuadro.
+
+00:08:36.160 --> 00:08:39.350
+Entonces, este significa que el base tiene que ser la misma altura, tiene
+
+00:08:39.350 --> 00:08:42.290
+que ser el mismo tamaño que la altura.
+
+00:08:42.290 --> 00:08:44.460
+Entonces, al tomar la sección trasversal del solido aquí,
+
+00:08:44.460 --> 00:08:46.100
+sería así.
+
+00:08:46.100 --> 00:08:49.720
+Aquí, sería un cuadro mas chiquito así.
+
+00:08:49.720 --> 00:08:51.810
+Al tomar la sección trasversal ahí, sería un
+
+00:08:51.810 --> 00:08:53.080
+cuadro chiquito también.
+
+00:08:59.140 --> 00:09:00.645
+Entonces, lo que quieren que hagamos es resolver el
+
+00:09:00.645 --> 00:09:01.170
+volumen del solido.
+
+00:09:01.170 --> 00:09:02.500
+Puede imaginar mas o menos como parece.
+
+00:09:02.500 --> 00:09:04.920
+Son cuadros chiquitos y los cuadros se hacen muy grande y
+
+00:09:04.920 --> 00:09:05.840
+entonces se vuelven chiquito de vuelta.
+
+00:09:05.840 --> 00:09:07.470
+Entonces, cómo hacemos eso?
+
+00:09:07.470 --> 00:09:09.110
+Pues, hacemos la misma cosa.
+
+00:09:09.110 --> 00:09:13.920
+Tomamos el área de cada uno de estos cuadros-- sabemos que son
+
+00:09:13.920 --> 00:09:20.920
+cuadros-- multiplicado por cada uno de los dxs-- el diferencial chiquito--
+
+00:09:20.920 --> 00:09:26.200
+y lo sumamos todos de 0 a 2.
+
+00:09:26.200 --> 00:09:28.440
+En la primera diagrama, creo que era 2.
+
+00:09:28.440 --> 00:09:29.860
+Oh, y estoy a punto de estar fuera de tiempo.
+
+00:09:29.860 --> 00:09:32.150
+Entonces, voy a continuar esta problema en el próximo video.
+
+00:09:32.150 --> 00:09:32.480
+Nos vemos pronto.

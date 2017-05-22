@@ -1,0 +1,522 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.550 --> 00:00:03.790
+Estaba revisando los foros de discusión en la página
+
+00:00:03.790 --> 00:00:08.150
+de Facebook de Khan Academy, cuando Bud Denny colocó este problema
+
+00:00:08.150 --> 00:00:09.335
+pidiendo que fuera resuelto.
+
+00:00:09.335 --> 00:00:12.010
+Y al parecer es un problema de interés general.
+
+00:00:12.010 --> 00:00:18.510
+Es la integral indefinida de 2 elevado al logaritmo natural de x
+
+00:00:18.510 --> 00:00:23.200
+entre, todo entre x, dx.
+
+00:00:23.200 --> 00:00:27.210
+Además en el panel de mensajes, Abhi Khanna colocó una solución,
+
+00:00:27.210 --> 00:00:29.110
+y una que es correcta, pero como creo que esto es de
+
+00:00:29.110 --> 00:00:32.080
+interés general, haré un rápido video al respecto.
+
+00:00:32.080 --> 00:00:34.420
+Entonces lo primero que hay que hacer cuando veamos una integral de este tipo, es que
+
+00:00:34.420 --> 00:00:36.635
+diga: "muy bien, tengo este logaritmo natural de x en el
+
+00:00:36.635 --> 00:00:40.150
+numerador, ¿por dónde debo empezar?"
+
+00:00:40.150 --> 00:00:43.150
+Lo primero que debería venir a la mente, es que
+
+00:00:43.150 --> 00:00:49.370
+esto es equivalente a la integral de uno entre x por 2
+
+00:00:49.370 --> 00:00:53.870
+elevado al logaritmo de x, dx
+
+00:00:53.870 --> 00:00:57.580
+Entonces tenemos esta expresión, si bien es parte de
+
+00:00:57.580 --> 00:01:00.640
+nuestra función original, y conocemos su derivada, ¿correcto?
+
+00:01:00.640 --> 00:01:03.570
+Sabemos que la derivada, la voy a escribir aqui,
+
+00:01:03.570 --> 00:01:06.260
+sabemos que la derivada con respecto a x del logaritmo
+
+00:01:06.260 --> 00:01:09.870
+natural de x es igual a 1/x.
+
+00:01:09.870 --> 00:01:13.870
+Así que tenemos una expresión, y tenemos su derivada, la cual
+
+00:01:13.870 --> 00:01:15.980
+nos indica que podemos usarla como sustituto.
+
+00:01:15.980 --> 00:01:18.250
+A veces lo podemos hacer en nuestra mente, pero este problema,
+
+00:01:18.250 --> 00:01:19.690
+aun no es algo trivial que resolvamos en nuestra mente.
+
+00:01:19.690 --> 00:01:21.130
+Así que hagamos la sustitución.
+
+00:01:21.130 --> 00:01:24.570
+Sustituyamos esta parte de aquí con una "u".
+
+00:01:24.570 --> 00:01:26.710
+Así que hagamos eso.
+
+00:01:26.710 --> 00:01:29.890
+Así que definimos u, y no tiene que ser forzosamente u,
+
+00:01:29.890 --> 00:01:32.670
+sólo es una convensión, es llamado "u sustitución"
+
+00:01:32.670 --> 00:01:35.120
+pudo haber sido "s sustitución" si así lo quisieramos.
+
+00:01:35.120 --> 00:01:39.760
+Digamos entonces que u es igual al logaritmo natural de x,
+
+00:01:39.760 --> 00:01:43.400
+y que du dx, la derivada de u con respecto a x, que por supuesto
+
+00:01:43.400 --> 00:01:45.220
+es igual a 1/x.
+
+00:01:45.220 --> 00:01:49.480
+O, sólo el diferencial du, si tan sólo multiplicamos ambos lados
+
+00:01:49.480 --> 00:01:53.600
+con dx sería igual a 1 sobre x dx.
+
+00:01:53.600 --> 00:01:55.080
+Así que prosigamos con la sustitución.
+
+00:01:55.080 --> 00:01:55.990
+Esta es nuestra integral.
+
+00:01:55.990 --> 00:02:00.160
+Así que esto sería equivalente a la integral indefinida, o la
+
+00:02:00.160 --> 00:02:05.480
+"antiderivada", de 2 elevado a la u, así que 2 elevado a u,
+
+00:02:05.480 --> 00:02:08.450
+por 1/x dx.
+
+00:02:08.450 --> 00:02:10.620
+¿Y qué es 1/x dx?
+
+00:02:10.620 --> 00:02:11.440
+Simplemente du.
+
+00:02:11.440 --> 00:02:13.860
+Así que este término por aquel término es nuestra du.
+
+00:02:13.860 --> 00:02:15.540
+Permitanme hacerlo con otro color.
+
+00:02:15.540 --> 00:02:20.380
+1/x por dx es igual a du.
+
+00:02:20.380 --> 00:02:23.530
+Esto es igual a esto que tenemos aquí.
+
+00:02:23.530 --> 00:02:26.630
+Bien, esto todavía no luce como una integral sencilla,
+
+00:02:26.630 --> 00:02:29.230
+sin embargo se ha simplificado lo suficiente.
+
+00:02:29.230 --> 00:02:34.000
+Para resolverla, sabemos , que cuando veamos la variable
+
+00:02:34.000 --> 00:02:36.710
+que estamos integrando en el exponente, sabemos,
+
+00:02:36.710 --> 00:02:38.570
+que no tenemos una regla sencilla para exponentes en este caso.
+
+00:02:38.570 --> 00:02:42.710
+Lo único que nos es familiar, en donde tenemos nuestra x
+
+00:02:42.710 --> 00:02:45.910
+o una variable que estemos integrando con un exponente,
+
+00:02:45.910 --> 00:02:48.430
+es el caso de e elevado a la x.
+
+00:02:48.430 --> 00:02:51.990
+Conocemos también que la integral de e elevado a la x, dx,
+
+00:02:51.990 --> 00:02:55.090
+es igual a e elevado a la x más c.
+
+00:02:55.090 --> 00:02:58.470
+Así que si de algún modo pudieramos transformarle en una variación de
+
+00:02:58.470 --> 00:03:02.370
+e a la x, talvez, o e por la u, talvez pudieramos hacer esta integral
+
+00:03:02.370 --> 00:03:03.980
+un poco más manejable.
+
+00:03:03.980 --> 00:03:04.600
+Así que veamos.
+
+00:03:04.600 --> 00:03:10.890
+¿Como podemos redefinir esto que tenemos aquí?
+
+00:03:10.890 --> 00:03:14.380
+Bueno, 2, 2 es igual a que?
+
+00:03:14.380 --> 00:03:19.970
+2 es lo mismo que e elevado al logaritmo natural de 2, ¿correcto?
+
+00:03:19.970 --> 00:03:22.850
+El logaritmo natural de 2 es la potencia a la que se tiene
+
+00:03:22.850 --> 00:03:26.860
+que elevar e para llegar a 2.
+
+00:03:26.860 --> 00:03:28.620
+Así que si elevamos e a esa potencia, estamos,
+
+00:03:28.620 --> 00:03:29.410
+en camino de obtener 2.
+
+00:03:29.410 --> 00:03:32.030
+Esta es de hecho la definición, del logaritmo natural.
+
+00:03:32.030 --> 00:03:35.490
+Si elevamos e al logaritmo natural de 2, vamos a obtener 2.
+
+00:03:35.490 --> 00:03:38.180
+Así que vamos a reescribir esto, utilizando este... Creo que pudieramos
+
+00:03:38.180 --> 00:03:40.650
+llamar a esto... o ... no es que lo quiera llamar
+
+00:03:40.650 --> 00:03:41.380
+como tal una sustitución.
+
+00:03:41.380 --> 00:03:44.440
+Es sólo una forma diferente de escribir el número 2.
+
+00:03:44.440 --> 00:03:48.940
+Entonces esto será igual a, en vez de escribir el número 2,
+
+00:03:48.940 --> 00:03:53.260
+puedo escribir e elevado al logaritmo natural de 2.
+
+00:03:53.260 --> 00:03:58.090
+Y todo esto elevado a u du.
+
+00:03:58.090 --> 00:04:00.120
+Y entonces ¿a qué es igual esto?
+
+00:04:00.120 --> 00:04:02.690
+Bueno, si elevamos algo a un exponente, y de nuevo
+
+00:04:02.690 --> 00:04:05.420
+a otro exponente, esto es lo mismo como tomar mi base
+
+00:04:05.420 --> 00:04:07.250
+elevado al producto de esos exponentes.
+
+00:04:07.250 --> 00:04:12.810
+ASí que esto es igual, dejenme cambiar de colores, esto es igual
+
+00:04:12.810 --> 00:04:21.620
+a la integral de e, elevado a la u, e a la,
+
+00:04:21.620 --> 00:04:22.640
+dejenme escribir por aquí.
+
+00:04:22.640 --> 00:04:27.660
+e al logaritmo natural de 2 multiplicado por u.
+
+00:04:27.660 --> 00:04:29.770
+Sólo estoy multiplicando estos dos exponentes.
+
+00:04:29.770 --> 00:04:32.190
+Elevo una base a un exponente y luego de nuevo,
+
+00:04:32.190 --> 00:04:34.170
+sabemos por nuestras reglas de exponentes, que es tan sólo
+
+00:04:34.170 --> 00:04:35.500
+el producto de ambos exponentes.
+
+00:04:35.500 --> 00:04:37.250
+du.
+
+00:04:37.250 --> 00:04:39.810
+Ahora, esto es tan sólo un factor constante, aquí.
+
+00:04:39.810 --> 00:04:42.210
+Esto pudiera ser, esto pudiera ser cualquier número.
+
+00:04:42.210 --> 00:04:44.300
+Pudieramos usar una calculadora para determinar que es esto.
+
+00:04:44.300 --> 00:04:45.720
+Podemos igualarlo a a.
+
+00:04:45.720 --> 00:04:48.050
+Pero ya sabemos que en genera esta integral, es bastante
+
+00:04:48.050 --> 00:04:50.710
+directa, una vez que la colocamos en esta forma.
+
+00:04:50.710 --> 00:04:56.290
+La antiderivada de e a la au, du, es tan sólo
+
+00:04:56.290 --> 00:04:59.750
+1 sobre a e a la au.
+
+00:04:59.750 --> 00:05:02.520
+Esto viene definido aquí arriba, y por supuesto más c
+
+00:05:02.520 --> 00:05:03.780
+y utilizamos la regla de al cadena.
+
+00:05:03.780 --> 00:05:05.975
+Si tomamos la derivada de esto, tomamos la derivada
+
+00:05:05.975 --> 00:05:08.210
+de adentro, que tan sólo va a ser a.
+
+00:05:08.210 --> 00:05:10.510
+Multiplicamos eso por 1/a, se cancela
+
+00:05:10.510 --> 00:05:12.920
+y nos queda tan sólo e elevado a au.
+
+00:05:12.920 --> 00:05:14.420
+Así que esto definitivamente funcionará.
+
+00:05:14.420 --> 00:05:18.590
+Así que la antiderivada de esto de aqui va a ser
+
+00:05:18.590 --> 00:05:24.340
+igual a 1 sobre nuestra a, va a ser igual a 1 sobre nuestra constante
+
+00:05:24.340 --> 00:05:29.640
+1 sobre el logaritmo natural de 2 multiplicado por
+
+00:05:29.640 --> 00:05:32.485
+toda la expresión e....e.
+
+00:05:32.485 --> 00:05:35.030
+Y aquí voy a hacer algo.
+
+00:05:35.030 --> 00:05:38.170
+Esto es tan sólo un número por u, así que lo puedo escribir
+
+00:05:38.170 --> 00:05:39.250
+como u veces cualquier número.
+
+00:05:39.250 --> 00:05:42.650
+Y sólo lo estoy expresando así de forma que nos pueda
+
+00:05:42.650 --> 00:05:44.050
+ayudar a simplificarlo un poco más.
+
+00:05:44.050 --> 00:05:47.270
+Así que es e elevado a la u por el logaritmo natural de 2, ¿correcto?
+
+00:05:47.270 --> 00:05:48.780
+Todo lo que hice, es que invertí el orden.
+
+00:05:48.780 --> 00:05:50.640
+Esto pudo ser escrito como e elevado al logaritmo
+
+00:05:50.640 --> 00:05:53.140
+natrual de 2 por u.
+
+00:05:53.140 --> 00:05:56.590
+Si entonces a, a por u es lo mismo que a veces u.
+
+00:05:56.590 --> 00:05:58.530
+Más C.
+
+00:05:58.530 --> 00:06:01.110
+Así que está es nuestra respuesta, pero tenemos que de cierta
+
+00:06:01.110 --> 00:06:04.340
+forma sustituir de vuelta antes de sentirnos satisfechos con
+
+00:06:04.340 --> 00:06:07.300
+haber antiderivado con respecto a x.
+
+00:06:07.300 --> 00:06:09.680
+Pero antes de que haga esto, veamos si podemos simplificarlo
+
+00:06:09.680 --> 00:06:10.880
+aun más.
+
+00:06:10.880 --> 00:06:15.550
+Que sucede, si tengo, a partir de las propiedades del logaritmo natural,
+
+00:06:15.550 --> 00:06:18.450
+o logaritmos, a multiplicado por el logaritmo natural de b.
+
+00:06:18.450 --> 00:06:20.140
+Sabemos que esto es lo mismo al logaritmo natural
+
+00:06:20.140 --> 00:06:21.480
+de b elevado a la a.
+
+00:06:21.480 --> 00:06:22.900
+Dibujaré una linea aquí.
+
+00:06:22.900 --> 00:06:23.220
+¿Correcto?
+
+00:06:23.220 --> 00:06:25.130
+Entonces esto convierte el exponente de lo que sea
+
+00:06:25.130 --> 00:06:26.620
+en logaritmo natural del mismo.
+
+00:06:26.620 --> 00:06:31.950
+Así que u, dejenme lo escribo aquí, u por el logaritmo natural de 2,
+
+00:06:31.950 --> 00:06:35.470
+es lo mismo que el logaritmo natural de 2 por u.
+
+00:06:35.470 --> 00:06:38.440
+Así que podemos reescribir nuestra antiderivada igual
+
+00:06:38.440 --> 00:06:42.020
+a 1 sobre el logaritmo natural de 2, esta parte de aquí,
+
+00:06:42.020 --> 00:06:46.450
+por e elevado, esto puede ser reescrito basado en esta
+
+00:06:46.450 --> 00:06:51.740
+propiedad de los logartimos, como el logaritmo natural de 2 elevado a u,
+
+00:06:51.740 --> 00:06:55.750
+y por supuesto todavía tenemos que sumarle C aquí.
+
+00:06:55.750 --> 00:07:00.500
+Ahora, ¿a qué es igual e elevado al logaritmo natural de 2 elevado a u?
+
+00:07:00.500 --> 00:07:03.260
+El logaritmo natural de 2 elevado a u es la potencia a la que debemos
+
+00:07:03.260 --> 00:07:06.960
+elevar e para obtener 2 elevado a la u, ¿correcto?
+
+00:07:06.960 --> 00:07:08.040
+¡Por definición!
+
+00:07:08.040 --> 00:07:11.540
+Así que si elevamos e a esa potencia, ¿qué es lo que obtendremos?
+
+00:07:11.540 --> 00:07:13.040
+Vamos a obtener 2 elevado a la u.
+
+00:07:13.040 --> 00:07:17.080
+Así que esto va a ser igual a 1 sobre el logaritmo natural de 2.
+
+00:07:17.080 --> 00:07:20.350
+Esto se simplifica tan sólo como 2 elevado a la u.
+
+00:07:20.350 --> 00:07:21.220
+Lo dibujé aquí.
+
+00:07:21.220 --> 00:07:24.970
+El logaritmo natural a, lo puedo escribir en terminos generales,
+
+00:07:24.970 --> 00:07:27.520
+lo pondré por aquí.
+
+00:07:27.520 --> 00:07:30.570
+Pero puedo escribir en general para cualquier número, que a
+
+00:07:30.570 --> 00:07:32.890
+es igual a e elevado al logaritmo natural de a.
+
+00:07:32.890 --> 00:07:36.230
+Este es el exponente al que hay que elevar e para obtener a.
+
+00:07:36.230 --> 00:07:38.880
+Si elevamos e a esa potencia, vamos a obtener a.
+
+00:07:38.880 --> 00:07:42.420
+Así que e elevado al logaritmo natural de 2 elevado a u, es tan sólo 2 a la u.
+
+00:07:42.420 --> 00:07:44.900
+Y entonces tenemos más C, por supuesto.
+
+00:07:44.900 --> 00:07:46.450
+Y ahora podemos sustituir de vuelta.
+
+00:07:46.450 --> 00:07:48.830
+¿A qué igualamos u?
+
+00:07:48.830 --> 00:07:53.060
+Definimos u, aquí arriba, igual al logaritmo natural de x.
+
+00:07:53.060 --> 00:07:55.990
+Así que sustituyamos de vuelta aquí.
+
+00:07:55.990 --> 00:08:00.570
+Así que la respuesta a nuestra ecuación original, su respuesta también
+
+00:08:00.570 --> 00:08:03.260
+la escribiré aquí, por que es más satisfactorio cuando la vemos
+
+00:08:03.260 --> 00:08:08.950
+especialmente con este problema de antiderivadas de
+
+00:08:08.950 --> 00:08:14.730
+apariencia revuelta, 2 elevado al logaritmo natural de x sobre x dx,
+
+00:08:14.730 --> 00:08:17.815
+determinamos que es igual a, reemplazando u con el
+
+00:08:17.815 --> 00:08:21.750
+logaritmo natural de x, por que esa fue nuestra sustitución y 1 sobre
+
+00:08:21.750 --> 00:08:29.410
+el logaritmno natural de 2 por 2 elevado al logaritmo natural de x por C.
+
+00:08:29.410 --> 00:08:30.100
+Y hemos terminado.
+
+00:08:30.100 --> 00:08:31.970
+Esto no está en el denominador, de la forma en que lo
+
+00:08:31.970 --> 00:08:33.410
+escribí puede parecer ambiguo.
+
+00:08:33.410 --> 00:08:34.110
+¡Y hemos terminado!
+
+00:08:34.110 --> 00:08:37.340
+Este fue un problema bastante bueno, así que
+
+00:08:37.340 --> 00:08:39.900
+gracias a Bud por subirlo a los foros.

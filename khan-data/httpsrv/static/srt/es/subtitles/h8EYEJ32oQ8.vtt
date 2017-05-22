@@ -1,0 +1,228 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Iniciaremos nuestro viaje al mundo de la estadística, el cual es un camino
+
+99:59:59.999 --> 99:59:59.999
+para entender, u organizar datos.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la estadística tiene que todo que ver con datos.
+
+99:59:59.999 --> 99:59:59.999
+Mientras iniciamos nuestro viaje en el mundo de la estadística,
+
+99:59:59.999 --> 99:59:59.999
+estaremos haciendo mucho de lo que llamamos "Estadística descriptiva"
+
+99:59:59.999 --> 99:59:59.999
+Si tenemos un montón de información y queremos decir algo acerca de esa información, sin dar toda la información-
+
+99:59:59.999 --> 99:59:59.999
+Podríamos de alguna manera describirla con una pequeña cantidad de números?
+
+99:59:59.999 --> 99:59:59.999
+Entonces es eso en lo que pondremos nuestra atención
+
+99:59:59.999 --> 99:59:59.999
+una vez que armemos nuestro paquete de estadística descriptiva,
+
+99:59:59.999 --> 99:59:59.999
+entonces podremos realizar inferencias acerca de la información, comenzar a sacar conclusiones, comenzar a juzgar, y empezaremos a realizar mucha "Estadística inferencial", realizar inferencias.
+
+99:59:59.999 --> 99:59:59.999
+Sacando eso del camino, pensemos una forma de como podemos describir la información.
+
+99:59:59.999 --> 99:59:59.999
+Digamos que tenemos un conjunto de números, podemos considerarlos como "información".
+
+99:59:59.999 --> 99:59:59.999
+Quizá estamos midiendo la altura de nuestras plantas en nuestro jardín.
+
+99:59:59.999 --> 99:59:59.999
+Digamos que tengo 6 plantas y sus alturas son:
+
+99:59:59.999 --> 99:59:59.999
+4 pulgadas, 3 pulgadas, 1 pulgada, 6 pulgadas, otra es 1 pulgada y otra es 7 pulgadas.
+
+99:59:59.999 --> 99:59:59.999
+Digamos que alguien que no esta mirando tu jardín y se encuentra dentro de otro salón, pregunta:
+
+99:59:59.999 --> 99:59:59.999
+"¿Que tan altas son tus plantas?" Y sólo quiere escuchar un número que de alguna manera represente todas las alturas de tus plantas.
+
+99:59:59.999 --> 99:59:59.999
+¿Cómo lo harías?
+
+99:59:59.999 --> 99:59:59.999
+Bueno, habrás dicho ¿Cómo puedo hacer eso? ¿Quizá quiero un número típico? ¿Quizá quiero el número que de alguna manera represente la mitad?
+
+99:59:59.999 --> 99:59:59.999
+¿Quizá quiero el número más frecuente? ¿Quizá quiero un número que represente el centro de todos esos números?
+
+99:59:59.999 --> 99:59:59.999
+Si dijiste alguna de estas cosas, probablemente habrás hecho la misma cosa
+
+99:59:59.999 --> 99:59:59.999
+que la gente que desarrollo la estadística descriptiva.
+
+99:59:59.999 --> 99:59:59.999
+Dijeron, "¿Bueno... cómo podemos hacerlo?"
+
+99:59:59.999 --> 99:59:59.999
+Empezaremos pensando la idea de promedio. En la terminología de cada día . "En promedio" tiene un significado particular, como lo veremos a continuación. Cuando mucha gente habla acerca del promedio están hablando acerca de la "media aritmética", la cual veremos pronto.
+
+99:59:59.999 --> 99:59:59.999
+Pero en estadística, el promedio significa algo mas general.
+
+99:59:59.999 --> 99:59:59.999
+Realmente significa, dame un número "típico" o un número "central", o..... estas son "o". Es realmente un intento para encontrar una medida de "tendencia central"
+
+99:59:59.999 --> 99:59:59.999
+Entonces una vez más, tienes un montón de flores, estas tratando de alguna manera de representarlas con un número (promedio) que es de alguna manera típico o medio o central de estos números
+
+99:59:59.999 --> 99:59:59.999
+Y como veremos, hay muchos otro tipos de promedios.
+
+99:59:59.999 --> 99:59:59.999
+La primera, con la cual probablemente ya estas mas familiarizado. Es cuando la gente habla del promedio de sus exámenes o la estatura promedio, y eso es la media aritmética.
+
+99:59:59.999 --> 99:59:59.999
+Lo escribiré en amarillo "Media aritmética"
+
+99:59:59.999 --> 99:59:59.999
+Donde aritmética es un sustantivo, la pronunciamos A-rit-me-ti-ca. Cuando es un adjetivo la pronunciaremos A-rit-me-ti-ca.
+
+99:59:59.999 --> 99:59:59.999
+Esto es sólo la suma de todos lo números divididos por....
+
+99:59:59.999 --> 99:59:59.999
+Esta es una definición construida por el hombre que hemos encontrado muy útil.
+
+99:59:59.999 --> 99:59:59.999
+... la suma de todos los números dividido por la cantidad de números que tenemos.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, ¿Cuál es la media aritmética de este conjunto de datos?
+
+99:59:59.999 --> 99:59:59.999
+Bueno, hagámoslo. Sera 4+3+1+6+1+7 sobre el número de datos que tenemos. Entonces, tenemos 6 datos, por lo que dividiremos entre 6.
+
+99:59:59.999 --> 99:59:59.999
+y tenemos: 4+3 = 7+1 = 8+6 = 14+1 = 15+7 = 2. Dejeneme hacer eso otra vez.... Tenemos 7,8,14,15,22. Todo eso entre 6.
+
+99:59:59.999 --> 99:59:59.999
+Y podremos escribir esto como un número mixto. 6 cabe en 22 3 veces y el residuo es 4. Entonces es 3 y 4/6 lo cual es lo mismo que 3 y 2/3. Podremos escribir esto como un decimal: 3.6 que se repite.
+
+99:59:59.999 --> 99:59:59.999
+Podremos escribir de cualquier de estas formas, pero es un tipo de número representativo, esto es tratar de sacar una tendencia central.
+
+99:59:59.999 --> 99:59:59.999
+Una vez mas esto es una contrucion humana. No es que alguien haya encontrado algún
+
+99:59:59.999 --> 99:59:59.999
+documento religioso que diga "Este debe ser el camino para determinar la media aritmética"
+
+99:59:59.999 --> 99:59:59.999
+No es una computación, como determinar la circunferencia del circulo que surge de la exploración de nuestro universo.
+
+99:59:59.999 --> 99:59:59.999
+Es una definición construida por el humano que consideramos útil.
+
+99:59:59.999 --> 99:59:59.999
+Bien,hay otras maneras de determinar el valor típico o medio
+
+99:59:59.999 --> 99:59:59.999
+La otra es, una manera muy típica. La "mediana", me estoy quedando sin colores, escribiré mediana en rosa.
+
+99:59:59.999 --> 99:59:59.999
+Así que la mediana es literalmente buscar por el número de en medio
+
+99:59:59.999 --> 99:59:59.999
+Si tu acomodas los números de forma ascendente y encuentras el valor justo de en medio entonces tendrás la mediana.
+
+99:59:59.999 --> 99:59:59.999
+Con esa información, ¿Cual es la mediana de este conjunto de datos?.
+
+99:59:59.999 --> 99:59:59.999
+Encontremos la mediana, tratemos de ordenarlos
+
+99:59:59.999 --> 99:59:59.999
+Ordenandolos
+
+99:59:59.999 --> 99:59:59.999
+Podemos observar que tenemos un par de números, no hay un número en medio,
+
+99:59:59.999 --> 99:59:59.999
+el 3 y el 4
+
+99:59:59.999 --> 99:59:59.999
+En este caso cuando tienes dos números en medio, tienes que sacar el número de en medio entre estos dos números,
+
+99:59:59.999 --> 99:59:59.999
+apoyándonos de la media aritmética, podemos determinar de estos dos números la mediana
+
+99:59:59.999 --> 99:59:59.999
+La mediana es la mitad de 3 y 4, 3.5 en este caso.
+
+99:59:59.999 --> 99:59:59.999
+Entonces si tienes un número par de números, la mediana el la media aritmética de los dos números en medio de tus datos.
+
+99:59:59.999 --> 99:59:59.999
+Si tienes un número non de datos, entonces es un caso mas sencillo, sólo busca el número de en medio
+
+99:59:59.999 --> 99:59:59.999
+Pondré otro conjunto de datos
+
+99:59:59.999 --> 99:59:59.999
+El conjunto que pondré estará ordenado para nosotros
+
+99:59:59.999 --> 99:59:59.999
+Digamos que nuestro conjunto de datos es 0,7,50,10000,1000000
+
+99:59:59.999 --> 99:59:59.999
+Un conjunto muy alocado, pero en este caso, ¿Cuál es nuestra mediana?
+
+99:59:59.999 --> 99:59:59.999
+tenemos 5 números, un número non de datos. Es fácil encontrar el número de en medio-.
+
+99:59:59.999 --> 99:59:59.999
+El número central es mas grande que dos de nuestros números y menor que dos de nuestros números.
+
+99:59:59.999 --> 99:59:59.999
+Esto es exactamente la mitad. En este caso nuestra mediana 50
+
+99:59:59.999 --> 99:59:59.999
+Ahora la tercera medida de tendencia central, la cual es probablemente la menos utilizada.
+
+99:59:59.999 --> 99:59:59.999
+La "moda", la gente piensa que es algo muy complejo pero veremos que es una idea muy sencilla.
+
+99:59:59.999 --> 99:59:59.999
+La moda es número que mas se repite en nuestro conjunto de datos.
+
+99:59:59.999 --> 99:59:59.999
+¿Cuál será la moda en nuestro conjunto original de datos?. Tenemos solo un 4, un 3 tenemos dos 1 y un 6 y 7.
+
+99:59:59.999 --> 99:59:59.999
+Entonces el número que mas veces aparece es 1, entonces la moda es 1
+
+99:59:59.999 --> 99:59:59.999
+Vemos que estas son las medidas que intentan obtener un valor típico, o tendencia o promedio
+
+99:59:59.999 --> 99:59:59.999
+Mientras estudiemos más y más estadística veremos que sirven para diferentes casos
+
+99:59:59.999 --> 99:59:59.999
+Esta es la más extensamente utilizada
+
+99:59:59.999 --> 99:59:59.999
+, la mediana es importante cuando tienes un montón de números sin sentido que opacarían a la media aritmetica
+
+99:59:59.999 --> 99:59:59.999
+La moda también puede ser útil en tales situaciones, especialmente donde el valor se repite mas de una vez.
+
+99:59:59.999 --> 99:59:59.999
+Lo dejare hasta aquí. En el siguiente video exploraremos la estadística más profunda.

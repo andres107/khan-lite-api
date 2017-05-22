@@ -1,0 +1,967 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.750 --> 00:00:03.270
+Supongamos que tenemos la integral no definida de
+
+00:00:03.270 --> 00:00:06.890
+la raíz cuadrada de 6x menos x al cuadrado menos 5
+
+00:00:06.890 --> 00:00:09.290
+Obviamente, no es una integral sencilla.
+
+00:00:09.290 --> 00:00:11.350
+Simplemente, no tengo esta expresión y
+
+00:00:11.350 --> 00:00:14.540
+su respectiva derivada a mano, de modo que el método de sustitución no funcionará.
+
+00:00:14.540 --> 00:00:17.410
+Entonces, podrás imaginar, por el título de este video que
+
+00:00:17.410 --> 00:00:19.060
+vamos a tener que usar algo mas sofisticado.
+
+00:00:19.060 --> 00:00:21.950
+Y bueno, probablemente tendremos que hacer algún tipo de sustitución mas astuta.
+
+00:00:21.950 --> 00:00:25.360
+Pero casi de inmediato, esto no parece ser algo que podamos arreglar
+
+00:00:25.360 --> 00:00:26.250
+a traves de una sustitución.
+
+00:00:26.250 --> 00:00:30.190
+Me gusta intentar una sustitución cuando vemos una expresión del tipo 1 menos X
+
+00:00:30.190 --> 00:00:33.280
+al cuadrado y dentro de un radical. O talvez un X al cuadrado menos
+
+00:00:33.280 --> 00:00:37.590
+1 dentro de un radical, o quizás un X al cuadrado mas uno.
+
+00:00:37.590 --> 00:00:40.030
+Esas son el tipo de cosas que me ponen a pensar
+
+00:00:40.030 --> 00:00:41.340
+en intentar una sustitución
+
+00:00:41.340 --> 00:00:43.650
+pero esta expresión no se parece a esas todavía.
+
+00:00:43.650 --> 00:00:44.600
+Tenemos el radical
+
+00:00:44.600 --> 00:00:47.455
+tenemos algunas X al cuadrado, pero no se parece a ninguna de las formas que indicamos.
+
+00:00:47.455 --> 00:00:50.810
+Entonces, intentemos transformarla en una de estas formas.
+
+00:00:50.810 --> 00:00:55.000
+Empecemos por borrar estos chicos a la derecha
+
+00:00:55.000 --> 00:01:00.280
+y veamos si talvez asi podemos completar el cuadrado aqui.
+
+00:01:00.280 --> 00:01:00.920
+Veamos.
+
+00:01:00.920 --> 00:01:04.029
+Si esta expresión es igual, y la re-escribimos asi:
+
+00:01:04.029 --> 00:01:06.110
+Y si al completar el cuadrado aún no nos resulta familiar
+
+00:01:06.110 --> 00:01:08.610
+tenemos muchos videos sobre el tema.
+
+00:01:08.610 --> 00:01:15.740
+Re-escribimos esta expresión como igual a menos 5 menos...hmm...necesitamos mas
+
+00:01:15.740 --> 00:01:20.530
+espacio....menos 5 menos x al cuadrado.
+
+00:01:20.530 --> 00:01:22.520
+Ahora tenemos un mas 6x, pero tambien un menos por fuera
+
+00:01:22.520 --> 00:01:24.070
+Entonces, menos 6X, correcto?
+
+00:01:24.070 --> 00:01:26.730
+Y un menos con un menos se convierte en un mas 6x
+
+00:01:26.730 --> 00:01:30.090
+Y entonces, queremos convertir esto en forma de un cuadrado perfecto
+
+00:01:30.090 --> 00:01:34.430
+Entonces, ¿Cuál número sumado con si mismo da como resultado menos 6?
+
+00:01:34.430 --> 00:01:36.550
+Bien, es menos 3 and menos 3 al cuadrado.
+
+00:01:36.550 --> 00:01:38.290
+Entonces, tomas la mitad de este número, obtienes el menos 3
+
+00:01:38.290 --> 00:01:39.760
+y lo elevas al cuadrado.
+
+00:01:39.760 --> 00:01:42.200
+Luego pones un 9 acá
+
+00:01:42.200 --> 00:01:44.220
+Y ahora, puedes simple y arbitrariamente sumar nueves
+
+00:01:44.220 --> 00:01:45.610
+O bueno, en realidad, nunca agregamos un 9 aqui.
+
+00:01:45.610 --> 00:01:46.050
+¿Que fue lo que hicimos?
+
+00:01:46.050 --> 00:01:47.080
+Restamos un 9
+
+00:01:47.080 --> 00:01:50.050
+Porque pusimos un 9, pero es en realidad un menos 9 convertido a 9
+
+00:01:50.050 --> 00:01:52.060
+por este signo de menos de aqui.
+
+00:01:52.060 --> 00:01:55.030
+Entonces, para hacer que la expresión se mantenga neutral al introducir el 9
+
+00:01:55.030 --> 00:01:57.180
+lo que ingresamos aqui es un menos 9.
+
+00:01:57.180 --> 00:01:58.210
+Y tenemos que sumar 9.
+
+00:01:58.210 --> 00:01:59.240
+Agregamos el 9
+
+00:01:59.240 --> 00:02:02.280
+Entonces....mas 9, justo aqui
+
+00:02:02.280 --> 00:02:04.920
+Si lo que acabamos de hacer no parece tener sentido y
+
+00:02:04.920 --> 00:02:08.350
+obviamente tienes el "dx" justo ahi, entonces multiplicalo afuera
+
+00:02:08.350 --> 00:02:11.560
+Obtienes el menos X al cuadrado mas 6x, que son estos 2 términos
+
+00:02:11.560 --> 00:02:14.155
+menos 9, y luego agregas el mas 9 y
+
+00:02:14.155 --> 00:02:16.790
+estos dos se cancelan mutuamente y llegas exactamente
+
+00:02:16.790 --> 00:02:17.750
+a lo que tenias antes.
+
+00:02:17.750 --> 00:02:20.110
+Lo que quiero es que quede claro que no cambiamos para nada la ecuación inicial.
+
+00:02:20.110 --> 00:02:22.000
+Este es un menos 9, por causa de este
+
+00:02:22.000 --> 00:02:24.570
+Entonces, agregamos un 9, para que al final, en resumen, sumamos un cero a la expresión.
+
+00:02:24.570 --> 00:02:28.750
+Pero, lo que sucede ahora, es que la expresión esta en una forma que si me agrada!
+
+00:02:28.750 --> 00:02:32.020
+Obviamente esto por aqui se convierte en un 4, y luego este
+
+00:02:32.020 --> 00:02:34.110
+termino de aca se convierte en que?
+
+00:02:34.110 --> 00:02:38.290
+Exacto, eso es x menos 3 al cuadrado.
+
+00:02:38.290 --> 00:02:39.680
+x menos 3 al cuadrado
+
+00:02:39.680 --> 00:02:43.880
+Entonces, mi integral no definida, ahora se convierte en una integral mas conocida, solamente estoy
+
+00:02:43.880 --> 00:02:48.290
+haciendo un poco de algebra, y tenemos la integral de la raiz cuadrada
+
+00:02:48.290 --> 00:02:57.990
+de 4 menos x menos 3 al cuadrado dx
+
+00:02:57.990 --> 00:03:00.160
+Ahora empieza a parecerse a una expresión mas conocida y amigable, pero
+
+00:03:00.160 --> 00:03:01.510
+me gustaria tener un 1 por aqui.
+
+00:03:01.510 --> 00:03:03.220
+Entonces, factorizamos el 4 fuera
+
+00:03:03.220 --> 00:03:07.410
+entonces esto es igual a....voy a intercambiar colores aqui...es igual a
+
+00:03:07.410 --> 00:03:12.720
+la integral de la raíz, y por aqui tenemos 4 veces 1
+
+00:03:12.720 --> 00:03:18.520
+menos x menos 3 al cuadrado dividido entre 4
+
+00:03:18.520 --> 00:03:21.100
+Simplemente tomé un 4 de cada uno de los 2 términos
+
+00:03:21.100 --> 00:03:23.270
+Si multiplico esto de aca afuera, volvemos a la
+
+00:03:23.270 --> 00:03:26.030
+expresión que tenemos aqui, dx
+
+00:03:26.030 --> 00:03:28.790
+Y ahora, esto se comienza a parecer a una forma que si me agrada.
+
+00:03:28.790 --> 00:03:30.150
+Simplificamos un poco mas
+
+00:03:30.150 --> 00:03:34.630
+Y ahora esto es igual a la integral, si pongo el 4 fuera
+
+00:03:34.630 --> 00:03:39.790
+se convierte en 2 veces la raiz cuadrada de 1 menos, y podemos
+
+00:03:39.790 --> 00:03:45.800
+re-escribirla como x menos 3, escribamosla de esta forma:
+
+00:03:45.800 --> 00:03:51.310
+1 menos x menos 3 sobre 2, al cuadrado, dx.
+
+00:03:51.310 --> 00:03:52.680
+Y de donde sacamos ese 2?
+
+00:03:52.680 --> 00:03:55.010
+Pues simplemente si elevamos al cuadrado ambos, obtenemos x menos 3
+
+00:03:55.010 --> 00:03:56.330
+al cuadrado sobre 2 al cuadrado
+
+00:03:56.330 --> 00:03:58.740
+Lo cual es x menos 3 sobre 4.
+
+00:03:58.740 --> 00:04:01.630
+Entonces, hasta ahora, no hemos hecho uso del cálculo
+
+00:04:01.630 --> 00:04:05.370
+simplemente re-escribimos algebraicamente la integral indefinida que teniamos al inicio
+
+00:04:05.370 --> 00:04:06.420
+en esta integral definida
+
+00:04:06.420 --> 00:04:07.690
+Son equivalentes
+
+00:04:07.690 --> 00:04:10.070
+Pero, de repente, esto parece una forma
+
+00:04:10.070 --> 00:04:11.290
+que reconocemos
+
+00:04:11.290 --> 00:04:14.580
+En el ultimo video mostramos que coseno al cuadrado de theta
+
+00:04:14.580 --> 00:04:17.290
+es igual a 1 menos seno al cuadrado de theta.
+
+00:04:17.290 --> 00:04:18.490
+Podriamos hacerlo de la manera inversa
+
+00:04:18.490 --> 00:04:20.260
+Podriamos hacer que seno cuadrado es igual a 1 menos
+
+00:04:20.260 --> 00:04:20.890
+coseno cuadrado
+
+00:04:20.890 --> 00:04:21.970
+No hay diferencia
+
+00:04:21.970 --> 00:04:23.360
+Pero ambas funcionan
+
+00:04:23.360 --> 00:04:27.120
+Pero esta expresion se parece mucho a esta.
+
+00:04:27.120 --> 00:04:30.200
+De hecho, luciría exactamente igual si decimos que esto
+
+00:04:30.200 --> 00:04:33.670
+es igual al seno cuadrado de theta
+
+00:04:33.670 --> 00:04:35.170
+Entonces, hagamos la sustitución
+
+00:04:35.170 --> 00:04:46.180
+Escribamos que x menos 3 sobre 2 al cuadrado es igual
+
+00:04:46.180 --> 00:04:51.620
+al seno cuadrado de theta
+
+00:04:51.620 --> 00:04:53.840
+Ahora, si tomamos la raiz cuadrada de ambos lados de la ecuación
+
+00:04:53.840 --> 00:05:01.230
+Obtenemos x menos 3 sobre 2 es igual al seno de theta.
+
+00:05:01.230 --> 00:05:03.410
+Ahora, eventualmente...bueno...ya sabes hacia donde va esto.
+
+00:05:03.410 --> 00:05:07.130
+Eventualmente vamos a tener que sustituir de nuevo a theta
+
+00:05:07.130 --> 00:05:09.050
+Entonces, resolvamos para theta en terminos de x
+
+00:05:09.050 --> 00:05:11.980
+Theta en terminos de x, podriamos decir que, solamente vamos a tomar
+
+00:05:11.980 --> 00:05:13.530
+arc-seno en ambos lados de esto
+
+00:05:13.530 --> 00:05:16.900
+y obtenemos que theta es igual a, correcto...the arc-seno de
+
+00:05:16.900 --> 00:05:18.030
+el seno es solamente theta
+
+00:05:18.030 --> 00:05:28.380
+Theta es igual al arc-seno de x menos 3 sobre 2.
+
+00:05:28.380 --> 00:05:29.340
+De acuerdo.
+
+00:05:29.340 --> 00:05:30.910
+Ahora, para hacer la sustitución, tenemos que
+
+00:05:30.910 --> 00:05:32.960
+encontrar quien es dx, asi que tenemos que
+
+00:05:32.960 --> 00:05:35.290
+encontrar x en temrinos de Theta
+
+00:05:35.290 --> 00:05:36.360
+Hagamoslo
+
+00:05:36.360 --> 00:05:40.160
+Tenemos que si multiplicamos ambos lados de la ecuacion por 2
+
+00:05:40.160 --> 00:05:46.340
+obtenemos x menos 3 es igual a 2 veces el seno de theta
+
+00:05:46.340 --> 00:05:51.195
+Osea que x es igual a 2 seno de theta mas 3.
+
+00:05:51.195 --> 00:05:54.010
+Ahora, si derivamos ambos lados con respecto a
+
+00:05:54.010 --> 00:06:00.030
+theta, tenemos que dx d theta es igual a 2 coseno de theta
+
+00:06:00.030 --> 00:06:01.790
+la derivada de esto es 0
+
+00:06:01.790 --> 00:06:05.460
+O podemos multiplicar ambos lados por theta y obtenemos que dx es
+
+00:06:05.460 --> 00:06:09.530
+igual a 2 coseno de theta d theta
+
+00:06:09.530 --> 00:06:12.060
+Y estamos listos para sustituir en nuestra original
+
+00:06:12.060 --> 00:06:13.950
+integral indefinida
+
+00:06:13.950 --> 00:06:19.050
+Entonces, ahora esta expresion puede re-escribirse como la integral de 2
+
+00:06:19.050 --> 00:06:25.680
+veces la raiz, si logramos algo de espacio..., de 1 menos
+
+00:06:25.680 --> 00:06:28.050
+Reemplazamos esto con el seno al cuadrado de theta
+
+00:06:31.660 --> 00:06:32.930
+Y todas las veces dx
+
+00:06:32.930 --> 00:06:36.360
+Bueno, simplemente dije que dx es igual a esto por aqui.
+
+00:06:36.360 --> 00:06:43.020
+Entonces, dx es igual a 2 coceno de theta d theta
+
+00:06:43.020 --> 00:06:45.460
+A que se reduce esto?
+
+00:06:45.460 --> 00:06:50.730
+Esta accion de aca, es simplemente el coseno al cuadrado de theta
+
+00:06:50.730 --> 00:06:51.880
+Y vamos a tomar la raiz cuadrada de
+
+00:06:51.880 --> 00:06:53.390
+coseno cuadrado de theta
+
+00:06:53.390 --> 00:06:56.950
+Entonces, esta raiz cuadrada del coseno cuadrado de todo
+
+00:06:56.950 --> 00:06:59.960
+este término por aca, correcto?
+
+00:06:59.960 --> 00:07:04.010
+Se convierte en la raiz cuadrada del coseno cuadrado de theta, el cual
+
+00:07:04.010 --> 00:07:06.780
+es lo mismo que el coseno de theta
+
+00:07:06.780 --> 00:07:12.900
+Entonces, nuestra integral se convierte en 2 veces
+
+00:07:12.900 --> 00:07:16.120
+la raiz cuadrada del coseno cuadrado de theta, lo que es
+
+00:07:16.120 --> 00:07:22.720
+simplemente 2 veces coseno de theta, multiplicado por 2
+
+00:07:22.720 --> 00:07:24.490
+Eso es uno, justo aqui!
+
+00:07:24.490 --> 00:07:30.180
+Esto es esto, y todo este radical seno, esta
+
+00:07:30.180 --> 00:07:32.040
+esta por aqui.
+
+00:07:32.040 --> 00:07:34.370
+1 menos seno cuadrado era coseno cuadrado, tomamos el radical
+
+00:07:34.370 --> 00:07:35.800
+obtenemos coseno cuadrado
+
+00:07:35.800 --> 00:07:40.060
+Y todo multiplicado por d-theta
+
+00:07:40.060 --> 00:07:46.390
+Ahora esto es obviamente igual a 4 veces el coseno cuadrado
+
+00:07:46.390 --> 00:07:48.890
+de theta de-theta.
+
+00:07:48.890 --> 00:07:52.310
+Lo cual, por si mismo, no es todavia una integral facil de resolver
+
+00:07:52.310 --> 00:07:55.160
+Yo no se...tu sabes?...no podemos aplicar el método de sustitución
+
+00:07:55.160 --> 00:07:56.240
+o algo parecido
+
+00:07:56.240 --> 00:07:57.480
+Entonces: Que hacemos?
+
+00:07:57.480 --> 00:08:02.700
+Bueno, recurrimos a nuestras viejas amigas: las identidades trigonométricas.
+
+00:08:02.700 --> 00:08:05.110
+No sé si las llegaste a memorizar alguna vez, pero la mayoria
+
+00:08:05.110 --> 00:08:08.140
+aparecen en las contraportadas de los libros de cálculo
+
+00:08:08.140 --> 00:08:10.840
+o dentro de la portada de los libros de trigonometría
+
+00:08:10.840 --> 00:08:19.040
+Entonces, coseno cuadrado de theta se puede re-escribir como 1/2 multiplicando a
+
+00:08:19.040 --> 00:08:22.330
+1 mas el cosneo de 2 theta.
+
+00:08:22.330 --> 00:08:24.390
+Y esto ha sido probado en varios videos.
+
+00:08:24.390 --> 00:08:26.330
+Entonces, hacemos esta sustitución
+
+00:08:26.330 --> 00:08:28.890
+Reemplazamos esta cosa por aca con esta otra cosa
+
+00:08:28.890 --> 00:08:35.010
+Y la integral se convierte en 4 veces el coseno
+
+00:08:35.010 --> 00:08:37.920
+cuadrado de theta, pero coseno cuadrado de theta es esto
+
+00:08:37.920 --> 00:08:44.725
+4 veces 1/2 multiplicado por 1 mas coseno de 2 theta d-theta
+
+00:08:48.520 --> 00:08:50.910
+Ahora esto se ve como algo mas facil de trabajar
+
+00:08:50.910 --> 00:08:51.350
+¿Que es esto?
+
+00:08:51.350 --> 00:08:53.810
+4 veces 1/2 eso es 2
+
+00:08:53.810 --> 00:09:00.250
+Entonces, mi integral ahora se convierte en la integral de 2 veces 1, osea
+
+00:09:00.250 --> 00:09:09.200
+2 mas 2 veces 2 coseno de 2 theta, todo d-theta
+
+00:09:09.200 --> 00:09:12.030
+Ahora, esta antiderivada es bastante simple
+
+00:09:12.030 --> 00:09:13.240
+¿Que es esto de aqui?
+
+00:09:13.240 --> 00:09:20.150
+Esta es la derivada con respecto a theta de
+
+00:09:20.150 --> 00:09:23.580
+seno de 2 theta...cierto??
+
+00:09:23.580 --> 00:09:24.250
+Toda esta expresión
+
+00:09:24.250 --> 00:09:25.340
+¿Cual es la derivada de seno de 2-tetha?
+
+00:09:25.340 --> 00:09:27.900
+Tomas la derivada de dentro, eso es 2 veces
+
+00:09:27.900 --> 00:09:30.900
+la derivada de afuera, coseno de 2 theta
+
+00:09:30.900 --> 00:09:34.110
+Y por supuesto, esta es la derivada de 2 theta
+
+00:09:34.110 --> 00:09:36.650
+Entonces, esto es igual a la antiderivada de 2 con
+
+00:09:36.650 --> 00:09:41.420
+respecto a theta, simplemente 2 theta mas la antiderivada
+
+00:09:41.420 --> 00:09:51.740
+de esto, lo cual es simplemente seno de 2 theta y entonces
+
+00:09:51.740 --> 00:09:54.080
+tenemos un mas "C"
+
+00:09:54.080 --> 00:09:57.330
+Y por supuesto, no podemos olvidar que definimos theta como
+
+00:09:57.330 --> 00:09:59.830
+nuestra original antiderivada en terminos de x
+
+00:09:59.830 --> 00:10:01.230
+Entonces, no podemos simplemente dejarlo en terminos de theta
+
+00:10:01.230 --> 00:10:02.840
+tenemos que hacer una sustitución de vuelta
+
+00:10:02.840 --> 00:10:05.020
+Recordemos que theta era igual al
+
+00:10:05.020 --> 00:10:07.080
+arc-seno de x menos 3 sobre 2
+
+00:10:07.080 --> 00:10:08.620
+Lo escribimos por aca
+
+00:10:17.750 --> 00:10:20.230
+Ahora, si inmediatamente sustituimos theta
+
+00:10:20.230 --> 00:10:23.430
+aqui, vamos a tener un seno de 2 veces arc-seno de x
+
+00:10:23.430 --> 00:10:25.710
+menos 3 sobre 2, lo cual es correcto
+
+00:10:25.710 --> 00:10:28.990
+Y tendriamos 2 veces arc-seno de x menos 3 sobre 2
+
+00:10:28.990 --> 00:10:30.880
+Lo que estaria bien y listo
+
+00:10:30.880 --> 00:10:32.060
+Pero eso no es suficiente
+
+00:10:32.060 --> 00:10:33.480
+No es una respuesta completa y limpia
+
+00:10:33.480 --> 00:10:37.090
+Entonces, veamos si podemos simplificar esto
+
+00:10:37.090 --> 00:10:39.100
+en terminos de theta
+
+00:10:39.100 --> 00:10:43.240
+Cuando tomas el seno del arc-seno, entonces simplemente
+
+00:10:43.240 --> 00:10:46.150
+simplifica a x menos 3 sobre 2
+
+00:10:46.150 --> 00:10:49.210
+Seamos claros con esto.
+
+00:10:49.210 --> 00:10:51.730
+Entonces, si podemos escribir esto en terminos de theta
+
+00:10:51.730 --> 00:10:57.990
+porque el seno de theta es igual al seno del arc-seno
+
+00:10:57.990 --> 00:11:06.230
+de x menos 3 sobre 2
+
+00:11:06.230 --> 00:11:09.180
+lo cual es igual a x menos 3 sobre 2
+
+00:11:09.180 --> 00:11:12.250
+entonces podemos escribir en terminos de senos de theta, entonces podemos
+
+00:11:12.250 --> 00:11:13.390
+hacer esta sustitucion
+
+00:11:13.390 --> 00:11:15.520
+Seno de theta iguala a esto y todo
+
+00:11:15.520 --> 00:11:17.700
+se simplifica bastante
+
+00:11:17.700 --> 00:11:19.610
+Entonces, veamos si podemos hacerlo
+
+00:11:19.610 --> 00:11:25.140
+Puede que si, puede que no conozcas la otra identidad que
+
+00:11:25.140 --> 00:11:30.200
+ha sido probada tambien donde seno de 2 theta, es la misma
+
+00:11:30.200 --> 00:11:42.485
+cosa que seno de theta mas theta, lo que es igual a seno
+
+00:11:42.485 --> 00:11:48.940
+de theta, coseno de theta mas, los thetas que se transponen
+
+00:11:48.940 --> 00:11:53.320
+seno de theta mas coseno de theta, que es igual a esto
+
+00:11:53.320 --> 00:11:56.740
+Es la misma cosa escrita 2 veces, seno de theta
+
+00:11:56.740 --> 00:11:57.760
+coseno de theta
+
+00:11:57.760 --> 00:12:00.540
+Algunas personas han memorizado esto desde antes, y si vas
+
+00:12:00.540 --> 00:12:02.600
+a tomar un examen sobre sustitucion trigonometrica, pues es bueno saberlo
+
+00:12:02.600 --> 00:12:04.310
+y memorizarlo con anticipacion.
+
+00:12:04.310 --> 00:12:06.180
+Pero re-escribamos esto como esto de aca
+
+00:12:06.180 --> 00:12:09.320
+Entonces, nuestra integral indefinida en terminos de theta en nuestra
+
+00:12:09.320 --> 00:12:12.870
+antiderivada se convierte en 2 theta mas, en lugar de seno de 2
+
+00:12:12.870 --> 00:12:18.490
+theta, lo escribimos como 2 seno de theta coseno de theta y
+
+00:12:18.490 --> 00:12:20.500
+por supuesto, mas C
+
+00:12:20.500 --> 00:12:22.380
+Ahora lo escribimos todo en terminos de theta, pero
+
+00:12:22.380 --> 00:12:23.960
+tenemos un coseno aca
+
+00:12:23.960 --> 00:12:25.370
+¿Que podemos hacer?
+
+00:12:25.370 --> 00:12:30.440
+Bueno, conocemos que coseno cuadrado de theta es
+
+00:12:30.440 --> 00:12:35.410
+igual a 1 menos seno cuadrado de theta, o que coseno de
+
+00:12:35.410 --> 00:12:39.530
+theta es igual a la raiz cuadrada de 1 menos seno
+
+00:12:39.530 --> 00:12:40.990
+cuadrado de theta
+
+00:12:40.990 --> 00:12:43.800
+Lo cual parece como que agregamos complejidad, pero en realidad
+
+00:12:43.800 --> 00:12:45.800
+es para ponerlo en terminos del seno de theta
+
+00:12:45.800 --> 00:12:46.480
+Entonces, hagamoslo
+
+00:12:46.480 --> 00:12:48.160
+Aplicamos la sustitución
+
+00:12:48.160 --> 00:12:53.150
+Entonces, nuestra antiderivada es lo mismo que 2 (datos) mas 2
+
+00:12:53.150 --> 00:12:57.920
+seno de theta veces coseno de theta, lo que equivale a esto:
+
+00:12:57.920 --> 00:13:03.400
+por la raiz cuadrada de 1 enos seno cuadrado de theta
+
+00:13:03.400 --> 00:13:05.510
+mas la constante C
+
+00:13:05.510 --> 00:13:08.030
+Ahora, estamos en casa...podemos relajarnos.
+
+00:13:08.030 --> 00:13:09.930
+Este problema fue probablemente mas dificil de lo que pensabas
+
+00:13:09.930 --> 00:13:10.980
+y era de esperarse
+
+00:13:10.980 --> 00:13:15.430
+Sabemos que seno de theta es igual a x menos 3 sobre 2
+
+00:13:15.430 --> 00:13:18.190
+entonces, revertimos esta sustitución
+
+00:13:18.190 --> 00:13:20.690
+Y tenemos 2 veces theta
+
+00:13:20.690 --> 00:13:24.290
+Este primer termino es solamente 2 veces theta, justo aqui
+
+00:13:24.290 --> 00:13:28.400
+Eso es 2 veces....no podemos escaparnos del arc-seno
+
+00:13:28.400 --> 00:13:30.170
+Si solamente tenemos un theta, tenemos que decir que theta es
+
+00:13:30.170 --> 00:13:37.270
+igual al arc-seno de x menos 3 sobre 2
+
+00:13:37.270 --> 00:13:40.280
+y entonces tenemos mas, ...permitame cambiar colores
+
+00:13:40.280 --> 00:13:42.500
+mas 2 seno de theta
+
+00:13:42.500 --> 00:13:46.710
+Bien, eso es mas 2 veces seno de theta, es x menos 3 sobre 2
+
+00:13:46.710 --> 00:13:51.970
+Entonces, 2 veces x menos 3 sobre 2 y luego todo esto multiplicado por
+
+00:13:51.970 --> 00:13:59.460
+la raiz cuadrada de 1 enos seno de theta al cuadrado
+
+00:13:59.460 --> 00:14:00.630
+¿Cual es el seno de theta?
+
+00:14:00.630 --> 00:14:05.706
+Es x menos 3 sobre 2 cuadrado
+
+00:14:05.706 --> 00:14:07.510
+Y por supuesto, tenemos un mas C
+
+00:14:07.510 --> 00:14:10.040
+Veamos si podemos simplificarlo aun mas
+
+00:14:10.040 --> 00:14:11.350
+ahora que estamos en casa y podemos relajarnos
+
+00:14:11.350 --> 00:14:19.410
+Entonces, esto es igual a 2 arc-seno de x menos 3 sobre 2 mas estos
+
+00:14:19.410 --> 00:14:24.170
+dos terminos, este 2 y este 2 se cancelan mutuamente, mas x menos 3
+
+00:14:24.170 --> 00:14:29.280
+veces la raiz cuadrad de...que sucede si multiplicamos
+
+00:14:29.280 --> 00:14:35.090
+todo esto por....veamos....si tomamos un....esto es igual a
+
+00:14:35.090 --> 00:14:45.180
+1 menos x menos 3 sobre 4.
+x menos 3 cuadrado sobre 4
+
+00:14:45.180 --> 00:14:47.780
+Humm...esta simplificacion (debería escribirse en letras doradas) me esta tomando
+
+00:14:47.780 --> 00:14:49.280
+mas de lo que pensaba
+
+00:14:49.280 --> 00:14:51.850
+Pero veamos si podemos simplificarlo aun mas
+
+00:14:51.850 --> 00:14:54.760
+Si multiplicamos, dejame enfocarme en los terminos por aqui,
+
+00:14:54.760 --> 00:14:59.180
+si multiplicamos el termino exterior, o digamos, que multiplicamos
+
+00:14:59.180 --> 00:15:01.920
+y dividimos por 2
+
+00:15:01.920 --> 00:15:04.460
+Entonces, vamos a escribir esto como....vamos simplemente a multiplicar
+
+00:15:04.460 --> 00:15:08.490
+esto por 2 sobre 2
+
+00:15:08.490 --> 00:15:10.910
+Seguramente dirás: Sal, ¿porque haces eso?
+
+00:15:10.910 --> 00:15:13.940
+Porque puedo re-escribir esto, dejame escribir la expresión completa aqui
+
+00:15:13.940 --> 00:15:21.000
+Entonces, tengo 2 arc-seno de x menos 3 sobre 2 y luego
+
+00:15:21.000 --> 00:15:23.530
+tengo...podria tomar este denominador 2 de aqui
+
+00:15:23.530 --> 00:15:26.830
+Y digamos, mas x menos 3 sobre 2
+
+00:15:26.830 --> 00:15:29.130
+Ese 2 es este mismo 2 aqui
+
+00:15:29.130 --> 00:15:32.010
+Y entonces puedo escribir el 2 aqui como
+
+00:15:32.010 --> 00:15:33.470
+la raiz cuadrada de 4
+
+00:15:33.470 --> 00:15:37.330
+multiplicada por la raiz cuadrada de 4
+
+00:15:37.330 --> 00:15:39.100
+Raiz de todo esto
+
+00:15:39.100 --> 00:15:44.300
+1 menos x menos 3 sobre 4
+
+00:15:44.300 --> 00:15:45.350
+Creo que ya deberias ver lo que planeo hacer
+
+00:15:45.350 --> 00:15:47.090
+Estoy como revirtiendo todo lo que hice
+
+00:15:47.090 --> 00:15:48.260
+al inicio del problema
+
+00:15:48.260 --> 00:15:50.210
+Y talvez me estoy concentrando mucho en hacer esto
+
+00:15:50.210 --> 00:15:53.820
+tan simple como sea posible....pero estoy cerca, dejame terminar
+
+00:15:53.820 --> 00:15:59.390
+Entonces, tengo 2 veces el arc-seno de x menos 3 sobre 2, ...ya me estoy cansando de escribirlo
+
+00:15:59.390 --> 00:16:04.410
+mas x menos 3 sobre 2 y si traemos este
+
+00:16:04.410 --> 00:16:06.780
+4 dentro, correcto, la raiz cuadrada de 4 veces el la raiz cuadrada de todo esto
+
+00:16:06.780 --> 00:16:11.380
+es igual a la raiz cuadrada de 4 veces estos terminos
+
+00:16:11.380 --> 00:16:16.700
+Entonces es 4 menos 3 al cuadrado, todo esto
+
+00:16:16.700 --> 00:16:18.280
+sumado con C
+
+00:16:18.280 --> 00:16:19.790
+Y de nuevo, estamos en casa y nos podemos relajar.
+
+00:16:19.790 --> 00:16:27.740
+Esto es igual a 2 veces el arc-seno de x menos 3 sobre 2
+
+00:16:27.740 --> 00:16:34.650
+mas x menos 3 sobre 2 veces la raiz de 4 menos...veamos...
+
+00:16:34.650 --> 00:16:41.260
+expandemos esto: x cuadrado menos 6x mas 9
+
+00:16:41.260 --> 00:16:47.960
+Y entonces, esta expresion aqui se simplifica...menos menos
+
+00:16:47.960 --> 00:16:53.270
+es 6x menos x cuadrado y luego tenemos un 4
+
+00:16:53.270 --> 00:16:55.050
+menos 9 menos 5
+
+00:16:55.050 --> 00:16:56.180
+Lo cual es nuestra antiderivada original
+
+00:16:58.940 --> 00:17:01.000
+Entonces, finalmente, estamos en el último paso
+
+00:17:01.000 --> 00:17:08.020
+tenemos la antiderivada que es 2 arc-seno de x menos 3 sobre 2
+
+00:17:08.020 --> 00:17:16.430
+mas x menos 3 sobre 2 veces, raiz de 6x
+
+00:17:16.430 --> 00:17:19.340
+menos x cuadrado menos 5.
+
+00:17:19.340 --> 00:17:24.840
+Esto de aqui, es la antiderivada de lo que
+
+00:17:24.840 --> 00:17:28.170
+teniamos al principio de la pizarra
+
+00:17:28.170 --> 00:17:29.820
+que esta justo ahi.
+
+00:17:29.820 --> 00:17:33.620
+Entonces, es igual a la antiderivada de
+
+00:17:33.620 --> 00:17:39.050
+la raiz cuadrada de 6x menos x cuadrado menos 5 dx
+
+00:17:39.050 --> 00:17:42.120
+YI puedo imaginar que estas tan cansado como estoy yo...
+
+00:17:42.120 --> 00:17:43.550
+mi mano me duele!
+
+00:17:43.550 --> 00:17:45.880
+Pero espero que hayas encontrado este video de alguna manera satisfactorio
+
+00:17:45.880 --> 00:17:47.960
+A veces escucho quejas de que solamente trabajo con problemas simples
+
+00:17:47.960 --> 00:17:51.630
+Bueno, este ha sido uno "no tan simple"

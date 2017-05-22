@@ -1,0 +1,726 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.570 --> 00:00:05.480
+Digamos que tenemos una FUNCION de 'x' y de 'y'; 'f' de 'x' y de 'y' es
+
+00:00:05.480 --> 00:00:08.470
+igual a 'x' mas 'y' quadrado.
+
+00:00:08.470 --> 00:00:11.400
+Si intento dibujar una LINEA (veamos si puedo)
+
+00:00:11.400 --> 00:00:13.100
+(veamos si puedo)
+
+00:00:13.100 --> 00:00:16.590
+Ese es mi eje de 'y' - voy a dibujarlo con un poco perspectivo aqui.
+
+00:00:16.590 --> 00:00:21.440
+Este es mi eje de 'x' . Ahora estos son mis ejes de 'x' y 'y'.
+
+00:00:21.440 --> 00:00:24.180
+Va en esa direccion - y este es mi eje de 'x' aqui.
+
+00:00:24.180 --> 00:00:27.150
+Y si yo lo represento graficamente asi cuando 'y' equivale a 0, va a ser
+
+00:00:27.150 --> 00:00:29.720
+simplemente (lo dibujo con amarillo) va a ser
+
+00:00:29.720 --> 00:00:32.310
+una linea RECTA que parece algo asi.
+
+00:00:32.310 --> 00:00:34.050
+Entonces, para 'x' con cualquier valor,
+
+00:00:34.050 --> 00:00:36.010
+tenemos una PARABOLA en 'y'.
+
+00:00:36.010 --> 00:00:39.230
+'y' parece algo asi.
+
+00:00:39.230 --> 00:00:40.335
+Solo voy a dibujarlo en el quadrante positivo.
+
+00:00:40.335 --> 00:00:41.780
+Parece algo asi. . . .
+
+00:00:41.780 --> 00:00:44.980
+Asi . . . Asi . . . Asi
+
+00:00:44.980 --> 00:00:47.090
+De hecho, cuando vas a la 'y' negativa
+
+00:00:47.090 --> 00:00:48.905
+vas a ver a la otra mitad de la parabola, pero no voy a
+
+00:00:48.905 --> 00:00:50.370
+preocumarme mucho con eso.
+
+00:00:50.370 --> 00:00:51.980
+Entonces, vas a tener una superficie
+
+00:00:51.980 --> 00:00:53.190
+que parece algo asi.
+
+00:00:53.190 --> 00:00:55.140
+Quzas hago otro intento dibujarlo.
+
+00:00:55.140 --> 00:00:57.930
+Pero este es nuestro TECHO con que vamos a tratar otra vez.
+
+00:00:57.930 --> 00:01:03.340
+Entonces voy a tener un CAMINO en el plano 'xy'.
+
+00:01:03.340 --> 00:01:08.660
+Voy a empeizar en el punto ahi, el punto '2, 0'
+
+00:01:08.660 --> 00:01:10.430
+x=2, y=0.
+
+00:01:10.430 --> 00:01:13.670
+Y voy a viajar, tal como hicimos en el video pasado,
+
+00:01:13.670 --> 00:01:16.380
+voy a viajar por un circulo, pero esta vez
+
+00:01:16.380 --> 00:01:18.630
+el circulo tiene un RADIO de 2.
+
+00:01:18.630 --> 00:01:20.650
+Movemos en sentido antihorario por el circulo.
+
+00:01:20.650 --> 00:01:22.610
+Este es en el plano 'xy', solamente para poder
+
+00:01:22.610 --> 00:01:24.040
+visualizarlo correctamente.
+
+00:01:24.040 --> 00:01:26.500
+Este aqui es el punto '0, 2'.
+
+00:01:26.500 --> 00:01:30.055
+Ahora voy a VOLVER por el eje 'y'.
+
+00:01:30.055 --> 00:01:35.640
+Este es mi camino; vuelvo por el eje 'y' . . . asi
+
+00:01:35.640 --> 00:01:38.220
+giro a la izquierda aqui,
+
+00:01:38.220 --> 00:01:40.640
+y otra vez aqui, y vuelvo por el eje 'x'.
+
+00:01:44.930 --> 00:01:46.540
+Dibujé con estos dos tonos de verde.
+
+00:01:46.540 --> 00:01:48.680
+Ese es mi contorno.
+
+00:01:48.680 --> 00:01:52.830
+Y lo que quiero hacer es que quiero evaluar a la área de superficie
+
+00:01:52.830 --> 00:01:56.260
+de este pequeño 'edificio' que esencialmente tiene un techo
+
+00:01:56.260 --> 00:02:00.020
+compuesto de 'f' de 'xy' equivale a 'x' mas 'y' quadrado, y quiero encontrar
+
+00:02:00.020 --> 00:02:01.620
+a la área de superficie de sus paredes.
+
+00:02:01.620 --> 00:02:05.705
+Ves una pared aqui cuya base es el eje de 'x'.
+
+00:02:05.705 --> 00:02:09.250
+Entonces, tenemes a esta pared que sigue esta curva;
+
+00:02:09.250 --> 00:02:14.490
+parece un poco a una extraña pared
+
+00:02:14.490 --> 00:02:16.410
+en ese lado encurvado.
+
+00:02:16.410 --> 00:02:19.550
+De hecho, esta encurvado más por allí
+
+00:02:19.550 --> 00:02:25.510
+encurvado mucho más por el eje 'y'
+
+00:02:28.270 --> 00:02:32.240
+Entonces, allí tiene una pared media-parabolica.
+
+00:02:32.240 --> 00:02:34.150
+Dibujo la pared por detrás con naranja.
+
+00:02:34.150 --> 00:02:38.400
+Lo dibujo con naranja.
+
+00:02:38.400 --> 00:02:41.530
+Y voy a usar magenta para la pared que pasa por el eje 'y'.
+
+00:02:41.530 --> 00:02:45.660
+Ahora tenemos a esta pared por enfrente por el eje de 'x'.
+
+00:02:45.660 --> 00:02:50.230
+Y tenemeos a esta pared extraña curvada . . . asi
+
+00:02:50.230 --> 00:02:55.020
+voy a usar azul para esta curva aqui
+
+00:02:55.020 --> 00:02:56.740
+que es parte de un circulo con un radio de 2.
+
+00:02:56.740 --> 00:02:58.890
+Ojalá entiendes a la visualización.
+
+00:02:58.890 --> 00:03:00.670
+Es un poco más difícil ya que no estoy utilizando mi
+
+00:03:00.670 --> 00:03:01.680
+programa gráfica en este momento.
+
+00:03:01.680 --> 00:03:03.900
+Pero quiero resolver la área de superficie
+
+00:03:03.900 --> 00:03:06.270
+la área de superficie combinada de estas tres paredes.
+
+00:03:06.270 --> 00:03:09.390
+Y en notación muy simple podríamos decir, bueno, la superficie
+
+00:03:09.390 --> 00:03:16.430
+área de las paredes - de esta pared, más, más que la pared que
+
+00:03:16.430 --> 00:03:22.570
+pared - va a ser igual a la integral de línea a lo largo de este
+
+00:03:22.570 --> 00:03:26.020
+curva, oa lo largo de este contorno - como quieras llamarlo
+
+00:03:26.020 --> 00:03:32.820
+- de f de xy, - de modo que la x más cuadrado y - ds, donde ds
+
+00:03:32.820 --> 00:03:35.220
+es sólo una longitud de poco a lo largo de nuestro contorno.
+
+00:03:35.220 --> 00:03:37.450
+Y puesto que este es un circuito cerrado, vamos a llamar a esto una
+
+00:03:37.450 --> 00:03:38.500
+cerró intervalo de la línea.
+
+00:03:38.500 --> 00:03:40.560
+Y a veces nos veremos esta notación aquí.
+
+00:03:43.080 --> 00:03:44.480
+A menudo, usted verá que en los libros de física.
+
+00:03:44.480 --> 00:03:45.870
+y trataremos mucho más.
+
+00:03:45.870 --> 00:03:47.330
+y pondremos un circulo en el signo del intervalo.
+
+00:03:47.330 --> 00:03:50.060
+y todo lo que esto significa es que el contador con el que estamos tratando es un
+
+00:03:50.060 --> 00:03:53.750
+contador cerrado; volvemos a donde empezamos.
+
+00:03:53.750 --> 00:03:55.770
+¿Que tal parece so resolvemos esto?
+
+00:03:55.770 --> 00:03:57.660
+Un buen lugar para empezar es simplemente encontrar
+
+00:03:57.660 --> 00:03:58.630
+el contador por si mismo.
+
+00:03:58.630 --> 00:04:00.830
+y solo para simplificarlo, vamos a dividirlo en tres
+
+00:04:00.830 --> 00:04:03.040
+piezas y esencialmente solo se hace tres integrales de linea separadas
+
+00:04:03.040 --> 00:04:04.290
+.
+
+00:04:04.290 --> 00:04:08.770
+Porque usted sabe, que esto no es un contador muy continuo
+
+00:04:08.770 --> 00:04:10.050
+Entonces, para la primera parte.
+
+00:04:10.050 --> 00:04:11.980
+Primero hagamos la parte de la curva que va
+
+00:04:11.980 --> 00:04:15.640
+a lo largo del circulo con radio de 2.
+
+00:04:15.640 --> 00:04:20.770
+y esto es bastante simple de construir si se tiene "x". Déjame,
+
+00:04:20.770 --> 00:04:25.850
+hacer cada parte del contador en un color distinto, entonces si
+
+00:04:25.850 --> 00:04:30.920
+anaranjado es la parte del contador cuando decimos que x es igual a 2.
+
+00:04:30.920 --> 00:04:39.440
+coseno de "t" y "y" es igual a 2 seno de "t" y si decimos
+
+00:04:39.440 --> 00:04:42.680
+t-- y esto en verdad es solo construir lo que vimos en
+
+00:04:42.680 --> 00:04:46.960
+el ultimo vídeo -- si decimos que t-- esta forma de t es mayor
+
+00:04:46.960 --> 00:04:54.170
+o igual a 0 y es menor o igual a Pi.
+
+00:04:54.170 --> 00:04:58.270
+sobre 2-- t en esencia va a ser el mismo angulo que
+
+00:04:58.270 --> 00:05:00.200
+se usa a lo largo del circulo justo acá
+
+00:05:00.200 --> 00:05:02.040
+Esto describe el camino.
+
+00:05:02.040 --> 00:05:03.820
+si no estas entendiendo todo lo que he dicho,
+
+00:05:03.820 --> 00:05:05.980
+Puedes revisar el video de ecuaciones parametricas si no estar entendiendo todo.
+
+00:05:05.980 --> 00:05:07.860
+.
+
+00:05:07.860 --> 00:05:09.360
+Entonces esta es la primera parte de nuestro camino.
+
+00:05:09.360 --> 00:05:14.080
+Si solo quisiéramos encontrar el área superficial de la pared
+
+00:05:14.080 --> 00:05:15.940
+acá mismo, sabemos que tenemos que encontrar:
+
+00:05:15.940 --> 00:05:17.670
+dx, dt, y dy , dt.
+
+00:05:17.670 --> 00:05:19.970
+Entonces saquemos esto esto del camino ahora mismo.
+
+00:05:19.970 --> 00:05:28.770
+Si decimos que dx, dt va a ser igual -2 , seno de t,
+
+00:05:28.770 --> 00:05:34.495
+dy, dy va a ser igual a 2 coseno de t; solo que
+
+00:05:34.495 --> 00:05:35.840
+derivadas de esto.
+
+00:05:35.840 --> 00:05:37.350
+hemos visto esto varias veces antes.
+
+00:05:37.350 --> 00:05:41.290
+Si queremos esta pared anaranjada en el área de superficie, podemos
+
+00:05:41.290 --> 00:05:43.675
+sacar la integral-- si no están entendiendo algo de esto
+
+00:05:43.675 --> 00:05:47.400
+puede ver los dos vídeos antes de estos que derivamos esta formula.
+
+00:05:47.400 --> 00:05:51.170
+-- pero podemos tomar la integral desde t es igual a 0
+
+00:05:51.170 --> 00:05:59.260
+a Pi /2, nuestra función de ( x + y )^2 *ds
+
+00:05:59.260 --> 00:06:01.610
+.
+
+00:06:01.610 --> 00:06:03.570
+Entonces x más y nos va a dar la altura de
+
+00:06:03.570 --> 00:06:04.550
+cada bloque.
+
+00:06:04.550 --> 00:06:06.360
+y ahora queremos obtener el ancho de cada pequeño bloque.
+
+00:06:06.360 --> 00:06:10.690
+que es "ds", pero sabemos que podemos rescribir ds como la raíz cuadrada de dx.
+
+00:06:10.690 --> 00:06:18.930
+.
+
+00:06:18.930 --> 00:06:24.310
+derivada de x con respecto a t cuadrado -- entonces eso menos 2.
+
+00:06:24.310 --> 00:06:29.160
+seno de t cuadrado-- mas la derivada de y con
+
+00:06:29.160 --> 00:06:36.660
+respecto a t cuadrado, dt.
+
+00:06:36.660 --> 00:06:39.050
+Esto nos va a dar la sección anaranjada, y ya no nos tenemos que preocupar
+
+00:06:39.050 --> 00:06:41.820
+de las otras dos paredes.
+
+00:06:41.820 --> 00:06:43.410
+y como podemos simplificar esto?
+
+00:06:43.410 --> 00:06:49.670
+bueno, esto va a ser igual a la integral de 0 hasta Pi.
+
+00:06:49.670 --> 00:06:55.000
+sobre 2 de x más y cuadrado.
+
+00:06:55.000 --> 00:06:59.180
+y de hecho, déjame escribir todo en términos de t.
+
+00:06:59.180 --> 00:07:01.250
+Entonces x es igual a 2 coseno de t.
+
+00:07:01.250 --> 00:07:02.910
+Déjame escribir esto.
+
+00:07:02.910 --> 00:07:13.310
+Entonces es 2 coseno de t + y , que es lo mismo que 2 seno de t , y
+
+00:07:13.310 --> 00:07:14.830
+vamos a elevar todo al cuadrado.
+
+00:07:14.830 --> 00:07:18.780
+y después al mismo tiempo este loco radical
+
+00:07:18.780 --> 00:07:22.880
+En este momento parece una anti derivada difícil o un integral para resolver,
+
+00:07:22.880 --> 00:07:24.780
+pero nos daremos cuenta que no es muy complicado.
+
+00:07:24.780 --> 00:07:30.380
+Esto va a ser igual a 4 seno cuadro de t + 4 coseno cuadrado de t.
+
+00:07:30.380 --> 00:07:34.380
+.
+
+00:07:34.380 --> 00:07:37.020
+Podemos sacar factor común de 4.
+
+00:07:37.020 --> 00:07:39.450
+no me quiero olvidar de dt.
+
+00:07:39.450 --> 00:07:41.820
+Por aca, déjame solamnete simplificar esta expresión para que
+
+00:07:41.820 --> 00:07:43.260
+no tenga que reescribirla.
+
+00:07:43.260 --> 00:07:47.820
+Eso es la misma cosa, la raíz cuadrada de 4 veces el seno de t + coseno cuadrado de t.
+
+00:07:47.820 --> 00:07:52.650
+.
+
+00:07:52.650 --> 00:07:54.800
+Sabemos que eso es igual a 1.
+
+00:07:54.800 --> 00:07:56.516
+Entonces todo esto se simplifica a la raíz cuadrada
+
+00:07:56.516 --> 00:07:58.650
+de 4, que es 2.
+
+00:07:58.650 --> 00:08:02.120
+entonces todo esto se simplifica a 2, que es bastante simple
+
+00:08:02.120 --> 00:08:04.290
+para resolver una anti derivada.
+
+00:08:04.290 --> 00:08:05.860
+Esto simplifica mucho las cosas.
+
+00:08:05.860 --> 00:08:09.620
+Entonces todo esto se simplifica a -- espero y lo escribo por acá--
+
+00:08:09.620 --> 00:08:12.320
+No quiere perder mucho espacio, solo tengo dos paredes
+
+00:08:12.320 --> 00:08:16.760
+resueltas - la integral desde t igual a 0 a pi sobre 2.
+
+00:08:16.760 --> 00:08:17.660
+quiero dejar esto muy claro.
+
+00:08:17.660 --> 00:08:20.700
+Acabo de escoger la simplificación más simple.
+
+00:08:20.700 --> 00:08:22.080
+podría para x e y.
+
+00:08:22.080 --> 00:08:23.630
+Pero podía haber escogido a otros Parameterizaciones, pero
+
+00:08:23.630 --> 00:08:25.250
+entonces habría que cambiar t en consecuencia.
+
+00:08:25.250 --> 00:08:28.200
+Así como eres consistente con como lo haces, se
+
+00:08:28.200 --> 00:08:29.020
+todos deben trabajar.
+
+00:08:29.020 --> 00:08:32.290
+No hay sólo una parametrización para esta curva;
+
+00:08:32.290 --> 00:08:34.130
+es tipo de dependiendo de qué tan rápido quieres ir
+
+00:08:34.130 --> 00:08:35.140
+a lo largo de la curva.
+
+00:08:35.140 --> 00:08:39.450
+Ver los videos de funciones paramétricas, si quieres un poco
+
+00:08:39.450 --> 00:08:40.900
+más de la profundidad de bits en.
+
+00:08:40.900 --> 00:08:41.860
+De todas formas, esta cosa se simplifica.
+
+00:08:41.860 --> 00:08:44.400
+Tenemos un 2 aquí; coseno de 2 tiempos de t, que
+
+00:08:44.400 --> 00:08:47.720
+4 coseno de t.
+
+00:08:47.720 --> 00:08:52.500
+Y luego aquí tenemos 2 seno cuadrado de seno de t al cuadrado.
+
+00:08:52.500 --> 00:08:54.430
+Eso es 4 seno cuadrado de t.
+
+00:08:58.390 --> 00:09:01.230
+Y luego tenemos que lo multiplicar veces este 2 de nuevo,
+
+00:09:01.230 --> 00:09:02.970
+nos da un 8.
+
+00:09:02.970 --> 00:09:07.750
+seno de tiempo 8 cuadrados de t, dt.
+
+00:09:07.750 --> 00:09:10.040
+Y entonces sabrás, seno cuadrado de t; que parece ser un
+
+00:09:10.040 --> 00:09:12.840
+cosa difícil encontrar la primitiva para, pero nos puede
+
+00:09:12.840 --> 00:09:18.150
+Recuerde que el seno al cuadrado de, realmente nada--podríamos decir
+
+00:09:18.150 --> 00:09:21.660
+seno cuadrado de ustedes es igual a 1/2 veces de media 1
+
+00:09:21.660 --> 00:09:24.290
+menos el coseno de 2u.
+
+00:09:24.290 --> 00:09:26.700
+Así que podemos reutilizar esta identidad.
+
+00:09:26.700 --> 00:09:30.380
+Puedo probar el t aquí; seno al cuadrado de t es igual a 1/2
+
+00:09:30.380 --> 00:09:33.540
+veces 1 menos el coseno de 2 t.
+
+00:09:33.540 --> 00:09:35.050
+Permítanme reescribir así porque harán la
+
+00:09:35.050 --> 00:09:36.390
+integral mucho más fácil de resolver.
+
+00:09:36.390 --> 00:09:40.530
+Así obtenemos integral de 0 el pi 2--y realmente me
+
+00:09:40.530 --> 00:09:45.080
+podría romper, así no romperlo--de 4 coseno de
+
+00:09:45.080 --> 00:09:51.550
+t plus 8 veces esta cosa.
+
+00:09:51.550 --> 00:09:53.350
+8 veces esta cosa; Esto es lo mismo que
+
+00:09:53.350 --> 00:09:55.020
+seno cuadrado de t.
+
+00:09:55.020 --> 00:10:02.250
+Así que 8 veces esto--8 veces 1/2 es 4--4 veces 1 menos coseno
+
+00:10:02.250 --> 00:10:05.590
+de 2t--simplemente use un poco identidad trig allí--y
+
+00:10:05.590 --> 00:10:07.390
+todo ese dt.
+
+00:10:07.390 --> 00:10:09.430
+Ahora esto debe ser razonablemente hacia adelante para obtener
+
+00:10:09.430 --> 00:10:10.800
+la primitiva de.
+
+00:10:10.800 --> 00:10:11.980
+Sólo tomemos lo.
+
+00:10:11.980 --> 00:10:16.500
+La primitiva esto es antiderivative del coseno
+
+00:10:16.500 --> 00:10:18.610
+de t; eso es una señal senoidal de t.
+
+00:10:18.610 --> 00:10:20.150
+La derivada del seno es el coseno.
+
+00:10:20.150 --> 00:10:25.050
+Así que esto va a ser 4 seno de t--no afectan los escalares
+
+00:10:25.050 --> 00:10:28.470
+nada--y luego, bien me deja simplemente distribuir este 4.
+
+00:10:28.470 --> 00:10:34.640
+Así que esto es 1 de 4 tiempos que es 4 menos 4 coseno de 2 t.
+
+00:10:34.640 --> 00:10:39.630
+Por lo que es de la primitiva de 4 4t--plus 4t--y luego la
+
+00:10:39.630 --> 00:10:43.880
+¿primitiva de menos 4 coseno de u00b5 t?
+
+00:10:43.880 --> 00:10:45.970
+Vamos a ver va a ser senoidal de 2 t.
+
+00:10:51.590 --> 00:10:58.900
+La derivada del seno de 2t es coseno 2 de 2 t.
+
+00:10:58.900 --> 00:11:01.660
+Vamos a tener que tener allí un signo menos y poner un 2
+
+00:11:01.660 --> 00:11:03.420
+allí y ahora debería funcionar.
+
+00:11:03.420 --> 00:11:05.740
+¿Qué es la derivada de menos 2 seno de t?
+
+00:11:05.740 --> 00:11:07.240
+Tomar la derivada del interior 2 veces
+
+00:11:07.240 --> 00:11:09.400
+menos 2 es menos 4.
+
+00:11:09.400 --> 00:11:11.740
+Y la derivada del seno de 2t con respecto a
+
+00:11:11.740 --> 00:11:13.280
+2T es el coseno de 2 t.
+
+00:11:13.280 --> 00:11:15.830
+Así que ahí vamos; hemos averiguado de nuestra primitiva.
+
+00:11:15.830 --> 00:11:19.260
+Ahora evaluamos lo de 0 el pi más 2.
+
+00:11:22.000 --> 00:11:23.420
+¿Y lo que obtenemos?
+
+00:11:23.420 --> 00:11:27.210
+Obtenemos 4 seno--déjame escribir esto, porque no quiero
+
+00:11:27.210 --> 00:11:34.100
+saltar demasiados--seno de pi más 2 plus 4 veces pi más 2--
+
+00:11:34.100 --> 00:11:42.040
+es sólo 2 pi menos 2 seno de pi 2 veces sobre 2 seno de
+
+00:11:42.040 --> 00:11:48.620
+pastel y luego todos que menos todo que esto evaluado en 0.
+
+00:11:48.620 --> 00:11:50.580
+Que es realmente bastante sencillo porque
+
+00:11:50.580 --> 00:11:52.670
+seno de 0 es 0.
+
+00:11:52.670 --> 00:11:56.490
+4 veces 0 es 0 y seno de 2 tiempos 0, que también es 0.
+
+00:11:56.490 --> 00:11:59.190
+Así que todo con trabajo de 0 fuera muy bien.
+
+00:11:59.190 --> 00:12:00.350
+¿Y entonces lo que tenemos aquí?
+
+00:12:00.350 --> 00:12:05.770
+Seno de pi sobre 2--en mi cabeza, creo que el seno de 90 grados;
+
+00:12:05.770 --> 00:12:09.320
+lo mismo--que es 1.
+
+00:12:09.320 --> 00:12:11.980
+Y, a continuación, seno de pi es 0, que es de 180 grados.
+
+00:12:11.980 --> 00:12:13.670
+Así que todo esto se anula.
+
+00:12:13.670 --> 00:12:17.440
+Así que salimos estamos con 4 plus 2 pi.
+
+00:12:17.440 --> 00:12:23.290
+Tan sólo así hemos podido averiguar el área de este
+
+00:12:23.290 --> 00:12:25.520
+primera pared curvos aquí y francamente, que de
+
+00:12:25.520 --> 00:12:26.710
+la parte más difícil.
+
+00:12:26.710 --> 00:12:29.760
+Ahora vamos a averiguar el área de esta curva.
+
+00:12:29.760 --> 00:12:31.220
+Y realmente vas a encontrar que estos otros
+
+00:12:31.220 --> 00:12:33.830
+curvas como van a lo largo de los ejes son mucho, mucho, mucho
+
+00:12:33.830 --> 00:12:35.760
+más fácil, pero vamos a tener que encontrar diferentes
+
+00:12:35.760 --> 00:12:37.480
+Parameterizaciones para ello.
+
+00:12:37.480 --> 00:12:43.390
+Así que si tomamos esta curva aquí, vamos a hacer un
+
+00:12:43.390 --> 00:12:44.590
+Parametrización para eso.
+
+00:12:44.590 --> 00:12:45.490
+¿En realidad, sabes qué?
+
+00:12:45.490 --> 00:12:48.630
+Permítanme continuar esto en el siguiente video porque me doy cuenta
+
+00:12:48.630 --> 00:12:49.920
+Yo he estado manejando un poco más.
+
+00:12:49.920 --> 00:12:53.110
+Voy a hacer las siguientes dos paredes y luego le suma todo.

@@ -1,0 +1,144 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:02.777
+Vamos a hacer el intento de tomar la inversa
+
+00:00:02.777 --> 00:00:05.027
+de esta matriz 2x2, y verán que
+
+00:00:05.027 --> 00:00:07.491
+las matrices 2x2 son las únicas
+
+00:00:07.491 --> 00:00:10.111
+cuya inversa es agradable de encontrar,
+
+00:00:10.111 --> 00:00:13.512
+cualquier matriz más grande y se vuelve desagradable.
+
+00:00:13.512 --> 00:00:16.327
+Así que la inversa de una matriz 2x2 va a ser
+
+00:00:16.327 --> 00:00:21.303
+igual a 1 sobre el determinante de la matriz
+
+00:00:21.303 --> 00:00:24.912
+por el conjugado de la matriz,
+
+00:00:24.912 --> 00:00:27.023
+que suena como una palabra muy complicada, pero veremos
+
+00:00:27.023 --> 00:00:30.917
+que para una matriz 2x2 no está muy involucrado.
+
+00:00:30.917 --> 00:00:33.196
+Así que primero pensemos sobre cuál es el determinante
+
+00:00:33.196 --> 00:00:35.172
+de esta matriz.
+
+00:00:35.172 --> 00:00:36.707
+Bueno, hemos visto esto antes, simplemente miramos
+
+00:00:36.707 --> 00:00:43.066
+las dos diagonales, es 3x2 menos -7x5,
+
+00:00:43.066 --> 00:00:46.877
+así que esto va a ser igual a uno sobre
+
+00:00:46.877 --> 00:00:56.026
+3x2 menos -7*5
+
+00:00:56.026 --> 00:01:03.533
+así que -(-7)x5
+
+00:01:03.533 --> 00:01:06.370
+y luego el conjugado de A, y aquí solo
+
+00:01:06.370 --> 00:01:08.692
+estoy enseñándoles el mecanismo de esto,
+
+00:01:08.692 --> 00:01:11.207
+y es un poco desafortunado que en una clase típica de Álgebra II
+
+00:01:11.207 --> 00:01:13.693
+solamente se vea la mecánica de esto
+
+00:01:13.693 --> 00:01:17.113
+pero al menos nos llevará adonde necesitamos ir,
+
+00:01:17.113 --> 00:01:23.246
+así que el conjugado de A, literalmente necesitas
+
+00:01:23.246 --> 00:01:26.912
+cambiar los dos elementos en la diagonal, así que
+
+00:01:26.912 --> 00:01:30.515
+ponemos el 2 donde está el 3, y el 3 donde está el 2
+
+00:01:30.515 --> 00:01:34.603
+así que este elemento, este 3
+
+00:01:34.603 --> 00:01:36.749
+va a venir acá,
+
+00:01:36.749 --> 00:01:41.594
+este 2, acá,
+
+00:01:41.594 --> 00:01:45.476
+y entonces sacás el negativo de estos dos elementos,
+
+00:01:45.476 --> 00:01:49.309
+así que, el negativo, dejenme usar otro color,
+
+00:01:49.309 --> 00:01:52.958
+me estoy quedando sin colores,
+
+00:01:52.958 --> 00:01:55.812
+el negativo de este es -5,
+
+00:01:55.812 --> 00:01:59.497
+el negativo de este es 7
+
+00:01:59.497 --> 00:02:02.641
+así que esto va a ser igual a
+
+00:02:02.641 --> 00:02:06.440
+1 sobre 3*2 que es 6,
+
+00:02:06.440 --> 00:02:09.233
+-7*5 es -35, a pesar de que
+
+00:02:09.233 --> 00:02:10.812
+tenemos este positivo aquí, así que esto
+
+00:02:10.812 --> 00:02:15.910
+se convierte en +35, así que 6+35 es 41
+
+00:02:15.910 --> 00:02:18.451
+así que el determinante de nuestra matriz es 41,
+
+00:02:18.451 --> 00:02:20.483
+vamos a tomar uno sobre el determinante
+
+00:02:20.483 --> 00:02:23.762
+y multiplicarlo por el conjugado
+
+00:02:23.762 --> 00:02:27.866
+2, -5, 7 y 3,
+
+00:02:27.866 --> 00:02:31.217
+así que obtenemos, esta es la parte del redoble de tambores,
+
+00:02:31.217 --> 00:02:35.256
+2 sobre 41, -5 sobre 41,
+
+00:02:35.256 --> 00:02:38.976
+Simplemente estoy multiplicando cada uno de los elementos con 41,
+
+00:02:38.976 --> 00:02:43.679
+7 sobre 41, y 3 sobre 41
+
+00:02:44.417 --> 00:02:48.000
+y hemos terminado!

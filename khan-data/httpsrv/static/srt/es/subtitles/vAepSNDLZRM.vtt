@@ -1,0 +1,303 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.950 --> 00:00:03.790
+Antes de que pasemos pasado el método indeterminado
+
+00:00:03.790 --> 00:00:07.140
+coeficientes, quiero hacer e interesante y realmente un
+
+00:00:07.140 --> 00:00:08.400
+punto útil.
+
+00:00:08.400 --> 00:00:11.170
+Digamos que la siguiente nonhomogeneous
+
+00:00:11.170 --> 00:00:16.830
+ecuación diferencial: la segunda derivada de y menos 3
+
+00:00:16.830 --> 00:00:23.220
+veces la primera derivada menos 4y es igual a--ahora
+
+00:00:23.220 --> 00:00:28.650
+es aquí donde obtiene interesantes--3e al x 2
+
+00:00:28.650 --> 00:00:41.870
+Plus 2 seno de x plus--permítanme Asegúrese de que estoy haciendo la
+
+00:00:41.870 --> 00:00:43.780
+mismos problemas que ya he trabajado
+
+00:00:43.780 --> 00:00:45.400
+por--plus 4 x al cuadrado.
+
+00:00:49.840 --> 00:00:51.640
+Lo que podríamos decir, wow, esto es un
+
+00:00:51.640 --> 00:00:53.350
+problema tremendamente complicado.
+
+00:00:53.350 --> 00:00:56.730
+Tengo los 3 tipos de funciones que he sido expuesto
+
+00:00:56.730 --> 00:00:59.180
+a, tendría tantos coeficientes indeterminados, se
+
+00:00:59.180 --> 00:01:01.020
+obtendría realmente difícil de manejar.
+
+00:01:01.020 --> 00:01:04.410
+Y esto es donde usted necesita hacer una simplificación
+
+00:01:04.410 --> 00:01:05.110
+realización.
+
+00:01:05.110 --> 00:01:08.560
+Sabemos que las tres soluciones particulares al siguiente
+
+00:01:08.560 --> 00:01:09.410
+ecuaciones diferenciales.
+
+00:01:09.410 --> 00:01:13.870
+Sabemos que la solución a la segunda derivada menos 3
+
+00:01:13.870 --> 00:01:16.750
+tiempos de la primera derivada menos 4 y.
+
+00:01:16.750 --> 00:01:18.890
+¿Bueno, esto es homogéneo, derecho?
+
+00:01:18.890 --> 00:01:22.000
+Y sabemos que la solución de la ecuación homogénea--
+
+00:01:22.000 --> 00:01:28.865
+Esto hicimos un montón de veces--es C1e a x 4 plus C2e a
+
+00:01:28.865 --> 00:01:30.180
+el signo x.
+
+00:01:30.180 --> 00:01:33.150
+Sabemos que la solución--y podrá cambiar colores, sólo para un
+
+00:01:33.150 --> 00:01:39.820
+variedad--y primer primo menos 3 años primer menos 4y es igual a
+
+00:01:39.820 --> 00:01:44.310
+sólo esto solo: 3e para el x 2.
+
+00:01:44.310 --> 00:01:49.470
+Y vimos que ese particular solución allí, y
+
+00:01:49.470 --> 00:01:53.920
+particular, fue menos 1/2 e a la x 2.
+
+00:01:53.920 --> 00:01:56.600
+Y lo hicimos utilizando coeficientes indeterminados.
+
+00:01:56.600 --> 00:01:58.560
+Lo hicimos un par de videos hace.
+
+00:01:58.560 --> 00:02:03.070
+Y luego me deja escribir esto un par de veces.
+
+00:02:03.070 --> 00:02:06.940
+Sabemos la solución a esta, así.
+
+00:02:06.940 --> 00:02:09.130
+Esta fue otra solución particular encontramos.
+
+00:02:09.130 --> 00:02:11.160
+Creo que fue hace dos videos.
+
+00:02:11.160 --> 00:02:13.700
+Y encontramos que la solución particular en este
+
+00:02:13.700 --> 00:02:22.060
+caso--y esto era un problema bastante peludo--menos 5/17
+
+00:02:22.060 --> 00:02:26.020
+x plus 3/17.
+
+00:02:26.020 --> 00:02:27.000
+Lo siento.
+
+00:02:27.000 --> 00:02:37.250
+La solución particular fue menos 5/17 seno de x más 3/17
+
+00:02:37.250 --> 00:02:38.545
+coseno de x.
+
+00:02:38.545 --> 00:02:43.910
+Y entonces finalmente este último polinomio, nos podríamos llamarlo.
+
+00:02:43.910 --> 00:02:46.430
+Sabemos que la solución al que fue a la derecha.
+
+00:02:49.950 --> 00:02:52.560
+Fue esta ecuación.
+
+00:02:52.560 --> 00:02:56.040
+Y allí pensamos fuera--y esto fue en el último video.
+
+00:02:56.040 --> 00:02:58.460
+Pensamos que la solución particular en este
+
+00:02:58.460 --> 00:03:08.240
+caso fue menos x squared plus 3/2 x menos 13/8.
+
+00:03:08.240 --> 00:03:11.650
+Sabemos que la solución particular cuando 0 s la
+
+00:03:11.650 --> 00:03:12.240
+lado derecho.
+
+00:03:12.240 --> 00:03:16.230
+Lo sabemos cuando 3e justo a la x 2 está en el lado derecho.
+
+00:03:16.230 --> 00:03:18.820
+Lo conocemos sólo cuando es 2 seno de x en el lado derecho.
+
+00:03:18.820 --> 00:03:20.650
+Y lo sabemos justo cuando 4 x al cuadrado es en
+
+00:03:20.650 --> 00:03:22.790
+el lado derecho.
+
+00:03:22.790 --> 00:03:24.650
+En primer lugar, la solución particular
+
+00:03:24.650 --> 00:03:28.540
+ecuación de nonhomogeneous, sólo podríamos tomar la suma de la
+
+00:03:28.540 --> 00:03:30.330
+tres soluciones particulares.
+
+00:03:30.330 --> 00:03:31.800
+¿Y eso tiene mucho sentido, derecha?
+
+00:03:31.800 --> 00:03:34.235
+Porque una de las soluciones particulares, como uno cuando
+
+00:03:34.235 --> 00:03:35.710
+lo pones en el lado izquierdo, lo hará
+
+00:03:35.710 --> 00:03:37.480
+Este término de igualdad justa.
+
+00:03:37.480 --> 00:03:39.640
+Esta solución en particular, cuando lo pones en la izquierda
+
+00:03:39.640 --> 00:03:41.230
+lateral, será igual a este término.
+
+00:03:41.230 --> 00:03:43.760
+Y finalmente, esta solución en particular, cuando lo pones
+
+00:03:43.760 --> 00:03:46.670
+el lado izquierdo, será igual a la x 4 al cuadrado.
+
+00:03:46.670 --> 00:03:50.250
+Y, a continuación, puede agregar la solución homogénea para.
+
+00:03:50.250 --> 00:03:53.020
+Ponerlo en este lado y obtendrá 0.
+
+00:03:53.020 --> 00:03:55.160
+Por lo que no cambiará el lado derecho.
+
+00:03:55.160 --> 00:03:57.900
+Y entonces tendrá la solución más general porque
+
+00:03:57.900 --> 00:04:00.260
+tienes estas dos constantes que puede resolver para
+
+00:04:00.260 --> 00:04:02.180
+dependiendo de su condición inicial.
+
+00:04:02.180 --> 00:04:08.890
+Así que la solución a esta diferencia aparentemente peluda
+
+00:04:08.890 --> 00:04:13.980
+la ecuación es simplemente la suma de estas cuatro soluciones.
+
+00:04:13.980 --> 00:04:17.209
+Permítanme sanear algo de espacio, porque todo lo que quiero
+
+00:04:17.209 --> 00:04:20.410
+estar en la Junta al mismo tiempo.
+
+00:04:20.410 --> 00:04:27.230
+Así que la solución va a ser--bueno,
+
+00:04:27.230 --> 00:04:28.480
+Queremos que sea eliminado.
+
+00:04:30.680 --> 00:04:33.210
+Lo haré en baby blue.
+
+00:04:33.210 --> 00:04:39.400
+Va a ser la solución para el C1e homogénea al x 4
+
+00:04:39.400 --> 00:04:47.580
+Plus C2e al menos x menos 1/2 e la x 2.
+
+00:04:47.580 --> 00:04:49.220
+Y continuaré esta línea.
+
+00:04:49.220 --> 00:05:01.670
+Menos 5/17 seno de x más 3/17 coseno de x menos x al cuadrado
+
+00:05:01.670 --> 00:05:08.030
+Además de 3/2 x menos 13/8.
+
+00:05:08.030 --> 00:05:09.140
+Y parece abrumadora.
+
+00:05:09.140 --> 00:05:11.170
+Cuando vio esto, probablemente parecía desalentador.
+
+00:05:11.170 --> 00:05:13.030
+Esta solución, si te dije que esto era una solución y
+
+00:05:13.030 --> 00:05:15.400
+no sabía cómo hacer coeficientes indeterminados,
+
+00:05:15.400 --> 00:05:16.740
+eres como, oh, nunca sería poder averiguar
+
+00:05:16.740 --> 00:05:17.690
+algo así.
+
+00:05:17.690 --> 00:05:20.930
+Pero la realización importante es que sólo tienes que encontrar
+
+00:05:20.930 --> 00:05:24.420
+las soluciones particulares para cada uno de estos términos y entonces
+
+00:05:24.420 --> 00:05:25.170
+en definitiva les.
+
+00:05:25.170 --> 00:05:27.170
+Y, a continuación, agregarlos a la solución general para el
+
+00:05:27.170 --> 00:05:29.255
+ecuación homogénea, si esto fue un 0 en
+
+00:05:29.255 --> 00:05:30.130
+el lado derecho.
+
+00:05:30.130 --> 00:05:35.410
+Y luego de obtener la solución general para esta bastante
+
+00:05:35.410 --> 00:05:42.860
+buscando intimidar a segundo orden lineal nonhomogeneous
+
+00:05:42.860 --> 00:05:46.940
+ecuación diferencial con coeficientes constantes.
+
+00:05:46.940 --> 00:05:49.610
+Nos vemos en el siguiente vídeo, donde vamos a empezar a aprender
+
+00:05:49.610 --> 00:05:53.460
+otro método para resolver ecuaciones nonhomogeneous.

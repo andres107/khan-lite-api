@@ -1,0 +1,591 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.970 --> 00:00:02.930
+Mucho de lo que aprenderán en ecuaciones diferenciales es...
+
+00:00:02.930 --> 00:00:06.640
+...en realidad diferentes bolsas con trucos.
+
+00:00:06.640 --> 00:00:08.930
+Y en este video voy a mostrarles uno de esos trucos.
+
+00:00:08.930 --> 00:00:11.360
+Y es práctico mas allá de esto.
+
+00:00:11.360 --> 00:00:14.050
+Porque siempre es bueno cuando, algún día, se conviertan...
+
+00:00:14.050 --> 00:00:16.129
+...en un matemático o en un físico, y...
+
+00:00:16.129 --> 00:00:17.500
+...se encuentren con un problema sin resolver.
+
+00:00:17.500 --> 00:00:19.890
+Algunos de estos trucos que resolvieron problemas mas simples en el período de...
+
+00:00:19.890 --> 00:00:23.950
+...vuestra educación pueden ser trucos prácticos para resolver algunos...
+
+00:00:23.950 --> 00:00:25.730
+...problemas sin solución. Por esto es bueno echarles un vistazo.
+
+00:00:25.730 --> 00:00:28.260
+Y si están cursando ecuaciones diferenciales,...
+
+00:00:28.260 --> 00:00:29.240
+...tal vez salga en el examen.
+
+00:00:29.240 --> 00:00:29.910
+Así que es bueno aprender.
+
+00:00:29.910 --> 00:00:32.140
+Entonces aprendamos sobre el Factor Integrante.
+
+00:00:32.140 --> 00:00:35.810
+Digamos que tenemos una ecuación de esta forma.
+
+00:00:35.810 --> 00:00:38.120
+Digamos que esta es nuestra ecuación diferencial.
+
+00:00:38.120 --> 00:00:44.610
+3xy (Estoy tratando de escribir lo mas nítido posible) mas y...
+
+00:00:44.610 --> 00:00:58.540
+...al cuadrado mas x al cuadrado mas xy por y prima es igual a cero.
+
+00:00:58.540 --> 00:01:01.950
+Así que especialmente desde que hemos repasado esto en videos recientes, ...
+
+00:01:01.950 --> 00:01:04.700
+...siempre que veamos una ecuación de esta forma donde tengamos...
+
+00:01:04.700 --> 00:01:07.310
+alguna función de xy, luego otra función de x e y...
+
+00:01:07.310 --> 00:01:11.350
+...multiplicando y prima, con todo igual a cero, decimos, oh, esto luce como...
+
+00:01:11.350 --> 00:01:13.440
+...una ecuación diferencial exacta.
+
+00:01:13.440 --> 00:01:14.680
+Y como probamos eso?
+
+00:01:14.680 --> 00:01:17.460
+Bueno, podemos derivar parcialmente esto con...
+
+00:01:17.460 --> 00:01:20.120
+...respecto de y, y podríamos llamarlo...
+
+00:01:20.120 --> 00:01:21.990
+...función de x e y, M.
+
+00:01:21.990 --> 00:01:27.470
+Así que la derivada parcial de eso, respecto de y, así que parcial de M...
+
+00:01:27.470 --> 00:01:33.760
+...respecto de y, sería 3x mas 2y.
+
+00:01:33.760 --> 00:01:37.670
+Y esta función justo aquí, esa expresión justo...
+
+00:01:37.670 --> 00:01:41.530
+...ahí, esa es nuestra función N, que es una...
+
+00:01:41.530 --> 00:01:42.740
+...función de x e y.
+
+00:01:42.740 --> 00:01:46.520
+Tomamos el parcial respecto de x y tenemos que...
+
+00:01:46.520 --> 00:01:49.776
+...es igual a 2x mas y.
+
+00:01:49.776 --> 00:01:52.620
+Y para que esto sea una Ecuacion Diferencial Exacta...
+
+00:01:52.620 --> 00:01:55.440
+...el parcial de esto respecto de y tendría...
+
+00:01:55.440 --> 00:01:58.170
+...que ser igual que el parcial de esto respecto de x.
+
+00:01:58.170 --> 00:02:00.120
+Pero vemos aquí, solo observando estas dos, que...
+
+00:02:00.120 --> 00:02:02.510
+...no son iguales.
+
+00:02:02.510 --> 00:02:03.600
+No son iguales.
+
+00:02:03.600 --> 00:02:06.150
+Así que, por lo menos superficialmente, por la manera en que lo vimos justo ahora, ...
+
+00:02:06.150 --> 00:02:09.940
+...esto no es una Ecuación Diferencial Exacta.
+
+00:02:09.940 --> 00:02:14.410
+Pero que pasaría si hubiese algún factor, o supongo que alguna...
+
+00:02:14.410 --> 00:02:16.710
+...función que pudiésemos multiplicar en ambos lados de esta ecuación...,
+
+00:02:16.710 --> 00:02:19.980
+...eso la convertiría en una...
+
+00:02:19.980 --> 00:02:21.150
+...Ecuación Diferencial Exacta?
+
+00:02:21.150 --> 00:02:24.870
+Así que llamémoslo "mu".
+
+00:02:24.870 --> 00:02:26.790
+Lo que quiero hacer es multiplicar ambos lados de esta ecuación...
+
+00:02:26.790 --> 00:02:30.970
+...por alguna función "mu", y así ver si puedo convertir...
+
+00:02:30.970 --> 00:02:33.320
+gracias a esa ecuación "mu", la ecuación original en Exacta.
+
+00:02:33.320 --> 00:02:35.260
+Intentemos hacerlo.
+
+00:02:35.260 --> 00:02:37.450
+Multipliquemos ambos lados por "mu".
+
+00:02:37.450 --> 00:02:40.360
+Y solo como una simplificación, "mu" podría ser una...
+
+00:02:40.360 --> 00:02:41.560
+...función de x e y.
+
+00:02:41.560 --> 00:02:42.670
+Podría ser una función de x.
+
+00:02:42.670 --> 00:02:44.560
+Podría ser una función de sólo x.
+
+00:02:44.560 --> 00:02:46.270
+Podría ser una función de sólo y.
+
+00:02:46.270 --> 00:02:48.880
+Voy a asumir que es solo una función de x.
+
+00:02:48.880 --> 00:02:50.810
+Vosotros podríais asumir que es solo una función de "y" y...
+
+00:02:50.810 --> 00:02:51.810
+...tratar de resolverla.
+
+00:02:51.810 --> 00:02:54.150
+O podríais asumir que es una función de x e y.
+
+00:02:54.150 --> 00:02:56.710
+Si asumen que es una función de x e y, se vuelve mucho mas...
+
+00:02:56.710 --> 00:02:57.500
+....difícil de resolver.
+
+00:02:57.500 --> 00:02:59.340
+Pero eso no significa que no haya una.
+
+00:02:59.340 --> 00:03:03.530
+Así que digamos que "mu" es una función de x.
+
+00:03:03.530 --> 00:03:05.340
+Y quiero multiplicarla en ambos lados de esta ecuación.
+
+00:03:05.340 --> 00:03:16.910
+Asi que tengo mu de x por 3xy mas y al cuadrado mas mu de x...
+
+00:03:16.910 --> 00:03:24.460
+...por x al cuadrado mas xy por y prima.
+
+00:03:24.460 --> 00:03:26.750
+Entonces, cuanto es una función multiplicada por cero?
+
+00:03:26.750 --> 00:03:27.990
+Bueno, va a ser cero, cierto?
+
+00:03:27.990 --> 00:03:31.010
+Cero por mu de x es cero.
+
+00:03:31.010 --> 00:03:34.160
+Pero sí multipliqué el lado derecho por mu de x.
+
+00:03:34.160 --> 00:03:35.720
+Y recuerden que estamos haciendo.
+
+00:03:35.720 --> 00:03:39.220
+Este mu de x es... cuando lo multiplicamos, el objetivo es,...
+
+00:03:39.220 --> 00:03:41.640
+...después de multiplicar ambos lados de la ecuación,...
+
+00:03:41.640 --> 00:03:43.210
+deberíamos tener una ecuación exacta.
+
+00:03:43.210 --> 00:03:49.180
+Ahora, si consideramos todo esto nuestra nueva M,...
+
+00:03:49.180 --> 00:03:51.960
+la derivada parcial de esto respecto de y debería ser...
+
+00:03:51.960 --> 00:03:54.070
+...igual a la derivada parcial de esto respecto con...
+
+00:03:54.070 --> 00:03:55.570
+...respecto de x.
+
+00:03:55.570 --> 00:03:58.550
+Así que cual es la derivada parcial de esto con...
+
+00:03:58.550 --> 00:04:01.490
+...respecto de y?.
+
+00:04:01.490 --> 00:04:04.280
+Bueno, si estamos tomando el parcial con respecto de y aquí,...
+
+00:04:04.280 --> 00:04:07.550
+... mu de x, que es sólo una función de x, no es una...
+
+00:04:07.550 --> 00:04:10.570
+...función de y, es sólo un término constante, cierto?
+
+00:04:10.570 --> 00:04:13.060
+Tomamos el parcial respecto de y. X es solo constante, o...
+
+00:04:13.060 --> 00:04:15.730
+...una función de x puede ser vista solo como una constante.
+
+00:04:15.730 --> 00:04:19.779
+Así que el parcial de esto respecto de y va a ser...
+
+00:04:19.779 --> 00:04:31.170
+...igual
+
+00:04:31.170 --> 00:04:33.940
+Es el parcial de esto con respecto a y.
+
+00:04:33.940 --> 00:04:38.010
+Y ¿qué es el parcial de esto con respecto a x?
+
+00:04:38.010 --> 00:04:40.110
+Bien, aquí, vamos a usar la regla del producto.
+
+00:04:40.110 --> 00:04:42.810
+Así que tomaremos la derivada de la primera expresión con
+
+00:04:42.810 --> 00:04:45.370
+con respecto a x. mu x ya no es una constante
+
+00:04:45.370 --> 00:04:48.050
+ya estamos tomando el parcial con respecto a x.
+
+00:04:48.050 --> 00:04:51.350
+Así que los derivados de mu de x con respecto a x.
+
+00:04:51.350 --> 00:04:55.470
+Bueno, eso es mu justa primo de x, primo de mu, no u.
+
+00:04:55.470 --> 00:04:57.980
+primer Mu de x.
+
+00:04:57.980 --> 00:04:58.975
+Mu es la letra griega.
+
+00:04:58.975 --> 00:05:02.560
+Es el sonido de ruso, pero parece mucho una U.
+
+00:05:02.560 --> 00:05:07.450
+Primer mu x veces una segunda expresión, x al cuadrado
+
+00:05:07.450 --> 00:05:12.570
+Plus xy, plus sólo la primera expresión.
+
+00:05:12.570 --> 00:05:15.150
+Esto es simplemente la regla del producto, mu de x.
+
+00:05:15.150 --> 00:05:17.410
+Veces la derivada de la segunda expresión
+
+00:05:17.410 --> 00:05:19.390
+con respecto a x.
+
+00:05:19.390 --> 00:05:26.900
+Para tiempos--se quedó sin espacio en esa línea--2 x plus y.
+
+00:05:26.900 --> 00:05:30.760
+Y ahora para esta nueva ecuación, donde yo multiplicado
+
+00:05:30.760 --> 00:05:31.690
+ambos lados por mu.
+
+00:05:31.690 --> 00:05:34.810
+En orden para que sea exacta, estas dos cosas tienen que ser
+
+00:05:34.810 --> 00:05:36.300
+iguales entre sí.
+
+00:05:36.300 --> 00:05:37.960
+Tan sólo recordemos el panorama.
+
+00:05:37.960 --> 00:05:40.790
+Tipo de que estamos diciendo, esto va a ser exacta.
+
+00:05:40.790 --> 00:05:43.340
+Y ahora, vamos a intentar resolver de mu.
+
+00:05:43.340 --> 00:05:46.070
+Así que vamos a ver si podemos hacer eso.
+
+00:05:46.070 --> 00:05:57.310
+Así que vamos a ver, de este lado, tenemos mu x veces x 3 más 2 y.
+
+00:05:57.310 --> 00:06:00.210
+Y la vamos a restar esta expresión desde ambos lados.
+
+00:06:00.210 --> 00:06:07.050
+Por eso es menos mu x veces 2 x más y.
+
+00:06:07.050 --> 00:06:08.850
+Verás un montón de estos problemas de ecuación diferencial
+
+00:06:08.850 --> 00:06:09.470
+obtener tipo de peludas.
+
+00:06:09.470 --> 00:06:12.100
+Son realmente un montón de álgebra.
+
+00:06:12.100 --> 00:06:14.350
+¿Y que igual--lo que no nos han dejado?
+
+00:06:14.350 --> 00:06:15.780
+Escribiré en amarillo.
+
+00:06:15.780 --> 00:06:18.270
+Que igual--me voy a quedar sin espacio.
+
+00:06:18.270 --> 00:06:19.700
+Voy a hacerlo un poco menor.
+
+00:06:19.700 --> 00:06:21.670
+Es igual, este término aquí.
+
+00:06:21.670 --> 00:06:29.830
+Que equivale a primer mu de x veces x squared plus xy.
+
+00:06:29.830 --> 00:06:35.020
+Y vamos a ver, si nos factor fuera un mu de x aquí, obtenemos mu
+
+00:06:35.020 --> 00:06:46.860
+x veces plus 3 x 2y menos 2 x menos y es igual al primer mu
+
+00:06:46.860 --> 00:06:49.780
+de x, la derivada de mu con respecto a x, tiempos x
+
+00:06:49.780 --> 00:06:52.085
+squared plus xy.
+
+00:06:55.160 --> 00:06:56.200
+Ahora, podemos simplificar esto.
+
+00:06:56.200 --> 00:07:05.520
+Así obtenemos mu de x veces--¿qué es esto--3 x menos x 2 es x.
+
+00:07:05.520 --> 00:07:10.840
+2y menos y, así x más y, es igual a--y solo voy
+
+00:07:10.840 --> 00:07:13.130
+para simplificar este lado una broca pequeña--es igual
+
+00:07:13.130 --> 00:07:15.960
+a prime mu de x.
+
+00:07:15.960 --> 00:07:16.950
+Vamos al factor de una x aquí.
+
+00:07:16.950 --> 00:07:19.260
+Y la razón de por qué estoy haciendo es porque parece que
+
+00:07:19.260 --> 00:07:21.630
+Si factor fuera una x aquí, voy a un x y y.
+
+00:07:21.630 --> 00:07:29.180
+Así que esto es mu primo de x veces x veces x y y.
+
+00:07:29.180 --> 00:07:31.710
+x veces x plus y es x squared plus xy.
+
+00:07:31.710 --> 00:07:34.160
+Eso es por qué lo hice, y tengo esta x plus y en ambos
+
+00:07:34.160 --> 00:07:37.540
+ecuación de lados, que ahora divido ambos lados por.
+
+00:07:37.540 --> 00:07:40.560
+Así que si usted divide ambos lados por x más y, podríamos quizás
+
+00:07:40.560 --> 00:07:43.240
+asumir que no es 0.
+
+00:07:43.240 --> 00:07:44.850
+Simplifica las cosas bastante dramáticamente.
+
+00:07:44.850 --> 00:07:54.710
+Obtenemos mu de x es igual al primer mu de x veces x.
+
+00:07:57.460 --> 00:08:01.730
+Y ahora, así funciona mi cerebro, me gusta volver a escribir esto
+
+00:08:01.730 --> 00:08:05.440
+expresión en nuestro operador forman, donde en su lugar
+
+00:08:05.440 --> 00:08:06.930
+¿escritura primer mu de x, podríamos escribir
+
+00:08:06.930 --> 00:08:08.660
+mu d DX.
+
+00:08:08.660 --> 00:08:09.790
+Así que vamos a hacer eso.
+
+00:08:09.790 --> 00:08:17.420
+Así podríamos escribir mu de x es igual a d, la derivada de
+
+00:08:17.420 --> 00:08:22.250
+Mu con respecto a x, a veces x.
+
+00:08:22.250 --> 00:08:23.970
+Y esto es realmente un diferencial separable
+
+00:08:23.970 --> 00:08:25.520
+ecuación de por sí.
+
+00:08:25.520 --> 00:08:27.320
+Es tipo de una ecuación sub-differential a
+
+00:08:27.320 --> 00:08:28.290
+resolver nuestro más amplio.
+
+00:08:28.290 --> 00:08:29.840
+Sólo estamos tratando de averiguar el factor de integración
+
+00:08:29.840 --> 00:08:30.720
+aquí.
+
+00:08:30.720 --> 00:08:34.039
+Así que vamos a dividir ambos lados por x.
+
+00:08:34.039 --> 00:08:41.600
+Así obtenemos mu sobre x, esto es sólo una ecuación separable ahora,
+
+00:08:41.600 --> 00:08:46.010
+es igual a mu d dx.
+
+00:08:46.010 --> 00:08:50.790
+Y entonces, vamos a dividir ambos lados por mu de x y obtenemos 1
+
+00:08:50.790 --> 00:08:57.220
+sobre x es igual a 1 sobre mu.
+
+00:08:57.220 --> 00:08:59.490
+Que es mu de x, sólo escribiré 1 sobre mu ahora mismo, para
+
+00:08:59.490 --> 00:09:03.810
+sencillez, tiempos de mu d dx.
+
+00:09:03.810 --> 00:09:06.080
+Realmente voy a ir horizontal justo aquí.
+
+00:09:06.080 --> 00:09:12.150
+Multiplique ambos lados por dx, superar 1 dx x es igual a 1
+
+00:09:12.150 --> 00:09:15.170
+sobre mu de x d mu.
+
+00:09:15.170 --> 00:09:18.670
+Ahora, podría integrar ambos lados de este, y obtendrá
+
+00:09:18.670 --> 00:09:20.890
+el logaritmo natural del valor absoluto de x es igual
+
+00:09:20.890 --> 00:09:22.830
+para el logaritmo natural del valor absoluto de mu, et
+
+00:09:22.830 --> 00:09:23.250
+Cetera, et cetera.
+
+00:09:23.250 --> 00:09:26.660
+Pero debe quedar muy claro de esto que x es igual a
+
+00:09:26.660 --> 00:09:29.070
+¿Mu, mu es igual a x, correcto?
+
+00:09:29.070 --> 00:09:29.930
+Son idénticos.
+
+00:09:29.930 --> 00:09:32.400
+Si usted mira a ambos lados de esta ecuación se, puede
+
+00:09:32.400 --> 00:09:36.160
+acabo de cambiar x por mu y se convierte en el otro lado.
+
+00:09:36.160 --> 00:09:42.560
+Por lo tanto, esto obviamente nos está diciendo que mu de x es igual a x.
+
+00:09:42.560 --> 00:09:44.650
+O mu es igual a x.
+
+00:09:44.650 --> 00:09:46.590
+Así que tenemos nuestro factor integrador.
+
+00:09:46.590 --> 00:09:48.470
+Y si lo desea, puede tomar la primitiva de ambos
+
+00:09:48.470 --> 00:09:50.310
+lados con los registros naturales y todo eso.
+
+00:09:50.310 --> 00:09:51.870
+Y obtendrá la misma respuesta.
+
+00:09:51.870 --> 00:09:55.270
+Pero esto es sólo, por mirarla, por inspección, sabes
+
+00:09:55.270 --> 00:09:57.420
+ese mu es igual a x.
+
+00:09:57.420 --> 00:09:58.500
+Porque ambos lados de esta ecuación son
+
+00:09:58.500 --> 00:10:00.180
+completamente lo mismo.
+
+00:10:00.180 --> 00:10:02.810
+De todas formas, ahora tenemos nuestro factor integrador.
+
+00:10:02.810 --> 00:10:04.300
+Pero estoy quedando sin tiempo.
+
+00:10:04.300 --> 00:10:06.230
+Así que en el siguiente vídeo, ahora vamos a utilizar este
+
+00:10:06.230 --> 00:10:07.010
+factor de integración.
+
+00:10:07.010 --> 00:10:09.650
+Multiplicar veces nuestra ecuación diferencial original.
+
+00:10:09.650 --> 00:10:10.690
+Hacerla exacta.
+
+00:10:10.690 --> 00:10:13.110
+Y luego lo resuelve como una ecuación exacta.
+
+00:10:13.110 --> 00:10:15.540
+Nos vemos en el siguiente vídeo.

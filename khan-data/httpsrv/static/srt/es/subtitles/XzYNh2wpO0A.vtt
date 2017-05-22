@@ -1,0 +1,60 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:04.208
+Es (2, 5) una solución de este sistema?
+
+00:00:04.267 --> 00:00:06.533
+Aquí tenemos un sistema de inecuaciones
+
+00:00:06.533 --> 00:00:12.600
+que indica que Y es mayor o igual a 2X más 1 y X es mayor que 1.
+
+00:00:12.600 --> 00:00:19.148
+Para que (2, 5) sea una solución a este sistema debe satisfacer ambas inecuaciones.
+
+00:00:19.164 --> 00:00:20.738
+Así que vamos a comprobarlo.
+
+00:00:20.933 --> 00:00:25.267
+Si X es igual a 2 y Y es igual a 5, para obtener un resultado correcto, tiene que satisfacer a ambas.
+
+00:00:25.267 --> 00:00:27.067
+Vamos a probar con la primera.
+
+00:00:27.067 --> 00:00:29.467
+SI asumimos que X es 2 y Y es 5,
+
+00:00:29.467 --> 00:00:37.400
+obtenemos una inecuacion que dice que 5 es mayor o igual a 2 por 2 más 1.
+
+00:00:37.400 --> 00:00:39.467
+X es 2; Y es 5.
+
+00:00:39.467 --> 00:00:44.933
+Lo que indica que 5 es mayor o igual a 2 por 2 que es igual a 4 más 1 nos da 5 como resultado.
+
+00:00:44.933 --> 00:00:50.133
+Y es mayor o igual a 5. Es verdad! 5 es igual a 5.
+
+00:00:50.133 --> 00:00:52.800
+Por tanto, que el resultado sea igual es válido ya que la operación nos indica que debe ser mayor o igual.
+
+00:00:52.800 --> 00:00:57.400
+Esto satisface la primera inecuación. Vamos a ver que pasa con la segunda.
+
+00:00:57.400 --> 00:00:59.600
+X debe ser mayor que 1.
+
+00:00:59.600 --> 00:01:03.067
+En (2, 5) X es 2.
+
+00:01:03.067 --> 00:01:06.200
+Por tanto, 2 es mayor que 1.
+
+00:01:06.200 --> 00:01:09.533
+Así, realmente, satisface a ambas inecuaciones y
+
+00:01:09.533 --> 00:01:14.333
+podemos afirmar que (2, 5) es una solución a este sistema.

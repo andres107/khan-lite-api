@@ -1,0 +1,445 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.590 --> 00:00:03.970
+Un ascensor estándar en un edificio de mediana altura
+
+00:00:03.970 --> 00:00:08.050
+puede sostener un peso de 1 y 1/2 toneladas cortas.
+
+00:00:08.050 --> 00:00:13.220
+Asumiendo que un adulto promedio pesa 160 libras
+
+00:00:13.220 --> 00:00:15.170
+¿Cuál es el máximo número de adultos que podrían
+
+00:00:15.170 --> 00:00:18.130
+ir en el ascensor de manera segura?
+
+00:00:18.130 --> 00:00:21.480
+Entonces lo que necesitamos hacer es obtener el máximo peso
+
+00:00:21.480 --> 00:00:23.760
+que el ascensor podría sostener en términos de libras.
+
+00:00:23.760 --> 00:00:25.970
+Y luego decir: Ok, bueno ¿Cuántos adultos es eso?
+
+00:00:25.970 --> 00:00:28.930
+Entonces nos dan el máximo peso en términos de toneladas cortas
+
+00:00:28.930 --> 00:00:33.070
+Entonces nos dicen que son 1 y 1/2 toneladas cortas.
+
+00:00:33.070 --> 00:00:36.870
+Y siempre es más fácil lidiar con fracciones impropias que
+
+00:00:36.870 --> 00:00:39.350
+números mixtos, entonces escribamos esto como una fracción impropia.
+
+00:00:39.350 --> 00:00:42.590
+1 y 1/2 toneladas cortas es lo mismo que...
+
+00:00:42.590 --> 00:00:45.230
+1 tonelada corta es 2 mitades, y luego le sumas otra 1 mitad,
+
+00:00:45.230 --> 00:00:46.870
+esas son 3 mitades.
+
+00:00:46.870 --> 00:00:49.990
+Entonces te queda 3/2 toneladas cortas.
+
+00:00:49.990 --> 00:00:52.700
+U otra forma de pensar en eso es 2 veces 1 es 2,
+
+00:00:52.700 --> 00:00:55.640
+más 1 es 3.
+
+00:00:55.640 --> 00:00:58.550
+Entonces la máxima capacidad es 3/2 toneladas cortas.
+
+00:00:58.550 --> 00:01:00.000
+Pensemos en cuántas libras es eso.
+
+00:01:00.000 --> 00:01:03.000
+Y para hacer eso, tenemos que saber que hay 2,000
+
+00:01:03.000 --> 00:01:04.769
+libras por cada tonelada corta.
+
+00:01:04.769 --> 00:01:05.870
+Déjame escribir eso aquí.
+
+00:01:05.870 --> 00:01:11.260
+Sabemos que hay 2,000 libras por cada tonelada corta.
+
+00:01:11.260 --> 00:01:13.240
+Esto no estaba dado en ninguna parte del problema.
+
+00:01:13.240 --> 00:01:16.300
+Esto es algo que sabía por experiencia previa,
+
+00:01:16.300 --> 00:01:17.950
+y es una buena cosa por recordar, en general,
+
+00:01:17.950 --> 00:01:20.090
+que una tonelada corta es 2,000 libras.
+
+00:01:20.090 --> 00:01:21.630
+Entonces voy a escribirlo por acá.
+
+00:01:21.630 --> 00:01:25.280
+Ahora, ¿Cómo convierto estas 3/2 toneladas cortas en libras?
+
+00:01:25.280 --> 00:01:27.640
+Bueno, lo vamos a multiplicar por algo, y las unidades
+
+00:01:27.640 --> 00:01:30.810
+por las que lo vamos a multiplicar, queremos que cancelen las toneladas cortas
+
+NOTE Paragraph
+
+00:01:30.810 --> 00:01:36.170
+Entonces vamos a querer tener toneladas cortas en el denominador
+
+00:01:36.170 --> 00:01:38.520
+para que se cancele con estas toneladas cortas de acá arriba.
+
+00:01:38.520 --> 00:01:41.760
+Y luego queremos libras en el numerador.
+
+00:01:41.760 --> 00:01:43.900
+Y eso es exactamente lo que escribimos aquí arriba.
+
+00:01:43.900 --> 00:01:48.760
+Hay 2,000 libras por cada 1 tonelada corta,
+
+00:01:48.760 --> 00:01:50.640
+o podrías decir simplemente 2,000 libras por cada tonelada corta.
+
+00:01:50.640 --> 00:01:53.960
+Podrías poner el 1 ahí, pero realmente no va a cambiar la expresión.
+
+NOTE Paragraph
+
+00:01:53.960 --> 00:02:00.260
+Ahora, si multiplicamos 3/2 toneladas cortas por 2,000 libras por cada tonelada corta,
+
+00:02:00.260 --> 00:02:02.030
+Lo que pasará es que las toneladas cortas se cancelaran.
+
+00:02:02.030 --> 00:02:06.220
+Ese era todo el punto de multiplicarlo por esto.
+
+00:02:06.220 --> 00:02:14.586
+Y nos quedaríamos con 3/2 por 2,000,
+
+00:02:14.586 --> 00:02:17.232
+y la única unidad que quedaría serían libras.
+
+00:02:19.732 --> 00:02:22.740
+Y si lo haces de esta manera, nunca te confundirás.
+
+00:02:22.740 --> 00:02:26.400
+Sabrás qué unidades se cancelan así que obtendrás las unidades correctas.
+
+00:02:26.400 --> 00:02:29.810
+Pero si solo piensas sobre eso en tu mente, también debería tener sentido.
+
+00:02:29.810 --> 00:02:33.600
+Si hay 2,000 libras por cada tonelada corta y hay 1 y 1/2 toneladas cortas,
+
+00:02:33.600 --> 00:02:37.000
+debería multiplicar 1 y 1/2 por 2,000
+
+00:02:37.000 --> 00:02:38.620
+para obtener el número de libras.
+
+00:02:38.620 --> 00:02:40.020
+Eso tiene sentido.
+
+00:02:40.020 --> 00:02:42.860
+Y sabemos que 1 y 1/2 por 2,000 es 3,000, pero lo
+
+00:02:42.860 --> 00:02:44.780
+vamos a averiguar aquí.
+
+00:02:44.780 --> 00:02:46.110
+Entonces ¿Qué es 3/2 por 2,000?
+
+00:02:46.110 --> 00:02:47.590
+Bueno, te acabo de dar la respuesta.
+
+00:02:47.590 --> 00:02:50.130
+Podríamos simplificarlo justo aquí.
+
+00:02:50.130 --> 00:02:56.920
+Esto va a ser 3 veces 2,000/2 libras.
+
+00:02:56.920 --> 00:02:59.690
+Podemos dividir el numerador y el denominador por 2.
+
+00:02:59.690 --> 00:03:03.610
+Esto se convertirá en 1,000 y esto se convertirá en 1, entonces es
+
+00:03:03.610 --> 00:03:09.010
+3 veces 1,000 libras, o esto es igual a 3,000 libras.
+
+00:03:09.010 --> 00:03:11.980
+Entonces lo que hemos hecho hasta ahora, hemos averiguado
+
+00:03:11.980 --> 00:03:13.870
+la capacidad máxima del ascensor.
+
+00:03:13.870 --> 00:03:16.540
+Puede cargar 1 y 1/2 toneladas cortas, que es lo mismo
+
+00:03:16.540 --> 00:03:18.440
+que 3,000 libras.
+
+00:03:18.440 --> 00:03:22.010
+Ahora, lo que necesitamos averiguar es ¿A cuántos adultos promedio
+
+00:03:22.010 --> 00:03:26.030
+de 160 libras equivalen 3,000 libras?
+
+00:03:26.030 --> 00:03:29.860
+O ¿Cuántas personas de 160 libras tomarían para pesar en total
+
+00:03:29.860 --> 00:03:32.320
+3,000 unidades?
+
+00:03:32.320 --> 00:03:36.150
+Bueno, podríamos dividir sobre 160.
+
+00:03:36.150 --> 00:03:38.660
+Y si quieres estar seguro de que las unidades van a funcionar,
+
+00:03:38.660 --> 00:03:41.900
+recuerda, que queremos nuestra respuesta en términos de personas, y
+
+00:03:41.900 --> 00:03:44.060
+queremos que las libras se eliminen.
+
+00:03:44.060 --> 00:03:46.130
+Entonces tenemos libras en el numerador aquí, entonces si
+
+00:03:46.130 --> 00:03:51.050
+dividimos entre libras, las libras se eliminarán.
+
+00:03:51.050 --> 00:03:55.535
+Y luego queremos que nos quede gente o talvez personas,
+
+00:03:58.550 --> 00:03:59.820
+Persona, gente, es lo mismo.
+
+00:03:59.820 --> 00:04:01.560
+Déjame hacer gente.
+
+00:04:01.560 --> 00:04:04.580
+La gramática del tema, singular, plural, pueden hacerlo un poco
+
+00:04:04.580 --> 00:04:06.320
+confuso, pero creo que tienes la la idea general.
+
+00:04:06.320 --> 00:04:08.750
+Ahora, si fuéramos a escribir esto, ¿qué nos dices?
+
+00:04:08.750 --> 00:04:14.130
+1 persona pesa 160 libras, entonces hay una persona por cada
+
+00:04:14.130 --> 00:04:16.060
+160 libras.
+
+00:04:16.060 --> 00:04:18.860
+Entonces mira, si multiplicamos estas dos expresiones,
+
+00:04:18.860 --> 00:04:20.250
+las libras se anularan.
+
+00:04:20.250 --> 00:04:23.590
+Solo nos quedaremos con personas.
+
+00:04:23.590 --> 00:04:27.520
+Estamos multiplicando 3,000 por 1/160, pero en realidad solo
+
+00:04:27.520 --> 00:04:30.490
+estamos tomando 3,000 y dividiéndolo entre 160 , lo que tiene sentido.
+
+00:04:30.490 --> 00:04:32.060
+Tenemos la capacidad de 3,000.
+
+00:04:32.060 --> 00:04:34.370
+Cada personas pesa 160 libras.
+
+00:04:34.370 --> 00:04:35.080
+Divídelo por 160.
+
+00:04:35.080 --> 00:04:36.240
+Te dice cuánta gente.
+
+00:04:36.240 --> 00:04:38.750
+Pero de esta manera, sabes que las unidades están funcionando.
+
+00:04:38.750 --> 00:04:47.620
+Entonces esto va a ser igual a 3,000/160 personas
+
+00:04:47.620 --> 00:04:50.340
+Esa es la máxima capacidad del ascensor en términos de
+
+00:04:50.340 --> 00:04:51.550
+personas promedio.
+
+00:04:51.550 --> 00:04:52.280
+Ahora, ¿qué es esto?
+
+00:04:52.280 --> 00:04:54.170
+Bueno, podemos dividir el numerador y
+
+00:04:54.170 --> 00:04:56.940
+el denominador entre 10.
+
+00:04:56.940 --> 00:04:59.230
+Si dividimos el numerador y el denominador entre 10, esto
+
+00:04:59.230 --> 00:05:04.510
+se convertirá en 300/16.
+
+00:05:04.510 --> 00:05:08.990
+Si dividimos 300/2 se convierte en 150.
+
+00:05:08.990 --> 00:05:12.840
+Si dividimos 16/2 se convierte en 8.
+
+00:05:12.840 --> 00:05:14.620
+Ahora, veamos, ¿qué más podemos hacer aquí?
+
+00:05:14.620 --> 00:05:15.760
+Podríamos dividir entre 2 otra vez.
+
+00:05:15.760 --> 00:05:17.300
+Déjame reescribirlo.
+
+00:05:17.300 --> 00:05:22.070
+Entonces esto es lo mismo que 150/8 personas.
+
+00:05:22.070 --> 00:05:24.290
+150, podemos dividirlo entre 2.
+
+00:05:24.290 --> 00:05:25.860
+Nos da 75.
+
+00:05:25.860 --> 00:05:29.440
+Y si tomas 8 dividido entre 2, eso es 4.
+
+00:05:29.440 --> 00:05:32.830
+Entonces tenemos 75/4 personas
+
+00:05:32.830 --> 00:05:34.620
+Déjame hacer eso, trabajarlo.
+
+00:05:34.620 --> 00:05:38.700
+Entonces tienes 75 personas dividido entre 4.
+
+00:05:38.700 --> 00:05:40.240
+4 va en 7 una vez.
+
+00:05:40.240 --> 00:05:42.900
+1 vez 4 es 4.
+
+00:05:42.900 --> 00:05:44.200
+Restas.
+
+00:05:44.200 --> 00:05:45.840
+7 - 4 es 3.
+
+00:05:45.840 --> 00:05:47.620
+Bajas el 5.
+
+00:05:47.620 --> 00:05:50.070
+4 va en 35 ocho veces.
+
+00:05:50.070 --> 00:05:52.560
+8 veces 4 es 32.
+
+00:05:52.560 --> 00:05:53.810
+Restas.
+
+00:05:53.810 --> 00:05:55.440
+5 - 2 es 3.
+
+00:05:55.440 --> 00:05:58.630
+Y entonces tienes el decimal.
+
+00:05:58.630 --> 00:06:00.520
+Nos vamos a la derecha del sitio de las unidades.
+
+00:06:00.520 --> 00:06:02.650
+Nos vamos a los décimos.
+
+00:06:02.650 --> 00:06:05.550
+Entonces podemos bajar un cero aquí.
+
+00:06:05.550 --> 00:06:08.730
+4 va en 30 siete veces.
+
+00:06:08.730 --> 00:06:11.890
+7 veces 4 es 28.
+
+00:06:11.890 --> 00:06:12.670
+Restas.
+
+00:06:12.670 --> 00:06:13.700
+Obtienes 2.
+
+00:06:13.700 --> 00:06:16.560
+Bajas otro cero.
+
+00:06:16.560 --> 00:06:19.250
+4 va en 20 exactamente cinco veces.
+
+00:06:19.250 --> 00:06:24.770
+5 veces 4 es 20, y ya estamos listos.
+
+00:06:24.770 --> 00:06:28.610
+Entonces esta expresión es exactamente... los 3,000 divididos entre
+
+00:06:28.610 --> 00:06:32.740
+160, o los 150 divididos entre 8, o los 75 divididos entre 4, todo
+
+00:06:32.740 --> 00:06:37.810
+resulta ser 18.75 personas es la
+
+00:06:37.810 --> 00:06:39.110
+capacidad del ascensor.
+
+00:06:39.110 --> 00:06:44.790
+18.75 personas promedio de 160 libras pesarían 3,000 libras.
+
+00:06:44.790 --> 00:06:45.990
+Ahora, ¿ellos quieren un decimal?
+
+00:06:45.990 --> 00:06:48.350
+¿Cuál es el máximo número de adultos que podrían ir de manera segura
+
+00:06:48.350 --> 00:06:48.730
+en el ascensor?
+
+00:06:48.730 --> 00:06:51.240
+Bueno, si todos van a ser promedio, entonces el máximo
+
+00:06:51.240 --> 00:06:56.210
+número de adultos, dado que no puedes tener 3/4 de persona, o
+
+00:06:56.210 --> 00:06:58.860
+75/100 de una persona, el máximo número
+
+00:06:58.860 --> 00:07:00.560
+va a ser 18.
+
+00:07:00.560 --> 00:07:03.560
+Si tienes 19 adultos de peso promedio, van a ser
+
+00:07:03.560 --> 00:07:07.270
+muy pesados, y el ascensor se caerá o algo.

@@ -1,0 +1,567 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.560
+Vamos a hacer otro problema.
+
+00:00:00.560 --> 00:00:01.800
+Es muy similar al anterior, pero con una pequeña diferencia.
+
+00:00:01.800 --> 00:00:04.430
+Y esa pequeña diferencia tendrá unas grandes consecuencias.
+
+00:00:04.430 --> 00:00:06.860
+Digamos que hacemos la integral de línea sobre una curva c-
+
+00:00:06.860 --> 00:00:10.050
+Definiré la curva en seguida-- x cuadrado más y
+
+00:00:10.050 --> 00:00:15.590
+cuadrado dx más 2xy dy -- y esto ya te sonará.
+
+00:00:15.590 --> 00:00:25.420
+Esta es muy similar a la que vimos la última vez, excepto que la última
+
+00:00:25.420 --> 00:00:28.000
+vez tuvimos una integral de línea cerrada.
+
+00:00:28.000 --> 00:00:29.520
+Esta no es una integral de línea cerrada.
+
+00:00:29.520 --> 00:00:31.550
+Y nuestra curva, c, cuya parametrización es x, que es
+
+00:00:31.550 --> 00:00:37.560
+igual al coseno de t, e y es igual al seno de t.
+
+00:00:37.560 --> 00:00:43.080
+De momento -- espera parece que pone s-i-t
+
+00:00:43.080 --> 00:00:45.480
+Déjame que escriba seno de t -- de momento, parece muy similar al
+
+00:00:45.480 --> 00:00:49.020
+ejemplo del último vídeo que hicimos de la integral
+
+00:00:49.020 --> 00:00:51.800
+de línea cerrada, pero en vez de t ir desde 0 hasta 2 pi, vamos a
+
+00:00:51.800 --> 00:00:55.120
+hacer que t vaya desde 0 hasta pi.
+
+00:00:55.120 --> 00:00:58.570
+t es mayor o igual a 0, es menor o igual a pi
+
+00:00:58.570 --> 00:01:01.180
+Así que estamos, básicamente, nuestro camino--si los dibujara en
+
+00:01:01.180 --> 00:01:04.650
+el plano x-y -- así que este es mi eje y, y este es mi eje x
+
+00:01:04.650 --> 00:01:11.420
+Así que ahora nuestro camino no es alrededor del círculo de radio unidad.
+
+00:01:11.420 --> 00:01:14.130
+Nuestro camino-- nuestra curva c ahora -- empieza en t igual a 0.
+
+00:01:14.130 --> 00:01:18.120
+Puedes verlo como si t fuera casi el ángulo.
+
+00:01:18.120 --> 00:01:21.120
+t es igual a 0 y camos a ir hasta pi
+
+00:01:21.120 --> 00:01:23.950
+Así que este es nuestro camino en este caso.
+
+00:01:23.950 --> 00:01:26.970
+Así que no es un camino curvo,
+
+00:01:26.970 --> 00:01:28.330
+no es un camino cerrado.
+
+00:01:28.330 --> 00:01:29.830
+Así que en este caso no podemos simplemente decir -- y
+
+00:01:29.830 --> 00:01:33.270
+vamos a repasar qué pinta tiene f --Hey, si eso es un
+
+00:01:33.270 --> 00:01:36.580
+campo vectorial conservativo, si es un bucle cerrado, esto es igual a
+
+00:01:36.580 --> 00:01:39.370
+cero, este NO es una bucle cerrado.
+
+00:01:39.370 --> 00:01:40.920
+Así que no podemos aplicar eso.
+
+00:01:40.920 --> 00:01:41.970
+Pero veamos si podemos aplicar algunas de las otra herramientas.
+
+00:01:41.970 --> 00:01:44.510
+Como veíamos en el último vídeo, esto te puede parecer un
+
+00:01:44.510 --> 00:01:46.720
+poco extraño para ti
+
+00:01:46.720 --> 00:01:47.800
+Pero si pones que f es igual a esto multiplicado por i, más eso
+
+00:01:47.800 --> 00:01:53.040
+multiplicado por j, entonces esto puede empezar a parecerte más familiar.
+
+00:01:53.040 --> 00:01:56.140
+Si decimos que f de xy -- el campo vectorial f es igual a x
+
+00:01:56.140 --> 00:02:02.230
+cuadrado más y cuadrado multiplicado por i más 2xy multiplicado por j y dr -- No
+
+00:02:02.230 --> 00:02:15.500
+me hace falta preocuparme por esto ahora. dr, siempre puedes
+
+00:02:15.500 --> 00:02:17.980
+escribir esto como dx multiplicado por i más dy multiplicado por j.
+
+00:02:17.980 --> 00:02:24.230
+Entonces verás inmediatamente, si haces el producto punto de estas 2
+
+00:02:24.230 --> 00:02:26.720
+cosas, si tomas f punto dr -- ambas vienen valores de vectores,
+
+00:02:26.720 --> 00:02:32.330
+diferencial de valor de vector, campo de valor vectorial,
+
+00:02:32.330 --> 00:02:35.150
+o funcion de valor vectorial-- si tomas f punto dr, entonces obtienes
+
+00:02:35.150 --> 00:02:38.760
+esto de aquí.
+
+00:02:38.760 --> 00:02:39.460
+Obtendrás lo que teníamos dentro del intervalo.
+
+00:02:39.460 --> 00:02:42.820
+Obtendrás esto de aquí, ¿no?
+
+00:02:42.820 --> 00:02:45.270
+Esto multiplicado por esto -- haces el producto de los términos i--
+
+00:02:45.270 --> 00:02:49.120
+Esto multiplicado por esto es igual a esto, y sumándolo a el
+
+00:02:49.120 --> 00:02:51.290
+producto de los términos con j.
+
+00:02:51.290 --> 00:02:52.360
+2xy multiplicado por dy.
+
+00:02:52.360 --> 00:02:54.080
+Escríbelo así.
+
+00:02:54.080 --> 00:02:54.820
+Así que nuestra integral, la podemos reescribir así.
+
+00:02:54.820 --> 00:02:59.000
+A lo largo de esta curva de f punto dr, donde esta es nuestra f.
+
+00:02:59.000 --> 00:03:03.650
+Bien, ahora podemos preguntarnos, ¿es este
+
+00:03:03.650 --> 00:03:07.000
+un campo conservativo?
+
+00:03:07.000 --> 00:03:08.680
+O, ¿tiene un potencial?
+
+00:03:08.680 --> 00:03:10.010
+¿Es f es igual al gradiente de alguna función, F mayúscula?
+
+00:03:10.010 --> 00:03:17.650
+supongo que podría escribir el gradiente como esto, porque
+
+00:03:17.650 --> 00:03:18.810
+crea un vector.
+
+00:03:18.810 --> 00:03:19.860
+Esto es un vector también.
+
+00:03:19.860 --> 00:03:21.390
+¿Es eso cierto?
+
+00:03:21.390 --> 00:03:22.650
+Y según vimos en el último vídeo lo es.
+
+00:03:22.650 --> 00:03:24.040
+Lo repetiré un poco más rápido esta vez.
+
+00:03:24.040 --> 00:03:26.600
+Ya que, si es cierto, no podemos decir que sea un bucle
+
+00:03:26.600 --> 00:03:28.830
+cerrado y decir, ah, va a ser simplemente igual a 0.
+
+00:03:28.830 --> 00:03:30.950
+Pero si esto es cierto, entonces sabemos que esto-- que la
+
+00:03:30.950 --> 00:03:34.330
+integral es independiente del camino .
+
+00:03:35.660 --> 00:03:44.040
+Y sabremos que esto va a ser igual a F mayúscula,
+
+00:03:44.040 --> 00:03:49.450
+si podemos decir que viene -- bueno en este caso t va
+
+00:03:49.450 --> 00:03:52.780
+desde 0 hasta pi-- podemos decir que esto va a ser
+
+00:03:52.780 --> 00:03:57.000
+igual a F mayúscula de pi menos F mayúscula de 0.
+
+00:03:57.000 --> 00:04:03.490
+O, si queremos escribirlo en término de x e y -- ya que f va
+
+00:04:03.490 --> 00:04:05.910
+a ser una función de x y de y -- podemos escribir -- y eso
+
+00:04:05.910 --> 00:04:09.150
+de aquí, estos son t's
+
+00:04:10.195 --> 00:04:13.000
+Podríamos también escribor que esto ei igual a f de x de pi, y de
+
+00:04:13.000 --> 00:04:21.290
+pi, menos f de x de 0, y de cero.
+
+00:04:21.290 --> 00:04:31.020
+Esto es lo que quería decir cuando dije f de pi.
+
+00:04:31.020 --> 00:04:32.830
+Si quisiéramos escribir f como solo función de t.
+
+00:04:32.830 --> 00:04:35.070
+Pero sabemos que esta F mayúscula va a ser una función.
+
+00:04:35.070 --> 00:04:37.310
+Es una función escalar definida en xy.
+
+00:04:37.310 --> 00:04:40.960
+Así que podríamos decir f de x de pi, y de pi.
+
+00:04:40.960 --> 00:04:44.060
+Estas son t's en este caso.
+
+00:04:44.060 --> 00:04:46.460
+Son todas equivalentes.
+
+00:04:46.460 --> 00:04:47.920
+Así que si no depende del camino, podemos obtener nuestra f.
+
+00:04:47.920 --> 00:04:50.090
+Podemos evaluar esta cosa simplemente tomando la
+
+00:04:50.090 --> 00:04:53.420
+f, evaluándola en esto dos puntos.
+
+00:04:53.420 --> 00:04:55.970
+En este punto, y en este otro punto de aquí.
+
+00:04:55.970 --> 00:04:59.770
+porque será independiente del camino.
+
+00:04:59.770 --> 00:05:01.040
+Si es conservativo, si esta tiene una función de potencial,
+
+00:05:01.040 --> 00:05:04.130
+si este es el gradiente de otro campo escalar, entonces esto,
+
+00:05:04.130 --> 00:05:08.090
+es un campo vectorial conservativo, y su integración de línea
+
+00:05:08.090 --> 00:05:11.790
+es independiente del camino.
+
+00:05:11.790 --> 00:05:12.750
+Solo depende de este punto y de este punto.
+
+00:05:12.750 --> 00:05:14.710
+Así que vamos a ver si podemos encontrar la f.
+
+00:05:14.710 --> 00:05:17.750
+Estoy intentando hacer exactamente lo mismo que hice en el último vídeo.
+
+00:05:17.750 --> 00:05:20.670
+Si ya viste el útlimo vídeo, puede ser un
+
+00:05:20.670 --> 00:05:22.400
+poco monótono.
+
+00:05:22.400 --> 00:05:23.090
+Peró lo hará un poco más rápido ahora.
+
+00:05:23.090 --> 00:05:24.540
+Así que sabemos que la parcial de f respecto a x va a
+
+00:05:24.540 --> 00:05:28.430
+tener que ser igual a esto de aquí.
+
+00:05:28.430 --> 00:05:31.310
+Y eso es x al cuadrado más y al cuadrado.
+
+00:05:31.310 --> 00:05:34.690
+lo que nos dice, si tomamos la antiderivada, con respecto a
+
+00:05:34.690 --> 00:05:38.050
+x, entonces f de xy va a tener que ser igual a x
+
+00:05:38.050 --> 00:05:44.420
+al cubo partido entre tres más xy al cuadrado ññ ¿no? y al cuadrado es solo
+
+00:05:44.420 --> 00:05:50.510
+una constante en términos de x-- más f de y.
+
+00:05:50.510 --> 00:05:54.830
+Puede que haya alguna función de y que, cuando haces
+
+00:05:54.830 --> 00:05:56.640
+la derivada respecto a x, desaparezca.
+
+00:05:56.640 --> 00:05:59.480
+Y también sabemos que la derivada parcial de f respecto a
+
+00:05:59.480 --> 00:06:03.980
+y tiene que ser igual a esto o a esto.
+
+00:06:03.980 --> 00:06:08.140
+Estamos diciendo que esto es el gradiente de f.
+
+00:06:08.140 --> 00:06:10.070
+Así que esto tiene que ser la parcial con respecto a y.
+
+00:06:10.070 --> 00:06:12.670
+2xy.
+
+00:06:12.670 --> 00:06:15.230
+Y puede que quieras ver el otro vídeo.
+
+00:06:15.230 --> 00:06:16.430
+En él, trato sobre esto un poco más despacio
+
+00:06:16.430 --> 00:06:18.540
+Así que la antiderivada de esto con respecto a y-- para obtener f
+
+00:06:18.540 --> 00:06:22.410
+de xy -- sería igual a xy al cuadrado menos algo en
+
+00:06:22.410 --> 00:06:29.050
+función de x.
+
+00:06:29.050 --> 00:06:30.770
+Bien, pero esto lo hicimos en el último vídeo.
+
+00:06:30.770 --> 00:06:33.590
+Estas dos cosas de aquí tienen que ser lo mismo, para que
+
+00:06:33.590 --> 00:06:36.590
+el gradente de F mayúscula sea f minúscula.
+
+00:06:36.590 --> 00:06:40.520
+A tenemos xy al cuadrado, xy al cuadrado.
+
+00:06:40.520 --> 00:06:45.350
+Tenemos una función de x, tenemos una fución que solo depende de x.
+
+00:06:45.350 --> 00:06:49.180
+Y entonces no tenemos una función que dependa solo de y aquí
+
+00:06:49.180 --> 00:06:51.860
+así que esto tiene que ser 0.
+
+00:06:51.860 --> 00:06:54.090
+Y lo hemos resuelto.
+
+00:06:54.090 --> 00:06:55.560
+Nuestra F mayúscula de xy debe ser igual a x al cubo
+
+00:06:55.560 --> 00:07:02.250
+partido por 3 más xy al cuadrado.
+
+00:07:02.250 --> 00:07:05.660
+Así que vemos que f minúscula es claramente conservativa.
+
+00:07:05.660 --> 00:07:10.120
+Y es independiente del camino.
+
+00:07:10.120 --> 00:07:12.200
+tiene un potencial.
+
+00:07:12.200 --> 00:07:13.350
+Y es el gradiente de esto otro de aquí.
+
+00:07:13.350 --> 00:07:16.750
+Así que para resolver nuestra integral-- esto era 0-- para resolver nuestra
+
+00:07:16.750 --> 00:07:20.970
+integral, tenemos que simplemente encontrar x de pi, y
+
+00:07:20.970 --> 00:07:23.470
+de pi, x de 0, e y de 0.
+
+00:07:23.470 --> 00:07:25.970
+Evaluar estos puntos, y después restar las dos.
+
+00:07:25.970 --> 00:07:29.140
+Así que hagámoslo.
+
+00:07:29.140 --> 00:07:32.400
+Bien x era coseno de t, e y es seno de t.
+
+00:07:32.400 --> 00:07:34.630
+Voy a escribirlo aquí abajo.
+
+00:07:34.630 --> 00:07:37.160
+Así que x es igual al coseno de t.
+
+00:07:37.160 --> 00:07:40.880
+y es igual al seno de t.
+
+00:07:40.880 --> 00:07:44.360
+Así x en 0 es igual al coseno de 0, que es igual a 1.
+
+00:07:44.360 --> 00:07:51.600
+x en pi es igual a coseo de pi, lo que es igual a menos 1.
+
+00:07:51.600 --> 00:07:57.400
+y en 0 es seno de 0, que es 0.
+
+00:07:57.400 --> 00:08:01.960
+y en pi, lo que es seno de pi, es igual a 0.
+
+00:08:01.960 --> 00:08:07.870
+Así que f de x de pi, y de pi -- esto es lo mismo,
+
+00:08:07.870 --> 00:08:12.140
+así que voy a reescribirlo.
+
+00:08:12.140 --> 00:08:12.970
+Nuestra integral se simplifica a -- nuestr aintegral a lo largo del camino de
+
+00:08:12.970 --> 00:08:17.560
+f punto dr --- va a ser igual a F mayúscula de x de pi.
+
+00:08:17.560 --> 00:08:26.130
+x de pi es menos 1.
+
+00:08:26.130 --> 00:08:29.620
+y de pi es igual a 0.
+
+00:08:29.620 --> 00:08:34.730
+Menos F mayúscula de x de 0 es 1, coma y de 0 es 0.
+
+00:08:34.730 --> 00:08:48.730
+Entonces ¿A qué es igual esto?
+
+00:08:48.730 --> 00:08:49.950
+Recuerda, esto de aquí es lo mismo que
+
+00:08:49.950 --> 00:08:53.160
+esto de aquí.
+
+00:08:53.160 --> 00:08:53.810
+Esto es x de pi.
+
+00:08:53.810 --> 00:08:56.150
+Esto es y de pi.
+
+00:08:56.150 --> 00:08:59.400
+Este término de aquí.
+
+00:08:59.400 --> 00:09:01.100
+Puedes imaginarte todo este f de menos 1, 0 -- esto es lo mismo.
+
+00:09:01.100 --> 00:09:04.250
+que f de pi, si piensas solo en términos de t.
+
+00:09:04.250 --> 00:09:07.970
+Esto puede ser un poco confuso, así que quiero
+
+00:09:07.970 --> 00:09:09.420
+aclarar.
+
+00:09:09.420 --> 00:09:10.410
+Esto es simple de evaluar.
+
+00:09:10.410 --> 00:09:12.440
+¿Era esto f de menos 1, 0?
+
+00:09:12.440 --> 00:09:14.940
+x es menos 1, y es 0.
+
+00:09:14.940 --> 00:09:16.780
+Así que vaa ser menos 1 al cubo -- bien,
+
+00:09:16.780 --> 00:09:20.410
+esta este nuestra x-- dividido entre 3
+
+00:09:20.410 --> 00:09:22.700
+Así que es menos 1/3.
+
+00:09:22.700 --> 00:09:23.960
+Va a ser mano 1/3 más menos 1 multiplicado por 0 al cuadrado.
+
+00:09:23.960 --> 00:09:29.700
+Así que eso va a ser simplemente 0.
+
+00:09:29.700 --> 00:09:31.360
+en ambos casos, la y es 0.
+
+00:09:31.360 --> 00:09:32.830
+Así que este término desaparece.
+
+00:09:32.830 --> 00:09:34.540
+Así que podemos ignorarlo.
+
+00:09:34.540 --> 00:09:35.950
+Y entonces tenermos menos f de 1, coma 0.
+
+00:09:35.950 --> 00:09:42.000
+Ponemos un1 aquí.
+
+00:09:42.000 --> 00:09:42.760
+1 al cubo dividido entre 3.
+
+00:09:42.760 --> 00:09:43.730
+Esto es 1/3 más 1 multiplicado por 0 al cuadrado.
+
+00:09:43.730 --> 00:09:48.640
+Esto es 0.
+
+00:09:48.640 --> 00:09:49.430
+Así que esto va a ser igual a menos 1/3
+
+00:09:49.430 --> 00:09:51.640
+Menos 1/3 es igual a menos 2/3
+
+00:09:51.640 --> 00:09:57.990
+Y hemos terminado.
+
+00:09:57.990 --> 00:09:59.070
+De nuevo, debido a que es un campo vectorial conservativo,
+
+00:09:59.070 --> 00:10:02.220
+y es independiente del camino, realmente no tuvimos que molestarnos
+
+00:10:02.220 --> 00:10:04.620
+con el coseno de t's y los senos de t's cuando hicimos la
+
+00:10:04.620 --> 00:10:07.180
+antiderivada.
+
+00:10:07.180 --> 00:10:08.130
+Simplemente tenemos que encontrar la función potencial y evaluarla
+
+00:10:08.130 --> 00:10:11.425
+en los puntos de los extremos para obtener la respuesta a nuestra integral, de
+
+00:10:11.425 --> 00:10:14.590
+nuestr integral de línea, menos 2/3.

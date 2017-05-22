@@ -1,0 +1,757 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.370 --> 00:00:03.450
+La primera vez que demostré
+
+00:00:03.450 --> 00:00:10.860
+la derivada del logaritmo natural de X
+
+00:00:10.860 --> 00:00:13.180
+. fué hace un par de años en la primera versión del video.
+
+00:00:13.180 --> 00:00:16.960
+Y en el siguiente video demostré que la derivada
+
+00:00:16.960 --> 00:00:19.640
+de e a la x es igual a e elevada a la x.
+
+00:00:19.640 --> 00:00:23.410
+Me han culpado de hacer de algún modo una prueba circular, pero
+
+00:00:23.410 --> 00:00:26.160
+yo estoy muy convencido que mi demostración no fue circular.
+
+00:00:26.160 --> 00:00:28.660
+De modo que lo que quiero hacer en este video, ahora que tengo un poco de
+
+00:00:28.660 --> 00:00:31.480
+mas espacio para trabajar, y herramientas un poco mas sofisticadas,
+
+00:00:31.480 --> 00:00:34.280
+Voy a rehacer mi demostracion y lo voy a hacer
+
+00:00:34.280 --> 00:00:38.910
+en este mismo video para mostrarle que en ningún momento asumo algo
+
+00:00:38.910 --> 00:00:40.920
+antes de mostrarlo.
+
+00:00:40.920 --> 00:00:42.330
+Comencemos con la prueba.
+
+00:00:42.330 --> 00:00:45.410
+De modo que lo primero que necesito hacer es probar ésto de aquí.
+
+00:00:45.410 --> 00:00:46.320
+Quiero llevar la cuenta de esto.
+
+00:00:46.320 --> 00:00:49.730
+No presumo de esto hasta que no lo demuestro.
+
+00:00:49.730 --> 00:00:52.370
+De modo que comencemos con la prueba, la derivada
+
+00:00:52.370 --> 00:00:54.310
+del logaritmo natural de X.
+
+00:00:54.310 --> 00:00:57.730
+Para la derivada del logaritmo natural de X, podemos
+
+00:00:57.730 --> 00:01:01.580
+simplemente ir a la definición básica de una derivada.
+
+00:01:01.580 --> 00:01:07.940
+Es igual al limite cuando el delta de x se aproxima a 0 del
+
+00:01:07.940 --> 00:01:15.170
+logaritmo natural de x mas el delta de x menos el logaritmo natural de x
+
+00:01:15.170 --> 00:01:19.880
+todo esto dividido por el delta de x.
+
+00:01:19.880 --> 00:01:22.150
+Ahora podemos usar las propiedades de los logaritmos.
+
+00:01:22.150 --> 00:01:25.100
+Si tengo el logaritmo de a menos el logaritmo de b, es la misma
+
+00:01:25.100 --> 00:01:27.900
+cosa que tener el logaritmo de a sobre b.
+
+00:01:27.900 --> 00:01:29.800
+Dejame re-escribirlo de esa manera.
+
+00:01:29.800 --> 00:01:36.490
+Esto va a ser igual al limite a cuando delta x
+
+00:01:36.490 --> 00:01:38.900
+se acerca al 0.
+
+00:01:38.900 --> 00:01:40.900
+Podria tomar este 1 sobre delta x aquí mismo.
+
+00:01:40.900 --> 00:01:48.370
+1 sobre delta de x multiplicado por el logaritmo de x mas delta
+
+00:01:48.370 --> 00:01:50.590
+x dividido por esta x.
+
+00:01:50.590 --> 00:01:53.810
+Ejecutando las propiedades del logaritmo ahí mismo.
+
+00:01:53.810 --> 00:01:55.830
+Asi que pueda re-escribir esto--ante todo, cuando tengo este
+
+00:01:55.830 --> 00:01:58.160
+coeficiente frente a un logaritmo lo puedo convertir
+
+00:01:58.160 --> 00:01:59.480
+en el exponente.
+
+00:01:59.480 --> 00:02:01.190
+Y entonces puedo simplicarlo aquí.
+
+00:02:01.190 --> 00:02:06.940
+De modo que esto va a ser igual al limite a medida que delta x se acerca al
+
+00:02:06.940 --> 00:02:11.870
+0 del logaritmo natural - déjame hacer esto en un color nuevo.
+
+00:02:11.870 --> 00:02:14.380
+Déjame hacerlo en un color completamente nuevo.
+
+00:02:14.380 --> 00:02:18.660
+El logaritmo natural de-- lo que está aquí adentro simplemente voy a
+
+00:02:18.660 --> 00:02:20.020
+dividir todo por x.
+
+00:02:20.020 --> 00:02:22.390
+Así que x dividido por x es 1.
+
+00:02:22.390 --> 00:02:26.600
+Entonces delta de x positivo sobre x.
+
+00:02:26.600 --> 00:02:30.310
+Entonces tenía este 1 sobre delta de x aquí y puedo
+
+00:02:30.310 --> 00:02:31.490
+convertirlo en el exponente.
+
+00:02:31.490 --> 00:02:34.030
+Allí está una regla exponencial, o
+
+00:02:34.030 --> 00:02:35.440
+una propiedad del logaritmo.
+
+00:02:35.440 --> 00:02:38.810
+1 sobre delta de x.
+
+00:02:38.810 --> 00:02:40.100
+Ahora voy a hacer una sustitución.
+
+00:02:40.100 --> 00:02:43.910
+Recuerden, todo esto, todo esto es el resultado de mi definición
+
+00:02:43.910 --> 00:02:44.500
+de una derivada.
+
+00:02:44.500 --> 00:02:46.130
+Esto fue todo igual a la derivada del
+
+00:02:46.130 --> 00:02:47.740
+logaritmo natural de x.
+
+00:02:47.740 --> 00:02:51.250
+Todavía tengo que usar esto de algún modo.
+
+00:02:51.250 --> 00:02:54.550
+Y no lo usaré hasta que no se los demuestre a ustedes.
+
+00:02:54.550 --> 00:02:57.600
+Me he puesto muy a la defensiva en cuanto a estas afirmaciones
+
+00:02:57.600 --> 00:03:00.180
+de circularidad.
+
+00:03:00.180 --> 00:03:03.040
+Son mi culpa porque eso prueba que yo no estaba lo suficiente claro
+
+00:03:03.040 --> 00:03:05.950
+en mis primeras versiones de estas pruebas, asi que trataré
+
+00:03:05.950 --> 00:03:07.140
+de ser mas claro esta vez.
+
+00:03:07.140 --> 00:03:09.120
+De modo que veremos si podemos simplificar esto en términos
+
+00:03:09.120 --> 00:03:10.840
+que reconocemos.
+
+00:03:10.840 --> 00:03:15.860
+Hagamos la sustitución de modo que podamos obtener 
+e en
+
+00:03:15.860 --> 00:03:17.790
+términos que tal vez reconozcamos.
+
+00:03:17.790 --> 00:03:26.830
+Hagamos que el sustituto delta x sobre x sea igual a 1 sobre n.
+
+00:03:26.830 --> 00:03:28.490
+Si multiplicamos- esto es la misma cosa.
+
+00:03:28.490 --> 00:03:29.890
+Esto es el equivalente a la sustitución.
+
+00:03:29.890 --> 00:03:32.910
+Si multiplicamos ambos lados de esto por x, como si dijéramos que
+
+00:03:32.910 --> 00:03:36.160
+delta x es igual a x sobre n.
+
+00:03:36.160 --> 00:03:37.200
+Estas son declaraciones equivalentes.
+
+00:03:37.200 --> 00:03:40.490
+Aquí hr multiplicado ambos lados por x.
+
+00:03:40.490 --> 00:03:46.480
+Ahora, si tomamos el limite cuando n se acerca al infinito de este
+
+00:03:46.480 --> 00:03:49.780
+termino, esto es equivalente. Esto es completamente
+
+00:03:49.780 --> 00:03:53.670
+equivalente a tomar el limite de delta de x caundo se aproxima a 0.
+
+00:03:56.680 --> 00:03:59.890
+Si estamos definiendo delta de x, para que sea esto y tomamos
+
+00:03:59.890 --> 00:04:02.590
+el limite cuando su denominado cuando se aproxima a 0, vamos a
+
+00:04:02.590 --> 00:04:05.120
+hacer que delta de x vaya a 0.
+
+00:04:05.120 --> 00:04:06.520
+Entonces hagamos la sustitucion.
+
+00:04:06.520 --> 00:04:12.810
+Entonces todo esto va a ser igual al limite y ahora
+
+00:04:12.810 --> 00:04:14.275
+hemos eliminado nuestra delta de x
+
+00:04:14.275 --> 00:04:19.000
+Vamos a decir que cuando el limite se aproxima a infinito el
+
+00:04:19.000 --> 00:04:23.380
+logaritmo natual -- regreso el color malva -- el
+
+00:04:23.380 --> 00:04:28.900
+logaritmo natural de 1 mas -- ahora, digo que en lugar de delta de x sobre x,
+
+00:04:28.900 --> 00:04:31.580
+Hice la substitucion de que es igual 1 sobre n
+
+00:04:31.580 --> 00:04:35.010
+Entonces esto es 1 mas 1 sobre n
+
+00:04:35.010 --> 00:04:37.860
+y entonces que es 1 sobre delta de x?
+
+00:04:37.860 --> 00:04:41.690
+Bueno pues delta de x es igual a x sobre n, entonces 1 sobre delta de x va a ser
+
+00:04:41.690 --> 00:04:42.875
+el inverso de esto.
+
+00:04:42.875 --> 00:04:47.140
+va a ser n sobre x.
+
+00:04:47.140 --> 00:04:50.700
+y entoces podemos re escribir esta expresion --
+
+00:04:50.700 --> 00:04:52.670
+dejame re escribirla una vez mas.
+
+00:04:52.670 --> 00:04:58.600
+Esto es igual al límite conforme n se aproxima al infinito del
+
+00:04:58.600 --> 00:05:02.730
+logaritmo natural de 1 mas 1 sobre n.
+
+00:05:02.730 --> 00:05:05.610
+Lo que puedo hacer es separar esta n del 1 sobre x
+
+00:05:05.610 --> 00:05:08.130
+I puedo decir que esto es a n, y todo esto es
+
+00:05:08.130 --> 00:05:11.200
+al 1 sobre x.
+
+00:05:11.200 --> 00:05:13.730
+Una vez mas, esto es solo una propiedad del exponente.
+
+00:05:13.730 --> 00:05:16.290
+Si elevo algo a la n y a la 1 sobre x,
+
+00:05:16.290 --> 00:05:18.110
+podría sólo multiplicar los exponentes para llegar
+
+00:05:18.110 --> 00:05:19.660
+al n sobre x.
+
+00:05:19.660 --> 00:05:21.660
+Así estas dos expersiones son equivalentes.
+
+00:05:21.660 --> 00:05:24.720
+Pero ahora podemos usar propiedades de los logaritmos para decir: Hey, si esto
+
+00:05:24.720 --> 00:05:26.730
+es el exponente, puedo sacarlo al frente del
+
+00:05:26.730 --> 00:05:29.100
+coeficiente, justo aquí.
+
+00:05:29.100 --> 00:05:32.300
+Podría ponerlo aquí afuera.
+
+00:05:32.300 --> 00:05:34.830
+Y recuerden, todo ésto era la derivada con respecto
+
+00:05:34.830 --> 00:05:37.710
+x del logaritmo natural de x.
+
+00:05:37.710 --> 00:05:38.680
+Así que, a qué es igual eso?
+
+00:05:38.680 --> 00:05:41.340
+Podríamos poner éste 1 fuera de x, aquí al frente.
+
+00:05:41.340 --> 00:05:44.040
+De hecho, ese 1 fuera del termino x, no tiene nada que ver con n.
+
+00:05:44.040 --> 00:05:45.550
+Es como un termino constante si lo piensas
+
+00:05:45.550 --> 00:05:46.290
+en terminos de n.
+
+00:05:46.290 --> 00:05:49.000
+Así que de hecho podemos ponerlo hasta acá afuera.
+
+00:05:49.000 --> 00:05:50.060
+Podríamos ponerlo en cualquiera de los dos lugares.
+
+00:05:50.060 --> 00:05:55.490
+Así que podríamos decir 1 sobre x multiplicado por todo esto en color malva.
+
+00:05:55.490 --> 00:06:03.400
+El límite cuando n se acerca al infinito de el logaritmo natural
+
+00:06:03.400 --> 00:06:08.680
+de 1 mas 1 sobre n elevado a la n.
+
+00:06:08.680 --> 00:06:10.560
+El logaritmo natural de todo eso.
+
+00:06:10.560 --> 00:06:14.670
+O, sólo para dejarlo en claro, podemos re-escribir ésta
+
+00:06:14.670 --> 00:06:19.550
+parte -- permitanme usar un color salmón -- igual a 1 sobre x
+
+00:06:19.550 --> 00:06:27.420
+multiplicado por el logaritmos natural del limite cuando n se acerca al infinito.
+
+00:06:27.420 --> 00:06:30.015
+Únicamente estoy cambiando lugares aquí, porque obviamente lo que nos importa
+
+00:06:30.015 --> 00:06:33.830
+es lo que le pasa a este termino cuando se acerca a infinito,
+
+00:06:33.830 --> 00:06:37.550
+de 1 mas 1 sobre n elevado a la n.
+
+00:06:37.550 --> 00:06:39.910
+Bueno, esto -- ésto les debe ser familiar
+
+00:06:39.910 --> 00:06:42.760
+por algunos de los primeros videos en los cuales hablamos de e --
+
+00:06:42.760 --> 00:06:45.020
+es una de las definiciones de e.
+
+00:06:45.020 --> 00:06:46.030
+e está definida.
+
+00:06:46.030 --> 00:06:46.880
+Sólo estoy tratando de ser claro aquí.
+
+00:06:46.880 --> 00:06:50.650
+Aún no estoy usando ésto en absoluto.
+
+00:06:50.650 --> 00:06:55.020
+Únicamente estoy diciendo que la de definición de e, e es igual
+
+00:06:55.020 --> 00:07:00.760
+al limite cuando n se acerca a infinito de 1 mas
+
+00:07:00.760 --> 00:07:02.750
+1 sobre n, elevado a la n.
+
+00:07:02.750 --> 00:07:04.490
+Ésto es sólo la definición de e.
+
+00:07:04.490 --> 00:07:07.330
+Y el logaritmo natural se define como el logaritmo
+
+00:07:07.330 --> 00:07:09.670
+de base, ésto de aquí.
+
+00:07:09.670 --> 00:07:12.890
+De modo que esto de aquí es e.
+
+00:07:12.890 --> 00:07:14.510
+Así que solo estoy diciendo que la derivada del logaritmo natural
+
+00:07:14.510 --> 00:07:18.680
+de x es igual a 1 sobre x multiplicado por el logaritmo natural.
+
+00:07:18.680 --> 00:07:19.860
+Esto de aquí es e.
+
+00:07:19.860 --> 00:07:22.050
+Esa es la definición de e.
+
+00:07:22.050 --> 00:07:24.800
+No estoy usando la definición de la derivada de e, o
+
+00:07:24.800 --> 00:07:28.360
+la definición de la derivada de e elevada a la x.
+
+00:07:28.360 --> 00:07:30.450
+Únicamente estoy usando la definición de e.
+
+00:07:30.450 --> 00:07:35.120
+Y la definición de logaritmo natural, que es logaritmo base e.
+
+00:07:35.120 --> 00:07:38.370
+Ésto nos da la potencia a la que deben elevar e para obtener e,
+
+00:07:38.370 --> 00:07:40.870
+y bueno, esto es simplemente igual a 1.
+
+00:07:40.870 --> 00:07:43.620
+Ahí obtenemos que la derivada del logaritmo natural
+
+00:07:43.620 --> 00:07:47.400
+de x es igual a 1 sobre x.
+
+00:07:47.400 --> 00:07:52.110
+Así que, hasta el momento creo que estarán satisfechos con que hemos probado
+
+00:07:52.110 --> 00:07:56.450
+esta primera afirmación aquí arriba, y de ninguna manera hemos usado
+
+00:07:56.450 --> 00:07:58.020
+ésta afirmación de aquí.
+
+00:07:58.020 --> 00:08:01.540
+Únicamente use la definición de e, pero eso esta bien.
+
+00:08:01.540 --> 00:08:04.420
+Es decir, asumimos que conocemos la definición de e, aun cuando
+
+00:08:04.420 --> 00:08:07.070
+únicamente hablamos acerca del logaritmo natural, asumimos que es base e.
+
+00:08:07.070 --> 00:08:10.820
+De ninguna manera asumí esto al comenzar.
+
+00:08:10.820 --> 00:08:13.760
+Ahora, dado que hemos mostrado esto y no asumimos
+
+00:08:13.760 --> 00:08:16.750
+esto en absoluto, vamos a ver si podemos mostrar esto.
+
+00:08:16.750 --> 00:08:22.270
+Así que la derivada -- hagamos un pequeño ejercicio aquí.
+
+00:08:26.610 --> 00:08:30.170
+De hecho, tal vez podría hacerlo en los margenes.
+
+00:08:30.170 --> 00:08:34.220
+Tomemos la derivada de ésta función.
+
+00:08:34.220 --> 00:08:37.246
+El logaritmo natural de e elevado a la x.
+
+00:08:40.250 --> 00:08:42.140
+Así que hay dos maneras en las que podemos abordar esto.
+
+00:08:42.140 --> 00:08:45.210
+En la primera manera podríamos simplificar ésto y podríamos decir que ésto es
+
+00:08:45.210 --> 00:08:47.520
+exactamente igual a la derivada.
+
+00:08:47.520 --> 00:08:51.740
+Podríamos poner ésta x al frente de x multiplicado por
+
+00:08:51.740 --> 00:08:53.820
+el logaritmo natural de e.
+
+00:08:53.820 --> 00:08:55.910
+Y cuál es el logaritmo natural de e?
+
+00:08:55.910 --> 00:09:01.460
+Ya conocemos el logaritmo natural de e, y es igual a 1.
+
+00:09:01.460 --> 00:09:03.930
+Así que esto es únicamente la derivada de x.
+
+00:09:03.930 --> 00:09:08.030
+Y la derivada de x es igual a 1.
+
+00:09:08.030 --> 00:09:09.190
+Así que eso muy sencillo.
+
+00:09:09.190 --> 00:09:13.540
+La derivada, de ninguna manera asumimos ésto.
+
+00:09:13.540 --> 00:09:16.140
+Únicamente simplificamos la expresión , ésto es
+
+00:09:16.140 --> 00:09:18.260
+lo mismo que la derivada de x, ya que estos
+
+00:09:18.260 --> 00:09:19.660
+terminos se cancelan.
+
+00:09:19.660 --> 00:09:21.600
+Y la derivada de x es simplemente 1.
+
+00:09:21.600 --> 00:09:23.210
+O podríamos haberlo hecho de la otra manera.
+
+00:09:23.210 --> 00:09:25.380
+Podríamos haber usado la regla de la cadena.
+
+00:09:25.380 --> 00:09:29.640
+Podríamos haber dicho que ésto podría ser visto como la derivada de
+
+00:09:29.640 --> 00:09:33.960
+esta función interna, de ésta expresión interna, así que
+
+00:09:33.960 --> 00:09:35.180
+la derivada de la expresión interna, no se
+
+00:09:35.180 --> 00:09:35.970
+lo que és.
+
+00:09:35.970 --> 00:09:37.660
+No estoy asumiendo nada al respecto.
+
+00:09:37.660 --> 00:09:38.720
+Simplemente no conozco que es.
+
+00:09:38.720 --> 00:09:40.410
+Asi que lo escribiré en amarillo aquí.
+
+00:09:40.410 --> 00:09:42.650
+Así que es igual a la derivada con respecto
+
+00:09:42.650 --> 00:09:45.080
+a x de e elevado a x.
+
+00:09:45.080 --> 00:09:46.080
+No conozco lo que es esto.
+
+00:09:46.080 --> 00:09:48.350
+No tengo idea de lo que es, y no he asumido
+
+00:09:48.350 --> 00:09:49.430
+nada al respecto.
+
+00:09:49.430 --> 00:09:51.150
+Únicamente estoy usando la regla de la cadena.
+
+00:09:51.150 --> 00:09:54.070
+Si la derivada de esta función interna con respecto a
+
+00:09:54.070 --> 00:09:57.920
+x, que está justo aquí, multiplicado por la derivada de ésta
+
+00:09:57.920 --> 00:10:01.410
+función externa con respecto a la función interna.
+
+00:10:01.410 --> 00:10:04.080
+Asi que la derivada del logaritmo natural de x con respecto
+
+00:10:04.080 --> 00:10:05.730
+a x es 1 sobre x.
+
+00:10:05.730 --> 00:10:08.160
+Así que la derivada del logaritmo natural de algo con
+
+00:10:08.160 --> 00:10:10.310
+a algo es igual a 1 sobre ese algo.
+
+00:10:10.310 --> 00:10:13.710
+Así que será igual a -- de modo que la derivada
+
+00:10:13.710 --> 00:10:15.850
+del logaritmo natural de x con respecto a e elevado a x, es igual a 1
+
+00:10:15.850 --> 00:10:19.190
+sobre e elevado a la x.
+
+00:10:19.190 --> 00:10:23.860
+Una vez más, en ningun momento asumí esto de aquí.
+
+00:10:23.860 --> 00:10:26.920
+Hasta el momento en todo lo que hemos hecho, no hemos asumido eso.
+
+00:10:26.920 --> 00:10:30.580
+Pero claramente, mis derivadas, sin importar la manera en que las resuelva -- usando una manera
+
+00:10:30.580 --> 00:10:32.210
+para resolverla obtuve un 1.
+
+00:10:32.210 --> 00:10:34.650
+De la otra manera, de algun modo no la resolví.
+
+00:10:34.650 --> 00:10:37.030
+Obtuve ésta expresión de aquí.
+
+00:10:37.030 --> 00:10:39.226
+Deben ser iguales entre sí.
+
+00:10:39.226 --> 00:10:40.760
+Así que permitanme escribir ésto.
+
+00:10:40.760 --> 00:10:42.330
+Ésto debe ser igual a lo de alla.
+
+00:10:42.330 --> 00:10:44.260
+Simplemente visualizamos ésto de dos maneras distintas y
+
+00:10:44.260 --> 00:10:45.620
+obtuvimos dos resultados diferentes.
+
+00:10:45.620 --> 00:10:47.340
+Pero aún no conozco lo que ésto de aquí es.
+
+00:10:47.340 --> 00:10:49.400
+Simplemente lo dejé abierto de algun modo.
+
+00:10:49.400 --> 00:10:51.010
+Únicamente dije, cualquiera que sea la derivada de e
+
+00:10:51.010 --> 00:10:52.700
+elevado a la x.
+
+00:10:52.700 --> 00:10:56.480
+Pero sabemos que, debido a que estas dos expresiones son iguales, sabemos
+
+00:10:56.480 --> 00:11:01.150
+que la derivada con respecto a x de cualquiera que sea e
+
+00:11:01.150 --> 00:11:03.635
+elevado a la x -- así que cualquiera que sea la derivada con respecto a x de
+
+00:11:03.635 --> 00:11:07.140
+e elevado a la x, sabemos que cuando multiplicamos eso
+
+00:11:07.140 --> 00:11:11.340
+por 1 sobre e elevado a la x -- ahí es cuando usamos la
+
+00:11:11.340 --> 00:11:13.960
+regla de la cadena -- deberíamos obtener el mismo resultado que cuando
+
+00:11:13.960 --> 00:11:15.930
+afrontamos el problema del otro modo.
+
+00:11:15.930 --> 00:11:18.840
+Eso debe ser igual al otro procedimiento dado que ambos son
+
+00:11:18.840 --> 00:11:21.070
+maneras diferentes de ver la derivada del
+
+00:11:21.070 --> 00:11:22.530
+logaritmo natural de e elevado a la x.
+
+00:11:22.530 --> 00:11:24.990
+Así que eso debe ser igual a 1.
+
+00:11:24.990 --> 00:11:27.090
+Bueno, ya casi terminamos.
+
+00:11:27.090 --> 00:11:29.650
+Podríamos simplificar esto y resolver para encontrar la misteriosa
+
+00:11:29.650 --> 00:11:31.250
+derivada de e elevada a la x.
+
+00:11:31.250 --> 00:11:34.520
+Multipliquen ambos lados de la ecuación por e elevado a la x, y ustedes
+
+00:11:34.520 --> 00:11:38.890
+obtendrán que la derivada con respecto a x de e elevada a la x es
+
+00:11:38.890 --> 00:11:41.630
+igual a e elevada a la x.
+
+00:11:41.630 --> 00:11:43.790
+Y quiero clarificar ésto.
+
+00:11:43.790 --> 00:11:47.650
+En ningún punto de la prueba, en ningún punto
+
+00:11:47.650 --> 00:11:50.300
+asumí esto de aquí.
+
+00:11:50.300 --> 00:11:52.090
+De hecho, ésta es la primera vez que
+
+00:11:52.090 --> 00:11:54.880
+estoy haciendo ésta afirmación.
+
+00:11:54.880 --> 00:11:58.080
+No tuve que asumir ésto cuando les mostré que
+
+00:11:58.080 --> 00:12:00.850
+la derivada del logaritmo natural de x es 1 sobre x.
+
+00:12:00.850 --> 00:12:04.580
+y no tuve que asumir ésto para obtenerlo de alguna manera.
+
+00:12:04.580 --> 00:12:07.320
+De modo que ésto no es, en ningún modo, una prueba circular.
+
+00:12:07.320 --> 00:12:10.520
+Así que, no quize mostrarme a la defensiva, pero
+
+00:12:10.520 --> 00:12:12.080
+quería clarificar ésto.
+
+00:12:12.080 --> 00:12:17.080
+Porque no quiero culpar de ninguna manera a aquellos que piensan que
+
+00:12:17.080 --> 00:12:18.910
+mi prueba original fue circular.
+
+00:12:18.910 --> 00:12:21.370
+Fue mi culpa por no haberla explicado correctamente.
+
+00:12:21.370 --> 00:12:23.580
+Espero que esto haya dado un poco de
+
+00:12:23.580 --> 00:12:25.910
+claridad al respecto.

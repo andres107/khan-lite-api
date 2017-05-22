@@ -1,0 +1,303 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.315 --> 00:00:02.123
+Digámos que eres yo y estás en clases de matemáticas
+
+00:00:02.123 --> 00:00:03.964
+y se supone que estás aprendiendo trigonometría
+
+00:00:03.964 --> 00:00:05.622
+pero tienes problemas para poner atención porque
+
+00:00:05.622 --> 00:00:07.879
+es aburrido y estúpido. Eso no es tu culpa.
+
+00:00:07.879 --> 00:00:09.307
+Ni siquiera es culpa de tu profesor.
+
+00:00:09.322 --> 00:00:12.576
+Es culpa de pi, porque pi está mal.
+
+00:00:12.622 --> 00:00:15.999
+No quiero decir que pi está incorrecto. La proporción entre el diámetro de un círculo y su circunferencia
+
+00:00:15.999 --> 00:00:18.011
+sigue siendo 3,14 y lo demás.
+
+00:00:18.011 --> 00:00:21.231
+Quiero decir que pi, como concepto, es un error terrible
+
+00:00:21.231 --> 00:00:23.754
+que ha seguido sin ser corregido por miles de años.
+
+00:00:23.754 --> 00:00:26.587
+El problema con pi y el die del pie es el mismo que el problema con
+
+00:00:26.587 --> 00:00:30.815
+Colón y el día de la Raza. Seguro, Cristobal Colón fue una persona real que hizo algunas cosas,
+
+00:00:30.815 --> 00:00:34.249
+pero todo lo que aprendieron de él en la escuela está muy trabajado y se le da demasiado énfasis.
+
+00:00:34.249 --> 00:00:39.281
+Él no descubrió América, no descubrió que la Tierra es redonda, y era un poco imbécil.
+
+00:00:39.281 --> 00:00:41.539
+¿Entonces por qué celebramos el día de la Raza?
+
+00:00:41.539 --> 00:00:44.180
+Lo mismo con pi. Aprenden en la escuela que pi es la importante
+
+00:00:44.180 --> 00:00:47.401
+constante del círculo, y tuvieron que memorizar un puñado de ecuaciones relacionadas.
+
+00:00:47.401 --> 00:00:50.503
+Porque así es como ha sido enseñado por un largo tiempo.
+
+00:00:50.503 --> 00:00:53.858
+Si encuentran cualquiera de estas ecuaciones confusas, no es su culpa,
+
+00:00:53.858 --> 00:00:55.738
+es simplemente que pi está mal.
+
+00:00:55.738 --> 00:00:57.317
+Déjenme mostrarles a lo que me refiero.
+
+00:00:57.317 --> 00:00:59.530
+Radianes, un buen sistema para medir ángulos cuando
+
+00:00:59.530 --> 00:01:02.347
+se hablamos de matemáticas. Debería tener sentido, pero no lo tiene,
+
+00:01:02.347 --> 00:01:04.069
+porque pi lo echa a perder.
+
+00:01:04.069 --> 00:01:06.124
+Por ejemplo, ¿cuánto pi(pie) es esto?
+
+00:01:06.124 --> 00:01:09.915
+Pueden pensar que esto debe ser un pi, pero no lo es.
+
+00:01:09.915 --> 00:01:13.778
+Todos los 360° de pie son realmente 2 pi.
+
+00:01:13.778 --> 00:01:14.846
+¿Qué?
+
+00:01:14.846 --> 00:01:16.815
+Digamos que les pregunto cuánto pie quieren, y ustedes dicen un octavo de pi.
+
+00:01:16.815 --> 00:01:19.668
+Ustedes pensarían que eso debe ser un octavo de pie, pero no lo es.
+
+00:01:19.668 --> 00:01:21.663
+Es un dieciseisavo de pie.
+
+00:01:21.663 --> 00:01:23.254
+Eso es confuso.
+
+00:01:23.439 --> 00:01:26.356
+Pueden estar pensando "vamos, Vi, es una simple conversión,
+
+00:01:26.356 --> 00:01:30.581
+todo lo que tienes que hacer es dividir por 2. O multiplicar por 2 si estás yendo hacia el otro lado".
+
+00:01:30.581 --> 00:01:33.901
+Así que sólo tienes que asegurarte... de prestar.... atención... hacia qué lad...
+
+00:01:33.901 --> 00:01:36.247
+¡No! Están poniendo excusas por pi.
+
+00:01:36.247 --> 00:01:39.590
+Las matemáticas deberían ser tan elegantes y hermosas como sea posible.
+
+00:01:39.590 --> 00:01:42.543
+Cuando complican algo que debería ser tan simple como
+
+00:01:42.543 --> 00:01:44.468
+1 pi igual a 1 pie
+
+00:01:44.468 --> 00:01:48.600
+al sumar esta conversión, algo se pierde en la traducción.
+
+00:01:48.600 --> 00:01:51.620
+Pero Vi, preguntarán ustedes, ¿hay una mejor manera?
+
+00:01:51.620 --> 00:01:53.975
+Bueno, para este ejemplo en particular hay una respuesta sencilla
+
+00:01:53.975 --> 00:01:57.324
+para qué tienen que hacer para hacer que un pie sea un pi en vez de 2pi.
+
+00:01:57.324 --> 00:02:01.484
+Pueden redefinir pi para que sea 2pi. O 6,28 y el resto.
+
+00:02:01.484 --> 00:02:05.635
+Pero no quiero redefinir pi porque eso sería confuso.
+
+00:02:05.635 --> 00:02:07.410
+Así que utilicemos una letra diferente: tau.
+
+00:02:07.410 --> 00:02:09.716
+Porque tau se ve un poco como pi.
+
+00:02:09.716 --> 00:02:13.319
+Un círculo completo sería un tau, medio círculo medio tau. O tau/2.
+
+00:02:13.319 --> 00:02:18.973
+Y si quieren un dieciseisavo de pie, quieren tau/16.
+
+00:02:18.973 --> 00:02:21.047
+Eso sería simple.
+
+00:02:21.047 --> 00:02:25.414
+Pero Vi, dicen ustedes, eso parece mas bien arbitrario. Seguro, tau hace a los radianes más fáciles,
+
+00:02:25.414 --> 00:02:29.543
+pero sería una molestia tener que convertir de tau a pi cada vez que quieras trabajar con radianes.
+
+00:02:29.543 --> 00:02:33.414
+Cierto, pero las matemáticas se tratan de inventar cosas y ver qué pasa.
+
+00:02:33.414 --> 00:02:36.068
+Así que veamos qué pasa si utilizamos tau en otras ecuaciones.
+
+00:02:36.068 --> 00:02:40.752
+En las clases de matemáticas les hacen memorizar cosas como ésta, para que puedan dibujar gráficos como éste.
+
+00:02:40.752 --> 00:02:43.951
+Quiero decir, claro, pueden derivar estos valores cada vez, pero no lo hacen,
+
+00:02:43.951 --> 00:02:49.515
+porque es más facil simplemente memorizarlos, o usar su calculadora, porque pi y los radianes son confusos.
+
+00:02:49.515 --> 00:02:54.080
+Esta horrible notación nos hace olvidar lo que la onda seno (sin) realmente representa,
+
+00:02:54.080 --> 00:02:58.075
+que es cuán alto está este punto cuando se ha dado tanta vuelta alrededor de este círculo unitario.
+
+00:02:58.075 --> 00:03:01.418
+Cuando sus radianes están anotados horrorosamente, toda la trigonometría
+
+00:03:01.418 --> 00:03:05.115
+se vuelve espantosa. Pero no tiene que ser de esta manera.
+
+00:03:05.115 --> 00:03:06.667
+¿Qué tal si ocupamos tau?
+
+00:03:06.667 --> 00:03:09.299
+Hagamos una onda de seno empezando con tau en cero.
+
+00:03:09.299 --> 00:03:12.025
+La altura de sin(tau) también es cero.
+
+00:03:12.025 --> 00:03:14.876
+En tau/4 hemos recorrido un cuarto del camino alrededor del círculo.
+
+00:03:14.876 --> 00:03:18.926
+La altura, o el valor de y en este punto es obviamente 1 cuando no tienen
+
+00:03:18.926 --> 00:03:24.405
+que hacer el paso extra--hacer la conversión en su cabeza de que pi/2 es realmente un cuarto de círculo.
+
+00:03:24.405 --> 00:03:27.749
+Tau/2, mitad de círculo, de vuelta a cero.
+
+00:03:27.749 --> 00:03:30.907
+3/4 de tau, 3/4 de vuelta, -1.
+
+00:03:30.907 --> 00:03:33.751
+Una vuelta completa nos regresa a cero. ¡Y bam!
+
+00:03:33.751 --> 00:03:36.204
+Eso simplemente tiene sentido. ¿Por qué?
+
+00:03:36.204 --> 00:03:38.755
+Porque nosotros no hacemos círculos usando el diámetro,
+
+00:03:38.755 --> 00:03:40.837
+hacemos círculos usando el radio.
+
+00:03:40.837 --> 00:03:43.273
+El largo del radio es la cosa fundamental que
+
+00:03:43.273 --> 00:03:46.312
+determina la circunferencia de un círculo, así que
+
+00:03:46.312 --> 00:03:50.580
+por qué definiriamos la constante del círculo como la proporción entre diámetro y circunferencia.
+
+00:03:50.580 --> 00:03:55.593
+Definiéndola como la proporción entre radio y circunferencia hace que todo tenga mucho más sentido.
+
+00:03:55.593 --> 00:03:57.364
+Y así es como obtienen nuestra querida tau.
+
+00:03:57.364 --> 00:04:00.046
+Hay un montón de ecuaciones e identidades importantes donde
+
+00:04:00.046 --> 00:04:03.878
+aparece 2pi, que podría y debería ser simplificado a tau.
+
+00:04:03.878 --> 00:04:06.248
+Pero Vi, dicen ustedes, ¿qué hay de e^i*pi ?
+
+00:04:06.248 --> 00:04:09.168
+¿Realmente estás sugiriendo que la arruinemos haciéndola
+
+00:04:09.168 --> 00:04:12.037
+e^(i*tau/2) igual a -1?
+
+00:04:12.037 --> 00:04:14.421
+A lo que respondo, ¿¡quién creen que soy!?
+
+00:04:14.421 --> 00:04:18.611
+Nunca sugeriría hacer algo tan horroroso como matar la identidad de Euler.
+
+00:04:18.611 --> 00:04:20.905
+Que, por cierto, viene de la ecuación de Euler que es
+
+00:04:20.905 --> 00:04:24.568
+e^(i*theta) igual a cos(theta) + sin(theta)
+
+00:04:24.568 --> 00:04:27.037
+Reemplacemos theta con tau.
+
+00:04:27.037 --> 00:04:30.741
+Es fácil recordar que el seno o valor de y de una vuelta completa de tau
+
+00:04:30.741 --> 00:04:34.845
+en un círculo unitario es cero. Así que esto es cero.
+
+00:04:34.845 --> 00:04:38.091
+El coseno de una vuelta completa es el valor de x, que es 1.
+
+00:04:38.091 --> 00:04:41.703
+Así que vean esto, e^(i*tau) es igual a uno.
+
+00:04:41.703 --> 00:04:43.262
+¡Qué tal!
+
+00:04:43.262 --> 00:04:46.274
+Si aun no están convencidos, les recomiendo que lean el manifiesto de Tau
+
+00:04:46.274 --> 00:04:48.974
+de Michel Hartl, quien hace un muy detallado trabajo refiriéndose a cada
+
+00:04:48.974 --> 00:04:51.846
+posible queja en tauday.com.
+
+00:04:51.846 --> 00:04:54.081
+Si aún quieren celebrar el día de pie, está bien.
+
+00:04:54.081 --> 00:04:56.078
+Pueden tener su pie y comérselo.
+
+00:04:56.078 --> 00:05:03.278
+Pero espero que todos ustedes me acompañen el 28 de junio, porque estaré haciendo tau y comiendo también.
+
+00:05:12.432 --> 00:05:16.368
+Tengo pie aquí y pie allá, estoy pie-ganando.

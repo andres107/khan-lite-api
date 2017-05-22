@@ -1,0 +1,932 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.800
+.
+
+00:00:00.800 --> 00:00:04.100
+Ahora demostraré mi manera preferida de encontrar la
+
+00:00:04.100 --> 00:00:05.770
+inversa de una matriz de 3 por 3.
+
+00:00:05.770 --> 00:00:07.220
+Y realmente creo que es mucho más divertido.
+
+00:00:07.220 --> 00:00:09.150
+Y es menos probable cometer errores por descuido.
+
+00:00:09.150 --> 00:00:11.020
+Pero si recuerdo correctamente de álgebra 2, no lo hicieron
+
+00:00:11.020 --> 00:00:12.760
+de este modo en Algebra 2.
+
+00:00:12.760 --> 00:00:14.900
+Y por eso enseño la otra forma principalmente.
+
+00:00:14.900 --> 00:00:16.170
+Pero repasemos esto.
+
+00:00:16.170 --> 00:00:20.140
+Y en un futuro vídeo, les enseñaré por qué funciona.
+
+00:00:20.140 --> 00:00:21.310
+Ya que siempre es importante.
+
+00:00:21.310 --> 00:00:23.780
+Pero en álgebra lineal, este es uno de los pocos temas donde
+
+00:00:23.780 --> 00:00:26.670
+Creo que es muy importante aprender a hacer las operaciones
+
+00:00:26.670 --> 00:00:28.790
+primero. Y, luego, más tarde, aprenderemos el por qué.
+
+00:00:28.790 --> 00:00:30.430
+Porque el cómo es muy mecánico.
+
+00:00:30.430 --> 00:00:32.880
+Y realmente sólo implica cierta aritmética básica
+
+00:00:32.880 --> 00:00:34.380
+en su mayor parte...
+
+00:00:34.380 --> 00:00:39.070
+Pero el por qué tiende a ser bastante profundo.
+
+00:00:39.070 --> 00:00:41.170
+Así lo dejaré a videos posteriores.
+
+00:00:41.170 --> 00:00:43.820
+A menudo podemos pensar en la profundidad de las cosas cuando uno
+
+00:00:43.820 --> 00:00:46.550
+tiene la confianza de que se comprendieron por lo menos los cómo.
+
+00:00:46.550 --> 00:00:49.730
+Pero en fin, volvamos a nuestra matriz original.
+
+00:00:49.730 --> 00:00:51.090
+¿Cúal era la matriz original que
+
+00:00:51.090 --> 00:00:52.280
+hice en el último video?
+
+00:00:52.280 --> 00:01:03.850
+Era 1, 0, 1, 0, 2, 1, 1, 1, 1.
+
+00:01:03.850 --> 00:01:07.160
+Y queríamos encontrar la inversa de esta matriz.
+
+00:01:07.160 --> 00:01:08.910
+Así que esto es lo que vamos a hacer.
+
+00:01:08.910 --> 00:01:12.710
+Se llama eliminación de Gauss-Jordan, para encontrar la
+
+00:01:12.710 --> 00:01:13.720
+inversa de la matriz.
+
+00:01:13.720 --> 00:01:15.840
+Y la manera de hacerlo--y puede parecer un poco como
+
+00:01:15.840 --> 00:01:18.860
+magia, puede parecer un poco como vudú, pero creo
+
+00:01:18.860 --> 00:01:20.370
+que verá en videos futuros que le dan mucho sentido.
+
+00:01:20.370 --> 00:01:22.770
+Lo que hacemos es aumentar esta matriz.
+
+00:01:22.770 --> 00:01:23.560
+¿Que significa eso?
+
+00:01:23.560 --> 00:01:25.440
+Esto significa que sólo agregamos algo a ella.
+
+00:01:25.440 --> 00:01:26.830
+Por lo que escribo una línea divisoria.
+
+00:01:26.830 --> 00:01:28.486
+Algunas personas no lo hacen.
+
+00:01:28.486 --> 00:01:31.290
+Así que pongo aquí una línea divisoria aquí.
+
+00:01:31.290 --> 00:01:34.080
+¿Y que pongo en el otro lado de la línea divisoria?
+
+00:01:34.080 --> 00:01:37.640
+Pongo la matriz identidad del mismo tamaño.
+
+00:01:37.640 --> 00:01:41.140
+Esta es de 3 por 3, así que puse una matriz de identidad de 3 por 3.
+
+00:01:41.140 --> 00:01:51.600
+Eso es 1, 0, 0, 0, 1, 0, 0, 0, 1.
+
+00:01:51.600 --> 00:01:54.870
+¿Entonces que vamos a hacer?
+
+00:01:54.870 --> 00:01:58.670
+Lo que voy a hacer es realizar una serie de
+
+00:01:58.670 --> 00:01:59.620
+operaciones elementales por fila.
+
+00:01:59.620 --> 00:02:02.940
+Y estoy a punto de decir que es una operación elemental
+
+00:02:02.940 --> 00:02:04.610
+válida para esta matriz.
+
+00:02:04.610 --> 00:02:07.440
+Pero lo que sea que haga, a cualquiera de estas
+filas aquí, tengo que hacerlo
+
+00:02:07.440 --> 00:02:09.360
+a las filas correspondientes de acá.
+
+00:02:09.360 --> 00:02:12.690
+Y mi meta es esencialmente realizar un montón de operaciones
+
+00:02:12.690 --> 00:02:14.150
+en el lado izquierdo.
+
+00:02:14.150 --> 00:02:15.830
+Y por supuesto, las mismas operaciones se aplicarán a
+
+00:02:15.830 --> 00:02:18.690
+el lado derecho , para que finalmente termine con la
+
+00:02:18.690 --> 00:02:21.320
+matriz identidad en el lado izquierdo.
+
+00:02:21.320 --> 00:02:23.310
+Y luego, cuando tenga la matriz identidad de la izquierda
+
+00:02:23.310 --> 00:02:26.400
+lo que me queda en el lado derecho será
+
+00:02:26.400 --> 00:02:28.690
+la inversa de la matriz original.
+
+00:02:28.690 --> 00:02:32.680
+Y cuando esto se convierte en una matriz de identidad, que
+
+00:02:32.680 --> 00:02:34.950
+en realidad se llama forma reducida de escalón o escalonada.
+
+00:02:34.950 --> 00:02:36.320
+Ya hablaré más sobre eso.
+
+00:02:36.320 --> 00:02:39.200
+Hay un montón de nombres y etiquetas en álgebra lineal.
+
+00:02:39.200 --> 00:02:41.480
+Pero son conceptos realmente bastante simples.
+
+00:02:41.480 --> 00:02:44.790
+Pero de todos modos, vamos a empezar y esto debe convertirse en algo
+
+00:02:44.790 --> 00:02:45.180
+un pocomás claro.
+
+00:02:45.180 --> 00:02:47.290
+Al menos el proceso quedará claro.
+
+00:02:47.290 --> 00:02:49.460
+Tal vez no porqué funciona...
+
+00:02:49.460 --> 00:02:51.610
+Así que, en primer lugar, dije que voy a realizar un montón de
+
+00:02:51.610 --> 00:02:52.280
+operaciones aquí.
+
+00:02:52.280 --> 00:02:53.950
+¿Qué operaciones son válidas?
+
+00:02:53.950 --> 00:02:55.720
+Se llaman operaciones elementales de fila.
+
+00:02:55.720 --> 00:02:57.920
+Así que hay un par de cosas que puedo hacer.
+
+00:02:57.920 --> 00:03:01.970
+Puedo reemplazar cualquier fila con esa fila
+
+00:03:01.970 --> 00:03:03.680
+multiplicada por un número.
+
+00:03:03.680 --> 00:03:04.960
+Podría hacer eso...
+
+00:03:04.960 --> 00:03:08.260
+Puedo intercambiar dos filas.
+
+00:03:08.260 --> 00:03:10.850
+Y por supuesto si intercambio por decir la primera y segunda fila
+
+00:03:10.850 --> 00:03:12.450
+tendríamos que hacerlo aquí también.
+
+00:03:12.450 --> 00:03:17.410
+Y puedo añadir o restar una fila de otra fila.
+
+00:03:17.410 --> 00:03:20.590
+Así que cuando hacemos eso --por ejemplo, puedo tomar esta fila
+
+00:03:20.590 --> 00:03:23.790
+y sustituirla con esta fila agregada a esta fila.
+
+00:03:23.790 --> 00:03:25.520
+Verán lo que quiero decir en un momento.
+
+00:03:25.520 --> 00:03:27.500
+Y si las combinamos, podríamos decir
+
+00:03:27.500 --> 00:03:29.880
+multiplicaré esta fila por -1, y
+
+00:03:29.880 --> 00:03:32.580
+La añadiré a esta fila y entonces reemplazaré la fila.
+
+00:03:32.580 --> 00:03:36.690
+Si se empieza a sentir como que esto es algo parecido a lo que
+
+00:03:36.690 --> 00:03:40.290
+que se aprendióal resolver sistemas
+de ecuaciones lineales
+
+00:03:40.290 --> 00:03:42.510
+no es casualidad.
+
+00:03:42.510 --> 00:03:45.990
+Porque las matrices son realmente una muy buena forma de representarlas.
+
+00:03:45.990 --> 00:03:48.130
+Eso se demostrará pronto.
+
+00:03:48.130 --> 00:03:51.430
+En fin, vamos a hacer algunas operaciones elementales de fila para
+
+00:03:51.430 --> 00:03:55.100
+tener este lado izquierdo en forma escalonada reducida.
+
+00:03:55.100 --> 00:03:57.780
+Lo cuál es realmente sólo una forma elegante de decir, vamos a convertirla
+
+00:03:57.780 --> 00:03:59.610
+en la matriz identidad.
+
+00:03:59.610 --> 00:04:00.660
+Veamos lo que queremos hacer.
+
+00:04:00.660 --> 00:04:02.290
+Queremos tener sólo unos a través de aquí.
+
+00:04:02.290 --> 00:04:03.750
+Queremos que estos sean ceros.
+
+00:04:03.750 --> 00:04:07.870
+Veamos cómo podemos hacerlo eficientemente.
+
+00:04:07.870 --> 00:04:10.560
+Permítanme escribir de nuevo la matriz.
+
+00:04:10.560 --> 00:04:16.350
+Así que vamos a conseguir un 0 aquí.
+
+00:04:16.350 --> 00:04:17.445
+Sería conveniente.
+
+00:04:17.445 --> 00:04:19.769
+Pero voy a mantener las dos filas superiores iguales.
+
+00:04:19.769 --> 00:04:21.209
+1, 0, 1.
+
+00:04:21.209 --> 00:04:23.000
+Tengo mi línea divisoria.
+
+00:04:23.000 --> 00:04:24.370
+1, 0, 0.
+
+00:04:24.370 --> 00:04:25.450
+No hice nada ahí.
+
+00:04:25.450 --> 00:04:27.000
+No estoy haciendo nada a la segunda fila.
+
+00:04:27.000 --> 00:04:28.875
+0, 2, 1.
+
+00:04:28.875 --> 00:04:33.460
+.
+
+00:04:33.460 --> 00:04:36.700
+0, 1, 0.
+
+00:04:36.700 --> 00:04:40.120
+Lo que haré, es reemplazar esta fila
+
+00:04:40.120 --> 00:04:42.260
+Y para que sepan mi motivación, mi objetivo
+
+00:04:42.260 --> 00:04:43.490
+es conseguir un 0 aquí.
+
+00:04:43.490 --> 00:04:46.540
+Así que estoy un poco más cerca de tener la
+
+00:04:46.540 --> 00:04:48.200
+aquí la matriz identidad.
+
+00:04:48.200 --> 00:04:50.080
+¿Cómo obtengo un 0 aquí?
+
+00:04:50.080 --> 00:04:55.750
+Lo que puedo hacer es reemplazar esta fila con esta fila
+
+00:04:55.750 --> 00:04:57.280
+menos esta fila.
+
+00:04:57.280 --> 00:05:00.000
+Para reemplazar la tercera fila con la tercera fila
+
+00:05:00.000 --> 00:05:01.630
+menos la primera fila.
+
+00:05:01.630 --> 00:05:04.040
+¿Qué es la tercera fila menos la primera fila?
+
+00:05:04.040 --> 00:05:07.340
+1 menos 1 es 0.
+
+00:05:07.340 --> 00:05:10.670
+1 menos 0 es 1.
+
+00:05:10.670 --> 00:05:13.860
+1 menos 1 es 0.
+
+00:05:13.860 --> 00:05:16.150
+Lo hice en el lado izquierdo, así que tengo que hacerlo en
+
+00:05:16.150 --> 00:05:16.900
+el lado derecho.
+
+00:05:16.900 --> 00:05:20.300
+Tengo que reemplazar esto con esto menos esto.
+
+00:05:20.300 --> 00:05:24.010
+0 menos 1 es -1.
+
+00:05:24.010 --> 00:05:26.610
+0 menos 0 es 0.
+
+00:05:26.610 --> 00:05:29.810
+Y 1 menos 0 es 1.
+
+00:05:29.810 --> 00:05:31.270
+Muy bien.
+
+00:05:31.270 --> 00:05:32.800
+Ahora ¿qué puedo hacer?
+
+00:05:32.800 --> 00:05:37.830
+Bien esta fila derecha aquí, esta tercera fila, tiene 0 y 0
+
+00:05:37.830 --> 00:05:40.530
+parece ser mucho a lo que quiero para mi segunda fila en la
+
+00:05:40.530 --> 00:05:41.720
+matriz identidad.
+
+00:05:41.720 --> 00:05:43.470
+Así que ¿por qué no sólo intercambiar estas dos filas?
+
+00:05:43.470 --> 00:05:45.360
+¿Por qué no cambiar sólo la primera y segunda fila?
+
+00:05:45.360 --> 00:05:46.740
+Hagamos eso.
+
+00:05:46.740 --> 00:05:49.590
+Voy a cambiar la primera y segunda fila.
+
+00:05:49.590 --> 00:05:50.950
+Así que la primera fila se mantiene igual.
+
+00:05:50.950 --> 00:05:54.790
+1, 0, 1.
+
+00:05:54.790 --> 00:05:57.760
+Y luego el otro lado se mantiene igual.
+
+00:05:57.760 --> 00:06:01.830
+e intercambio la segunda y tercera fila.
+
+00:06:01.830 --> 00:06:05.020
+Así que ahora mi segunda fila ahora es 0, 1, 0.
+
+00:06:05.020 --> 00:06:06.990
+Y tengo que cambiarla al lado derecho.
+
+00:06:06.990 --> 00:06:09.520
+Es -1, 0, 1.
+
+00:06:09.520 --> 00:06:12.540
+Sólo estoy intercambiando estos dos.
+
+00:06:12.540 --> 00:06:14.450
+Así entonces mi tercera fila ahora se convierte en lo que
+
+00:06:14.450 --> 00:06:15.450
+la segunda fila tenía.
+
+00:06:15.450 --> 00:06:17.920
+0, 2, 1.
+
+00:06:17.920 --> 00:06:21.990
+y 0, 1, 0.
+
+00:06:21.990 --> 00:06:23.160
+Muy bien.
+
+00:06:23.160 --> 00:06:24.770
+¿Ahora qué quiero hacer?
+
+00:06:24.770 --> 00:06:26.910
+Sería bueno si yo tuviera aquí un 0.
+
+00:06:26.910 --> 00:06:30.070
+Me llevaría mucho más cerca de la matriz identidad.
+
+00:06:30.070 --> 00:06:32.260
+Entonces, ¿cómo podría yo llegar a un 0 aquí?
+
+00:06:32.260 --> 00:06:37.390
+¿Qué pasa si resto 2 por la fila dos desde la fila uno?
+
+00:06:37.390 --> 00:06:40.360
+Porque esto sería 2 por 1 es 2.
+
+00:06:40.360 --> 00:06:44.920
+Y si resto esto de esto, tendré un 0 aquí.
+
+00:06:44.920 --> 00:06:47.140
+Así que vamos a hacer eso.
+
+00:06:47.140 --> 00:06:50.250
+La primera fila ha sido muy afortunada.
+
+00:06:50.250 --> 00:06:51.260
+No ha tenido que hacer nada.
+
+00:06:51.260 --> 00:06:52.580
+Simplemente está sentada allí.
+
+00:06:52.580 --> 00:06:58.670
+1, 0, 1, 1, 0, 0.
+
+00:06:58.670 --> 00:07:02.120
+La segunda fila por ahora no cambia.
+
+00:07:02.120 --> 00:07:05.430
+-1, 0, 1.
+
+00:07:05.430 --> 00:07:07.110
+¿Ahora qué dije que iba a hacer?
+
+00:07:07.110 --> 00:07:13.240
+Voy a restar 2 por la fila dos desde la fila tres.
+
+00:07:13.240 --> 00:07:18.960
+Esto es 0 menos 2 por 0 es 0.
+
+00:07:18.960 --> 00:07:23.990
+2 menos 2 por 1, bueno eso es 0.
+
+00:07:23.990 --> 00:07:29.150
+1 menos 2 por 0 es 1.
+
+00:07:29.150 --> 00:07:38.210
+0 menos 2 por -1 es --recordemos 0 menos
+
+00:07:38.210 --> 00:07:39.880
+2 por -1.
+
+00:07:39.880 --> 00:07:44.520
+Eso es 0 menos -2, por lo es positivo 2.
+
+00:07:44.520 --> 00:07:47.970
+1 menos 2 por 0.
+
+00:07:47.970 --> 00:07:49.810
+Aún queda en 1.
+
+00:07:49.810 --> 00:07:53.240
+0 menos 2 por 1.
+
+00:07:53.240 --> 00:07:54.490
+Es menos 2.
+
+00:07:54.490 --> 00:07:57.190
+.
+
+00:07:57.190 --> 00:07:58.130
+¿Es correcto?
+
+00:07:58.130 --> 00:07:58.810
+Sólo quiero asegurarme.
+
+00:07:58.810 --> 00:08:04.800
+2 menos 2 por --derecha, 2 por -1 es -2.
+
+00:08:04.800 --> 00:08:06.910
+Estoy restando, así que es positivo.
+
+00:08:06.910 --> 00:08:08.150
+OK, estoy cerca.
+
+00:08:08.150 --> 00:08:11.140
+Esto casi parece la matriz identidad o fila en
+
+00:08:11.140 --> 00:08:11.680
+forma escalonada reducida.
+
+00:08:11.680 --> 00:08:12.950
+Salvo este 1 de aquí.
+
+00:08:12.950 --> 00:08:16.740
+Así que finalmente voy a tener que tocar la fila superior.
+
+00:08:16.740 --> 00:08:18.450
+¿Y qué puedo hacer?
+
+00:08:18.450 --> 00:08:23.170
+Que tal si reemplazo la fila superior con la fila superior menos
+
+00:08:23.170 --> 00:08:24.060
+la fila inferior.
+
+00:08:24.060 --> 00:08:25.480
+Porque si resto esto de eso,
+
+00:08:25.480 --> 00:08:26.550
+Esto me conseguirá un 0 ahí.
+
+00:08:26.550 --> 00:08:27.790
+Hagamos eso.
+
+00:08:27.790 --> 00:08:29.720
+Así que sustituyo la fila superior con la fila superior
+
+00:08:29.720 --> 00:08:31.790
+menos la tercera fila.
+
+00:08:31.790 --> 00:08:35.570
+1 Menos 0 es 1.
+
+00:08:35.570 --> 00:08:38.659
+0 menos 0 es 0.
+
+00:08:38.659 --> 00:08:41.000
+1 menos 1 es 0.
+
+00:08:41.000 --> 00:08:43.559
+Ese fue nuestro objetivo.
+
+00:08:43.559 --> 00:08:48.000
+Y, a continuación, 1 menos 2 es -1.
+
+00:08:48.000 --> 00:08:53.490
+0 menos 1 es -1.
+
+00:08:53.490 --> 00:08:58.950
+0 menos -2., bueno, eso es +2.
+
+00:08:58.950 --> 00:09:02.460
+Y luego las otras filas permanecen igual.
+
+00:09:02.460 --> 00:09:07.590
+0, 1, 0, -1, 0, 1.
+
+00:09:07.590 --> 00:09:15.550
+Y, después, 0, 0, 1, 2, 1, -2.
+
+00:09:15.550 --> 00:09:16.640
+Y ahí lo tienen.
+
+00:09:16.640 --> 00:09:18.650
+Hemos realizado una serie de operaciones en
+
+00:09:18.650 --> 00:09:19.720
+el lado izquierdo.
+
+00:09:19.720 --> 00:09:21.380
+Y hemos realizado las mismas operaciones en
+
+00:09:21.380 --> 00:09:22.960
+el lado derecho.
+
+00:09:22.960 --> 00:09:25.670
+Esto se convirtió en la matriz identidad, o
+
+00:09:25.670 --> 00:09:27.410
+en forma escalonada reducida.
+
+00:09:27.410 --> 00:09:30.530
+Y lo hicimos con la eliminación de Gauss-Jordan.
+
+00:09:30.530 --> 00:09:32.180
+¿Y qué es esto?
+
+00:09:32.180 --> 00:09:36.570
+Bueno esto es la inversa de esta matriz original.
+
+00:09:36.570 --> 00:09:38.960
+Esto por esto será igual a la matriz identidad.
+
+00:09:38.960 --> 00:09:46.750
+Por lo tanto si esto es a, entonces esto es a inversa.
+
+00:09:46.750 --> 00:09:47.580
+Y eso es todo lo que tienes que hacer.
+
+00:09:47.580 --> 00:09:49.700
+Como pueden ver, esto me llevó la mitad del
+
+00:09:49.700 --> 00:09:53.260
+tiempo y requiere muchas menos matemáticas que cuando lo
+
+00:09:53.260 --> 00:09:56.310
+hice utilizando el adjunto y los cofactores y el
+
+00:09:56.310 --> 00:09:58.110
+determinante.
+
+00:09:58.110 --> 00:09:59.990
+Y si lo piensas, te voy a dar una pequeña pista de
+
+00:09:59.990 --> 00:10:01.420
+por qué esto funcionó.
+
+00:10:01.420 --> 00:10:06.910
+Cada una de estas operaciones que hice en el lado izquierdo,
+
+00:10:06.910 --> 00:10:10.570
+se podría verlos como multiplicar --obtener
+
+00:10:10.570 --> 00:10:12.370
+de aquí a aquí, multiplicado.
+
+00:10:12.370 --> 00:10:14.500
+Se puede decir que existe una matriz.
+
+00:10:14.500 --> 00:10:16.240
+Que si yo multiplico por la matriz, estonces habría
+
+00:10:16.240 --> 00:10:17.670
+realizado esta operación.
+
+00:10:17.670 --> 00:10:20.250
+Y entonces habría tenido que multiplicar por otra matriz para
+
+00:10:20.250 --> 00:10:21.550
+realizar esta operación.
+
+00:10:21.550 --> 00:10:24.250
+Esencialmente lo que hicimos es que multiplicar por una serie de
+
+00:10:24.250 --> 00:10:26.440
+matrices para llegar hasta aquí.
+
+00:10:26.440 --> 00:10:28.500
+Y si multiplicamos todos esos, lo que les llamamos
+
+00:10:28.500 --> 00:10:31.410
+matrices de eliminación, juntas, esencialmente
+
+00:10:31.410 --> 00:10:34.070
+se multiplica este por el inverso.
+
+00:10:34.070 --> 00:10:35.590
+¿Así que lo que estoy diciendo?
+
+00:10:35.590 --> 00:10:43.470
+Si tenemos a, para ir de aquí a aquí, tenemos que
+
+00:10:43.470 --> 00:10:47.300
+multiplicar a por la matriz de eliminación.
+
+00:10:47.300 --> 00:10:49.630
+Y esto podría ser completamente confuso para ustedes, así que ignórenlo
+
+00:10:49.630 --> 00:10:51.990
+si lo es, pero podría ser útil.
+
+00:10:51.990 --> 00:10:55.250
+¿Qué eliminamos en esto?
+
+00:10:55.250 --> 00:10:58.470
+Eliminamos 3, 1.
+
+00:10:58.470 --> 00:11:01.120
+Hemos multiplicado por la matriz de eliminación
+
+00:11:01.120 --> 00:11:03.670
+3, 1, para llegar hasta aquí.
+
+00:11:03.670 --> 00:11:05.740
+Y luego, para ir de aquí a aquí
+
+00:11:05.740 --> 00:11:07.220
+multiplicamos por alguna matriz.
+
+00:11:07.220 --> 00:11:07.970
+Y les contaré más.
+
+00:11:07.970 --> 00:11:09.160
+Mostraré cómo podemos construir
+
+00:11:09.160 --> 00:11:10.940
+estas matrices de eliminación.
+
+00:11:10.940 --> 00:11:12.830
+Multiplicamos por una matriz de eliminación.
+
+00:11:12.830 --> 00:11:16.150
+De hecho, tuvimos un intercambio de fila aquí.
+
+00:11:16.150 --> 00:11:17.070
+No sé como lo quieran llamar.
+
+00:11:17.070 --> 00:11:21.240
+Le podríamos llamar matriz de intercambio.
+
+00:11:21.240 --> 00:11:24.730
+Hemos intercambiado la fila dos por la tres.
+
+00:11:24.730 --> 00:11:28.830
+Y luego aquí, hemos multiplicado por la matriz
+
+00:11:28.830 --> 00:11:31.110
+de eliminación --¿Qué hicimos?
+
+00:11:31.110 --> 00:11:34.030
+Eliminamos esto, así que esto era la fila tres,
+
+00:11:34.030 --> 00:11:36.270
+columna dos, 3, 2.
+
+00:11:36.270 --> 00:11:39.320
+Y, finalmente, para llegar hasta aquí, tuvimos que multiplicar por
+
+00:11:39.320 --> 00:11:40.470
+la matriz de eliminación.
+
+00:11:40.470 --> 00:11:41.740
+Tuvimos que eliminar esto aquí.
+
+00:11:41.740 --> 00:11:44.220
+Así que eliminamos la fila 1, columna tres.
+
+00:11:44.220 --> 00:11:47.200
+.
+
+00:11:47.200 --> 00:11:49.590
+Aunque ahorita no es importante
+
+00:11:49.590 --> 00:11:51.420
+saber que son estas matrices.
+
+00:11:51.420 --> 00:11:53.210
+Mostraré cómo podemos construir estas matrices.
+
+00:11:53.210 --> 00:11:55.530
+Pero solo quiero que tengan un salto de fe de que
+
+00:11:55.530 --> 00:11:58.600
+cada una de estas operaciones se podrían haber hecho multiplicando
+
+00:11:58.600 --> 00:12:01.040
+por alguna matriz.
+
+00:12:01.040 --> 00:12:03.510
+Pero lo que sí sabemos es que multiplicando por todas estas
+
+00:12:03.510 --> 00:12:06.760
+matrices, esencialmente tenemos la matriz identidad.
+
+00:12:06.760 --> 00:12:07.930
+Volviendo.
+
+00:12:07.930 --> 00:12:11.450
+Así que la combinación de todas estas matrices, cuando
+
+00:12:11.450 --> 00:12:13.600
+se multiplican por ellos mismos, esto debe
+
+00:12:13.600 --> 00:12:15.370
+ser la matriz inversa.
+
+00:12:15.370 --> 00:12:18.420
+Si tuviera que multiplicar cada una de estas matrices de eliminación
+
+00:12:18.420 --> 00:12:22.420
+y de intercambio de filas, esta debe ser la matriz inversa de a.
+
+00:12:22.420 --> 00:12:23.680
+Porque si multiplicamos por
+
+00:12:23.680 --> 00:12:26.130
+a, obtenemos la inversa.
+
+00:12:26.130 --> 00:12:28.630
+Bien, ¿qué pasó?
+
+00:12:28.630 --> 00:12:31.780
+Si estas matrices son colectivamente la matriz
+
+00:12:31.780 --> 00:12:36.400
+inversa, si las hago, y si multiplico la matriz de identidad
+
+00:12:36.400 --> 00:12:40.620
+por ellas--la matriz de eliminación, esta por esa
+
+00:12:40.620 --> 00:12:41.270
+es igual a eso.
+
+00:12:41.270 --> 00:12:42.970
+Esto por eso es igual a eso.
+
+00:12:42.970 --> 00:12:44.510
+Esto por eso es igual a eso.
+
+00:12:44.510 --> 00:12:45.360
+Y así sucesivamente.
+
+00:12:45.360 --> 00:12:48.870
+Esencialmente estoy multiplicando--cuando se combinan todos
+
+00:12:48.870 --> 00:12:53.050
+estos--a inversa por la matriz identidad.
+
+00:12:53.050 --> 00:12:55.520
+Así que si lo piensas bien en general --y yo no
+
+00:12:55.520 --> 00:12:56.470
+los quiero confundir.
+
+00:12:56.470 --> 00:12:57.910
+Esta bien si a este punto, si solamente
+
+00:12:57.910 --> 00:13:00.370
+entiendieron lo que hice.
+
+00:13:00.370 --> 00:13:03.500
+Pero lo que estoy haciendo con todos estos pasos, esencialmente
+
+00:13:03.500 --> 00:13:07.800
+estoy multiplicando ambos lados de esta matriz aumentada, se podría
+
+00:13:07.800 --> 00:13:10.450
+llamar, por a inversa.
+
+00:13:10.450 --> 00:13:13.080
+Así que esto multiplicado por a inversa, para llegar a la
+
+00:13:13.080 --> 00:13:14.300
+matriz identidad.
+
+00:13:14.300 --> 00:13:16.740
+Pero claro, si yo multiplico a la matriz inversa por
+
+00:13:16.740 --> 00:13:19.130
+la matriz identidad, tendré la matriz inversa.
+
+00:13:19.130 --> 00:13:20.990
+Pero de todos modos, no quiero confundir.
+
+00:13:20.990 --> 00:13:22.410
+Ojala les dará un poco de intuición.
+
+00:13:22.410 --> 00:13:25.130
+Más tarde haré estos con algunos ejemplos más concretos.
+
+00:13:25.130 --> 00:13:27.850
+Pero esperemos que esto es mucho menos problemático que
+
+00:13:27.850 --> 00:13:30.115
+la manera que lo hicimos con el adjunto y los cofactores y
+
+00:13:30.115 --> 00:13:32.540
+las matrices de menores y de los determinantes, etcétera.
+
+00:13:32.540 --> 00:13:35.290
+De todos modos, nos vemos en el siguiente video.

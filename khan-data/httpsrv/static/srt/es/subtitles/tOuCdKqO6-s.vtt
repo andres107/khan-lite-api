@@ -1,0 +1,93 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.254 --> 00:00:07.340
+Hace algunos videos atrás les dije que cualquier cosa elevada a 0 es igual a 1.
+
+00:00:07.340 --> 00:00:09.420
+Así que "x" elevado a 0 es igual a 1.
+
+00:00:09.420 --> 00:00:13.140
+Y les di un argumento de por qué es así.
+
+00:00:13.140 --> 00:00:16.910
+Usé el ejemplo de, si tenemos 3 elevado a la primera potencia,
+
+00:00:16.910 --> 00:00:19.250
+eso es igual a 3.
+
+00:00:19.250 --> 00:00:21.870
+3 a la segunda potencia es igual a 9,
+
+00:00:21.870 --> 00:00:24.940
+3 a la tercera potencia es igual a 27.
+
+00:00:24.940 --> 00:00:28.480
+Así que cada vez que disminuimos en una potencia, estamos dividiendo por 3.
+
+00:00:28.480 --> 00:00:30.170
+27 dividido por 3 es 9.
+
+00:00:30.170 --> 00:00:32.390
+9 dividido por 3 es 3.
+
+00:00:32.390 --> 00:00:34.890
+Entonces 3 dividido por 3 es 1.
+
+00:00:34.890 --> 00:00:37.930
+Y eso debiera ser lo que 3 elevado a 0 es.
+
+00:00:37.930 --> 00:00:40.980
+Así que esa es una manera de pensarlo.
+
+00:00:40.980 --> 00:00:43.640
+La otra manera de pensarlo es que necesitamos esto para
+
+00:00:43.640 --> 00:00:45.920
+que las propiedades de los exponentes funcionen.
+
+00:00:45.920 --> 00:00:52.840
+Por ejemplo, les dije que "a" elevado a "b" por "a" elevado a "c" es
+
+00:00:52.840 --> 00:00:57.180
+igual a "a" elevado a "b" más "c".
+
+00:00:57.180 --> 00:00:59.440
+Ahora, que pasa si "c" es 0?
+
+00:00:59.440 --> 00:01:04.430
+¿Qué pasa si tenemos "a" elevado a "b" por "a" elevado a 0?
+
+00:01:04.430 --> 00:01:08.210
+Bueno, debido a esta propiedad, esto tiene que ser igual a
+
+00:01:08.210 --> 00:01:13.670
+"a" elevado a "b" más 0, que es igual a "a" elevado a "b".
+
+00:01:13.670 --> 00:01:18.850
+Así que "a" elevado a "b" por "a" elevado a "0" debe ser igual a "a" elevado a "b".
+
+00:01:18.850 --> 00:01:21.290
+Si divides a ambos lados por a-- permitanme reescribir esto--
+
+00:01:21.290 --> 00:01:25.610
+"a" elevado a "b" por "a" elevado a "0", si usamos esta propiedad aquí arriba,
+
+00:01:25.610 --> 00:01:30.370
+debe ser igual a "a" elevado a "b", ¿cierto? "b" más 0 es "b".
+
+00:01:30.370 --> 00:01:37.460
+Si divides a ambos lados por "a" elevado a "b", ¿qué es lo que obtienes?
+
+00:01:37.460 --> 00:01:39.020
+En el lado izquierdo, solo nos queda
+
+00:01:39.020 --> 00:01:41.450
+"a" elevado a 0, ¿cierto?
+
+00:01:41.450 --> 00:01:42.900
+Estos se cancelan.
+
+00:01:42.900 --> 00:01:46.210
+"a" elevado a 0 es igual a 1.

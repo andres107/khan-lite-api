@@ -1,0 +1,795 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.730 --> 00:00:03.590
+Supongamos que tenemos un campo magnético que viene de la
+
+00:00:03.590 --> 00:00:04.920
+lado derecho de la pantalla.
+
+00:00:04.920 --> 00:00:09.340
+Y no es justo a lo largo de la pantalla, es realmente tres
+
+00:00:09.340 --> 00:00:10.110
+dimensional.
+
+00:00:10.110 --> 00:00:13.470
+Así que va por encima de la pantalla, a continuación, pero el
+
+00:00:13.470 --> 00:00:15.550
+dirección del campo magnético es de la
+
+00:00:15.550 --> 00:00:16.410
+derecha a la izquierda.
+
+00:00:16.410 --> 00:00:17.760
+Permítanme señalar simplemente.
+
+00:00:17.760 --> 00:00:20.790
+Y no voy a dibujar un montón del vector de campo
+
+00:00:20.790 --> 00:00:24.060
+flechas ya que sólo llevo mucho de valioso
+
+00:00:24.060 --> 00:00:28.160
+espacio en nuestro--por lo que es el campo magnético de vector.
+
+00:00:28.160 --> 00:00:30.430
+Es aquí abajo, demasiado.
+
+00:00:30.430 --> 00:00:34.390
+Si pudiera, me gustaría llamar por encima de la pantalla y a continuación
+
+00:00:34.390 --> 00:00:34.780
+su pantalla.
+
+00:00:34.780 --> 00:00:36.630
+Pero viene de la derecha a la izquierda.
+
+00:00:36.630 --> 00:00:38.380
+Y, a continuación, en ese campo magnético
+
+00:00:38.380 --> 00:00:41.390
+tienen un circuito eléctrico.
+
+00:00:41.390 --> 00:00:42.750
+No llamo ahora mismo a todo el circuito.
+
+00:00:42.750 --> 00:00:43.525
+Lo haré en un segundo.
+
+00:00:43.525 --> 00:00:46.410
+Pero tienen--parte de la eléctrica digamos
+
+00:00:46.410 --> 00:00:47.640
+el circuito es un bucle.
+
+00:00:47.640 --> 00:00:48.760
+Y este aspecto loop.
+
+00:00:48.760 --> 00:00:50.990
+Estoy tratando de dibujar cuidadosamente.
+
+00:00:50.990 --> 00:00:53.820
+Para que podamos--porque creo que una voluntad de dibujo cuidadosa
+
+00:00:53.820 --> 00:00:56.210
+ser más útil en un segundo que un
+
+00:00:56.210 --> 00:00:58.540
+dibujo costituyendo dibujado.
+
+00:00:58.540 --> 00:00:59.050
+Así que vamos a ver.
+
+00:00:59.050 --> 00:01:00.540
+Por lo que es un bucle.
+
+00:01:00.540 --> 00:01:03.700
+Usted puede casi--podrías imaginar teniendo un clip de papel
+
+00:01:03.700 --> 00:01:05.670
+y ponerlo en esta forma.
+
+00:01:08.660 --> 00:01:12.700
+Oh, eso es suficiente, creo.
+
+00:01:12.700 --> 00:01:15.250
+Y tengo una actual va en esta dirección
+
+00:01:15.250 --> 00:01:16.190
+en este clip.
+
+00:01:16.190 --> 00:01:18.630
+Así que esto es positivo, es el negativo.
+
+00:01:18.630 --> 00:01:20.210
+Así que la corriente va así.
+
+00:01:23.130 --> 00:01:26.640
+Corriente va así en un bucle.
+
+00:01:26.640 --> 00:01:27.930
+La corriente que sale de esta final, es
+
+00:01:27.930 --> 00:01:30.260
+llega a este extremo.
+
+00:01:30.260 --> 00:01:34.420
+Y supongamos que ese lazo de--podría ser un clip de papel o
+
+00:01:34.420 --> 00:01:36.300
+nada--vamos a decir que se puede girar.
+
+00:01:36.300 --> 00:01:36.980
+Y eso es importante.
+
+00:01:36.980 --> 00:01:38.300
+¿Qué va a pasar?
+
+00:01:38.300 --> 00:01:41.590
+Bueno, mi campo magnético viene en esta dirección.
+
+00:01:41.590 --> 00:01:45.600
+La corriente va aquí, aquí abajo.
+
+00:01:45.600 --> 00:01:48.610
+¿Qué va a ser la fuerza neta de la magnética
+
+00:01:48.610 --> 00:01:50.600
+¿campo de este bucle?
+
+00:01:50.600 --> 00:01:51.980
+Bien, vamos a probarlo.
+
+00:01:51.980 --> 00:01:54.220
+Y resulta que va a ser una magnitud diferente a
+
+00:01:54.220 --> 00:01:55.950
+diferentes puntos de la corriente.
+
+00:01:55.950 --> 00:01:57.140
+Así que aquí.
+
+00:01:57.140 --> 00:01:59.580
+Y no se preocupe, todos estamos preocupados ahora
+
+00:01:59.580 --> 00:02:00.620
+es la dirección.
+
+00:02:00.620 --> 00:02:03.190
+Y entonces tal vez una poco de intuición de la magnitud.
+
+00:02:03.190 --> 00:02:08.550
+Sabemos que la fuerza del campo magnético es igual a
+
+00:02:08.550 --> 00:02:12.830
+el actual momento del vector de longitud transversal
+
+00:02:12.830 --> 00:02:15.670
+el campo magnético.
+
+00:02:15.670 --> 00:02:20.390
+Bien, ¿cuál sería la fuerza del campo magnético sobre este
+
+00:02:20.390 --> 00:02:21.480
+¿segmento de cable?
+
+00:02:21.480 --> 00:02:24.110
+Podríamos llamar este L.
+
+00:02:24.110 --> 00:02:27.766
+Y que l va en la misma dirección que la corriente.
+
+00:02:27.766 --> 00:02:28.900
+Bien, vamos a ver.
+
+00:02:28.900 --> 00:02:31.390
+Corriente es simplemente un escalar, pero l va hacia abajo.
+
+00:02:31.390 --> 00:02:32.720
+Campo magnético va a la izquierda.
+
+00:02:32.720 --> 00:02:34.000
+Producto de la Cruz.
+
+00:02:34.000 --> 00:02:39.850
+Cruz producto, me toma mi mano derecha, poner mi dedo índice
+
+00:02:39.850 --> 00:02:45.390
+la dirección de la corriente, o en la dirección de L,
+
+00:02:45.390 --> 00:02:46.980
+porque es el primer término del producto Cruz.
+
+00:02:46.980 --> 00:02:48.760
+Por lo es el dedo índice.
+
+00:02:48.760 --> 00:02:52.000
+Así que mi dedo índice va hacia abajo, porque esa es la dirección
+
+00:02:52.000 --> 00:02:53.550
+de la corriente.
+
+00:02:53.550 --> 00:02:56.460
+Y entonces mi medio dedo--y recuerda que tienes que hacer
+
+00:02:56.460 --> 00:02:57.020
+Esto con la mano derecha.
+
+00:02:57.020 --> 00:02:58.120
+Si lo haces con la mano izquierda, vas a obtener la
+
+00:02:58.120 --> 00:02:59.310
+enfrente el resultado.
+
+00:02:59.310 --> 00:03:01.400
+Y ahora mi dedo va a ir en la dirección
+
+00:03:01.400 --> 00:03:01.940
+del campo.
+
+00:03:01.940 --> 00:03:06.250
+Así que permítanme señalar mi dedo medio.
+
+00:03:06.250 --> 00:03:07.930
+Mi dedo medio va a ir el
+
+00:03:07.930 --> 00:03:09.870
+dirección del campo.
+
+00:03:09.870 --> 00:03:11.800
+Sigo teniendo que mirar mi propia mano.
+
+00:03:11.800 --> 00:03:13.900
+Y, a continuación, mis otros dos dedos sólo van a hacer lo que
+
+00:03:13.900 --> 00:03:15.400
+necesidad de hacerlo.
+
+00:03:15.400 --> 00:03:16.780
+Por lo es mi tercer dedo.
+
+00:03:16.780 --> 00:03:19.740
+Esa es mi pinky.
+
+00:03:19.740 --> 00:03:23.810
+¿Y entonces lo que mi pulgar va a hacer?
+
+00:03:23.810 --> 00:03:25.240
+¿Qué va a hacer mi pulgar?
+
+00:03:25.240 --> 00:03:30.020
+Bueno, mi mano--que es mi mano.
+
+00:03:30.020 --> 00:03:31.240
+Esto es lo que está haciendo mi mano.
+
+00:03:31.240 --> 00:03:33.350
+Estoy apuntando hacia abajo.
+
+00:03:33.350 --> 00:03:36.710
+Y mi palm es tipo de apuntando a mi cuerpo.
+
+00:03:36.710 --> 00:03:39.360
+Así que, ¿qué está haciendo mi pulgar?
+
+00:03:39.360 --> 00:03:40.320
+Sé que es difícil de ver.
+
+00:03:40.320 --> 00:03:43.220
+Este es mi dedo medio derecho aquí.
+
+00:03:43.220 --> 00:03:45.290
+Así que mi pulgar es el otro lado de este dibujo.
+
+00:03:45.290 --> 00:03:47.070
+Y mi pulgar está apuntando hacia abajo.
+
+00:03:47.070 --> 00:03:48.350
+Espero que veas.
+
+00:03:48.350 --> 00:03:50.120
+Y probarlo con su propia mano.
+
+00:03:50.120 --> 00:03:51.490
+Así que mi pulgar está apuntando hacia abajo.
+
+00:03:51.490 --> 00:03:54.900
+Así que la dirección de la fuerza creada por el campo magnético
+
+00:03:54.900 --> 00:03:56.860
+Esta corriente se va a ir hacia abajo.
+
+00:03:56.860 --> 00:03:58.380
+Permítanme señalar.
+
+00:03:58.380 --> 00:04:01.740
+Por lo tanto el vector de fuerza--lo haré en este
+
+00:04:01.740 --> 00:04:03.350
+color marrón anaranjado.
+
+00:04:03.350 --> 00:04:07.650
+El vector de fuerza en este segmento del cable va
+
+00:04:07.650 --> 00:04:10.360
+se iba hacia abajo.
+
+00:04:10.360 --> 00:04:12.660
+¿Ahora lo que sobre este segmento del cable?
+
+00:04:12.660 --> 00:04:13.440
+Bien, piense en ello.
+
+00:04:13.440 --> 00:04:23.040
+Este segmento del cable, el vector L--este vector de L--
+
+00:04:23.040 --> 00:04:24.920
+Es justo en paralelo al campo magnético
+
+00:04:24.920 --> 00:04:26.170
+la dirección opuesta.
+
+00:04:26.170 --> 00:04:29.040
+Y así que cuando usted toma el producto cruzado--Recuerde, la Cruz
+
+00:04:29.040 --> 00:04:31.590
+producto es que está multiplicando la magnitud de los vectores
+
+00:04:31.590 --> 00:04:33.390
+son perpendiculares entre sí.
+
+00:04:33.390 --> 00:04:36.480
+Pero si este es el l vector derecho aquí, no hay ninguna
+
+00:04:36.480 --> 00:04:38.260
+componente de la misma que es perpendicular a
+
+00:04:38.260 --> 00:04:39.510
+el campo magnético.
+
+00:04:39.510 --> 00:04:44.050
+Así que el campo magnético y la corriente están en el mismo plano.
+
+00:04:44.050 --> 00:04:45.250
+Son paralelas.
+
+00:04:45.250 --> 00:04:46.450
+No son ortogonales a todos.
+
+00:04:46.450 --> 00:04:49.140
+No hay ningún componente de ellos que están a 90 grados.
+
+00:04:49.140 --> 00:04:51.130
+Así que cuando usted toma el producto cruzado, vas a ver
+
+00:04:51.130 --> 00:04:53.790
+que la fuerza neta sobre este segmento del cable es 0.
+
+00:04:53.790 --> 00:04:55.840
+Y asimismo en este segmento del cable y esta
+
+00:04:55.840 --> 00:04:56.640
+del cable.
+
+00:04:56.640 --> 00:04:59.080
+Porque no están en ninguna manera perpendicular.
+
+00:04:59.080 --> 00:05:01.800
+No hay componentes de ellos son incluso perpendiculares.
+
+00:05:01.800 --> 00:05:02.530
+Bastante justo.
+
+00:05:02.530 --> 00:05:05.250
+Así que todo lo que sabemos ahora es el campo magnético está ejerciendo
+
+00:05:05.250 --> 00:05:08.860
+una fuerza descendente de este lado de nuestro libro
+
+00:05:08.860 --> 00:05:10.310
+clip o de nuestro circuito.
+
+00:05:10.310 --> 00:05:11.620
+¿Ahora lo que sobre este lado?
+
+00:05:11.620 --> 00:05:12.230
+Bueno, lo mismo.
+
+00:05:12.230 --> 00:05:13.940
+Tomar el producto cruzado.
+
+00:05:13.940 --> 00:05:18.300
+Si este es nuestro L, L Cruz B.
+
+00:05:18.300 --> 00:05:22.380
+Así que tómese su dedo índice en la dirección--.
+
+00:05:22.380 --> 00:05:25.760
+Así el dedo índice va así.
+
+00:05:25.760 --> 00:05:28.040
+El dedo medio irá en la dirección del campo.
+
+00:05:28.040 --> 00:05:31.190
+Por lo que el dedo medio se va a ver algo así.
+
+00:05:31.190 --> 00:05:32.330
+Y luego están los otros dos dedos
+
+00:05:32.330 --> 00:05:33.490
+va a ser así.
+
+00:05:33.490 --> 00:05:34.770
+Y ¿qué es el pulgar va a hacer?
+
+00:05:34.770 --> 00:05:36.720
+Y esto tiene que ser la mano derecha para trabajar.
+
+00:05:36.720 --> 00:05:38.320
+El dedo pulgar va a apuntar hacia arriba.
+
+00:05:38.320 --> 00:05:40.000
+Esto es como el talón de su pulgar.
+
+00:05:40.000 --> 00:05:42.500
+El dedo pulgar va a--.
+
+00:05:42.500 --> 00:05:44.530
+No sé si eso es un buen dibujo de un pulgar.
+
+00:05:44.530 --> 00:05:48.290
+Pero el pulgar es esencialmente hacia fuera de la página.
+
+00:05:48.290 --> 00:05:50.710
+Dedo medio en la dirección de la corriente, o en el
+
+00:05:50.710 --> 00:05:52.960
+dirección de nuestra longitud.
+
+00:05:52.960 --> 00:05:54.690
+Lo sentimos, índice dedo en la dirección de la corriente.
+
+00:05:54.690 --> 00:05:56.460
+Dedo medio en la dirección del campo.
+
+00:05:56.460 --> 00:05:58.170
+Pulgar señala de la página.
+
+00:05:58.170 --> 00:06:00.270
+Hacerlo con la mano derecha y verás que el
+
+00:06:00.270 --> 00:06:02.360
+NET de fuerza del campo magnético en este segmento de la
+
+00:06:02.360 --> 00:06:05.490
+cable va a ser hacia arriba.
+
+00:06:05.490 --> 00:06:06.720
+Quiero hacerlo en un color diferente para conseguir algunos
+
+00:06:06.720 --> 00:06:09.910
+contraste.
+
+00:06:09.910 --> 00:06:10.800
+¿Qué va a pasar?
+
+00:06:10.800 --> 00:06:13.770
+Suponiendo que este circuito puede girar,
+
+00:06:13.770 --> 00:06:14.880
+¿Qué va a pasar?
+
+00:06:14.880 --> 00:06:18.150
+En este lado hay una fuerza hacia abajo.
+
+00:06:18.150 --> 00:06:20.260
+En este lado hay una fuerza hacia arriba.
+
+00:06:20.260 --> 00:06:22.520
+Por lo que el campo magnético es realmente ejercer un
+
+00:06:22.520 --> 00:06:24.380
+par en este hilo.
+
+00:06:27.100 --> 00:06:29.940
+Si esta línea punteada poco visto como nuestro eje de
+
+00:06:29.940 --> 00:06:35.190
+rotación, la bobina toda realmente va a girar
+
+00:06:35.190 --> 00:06:36.400
+alrededor de esa línea.
+
+00:06:36.400 --> 00:06:39.890
+Y así hay alguna fuerza aquí, a lo largo de toda la línea
+
+00:06:39.890 --> 00:06:41.610
+se aplica hacia abajo.
+
+00:06:41.610 --> 00:06:43.230
+Y es realmente perpendicular
+
+00:06:43.230 --> 00:06:45.250
+a nuestro brazo de momento.
+
+00:06:45.250 --> 00:06:47.980
+Si recordamos lo que habíamos aprendido sobre par.
+
+00:06:47.980 --> 00:06:50.930
+Así que realmente se ejercen toda esa fuerza--que la fuerza
+
+00:06:50.930 --> 00:06:52.890
+veces esta distancia será el par
+
+00:06:52.890 --> 00:06:54.480
+aplicado a este lado.
+
+00:06:54.480 --> 00:06:58.740
+Y, a continuación, igualmente hay un par--realmente es lo mismo
+
+00:06:58.740 --> 00:07:01.650
+firmar, en la misma dirección, porque aquí en el otro lado
+
+00:07:01.650 --> 00:07:03.760
+del brazo está empujando hacia arriba.
+
+00:07:03.760 --> 00:07:04.770
+Así que no van a cancelar.
+
+00:07:04.770 --> 00:07:06.330
+Ambos van a reforzar.
+
+00:07:06.330 --> 00:07:08.820
+Y esta bobina toda va a ser
+
+00:07:08.820 --> 00:07:13.030
+este sentido de rotación.
+
+00:07:13.030 --> 00:07:15.690
+Aquí va a ser salir de la pantalla de vídeo.
+
+00:07:15.690 --> 00:07:18.950
+Aquí va a estar en movimiento hacia abajo en su pantalla de vídeo.
+
+00:07:18.950 --> 00:07:20.440
+Ahora, ¿qué pasa?
+
+00:07:20.440 --> 00:07:23.190
+Voy a tratar de no quedarse sin tiempo tampoco.
+
+00:07:23.190 --> 00:07:25.100
+Así que va a iniciar el giro.
+
+00:07:25.100 --> 00:07:27.930
+Así que la izquierda va a ir por debajo de la página.
+
+00:07:27.930 --> 00:07:29.630
+Va del lado de la mano derecha por encima de la página.
+
+00:07:29.630 --> 00:07:31.015
+Quiero llamar a algún punto de vista, por eso estoy
+
+00:07:31.015 --> 00:07:32.610
+sólo dibujo más grande.
+
+00:07:32.610 --> 00:07:35.150
+Tal vez parece como ese.
+
+00:07:38.150 --> 00:07:40.950
+Tal vez mi circuito empieza a mirar como ese.
+
+00:07:45.170 --> 00:07:48.926
+Y a volver a dibujar mi eje de rotación.
+
+00:07:48.926 --> 00:07:51.250
+Este es mi eje de rotación.
+
+00:07:51.250 --> 00:07:54.220
+Y en el camino dibujaba ti--esta parte, el eje de
+
+00:07:54.220 --> 00:07:57.280
+rotación está todavía en el plano de nuestro video.
+
+00:07:57.280 --> 00:07:59.190
+Pero esta parte de la bobina es, usted podría
+
+00:07:59.190 --> 00:08:00.250
+imagino que saltando.
+
+00:08:00.250 --> 00:08:01.950
+Deseo que tenía gafas 3D en.
+
+00:08:01.950 --> 00:08:03.630
+Está apareciendo fuera de la pantalla.
+
+00:08:03.630 --> 00:08:06.720
+Esta parte es entrar en su pantalla.
+
+00:08:06.720 --> 00:08:08.450
+Y todavía se va la corriente en la misma dirección.
+
+00:08:08.450 --> 00:08:11.940
+Corriente va en esa dirección hay.
+
+00:08:11.940 --> 00:08:16.810
+Utilizando la misma regla de la mano derecha, en este lado del alambre
+
+00:08:16.810 --> 00:08:19.130
+el campo magnético va a estar ejerciendo una
+
+00:08:19.130 --> 00:08:21.420
+NET fuerza hacia abajo.
+
+00:08:21.420 --> 00:08:25.370
+Pero el par de apriete es realmente iba a ser menos porque nuestra
+
+00:08:25.370 --> 00:08:28.320
+distancia de brazo de momento va a ser similar--quiero dibujar
+
+00:08:28.320 --> 00:08:29.890
+con una perspectiva.
+
+00:08:29.890 --> 00:08:32.600
+Va a ser algo así.
+
+00:08:32.600 --> 00:08:36.780
+Por lo que se va a ir a la izquierda y detrás de la página
+
+00:08:36.780 --> 00:08:38.929
+mientras que el par es todavía sólo en la página.
+
+00:08:38.929 --> 00:08:40.630
+Por lo que usted realmente tomaría el componente del par que del
+
+00:08:40.630 --> 00:08:41.809
+perpendicular.
+
+00:08:41.809 --> 00:08:43.720
+Así que hay algunos componentes de par que es realmente
+
+00:08:43.720 --> 00:08:44.169
+perpendicular.
+
+00:08:44.169 --> 00:08:45.460
+No quiero confundirlos demasiado.
+
+00:08:45.460 --> 00:08:48.000
+Pero podrías imaginar que el par disminuye.
+
+00:08:48.000 --> 00:08:50.630
+A pesar de que la fuerza magnética neta es la misma, la
+
+00:08:50.630 --> 00:08:54.900
+componente de esa fuerza que es perpendicular a su momento
+
+00:08:54.900 --> 00:08:56.150
+brazo, disminuye.
+
+00:08:56.150 --> 00:08:58.500
+Así que todavía va a ser algunos par que va a ser
+
+00:08:58.500 --> 00:09:02.680
+haciendo que gire hacia abajo en esa dirección.
+
+00:09:02.680 --> 00:09:03.000
+Lo siento.
+
+00:09:03.000 --> 00:09:03.700
+¿Sabes qué?
+
+00:09:03.700 --> 00:09:05.520
+Dibujé este mal aquí.
+
+00:09:05.520 --> 00:09:07.740
+Estamos empujando hacia arriba el lado derecho, nosotros estamos empujando hacia abajo
+
+00:09:07.740 --> 00:09:08.410
+en el lado izquierdo.
+
+00:09:08.410 --> 00:09:14.030
+Por lo que la dirección va a ser así.
+
+00:09:14.030 --> 00:09:16.510
+Empujando hacia arriba a la derecha, hacia abajo en la mano izquierda.
+
+00:09:16.510 --> 00:09:18.670
+Así que todavía vas a estar haciendo lo mismo.
+
+00:09:18.670 --> 00:09:20.215
+Va a estar empujando aquí.
+
+00:09:20.215 --> 00:09:24.880
+Pero vas a estar empujando hacia arriba directamente de la página.
+
+00:09:24.880 --> 00:09:26.610
+Pero eso no es totalmente perpendicular
+
+00:09:26.610 --> 00:09:30.050
+en el brazo de momento.
+
+00:09:30.050 --> 00:09:33.100
+Por lo tanto el componente perpendicular, es realmente
+
+00:09:33.100 --> 00:09:35.215
+creación de par de giro, que se va
+
+00:09:35.215 --> 00:09:36.090
+para ser un poco menos.
+
+00:09:36.090 --> 00:09:38.370
+Y, a continuación, podrías imaginar todo el camino hasta el punto,
+
+00:09:38.370 --> 00:09:43.470
+la bobina va a siga girando con el par más pequeño.
+
+00:09:43.470 --> 00:09:47.260
+En algún momento que estaré esperando a la cabeza de.
+
+00:09:47.260 --> 00:09:50.220
+¿Así que puedo sólo dibujar como una línea recta, derecha?
+
+00:09:50.220 --> 00:09:51.000
+Se puede imaginar.
+
+00:09:51.000 --> 00:09:53.710
+Este brazo está en la parte superior y este brazo está detrás de ella.
+
+00:09:53.710 --> 00:09:56.260
+Y en este punto, ¿qué va a pasar?
+
+00:09:56.260 --> 00:09:58.360
+Va toda la fuerza magnética sobre este brazo superior
+
+00:09:58.360 --> 00:10:00.740
+a estar apareciendo.
+
+00:10:00.740 --> 00:10:02.860
+Va a estar apareciendo fuera de su página, pero no es
+
+00:10:02.860 --> 00:10:04.400
+va a proporcionar ningún par.
+
+00:10:04.400 --> 00:10:08.270
+Porque no es perpendicular ya a su brazo de momento.
+
+00:10:08.270 --> 00:10:11.610
+Y asimismo, en la parte inferior detrás de esto, si pudiera
+
+00:10:11.610 --> 00:10:14.760
+visualizar esto, estaría ejerciendo una fuerza neta hacia abajo.
+
+00:10:14.760 --> 00:10:16.260
+Y que además no va a ser útil.
+
+00:10:16.260 --> 00:10:20.510
+Pero tal vez tienen algún momento angular hasta el alambre
+
+00:10:20.510 --> 00:10:23.130
+todavía girará.
+
+00:10:23.130 --> 00:10:24.220
+Pero luego cuando todavía gira,
+
+00:10:24.220 --> 00:10:25.390
+¿Qué va a pasar?
+
+00:10:25.390 --> 00:10:26.610
+Y esto es donde te dejaré con un
+
+00:10:26.610 --> 00:10:29.370
+poco de un enigma.
+
+00:10:29.370 --> 00:10:31.490
+En realidad, no quiero ir sobre el límite de Youtube, así que estoy
+
+00:10:31.490 --> 00:10:33.730
+va a continuar esto en el siguiente video y te voy a mostrar
+
+00:10:33.730 --> 00:10:34.110
+el acertijo.
+
+00:10:34.110 --> 00:10:35.670
+Nos vemos luego.

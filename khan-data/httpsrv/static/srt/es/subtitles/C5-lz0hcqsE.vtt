@@ -1,0 +1,747 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.790 --> 00:00:03.330
+Afortunadamente hasta este punto sabemos qué es una ecuación
+
+00:00:03.330 --> 00:00:06.490
+diferencial, intentemos resolver algunas.
+
+00:00:06.490 --> 00:00:09.000
+En esta primera clase de ecuaciones diferenciales
+
+00:00:09.000 --> 00:00:11.270
+aprenderemos sobre las llamadas, ecuaciones separables.
+
+00:00:11.270 --> 00:00:13.570
+Y creo que te darás cuenta que realmente no aprenderemos
+
+00:00:13.570 --> 00:00:14.420
+nada nuevo.
+
+00:00:14.420 --> 00:00:19.010
+Utilizando únicamente tus habilidades de primer año de calculo diferencial
+
+00:00:19.010 --> 00:00:22.300
+e integral, puedes resolver ecuaciones separables.
+
+00:00:22.300 --> 00:00:25.240
+Y la razón por la cual se llaman separables es porque
+
+00:00:25.240 --> 00:00:28.090
+puedes separar los términos X y Y,para después integrarlos
+
+00:00:28.090 --> 00:00:30.330
+por separado y así poder obtener la solución de la
+
+00:00:30.330 --> 00:00:31.170
+ecuación diferencial.
+
+00:00:31.170 --> 00:00:33.640
+Así es separable.
+
+00:00:33.640 --> 00:00:36.000
+Ecuaciones separables.
+
+00:00:36.000 --> 00:00:38.550
+Hagamos un par de éstas y pensemos que tienes la idea.
+
+00:00:38.550 --> 00:00:42.600
+En muchos casos son realmente ejercicios de álgebra que de
+
+00:00:42.600 --> 00:00:44.120
+cualquier otra cosa.
+
+00:00:44.120 --> 00:00:49.110
+La primera ecuación diferencial separable es: dy
+
+00:00:49.110 --> 00:00:56.710
+sobre dx es igual a X cuadrada sobre 1 menos Y cuadrada.
+
+00:00:56.710 --> 00:00:58.420
+y realmente éste es buen tiempo para revisar nuestra
+
+00:00:58.420 --> 00:00:59.050
+terminología
+
+00:00:59.050 --> 00:01:00.840
+Primero que nada, ¿Cuál es el orden de esta
+
+00:01:00.840 --> 00:01:02.060
+ecuación diferencial?
+
+00:01:02.060 --> 00:01:05.090
+Bueno, la derivada más alta en la ecuación, es justo la primera
+
+00:01:05.090 --> 00:01:08.430
+derivada, entonces el orden es igual a 1.
+
+00:01:08.430 --> 00:01:11.390
+Es de primer orden.
+
+00:01:11.390 --> 00:01:14.020
+Es ordinaria, porque aquí solo tenemos una derivada regular, no
+
+00:01:14.020 --> 00:01:15.530
+una derivada parcial.
+
+00:01:15.530 --> 00:01:18.130
+Entonces, ¿es lineal o no lineal?
+
+00:01:18.130 --> 00:01:20.580
+Bueno, primero dirías, oh si, claro, se ve que es lineal
+
+00:01:20.580 --> 00:01:21.910
+No estoy multiplicando la derivada
+
+00:01:21.910 --> 00:01:23.050
+por ninguna otra cosa.
+
+00:01:23.050 --> 00:01:25.280
+Pero si observas cuidadosamente, algo
+
+00:01:25.280 --> 00:01:26.160
+interesante esta pasando.
+
+00:01:26.160 --> 00:01:28.100
+Primero que nada, tenemos una Y al cuadrado
+
+00:01:28.100 --> 00:01:29.610
+y Y es una variable dependiente
+
+00:01:29.610 --> 00:01:31.440
+Y es una función de X
+
+00:01:31.440 --> 00:01:33.740
+Así que para tener una Y cuadrada, la ecuación no es linear
+
+00:01:33.740 --> 00:01:36.660
+y si fuera Y, si tú realmente multiplicaras
+
+00:01:36.660 --> 00:01:39.280
+ambos lados de la ecuación por 1 menos Y, y la obtenemos
+
+00:01:39.280 --> 00:01:42.740
+de la forma que les había mostrado en la previa ecuación,
+
+00:01:42.740 --> 00:01:47.060
+tendrás 1 menos Y al cuadrado
+
+00:01:47.060 --> 00:01:48.630
+Este es el primer paso que tenemos que hacer,
+
+00:01:48.630 --> 00:01:50.150
+lo escribiré abajo.
+
+00:01:50.150 --> 00:01:52.020
+Entonces si solo multiplicamos ambos lados de esta ecuacion
+
+00:01:52.020 --> 00:01:56.620
+por 1 menos Y cuadrada, obtendremos 1 menos Y cuadrada por dy
+
+00:01:56.620 --> 00:02:00.820
+dx es igual a X cuadrada
+
+00:02:00.820 --> 00:02:04.120
+Entonces inmediatamente veras que, inclusive si no fuera
+
+00:02:04.120 --> 00:02:07.020
+cuadrada aquí, multiplicarías la Y por dy dx,
+
+00:02:07.020 --> 00:02:09.770
+y ésto también la convierte en: no lineal porque estás
+
+00:02:09.770 --> 00:02:11.640
+multiplicando la variable dependiente por la
+
+00:02:11.640 --> 00:02:12.690
+derivada...
+
+00:02:12.690 --> 00:02:14.890
+Así que por eso también es una ecuación no lineal.
+
+00:02:14.890 --> 00:02:17.300
+Pero como sea, regresemos a resolver esto.
+
+00:02:17.300 --> 00:02:18.690
+Éste es el primer paso.
+
+00:02:18.690 --> 00:02:21.480
+Solo multiplicare ambos lados por 1 menos Y cuadrada
+
+00:02:21.480 --> 00:02:24.310
+y el objetivo real es solo separar las Y y las X,
+
+00:02:24.310 --> 00:02:26.200
+y después integramos de ambos lados.
+
+00:02:26.200 --> 00:02:27.450
+Casi llegamos ahí.
+
+00:02:27.450 --> 00:02:29.720
+Ahora lo que quiero hacer es: quiero multiplicar los dos lados
+
+00:02:29.720 --> 00:02:32.940
+de la ecuación por dx, tengo una dx aquí y desecharemos
+
+00:02:32.940 --> 00:02:34.375
+este dx allá.
+
+00:02:34.375 --> 00:02:37.790
+Déjenme ir por aquí, no quiero gastar mucho espacio.
+
+00:02:37.790 --> 00:02:47.440
+Entonces, tienes 1 menos Y cuadrada dy es igual a X cuadrada dx.
+
+00:02:47.440 --> 00:02:51.190
+He separado las variables X y Y y las
+
+00:02:51.190 --> 00:02:52.420
+diferenciales.
+
+00:02:52.420 --> 00:02:54.510
+Todo lo que hice fue multiplicar ambos lados de la ecuación por
+
+00:02:54.510 --> 00:02:56.850
+dx para llegar aquí.
+
+00:02:56.850 --> 00:03:00.160
+Ahora, puedo integrar los dos lados.
+
+00:03:00.160 --> 00:03:01.680
+Hagámoslo.
+
+00:03:01.680 --> 00:03:03.080
+Cualquier cosa que le hagas a un lado de la ecuación
+
+00:03:03.080 --> 00:03:04.930
+tienes que hacerlo en el otro lado.
+
+00:03:04.930 --> 00:03:06.790
+Eso es verdad con las ecuaciones regulares o
+
+00:03:06.790 --> 00:03:07.560
+ecuaciones diferenciales.
+
+00:03:07.560 --> 00:03:09.180
+Así que vamos a integrar ambos lados.
+
+00:03:09.180 --> 00:03:12.640
+Entonces, ¿Cuál es la integral de esta expresión con respecto a Y?
+
+00:03:12.640 --> 00:03:13.350
+Veamos.
+
+00:03:13.350 --> 00:03:19.730
+La integral de 1 es Y, la integral de Y cuadrada, bueno
+
+00:03:19.730 --> 00:03:27.210
+eso es menos Y a la 3 entre 3.
+
+00:03:27.210 --> 00:03:30.230
+y escribiremos, más C aquí solo para mostrarles
+
+00:03:30.230 --> 00:03:32.730
+algo, pero realmente no tienen porque escribir más C
+
+00:03:32.730 --> 00:03:34.020
+en ambos lados.
+
+00:03:34.020 --> 00:03:37.145
+Llamaré a más C la constante debida a Y.
+
+00:03:37.145 --> 00:03:38.750
+La integración de Y
+
+00:03:38.750 --> 00:03:40.420
+Nunca verás esto en una clase de cálculo, pero solo
+
+00:03:40.420 --> 00:03:41.670
+quiero hacer un punto aquí.
+
+00:03:44.290 --> 00:03:45.840
+Solo quiero mostrarte que nuestro más C nunca
+
+00:03:45.840 --> 00:03:47.720
+ha desaparecido, cuando tomamos nuestras tradicionales
+
+00:03:47.720 --> 00:03:48.780
+antiderivadas
+
+00:03:48.780 --> 00:03:50.030
+Y, ¿Cuál es la derivada de esto?
+
+00:03:50.030 --> 00:03:52.420
+Bueno, es X a la tres entre 3.
+
+00:03:57.010 --> 00:04:01.300
+Y esta también va a tener un más C
+
+00:04:01.300 --> 00:04:03.600
+debido a la variable X.
+
+00:04:03.600 --> 00:04:07.390
+Ahora. la razón por la cual hice magenta en magenta
+
+00:04:07.390 --> 00:04:09.070
+....., es porque realmente solo tienes
+
+00:04:09.070 --> 00:04:11.380
+que escribir un más C en un lado de la ecuación.
+
+00:04:11.380 --> 00:04:13.900
+Y si eso no tiene mucho sentido, vamos a suprimir esta
+
+00:04:13.900 --> 00:04:19.740
+C de ambos lados, y tenemos Y menos-- dejame bajar un poco
+
+00:04:19.740 --> 00:04:22.650
+más, mi Y parece g.
+
+00:04:22.650 --> 00:04:29.370
+Y menos Y a la 3 entre 3 es iguañ a X a la 3
+
+00:04:29.370 --> 00:04:33.270
+entre 3 mas la constante cuando tomamos la antiderivada de
+
+00:04:33.270 --> 00:04:36.380
+X, menos la constante de la antiderivada cuando
+
+00:04:36.380 --> 00:04:37.450
+tomamos la Y
+
+00:04:37.450 --> 00:04:39.500
+Pero éstas dos constantes, son solo constantes.
+
+00:04:39.500 --> 00:04:40.480
+Lo que quiero decir es que no sabemos qué constante es
+
+00:04:40.480 --> 00:04:41.430
+Esas son constantes arbitrarias.
+
+00:04:41.430 --> 00:04:43.170
+Asi que solo podemos escribir una C general aquí.
+
+00:04:43.170 --> 00:04:46.170
+Entonces podrías solo-- debes de tener una constante, pero
+
+00:04:46.170 --> 00:04:48.310
+no tiene que ser en ambos lados de la ecuacion, porque
+
+00:04:48.310 --> 00:04:49.580
+son arbitrarias.
+
+00:04:49.580 --> 00:04:52.140
+Cx menos Cy, bueno, eso es solo otra constante.
+
+00:04:52.140 --> 00:04:53.900
+Y entonces si queremos simplicar la ecuacion más,
+
+00:04:53.900 --> 00:04:56.230
+podemos multiplicar ambos lados de éste por 3, solo
+
+00:04:56.230 --> 00:04:57.430
+para hacerlo ver agradable.
+
+00:04:57.430 --> 00:05:04.510
+y tienes 3Y menos Y a la 3 es igual a X a la 3
+
+00:05:04.510 --> 00:05:08.580
+más-- bueno, puedo escribir 3C aquí.
+
+00:05:08.580 --> 00:05:11.190
+Pero una vez más, C es una constante arbitraria.
+
+00:05:11.190 --> 00:05:13.570
+Así que 3 por una constante arbitraria, es solo otra
+
+00:05:13.570 --> 00:05:14.555
+constante arbitraria.
+
+00:05:14.555 --> 00:05:18.610
+Escribire la C allá.
+
+00:05:18.610 --> 00:05:19.690
+y lo tendremos.
+
+00:05:19.690 --> 00:05:22.460
+Hemos resuelto esta ecuación diferencial.
+
+00:05:22.460 --> 00:05:25.520
+.. esta es una forma implicita por ahora,
+
+00:05:25.520 --> 00:05:28.290
+es bastante duro obtener de forma implicita
+
+00:05:28.290 --> 00:05:31.550
+Podemos poner la C en un lado, así que la solución podría ser
+
+00:05:31.550 --> 00:05:37.180
+3Y menos Y a la 3 menos X a la 3 es igual a C.
+
+00:05:37.180 --> 00:05:38.660
+A algunas personas les podria gustar un poco mejor.
+
+00:05:38.660 --> 00:05:39.900
+Pero esa es la solución
+
+00:05:39.900 --> 00:05:41.780
+Y aviso, la solución, al igual que cuando coges un
+
+00:05:41.780 --> 00:05:46.930
+, la solucion es una clase de funciones
+
+00:05:46.930 --> 00:05:48.230
+implicitas, en éste caso.
+
+00:05:48.230 --> 00:05:49.320
+y ¿por qué es ésto una clase?
+
+00:05:49.320 --> 00:05:51.520
+Porque tenemos aquella constante allá.
+
+00:05:51.520 --> 00:05:55.090
+Dependiendo de que número escojas alla, esto
+
+00:05:55.090 --> 00:05:56.360
+será una nueva solución.
+
+00:05:56.360 --> 00:05:59.440
+Pero cualquier constante satisfacerá la original.
+
+00:05:59.440 --> 00:06:03.780
+ecuación diferencail
+
+00:06:03.780 --> 00:06:05.540
+Esta fue la ecuación diferencial original.
+
+00:06:05.540 --> 00:06:08.370
+Y si desea resolver para esa constante, alguien tiene que
+
+00:06:08.370 --> 00:06:09.630
+darle una condición inicial.
+
+00:06:09.630 --> 00:06:15.860
+Alguien tiene que decir, bueno, cuando x es 2, y es 3.
+
+00:06:15.860 --> 00:06:17.920
+Y entonces se podría resolver por c.
+
+00:06:17.920 --> 00:06:19.880
+De todos modos, vamos a hacer otro que da
+
+00:06:19.880 --> 00:06:22.950
+nosotros una condición inicial.
+
+00:06:22.950 --> 00:06:27.180
+Así que éste es un poco--voy a empezar por.
+
+00:06:27.180 --> 00:06:31.990
+Imagen clara, colores diferentes, así que tengo espacio óptimo.
+
+00:06:31.990 --> 00:06:36.690
+Así que esta es la primera derivada de y con respeto
+
+00:06:36.690 --> 00:06:49.940
+a x es igual a 3 x squared plus x 4 plus 2 sobre 2
+
+00:06:49.940 --> 00:06:52.100
+tiempos y menos 1.
+
+00:06:52.100 --> 00:06:54.030
+Esto es un paréntesis, no un valor absoluto.
+
+00:06:54.030 --> 00:06:56.280
+Y nos dan las condiciones iniciales.
+
+00:06:56.280 --> 00:07:00.640
+Ellos dicen que 0 es igual a 1 negativo.
+
+00:07:00.640 --> 00:07:03.010
+Así que una vez que resolvemos esta ecuación diferencial, y
+
+00:07:03.010 --> 00:07:05.860
+Esta es una ecuación diferencial separable, entonces nos
+
+00:07:05.860 --> 00:07:08.830
+puede utilizar esta condición inicial, cuando x es 0, y es
+
+00:07:08.830 --> 00:07:10.520
+1, averiguar la constante.
+
+00:07:10.520 --> 00:07:12.220
+Así que vamos a separar primero esta ecuación.
+
+00:07:12.220 --> 00:07:15.610
+Así que vamos a multiplicar ambos lados por 2 veces y menos 1.
+
+00:07:15.610 --> 00:07:25.340
+Y obtendrá 2 veces y menos veces 1 dy dx es igual a 3 x
+
+00:07:25.340 --> 00:07:28.620
+squared plus 4 x plus 2.
+
+00:07:28.620 --> 00:07:30.040
+Multiplique ambos lados veces dx.
+
+00:07:30.040 --> 00:07:33.560
+Esto es realmente sólo un ejercicio de álgebra.
+
+00:07:33.560 --> 00:07:39.030
+Y yo puedo multiplicar esta un out, también obtendrá 2y menos 2,
+
+00:07:39.030 --> 00:07:40.940
+es justo este, dy.
+
+00:07:40.940 --> 00:07:47.390
+Multiplica ambos lados veces dx, por lo es igual a 3 x al cuadrado
+
+00:07:47.390 --> 00:07:52.730
+Plus x 4 plus 2 dx.
+
+00:07:52.730 --> 00:07:54.740
+He separado las ecuaciones.
+
+00:07:54.740 --> 00:07:57.990
+He separado el independiente de la variable dependiente,
+
+00:07:57.990 --> 00:08:00.690
+y sus diferencias relativas y ahora me
+
+00:08:00.690 --> 00:08:01.570
+puede integrar.
+
+00:08:01.570 --> 00:08:02.840
+Y puedo integrar en magenta.
+
+00:08:06.500 --> 00:08:08.950
+¿Qué es la primitiva de esta expresión
+
+00:08:08.950 --> 00:08:09.650
+¿con respecto a y?
+
+00:08:09.650 --> 00:08:10.080
+Bien, vamos a ver.
+
+00:08:10.080 --> 00:08:14.100
+Y su cuadrado menos 2 y.
+
+00:08:14.100 --> 00:08:15.450
+No escribo el c plus, sólo haré en
+
+00:08:15.450 --> 00:08:17.200
+el lado derecho.
+
+00:08:17.200 --> 00:08:19.995
+Es igual a 3 x al cuadrado.
+
+00:08:19.995 --> 00:08:25.400
+Así, la primitiva es x a la tercera, además de 2 x al cuadrado,
+
+00:08:25.400 --> 00:08:29.580
+Plus 2 x plus c.
+
+00:08:29.580 --> 00:08:32.010
+Y que c tipo de se encarga de la constante para ambos lados
+
+00:08:32.010 --> 00:08:34.159
+de la ecuación, y esperemos que entiendes por eso de la
+
+00:08:34.159 --> 00:08:35.080
+último ejemplo.
+
+00:08:35.080 --> 00:08:39.270
+Pero podemos resolver para c usando la condición inicial y 0
+
+00:08:39.270 --> 00:08:41.480
+es igual al negativo de 1.
+
+00:08:41.480 --> 00:08:42.870
+Así que vamos a ver.
+
+00:08:42.870 --> 00:08:44.950
+Cuando x es 0, y es negativo 1.
+
+00:08:44.950 --> 00:08:50.090
+Así que vamos a poner y como 1 negativo, por lo que obtenemos negativo 1 cuadrado
+
+00:08:50.090 --> 00:08:55.870
+menos 2 veces 1 negativo, que es el valor de y, es
+
+00:08:55.870 --> 00:08:57.500
+igual a cuando x es igual a 0.
+
+00:08:57.500 --> 00:09:00.890
+Así que cuando x es igual a 0, es 0 y el tercero más 2
+
+00:09:00.890 --> 00:09:04.760
+veces 0 squared plus 2 veces 0 plus c.
+
+00:09:04.760 --> 00:09:06.260
+Esto es bastante sencillo.
+
+00:09:06.260 --> 00:09:09.280
+Todos de estos, esto es todos los 0.
+
+00:09:09.280 --> 00:09:14.940
+Esto es, vamos a ver, negativo 1 al cuadrado, que es 1.
+
+00:09:14.940 --> 00:09:20.600
+Menos 2 veces menos 1, que es más 2, es igual a c.
+
+00:09:20.600 --> 00:09:25.170
+Y obtenemos c es igual a 3.
+
+00:09:25.170 --> 00:09:28.710
+Así, el implícito exacta solución, la solución de nuestro
+
+00:09:28.710 --> 00:09:30.080
+ecuación diferencial--Recuerde ahora, no es un
+
+00:09:30.080 --> 00:09:35.880
+clase, porque nos dieron una condición inicial--es y
+
+00:09:35.880 --> 00:09:43.170
+cuadrado menos 2y es igual a x al tercio más 2 x al cuadrado
+
+00:09:43.170 --> 00:09:46.260
+Plus 2 x plus 3.
+
+00:09:46.260 --> 00:09:48.730
+Pensamos que es lo que c fue.
+
+00:09:48.730 --> 00:09:50.460
+Y realmente, si lo desea, podría escribir esto un
+
+00:09:50.460 --> 00:09:52.800
+forma explícita completando el cuadrado.
+
+00:09:52.800 --> 00:09:54.180
+Esto es álgebra justo en este punto.
+
+00:09:54.180 --> 00:09:54.510
+Listo.
+
+00:09:54.510 --> 00:09:55.450
+Esta es una forma implícita.
+
+00:09:55.450 --> 00:09:58.450
+Si usted quería hacer explícito, podría agregar 1 a
+
+00:09:58.450 --> 00:09:58.890
+ambos lados.
+
+00:09:58.890 --> 00:10:00.660
+Yo sólo estoy completando el cuadrado aquí.
+
+00:10:00.660 --> 00:10:04.480
+Tan y cuadrado menos 2y más 1.
+
+00:10:04.480 --> 00:10:07.060
+Si agrego 1 a ese lado, tengo que añadir 1 a este lado, así que
+
+00:10:07.060 --> 00:10:13.090
+se convierte en x a la tercera más 2 x squared plus 2 x plus 4.
+
+00:10:13.090 --> 00:10:14.940
+Acaba de agregar 1 a ambos lados de la ecuación.
+
+00:10:14.940 --> 00:10:15.770
+¿Por qué hice?
+
+00:10:15.770 --> 00:10:17.680
+Porque quería este lado para ser un perfecto
+
+00:10:17.680 --> 00:10:19.240
+cuadrados en términos de y.
+
+00:10:19.240 --> 00:10:24.590
+Entonces puedo reescribir este lado como y menos 1 al cuadrado es igual
+
+00:10:24.590 --> 00:10:30.500
+a x a tercero plus 2 x squared plus 2 x plus 4.
+
+00:10:30.500 --> 00:10:35.110
+Enotnces puedo decir Y menos 1 es igual a más menos
+
+00:10:35.110 --> 00:10:39.950
+raíz cuadrada de x a la tercera más 2 x al cuadrado
+
+00:10:39.950 --> 00:10:43.210
+más 2x más 4
+
+00:10:43.210 --> 00:10:46.520
+Puedo añadir 1 a ambos lados, y luego lo puedo conseguir y es igual a 1
+
+00:10:46.520 --> 00:10:52.080
+más o menos
+
+00:10:52.080 --> 00:10:55.926
+cuadrada más 2x más 4
+
+00:10:55.926 --> 00:10:58.470
+Y tiene más o menos aquí, y si tenemos que escoger uno de
+
+00:10:58.470 --> 00:11:00.335
+los dos, íbamos de vuelta a la condición inicial.
+
+00:11:02.860 --> 00:11:08.800
+Bueno, nuestra condición inicial nos dijo que Y de 0 es igual
+
+00:11:08.800 --> 00:11:10.200
+a 1 negativo.
+
+00:11:10.200 --> 00:11:16.710
+Enbtnces si nosotros ponemos 0 aquí por X, obtenemos Y es igual a 1 más
+
+00:11:16.710 --> 00:11:19.065
+menos 0 más 4
+
+00:11:19.065 --> 00:11:22.100
+entonces 1 más o menos 4
+
+00:11:22.100 --> 00:11:24.740
+Lo que si y va a ser igual al negativo 1, por lo que tenemos y es
+
+00:11:24.740 --> 00:11:28.580
+igual a 1 más o menos--perdón, 2.
+
+00:11:28.580 --> 00:11:32.090
+Si esto va a ser igual a 1 negativo, esto ha
+
+00:11:32.090 --> 00:11:33.830
+ser 1 menos 2.
+
+00:11:33.830 --> 00:11:37.160
+Para forma la explícita que satisface nuestras iniciales
+
+00:11:37.160 --> 00:11:39.490
+condición y nos estamos metiendo un poco geeky aquí, usted podría
+
+00:11:39.490 --> 00:11:42.970
+deshacerse del plus, es la 1 menos todo esto.
+
+00:11:42.970 --> 00:11:45.340
+Eso es lo que satisface nuestra condición inicial.
+
+00:11:45.340 --> 00:11:49.430
+Y pudo averiguar donde está satisfecho, por lo que
+
+00:11:49.430 --> 00:11:50.910
+dominio es satisfecho.
+
+00:11:50.910 --> 00:11:53.300
+Bueno, eso está satisfecho cuando este término es positivo, esto
+
+00:11:53.300 --> 00:11:56.130
+se convierte en negativo y se consigue es undefined en reales, y
+
+00:11:56.130 --> 00:11:56.470
+todo eso.
+
+00:11:56.470 --> 00:11:57.950
+Pero de todas formas, he agotado tiempo.
+
+00:11:57.950 --> 00:11:59.970
+Nos vemos en el siguiente vídeo.

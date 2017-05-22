@@ -1,0 +1,165 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.882 --> 00:00:04.592
+Vimos en el último video que cuando se multiplican o dividen
+
+00:00:04.592 --> 00:00:07.187
+números, (o debería decir cuando se multiplican o
+
+00:00:07.187 --> 00:00:12.569
+dividen las mediciones) su resultado sólo puede tener tantos
+
+00:00:12.569 --> 00:00:17.067
+dígitos significativos como el elemento con menor cantidad
+
+00:00:17.067 --> 00:00:20.333
+de dígitos significativos que terminamos multiplicando y dividiendo.
+
+00:00:20.333 --> 00:00:28.789
+Como ejemplo rápido, si tengo 2,00 (por decir algo) por
+
+00:00:28.789 --> 00:00:36.058
+3.5 mi respuesta acá sólo puede tener dos dígitos significativos.
+
+00:00:36.058 --> 00:00:41.559
+Esto tiene 2 dígitos significativos, este tiene 3. 2 veces 3.5
+
+00:00:41.559 --> 00:00:47.311
+es 7, y podemos obtener un cero a la derecha del decimal.
+
+00:00:50.328 --> 00:00:53.575
+Nos limitamos solamente a 2, ya que era el número más chico
+
+00:00:53.575 --> 00:00:55.605
+de dígitos significativos que que tuvimos entre todas las cosas
+
+00:00:55.605 --> 00:00:57.712
+que intervenían en el producto.
+
+00:00:57.712 --> 00:01:00.152
+Cuando hacemos sumas y restas, la situación es un poco distinta
+
+00:01:00.152 --> 00:01:01.627
+Y voy a hacer un ejemplo primero.
+
+00:01:06.227 --> 00:01:09.027
+Y aún mis ejemplos del mundo real no son realmente reales.
+
+00:01:09.027 --> 00:01:11.026
+En mi último video, hablé de instalación de alfombras
+
+00:01:11.026 --> 00:01:13.776
+y alguien dijo con mucha razó, "Hey, si estás instalando una
+
+00:01:13.776 --> 00:01:17.267
+alfombra, siempre se quiere redondear. Sólo porque no
+
+00:01:17.267 --> 00:01:20.875
+querés cortar la alfombra, podés de alguna forma pegar la alfombra ahí.
+
+00:01:20.875 --> 00:01:24.467
+Pero eso fue un caso particular para alfombras. Lo decía de forma general
+
+00:01:24.467 --> 00:01:26.420
+para pensar en la precisión de las cifras significativas.
+
+00:01:26.420 --> 00:01:29.286
+Sólo era para alfombras y todo eso.
+
+00:01:29.286 --> 00:01:34.679
+Pero cuando sumás, cuando sumás, o restás, ahora esos
+
+00:01:34.679 --> 00:01:39.409
+dígitos significativos o esas cifras significativas no importan tanto
+
+00:01:39.409 --> 00:01:42.867
+como la precisión de las cosas que se suman.
+
+00:01:42.867 --> 00:01:45.333
+¿Cuántos lugares decimales me muevo? Por ejemplo,
+
+00:01:45.333 --> 00:01:53.996
+digamos que quisiera sumar 1,26 con no sé 2.3. Si solo
+
+00:01:53.996 --> 00:01:57.200
+se suman estos dos números y digamos que estas son
+
+00:01:57.200 --> 00:01:58.956
+medidas, entonces cuando hacés la cuenta (estos son claramente 3
+
+00:01:58.956 --> 00:02:02.886
+dígitos significativos) somos capaces de medir hasta el centésimo más cercano.
+
+00:02:02.919 --> 00:02:06.967
+Aquí se trata de dos dígitos significativos entonces tres dígitos significativos
+
+00:02:06.967 --> 00:02:10.303
+esto son dos dígitos significativos, somos capaces de medir hasta el
+
+00:02:10.303 --> 00:02:14.008
+décimo más cercano. Permítanme etiquetar esto. Éste es el centésimo
+
+00:02:14.008 --> 00:02:16.998
+y este es el décimo. Al añadir o restar números,
+
+00:02:16.998 --> 00:02:20.229
+tu respuesta, por lo que si es hacemos esto, si sólo sumamos estos
+
+00:02:20.229 --> 00:02:24.499
+dos números, tengo 3.56. La suma o la diferencia
+
+00:02:24.499 --> 00:02:30.799
+todo lo que llevas, no se cuentan las cifras significativas
+
+00:02:30.799 --> 00:02:33.099
+No decís, "Hey, esto sólo puede tener dos dígitos significativos."
+
+00:02:33.099 --> 00:02:38.233
+Lo que se puede decir es, "Esto sólo puede ser tan preciso como la cosa
+
+00:02:38.233 --> 00:02:40.965
+menos precisa que tenía por acá, que era 2.3".
+
+00:02:40.965 --> 00:02:44.129
+Sólo llegó hasta el lugar de los décimos, entonces en nuestra respuesta
+
+00:02:44.129 --> 00:02:49.233
+sólo podemos llegar hasta el lugar de los décimos. Entonces necesitamos redondear
+
+00:02:49.233 --> 00:02:54.166
+a este para arriba. Como tenemos un seis acá, redondeamos para arriba
+
+00:02:54.166 --> 00:03:00.383
+entonces si te importan las cifras significativas, esto va a ser
+
+00:03:00.383 --> 00:03:02.466
+un 3.7. Y quiero dejar clara una cosa. Esta vez
+
+00:03:02.466 --> 00:03:04.048
+funcionó, porque esto tiene 2 cifras significativas,
+
+00:03:04.048 --> 00:03:06.899
+esto también tiene dos dígitos significativos. Pero esto podría haber sido...
+
+00:03:06.899 --> 00:03:12.129
+(Permítanme hacer otra situación) podría tener 1,26 más
+
+00:03:12.129 --> 00:03:19.768
+102.3 y le tendríamos 103.56. A continuación, en esta
+
+00:03:19.768 --> 00:03:23.396
+situación obviamente por acá tenemos 4 cifras significativas y esto
+
+00:03:23.396 --> 00:03:26.768
+de acá tiene 3 cifras significativas. Pero en nuestra respuesta
+
+00:03:26.768 --> 00:03:29.501
+no queremos tener 3 cifras significativas. Sólo queremos
+
+00:03:29.501 --> 00:03:32.768
+ser tan precisos como la cosa menos precisa que hayamos sumado.
+
+00:03:32.768 --> 00:03:36.400
+Para la cosa menos precisa, vamos sólamente un dígito después del

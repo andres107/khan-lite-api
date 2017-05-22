@@ -1,0 +1,330 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:07.010
+Se nos dice que el triángulo ABC tiene perímetro p e inradio r
+
+00:00:07.140 --> 00:00:11.640
+y luego quieren que hallar el área de ABC en términos de p y r
+
+00:00:11.720 --> 00:00:15.080
+así que sabemos que los perímetros son la suma de los lados del triángulo
+
+00:00:15.200 --> 00:00:18.270
+o cuánto tiempo de longitud tendrá que ser si quieres ir alrededor del triángulo
+
+00:00:18.430 --> 00:00:21.170
+y vamos a sólo recordar lo que es el inradio
+
+00:00:21.290 --> 00:00:26.940
+Si tomamos las bisectors del ángulo de cada uno de estos vértices
+
+00:00:27.050 --> 00:00:28.700
+cada uno de estos ángulos derecho aquí
+
+00:00:28.840 --> 00:00:31.140
+bisectors lo que allí
+
+00:00:31.250 --> 00:00:33.330
+y luego a la bisectriz que derecha allí
+
+00:00:33.460 --> 00:00:35.840
+este ángulo va a ser igual a ese ángulo
+
+00:00:35.950 --> 00:00:38.590
+este ángulo va a ser igual a ese ángulo
+
+00:00:38.710 --> 00:00:42.310
+y, a continuación, este ángulo va a ser igual a ese ángulo se
+
+00:00:42.430 --> 00:00:47.030
+y el punto de intersección de las bisectors de ángulo
+
+00:00:47.130 --> 00:00:50.050
+ese derecho allí es nuestro incentro
+
+00:00:50.150 --> 00:00:53.210
+y es igual de distante de todos los tres lados
+
+00:00:53.320 --> 00:00:57.280
+y la distancia de los lados que es el inradio
+
+00:00:57.400 --> 00:00:59.460
+así que permítanme señalar el inradio
+
+00:00:59.570 --> 00:01:01.250
+así que cuando encuentre la distancia entre el punto y la línea
+
+00:01:01.360 --> 00:01:02.530
+¿quieres colocar un perpendicular
+
+00:01:02.640 --> 00:01:05.170
+así que esta longitud por aquí es el inradio
+
+00:01:05.300 --> 00:01:08.440
+Esta longitud por aquí es el inradio
+
+00:01:08.560 --> 00:01:11.920
+y esta longitud por aquí es el inradio
+
+00:01:12.050 --> 00:01:16.910
+y si lo desea pueden dibujar una inscrita aquí con el centro en el incentro
+
+00:01:17.030 --> 00:01:20.690
+y con el radio r y ese círculo sería algo como esto
+
+00:01:20.820 --> 00:01:23.180
+no tenemos que llamar la realidad de este problema
+
+00:01:23.320 --> 00:01:25.400
+así puede dibujar un círculo que se ve algo así
+
+00:01:25.520 --> 00:01:27.890
+entonces llamamos la inscrita
+
+00:01:28.010 --> 00:01:30.400
+así que vamos a pensar en cómo podemos encontrar la zona aquí
+
+00:01:30.520 --> 00:01:32.840
+especialmente en cuanto a este inradio
+
+00:01:32.970 --> 00:01:36.500
+bien lo fresco de la inradio es esto que se parece a la altitud
+
+00:01:36.650 --> 00:01:39.370
+bueno esto parece que la altura de este triángulo por aquí
+
+00:01:39.480 --> 00:01:44.570
+triángulo vamos a etiquetar el centro vamos a llamarlo para incentro
+
+00:01:44.780 --> 00:01:49.410
+así que r es esta r derecha sobre aquí es la altitud del triángulo AIC
+
+00:01:49.520 --> 00:01:52.770
+Esta es la altura del triángulo BIC
+
+00:01:52.890 --> 00:01:54.860
+y esta r que no etiquetamos
+
+00:01:54.980 --> 00:01:59.240
+r derecha allí es la altura del triángulo AIB
+
+00:01:59.350 --> 00:02:04.670
+y así podríamos encontrar el área de cada uno de los triángulos en términos de r y su base
+
+00:02:04.780 --> 00:02:08.140
+tal vez si sumamos el área de todos los triángulos
+
+00:02:08.280 --> 00:02:11.310
+podemos conseguir algo en términos de nuestro perímetro y nuestro inradio
+
+00:02:11.400 --> 00:02:12.990
+tan sólo vamos a hacer esto
+
+00:02:13.120 --> 00:02:18.880
+así que el área del triángulo todo el área de ABC va a ser igual a
+
+00:02:18.990 --> 00:02:19.920
+y I se color este código
+
+00:02:20.030 --> 00:02:24.160
+Esto va a ser igual al área de AIC
+
+00:02:24.280 --> 00:02:32.960
+eso es lo que estoy sombreado aquí en magenta va a ser euqal a la zona de AIC
+
+00:02:33.070 --> 00:02:38.520
+Además la zona de BIC que es este triángulo derecho por aquí
+
+00:02:38.640 --> 00:02:42.040
+Le mostraré que en un color diferente ya he usado azul
+
+00:02:42.160 --> 00:02:44.530
+así que permítanme hacer eso en naranja
+
+00:02:44.680 --> 00:02:51.700
+y la zona de BIC por lo es esta zona por aquí
+
+00:02:51.820 --> 00:02:57.410
+así que además de la zona de BIC y entonces finalmente más el área
+
+00:02:57.530 --> 00:03:02.510
+Lo hago vamos a ver voy a utilizar este color rosa
+
+00:03:02.640 --> 00:03:11.560
+y la zona de AIB que es el área AIB
+
+00:03:11.690 --> 00:03:13.290
+la suma de las áreas de estos tres triángulos
+
+00:03:13.430 --> 00:03:15.540
+ya tienes el área del triángulo más grande
+
+00:03:15.670 --> 00:03:21.720
+AIC ahora el área de AIC va a ser igual a la mitad base veces altura
+
+00:03:21.840 --> 00:03:27.480
+así que esto va a ser la mitad de la base de la longitud de la mitad de la CA
+
+00:03:27.600 --> 00:03:30.000
+veces la altura veces esta altitud sobre aquí
+
+00:03:30.110 --> 00:03:32.520
+sólo que va a ser r r veces
+
+00:03:32.630 --> 00:03:34.380
+es la zona de AIC
+
+00:03:34.530 --> 00:03:43.000
+y, a continuación, el área de BIC va a ser la mitad la base que es BC
+
+00:03:43.110 --> 00:03:45.650
+veces una altura que es r
+
+00:03:45.770 --> 00:03:49.960
+y, a continuación, además de la zona de AIB este uno derecho aquí va a ser
+
+00:03:50.060 --> 00:03:54.430
+la mitad la base que es la longitud del lado AB
+
+00:03:54.560 --> 00:04:00.200
+AB veces una altura r oneeagain
+
+00:04:00.350 --> 00:04:03.900
+y aquí podemos buscar a mitad r para todos estos términos
+
+00:04:04.020 --> 00:04:16.410
+y obtendrá la mitad r veces AC plus BC plus AB
+
+00:04:16.500 --> 00:04:17.990
+y creo que esto va
+
+00:04:18.110 --> 00:04:24.720
+Además de es la otra sombra de rosa plus AB
+
+00:04:24.840 --> 00:04:33.080
+Ahora ¿qué es AC plus BC plus AB
+
+00:04:33.190 --> 00:04:39.250
+así va a ser el perímetro p si acaba de tomar la suma de los lados
+
+00:04:39.360 --> 00:04:42.200
+es el perímetro de p y parece que hemos terminado
+
+00:04:42.320 --> 00:04:53.790
+el área de nuestro triángulo de ABC es igual a un medio veces r veces el perímetro
+
+00:04:53.900 --> 00:04:54.770
+que es el tipo de consecuencia aseado
+
+00:04:54.880 --> 00:04:59.950
+una mitad veces el inradio veces el perímetro del triángulo
+
+00:05:00.060 --> 00:05:04.530
+o a veces vamos a ver escrito como este es igual a r p veces sobre s
+
+00:05:04.640 --> 00:05:07.750
+oh perdón p más 2
+
+00:05:07.850 --> 00:05:10.250
+y este derecho término aquí el perímetro dividido por 2
+
+00:05:10.370 --> 00:05:19.370
+es a veces llamado semi perímetro y a veces se denota por s
+
+00:05:19.490 --> 00:05:22.740
+a veces, verá que el área es igual a r veces s
+
+00:05:22.850 --> 00:05:27.270
+donde s es el perímetro de la semi es el perímetro dividido por 2
+
+00:05:27.390 --> 00:05:29.020
+En primer lugar me gusta esta forma un poco más
+
+00:05:29.120 --> 00:05:31.360
+porque recuerdo que p es el perímetro
+
+00:05:31.460 --> 00:05:34.820
+Esto es útil porque obviamente ahora si alguien te da inradio y un perímetro
+
+00:05:34.930 --> 00:05:36.760
+Usted puede averiguar el área de un triángulo
+
+00:05:36.880 --> 00:05:39.570
+o alguien le da la zona del triángulo y el perímetro
+
+00:05:39.680 --> 00:05:40.810
+Usted puede conseguir el inradio del mismo
+
+00:05:40.930 --> 00:05:44.130
+Si dos de estas variables puede obtener siempre la tercera
+
+00:05:44.260 --> 00:05:47.810
+por ejemplo, si alguien si este fue un triángulo sobre aquí
+
+00:05:47.920 --> 00:05:50.890
+que es el más famoso de los triángulos de derecho
+
+00:05:51.030 --> 00:05:55.480
+Si tengo un triángulo que tiene longitud 3 4 y 5
+
+00:05:55.600 --> 00:05:56.610
+Sabemos que esto es un triángulo
+
+00:05:56.700 --> 00:05:59.130
+puede comprobarlo desde el teorema de Pitágoras
+
+00:05:59.250 --> 00:06:03.460
+y alguien dice lo que es el inradio de este triángulo derecho por aquí
+
+00:06:03.570 --> 00:06:05.670
+bien podemos imaginar el área bastante fácilmente
+
+00:06:05.790 --> 00:06:10.020
+Sabemos que esto es un triángulo 3 squared plus 4 al cuadrado es igual a 5 al cuadrado
+
+00:06:10.140 --> 00:06:16.490
+por lo que la zona va a ser igual a 4 veces 3 veces una mitad
+
+00:06:16.610 --> 00:06:18.870
+así 3 veces 4 veces una mitad es 6
+
+00:06:18.990 --> 00:06:26.630
+y el perímetro de aquí va a ser igual a 3 más 4 que es 7 plus 5 es 12
+
+00:06:26.750 --> 00:06:31.910
+y así tenemos la zona así que vamos a escribir esto
+
+00:06:32.030 --> 00:06:37.490
+el área es igual a un medio veces el inradio veces el perímetro
+
+00:06:37.610 --> 00:06:44.720
+así que aquí tenemos 12 es igual a un medio veces el inradio veces el perímetro
+
+00:06:44.840 --> 00:06:48.050
+así tenemos oh lo siento que tenemos 6 Déjame escribir esto
+
+00:06:48.150 --> 00:06:55.140
+la zona 6 6 es igual a un medio veces el inradio times 12
+
+00:06:55.260 --> 00:06:58.110
+y en esta situación una mitad veces 12 es 6
+
+00:06:58.220 --> 00:07:03.620
+6 es igual a 6r dividir ambos lados por 6 usted obtener r es igual a 1
+
+00:07:03.740 --> 00:07:08.210
+así que si desea dibujar el inradio para éste tipo de resultado aseado
+
+00:07:08.340 --> 00:07:13.890
+así que permítanme señalar aquí algunos bisectors de ángulo
+
+00:07:14.030 --> 00:07:17.810
+Esta 3-4-5 triángulo tiene inradio de 1
+
+00:07:17.920 --> 00:07:21.010
+así que esta distancia es igual a esta distancia que es igual a esta distancia
+
+00:07:21.120 --> 00:07:27.210
+que es igual a 1 solo tipo de consecuencia aseado

@@ -1,0 +1,501 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.550 --> 00:00:03.660
+Un poco de un problema clasico de diferenciación implicita
+
+00:00:03.660 --> 00:00:10.900
+es el problema y igual a x elevado a la x.
+
+00:00:10.900 --> 00:00:13.810
+Y luego encontrar la derivada de y
+
+00:00:13.810 --> 00:00:16.350
+con respecto a x
+
+00:00:16.350 --> 00:00:19.520
+Y miren que, oh ustedes saben, no tengo solo una
+
+00:00:19.520 --> 00:00:21.800
+constante exponencial aqui, asi que no puedo usar la regla de la potencia
+
+00:00:21.800 --> 00:00:23.300
+Como lo harias?
+
+00:00:23.300 --> 00:00:26.090
+Y el truco aqui es tomar el logaritmo natural de
+
+00:00:26.090 --> 00:00:27.860
+ambos lados de la ecuación.
+
+00:00:27.860 --> 00:00:29.530
+y esto va a construir lo que vamos a ver
+
+00:00:29.530 --> 00:00:30.460
+despues en este video.
+
+00:00:30.460 --> 00:00:34.530
+Asi que si tomas el logaritmo natural de ambos lados de la ecuación
+
+00:00:34.530 --> 00:00:38.570
+obtienes el logaritmo natural de y es igual al
+
+00:00:38.570 --> 00:00:40.880
+logaritmo natural de x elevado a la x.
+
+00:00:40.880 --> 00:00:44.750
+Ahora nuestras reglas de potencia, o nuestras reglas de logaritmo natural, dicen
+
+00:00:44.750 --> 00:00:46.550
+mira, si tomo el logaritmo natural de algo elevado a la algo,
+
+00:00:46.550 --> 00:00:50.730
+es equivalente a, puedo reescribirlo logaritmo natural de x
+
+00:00:50.730 --> 00:00:54.690
+elevado a la x como siendo igual a x veces el
+
+00:00:54.690 --> 00:00:56.550
+logaritmo natural de x.
+
+00:00:56.550 --> 00:00:59.380
+Asi que dejenme esccribir todo de nuevo.
+
+00:00:59.380 --> 00:01:01.910
+Si tomo el logaritmo natural de ambos lados de la ecuación
+
+00:01:01.910 --> 00:01:06.190
+obtengo el logaritmo natural de y es igual a x veces el
+
+00:01:06.190 --> 00:01:08.530
+logaritmo natural de x.
+
+00:01:08.530 --> 00:01:11.100
+Y ahora podemos derivar ambos lados de este
+
+00:01:11.100 --> 00:01:12.350
+con respecto a x.
+
+00:01:12.350 --> 00:01:15.640
+Asi la derivada con respecto a x de esto, y luego
+
+00:01:15.640 --> 00:01:19.440
+la derivada con respecto a x de esto.
+
+00:01:19.440 --> 00:01:24.710
+Ahora vamos a aplicar un poco la regla de la cadena.
+
+00:01:24.710 --> 00:01:25.520
+Asi la regla de la cadena.
+
+00:01:25.520 --> 00:01:27.730
+Que es la derivada de esto con respecto a x?
+
+00:01:27.730 --> 00:01:30.840
+Que es la derivada de nuestra expresion interna
+
+00:01:30.840 --> 00:01:32.330
+con respecto a x)
+
+00:01:32.330 --> 00:01:35.390
+Esto es un poco de diferenciación implicita, asi es dy
+
+00:01:35.390 --> 00:01:38.600
+con respecto a x veces la derivada de todo esta
+
+00:01:38.600 --> 00:01:40.710
+cosa con respecto a la funcion interna.
+
+00:01:40.710 --> 00:01:44.150
+Asi la derivada de logaritmo natural de x es 1/x.
+
+00:01:44.150 --> 00:01:45.690
+Asi la derivada de logaritmo natural de y con
+
+00:01:45.690 --> 00:01:48.840
+respecto a y es 1/y.
+
+00:01:48.840 --> 00:01:50.080
+asi veces 1/y.
+
+00:01:52.600 --> 00:01:55.450
+Y la derivada de esto --- esto es solo la regla del producto,
+
+00:01:55.450 --> 00:01:59.740
+y voy a cambiar los colores arbitrriamente aqui-- es la derivada
+
+00:01:59.740 --> 00:02:03.610
+de el primer termino, que es 1, por el segundo termino, por
+
+00:02:03.610 --> 00:02:08.760
+el logaritmo natural de x mas la derivada del segundo termino,
+
+00:02:08.760 --> 00:02:11.550
+que es 1/x por el primer termino.
+
+00:02:11.550 --> 00:02:13.380
+por x.
+
+00:02:13.380 --> 00:02:23.280
+y asi obtenemos dy/dx por 1/y es igual a logaritmo natural de x
+
+00:02:23.280 --> 00:02:28.140
+mas--- este es 1-- x dividido por x, y
+
+00:02:28.140 --> 00:02:30.260
+luego multiplicar ambos lados de esto por y.
+
+00:02:30.260 --> 00:02:35.590
+Obtenemos dy/dx es igual a y por el logaritmo natural
+
+00:02:35.590 --> 00:02:37.610
+de x mas 1.
+
+00:02:37.610 --> 00:02:40.360
+Y si no nos gusta esta y sentada aqui, solo
+
+00:02:40.360 --> 00:02:41.410
+hacemos la substitución
+
+00:02:41.410 --> 00:02:43.620
+y es igual a x elevada a la x
+
+00:02:43.620 --> 00:02:47.410
+Asi podemos decir que la derivada de y con respecto a
+
+00:02:47.410 --> 00:02:52.890
+x es igual a x elevada a la x por el logaritmo natural de x mas 1.
+
+00:02:52.890 --> 00:02:55.950
+y este es un problema divertido, y es a veces el tipo de problema
+
+00:02:55.950 --> 00:02:59.810
+truco dado, o a veces como problema bonus si
+
+00:02:59.810 --> 00:03:02.180
+no sabes poner el logaritmo natural de ambos lados de eso.
+
+00:03:02.180 --> 00:03:05.290
+Pero a mi me dieron un problema aun mas dificil, y
+
+00:03:05.290 --> 00:03:06.550
+es por eso que vamos a hacer este.
+
+00:03:06.550 --> 00:03:09.270
+Pero es bueno ver este problema primero porque
+
+00:03:09.270 --> 00:03:11.900
+te da las herramientas basicas.
+
+00:03:11.900 --> 00:03:14.350
+Por lo que el problema más difícil que vamos a
+
+00:03:14.350 --> 00:03:17.700
+tratar es éste.
+
+00:03:17.700 --> 00:03:19.610
+Permítaseme escribirlo.
+
+00:03:19.610 --> 00:03:26.990
+Asi el problema es y es igual a x elevada a --y aquí está el
+
+00:03:26.990 --> 00:03:30.640
+giro--x elevada a la x elevada a la x.
+
+00:03:30.640 --> 00:03:33.700
+Y queremos averiguar dy/dx.
+
+00:03:33.700 --> 00:03:36.310
+Queremos encontrar la derivada de y
+
+00:03:36.310 --> 00:03:38.630
+con respecto a x.
+
+00:03:38.630 --> 00:03:41.300
+Para resolver este problema esencialmente utilizamos las mismas herramientas.
+
+00:03:41.300 --> 00:03:44.320
+Utilizamos el logaritmo natural para esencialmente desglosar este
+
+00:03:44.320 --> 00:03:47.000
+exponente y obtenerlo en términos que podemos abordar.
+
+00:03:47.000 --> 00:03:48.780
+Para que podamos usar la regla del producto.
+
+00:03:48.780 --> 00:03:51.300
+Así que vamos a tomar el logaritmo natural de ambos lados de esta ecuación
+
+00:03:51.300 --> 00:03:52.810
+como lo hicimos la última vez.
+
+00:03:52.810 --> 00:03:58.570
+Obtendrá el logaritmo natural de y es igual al logaritmo natural
+
+00:03:58.570 --> 00:04:02.630
+de x a la x a la x.
+
+00:04:05.230 --> 00:04:06.910
+Y esto es sólo el exponente en este.
+
+00:04:06.910 --> 00:04:12.820
+Por lo tanto podemos reescribir como x a la x por el logaritmo natural
+
+00:04:12.820 --> 00:04:17.260
+por el logaritmo natural de x.
+
+00:04:17.260 --> 00:04:21.200
+Así que ahora nuestra expresión nuestra ecuación se ha simplificado a
+
+00:04:21.200 --> 00:04:25.770
+logaritmo natural de y es igual a x a la x por
+
+00:04:25.770 --> 00:04:26.940
+logaritmo natural de x.
+
+00:04:26.940 --> 00:04:29.890
+Pero todavía tenemos esta desagradable x a la x aquí.
+
+00:04:29.890 --> 00:04:33.600
+No sabemos de ninguna manera fácil de tomar la derivada, aunque yo he
+
+00:04:33.600 --> 00:04:36.310
+sólo mostrado que la derivada de esto es, lo
+
+00:04:36.310 --> 00:04:38.720
+podríamos aplicar ahora.
+
+00:04:38.720 --> 00:04:40.890
+Yo iba a tomar el logaritmoo natural de nuevo y convertiría
+
+00:04:40.890 --> 00:04:45.250
+esta cosa grande, desordenado, confuso, pero me di cuenta que
+
+00:04:45.250 --> 00:04:47.340
+anteriormente en este vídeo sólo resuelto por lo que la
+
+00:04:47.340 --> 00:04:50.230
+derivada de x a la x es.
+
+00:04:50.230 --> 00:04:51.660
+Es esta cosa aquí.
+
+00:04:51.660 --> 00:04:53.390
+Es esta expresión loca aquí.
+
+00:04:53.390 --> 00:04:57.890
+Por lo que sólo tenemos que recordar esto y aplicarlo y
+
+00:04:57.890 --> 00:04:59.620
+luego hacer nuestro problema.
+
+00:04:59.620 --> 00:05:01.350
+Así que vamos a hacer nuestro problema.
+
+00:05:01.350 --> 00:05:05.480
+Y si nosotros no habíamos resuelto esto antes, esto era un tipo de
+
+00:05:05.480 --> 00:05:08.470
+beneficio inesperado de hacer la versión más sencilla del
+
+00:05:08.470 --> 00:05:12.640
+problema, usted podría simplemente mantener poniendo el logaritmo natural de este,
+
+00:05:12.640 --> 00:05:13.930
+pero sólo obtendrá un poco de desastre.
+
+00:05:13.930 --> 00:05:15.970
+Pero desde ya sabemos lo que la derivada de x a la
+
+00:05:15.970 --> 00:05:18.150
+x, sólo vamos a aplicarlo.
+
+00:05:18.150 --> 00:05:20.540
+Así que vamos a tomar la derivada de ambos
+
+00:05:20.540 --> 00:05:21.530
+lados de la ecuación.
+
+00:05:21.530 --> 00:05:26.060
+Derivado de esto es igual a la derivada de esto.
+
+00:05:26.060 --> 00:05:28.160
+Vamos a ignorar esto por ahora.
+
+00:05:28.160 --> 00:05:31.780
+Derivada de esto con respecto a x es la derivada de
+
+00:05:31.780 --> 00:05:34.700
+el logaritmo natural de y con respecto a y.
+
+00:05:34.700 --> 00:05:38.160
+Así que 1/y por la derivada de y
+
+00:05:38.160 --> 00:05:38.965
+con respecto a x.
+
+00:05:38.965 --> 00:05:40.630
+Eso es simplemente la regla de la cadena.
+
+00:05:40.630 --> 00:05:43.010
+Aprendimos que en la diferenciación implícita.
+
+00:05:43.010 --> 00:05:48.870
+Así que esto es igual a la derivada del primer término
+
+00:05:48.870 --> 00:05:51.760
+por el segundo término y voy a escribir aquí justo aqui
+
+00:05:51.760 --> 00:05:54.280
+porque no quiero omitir pasos y confundir a las personas.
+
+00:05:54.280 --> 00:05:57.615
+Esto es igual a la derivada con respecto a x de
+
+00:05:57.615 --> 00:06:03.370
+x a la x por el logaritmo natural de x más la derivada
+
+00:06:03.370 --> 00:06:05.690
+con respecto a x el logaritmo natural de
+
+00:06:05.690 --> 00:06:11.040
+x por x a la x.
+
+00:06:11.040 --> 00:06:14.100
+Así que vamos a centrarnos en el lado derecho de esta ecuación.
+
+00:06:14.100 --> 00:06:17.980
+¿Qué es la derivada de x a la x a la x?
+
+00:06:17.980 --> 00:06:19.920
+Así sólo resolvimos ese problema aquí.
+
+00:06:19.920 --> 00:06:23.730
+Es x a la x logaritmo natural de x más 1.
+
+00:06:23.730 --> 00:06:30.040
+Así que esta pieza aquí--ya olvidé lo que
+
+00:06:30.040 --> 00:06:33.720
+fue--fue x a la x logaritmo natural de x más 1.
+
+00:06:33.720 --> 00:06:41.130
+Es decir x a la x por el logaritmo natural de x más 1.
+
+00:06:41.130 --> 00:06:42.810
+Y, a continuación, vamos a multiplicar esto por
+
+00:06:42.810 --> 00:06:44.070
+el logaritmo natural de x.
+
+00:06:48.050 --> 00:06:51.560
+Y, a continuación, vamos a añadir, además de la derivada
+
+00:06:51.560 --> 00:06:54.910
+del logaritmo natural de x.
+
+00:06:54.910 --> 00:06:59.310
+Es bastante sencillo, que es 1 / x por x a la x.
+
+00:07:03.010 --> 00:07:05.690
+Y por supuesto el lado izquierdo de la ecuación
+
+00:07:05.690 --> 00:07:10.432
+fue sólo 1/y dy/dx.
+
+00:07:10.432 --> 00:07:14.740
+Y nosotros podemos multiplicar ambos lados de esta ahora por y, y obtenemos
+
+00:07:14.740 --> 00:07:22.470
+dy/dx es igual a y por todo esto--x a la
+
+00:07:22.470 --> 00:07:27.840
+x por el logaritmo natural de x mas 1 por el logaritmo natural de
+
+00:07:27.840 --> 00:07:34.520
+x mas 1/ x por x a la x.
+
+00:07:34.520 --> 00:07:36.000
+Que el x a la menos 1 .
+
+00:07:36.000 --> 00:07:38.890
+Podríamos escribir esto como x al menos 1 y luego
+
+00:07:38.890 --> 00:07:39.750
+Agregar a los exponentes.
+
+00:07:39.750 --> 00:07:44.650
+Se podría escribir como x a la x menos 1 potencia.
+
+00:07:44.650 --> 00:07:48.640
+Y si no nos gusta este y aquí, sólo podemos
+
+00:07:48.640 --> 00:07:49.890
+sustituirlo atrás.
+
+00:07:49.890 --> 00:07:53.440
+y fue igual a esta, esta loca cosa aquí.
+
+00:07:53.440 --> 00:07:59.110
+Asi nuestro solución final para esto-- bien en un nivel
+
+00:07:59.110 --> 00:08:01.120
+se ve como un problema muy simple, pero en otro nivel
+
+00:08:01.120 --> 00:08:03.220
+cuando usted aprecia lo que está diciendo, es como oh hay un
+
+00:08:03.220 --> 00:08:07.480
+problema muy complicado --obtiene la derivada de y con
+
+00:08:07.480 --> 00:08:11.370
+respecto a x es igual a y, lo que es esto.
+
+00:08:11.370 --> 00:08:21.480
+Por lo que de x a la x a la x por todas estas cosas--por
+
+00:08:21.480 --> 00:08:27.580
+x a la x logaritmo natural de x mas 1 por el logaritmo natural
+
+00:08:27.580 --> 00:08:34.080
+de x, a continuación, más x a la x menos 1.
+
+00:08:34.080 --> 00:08:34.940
+Así que quién habría pensado.
+
+00:08:34.940 --> 00:08:36.460
+A veces las matemáticas es elegante.
+
+00:08:36.460 --> 00:08:37.870
+Tomar la derivada de algo como esto y
+
+00:08:37.870 --> 00:08:39.080
+obtendrá algo limpio.
+
+00:08:39.080 --> 00:08:42.320
+Por ejemplo, cuando haces la derivada de logaritmo natural
+
+00:08:42.320 --> 00:08:43.774
+de x se obtiene 1 / x.
+
+00:08:43.774 --> 00:08:46.340
+Que es muy simple y elegante, y es bueno que matemáticas
+
+00:08:46.340 --> 00:08:47.030
+salió de esa manera.
+
+00:08:47.030 --> 00:08:50.130
+Pero a veces haces algo, tener una operación
+
+00:08:50.130 --> 00:08:52.070
+algo que parece bastante simple y elegante y obtener
+
+00:08:52.070 --> 00:08:55.420
+algo que es peludo y no que agradable de ver
+
+00:08:55.420 --> 00:08:59.800
+pero es un problema bastante interesante.
+
+00:08:59.800 --> 00:09:00.080
+Y ahi tienen.

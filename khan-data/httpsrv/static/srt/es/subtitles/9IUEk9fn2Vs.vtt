@@ -1,0 +1,432 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.023 --> 00:00:04.028
+Bienvenidos a la presentación cuatro de ecuaciones lineales.
+
+00:00:04.028 --> 00:00:06.053
+Comencemos resolviendo algunos problemas.
+
+00:00:06.054 --> 00:00:06.070
+Así que.
+
+00:00:06.071 --> 00:00:09.058
+Supongamos la siguiente situación, permítanme plantear un par de
+
+00:00:09.058 --> 00:00:20.010
+problemas - Supongamos que digo que 3 sobre x es igual a 5
+
+00:00:20.010 --> 00:00:23.017
+Por lo tanto, lo que queremos hacer - este problema es un poco diferente
+
+00:00:23.017 --> 00:00:24.025
+a todo lo que hemos visto hasta ahora.
+
+00:00:24.026 --> 00:00:26.094
+Porque aquí, en lugar de tener a la variable x en el numerador,
+
+00:00:26.094 --> 00:00:28.012
+x aparece en el denominador.
+
+00:00:28.014 --> 00:00:31.026
+Así que, personalmente no me gusta que x esté en el denominador,
+
+00:00:31.026 --> 00:00:34.017
+por lo que queremos conseguir que la variable x pase del denominador
+
+00:00:34.017 --> 00:00:36.013
+al numerador
+
+00:00:36.014 --> 00:00:36.092
+
+
+00:00:36.092 --> 00:00:40.077
+Por lo tanto, una forma de eliminar una variable del denominador es, si
+
+00:00:40.078 --> 00:00:45.056
+se multiplican ambos lados de la ecuación por x, se ve
+
+00:00:45.056 --> 00:00:47.045
+que en del lado izquierdo de la ecuación las dos x
+
+00:00:47.046 --> 00:00:48.089
+se anulan.
+
+00:00:48.089 --> 00:00:52.014
+Y en el lado derecho, aparece la multiplicación 5 por x.
+
+00:00:52.014 --> 00:00:56.090
+Así que esto es igual a - las dos x se cancelan entre sí,
+
+00:00:56.092 --> 00:01:00.088
+a que 3 es igual a 5 por x
+
+00:01:00.089 --> 00:01:05.042
+Ahora, también podría escribir esto como 5 por x es igual a 3
+
+00:01:05.042 --> 00:01:07.081
+Y ahora podemos pensar esto de dos maneras:
+
+00:01:07.081 --> 00:01:12.020
+O multiplicamos ambos lados por 1/5 o
+
+00:01:12.020 --> 00:01:14.021
+dividimos ambos lados entre 5
+
+00:01:14.023 --> 00:01:16.048
+Si se multiplican ambos lados por 1/5
+
+00:01:16.048 --> 00:01:18.067
+El lado izquierdo se convierte en x.
+
+00:01:18.068 --> 00:01:23.073
+Y el lado derecho, 3 por 1/5, es igual a 3/5.
+
+00:01:23.073 --> 00:01:24.062
+Entonces, ¿qué hicimos aquí?
+
+00:01:24.064 --> 00:01:26.084
+Esto es igual que, en realidad esto se convirtió en un problema
+
+00:01:26.084 --> 00:01:28.065
+de nivel dos, o en realidad en un problema de nivel uno,
+
+00:01:28.067 --> 00:01:29.048
+muy rápidamente.
+
+00:01:29.048 --> 00:01:31.098
+Todo lo que teníamos que hacer es multiplicar ambos lados de esta
+
+00:01:31.098 --> 00:01:33.025
+ecuación por x.
+
+00:01:33.026 --> 00:01:35.045
+Y logramos tener la variable x fuera del denominador.
+
+00:01:35.045 --> 00:01:36.034
+Vamos a hacer otro problema.
+
+00:01:41.009 --> 00:01:53.051
+Ahora tenemos que x mas 2 sobre x mas 1
+
+00:01:53.053 --> 00:01:58.079
+es igual a 7
+
+00:01:58.079 --> 00:02:00.078
+Así pues, aquí, en lugar de tener a x en el denominador,
+
+00:02:00.079 --> 00:02:02.090
+tenemos a x mas 1 en el denominador.
+
+00:02:02.092 --> 00:02:04.098
+Pero vamos a eliminarla de la misma manera.
+
+00:02:05.000 --> 00:02:09.015
+Para eliminar la x + 1 del denominador, se multiplican ambos
+
+00:02:09.015 --> 00:02:15.043
+lados de la ecuación por x+1 sobre 1
+
+00:02:15.043 --> 00:02:17.000
+Al realizar esta multiplicación del lado izquierdo también tenemos
+
+00:02:17.000 --> 00:02:19.062
+que hacerlo en el lado derecho, y esto es tan sólo 7/1,
+
+00:02:19.062 --> 00:02:24.040
+por x más 1 sobre 1
+
+00:02:24.040 --> 00:02:27.071
+En el lado izquierdo, los términos x+1 se cancelan entre si
+
+00:02:27.071 --> 00:02:31.009
+y solo queda x+2
+
+00:02:31.011 --> 00:02:33.028
+sobre 1, pero podemos ignorar el 1
+
+00:02:33.030 --> 00:02:39.025
+Y eso es igual a 7 por x + 1
+
+00:02:39.025 --> 00:02:41.091
+que es igual a x + 2
+
+00:02:41.093 --> 00:02:45.071
+Y, recuerde, es 7 multiplicado por todo el término x mas 1.
+
+00:02:45.071 --> 00:02:47.077
+Así que en realidad debemos usar la propiedad distributiva.
+
+00:02:47.078 --> 00:02:54.038
+por lo que es igual a 7 por x mas 7
+
+00:02:54.040 --> 00:02:57.018
+Así que ahora se convirtió en una ecuación lineal
+
+00:02:57.018 --> 00:02:58.078
+de nivel tres.
+
+00:02:58.078 --> 00:03:02.003
+Y ahora todo lo que hacemos es llevar todas las x
+
+00:03:02.005 --> 00:03:02.096
+a uno de los lados de la ecuación.
+
+00:03:02.096 --> 00:03:05.056
+Y vamos a colocar todos los términos constantes, como 2 y 7
+
+00:03:05.056 --> 00:03:07.009
+del otro lado de la ecuación.
+
+00:03:07.009 --> 00:03:08.087
+Así que voy a optar por llevar las x de la izquierda.
+
+00:03:08.087 --> 00:03:10.097
+Así que vamos a traer ese 7 por x a la izquierda.
+
+00:03:10.099 --> 00:03:14.043
+Y podemos hacer que restando 7 por x de ambos lados.
+
+00:03:14.043 --> 00:03:19.043
+restar 7 por x es lo mismo que sumar -7 por x
+
+00:03:19.043 --> 00:03:22.078
+en el lado derecho estos dos términos 7x se cancelan entre si
+
+00:03:22.080 --> 00:03:26.040
+Y en el lado izquierdo tenemos -7x mas x.
+
+00:03:26.040 --> 00:03:32.083
+Bueno, eso es igual a -6x mas 2 y
+
+00:03:32.084 --> 00:03:35.008
+del lado derecho todo lo que queda es 7
+
+00:03:35.008 --> 00:03:36.046
+Ahora sólo tenemos que deshacernos del 2
+
+00:03:36.046 --> 00:03:41.034
+Y podemos hacer eso restando 2 de ambos lados.
+
+00:03:41.036 --> 00:03:47.099
+Y nos queda que -6x es igual a 2
+
+00:03:48.000 --> 00:03:49.021
+Ahora se trata de un problema de nivel uno
+
+00:03:49.021 --> 00:03:52.038
+Sólo tenemos que multiplicar ambos por el recíproco
+
+00:03:52.040 --> 00:03:54.018
+del coeficiente en el lado izquierdo.
+
+00:03:54.018 --> 00:03:56.013
+Y el coeficiente es -6
+
+00:03:56.015 --> 00:03:59.061
+Por lo tanto, se multiplican ambos lados de la ecuación por el término negativo 1 sobre 6.
+
+00:04:02.053 --> 00:04:05.059
+Término negativo 1/6
+
+00:04:05.061 --> 00:04:08.087
+En el lado izquierdo, menos 1 sobre 6 por menos 6
+
+00:04:08.087 --> 00:04:10.018
+Bueno, eso es igual a uno.
+
+00:04:10.018 --> 00:04:16.011
+Así que ahora tenemos que x es igual a cinco por el témino negativo 1/6.
+
+00:04:16.012 --> 00:04:19.024
+Bueno, eso es menos 5/6
+
+00:04:22.025 --> 00:04:23.018
+Y hemos terminado.
+
+00:04:23.019 --> 00:04:25.069
+Y si usted quiere comprobarlo, sólo basta con reemplazar x
+
+00:04:25.069 --> 00:04:28.093
+por -5/6 en la ecuación original
+
+00:04:28.093 --> 00:04:30.056
+para confirmar que ha funcionado.
+
+00:04:30.056 --> 00:04:31.031
+Vamos a hacer otro.
+
+00:04:34.061 --> 00:04:37.093
+Estoy haciendo estos sobre la marcha, así que pido disculpas.
+
+00:04:37.093 --> 00:04:40.000
+Déjame pensar.
+
+00:04:40.000 --> 00:04:51.000
+3 por x mas 5 es igual a 8 x mas 2.
+
+00:04:51.000 --> 00:04:52.073
+Bueno, hacemos lo mismo aquí.
+
+00:04:52.074 --> 00:04:55.093
+Aunque ahora tenemos dos expresiones que queremos eliminar
+
+00:04:55.093 --> 00:04:56.067
+de los denominadores.
+
+00:04:56.068 --> 00:04:58.086
+Queremos eliminar x mas 5 y
+
+00:04:58.087 --> 00:05:00.000
+esta x mas 2.
+
+00:05:00.000 --> 00:05:01.066
+Así que vamos a eliminar el x más cinco en primer lugar.
+
+00:05:01.067 --> 00:05:03.062
+Bueno, tal como lo hicimos antes, se multiplican ambos lados de
+
+00:05:03.062 --> 00:05:05.056
+esta ecuación por x+5
+
+00:05:05.056 --> 00:05:07.062
+Se puede decir x más 5 sobre 1.
+
+00:05:07.062 --> 00:05:12.067
+por x+5 sobre 1.
+
+00:05:12.068 --> 00:05:15.006
+En el lado izquierdo se cancelan.
+
+00:05:15.006 --> 00:05:24.022
+Así que nos quedamos con tres es igual a ocho veces x más cinco.
+
+00:05:24.023 --> 00:05:28.075
+Todo eso en x más dos.
+
+00:05:28.075 --> 00:05:31.081
+Ahora, en la parte superior, solo para simplificar, una vez más
+
+00:05:31.081 --> 00:05:34.041
+sólo multiplica el ocho veces toda la expresión.
+
+00:05:34.042 --> 00:05:41.085
+Así que es eightx más cuarenta más de x más dos.
+
+00:05:41.086 --> 00:05:43.049
+Ahora, queremos deshacernos de esta x más dos.
+
+00:05:43.050 --> 00:05:44.050
+Así que podemos hacerlo de la misma manera.
+
+00:05:44.050 --> 00:05:46.049
+Podemos multiplicar ambos lados de esta ecuación por
+
+00:05:46.050 --> 00:05:50.088
+x más dos más uno.
+
+00:05:50.089 --> 00:05:52.056
+x más dos.
+
+00:05:52.056 --> 00:05:53.068
+Podríamos decir que estamos multiplicando ambos
+
+00:05:53.068 --> 00:05:54.041
+lados por x más dos.
+
+00:05:54.042 --> 00:05:56.062
+El uno es poco innecesario.
+
+00:05:56.062 --> 00:06:02.089
+Así que la izquierda se convierte en threex más seis.
+
+00:06:02.091 --> 00:06:05.006
+Recuerde, siempre distribuye tres veces, porque usted está
+
+00:06:05.006 --> 00:06:07.000
+multiplicando veces toda la expresión.
+
+00:06:07.001 --> 00:06:08.052
+x más dos.
+
+00:06:08.054 --> 00:06:09.085
+Y en el lado derecho.
+
+00:06:09.086 --> 00:06:13.061
+Bueno, esto x más dos y esto x más dos se anulan.
+
+00:06:13.062 --> 00:06:16.037
+Y nos quedamos con eightx más cuarenta.
+
+00:06:16.037 --> 00:06:19.031
+Y esto es ahora un problema de nivel tres.
+
+00:06:19.032 --> 00:06:25.037
+Bueno, si restamos eightx de ambos lados, eightx menos, más - que
+
+00:06:25.037 --> 00:06:26.095
+que me estoy quedando sin espacio.
+
+00:06:26.097 --> 00:06:28.047
+eightx negativo.
+
+00:06:28.047 --> 00:06:31.027
+Bueno, en el lado derecho de la eightx de anular.
+
+00:06:31.029 --> 00:06:38.061
+En el lado izquierdo tenemos fivex menos más seis es igual
+
+00:06:38.062 --> 00:06:42.031
+que, en el lado derecho todo lo que han dejado es de cuarenta.
+
+00:06:42.031 --> 00:06:45.037
+Ahora podemos restar seis de ambos lados de esta ecuación.
+
+00:06:45.037 --> 00:06:46.037
+Permítanme escribir aquí.
+
+00:06:46.037 --> 00:06:49.049
+Menos seis más menos seis.
+
+00:06:49.050 --> 00:06:51.045
+Ahora me voy a, espero que no se pierde por los chicos
+
+00:06:51.047 --> 00:06:53.014
+tratando de ir aquí.
+
+00:06:55.072 --> 00:06:58.039
+Pero si restamos menos seis de cada lado, en la izquierda
+
+00:06:58.041 --> 00:07:05.026
+lado estamos justo a la izquierda con fivex menos iguales, y en el
+
+00:07:05.026 --> 00:07:08.076
+lado derecho tenemos treinta y cuatro.
+
+00:07:08.076 --> 00:07:09.087
+Ahora se trata de un nivel de un problema.
+
+00:07:09.087 --> 00:07:12.075
+Sólo se multiplican en ambas ocasiones lados negativa o cinco.
+
+00:07:16.050 --> 00:07:18.035
+Negativa o cinco.
+
+00:07:18.036 --> 00:07:21.012
+En el lado izquierdo tenemos x.
+
+00:07:21.012 --> 00:07:27.012
+Y en el lado derecho tenemos negativo treinta y cuatro / cinco años.
+
+00:07:27.012 --> 00:07:29.062
+A menos que he hecho algunos errores por descuido, creo que tiene razón.
+
+00:07:29.062 --> 00:07:33.018
+Y creo que si usted entiende lo que acaba de hacer aquí, estás
+
+00:07:33.018 --> 00:07:36.075
+listo para hacer frente a un cierto nivel cuatro ecuaciones lineales.
+
+00:07:36.076 --> 00:07:38.027
+Que se diviertan.

@@ -1,0 +1,279 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.385 --> 00:00:02.740
+En el último vídeo comprobamos que
+
+00:00:02.740 --> 00:00:07.467
+dada una velocidad de despegue de 280km/h
+
+00:00:07.467 --> 00:00:09.605
+y si tenemos un valor positivo para cualquiera de estos vectores
+
+00:00:09.605 --> 00:00:12.800
+asumimos que esto es en la dirección de la pista
+
+00:00:12.800 --> 00:00:20.533
+dada esta velocidad de despegue, y una aceleración constante de 1 m/s^2,
+
+00:00:20.533 --> 00:00:28.292
+averiguamos que un Airbus A380 tardará alrededor de 78 segundos en despegar
+
+00:00:28.292 --> 00:00:30.267
+Lo que quiero averiguar en este vídeo
+
+00:00:30.267 --> 00:00:31.881
+es que, dados todos estos números,
+
+00:00:31.881 --> 00:00:34.366
+¿qué tan larga necesita ser la pista?
+
+00:00:34.366 --> 00:00:36.037
+Lo que es una pregunta muy importante
+
+00:00:36.037 --> 00:00:41.800
+si tu quieres construir una pista que pueda por lo menos permitirle a un Airbus A380 despegar.
+
+00:00:41.800 --> 00:00:43.467
+Probablemente necesitarás que sea un poco mas larga
+
+00:00:43.467 --> 00:00:46.133
+en caso de que tarde un poco mas de lo esperado en despegar
+
+00:00:46.133 --> 00:00:51.618
+Pero, ¿cuál es el largo mínimo de la pista, dados estos números?
+
+00:00:51.618 --> 00:00:54.200
+Lo que queremos averiguar es el desplazamiento
+
+00:00:54.200 --> 00:01:00.200
+o que tan lejos viaja el avión, dado que acelera a 1 m/s^2
+
+00:01:00.200 --> 00:01:11.800
+hasta los 280 km/h o hasta 78 m/s... lo convertí justo aquí
+
+00:01:11.800 --> 00:01:17.600
+mientras acelera hasta 78 m/s,
+
+00:01:17.600 --> 00:01:20.318
+cuanto espacio recorre?
+
+00:01:20.318 --> 00:01:23.569
+Podemos decir que esto es el desplazamiento,
+
+00:01:23.569 --> 00:01:26.216
+va a ser igual a...
+
+00:01:26.216 --> 00:01:31.800
+desplazamiento es igual a velocidad por tiempo
+
+00:01:31.800 --> 00:01:34.779
+pero la velocidad aquí está cambiando
+
+00:01:34.779 --> 00:01:37.292
+si hubiésemos tenido una velocidad constante por todo este tiempo,
+
+00:01:37.292 --> 00:01:40.333
+podríamos multiplicarlo por el tiempo que estuviera moviéndose
+
+00:01:40.333 --> 00:01:42.067
+y eso nos daría el desplazamiento,
+
+00:01:42.067 --> 00:01:44.200
+pero aquí nuestra velocidad está cambiando
+
+00:01:44.200 --> 00:01:46.400
+pero por suerte para nosotros, aprendimos...
+
+00:01:46.400 --> 00:01:54.600
+(los animo a mirar el video de velocidad promedio para aceleración constante)
+
+00:01:54.600 --> 00:01:58.000
+pero si la aceleración es constante
+
+00:01:58.000 --> 00:02:02.600
+y esto es lo que asumimos en este ejemplo
+
+00:02:02.600 --> 00:02:06.933
+Entonces, si asumimos que la aceleración es constante
+
+00:02:06.933 --> 00:02:10.400
+entonces puedes encontrar algo llamado velocidad promedio,
+
+00:02:10.400 --> 00:02:13.508
+y la velocidad promedio...si tu aceleración es constante,
+
+00:02:13.508 --> 00:02:16.467
+si y solo si tu aceleración es constante
+
+00:02:16.467 --> 00:02:23.733
+entonces tu velocidad promedio sera el promedio de tu velocidad final y tu velocidad inicial
+
+00:02:23.733 --> 00:02:27.590
+entonces en esta situación, ¿cual es nuestra velocidad promedio?
+
+00:02:27.590 --> 00:02:29.908
+nuestra velocidad promedio, en m/s
+
+00:02:29.908 --> 00:02:32.067
+sera nuestra velocidad final, que es
+
+00:02:32.067 --> 00:02:34.200
+(déjenme calcularlo aquí abajo)
+
+00:02:34.200 --> 00:02:36.667
+entonces nuestra velocidad promedio en este ejemplo
+
+00:02:36.667 --> 00:02:39.242
+...
+
+00:02:39.242 --> 00:02:43.200
+será de 78 m/s
+
+00:02:43.200 --> 00:02:47.067
+más nuestra velocidad inicial. Pero ¿cuál es nuestra velocidad inicial?
+
+00:02:47.067 --> 00:02:49.000
+Estamos asumiendo que cuando empezamos estamos quietos
+
+00:02:49.000 --> 00:02:50.829
+entonces, mas 0
+
+00:02:50.829 --> 00:02:52.533
+todo eso dividido 2
+
+00:02:52.533 --> 00:02:55.000
+entonces nuestra velocidad promedio en esta situación
+
+00:02:55.000 --> 00:02:59.200
+78/2 es 39 m/s
+
+00:02:59.200 --> 00:03:01.600
+y la importancia de la velocidad promedio
+
+00:03:01.600 --> 00:03:08.975
+en esta y toda situación,
+
+00:03:08.975 --> 00:03:10.614
+es que la velocidad promedio
+
+00:03:10.614 --> 00:03:12.467
+nos permite averiguar el desplazamiento
+
+00:03:12.467 --> 00:03:22.014
+al multiplicar "velocidad promedio" por el tiempo que pasó
+
+00:03:22.014 --> 00:03:24.846
+es decir, por el "cambio en el tiempo"
+
+00:03:24.846 --> 00:03:28.200
+Sabemos que el "cambio en el tiempo" es 78 segundos,
+
+00:03:28.200 --> 00:03:34.990
+sabemos que la velocidad promedio aquí es de 39 m/s
+
+00:03:34.990 --> 00:03:38.733
+(solo el promedio de 0 y 78 m/s)
+
+00:03:38.733 --> 00:03:40.800
+Otra forma de pensarlo,
+
+00:03:40.800 --> 00:03:43.333
+si tu quieres pensar acerca de la distancia recorrida,
+
+00:03:43.333 --> 00:03:44.955
+este avión esta acelerando constantemente,
+
+00:03:44.955 --> 00:03:46.952
+déjenme dibujar un gráfico aquí,
+
+00:03:46.952 --> 00:03:52.455
+el gráfico de velocidad-tiempo de este avión sera algo como esto
+
+00:03:52.455 --> 00:03:56.667
+entonces este es el tiempo... y esta es la velocidad
+
+00:03:56.667 --> 00:04:00.067
+este avión tiene una aceleración constante empezando con velocidad 0
+
+00:04:00.067 --> 00:04:01.813
+tiene una aceleración constante
+
+00:04:01.813 --> 00:04:04.267
+esta pendiente de aquí es la aceleración,
+
+00:04:04.267 --> 00:04:07.455
+por lo que debería ser de 1, dados los números de este ejemplo.
+
+00:04:07.455 --> 00:04:09.359
+Y la distancia recorrida
+
+00:04:09.359 --> 00:04:13.600
+es el área debajo de esta curva (la recta), hasta los 78 segundos.
+
+00:04:13.600 --> 00:04:16.372
+porque esto es lo que tarda en despegar
+
+00:04:16.372 --> 00:04:19.867
+entonces la distancia recorrida es este área de aquí
+
+00:04:19.867 --> 00:04:21.467
+(lo que cubriremos en otro vídeo)
+
+00:04:21.467 --> 00:04:23.400
+o déjenme darles una idea de por que funciona,
+
+00:04:23.400 --> 00:04:26.867
+por qué la distancia es el área bajo una recta de velocidad-tiempo
+
+00:04:26.867 --> 00:04:31.023
+lo que una velocidad promedio es, es una velocidad
+
+00:04:31.023 --> 00:04:34.367
+que en este caso está exactamente a la mitad de estas dos...
+
+00:04:34.367 --> 00:04:36.573
+la velocidad final e inicial
+
+00:04:36.573 --> 00:04:38.467
+pero si tomas la velocidad promedio
+
+00:04:38.467 --> 00:04:40.149
+para la misma cantidad de tiempo
+
+00:04:40.149 --> 00:04:44.733
+obtienes exactamente el mismo área debajo de la curva
+
+00:04:44.733 --> 00:04:47.200
+es decir, obtienes la misma distancia
+
+00:04:47.200 --> 00:04:51.200
+entonces la velocidad promedio es 39 m/s por 78 segundos
+
+00:04:51.200 --> 00:04:55.453
+dejemos esto para nuestra calculadora
+
+00:04:55.453 --> 00:05:04.867
+tenemos 39 * 78... nos da 3042
+
+00:05:04.867 --> 00:05:08.067
+entonces es 3042...
+
+00:05:08.067 --> 00:05:11.867
+y luego m/s por segundos nos da metros
+
+00:05:11.867 --> 00:05:16.488
+entonces necesitas una pasarela de mas de 3000 metros
+
+00:05:16.488 --> 00:05:18.555
+para que uno de estos aviones despegue
+
+00:05:18.555 --> 00:05:24.406
+o mas de 3 kilómetros, lo que es entre 1.8 y 1.9 millas
+
+00:05:24.406 --> 00:05:26.240
+solamente para despegar,
+
+00:05:26.240 --> 99:59:59.999
+lo que es algo fascinante

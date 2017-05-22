@@ -1,0 +1,168 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:04.835
+Alguien se te acerca en la calle y te dice "Dos mil novecientos cuarenta y tres".
+
+00:00:04.835 --> 00:00:07.490
+Rápido! ¿Es divisible entre nueve? Es asunto de vida o muerte!.
+
+00:00:07.490 --> 00:00:10.575
+Y tú podrías decir "bueno... lo podría hacer muy rápidamente
+
+00:00:10.575 --> 00:00:13.993
+para encontrar si es divisible entre nueve, sólo tendría que sumar los dígitos
+
+00:00:13.993 --> 00:00:17.278
+y averiguar si la suma de los dígitos es múltiplo
+
+00:00:17.278 --> 00:00:21.081
+de nueve o si es divisible entre nueve."
+
+00:00:21.081 --> 00:00:26.549
+Así que hagámoslo. Dos más nueve más tres.
+
+00:00:26.549 --> 00:00:35.157
+Dos más nueve es once. Once más cuatro es quince. Quince más tres es dieciocho. Y dieciocho es definitivamente divisible entre nueve.
+
+00:00:35.157 --> 00:00:37.907
+Así que esto será divisible entre nueve
+
+00:00:37.907 --> 00:00:42.245
+Incluso si no estás seguro de si dieciocho es divisible entre nueve, puedes aplicar la misma regla de nuevo.
+
+00:00:42.245 --> 00:00:48.547
+Uno más ocho es igual a nueve. Así que definitivamente es divisible entre nueve.
+
+00:00:48.547 --> 00:00:53.996
+Y entonces la persona puede ir a salvar su vida o la de quien sea que intenta salvar con esta información.
+
+00:00:53.996 --> 00:01:01.161
+Pero esto te dejará pensando ¡que bueno y útil es! Pero, porqué funciona? Funciona para todos los números o sólo para el nueve?
+
+00:01:01.161 --> 00:01:07.879
+No creo que funcione para ocho, o para siete o para once o para diecisiete. Porque funciona para nueve?
+
+00:01:07.879 --> 00:01:10.947
+De hecho también funciona para tres pero pensaremos en ello en un futuro video.
+
+00:01:10.947 --> 00:01:15.497
+Para darnos cuenta, sólo tenemos que reescribir dos mil, novecientos cuarenta y tres.
+
+00:01:15.497 --> 00:01:25.946
+Entonces, el dos en 2943 está en el lugar de los millares, por lo tanto podemos re-escribirlo como 2 x 1000.
+
+00:01:25.946 --> 00:01:32.165
+El nueve está en el de las centenas así que literalmente podemos re-escribirlo como 9 x 100
+
+00:01:32.165 --> 00:01:41.159
+El cuatro está en las decenas así que literalmente es lo mismo que 4 x 10. Y para finalizar tenemos nuestro tres en las unidades.
+
+00:01:41.159 --> 00:01:44.497
+Que podemos escribir como 3 x 1 o solamente tres.
+
+00:01:44.497 --> 00:01:48.347
+Así que esto dice dos mil, novecientos, cuarenta y tres.
+
+00:01:48.347 --> 00:01:59.082
+Ahora podemos re-escribir cada uno de estas cosas como millares, centenas, decenas como la suma de uno más algo que es divisible entre entre nueve.
+
+00:01:59.082 --> 00:02:04.554
+Entonces, un millar, puedo re-escribirlo como uno más novecientos noventa y nueve.
+
+00:02:04.554 --> 00:02:10.917
+Puedo reescribir una centena como nueve más noventa y nueve.
+
+00:02:10.917 --> 00:02:16.252
+Puedo reescribir diez como uno más nueve.
+
+00:02:16.252 --> 00:02:22.082
+Y entonces dos veces mil, es lo mismo que dos veces uno más novecientos noventa y nueve.
+
+00:02:22.082 --> 00:02:26.223
+Nueve veces cien, es lo mismo que nueve veces uno más noventa y nueve.
+
+00:02:26.223 --> 00:02:31.021
+Cuatro veces diez es lo mismo que cuatro veces uno más nueve.
+
+00:02:31.021 --> 00:02:33.751
+Y tengo éste tres por aquí.
+
+00:02:33.751 --> 00:02:44.014
+Pero ahora puedo distribuir, digamos que, bueno, esto de aquí es lo mismo que dos veces uno, que es dos más dos veces novecientos noventa y nueve.
+
+00:02:44.014 --> 00:02:53.547
+Esto de acá, justo aquí, es lo mismo que nueve veces uno. Sólo para aclarar mientras lo hago, estoy distribuyendo el dos entre el primer paréntesis, estos primeros dos términos.
+
+00:02:53.547 --> 00:03:00.215
+Entonces el nueve, lo voy a distribuir de nuevo. Va a ser nueve veces uno, más nueve veces noventa y nueve.
+
+00:03:00.215 --> 00:03:15.947
+Y entonces, por aquí, aquí voy a distribuir el cuatro. Cuatro veces uno, luego cuatro veces nueve, entonces más cuatro veces nueve.
+
+00:03:15.947 --> 00:03:20.480
+Y finalmente, tengo este tres positivo, este más tres justo aquí.
+
+00:03:20.480 --> 00:03:24.619
+Ahora sólo voy a re-ordenar mi suma. Así que sólo voy a tomar todos los términos
+
+00:03:24.619 --> 00:03:29.014
+donde estoy multiplicando por novecientos noventa y nueve (o un múltiplo de nueve). Voy a hacerlo en naranja.
+
+00:03:29.014 --> 00:03:34.818
+Entonces haré este termino, este termino y este termino justo aquí.
+
+00:03:34.818 --> 00:03:43.416
+Así que tengo: dos veces novecientos noventa y nueve, más aquello de ahí, más nueve veces noventa y nueve más cuatro veces nueve.
+
+00:03:43.416 --> 00:03:59.280
+Así que esos son aquellos tres términos y entonces tengo: más dos, más nueve, más cuatro, más tres.
+
+00:03:59.280 --> 00:04:04.080
+¡Y esto es interesante, es la suma de nuestros dígitos!. Esto es lo mismo que tenemos aquí arriba.
+
+00:04:04.080 --> 00:04:10.966
+Y puedes imaginar a dónde irá todo esto. Estas cosas de naranja, son divisibles entre nueve?
+
+00:04:10.966 --> 00:04:14.903
+Bueno, seguramente lo serán! 999 es divisible entre nueve.
+
+00:04:14.903 --> 00:04:17.474
+Todos los números multiplicados por nueve, son divisibles entre nueve.
+
+00:04:17.474 --> 00:04:21.160
+Así que esto es divisible entre nueve. Esto es definitivamente divisible entre nueve.
+
+00:04:21.160 --> 00:04:24.592
+Noventa y nueve. Independientemente del número multiplicado por nueve.
+
+00:04:24.592 --> 00:04:29.640
+Cualquier numero multiplicado por 99 es divisible entre nueve.
+
+00:04:29.640 --> 00:04:31.453
+Porque 99 es divisible entre nueve.
+
+00:04:31.453 --> 00:04:33.746
+Así que esto funciona. Y lo mismo aquí.
+
+00:04:33.746 --> 00:04:38.226
+Siempre vas a multiplicar por un múltiplo de nueve.
+
+00:04:38.226 --> 00:04:43.965
+Toda esta cosa de aquí, definitivamente será divisible entre nueve.
+
+00:04:43.965 --> 00:04:50.084
+Así que , para que todo esto...y todo lo que hice fue re-escribir este 2943...
+
+00:04:50.084 --> 00:04:52.553
+Para que todo esto sea divisible entre nueve.
+
+00:04:52.553 --> 00:04:54.765
+Esta parte es definitivamente divisible entre nueve.
+
+00:04:54.765 --> 00:04:59.691
+para que todo esto sea divisible, el resto debe ser divisible entre nueve también
+
+00:04:59.691 --> 00:05:07.351
+Así que para que todo eso funcione, todo debe ser divisible, divisible entre nueve.

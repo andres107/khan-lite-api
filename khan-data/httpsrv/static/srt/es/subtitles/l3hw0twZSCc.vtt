@@ -1,0 +1,699 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.890 --> 00:00:05.660
+Ahora hemos aprendido que una corriente o una secuencia de movimiento
+
+00:00:05.660 --> 00:00:08.330
+cargos pueden verse afectados por un campo magnético.
+
+00:00:08.330 --> 00:00:12.280
+Y también hemos aprendido que puede inducir un campo magnético.
+
+00:00:12.280 --> 00:00:16.430
+Por lo plantea la pregunta, ¿cuál es el efecto de una
+
+00:00:16.430 --> 00:00:19.980
+¿cable de transporte actual en otro cable de transporte actual?
+
+00:00:19.980 --> 00:00:20.760
+Vamos a hacer eso.
+
+00:00:20.760 --> 00:00:26.500
+Vamos a llamar mi primer cable de transporte actual en verde.
+
+00:00:26.500 --> 00:00:30.600
+Es el primer cable de transporte actual.
+
+00:00:30.600 --> 00:00:35.030
+Y digamos que es la corriente--es en magenta--y
+
+00:00:35.030 --> 00:00:38.370
+llamaremos a esta actual 1.
+
+00:00:38.370 --> 00:00:40.270
+Y luego tengo otro transporte actual
+
+00:00:40.270 --> 00:00:41.605
+alambre no demasiado lejos.
+
+00:00:49.220 --> 00:00:57.870
+Y voy a llamar a esa corriente I2.
+
+00:00:57.870 --> 00:00:59.160
+Ahora ¿qué más necesitamos saber?
+
+00:00:59.160 --> 00:01:00.230
+Oh, bueno, sólo le diré.
+
+00:01:00.230 --> 00:01:03.240
+Digamos que tienen un radio de r aparte.
+
+00:01:03.240 --> 00:01:06.060
+Y digo radio porque aprendimos en el último video que
+
+00:01:06.060 --> 00:01:09.270
+el campo magnético creado por un conductor de transporte actual es
+
+00:01:09.270 --> 00:01:11.430
+tipo de a, ustedes saben, son tipo de estas circulares
+
+00:01:11.430 --> 00:01:12.780
+cilindros alrededor del cable.
+
+00:01:12.780 --> 00:01:19.410
+Así que vamos a decir la distancia de este cable a ese alambre es r.
+
+00:01:19.410 --> 00:01:23.220
+Esa distancia es r.
+
+00:01:23.220 --> 00:01:26.760
+Y mi pregunta es - bueno, en primer lugar, justo antes de
+
+00:01:26.760 --> 00:01:30.670
+dividir en matemáticas--¿qué va a pasar?
+
+00:01:30.670 --> 00:01:32.480
+Bueno, no sabemos la magnitud de las corrientes o
+
+00:01:32.480 --> 00:01:33.580
+nada todavía.
+
+00:01:33.580 --> 00:01:34.520
+Pero ¿qué va a pasar?
+
+00:01:34.520 --> 00:01:37.690
+¿Cuál será el efecto neto en, digamos, este cable?
+
+00:01:37.690 --> 00:01:40.836
+Vamos a decir por alguna razón este cable es fijo o podríamos decir
+
+00:01:40.836 --> 00:01:42.410
+ellos están flotando en el espacio.
+
+00:01:42.410 --> 00:01:44.780
+Solo Concentrémonos en alambre 2 por ahora.
+
+00:01:44.780 --> 00:01:48.070
+Cable 2, trata de hilo 1.
+
+00:01:48.070 --> 00:01:50.460
+¿Qué va a pasar con cable 2?
+
+00:01:50.460 --> 00:01:51.530
+Bien, vamos a pensar en ello.
+
+00:01:51.530 --> 00:01:53.630
+Cable 1--la corriente va a
+
+00:01:53.630 --> 00:01:55.190
+generar un campo magnético.
+
+00:01:55.190 --> 00:01:57.060
+Ahora ¿cuál es la forma de ese campo magnético
+
+00:01:57.060 --> 00:01:58.390
+¿va a parecer?
+
+00:01:58.390 --> 00:02:02.450
+Bien, podríamos tomar nuestra mano derecha, hacer esa envoltura de mano derecha
+
+00:02:02.450 --> 00:02:03.060
+alrededor de la regla.
+
+00:02:03.060 --> 00:02:04.870
+Es un poco diferente de la regla del producto de la Cruz,
+
+00:02:04.870 --> 00:02:06.520
+Aunque es tipo de subproducto.
+
+00:02:06.520 --> 00:02:13.800
+Ese es mi mano derecha y estoy envolviéndola alrededor.
+
+00:02:13.800 --> 00:02:17.380
+Así que si quiero mi pulgar en la dirección de la corriente--tan
+
+00:02:17.380 --> 00:02:19.480
+esa es la dirección de la corriente, al igual que lo hice--
+
+00:02:19.480 --> 00:02:21.430
+a continuación, el campo magnético va el
+
+00:02:21.430 --> 00:02:23.360
+dirección de mis dedos.
+
+00:02:23.360 --> 00:02:28.900
+Así que van a ir alrededor de este cable.
+
+00:02:28.900 --> 00:02:32.323
+Y, por tanto si sólo dibujar el campo magnético donde se
+
+00:02:32.323 --> 00:02:36.010
+se cruza con esta pantalla, en el lado derecho será
+
+00:02:36.010 --> 00:02:37.120
+entrar en la pantalla.
+
+00:02:37.120 --> 00:02:39.700
+Así que sólo veremos los extremos de la parte posterior de la
+
+00:02:39.700 --> 00:02:41.560
+línea de campo magnético.
+
+00:02:41.560 --> 00:02:43.190
+Y voy dibujar en el mismo color que la actual, así que usted
+
+00:02:43.190 --> 00:02:44.580
+Sé que se crea por I1.
+
+00:02:47.650 --> 00:02:53.700
+I1 así--su efecto sigue saliendo hasta el infinito, aunque se
+
+00:02:53.700 --> 00:02:55.770
+Obtiene mucho más débil de lo que aprendimos.
+
+00:02:55.770 --> 00:02:58.480
+Es inversamente proporcional a r.
+
+00:02:58.480 --> 00:02:59.720
+Pero este es el campo de I1.
+
+00:02:59.720 --> 00:03:01.580
+Puedo señalar a estos--no quiero multitud
+
+00:03:01.580 --> 00:03:03.200
+mi página demasiado.
+
+00:03:03.200 --> 00:03:05.110
+¿Y, a continuación, en este lado del I1, qué pasa?
+
+00:03:05.110 --> 00:03:06.710
+Bueno, en este lado, se puede ver el
+
+00:03:06.710 --> 00:03:07.980
+los dedos se vuelven.
+
+00:03:07.980 --> 00:03:09.860
+Así que salga cuando se intersecta
+
+00:03:09.860 --> 00:03:12.660
+con su monitor de vídeo.
+
+00:03:12.660 --> 00:03:16.720
+De este lado, los vectores--esto es la parte superior de una flecha,
+
+00:03:16.720 --> 00:03:19.960
+saliendo a usted.
+
+00:03:19.960 --> 00:03:21.050
+Bastante justo.
+
+00:03:21.050 --> 00:03:24.410
+Para I1, yendo en esa dirección, está generando un
+
+00:03:24.410 --> 00:03:27.870
+magnética de campo que, al menos en materia de I2, que
+
+00:03:27.870 --> 00:03:33.590
+campo magnético es entrar en la página.
+
+00:03:33.590 --> 00:03:36.070
+¿Cuál fue nuestra fórmula?
+
+00:03:36.070 --> 00:03:38.530
+Y todo esto proviene de la primera fórmula aprendimos
+
+00:03:38.530 --> 00:03:39.960
+sobre el efecto de un campo magnético muy pronto. en un
+
+00:03:39.960 --> 00:03:40.510
+movimiento de carga.
+
+00:03:40.510 --> 00:03:44.470
+Pero ¿cuál era la fórmula de la fuerza magnética neta en un
+
+00:03:44.470 --> 00:03:46.500
+¿cable de transporte actual?
+
+00:03:46.500 --> 00:03:56.050
+Fue la fuerza--lo haré en azul--es un vector, tiene un
+
+00:03:56.050 --> 00:03:59.420
+magnitud y dirección--es igual a la corriente.
+
+00:03:59.420 --> 00:04:02.820
+Bueno, en este caso, queremos saber la fuerza en este
+
+00:04:02.820 --> 00:04:04.940
+¿actual, el actual 2, derecha?
+
+00:04:04.940 --> 00:04:09.160
+Causados por este campo magnético, por campo magnético 1.
+
+00:04:09.160 --> 00:04:16.220
+Por lo que será igual a I2, la magnitud de esta corriente,
+
+00:04:16.220 --> 00:04:20.250
+veces L, donde l es--porque simplemente no se puede decir, bueno,
+
+00:04:20.250 --> 00:04:21.370
+¿Qué es el efecto sobre este cable?
+
+00:04:21.370 --> 00:04:24.160
+Tienes que saber cuánto cable está bajo consideración.
+
+00:04:24.160 --> 00:04:26.520
+Así que vamos a decir que tenemos un trozo de alambre.
+
+00:04:26.520 --> 00:04:28.240
+Y entonces, por supuesto, si usted sabe la longitud del cable y nos
+
+00:04:28.240 --> 00:04:30.110
+sabía que su masa y sabíamos que la fuerza sobre ella, podríamos figura
+
+00:04:30.110 --> 00:04:31.570
+a su aceleración en algunos sentidos.
+
+00:04:31.570 --> 00:04:34.120
+Así que vamos a decir que esta distancia es
+
+00:04:34.120 --> 00:04:35.800
+L y es un vector.
+
+00:04:35.800 --> 00:04:38.540
+L va en la misma dirección que la corriente.
+
+00:04:38.540 --> 00:04:39.790
+Eso es sólo el Convenio que estamos usando.
+
+00:04:39.790 --> 00:04:41.420
+Hace las cosas simples.
+
+00:04:41.420 --> 00:04:44.010
+Por lo es L.
+
+00:04:44.010 --> 00:04:50.680
+Así que la fuerza en este hilo, o al menos la longitud l de este
+
+00:04:50.680 --> 00:04:55.720
+alambre, va a ser igual a la corriente 2 veces L.
+
+00:04:55.720 --> 00:04:58.840
+Podríamos llamar a esa L2 incluso, sólo para que sepa que
+
+00:04:58.840 --> 00:04:59.980
+ofertas con alambre 2.
+
+00:04:59.980 --> 00:05:02.400
+Es una cantidad vectorial.
+
+00:05:02.400 --> 00:05:03.420
+Pude hacerla una flecha completa.
+
+00:05:03.420 --> 00:05:03.940
+No importa.
+
+00:05:03.940 --> 00:05:04.670
+Es una notación.
+
+00:05:04.670 --> 00:05:06.870
+He visto a profesores hacerlo de cualquier manera, lo he visto
+
+00:05:06.870 --> 00:05:08.780
+escrito de cualquier manera, así.
+
+00:05:08.780 --> 00:05:12.180
+Cruzar el campo magnético que es.
+
+00:05:12.180 --> 00:05:14.150
+¿Cuál es el campo magnético que está en?
+
+00:05:14.150 --> 00:05:16.080
+El campo magnético--lo haré en magenta, porque es
+
+00:05:16.080 --> 00:05:18.770
+el campo magnético creado por la actual 1.
+
+00:05:18.770 --> 00:05:26.670
+Así que es el campo magnético 1, que es este campo magnético.
+
+00:05:26.670 --> 00:05:30.960
+Así que antes de entrar en las matemáticas, vamos a simplemente averiguar lo que
+
+00:05:30.960 --> 00:05:33.380
+¿dirección es esta fuerza neta va a estar en?
+
+00:05:33.380 --> 00:05:37.000
+Así que aquí decimos, bueno, el actual es un escalar, así que
+
+00:05:37.000 --> 00:05:38.470
+no va a afectar a la dirección.
+
+00:05:38.470 --> 00:05:40.850
+¿Cuál es la dirección de L2?
+
+00:05:40.850 --> 00:05:42.290
+Se trata de L2.
+
+00:05:42.290 --> 00:05:44.640
+Yo no etiqueta L2 en el diagrama.
+
+00:05:44.640 --> 00:05:46.190
+¿Cuál es la dirección de L2?
+
+00:05:46.190 --> 00:05:47.180
+Bueno, es hacia arriba.
+
+00:05:47.180 --> 00:05:50.650
+Y, a continuación, la dirección de B1, el campo magnético creado por
+
+00:05:50.650 --> 00:05:53.400
+1 actual, va a la página aquí.
+
+00:05:53.400 --> 00:05:57.520
+Así que aquí sólo hacemos el producto estándar.
+
+00:05:57.520 --> 00:05:59.380
+Déjame ver si puedo tirar esta.
+
+00:05:59.380 --> 00:06:01.400
+Esto es realmente fácil para dibujar.
+
+00:06:01.400 --> 00:06:08.660
+Así que puse mi dedo índice en la dirección de L2.
+
+00:06:08.660 --> 00:06:10.560
+Y luego le puse mi dedo medio el
+
+00:06:10.560 --> 00:06:11.760
+dirección del campo.
+
+00:06:11.760 --> 00:06:13.500
+Así que mi dedo medio va a punto recto
+
+00:06:13.500 --> 00:06:15.560
+abajo en esta página.
+
+00:06:15.560 --> 00:06:17.880
+Mis otros dedos hacen sólo lo que harían naturalmente.
+
+00:06:17.880 --> 00:06:19.290
+Y luego iría mi pulgar el
+
+00:06:19.290 --> 00:06:20.220
+dirección de la fuerza neta.
+
+00:06:20.220 --> 00:06:23.190
+Esto es sólo el producto de la Cruz.
+
+00:06:23.190 --> 00:06:25.700
+Verás los maestros enseñan el producto cruzado de otras maneras,
+
+00:06:25.700 --> 00:06:27.720
+donde dicen a que ponga su pulgar en la dirección de
+
+00:06:27.720 --> 00:06:29.780
+el campo y esto y aquello, tu palm--
+
+00:06:29.780 --> 00:06:30.590
+esas son todas válidas.
+
+00:06:30.590 --> 00:06:32.030
+Son sólo diferentes variaciones de lo mismo.
+
+00:06:32.030 --> 00:06:33.580
+Este encuentro más fácil de recordar.
+
+00:06:33.580 --> 00:06:35.910
+Porque cuando tomo el producto cruzado, el dedo índice es la
+
+00:06:35.910 --> 00:06:36.900
+primer término del producto Cruz.
+
+00:06:36.900 --> 00:06:39.040
+Dedo medio es el segundo término del producto Cruz.
+
+00:06:39.040 --> 00:06:42.980
+Pulgar es la dirección del producto Cruz.
+
+00:06:42.980 --> 00:06:46.830
+Así que de todos modos, esta es la dirección de L2.
+
+00:06:46.830 --> 00:06:49.300
+El campo magnético, ya sabemos, entra en la página.
+
+00:06:49.300 --> 00:06:53.350
+Así que mi dedo va en la página.
+
+00:06:53.350 --> 00:06:56.510
+Y mi pulgar en la dirección de la fuerza en la
+
+00:06:56.510 --> 00:06:57.620
+campo magnético.
+
+00:06:57.620 --> 00:07:00.560
+Por lo es la dirección de la fuerza.
+
+00:07:00.560 --> 00:07:02.180
+Así que ahí lo tienen.
+
+00:07:02.180 --> 00:07:05.420
+Si esta corriente se está moviendo en esa dirección y su campo
+
+00:07:05.420 --> 00:07:08.580
+es--sabemos de esta envoltura alrededor de regla que salga de aquí
+
+00:07:08.580 --> 00:07:10.950
+y el efecto que tiene en esto va aquí--
+
+00:07:10.950 --> 00:07:15.260
+otro cable que es donde va la corriente en el mismo
+
+00:07:15.260 --> 00:07:17.430
+dirección, es que va ser atraído.
+
+00:07:17.430 --> 00:07:22.130
+Por lo que la fuerza neta va en esa dirección.
+
+00:07:22.130 --> 00:07:26.870
+Podríamos decir la fuerza de 1 a 2.
+
+00:07:26.870 --> 00:07:27.900
+Eso es sólo mi Convenio.
+
+00:07:27.900 --> 00:07:30.300
+Tal vez otras personas habría escrito la fuerza
+
+00:07:30.300 --> 00:07:33.780
+dado a 2 por 1.
+
+00:07:33.780 --> 00:07:36.170
+Es la fuerza dada por 1 a 2.
+
+00:07:36.170 --> 00:07:37.750
+Es cómo me dirijo a usted.
+
+00:07:37.750 --> 00:07:42.540
+¿Ahora lo que va a ser la fuerza actual 1 de I2?
+
+00:07:42.540 --> 00:07:44.040
+Bueno, va a ser la corriente--bien, va a
+
+00:07:44.040 --> 00:07:45.350
+ser la fuerza allí.
+
+00:07:45.350 --> 00:07:47.460
+Así va a ser lo mismo.
+
+00:07:47.460 --> 00:07:50.190
+Permítanme llamar campo de magnético de I2.
+
+00:07:50.190 --> 00:07:52.600
+Haces el reciclamiento de la regla, se va a ver lo mismo.
+
+00:07:52.600 --> 00:07:56.200
+Así que I2, sin duda, en este lado su campo va a ir
+
+00:07:56.200 --> 00:07:59.240
+en la página.
+
+00:07:59.240 --> 00:08:01.280
+¿Pero lo que es campo de I2 va a estar haciendo aquí?
+
+00:08:01.280 --> 00:08:02.600
+Va a estar saltando.
+
+00:08:05.960 --> 00:08:07.800
+Acabo de hacer la envoltura alrededor--tome esto Envuelva, envuélvalo
+
+00:08:07.800 --> 00:08:09.280
+alrededor de ese cable.
+
+00:08:09.280 --> 00:08:11.880
+Por lo es el campo de I2.
+
+00:08:11.880 --> 00:08:19.250
+Así entonces podemos anotar que la fuerza--y vamos a tomar, me
+
+00:08:19.250 --> 00:08:22.660
+no sé, esto está a cierta distancia.
+
+00:08:22.660 --> 00:08:25.300
+Llamemos a ese L1.
+
+00:08:25.300 --> 00:08:33.860
+Así que la fuerza del actual 2 en cable 1 de longitud L1, desde aquí
+
+00:08:33.860 --> 00:08:44.940
+hasta aquí, es igual a corriente 1 veces L1--que es un vector--
+
+00:08:44.940 --> 00:08:48.950
+cruzar el campo magnético creado por la actual 2.
+
+00:08:53.430 --> 00:08:55.460
+Y así podemos hacer el mismo producto Cruz aquí.
+
+00:08:55.460 --> 00:09:01.510
+Poner el dedo índice en la dirección de la L1.
+
+00:09:01.510 --> 00:09:02.930
+Eso es lo que hacer con el primer elemento
+
+00:09:02.930 --> 00:09:04.140
+del producto Cruz.
+
+00:09:04.140 --> 00:09:07.820
+Y, a continuación, poner el dedo medio en la dirección de B2.
+
+00:09:07.820 --> 00:09:10.800
+Y luego el pulgar va a decirle lo que la fuerza neta
+
+00:09:10.800 --> 00:09:11.260
+va a ser.
+
+00:09:11.260 --> 00:09:12.810
+Permítanme señalar.
+
+00:09:12.810 --> 00:09:16.360
+Así que permítanme llamar mi mano.
+
+00:09:16.360 --> 00:09:18.390
+Y para que sepas, antes de hacer cualquiera de estas, realmente
+
+00:09:18.390 --> 00:09:20.800
+mire mi mano, sólo para asegurarse de que estoy
+
+00:09:20.800 --> 00:09:21.450
+dibujo lo correcto.
+
+00:09:21.450 --> 00:09:26.020
+Así que mi índice dedo en dirección a I1, mi media
+
+00:09:26.020 --> 00:09:28.710
+dedo--lo siento, mi dedo índice en la dirección de la L1,
+
+00:09:28.710 --> 00:09:31.750
+que es igual a I1, y luego va mi dedo medio
+
+00:09:31.750 --> 00:09:33.160
+hacer lo que está haciendo el campo magnético.
+
+00:09:33.160 --> 00:09:34.560
+Así que mi dedo medio realmente va a punto
+
+00:09:34.560 --> 00:09:36.300
+hacia arriba.
+
+00:09:36.300 --> 00:09:39.220
+Y luego mis otros dedos sólo van a hacer lo que hacen.
+
+00:09:39.220 --> 00:09:41.790
+Y ahora estás mirando la Palma de mi mano.
+
+00:09:41.790 --> 00:09:47.350
+Y mi pulgar--permítanme Asegúrese de que estoy haciendo esto correctamente.
+
+00:09:47.350 --> 00:09:48.600
+¡ Oh, no.
+
+00:09:50.990 --> 00:09:53.370
+Yo estaba sacando mi mano izquierda.
+
+00:09:53.370 --> 00:09:54.850
+Ver, eso es un error.
+
+00:09:54.850 --> 00:09:56.400
+No desea dibujar la mano izquierda cuando estás haciendo
+
+00:09:56.400 --> 00:09:58.280
+la regla de la mano derecha con productos de la Cruz.
+
+00:09:58.280 --> 00:10:01.630
+Así que permítanme dibujarlo aquí abajo.
+
+00:10:01.630 --> 00:10:04.470
+Mi dedo índice va en la dirección de la L1.
+
+00:10:07.280 --> 00:10:11.180
+Estallido de mi dedo hacia arriba, porque la
+
+00:10:11.180 --> 00:10:14.040
+campo magnético creado por I2 es reventar directamente
+
+00:10:14.040 --> 00:10:15.080
+fuera de la página aquí.
+
+00:10:15.080 --> 00:10:17.460
+Así que mi medio dedo va hacia arriba y mis demás
+
+00:10:17.460 --> 00:10:19.830
+los dedos hacen lo que tienen que hacer.
+
+00:10:19.830 --> 00:10:21.860
+Mirando la Palma.
+
+00:10:21.860 --> 00:10:24.460
+Y entonces mi pulgar irá en esa dirección.
+
+00:10:24.460 --> 00:10:30.290
+Por lo tanto el producto cruzado de l con B2 estallidos de esta página,
+
+00:10:30.290 --> 00:10:33.050
+la fuerza neta va a estar en esta dirección.
+
+00:10:33.050 --> 00:10:35.110
+Así que hay un poco de simetría aquí.
+
+00:10:35.110 --> 00:10:37.920
+Este cable va a ser atraído hacia ese cable,
+
+00:10:37.920 --> 00:10:40.420
+y este cable va a ser atraídos por ese cable.
+
+00:10:40.420 --> 00:10:42.240
+Ambos van a--eventualmente si fueran
+
+00:10:42.240 --> 00:10:45.220
+flotando en el espacio, lentamente obtendrían más cerca y más cerca
+
+00:10:45.220 --> 00:10:47.000
+unos a otros y sus radios sería acercarse y
+
+00:10:47.000 --> 00:10:50.370
+más cerca y se aceleraría mutuamente, en
+
+00:10:50.370 --> 00:10:52.310
+crecientes tasas realmente.
+
+00:10:52.310 --> 00:10:53.540
+De todas formas, estoy fuera de tiempo.
+
+00:10:53.540 --> 00:10:56.480
+En el siguiente video que haré este mismo principio, pero vamos a hacer
+
+00:10:56.480 --> 00:10:57.380
+que con algunos números.
+
+00:10:57.380 --> 00:10:58.630
+Ver

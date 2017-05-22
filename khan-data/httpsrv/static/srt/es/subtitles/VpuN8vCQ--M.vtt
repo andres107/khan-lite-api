@@ -1,0 +1,549 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.870 --> 00:00:08.290
+Vamos a aprender un poco sobre la ley de los grandes números
+
+00:00:08.300 --> 00:00:11.720
+la cual se encuentra en muchos niveles, una de las leyes más intuitivas
+
+00:00:11.730 --> 00:00:14.180
+en matemáticas y en teoría de la probabilidad.
+
+00:00:14.180 --> 00:00:18.560
+Pero porque es tan aplicable a tantas cosas, es a menudo
+
+00:00:18.570 --> 00:00:22.190
+una ley mal utilizada o a veces, ligeramente malinterpretado.
+
+00:00:22.190 --> 00:00:26.240
+Tan sólo para ser un poco formal en nuestras matemáticas,
+
+00:00:26.250 --> 00:00:28.570
+primero, permítanme simplemente definirla y
+
+00:00:28.570 --> 00:00:29.430
+luego, hablaremos un poco sobre su intuición.
+
+00:00:29.430 --> 00:00:33.980
+Así que definimos una variable aleatoria, X.
+
+00:00:33.990 --> 00:00:38.740
+Y sabemos su valor esperado o su media poblacional.
+
+00:00:38.750 --> 00:00:41.780
+La ley de los grandes números dice que
+
+00:00:41.780 --> 00:00:46.460
+si tomamos una muestra n de observaciones de nuestra variable aleatoria,
+
+00:00:46.470 --> 00:00:49.070
+y si promediaramos todas esas observaciones
+
+00:00:49.070 --> 00:00:50.670
+permítanme definir otra variable.
+
+00:00:50.670 --> 00:00:54.130
+Llamemos a esta X sub n con una línea encima.
+
+00:00:54.140 --> 00:00:56.960
+Esta es la media de n observaciones de
+
+00:00:56.960 --> 00:00:57.740
+nuestra variable aleatoria.
+
+00:00:57.750 --> 00:01:00.520
+Por lo que es, literalmente, esta es mi primera observación.
+
+00:01:00.530 --> 00:01:03.220
+Por lo que se puede decir: yo corro el experimento una vez y
+
+00:01:03.220 --> 00:01:07.110
+recibo esta observación y al ejecutarlo de nuevo, me da esta observación.
+
+00:01:07.120 --> 00:01:11.630
+Y sigo reptiendolo n veces
+
+00:01:11.640 --> 00:01:12.620
+Y luego lo divido por mi número de observaciones.
+
+00:01:12.620 --> 00:01:14.140
+Así que esta es mi media muestral.
+
+00:01:14.150 --> 00:01:17.330
+Esta es la media de todas las observaciones que he hecho.
+
+00:01:17.340 --> 00:01:23.200
+La ley de los grandes números sólo nos dice que lo que significa mi media muestral
+
+00:01:23.200 --> 00:01:27.570
+se acercará al valor esperado de mi variable aleatoria.
+
+00:01:27.570 --> 00:01:32.750
+O también podría escribirla como si mi media muestral acercará a
+
+00:01:32.760 --> 00:01:39.900
+mi media poblacional cuando n tiende a infinito.
+
+00:01:39.900 --> 00:01:43.280
+Y voy ser un poco informal con lo que significa acercarse o lo
+
+00:01:43.290 --> 00:01:44.260
+qué significa la convergencia.
+
+00:01:44.260 --> 00:01:46.400
+Pero creo que tienes el sentido intuitivo general que
+
+00:01:46.400 --> 00:01:50.500
+Si tomamos una muestra suficientemente grande, voy a terminar
+
+00:01:50.510 --> 00:01:54.200
+obteniendo el valor esperado de la población en su conjunto.
+
+00:01:54.200 --> 00:01:56.790
+Y creo que para muchos de nosotros esto es algo intuitivo.
+
+00:01:56.790 --> 00:02:01.600
+Si hago suficientes repeticiones sobre grandes muestras, las repeticiones
+
+00:02:01.600 --> 00:02:04.050
+me darían los números que eran de esperar
+
+00:02:04.060 --> 00:02:06.710
+Dado el valor esperado y la probabilidad y todo eso.
+
+00:02:06.710 --> 00:02:09.320
+Pero creo que muchas veces es un poco incomprendido
+
+00:02:09.330 --> 00:02:10.610
+en términos de por qué esto sucede.
+
+00:02:10.620 --> 00:02:13.270
+Y antes de ir a eso dejenme darles
+
+00:02:13.280 --> 00:02:15.090
+un ejemplo concreto.
+
+00:02:15.090 --> 00:02:17.400
+La ley de los grandes números sólo nos dirá que si
+
+00:02:17.400 --> 00:02:24.530
+yo tengo una variable aleatoria -- X es igual al número de cabezas
+
+00:02:24.530 --> 00:02:30.770
+Después de 100 lanzamientos de una moneda
+
+00:02:30.780 --> 00:02:33.420
+de una moneda perfecta.
+
+00:02:36.090 --> 00:02:37.880
+En primer lugar, sabemos que el valor esperado de
+
+00:02:37.880 --> 00:02:39.830
+esta variable aleatoria es...
+
+00:02:39.840 --> 00:02:43.080
+Es el número de lanzamientos, el número de repeticiones
+
+00:02:43.080 --> 00:02:46.490
+las probabilidades de éxito de cualquier repetición.
+
+00:02:46.500 --> 00:02:49.170
+Será igual a 50.
+
+00:02:49.170 --> 00:02:53.470
+Por lo que la ley de los grandes números dice que si tuviera que tomar una muestra
+
+00:02:53.470 --> 00:02:57.520
+o si tuviera en promedio la muestra de un montón de estas repeticiones,
+
+00:02:57.530 --> 00:03:03.340
+así que ya sabes, me sale--mi primer tiempo ejecutar esta versión de prueba
+
+00:03:03.340 --> 00:03:06.270
+lanze 100 monedas o tener 100 monedas en una caja de zapatos y
+
+00:03:06.280 --> 00:03:10.280
+Agito la caja de zapatos y cuento el número de caras, y me da 55.
+
+00:03:10.280 --> 00:03:11.870
+Esto sería X1.
+
+00:03:11.870 --> 00:03:15.230
+Entonces agito la caja de nuevo y me sale 65.
+
+00:03:15.240 --> 00:03:18.110
+Entonces agito la caja de nuevo y me sale 45.
+
+00:03:18.110 --> 00:03:22.750
+Y hago esto n veces y luego divido por
+
+00:03:22.750 --> 00:03:23.990
+el número de veces que hice esto.
+
+00:03:24.000 --> 00:03:27.060
+La ley de los grandes números nos dice simplemente que la media
+
+00:03:27.060 --> 00:03:31.050
+la media de todas mis observaciones,
+
+00:03:31.050 --> 00:03:38.690
+va a converger a 50 en cuanto n se acerca a infinito.
+
+00:03:38.690 --> 00:03:40.870
+O para n que tiende a 50.
+
+00:03:40.880 --> 00:03:42.760
+Disculpen, n que tiende a infinito.
+
+00:03:42.770 --> 00:03:45.140
+Y quiero hablar un poco sobre por qué esto sucede
+
+00:03:45.150 --> 00:03:46.990
+o intuitivamente por qué es.
+
+00:03:47.000 --> 00:03:50.520
+Mucha gente dice: "Ah! esto significa que
+
+00:03:50.520 --> 00:03:54.940
+si después de 100 ensayos si estoy por encima del promedio, de alguna manera
+
+00:03:54.940 --> 00:03:57.640
+las leyes de la probabilidad me van a dar más caras
+
+00:03:57.650 --> 00:04:00.150
+o menos caras que reduciran la diferencia".
+
+00:04:00.150 --> 00:04:01.930
+Esto no exactamente lo que va a suceder.
+
+00:04:01.930 --> 00:04:04.430
+A menudo esto es llamado la falacia del jugador.
+
+00:04:04.430 --> 00:04:05.460
+Me gustaría diferenciar.
+
+00:04:05.470 --> 00:04:06.500
+Y voy a utilizar este ejemplo.
+
+00:04:06.500 --> 00:04:08.400
+Así que vamos a decir-- permítanme hacer un gráfico.
+
+00:04:08.410 --> 00:04:09.270
+Y cambiaré de colores.
+
+00:04:23.000 --> 00:04:25.180
+Esto es n, mi eje x es n.
+
+00:04:25.190 --> 00:04:27.630
+Este es el número de repeticiones que tomo.
+
+00:04:27.640 --> 00:04:32.510
+Y mi eje y, escojamos la media de la muestra.
+
+00:04:32.510 --> 00:04:36.180
+Y sabemos el valor esperado, sabemos que
+
+00:04:36.180 --> 00:04:39.070
+el valor esperado de esta variable aleatoria es 50.
+
+00:04:39.080 --> 00:04:40.040
+Permítanme dibujar esto aquí.
+
+00:04:42.670 --> 00:04:43.340
+Esto es 50.
+
+00:04:47.410 --> 00:04:49.700
+Así va el ejemplo que hice.
+
+00:04:49.700 --> 00:04:53.750
+Así que cuando n es igual a--Permítanme [INAUDIBLE]
+
+00:04:54.880 --> 00:04:59.240
+Así que mi primer repetición obtengo 55, lo que era mi promedio.
+
+00:04:59.250 --> 00:05:00.750
+Sólo tenía un dato.
+
+00:05:00.750 --> 00:05:04.720
+A continuación, después de dos repeticiones, veamos, entonces tengo 65.
+
+00:05:04.720 --> 00:05:09.140
+Y así mi promedio va a ser de 65 y 55 dividido por 2.
+
+00:05:09.140 --> 00:05:10.480
+que es 60.
+
+00:05:10.490 --> 00:05:13.410
+Entonces mi promedio subió un poco.
+
+00:05:13.410 --> 00:05:15.370
+Luego tuve un 45, que decrementará mi promedio
+
+00:05:15.370 --> 00:05:16.870
+un poco.
+
+00:05:16.870 --> 00:05:18.190
+No graficaré un 45 aquí.
+
+00:05:18.200 --> 00:05:19.490
+Ahora tengo que promediar todas estas.
+
+00:05:19.500 --> 00:05:22.410
+¿Cuanto es 45 mas 65?
+
+00:05:22.410 --> 00:05:23.690
+Permitanme obtener el número y así
+
+00:05:23.690 --> 00:05:24.560
+ustedes comprenderan.
+
+00:05:24.570 --> 00:05:28.660
+Así que es: 55 y 65.
+
+00:05:28.670 --> 00:05:32.920
+Es 120 mas 45 es 165.
+
+00:05:32.930 --> 00:05:36.360
+Dividido por 3.
+
+00:05:36.370 --> 00:05:39.880
+3 entra en 165 5--5 por 3 es 15.
+
+00:05:39.880 --> 00:05:42.260
+Es 53.
+
+00:05:42.270 --> 00:05:43.510
+No, no, no.
+
+00:05:43.510 --> 00:05:45.300
+55.
+
+00:05:45.310 --> 00:05:46.990
+Por lo tanto la media regresó a 55.
+
+00:05:46.990 --> 00:05:49.420
+Y podríamos seguir haciendo estos ensayos.
+
+00:05:49.420 --> 00:05:51.620
+Así que usted podría decir que la ley de los grandes números dice esto,
+
+00:05:51.620 --> 00:05:56.620
+OK, después de que hemos hecho 3 repeticiones y nuestro promedio esta allí.
+
+00:05:56.630 --> 00:06:00.100
+Así que mucha gente piensa que de alguna manera los dioses de la probabilidad
+
+00:06:00.110 --> 00:06:02.300
+van a hacer más probable que tengamos menos
+
+00:06:02.310 --> 00:06:03.170
+caras en el futuro.
+
+00:06:03.170 --> 00:06:06.140
+Que de alguna manera los próximos repeticiones van a tener que
+
+00:06:06.140 --> 00:06:09.010
+edisminuir para reducir nuestro promedio.
+
+00:06:09.020 --> 00:06:10.710
+Y este no es necesariamente el caso.
+
+00:06:10.720 --> 00:06:13.230
+En adelante las probabilidades serán siempre las mismas.
+
+00:06:13.240 --> 00:06:15.190
+Las probabilidades son siempre 50% que
+
+00:06:15.190 --> 00:06:16.150
+Voy a conseguir las caras.
+
+00:06:16.160 --> 00:06:19.660
+No es como que si yo tenía un monton caras para empezar o
+
+00:06:19.660 --> 00:06:22.090
+más caras de lo que hubiera esperado obtener,
+
+00:06:22.100 --> 00:06:25.350
+de repente comenzaría a obtener más sellos.
+
+00:06:25.360 --> 00:06:27.520
+Eso sería falacia del jugador.
+
+00:06:27.520 --> 00:06:29.900
+Que si tienes una racha larga de caras o tienes
+
+00:06:29.910 --> 00:06:32.010
+un número desproporcionado de caras, que en algún momento
+
+00:06:32.010 --> 00:06:35.060
+vas a tener-- una mayor probabilidad de tener
+
+00:06:35.060 --> 00:06:36.990
+un número desproporcionado de sellos.
+
+00:06:37.000 --> 00:06:38.430
+Y eso no es cierto.
+
+00:06:38.430 --> 00:06:41.220
+Lo que nos dice la ley de los grandes números es que no importa
+
+00:06:41.230 --> 00:06:45.690
+Supongamos que después de un número finito de repeticiones
+
+00:06:45.690 --> 00:06:48.120
+Su promedio en realidad--es una baja probabilidad de que esto ocurra,
+
+00:06:48.120 --> 00:06:50.290
+pero digamos que su promedio es realmente aquí.
+
+00:06:50.300 --> 00:06:52.260
+Realmente está en 70.
+
+00:06:52.260 --> 00:06:55.990
+Diras: "Wow! realmente nos separaron un buen poco de
+
+00:06:56.000 --> 00:06:57.010
+el valor esperado".
+
+00:06:57.010 --> 00:06:58.440
+Pero lo que la ley de los grandes números dice, bueno,
+
+00:06:58.440 --> 00:07:00.250
+No me importa de cuántas repeticiones sean estas.
+
+00:07:00.260 --> 00:07:03.860
+Aun tenemos un número infinito de repeticiones.
+
+00:07:03.870 --> 00:07:06.580
+Y el valor esperado para ese infinito número de ensayos,
+
+00:07:06.580 --> 00:07:11.560
+especialmente en este tipo de situación va a ser esto.
+
+00:07:11.560 --> 00:07:15.670
+Por lo que al promedio de un número finito que promedia a
+
+00:07:15.680 --> 00:07:18.380
+un número alto. Luego, infinitas repeticiones van a
+
+00:07:18.380 --> 00:07:22.880
+converger a esto. Con el tiempo regresaran
+
+00:07:22.880 --> 00:07:24.010
+al valor esperado.
+
+00:07:24.020 --> 00:07:27.300
+Esto fue una forma muy informal de describirlo,
+
+00:07:27.310 --> 00:07:29.570
+pero esto es lo que dice la ley de los grandes números.
+
+00:07:29.570 --> 00:07:30.930
+Y es algo importante.
+
+00:07:30.930 --> 00:07:33.550
+No está diciendo que si consigues un montón de caras
+
+00:07:33.560 --> 00:07:36.180
+de alguna manera la probabilidad de conseguir sellos va
+
+00:07:36.180 --> 00:07:38.240
+a aumentar para alcanzar el numero de cabezas.
+
+00:07:38.250 --> 00:07:41.650
+Lo que está diciendo, es que no importa lo que sucedió
+
+00:07:41.660 --> 00:07:44.580
+más de un número finito de repeticioens, no importa lo que la media sea
+
+00:07:44.580 --> 00:07:46.550
+en un número finito de ensayos, siempre tendrás
+
+00:07:46.560 --> 00:07:47.950
+un número infinito de repeticiones disponibles.
+
+00:07:47.950 --> 00:07:51.840
+Y si usted repite lo suficiente finalmente va a volver converger
+
+00:07:51.850 --> 00:07:52.790
+a su valor esperado.
+
+00:07:52.800 --> 00:07:54.420
+Y esto es algo importante para pensar.
+
+00:07:54.430 --> 00:07:57.760
+Pero esto no se utiliza en la práctica todos los días con la lotería y casinos
+
+00:07:57.760 --> 00:08:02.210
+porque ellos saben que si haces muestras suficientemente grandes
+
+00:08:02.220 --> 00:08:04.950
+y aún podríamos calcular
+
+00:08:04.950 --> 00:08:07.750
+Si haces muestras suficientemente grandes,
+
+00:08:07.750 --> 00:08:09.500
+¿Cuál es la probabilidad de que las cosas se desvíen significativamente?
+
+00:08:09.500 --> 00:08:12.940
+Pero los casinos y la lotería cada día funcionan sobre este principio
+
+00:08:12.950 --> 00:08:15.630
+que si llevas suficiente gente--seguro,
+
+00:08:15.630 --> 00:08:18.230
+en el corto plazo o con pocas muestras,
+
+00:08:18.240 --> 00:08:19.560
+algunas personas podrían batir la casa.
+
+00:08:19.560 --> 00:08:22.190
+pero en el largo plazo la casa siempre va a ganar
+
+00:08:22.200 --> 00:08:24.290
+debido a los parámetros de los juegos que
+
+00:08:24.300 --> 00:08:25.300
+que están haciendo jugar.
+
+00:08:25.300 --> 00:08:28.170
+De todas formas, esto es algo importante en la probabilidad y
+
+00:08:28.180 --> 00:08:29.750
+creo que es bastante intuitivo.
+
+00:08:29.750 --> 00:08:32.580
+Aunque, a veces cuando ves formalmente una explicacion
+
+00:08:32.590 --> 00:08:34.280
+con variables aleatorias y otros terminos,
+
+00:08:34.280 --> 00:08:34.930
+es un poco confuso.
+
+00:08:34.940 --> 00:08:39.540
+Todo lo que está diciendo es que al tomar más y más muestras,
+
+00:08:39.540 --> 00:08:44.580
+el promedio de esa muestra se va a
+
+00:08:44.590 --> 00:08:45.660
+aproximar al verdadero promedio.
+
+00:08:45.660 --> 00:08:47.400
+O debería ser un poco más concreto.
+
+00:08:47.400 --> 00:08:51.680
+La media de la muestra va a converger a
+
+00:08:51.690 --> 00:08:54.960
+la verdadera media poblacional o
+
+00:08:54.970 --> 00:08:56.120
+el valor esperado de la variable aleatoria.
+
+00:08:56.120 --> 00:08:58.840
+De todas formas, nos vemos en el siguiente video.

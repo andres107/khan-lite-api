@@ -1,0 +1,156 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.255 --> 00:00:04.714
+Lo que quiero hacer en este video es ordenar estas fracciones de menor a mayor
+
+00:00:04.714 --> 00:00:10.379
+Y, la manera más fácil--la manera en que la gente se asegura de obtener la respuesta correcta:
+
+00:00:10.379 --> 00:00:14.002
+es encontrar un denominador común, porque si no podemos encontrar un denominador común,
+
+00:00:14.002 --> 00:00:21.432
+estas fracciones serán difícil comparar: 4/9 frente a 3/4 frente a 4/5, etcétera.
+
+00:00:21.432 --> 00:00:25.844
+Puede intentar estimarles, pero podrá compararlas directamente si
+
+00:00:25.844 --> 00:00:32.467
+todos tienen el mismo denominador. Por lo tanto, el truco aquí es buscar primero el denominador común.
+
+00:00:32.467 --> 00:00:36.432
+Y hay muchas maneras de hacerlo, simplemente puede elegir uno de estos números,
+
+00:00:36.432 --> 00:00:42.051
+y tome todos sus múltiplos hasta que encuentre un múltiplo que es divisible por todos los otros denominadores.
+
+00:00:42.051 --> 00:00:45.667
+Otra manera de hacerlo es mirar la factorización de números primos de cada uno de estos,
+
+00:00:45.667 --> 00:00:52.067
+y entonces el "mínimo común denominador" tendría cada uno de los números primos.
+
+00:00:52.067 --> 00:00:58.630
+Vamos a hacerlo de esa manera segunda y luego comprobarlo.
+
+00:00:58.630 --> 00:01:08.429
+Por lo tanto, 9 es 3<i>3, por lo que nuestro "MCD" va a tener al menos 3</i>3 en él.
+
+00:01:08.429 --> 00:01:12.191
+Y entonces 4 es los mismo que 2*2.
+
+00:01:12.191 --> 00:01:17.810
+Por lo tanto, también tendremos 2*2 en nuestro factorización principal (mínimo común múltiplo).
+
+00:01:17.810 --> 00:01:22.361
+5 es un número primo, entonces pondremos 5 ahí mismo.
+
+00:01:22.361 --> 00:01:31.185
+Y entonces, 12 es lo mismo que 2<i>6, y 6=2</i>3.
+
+00:01:31.185 --> 00:01:40.867
+Así que, a nuestro MCM, tenemos que tener dos 2's, pero ya tenemos dos 2's, y ya tenemos un 3.
+
+00:01:40.867 --> 00:01:48.182
+Otra manera de pensar acerca de esto, es que algo que es divisible por lo tanto 9 y 4
+
+00:01:48.182 --> 00:01:50.200
+va a ser divisible por 12.
+
+00:01:50.200 --> 00:01:58.770
+Y, a continuación, por último, es necesario que esta sea divisible por 15's factores primos.
+
+00:01:58.770 --> 00:02:03.971
+15 es lo mismo que 3*5.
+
+00:02:03.971 --> 00:02:09.312
+Por eso una vez más, ya tenemos 3 y 5.
+
+00:02:09.312 --> 00:02:15.163
+Por lo tanto, este es nuestro mínimo común múltiplo (MCM).
+
+00:02:15.163 --> 00:02:45.256
+Por lo tanto, el LCM va a ser igual al 3<i>3</i>2<i>2</i>5=180.
+
+00:02:45.256 --> 00:02:52.873
+Entonces, nuestro LCM es 180. Por lo tanto, queremos volver a escribir todas estas fracciones con 180 en el denominador.
+
+00:02:52.873 --> 00:02:59.467
+¿Por lo tanto, nuestra primera fracción, 4/9, es lo que más 180?
+
+00:02:59.467 --> 00:03:04.065
+Para pasar de 9 a 180, tenemos a varios 9 por 20.
+
+00:03:04.065 --> 00:03:16.836
+Así, para obtener el denominador igual 180, tenemos múltiples por 20.
+
+00:03:16.836 --> 00:03:21.851
+Puesto que no queremos cambiar el valor de la fracción, debemos también múltiples por el 4 por 20.
+
+00:03:21.851 --> 00:03:28.863
+4*20=80. Por lo tanto 4/9 es la misma cosa como 80/180.
+
+00:03:28.863 --> 00:03:37.200
+Ahora, vamos a hacer 3/4. ¿Qué tenemos que múltiples el denominador por igual a 180?
+
+00:03:37.200 --> 00:03:42.656
+Puede dividir 4 en 180 (180/4 = x) para entender esto.
+
+00:03:42.656 --> 00:03:54.452
+4*45 = 180. Ahora, usted también tendrá que múltiples el numerador por 45.
+
+00:03:54.452 --> 00:04:09.200
+3*45 = 135. Así, 3/4 equivale 135/180.
+
+00:04:09.200 --> 00:04:31.929
+Ahora vamos a hacer 4/5. Para obtener 180 desde 5, 5 múltiples por 36.
+
+00:04:31.929 --> 00:04:35.133
+Tienes que múltiples numerador por el mismo número, 36.
+
+00:04:35.133 --> 00:04:46.325
+Por lo tanto 144/180.
+
+00:04:46.325 --> 00:04:50.180
+Y entonces tenemos sólo dos más que hacer.
+
+00:04:50.180 --> 00:05:25.846
+180/12 = 15. Lo mismo para el numerador, 15. Así 11/12 = 165/180.
+
+00:05:25.846 --> 00:05:28.067
+Y finalmente, tenemos 13/15.
+
+00:05:28.067 --> 00:05:51.434
+Para obtener 180 desde 15, hay que multiplicar 15 por 12-15<i>10 = 150, 30 restante por 180. 15</i>2=30. Así, 15*12=180.
+
+00:05:51.434 --> 00:05:54.128
+Múltiples numerador por el mismo número, 13.
+
+00:05:54.128 --> 00:06:01.233
+Sabemos 12*12=144, tan sólo hay que añadir uno más 12 = 156.
+
+00:06:01.233 --> 00:06:08.431
+Por lo tanto, hemos vuelto a escribir cada una de estas fracciones con el nuevo denominador común.
+
+00:06:08.431 --> 00:06:13.029
+Ahora, es muy fácil compararlas. Sólo tenemos que mirar sus numeradores.
+
+00:06:13.029 --> 00:06:21.434
+Por ejemplo, el numerador más pequeño es 80, entonces 4/9 es el menor de estos números.
+
+00:06:21.434 --> 00:07:04.438
+El próximo número más pequeño parece 135, que era 3/4.
+
+00:07:04.438 --> 00:07:08.524
+Y, a continuación, el siguiente va a ser el 144/180, que era 4/5.
+
+00:07:08.524 --> 00:07:20.831
+Siguiente es 156/180, que era 13/15.
+
+00:07:20.831 --> 00:07:35.970
+Finalmente, tenemos 165/180, que era 11/12.
+
+00:07:35.970 --> 99:59:59.999
+¡Y, somos hechos! Hemos terminado nuestro pedido.

@@ -1,0 +1,354 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.580 --> 00:00:05.290
+Estamos acostumbrados a los operadores tradicionales como la suma y la resta
+
+00:00:05.290 --> 00:00:10.333
+y multiplicación y división, hemos visto diferentes formas de representar esto
+
+00:00:10.333 --> 00:00:14.327
+pero lo que vamos a hacer en este video es un poco divertido
+
+00:00:14.327 --> 00:00:17.007
+Realmente vamos a definir nuestros propios operadores.
+
+00:00:17.007 --> 00:00:19.853
+Y lo que es interesante es que nos muestra qué tan amplias
+
+00:00:19.903 --> 00:00:22.175
+pueden ser las matemáticas. Y en un sentido más práctico
+
+00:00:22.175 --> 00:00:24.600
+es algo que incluso podrías ver en una prueba estandarizada.
+
+00:00:24.600 --> 00:00:26.773
+Y la razón por la que lo hacen es para que puedas apreciar
+
+00:00:26.773 --> 00:00:29.234
+que estos no son los únicos operadores que existen, además
+
+00:00:29.234 --> 00:00:32.113
+de la potenciación aldous, que en matemáticas puedes definir todo un
+
+00:00:32.113 --> 00:00:38.661
+nuevo conjunto de operadores . Solo hagamos eso. Así que déjenme definir x diamante
+
+00:00:38.661 --> 00:00:42.841
+x diamante y, y voy a definir eso como
+
+00:00:42.841 --> 00:00:47.531
+Y voy a definir eso como 5x menos y. Así
+
+00:00:47.531 --> 00:00:49.435
+que podrías ver esto como si estuviéramos definiendo una función
+
+00:00:49.435 --> 00:00:51.989
+pero lo estamos dividiendo utilizando un operador.
+
+00:00:51.989 --> 00:00:55.333
+de manera que si tengo x diamante y, por definición hemos definido
+
+00:00:55.333 --> 00:00:58.596
+este operador, eso quiere decir que esto será igual a 5x menos y
+
+00:00:58.596 --> 00:01:03.733
+Por tanto, dada esta definición, ¿qué sería
+
+00:01:03.733 --> 00:01:08.104
+7 diamante 11?
+
+00:01:08.104 --> 00:01:11.308
+Bueno, solo tienes que ir a la definición. 7 diamante 11
+
+00:01:11.308 --> 00:01:14.652
+para, en vez de una x tenemos 7 así que esto será
+
+00:01:14.652 --> 00:01:21.667
+5 por 7. Solo permítanme multiplicar 5 por 7 menos,
+
+00:01:22.804 --> 00:01:23.940
+en vez de y tenemos 11
+
+00:01:23.940 --> 00:01:27.655
+Así que, una manera de pensar sobre esto es que en nuestra definición
+
+00:01:27.655 --> 00:01:28.933
+cada lugar donde veas una x la sustituyes por 7
+
+00:01:28.933 --> 00:01:31.324
+y cada lugar donde veas y la sustituyes por 11.
+
+00:01:31.324 --> 00:01:36.850
+Por tanto aquí tendrías menos 11. Así que este es el 7
+
+00:01:36.850 --> 00:01:39.312
+Este 7 es este 7
+
+00:01:39.312 --> 00:01:44.977
+y este 11 es este 11 de aquí.
+
+00:01:44.977 --> 00:01:48.182
+Y luego sólo evaluamos esto. Así que 5 por 7 es 35
+
+00:01:48.182 --> 00:01:53.847
+Por tanto esto es igual a 35. Menos 11, lo cual es igual a 24
+
+00:01:53.847 --> 00:02:00.163
+Así que 7 estrella, no, esto no es una estrella, 7 diamante 11 es igual a 24.
+
+00:02:00.163 --> 00:02:01.835
+Podemos definir otras cosas.
+
+00:02:01.835 --> 00:02:05.690
+Podemos definir algo disparatado como, permítanme definir
+
+00:02:05.690 --> 00:02:08.848
+a--mencioné una estrella, permítanme usar una estrella
+
+00:02:08.848 --> 00:02:12.656
+a estrella-- a -- por aquí
+
+00:02:12.656 --> 00:02:19.250
+a estrella b--digamos que eso es lo mismo que-- no lo sé
+
+00:02:19.250 --> 00:02:24.733
+a sobre a más b. De este modo es la misma idea.
+
+00:02:24.733 --> 00:02:29.002
+¿A cuánto equivaldría
+
+00:02:29.002 --> 00:02:32.996
+5 estrella 6?
+
+00:02:32.996 --> 00:02:35.690
+Bueno, regresas a la definición. Por definición
+
+00:02:35.690 --> 00:02:38.337
+en cada lugar donde veas a sustituyes con 5
+
+00:02:38.337 --> 00:02:40.938
+cada vez que veas una b, la sustituyes por 6
+
+00:02:40.938 --> 00:02:47.253
+esto va a hacer igual a 5 sobre 5 más 6
+
+00:02:47.253 --> 00:02:48.647
+a más b
+
+00:02:48.647 --> 00:02:50.643
+a es 5, b es 6
+
+00:02:50.643 --> 00:02:53.012
+sobre 5 más 6
+
+00:02:53.012 --> 00:02:55.009
+así que esto sería cinco onceavos
+
+00:02:55.009 --> 00:02:57.656
+Y luego los puedes combinar
+
+00:02:57.656 --> 00:03:01.000
+No hemos definido ningún orden para realizar estas
+
+00:03:01.000 --> 00:03:02.733
+operaciones específicas que hemos definido.
+
+00:03:02.733 --> 00:03:04.900
+Así que seremos cuidadosos y usaremos paréntesis
+
+00:03:04.900 --> 00:03:07.687
+cuando los combinemos y los pongamos juntos.
+
+00:03:07.687 --> 00:03:10.334
+Pero puedes hacer algo interesante
+
+00:03:10.334 --> 00:03:21.990
+por ejemplo: -1 diamante 0 estrella 5
+
+00:03:21.990 --> 00:03:25.845
+y nuevamente nos concentramos en los paréntesis
+
+00:03:25.845 --> 00:03:27.981
+porque eso es lo único que nos dice qué hacer primero
+
+00:03:27.981 --> 00:03:29.653
+porque no hemos resuelto si
+
+00:03:29.653 --> 00:03:32.161
+no hemos definido si el diamante tienen prioridad sobre
+
+00:03:32.161 --> 00:03:34.251
+la estrella o la estrella tiene prioridad sobre el diamante
+
+00:03:34.251 --> 00:03:37.501
+La manera en cómo está esto, diciendo, hey, haz la multiplicacion antes de hacer la suma
+
+00:03:37.501 --> 00:03:38.667
+no hemos definido esas operaciones.
+
+00:03:38.667 --> 00:03:40.984
+Pero eso es lo que los paréntesis nos ayudan a hacer.
+
+00:03:40.984 --> 00:03:43.585
+Así que queremos calcular este paréntesis primero.
+
+00:03:43.585 --> 00:03:49.669
+0 estrella 5, esto es 0, ahora puedes poner cero como a
+
+00:03:49.669 --> 00:03:51.991
+y el 5 como b
+
+00:03:51.991 --> 00:03:58.724
+esto va a ser 0 sobre 0 más 5. Sobre 0 más 5.
+
+00:03:58.724 --> 00:04:04.067
+lo cual símplemente será 0.
+
+00:04:04.067 --> 00:04:08.067
+así que toda esta expresión se simplifica en -1 diamante
+
+00:04:08.067 --> 00:04:10.000
+este diamante de aquí
+
+00:04:10.000 --> 00:04:14.421
+diamante 0, y ahora vamos a la definición
+
+00:04:14.421 --> 00:04:18.043
+del operador diamante. Bueno eso es 5 por el primer número
+
+00:04:18.043 --> 00:04:21.666
+de nuestro operador. El primer término que le estamos dando a nuestro operador.
+
+00:04:21.666 --> 00:04:23.059
+Creo que lo puedes pensar de esa manera.
+
+00:04:23.059 --> 00:04:28.167
+Así que 5 por esto, por tanto esto será 5 por -1
+
+00:04:28.167 --> 00:04:29.328
+x es -1
+
+00:04:29.328 --> 00:04:33.972
+menos y. Bueno y aquí es el cero. Menos 0
+
+00:04:33.972 --> 00:04:39.406
+Por tanto, 5 por -1 es -5.
+
+00:04:39.406 --> 00:04:44.235
+Y verás que, la idea aquí es que te sientas cómodo
+
+00:04:44.235 --> 00:04:47.393
+definiendo nuevos operadores como estos, y no te sientas desalentado
+
+00:04:47.393 --> 00:04:48.833
+si de pronto ves un diamante. Y
+
+00:04:48.833 --> 00:04:49.994
+ellos definen el diamante por ti
+
+00:04:49.994 --> 00:04:53.059
+y te quedes pensando en que nunca has visto un diamante, cuando realmente ellos te están dando la definición
+
+00:04:53.059 --> 00:04:54.406
+así que no deberías de decir que nunca has visto un diamante
+
+00:04:54.406 --> 00:04:56.403
+deberías de decir, ah bueno, ellos me están dando la definición del diamante
+
+00:04:56.403 --> 00:04:59.746
+así es como debo de usar este operador. Y a veces te encuentras con cosas más disparatadas.
+
+00:04:59.746 --> 00:05:05.969
+Te encontrarás con cosas como, permítanme dibujarlo
+
+00:05:05.969 --> 00:05:11.496
+Ellos definirán, no sé si uno pueda considerar esto como un operador.
+
+00:05:11.496 --> 00:05:15.907
+Por definición, si alguien escribe un símbolo como este
+
+00:05:15.907 --> 00:05:20.412
+y ponen una a b c, permítanme escribirlo así
+
+00:05:20.412 --> 00:05:25.242
+a, b,c d. Ellos dirán, esto es lo mismo que
+
+00:05:25.242 --> 00:05:29.067
+ad menos b, todo esto sobre c.
+
+00:05:29.067 --> 00:05:31.418
+Y nuevamente, esto es solo una definición
+
+00:05:31.418 --> 00:05:35.067
+Ellos tienen esta extraña y simbólica manera de representar estas variables
+
+00:05:35.067 --> 00:05:39.133
+pero ellos solo están defininiendo cómo evaluar esta expresión disparatada
+
+00:05:39.133 --> 00:05:44.979
+De este modo, si alguien te dijera, evalúa este diamante
+
+00:05:44.979 --> 00:05:49.391
+evalúa este diamante--permítamente evaluar este diamante
+
+00:05:49.391 --> 00:05:54.267
+evalúa este diamante donde en mis pequeñas secciones del diamante tengo
+
+00:05:54.267 --> 00:06:01.651
+un -1, un 5, un 3 y un 2. Simplemente usaríamos la definición que nos dice cómo evaluar el diamante
+
+00:06:01.651 --> 00:06:05.412
+Y diríamos, cada vez que veamos una a, eso va a ser un -1
+
+00:06:05.412 --> 00:06:13.168
+así que tenemos -1 por d, Bueno, d es lo que esté en la parte inferior derecha de este
+
+00:06:13.168 --> 00:06:16.419
+diamante o papalote. Así que d va a ser 2. Déjenme escribirlo así
+
+00:06:16.419 --> 00:06:17.069
+Esto es a
+
+00:06:17.069 --> 00:06:18.400
+Esto es b
+
+00:06:18.400 --> 00:06:19.716
+Esto es c
+
+00:06:19.716 --> 00:06:21.574
+y esto es d
+
+00:06:21.574 --> 00:06:23.570
+Así que esto va a ser -1
+
+00:06:23.570 --> 00:06:27.053
+por 2 menos b
+
+00:06:27.053 --> 00:06:28.075
+Bueno b es 5
+
+00:06:28.075 --> 00:06:29.400
+menos 5
+
+00:06:29.400 --> 00:06:31.047
+todo eso sobre c
+
+00:06:31.047 --> 00:06:32.394
+lo cual es 3
+
+00:06:32.394 --> 00:06:34.298
+así que esto va a ser igual a -2
+
+00:06:34.298 --> 00:06:40.242
+menos 5. Así que eso es -7 sobre 3.
+
+00:06:40.242 --> 00:06:43.261
+Y puedes seguir haciendo esto. Puede ser incluso divertido
+
+00:06:43.261 --> 00:06:44.400
+si tienes tiempo libre
+
+00:06:44.400 --> 99:59:59.999
+Define tus propios operadores y ve qué tan creativo puedes ser con esos operadores

@@ -1,0 +1,114 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:08.364
+Parte c: Encontrar el valor de la sexta derivada de f evaluada en cero.
+
+00:00:08.364 --> 00:00:13.995
+Te puedes imaginar que simplemente intentar encontrar la sexta derivada de f te llevaría una eternidad.
+
+00:00:13.995 --> 00:00:17.267
+Y entonces tendrías que hallar su valor en cero por que x está al cuadrado
+
+00:00:17.267 --> 00:00:20.677
+y tendrías que utilizar la regla del producto una y otra vez así como la regla de la cadena y las demás.
+
+00:00:20.677 --> 00:00:22.923
+Se convertiría en algo muy muy muy engorroso.
+
+00:00:22.923 --> 00:00:24.333
+Pero tenemos una gran pista!
+
+00:00:24.333 --> 00:00:30.190
+El hecho de que nos pidan encontrar los primeros cuatro términos de la serie de Taylor de f entorno a cero
+
+00:00:30.190 --> 00:00:35.375
+nos indica que podría ser una forma más sencilla de hacerlo en vez de simplemente hallar la sexta derivada
+
+00:00:35.375 --> 00:00:37.059
+y evaluarla en cero.
+
+00:00:37.059 --> 00:00:42.513
+Y la forma más sencilla de hacer esto es volviendo atrás, en el último problema fuimos capaces de encontrar
+
+00:00:42.513 --> 00:00:47.129
+los cuatro primeros términos no nulos del desarrollo de Taylor de f,
+
+00:00:47.129 --> 00:00:53.333
+y si echas un vistazo a tu definición de desarrollo de Taylor aquí,
+
+00:00:53.333 --> 00:00:58.385
+(y aquí nos metemos en este otro video de Khan Academy en el que se explica por que esto tiene sentido),
+
+00:00:58.385 --> 00:01:05.267
+puedes ver que el enesimo coeficiente del desarrollo de Taylor es es la enesima derivada,
+
+00:01:05.267 --> 00:01:10.102
+(y este desarrollo de Taylor está centrado entorno a cero y eso es lo que nos interesa en este problema),
+
+00:01:10.102 --> 00:01:21.467
+vemos que es la enesima derivada evaluada entorno a 0 dividido por 'n' factorial.
+
+00:01:21.467 --> 00:01:27.379
+Por tanto el segundo coeficiente es la segunda derivada de f evaluada en cero dividido 2 factorial
+
+00:01:27.395 --> 00:01:36.421
+El cuarto coeficiente es la cuarta derivada de f evaluada en cero dividido 4 factorial
+
+00:01:36.421 --> 00:01:41.354
+Por tanto el sexto coeficiente...
+
+00:01:41.354 --> 00:01:44.744
+Volvamos a recordar que es lo que estamos resolver
+
+00:01:44.744 --> 00:01:49.200
+Nos piden que encontremos la sexta derivada de f evaluada entorno a cero,
+
+00:01:49.200 --> 00:01:51.067
+eso es lo que nos piden.
+
+00:01:51.067 --> 00:01:59.867
+Bueno, si piensas en el desarrollo de Taylor centrada en cero, o en cero, o aproximada a cero,
+
+00:01:59.867 --> 00:02:03.292
+el sexto coeficiente del desarrollo de Taylor de f
+
+00:02:03.292 --> 00:02:15.892
+va a ser la sexta derivada de f evaluada en cero por 'x' a la sexta partido 6 factorial
+
+00:02:15.892 --> 00:02:26.862
+Este va a ser el sexto coeficiente en la aproximación de Taylor...
+
+00:02:26.862 --> 00:02:29.333
+en el desarrollo de Taylor.
+
+00:02:29.333 --> 00:02:30.560
+Y tenemos ese coeficiente justo aquí.
+
+00:02:30.560 --> 00:02:33.719
+Este es el sexto coeficiente. Hemos resuelto el último problema!
+
+00:02:33.719 --> 00:02:37.159
+Este de aquí es el sexto coeficiente.
+
+00:02:37.174 --> 00:02:38.685
+Así que tenemos 'x' elevado a la sexta por aquí
+
+00:02:38.685 --> 00:02:39.939
+'x' a la sexta por aquí.
+
+00:02:39.939 --> 00:02:41.425
+Tienes 6 factorial por aquí
+
+00:02:41.425 --> 00:02:43.097
+6 factorial por aquí.
+
+00:02:43.097 --> 00:02:52.339
+Entonces -121 tiene que ser la sexta derivada de f entorno a cero.
+
+00:02:52.339 --> 00:02:53.800
+Pues esa es nuestra respuesta.
+
+00:02:53.800 --> 00:02:57.887
+Esto igual a -121 y hemos terminado.

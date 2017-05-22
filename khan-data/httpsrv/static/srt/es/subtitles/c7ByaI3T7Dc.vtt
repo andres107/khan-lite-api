@@ -1,0 +1,555 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.550 --> 00:00:07.160
+Tenemos que la función vectorial r(s,t) es igual a...
+
+00:00:07.160 --> 00:00:09.980
+Bien, x será una función de s y t..
+
+00:00:09.980 --> 00:00:14.090
+Escribámosla como x función de s y t, por el vector unitario
+
+00:00:14.090 --> 00:00:22.180
+de dirección x, o sea i, más y función de s y t por el factor unitario j.
+
+00:00:22.180 --> 00:00:28.240
+más z función de s y t por el vector unitario de z, o sea k.
+
+00:00:28.240 --> 00:00:32.280
+Ya que tenemos esta función vectorial
+
+00:00:32.280 --> 00:00:34.770
+definamos, o pensemos qué significa tomar
+
+00:00:34.770 --> 00:00:38.800
+la derivada parcial de esta función vectorial
+
+00:00:38.800 --> 00:00:41.620
+con respecto de uno de los parámetros, s o t.
+
+00:00:41.620 --> 00:00:44.040
+Creo que será muy natural,
+
+00:00:44.040 --> 00:00:45.420
+no hay nada raro aquí.
+
+00:00:45.420 --> 00:00:49.030
+Hemos tomado antes las derivadas parciales de funciones no vectoriales,
+
+00:00:49.030 --> 00:00:52.850
+cuando solo cambia una de las variables.
+
+00:00:52.850 --> 00:00:54.280
+Solo la tomamos con respecto a una variable
+
+00:00:54.280 --> 00:00:55.770
+y mantenemos la otra variable, constante.
+
+00:00:55.770 --> 00:00:57.750
+Vamos a hacer lo mismo aquí.
+
+00:00:57.750 --> 00:01:00.920
+Hemos hecho derivadas totales de funciones
+
+00:01:00.920 --> 00:01:01.720
+vectoriales.
+
+00:01:01.720 --> 00:01:04.120
+El procedimiento simplemente terminaba con la derivada corriente
+
+00:01:04.120 --> 00:01:05.490
+de cada uno de los términos.
+
+00:01:05.490 --> 00:01:07.180
+Ahora veremos que será lo mismo aquí
+
+00:01:07.180 --> 00:01:08.950
+con la derivada parcial.
+
+00:01:08.950 --> 00:01:14.670
+Definamos la derivada parcial de
+
+00:01:14.670 --> 00:01:16.970
+r con respecto a s.
+
+00:01:16.970 --> 00:01:19.720
+Todo lo que hago con s, puede intercambiarse
+
+00:01:19.720 --> 00:01:21.930
+por t, y se obtiene exactamente el mismo resultado.
+
+00:01:21.930 --> 00:01:28.800
+Lo voy a definir como el limite cuando Δs
+
+00:01:28.800 --> 00:01:36.240
+se aproxima a 0, de r de s más Δs.
+
+00:01:36.240 --> 00:01:38.250
+Solo se busca el limite con respecto
+
+00:01:38.250 --> 00:01:41.570
+al cambio de s coma t.
+
+00:01:41.570 --> 00:01:44.340
+Como pueden pensar, conservamos t constante con un cierto valor
+
+00:01:44.340 --> 00:01:50.190
+menos r función de s y t.
+
+00:01:50.190 --> 00:01:56.630
+Todo esto sobre Δs.
+
+00:01:56.630 --> 00:01:59.270
+Ahora, con un poquito de algebra aqui, literalmente
+
+00:01:59.270 --> 00:02:01.980
+r función de s más Δs coma t, que es lo mismo
+
+00:02:01.980 --> 00:02:06.310
+que x función de s más Δs t por i, más y de s,
+
+00:02:06.310 --> 00:02:07.900
+más Δs t por j, más z
+
+00:02:07.900 --> 00:02:09.740
+Todo eso, menos esto aqui.
+
+00:02:09.740 --> 00:02:11.370
+si haces un poquito de algebra con esto, y
+
+00:02:11.370 --> 00:02:13.070
+si no me creen, inténtenlo.
+
+00:02:13.070 --> 00:02:22.950
+Esto va a ser igual al limite cuando Δs
+
+00:02:22.950 --> 00:02:25.620
+se acerca a 0. (Voy a escribirlo pequeño porque
+
+00:02:25.620 --> 00:02:33.120
+puede tomarnos mucho espacio) de x función de s más Δs, coma t menos
+
+00:02:33.120 --> 00:02:38.340
+x de s y t, Pienso que ya saben hacia adonde voy.
+
+00:02:38.340 --> 00:02:40.280
+Es algo monótono escribirlo todo,
+
+00:02:40.280 --> 00:02:43.440
+pero no hace daño.
+
+00:02:43.440 --> 00:02:47.750
+Dividido por Δs por i... luego voy a hacerlo
+
+00:02:47.750 --> 00:02:51.100
+en diferentes colores, asi será menos monotono... más y.
+
+00:02:51.100 --> 00:02:53.290
+Donde todos los limites de Δs se aproximan a
+
+00:02:53.290 --> 00:02:55.720
+0; se aplica a todos los términos que estoy escribiendo.
+
+00:02:55.720 --> 00:03:04.590
+y de s más Δs, coma t menos y de s coma t,
+
+00:03:04.590 --> 00:03:09.560
+todo sobre sobre Δs, por j.
+
+00:03:09.560 --> 00:03:19.240
+Y finalmente, más z de s más Δs coma t, menos z de s y t,
+
+00:03:19.240 --> 00:03:27.910
+todo esto sobre Δs, por el vector unidario de z, k.
+
+00:03:27.910 --> 00:03:29.890
+Todo esto viene de la definición.
+
+00:03:29.890 --> 00:03:32.990
+Si simplemente se pone s más Δs, en lugar de s...
+
+00:03:32.990 --> 00:03:34.600
+se evalua todo eso, se hace un poco de algebra, se va a obtener
+
+00:03:34.600 --> 00:03:36.500
+exactamente lo mismo.
+
+00:03:36.500 --> 00:03:40.110
+Con suerte, esto salta a la vista. Si solo estamos
+
+00:03:40.110 --> 00:03:42.590
+tomando la derivada parcial de cada una de estas funciones
+
+00:03:42.590 --> 00:03:44.480
+con respecto a s.
+
+00:03:44.480 --> 00:03:49.040
+Estas funciones de aqui, esta x de s y t, son
+
+00:03:49.040 --> 00:03:50.670
+funciones no vectoriales.
+
+00:03:50.670 --> 00:03:53.450
+Esta y es, igualmente, una funcion no vectorial.
+
+00:03:53.450 --> 00:03:56.240
+z tambien es una funcion no vectorial.
+
+00:03:56.240 --> 00:03:59.540
+Si las juntamos, se convierten en una función vectorial,
+
+00:03:59.540 --> 00:04:01.410
+porque estamos multiplicando la primera parte
+
+00:04:01.410 --> 00:04:02.270
+por un vector.
+
+00:04:02.270 --> 00:04:03.620
+La segunda, por otro vector.
+
+00:04:03.620 --> 00:04:05.210
+Y la tercera, por otro vector.
+
+00:04:05.210 --> 00:04:06.570
+Aunque independientemente, esas funciones
+
+00:04:06.570 --> 00:04:07.570
+no son vectoriales.
+
+00:04:07.570 --> 00:04:10.140
+Así, esta es la definicion de las derivadas
+
+00:04:10.140 --> 00:04:11.110
+parciales corrientes.
+
+00:04:11.110 --> 00:04:13.170
+Donde se ha tomado el limite cuando Δs se acerca a 0
+
+00:04:13.170 --> 00:04:15.020
+en cada uno de estos casos.
+
+00:04:15.020 --> 00:04:17.380
+Que es exactamente lo mismo.
+
+00:04:17.380 --> 00:04:21.530
+Esto es igual a... esto es exactamente lo mismo que la derivada pacial
+
+00:04:21.530 --> 00:04:30.060
+de x respecto a s por i, más la derivada parcial
+
+00:04:30.060 --> 00:04:38.000
+de y respecto a s por j, más la derivada parcial
+
+00:04:38.000 --> 00:04:43.700
+de z respecto a s por k.
+
+00:04:43.700 --> 00:04:47.160
+Voy a hacer algo más aquí, no muy matemático,
+
+00:04:47.160 --> 00:04:49.620
+pero va a resultar... La razón por la que hago este video
+
+00:04:49.620 --> 00:04:52.650
+es para obtener unos buenos elementos para la
+
+00:04:52.650 --> 00:04:55.470
+caja de herramientas para los videos sobre
+
+00:04:55.470 --> 00:04:57.190
+integrales de superficie.
+
+00:04:57.190 --> 00:04:59.510
+Asi que voy a hacer algo aqui... Esto es pseudo-matematico
+
+00:04:59.510 --> 00:05:01.990
+y es porque realmente los diferenciales son
+
+00:05:01.990 --> 00:05:04.600
+bien dificiles de definir rigurosamente, pero yo pienso
+
+00:05:04.600 --> 00:05:07.510
+que da una intuición de lo que esta pasa.
+
+00:05:07.510 --> 00:05:10.740
+Asi que esto de aquí... Voy a decir que es igual a...
+
+00:05:10.740 --> 00:05:13.820
+No encuentran esto en ningún libro de matemáticas
+
+00:05:13.820 --> 00:05:16.520
+y los matemáticos de verdad se van a encoger aquí
+
+00:05:16.520 --> 00:05:17.950
+cuando me vean haciendo esto.
+
+00:05:17.950 --> 00:05:20.160
+Pero me gusta hacerlo porque creo que les da
+
+00:05:20.160 --> 00:05:23.090
+la intuicion de lo que pasa cuando tomemos nuestras
+
+00:05:23.090 --> 00:05:23.990
+integrales de superficie.
+
+00:05:23.990 --> 00:05:28.340
+Voy a decir que todo esto de aquí,
+
+00:05:28.340 --> 00:05:36.910
+es igual a r de s, más el diferencial de s... Un
+
+00:05:36.910 --> 00:05:44.130
+pequeño cambio de s... t menos r de s y t, todo esto
+
+00:05:44.130 --> 00:05:48.900
+sobre el mismo pequeñísimo cambio de s.
+
+00:05:48.900 --> 00:05:51.440
+Espero que lo entiendan, pues al menos yo lo veo de
+
+00:05:51.440 --> 00:05:52.420
+este modo.
+
+00:05:52.420 --> 00:05:56.930
+Cuando tomo el límite cuando Δs se aproxima a 0, esta Δs
+
+00:05:56.930 --> 00:05:58.810
+van a hacerse super super super pequeña.
+
+00:05:58.810 --> 00:06:03.370
+En mi cabeza, asi es como yo entiendo los diferenciales.
+
+00:06:03.370 --> 00:06:07.365
+Cuando alguien escribe la derivada de y con respecto a
+
+00:06:07.365 --> 00:06:12.870
+x, digamos que es 2 ... y luego hacemos
+
+00:06:12.870 --> 00:06:15.290
+un poco de matemáticas con diferenciales como antes...
+
+00:06:15.290 --> 00:06:19.400
+Te puedes imaginar que se multiplican ambos lados por dx
+
+00:06:19.400 --> 00:06:22.210
+y que se llega a que dy es igual a 2dx.
+
+00:06:22.210 --> 00:06:24.670
+Hemos hecho esto a través del cálculo.
+
+00:06:24.670 --> 00:06:27.870
+Lo que me imagino es un cambio infinitamente pequeño de y,
+
+00:06:27.870 --> 00:06:31.830
+igual a 2 veces, podemos pensar así,
+
+00:06:31.830 --> 00:06:35.420
+el cambio igualmente pequeño de x.
+
+00:06:35.420 --> 00:06:39.880
+Esto es, bueno, si se tiene un cambio super pequeño de x,
+
+00:06:39.880 --> 00:06:42.290
+el cambio de y va a continuar siendo super pequeño, pero puede
+
+00:06:42.290 --> 00:06:43.510
+ser el doble..
+
+00:06:43.510 --> 00:06:44.710
+Creo que esta es la mejor forma de verlo.
+
+00:06:44.710 --> 00:06:48.310
+En general, yo veo los diferenciales como cambios super pequeños
+
+00:06:48.310 --> 00:06:50.420
+de una variable.
+
+00:06:50.420 --> 00:06:53.600
+Dejando eso a un lado, y al explicarte lo que
+
+00:06:53.600 --> 00:06:56.290
+haría encoger a muchos matemáticos por lo que escribí...
+
+00:06:56.290 --> 00:06:59.290
+Espero que esto te dé un poco... No es una
+
+00:06:59.290 --> 00:07:01.080
+locura que yo me inventé.
+
+00:07:01.080 --> 00:07:04.240
+Lo que quiero decir es que si Δs se aproxima a 0
+
+00:07:04.240 --> 00:07:06.640
+pensamos que será ds.
+
+00:07:06.640 --> 00:07:09.830
+La razón para esto es que si tomas este lado
+
+00:07:09.830 --> 00:07:12.610
+y esto otro lado y multiplicas ambos por
+
+00:07:12.610 --> 00:07:16.690
+el diferencial ds, entonces ¿qué sucede?
+
+00:07:16.690 --> 00:07:23.250
+A la izquierda, se tiene la parcial de r respecto a ds
+
+00:07:23.250 --> 00:07:28.120
+igual a esto por ds.
+
+00:07:28.120 --> 00:07:30.190
+Lo puedo escribir en rosado.
+
+00:07:30.190 --> 00:07:32.770
+Por ds. Es simplemente un diferencial común,
+
+00:07:32.770 --> 00:07:33.890
+un cambio de s súper pequeño.
+
+00:07:33.890 --> 00:07:37.220
+Esto es como una parcial con respecto a s.
+
+00:07:37.220 --> 00:07:42.740
+Va a resultar igual a... Bueno, si multiplicas este lado
+
+00:07:42.740 --> 00:07:45.230
+de la ecuación por ds, esta cosa desaparece.
+
+00:07:45.230 --> 00:07:49.700
+Queda r de s, más el pequeñísimo cambio
+
+00:07:49.700 --> 00:07:55.080
+de s, t, menos r de s y t.
+
+00:07:55.080 --> 00:07:57.020
+Encerremos esto en un pequeño cuadro..
+
+00:07:57.020 --> 00:07:59.650
+Esto nos va a resultar muy valioso para el próximo video.
+
+00:07:59.650 --> 00:08:01.980
+Vamos a pensar en lo que ésto significa y cómo
+
+00:08:01.980 --> 00:08:05.210
+visualizarlo en una superficie.
+
+00:08:05.210 --> 00:08:07.380
+Como puedes pensar, esto aquí es un vector.
+
+00:08:07.380 --> 00:08:09.260
+Tienes 2 funciones vectoriales y estás
+
+00:08:09.260 --> 00:08:09.990
+tomando la diferencia.
+
+00:08:09.990 --> 00:08:11.440
+Esto lo vamos a visualizar en el próximo video.
+
+00:08:11.440 --> 00:08:13.760
+Va a ser una gran ayuda para las integrales de superficie.
+
+00:08:13.760 --> 00:08:17.270
+Exactamente por el mismo razonamiento, todo lo hecho
+
+00:08:17.270 --> 00:08:20.140
+aquí con s, podríamos hacerlo con t.
+
+00:08:20.140 --> 00:08:24.960
+Podemos definir la parcial... dibujo un pequeño...
+
+00:08:24.960 --> 00:08:28.650
+Definimos la parcial de r respecto a... Hagámoslo en un
+
+00:08:28.650 --> 00:08:31.080
+color diferente, completamente distinto...
+
+00:08:31.080 --> 00:08:32.270
+Anaranjado.
+
+00:08:32.270 --> 00:08:36.580
+La parcial de r con respecto a t... La definición
+
+00:08:36.580 --> 00:08:37.370
+está aquí.
+
+00:08:37.370 --> 00:08:46.750
+El límite cuando Δt se aproxima a 0, de r, de s, t, más Δt,
+
+00:08:46.750 --> 00:08:51.100
+menos t de s y t.
+
+00:08:51.100 --> 00:08:52.770
+Ahora conservamos fijo a s. Puedes
+
+00:08:52.770 --> 00:08:53.880
+pensar que es constante.
+
+00:08:53.880 --> 00:08:59.220
+Estamos encontrando el cambio de t, todo sobre Δt.
+
+00:08:59.220 --> 00:09:00.380
+Y todo aparece igual.
+
+00:09:00.380 --> 00:09:04.270
+Esto es igual a la parcial de x respecto a t, más y
+
+00:09:04.270 --> 00:09:07.580
+respecto a t, más z respecto a t.
+
+00:09:07.580 --> 00:09:11.190
+Exactamente lo mismo, simplemente se cambian la s por la t.
+
+00:09:11.190 --> 00:09:13.740
+Con el mismo argumento, se tiene el mismo
+
+00:09:13.740 --> 00:09:15.990
+resultado, pero en términos de t.
+
+00:09:15.990 --> 00:09:18.970
+Si haces las mismas peuso.matemáticas que hice aquí arriba,
+
+00:09:18.970 --> 00:09:25.680
+obtienes la parcial de r respecto a t, multiplicada por
+
+00:09:25.680 --> 00:09:28.800
+un pequñísimo cambio de t, dt, el diferencial... Puedes pensar
+
+00:09:28.800 --> 00:09:40.360
+que es igual a r de s y t, por dt, menos r de s y t.
+
+00:09:40.360 --> 00:09:43.010
+Enmarcamos estas dos cosas.
+
+00:09:43.010 --> 00:09:44.340
+En el próximo video vamos a
+
+00:09:44.340 --> 00:09:46.790
+visualizar lo que quieren decir.
+
+00:09:46.790 --> 00:09:49.640
+En ocasiones, cuando haces un poco de matemáticas tontas
+
+00:09:49.640 --> 00:09:50.670
+como éstas, te preguntas, bien, ¿y de qué
+
+00:09:50.670 --> 00:09:51.240
+se trata todo esto?
+
+00:09:51.240 --> 00:09:53.110
+No lo olvides. No he nhecho nada más que... ¿qué significa tomar
+
+00:09:53.110 --> 00:09:55.540
+la derivada de esto, respecto a s, o a t.?
+
+00:09:55.540 --> 00:09:58.970
+Jugamos un poco con todos esto y obtuvimos el resultado.
+
+00:09:58.970 --> 00:10:01.220
+Estas 2 nos van a resultar muy valiosas, creo,
+
+00:10:01.220 --> 00:10:03.870
+para lograr intuición para... Por qué se ven las integrales de
+
+00:10:03.870 --> 00:10:06.450
+superficie, como se ven.

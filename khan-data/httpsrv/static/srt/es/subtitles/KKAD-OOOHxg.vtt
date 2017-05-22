@@ -1,0 +1,75 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.560 --> 00:00:04.870
+Hasta ahora hemos trabajado con enlaces sencillos y anillos de carbones
+
+00:00:04.870 --> 00:00:06.540
+pero pensemos que pasaria si las cosas se ponen
+
+00:00:06.540 --> 00:00:07.810
+un poco mas complicadas
+
+00:00:07.810 --> 00:00:10.210
+dejame dibujar una molecula aqui y pensaremos como
+
+00:00:10.210 --> 00:00:11.470
+la nombramos
+
+00:00:20.890 --> 00:00:23.710
+auqui no tenemos una simple cadena
+
+00:00:23.710 --> 00:00:25.910
+se ramifica en algun punto
+
+00:00:25.910 --> 00:00:28.870
+lo que haremos en esta situacion es encontrar
+
+00:00:28.870 --> 00:00:31.370
+la cadena mas larga en la molecula
+
+00:00:33.010 --> 00:00:37.170
+empezamos aqui uno, dos, tres, cuatro, cinco, seis
+
+00:00:37.170 --> 00:00:39.330
+siete, ocho carbones
+
+00:00:39.330 --> 00:00:43.820
+si empezamos por aca tenemos uno, dos , tres, cuatro, cinco, seis
+
+00:00:43.820 --> 00:00:46.570
+siete, ocho, nueve carbones
+
+00:00:46.570 --> 00:00:48.060
+lo que hacemos aqui es verificar cual es la cadena mas larga
+
+00:00:48.060 --> 00:00:49.770
+y la mas larga es esta de aqui
+
+00:00:51.290 --> 00:00:56.930
+asi que es uno, dos , tres,cuatro,cinco,
+
+00:00:56.930 --> 00:01:00.920
+seis,siete,ocho,nueve carbones
+
+00:01:00.920 --> 00:01:04.239
+asi que este sera el nucleo
+
+00:01:04.239 --> 00:01:04.840
+del nombre
+
+00:01:04.840 --> 00:01:06.510
+son 9 carbones
+
+00:01:19.830 --> 00:01:22.660
+asi que estamos trabajando con un Nonano
+
+00:01:25.310 --> 00:01:29.600
+recuerda, 9-non y -ane porque estamos
+
+00:01:29.600 --> 00:01:31.230
+trabajando con alcanos
+
+00:01:31.230 --> 00:01:34.860
+todos son enlaces sencillo aqui

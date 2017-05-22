@@ -1,0 +1,444 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.133 --> 00:00:02.670
+Ahora, vamos a hacer algo bastante interesante, esto
+
+00:00:02.670 --> 00:00:04.933
+en cierta manera va a ser una de las funciones mas faciles de encontrar
+
+00:00:04.933 --> 00:00:07.407
+la representacion en serie maclaurin de
+
+00:00:07.407 --> 00:00:11.192
+vamos a tratar de aproximar e^x
+
+00:00:11.192 --> 00:00:13.200
+f(x) es igual a e^x
+
+00:00:13.200 --> 00:00:14.861
+y lo que hace a esto realmente simple
+
+00:00:14.861 --> 00:00:16.000
+es que cuando tomas la derivada
+
+00:00:16.000 --> 00:00:17.333
+y francamente esto es una de las cosas asombrosas
+
+00:00:17.333 --> 00:00:18.867
+del numero e,
+
+00:00:18.867 --> 00:00:20.067
+es que cuando tomas la derivada
+
+00:00:20.067 --> 00:00:23.568
+de e^x, obtienes e^x
+
+00:00:23.568 --> 00:00:25.867
+asi que esto es igual a f'(x)
+
+00:00:25.867 --> 00:00:29.200
+esto es igual a la segunda derivada f"(x)
+
+00:00:29.200 --> 00:00:31.933
+esto es igual a la tercera derivada f"'(x)
+
+00:00:31.933 --> 00:00:34.102
+esto es igual a la enesima derivada de x
+
+00:00:34.102 --> 00:00:36.270
+siempre es igual a e^x
+
+00:00:36.270 --> 00:00:40.867
+eso es la primera cosa asombrosa de e
+
+00:00:40.867 --> 00:00:42.867
+que puedes seguir tomando su derivada
+
+00:00:42.867 --> 00:00:44.443
+la pendiente en cualquier punto de la curva
+
+00:00:45.021 --> 00:00:48.762
+es la misma que el valor de el punto en la curva
+
+00:00:48.762 --> 00:00:50.533
+es algo loco
+
+00:00:50.533 --> 00:00:51.432
+dicho eso
+
+00:00:51.432 --> 00:00:52.933
+tomemos la representacion maclaurin
+
+00:00:52.933 --> 00:00:54.067
+asi que tenemos que encontrar
+
+00:00:54.067 --> 00:00:56.610
+f(0), f'(0), f"(0)
+
+00:00:56.610 --> 00:00:59.188
+y cuando tomamos e^0
+
+00:00:59.188 --> 00:01:01.733
+e^0 es igual a 1
+
+00:01:01.733 --> 00:01:04.267
+asi que esto va a ser igual a f(0)
+
+00:01:04.267 --> 00:01:07.595
+y esto va a ser igual a f'(0) y va a ser
+
+00:01:07.595 --> 00:01:10.194
+igual a cualquier derivada evaluada
+
+00:01:14.086 --> 00:01:17.200
+la enesima derivada sera evaluada en 0
+
+00:01:17.200 --> 00:01:20.467
+y eso es lo que hace la serie Maclaurin
+
+00:01:20.467 --> 00:01:23.000
+bastante simple
+
+00:01:23.000 --> 00:01:24.200
+Si quiero aproximar
+
+00:01:24.200 --> 00:01:27.669
+e^x usando una serie maclaurin
+
+00:01:27.669 --> 00:01:28.722
+asi que e^x
+
+00:01:28.722 --> 00:01:30.467
+y la ponemos aproximadamente por aqui
+
+00:01:30.467 --> 00:01:31.672
+y nos vamos a acercar
+
+00:01:31.672 --> 00:01:34.691
+a la e^x real y segun vamos añadiendo mas y mas terminos
+
+00:01:34.691 --> 00:01:37.231
+especialmente si añadimos una cantidad infinita de terminos
+
+00:01:37.231 --> 00:01:38.590
+se veria asi:
+
+00:01:38.590 --> 00:01:41.680
+f(0) y lo hacemos en
+
+00:01:41.680 --> 00:01:44.467
+que colores use para coseno y seno?
+
+00:01:44.467 --> 00:01:46.754
+rosa y verde
+
+00:01:47.754 --> 00:01:49.954
+Usare amarillo aqui
+
+00:01:51.000 --> 00:01:53.600
+f(0) es 1
+
+00:01:53.600 --> 00:01:55.467
+mas f'(0) por x
+
+00:01:55.467 --> 00:01:57.333
+f'(0) tambien es 1
+
+00:01:57.333 --> 00:01:58.508
+mas x
+
+00:01:59.400 --> 00:02:01.067
+mas esto que tambien es 1
+
+00:02:01.067 --> 00:02:03.518
+asi que x^2/2!
+
+00:02:06.318 --> 00:02:08.476
+todas estas cosas van a ser 1
+
+00:02:08.476 --> 00:02:09.533
+esto es 1
+
+00:02:09.533 --> 00:02:10.733
+esto es 1
+
+00:02:10.733 --> 00:02:11.933
+cuando hablamos de e^x
+
+00:02:11.933 --> 00:02:13.267
+asi que vamos al tercer termino
+
+00:02:13.267 --> 00:02:14.667
+esto es 1
+
+00:02:14.667 --> 00:02:17.067
+asi que tenemos x^2/2!
+
+00:02:17.067 --> 00:02:19.467
+mas x^3/3!
+
+00:02:19.467 --> 00:02:20.800
+y creo que ves el patron aqui
+
+00:02:20.800 --> 00:02:22.200
+asi que seguimos añadiendo terminos
+
+00:02:22.200 --> 00:02:22.942
+x^4/4!
+
+00:02:22.942 --> 00:02:31.667
+mas x^5/5! mas x^6/6!
+
+00:02:31.667 --> 00:02:34.200
+y empezamos a notar
+
+00:02:34.200 --> 00:02:35.800
+algo muy chevere
+
+00:02:35.800 --> 00:02:38.000
+esto es muy asombroso
+
+00:02:38.000 --> 00:02:40.357
+e^x se puede aproximar por
+
+00:02:40.357 --> 00:02:44.026
+1 + x^2/2!
+
+00:02:44.026 --> 00:02:45.933
++x^3/3!
+
+00:02:45.933 --> 00:02:48.133
+y una vez mas, e^x se empieza a ver
+
+00:02:48.133 --> 00:02:49.467
+como algo bastante muy chevere
+
+00:02:49.467 --> 00:02:51.758
+Esto nos lleva a otros resultados interesantes
+
+00:02:51.758 --> 00:02:54.684
+como que si queremos aproximar e
+
+00:02:54.684 --> 00:02:58.600
+solo evaluamos esto mientras x sea igual a 1
+
+00:02:58.600 --> 00:03:06.533
+asi que esto, bueno, digamos que e es e^1
+
+00:03:06.533 --> 00:03:08.000
+y esto va a ser aproximadamente igual
+
+00:03:08.000 --> 00:03:10.682
+a este polinomio evaluado en 1
+
+00:03:10.682 --> 00:03:13.067
+si x es 1 aqui, entonces hacemos x igual a 1
+
+00:03:13.067 --> 00:03:13.667
+aqui
+
+00:03:13.667 --> 00:03:18.241
+asi que va a ser, 1+1
+
+00:03:18.256 --> 00:03:21.590
+mas 1/2!
+
+00:03:21.590 --> 00:03:24.933
+mas 1/3!
+
+00:03:24.933 --> 00:03:27.800
+mas 1/4!
+
+00:03:27.800 --> 00:03:30.744
+y asi hasta el infinito
+
+00:03:30.744 --> 00:03:33.467
+y tambien podrias hacer esto como 1
+
+00:03:33.467 --> 00:03:35.933
+sobre 1! tambien
+
+00:03:35.933 --> 00:03:39.103
+pero lo que es realmente impresionante es
+
+00:03:39.103 --> 00:03:41.267
+esto es otra manera de representar e
+
+00:03:41.267 --> 00:03:42.467
+esto muestra que e
+
+00:03:42.467 --> 00:03:43.608
+una vez mas se muestra como
+
+00:03:43.608 --> 00:03:49.133
+2+1/2+1/6
+
+00:03:49.133 --> 00:03:51.271
+si sigues haciendo esto, te acercas
+
+00:03:51.271 --> 00:03:53.121
+al numero e
+
+00:03:54.429 --> 00:03:56.193
+pero eso en sí no es la unica
+
+00:03:56.193 --> 00:03:58.353
+cosa fascinante
+
+00:03:58.353 --> 00:04:00.200
+si miramos de vuelta a las representaciones Maclaurin
+
+00:04:00.200 --> 00:04:02.400
+de estas otras funciones
+
+00:04:02.400 --> 00:04:03.533
+cos(x)
+
+00:04:03.533 --> 00:04:06.600
+dejame copiar y pegar cos(x)
+
+00:04:06.600 --> 00:04:09.867
+asi que, cos(x) justo aqui
+
+00:04:09.867 --> 00:04:14.026
+dejame hacer mi mejor intento para copiar y pegarlo todo
+
+00:04:18.272 --> 00:04:24.600
+asi que esto es cos(x) y hagamos lo mismo
+
+00:04:24.600 --> 00:04:27.773
+para sin(x) que hicimos en el ultimo video
+
+00:04:27.773 --> 00:04:30.887
+asi que el sin(x)
+
+00:04:31.533 --> 00:04:37.825
+dejame copiar y pegar esto
+
+00:04:40.533 --> 00:04:44.770
+entonces, ¿podemos ver la relacion
+
+00:04:44.770 --> 00:04:46.348
+entre estas aproximaciones?
+
+00:04:46.348 --> 00:04:48.067
+Asi que antes, probablemente hubieras
+
+00:04:48.067 --> 00:04:49.181
+adivinado que hay alguna relacion
+
+00:04:49.181 --> 00:04:50.342
+entre seno y coseno
+
+00:04:50.342 --> 00:04:52.733
+¿pero que tal de e^x?
+
+00:04:52.733 --> 00:04:54.429
+Asi que lo que vemos aqui
+
+00:04:54.429 --> 00:04:58.144
+es que cos(x) se ve bastante parecido a este termino
+
+00:04:58.144 --> 00:05:00.800
+mas este termino, aunque probablemente queremos
+
+00:05:00.800 --> 00:05:02.347
+poner un signo negativo aqui al frente
+
+00:05:02.347 --> 00:05:04.400
+para tener una version negativa de este termino
+
+00:05:04.400 --> 00:05:04.900
+justo aqui
+
+00:05:04.900 --> 00:05:06.200
+mas este termino de aqui
+
+00:05:06.200 --> 00:05:09.200
+mas una version negativa de este termino
+
+00:05:09.200 --> 00:05:11.067
+justo aqui
+
+00:05:11.067 --> 00:05:14.667
+y sin(x) se ve justo como
+
+00:05:14.667 --> 00:05:19.019
+este termino mas una version negativa
+
+00:05:19.019 --> 00:05:21.527
+de este termino
+
+00:05:21.527 --> 00:05:23.533
+mas este termino
+
+00:05:23.533 --> 00:05:24.600
+mas una version negativa de el proximo termino
+
+00:05:25.172 --> 00:05:27.200
+asi que si de alguna manera pudieramos reconciliar los
+
+00:05:27.200 --> 00:05:30.067
+negativos en una manera interesante
+
+00:05:30.067 --> 00:05:31.800
+se veria como e^x.
+
+00:05:31.800 --> 00:05:34.867
+Al menos la respresentacion polinominal
+
+00:05:34.867 --> 00:05:36.271
+de e^x
+
+00:05:36.271 --> 00:05:39.336
+esta de alguna manera relacionado a una combinacion
+
+00:05:39.336 --> 00:05:41.533
+de la representacion de polinomios
+
+00:05:41.533 --> 00:05:43.423
+de cos(x) y sin(x)
+
+00:05:43.423 --> 00:05:44.467
+Esto se esta empezando a poner
+
+00:05:44.467 --> 00:05:46.200
+muy muy muy chevere
+
+00:05:46.200 --> 00:05:47.400
+estamos empezando a ver una conexion
+
+00:05:47.400 --> 00:05:48.764
+entre algo relacionado a
+
+00:05:48.764 --> 00:05:50.180
+intereses compuestos
+
+00:05:50.180 --> 00:05:52.400
+o una funcion cuya derivada
+
+00:05:52.400 --> 00:05:53.802
+siempre es igual a esa funcion
+
+00:05:53.802 --> 00:05:55.544
+y estas cosas que salen del circulo unitario
+
+00:05:55.544 --> 00:05:57.680
+y movimiento oscilatorio y todo tipo de cosas
+
+00:05:57.680 --> 00:06:00.267
+que empiezan a tener una conexion pura
+
+00:06:00.267 --> 00:06:01.867
+ahi. Pero los dejo
+
+00:06:01.867 --> 00:06:03.276
+ahi en ese video y en el proximo video
+
+00:06:03.276 --> 00:06:07.333
+les mostrare como reconciliar estas tres
+
+00:06:07.333 --> 99:59:59.999
+funciones fascinantes.

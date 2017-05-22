@@ -1,0 +1,513 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.680 --> 00:00:05.420
+En el último video, nos mostró que la transformada de Laplace
+
+00:00:05.420 --> 00:00:15.150
+prime f de t es igual a veces s la transformada de Laplace de
+
+00:00:15.150 --> 00:00:21.160
+nuestra función f menos f de 0.
+
+00:00:21.160 --> 00:00:23.640
+Ahora, qué vamos a hacer aquí es realmente usar este
+
+00:00:23.640 --> 00:00:25.430
+propiedad que mostramos es true.
+
+00:00:25.430 --> 00:00:29.630
+Y utilizarla para llenar más de las entradas en nuestro
+
+00:00:29.630 --> 00:00:33.080
+Mesa, que probablemente tendrá que transformada de Laplace
+
+00:00:33.080 --> 00:00:35.455
+memorizar, tarde o temprano, si usas Laplace
+
+00:00:35.455 --> 00:00:37.240
+transforma en mucho.
+
+00:00:37.240 --> 00:00:44.620
+Pero ya aprendimos que el Laplace transformar de seno
+
+00:00:44.620 --> 00:00:49.520
+de t es igual--y la hicimos una integración muy peluda
+
+00:00:49.520 --> 00:00:53.765
+piezas de problemas para mostrar que es igual a una s
+
+00:00:53.765 --> 00:00:58.840
+squared plus un cuadrado.
+
+00:00:58.840 --> 00:01:02.500
+Así que vamos a utilizar estas dos cosas que conocemos para averiguar lo que el
+
+00:01:02.500 --> 00:01:07.470
+Transformada de Laplace de coseno de t es.
+
+00:01:07.470 --> 00:01:14.642
+Por lo que la transformada de Laplace de coseno de un
+
+00:01:14.642 --> 00:01:18.140
+¿t es igual a qué?
+
+00:01:18.140 --> 00:01:21.960
+Bueno, si asumimos que la Laplace transformar de coseno de
+
+00:01:21.960 --> 00:01:26.060
+t es la derivada de alguna función, ¿qué es la
+
+00:01:26.060 --> 00:01:27.170
+¿derivado de?
+
+00:01:27.170 --> 00:01:27.670
+¿Verdad?
+
+00:01:27.670 --> 00:01:30.180
+Permítanme hacerlo del lado.
+
+00:01:30.180 --> 00:01:37.950
+Si f de t es igual al coseno de t, lo que es un
+
+00:01:37.950 --> 00:01:39.200
+¿f potencial de t?
+
+00:01:42.670 --> 00:01:44.020
+Bueno, es la primitiva.
+
+00:01:44.020 --> 00:01:46.240
+Y sólo podemos olvidar acerca de la constante, porque nosotros sólo
+
+00:01:46.240 --> 00:01:49.880
+tienen que saber nf de t para que esto es cierto.
+
+00:01:49.880 --> 00:01:51.720
+¿Qué es el coseno antiderivative del mismo?
+
+00:01:51.720 --> 00:01:59.660
+Es 1/a sinusoidal de t.
+
+00:01:59.660 --> 00:02:00.220
+¿Verdad?
+
+00:02:00.220 --> 00:02:09.630
+Así que si esto es primo de f de t, entonces es igual a veces s
+
+00:02:09.630 --> 00:02:20.620
+la transformada de Laplace de su seno antiderivative, o 1/a de
+
+00:02:20.620 --> 00:02:25.830
+a t menos la primitiva evaluada en 0.
+
+00:02:25.830 --> 00:02:31.140
+Menos 1/un seno de--bien, a veces 0 es 0.
+
+00:02:31.140 --> 00:02:32.310
+Bueno, seno de 0 es 0.
+
+00:02:32.310 --> 00:02:33.725
+Por lo tanto, este término todo desaparece.
+
+00:02:36.540 --> 00:02:37.510
+¿Esto es una constante, correcto?
+
+00:02:37.510 --> 00:02:38.060
+Este 1/a.
+
+00:02:38.060 --> 00:02:39.385
+Y nos mostró que el Laplace
+
+00:02:39.385 --> 00:02:41.300
+la transformación es un operador lineal.
+
+00:02:41.300 --> 00:02:42.320
+Así que podemos tomarlo.
+
+00:02:42.320 --> 00:02:48.490
+Así que esto es igual a s / a veces de la Laplace
+
+00:02:48.490 --> 00:02:52.290
+del seno de una t.
+
+00:02:52.290 --> 00:02:56.975
+Y que es igual a s / a veces una f
+
+00:02:56.975 --> 00:02:59.910
+squared plus un cuadrado.
+
+00:02:59.910 --> 00:03:01.280
+Y la una de la cancelan.
+
+00:03:01.280 --> 00:03:05.520
+Y que era mucho más simple que la integración por partes nos
+
+00:03:05.520 --> 00:03:07.050
+había que hacer para averiguar esto.
+
+00:03:07.050 --> 00:03:13.500
+Entonces obtenemos la transformada de coseno de Laplace
+
+00:03:13.500 --> 00:03:21.180
+t es igual a s sobre s squared plus un cuadrado.
+
+00:03:21.180 --> 00:03:24.630
+Y en tres minutos, nos llena de otra tabla en nuestro
+
+00:03:24.630 --> 00:03:26.570
+Tabla de transformada de Laplace.
+
+00:03:26.570 --> 00:03:30.190
+Y ahora tenemos las dos funciones más importantes de trig.
+
+00:03:30.190 --> 00:03:31.260
+Vamos a seguir adelante.
+
+00:03:31.260 --> 00:03:34.710
+Realmente no hemos hecho mucho con polinomios.
+
+00:03:34.710 --> 00:03:35.960
+Sabemos que un par de cosas.
+
+00:03:41.180 --> 00:03:42.060
+Ya lo hicimos.
+
+00:03:42.060 --> 00:03:43.500
+Sabemos que de la Laplace de
+
+00:03:43.500 --> 00:03:46.420
+1 es igual a 1/s.
+
+00:03:46.420 --> 00:03:49.600
+Así que vamos a ver si podríamos utilizar esto y el hecho de que la
+
+00:03:49.600 --> 00:03:55.750
+Transformada de Laplace de prime f es igual a veces s la
+
+00:03:55.750 --> 00:04:04.680
+Transformada de Laplace de f menos f de 0.
+
+00:04:04.680 --> 00:04:05.470
+U otra forma.
+
+00:04:05.470 --> 00:04:07.550
+Vamos a organizar esto.
+
+00:04:07.550 --> 00:04:09.860
+Si sabemos f, ¿cómo podemos nosotros averiguar algunos Laplace
+
+00:04:09.860 --> 00:04:12.240
+¿transformaciones en términos de prime f y f 0?
+
+00:04:12.240 --> 00:04:14.460
+Así que vamos a reorganizar sólo esta ecuación.
+
+00:04:14.460 --> 00:04:18.779
+Así obtenemos la transformada de Laplace de prime f.
+
+00:04:18.779 --> 00:04:22.050
+Podría escribir de t, pero que obtiene monótona.
+
+00:04:22.050 --> 00:04:26.850
+Plus f 0 es igual a s veces el Laplace
+
+00:04:26.850 --> 00:04:30.230
+transformación de f.
+
+00:04:30.230 --> 00:04:31.820
+Dividir ambos lados por s.
+
+00:04:31.820 --> 00:04:34.800
+Permítanme poner la transformada de Laplace de--y también me
+
+00:04:34.800 --> 00:04:35.660
+van a los lados.
+
+00:04:35.660 --> 00:04:39.020
+Así que supongo que la transformada de Laplace--mi
+
+00:04:39.020 --> 00:04:40.270
+l's obtienen funky.
+
+00:04:40.270 --> 00:04:47.310
+La transformada de Laplace de f es igual a 1/s.
+
+00:04:47.310 --> 00:04:50.690
+Sólo estoy dividiendo ambos lados por s, 1/s veces esto.
+
+00:04:50.690 --> 00:04:59.270
+Tiempos de la transformada de Laplace de mi derivado más mi función
+
+00:04:59.270 --> 00:05:02.830
+evaluado en 0.
+
+00:05:02.830 --> 00:05:06.310
+Y vamos a ver si podemos utilizar esto y esto para averiguar
+
+00:05:06.310 --> 00:05:09.180
+algunos más útil de Laplace.
+
+00:05:09.180 --> 00:05:17.106
+Bien, ¿cuál es la transformada de Laplace de f de
+
+00:05:17.106 --> 00:05:18.370
+¿t es igual a t?
+
+00:05:23.390 --> 00:05:25.330
+Así, sólo utilizar esta propiedad.
+
+00:05:25.330 --> 00:05:29.980
+Esto va a ser igual a 1/s veces el Laplace
+
+00:05:29.980 --> 00:05:31.250
+transformada de la derivada.
+
+00:05:31.250 --> 00:05:33.660
+Bien, ¿cuál es la derivada de t?
+
+00:05:33.660 --> 00:05:35.270
+La derivada de t es 1.
+
+00:05:35.270 --> 00:05:41.840
+Por eso es la transformada de Laplace de 1 menos f de 0.
+
+00:05:41.840 --> 00:05:43.540
+Cuando t es igual a 0, esto se convierte en 0.
+
+00:05:43.540 --> 00:05:45.450
+Menos 0.
+
+00:05:45.450 --> 00:05:51.600
+Así que la transformada de Laplace de t es igual a veces 1/s la
+
+00:05:51.600 --> 00:05:53.040
+Transformada de Laplace de 1.
+
+00:05:53.040 --> 00:05:53.840
+Bueno, eso es sólo 1/s.
+
+00:05:53.840 --> 00:05:58.530
+Así es 1 s al cuadrado menos 0.
+
+00:05:58.530 --> 00:05:59.350
+Interesante.
+
+00:05:59.350 --> 00:06:04.530
+La transformada de Laplace de 1 es 1/s, transformada de Laplace de t
+
+00:06:04.530 --> 00:06:05.840
+1/s al cuadrado.
+
+00:06:05.840 --> 00:06:08.260
+Vamos a averiguar qué la transformada de Laplace
+
+00:06:08.260 --> 00:06:09.200
+es de t al cuadrado.
+
+00:06:09.200 --> 00:06:11.340
+Y lo haré en verde.
+
+00:06:11.340 --> 00:06:13.830
+Y tal vez veremos un patrón emerge.
+
+00:06:13.830 --> 00:06:17.440
+La transformada de Laplace de t al cuadrado.
+
+00:06:17.440 --> 00:06:25.140
+Bueno, es igual a 1/s veces la transformada de Laplace de la
+
+00:06:25.140 --> 00:06:25.820
+derivado.
+
+00:06:25.820 --> 00:06:28.340
+¿Cuál es su derivado?
+
+00:06:28.340 --> 00:06:36.550
+Veces la transformada de Laplace de 2t plus esta evaluado en 0.
+
+00:06:36.550 --> 00:06:38.350
+Bien, eso de sólo 0.
+
+00:06:38.350 --> 00:06:40.660
+Así que esto es igual a--bien sólo podemos tomar
+
+00:06:40.660 --> 00:06:41.550
+Esta salida constante.
+
+00:06:41.550 --> 00:06:50.440
+Esto es igual a 2/s veces la transformada de Laplace de t.
+
+00:06:50.440 --> 00:06:53.380
+Bien, ¿qué significa?
+
+00:06:53.380 --> 00:06:54.300
+Sólo la solucionamos.
+
+00:06:54.300 --> 00:06:54.800
+1/s al cuadrado.
+
+00:06:54.800 --> 00:06:56.950
+Por lo que es a veces 2/s 1/s al cuadrado.
+
+00:06:56.950 --> 00:07:00.340
+Así que es igual a 2/s a la tercera.
+
+00:07:05.790 --> 00:07:07.040
+Fascinante.
+
+00:07:09.860 --> 00:07:11.940
+Bueno, me deja solo hacer t la tercera.
+
+00:07:11.940 --> 00:07:15.300
+Y creo que entonces verás el patrón.
+
+00:07:15.300 --> 00:07:17.000
+Surgirá el patrón.
+
+00:07:17.000 --> 00:07:20.000
+La transformada de Laplace.
+
+00:07:20.000 --> 00:07:22.120
+Y esto es realmente amable de diversión.
+
+00:07:22.120 --> 00:07:23.340
+Te recomiendo que lo hagas.
+
+00:07:23.340 --> 00:07:25.430
+De alguna manera es satisfactorio.
+
+00:07:25.430 --> 00:07:28.190
+Es mucho más satisfactorio de integración por partes.
+
+00:07:28.190 --> 00:07:32.090
+Por lo que la transformada de Laplace de t a la tercera es 1/s veces el
+
+00:07:32.090 --> 00:07:33.560
+De la transformada de Laplace
+
+00:07:33.560 --> 00:07:37.450
+derivados, que es 3t cuadrado.
+
+00:07:37.450 --> 00:07:39.900
+Que es: sacar la constante porque
+
+00:07:39.900 --> 00:07:40.830
+es un operador lineal.
+
+00:07:40.830 --> 00:07:48.270
+3/s veces la transformada de Laplace de t al cuadrado.
+
+00:07:48.270 --> 00:07:49.200
+¿Por lo que es igual a qué?
+
+00:07:49.200 --> 00:07:50.680
+¿Lo la Laplace de t al cuadrado?
+
+00:07:50.680 --> 00:07:52.380
+Es 2/s a la tercera.
+
+00:07:52.380 --> 00:07:58.470
+¿Así que esto equivale a 3 veces 2 sobre qué? s para el cuarto.
+
+00:07:58.470 --> 00:08:02.510
+Y puede poner aquí un t/n y utilizar un argumento inductivo
+
+00:08:02.510 --> 00:08:04.060
+averiguar un general fórmula.
+
+00:08:04.060 --> 00:08:06.130
+Y que es la fórmula general--creo que
+
+00:08:06.130 --> 00:08:07.490
+ver el patrón aquí.
+
+00:08:07.490 --> 00:08:11.750
+Cualquiera que sea mi exponente, la transformada de Laplace tiene una s en
+
+00:08:11.750 --> 00:08:14.420
+el denominador con un exponente mayor.
+
+00:08:14.420 --> 00:08:18.280
+Y, a continuación, el numerador es el factorial de mi exponente.
+
+00:08:18.280 --> 00:08:21.760
+Por lo que en general y esto es una entrada más en nuestro Laplace
+
+00:08:21.760 --> 00:08:24.380
+tabla de transformación.
+
+00:08:24.380 --> 00:08:35.059
+La transformada de Laplace de t a la enésima potencia es igual a n
+
+00:08:35.059 --> 00:08:42.674
+factorial sobre s a n + 1.
+
+00:08:47.450 --> 00:08:48.360
+Es un paréntesis.
+
+00:08:48.360 --> 00:08:49.520
+Supongo que no tengo que escribir los paréntesis.
+
+00:08:49.520 --> 00:08:50.800
+Eso sólo lo confunde.
+
+00:08:50.800 --> 00:08:55.270
+Pero de todos modos, cuando vea esto en una tabla de transformada de Laplace,
+
+00:08:55.270 --> 00:08:56.250
+parece intimidante.
+
+00:08:56.250 --> 00:08:59.150
+Oh boy, tengo eñes y tengo n factoriales y todo eso.
+
+00:08:59.150 --> 00:09:02.440
+Pero justo es decir con este patrón nos mostraron, t para el
+
+00:09:02.440 --> 00:09:06.300
+en tercer lugar aumentarlo por 1, s así el cuarto, poner otro
+
+00:09:06.300 --> 00:09:08.640
+denominador y tomar tres factorial en el numerador,
+
+00:09:08.640 --> 00:09:10.200
+¿que es 6, derecha?
+
+00:09:10.200 --> 00:09:11.440
+Y eso es todo lo que es.
+
+00:09:11.440 --> 00:09:16.130
+Utilizando la propiedad derivada de Laplace transformar,
+
+00:09:16.130 --> 00:09:22.240
+hemos averiguado la transformada de Laplace de coseno de t y
+
+00:09:22.240 --> 00:09:26.610
+¿la transformada de Laplace de realmente cualquier polinomio, derecho?
+
+00:09:26.610 --> 00:09:27.410
+Porque es un operador lineal.
+
+00:09:27.410 --> 00:09:29.960
+Así que ahora sabemos t a la enésima potencia, t a
+
+00:09:29.960 --> 00:09:30.860
+cualquier potencia.
+
+00:09:30.860 --> 00:09:32.690
+Y nosotros podemos multiplicar por una constante.
+
+00:09:32.690 --> 00:09:34.170
+Por lo que sabemos las funciones básicas de trig.
+
+00:09:34.170 --> 00:09:35.610
+Sabemos que la función exponencial.
+
+00:09:35.610 --> 00:09:41.740
+Y sabemos cómo tomar la transformada de Laplace
+
+00:09:41.740 --> 00:09:42.680
+polinomios.
+
+00:09:42.680 --> 00:09:43.930
+Nos vemos en el siguiente vídeo.

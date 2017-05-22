@@ -1,0 +1,588 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.730
+El último video fue una introducción a... bueno,
+
+00:00:00.730 --> 00:00:04.290
+en realidad ya hemos empezado con variable aleatoria
+
+00:00:04.290 --> 00:00:05.773
+y luego vimos los dos tipos de variables aleatorias
+
+00:00:05.773 --> 00:00:09.040
+La variable aleatoria discreta, que puede adoptar una cantidad finita de valores,
+
+00:00:09.040 --> 00:00:13.950
+y de entre esos valores, les iba a decir que tienden a ser
+
+00:00:13.950 --> 00:00:16.480
+enteros, pero en realidad no tienen que siempre enteros.
+
+00:00:16.480 --> 00:00:18.420
+La variable aleatoria discreta finita, no puede tener
+
+00:00:18.420 --> 00:00:22.880
+una infinita cantidad de valores de la variable aleatoria.
+
+00:00:22.880 --> 00:00:25.800
+Luego está la variable aleatoria contínua, la que puede tomar
+
+00:00:25.800 --> 00:00:29.540
+infinitos valores posibles.
+
+00:00:29.540 --> 00:00:34.330
+Y el ejemplo dado para variable aleatoria contínua, digamos
+
+00:00:34.330 --> 00:00:36.370
+que la variable aleatoria x,
+
+00:00:36.370 --> 00:00:37.635
+Y la gente tiende a usar--- déjenme cambiarlo sólo un poco,
+
+00:00:37.635 --> 00:00:40.410
+así ahora pueden ver algo distinto a la x.
+
+00:00:40.410 --> 00:00:43.340
+Hagamos que la variable aleatoria sea Y.
+
+00:00:43.340 --> 00:00:45.250
+Tienden a ser mayúsculas.
+
+00:00:45.250 --> 00:00:48.180
+Es igual a la cantidad exacta de precipitaciones de mañana.
+
+00:00:48.180 --> 00:01:01.700
+Y digo precipitaciones porque estoy en el norte de California.
+
+00:01:01.700 --> 00:01:04.320
+Es en realidad lluvia bastante torrencial en este momento.
+
+00:01:04.320 --> 00:01:06.960
+Nos hace falta ahora, lo que hace a la lluvia positiva.
+
+00:01:06.960 --> 00:01:10.070
+Hemos tenido sequía, por lo que es algo bueno.
+
+00:01:10.070 --> 00:01:11.720
+Pero la cantidad exacta de precipitaciones de mañana.
+
+00:01:11.720 --> 00:01:15.150
+Y digamos que no sé cuál es la verdadera función de
+
+00:01:15.150 --> 00:01:19.370
+distribución de probabilidad para esto, pero dibujare una y
+
+00:01:19.370 --> 00:01:22.480
+la interpretaremos.
+
+00:01:22.480 --> 00:01:23.270
+Sólo así se puede dilucidar la manera de pensar
+
+00:01:23.270 --> 00:01:29.210
+las variables aleatorias contínuas.
+
+00:01:29.210 --> 00:01:30.460
+Dibujemos una distribución de probabilidad, o lo que
+
+00:01:30.460 --> 00:01:33.465
+es llamado su función de densidad de probabilidad.
+
+00:01:33.465 --> 00:01:37.520
+Y dibujemos así.
+
+00:01:37.520 --> 00:01:40.940
+Y digamos que se ve algo así como esto.
+
+00:01:49.273 --> 00:01:53.750
+Como eso.
+
+00:01:53.750 --> 00:01:55.740
+Bien, y entonces no sé cuál es la altura.
+
+00:01:55.740 --> 00:02:00.170
+Entonces el eje x es la cantidad de precipitaciones.
+
+00:02:00.170 --> 00:02:03.680
+En donde esto es 0 pulgadas, esto otro 1 pulgada, y esto otro 2 pulgadas.
+
+00:02:03.680 --> 00:02:09.740
+esto es 3 pulgadas, 4 pulgadas,
+
+00:02:09.740 --> 00:02:13.400
+Y entonces esto es una altura.
+
+00:02:13.400 --> 00:02:14.800
+Digamos que hace pico en... no sé.
+
+00:02:14.800 --> 00:02:18.665
+digamos los 0,5
+
+00:02:22.540 --> 00:02:25.690
+Entonces la manera de pensar sobre esto, si uds tuvieran que mirarlo y
+
+00:02:25.690 --> 00:02:28.000
+Si yo tuviera que preguntarles, ¿cuál es la probabilidad de que Y ... porque
+
+00:02:28.000 --> 00:02:35.650
+esa es nuestra variable aleatoria -- la Y
+
+00:02:35.650 --> 00:02:40.090
+sea exactamente igual a 2 pulgadas?
+
+00:02:40.090 --> 00:02:42.040
+La Y es exactamente igual a 2 pulgadas.
+
+00:02:42.040 --> 00:02:46.130
+¿Cuál es la probabilidad de que ello ocurra?
+
+00:02:46.130 --> 00:02:47.810
+Bien, basados en cómo pensamos sobre funciones
+
+00:02:47.810 --> 00:02:50.920
+de distribución de probabilidad de variables aleatorias discretas,
+
+00:02:50.920 --> 00:02:53.870
+uds dirían: "Ok, veamos"
+
+00:02:53.870 --> 00:02:55.150
+2 pulgadas, es el caso que nos ocupa ahora mismo.
+
+00:02:55.150 --> 00:02:58.030
+Vayamos arriba.
+
+00:02:58.030 --> 00:03:00.390
+Uds dirían que se ve alrededor de 0,5.
+
+00:03:00.390 --> 00:03:01.920
+Y uds dirían, no lo sé, ¿será una chande de 0,5
+
+00:03:01.920 --> 00:03:06.070
+Y yo diría que no, que no es una chance de 0,5.
+
+00:03:06.070 --> 00:03:08.650
+Y antes de siquiera pensar sobre c´ñomo interpretarlo
+
+00:03:08.650 --> 00:03:10.800
+visualmente, pensemos sobre esto lógicamente.
+
+00:03:10.800 --> 00:03:13.320
+¿Cuál es la probabilidad de que mañana llueva exactamente
+
+00:03:13.320 --> 00:03:16.070
+2 pulgadas de precipitaciones?
+
+00:03:16.070 --> 00:03:17.450
+No de 2,01 pulgadas, tampoco de 1,99 pulgadas.
+
+00:03:17.450 --> 00:03:23.660
+No 1,99999 pulgadas de lluvia, ni 2,000001 pulgadas.
+
+00:03:23.660 --> 00:03:32.910
+Exactamente 2 pulgadas de lluvias.
+
+00:03:32.910 --> 00:03:35.870
+Quiero decir, ni un simple átomo ni molécula extra de agua,
+
+00:03:35.870 --> 00:03:40.740
+por encima de la marca de 2 pulgadas.
+
+00:03:40.740 --> 00:03:42.240
+Y ni una sola molécula de agua por debajo de la marca de 2 pulgadas.
+
+00:03:42.240 --> 00:03:47.990
+Esto es esencialmente cero, ¿verdad?
+
+00:03:47.990 --> 00:03:50.180
+Podría no ser obvio para uds, porque probablemente habrán escuchado
+
+00:03:50.180 --> 00:03:52.310
+"Oh, tuvimos 2 pulgadas de precipitaciones anoche."
+
+00:03:52.310 --> 00:03:54.210
+Pero piensen acerca de eso, exactamente 2 pulgadas, ¿no?
+
+00:03:54.210 --> 00:03:56.810
+Normalmente, si es 2,01, la gente diría que es 2.
+
+00:03:56.810 --> 00:03:59.300
+Pero estamos diciendo no, eso no cuenta.
+
+00:03:59.300 --> 00:04:01.780
+No puede ser 2 pulgadas.
+
+00:04:01.780 --> 00:04:02.700
+Queremos exactamente 2 pulgadas.
+
+00:04:02.700 --> 00:04:03.660
+1,99 no se tiene en cuenta.
+
+00:04:03.660 --> 00:04:05.660
+Normamente, en mediciones, ni siquiera tenemos herramientas que
+
+00:04:05.660 --> 00:04:08.580
+puedan decirnos si es exactamente 2 pulgadas.
+
+00:04:08.580 --> 00:04:11.920
+Tampoco una regla que podamos decir tenga exactamente 2 pulgadas de longitud.
+
+00:04:11.920 --> 00:04:15.700
+En algún punto, por la manera en que fabricamos las cosas,
+
+00:04:15.700 --> 00:04:18.690
+habrá un átomo extra aquí o allá.
+
+00:04:18.690 --> 00:04:21.250
+Por lo que las probabllidades de que virtualmente cualquier cosa sea exactamente igual
+
+00:04:21.250 --> 00:04:23.970
+una cierta cantidad medida hasta los infinitos decimales
+
+00:04:23.970 --> 00:04:26.810
+es realmente cero.
+
+00:04:26.810 --> 00:04:29.180
+La manera en que uds pensarían acerca de una variable aleatoria contínua,
+
+00:04:29.180 --> 00:04:32.060
+es decir, ¿cuál es la probabilidad de que Y sea "casi" 2?
+
+00:04:32.060 --> 00:04:39.350
+Por eso si decimos que el valor absoluto de Y menos 2 es
+
+00:04:39.350 --> 00:04:46.600
+menos que alguna tolerancia?
+
+00:04:46.600 --> 00:04:48.280
+es menor que 0,1
+
+00:04:50.425 --> 00:04:53.620
+Y si eso no tiene sentido para uds, entonces esto está
+
+00:04:53.620 --> 00:04:55.540
+esencialmente diciendo cuál es la probabilidad de que Y sea mayor
+
+00:04:55.540 --> 00:04:59.720
+que 1,9 y menor que 2,1?
+
+00:04:59.720 --> 00:05:07.600
+Estas dos sentencias son equivalentes
+
+00:05:07.600 --> 00:05:09.550
+Les dejaré pensar sobre esto un poco.
+
+00:05:09.550 --> 00:05:11.240
+Pero ahora esto empieza a tener un poco de sentido.
+
+00:05:11.240 --> 00:05:12.930
+Ahora tenemos aquí, un intervalo.
+
+00:05:12.930 --> 00:05:14.580
+Y queremos todas las Y entre 1,9 y 2,1.
+
+00:05:14.580 --> 00:05:19.030
+Por eso estamos ahora hablando de toda esta área.
+
+00:05:19.030 --> 00:05:24.260
+Y el área es la clave.
+
+00:05:24.260 --> 00:05:25.520
+Por eso, si uds quisierasn saber la probabilidad de que esto ocurra,
+
+00:05:25.520 --> 00:05:28.760
+lo que uds desean es el área bajo esta curva desde este
+
+00:05:28.760 --> 00:05:33.100
+punto hasta este punto.
+
+00:05:33.100 --> 00:05:34.860
+Y para aquellos que han estudiado análisis matemático,
+
+00:05:34.860 --> 00:05:38.030
+eso sería esencialmente la integral definida de esta
+
+00:05:38.030 --> 00:05:40.840
+función de densidad de proabilidad desde este punto hasta este punto.
+
+00:05:40.840 --> 00:05:45.840
+Entoces desde --- a ver, se me acabó el espacio abajo.
+
+00:05:45.840 --> 00:05:48.470
+Digamos que si este gráfico -- dibujémoslo
+
+00:05:48.470 --> 00:05:50.620
+en un color diferente.
+
+00:05:50.620 --> 00:05:52.480
+Si esta línea fuera definida por, lo llamaré x.
+
+00:05:52.480 --> 00:06:00.650
+Podría llamarla p(x) o algo así
+
+00:06:00.650 --> 00:06:02.690
+La probabilidad de que esto ocurra sería igual a
+
+00:06:02.690 --> 00:06:07.320
+la integral, para aquellos que han estudiado análisis matemático,
+
+00:06:07.320 --> 00:06:10.100
+desde 1,9 hasta 2,1 de f(x) dx
+
+00:06:10.100 --> 00:06:15.490
+Asumiendo que este es el eje x.
+
+00:06:15.490 --> 00:06:18.400
+Es algo muy importante de darse cuenta.
+
+00:06:18.400 --> 00:06:21.220
+Porque cuando una variable aleatoria puede tomar una cantidad infinita de valores
+
+00:06:21.220 --> 00:06:25.650
+O si puede tomar cualquier valor dentro de un intervalo,
+
+00:06:25.650 --> 00:06:29.820
+para obtener un valor exacto, por ejemplo 1,999, la
+
+00:06:29.820 --> 00:06:34.500
+probabilidad es en realidad cero.
+
+00:06:34.500 --> 00:06:35.950
+Es como preguntar a uds cuál es el área bajo
+
+00:06:35.950 --> 00:06:38.370
+una curva en exactamente esta línea.
+
+00:06:38.370 --> 00:06:40.820
+O aún algo más específico, es como preguntar
+
+00:06:40.820 --> 00:06:42.820
+¿cuál es el área de la línea?
+
+00:06:42.820 --> 00:06:45.890
+Y el área de una línea, si dibujamos sólo eso,
+
+00:06:45.890 --> 00:06:48.445
+diríamos que el área es base x altura,
+
+00:06:48.445 --> 00:06:50.960
+Y entonces la altura tiene alguna dimensión, pero la base,
+
+00:06:50.960 --> 00:06:53.440
+¿cuál es la anchura de una línea?
+
+00:06:53.440 --> 00:06:55.950
+De la manera en que hemos definido unalínea, esta no tiene anchura.
+
+00:06:55.950 --> 00:06:59.190
+y por lo tanto no tiene área.
+
+00:06:59.190 --> 00:07:00.620
+Y debería ser intuitivo que
+
+00:07:00.620 --> 00:07:02.460
+la probabilidad de que ocurra alguna cosa super exacta
+
+00:07:02.460 --> 00:07:06.850
+es completamente cero.
+
+00:07:06.850 --> 00:07:08.720
+Lo que uds en realidad tendrían que decir, es ok, ¿cuál es la probabilidad
+
+00:07:08.720 --> 00:07:10.360
+de que llegar a estar cerca del 2?
+
+00:07:10.360 --> 00:07:12.020
+Y asi uds podrán definir un área.
+
+00:07:12.020 --> 00:07:14.070
+Y si uds dicen "oh, ¿cuál es la probabilidad de obtener
+
+00:07:14.070 --> 00:07:16.260
+algo entre 1 y 3 pulgadas de precipitaciones, entonces por supuesto
+
+00:07:16.260 --> 00:07:18.450
+la probabilidad de mucho mayor
+
+00:07:18.450 --> 00:07:20.355
+La probabilidad es mucho mayor.
+
+00:07:20.355 --> 00:07:21.940
+Sería todo este tipo de cosas.
+
+00:07:21.940 --> 00:07:25.620
+Uds pueden incluso decir, ¿cuál es la probabilidad de
+
+00:07:25.620 --> 00:07:27.710
+obtener menos que 0,1 de precipitaciones?
+
+00:07:27.710 --> 00:07:30.400
+En ese caso iríamos aquí y si esto era 0,1, entonces uds
+
+00:07:30.400 --> 00:07:34.670
+calcularían esta área.
+
+00:07:34.670 --> 00:07:36.170
+Y podrían decir cuál es la probabilidad de tener más
+
+00:07:36.170 --> 00:07:38.590
+de 4 pulgadas de precipitaciones mañana?
+
+00:07:38.590 --> 00:07:40.730
+Entonces empezarían aquí y calcularían el área en
+
+00:07:40.730 --> 00:07:43.450
+la curva, hasta el infinito, si la curva tiene área
+
+00:07:43.450 --> 00:07:46.125
+hasta el infinito.
+
+00:07:46.125 --> 00:07:46.870
+Y con suerte ese no es un valor infinito, ¿no?
+
+00:07:46.870 --> 00:07:49.590
+En ese caso esa probabilidad no tendría sentido.
+
+00:07:49.590 --> 00:07:51.530
+Pero con suerte, si uds toman esta suma, llegarán a algún valor.
+
+00:07:51.530 --> 00:07:54.020
+Y podremos decir que hay sólo un 10% de chance de que tener más
+
+00:07:54.020 --> 00:07:58.930
+de 4 pulgadas mañana.
+
+00:07:58.930 --> 00:08:00.200
+Y todo esto conduce inmediatamente a que se le prenda
+
+00:08:00.200 --> 00:08:04.365
+la lamparita, es que la probabilidad de todos los eventos
+
+00:08:04.365 --> 00:08:07.080
+que podrían ocurrir, nunca puede ser mayor al 100%.
+
+00:08:07.080 --> 00:08:10.750
+¿Verdad?
+
+00:08:10.750 --> 00:08:11.050
+Todos los eventos combinados -- tienen una probabilidad de 1 de
+
+00:08:11.050 --> 00:08:15.230
+que alguno de dichos eventos ocurrirá.
+
+00:08:15.230 --> 00:08:17.290
+Por eso, esencialmente, el área total bajo esta curva
+
+00:08:17.290 --> 00:08:20.910
+tiene que ser igual a 1.
+
+00:08:20.910 --> 00:08:22.800
+Entonces si tomamos la integral de f(x) dx desde 0 al infinito,
+
+00:08:22.800 --> 00:08:28.620
+en lo que así he dibujado al menos, debería ser igual a 1.
+
+00:08:28.620 --> 00:08:32.600
+Esto es para aquellos que han estudiado análisis matemático.
+
+00:08:32.600 --> 00:08:33.890
+Para aquellos que no lo han hecho, piensen a una integral
+
+00:08:33.890 --> 00:08:35.570
+sólo como el área bajo la curva.
+
+00:08:35.570 --> 00:08:36.490
+Y pueden ir viendo videos de análisis matemático si lo quieren aprender
+
+00:08:36.490 --> 00:08:39.080
+un poco más en profundidad.
+
+00:08:39.080 --> 00:08:41.850
+Esto también se aplica a las distribuciones de probabilidad
+
+00:08:41.850 --> 00:08:46.160
+discretas.
+
+00:08:46.160 --> 00:08:47.291
+Dibujemos una.
+
+00:08:47.291 --> 00:08:49.670
+La suma de todas las probabilidades
+
+00:08:49.670 --> 00:08:52.070
+debe ser igual a 1
+
+00:08:52.070 --> 00:08:53.590
+Y ese ejemplo con el dado -- o digamos, para
+
+00:08:53.590 --> 00:08:56.820
+dibujarlo más rápido, la moneda -- las dos probabilidades
+
+00:08:56.820 --> 00:09:01.800
+tienen que ser iguales a 1
+
+00:09:01.800 --> 00:09:02.850
+De ahí que es 1, 0, en donde x es igual a 1 si tenemos cara
+
+00:09:02.850 --> 00:09:11.060
+ó 0 si tenemos ceca.
+
+00:09:11.060 --> 00:09:13.400
+Cada uno de estos tiene que ser 0,5
+
+00:09:13.400 --> 00:09:15.610
+No tienen que ser 0,5, o sea si uno de los dos es 0,6
+
+00:09:15.610 --> 00:09:17.885
+entonces el otro tendría que ser 0,4
+
+00:09:17.885 --> 00:09:19.090
+Tienen que sumar 1
+
+00:09:19.090 --> 00:09:20.790
+Si uno de estos fuese --- uds no pueden tener un 60% de probabilidad de
+
+00:09:20.790 --> 00:09:24.190
+obtener cara y también un 60% de probabilidad de obtener ceca.
+
+00:09:24.190 --> 00:09:26.470
+al mismo tiempo,
+
+00:09:26.470 --> 00:09:27.280
+Porque en ese caso tendríamos esencialmetne un 120% de probabilidad.
+
+00:09:27.280 --> 00:09:31.080
+de obtener cualquiera de los resultados posibles, lo que
+
+00:09:31.080 --> 00:09:33.600
+no tiene ningún sentido.
+
+00:09:33.600 --> 00:09:35.060
+Por eso es importante darse cuenta que una función
+
+00:09:35.060 --> 00:09:37.330
+de distribución de probabilidad, en este caso (variable aleatoria discreta)
+
+00:09:37.330 --> 00:09:42.790
+todo sumado tiene que dar 1.
+
+00:09:42.790 --> 00:09:44.160
+Entonces 0,5 + 0,5
+
+00:09:44.160 --> 00:09:46.480
+Y en este caso el área bajo la función de densidad
+
+00:09:46.480 --> 00:09:48.990
+de probabilidad también tiene que ser 1
+
+00:09:48.990 --> 00:09:52.500
+Bueno!, esto es todo por ahora.
+
+00:09:52.500 --> 00:09:54.200
+En el próximo video presentaré la idea
+
+00:09:54.200 --> 00:09:57.520
+del valor esperado.
+
+00:09:57.520 --> 00:09:58.785
+Nos vemos.

@@ -1,0 +1,882 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.670 --> 00:00:03.450
+Hemos aprendido acerca de suma de matrices, resta de matrices,
+
+00:00:03.450 --> 00:00:04.560
+multiplicación de matrices
+
+00:00:04.560 --> 00:00:06.760
+así que posiblemente se estén preguntando si existe
+
+00:00:06.760 --> 00:00:09.150
+un equivalente a la division de matrices
+
+00:00:09.150 --> 00:00:11.460
+Y antes de entrar en materia permítanme presentarles
+
+00:00:11.460 --> 00:00:12.220
+algunos conceptos.
+
+00:00:12.220 --> 00:00:14.490
+Y después nos daremos cuenta de que no
+
+00:00:14.490 --> 00:00:16.440
+es exactamente una división pero es análoga a ella.
+
+00:00:16.440 --> 00:00:19.620
+así que antes de empezar con eso les voy a presentar
+
+00:00:19.620 --> 00:00:22.210
+el concepto de matriz identidad.
+
+00:00:22.210 --> 00:00:24.350
+Una matriz identidad es una matriz
+
+00:00:24.350 --> 00:00:28.840
+Y voy a anotarlo con "I" mayuscula
+
+00:00:28.840 --> 00:00:35.315
+Cuando la multiplico por otra matriz
+
+00:00:35.315 --> 00:00:36.960
+no se si debería escribir ese punto ahí pero sigamos
+
+00:00:36.960 --> 00:00:38.450
+cuando la multiplico otra matriz
+
+00:00:38.450 --> 00:00:40.040
+obtengo esta otra matriz
+
+00:00:40.040 --> 00:00:45.130
+O cuando multiplico esa matriz por la matriz identidad
+
+00:00:45.130 --> 00:00:47.230
+obtengo la matriz de nuevo
+
+00:00:47.230 --> 00:00:49.790
+Y es importante darse cuenta que cuando estamos
+
+00:00:49.790 --> 00:00:53.580
+multiplicando matrices la dirección si importa
+
+00:00:53.580 --> 00:00:56.810
+De hecho les he comentado aquí que
+
+00:00:56.810 --> 00:01:00.030
+no podemos asumir cuando estamos haciendo una multiplicación regular
+
+00:01:00.030 --> 00:01:02.290
+que a veces "b" es siempre igual a "b" por "a"
+
+00:01:02.290 --> 00:01:04.095
+Es importante confirmar que
+
+00:01:04.095 --> 00:01:08.040
+si importa la direccion en la cual
+
+00:01:08.040 --> 00:01:10.650
+estamos haciendo la multiplicacion.
+
+00:01:10.650 --> 00:01:15.350
+Y esto funciona en ambas direcciones solo si estamos
+
+00:01:15.350 --> 00:01:19.810
+tratando con matrices cuadradas
+
+00:01:19.810 --> 00:01:22.660
+Puede funcionar en una dirección o en la otra si esta matriz no es
+
+00:01:22.660 --> 00:01:24.080
+cuadrara, pero no funcionara en ambas.
+
+00:01:24.080 --> 00:01:26.670
+Y pueden pensar en eso solo en términos de como
+
+00:01:26.670 --> 00:01:28.910
+aprendimos multiplicación de matrices, por que es que eso sucede.
+
+00:01:28.910 --> 00:01:30.910
+en fin... He definido esta matriz
+
+00:01:30.910 --> 00:01:33.180
+Ahora como es que esta matriz se vé
+
+00:01:33.180 --> 00:01:35.280
+de hecho es muy simple
+
+00:01:35.280 --> 00:01:42.620
+Si tenemos una matriz 2x2 , la matriz identidad es 1, 0, 0, 1.
+
+00:01:42.620 --> 00:01:50.490
+Si quieren 3x3, es 1, 0, 0, 0, 1, 0, 0, 0, 1.
+
+00:01:50.490 --> 00:01:51.840
+Creo que pueden ver el patrón
+
+00:01:51.840 --> 00:01:58.140
+Si quieren una matriz 4x4 la matriz identidad es 1, 0, 0, 0
+
+00:01:58.140 --> 00:02:05.490
+0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.
+
+00:02:05.490 --> 00:02:08.220
+así que como pueden ver que cualquier matriz es de
+
+00:02:08.220 --> 00:02:11.390
+una dimensión dada, es decir podemos extender esto hasta una matriz "n" por "n"
+
+00:02:11.390 --> 00:02:14.680
+es que sólo tiene 1 a lo largo de esta parte superior izquierda hacia
+
+00:02:14.680 --> 00:02:15.390
+las diagonales derechas.
+
+00:02:15.390 --> 00:02:17.790
+Y todo lo demas es un "0"
+
+00:02:17.790 --> 00:02:18.510
+así que una vez aclarado ese punto
+
+00:02:18.510 --> 00:02:20.360
+probemos que de hecho funciona
+
+00:02:20.360 --> 00:02:23.270
+Tomemos esta matriz y multipliquémosla por
+
+00:02:23.270 --> 00:02:24.220
+otra matriz
+
+00:02:24.220 --> 00:02:26.150
+Y confirmemos que esa matriz no cambia
+
+00:02:26.150 --> 00:02:31.480
+así que si tomamos 1, 0, 0, 1.
+
+00:02:31.480 --> 00:02:34.600
+Multipliquémosla por --(hagamos una matriz general
+
+00:02:34.600 --> 00:02:36.490
+solo para que vean que funciona para todos los números)
+
+00:02:36.490 --> 00:02:38.670
+a, b, c, d.
+
+00:02:41.190 --> 00:02:42.440
+a cuanto equivale ?
+
+00:02:45.180 --> 00:02:47.970
+Vamos a multiplicar esta fila por esta columna
+
+00:02:47.970 --> 00:02:50.870
+"1" por "a" mas "0" por "c" es "a"
+
+00:02:50.870 --> 00:02:52.340
+Y esta fila por esta columna
+
+00:02:52.340 --> 00:02:54.590
+"1" por "b" mas "0" por "d"
+
+00:02:54.590 --> 00:02:56.450
+es "b"
+
+00:02:56.450 --> 00:02:58.370
+después esta fila por esta columna
+
+00:02:58.370 --> 00:03:01.850
+"0" por "a" mas "1" por "c" es "c".
+
+00:03:01.850 --> 00:03:04.420
+Y finalmente, esta fila por esta columna
+
+00:03:04.420 --> 00:03:07.470
+"0" por "b" mas "1" por "d"
+
+00:03:07.470 --> 00:03:09.140
+es simplemente "d"
+
+00:03:09.140 --> 00:03:10.400
+ahí lo tienen.
+
+00:03:10.400 --> 00:03:12.630
+Y de hecho podría ser un ejercicio divertido intentarlo
+
+00:03:12.630 --> 00:03:15.100
+a la inversa.
+
+00:03:15.100 --> 00:03:17.430
+Y de hecho es un ejercicio mejor aun intentarlo
+
+00:03:17.430 --> 00:03:18.740
+con una matriz 3x3
+
+00:03:18.740 --> 00:03:19.700
+y verán que todo funciona
+
+00:03:19.700 --> 00:03:23.520
+Y un buen ejercicio para ustedes seria pensar por que es que funciona
+
+00:03:23.520 --> 00:03:25.540
+y si piensan en ello es por que están obteniendo
+
+00:03:25.540 --> 00:03:27.420
+la información de la columna aquí y la información
+
+00:03:27.420 --> 00:03:29.200
+de la columna de aqui.
+
+00:03:29.200 --> 00:03:31.860
+Y esencialmente cualquier ves que esten multiplicando, digamos
+
+00:03:31.860 --> 00:03:37.220
+este vector por este vector están multiplicando
+
+00:03:37.220 --> 00:03:39.940
+los términos correspondientes y después sumándolos verdad ?
+
+00:03:39.940 --> 00:03:42.370
+asi que si tienen un "1" y un "0", el "0 "va a cancelar
+
+00:03:42.370 --> 00:03:44.890
+cualquier cosa menos el primer termino en este vector de columna.
+
+00:03:44.890 --> 00:03:46.630
+es por eso que simplemente les queda "a"
+
+00:03:46.630 --> 00:03:48.380
+y es por que que vamos a cancelar todo menos
+
+00:03:48.380 --> 00:03:49.470
+el primer termino en este vector de columna.
+
+00:03:49.470 --> 00:03:51.190
+y es por eso que todo lo que les queda es "b"
+
+00:03:51.190 --> 00:03:53.220
+y de manera similar, esto cancelara todo menos
+
+00:03:53.220 --> 00:03:54.020
+el segundo termino
+
+00:03:54.020 --> 00:03:56.250
+es por eso que solo queda "c"
+
+00:03:56.250 --> 00:03:56.960
+esto por esto
+
+00:03:56.960 --> 00:03:58.270
+nada mas queda "c"
+
+00:03:58.270 --> 00:03:58.830
+esto por esto
+
+00:03:58.830 --> 00:04:00.010
+simplemente queda "d"
+
+00:04:00.010 --> 00:04:01.690
+y lo mismo aplica cuando multiplicamos
+
+00:04:01.690 --> 00:04:06.030
+vectores 3x3 o nxn
+
+00:04:06.030 --> 00:04:06.900
+interesante verdad ?
+
+00:04:06.900 --> 00:04:08.740
+tenemos el vector identidad
+
+00:04:08.740 --> 00:04:11.860
+y si quisiéramos completar nuestra analogía
+
+00:04:11.860 --> 00:04:12.440
+pensemos en ello
+
+00:04:12.440 --> 00:04:15.230
+sabemos que en matematicas regulares si tenemos
+
+00:04:15.230 --> 00:04:17.750
+"1" por "a" obtenemos "a"
+
+00:04:17.750 --> 00:04:23.680
+y también sabemos que "1" sobre "a" por "a" -- (y esto es simplemente
+
+00:04:23.680 --> 00:04:28.160
+matemáticas regulares, no tiene nada que ver con matrices) -- es igual a "1"
+
+00:04:28.160 --> 00:04:30.060
+Y sabemos que llamamos a esto el inverso de "a"
+
+00:04:30.060 --> 00:04:33.800
+Y es lo mismo que dividirlo por el numero "a"
+
+00:04:33.800 --> 00:04:36.800
+así que, ¿hay una matriz análoga?
+
+00:04:36.800 --> 00:04:39.250
+déjenme cambiar de color, por que he usado demasiado
+
+00:04:39.250 --> 00:04:39.860
+el verde
+
+00:04:39.860 --> 00:04:44.580
+Habrá una matriz donde si tuviera la matriz "a" y
+
+00:04:44.580 --> 00:04:48.600
+multiplicara esa matriz --(y llamare a esa la matriz inversa de a) --
+
+00:04:48.600 --> 00:04:51.650
+habrá una matriz con la cual me quedara no con el numero
+
+00:04:51.650 --> 00:04:54.140
+1 sino con el equivalente de 1
+
+00:04:54.140 --> 00:04:54.930
+en el mundo de las matrices ?
+
+00:04:54.930 --> 00:04:58.785
+En donde me quede la matriz identidad ?
+
+00:04:58.785 --> 00:05:01.190
+y seria extra cool si pudiera de hecho voltear
+
+00:05:01.190 --> 00:05:02.780
+esta multiplicación
+
+00:05:02.780 --> 00:05:07.910
+"a" por "a" inverso también debería ser igual a
+
+00:05:07.910 --> 00:05:08.745
+la matriz identidad.
+
+00:05:08.745 --> 00:05:12.170
+Y si piensan en ello, si estas dos cosas son ciertas
+
+00:05:12.170 --> 00:05:15.100
+entonces no simplemente "a" es inverso de "a" sino
+
+00:05:15.100 --> 00:05:17.210
+tambien "a" es tambien el inverso de "a" inverso
+
+00:05:17.210 --> 00:05:18.330
+son inversos de cada cual
+
+00:05:18.330 --> 00:05:20.520
+es lo que quise aclarar.
+
+00:05:20.520 --> 00:05:23.020
+y resulta que hay una matriz
+
+00:05:23.020 --> 00:05:25.020
+que es llamada inverso de "a"
+
+00:05:25.020 --> 00:05:26.580
+como lo he mencionado ya 3 veces
+
+00:05:26.580 --> 00:05:30.030
+Y ahora les mostrare como calcularlo
+
+00:05:30.030 --> 00:05:32.220
+así que hagámoslo !!
+
+00:05:32.220 --> 00:05:35.290
+Y veremos que calcular una matriz 2x2 es bastante
+
+00:05:35.290 --> 00:05:35.970
+sencillo.
+
+00:05:35.970 --> 00:05:40.010
+aunque podrían pensar que es un poco misterioso en cuanto a como
+
+00:05:40.010 --> 00:05:43.090
+la gente ideo la mecánica de ello, o el
+
+00:05:43.090 --> 00:05:44.540
+algoritmo para ello.
+
+00:05:44.540 --> 00:05:46.050
+3x3 les tomara algo de trabajo
+
+00:05:46.050 --> 00:05:47.480
+4x4 les tomara todo el día
+
+00:05:47.480 --> 00:05:51.790
+5x5 definitivamente van a cometer un error por descuido
+
+00:05:51.790 --> 00:05:54.310
+si han echo un inverso de una matriz 5x5
+
+00:05:54.310 --> 00:05:56.970
+es mejor dejárselo a una computadora
+
+00:05:56.970 --> 00:05:59.170
+pero en fin, ¿como calculamos la matriz?
+
+00:05:59.170 --> 00:06:01.160
+pues hagámoslo, y luego confirmaremos que realmente
+
+00:06:01.160 --> 00:06:02.660
+es el inverso.
+
+00:06:02.660 --> 00:06:14.250
+así que si tenemos una matriz "A" y esta se compone de a, b, c, d.
+
+00:06:14.250 --> 00:06:15.765
+y quiero calcular su inverso
+
+00:06:15.765 --> 00:06:17.915
+su inverso es de hecho --(y les parecerá
+
+00:06:17.915 --> 00:06:18.630
+como un truco de magia)--
+
+00:06:18.630 --> 00:06:21.480
+en videos futuros, les explicare un poco mas
+
+00:06:21.480 --> 00:06:23.690
+acerca de el por que esto funciona, o de hecho les mostrare como
+
+00:06:23.690 --> 00:06:24.890
+fue que resulto.
+
+00:06:24.890 --> 00:06:29.140
+pero por ahora es mejor memorizar los pasos
+
+00:06:29.140 --> 00:06:30.690
+para que tengan la confianza de que saben como hacerlo
+
+00:06:30.690 --> 00:06:32.210
+y poder calcular una matriz inversa
+
+00:06:32.210 --> 00:06:38.050
+es igual a "1" sobre este numero por este numero por este, "a" por "b"
+
+00:06:38.050 --> 00:06:40.820
+"-b" por "c"
+
+00:06:40.820 --> 00:06:44.410
+"ad" menos "bc"
+
+00:06:44.410 --> 00:06:50.970
+y a esta cantidad, "ad" menos "bc" se le llama el
+
+00:06:50.970 --> 00:06:53.980
+determinante de la matriz "A"
+
+00:06:53.980 --> 00:06:55.270
+y vamos a multiplicarlo
+
+00:06:55.270 --> 00:06:56.410
+esto es simplemente un numero
+
+00:06:56.410 --> 00:06:57.390
+es una cantidad escalar
+
+00:06:57.390 --> 00:07:00.660
+y vamos a multiplicar eso por
+
+00:07:00.660 --> 00:07:01.560
+--(cambian la "a" y la "d")
+
+00:07:01.560 --> 00:07:03.290
+cambian la de la esquina superior izquierda y la de la inferior derecha
+
+00:07:03.290 --> 00:07:06.640
+y les queda "d" y "a"
+
+00:07:06.640 --> 00:07:08.980
+y hacen a estos dos, el inferior izquierdo
+
+00:07:08.980 --> 00:07:10.910
+y superior derecho negativos
+
+00:07:10.910 --> 00:07:17.590
+entonces "-c" "-b"
+
+00:07:17.590 --> 00:07:19.700
+y el determinante -- (de nuevo, eso es algo
+
+00:07:19.700 --> 00:07:21.610
+en lo que van a tener que confiar por ahora) --
+
+00:07:21.610 --> 00:07:23.620
+en videos futuros, les prometo explicarles mas
+
+00:07:23.620 --> 00:07:25.500
+y es de hecho algo sofisticado aprender que es
+
+00:07:25.500 --> 00:07:26.230
+un determinante
+
+00:07:26.230 --> 00:07:29.060
+y si van a hacer esto en su clase de secundaria
+
+00:07:29.060 --> 00:07:30.270
+deben saber como calcularlo
+
+00:07:30.270 --> 00:07:32.410
+aunque no me gustar mencionarlo
+
+00:07:32.410 --> 00:07:33.700
+así que, ¿que es esto ?
+
+00:07:33.700 --> 00:07:35.810
+esto es también llamado el determinante de "A"
+
+00:07:35.810 --> 00:07:37.700
+posiblemente en un examen les pregunten calcular el
+
+00:07:37.700 --> 00:07:38.370
+determinante de "A"
+
+00:07:38.370 --> 00:07:40.120
+Déjenme decirles como
+
+00:07:40.120 --> 00:07:43.460
+y eso se anota con "A" entre signos de valor absoluto
+
+00:07:43.460 --> 00:07:47.660
+y eso equivale a "ad" menos "bc"
+
+00:07:47.660 --> 00:07:49.760
+y otra manera de decir esto podría ser "1" sobre
+
+00:07:49.760 --> 00:07:50.250
+el determinante
+
+00:07:50.250 --> 00:07:53.540
+así que podrían escribir inverso de "A" es igual a "1" sobre el
+
+00:07:53.540 --> 00:08:02.740
+determinante de "A" por "d" menos "b" menos "c", "a"
+
+00:08:02.740 --> 00:08:03.550
+como lo quieran ver.
+
+00:08:03.550 --> 00:08:05.810
+apliquemos eso a un problema real, se daran cuenta de que
+
+00:08:05.810 --> 00:08:08.100
+no es tan difícil.
+
+00:08:08.100 --> 00:08:12.700
+cambiemos las letras, nada mas para que sepan que no siempre
+
+00:08:12.700 --> 00:08:13.380
+tiene que ser "A"
+
+00:08:13.380 --> 00:08:15.526
+supongamos que tengo la matriz "B"
+
+00:08:15.526 --> 00:08:20.840
+y la matriz "B" es 3 (voy a elegir números al azar)
+
+00:08:20.840 --> 00:08:28.720
+"-4", "2","-5"
+
+00:08:28.720 --> 00:08:31.060
+calculemos inverso de "B"
+
+00:08:31.060 --> 00:08:34.770
+iinverso de "B" va a ser igual a "1" sobre
+
+00:08:34.770 --> 00:08:35.780
+el determinante de "B"
+
+00:08:35.780 --> 00:08:37.020
+que es el determinante ?
+
+00:08:37.020 --> 00:08:41.860
+es "3" por "-5" "-2"por "-4"
+
+00:08:41.860 --> 00:08:48.270
+"3" por "-5" es igual a "15" "-2" por "-4"
+
+00:08:48.270 --> 00:08:49.950
+"2" por "-4" es igual a "-8"
+
+00:08:49.950 --> 00:08:51.333
+vamos a restarlo
+
+00:08:51.333 --> 00:08:52.583
+asi que es "8" positivo
+
+00:08:55.640 --> 00:09:06.142
+y vamos a multiplicar eso por ?
+
+00:09:06.142 --> 00:09:11.130
+bueno, pues hemos cambiado estos dos teminos, entonces es "-5" y "3"
+
+00:09:11.130 --> 00:09:13.770
+y estos otros dos los hacemos negativos
+
+00:09:13.770 --> 00:09:16.770
+"-2" y "4"
+
+00:09:16.770 --> 00:09:19.110
+"4" era "-4" por lo tanto se vuelve "4"
+
+00:09:19.110 --> 00:09:20.980
+y veamos si podemos simplificar esto un poco
+
+00:09:20.980 --> 00:09:26.060
+inverso de "B" es igual a "-15" mas "8"
+
+00:09:26.060 --> 00:09:27.700
+es igual a "-7"
+
+00:09:27.700 --> 00:09:30.340
+entonces es "-1/7"
+
+00:09:30.340 --> 00:09:33.980
+por lo tanto el determinante de "B"
+
+00:09:33.980 --> 00:09:35.636
+es igual a "-7"
+
+00:09:35.636 --> 00:09:45.400
+entonces "-1/7" por "-5", "4", "-2", "3".
+
+00:09:45.400 --> 00:09:47.800
+lo cual equivale a -- esto es simplemente un valor escalar es simplemente
+
+00:09:47.800 --> 00:09:50.420
+un numero, así que lo multiplicamos por cada elemento.
+
+00:09:50.420 --> 00:09:53.420
+lo cual equivale a menos, menos, mas
+
+00:09:53.420 --> 00:09:56.210
+es "5/7"
+
+00:09:56.210 --> 00:10:00.650
+"5/7" menos "4/7"
+
+00:10:00.650 --> 00:10:01.710
+veamos
+
+00:10:01.710 --> 00:10:02.960
+"2/7" positivo
+
+00:10:05.540 --> 00:10:06.790
+y "-3/7"
+
+00:10:10.770 --> 00:10:11.500
+es un poco complicado
+
+00:10:11.500 --> 00:10:13.210
+terminamos con fracciones aquí
+
+00:10:13.210 --> 00:10:16.470
+pero confirmemos que realmente es el inverso
+
+00:10:16.470 --> 00:10:17.490
+de la matriz "B"
+
+00:10:17.490 --> 00:10:18.730
+multipliquémoslos
+
+00:10:18.730 --> 00:10:20.565
+y antes de que lo haga, tengo que hacer un poco de espacio
+
+00:10:30.440 --> 00:10:31.690
+ya no necesito esto
+
+00:10:34.230 --> 00:10:34.940
+listo !!
+
+00:10:34.940 --> 00:10:35.260
+OK.
+
+00:10:35.260 --> 00:10:40.450
+confirmemos que eso por esto o esto
+
+00:10:40.450 --> 00:10:42.870
+por eso es realmente igual a la matriz identidad
+
+00:10:42.870 --> 00:10:43.940
+hagamoslo !!
+
+00:10:43.940 --> 00:10:46.390
+cambiemos el color
+
+00:10:46.390 --> 00:10:53.520
+inverso de "B" es "5/7", si no he cometido ningún
+
+00:10:53.520 --> 00:10:55.120
+error por descuido
+
+00:10:55.120 --> 00:10:58.250
+"-4/7"
+
+00:10:58.250 --> 00:11:00.965
+2/7
+
+00:11:00.965 --> 00:11:04.020
+y "-3/7"
+
+00:11:04.020 --> 00:11:04.745
+es inverso de "B"
+
+00:11:04.745 --> 00:11:06.610
+y déjenme multiplicarlo por "B"
+
+00:11:06.610 --> 00:11:09.490
+"3", "-4"
+
+00:11:09.490 --> 00:11:12.090
+"2", "-5"
+
+00:11:12.090 --> 00:11:16.090
+y esto será el producto de la matriz
+
+00:11:16.090 --> 00:11:18.066
+necesito algo de espacio para hacer mis cálculos
+
+00:11:20.630 --> 00:11:22.520
+déjenme cambiar de colores
+
+00:11:22.520 --> 00:11:27.820
+voy a multiplicar esta fila por esta columna
+
+00:11:27.820 --> 00:11:31.880
+"5/7" por "3" es igual a ?
+
+00:11:31.880 --> 00:11:41.170
+"15/7"
+
+00:11:41.170 --> 00:11:45.000
+mas "-4/7" por "2"
+
+00:11:45.000 --> 00:11:54.510
+"-4/7" por "2" es igual a --(dejemne asegurarme)--
+
+00:11:54.510 --> 00:11:58.030
+"5" por "3" es igual a "15/7"
+
+00:11:58.030 --> 00:12:01.520
+"-4" ohh si si, "4" por "2" es igual a "-8/7"
+
+00:12:05.830 --> 00:12:07.910
+ahora vamos a multiplicar esta fila por esta columna
+
+00:12:07.910 --> 00:12:16.640
+"5" por "-4" es igual a "-20/7"
+
+00:12:16.640 --> 00:12:25.390
+mas "-4/7" por "-5"
+
+00:12:25.390 --> 00:12:32.760
+es "20/7" positivo
+
+00:12:32.760 --> 00:12:35.710
+my cerebro se esta empezando a alentar debido a tener que hacer multiplicaciones
+
+00:12:35.710 --> 00:12:38.360
+de matrices con fracciones, con números negativos
+
+00:12:38.360 --> 00:12:40.950
+pero es un buen ejercicio para múltiples
+
+00:12:40.950 --> 00:12:41.730
+partes de el cerebro
+
+00:12:41.730 --> 00:12:42.100
+pero de cualquier modo
+
+00:12:42.100 --> 00:12:43.350
+volvamos y resolvamos este termino
+
+00:12:43.350 --> 00:12:48.800
+ahora vamos a multiplicar esta fila por esta columna
+
+00:12:48.800 --> 00:12:53.680
+"2/7" por "3" es "6/7"
+
+00:12:53.680 --> 00:12:56.790
+mas "-3/7" por "2"
+
+00:12:56.790 --> 00:13:00.410
+es "-6/7"
+
+00:13:00.410 --> 00:13:01.290
+un termino más
+
+00:13:01.290 --> 00:13:02.330
+estiremos un poco
+
+00:13:02.330 --> 00:13:06.570
+"2/7" por "-4" es "-8/7"
+
+00:13:13.500 --> 00:13:17.730
+mas, "-3/7" por "-5"
+
+00:13:17.730 --> 00:13:25.300
+estos negativos se cancelan y nos queda "15/7" positivo
+
+00:13:25.300 --> 00:13:28.370
+y simplificando que obtenemos?
+
+00:13:28.370 --> 00:13:31.500
+"15/7" menos "8/8" es "7/7"
+
+00:13:31.500 --> 00:13:33.310
+lo que equivale a "1"
+
+00:13:33.310 --> 00:13:35.520
+esto claramente es "0"
+
+00:13:35.520 --> 00:13:36.260
+esto es "0"
+
+00:13:36.260 --> 00:13:38.680
+"6/7" menos "6/7" es "0"
+
+00:13:38.680 --> 00:13:42.430
+y "-8/7" mas "15/7" es "7/7"
+
+00:13:42.430 --> 00:13:43.660
+es "1" de nuevo
+
+00:13:43.660 --> 00:13:44.730
+y ahi lo tienen !!
+
+00:13:44.730 --> 00:13:47.150
+hemos de hecho logrado obtener el inverso de esta matriz
+
+00:13:47.150 --> 00:13:50.010
+y fue de hecho mas difícil probar que era el inverso
+
+00:13:50.010 --> 00:13:52.980
+multiplicando, simplemente por que tuvimos que hacer todas estas matemáticas
+
+00:13:52.980 --> 00:13:54.850
+con fracciones y números negativos
+
+00:13:54.850 --> 00:13:56.610
+pero esperemos que les haya servido
+
+00:13:56.610 --> 00:13:59.430
+y ustedes pueden probar al revés simplemente para confirmar que si
+
+00:13:59.430 --> 00:14:01.010
+multiplicamos al revés también obtendremos
+
+00:14:01.010 --> 00:14:02.050
+la matriz identidad
+
+00:14:02.050 --> 00:14:04.110
+pero en fin, así es como se calcula
+
+00:14:04.110 --> 00:14:05.600
+el inverso de una matriz 2x2
+
+00:14:05.600 --> 00:14:08.950
+y también veremos en el siguiente video como calcular el
+
+00:14:08.950 --> 00:14:12.310
+inverso de una matriz 3x3 es aun mas divertido
+
+00:14:12.310 --> 00:14:13.850
+los veo pronto !

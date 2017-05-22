@@ -1,0 +1,120 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.806 --> 00:00:05.458
+vamos a ver lo que significa algo como 64 elevado a la 1/3
+
+00:00:05.612 --> 00:00:11.455
+esto es exactamente lo mismo que la raíz cúbica de 64
+
+00:00:11.585 --> 00:00:17.600
+y como sabemos que 4 por 4 por 4, o 4 elevado a la 3 es igual a 64
+
+00:00:18.005 --> 00:00:25.742
+y que la raíz cúbica de un número busca un número que multiplicado por el mismo 3 veces nos dé ese resultado
+
+00:00:25.972 --> 00:00:29.728
+ya sabemos cuál es ese número y vamos a escribirlo aquí, va a ser el número 4
+
+00:00:29.964 --> 00:00:34.839
+ahora vamos a pensar de forma más compleja acerca de los exponentes fraccionarios
+
+00:00:35.009 --> 00:00:38.191
+esto que vemos aquí es ""1 sobre un denominador"", ahora vamos a ver algo un poco diferente
+
+00:00:38.337 --> 00:00:46.025
+entonces lo que voy a hacer es pensar acerca de 64 elevado a la 2/3
+
+00:00:46.969 --> 00:00:52.663
+y ahora voy a usar las propriedades exponenciales más detalladamente
+
+00:00:52.964 --> 00:01:02.108
+esta propriedad es la idea, .."deja usar un número simples"... de que, si tenemos un número elevado a la 3 y después elevado a la 4
+
+00:01:02.415 --> 00:01:15.365
+esto va a ser lo mismo que 2 elevado a la 3 por 4 o 2 elevado a la 12 y podemos escribirlo también de esta otra manera, 2 elevado a la 4 y después a la 3
+
+00:01:15.650 --> 00:01:23.869
+y es lo mismo que multiplicar los exponentes, como vemos con el 2 elevado a la 12
+
+00:01:23.881 --> 00:01:29.643
+así que entonces podemos usar esta misma propriedad para decir "wow 2/3 es lo mismo que 1/3 por 2 "
+
+00:01:29.933 --> 00:01:38.132
+por lo que podemos ir en esa dirección y decir que es 64 elevado a la 1/3 y entonces elevarlo al cuadrado
+
+00:01:38.493 --> 00:01:46.163
+noten que elevando a una potencia e después a otra es lo mismo que multiplicarlas e vemos que va a dar 2/3
+
+00:01:46.485 --> 00:01:53.489
+ahora, porqué hice eso? para que notáramos que 64 a la 1/3 es como tenemos aquí igual a 4
+
+00:01:53.696 --> 00:02:08.637
+Por lo que podemos decir que es igual a, deja escribir con color amarillo, es igual a 4 al cuadrado, que es igual a 16
+
+00:02:08.809 --> 00:02:19.644
+Entonces 64 elevado a la 2/3 es igual a 16, buscando la raíz cúbica de 64 que es 4 y elevándola al cuadrado nos va a dar 16
+
+00:02:19.798 --> 00:02:26.605
+ahora les voy a pasar un problema más complicado y les doy coraje para que intenten por sí solos antes que yo lo resuelva
+
+00:02:26.814 --> 00:02:48.468
+voy a trabajar con 8 sobre 27 y voy a elevarlo a la potencia 2/3 negativa y los animo que que traten de resolverlo por sí mismos
+
+00:02:49.207 --> 00:02:54.907
+La primera cosa que hago cuando veo un exponente negativo es pensar en la forma que puedo obtener este exponente
+
+00:02:55.197 --> 00:02:59.915
+Y esto me recuerda que el exponente negativo significa lo opuesto al exponente positivo
+
+00:03:00.163 --> 00:03:23.462
+Entonces esto va a ser igual .... "deja usar un color diferente"....esto va a ser igual a 27 sobre 8 elevado a la 2/3 positivo
+
+00:03:23.622 --> 00:03:33.772
+entonces noten que mudamos el signo del exponente y mudamos la base por su inverso 8/27 por 27/8
+
+00:03:34.481 --> 00:03:45.441
+ahora, como manejamos esto? Pues, podemos ver que por causa de una propriedad exponencial muy "poderosa" tenemos que elevar el numerador a ese exponente y el denominador también
+
+00:03:45.746 --> 00:04:04.406
+esto va a ser exactamente lo mismo que escribir 27 elevado a la 2/3 sobre 8 elevado a la 2/3
+
+00:04:04.750 --> 00:04:08.170
+Esto es otra propiedad exponencial muy poderosa
+
+00:04:08.430 --> 00:04:15.477
+noten que siempre que encontremos algo sobre algo elevado a una poténcia, esto va a ser lo mismo que el numerador elevado al exponente sobre el denominador elevado al mismo exponente
+
+00:04:15.707 --> 00:04:21.429
+Ahora vamos a pensar sobre lo que esto significa, entonces como vimos antes 27 elevado a la 2/3
+
+00:04:21.877 --> 00:04:34.697
+va a ser lo mismo que 27 elevado a la 1/3 y después elevado al cuadrado y podemos comprobarlo si multiplicamos 1/3 por 2 y va a ser igual a 2/3
+
+00:04:34.781 --> 00:04:39.181
+Entonces va a ser 27 elevado a la 1/3 y el resultado de eso elevado al cuadrado.
+
+00:04:39.521 --> 00:04:53.918
+y va a ser sobre 8, "voy a escribirlo con otro color" , va a ser sobre 8 elevado a la 1/3 y eso va a ser elevado depués al cuadrado
+
+00:04:54.033 --> 00:04:58.683
+Lo mismo que aconteció con el numerador, elevado primero a la 1/3 y después al cuadrado
+
+00:04:59.053 --> 00:05:10.354
+Entonces que voy a hacer, 27 elevado a la 1/3 es lo mismo que la raíz cúbica de 27 por lo que tenemos que buscar un número que multiplicado por el mismo 3 veces sea igual 27
+
+00:05:10.466 --> 00:05:14.506
+y como ya deben saber 3 elevado a la 3 es igual a 27
+
+00:05:14.899 --> 00:05:21.589
+por lo que 27 elevado a la 1/3 es igual a 3, en el numerador vamos a trabajar con 3 elevado al cuadrado
+
+00:05:21.864 --> 00:05:32.234
+y en el denominador vamos a terminar el cálculo de 8 elevado a la 1/3 y si pensamos un poco 2 veces 2 veces 2 es igual a 8, por lo que 8 elevado a la 1/3 es igual a 2
+
+00:05:32.545 --> 00:05:40.885
+Y ahora vamos, ..."deja usar otro color " ... 8 elevado a la 1/3 es igual a 2 y ahora voy a elevarlo al cuadrado
+
+00:05:41.229 --> 00:05:50.399
+Entonces va a ser un simples cálculo, 3 al cuadrado sobre 2 al cuadrado, va a ser igual a 9/4 , entonces vamos a ver paso por paso

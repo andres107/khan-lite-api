@@ -1,0 +1,192 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.530
+Una alfombra mide 7 pies de largo y tiene una diagonal que mide
+
+00:00:00.530 --> 00:00:04.640
+raíz cuadrada de 74 pies.
+
+00:00:04.640 --> 00:00:07.530
+Encuentre el ancho de la alfombra.
+
+00:00:07.530 --> 00:00:09.845
+Vamos a dibujar una alfombra aquí.
+
+00:00:09.845 --> 00:00:12.630
+Así que vamos a dibujar una alfombra.
+
+00:00:12.630 --> 00:00:15.080
+Eso tiene un largo de 7 pies, solo decimos que tiene 7 pies,
+
+00:00:18.410 --> 00:00:19.350
+allí mismo.
+
+00:00:19.350 --> 00:00:21.620
+Y eso va a ser un rectángulo de algún tipo
+
+00:00:21.620 --> 00:00:23.450
+Solo digamos que estamos mirando hacia abajo
+
+00:00:23.450 --> 00:00:25.350
+una alfombra como esa.
+
+00:00:25.350 --> 00:00:27.340
+Esa es nuestra alfombra.
+
+00:00:27.340 --> 00:00:29.280
+Y eso tiene una diagonal que mide
+
+00:00:29.280 --> 00:00:32.590
+raíz cuadrada de 74 pies.
+
+00:00:32.590 --> 00:00:35.570
+Entonces eso significa que esta distancia, aquí -- dibujalo
+
+00:00:35.570 --> 00:00:39.280
+un poco mas ordenado que eso-- la distancia justo aquí,
+
+00:00:39.280 --> 00:00:45.000
+la diagonal de la alfombra, es la raíz cuadrada de 74 pies.
+
+00:00:45.000 --> 00:00:47.850
+Y lo que ellos quieren saber es el ancho de la alfombra.
+
+00:00:47.850 --> 00:00:49.580
+Encuentra el ancho de la alfombra.
+
+00:00:49.580 --> 00:00:52.640
+Vamos a decir que este es el ancho de la alfombra.
+
+00:00:52.640 --> 00:00:55.220
+Eso es w, justo ahí.
+
+00:00:55.220 --> 00:00:59.300
+Ahora, ya puede darse cuenta de lo que he dibujado aquí está.
+
+00:00:59.300 --> 00:01:00.520
+un triángulo rectángulo.
+
+00:01:00.520 --> 00:01:02.310
+Déjame estar seguro de que te diste cuenta de eso.
+
+00:01:02.310 --> 00:01:04.910
+Este es un ángulo de 90 grados aquí.
+
+00:01:04.910 --> 00:01:08.660
+Y puesto que es un triángulo que tiene un ángulo de 90 grados,
+
+00:01:08.660 --> 00:01:10.050
+eso es un triángulo rectángulo.
+
+00:01:10.050 --> 00:01:14.520
+El lado opuesto al ángulo recto, o los 90 grados, es un
+
+00:01:14.520 --> 00:01:16.370
+hipotenusa, o el lado mayor.
+
+00:01:16.370 --> 00:01:18.520
+eso es la raíz cuadrada de 74.
+
+00:01:18.520 --> 00:01:21.710
+Y los lados más cortos son w y 7.
+
+00:01:21.710 --> 00:01:24.830
+Y el teorema de Pitágoras nos dice que la suma de los
+
+00:01:24.830 --> 00:01:27.980
+cuadrados del lado más corto será igual al cuadrado de
+
+00:01:27.980 --> 00:01:30.930
+la hipotenusa,y el cuadrado del lado más largo.
+
+00:01:30.930 --> 00:01:34.930
+Así obtenemos w al cuadrado, de este lado al cuadrado.
+
+00:01:34.930 --> 00:01:41.640
+más 7 al cuadrado , este otro lado al cuadrado , va a ser
+
+00:01:41.640 --> 00:01:43.790
+igual a la hipotenusa al cuadrado,
+
+00:01:43.790 --> 00:01:47.890
+raíz cuadrada de 74 al cuadrado.
+
+00:01:47.890 --> 00:01:54.912
+Y luego conseguimos w al cuadrado más 49 es igual a la raíz cuadrada
+
+00:01:54.912 --> 00:01:56.600
+de 74 al cuadrado
+
+00:01:56.600 --> 00:01:58.415
+Bueno, eso sólo va a ser 74.
+
+00:01:58.415 --> 00:02:00.880
+eso es igual a 74 .
+
+00:02:00.880 --> 00:02:03.930
+Podemos restar 49 de ambos lados de esta ecuación.
+
+00:02:03.930 --> 00:02:06.790
+Así que tenemos a w al cuadrado en el lado izquierdo.
+
+00:02:06.790 --> 00:02:09.940
+restamos 49 de ambos lados.
+
+00:02:09.940 --> 00:02:12.470
+El lado izquierdo - estos chicos van a cancelarse,nosotros
+
+00:02:12.470 --> 00:02:16.800
+sólo nos vamos a quedar con w cuadrado - es igual a - ¿Qué es
+
+00:02:16.800 --> 00:02:19.900
+que 74 menos 49?
+
+00:02:19.900 --> 00:02:23.270
+74 menos 49, bien, podemos hacer un poco de reagrupación o
+
+00:02:23.270 --> 00:02:25.140
+prestado aquí, si no queremos hacerlo en nuestra cabeza.
+
+00:02:25.140 --> 00:02:27.250
+Podemos hacer de esto una 14.
+
+00:02:27.250 --> 00:02:28.810
+Esto se convierte en un 6.
+
+00:02:28.810 --> 00:02:31.640
+14 menos 9 es 5.
+
+00:02:31.640 --> 00:02:33.850
+6 menos 4 es 2.
+
+00:02:33.850 --> 00:02:36.070
+Y tenemos w al cuadrado es igual a 25.
+
+00:02:36.070 --> 00:02:39.810
+y w va a ser igual a la raíz cuadrada de 25,
+
+00:02:39.810 --> 00:02:41.260
+la raíz cuadrada positiva.
+
+00:02:41.260 --> 00:02:44.200
+Así que vamos a sacar la raíz cuadrada de ambos lados, de la positiva
+
+00:02:44.200 --> 00:02:49.870
+raíz cuadrada, y conseguiremos que w es igual a 5.
+
+00:02:49.870 --> 00:02:52.210
+Porque obviamente no queremos que 5 sea negativo.
+
+00:02:52.210 --> 00:02:54.130
+Esa no sería una distancia real.
+
+00:02:54.130 --> 00:02:57.330
+Así que el ancho de la alfombra es 5.
+
+00:02:57.330 --> 00:02:58.820
+Y hemos terminado.
+
+00:02:58.820 --> 00:02:59.400
+GRACIAS !!!!!!!!

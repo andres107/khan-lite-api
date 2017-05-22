@@ -1,0 +1,660 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:06.040
+Así que no sólo puede un campo magnético ejercer alguna fuerza sobre un
+
+00:00:06.040 --> 00:00:09.230
+movimiento de carga, ahora vamos a aprender a mover una carga que
+
+00:00:09.230 --> 00:00:12.160
+o una corriente realmente puede crear un campo magnético.
+
+00:00:12.160 --> 00:00:15.010
+Así que hay algún tipo de simetría aquí.
+
+00:00:15.010 --> 00:00:18.600
+Y como aprenderemos más tarde cuando aprendemos nuestro cálculo y nos
+
+00:00:18.600 --> 00:00:25.810
+hacerlo de una manera un poco más rigurosa, veremos
+
+00:00:25.810 --> 00:00:29.010
+campos magnéticos y campos eléctricos son realmente dos caras
+
+00:00:29.010 --> 00:00:32.430
+de la misma moneda, de los campos electromagnéticos.
+
+00:00:32.430 --> 00:00:33.880
+Pero de todos modos, nosotros no preocuparse por ahora.
+
+00:00:33.880 --> 00:00:36.260
+Y creo que es suficiente para considerar ahora que un
+
+00:00:36.260 --> 00:00:39.220
+corriente realmente puede inducir un campo magnético.
+
+00:00:39.220 --> 00:00:40.570
+Y en realidad, sólo un electrón móvil
+
+00:00:40.570 --> 00:00:42.320
+crea un campo magnético.
+
+00:00:42.320 --> 00:00:45.110
+Y lo hace en una superficie de una esfera--no entrar todos
+
+00:00:45.110 --> 00:00:45.500
+Ahora mismo.
+
+00:00:45.500 --> 00:00:47.500
+Porque las matemáticas se obtiene un poco de fantasía.
+
+00:00:47.500 --> 00:00:50.600
+Pero lo que se puede encontrar en tu escuela estándar
+
+00:00:50.600 --> 00:00:52.950
+física clase--que no está profundamente en vector
+
+00:00:52.950 --> 00:00:57.180
+cálculo--es que si sólo tienes un alambre--
+
+00:00:57.180 --> 00:00:58.820
+Permítanme llamar un alambre.
+
+00:00:58.820 --> 00:01:00.780
+Es mi cable.
+
+00:01:00.780 --> 00:01:10.030
+Y está llevando a cabo algunos actual, resulta que este cable
+
+00:01:10.030 --> 00:01:12.230
+generará un campo magnético.
+
+00:01:12.230 --> 00:01:14.840
+Y la forma de ese campo magnético va a ser
+
+00:01:14.840 --> 00:01:19.960
+Co-centrada en círculos alrededor de este cable.
+
+00:01:19.960 --> 00:01:22.730
+Déjame ver si puedo llamar.
+
+00:01:22.730 --> 00:01:25.730
+Así que aquí voy dibujarla al igual como lo hago cuando trato de hacer
+
+00:01:25.730 --> 00:01:29.510
+rotaciones de sólidos en el cálculo de vídeo.
+
+00:01:29.510 --> 00:01:34.120
+Así que el campo magnético iría detrás y en frente y
+
+00:01:34.120 --> 00:01:37.730
+va así.
+
+00:01:37.730 --> 00:01:40.130
+O es de otra manera puede pensar si--Let ' s go down
+
+00:01:40.130 --> 00:01:42.930
+aquí--es en el lado izquierdo de este hilo.
+
+00:01:42.930 --> 00:01:45.840
+Si dices que el alambre en el plano de este video, el
+
+00:01:45.840 --> 00:01:49.110
+campo magnético está apareciendo fuera de la pantalla.
+
+00:01:52.650 --> 00:01:55.500
+Y en este lado, del lado derecho, el campo magnético es
+
+00:01:55.500 --> 00:01:57.980
+apareciendo en la pantalla.
+
+00:01:57.980 --> 00:02:00.000
+Va en la pantalla.
+
+00:02:00.000 --> 00:02:01.400
+¿Y usted podría imaginar que, derecho?
+
+00:02:01.400 --> 00:02:04.840
+Podrías imaginar si, en este dibujo aquí, se podría decir
+
+00:02:04.840 --> 00:02:06.370
+Esto es donde se intersecta la pantalla.
+
+00:02:06.370 --> 00:02:09.240
+Todo esto es tipo de detrás de la pantalla.
+
+00:02:09.240 --> 00:02:11.440
+Y todo esto delante de la pantalla.
+
+00:02:11.440 --> 00:02:13.460
+Y esto es donde está saltando.
+
+00:02:13.460 --> 00:02:15.430
+Y esto es donde está apareciendo en la pantalla.
+
+00:02:15.430 --> 00:02:16.770
+Ojala que lo hace un poco de sentido.
+
+00:02:16.770 --> 00:02:20.180
+Y ¿cómo saber que está girando de esta manera?
+
+00:02:20.180 --> 00:02:22.370
+Bueno, realmente salen del producto cruzado cuando
+
+00:02:22.370 --> 00:02:24.950
+lo haces con una carga normal y todo eso.
+
+00:02:24.950 --> 00:02:26.740
+Pero no vamos a entrar en ahora mismo.
+
+00:02:26.740 --> 00:02:28.670
+Así que hay una regla diferente mano derecha
+
+00:02:28.670 --> 00:02:29.640
+que puede utilizar.
+
+00:02:29.640 --> 00:02:34.130
+Y literalmente es sostener este hilo, o te imaginas
+
+00:02:34.130 --> 00:02:37.810
+sosteniendo este cable, con la mano derecha con el pulgar
+
+00:02:37.810 --> 00:02:39.570
+va en la dirección de la corriente.
+
+00:02:39.570 --> 00:02:42.010
+Y si mantiene este hilo con el dedo pulgar en el
+
+00:02:42.010 --> 00:02:44.790
+dirección de la corriente, sus dedos se van a ir el
+
+00:02:44.790 --> 00:02:47.890
+dirección del campo magnético.
+
+00:02:47.890 --> 00:02:51.030
+Déjenme ver si puedo llamar.
+
+00:02:51.030 --> 00:02:52.830
+La sacaré en azul.
+
+00:02:52.830 --> 00:02:58.070
+Así que si se trata de mi dedo pulgar, mi pulgar va a lo largo de la parte superior
+
+00:02:58.070 --> 00:03:00.690
+del cable.
+
+00:03:00.690 --> 00:03:03.045
+Y entonces mi mano es rizar alrededor del cable.
+
+00:03:06.000 --> 00:03:06.700
+Esos son mis nudillos.
+
+00:03:06.700 --> 00:03:09.380
+Esas son las venas de mi mano.
+
+00:03:09.380 --> 00:03:12.210
+Este es mi uña.
+
+00:03:12.210 --> 00:03:16.490
+Así que como puede ver, si estaba sujeta con ese mismo cable--
+
+00:03:16.490 --> 00:03:17.760
+me dibuje el cable.
+
+00:03:17.760 --> 00:03:21.490
+Así que si estaba sujeta con ese mismo cable, vemos que es mi pulgar
+
+00:03:21.490 --> 00:03:22.970
+va en la dirección de la corriente.
+
+00:03:22.970 --> 00:03:25.910
+Así que esto es una cosa nueva ligeramente para memorizar.
+
+00:03:25.910 --> 00:03:27.730
+¿Y lo que está haciendo el campo magnético?
+
+00:03:27.730 --> 00:03:30.840
+Bueno, va en la dirección de mis dedos.
+
+00:03:30.840 --> 00:03:33.930
+Mis dedos están saltando en este lado del alambre.
+
+00:03:33.930 --> 00:03:35.760
+Que están saliendo en este lado del alambre.
+
+00:03:35.760 --> 00:03:37.560
+Y van en, o al menos que es mi mano
+
+00:03:37.560 --> 00:03:39.460
+va, en ese lado.
+
+00:03:39.460 --> 00:03:42.490
+Va en la pantalla.
+
+00:03:42.490 --> 00:03:44.570
+Esperemos que eso tiene sentido.
+
+00:03:44.570 --> 00:03:46.070
+Ahora, ¿cómo podemos nosotros cuantificar?
+
+00:03:46.070 --> 00:03:48.280
+Bueno, antes que cuantificar, vamos a obtener un poco más de
+
+00:03:48.280 --> 00:03:49.890
+la intuición de lo que está sucediendo.
+
+00:03:49.890 --> 00:03:52.730
+Resulta que cuanto más cerca llegas al cable, el
+
+00:03:52.730 --> 00:03:56.290
+más fuerte el campo magnético, y cuanto más se salir,
+
+00:03:56.290 --> 00:03:57.800
+el débil campo magnético.
+
+00:03:57.800 --> 00:04:00.510
+Y que tipo de tiene sentido si se imagina el magnético
+
+00:04:00.510 --> 00:04:01.760
+campo tendido.
+
+00:04:04.380 --> 00:04:06.460
+No quiero entrar demasiado sofisticados analogías.
+
+00:04:06.460 --> 00:04:08.830
+Pero si te imaginas el campo magnético tendido,
+
+00:04:08.830 --> 00:04:10.580
+y como sale más y más tipo de obtiene
+
+00:04:10.580 --> 00:04:12.705
+distribuidos sobre una circunferencia mayor y más amplia.
+
+00:04:12.705 --> 00:04:15.270
+Y realmente tiene la fórmula que voy a darle clase de
+
+00:04:15.270 --> 00:04:16.870
+un gusto para eso.
+
+00:04:16.870 --> 00:04:20.450
+Así que la fórmula para el campo magnético--y realmente
+
+00:04:20.450 --> 00:04:23.110
+se define con un producto de la Cruz y cosas así,
+
+00:04:23.110 --> 00:04:25.920
+pero para nuestros propósitos no se preocupe acerca de eso.
+
+00:04:25.920 --> 00:04:29.350
+Sólo tendrás que saber que es la forma, si el
+
+00:04:29.350 --> 00:04:30.950
+corriente va en esa dirección.
+
+00:04:30.950 --> 00:04:33.880
+Y, por supuesto, si la corriente se iba hacia abajo y luego la
+
+00:04:33.880 --> 00:04:35.550
+campo magnético sólo invertiría las direcciones.
+
+00:04:35.550 --> 00:04:36.640
+Pero todavía sería en co-centric
+
+00:04:36.640 --> 00:04:38.220
+círculos alrededor del alambre.
+
+00:04:38.220 --> 00:04:42.870
+Pero de todos modos, ¿cuál es la magnitud de ese campo?
+
+00:04:42.870 --> 00:04:49.630
+La magnitud de ese campo magnético es igual a mu--que
+
+00:04:49.630 --> 00:04:52.240
+es una letra griega, que explicaré en un segundo--
+
+00:04:52.240 --> 00:04:58.120
+veces la corriente dividida por 2 pi r.
+
+00:04:58.120 --> 00:05:00.590
+Por tanto este tiene un poco de una sensación de lo que
+
+00:05:00.590 --> 00:05:01.280
+Decía antes.
+
+00:05:01.280 --> 00:05:04.430
+Que cuanto más vas a--dónde están es cuán lejos estás
+
+00:05:04.430 --> 00:05:09.410
+desde el alambre--más vas, si crece r,
+
+00:05:09.410 --> 00:05:12.750
+la magnitud del campo magnético se va a conseguir más débiles.
+
+00:05:12.750 --> 00:05:14.650
+Y esta r 2 pi, que se parece mucho al
+
+00:05:14.650 --> 00:05:16.140
+circunferencia de un círculo.
+
+00:05:16.140 --> 00:05:17.225
+Por lo le da gusto por él.
+
+00:05:17.225 --> 00:05:20.730
+Sé que no he demostrado nada rigurosamente.
+
+00:05:20.730 --> 00:05:22.730
+Pero al menos le da un sentido de la mirada, hay un
+
+00:05:22.730 --> 00:05:23.450
+Fórmula poco para
+
+00:05:23.450 --> 00:05:24.350
+circunferencia de un círculo aquí.
+
+00:05:24.350 --> 00:05:25.400
+¿Y tipo de sentido, correcto?
+
+00:05:25.400 --> 00:05:27.280
+Porque el campo magnético en ese momento
+
+00:05:27.280 --> 00:05:29.770
+es el tipo de un círculo.
+
+00:05:29.770 --> 00:05:33.940
+La magnitud es igual a un radio igual alrededor de ese cable.
+
+00:05:33.940 --> 00:05:36.770
+Ahora, ¿qué es este mu, esto que parece una u?
+
+00:05:36.770 --> 00:05:39.380
+Bueno, eso es la permeabilidad del material
+
+00:05:39.380 --> 00:05:40.330
+que el cable de.
+
+00:05:40.330 --> 00:05:41.990
+Por lo que el campo magnético realmente va a tener un
+
+00:05:41.990 --> 00:05:44.820
+fuerza diferente dependiendo de si este cable va
+
+00:05:44.820 --> 00:05:48.420
+a través de goma, si va a través del vacío, o
+
+00:05:48.420 --> 00:05:50.840
+aire, o metal o agua.
+
+00:05:50.840 --> 00:05:54.400
+Y para los fines de su clase de física de la secundaria, nos
+
+00:05:54.400 --> 00:05:56.990
+Suponga que va a través del aire normalmente.
+
+00:05:56.990 --> 00:06:01.930
+Y el valor de aire está bastante cerca
+
+00:06:01.930 --> 00:06:03.310
+el valor de un vacío.
+
+00:06:03.310 --> 00:06:05.600
+Y se llama la permeabilidad del vacío.
+
+00:06:05.600 --> 00:06:07.410
+Y me olvido de lo que es ese valor.
+
+00:06:07.410 --> 00:06:08.200
+Pude búscalo.
+
+00:06:08.200 --> 00:06:09.820
+Pero en realidad resulta que su
+
+00:06:09.820 --> 00:06:11.010
+calculadora tiene ese valor.
+
+00:06:11.010 --> 00:06:12.710
+Así que vamos a hacer un problema, basta con poner algunas
+
+00:06:12.710 --> 00:06:14.580
+números de la fórmula.
+
+00:06:14.580 --> 00:06:19.460
+Así que vamos a decir que tenía esta corriente y es--no
+
+00:06:19.460 --> 00:06:22.032
+sabes, es igual a la corriente--me voy
+
+00:06:22.032 --> 00:06:22.780
+para hacer un número.
+
+00:06:22.780 --> 00:06:25.740
+2 amperios.
+
+00:06:25.740 --> 00:06:33.320
+Y digamos que simplemente escoger un punto aquí es--
+
+00:06:33.320 --> 00:06:36.670
+digamos que eso es de 3 metros
+
+00:06:36.670 --> 00:06:37.950
+desde el cable en cuestión.
+
+00:06:37.950 --> 00:06:39.980
+Así que mi pregunta es ¿cuál es la magnitud de la
+
+00:06:39.980 --> 00:06:43.760
+¿dirección del campo magnético allí?
+
+00:06:43.760 --> 00:06:45.140
+Bien, la magnitud es fácil.
+
+00:06:45.140 --> 00:06:46.650
+Simplemente sustituimos en esta ecuación.
+
+00:06:46.650 --> 00:06:50.540
+Así que la magnitud del campo magnético en este momento
+
+00:06:50.540 --> 00:06:53.410
+es igual a--y suponemos que el cable va a través de
+
+00:06:53.410 --> 00:06:57.270
+aire o una aspiradora--la permeabilidad del espacio libre--
+
+00:06:57.270 --> 00:06:59.770
+que es simplemente una constante, aunque parece fantasía--veces el
+
+00:06:59.770 --> 00:07:04.910
+tiempos actuales amperios 2 divididos por 2 pi r.
+
+00:07:04.910 --> 00:07:05.345
+¿Qué es r?
+
+00:07:05.345 --> 00:07:07.350
+Es de 3 metros.
+
+00:07:07.350 --> 00:07:09.020
+Pi hasta 2 veces 3.
+
+00:07:09.020 --> 00:07:13.260
+Por lo que es igual a la permeabilidad del espacio libre.
+
+00:07:13.260 --> 00:07:13.510
+Así que vamos a ver.
+
+00:07:13.510 --> 00:07:16.630
+El 2 y el 2 se cancelan más 3 pi.
+
+00:07:16.630 --> 00:07:18.350
+¿Cómo calculamos?
+
+00:07:18.350 --> 00:07:24.040
+Bien, tenemos nuestra fiel calculadora TI-85.
+
+00:07:24.040 --> 00:07:28.510
+Y creo que tal vez serás gratamente sorprendido o
+
+00:07:28.510 --> 00:07:31.330
+sorprendió al darse cuenta de que he eliminado todo tan te
+
+00:07:31.330 --> 00:07:34.280
+puede ver cómo llego allí--que realmente tiene la
+
+00:07:34.280 --> 00:07:36.640
+permeabilidad del espacio libre almacenado en él.
+
+00:07:36.640 --> 00:07:39.220
+Así que qué es usted ir a segunda y pulsa constante,
+
+00:07:39.220 --> 00:07:41.330
+que es el botón 4.
+
+00:07:41.330 --> 00:07:43.560
+Es en las constantes incorporadas.
+
+00:07:43.560 --> 00:07:44.790
+Vamos a ver, no es uno de esos.
+
+00:07:44.790 --> 00:07:46.430
+Presionar más.
+
+00:07:46.430 --> 00:07:48.040
+No es uno de esos, presione más.
+
+00:07:48.040 --> 00:07:49.170
+Oh mira.
+
+00:07:49.170 --> 00:07:50.700
+Mu nought.
+
+00:07:50.700 --> 00:07:52.270
+La permeabilidad del espacio libre.
+
+00:07:52.270 --> 00:07:54.120
+Eso es lo que necesito.
+
+00:07:54.120 --> 00:07:57.190
+Y tengo que dividirlo por 3 pi.
+
+00:07:57.190 --> 00:08:00.570
+¿Dividirlo por 3--y, a continuación, donde es pi?
+
+00:08:00.570 --> 00:08:01.210
+Ahí está.
+
+00:08:01.210 --> 00:08:03.000
+Es el signo de poder.
+
+00:08:03.000 --> 00:08:05.880
+Dividido por pi 3.
+
+00:08:05.880 --> 00:08:10.480
+Es igual a 1,3 veces 10 negativa séptimo.
+
+00:08:10.480 --> 00:08:11.940
+Va a ser teslas.
+
+00:08:11.940 --> 00:08:17.820
+El campo magnético va a ser igual a 1,3 veces 10 a
+
+00:08:17.820 --> 00:08:20.270
+los séptimo menos teslas.
+
+00:08:20.270 --> 00:08:23.290
+Por lo que es un campo magnético bastante débil.
+
+00:08:23.290 --> 00:08:27.220
+Y por eso no tiene objetos metálicos extraños
+
+00:08:27.220 --> 00:08:31.520
+alrededor de los cables detrás de su televisor establecido.
+
+00:08:31.520 --> 00:08:33.650
+Pero de todos modos, ojalá que le da una broca pequeña--y
+
+00:08:33.650 --> 00:08:36.289
+para que sepas cómo todo encaja.
+
+00:08:36.289 --> 00:08:40.700
+Que estamos diciendo que estas cargas en movimiento, no sólo puede ser
+
+00:08:40.700 --> 00:08:42.909
+afectado por un campo magnético, no sólo una corriente puede
+
+00:08:42.909 --> 00:08:45.870
+afectados por un campo magnético o simplemente una carga móvil, se
+
+00:08:45.870 --> 00:08:47.270
+realmente las crea.
+
+00:08:47.270 --> 00:08:49.840
+Y que tipo de crea un poco de simetría en su
+
+00:08:49.840 --> 00:08:50.270
+cabeza, ojala.
+
+00:08:50.270 --> 00:08:52.770
+Porque eso también era verdad de campo eléctrico.
+
+00:08:52.770 --> 00:08:57.170
+Una carga, una carga estacionaria, obviamente es tirada o empujada
+
+00:08:57.170 --> 00:08:58.760
+por un campo eléctrico estático.
+
+00:08:58.760 --> 00:09:01.910
+Y también crea su propio campo eléctrico estático.
+
+00:09:01.910 --> 00:09:03.640
+Por eso es siempre en su mente.
+
+00:09:03.640 --> 00:09:05.180
+Porque si seguir estudiando física, vas a
+
+00:09:05.180 --> 00:09:09.000
+realmente demostrar a sí mismo que eléctricos y magnéticos
+
+00:09:09.000 --> 00:09:11.790
+campos son dos caras de una misma moneda.
+
+00:09:11.790 --> 00:09:14.150
+Y se ve sólo como un campo magnético cuando estás en
+
+00:09:14.150 --> 00:09:15.930
+un marco de referencia diferente, cuando algo es
+
+00:09:15.930 --> 00:09:17.020
+Ayante pasado contigo.
+
+00:09:17.020 --> 00:09:19.650
+Mientras que si fueron pasando junto con se, entonces esa cosa
+
+00:09:19.650 --> 00:09:20.350
+quedaría estático.
+
+00:09:20.350 --> 00:09:21.830
+Y, a continuación, puede parecer un poco más como un
+
+00:09:21.830 --> 00:09:22.820
+campo eléctrico.
+
+00:09:22.820 --> 00:09:25.230
+Pero de todos modos, te dejo allí ahora.
+
+00:09:25.230 --> 00:09:29.160
+Y en el siguiente video te mostraré lo que pasa cuando nos
+
+00:09:29.160 --> 00:09:33.440
+tener dos cables que llevan la corriente
+
+00:09:33.440 --> 00:09:34.660
+paralelo entre sí.
+
+00:09:34.660 --> 00:09:37.630
+Y usted podría adivinar que realmente podría atraen o
+
+00:09:37.630 --> 00:09:38.560
+repelen.
+
+00:09:38.560 --> 00:09:41.450
+De todas formas, nos vemos en el siguiente vídeo.

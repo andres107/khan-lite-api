@@ -1,0 +1,159 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:02.067 --> 00:00:05.800
+Identifique todos los rayos mostrados en la imagen
+
+00:00:05.800 --> 00:00:07.800
+Y esto es un recordatorio de lo que es un rayo.
+
+00:00:07.800 --> 00:00:13.000
+Un rayo comienza en un punto y continua hacia el infinito en alguna dirección
+
+00:00:13.000 --> 00:00:17.533
+Para entontrar un rayo necesitamos ese punto desde el cual estamos partiendo.
+
+00:00:17.533 --> 00:00:19.800
+Digamos que ese punto se llama X
+
+00:00:19.800 --> 00:00:22.600
+y luego necesitamos otro punto que esté sobre ese rayo
+
+00:00:24.667 --> 00:00:26.533
+y ese rayo simplemente continua hacia allá.
+
+00:00:26.533 --> 00:00:35.533
+Llamaremos a ese punto Y y llamaremos al rayo "XY".
+
+00:00:35.533 --> 00:00:41.600
+Comienza en "X" y continua en la dirección de "Y"
+
+00:00:41.600 --> 00:00:45.533
+para siempre. Cruza "Y" y continúa más allá.
+
+00:00:45.533 --> 00:00:50.667
+Necesitamos el segundo punto para especificar la
+
+00:00:50.667 --> 00:00:56.200
+dirección en la que va el rayo.
+
+00:00:56.200 --> 00:01:00.867
+Identifiquemos todos los rayos mostrados en la imagen
+
+00:01:00.867 --> 00:01:05.200
+de abajo. Comenzaremos en el punto "J".
+
+00:01:05.200 --> 00:01:13.800
+El único segmento de línea que comienza en "J"
+
+00:01:13.800 --> 00:01:21.667
+en JH, sube, llega al punto "H" y sigue
+
+00:01:21.667 --> 00:01:27.467
+en esa dirección más allá de "H". Rayo JH comenzando en "J"
+
+00:01:27.467 --> 00:01:31.267
+llegando a "H" y siguiendo más allá para siempre.
+
+00:01:31.267 --> 00:01:37.800
+Si vamos a "H" no hay ningún rayo HJ ya que la línea termina
+
+00:01:37.800 --> 00:01:41.267
+en "J" y no sigue más allá. No hay ningún
+
+00:01:41.267 --> 00:01:47.333
+rayo "H" ya que es solamente un punto.
+
+00:01:47.333 --> 00:01:51.600
+Mirando el diagrama,
+
+00:01:51.600 --> 00:02:08.067
+el único rayo es JH. Veamos otros puntos.
+
+00:02:08.067 --> 00:02:15.067
+En el punto "C" no hay ningún punto
+
+00:02:15.067 --> 00:02:21.533
+después como para definirlo como un rayo. Podemos tener el rayo CE
+
+00:02:21.533 --> 00:02:27.600
+que comienza en "C" y pasando por "E" continua para siempre
+
+00:02:27.600 --> 00:02:32.600
+También tenemos un rayo que comenzando en "C", para por "F"
+
+00:02:32.600 --> 00:02:37.933
+y sigue para siempre. CE y CF son el mismo rayo
+
+00:02:37.933 --> 00:02:49.133
+ya que "F" está sobre el rayo CE y "E" sobre el rayo CF,
+
+00:02:49.133 --> 00:03:02.933
+por lo que CE y CF son el mismo rayo.
+
+00:03:02.933 --> 00:03:08.067
+Veamos ahora lo que podemos hacer desde el punto "E".
+
+00:03:08.067 --> 00:03:12.333
+Podemos partir del punto "E", ir en dirección a "C"
+
+00:03:12.333 --> 00:03:17.600
+y continuar, por lo que es el rayo EC.
+
+00:03:17.600 --> 00:03:22.200
+Podemos partir desde "E" e ir en dirección a "A" y más allá
+
+00:03:22.200 --> 00:03:26.067
+por lo que EA es un rayo. Y podemos comenzar en "E" e
+
+00:03:26.067 --> 00:03:30.200
+ir en dirección a "F" y continuar, por lo que ese es el rayo EF.
+
+00:03:30.200 --> 00:03:39.267
+Los rayos EF y CF son diferentes ya que
+
+00:03:39.267 --> 00:03:46.200
+tienen diferentes puntos de partida.
+
+00:03:46.200 --> 00:03:53.667
+Vayamos al punto "F". Hacia la izquierda del punto F
+
+00:03:53.667 --> 00:04:00.667
+No hay otro punto. MIrando hacia la derecha,
+
+00:04:00.667 --> 00:04:02.533
+Vemos el rayo FE, que comienza en "F", pasa por "E" y
+
+00:04:02.533 --> 00:04:07.800
+más allá. También tenemos el rayo FC que comienza en "F"
+
+00:04:07.800 --> 00:04:17.667
+llega a "C" y sigue. Es el equivalente a FE
+
+00:04:17.667 --> 00:04:21.933
+Los rayos FE y FC son lo mismo ya que el punto "E"
+
+00:04:21.933 --> 00:04:33.200
+está sobre el rayo FC. Volviendo al punto "A"
+
+00:04:33.200 --> 00:04:39.133
+podríamos pensar que hay un rayo AE, pero la línea no se
+
+00:04:39.133 --> 00:04:44.800
+continúa pasando "E", por lo que no es un rayo. Más allá de "A"
+
+00:04:44.800 --> 00:04:48.000
+no hay otro punto, por lo que tampoco tenemos un rayo aquí.
+
+00:04:48.000 --> 00:04:55.933
+Estos son todos los rayos presentes sobre los puntos especificados.
+
+00:04:55.933 --> 00:04:59.067
+Si nos hubieran dado un punto allí, podríamos haber tenido
+
+00:04:59.067 --> 00:05:32.133
+otros rayos.
+
+00:05:32.133 --> 99:59:59.999
+Hay 6 rayos en este problema.

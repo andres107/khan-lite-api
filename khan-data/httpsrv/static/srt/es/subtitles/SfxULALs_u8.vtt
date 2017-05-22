@@ -1,0 +1,84 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.606 --> 00:00:04.042
+Vamos a tratar de calcular "6 por 37".
+
+00:00:04.042 --> 00:00:07.033
+Y te voy a enseñar una manera de hacer esto y luego, en futuros vídeos,...
+
+00:00:07.033 --> 00:00:11.380
+podemos mirar otras formas de hacerlo y reflexionar acerca de por qué esto realmente funciona.
+
+00:00:11.380 --> 00:00:16.240
+Así que lo que me gustaría hacer (y este es el, a menudo llamado, método estándar) es tomar el mayor de los dos números.
+
+00:00:16.240 --> 00:00:19.600
+No importa si el orden con el que intentes resolverlo: "6 por 37" o "37 por 6". Son iguales entre sí.
+
+00:00:19.600 --> 00:00:23.361
+"6 por 37" dará el mismo resultado que "37 por 6".
+
+00:00:23.361 --> 00:00:27.030
+Por lo que me gustaría hacer es tomar el mayor de los dos números y escribirlo en la parte superior.
+
+00:00:27.030 --> 00:00:33.624
+Así que voy a escribir 37 y luego el menor de los dos números (que es 6) lo voy a escribir en la parte inferior...
+
+00:00:33.624 --> 00:00:36.271
+y voy a alinearlo en el lugar correcto.
+
+00:00:36.271 --> 00:00:44.027
+Cuenta con un dígito, está en el lugar de las unidades, obviamente, así que puedo colocar el 6 aquí...
+
+00:00:44.027 --> 00:00:46.674
+y colocar el símbolo de multiplicación así.
+
+00:00:46.674 --> 00:00:51.875
+Y esto es sólo otra manera de expresar "37 por 6", que es lo mismo que "6 por 37".
+
+00:00:51.875 --> 00:00:57.541
+Ahora lo que hacemos es ir, en el primer lugar, al número más pequeño.
+
+00:00:57.541 --> 00:01:00.049
+(sólo hay un lugar aquí, así que es el número 6, justo aquí)
+
+00:01:00.049 --> 00:01:03.346
+y vamos a multiplicar éste por cada uno de los dígitos de la parte de arriba.
+
+00:01:03.346 --> 00:01:11.194
+Por lo que primero empezamos con "6 por 7". Así que vamos a multiplicar primero "6 por 7".
+
+00:01:11.194 --> 00:01:17.696
+Bueno, te acuerdas de la tabla de multiplicar del 6, ¿no? "6 por 7" es igual a 42.
+
+00:01:17.696 --> 00:01:22.200
+Ahora, no sólo escribimos 42 aquí, al menos no en el método estándar no escribiríamos 42 aquí.
+
+00:01:22.200 --> 00:01:26.798
+Escribíamos el 2 de 42 en el lugar de las unidades. Justo aquí.
+
+00:01:26.798 --> 00:01:32.139
+Y luego nos llevaríamos el 4 del 42 hasta el lugar de las decenas.
+
+00:01:32.139 --> 00:01:36.968
+Ahora tenemos que pensar cuanto es "6 por 3".
+
+00:01:36.968 --> 00:01:44.259
+Bueno, una vez que sabemos que "6 por 3" es igual a 18,...
+
+00:01:44.259 --> 00:01:48.300
+pero no podemos limitarnos a un 18 aquí abajo, todavía tenemos que tratar este 4.
+
+00:01:48.300 --> 00:01:54.801
+Así que "6 por 3" es 18, pero tenemos que agregar a continuación el 4.
+
+00:01:54.801 --> 00:01:57.367
+"6 por 3" es 18, más 4 es 22.
+
+00:01:57.367 --> 00:02:03.207
+Y "6 por 3" y luego añadimos este 4 de aquí.
+
+00:02:03.207 --> 00:02:07.207
+Y así es como llegamos a nuestra respuesta: "222".

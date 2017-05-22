@@ -1,0 +1,330 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.320 --> 00:00:03.070
+En el ultimo par de videos vimos que podemos describir
+
+00:00:03.070 --> 00:00:07.810
+curvas mediante una función vectorial valorada de posición.
+
+00:00:07.810 --> 00:00:11.020
+Y en terminos generales, seria la posicion "x" como una
+
+00:00:11.020 --> 00:00:13.750
+funcion del tiempo multiplicado por el vector unitario en la
+
+00:00:13.750 --> 00:00:15.260
+dirección horizontal.
+
+00:00:15.260 --> 00:00:19.010
+Mas la posición "y" como una función de tiempo 
+multiplicado por
+
+00:00:19.010 --> 00:00:22.040
+el vector unitario en la dirección vertical.
+
+00:00:22.040 --> 00:00:25.120
+Y ésto esencialmente va a describir ésto - pero, si
+
+00:00:25.120 --> 00:00:27.160
+imaginas una partícula y digamos que el parámetro
+
+00:00:27.160 --> 00:00:28.620
+"t" representa el tiempo...
+
+00:00:28.620 --> 00:00:32.030
+ésto va a describir el lugar donde la partícula se encuentra en un momento determinado.
+
+00:00:32.030 --> 00:00:34.630
+Y si quisieramos una curva en particular podemos decir, bueno, esto
+
+00:00:34.630 --> 00:00:40.220
+sólo se aplica a algunas curvas - que estamos tratando, es "r" de "t".
+
+00:00:40.220 --> 00:00:44.130
+Y es sólo aplicable cuando "t" es mayor
+
+00:00:44.130 --> 00:00:46.710
+que "a" y menor que "b"
+
+00:00:46.710 --> 00:00:48.740
+Y por tanto, esto describe una curva
+
+00:00:48.740 --> 00:00:50.060
+en dos dimensiones.
+
+00:00:50.060 --> 00:00:51.120
+Voy a dibujarlo aqui
+
+00:00:51.120 --> 00:00:54.920
+Esto realmente es todo una revisión de los dos últimos videos
+
+00:00:54.920 --> 00:00:58.050
+Entonces esta curva, debería verse algo así, donde esto
+
+00:00:58.050 --> 00:00:59.840
+es cuando "t" es igual a "a"
+
+00:00:59.840 --> 00:01:02.610
+...esto es cuando "t" es igual a "b"...
+
+00:01:02.610 --> 00:01:06.260
+y entonces "r" de "a" será este vector de aquí que
+
+00:01:06.260 --> 00:01:08.440
+acaba en ese punto.
+
+00:01:08.440 --> 00:01:11.170
+Y luego para "t", si imaginas que el parámetro es el
+
+00:01:11.170 --> 00:01:13.210
+tiempo, no tiene por que ser el tiempo, pero es una forma
+
+00:01:13.210 --> 00:01:15.300
+conveniente para visualizarlo.
+
+00:01:15.300 --> 00:01:18.030
+Cada vector correspondiente 
+mientras "t" se va incrementando...
+estamos únicamente
+
+00:01:18.030 --> 00:01:20.310
+yendo a distintos --- estamos especificando distintos
+
+00:01:20.310 --> 00:01:22.230
+puntos sobre la curva.
+
+00:01:22.230 --> 00:01:24.070
+Vimos esto hace dos videos.
+
+00:01:24.070 --> 00:01:27.470
+Y en el último video estuvimos pensando, bueno, ¿qué significa
+
+00:01:27.470 --> 00:01:31.110
+tomar la derivada de la función vectorial?
+
+00:01:31.110 --> 00:01:34.030
+Y llegamos a la idea que ---y no era solo una idea, sino que
+
+00:01:34.030 --> 00:01:35.550
+de hecho demostramos que era cierta.
+
+00:01:35.550 --> 00:01:37.530
+Y llegamos realmente a la definición
+
+00:01:37.530 --> 00:01:40.980
+que la derivada -- lo puedo llamar "r" prima de "t" --- va a
+
+00:01:40.980 --> 00:01:42.220
+ser un vector.
+
+00:01:42.220 --> 00:01:43.940
+La derivada de una función vectorial va a ser
+
+00:01:43.940 --> 00:01:45.330
+otra vez una derivada.
+
+00:01:45.330 --> 00:01:49.060
+Pero será igual a ---de la forma en que lo definimos--- "x" prima de "t"
+
+00:01:49.060 --> 00:01:54.690
+multiplicado por "i" 
+mas "y" prima de "t" 
+multiplicado por "j"
+
+00:01:54.690 --> 00:01:56.880
+O en otra forma de escribirlo --- y voy a escribirlo en
+
+00:01:56.880 --> 00:01:59.160
+todas las distintas formas para que te familiarices con ellas ---
+
+00:01:59.160 --> 00:02:04.740
+dr/dt es igual a dx/dt
+
+00:02:04.740 --> 00:02:06.330
+Esto es solo una derivada estandar
+
+00:02:06.330 --> 00:02:08.650
+"x" de "t" es una función escalar
+
+00:02:08.650 --> 00:02:12.940
+Entonces esto es una derivada estándar, multiplicado por "i"
+
+00:02:12.940 --> 00:02:17.610
+mas dy/dt multiplicado por "j"
+
+00:02:17.610 --> 00:02:20.680
+Y si quisieramos pensar en el diferencial, una cosa
+
+00:02:20.680 --> 00:02:23.770
+en la que podemos pensar -- y siempre que
+
+00:02:23.770 --> 00:02:25.840
+calculo el diferencial es un poco ondulado.
+
+00:02:25.840 --> 00:02:26.950
+No voy a ser muy riguroso
+
+00:02:26.950 --> 00:02:29.855
+pero si imaginas la multiplicación de ambos lados de la ecuación
+
+00:02:29.855 --> 00:02:37.590
+por una dt muy pequeña o exactamente esta dt, obtendrías que dr es igual a--
+
+00:02:37.590 --> 00:02:38.740
+Voy a dejar esto aquí.
+
+00:02:38.740 --> 00:02:41.330
+dx/dt multiplicado por dt.
+
+00:02:41.330 --> 00:02:43.765
+Podría hacer que estas se cancelaran,
+
+00:02:43.765 --> 00:02:45.140
+pero lo escribiré así primero,
+
+00:02:45.140 --> 00:02:52.950
+multiplicado por el vector unitario "i"
+mas dy/dt multiplicado por dt,
+
+00:02:52.950 --> 00:02:55.310
+multiplicado por el vector unitario "j".
+
+00:02:55.310 --> 00:02:56.510
+O lo podemos reescribir así,
+
+00:02:56.510 --> 00:02:58.570
+y solo lo estoy reescribiendo en todas las formas
+
+00:02:58.570 --> 00:03:00.040
+diferentes en que uno puede reescribirlo.
+
+00:03:00.040 --> 00:03:09.070
+También se podría escribir como
+dr es igual a "x" prima de "t" dt
+
+00:03:09.070 --> 00:03:10.340
+multiplicado por el vector unitario "i".
+
+00:03:10.340 --> 00:03:15.970
+Entonces esto era "x" prima de "t" dt
+
+00:03:15.970 --> 00:03:20.010
+Ésto es "x" prima de "t" multiplicado por el vector unitario
+
+00:03:20.010 --> 00:03:22.750
+mas "y" prima de "t".
+
+00:03:22.750 --> 00:03:24.400
+Ésto es sólo ésto de acá
+
+00:03:24.400 --> 00:03:26.210
+multiplicado por dt
+
+00:03:26.210 --> 00:03:27.980
+multiplicado por el vector unitario "j".
+
+00:03:27.980 --> 00:03:31.000
+Y solo para completar la trifecta, la otra manera
+
+00:03:31.000 --> 00:03:34.720
+en que se puede escribir esto es
+dr es igual a --
+
+00:03:34.720 --> 00:03:37.980
+si permitimos que se cancelen -- lo que obtenemos es igual a
+
+00:03:37.980 --> 00:03:44.700
+dx multiplicado por "i" multiplicado por dy "y"
+multiplicado por "j"
+
+00:03:44.700 --> 00:03:46.630
+Y eso tiene mucho sentido intuitivo.
+
+00:03:46.630 --> 00:03:48.860
+Si veo cualquier dr, digamos que vemos
+
+00:03:48.860 --> 00:03:53.325
+el cambio entre este vector y éste,
+
+00:03:53.325 --> 00:03:57.300
+digamos que hay un cambio super pequeño aquí, esto es
+
+00:03:57.300 --> 00:04:02.390
+nuestro dr, y esta conformado de -- es nuestro dx,
+
+00:04:02.390 --> 00:04:03.490
+nuestro cambio en "x" es ésto aquí.
+
+00:04:03.490 --> 00:04:06.350
+Imagina que ésto aquí multiplicado por --
+
+00:04:06.350 --> 00:04:08.740
+pero estamos vectorizandolo al multiplicarlo
+
+00:04:08.740 --> 00:04:10.120
+por el vector unitario en la dirección horizontal.
+
+00:04:10.120 --> 00:04:16.070
+mas dy multiplicado por el vector unitario en dirección vertical.
+
+00:04:16.070 --> 00:04:17.990
+Entonces, cuando multiplicas esta distancia
+
+00:04:17.990 --> 00:04:19.633
+por el vector unitario, obtenemos esencialmente este vector.
+
+00:04:22.560 --> 00:04:24.840
+Y cuando multiplicamos éste -- y de hecho nuestro cambio en "y"
+
+00:04:24.840 --> 00:04:26.530
+aquí es negativo -- vas a obtener
+
+00:04:26.530 --> 00:04:28.750
+este vector aquí.
+
+00:04:28.750 --> 00:04:31.390
+Así que cuando sumas éstos, obtendrás tu cambio
+
+00:04:31.390 --> 00:04:33.370
+en tu vector de posición actual.
+
+00:04:33.370 --> 00:04:36.020
+Eso fue un poco de antecedentes.
+
+00:04:36.020 --> 00:04:39.160
+Y tal vez sea útil en
+
+00:04:39.160 --> 00:04:39.800
+futuros videos.
+
+00:04:39.800 --> 00:04:43.160
+De hecho, voy a dejarlo aquí porque
+
+00:04:43.160 --> 00:04:44.910
+quiero presentar esta notación y
+
+00:04:44.910 --> 00:04:45.720
+familiarizarte con ella.
+
+00:04:45.720 --> 00:04:48.770
+En el próximo video lo que haré es darte un
+
+00:04:48.770 --> 00:04:53.780
+poco mas de intuición de lo que ésto
+
+00:04:53.780 --> 00:04:54.780
+significa exactamente
+
+00:04:54.780 --> 00:04:57.560
+y como cambia dependiendo de
+
+00:04:57.560 --> 00:04:58.540
+diferentes parametrizaciones.
+
+00:04:58.540 --> 00:05:00.780
+Y lo haré con dos parametrerizaciones distintas
+
+00:05:00.780 --> 00:05:03.110
+para la misma curva.

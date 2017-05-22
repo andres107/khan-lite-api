@@ -1,0 +1,411 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.087 --> 00:00:03.075
+Lo que quiero hacer en este video, es hablar acerca de la diferencia
+
+00:00:03.135 --> 00:00:08.707
+entre magnitudes vectoriales y magnitudes escalares.
+
+00:00:08.707 --> 00:00:13.142
+Y pueden parecer ideas complicadas pero vamos a ver que
+
+00:00:13.142 --> 00:00:16.267
+son realmente simples.
+
+00:00:16.267 --> 00:00:18.200
+Primero, voy a contarles las definiciones
+
+00:00:18.200 --> 00:00:20.550
+y luego daré ejemplos
+
+00:00:20.550 --> 00:00:21.970
+y creo que estos ejemplos van a hacer que todo sea muy claro
+
+00:00:23.490 --> 00:00:24.961
+Espero que los ejemplos vayan a aclarar algunas cosas.
+
+00:00:24.961 --> 00:00:30.533
+Un vector es algo que tiene una magnitud-
+
+00:00:30.533 --> 00:00:32.733
+es decir, una longitud que se puede medir,
+
+00:00:32.733 --> 00:00:34.667
+y tiene una dirección.
+
+00:00:34.667 --> 00:00:41.733
+Pues, tiene una dirección.
+
+00:00:41.733 --> 00:00:45.600
+Una magnitud escalar tiene solamente una magnitud o longitud que se puede medir. No tiene una dirección.
+
+00:00:45.600 --> 00:00:47.206
+Y si no comprendes esto
+
+00:00:47.206 --> 00:00:51.867
+comprenderás en unos segundos cuando te muestre un ejemplo.
+
+00:00:51.867 --> 00:00:57.307
+Por ejemplo, si esto de aquí es la tierra
+
+00:00:57.307 --> 00:01:00.800
+voy a dibujar la tierra en un color que es más como la tierra.
+
+00:01:00.800 --> 00:01:03.733
+así, esto verde de aquí.
+
+00:01:03.733 --> 00:01:07.067
+Voy a escoger y tengo un ladrillo aqui
+
+00:01:07.067 --> 00:01:10.667
+Tengo un ladrillo sobre la tierra.
+
+00:01:10.667 --> 00:01:12.733
+Y yo levanto este ladrillo
+
+00:01:12.733 --> 00:01:18.400
+y lo muevo justo hasta este lugar
+
+00:01:18.400 --> 00:01:22.222
+entonces moví el ladrllo hasta allí
+
+00:01:22.222 --> 00:01:24.200
+y tome una regla y dije:
+
+00:01:24.200 --> 00:01:32.446
+"Wow!!! moví el ladrillo 5 metros"
+
+00:01:32.800 --> 00:01:37.492
+Entonces mi pregunta es: la medida de cinco metros que tomé
+
+00:01:37.492 --> 00:01:39.994
+es un vector o un escalar?
+
+00:01:39.994 --> 00:01:42.496
+es un vector o un escalar?
+
+00:01:42.496 --> 00:01:45.000
+Bueno, si solo te digo cinco metros, solo vas a saber la medida del movimiento.
+
+00:01:45.000 --> 00:01:47.667
+Solo sabes la magnitud del movimiento.
+
+00:01:47.667 --> 00:01:56.164
+Entonces si alguien dice solamente "cinco metros", es una medida escalar.
+
+00:01:56.164 --> 00:01:58.933
+Cuando nos referimos a mover algo
+
+00:01:58.933 --> 00:02:02.800
+o a cuanto algo a cambiado de posición
+
+00:02:02.800 --> 00:02:06.267
+y no te doy la dirección, solo estamos hablando de distancia.
+
+00:02:06.267 --> 00:02:09.133
+(asumiendo que conoces la palabra distancia)
+
+00:02:09.133 --> 00:02:11.333
+Cuanta distancia se trasladó algo?
+
+00:02:11.333 --> 00:02:14.400
+Eso es distancia.
+
+00:02:14.400 --> 00:02:18.995
+En cambio podemos decir que este ladrillo o bloque, se movió en una dirección porque yo lo agarré y lo moví
+
+00:02:18.995 --> 00:02:21.000
+se movió una distancia de cinco metros
+
+00:02:21.000 --> 00:02:22.867
+Pero si no te mostrara este dibujo
+
+00:02:22.867 --> 00:02:25.800
+y alguien te dijera que se movió una distancia de cinco metros,
+
+00:02:25.800 --> 00:02:28.667
+no sabrías que se movió cinco metros a la derecha
+
+00:02:28.667 --> 00:02:30.333
+o si se movió cinco metros a la izquierda.
+
+00:02:30.333 --> 00:02:32.133
+O si se movió para arriba o para abajo o adelante o atrás-
+
+00:02:32.133 --> 00:02:33.800
+No sabrías la dirección en la que se movió
+
+00:02:33.800 --> 00:02:36.067
+solo sabrías que se movió cinco metros.
+
+00:02:36.067 --> 00:02:38.333
+Si querés especificar eso,
+
+00:02:38.333 --> 00:02:49.852
+podríamos decir que este ladrillo se movió cinco metros a la izquierda.
+
+00:02:53.467 --> 00:03:00.067
+Ahora especificamos una magnitud - Hasta ahí, esa es la magnitud -
+
+00:03:00.067 --> 00:03:04.733
+y especificamos una dirección: "a la izquierda".
+
+00:03:04.733 --> 00:03:08.702
+Entonces ahora explícitamente sabes que fueron cinco metros hacia la izquier-
+
+00:03:08.702 --> 00:03:12.000
+uy, perdón, tendrían que haber sido cinco metros hacia la derecha, déjenme cambiar eso.
+
+00:03:12.000 --> 00:03:20.733
+Entonces cinco metros a la derecha fue lo que se movió.
+
+00:03:20.733 --> 00:03:23.267
+Empezó acá, y se fue cinco metros a la derecha
+
+00:03:23.267 --> 00:03:24.467
+Entonces de nuevo:
+
+00:03:24.467 --> 00:03:27.333
+la magnitud es cinco metros
+
+00:03:27.333 --> 00:03:31.667
+y la dirección es hacia la derecha.
+
+00:03:31.667 --> 00:03:35.533
+Bien , lo que te he descrito aquí es una cantidad vectorial.
+
+00:03:35.533 --> 00:03:39.733
+Bueno, de todo este asunto aquí - ésto es un vector.
+
+00:03:39.733 --> 00:03:43.400
+Y cuando hablas de movimiento, el cambio de posición, y das su dirección -
+
+00:03:43.400 --> 00:03:45.979
+la version del vector de distancia, imagino que podrías llamarlo -
+
+00:03:45.979 --> 00:03:48.067
+es desplazamiento.
+
+00:03:48.067 --> 00:03:53.467
+Entonces, esto aquí es desplazamiento.
+
+00:03:53.744 --> 00:03:55.288
+Lo correcto es decir:
+
+00:03:55.288 --> 00:04:01.600
+Dirías que este ladrillo ha sido desplazado cinco metros a la derecha
+
+00:04:01.600 --> 00:04:05.267
+o ha sido movido a una distancia de cinco metros.
+
+00:04:05.267 --> 00:04:07.733
+La distancia es una cantidad escalar
+
+00:04:07.733 --> 00:04:09.667
+No te dije en que dirección lo movimos.
+
+00:04:09.667 --> 00:04:12.333
+Desplazamiento es una cantidad vectorial.
+
+00:04:12.333 --> 00:04:15.667
+Te dijimos que es a la derecha.
+
+00:04:15.667 --> 00:04:22.667
+Exploremos ésto ahora, si hablamos de la rapidez actual o la velocidad de algo.
+
+00:04:22.667 --> 00:04:28.933
+Digamos que estos cinco metros fueron recorridos,
+
+00:04:28.933 --> 00:04:34.144
+y digamos que el cambio en el tiempo
+
+00:04:34.144 --> 00:04:37.046
+(déjenme, porque quizás no estes familiarizado con lo que significa)
+
+00:04:37.046 --> 00:04:41.636
+Digamos que el cambio en el tiempo aquí - cambio en el tiempo
+
+00:04:41.636 --> 00:04:44.985
+cuando moví este bloque cinco metros
+
+00:04:44.985 --> 00:04:51.405
+Digamos que el cambio en el tiempo fue dos segundos.
+
+00:04:51.405 --> 00:04:54.533
+Quizas, cuando el bloque empezó a moverse
+
+00:04:54.533 --> 00:04:56.867
+quizás cuando my reloj marcador decía cero
+
+00:04:56.867 --> 00:05:00.267
+y luego en mi reloj, cuando lo paré, dejó de moverse y decía
+
+00:05:00.267 --> 00:05:02.267
+o cuando llego a esta posición, debiera decir -
+
+00:05:02.267 --> 00:05:04.733
+Cuando dejó esta posición mi reloj decía cero,
+
+00:05:04.733 --> 00:05:08.067
+Cuando llegó a esta posición mi reloj decía dos segundos
+
+00:05:08.067 --> 00:05:13.067
+Así que, el cambio en el tiempo o la duración con la estamos tratando es dos segundos.
+
+00:05:13.067 --> 00:05:15.800
+Porque todos sabemos, el tiempo va sólo en dirección positiva,
+
+00:05:15.800 --> 00:05:21.333
+Así que puedes tomar eso como una cantidad vectorial o escalar, supongo
+
+00:05:21.333 --> 00:05:24.333
+Porque sólo hay una dirección para el tiempo, que sepamos.
+
+00:05:24.333 --> 00:05:29.067
+o al menos con lo que estamos tratando en física simple.
+
+00:05:29.067 --> 00:05:34.000
+Entonces, ¿Cuál es la medidad de cuán rápido se movió esta cosa?
+
+00:05:34.000 --> 00:05:37.600
+¿Cuán rápido se movió?
+
+00:05:37.600 --> 00:05:41.667
+Bien, podríamos decir que se movió cinco metros en dos segundos.
+
+00:05:41.667 --> 00:05:42.867
+(Déjenme escribirlo)
+
+00:05:42.867 --> 00:05:50.200
+Entonces se movió cinco metros por dos segundos.
+
+00:05:54.338 --> 00:05:59.200
+ó, podríamos escribir esta como 5/2 m/s
+
+00:05:59.200 --> 00:06:07.800
+ó cinco dividido por dos es 2.5 metros por segundo.
+
+00:06:14.138 --> 00:06:16.575
+Esto aquí es simplemente cinco dividido por dos.
+
+00:06:16.575 --> 00:06:18.331
+(Déjenme aclarar eso)
+
+00:06:18.331 --> 00:06:23.364
+Eso ahí es simplemente cinco dividido por dos.
+
+00:06:23.364 --> 00:06:24.938
+Así que mi pregunta para tí:
+
+00:06:24.938 --> 00:06:29.898
+Estos 2.5 metros por segundo - te dice cuán lejos viajó en un cierto monto de tiempo -
+
+00:06:29.898 --> 00:06:32.255
+¿Es ésta una cantidad vectorial o escalar?
+
+00:06:32.255 --> 00:06:33.694
+Te está diciendo cuán rápido fue,
+
+00:06:33.694 --> 00:06:40.133
+¿Pero te está dando sólo un tamaño de cuán rápido se fue ó está dándote tambien la dirección?
+
+00:06:40.133 --> 00:06:42.067
+Bien, no veo ninguna dirección aquí
+
+00:06:42.067 --> 00:06:44.333
+entonces, esto es una cantidad escalar.
+
+00:06:44.333 --> 00:06:50.067
+Y la cantidad escalar para cúan rapido algo está yendo es la velocidad.
+
+00:06:50.067 --> 00:06:56.000
+Entonces, podríamos decir que la velocidad del ladrillo es 2.5 metros por segundo.
+
+00:06:56.000 --> 00:07:02.385
+Ahora, si hacemos la misma calculación, si decimos que se fue cinco metros -
+
+00:07:02.385 --> 00:07:03.741
+Escribiré sólo "m" para metros -
+
+00:07:03.741 --> 00:07:09.852
+cinco metros a la derecha en dos segundos.
+
+00:07:13.268 --> 00:07:15.200
+Entonces, ¿Qué obtenemos?
+
+00:07:15.200 --> 00:07:19.754
+Obtenemos 2.5 metros por segundo -
+
+00:07:19.754 --> 00:07:21.400
+Simplemente los abreviaré -
+
+00:07:21.400 --> 00:07:27.348
+como metros por segundo a la derecha.
+
+00:07:31.271 --> 00:07:33.800
+Entonces, ¿Es ésta una cantidad vectorial o escalar?
+
+00:07:33.800 --> 00:07:39.867
+Estoy diciéndote que la magnitud de la velocidad es ésta aquí - ésta es la magnitud:
+
+00:07:39.867 --> 00:07:41.733
+2.5 metros por segundo -
+
+00:07:41.733 --> 00:07:44.800
+te estoy diciendo tambien la dirección: a la derecha.
+
+00:07:44.800 --> 00:07:49.221
+Entonces ésta es una cantidad vectorial.
+
+00:07:49.221 --> 00:07:52.333
+Y cuando especificas ambos, la velocidad y la dirección -
+
+00:07:52.333 --> 00:07:55.400
+Por lo que los 2.5 metros es una escalar y la dirección -
+
+00:07:55.400 --> 00:07:58.200
+Estás hablando de velocidad.
+
+00:08:01.446 --> 00:08:03.467
+Bueno, fácil manera de pensarlo:
+
+00:08:03.467 --> 00:08:05.800
+Si estás pensando en cambio de posición
+
+00:08:05.800 --> 00:08:09.600
+y especificas la dirección del cambio en la posición, estás hablando de desplazamiento.
+
+00:08:09.600 --> 00:08:13.200
+Si no estás hablando de dirección, quieres la versión escalar,
+
+00:08:13.200 --> 00:08:14.733
+estás hablando de distancia.
+
+00:08:14.733 --> 00:08:17.333
+Si estás hablando sobre cuán rápido algo va
+
+00:08:17.333 --> 00:08:19.933
+y das la dirección en la está yendo,
+
+00:08:19.933 --> 00:08:21.467
+estás hablando de rapidez.
+
+00:08:21.467 --> 00:08:26.667
+Si no das la dirección, estás hablando de velocidad
+
+00:08:26.667 --> 00:08:28.333
+Espero que te ayude un poquito -
+
+00:08:28.333 --> 00:08:30.333
+y en el siguiente video vamos a empezar trabajando con estos un poco
+
+00:08:30.333 --> 00:08:33.000
+y empezar a resolver algunas preguntas básicas
+
+00:08:33.000 --> 00:08:36.000
+sobre cuán rápido algo esta yendo o cúan lejos pueda estar viajando
+
+99:59:59.999 --> 00:00:03.999
+o cuánto llevaría para llegar a algun lugar.

@@ -1,0 +1,550 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.860 --> 00:00:05.610
+Hasta donde lo dejamos, le había dado usted la pregunta--estos
+
+00:00:05.610 --> 00:00:07.340
+tipos de ecuaciones son bastante sencillos.
+
+00:00:07.340 --> 00:00:10.910
+Cuando tenemos dos raíces reales, entonces esto
+
+00:00:10.910 --> 00:00:11.685
+es la solución general.
+
+00:00:11.685 --> 00:00:13.650
+Y si tienes sus condiciones iniciales, puede
+
+00:00:13.650 --> 00:00:15.420
+resolver para c1 y c2.
+
+00:00:15.420 --> 00:00:17.800
+Pero la pregunta que estoy pidiendo es, ¿qué sucede cuando tienes
+
+00:00:17.800 --> 00:00:19.100
+¿dos raíces complejas?
+
+00:00:19.100 --> 00:00:20.890
+O esencialmente, cuando usted está tratando de resolver el
+
+00:00:20.890 --> 00:00:23.260
+¿ecuación característica?
+
+00:00:23.260 --> 00:00:24.680
+¿Cuando usted está intentando resolver ese cuadrática?
+
+00:00:24.680 --> 00:00:27.050
+La b al cuadrado menos 4AC, que eso es negativo.
+
+00:00:27.050 --> 00:00:30.610
+Para obtener las dos raíces terminan siendo conjugados complejos.
+
+00:00:30.610 --> 00:00:32.920
+Y nos dijo OK, digamos que nuestros dos raíces son lambda plus
+
+00:00:32.920 --> 00:00:34.230
+o menos mu i.
+
+00:00:34.230 --> 00:00:36.770
+Y solo hicimos un montón de álgebra.
+
+00:00:36.770 --> 00:00:38.710
+Hemos dicho, pues si esas son las raíces y lo sustituimos
+
+00:00:38.710 --> 00:00:41.640
+en esta fórmula para la solución general,
+
+00:00:41.640 --> 00:00:42.990
+conseguimos todo esto.
+
+00:00:42.990 --> 00:00:46.810
+Y seguimos simplificación de TI, todo el camino hasta que llegamos aquí,
+
+00:00:46.810 --> 00:00:51.505
+donde hemos dicho y es igual a e a la lambda x plus c1, et
+
+00:00:51.505 --> 00:00:52.300
+Cetera, et cetera.
+
+00:00:52.300 --> 00:00:53.830
+¿Y dijimos, podemos simplificamos esto más?
+
+00:00:53.830 --> 00:00:56.740
+Y es donde tomamos las ecuaciones de Euler o de Euler
+
+00:00:56.740 --> 00:00:58.700
+fórmula o definición de Euler, dependiendo de lo que
+
+00:00:58.700 --> 00:01:01.350
+desea, que siempre estoy en la admiración de cada vez
+
+00:01:01.350 --> 00:01:03.290
+ver o utilizar.
+
+00:01:03.290 --> 00:01:06.420
+Pero ya hemos hablado mucho acerca de en la lista de reproducción de cálculo.
+
+00:01:06.420 --> 00:01:09.100
+Podríamos utilizar esto quizás más simplificarlo, así que me
+
+00:01:09.100 --> 00:01:15.610
+escribió e a la xi mu como mu coseno x plus mu sine x.
+
+00:01:15.610 --> 00:01:20.250
+Y escribí e negativo mu xi es coseno menos mu x plus i
+
+00:01:20.250 --> 00:01:22.510
+sine menos mu x.
+
+00:01:22.510 --> 00:01:24.450
+Y ahora podríamos usar un poco sobre lo que sabemos acerca de
+
+00:01:24.450 --> 00:01:26.060
+trigonometría.
+
+00:01:26.060 --> 00:01:33.320
+Coseno de menos theta es igual al coseno de theta.
+
+00:01:33.320 --> 00:01:38.300
+Y también sabemos que seno de menos theta es igual a menos
+
+00:01:38.300 --> 00:01:40.740
+seno de theta.
+
+00:01:40.740 --> 00:01:43.260
+Así que vamos a utilizar estas identidades para simplificar esto
+
+00:01:43.260 --> 00:01:44.010
+un poco más.
+
+00:01:44.010 --> 00:01:54.355
+Por lo que tenemos y es igual a e a la lambda x veces--y nos
+
+00:01:54.355 --> 00:02:02.640
+realmente podría distribuir el c1 demasiado--tan veces c1 coseno de
+
+00:02:02.640 --> 00:02:18.760
+Mu x, además me veces c1 sinusoidal de mu x, plus--todo esto es en
+
+00:02:18.760 --> 00:02:23.670
+este paréntesis derecho aquí--plus c2--en lugar de coseno de
+
+00:02:23.670 --> 00:02:25.430
+mu negativo x, sabemos que esta identidad.
+
+00:02:25.430 --> 00:02:30.390
+Por lo que sólo podemos escribir esto como coseno de mu x,
+
+00:02:30.390 --> 00:02:34.540
+porque el coseno de menos x es lo mismo que el coseno de x.
+
+00:02:34.540 --> 00:02:42.860
+Plus I veces c2--sine de menos mu x es lo mismo
+
+00:02:42.860 --> 00:02:44.840
+como menos seno de x.
+
+00:02:44.840 --> 00:02:47.900
+Así que en realidad, vamos a tomar esto, toman el seno menos ahi.
+
+00:02:47.900 --> 00:02:53.630
+Así menos seno de mu x.
+
+00:02:53.630 --> 00:02:56.165
+Y vamos a ver, parece que estamos a un punto que
+
+00:02:56.165 --> 00:02:58.240
+podemos simplificar aún más.
+
+00:02:58.240 --> 00:03:02.280
+Podemos agregar los términos dos coseno.
+Así obtenemos el general
+
+00:03:02.280 --> 00:03:06.700
+solución y sé que este problema requiere mucha
+
+00:03:06.700 --> 00:03:09.130
+aguante algebraica, pero como mucho no haces descuidado
+
+00:03:09.130 --> 00:03:11.390
+errores que encontrará bastante gratificante, porque
+
+00:03:11.390 --> 00:03:13.390
+verás de donde vienen las cosas.
+
+00:03:13.390 --> 00:03:16.680
+Así obtenemos y--la solución general es y es igual a e a
+
+00:03:16.680 --> 00:03:23.770
+el lambda x, tiempos--vamos a sumar el mu dos coseno x
+
+00:03:23.770 --> 00:03:33.320
+términos. Por eso es c1 y c2 veces coseno de mu x.
+
+00:03:33.320 --> 00:03:39.965
+Y vamos a agregar el seno dos de mu x términos. Así además me--nos
+
+00:03:39.965 --> 00:03:50.130
+podría llamar a ese c1i--que es eso--menos c2i
+
+00:03:50.130 --> 00:03:54.900
+veces sinusoidal de mu x.
+
+00:03:54.900 --> 00:03:56.400
+Y casi hemos terminado la simplificación.
+
+00:03:56.400 --> 00:03:59.010
+Y es lo último que podemos simplificar--bien sabes c1
+
+00:03:59.010 --> 00:04:01.230
+y c2 son constantes arbitrarias.
+
+00:04:01.230 --> 00:04:04.940
+Así que vamos a definir sólo esto como otra constante.
+
+00:04:04.940 --> 00:04:08.730
+No sé, vamos a llamar a TI--para que sólo llamaremos c3, sólo
+
+00:04:08.730 --> 00:04:13.470
+no te confunda usando dos veces c1, que llamaré este c3.
+
+00:04:13.470 --> 00:04:15.450
+Y ahora esto podría ser un poco más de un tramo para usted, pero
+
+00:04:15.450 --> 00:04:17.140
+Si pones a pensar, realmente tiene sentido.
+
+00:04:17.140 --> 00:04:20.790
+¿Esto es sólo una constante, correcto?
+
+00:04:20.790 --> 00:04:23.890
+Especialmente si digo, sabes qué, no estoy restringiendo la
+
+00:04:23.890 --> 00:04:25.330
+constantes a los reales.
+
+00:04:25.330 --> 00:04:27.300
+c puede ser un número imaginario.
+
+00:04:27.300 --> 00:04:29.470
+Así que si c es un número imaginario, o algún tipo de
+
+00:04:29.470 --> 00:04:31.510
+número complejo, ni siquiera sabemos si se trata
+
+00:04:31.510 --> 00:04:33.360
+necesariamente un número imaginario.
+
+00:04:33.360 --> 00:04:35.450
+Así que no vamos a hacer ninguna suposición sobre él.
+
+00:04:35.450 --> 00:04:38.340
+Digamos que se trata de algunos otro constante arbitraria.
+
+00:04:38.340 --> 00:04:41.050
+Llame a este c4, y nos podemos preocupar cuando estamos realmente
+
+00:04:41.050 --> 00:04:42.700
+dadas las condiciones iniciales.
+
+00:04:42.700 --> 00:04:45.370
+Pero lo que esto nos da, si hacemos esa simplificación, nos
+
+00:04:45.370 --> 00:04:47.910
+conseguir realmente una manera bastante directa, general
+
+00:04:47.910 --> 00:04:51.280
+solución a nuestra ecuación diferencial, donde la
+
+00:04:51.280 --> 00:04:53.860
+ecuación característica tiene raíces complejas.
+
+00:04:53.860 --> 00:04:56.370
+Y que lo haré en un nuevo color.
+
+00:04:56.370 --> 00:05:05.000
+Y es igual a e a la lambda x, algunas veces
+
+00:05:05.000 --> 00:05:07.220
+constante--lo llamaremos c3.
+
+00:05:07.220 --> 00:05:07.740
+Podría ser c1.
+
+00:05:07.740 --> 00:05:09.970
+Podría ser c cien independientemente.
+
+00:05:09.970 --> 00:05:15.510
+Constante de algunas veces coseno de mu de x, además de algunos otros
+
+00:05:15.510 --> 00:05:18.130
+constante--y me llamó c4, no tiene que ser c4, solo
+
+00:05:18.130 --> 00:05:20.120
+no quería confundir con estos--además de otros
+
+00:05:20.120 --> 00:05:23.870
+constante veces el seno de mu de x.
+
+00:05:23.870 --> 00:05:27.940
+Así que realmente hay dos cosas que quiero que te des cuenta.
+
+00:05:27.940 --> 00:05:31.560
+Uno es, no hemos hecho nada diferente.
+
+00:05:31.560 --> 00:05:35.110
+Al final del día, sólo tomamos las dos raíces
+
+00:05:35.110 --> 00:05:40.740
+y lo sustituye en estas ecuaciones para r1 y r2.
+
+00:05:40.740 --> 00:05:44.850
+La diferencia es que sólo mantuvimos algebraicamente simplificar
+
+00:05:44.850 --> 00:05:47.020
+lo que nos hemos librado de la i
+
+00:05:47.020 --> 00:05:47.760
+Eso es todo lo que hicimos.
+
+00:05:47.760 --> 00:05:50.890
+No había realmente nada nuevo aquí excepto algunos álgebra,
+
+00:05:50.890 --> 00:05:53.040
+y el uso de la fórmula de Euler.
+
+00:05:53.040 --> 00:06:00.990
+Pero cuando r1 y r2 implicados números complejos, nos pusimos a
+
+00:06:00.990 --> 00:06:02.960
+Esta simplificación.
+
+00:06:02.960 --> 00:06:05.840
+Así que en general, como se obtiene la ecuación característica, y
+
+00:06:05.840 --> 00:06:12.630
+sus dos raíces sentimos mu más o menos--oh, no.
+
+00:06:12.630 --> 00:06:18.790
+Sus dos raíces son lambda más o menos mu, entonces el
+
+00:06:18.790 --> 00:06:20.710
+solución general va a ser esto.
+
+00:06:20.710 --> 00:06:23.960
+Y, si tuviera que memorizar, aunque no quiero
+
+00:06:23.960 --> 00:06:26.110
+a, debe derivar esto por su cuenta.
+
+00:06:26.110 --> 00:06:28.370
+Pero no es demasiado difícil para--y realmente si olvida
+
+00:06:28.370 --> 00:06:33.320
+resolver la ecuación característica, obtener su complejo
+
+00:06:33.320 --> 00:06:35.010
+números y simplemente sustituir derecha
+
+00:06:35.010 --> 00:06:36.220
+en esta ecuación.
+
+00:06:36.220 --> 00:06:38.680
+Y luego con los números reales, en lugar de la lambda
+
+00:06:38.680 --> 00:06:40.740
+y el mu, con los números reales, no sólo la
+
+00:06:40.740 --> 00:06:41.540
+simplificación que hicimos.
+
+00:06:41.540 --> 00:06:43.400
+Y obtendrá en el mismo punto exacto.
+
+00:06:43.400 --> 00:06:45.730
+Pero si usted está tomando un examen, y no quieres perder
+
+00:06:45.730 --> 00:06:47.760
+tiempo y desea poder hacer algo bastante
+
+00:06:47.760 --> 00:06:52.740
+rápidamente, sólo puede recordar que si tengo una raíz compleja,
+
+00:06:52.740 --> 00:06:55.860
+o si tengo raíces complejas que mi ecuación característica,
+
+00:06:55.860 --> 00:07:02.795
+lambda más o menos mu, entonces mi solución general es e
+
+00:07:02.795 --> 00:07:07.000
+a la lambda x, tiempos de algunas constantes, coseno de tiempos de mu x
+
+00:07:07.000 --> 00:07:10.070
+Además algunos constante, tiempos sinusoidal de mu x.
+
+00:07:10.070 --> 00:07:14.250
+Y vamos a ver si podemos hacer un problema real rápido
+
+00:07:14.250 --> 00:07:15.310
+implica.
+
+00:07:15.310 --> 00:07:22.760
+Así que vamos a decir que tenía la ecuación diferencial y primer
+
+00:07:22.760 --> 00:07:26.600
+Prime plus la derivada primera plus
+
+00:07:26.600 --> 00:07:28.880
+y es igual a 0.
+
+00:07:28.880 --> 00:07:33.150
+Por lo tanto nuestra ecuación característica es r squared plus r plus 1 es
+
+00:07:33.150 --> 00:07:34.790
+igual a 0.
+
+00:07:34.790 --> 00:07:39.780
+Vamos a romper la Fórmula cuadrática.
+
+00:07:39.780 --> 00:07:43.030
+Por lo tanto las raíces van a ser b negativo, por lo que es negativo 1
+
+00:07:43.030 --> 00:07:47.920
+más o menos la raíz cuadrada de b al cuadrado - B al cuadrado es
+
+00:07:47.920 --> 00:07:52.820
+1--menos 4 veces AC--bien a y c son ambos 1--por lo que tiene
+
+00:07:52.820 --> 00:07:54.510
+sólo menos de 4.
+
+00:07:54.510 --> 00:07:56.110
+¿Todo eso sobre 2, correcto?
+
+00:07:56.110 --> 00:07:56.840
+2 veces A.
+
+00:07:56.840 --> 00:07:58.620
+Todo eso sobre 2.
+
+00:07:58.620 --> 00:08:03.410
+Por lo que las raíces van a ser negativas 1 más o menos la
+
+00:08:03.410 --> 00:08:11.010
+raíz cuadrada de 3 negativo sobre 2.
+
+00:08:11.010 --> 00:08:14.980
+O nos podríamos reescribir esto como la r de raíces.
+
+00:08:14.980 --> 00:08:22.190
+r es igual al negativo de 1/2 más o menos--bien que podríamos
+
+00:08:22.190 --> 00:08:27.375
+escribir esto como i veces la raíz cuadrada de 3, o un cuadrado
+
+00:08:27.375 --> 00:08:31.292
+raíz de 3i más 2.
+
+00:08:31.292 --> 00:08:34.049
+O podríamos escribir que esto es como la raíz cuadrada de 3
+
+00:08:34.049 --> 00:08:35.179
+más de 2 veces lo.
+
+00:08:35.179 --> 00:08:38.350
+¿En realidad, que es la mejor manera de escribirlo, derecha?
+
+00:08:38.350 --> 00:08:39.419
+Usted solo saca la i.
+
+00:08:39.419 --> 00:08:42.280
+Así que toma el negativo 1 cabo y te quedan con
+
+00:08:42.280 --> 00:08:43.880
+raíz cuadrada de 3 a 2.
+
+00:08:43.880 --> 00:08:45.020
+Así que estas son las raíces.
+
+00:08:45.020 --> 00:08:47.300
+Y ahora si queremos que la solución general, que nosotros sólo tenemos
+
+00:08:47.300 --> 00:08:50.120
+para lanzar este derecho nuevamente en.
+
+00:08:50.120 --> 00:08:51.700
+Y tendremos nuestra solución general.
+
+00:08:51.700 --> 00:08:54.750
+Déjame escribir ese derecho aquí abajo.
+
+00:08:54.750 --> 00:09:01.010
+Por lo que será nuestra solución general y es igual a e a la real
+
+00:09:01.010 --> 00:09:03.100
+parte de nuestro complejo conjugado.
+
+00:09:03.100 --> 00:09:08.320
+¿E así a la menos 1/2 veces x, derecho?
+
+00:09:08.320 --> 00:09:10.220
+Esta es nuestra lambda.
+
+00:09:10.220 --> 00:09:16.800
+Veces alguna constante--voy a escribir c1 ahora--c1 veces coseno
+
+00:09:16.800 --> 00:09:25.170
+de la parte imaginaria sin la i--así coseno cuadrado
+
+00:09:25.170 --> 00:09:34.670
+raíz de 3 largo x 2, además de c2 veces sinusoidal de Plaza
+
+00:09:34.670 --> 00:09:40.250
+raíz de 3 sobre 2 x.
+
+00:09:40.250 --> 00:09:41.360
+No está demasiado mal.
+
+00:09:41.360 --> 00:09:43.880
+Hemos tenido raíces complejas y realmente nosotros no toma más
+
+00:09:43.880 --> 00:09:46.320
+tiempo que cuando teníamos dos raíces reales.
+
+00:09:46.320 --> 00:09:49.510
+Sólo tienes que darse cuenta de ello.
+
+00:09:49.510 --> 00:09:52.400
+Y luego tienes que simplemente encontrar--use la cuadrática
+
+00:09:52.400 --> 00:09:56.390
+ecuación para encontrar las raíces complejas de la
+
+00:09:56.390 --> 00:09:58.250
+ecuación característica.
+
+00:09:58.250 --> 00:10:01.980
+Y darse cuenta de que esto es lambda.
+
+00:10:01.980 --> 00:10:03.640
+Menos 1/2 es lambda.
+
+00:10:03.640 --> 00:10:09.150
+Y que la raíz cuadrada de 3 por 2 es igual a mu.
+
+00:10:09.150 --> 00:10:12.780
+Y, a continuación, sustituir en esta solución que tenemos.
+
+00:10:12.780 --> 00:10:15.440
+De todas formas, en el siguiente vídeo, voy a hacer uno de estos
+
+00:10:15.440 --> 00:10:17.900
+problemas y nosotros realmente tendrá condiciones iniciales, así que nos
+
+00:10:17.900 --> 00:10:20.550
+puede resolver para c1 y c2.
+
+00:10:20.550 --> 00:10:22.370
+Nos vemos en el siguiente vídeo.

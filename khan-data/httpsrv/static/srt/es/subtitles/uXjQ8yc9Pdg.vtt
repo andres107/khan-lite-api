@@ -1,0 +1,729 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.850 --> 00:00:03.340
+El video pasado fue muy abstracto en general, y
+
+00:00:03.340 --> 00:00:06.980
+usé f de x y g de t, y h de t.
+
+00:00:06.980 --> 00:00:09.720
+Que quiero hacer en este video es acer en ejemplo actual.
+
+00:00:09.720 --> 00:00:12.730
+Digamos que tengo f de xy.
+
+00:00:12.730 --> 00:00:17.325
+Digamos que f de xy es igual a xy.
+
+00:00:17.325 --> 00:00:20.595
+Y digamos que tenemos un camino en el plano de xy, o
+
+00:00:20.595 --> 00:00:21.775
+una curva en el plano de xy.
+
+00:00:21.775 --> 00:00:29.480
+Y voy a definir la curva como x es igaul al
+
+00:00:29.480 --> 00:00:36.430
+coseno de t, y y es igual al seno de t.
+
+00:00:36.430 --> 00:00:40.090
+Y tenemos que definir
+
+00:00:40.090 --> 00:00:43.740
+cual son los limites en el t --y vamos a decir que
+
+00:00:43.740 --> 00:00:48.800
+t es igual a 0-- o t va a ser mas que o igual a
+
+00:00:48.800 --> 00:00:50.930
+0 --y menos que o igual a.
+
+00:00:50.930 --> 00:00:53.340
+Ahora, los radianes, el pi sobre 2.
+
+00:00:53.340 --> 00:00:56.370
+También, es 90 grados.
+
+00:00:56.370 --> 00:00:57.440
+Esta es la curva.
+
+00:00:57.440 --> 00:00:59.860
+Y es posible que sabes cómo es este tipo
+
+00:00:59.860 --> 00:01:00.770
+de curva.
+
+00:01:00.770 --> 00:01:02.900
+Y voy a dibujarla aquí
+
+00:01:02.900 --> 00:01:04.110
+para usted.
+
+00:01:04.110 --> 00:01:06.120
+Actualmente la tengo ahora entonces
+
+00:01:06.120 --> 00:01:07.590
+podemos visiualizar.
+
+00:01:07.590 --> 00:01:09.530
+Esta curva aquí, si lo dibujo en el
+
+00:01:09.530 --> 00:01:13.530
+plano de xy-- en color diferente,
+
+00:01:13.530 --> 00:01:18.430
+verde; este es y, y este es
+
+00:01:18.430 --> 00:01:24.400
+aquí x-- pues cuando t es igaul a 0, x estará
+
+00:01:24.400 --> 00:01:26.310
+igual al coseno de 0.
+
+00:01:26.310 --> 00:01:30.620
+El coseno de 0 es 1, y estará igual al seno de 0, que
+
+00:01:30.620 --> 00:01:33.500
+es 0, entonces t es igual a 0.
+
+00:01:33.500 --> 00:01:37.650
+Estaremos en X iguala a 1, eso es coseno de 0, y Y es
+
+00:01:37.650 --> 00:01:39.706
+el seno de 0, o Y es 0, así que tendremos
+
+00:01:39.706 --> 00:01:40.500
+razón allí.
+
+00:01:40.500 --> 00:01:44.380
+Eso es lo que t es igual a; t es igual a 0.
+
+00:01:44.380 --> 00:01:46.990
+Cuando t es igual a pi de 2, ¿qué va a pasar?
+
+00:01:46.990 --> 00:01:50.000
+Coseno de pie más 2--que es el ángulo; coseno
+
+00:01:50.000 --> 00:01:53.270
+de pi más 2--es 0.
+
+00:01:53.270 --> 00:01:55.010
+Seno de pi más 2 es 1.
+
+00:01:55.010 --> 00:01:57.270
+Vamos a estar en el punto 0, 1.
+
+00:01:57.270 --> 00:02:01.410
+Así que esto es cuando estamos en t es igual a pi más 2.
+
+00:02:01.410 --> 00:02:03.340
+Podría reconocer lo que vamos a dibujar es realmente la
+
+00:02:03.340 --> 00:02:07.080
+primer cuadrante del círculo unidad; cuando t es igual a pi
+
+00:02:07.080 --> 00:02:11.530
+4, o 45 grados, vamos a estar en la raíz cuadrada
+
+00:02:11.530 --> 00:02:12.240
+2, raíz cuadrada de 2.
+
+00:02:12.240 --> 00:02:13.860
+Usted puede probarlo por sí mismo, pero somos sólo
+
+00:02:13.860 --> 00:02:15.360
+va a tener una curva que tiene este aspecto.
+
+00:02:15.360 --> 00:02:18.050
+Va a ser la parte superior derecha de un círculo,
+
+00:02:18.050 --> 00:02:18.915
+el círculo de unidades.
+
+00:02:18.915 --> 00:02:20.280
+Va a tener Radio 1.
+
+00:02:20.280 --> 00:02:22.670
+Y vamos a ir en ese sentido, de t es igual a
+
+00:02:22.670 --> 00:02:25.830
+0, t es igual a pi más 2.
+
+00:02:25.830 --> 00:02:28.300
+Eso es lo que parece esta curva.
+
+00:02:28.300 --> 00:02:32.240
+Pero nuestro objetivo no es aquí justo al gráfico de una ecuación paramétrica.
+
+00:02:32.240 --> 00:02:36.680
+Lo que queremos hacer es levantar una barrera de este tipo de base
+
+00:02:36.680 --> 00:02:38.685
+y subir a la superficie.
+
+00:02:38.685 --> 00:02:41.570
+Así que vamos a ver si podemos hacer eso o al menos visualizar en primer lugar,
+
+00:02:41.570 --> 00:02:44.740
+y, a continuación, utilizaremos las herramientas que utilizamos en el último video.
+
+00:02:44.740 --> 00:02:51.210
+Tan bien aquí he representar gráficamente esta función, y he girado una
+
+00:02:51.210 --> 00:02:52.230
+poco a poco para que pueda ver [UNINTELLIGIBLE]
+
+00:02:52.230 --> 00:02:53.010
+caso.
+
+00:02:53.010 --> 00:02:56.080
+Este derecho aquí--permítanme obtener algunos colores oscuros fuera--
+
+00:02:56.080 --> 00:03:01.680
+derecho existe el eje x, que en la espalda es el eje y, y
+
+00:03:01.680 --> 00:03:03.560
+el eje vertical es el eje z.
+
+00:03:03.560 --> 00:03:07.330
+Y esto es realmente 2, esto es 1 derecho aquí, y igual a 1
+
+00:03:07.330 --> 00:03:09.310
+es allí, así que esto es representar gráficamente ese camino.
+
+00:03:09.310 --> 00:03:12.030
+Así que si tuviera que grafica este contorno en el plano xy, se
+
+00:03:12.030 --> 00:03:14.900
+estaría bajo este gráfico y que iría como algo parecido a
+
+00:03:14.900 --> 00:03:18.110
+Esto---Déjame ver si puedo Dibújelo--parecería
+
+00:03:18.110 --> 00:03:18.730
+algo como esto.
+
+00:03:18.730 --> 00:03:20.800
+Esto sería en el plano xy.
+
+00:03:20.800 --> 00:03:25.300
+Este es el mismo gráfico exacto, f de x es igual a xy.
+
+00:03:25.300 --> 00:03:30.080
+Esto es f x; f de xy es igual a xy.
+
+00:03:30.080 --> 00:03:32.480
+Es ambos, yo sólo lo girado.
+
+00:03:32.480 --> 00:03:37.170
+En esta situación allí es ahora el eje x.
+
+00:03:37.170 --> 00:03:40.380
+Girado a la izquierda, puedes tipo de imagina.
+
+00:03:40.380 --> 00:03:43.080
+Ese derecho que es el eje x, que es allí la y
+
+00:03:43.080 --> 00:03:47.710
+eje--fue girado más cercana a mí--que es el eje z.
+
+00:03:47.710 --> 00:03:52.630
+Y, a continuación, esta curva, si tuviera que señalar en esta rotación es
+
+00:03:52.630 --> 00:03:55.260
+va a tener este aspecto: cuando t es igual a 0, estamos en x es
+
+00:03:55.260 --> 00:03:58.420
+igual a 1, y es igual a 0, y va a formar una unidad
+
+00:03:58.420 --> 00:04:03.000
+círculo, o la mitad o cuarta parte de un círculo de unidad como.
+
+00:04:03.000 --> 00:04:05.745
+Y cuando t es igual a pi más 2, vamos a llegar.
+
+00:04:05.745 --> 00:04:08.590
+Y lo que queremos hacer es encontrar el área de la
+
+00:04:08.590 --> 00:04:09.680
+cortina que se define.
+
+00:04:09.680 --> 00:04:12.030
+Así que vamos a ver, vamos a levantar una cortina de este
+
+00:04:12.030 --> 00:04:14.730
+curva hasta f de xy.
+
+00:04:14.730 --> 00:04:17.930
+Así que si nos seguimos elevar muros de esto hasta xy, estamos
+
+00:04:17.930 --> 00:04:19.929
+va a tener un muro parece algo parecido.
+
+00:04:22.690 --> 00:04:24.590
+Déjame sombra en, color en lo que parece un poco
+
+00:04:24.590 --> 00:04:26.660
+poco más sustantivo.
+
+00:04:26.660 --> 00:04:28.530
+Así, un muro que se ve algo como que.
+
+00:04:28.530 --> 00:04:30.850
+Si intenta hacerlo aquí estaría bajo la
+
+00:04:30.850 --> 00:04:33.560
+techo, pero el muro de aspecto
+
+00:04:33.560 --> 00:04:35.680
+allí.
+
+00:04:35.680 --> 00:04:37.440
+Queremos encontrar la zona de.
+
+00:04:37.440 --> 00:04:41.400
+Queremos encontrar la zona de esto aquí donde la base
+
+00:04:41.400 --> 00:04:45.160
+se define por esta curva y, a continuación, el techo está definido por
+
+00:04:45.160 --> 00:04:48.550
+Esta superficie aquí, xy, que representar gráficamente y girado
+
+00:04:48.550 --> 00:04:50.270
+en dos situaciones.
+
+00:04:50.270 --> 00:04:53.940
+Ahora en el último video nos acercó con una, así, usted podría
+
+00:04:53.940 --> 00:04:56.230
+argumentan que sea simple, pero el es, bueno, veamos sólo
+
+00:04:56.230 --> 00:05:00.000
+longitudes de arco pequeño--cambiar en longitudes de arco y multiplicarlos
+
+00:05:00.000 --> 00:05:05.300
+por la altura en ese momento.
+
+00:05:05.300 --> 00:05:07.910
+Y esos cambios pequeños en longitudes de arco, nos llamaron ds,
+
+00:05:07.910 --> 00:05:10.050
+y, a continuación, la altura es sólo f de xy en ese momento.
+
+00:05:10.050 --> 00:05:13.600
+Y nos tomaremos una suma infinita de estos, de t es iguales a 0
+
+00:05:13.600 --> 00:05:16.660
+t será igual pi más 2 y, a continuación, que debe darnos
+
+00:05:16.660 --> 00:05:20.640
+el área de este muro.
+
+00:05:20.640 --> 00:05:23.510
+Por lo que hemos dicho es, bueno, para averiguar el área de la que somos sólo
+
+00:05:23.510 --> 00:05:28.670
+va a tomar la integral de t es igual a o t es igual
+
+00:05:28.670 --> 00:05:31.750
+a pi sobre 2--no tiene mucho sentido cuando lo escribo
+
+00:05:31.750 --> 00:05:38.935
+como este--de f de xy veces--o déjame aún mejor, en su lugar
+
+00:05:38.935 --> 00:05:41.300
+de escribir f de xy, me permito escribir la función real.
+
+00:05:41.300 --> 00:05:43.110
+Vamos un poco más concreto.
+
+00:05:43.110 --> 00:05:48.710
+F de xy es xy veces--la xy particular--veces el
+
+00:05:48.710 --> 00:05:50.520
+poco cambio en la longitud del arco en ese momento.
+
+00:05:50.520 --> 00:05:53.030
+Voy a ser muy ondulado mano aquí.
+
+00:05:53.030 --> 00:05:55.290
+Se trata de todo examen un poquito del último video.
+
+00:05:55.290 --> 00:05:58.890
+Y averiguamos en el último video este cambio en la longitud del arco
+
+00:05:58.890 --> 00:06:04.990
+justo aquí, ds, averiguamos que podríamos escribir como
+
+00:06:04.990 --> 00:06:10.250
+la raíz cuadrada del dx frente--o el derivado de x
+
+00:06:10.250 --> 00:06:14.480
+con respecto a t cuadrado--además de la derivada de y con
+
+00:06:14.480 --> 00:06:19.090
+respecto a t al cuadrado y entonces todos que veces dt.
+
+00:06:19.090 --> 00:06:20.790
+Por lo que sólo estoy reconstrucción la fórmula que nos
+
+00:06:20.790 --> 00:06:22.590
+consiguió en el último video.
+
+00:06:22.590 --> 00:06:27.090
+Por lo que esta expresión puede reescribirse como la integral
+
+00:06:27.090 --> 00:06:33.640
+de t es igual a 0 para t es igual a pi por 2 veces xy.
+
+00:06:33.640 --> 00:06:35.160
+Pero, ¿sabes qué?
+
+00:06:35.160 --> 00:06:37.170
+Derecho desde el ir todo queremos finalmente
+
+00:06:37.170 --> 00:06:38.070
+ser en términos de t.
+
+00:06:38.070 --> 00:06:42.070
+Así que en lugar de escribir x veces y, vamos a sustituir
+
+00:06:42.070 --> 00:06:43.170
+la forma paramétrica.
+
+00:06:43.170 --> 00:06:45.720
+Así que en lugar de x vamos a escribir coseno de t.
+
+00:06:49.180 --> 00:06:50.370
+Es decir x.
+
+00:06:50.370 --> 00:06:53.980
+x es igual al coseno de t en esta curva.
+
+00:06:53.980 --> 00:06:56.700
+Eso es cómo definimos x, en términos del parámetro t.
+
+00:06:56.700 --> 00:06:59.250
+Y, a continuación, tiempos, que lo que estamos diciendo es seno de t.
+
+00:07:01.830 --> 00:07:05.360
+Es nuestro y; todo lo que hice es reescribió xy en
+
+00:07:05.360 --> 00:07:08.310
+términos de t veces ds.
+
+00:07:08.310 --> 00:07:16.170
+DS es esto; es la raíz cuadrada de la derivada de x
+
+00:07:16.170 --> 00:07:20.690
+con respecto a t al cuadrado más la derivada de y con
+
+00:07:20.690 --> 00:07:22.950
+respecto a t al cuadrado.
+
+00:07:22.950 --> 00:07:25.630
+Todo eso veces dt.
+
+00:07:25.630 --> 00:07:27.380
+Y ahora solo tenemos que encontrar estos dos derivados.
+
+00:07:27.380 --> 00:07:29.670
+Y parece muy difícil, pero es muy fácil para nosotros
+
+00:07:29.670 --> 00:07:32.180
+encontrar la derivada de x con respecto a t y la derivada
+
+00:07:32.180 --> 00:07:33.360
+y con respecto a t.
+
+00:07:33.360 --> 00:07:34.860
+Puedo hacerlo aquí abajo o derecho.
+
+00:07:34.860 --> 00:07:38.320
+Me gustaría perder nuestros gráficos para un poco.
+
+00:07:38.320 --> 00:07:42.600
+Sabemos que la derivada de x con respecto a t es
+
+00:07:42.600 --> 00:07:44.620
+va a ser: ¿qué es la derivada de coseno de t?
+
+00:07:44.620 --> 00:07:48.790
+Bueno, es menos seno de t.
+
+00:07:48.790 --> 00:07:51.000
+¿Y la derivada de y respecto a t?
+
+00:07:53.510 --> 00:07:55.670
+Derivado de un seno de nada es el coseno
+
+00:07:55.670 --> 00:07:56.125
+nada.
+
+00:07:56.125 --> 00:07:59.450
+Así es el coseno de t.
+
+00:07:59.450 --> 00:08:02.330
+Y nosotros podemos sustituir estos atrás en esta ecuación.
+
+00:08:02.330 --> 00:08:06.250
+Así que recuerde, sólo estamos tratando de encontrar el área de este
+
+00:08:06.250 --> 00:08:10.020
+cortina que tiene nuestra curva aquí como especie de su base, y
+
+00:08:10.020 --> 00:08:13.700
+tiene esta función, esta superficie como es de techo.
+
+00:08:13.700 --> 00:08:16.460
+Por lo tanto volver aquí abajo y permítanme reescribir
+
+00:08:16.460 --> 00:08:17.240
+todo este asunto.
+
+00:08:17.240 --> 00:08:22.090
+Por lo que se convierte en la integral de t es igual a o a t es
+
+00:08:22.090 --> 00:08:26.700
+igual a pi más 2--no me gusta este color--de coseno de
+
+00:08:26.700 --> 00:08:32.290
+t, seno de t, tiempos de coseno seno--que es sólo la xy
+
+00:08:32.290 --> 00:08:34.900
+--veces ds, que es esta expresión aquí.
+
+00:08:34.900 --> 00:08:37.110
+Y ahora podemos escribir esto como--a ir de volver al
+
+00:08:37.110 --> 00:08:41.870
+color que no me gusta--la derivada de x con respecto a
+
+00:08:41.870 --> 00:08:50.170
+t es menos seno de t, y vamos a la Plaza, además de la
+
+00:08:50.170 --> 00:08:54.750
+derivados de y con respecto a t, que es el coseno de t, y
+
+00:08:54.750 --> 00:08:57.670
+vamos a Plaza--permítanme hacer mi radical un poco
+
+00:08:57.670 --> 00:09:01.330
+mayor--y luego todo eso veces dt.
+
+00:09:01.330 --> 00:09:03.820
+Ahora esto todavía podría parecer una integral realmente dura hasta
+
+00:09:03.820 --> 00:09:07.510
+te das cuenta de que este derecho aquí y cuando se tome una
+
+00:09:07.510 --> 00:09:10.420
+número negativo y al cuadrado, esto es lo mismo.
+
+00:09:10.420 --> 00:09:13.300
+Permítanme reescribir, hacerlo en el lado derecho aquí.
+
+00:09:13.300 --> 00:09:23.260
+Menos seno de t al cuadrado más el coseno de t cuadrado, esto
+
+00:09:23.260 --> 00:09:31.310
+es equivalente al seno de t al cuadrado más coseno
+
+00:09:31.310 --> 00:09:32.820
+de t al cuadrado.
+
+00:09:32.820 --> 00:09:35.090
+Perderá la información de inicio de sesión cuando usted cuadrado algo;
+
+00:09:35.090 --> 00:09:36.430
+sólo se convierte en un positivo.
+
+00:09:36.430 --> 00:09:37.850
+Así que estas dos cosas son equivalentes.
+
+00:09:37.850 --> 00:09:39.640
+Y esta es la identidad de vértice geodésico más básica.
+
+00:09:39.640 --> 00:09:42.690
+Esto viene directamente de la definición de círculo de unidad: seno
+
+00:09:42.690 --> 00:09:45.600
+cuadrado y coseno cuadrado, esto es simplemente igual a 1.
+
+00:09:45.600 --> 00:09:48.020
+Por lo que es todo esto bajo el signo radical
+
+00:09:48.020 --> 00:09:49.710
+justo igual a 1.
+
+00:09:49.710 --> 00:09:53.130
+Y nos estamos tomando la raíz cuadrada de 1 que es sólo 1.
+
+00:09:53.130 --> 00:09:59.120
+Sólo así todas estas cosas aquí se convertirá en 1.
+
+00:09:59.120 --> 00:10:02.890
+Y así esta todo loca integral simplifica un poco bueno
+
+00:10:02.890 --> 00:10:08.240
+y sólo es igual a la raíz cuadrada de igual t 0 t es igual a
+
+00:10:08.240 --> 00:10:12.540
+PI más 2 de--y me voy a cambiar estos alrededor de sólo
+
+00:10:12.540 --> 00:10:14.440
+porque hará un poco más fácil en el paso siguiente
+
+00:10:14.440 --> 00:10:23.440
+--del seno de coseno de tiempos de t de t, dt.
+
+00:10:23.440 --> 00:10:26.060
+Todo lo hice, todo este asunto es igual a 1, se deshizo de él,
+
+00:10:26.060 --> 00:10:27.340
+y sólo cambié el orden de.
+
+00:10:27.340 --> 00:10:30.050
+Lo haremos la próxima un poco más fácil de explicar.
+
+00:10:30.050 --> 00:10:32.920
+Ahora esta integral--dices sine veces coseno, lo de
+
+00:10:32.920 --> 00:10:34.350
+¿la primitiva de?
+
+00:10:34.350 --> 00:10:38.080
+Y lo primero que debe reconocer es, bueno, tengo una
+
+00:10:38.080 --> 00:10:41.790
+función o expresión aquí y tengo su derivado.
+
+00:10:41.790 --> 00:10:44.040
+La derivada del seno es el coseno de t.
+
+00:10:44.040 --> 00:10:46.460
+Así podrían llevar a una sustitución de u en su cabeza;
+
+00:10:46.460 --> 00:10:48.020
+es una buena habilidad para ser capaz de hacer en su cabeza.
+
+00:10:48.020 --> 00:10:49.620
+Pero lo haré muy explícitamente aquí.
+
+00:10:49.620 --> 00:10:51.040
+Así que si tienes algo que es derivado, se
+
+00:10:51.040 --> 00:10:52.890
+definir ese algo como u.
+
+00:10:52.890 --> 00:11:00.160
+Por lo que dices u es igual al seno de t y, a continuación, du, dt, el
+
+00:11:00.160 --> 00:11:03.650
+derivada de u con respecto a t es igual al coseno de t.
+
+00:11:03.650 --> 00:11:07.190
+O si se multiplican ambos lados por el diferencial dt, si
+
+00:11:07.190 --> 00:11:09.960
+no vamos a ser demasiado riguroso, obtendrá du es
+
+00:11:09.960 --> 00:11:14.140
+igual al coseno de t, dt.
+
+00:11:14.140 --> 00:11:16.720
+Y aquí que tengo una u.
+
+00:11:16.720 --> 00:11:20.860
+Y entonces el coseno de t, dt, esta cosa aquí, derecho
+
+00:11:20.860 --> 00:11:22.470
+lo que es igual a d de u.
+
+00:11:22.470 --> 00:11:25.030
+Y, a continuación, sólo tenemos que redefinir los límites.
+
+00:11:25.030 --> 00:11:29.350
+Cuando t es igual a 0--quiero decir por lo que esta cosa va a activar
+
+00:11:29.350 --> 00:11:33.760
+en la integral--en lugar de t es igual a 0, cuando t
+
+00:11:33.760 --> 00:11:35.550
+¿igual a 0 lo que es u igual a?
+
+00:11:35.550 --> 00:11:40.280
+Seno de 0 es 0, así que esto va de u es igual a 0.
+
+00:11:40.280 --> 00:11:44.850
+Cuando t es circular sobre 2 seno de pi más 2 es 1.
+
+00:11:44.850 --> 00:11:47.260
+Así que cuando t es pi más 2, u es igual a 1.
+
+00:11:47.260 --> 00:11:49.940
+Por lo que es igual a 0 y u es igual a 1.
+
+00:11:49.940 --> 00:11:53.000
+Sólo redid los límites en términos de u.
+
+00:11:53.000 --> 00:11:55.280
+Y, a continuación, tenemos en lugar del signo de t, estoy
+
+00:11:55.280 --> 00:11:56.930
+vamos a escribir u.
+
+00:11:56.930 --> 00:12:00.810
+Y en lugar de coseno de t, dt, sólo me voy a escribir du.
+
+00:12:00.810 --> 00:12:04.060
+Y, a continuación, esta es una integral superfácil en términos de u.
+
+00:12:04.060 --> 00:12:09.320
+Esto es apenas igual a: la primitiva de u es u 1/2
+
+00:12:09.320 --> 00:12:12.820
+tiempos u cuadrado--sólo planteó el exponente y luego
+
+00:12:12.820 --> 00:12:16.970
+dividido por ese elevado exponente--tan 1/2 u cuadrado, y estamos
+
+00:12:16.970 --> 00:12:19.640
+vamos a evaluar de 0 a 1.
+
+00:12:19.640 --> 00:12:25.570
+Así que esto va a ser igual a 1 1/2 veces cuadrado
+
+00:12:25.570 --> 00:12:32.140
+menos 0 1/2 veces cuadrado, que es igual a 1 1/2 veces
+
+00:12:32.140 --> 00:12:34.820
+menos 0, que es igual a 1/2.
+
+00:12:34.820 --> 00:12:37.750
+Así que hicimos todo lo que funcionan y tenemos una bonita respuesta simple.
+
+00:12:37.750 --> 00:12:42.630
+El área de esto una cortina--sólo realizamos una integral de línea
+
+00:12:42.630 --> 00:12:48.430
+--el área de esta cortina a lo largo de esta curva derecha aquí
+
+00:12:48.430 --> 00:12:53.380
+es--me deja hacerlo en un color más oscuro--1/2.
+
+00:12:53.380 --> 00:12:55.080
+Usted sabe, si esto fue en centímetros, sería
+
+00:12:55.080 --> 00:12:56.540
+1/2 centímetros cuadrados.
+
+00:12:56.540 --> 00:12:59.710
+Por eso creo que se sepa, una aplicación bastante limpio
+
+00:12:59.710 --> 00:13:01.460
+de la línea integral.

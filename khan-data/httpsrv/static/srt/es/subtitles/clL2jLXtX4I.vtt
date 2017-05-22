@@ -1,0 +1,51 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.921 --> 00:00:04.464
+estaban ahora en la casa streatch de que solo tenemos que evaluar el rizo
+
+00:00:04.464 --> 00:00:07.705
+f y luego este producto escalar luego nos tiene que evaluar esta doble rollos finalizados
+
+00:00:07.705 --> 00:00:16.167
+así el rizo de f va a ser igual a i solo recordarla como determinante
+
+00:00:16.167 --> 00:00:25.581
+I J K componentes, realmente te imaginas es el opperator de dell se cruzó con el vector real
+
+00:00:30.058 --> 00:00:35.852
+parcial con respecto a x-parcial con el respeto y
+
+00:00:35.852 --> 00:00:47.467
+parcial con respecto a z y luego nuestro campo vectorial es apenas igual a negativo y cuadrado es nuestro componente I
+
+00:00:47.467 --> 00:00:55.965
+X es la componente j y z al cuadrado es nuestro compnoent k y así que esto va a ser igual a
+
+00:00:55.965 --> 00:01:05.635
+Va igual a lo tiempos parciales de z al cuadrado con respecto a y
+
+00:01:05.635 --> 00:01:12.962
+Bueno ahí es la z al cuadrado es sólo una constante con respecto a Y, por lo que el parcial de z al cuadrado con respecto a y sólo va a ser 0
+
+00:01:12.962 --> 00:01:22.755
+Menos el parcial de x con respecto a Z. Una vez más esto es justo cuando piensa en términos de z para que sólo va a ser 0
+
+00:01:22.755 --> 00:01:33.286
+simplificación agradable. Luego iban a tener menos J-poner un negativo frente a la J - por lo que tendremos
+
+00:01:33.286 --> 00:01:42.767
+El parcial de z al cuadrado con respecto a X-así que vuelve a cero y luego menos paritaria de negativo y cuadrado
+
+00:01:42.767 --> 00:01:50.462
+con respecto a Z. Así que vuelve a cero. y finalmente tenemos nuestro componente k
+
+00:01:50.462 --> 00:02:00.368
+Así además de k y de k fueron va a tener bien la paritaria de x con respecto a x que realmente nos da un valor
+
+00:02:00.368 --> 00:02:07.632
+sólo va a ser 1 menos el parcial de negativo y al cuadrado con respecto a y
+
+00:02:07.632 --> 00:02:17.713
+para el parcial de negativo y al cuadrado con respecto a y es 2Y negativas y fueron restando así va a ser más 2Y

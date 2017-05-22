@@ -1,0 +1,115 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.933 --> 00:00:07.667
+Problema número 6. Se define 'f' como "'f' de 'x' es igual a:", con dos casos:
+
+00:00:07.667 --> 00:00:15.533
+Cuando 'x' es menor o igual a cero, 'f' es igual a 1 menos 2 por seno de 'x'; cuando 'x' es mayor a cero, 'f' es igual a 'e' a la menos 4 'x'.
+
+00:00:15.533 --> 00:00:22.133
+Demostrar que 'f' es continua cuando x es igual a cero.
+Entonces, para que una función sea continua en 'x' igual a cero, pensemos
+
+00:00:22.133 --> 00:00:28.800
+en lo que tiene que suceder. Vamos a trazar una función aquí, entonces éste es mi eje 'x' y éste es
+
+00:00:28.800 --> 00:00:39.600
+mi eje 'y', y estamos interesados en saber qué sucede en x = 0, y digamos que ésta es mi función.
+
+00:00:39.600 --> 00:00:44.133
+Entonces, nuestra función quizá se vea algo así. Bueno, ésta en particular probablemente
+
+00:00:44.133 --> 00:00:51.400
+se vea como algo así. Ésta en particular, ésta en particular podría verse, como así, y después
+
+00:00:51.400 --> 00:00:55.067
+podría verse como algo así. Pero lo particular no es tan relevante en este caso, sólo tenemos que pensar sobre
+
+00:00:55.067 --> 00:01:02.467
+lo que están preguntando. Para que la función sea continua aquí, el límite al aproximarnos por la izquierda, el
+
+00:01:02.467 --> 00:01:12.933
+límite a medida que nos acercamos a cero por la izquierda, debería ser igual al valor de la función en cero. Entonces, el límite
+
+00:01:12.933 --> 00:01:21.067
+de 'f' de 'x' debería ser igual a 'f' de cero, que a su vez debería ser igual al límite a medida que nos acercamos por la derecha.
+
+00:01:21.067 --> 00:01:26.867
+Lo que debería ser igual al límite cuando nos acercamos a cero por la derecha, entonces eso debería ser igual al
+
+00:01:26.867 --> 00:01:33.600
+límite cuando x se acerca a cero por la derecha de 'f' de 'x'. Y la razón por la que esto importa es porque, si éste no fuera
+
+00:01:33.600 --> 00:01:39.823
+el caso, si 'f' de cero no fuera igual al límite, entonces podríamos tener una brecha o un salto en este punto. Entonces, uno podría
+
+00:01:39.823 --> 00:01:47.200
+tener límites o situaciones como ésta, donde se tiene un salto aquí, que se vería
+
+00:01:47.200 --> 00:01:52.133
+algo así. Entonces, los dos límites desde la izquierda y desde la derecha existen, y el límite en ese punto
+
+00:01:52.133 --> 00:01:58.600
+existiría, pero si la función en sí misma no es igual al valor del límite en ese punto, si es igual a otro valor, entonces la función
+
+00:01:58.600 --> 00:02:04.467
+no sería continua. Por ende, el límite tiene que ser igual al valor de la función para
+
+00:02:04.467 --> 00:02:11.733
+que sea continua. Entonces, revisemos si todas estas cosas son iguales entre sí. Primero,
+
+00:02:11.733 --> 00:02:19.482
+pensemos únicamente acerca del valor de la función en ese punto. Entonces, estamos mirando la parte A, 'f' de cero es igual a, vamos
+
+00:02:19.482 --> 00:02:24.400
+a usar este primer caso porque es el que aplica para valores de 'x' menores o iguales a cero. Por ende, 'f' de cero
+
+00:02:24.400 --> 00:02:37.267
+va a ser igual a 1 menos 2 veces el seno de cero. Seno de cero es cero, y 2 por cero es cero, entonces todo esto
+
+00:02:37.267 --> 00:02:48.467
+es cero. 1 menos cero es 1. Bien. Ahora, pensemos sobre el límite cuando 'x' se aproxima a cero por la
+
+00:02:48.467 --> 00:02:58.467
+izquierda de 'f' de 'x'. A medida que nos aproximamos a cero por la izquierda, estamos tratando con este primer
+
+00:02:58.467 --> 00:03:11.400
+caso de aquí arriba. Entonces, se trata del límite cuando 'x' se acerca a cero desde la izquierda de 1 menos 2 veces seno de 'x'.
+
+00:03:11.400 --> 00:03:18.533
+Ahora, seno de 'x' es una función continua, entonces esto va a ser lo mismo que 1 menos
+
+00:03:18.533 --> 00:03:24.800
+2 veces seno de cero, lo que ya habíamos resuelto antes y sabemos que es igual a 1. Dado que esto también es igual a 1,
+
+00:03:24.800 --> 00:03:28.533
+el valor del límite a medida que nos aproximamos por la izquierda es el mismo que el valor de la función. Ahora,
+
+00:03:28.533 --> 00:03:35.200
+hagámoslo a medida que nos acercamos por la derecha, cuando nos acercamos desde valores de 'x' mayores que cero. Entonces,
+
+00:03:35.200 --> 00:03:43.133
+pensemos sobre el límite al aproximarnos a cero por la derecha de 'f' de 'x'. Aquí estamos tratando con valores de
+
+00:03:43.133 --> 00:03:48.267
+'x' que son mayores que cero, entonces debemos utilizar este caso de aquí, por lo que estamos hablando del límite
+
+00:03:48.267 --> 00:03:56.933
+cuando 'x' se acerca a cero desde la derecha de 'e' a la menos 4 'x'. Y para las 'x' que nos interesan, o, de hecho,
+
+00:03:56.933 --> 00:04:03.275
+en general para toda 'x', esta función es continua. Dado que es continua, esto va a ser igual
+
+00:04:03.275 --> 00:04:09.400
+a 'e' a la menos 4 veces cero, lo que es simplemente 'e' a la cero, que a su vez es igual a 1. Entonces, esto también
+
+00:04:09.400 --> 00:04:14.733
+es igual a 1. Resumiendo, la función es igual a 1, en ese punto, el límite al aproximarnos por la izquierda
+
+00:04:14.733 --> 00:04:21.248
+es igual a 1, y el límite cuando nos aproximamos por la derecha es igual a 1. Por ende, la función es continua
+
+00:04:21.248 --> 99:59:59.999
+en ese punto.

@@ -1,0 +1,747 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.450 --> 00:00:02.210
+Vamos a estudiar algunos métodos más para
+
+00:00:02.210 --> 00:00:04.410
+resolver sistemas de ecuaciones.
+
+00:00:04.410 --> 00:00:12.370
+Vamos a decir que tengo la ecuación, x 3 y 4 es igual a 2.5.
+
+00:00:12.370 --> 00:00:24.788
+Y tengo otra ecuación, x 5 menos 4y es igual a 25,5.
+
+00:00:24.788 --> 00:00:28.150
+Y queremos encontrar un x e y valor que satisfaga a ambos
+
+00:00:28.150 --> 00:00:29.220
+Estas ecuaciones.
+
+00:00:29.220 --> 00:00:31.260
+Si crees que gráficamente, esta sería la
+
+00:00:31.260 --> 00:00:34.850
+intersección de las líneas que representan la solución establece en
+
+00:00:34.850 --> 00:00:37.080
+ambas de estas ecuaciones.
+
+00:00:37.080 --> 00:00:38.930
+Entonces, ¿cómo podemos proceder?
+
+00:00:38.930 --> 00:00:40.520
+Vimos en sustitución, nos gusta
+
+00:00:40.520 --> 00:00:42.350
+eliminar una de las variables.
+
+00:00:42.350 --> 00:00:44.030
+Lo hicimos a través de la sustitución de última hora.
+
+00:00:44.030 --> 00:00:47.720
+Pero hay algo que podamos sumar o restar--concentrémonos
+
+00:00:47.720 --> 00:00:50.690
+Este amarillo en esta ecuación superior derecha aquí--existe
+
+00:00:50.690 --> 00:00:53.200
+todo lo que podemos añadir o restar a ambos
+
+00:00:53.200 --> 00:00:54.330
+¿partes de esta ecuación?
+
+00:00:54.330 --> 00:00:56.290
+Recuerde que una vez que lidiar con una ecuación tiene que
+
+00:00:56.290 --> 00:00:59.240
+Añadir o restar lo mismo a ambos lados.
+
+00:00:59.240 --> 00:01:01.590
+Pero hay algo que podríamos añadir o restar a ambos
+
+00:01:01.590 --> 00:01:03.410
+partes de esta ecuación que podría
+
+00:01:03.410 --> 00:01:05.069
+¿eliminar una de las variables?
+
+00:01:05.069 --> 00:01:08.170
+Y entonces tendríamos una ecuación en una variable, y
+
+00:01:08.170 --> 00:01:09.610
+podemos resolver para ello.
+
+00:01:09.610 --> 00:01:12.460
+Y probablemente no es evidente, a pesar de está sentado derecho
+
+00:01:12.460 --> 00:01:14.050
+delante de su cara.
+
+00:01:14.050 --> 00:01:17.620
+Bueno, qué sucede si sólo añadimos esto
+
+00:01:17.620 --> 00:01:19.190
+¿ecuación de esa ecuación?
+
+00:01:19.190 --> 00:01:22.860
+Lo que quiero decir con esto es, qué pasaría si tuviéramos que añadir 5 x menos 4y
+
+00:01:22.860 --> 00:01:27.140
+¿a la izquierda del lado y añadir 25,5 a la derecha?
+
+00:01:27.140 --> 00:01:31.030
+Así que si tuviera que literalmente agregue esto a la izquierda,
+
+00:01:31.030 --> 00:01:33.830
+y agrega a la derecha.
+
+00:01:33.830 --> 00:01:36.340
+Y probablemente está diciendo, Sal, aferrarse, ¿cómo puede usted solo
+
+00:01:36.340 --> 00:01:37.870
+¿Añadir dos ecuaciones como ese?
+
+00:01:37.870 --> 00:01:41.830
+Y recuerde, cuando estás haciendo cualquier ecuación, si tengo
+
+00:01:41.830 --> 00:01:45.400
+cualquier ecuación de la forma--bueno, realmente, cualquier ecuación--
+
+00:01:45.400 --> 00:01:50.650
+AX plus por es igual a C, si quiero hacer algo para esto
+
+00:01:50.650 --> 00:01:53.460
+ecuación, sólo tengo que añadir lo mismo a ambos lados
+
+00:01:53.460 --> 00:01:54.470
+de la ecuación.
+
+00:01:54.470 --> 00:01:58.570
+Por lo que podría, por ejemplo, podría añadir d a ambos lados de
+
+00:01:58.570 --> 00:01:59.090
+la ecuación.
+
+00:01:59.090 --> 00:02:01.310
+Porque d es igual a D, por lo que no será
+
+00:02:01.310 --> 00:02:02.970
+cambiar la ecuación.
+
+00:02:02.970 --> 00:02:09.270
+Obtendría Ax plus, plus d es igual a c y D.
+
+00:02:09.270 --> 00:02:12.170
+Y hemos visto múltiples, varias veces.
+
+00:02:12.170 --> 00:02:14.500
+Nada que hacer a un lado de la ecuación, que tienes que hacer
+
+00:02:14.500 --> 00:02:15.760
+al otro lado.
+
+00:02:15.760 --> 00:02:18.350
+Pero usted está diciendo, bueno, Sal, espera, en el lado izquierdo,
+
+00:02:18.350 --> 00:02:21.180
+está añadiendo 5 x menos 4y a la ecuación.
+
+00:02:21.180 --> 00:02:25.090
+En el lado derecho, está añadiendo 25,5 a la ecuación.
+
+00:02:25.090 --> 00:02:27.976
+No agregar dos cosas diferentes a ambos lados
+
+00:02:27.976 --> 00:02:28.840
+¿de la ecuación?
+
+00:02:28.840 --> 00:02:30.740
+Y mi respuesta sería no.
+
+00:02:30.740 --> 00:02:35.450
+Sabemos que 5 x menos 4y es de 25,5.
+
+00:02:35.450 --> 00:02:40.160
+Esta cantidad y esta cantidad son los mismos.
+
+00:02:40.160 --> 00:02:42.630
+Son ambos 25,5.
+
+00:02:42.630 --> 00:02:46.660
+Esta ecuación me está diciendo explícitamente.
+
+00:02:46.660 --> 00:02:48.710
+Por lo que puedo agregar esto a la izquierda.
+
+00:02:48.710 --> 00:02:51.170
+Básicamente estoy añadiendo 25,5 a ella.
+
+00:02:51.170 --> 00:02:54.150
+Y podría añadir 25,5 a la derecha.
+
+00:02:54.150 --> 00:02:55.340
+Así que vamos a hacer eso.
+
+00:02:55.340 --> 00:02:57.910
+Si tuviéramos que añadir el lado izquierdo,
+
+00:02:57.910 --> 00:03:01.580
+x 3 y x 5 es x 8.
+
+00:03:01.580 --> 00:03:04.590
+Y entonces ¿qué es 4y menos 4y?
+
+00:03:04.590 --> 00:03:06.660
+Y este fue el punto.
+
+00:03:06.660 --> 00:03:08.080
+Cuando miraba a estas dos ecuaciones, me dice, oh, tengo
+
+00:03:08.080 --> 00:03:09.860
+4y, tengo un 4 negativos y.
+
+00:03:09.860 --> 00:03:12.490
+Si sólo agrega estos dos juntos, van a
+
+00:03:12.490 --> 00:03:13.180
+cancelan.
+
+00:03:13.180 --> 00:03:15.670
+Van a ser más 0 y.
+
+00:03:15.670 --> 00:03:17.780
+O que todo término sólo va a desaparecer.
+
+00:03:17.780 --> 00:03:25.540
+Y eso va a ser igual a 2,5 más 25.5 28.
+
+00:03:25.540 --> 00:03:26.800
+Para dividir ambos lados.
+
+00:03:26.800 --> 00:03:30.530
+Para obtener 8 x es igual a 28.
+
+00:03:30.530 --> 00:03:38.600
+Dividir ambos lados por 8 y obtenemos x es igual a 28
+
+00:03:38.600 --> 00:03:41.760
+más de 8, o bien dividir el numerador y el
+
+00:03:41.760 --> 00:03:43.200
+denominador por 4.
+
+00:03:43.200 --> 00:03:47.900
+Es igual a 7 a 2.
+
+00:03:47.900 --> 00:03:49.070
+Ese es nuestro valor x.
+
+00:03:49.070 --> 00:03:51.050
+Ahora queremos resolver en nuestro valor y.
+
+00:03:51.050 --> 00:03:54.930
+Y nosotros podríamos sustituir este a cualquiera
+
+00:03:54.930 --> 00:03:56.550
+de estas dos ecuaciones.
+
+00:03:56.550 --> 00:03:57.820
+Vamos a utilizar la parte superior de uno.
+
+00:03:57.820 --> 00:03:59.830
+Lo podría hacer con el fondo uno así.
+
+00:03:59.830 --> 00:04:08.280
+Por lo tanto sabemos que x 3 veces, 7 3 veces en 2--yo soy solo
+
+00:04:08.280 --> 00:04:11.510
+sustituyendo el valor de x hemos averiguado en este top
+
+00:04:11.510 --> 00:04:17.130
+ecuación--3 veces por 7 a 2, además de 4y es igual a 2.5.
+
+00:04:17.130 --> 00:04:18.589
+Permítanme escribir como 5/2.
+
+00:04:18.589 --> 00:04:21.410
+Vamos a permanecer en el mundo de la fracción.
+
+00:04:21.410 --> 00:04:28.670
+Así que esto va a ser 21 2 plus 4y es igual a 2/5.
+
+00:04:28.670 --> 00:04:31.510
+Restar 21 2 de ambos lados.
+
+00:04:31.510 --> 00:04:37.310
+Así que menos 21 2, menos 21 2.
+
+00:04:37.310 --> 00:04:40.700
+La izquierda--te sólo dejan con un 4y, porque
+
+00:04:40.700 --> 00:04:44.930
+estos dos chicos cancelar fuera--es igual a, esto es 5
+
+00:04:44.930 --> 00:04:47.220
+menos 21 2.
+
+00:04:47.220 --> 00:04:50.060
+Eso es negativo 16 2.
+
+00:04:50.060 --> 00:04:53.730
+Lo es negativo 16 sobre 2, que es lo mismo--
+
+00:04:53.730 --> 00:04:56.550
+bueno, voy a escribirlo como 16 negativos sobre 2.
+
+00:04:56.550 --> 00:05:02.030
+O podríamos escribir--vamos a seguir aquí--4--soy
+
+00:05:02.030 --> 00:05:06.340
+sólo continuar este tren de pensamiento aquí--4y es igual
+
+00:05:06.340 --> 00:05:08.400
+8 negativo.
+
+00:05:08.400 --> 00:05:13.550
+Dividir ambos lados por 4, y usted tiene y es
+
+00:05:13.550 --> 00:05:16.010
+igual a negativa 2.
+
+00:05:16.010 --> 00:05:21.150
+Para que la solución de esta ecuación es x es igual al 7/2,
+
+00:05:21.150 --> 00:05:22.510
+y es igual a la negativa de 2.
+
+00:05:22.510 --> 00:05:25.650
+Esta sería la coordenada de la intersección.
+
+00:05:25.650 --> 00:05:28.180
+Y podría intentar salir en ambos
+
+00:05:28.180 --> 00:05:29.130
+ecuaciones de aquí.
+
+00:05:29.130 --> 00:05:31.500
+Así que vamos a comprobar que también
+
+00:05:31.500 --> 00:05:34.330
+cumple esta ecuación inferior.
+
+00:05:34.330 --> 00:05:42.930
+5 veces 7/2 es 35 2 menos 4 veces negativos 2, por lo que menos
+
+00:05:42.930 --> 00:05:44.170
+8 negativo.
+
+00:05:44.170 --> 00:05:52.620
+Eso es equivalente a--vamos a ver, esto es 17,5 más 8.
+
+00:05:52.620 --> 00:05:56.070
+Y de hecho es igual a 25,5.
+
+00:05:56.070 --> 00:05:58.970
+Por lo tanto esto satisface ambas ecuaciones.
+
+00:05:58.970 --> 00:06:02.400
+Ahora vamos a ver si podemos usar nuestras habilidades recién encontradas a
+
+00:06:02.400 --> 00:06:05.580
+abordar un problema de palabras, nuestras habilidades recién encontradas en
+
+00:06:05.580 --> 00:06:07.440
+eliminación.
+
+00:06:07.440 --> 00:06:10.460
+Así que aquí dice, Nadia y Peter visitan la tienda de golosinas.
+
+00:06:10.460 --> 00:06:16.970
+Nadia compra 3 barras de dulces y frutas 4 Roll-Ups por $2,84.
+
+00:06:16.970 --> 00:06:21.700
+Peter también compra 3 barras de caramelo, pero sólo puede permitirse 1
+
+00:06:21.700 --> 00:06:23.430
+otras frutas acumulados.
+
+00:06:23.430 --> 00:06:25.950
+Su compra cuesta $1.79.
+
+00:06:25.950 --> 00:06:30.030
+¿Cuál es el costo de cada barra de caramelos y cada fruta acumulados?
+
+00:06:30.030 --> 00:06:32.310
+Así que vamos a definir algunas variables.
+
+00:06:32.310 --> 00:06:33.650
+Vamos a usar x e y.
+
+00:06:33.650 --> 00:06:40.720
+Vamos a dejar x igual costo de candy bar--que iba a hacer
+
+00:06:40.720 --> 00:06:43.830
+un c y un f para frutas acumulados, pero me voy solo palo con x y
+
+00:06:43.830 --> 00:06:46.290
+y--coste de barra de caramelo.
+
+00:06:46.290 --> 00:06:53.020
+Y deja y igual al costo de una fruta acumulados.
+
+00:06:56.710 --> 00:06:57.260
+Muy bien.
+
+00:06:57.260 --> 00:07:00.310
+¿Así que qué esta primera declaración dice nos?
+
+00:07:00.310 --> 00:07:04.060
+Nadia compra 3 barras de caramelo, por lo que es el costo de barras de caramelo 3
+
+00:07:04.060 --> 00:07:05.310
+va a ser x 3.
+
+00:07:09.520 --> 00:07:11.950
+Y 4 frutas Roll-Ups.
+
+00:07:11.950 --> 00:07:15.570
+Además 4 veces y, el costo de una fruta acumulados.
+
+00:07:15.570 --> 00:07:17.340
+Se trata de cuánto Nadia pasa.
+
+00:07:17.340 --> 00:07:19.480
+3 barras de dulces, frutas 4 Roll-Ups.
+
+00:07:19.480 --> 00:07:23.960
+Y va a costar $2,84.
+
+00:07:23.960 --> 00:07:25.980
+Eso es lo que nos dice esta primera declaración.
+
+00:07:25.980 --> 00:07:28.210
+Se traduce en esa ecuación.
+
+00:07:28.210 --> 00:07:29.390
+La segunda instrucción.
+
+00:07:29.390 --> 00:07:35.750
+Peter también compra 3 barras de caramelo, pero sólo podía permitirse 1
+
+00:07:35.750 --> 00:07:37.550
+otras frutas acumulados.
+
+00:07:37.550 --> 00:07:40.300
+Lo más 1 fruta adicionales acumulados.
+
+00:07:40.300 --> 00:07:46.250
+Su costo de compra es igual a $1.79.
+
+00:07:46.250 --> 00:07:49.210
+¿Cuál es el costo de cada barra de caramelos y cada fruta acumulados?
+
+00:07:49.210 --> 00:07:51.040
+Y vamos a resolver esto mediante la eliminación.
+
+00:07:51.040 --> 00:07:53.270
+Esto podría resolver utilizando cualquiera de las técnicas que hemos visto
+
+00:07:53.270 --> 00:07:56.390
+hasta el momento--sustitución, eliminación, incluso gráficos,
+
+00:07:56.390 --> 00:07:57.650
+Aunque es algo difícil de globo ocular
+
+00:07:57.650 --> 00:07:59.020
+cosas con los gráficos.
+
+00:07:59.020 --> 00:08:00.570
+Entonces, ¿cómo podemos hacerlo?
+
+00:08:00.570 --> 00:08:03.200
+Recuerde que, con la eliminación, vas a agregar--vamos a
+
+00:08:03.200 --> 00:08:05.990
+se centran en esta ecuación superior aquí.
+
+00:08:05.990 --> 00:08:08.380
+Hay algo que podríamos añadir a ambos lados de este
+
+00:08:08.380 --> 00:08:09.910
+ecuación que nos ayudaremos a
+
+00:08:09.910 --> 00:08:12.170
+¿eliminar una de las variables?
+
+00:08:12.170 --> 00:08:14.240
+O déjame decirlo, es que algo que podríamos añadir
+
+00:08:14.240 --> 00:08:18.100
+o restar a ambos lados de la ecuación que ayudará a
+
+00:08:18.100 --> 00:08:20.550
+¿nos elimina una de las variables?
+
+00:08:20.550 --> 00:08:22.950
+Pues bien, como en el problema que hicimos un poco antes
+
+00:08:22.950 --> 00:08:27.860
+el video, lo que si tuviéramos que restar esta ecuación, o
+
+00:08:27.860 --> 00:08:31.500
+¿Qué pasaría si tuviéramos que restar 3 x plus y del 3 x 4 en el
+
+00:08:31.500 --> 00:08:34.799
+izquierda lado y restar $1.79 de
+
+00:08:34.799 --> 00:08:36.030
+¿la derecha?
+
+00:08:36.030 --> 00:08:39.590
+Y recuerde, al hacerlo, estaría restando el mismo
+
+00:08:39.590 --> 00:08:41.909
+lo de ambos lados de la ecuación.
+
+00:08:41.909 --> 00:08:44.059
+Se trata de $1.79.
+
+00:08:44.059 --> 00:08:44.830
+¿Cómo saber?
+
+00:08:44.830 --> 00:08:48.170
+Porque dice que no es igual a $1.79.
+
+00:08:48.170 --> 00:08:51.810
+Por lo que si hicimos eso estaría restando lo mismo
+
+00:08:51.810 --> 00:08:53.760
+a ambos lados de la ecuación.
+
+00:08:53.760 --> 00:08:57.320
+Así que vamos a restar 3 x plus y de la
+
+00:08:57.320 --> 00:08:58.620
+lado izquierdo de la ecuación.
+
+00:09:01.720 --> 00:09:03.550
+Y permítanme sólo hacerlo a la derecha.
+
+00:09:03.550 --> 00:09:08.550
+Si resta 3 x y y, es lo mismo que la negativa
+
+00:09:08.550 --> 00:09:12.680
+3 x menos y, si solo distribuir el signo negativo.
+
+00:09:12.680 --> 00:09:13.750
+Así que vamos a restarlo.
+
+00:09:13.750 --> 00:09:20.820
+Para obtener negativo 3 x menos y--tal vez debo hacerla
+
+00:09:20.820 --> 00:09:23.750
+claramente esto no es un signo; se podría imaginar que estoy
+
+00:09:23.750 --> 00:09:27.560
+multiplicando la ecuación 1 negativo--es
+
+00:09:27.560 --> 00:09:30.460
+igual a negativo $1.79.
+
+00:09:30.460 --> 00:09:32.000
+Sólo estoy tomando la ecuación.
+
+00:09:32.000 --> 00:09:34.090
+Podría imaginar que estoy multiplicando por 1 negativo,
+
+00:09:34.090 --> 00:09:37.440
+y ahora voy a agregar a la izquierda a la
+
+00:09:37.440 --> 00:09:39.310
+lado izquierdo de esta ecuación y la derecha
+
+00:09:39.310 --> 00:09:42.160
+lateral a la derecha de esa ecuación.
+
+00:09:42.160 --> 00:09:45.450
+¿Y lo que obtenemos?
+
+00:09:45.450 --> 00:09:49.010
+Al agregar 3 x plus 4y, menos x 3, menos y,
+
+00:09:49.010 --> 00:09:50.540
+cancela el 3 x.
+
+00:09:50.540 --> 00:09:52.730
+3 x menos 3 x es 0 x.
+
+00:09:52.730 --> 00:09:54.080
+Incluso no escribir hacia abajo.
+
+00:09:54.080 --> 00:09:58.650
+Obtener 4 x menos--perdón, 4y menos y.
+
+00:09:58.650 --> 00:10:00.630
+Es decir 3 y.
+
+00:10:00.630 --> 00:10:06.940
+Y eso va a ser igual a $2,84 menos $1.79.
+
+00:10:06.940 --> 00:10:07.930
+¿Qué es eso?
+
+00:10:07.930 --> 00:10:12.980
+Eso es $1.05.
+
+00:10:12.980 --> 00:10:15.100
+Hasta 3 años equivale a $1.05.
+
+00:10:15.100 --> 00:10:16.903
+Dividir ambos lados por 3.
+
+00:10:20.360 --> 00:10:24.700
+¿y es igual a--lo que es de $1.05 dividido por 3?
+
+00:10:24.700 --> 00:10:27.980
+Por lo tanto 3 entra $1.05.
+
+00:10:27.980 --> 00:10:30.340
+Va en 1 cero veces.
+
+00:10:30.340 --> 00:10:33.290
+3 veces 0 es 0.
+
+00:10:33.290 --> 00:10:35.190
+1 menos 0 es 1.
+
+00:10:35.190 --> 00:10:36.620
+Derribar un 0.
+
+00:10:36.620 --> 00:10:38.800
+3 entra en 10 tres veces.
+
+00:10:38.800 --> 00:10:41.220
+3 3 veces es 9.
+
+00:10:41.220 --> 00:10:42.380
+Restar.
+
+00:10:42.380 --> 00:10:44.170
+10 menos 9 es 1.
+
+00:10:44.170 --> 00:10:46.360
+Bajar el 5.
+
+00:10:46.360 --> 00:10:49.170
+3 entra en 15 cinco veces.
+
+00:10:49.170 --> 00:10:51.740
+3 5 veces es 15.
+
+00:10:51.740 --> 00:10:52.630
+Restar.
+
+00:10:52.630 --> 00:10:54.150
+No tenemos ningún resto.
+
+00:10:54.150 --> 00:10:57.910
+Por lo que es igual a $0.35.
+
+00:10:57.910 --> 00:11:01.020
+Por lo tanto el costo de una fruta acumulados es $0.35.
+
+00:11:01.020 --> 00:11:03.930
+Ahora nos podemos sustituir a cualquiera de estas ecuaciones
+
+00:11:03.930 --> 00:11:07.720
+para calcular el costo de una barra de caramelo.
+
+00:11:07.720 --> 00:11:12.470
+Así que vamos a utilizar esta ecuación final aquí.
+
+00:11:12.470 --> 00:11:14.680
+Que fue originalmente, si te acuerdas antes multiplica
+
+00:11:14.680 --> 00:11:22.840
+por negativo 1, fue tres veces más y es igual a $1.79.
+
+00:11:22.840 --> 00:11:29.590
+Por lo significa que x 3 más el costo de una fruta acumulados, 0,35
+
+00:11:29.590 --> 00:11:32.090
+es igual a $1.79.
+
+00:11:32.090 --> 00:11:39.470
+¿Si disminuimos 0,35 desde ambos lados, lo que obtenemos?
+
+00:11:39.470 --> 00:11:42.110
+La izquierda--te sólo dejan con la x 3; estos
+
+00:11:42.110 --> 00:11:45.530
+Cancelar fuera--es igual a--vamos a ver, esto
+
+00:11:45.530 --> 00:11:47.750
+es $1.79 menos $0.35.
+
+00:11:47.750 --> 00:11:52.000
+Eso es $1.44.
+
+00:11:52.000 --> 00:11:59.670
+Y 3 entra $1.44, creo que va--bien, entra 3
+
+00:11:59.670 --> 00:12:03.250
+$1.44, entra en 1 cero veces.
+
+00:12:03.250 --> 00:12:06.280
+3 veces 1 es 0.
+
+00:12:06.280 --> 00:12:07.540
+Bajar el 1.
+
+00:12:07.540 --> 00:12:08.190
+Restar.
+
+00:12:08.190 --> 00:12:09.380
+Bajar el 4.
+
+00:12:09.380 --> 00:12:11.970
+3 entra en 14 cuatro veces.
+
+00:12:11.970 --> 00:12:14.130
+3 4 veces es 12.
+
+00:12:14.130 --> 00:12:17.360
+Estoy haciendo esto desordenado.
+
+00:12:17.360 --> 00:12:20.260
+14 menos 12 es 2.
+
+00:12:20.260 --> 00:12:21.750
+Bajar el 4.
+
+00:12:21.750 --> 00:12:23.440
+3 entra en 24 ocho veces.
+
+00:12:23.440 --> 00:12:24.820
+3 8 veces es 24.
+
+00:12:24.820 --> 00:12:26.250
+Ningún resto.
+
+00:12:26.250 --> 00:12:30.740
+Así que x es igual a 0.48.
+
+00:12:30.740 --> 00:12:31.660
+Así que ahí lo tienen.
+
+00:12:31.660 --> 00:12:34.760
+Pensamos que, mediante la eliminación, que el costo de
+
+00:12:34.760 --> 00:12:39.030
+una barra de caramelo es igual a $0.48 y que el costo de una fruta
+
+00:12:39.030 --> 00:12:42.800
+Acumulados es igual a $0.35.

@@ -1,0 +1,450 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.920 --> 00:00:03.820
+En el último vídeo, tuvimos este rectángulo, y se utilizó un triple
+
+00:00:03.820 --> 00:00:05.170
+integrante de averiguar su volumen.
+
+00:00:05.170 --> 00:00:08.000
+Y sé que probablemente estaban pensando, bueno, yo podría tener
+
+00:00:08.000 --> 00:00:12.100
+acaba de utilizar mi geometría básica para multiplicar la altura de los tiempos
+
+00:00:12.100 --> 00:00:12.940
+el ancho por la profundidad.
+
+00:00:12.940 --> 00:00:15.720
+Y eso es cierto, porque se trataba de una función constante de valor.
+
+00:00:15.720 --> 00:00:18.320
+Y entonces, incluso una vez que se evalúa, una vez que se integra
+
+00:00:18.320 --> 00:00:20.630
+con respecto a la z, que terminó con una integral doble, lo cual
+
+00:00:20.630 --> 00:00:23.840
+es exactamente lo que hemos hecho en los últimos vídeos
+
+00:00:23.840 --> 00:00:26.580
+cuando se acaba de enterar de que el volumen bajo una superficie.
+
+00:00:26.580 --> 00:00:28.560
+Pero entonces, hemos añadido un toque al final del vídeo.
+
+00:00:28.560 --> 00:00:33.000
+Dijimos, bueno, podría haber descubierto el volumen dentro de
+
+00:00:33.000 --> 00:00:38.160
+este dominio rectangular, supongo, muy sencillo
+
+00:00:38.160 --> 00:00:39.000
+uso de las cosas que ya sabías.
+
+00:00:39.000 --> 00:00:42.080
+Pero lo que si nuestro objetivo no es determinar el volumen?
+
+00:00:42.080 --> 00:00:46.790
+Nuestro objetivo era determinar la masa de este volumen, e incluso
+
+00:00:46.790 --> 00:00:50.240
+Además, el material que estamos tomando el volumen de - ya sea
+
+00:00:50.240 --> 00:00:53.060
+es un volumen de gas o un volumen de un sólido - que
+
+00:00:53.060 --> 00:00:55.050
+su densidad no es constante.
+
+00:00:55.050 --> 00:00:58.080
+Así que ahora la masa se ​​convierte en una especie de - no sé --
+
+00:00:58.080 --> 00:00:59.550
+interesante para calcular.
+
+00:00:59.550 --> 00:01:03.740
+Y así, lo que nos define, nos define una función de densidad.
+
+00:01:03.740 --> 00:01:07.770
+Y Rho, este p buscando algo con un fondo con curvas - que
+
+00:01:07.770 --> 00:01:09.855
+nos da la densidad en un momento dado.
+
+00:01:09.855 --> 00:01:11.370
+Y al final del último vídeo que dijo,
+
+00:01:11.370 --> 00:01:12.830
+Bueno, ¿qué es la masa?
+
+00:01:12.830 --> 00:01:16.050
+La masa es simplemente la densidad de volumen de los tiempos.
+
+00:01:16.050 --> 00:01:16.750
+Usted puede verla de otra manera.
+
+00:01:16.750 --> 00:01:21.170
+La densidad es lo mismo que la masa dividida por el volumen.
+
+00:01:21.170 --> 00:01:26.630
+Por lo tanto la masa alrededor de un punto muy, muy pequeño, y llamamos a que
+
+00:01:26.630 --> 00:01:29.750
+d masa, el diferencial de la masa, va igual a la
+
+00:01:29.750 --> 00:01:33.450
+densidad en ese punto, o la densidad aproximada exactamente a que
+
+00:01:33.450 --> 00:01:36.790
+puntos, Times el diferencial de volumen en torno a ese punto,
+
+00:01:36.790 --> 00:01:40.100
+veces el volumen de este pequeño cubo pequeño.
+
+00:01:40.100 --> 00:01:43.140
+Y entonces, como lo vimos en el último video, si usted está utilizando
+
+00:01:43.140 --> 00:01:46.240
+coordenadas rectangulares, esta diferencia de volumen sólo podía
+
+00:01:46.240 --> 00:01:50.390
+ser los tiempos distancia x la distancia Y veces la distancia z.
+
+00:01:50.390 --> 00:01:55.690
+Así, la densidad era que nuestra función de densidad se define
+
+00:01:55.690 --> 00:01:57.730
+ser x, y, z, y queríamos averiguar el
+
+00:01:57.730 --> 00:02:01.560
+masa de este volumen.
+
+00:02:01.560 --> 00:02:04.140
+Y digamos que nuestros X, Y, y Z-su
+
+00:02:04.140 --> 00:02:05.990
+los valores, digamos que están en metros y digamos que este
+
+00:02:05.990 --> 00:02:09.340
+densidad es en kilogramos por metro cúbico.
+
+00:02:09.340 --> 00:02:12.270
+Así que nuestra respuesta va a ser en kilogramos, si ese fuera el caso.
+
+00:02:12.270 --> 00:02:14.480
+Y esos son la clase de las unidades del SI tradicionales.
+
+00:02:14.480 --> 00:02:21.210
+Así que vamos a averiguar la masa de este volumen variable denso.
+
+00:02:21.210 --> 00:02:24.150
+Así que todo lo que hacemos es que tenemos la misma integral aquí.
+
+00:02:26.720 --> 00:02:29.860
+De modo que el diferencial de masa va a ser este valor,
+
+00:02:29.860 --> 00:02:30.996
+así que vamos a escribir eso.
+
+00:02:34.850 --> 00:02:38.920
+Es x - Quiero asegurarme de que no se quede sin espacio
+
+00:02:38.920 --> 00:02:43.390
+xyz veces - y voy a integrarse con
+
+00:02:43.390 --> 00:02:45.890
+con respecto a dz primera.
+
+00:02:45.890 --> 00:02:47.910
+Pero en realidad se podría cambiar el orden.
+
+00:02:47.910 --> 00:02:49.750
+Tal vez lo haremos en el siguiente video.
+
+00:02:49.750 --> 00:02:55.810
+Haremos dz primero, y luego vamos a hacer dy, a continuación, vamos a hacer dx.
+
+00:03:00.120 --> 00:03:02.490
+Una vez más, esto es sólo la masa en cualquier pequeña
+
+00:03:02.490 --> 00:03:04.310
+diferencial de volumen.
+
+00:03:04.310 --> 00:03:07.760
+Y si nos integramos con z primero que dijo z pasa de qué?
+
+00:03:07.760 --> 00:03:10.770
+Los límites en z fueron de 0 a 2.
+
+00:03:14.050 --> 00:03:18.255
+Los límites en z fueron de 0 a 2.
+
+00:03:21.110 --> 00:03:23.890
+Y los límites de x, x pasó de 0 a 3.
+
+00:03:26.750 --> 00:03:27.910
+¿Y cómo evaluamos esto?
+
+00:03:27.910 --> 00:03:29.900
+Bien, ¿qué es la primitiva--somos
+
+00:03:29.900 --> 00:03:31.370
+en primer lugar la integración con respecto a z.
+
+00:03:31.370 --> 00:03:35.660
+¿Qué es la primitiva de xyz con respecto a z?
+
+00:03:35.660 --> 00:03:37.080
+Bueno, vamos a ver.
+
+00:03:37.080 --> 00:03:45.080
+Esto es sólo una constante será xyz cuadrado más 2.
+
+00:03:45.080 --> 00:03:46.040
+¿Verdad?
+
+00:03:46.040 --> 00:03:46.810
+Sí, es cierto.
+
+00:03:46.810 --> 00:03:52.690
+Y luego te evaluamos de 2 a 0.
+
+00:03:52.690 --> 00:03:54.870
+Y así obtendrá--sé que voy a quedarse sin espacio.
+
+00:03:54.870 --> 00:03:59.420
+Por lo que vas a conseguir 2 cuadrado, que es 4,
+
+00:03:59.420 --> 00:04:00.990
+dividido por 2, que es 2.
+
+00:04:00.990 --> 00:04:05.460
+Por eso, 2xy menos 0.
+
+00:04:05.460 --> 00:04:09.070
+Así que cuando usted evaluar este primero nos pondremos 2xy, y
+
+00:04:09.070 --> 00:04:11.410
+Ahora tienes las otras dos integrales que dejó.
+
+00:04:11.410 --> 00:04:13.260
+Por eso no escribo las otras dos integrales hacia abajo.
+
+00:04:13.260 --> 00:04:13.820
+Tal vez voy a escribir.
+
+00:04:13.820 --> 00:04:16.680
+Así te dejan con dos integrales.
+
+00:04:16.680 --> 00:04:20.660
+Te dejan con dy y dx.
+
+00:04:20.660 --> 00:04:28.710
+Y va de 0 a 4 y x va de 0 a 3.
+
+00:04:28.710 --> 00:04:30.480
+Definitivamente voy a quedarse sin espacio.
+
+00:04:30.480 --> 00:04:32.200
+Y ahora llevar la primitiva de este
+
+00:04:32.200 --> 00:04:34.110
+con respecto a y.
+
+00:04:34.110 --> 00:04:36.640
+¿Qué es la primitiva de este con respecto a y?
+
+00:04:36.640 --> 00:04:40.240
+Quiero borrar algunas cosas sólo por lo que no entiendo demasiado desordenado.
+
+00:04:44.230 --> 00:04:46.040
+Me ha dado muy buena sugerencia de lo que
+
+00:04:46.040 --> 00:04:48.340
+desplazamiento, pero, lamentablemente, no hacen desplazarse
+
+00:04:48.340 --> 00:04:50.090
+suficiente esta vez.
+
+00:04:50.090 --> 00:04:54.160
+Así puedo eliminar estas cosas, pienso.
+
+00:04:54.160 --> 00:04:55.220
+Vaya, he eliminado algo de eso.
+
+00:04:55.220 --> 00:04:56.860
+Pero sabes lo que he eliminado.
+
+00:04:56.860 --> 00:04:58.290
+OK, así que vamos a tomar la primitiva
+
+00:04:58.290 --> 00:04:59.290
+con respecto a y.
+
+00:04:59.290 --> 00:05:02.640
+Podrá iniciarlo hasta aquí donde tengo espacio.
+
+00:05:02.640 --> 00:05:06.545
+OK, por lo que la primitiva de 2xy con respecto a y es y
+
+00:05:06.545 --> 00:05:08.430
+cuadrado más 2, se cancelan de 2.
+
+00:05:08.430 --> 00:05:09.870
+Así obtendrá xy cuadrado.
+
+00:05:13.100 --> 00:05:15.270
+Y y va de 0 a 4.
+
+00:05:15.270 --> 00:05:18.000
+Y luego tenemos la integral exterior a hacer.
+
+00:05:18.000 --> 00:05:22.395
+x va de 0 a 3 dx.
+
+00:05:22.395 --> 00:05:24.215
+Y cuando es igual a 4 x 16.
+
+00:05:27.050 --> 00:05:29.050
+Y entonces cuando 0 y toda la cosa es 0.
+
+00:05:29.050 --> 00:05:34.300
+Así que tienes 16 x integrado de 0 a 3 dx.
+
+00:05:34.300 --> 00:05:36.210
+¿Y que es igual a qué?
+
+00:05:36.210 --> 00:05:39.215
+cuadrado x 8.
+
+00:05:39.215 --> 00:05:42.700
+Y se evalúa de 0 a 3.
+
+00:05:42.700 --> 00:05:46.560
+Cuando es 3, 8 veces 9 es 72.
+
+00:05:46.560 --> 00:05:49.040
+Y 8 veces 0 es 0.
+
+00:05:49.040 --> 00:05:51.810
+Por lo que la masa de nuestra figura el volumen--averiguamos última
+
+00:05:51.810 --> 00:05:53.230
+tiempo era de 24 metros elevado al cubo.
+
+00:05:53.230 --> 00:05:55.160
+Borrado, pero si vieron el último video
+
+00:05:55.160 --> 00:05:56.210
+eso es lo que hemos aprendido.
+
+00:05:56.210 --> 00:06:00.570
+Pero su masa es de 72 kilogramos.
+
+00:06:00.570 --> 00:06:06.420
+Y lo hicimos por integrar esta densidad variable 3
+
+00:06:06.420 --> 00:06:08.090
+función--esta función de 3 variables.
+
+00:06:08.090 --> 00:06:10.230
+O en tres dimensiones se puede ver como un
+
+00:06:10.230 --> 00:06:11.440
+¿campo escalar, correcto?
+
+00:06:11.440 --> 00:06:13.910
+En cualquier momento, pero no hay un valor
+
+00:06:13.910 --> 00:06:14.420
+realmente una dirección.
+
+00:06:14.420 --> 00:06:16.020
+Y ese valor es una densidad.
+
+00:06:16.020 --> 00:06:20.540
+Pero integramos el campo escalar en este volumen.
+
+00:06:20.540 --> 00:06:22.650
+Eso es tipo de la nueva habilidad con que nos enteramos
+
+00:06:22.650 --> 00:06:23.620
+la integral triple.
+
+00:06:23.620 --> 00:06:26.280
+Y en el siguiente video te mostraré cómo configurar más
+
+00:06:26.280 --> 00:06:27.460
+complicado integrales triples.
+
+00:06:27.460 --> 00:06:29.820
+Pero la verdadera dificultad con triples integrales es--y
+
+00:06:29.820 --> 00:06:32.180
+Creo que verá que a menudo se hará el profesor de cálculo
+
+00:06:32.180 --> 00:06:34.630
+Esto--cuando estás haciendo triples integrales, a menos que tenga una
+
+00:06:34.630 --> 00:06:38.290
+figura muy fácil así, la evaluación--si usted realmente
+
+00:06:38.290 --> 00:06:41.500
+quería evaluar analíticamente una integral triple que tiene más
+
+00:06:41.500 --> 00:06:44.910
+límites complicados o más complejos por ejemplo,
+
+00:06:44.910 --> 00:06:46.280
+una función de densidad.
+
+00:06:46.280 --> 00:06:48.850
+La integral obtiene muy peludos, muy rápido.
+
+00:06:48.850 --> 00:06:52.610
+Y a menudo es muy difícil o muy lentos para
+
+00:06:52.610 --> 00:06:55.760
+evaluar analíticamente sólo mediante su tradicional
+
+00:06:55.760 --> 00:06:56.270
+habilidades de cálculo.
+
+00:06:56.270 --> 00:06:59.790
+Así, verás en un montón de exámenes de cálculo cuando empiezan
+
+00:06:59.790 --> 00:07:02.500
+haciendo la integral triple, solo quieren que configurarlo.
+
+00:07:02.500 --> 00:07:05.520
+Toman su palabra para lo que has hecho tantos integrales
+
+00:07:05.520 --> 00:07:07.490
+hasta el momento que podía tomar la primitiva.
+
+00:07:07.490 --> 00:07:09.820
+Y a veces, si realmente quieren darle algo más
+
+00:07:09.820 --> 00:07:12.530
+difícil voy sólo dicen, bueno, cambiar el orden.
+
+00:07:12.530 --> 00:07:14.930
+Usted sabe, esto es la integral al que estamos tratando con
+
+00:07:14.930 --> 00:07:16.700
+respecto a z, entonces y, a continuación, x.
+
+00:07:16.700 --> 00:07:18.510
+Queremos volver a escribir cuando integral
+
+00:07:18.510 --> 00:07:19.730
+cambiar el orden.
+
+00:07:19.730 --> 00:07:22.700
+Y lo haremos en el próximo video.
+
+00:07:22.700 --> 00:07:24.270
+Nos vemos luego.

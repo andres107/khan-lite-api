@@ -1,0 +1,741 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.550 --> 00:00:03.920
+En este video, vamos a estudiar el campo eléctrico
+
+00:00:03.920 --> 00:00:07.860
+creado por una placa infinita uniformemente cargada.
+
+00:00:07.860 --> 00:00:09.400
+Y ¿por qué vamos a hacer eso?
+
+00:00:09.400 --> 00:00:11.550
+Bien, una, porque aprenderemos que es el campo eléctrico
+
+00:00:11.550 --> 00:00:14.650
+constante, que es ordenado por sí mismo, y entonces que es amable
+
+00:00:14.650 --> 00:00:16.420
+una cosa importante para darse cuenta más tarde cuando hablamos
+
+00:00:16.420 --> 00:00:20.640
+acerca de paralelo cargada placas y condensadores, porque nuestra
+
+00:00:20.640 --> 00:00:24.510
+libro de física les dice que el campo es constante, pero
+
+00:00:24.510 --> 00:00:25.340
+realmente nunca lo prueban.
+
+00:00:25.340 --> 00:00:28.340
+Así que vamos a probar aquí, y es la base de todo eso
+
+00:00:28.340 --> 00:00:30.790
+averiguar lo que la carga eléctrica de un infinitamente
+
+00:00:30.790 --> 00:00:32.400
+es la placa cargada.
+
+00:00:32.400 --> 00:00:34.975
+Así que vamos a tomar una vista lateral de la placa cargada infinitamente
+
+00:00:34.975 --> 00:00:37.440
+y obtener alguna intuición.
+
+00:00:37.440 --> 00:00:43.550
+Digamos que es la vista lateral de la placa y digamos
+
+00:00:43.550 --> 00:00:46.670
+que esta placa tiene una densidad de carga de sigma.
+
+00:00:46.670 --> 00:00:47.670
+Y ¿qué es la densidad de carga?
+
+00:00:47.670 --> 00:00:51.240
+Simplemente dice, bueno, que es coulombs por área.
+
+00:00:51.240 --> 00:00:55.750
+Densidad de carga es igual a la carga por área.
+
+00:00:55.750 --> 00:00:57.930
+Eso es todo es sigma.
+
+00:00:57.930 --> 00:00:59.980
+Por lo que estamos diciendo que esto tiene una densidad de carga uniforme.
+
+00:00:59.980 --> 00:01:05.030
+Así que antes de que descanso en lo que puede ser matemáticas empedernidos,
+
+00:01:05.030 --> 00:01:06.870
+y si estás viendo esto en la lista de reproducción de cálculo, usted
+
+00:01:06.870 --> 00:01:09.670
+posible que desee revisar algunas de las fuerzas electrostáticas de la
+
+00:01:09.670 --> 00:01:11.400
+lista de reproducción física y probablemente será
+
+00:01:11.400 --> 00:01:12.810
+relativamente fácil para usted.
+
+00:01:12.810 --> 00:01:15.090
+Si estás viendo esto de la lista de reproducción física y
+
+00:01:15.090 --> 00:01:18.020
+ha hecho la lista de reproducción de cálculo, no debe vigilar
+
+00:01:18.020 --> 00:01:21.430
+Este video porque le resultará abrumador.
+
+00:01:21.430 --> 00:01:24.710
+Pero de todos modos, vamos a proceder.
+
+00:01:24.710 --> 00:01:28.200
+Así que vamos a decir que una vez más esto es mi infinito por lo va
+
+00:01:28.200 --> 00:01:30.300
+apagado en cada dirección y que incluso sale el video,
+
+00:01:30.300 --> 00:01:32.170
+Cuando se trata de una vista lateral.
+
+00:01:32.170 --> 00:01:34.130
+Digamos que tengo un punto de carga hasta q aquí.
+
+00:01:37.655 --> 00:01:41.470
+Así que vamos a pensar un poco en si tengo un punto--
+
+00:01:41.470 --> 00:01:46.170
+digamos que tengo un lugar aquí en mi plato.
+
+00:01:46.170 --> 00:01:50.550
+Vamos a pensar un poco sobre lo que el efecto neto del mismo es
+
+00:01:50.550 --> 00:01:52.250
+va a estar en este cargo de punto.
+
+00:01:52.250 --> 00:01:54.430
+Bueno, en primer lugar, digamos que la carga de este punto es en un
+
+00:01:54.430 --> 00:01:56.225
+altura h sobre el campo.
+
+00:01:56.225 --> 00:01:58.840
+Permítanme señalar.
+
+00:01:58.840 --> 00:02:04.260
+Esto es una altura h y digamos que este es el punto directamente
+
+00:02:04.260 --> 00:02:06.300
+por debajo del punto de carga y digamos que esta distancia
+
+00:02:06.300 --> 00:02:10.110
+justo aquí es r.
+
+00:02:10.110 --> 00:02:13.400
+Lo primero de todo, ¿cuál es la distancia entre esta parte de
+
+00:02:13.400 --> 00:02:15.000
+¿nuestra placa y nuestro punto de carga?
+
+00:02:15.000 --> 00:02:18.780
+¿Qué es esta distancia que te llamo en magenta?
+
+00:02:18.780 --> 00:02:20.030
+¿Qué es esta distancia?
+
+00:02:23.400 --> 00:02:25.550
+Pues bien, el teorema de Pitágoras.
+
+00:02:25.550 --> 00:02:27.880
+Este es un triángulo, por lo que es la raíz cuadrada de esto
+
+00:02:27.880 --> 00:02:29.270
+lado al cuadrado más este lado al cuadrado.
+
+00:02:29.270 --> 00:02:33.030
+Así que esto va a ser la raíz cuadrada de h
+
+00:02:33.030 --> 00:02:35.570
+squared plus r al cuadrado.
+
+00:02:35.570 --> 00:02:40.990
+Por lo es la distancia entre esta área y nuestra carga de la prueba.
+
+00:02:40.990 --> 00:02:42.550
+Ahora, vamos a obtener un poco de intuición.
+
+00:02:42.550 --> 00:02:45.410
+Tanto si se trata de una carga de prueba positiva y si esta placa es
+
+00:02:45.410 --> 00:02:49.950
+cargado positivamente, la fuerza de sólo esta área en el
+
+00:02:49.950 --> 00:02:53.620
+carga va a ser radialmente hacia afuera de esta zona, tan
+
+00:02:53.620 --> 00:02:57.220
+va a ser--Permítanme hacerlo en otro color porque me
+
+00:02:57.220 --> 00:03:01.220
+¿no quiere--va a ir en esa dirección, derecha?
+
+00:03:01.220 --> 00:03:04.720
+Pero dado que se trata de una placa infinita en todas direcciones,
+
+00:03:04.720 --> 00:03:07.530
+va a ser otro punto en la placa que
+
+00:03:07.530 --> 00:03:12.610
+esencialmente en el otro lado de este punto aquí donde
+
+00:03:12.610 --> 00:03:16.140
+su fuerza neta, su red electrostática fuerza sobre el
+
+00:03:16.140 --> 00:03:19.490
+punto de carga, va a ser así.
+
+00:03:19.490 --> 00:03:22.680
+Y como puede ver, ya que tenemos una densidad de carga uniforme
+
+00:03:22.680 --> 00:03:26.470
+y la placa es simétrica en cada dirección, la x o la
+
+00:03:26.470 --> 00:03:31.700
+componentes horizontales de la fuerza va a cancelar.
+
+00:03:31.700 --> 00:03:37.080
+Y lo que es cierto para realmente cualquier punto a lo largo de esta placa.
+
+00:03:37.080 --> 00:03:38.910
+Porque si escoges cualquier punto a lo largo, y estamos mirando
+
+00:03:38.910 --> 00:03:42.720
+una vista de lado, pero si tomamos una vista superior, si esa es la parte superior
+
+00:03:42.720 --> 00:03:44.790
+ver y, por supuesto, la placa se apaga en cada dirección
+
+00:03:44.790 --> 00:03:50.390
+para siempre y que tipo de donde es nuestro punto de carga, si
+
+00:03:50.390 --> 00:03:52.930
+dijimos, ¡ oh, bueno, usted sabe, hay este punto sobre la
+
+00:03:52.930 --> 00:03:57.160
+placa y se va a tener algún componente y que está en
+
+00:03:57.160 --> 00:04:00.160
+Esta vista superior que sale el video, pero tendrá algunas
+
+00:04:00.160 --> 00:04:04.190
+x-componente, efecto del este punto componente x
+
+00:04:04.190 --> 00:04:05.320
+se cancelan lo.
+
+00:04:05.320 --> 00:04:08.000
+Usted siempre puede encontrar otro punto en la placa que
+
+00:04:08.000 --> 00:04:11.680
+simétricamente opuesta cuya componente x de electrostática
+
+00:04:11.680 --> 00:04:13.600
+fuerza se cancela con la primera de ellas.
+
+00:04:13.600 --> 00:04:17.769
+Lo dado que es una manera de decir largo aliento
+
+00:04:17.769 --> 00:04:24.900
+la fuerza neta sobre la carga de este punto sólo será hacia arriba.
+
+00:04:24.900 --> 00:04:28.025
+Creo que debe tener sentido que todos los
+
+00:04:28.025 --> 00:04:30.370
+componentes de x o los componentes horizontales de la
+
+00:04:30.370 --> 00:04:34.120
+fuerza electrostática que todos cancelan, porque son infinitas
+
+00:04:34.120 --> 00:04:37.780
+puntos a ambos lados de esta carga de la prueba.
+
+00:04:37.780 --> 00:04:40.550
+Así que con fuera del camino, ¿qué necesitamos para centrarse en?
+
+00:04:40.550 --> 00:04:44.890
+Bien, sólo necesitamos para centrarse en los componentes y de la
+
+00:04:44.890 --> 00:04:46.470
+fuerza electrostática.
+
+00:04:46.470 --> 00:04:47.660
+¿Cuál es el componente de y?
+
+00:04:47.660 --> 00:04:53.460
+Así que vamos a decir que este aquí derecho punto--y yo seguiré
+
+00:04:53.460 --> 00:04:55.270
+cambio de colores.
+
+00:04:55.270 --> 00:04:57.270
+Digamos que este punto--y una vez más, esto es un lado
+
+00:04:57.270 --> 00:05:09.250
+Vista--está ejerciendo--su campo en ese punto es e1 y es
+
+00:05:09.250 --> 00:05:12.270
+va a ir en esa dirección.
+
+00:05:12.270 --> 00:05:14.620
+¿Cuál es su componente de y?
+
+00:05:14.620 --> 00:05:16.200
+¿Cuál es el componente en esa dirección?
+
+00:05:16.200 --> 00:05:17.620
+Y, por supuesto, está empujando hacia afuera si
+
+00:05:17.620 --> 00:05:18.290
+son ambos positivos.
+
+00:05:18.290 --> 00:05:19.120
+¿Cuál es el componente de y?
+
+00:05:19.120 --> 00:05:20.290
+¿Qué es eso?
+
+00:05:20.290 --> 00:05:25.330
+Bueno, si sabíamos theta, si sabíamos que este ángulo, la
+
+00:05:25.330 --> 00:05:30.350
+componente y, o el componente hacia arriba va a ser el
+
+00:05:30.350 --> 00:05:35.890
+campo eléctrico veces coseno de theta.
+
+00:05:35.890 --> 00:05:39.590
+Coseno es adyacente sobre hipotenusa, así hipotenusa
+
+00:05:39.590 --> 00:05:41.810
+tiempos coseno de theta es igual a la adyacente.
+
+00:05:41.810 --> 00:05:44.050
+Así que si queríamos la vertical o la componente y de la
+
+00:05:44.050 --> 00:05:46.800
+campo eléctrico, sería simplemente multiplicamos la magnitud de la
+
+00:05:46.800 --> 00:05:49.290
+campo eléctrico veces el coseno de theta.
+
+00:05:49.290 --> 00:05:50.980
+Entonces, ¿cómo nos averiguar theta?
+
+00:05:50.980 --> 00:05:53.510
+Bueno, ese theta también es la misma que esta theta de nuestro
+
+00:05:53.510 --> 00:05:56.430
+trigonometría básica.
+
+00:05:56.430 --> 00:05:58.080
+Y ¿qué es el coseno de theta?
+
+00:05:58.080 --> 00:05:59.940
+Coseno es adyacente sobre hipotenusa
+
+00:05:59.940 --> 00:06:01.770
+¿desde SOHCAHTOA, derecho?
+
+00:06:01.770 --> 00:06:04.160
+Coseno de theta es igual a adyacente sobre hipotenusa.
+
+00:06:09.190 --> 00:06:11.120
+Así que cuando estamos mirando este ángulo, que es lo mismo que
+
+00:06:11.120 --> 00:06:13.110
+¿que uno, lo que es adyacente sobre hipotenusa?
+
+00:06:13.110 --> 00:06:16.740
+Esto es adyacente, es la hipotenusa.
+
+00:06:16.740 --> 00:06:18.600
+¿Lo que obtenemos?
+
+00:06:18.600 --> 00:06:23.030
+Obtenemos la componente y del campo eléctrico debido a que sólo
+
+00:06:23.030 --> 00:06:29.065
+Este pequeño fragmento de nuestra placa, el campo eléctrico en
+
+00:06:29.065 --> 00:06:33.935
+la componente y, vamos a llamar simplemente ese sub 1 porque esto
+
+00:06:33.935 --> 00:06:36.280
+es un poco pequeña parte de la placa.
+
+00:06:36.280 --> 00:06:41.400
+Es igual al campo eléctrico en general, la magnitud
+
+00:06:41.400 --> 00:06:46.720
+del campo eléctrico desde este punto, tiempos coseno de
+
+00:06:46.720 --> 00:06:52.910
+Theta, lo que equivale a los tiempos de campo eléctrico el
+
+00:06:52.910 --> 00:06:59.500
+adyacentes--veces altura--sobre la hipotenusa--sobre la
+
+00:06:59.500 --> 00:07:06.110
+raíz cuadrada de h squared plus r cuadrado.
+
+00:07:06.110 --> 00:07:07.610
+Bastante justo.
+
+00:07:07.610 --> 00:07:10.250
+Así que ahora vamos a ver si podemos averiguar qué la magnitud
+
+00:07:10.250 --> 00:07:14.270
+de es el campo eléctrico, y luego podemos ponerlo en
+
+00:07:14.270 --> 00:07:16.920
+Esto y lo voy averiguar el componente y desde este punto.
+
+00:07:16.920 --> 00:07:18.770
+Y realmente, no sólo vamos a averiguar el
+
+00:07:18.770 --> 00:07:20.840
+campo eléctrico justo desde ese punto, vamos a Figura
+
+00:07:20.840 --> 00:07:23.730
+el campo eléctrico de un anillo rodea este.
+
+00:07:23.730 --> 00:07:26.530
+Así que permítanme darle un poco de perspectiva o dibujar
+
+00:07:26.530 --> 00:07:28.480
+con un poco de perspectiva.
+
+00:07:28.480 --> 00:07:29.990
+Este es mi placa infinita nuevamente.
+
+00:07:29.990 --> 00:07:31.920
+Voy dibujar en amarillo nuevamente desde que
+
+00:07:31.920 --> 00:07:35.390
+originalmente dibujó en amarillo.
+
+00:07:35.390 --> 00:07:38.315
+Esta es mi placa infinita.
+
+00:07:38.315 --> 00:07:39.675
+Va en cada dirección.
+
+00:07:45.240 --> 00:07:47.930
+Y luego tengo a mi cargo flotando por encima de esta placa
+
+00:07:47.930 --> 00:07:51.930
+lugar a la altura de h.
+
+00:07:51.930 --> 00:07:55.120
+Y este punto aquí, esto podría haber sido aquí
+
+00:07:55.120 --> 00:07:57.770
+tal vez, pero lo voy a hacer es que voy a dibujar un anillo
+
+00:07:57.770 --> 00:08:01.470
+es un radio igual alrededor de este punto aquí.
+
+00:08:01.470 --> 00:08:02.430
+Así que esto es r.
+
+00:08:02.430 --> 00:08:06.850
+Vamos a dibujar un anillo, porque todos estos puntos se van a
+
+00:08:06.850 --> 00:08:10.400
+¿estar a la misma distancia de nuestra carga de la prueba, derecho?
+
+00:08:10.400 --> 00:08:14.170
+Todos ellos son exactamente igual esta un punto que señala a aquí.
+
+00:08:14.170 --> 00:08:16.420
+Casi podría ver esto como una muestra representativa de este anillo
+
+00:08:16.420 --> 00:08:18.290
+que yo estoy sacando.
+
+00:08:18.290 --> 00:08:22.890
+Así que vamos a averiguar qué la componente y de la eléctrica
+
+00:08:22.890 --> 00:08:26.310
+fuerza de este anillo es nuestro punto de carga.
+
+00:08:26.310 --> 00:08:28.370
+Así que para hacerlo, sólo tenemos que averiguar el área de este
+
+00:08:28.370 --> 00:08:34.740
+anillo, multiplicar veces nuestra densidad de carga, y tendremos
+
+00:08:34.740 --> 00:08:39.640
+el total de carga de que el anillo, y luego podemos usar
+
+00:08:39.640 --> 00:08:41.919
+Ley de Coulomb para averiguar su fuerza o el campo en
+
+00:08:41.919 --> 00:08:44.980
+punto y luego nos podríamos utilizar esta fórmula, que acabamos
+
+00:08:44.980 --> 00:08:46.700
+averiguado, para averiguar el componente y.
+
+00:08:46.700 --> 00:08:48.710
+Sé que está involucrado, pero será todo vale, porque
+
+00:08:48.710 --> 00:08:50.520
+Usted sabrá que tenemos un campo eléctrico constante.
+
+00:08:50.520 --> 00:08:52.360
+Así que vamos a hacer eso.
+
+00:08:52.360 --> 00:08:55.385
+Así, en primer lugar, la ley de Coulomb nos dice--bueno, en primer lugar,
+
+00:08:55.385 --> 00:08:57.360
+vamos a averiguar la carga de este anillo.
+
+00:08:57.360 --> 00:09:02.390
+¿Asi q del anillo, es igual a qué?
+
+00:09:02.390 --> 00:09:04.460
+Es igual a la circunferencia de los tiempos de anillo la
+
+00:09:04.460 --> 00:09:05.160
+ancho del anillo.
+
+00:09:05.160 --> 00:09:11.230
+Así que vamos a decir la circunferencia es 2 pi r y digamos que es
+
+00:09:11.230 --> 00:09:13.675
+un anillo muy flaco.
+
+00:09:13.675 --> 00:09:14.750
+Es realmente flaco.
+
+00:09:14.750 --> 00:09:17.600
+Es la dr. infinitesimalmente flaco.
+
+00:09:17.600 --> 00:09:22.470
+Por lo que su ancho es la Dra. Por lo que es el área del anillo y así
+
+00:09:22.470 --> 00:09:23.340
+¿Qué va a ser su carga?
+
+00:09:23.340 --> 00:09:25.940
+Es zona veces la densidad de carga, tan veces sigma.
+
+00:09:28.890 --> 00:09:31.140
+Es la carga del anillo.
+
+00:09:31.140 --> 00:09:37.400
+Y entonces ¿cuál es el campo eléctrico generado por el anillo en
+
+00:09:37.400 --> 00:09:39.900
+¿este punto aquí donde está nuestra carga de prueba?
+
+00:09:39.900 --> 00:09:42.250
+Así, la ley de Coulomb nos dice que la fuerza generada por
+
+00:09:42.250 --> 00:09:48.700
+el anillo va a ser igual a veces constantes de Coulomb
+
+00:09:48.700 --> 00:09:55.460
+la carga del anillo veces nuestra carga de prueba dividido por el
+
+00:09:55.460 --> 00:09:58.100
+¿distancia al cuadrado, derecha?
+
+00:09:58.100 --> 00:10:01.350
+Bien, ¿cuál es la distancia entre realmente ningún punto
+
+00:10:01.350 --> 00:10:04.400
+¿el anillo y nuestra carga de prueba?
+
+00:10:04.400 --> 00:10:06.380
+Bien, esto podría ser uno de los puntos en el aro y esto
+
+00:10:06.380 --> 00:10:07.130
+¿podría ser otro uno, derecho?
+
+00:10:07.130 --> 00:10:08.640
+Y esto es como un corte transversal.
+
+00:10:08.640 --> 00:10:13.470
+Así es la distancia en cualquier punto, esta distancia de aquí,
+
+00:10:13.470 --> 00:10:15.410
+una vez más por el teorema de Pitágoras porque
+
+00:10:15.410 --> 00:10:16.880
+Esto también es r.
+
+00:10:16.880 --> 00:10:19.060
+Esta distancia es la raíz cuadrada de h
+
+00:10:19.060 --> 00:10:20.140
+squared plus r al cuadrado.
+
+00:10:20.140 --> 00:10:22.710
+Es lo mismo que el.
+
+00:10:22.710 --> 00:10:28.290
+Así que es la distancia al cuadrado y que es igual a veces k
+
+00:10:28.290 --> 00:10:35.170
+la carga en el anillo veces nuestra carga de la prueba dividida por
+
+00:10:35.170 --> 00:10:35.970
+distancia al cuadrado.
+
+00:10:35.970 --> 00:10:39.560
+Bueno, la distancia es la raíz cuadrada de h al cuadrado más r
+
+00:10:39.560 --> 00:10:41.820
+cuadrado, por lo que si nos cuadrado que, sólo se convierte en h
+
+00:10:41.820 --> 00:10:46.300
+squared plus r al cuadrado.
+
+00:10:46.300 --> 00:10:49.280
+Y si queremos conocer el campo eléctrico creado por
+
+00:10:49.280 --> 00:10:53.060
+anillo, el campo eléctrico es simplemente la fuerza por prueba
+
+00:10:53.060 --> 00:10:56.360
+cargar, por lo que si dividimos ambos lados por Q, nos enteramos que
+
+00:10:56.360 --> 00:11:02.510
+el campo eléctrico del anillo es igual a la constante de Coulomb
+
+00:11:02.510 --> 00:11:09.540
+veces la carga en el anillo dividido por h
+
+00:11:09.540 --> 00:11:12.830
+squared plus r al cuadrado.
+
+00:11:12.830 --> 00:11:17.180
+Y ahora ¿qué es la componente y de la
+
+00:11:17.180 --> 00:11:18.460
+¿cargar en el ring?
+
+00:11:18.460 --> 00:11:20.960
+¿Bueno, va a ser esto, la derecha?
+
+00:11:20.960 --> 00:11:22.890
+Lo que sólo pensamos es, esencialmente, la magnitud de
+
+00:11:22.890 --> 00:11:26.250
+¿Este vector, correcto?
+
+00:11:26.250 --> 00:11:28.350
+Pero queremos su componente y, porque todos los de la
+
+00:11:28.350 --> 00:11:29.950
+componentes de x sólo cancelan, por lo que va a ser a veces
+
+00:11:29.950 --> 00:11:31.790
+coseno de theta, y hemos averiguado que coseno de
+
+00:11:31.790 --> 00:11:35.380
+Theta es esencialmente esto, así que lo multiplicamos que.
+
+00:11:35.380 --> 00:11:42.370
+Por lo tanto el campo desde el anillo en la dirección y va a ser
+
+00:11:42.370 --> 00:11:44.850
+igual a su magnitud veces coseno de theta, que nos
+
+00:11:44.850 --> 00:11:49.020
+figured out terminó la raíz cuadrada de h h
+
+00:11:49.020 --> 00:11:51.780
+squared plus r al cuadrado.
+
+00:11:51.780 --> 00:11:54.740
+Nosotros podríamos simplificar esto un poco.
+
+00:11:54.740 --> 00:11:56.670
+El denominador se convierte en ¿qué?
+
+00:11:56.670 --> 00:12:03.630
+h al cuadrado más r cuadrado a la potencia 3/2.
+
+00:12:03.630 --> 00:12:05.210
+¿Y lo que es el numerador?
+
+00:12:05.210 --> 00:12:13.340
+Vamos a ver, tenemos kh y luego la carga en el anillo, que
+
+00:12:13.340 --> 00:12:14.310
+Solucionamos aquí arriba.
+
+00:12:14.310 --> 00:12:28.180
+Por lo que 2 pi sigma r--Asegúrese de que no pierdo nada--
+
+00:12:28.180 --> 00:12:35.480
+Dr. Tan sólo hemos calculado el componente y, la vertical
+
+00:12:35.480 --> 00:12:38.860
+componente del campo eléctrico en h
+
+00:12:38.860 --> 00:12:42.270
+unidades por encima de la placa.
+
+00:12:42.270 --> 00:12:45.600
+Y no de toda la placa, simplemente el campo eléctrico
+
+00:12:45.600 --> 00:12:49.530
+generado por un anillo de radio r de la base de donde estamos
+
+00:12:49.530 --> 00:12:50.780
+Tomando esta altura.
+
+00:12:50.780 --> 00:12:53.160
+Así que ya me he ido 12 minutos en este video, y
+
+00:12:53.160 --> 00:12:55.130
+sólo para darle un descanso y un descanso de mí mismo, voy a
+
+00:12:55.130 --> 00:12:56.230
+Continúe en la siguiente.
+
+00:12:56.230 --> 00:12:58.110
+Pero os podéis imaginar lo que vamos a hacer ahora.
+
+00:12:58.110 --> 00:13:03.680
+Sólo pensamos el campo eléctrico creado por sólo
+
+00:13:03.680 --> 00:13:05.320
+¿Este anillo, correcto?
+
+00:13:05.320 --> 00:13:08.425
+Así que ahora podemos integrar a través de todo el plano.
+
+00:13:11.010 --> 00:13:14.040
+Podemos resolver todos los anillos del infinito de radio completamente
+
+00:13:14.040 --> 00:13:17.170
+bajar a cero y que nosotros daremos la suma de todos los
+
+00:13:17.170 --> 00:13:19.880
+campos eléctricos y esencialmente la red eléctrica
+
+00:13:19.880 --> 00:13:24.460
+h unidades por encima de la superficie de la placa de campo.
+
+00:13:24.460 --> 00:13:26.340
+Nos vemos en el siguiente vídeo.

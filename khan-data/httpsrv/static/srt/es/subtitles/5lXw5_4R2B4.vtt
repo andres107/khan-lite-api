@@ -1,0 +1,54 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:02.472 --> 00:00:03.893
+Supongamos que usted tiene un vaso sanguineo
+
+00:00:03.893 --> 00:00:08.090
+aca, y es un vaso sanguineo bastante largo
+
+00:00:08.090 --> 00:00:12.226
+and que le daremos una resistencia de 8, y tiene 3 ramas
+
+00:00:12.226 --> 00:00:15.956
+digamos dos grandes, y una pequeña en el medio
+
+00:00:15.956 --> 00:00:19.441
+y va en linea recta y tiene una resistencia
+
+00:00:19.441 --> 00:00:22.910
+de 10, y las mas grandes,
+
+00:00:22.910 --> 00:00:29.404
+tienen resistencia de la mitad de eso, por lo que son aproximadamente
+
+00:00:29.404 --> 00:00:36.838
+5, y en este lado, todas regresan juntas de nuevo
+
+00:00:36.838 --> 00:00:41.122
+y entran a un vaso sanguineo corto, que tiene una resistencia de 3
+
+00:00:41.122 --> 00:00:47.167
+Por lo tanto, mi pregunta para ustedes es cual: cual es la resistencia total de la sangre entrando
+
+00:00:47.167 --> 00:00:53.912
+y saliendo de aca? De nuevo, va a tener que ir a traves de este 8 pequeño y luego tiene 3 opciones
+
+00:00:53.912 --> 00:01:01.826
+aca, aca o aca, pero eventualmente todas regresan juntas de nuevo en el 3 pequeño y luego salen al otro lado
+
+00:01:01.826 --> 00:01:08.922
+Entonces, cual es la resistencia total, entonces que es resistencia Rt, esa es la pregunta y
+
+00:01:08.922 --> 00:01:13.326
+lo que voy a hacer es dividir esto en 2 partes: parte 1
+
+00:01:13.326 --> 00:01:19.235
+Voy a averiguar en la parte uno, cual es la resistencia de esta parte, justo aca
+
+00:01:19.235 --> 00:01:26.106
+entonces esto lo puedo lograr usando una equacion explicada en el video pasado, que era que se puede basicamente tomar
+
+00:01:26.106 --> 00:01:41.139
+Rt, que es la resistencia total para esa caja amarilla,

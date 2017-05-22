@@ -1,0 +1,70 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.628 --> 00:00:07.400
+Nos piden que simplifiquemos logaritmo base 5 de 25 a la "x", sobre "y"
+
+00:00:07.400 --> 00:00:12.705
+Así que les diré algunas propiedades de logaritmos, y estoy de acuerdo en que esto de aquí hay que simplificarlo
+
+00:00:12.725 --> 00:00:17.465
+Que tener esto aquí dentro del logaritmo no es una vista agradable
+
+00:00:17.465 --> 00:00:23.039
+Así que lo primero es ver que aquí aplica una de las propiedades de logaritmos:
+
+00:00:23.039 --> 00:00:27.903
+Entonces, el logaritmo para una base dada, digamos que la base es "x", de "a" sobre "b"
+
+00:00:27.903 --> 00:00:34.473
+Eso es igual a logaritmo base "x" de "a" menos logaritmo base "x" de "b"
+
+00:00:34.473 --> 00:00:37.632
+Ahora, aquí tenemos 25 a la "x" sobre "y"
+
+00:00:37.632 --> 00:00:41.491
+Entonces podemos simplificar (lo pondré en azul)
+
+00:00:41.738 --> 00:00:49.140
+Logaritmo base 5 de 25 a la "x" sobre "y" según esta propiedad es lo mismo que:
+
+00:00:49.140 --> 00:00:58.137
+Logaritmo base 5 de 25 a la "x", menos logaritmo base 5 de "y"
+
+00:00:58.137 --> 00:01:02.305
+Ahora, parece que podemos simplificar esto un poco
+
+00:01:02.305 --> 00:01:10.049
+Parece que la propiedad de logaritmos que aplica aquí es que si tengo un logaritmo base "x" de de "a" a la "b"
+
+00:01:10.049 --> 00:01:15.237
+Es lo mismo que "b" veces el logaritmo base "x" de "a"
+
+00:01:15.237 --> 00:01:20.338
+El exponente se puede poner al frente, que es lo que hicimos aquí
+
+00:01:20.338 --> 00:01:28.901
+O sea que esta parte de aquí se puede reescribir como "x" veces el logaritmo base 5 de 25
+
+00:01:28.901 --> 00:01:34.233
+Y luego tenemos: menos el logaritmo base 5 de "y"
+
+00:01:34.233 --> 00:01:40.136
+Y esto es útil porque en realidad es más fácil pensar en el logaritmo base 5 de 25
+
+00:01:40.136 --> 00:01:42.569
+Esta parte de aquí nos pregunta
+
+00:01:42.569 --> 00:01:46.569
+¿Cuál es la potencia a la que debo elevar 5 para obtener 25?
+
+00:01:46.569 --> 00:01:49.888
+Entonces tenemos que elevar 5 a la segunda potencia para obtener 25
+
+00:01:49.888 --> 00:01:51.830
+Entonces esto lo podemos simplificar a 2
+
+00:01:51.830 --> 00:02:07.804
+Y nos queda que esto es igual a 2 veces "x" menos el logaritmo base 5 de "y". 
+¡Y terminamos!

@@ -1,0 +1,81 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.042 --> 00:00:05.042
+Ahora que ya estamos cómodos con el "por qué" de por qué hacemos algo en ambos lados de una ecuación
+
+00:00:05.203 --> 00:00:07.678
+veamos si podemos aplicarlo a algunas ecuaciones para hallar el valor de
+
+00:00:07.678 --> 00:00:16.544
+una variable desconocida. Digamos que tenemos que x+7=10, y queremos obtener el valor de x.
+
+00:00:16.544 --> 00:00:20.329
+Lo que se está diciendo es que algo más 7 es igual a 10, y podrías averiguarlo "de cabeza",
+
+00:00:20.329 --> 00:00:22.873
+pero si quieres hacerlo algo más sistemáticamente, sería algo como: bien,
+
+00:00:22.873 --> 00:00:26.781
+lo que quiero en la parte izquierda es una x. Entonces, si lo que quiero en la parte izquierda es una x,
+
+00:00:26.781 --> 00:00:33.023
+querría deshacerme del 7. Quiero restar el 7 de la parte izquierda, pero si quiero mantener la igualdad
+
+00:00:33.023 --> 00:00:38.729
+aquí, cualquier cosa que haga en la parte izquierda tendré que hacerla también en la parte derecha. Volviendo a nuestra balanza,
+
+00:00:38.729 --> 00:00:43.677
+lo que queremos es mantenerla equilibrada, para poder así decir que la parte izquierda sigue siendo igual que la derecha.
+
+00:00:43.677 --> 00:00:50.564
+Así que con lo que nos vamos a quedar es con x, y los sietes se van a cancelar.
+
+00:00:50.564 --> 00:00:56.493
+Esto va a ser igual a 10 menos 7, que es 3. Por lo tanto, obtenemos que el valor desconocido es tres,
+
+00:00:56.493 --> 00:01:01.562
+y podemos verificarlo: 3+7 es, de hecho, igual a 10
+
+00:01:01.562 --> 00:01:10.749
+Vamos a probar uno más. Digamos que tenemos que "a" menos 5 es igual a -2
+
+00:01:10.749 --> 00:01:15.395
+Este ejemplo es algo más interesante, puesto que tenemos estos números negativos aquí, pero podemos utilizar
+
+00:01:15.395 --> 00:01:19.727
+la misma lógica. Queremos una "a" en la parte izquierda
+
+00:01:19.727 --> 00:01:23.023
+así que tenemos que deshacernos de este -5 de alguna forma.
+
+00:01:23.023 --> 00:01:26.244
+La mejor forma de deshacernos de -5 es sumando 5.
+
+00:01:26.244 --> 00:01:30.630
+Así que voy a hacerlo: voy a añadir 5 a la parte izquierda.
+
+00:01:30.630 --> 00:01:34.311
+Pero si quiero que la parte izquierda siga siendo igual que la parte derecha,
+
+00:01:34.311 --> 00:01:36.348
+cualquier cosa que haga en la parte izquierda tendré que hacerla también en la parte derecha.
+
+00:01:36.348 --> 00:01:40.193
+Así que voy a añadir 5 también en la parte derecha.
+
+00:01:40.193 --> 00:01:48.755
+Así, en la parte izquierda queda "a", y el -5 se cancela con el 5;
+
+00:01:48.755 --> 00:01:53.179
+y en la parte derecha se va a satisfacer la igualdad, ya que se hace la misma operación en ambos lados.
+
+00:01:53.179 --> 00:01:57.424
+Tenemos -2+5, que es igual a 3.
+
+00:01:57.424 --> 00:02:02.362
+Por lo tanto, "a" es igual a 3. Nuevamente, podemos verificarlo:
+
+00:02:02.362 --> 00:02:06.362
+3-5 es, de hecho, igual a -2.

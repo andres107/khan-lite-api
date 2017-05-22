@@ -1,0 +1,594 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.670 --> 00:00:03.340
+He estado haciendo un montón de videos sobre la mecánica de
+
+00:00:03.340 --> 00:00:06.530
+tomando la transformada de Laplace, pero te has sentado
+
+00:00:06.530 --> 00:00:09.620
+a través de ellos siempre preguntando, ¿qué estoy yo aprendiendo esto para?
+
+00:00:09.620 --> 00:00:12.670
+Y ahora te voy a mostrar, al menos en el contexto de
+
+00:00:12.670 --> 00:00:13.870
+ecuaciones diferenciales.
+
+00:00:13.870 --> 00:00:16.140
+Y me he metido un montón de cartas
+
+00:00:16.140 --> 00:00:17.680
+en la transformada de Laplace.
+
+00:00:17.680 --> 00:00:18.570
+¿Qué significa realmente?
+
+00:00:18.570 --> 00:00:19.390
+Y y todo eso.
+
+00:00:19.390 --> 00:00:21.050
+Y son excelentes preguntas y usted debe
+
+00:00:21.050 --> 00:00:22.120
+buscan.
+
+00:00:22.120 --> 00:00:25.410
+Es difícil tener una intuición de la Laplace
+
+00:00:25.410 --> 00:00:28.030
+Transformar en el contexto de las ecuaciones diferenciales, que
+
+00:00:28.030 --> 00:00:32.630
+siendo una herramienta muy útil que convierte diferencial o
+
+00:00:32.630 --> 00:00:36.530
+problemas integrales en problemas de álgebra. Pero te voy a dar un
+
+00:00:36.530 --> 00:00:39.980
+sugerencia, y si se desea una ruta para aprenderlo en, debe
+
+00:00:39.980 --> 00:00:42.520
+aprender sobre series de Fourier y de Fourier, que son
+
+00:00:42.520 --> 00:00:44.710
+muy similar a la de Laplace. Y que te
+
+00:00:44.710 --> 00:00:48.360
+construir efectivamente la intuición de lo que la
+
+00:00:48.360 --> 00:00:50.610
+dominio de la frecuencia es todo acerca de.
+
+00:00:50.610 --> 00:00:53.200
+Bien de todos modos, vamos a utilizar la transformada de Laplace a
+
+00:00:53.200 --> 00:00:54.630
+resolver una ecuación diferencial.
+
+00:00:54.630 --> 00:00:56.680
+Y este es uno que hemos visto antes.
+
+00:00:56.680 --> 00:00:59.210
+Déjame ver.
+
+00:00:59.210 --> 00:01:03.300
+Así que vamos a decir la ecuación diferencial y primer primo,
+
+00:01:03.300 --> 00:01:07.330
+Plus 5 veces, el primero derivado, plus
+
+00:01:07.330 --> 00:01:09.210
+6Y, es igual a 0.
+
+00:01:09.210 --> 00:01:10.930
+Y usted sabe cómo resolver este uno, pero sólo quiero mostrar
+
+00:01:10.930 --> 00:01:13.490
+que, con un diferencial bastante sencillo
+
+00:01:13.490 --> 00:01:15.540
+ecuación, que se podría resolver con la transformada de Laplace.
+
+00:01:15.540 --> 00:01:17.930
+Y en realidad, terminas teniendo una
+
+00:01:17.930 --> 00:01:19.630
+ecuación característica.
+
+00:01:19.630 --> 00:01:27.400
+Y las condiciones iniciales y de 0 es igual a 2 e y
+
+00:01:27.400 --> 00:01:32.490
+primo de 0 es igual a 3.
+
+00:01:32.490 --> 00:01:36.100
+Ahora, utilizar la transformada de Laplace, esencialmente
+
+00:01:36.100 --> 00:01:38.280
+sólo tomar la transformada de Laplace de ambos lados del
+
+00:01:38.280 --> 00:01:40.460
+Esta ecuación.
+
+00:01:40.460 --> 00:01:42.590
+Permítanme utilizar un color más vibrante.
+
+00:01:42.590 --> 00:01:47.060
+Así obtenemos la transformada de Laplace y la segunda
+
+00:01:47.060 --> 00:01:51.090
+derivado, además--bien nos podríamos decir la Laplace
+
+00:01:51.090 --> 00:01:53.590
+Transformar de prime y de 5 veces, pero es lo mismo que 5
+
+00:01:53.590 --> 00:01:56.745
+veces la transformada de Laplace--y cebar.
+
+00:01:59.310 --> 00:02:06.190
+primer y más 6 veces el Laplace de y.
+
+00:02:06.190 --> 00:02:06.910
+Y permítame hacerle una pregunta.
+
+00:02:06.910 --> 00:02:09.780
+¿Lo la Laplace de 0?
+
+00:02:09.780 --> 00:02:11.130
+Permítanme hacer eso.
+
+00:02:11.130 --> 00:02:12.990
+Por lo que la transformada de Laplace de 0 sería ser la integral de
+
+00:02:12.990 --> 00:02:19.160
+0 hasta el infinito, de 0 veces e la stdt menos.
+
+00:02:19.160 --> 00:02:20.330
+Este es un 0 en aquí.
+
+00:02:20.330 --> 00:02:21.400
+Así que esto es igual a 0.
+
+00:02:21.400 --> 00:02:23.340
+Así, la transformada de Laplace de 0 es 0.
+
+00:02:23.340 --> 00:02:25.870
+Y eso es bueno, porque no tengo espacio para hacer
+
+00:02:25.870 --> 00:02:28.560
+otro L. rizado
+
+00:02:28.560 --> 00:02:30.730
+¿Cuáles son los de Laplace de estas cosas?
+
+00:02:30.730 --> 00:02:33.210
+Bueno esto es de donde partimos a uno de los útiles
+
+00:02:33.210 --> 00:02:36.500
+propiedades que aprendimos.
+
+00:02:36.500 --> 00:02:37.530
+Permítaseme escribirlo aquí.
+
+00:02:37.530 --> 00:02:40.820
+Creo que va a necesitar tanto
+
+00:02:40.820 --> 00:02:42.656
+bienes raíces como sea posible.
+
+00:02:42.656 --> 00:02:44.320
+Quiero borrar esto.
+
+00:02:48.850 --> 00:02:52.080
+Así nos enteramos que la transformada de Laplace--lo haré aquí.
+
+00:02:52.080 --> 00:02:54.860
+En realidad, lo haré aquí abajo.
+
+00:02:54.860 --> 00:03:01.150
+La transformada de Laplace de f primo, o incluso podríamos decir y
+
+00:03:01.150 --> 00:03:08.990
+primo, es igual a s veces la transformada de Laplace de
+
+00:03:08.990 --> 00:03:13.690
+y, menos y de 0.
+
+00:03:13.690 --> 00:03:15.800
+Demostramos a usted.
+
+00:03:15.800 --> 00:03:19.300
+Y esto es sumamente importante saber.
+
+00:03:19.300 --> 00:03:20.800
+Así que vamos a ver si podemos aplicar.
+
+00:03:20.800 --> 00:03:23.810
+Así que la transformada de Laplace de prime y ceba, si aplicamos,
+
+00:03:23.810 --> 00:03:33.296
+es igual a s veces la transformada de Laplace de--si bien
+
+00:03:33.296 --> 00:03:35.540
+vamos a partir y prime y, sólo está tomando la
+
+00:03:35.540 --> 00:03:37.390
+primitiva, así que si usted está tomando la primitiva de
+
+00:03:37.390 --> 00:03:40.140
+y, de la segunda derivada, apenas terminamos con la primera
+
+00:03:40.140 --> 00:03:45.950
+derivado--menos la primera derivada a 0.
+
+00:03:45.950 --> 00:03:48.530
+Aviso, ya estamos utilizando nuestras condiciones iniciales.
+
+00:03:48.530 --> 00:03:51.130
+No sustituir todavía.
+
+00:03:51.130 --> 00:03:56.950
+Y luego terminamos con plus 5, veces--voy a escribirlo cada
+
+00:03:56.950 --> 00:04:07.530
+lo tiempo--plus 5 veces la transformada de Laplace y primos,
+
+00:04:07.530 --> 00:04:12.800
+más de 6 veces el Laplace de y.
+
+00:04:12.800 --> 00:04:13.970
+Todo eso es igual a 0.
+
+00:04:13.970 --> 00:04:20.490
+Tan sólo para ser claros, todo lo que hice es amplió esta
+
+00:04:20.490 --> 00:04:22.350
+con éste.
+
+00:04:22.350 --> 00:04:25.410
+Entonces, ¿cómo podemos reescribir la transformada de Laplace y primos?
+
+00:04:25.410 --> 00:04:27.870
+Bien, nosotros podríamos utilizar esto una vez más, así que vamos a hacer eso.
+
+00:04:27.870 --> 00:04:31.630
+Por eso, este aquí--voy a hacer en magenta--esto es igual a
+
+00:04:31.630 --> 00:04:34.830
+s veces ¿qué?
+
+00:04:34.830 --> 00:04:38.950
+s veces la transformada de Laplace y primos.
+
+00:04:38.950 --> 00:04:48.410
+Así que s veces la transformada de Laplace y, menos
+
+00:04:48.410 --> 00:04:52.220
+¿y de 0, correcto?
+
+00:04:52.220 --> 00:04:55.300
+Tomó esta parte y lo reemplazó con lo que tengo en
+
+00:04:55.300 --> 00:04:56.310
+paréntesis.
+
+00:04:56.310 --> 00:05:05.800
+Así menos y primer 0--y ahora voy cambiar colores--plus
+
+00:05:05.800 --> 00:05:09.370
+5 veces--una vez más la transformada de Laplace y cebar.
+
+00:05:09.370 --> 00:05:10.360
+También podemos utilizar esto otra vez.
+
+00:05:10.360 --> 00:05:24.550
+Tan s 5 veces veces transformada de Laplace y, menos y de 0,
+
+00:05:24.550 --> 00:05:27.540
+más 6 veces el Laplace Transform--oh corrí fuera de
+
+00:05:27.540 --> 00:05:31.160
+espacio, lo haré en otra línea--más 6 veces el
+
+00:05:31.160 --> 00:05:34.250
+Transformada de Laplace de y.
+
+00:05:34.250 --> 00:05:35.190
+Todo eso es igual a 0.
+
+00:05:35.190 --> 00:05:36.730
+Sé que esto parece realmente confuso pero veremos
+
+00:05:36.730 --> 00:05:37.820
+simplificar ahora mismo.
+
+00:05:37.820 --> 00:05:39.680
+Y nosotros podríamos deshacernos de esto aquí, porque hemos usado
+
+00:05:39.680 --> 00:05:42.550
+todo lo que necesitamos.
+
+00:05:42.550 --> 00:05:45.050
+Así que ahora sólo simplificamos.
+
+00:05:45.050 --> 00:05:46.900
+Y aviso, mediante la transformación de Laplace, no tenemos que
+
+00:05:46.900 --> 00:05:49.030
+Supongo que en una solución general ni nada parecido.
+
+00:05:49.030 --> 00:05:50.900
+Incluso cuando hicimos una ecuación característica, nos
+
+00:05:50.900 --> 00:05:53.030
+adivinar lo que era la original solución general.
+
+00:05:53.030 --> 00:05:54.900
+Ahora sólo está tomando de Laplace y vamos a ver
+
+00:05:54.900 --> 00:05:57.595
+donde nos lleva a esto.
+
+00:05:57.595 --> 00:05:59.410
+Y realmente quiero que quede claro, porque sé
+
+00:05:59.410 --> 00:06:09.830
+es muy confuso, así que reescribió esta parte como este.
+
+00:06:09.830 --> 00:06:14.260
+Y reescribió esta cosa como esta.
+
+00:06:14.260 --> 00:06:15.360
+Y todo lo demás es el mismo.
+
+00:06:15.360 --> 00:06:17.610
+Pero ahora vamos a simplificar las matemáticas.
+
+00:06:17.610 --> 00:06:23.930
+Así obtenemos s al cuadrado, veces la transformada de Laplace y--yo soy
+
+00:06:23.930 --> 00:06:28.900
+va a escribir más pequeños, he aprendido mi lección--menos s
+
+00:06:28.900 --> 00:06:32.150
+y de tiempos de 0.
+
+00:06:32.150 --> 00:06:35.860
+Vamos a sustituir y 0 aquí. y 0 es 2, s veces y 0
+
+00:06:35.860 --> 00:06:41.970
+es 2 veces s, 2s así, distribuir que s, menos y
+
+00:06:41.970 --> 00:06:42.770
+primo de 0.
+
+00:06:42.770 --> 00:06:44.590
+Y primo de 0 es 3.
+
+00:06:44.590 --> 00:06:52.720
+Lo menos 3, más--por lo que tenemos a veces s de 5 veces el de Laplace
+
+00:06:52.720 --> 00:06:58.830
+Transformar y, por lo que además de 5s veces la transformada de Laplace de
+
+00:06:58.830 --> 00:07:07.450
+y, menos veces 5 y 0. 0 2, es lo menos 10.
+
+00:07:07.450 --> 00:07:08.980
+¿Menos 10, correcto?
+
+00:07:08.980 --> 00:07:14.040
+5 veces--esto es 2 derecha aquí--2 hasta 5 veces, además de 6
+
+00:07:14.040 --> 00:07:18.950
+la transformada de Laplace y el tiempo.
+
+00:07:18.950 --> 00:07:22.450
+Todo eso es igual a 0.
+
+00:07:22.450 --> 00:07:26.070
+Ahora, vamos a agrupar nuestros transformada de Laplace y términos y nuestro
+
+00:07:26.070 --> 00:07:28.800
+términos constantes y nosotros debemos ser ojala
+
+00:07:28.800 --> 00:07:30.790
+conseguir algún lugar.
+
+00:07:30.790 --> 00:07:33.750
+Así que vamos a ver, mi transformada de Laplace y términos, tengo
+
+00:07:33.750 --> 00:07:39.700
+Este uno, tengo esta uno, y tengo que uno.
+
+00:07:39.700 --> 00:07:40.480
+Así que ¿qué quedo yo con?
+
+00:07:40.480 --> 00:07:43.020
+Permítanme también factor a la transformada de Laplace y parte.
+
+00:07:43.020 --> 00:07:47.160
+Para obtener la transformada de Laplace y--y eso es bueno porque
+
+00:07:47.160 --> 00:07:50.980
+es un dolor para seguir escribiendo una y otra vez--veces s
+
+00:07:50.980 --> 00:08:02.120
+cuadrado más 5s más 6.
+
+00:08:02.120 --> 00:08:05.370
+Estas son mis condiciones de Laplace. Y luego
+
+00:08:05.370 --> 00:08:09.460
+tienen mis términos constantes. Así que vamos a ver, tengo 1s, así menos
+
+00:08:09.460 --> 00:08:20.040
+2s, menos 3, menos de 10, es igual a 0.
+
+00:08:20.040 --> 00:08:21.480
+¿Y qué podemos hacer aquí?
+
+00:08:21.480 --> 00:08:23.480
+Bueno, esto es interesante, en primer lugar.
+
+00:08:23.480 --> 00:08:28.270
+Observe que los coeficientes de la transformada de Laplace y
+
+00:08:28.270 --> 00:08:31.200
+que son esa ecuación característica en términos que
+
+00:08:31.200 --> 00:08:33.840
+tratamos con tanto, y que es con suerte, a algunos
+
+00:08:33.840 --> 00:08:34.909
+grado, segunda naturaleza a usted.
+
+00:08:34.909 --> 00:08:38.240
+Por lo es un poco más de una pista, y si quieres algunos
+
+00:08:38.240 --> 00:08:40.690
+conexiones muy tenues, así tiene mucho sentido.
+
+00:08:40.690 --> 00:08:43.030
+Porque la ecuación característica para conseguir eso, nos
+
+00:08:43.030 --> 00:08:47.030
+sustituir e a la rt, y consiste en la transformada de Laplace
+
+00:08:47.030 --> 00:08:48.140
+función muy similar.
+
+00:08:48.140 --> 00:08:49.670
+Pero de todos modos, volvamos al problema.
+
+00:08:49.670 --> 00:08:51.400
+Entonces, ¿cómo solucionamos esto?
+
+00:08:51.400 --> 00:08:53.190
+Y en realidad, te voy a dar sólo el panorama,
+
+00:08:53.190 --> 00:08:54.630
+porque esto es un buen punto.
+
+00:08:54.630 --> 00:08:56.830
+¿Qué voy a hacer es que voy a solucionar esto.
+
+00:08:56.830 --> 00:08:58.280
+Voy a decir la transformada de Laplace de
+
+00:08:58.280 --> 00:09:00.970
+y es igual a algo.
+
+00:09:00.970 --> 00:09:03.260
+Y, a continuación, voy a decir, chico, qué funciones del
+
+00:09:03.260 --> 00:09:05.100
+¿Transformada de Laplace es algo?
+
+00:09:05.100 --> 00:09:06.220
+Y, a continuación, voy a tener la solución.
+
+00:09:06.220 --> 00:09:09.010
+Si confunde el te, hay que esperar y ojala que
+
+00:09:09.010 --> 00:09:09.380
+algún sentido.
+
+00:09:09.380 --> 00:09:11.630
+Desde aquí hasta punto es solo algunos
+
+00:09:11.630 --> 00:09:13.610
+álgebra bastante peludo.
+
+00:09:13.610 --> 00:09:16.830
+Así que vamos a desplazarse hacia abajo un poco, por lo que tenemos algunos
+
+00:09:16.830 --> 00:09:17.900
+Sala de inhalaciones.
+
+00:09:17.900 --> 00:09:23.720
+Y así obtener la transformada de Laplace de y, a veces s
+
+00:09:23.720 --> 00:09:29.800
+cuadrado, más 5s, más 6, es igual a--vamos a agregar estos
+
+00:09:29.800 --> 00:09:34.950
+términos a ambos lados de esta ecuación--es igual a 2s plus
+
+00:09:34.950 --> 00:09:40.930
+3 plus 10--oh, es tonto--plus 13.
+
+00:09:40.930 --> 00:09:42.630
+Esto es menos 13 aquí.
+
+00:09:42.630 --> 00:09:44.630
+Una llamada de teléfono.
+
+00:09:44.630 --> 00:09:45.770
+¿Quién llama?
+
+00:09:45.770 --> 00:09:48.650
+Creo que es algún tipo de marketing llamada de teléfono.
+
+00:09:48.650 --> 00:09:51.600
+De todos modos, 2s plus 13 y ahora ¿qué puede hacer?
+
+00:09:51.600 --> 00:09:51.910
+Pozo.
+
+00:09:51.910 --> 00:09:55.130
+Vamos a dividir ambos lados por esta s squared plus 5s plus 6.
+
+00:09:55.130 --> 00:10:08.030
+Para obtener la transformada de Laplace de y es igual a 2s plus 13,
+
+00:10:08.030 --> 00:10:13.910
+sobre s cuadrado más 5s más 6.
+
+00:10:13.910 --> 00:10:15.540
+Ya casi hemos terminado.
+
+00:10:15.540 --> 00:10:17.440
+Todo aquí es sólo un poco de álgebra.
+
+00:10:17.440 --> 00:10:19.350
+Así que ya casi hemos terminado.
+
+00:10:19.350 --> 00:10:21.730
+Nosotros no hemos resuelto y todavía, pero sabemos que el Laplace
+
+00:10:21.730 --> 00:10:23.970
+Transformación de y es igual a esto.
+
+00:10:23.970 --> 00:10:27.160
+Ahora, si sólo tuviéramos esto en nuestra mesa de nuestro Laplace
+
+00:10:27.160 --> 00:10:29.210
+Transforma, inmediatamente sabríamos qué fue,
+
+00:10:29.210 --> 00:10:31.750
+pero no veo algo, o no recuerdo nada nos
+
+00:10:31.750 --> 00:10:35.790
+lo hizo en nuestra mesa que parece esta expresión de s.
+
+00:10:35.790 --> 00:10:39.130
+Soy esencialmente fuera de tiempo, así que el siguiente vídeo que vamos
+
+00:10:39.130 --> 00:10:42.950
+para averiguar qué funciones transformada de Laplace es esto.
+
+00:10:42.950 --> 00:10:45.490
+Y en realidad resulta que es una suma de cosas que ya
+
+00:10:45.490 --> 00:10:47.590
+saber, y sólo tenemos que manipular esto un poco
+
+00:10:47.590 --> 00:10:48.640
+algebraicamente.
+
+00:10:48.640 --> 00:10:50.620
+Nos vemos en el siguiente vídeo.

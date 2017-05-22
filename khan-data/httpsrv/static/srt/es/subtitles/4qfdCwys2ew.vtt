@@ -1,0 +1,1068 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.390 --> 00:00:03.050
+Cuando introducido en la función de escalón unidad, dije,
+
+00:00:03.050 --> 00:00:06.440
+usted sabe, este tipo de función, es más exótico y
+
+00:00:06.440 --> 00:00:10.240
+un poco inusual en relación con lo que has visto sólo en un
+
+00:00:10.240 --> 00:00:12.900
+curso de cálculo tradicional, lo que has visto en quizás su
+
+00:00:12.900 --> 00:00:13.930
+Cursos de álgebra.
+
+00:00:13.930 --> 00:00:15.990
+Pero la razón de por qué esto fue introducido es porque mucho
+
+00:00:15.990 --> 00:00:18.590
+tipo de sistemas físicos se comportan de esta manera.
+
+00:00:18.590 --> 00:00:21.700
+Que de repente nada sucede durante un largo período de
+
+00:00:21.700 --> 00:00:22.530
+tiempo y bam!
+
+00:00:22.530 --> 00:00:23.630
+Algo ocurre.
+
+00:00:23.630 --> 00:00:24.450
+Y vaya como ese.
+
+00:00:24.450 --> 00:00:26.440
+Y no ocurre exactamente así, pero puede ser
+
+00:00:26.440 --> 00:00:29.330
+aproximada por la función de paso de la unidad.
+
+00:00:29.330 --> 00:00:34.390
+Del mismo modo, a veces tienes nada ocurre durante un largo
+
+00:00:34.390 --> 00:00:35.590
+período de tiempo.
+
+00:00:35.590 --> 00:00:36.870
+No pasa nada durante un largo período de
+
+00:00:36.870 --> 00:00:39.350
+tiempo y luego whack!
+
+00:00:39.350 --> 00:00:42.760
+Algo te golpea muy duro y luego desaparece y entonces
+
+00:00:42.760 --> 00:00:45.300
+no pasa nada durante un período muy largo de tiempo.
+
+00:00:45.300 --> 00:00:46.920
+Y usted aprenderá esto en el futuro, puede que tipo de vista
+
+00:00:46.920 --> 00:00:48.200
+Esto es un impulso.
+
+00:00:48.200 --> 00:00:49.680
+Y hablaremos sobre el impulso de la unidad
+
+00:00:49.680 --> 00:00:50.600
+funciones y todo eso.
+
+00:00:50.600 --> 00:00:53.760
+Así que sería ordenada si hemos tenido algún tipo de función
+
+00:00:53.760 --> 00:00:57.130
+¿puede modelar este tipo de comportamiento?
+
+00:00:57.130 --> 00:01:00.360
+Y en nuestra función ideal, lo que sucedería es
+
+00:01:00.360 --> 00:01:04.910
+no pasa nada hasta que lleguemos a algún punto y, a continuación, bam!
+
+00:01:04.910 --> 00:01:07.150
+Obtendría infinitamente fuerte, pero quizás tiene un
+
+00:01:07.150 --> 00:01:08.630
+área finita.
+
+00:01:08.630 --> 00:01:11.970
+Y entonces sería volver a cero y luego ir así.
+
+00:01:11.970 --> 00:01:16.660
+Por lo que sería infinitamente alto en 0, y
+
+00:01:16.660 --> 00:01:17.630
+Luego sigue allí.
+
+00:01:17.630 --> 00:01:21.530
+Y supongamos que el área debajo de esto, se vuelve muy--
+
+00:01:21.530 --> 00:01:23.880
+para llamar a esto una función es realmente amable de empujar
+
+00:01:23.880 --> 00:01:26.650
+y esto está más allá de las matemáticas de este video, pero lo llamaremos
+
+00:01:26.650 --> 00:01:27.990
+una función en este video.
+
+00:01:27.990 --> 00:01:32.300
+¿Pero dices, bueno, qué bueno es esta función para?
+
+00:01:32.300 --> 00:01:33.610
+¿Cómo puede usted incluso manipularla?
+
+00:01:33.610 --> 00:01:37.800
+Y voy a hacer una definición más de esta función.
+
+00:01:37.800 --> 00:01:40.070
+Digamos que llamamos esta función representada por la
+
+00:01:40.070 --> 00:01:43.090
+Delta, y eso es lo que representamos esta función por.
+
+00:01:43.090 --> 00:01:45.420
+Se llama la función delta de Dirac.
+
+00:01:45.420 --> 00:01:48.510
+Y sólo informalmente te decimos, mira, cuando está en el infinito,
+
+00:01:48.510 --> 00:01:52.480
+Salta hasta el infinito cuando x igual a 0.
+
+00:01:52.480 --> 00:01:56.525
+Y es cero en el resto cuando x no es igual a 0.
+
+00:01:56.525 --> 00:01:58.040
+¿Y dices, cómo lidiar con eso?
+
+00:01:58.040 --> 00:01:59.840
+¿Cómo debo tomar la integral de?
+
+00:01:59.840 --> 00:02:02.220
+Y para ayudarte con eso, voy a hacer una definición.
+
+00:02:02.220 --> 00:02:04.620
+Voy a decirle lo que es la integral de esta.
+
+00:02:04.620 --> 00:02:06.690
+Esto es parte de la definición de la función.
+
+00:02:06.690 --> 00:02:09.470
+Voy a decirle que si tuviera que tomar la integral de
+
+00:02:09.470 --> 00:02:12.510
+Esta función de menos infinito a infinito, tan
+
+00:02:12.510 --> 00:02:16.750
+esencialmente sobre la línea de todo número real, si tomo
+
+00:02:16.750 --> 00:02:22.010
+la integral de esta función, estoy definiendo lo
+
+00:02:22.010 --> 00:02:24.490
+a ser igual a 1.
+
+00:02:24.490 --> 00:02:25.590
+Estoy definiendo esto.
+
+00:02:25.590 --> 00:02:27.600
+Ahora, usted podría decir: Sal, usted no probarlo para mí.
+
+00:02:27.600 --> 00:02:28.670
+No, soy definirlo.
+
+00:02:28.670 --> 00:02:31.960
+Te estoy diciendo que este delta de x es una función tal
+
+00:02:31.960 --> 00:02:34.640
+que su integral es 1.
+
+00:02:34.640 --> 00:02:38.170
+Así que tiene esta base infinitamente estrecha que va
+
+00:02:38.170 --> 00:02:42.810
+infinitamente alto, y el área bajo esta--te estoy diciendo--
+
+00:02:42.810 --> 00:02:44.090
+es de zona 1.
+
+00:02:44.090 --> 00:02:47.380
+Y eres como, bueno, Sal, que es una función loca.
+
+00:02:47.380 --> 00:02:50.490
+Quiero comprender un poco mejor cómo alguien
+
+00:02:50.490 --> 00:02:52.110
+puede construir una función como esta.
+
+00:02:52.110 --> 00:02:56.520
+Así que vamos a ver si podemos satisfacer que un poquito más.
+
+00:02:56.520 --> 00:02:57.880
+Pero luego una vez que está satisfecho, entonces vamos a
+
+00:02:57.880 --> 00:03:00.540
+empezar a tomar la transformada de Laplace y entonces
+
+00:03:00.540 --> 00:03:03.240
+vamos a empezar a manipular y harpas.
+
+00:03:03.240 --> 00:03:06.240
+Vamos a ver, déjame terminar este delta aquí.
+
+00:03:06.240 --> 00:03:08.420
+Digamos que construí otra función.
+
+00:03:08.420 --> 00:03:14.110
+Vamos a llamarla tau sub d y esto es todo sólo para satisfacer
+
+00:03:14.110 --> 00:03:17.640
+Esta ansia de tal vez una intuición mejor de cómo esto
+
+00:03:17.640 --> 00:03:20.270
+Función delta de Dirac puede construirse.
+
+00:03:20.270 --> 00:03:24.930
+Y digamos que mi tau sub d de--bien, permítanme decirlo como un
+
+00:03:24.930 --> 00:03:27.690
+función de t porque todo lo que estamos haciendo el
+
+00:03:27.690 --> 00:03:29.280
+Mundo de transformada de Laplace, todo ha sido
+
+00:03:29.280 --> 00:03:30.600
+una función de t.
+
+00:03:30.600 --> 00:03:40.000
+Así que vamos a decir que es igual a 1 sobre 2 tau, y verá por qué
+
+00:03:40.000 --> 00:03:42.290
+Yo estoy recogiendo estos números como soy.
+
+00:03:42.290 --> 00:03:48.805
+1 sobre 2 tau cuando t es menos entonces tau y
+
+00:03:48.805 --> 00:03:51.260
+mayor que menos tau.
+
+00:03:51.260 --> 00:03:53.640
+Y digamos que es 0 en todas partes.
+
+00:03:58.470 --> 00:04:01.890
+Este tipo de ecuación, esto es más razonable.
+
+00:04:01.890 --> 00:04:04.130
+Esto realmente se verá como una combinación de paso de la unidad
+
+00:04:04.130 --> 00:04:06.120
+funciones y realmente podemos definir como una combinación de
+
+00:04:06.120 --> 00:04:07.460
+funciones de paso de la unidad.
+
+00:04:07.460 --> 00:04:10.220
+Lo que si llamo, es mi eje x.
+
+00:04:14.130 --> 00:04:19.680
+Y entonces si pongo mi eje y aquí.
+
+00:04:19.680 --> 00:04:20.930
+Esa es mi eje y.
+
+00:04:23.520 --> 00:04:25.710
+Lo sentimos, este es un t-eje.
+
+00:04:25.710 --> 00:04:26.990
+Tengo que salir de ese hábito.
+
+00:04:26.990 --> 00:04:29.980
+Este es el eje de la t, y, o sea, que podríamos llamar la
+
+00:04:29.980 --> 00:04:33.430
+eje y o el f de t-eje, o lo que queramos llamarlo.
+
+00:04:33.430 --> 00:04:35.160
+Es la variable dependiente.
+
+00:04:35.160 --> 00:04:36.910
+Así que ¿qué va a pasar aquí?
+
+00:04:36.910 --> 00:04:38.820
+Va a ser cero en todas partes, hasta llegar a
+
+00:04:38.820 --> 00:04:40.870
+menos t, y luego al menos t, vamos a
+
+00:04:40.870 --> 00:04:43.290
+saltar hasta cierto nivel.
+
+00:04:43.290 --> 00:04:44.820
+Déjenme poner ese punto aquí.
+
+00:04:44.820 --> 00:04:48.825
+Esto es menos tau, y esto es además de tau.
+
+00:04:52.010 --> 00:04:53.700
+Así que va a ser cero por doquier y luego en menos
+
+00:04:53.700 --> 00:04:58.040
+Tau, saltar a este nivel, y luego nos quedamos constantes en
+
+00:04:58.040 --> 00:05:01.670
+ese nivel hasta llegar a plus tau.
+
+00:05:01.670 --> 00:05:05.430
+Y que nivel, que estoy diciendo es 1 más 2 tau.
+
+00:05:05.430 --> 00:05:11.080
+Para este punto justo aquí en el eje dependiente, esto es 1
+
+00:05:11.080 --> 00:05:13.080
+tau más 2.
+
+00:05:13.080 --> 00:05:16.630
+Así que ¿por qué lo hizo ¿construir esta función esta forma?
+
+00:05:16.630 --> 00:05:17.710
+Bien, vamos a pensar en ello.
+
+00:05:17.710 --> 00:05:21.410
+¿Qué sucede si tomo la integral?
+
+00:05:21.410 --> 00:05:23.640
+Déjame escribir un signo integral más agradable.
+
+00:05:23.640 --> 00:05:29.790
+Si tomé la integral desde menos infinito a infinito de
+
+00:05:29.790 --> 00:05:37.700
+tau sub d de t dt, ¿qué es este va a ser igual?
+
+00:05:37.700 --> 00:05:41.100
+Bueno, si la integral es sólo el área bajo la curva,
+
+00:05:41.100 --> 00:05:41.700
+Esta es una bonita
+
+00:05:41.700 --> 00:05:43.900
+cosa sencilla para calcular.
+
+00:05:43.900 --> 00:05:46.440
+Usted solo mira esto y dices, bueno, en primer lugar, tiene
+
+00:05:46.440 --> 00:05:48.480
+cero en el resto.
+
+00:05:48.480 --> 00:05:52.380
+Es cero en el resto, y es sólo el área aquí.
+
+00:05:52.380 --> 00:05:56.730
+O sea, yo podía reescribir esta integral como la integral de
+
+00:05:56.730 --> 00:06:00.560
+menos tau a tau--y no nos importa si infinito y
+
+00:06:00.560 --> 00:06:02.870
+menos infinito o infinito positivo, porque no hay ninguna
+
+00:06:02.870 --> 00:06:06.280
+área bajo ninguno de esos puntos--1
+
+00:06:06.280 --> 00:06:11.230
+más 2 tau tau d.
+
+00:06:11.230 --> 00:06:12.900
+Lo siento, 1 sobre tau 2 dt.
+
+00:06:12.900 --> 00:06:14.460
+¿Así podríamos escribir lo esta manera demasiado, a la derecha?
+
+00:06:14.460 --> 00:06:17.910
+Porque sólo podemos tomar los límites de aquí a aquí,
+
+00:06:17.910 --> 00:06:23.130
+porque no conseguimos nada si t va a infinito positivo o
+
+00:06:23.130 --> 00:06:24.130
+menos infinito.
+
+00:06:24.130 --> 00:06:27.380
+Y entonces sobre ese límite, la función es una constante, 1
+
+00:06:27.380 --> 00:06:29.840
+sobre 2 tau, así que podríamos simplemente tomar esto integral.
+
+00:06:29.840 --> 00:06:31.310
+Y de cualquier manera evaluamos.
+
+00:06:31.310 --> 00:06:32.990
+Aún no tenemos que saber cálculo para saber lo que esta
+
+00:06:32.990 --> 00:06:34.680
+curso integral evaluar a.
+
+00:06:34.680 --> 00:06:41.340
+Esto es sólo el área bajo esto, que es sólo la base.
+
+00:06:41.340 --> 00:06:42.130
+¿Cuál es la base?
+
+00:06:42.130 --> 00:06:44.275
+La base es 2 tau.
+
+00:06:47.940 --> 00:06:50.550
+Tienes un tau aquí y luego otro tau allí.
+
+00:06:50.550 --> 00:06:54.240
+Por lo que es igual a tau 2 veces su altura.
+
+00:06:54.240 --> 00:06:58.460
+Y su altura, acaba de decir, es 1 sobre 2 tau.
+
+00:06:58.460 --> 00:07:01.880
+Por lo tanto su área para esta función, o para esto
+
+00:07:01.880 --> 00:07:03.560
+integral, va a ser 1.
+
+00:07:03.560 --> 00:07:04.680
+Podría evaluar esto.
+
+00:07:04.680 --> 00:07:07.160
+Usted podría conseguir esto va a ser igual, toma la
+
+00:07:07.160 --> 00:07:10.630
+primitiva de 1 sobre 2 tau, obtendrá--voy a hacer esto
+
+00:07:10.630 --> 00:07:14.230
+sólo para saciar su curiosidad--t sobre tau 2, y
+
+00:07:14.230 --> 00:07:18.750
+tienes que evaluar esto desde menos tau a tau.
+
+00:07:18.750 --> 00:07:23.310
+Y cuando pondría tau allí, te tau sobre tau 2,
+
+00:07:23.310 --> 00:07:29.550
+y luego menos menos tau tau 2, y luego le sale tau
+
+00:07:29.550 --> 00:07:33.850
+Plus tau sobre 2 tau, que es 2 tau tau 2,
+
+00:07:33.850 --> 00:07:35.110
+que es igual a 1.
+
+00:07:35.110 --> 00:07:37.120
+Tal vez estoy superando a un caballo muerto.
+
+00:07:37.120 --> 00:07:40.490
+Creo que está satisfecho de que el área bajo esta va
+
+00:07:40.490 --> 00:07:43.300
+a 1, sin importar qué tau era.
+
+00:07:43.300 --> 00:07:45.650
+Seguí este resumen.
+
+00:07:45.650 --> 00:07:48.510
+Ahora, si tomo más pequeños y más pequeños valores de tau, lo de
+
+00:07:48.510 --> 00:07:49.450
+¿va a suceder?
+
+00:07:49.450 --> 00:07:56.730
+Si mi tau nuevo va a ser aquí, digamos que es mi nuevo tau
+
+00:07:56.730 --> 00:08:00.357
+va a estar ahí, sólo me voy a recoger mi nuevo tau
+
+00:08:00.357 --> 00:08:03.320
+allí, entonces mi 1 sobre 2 tau, la tau es
+
+00:08:03.320 --> 00:08:04.560
+ahora un número menor.
+
+00:08:04.560 --> 00:08:06.250
+Cuando está en el denominador, mi 1 sobre 2 tau
+
+00:08:06.250 --> 00:08:12.210
+¿va a ser algo como esto, la derecha?
+
+00:08:12.210 --> 00:08:14.670
+Es decir, sólo estoy diciendo, si escojo taus más pequeños y más pequeños.
+
+00:08:14.670 --> 00:08:18.380
+Entonces si escojo un tau aún más que eso, entonces mi
+
+00:08:18.380 --> 00:08:20.900
+altura va a ser tiene que ser mayor.
+
+00:08:20.900 --> 00:08:22.750
+Mi 1 sobre tau 2 va a tener incluso
+
+00:08:22.750 --> 00:08:25.010
+ser superior.
+
+00:08:25.010 --> 00:08:26.860
+Así que creo que ver donde voy con esto.
+
+00:08:26.860 --> 00:08:31.080
+¿Qué sucede como límite como tau acerca a cero?
+
+00:08:31.080 --> 00:08:41.169
+Así que ¿cuál es el límite Tau enfoques cero de mi poco d
+
+00:08:41.169 --> 00:08:44.380
+¿función de tau sub?
+
+00:08:44.380 --> 00:08:46.070
+¿Cuál es el límite de esto?
+
+00:08:46.070 --> 00:08:49.370
+Bueno, estas cosas van a ir infinitamente cerca a
+
+00:08:49.370 --> 00:08:50.530
+cero, pero esto es el límite.
+
+00:08:50.530 --> 00:08:52.460
+Nunca van a estar bastante a cero.
+
+00:08:52.460 --> 00:08:56.050
+Y su altura de aquí va a ir infinitamente alto, pero la
+
+00:08:56.050 --> 00:08:59.400
+todo el tiempo, dije no importa cual sea mi tau, porque era
+
+00:08:59.400 --> 00:09:01.340
+define muy arbitrariamente, era que mi área es
+
+00:09:01.340 --> 00:09:03.130
+siempre va a ser 1.
+
+00:09:03.130 --> 00:09:08.860
+Así que vas a acabar con su función delta de Dirac.
+
+00:09:08.860 --> 00:09:09.590
+Permítaseme escribirlo ahora.
+
+00:09:09.590 --> 00:09:10.430
+Iba a escribir una x nuevamente.
+
+00:09:10.430 --> 00:09:14.630
+Su función delta de Dirac es una función de t y debido
+
+00:09:14.630 --> 00:09:22.130
+Esto, si pregunta cuál es el límite como tau acerca a cero
+
+00:09:22.130 --> 00:09:26.220
+la integral de menos infinito a infinito de sub d
+
+00:09:26.220 --> 00:09:30.900
+¿Tau de t dt, bueno, esta debe todavía ser 1, derecha?
+
+00:09:30.900 --> 00:09:33.230
+Porque esta cosa aquí, esto se evalúa a 1.
+
+00:09:33.230 --> 00:09:36.630
+Así como tomar el límite cuando acerca el tau cero--y estoy
+
+00:09:36.630 --> 00:09:38.940
+ser muy generoso con mis definiciones
+
+00:09:38.940 --> 00:09:40.020
+de límites y harpas.
+
+00:09:40.020 --> 00:09:41.330
+No estoy siendo muy riguroso.
+
+00:09:41.330 --> 00:09:43.665
+Pero creo que se puede entender de la intuición de
+
+00:09:43.665 --> 00:09:44.470
+donde voy.
+
+00:09:44.470 --> 00:09:46.630
+Esto va a ser igual a 1.
+
+00:09:46.630 --> 00:09:51.050
+Y así por el mismo argumento intuitivo, se puede decir
+
+00:09:51.050 --> 00:09:55.690
+el límite de menos infinito a infinito de nuestro delta de Dirac
+
+00:09:55.690 --> 00:10:01.600
+función de t dt también va a ser 1.
+
+00:10:01.600 --> 00:10:05.000
+Asimismo, la función de delta de Dirac--quiero decir, esa cosa
+
+00:10:05.000 --> 00:10:09.370
+COP hasta infinito en t es igual a 0.
+
+00:10:09.370 --> 00:10:14.830
+Esto, si tuviera que señalar mi eje x y, a continuación
+
+00:10:14.830 --> 00:10:17.980
+en t es igual a 0, mi función delta de Dirac
+
+00:10:17.980 --> 00:10:19.180
+se levanta como ese.
+
+00:10:19.180 --> 00:10:20.970
+Y normalmente se dibuja como ese.
+
+00:10:20.970 --> 00:10:23.730
+Y que normalmente lo dibuje así va hasta 1 a tipo
+
+00:10:23.730 --> 00:10:24.670
+de representar a su zona.
+
+00:10:24.670 --> 00:10:26.630
+Pero realmente pones una flecha allí, y esto es su
+
+00:10:26.630 --> 00:10:28.270
+Delta de Dirac.
+
+00:10:28.270 --> 00:10:29.820
+Pero ¿qué sucede si desea cambiarla?
+
+00:10:32.800 --> 00:10:36.860
+¿Cómo podría representar mi--digamos quiero
+
+00:10:36.860 --> 00:10:38.660
+¿no t menos 3?
+
+00:10:38.660 --> 00:10:40.700
+¿Cuál sería la gráfica de esto?
+
+00:10:40.700 --> 00:10:43.450
+Bien, esto sería justo estar cambiando lo hacia la derecha por 3.
+
+00:10:43.450 --> 00:10:46.100
+Por ejemplo, cuando t es igual a 3, se convertirá en la Dirac
+
+00:10:46.100 --> 00:10:47.160
+Delta de 0.
+
+00:10:47.160 --> 00:10:51.630
+Para que este gráfico sólo se verá así.
+
+00:10:51.630 --> 00:10:54.550
+Esta será mi eje x.
+
+00:10:54.550 --> 00:10:58.610
+Y digamos que se trata de mi eje y.
+
+00:10:58.610 --> 00:11:00.330
+Permítanme hacer 1.
+
+00:11:00.330 --> 00:11:04.810
+Y permítanme simplemente señalar algunos puntos aquí, por lo que es la 1, 2, 3
+
+00:11:04.810 --> 00:11:06.360
+Esa es la t es igual a 3.
+
+00:11:06.360 --> 00:11:07.390
+Dijo que era el eje x?
+
+00:11:07.390 --> 00:11:08.930
+Es mi t-eje.
+
+00:11:08.930 --> 00:11:09.935
+Esto es t igual a 3.
+
+00:11:09.935 --> 00:11:12.760
+Y qué voy a hacer aquí es la función delta de Dirac
+
+00:11:12.760 --> 00:11:14.125
+va a ser cero en todas partes.
+
+00:11:18.020 --> 00:11:19.870
+Pero entonces derecho a 3, va infinitamente alto.
+
+00:11:19.870 --> 00:11:22.240
+Y obviamente, no tenemos suficiente papel para dibujar un
+
+00:11:22.240 --> 00:11:24.230
+spike infinitamente alto allí.
+
+00:11:24.230 --> 00:11:26.440
+Así que lo que hacemos es dibujamos una flecha.
+
+00:11:26.440 --> 00:11:27.660
+Dibujamos una flecha allí.
+
+00:11:27.660 --> 00:11:30.890
+Y la flecha, se suele señalar la magnitud de la zona
+
+00:11:30.890 --> 00:11:32.480
+bajo esa espiga.
+
+00:11:32.480 --> 00:11:34.110
+Así lo hacemos así.
+
+00:11:34.110 --> 00:11:35.280
+Y permítanme ser claro.
+
+00:11:35.280 --> 00:11:37.600
+Esto no es decir que la función sólo va a 1 y
+
+00:11:37.600 --> 00:11:38.720
+luego espigas hacia abajo.
+
+00:11:38.720 --> 00:11:41.080
+Esto me dice que el área bajo la
+
+00:11:41.080 --> 00:11:42.400
+función es igual a 1.
+
+00:11:42.400 --> 00:11:44.810
+Este pico tendría que ser infinitamente más alta que cualquiera
+
+00:11:44.810 --> 00:11:50.250
+área, considerando cuenta con una base infinitamente pequeña, para que el
+
+00:11:50.250 --> 00:11:55.470
+área bajo esta función impulso o bajo este Dirac
+
+00:11:55.470 --> 00:11:57.250
+función delta.
+
+00:11:57.250 --> 00:12:01.940
+Ahora, este uno derecho aquí es t menos 3, pero su área bajo
+
+00:12:01.940 --> 00:12:03.740
+Esto es todavía va a ser 1.
+
+00:12:03.740 --> 00:12:05.415
+Y por eso hice la flecha vaya a 1.
+
+00:12:07.960 --> 00:12:10.050
+Vamos a decir que quería gráfico--Permítanme hacerlo en otro color.
+
+00:12:10.050 --> 00:12:14.750
+Digamos que quería gráfico 2 veces la Dirac
+
+00:12:14.750 --> 00:12:17.520
+Delta t menos 2.
+
+00:12:17.520 --> 00:12:19.480
+¿Cómo se gráfica?
+
+00:12:19.480 --> 00:12:21.830
+Bueno, me gustaría ir a t menos 2.
+
+00:12:21.830 --> 00:12:26.010
+Cuando t es igual a 2, se obtiene de la delta de Dirac de cero, por lo que
+
+00:12:26.010 --> 00:12:27.490
+es donde tendría su espiga.
+
+00:12:27.490 --> 00:12:31.550
+Y nos estamos multiplicando por 2, por lo que lo haría un pico dos veces
+
+00:12:31.550 --> 00:12:32.820
+tan alto como este.
+
+00:12:32.820 --> 00:12:35.250
+Ahora, ambos de estos ir a infinito, pero esto va dos veces
+
+00:12:35.250 --> 00:12:36.460
+lo más alto hasta el infinito.
+
+00:12:36.460 --> 00:12:38.890
+Y sé que esto es todo ser un poco ridículo ahora.
+
+00:12:38.890 --> 00:12:41.940
+Pero la idea aquí es que el área bajo la curva
+
+00:12:41.940 --> 00:12:43.590
+ser dos veces el área bajo la curva.
+
+00:12:43.590 --> 00:12:46.320
+Y por eso hacemos la flecha vaya a 2 quiere decir que la
+
+00:12:46.320 --> 00:12:49.020
+área bajo esta flecha es 2.
+
+00:12:49.020 --> 00:12:51.200
+La espiga tendría que ir infinitamente alto.
+
+00:12:51.200 --> 00:12:54.060
+Esto es todo un poco abstracto, pero esto es un útil
+
+00:12:54.060 --> 00:12:58.770
+manera de modelo las cosas que son de muy discordante.
+
+00:12:58.770 --> 00:13:00.785
+Obviamente, nada realmente comporta como esto, pero hay
+
+00:13:00.785 --> 00:13:06.160
+una gran cantidad de fenómenos en física o en el mundo real que
+
+00:13:06.160 --> 00:13:08.820
+tienen este comportamiento espigado.
+
+00:13:08.820 --> 00:13:10.460
+En lugar de intentar decir, oh, qué spike
+
+00:13:10.460 --> 00:13:11.180
+¿exactamente cómo?
+
+00:13:11.180 --> 00:13:13.360
+Decimos, bueno, que es una función delta de Dirac.
+
+00:13:13.360 --> 00:13:17.420
+Y nos podrá dictar su impulso por algo como esto.
+
+00:13:17.420 --> 00:13:20.010
+Y sólo para darle un poco de motivación detrás de esto,
+
+00:13:20.010 --> 00:13:23.200
+y yo me iba a ir aquí en el último video, pero luego
+
+00:13:23.200 --> 00:13:25.360
+tipo de decidió no.
+
+00:13:25.360 --> 00:13:26.870
+Pero sólo voy a mostrar, porque he estado haciendo mucho
+
+00:13:26.870 --> 00:13:28.370
+de las ecuaciones diferenciales y le he estado dando no
+
+00:13:28.370 --> 00:13:31.066
+motivación para cómo esto se aplica en el mundo real.
+
+00:13:31.066 --> 00:13:35.720
+Pero te imaginas, si tengo sólo una pared y luego tener un
+
+00:13:35.720 --> 00:13:42.740
+resorte conectado a alguna Misa allí y digamos
+
+00:13:42.740 --> 00:13:45.550
+que esto es un estado natural de la primavera, para que el
+
+00:13:45.550 --> 00:13:48.790
+primavera querría estar aquí, por lo que se estira un
+
+00:13:48.790 --> 00:13:53.340
+distancia y su tipo de natural donde quiere ir.
+
+00:13:53.340 --> 00:13:59.160
+Y digamos que aquí tengo alguna fuerza externa.
+
+00:13:59.160 --> 00:14:01.330
+Digamos que tengo alguna fuerza externa derecha aquí en la
+
+00:14:01.330 --> 00:14:03.600
+primavera y, por supuesto, digamos del que hielo sobre hielo.
+
+00:14:03.600 --> 00:14:05.510
+No hay ninguna fricción en todo esto.
+
+00:14:05.510 --> 00:14:07.940
+Y sólo quiero demostrar que puedo representar la
+
+00:14:07.940 --> 00:14:10.860
+comportamiento de este sistema con la ecuación diferencial.
+
+00:14:10.860 --> 00:14:13.680
+Y realmente las cosas como la unidad de paso las funciones, la Dirac
+
+00:14:13.680 --> 00:14:17.520
+Delta función, empezar a ser útil en este tipo
+
+00:14:17.520 --> 00:14:18.660
+de medio ambiente.
+
+00:14:18.660 --> 00:14:24.610
+Sabemos que f es igual a la aceleración de horarios de Misa.
+
+00:14:24.610 --> 00:14:26.240
+Es física básica allí.
+
+00:14:26.240 --> 00:14:28.940
+Ahora, ¿cuáles son todas las fuerzas en
+
+00:14:28.940 --> 00:14:33.510
+¿Esta masa de aquí?
+
+00:14:33.510 --> 00:14:37.490
+Bien, aquí tienes esta fuerza.
+
+00:14:37.490 --> 00:14:39.620
+Y digo que esto es una dirección positiva hacia la derecha,
+
+00:14:39.620 --> 00:14:42.780
+por eso es que la fuerza, y entonces usted tiene una fuerza de menos de
+
+00:14:42.780 --> 00:14:44.650
+la primavera.
+
+00:14:44.650 --> 00:14:47.100
+La fuerza de la primavera es la ley de Hooke.
+
+00:14:47.100 --> 00:14:51.910
+Es proporcional a cuánto se ha estirado desde su
+
+00:14:51.910 --> 00:14:54.620
+tipo de punto natural, por lo que su fuerza en esa dirección es
+
+00:14:54.620 --> 00:14:57.880
+va a ser ky, o usted podría llamarlo menos ky, porque tiene
+
+00:14:57.880 --> 00:14:59.850
+va en la dirección opuesta a lo que hemos
+
+00:14:59.850 --> 00:15:01.250
+dijo que ya es una dirección positiva.
+
+00:15:01.250 --> 00:15:06.970
+Por lo que las fuerzas de la red sobre esto es f menos ky, y que es igual a
+
+00:15:06.970 --> 00:15:13.470
+la masa de nuestro objeto veces su aceleración.
+
+00:15:13.470 --> 00:15:14.520
+Ahora, ¿cuál es su aceleración?
+
+00:15:14.520 --> 00:15:20.510
+Si su posición es y, por lo que si es igual a la posición, si nos
+
+00:15:20.510 --> 00:15:24.070
+tomar la derivada de y con respecto a t, y prime, que
+
+00:15:24.070 --> 00:15:29.570
+También podríamos decir dy dt, esto va a ser su velocidad.
+
+00:15:29.570 --> 00:15:32.210
+Y, a continuación, si tomamos la derivada de ello, y cebar
+
+00:15:32.210 --> 00:15:36.200
+Prime, que es igual a d y cuadrado con respecto al dt
+
+00:15:36.200 --> 00:15:37.940
+cuadrado, esto es igual a la aceleración.
+
+00:15:41.080 --> 00:15:48.340
+Así, en vez de escribir una, nos podríamos derecho y primer primo.
+
+00:15:48.340 --> 00:15:51.110
+Y, por tanto, si sólo ponemos esto en el otro lado de la
+
+00:15:51.110 --> 00:15:54.010
+ecuación, ¿qué hacemos?
+
+00:15:54.010 --> 00:15:58.270
+Obtenemos la fuerza--esta fuerza, no sólo en esta fuerza; Esto fue
+
+00:15:58.270 --> 00:16:02.540
+F sólo equivale a ma--pero esta fuerza es igual a la masa de
+
+00:16:02.540 --> 00:16:05.610
+nuestro objeto, veces la aceleración del objeto
+
+00:16:05.610 --> 00:16:09.400
+Además de todo lo que es la constante del muelle para la primavera
+
+00:16:09.400 --> 00:16:14.140
+Además k veces nuestra posición, y de tiempos.
+
+00:16:14.140 --> 00:16:17.580
+Así que si no tuvieras fuera de fuerza, si esta era cero que había
+
+00:16:17.580 --> 00:16:20.370
+tienen una ecuación diferencial homogénea.
+
+00:16:20.370 --> 00:16:23.150
+Y en ese caso, sólo se comenzaría la primavera
+
+00:16:23.150 --> 00:16:24.560
+movimiento su propio.
+
+00:16:24.560 --> 00:16:27.590
+Pero ahora esta F, de repente, es tipo de una
+
+00:16:27.590 --> 00:16:31.610
+término no homogéneo, es lo que la fuerza exterior eres
+
+00:16:31.610 --> 00:16:33.900
+aplicar a esta Misa.
+
+00:16:33.900 --> 00:16:36.780
+Así que si esta fuera la fuerza fue algún tipo de delta de Dirac
+
+00:16:36.780 --> 00:16:42.310
+función--así que vamos a decir la t menos 2 es igual a nuestra masa
+
+00:16:42.310 --> 00:16:50.190
+veces primer primo y además nuestra primavera tiempos constantes y, esto
+
+00:16:50.190 --> 00:16:54.180
+es decir que al tiempo es igual a 2 segundos, estamos simplemente
+
+00:16:54.180 --> 00:16:56.770
+ir a esta cosa a la derecha de la jarra.
+
+00:16:56.770 --> 00:16:58.960
+Y va a tener un--y hablaré más sobre ella--
+
+00:16:58.960 --> 00:17:00.360
+va a tener un impulso de 2.
+
+00:17:00.360 --> 00:17:04.280
+Es la fuerza veces tiempo va a ser--o su impulso es
+
+00:17:04.280 --> 00:17:05.910
+va a tener 1.
+
+00:17:05.910 --> 00:17:07.560
+Y no quiero entrar demasiado en la física aquí,
+
+00:17:07.560 --> 00:17:11.630
+pero su impulso o su cambio en momentum, va a ser de
+
+00:17:11.630 --> 00:17:14.430
+magnitud 1, dependiendo de lo que son nuestras unidades.
+
+00:17:14.430 --> 00:17:16.890
+Pero de todas formas, sólo quería tomar un leve desvío,
+
+00:17:16.890 --> 00:17:20.329
+porque usted podría pensar que Sal me está presentando a estos extraños,
+
+00:17:20.329 --> 00:17:21.349
+funciones exóticas.
+
+00:17:21.349 --> 00:17:23.569
+¿Qué nunca van a ser bueno para?
+
+00:17:23.569 --> 00:17:27.369
+Pero esto es bueno para la idea de que a veces usted sólo jar
+
+00:17:27.369 --> 00:17:29.750
+esta cosa por alguna magnitud y luego dejar ir.
+
+00:17:29.750 --> 00:17:33.790
+Y lo haces tipo de infinitamente rápido, pero lo haces
+
+00:17:33.790 --> 00:17:38.540
+suficiente para cambiar el impulso de esto de una manera bien definida.
+
+00:17:38.540 --> 00:17:41.140
+De todas formas, en el siguiente video, vamos a seguir con la Dirac
+
+00:17:41.140 --> 00:17:41.870
+función delta.
+
+00:17:41.870 --> 00:17:44.830
+Nosotros averiguar su transformada de Laplace y ver lo que hace
+
+00:17:44.830 --> 00:17:47.650
+a las transformaciones de Laplace de otras funciones.

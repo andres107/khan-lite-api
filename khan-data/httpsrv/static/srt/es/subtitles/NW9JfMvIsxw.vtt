@@ -1,0 +1,642 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.760 --> 00:00:03.640
+Digamos que tenemos el siguiente orden de segundo
+
+00:00:03.640 --> 00:00:04.680
+ecuación diferencial.
+
+00:00:04.680 --> 00:00:11.860
+Tenemos la segunda derivada de y, además de 4 veces el primero
+
+00:00:11.860 --> 00:00:15.590
+derivado, además de 4 años es igual a 0.
+
+00:00:15.590 --> 00:00:19.330
+Y estamos solicitamos para encontrar la solución general
+
+00:00:19.330 --> 00:00:20.280
+ecuación diferencial.
+
+00:00:20.280 --> 00:00:22.250
+Así que lo primero que hacemos, como lo hemos hecho en los últimos varios
+
+00:00:22.250 --> 00:00:24.940
+videos, nos pondremos en la ecuación característica.
+
+00:00:24.940 --> 00:00:31.590
+Que es r squared plus 4r plus 4 es igual a 0.
+
+00:00:31.590 --> 00:00:32.830
+Este es bastante fácil de factor.
+
+00:00:32.830 --> 00:00:34.570
+No necesitamos la ecuación cuadrática aquí.
+
+00:00:34.570 --> 00:00:40.680
+Esto es r plus 2 veces r plus 2.
+
+00:00:40.680 --> 00:00:43.020
+Y ahora pasa algo interesante, algo que nos
+
+00:00:43.020 --> 00:00:44.830
+no has visto antes.
+
+00:00:44.830 --> 00:00:47.150
+Las dos raíces de nuestra ecuación característica son
+
+00:00:47.150 --> 00:00:51.150
+realmente el mismo número, r es igual a menos 2.
+
+00:00:51.150 --> 00:00:53.980
+Por lo que se podría decir que sólo tenemos una solución o una raíz, o
+
+00:00:53.980 --> 00:00:55.000
+una raíz repetida.
+
+00:00:55.000 --> 00:00:58.560
+Sin embargo desea decirlo, sólo tenemos una r que satisface
+
+00:00:58.560 --> 00:00:59.690
+la ecuación característica.
+
+00:00:59.690 --> 00:01:01.450
+Usted podría decir, así está bien.
+
+00:01:01.450 --> 00:01:05.280
+Tal vez mi solución general es justo y es igual a algunos
+
+00:01:05.280 --> 00:01:12.420
+constante de tiempo e al menos 2 x, utilizando mi una solución.
+
+00:01:12.420 --> 00:01:17.040
+Y mi respuesta es, se trata de una solución.
+
+00:01:17.040 --> 00:01:19.390
+Y si no me creéis puede probarlo.
+
+00:01:19.390 --> 00:01:21.860
+Pero no es la solución general.
+
+00:01:21.860 --> 00:01:22.810
+¿Y por qué lo digo?
+
+00:01:22.810 --> 00:01:26.610
+Porque esta es una segunda ecuación diferencial de orden.
+
+00:01:26.610 --> 00:01:29.690
+Y si alguien quería una solución particular,
+
+00:01:29.690 --> 00:01:31.810
+tendría que darle dos condiciones iniciales.
+
+00:01:31.810 --> 00:01:35.020
+Son las dos condiciones iniciales que hemos estado usando hasta ahora,
+
+00:01:35.020 --> 00:01:42.860
+Qué y 0 es igual y equivale lo que prime y de 0.
+
+00:01:42.860 --> 00:01:45.530
+Podría darle a qué y 5 es igual, quién sabe.
+
+00:01:45.530 --> 00:01:48.640
+Pero en general, cuando tienes un diferencial de segundo orden
+
+00:01:48.640 --> 00:01:51.790
+ecuación, tienen que darle dos condiciones iniciales.
+
+00:01:51.790 --> 00:01:54.830
+Ahora el problema con esta solución, y por qué no es el
+
+00:01:54.830 --> 00:01:57.960
+solución general, es que si usas una de estas iniciales
+
+00:01:57.960 --> 00:02:01.400
+¿condiciones, se puede resolver para un c, derecha?
+
+00:02:01.400 --> 00:02:02.110
+Obtendrá una respuesta.
+
+00:02:02.110 --> 00:02:03.470
+Usted podrá resolver para que c.
+
+00:02:03.470 --> 00:02:04.650
+Pero entonces no hay nada que ver con la
+
+00:02:04.650 --> 00:02:05.880
+segunda condición inicial.
+
+00:02:05.880 --> 00:02:10.300
+De hecho, excepto sólo en un caso particular, cualquier
+
+00:02:10.300 --> 00:02:13.930
+c que obtendrá para la primera condición inicial, no será
+
+00:02:13.930 --> 00:02:16.240
+--que esta ecuación no será válida para el
+
+00:02:16.240 --> 00:02:17.520
+segunda condición inicial.
+
+00:02:17.520 --> 00:02:18.600
+Y podría probarlo.
+
+00:02:18.600 --> 00:02:24.340
+O sea, si decíamos, y 0 es igual a la a y y primo de 0 es
+
+00:02:24.340 --> 00:02:26.730
+igual a 5A.
+
+00:02:26.730 --> 00:02:27.950
+Vamos a ver si funcionan.
+
+00:02:27.950 --> 00:02:34.450
+Si y 0 es igual a, que nos dice que a es igual a c
+
+00:02:34.450 --> 00:02:37.010
+veces e negativo 2 veces 0.
+
+00:02:37.010 --> 00:02:38.590
+E así el 0.
+
+00:02:38.590 --> 00:02:41.740
+¿O c es igual a, derecho?
+
+00:02:41.740 --> 00:02:44.790
+Así si sólo tuvo esta primera condición inicial, digo bien,
+
+00:02:44.790 --> 00:02:50.520
+mi solución es y es igual a una veces e
+
+00:02:50.520 --> 00:02:52.510
+al menos 2 x.
+
+00:02:52.510 --> 00:02:55.640
+Vamos a ver si esta solución en particular satisface el segundo
+
+00:02:55.640 --> 00:02:57.720
+condición inicial.
+
+00:02:57.720 --> 00:02:59.410
+¿Cuál es la derivada de esto?
+
+00:02:59.410 --> 00:03:05.750
+primo y es igual a menos 2Ae al menos x 2.
+
+00:03:05.750 --> 00:03:11.420
+Y dice que 5A--esta condición inicial dice que 5A
+
+00:03:11.420 --> 00:03:15.960
+es igual a menos 2A veces e al menos 2 veces
+
+00:03:15.960 --> 00:03:17.690
+e así 0, 0.
+
+00:03:17.690 --> 00:03:20.100
+U otra forma de decir que, e 0 es 1.
+
+00:03:20.100 --> 00:03:22.150
+Se dice que 5A es igual al menos 2A, que
+
+00:03:22.150 --> 00:03:24.050
+Sabemos que no es cierto.
+
+00:03:24.050 --> 00:03:27.800
+Así que tenga en cuenta, cuando sólo tenemos este general, o
+
+00:03:27.800 --> 00:03:31.580
+pseudo-general, solución, puede sólo satisfacer, en general,
+
+00:03:31.580 --> 00:03:32.730
+una de las condiciones iniciales.
+
+00:03:32.730 --> 00:03:35.560
+Y si tenemos suerte realmente, tanto inicial de condiciones.
+
+00:03:35.560 --> 00:03:39.060
+Por lo que al menos te da una sensación intuitiva de por qué esto
+
+00:03:39.060 --> 00:03:42.145
+no es la solución general.
+
+00:03:42.145 --> 00:03:44.820
+Así que permítanme limpiar que poco a poco, que me--tengo
+
+00:03:44.820 --> 00:03:48.020
+un sentimiento que voy a tener que usar esta inmobiliaria.
+
+00:03:48.020 --> 00:03:50.270
+Así que ¿qué hacemos nosotros?
+
+00:03:50.270 --> 00:03:53.280
+Podemos utilizar una técnica denominada reducción de orden.
+
+00:03:53.280 --> 00:03:55.630
+Y realmente sólo dice, sólo así vamos a
+
+00:03:55.630 --> 00:03:57.790
+Supongo que una segunda solución.
+
+00:03:57.790 --> 00:04:01.340
+En general cuando primero pensamos en estos lineales
+
+00:04:01.340 --> 00:04:02.940
+ecuaciones diferenciales de coeficiente constante,
+
+00:04:02.940 --> 00:04:06.840
+e rx dijo, bien podría ser una buena estimación.
+
+00:04:06.840 --> 00:04:07.530
+Y ¿por qué es eso?
+
+00:04:07.530 --> 00:04:11.650
+Porque todos los derivados de e son múltiplos de
+
+00:04:11.650 --> 00:04:14.010
+la función original y que ha por qué utiliza.
+
+00:04:14.010 --> 00:04:16.450
+Así que si estamos buscando una segunda solución, no
+
+00:04:16.450 --> 00:04:18.079
+Hurt para tipo de hacer la misma suposición.
+
+00:04:18.079 --> 00:04:21.149
+Y en orden de ser un poco más general, vamos a hacer nuestro
+
+00:04:21.149 --> 00:04:23.830
+Supongo que por nuestra segunda solución--que llamaré esta g
+
+00:04:23.830 --> 00:04:31.700
+para adivinar--digamos es alguna función de x veces nuestro
+
+00:04:31.700 --> 00:04:35.450
+primera solución, e al menos x 2.
+
+00:04:35.450 --> 00:04:38.590
+Podría decir alguna función de x veces veces c e negativo
+
+00:04:38.590 --> 00:04:41.280
+x 2, pero el c tipo de encapsulado.
+
+00:04:41.280 --> 00:04:44.150
+Podría ser parte de esta alguna función aleatoria de x.
+
+00:04:44.150 --> 00:04:45.880
+Así que vamos a ser tan general como sea posible.
+
+00:04:45.880 --> 00:04:51.380
+Así que vamos a asumir que se trata de una solución y luego sustituto
+
+00:04:51.380 --> 00:04:53.680
+de nuevo en nuestra ecuación diferencial original y ver
+
+00:04:53.680 --> 00:04:57.010
+Si realmente podemos resolver para v que hace que todo funcione.
+
+00:04:57.010 --> 00:04:59.700
+Así que antes de que lo hacemos, vamos a conseguir su primer y segundo
+
+00:04:59.700 --> 00:05:00.710
+derivados.
+
+00:05:00.710 --> 00:05:04.540
+Así que la primera derivada de g es igual a--bien que esto es
+
+00:05:04.540 --> 00:05:05.790
+regla del producto.
+
+00:05:05.790 --> 00:05:08.570
+Y yo te deje caer la v de x, sabemos que v es una función y
+
+00:05:08.570 --> 00:05:09.920
+no es una constante.
+
+00:05:09.920 --> 00:05:14.250
+Así, regla del producto, derivado del primero, v prime times
+
+00:05:14.250 --> 00:05:20.690
+la segunda expresión, e a la x 2 menos, además de la primera
+
+00:05:20.690 --> 00:05:23.870
+función o expresión, veces la derivada de la segunda.
+
+00:05:23.870 --> 00:05:25.890
+Lo menos 2 veces e al menos x 2.
+
+00:05:31.630 --> 00:05:34.190
+O, simplemente para escribir un poco mejor, g prime es igual
+
+00:05:34.190 --> 00:05:46.150
+v prime e al menos 2 x menos 2ve al menos x 2.
+
+00:05:46.150 --> 00:05:47.570
+Ahora tenemos que obtener la segunda derivada.
+
+00:05:47.570 --> 00:05:49.610
+Lo haré en un color diferente, sólo para la lucha contra la
+
+00:05:49.610 --> 00:05:51.220
+monotonía de la misma.
+
+00:05:51.220 --> 00:05:52.780
+Para la segunda derivada--vamos a tener que hacer el
+
+00:05:52.780 --> 00:05:55.770
+regla del producto dos veces--derivado de esta primera
+
+00:05:55.770 --> 00:05:56.380
+expresión.
+
+00:05:56.380 --> 00:06:07.260
+Va a ser v e primos primos al menos x 2, menos 2v
+
+00:06:07.260 --> 00:06:09.390
+Prime e al menos x 2.
+
+00:06:09.390 --> 00:06:11.400
+Fue sólo la regla del producto nuevo.
+
+00:06:11.400 --> 00:06:15.060
+Y luego la derivada de la segunda expresión va a
+
+00:06:15.060 --> 00:06:17.330
+ser--vamos a ver, derivada de la primera de ellas es v primer--tan
+
+00:06:17.330 --> 00:06:31.770
+va a ser menos 2v e principal al menos x 2, plus
+
+00:06:31.770 --> 00:06:36.030
+4ve al menos x 2.
+
+00:06:36.030 --> 00:06:37.340
+Espero que no he hecho un error por descuido.
+
+00:06:37.340 --> 00:06:39.010
+Y podemos simplificar esto un poco.
+
+00:06:39.010 --> 00:06:42.750
+Por lo que obtener la segunda derivada de la g, que es nuestro
+
+00:06:42.750 --> 00:06:47.350
+Supongo que la solución, es igual a la derivada segunda de v
+
+00:06:47.350 --> 00:06:58.130
+Cebe, e al menos 2 x menos 2v prime--no, menos 4, lo siento,
+
+00:06:58.130 --> 00:07:02.570
+porque tenemos menos 2, menos 2--menos 4v prime e a la
+
+00:07:02.570 --> 00:07:10.710
+menos x 2, más 4ve al menos x 2.
+
+00:07:10.710 --> 00:07:14.120
+Y ahora, antes de sustituirlo en esto, podemos simplemente hacer
+
+00:07:14.120 --> 00:07:14.910
+una observación.
+
+00:07:14.910 --> 00:07:16.840
+Sólo hará que el álgebra un poco más simple.
+
+00:07:16.840 --> 00:07:20.530
+Aviso que g es algo veces e al menos x 2.
+
+00:07:20.530 --> 00:07:23.940
+G prime--nos podríamos factor fuera una e al menos x 2.
+
+00:07:23.940 --> 00:07:26.740
+Y g prime prime, nosotros podemos factor fuera una e
+
+00:07:26.740 --> 00:07:28.260
+al menos 2 x.
+
+00:07:28.260 --> 00:07:30.740
+Así que vamos a factor, esencialmente.
+
+00:07:30.740 --> 00:07:36.150
+Así que cuando escribimos esto, podemos escribir--así la segunda
+
+00:07:36.150 --> 00:07:40.640
+derivado es primo primo g, que podemos escribir como--y
+
+00:07:40.640 --> 00:07:47.830
+Voy a intentar hacer esto--es e al menos 2 x veces
+
+00:07:47.830 --> 00:07:48.690
+la segunda derivada.
+
+00:07:48.690 --> 00:07:51.610
+Así que ahora nosotros podemos deshacernos de la e al menos 2 x términos. Por lo tanto
+
+00:07:51.610 --> 00:08:00.580
+es primer primo de v menos 4v prime más 4v, ¿verdad?
+
+00:08:00.580 --> 00:08:03.130
+Si sólo distribuir este obtener la segunda derivada,
+
+00:08:03.130 --> 00:08:04.820
+que es esto.
+
+00:08:04.820 --> 00:08:08.220
+Además 4 veces la primera derivada.
+
+00:08:08.220 --> 00:08:11.190
+Y también voy a factor de la e al menos x 2.
+
+00:08:11.190 --> 00:08:13.580
+Así, más de 4 veces esto.
+
+00:08:13.580 --> 00:08:20.610
+¿Así que va a ser más 4v prime menos 8v, derecho?
+
+00:08:23.490 --> 00:08:26.740
+¿Una vez más, factorizado a e a la x 2 negativo, a la derecha?
+
+00:08:26.740 --> 00:08:28.050
+Plus y 4 veces.
+
+00:08:31.990 --> 00:08:35.110
+Hemos factorizado fuera la e al menos x 2--tan plus 4 veces v.
+
+00:08:35.110 --> 00:08:37.070
+Hice eso, porque si no hice yo estaría escribiendo
+
+00:08:37.070 --> 00:08:39.140
+e al menos x 2, y probablemente haría un descuidado
+
+00:08:39.140 --> 00:08:41.370
+error y podría quedarse sin espacio, etcétera.
+
+00:08:41.370 --> 00:08:44.840
+Pero de todos modos, esencialmente--para conseguir esto, yo simplemente sustituir
+
+00:08:44.840 --> 00:08:47.350
+la segunda derivada, la primera derivada y espalda g
+
+00:08:47.350 --> 00:08:48.710
+en la ecuación diferencial.
+
+00:08:48.710 --> 00:08:51.530
+Y sabemos que eso tiene que igual a 0.
+
+00:08:51.530 --> 00:08:54.010
+Y vamos a ver si podemos simplificar esto
+
+00:08:54.010 --> 00:08:54.910
+un poco más.
+
+00:08:54.910 --> 00:08:58.700
+Y entonces esperemos que resolver para v.
+
+00:08:58.700 --> 00:09:01.800
+Así que vamos a ver, algunas cosas están saltando a mí.
+
+00:09:01.800 --> 00:09:07.380
+Así que tengo más 4v más 4v, esa es la más
+
+00:09:07.380 --> 00:09:11.090
+¿8V, menos 8v, correcto?
+
+00:09:11.090 --> 00:09:13.740
+Así plus 4 menos 8 más 4, esos Anular extracción.
+
+00:09:13.740 --> 00:09:16.490
+Es además 8 menos 8, quienes cancelan.
+
+00:09:16.490 --> 00:09:19.600
+Y también tengo menos 4v prime más prime 4v.
+
+00:09:19.600 --> 00:09:21.500
+Por lo que aquellos se cancelan.
+
+00:09:21.500 --> 00:09:25.280
+Y lo aquí, hemos hecho algunos grave simplificación.
+
+00:09:25.280 --> 00:09:32.840
+Termina siendo e al menos x 2 veces primer primo v--
+
+00:09:32.840 --> 00:09:35.020
+podríamos llamar a ese primer primo v de x, ahora que hemos
+
+00:09:35.020 --> 00:09:37.170
+guardado tanto espacio--es igual a 0.
+
+00:09:37.170 --> 00:09:38.870
+Sabemos que esto nunca podría igualar a 0.
+
+00:09:38.870 --> 00:09:42.420
+Así que, básicamente, ahora hemos establecido que este
+
+00:09:42.420 --> 00:09:44.120
+expresión tiene que ser igual a 0.
+
+00:09:44.120 --> 00:09:47.590
+Y obtenemos un separable ecuación diferencial de segundo orden.
+
+00:09:47.590 --> 00:09:51.585
+Conseguimos la segunda derivada de v con respeto
+
+00:09:51.585 --> 00:09:55.590
+x--o es que una función de x--es igual a 0.
+
+00:09:55.590 --> 00:09:57.660
+Así que ahora sólo tenemos que diferenciar ambos lados de
+
+00:09:57.660 --> 00:09:58.500
+Esta ecuación dos veces.
+
+00:09:58.500 --> 00:10:00.900
+Las diferencias una vez, ¿qué?
+
+00:10:00.900 --> 00:10:10.830
+primer v de x es igual a, vamos a llamar c1.
+
+00:10:10.830 --> 00:10:13.770
+Y si tuviéramos que tomar la primitiva de ambos lados
+
+00:10:13.770 --> 00:10:23.330
+una vez más, obtenemos v de x es igual a c1 x plus
+
+00:10:23.330 --> 00:10:25.940
+¿algunos otros c2, correcto?
+
+00:10:25.940 --> 00:10:27.940
+¿Ahora recuerdo, lo que fue nuestra guess?
+
+00:10:27.940 --> 00:10:33.990
+Nuestra suposición fue que nuestra solución general iba a ser algunos
+
+00:10:33.990 --> 00:10:39.840
+v función arbitraria veces encontramos, la primera solución
+
+00:10:39.840 --> 00:10:41.160
+e al menos x 2.
+
+00:10:41.160 --> 00:10:43.310
+Y cuando tomamos realmente que guess y hemos sustituido lo
+
+00:10:43.310 --> 00:10:46.960
+en, realmente fuimos capaces de resolver para v.
+
+00:10:46.960 --> 00:10:49.020
+Y tenemos que v es igual a esto.
+
+00:10:49.020 --> 00:10:50.350
+Esto es interesante.
+
+00:10:50.350 --> 00:10:54.000
+Así que ¿qué es g, o lo que hace nuestra igualdad de función de guess?
+
+00:10:54.000 --> 00:10:54.850
+Y ya no es una suposición.
+
+00:10:54.850 --> 00:10:57.540
+Tipo de hemos establecido que funciona.
+
+00:10:57.540 --> 00:11:03.520
+g, que podemos llamar nuestra solución, es igual a v de x,
+
+00:11:03.520 --> 00:11:05.840
+veces e al menos x 2.
+
+00:11:05.840 --> 00:11:15.240
+Bueno, eso equivale a esto, c1 x plus e c2 al menos x 2.
+
+00:11:15.240 --> 00:11:25.180
+Que equivale a c1 xe negativo x 2 plus e c2 al menos x 2.
+
+00:11:25.180 --> 00:11:28.660
+Y ahora tenemos una solución verdaderamente general.
+
+00:11:28.660 --> 00:11:31.240
+Tenemos dos constantes, por lo que podemos satisfacer dos inicial
+
+00:11:31.240 --> 00:11:32.260
+condiciones.
+
+00:11:32.260 --> 00:11:35.560
+Y si estabas buscando un patrón, es el patrón.
+
+00:11:35.560 --> 00:11:37.950
+Cuando tienes una raíz repetida de su característica
+
+00:11:37.950 --> 00:11:42.250
+ecuación, la solución general va a ser--vas
+
+00:11:42.250 --> 00:11:45.390
+para utilizar ese e a, que es cualquier raíz, dos veces.
+
+00:11:45.390 --> 00:11:47.580
+Pero una vez que vas a tener una x frente a él.
+
+00:11:47.580 --> 00:11:52.300
+Y esto funciona cada vez para homogénea de segundo orden
+
+00:11:52.300 --> 00:11:54.700
+coeficiente constante de ecuaciones lineales.
+
+00:11:54.700 --> 00:11:57.140
+Nos vemos en el siguiente vídeo.

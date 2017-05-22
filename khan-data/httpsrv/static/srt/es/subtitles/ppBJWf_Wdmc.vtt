@@ -1,0 +1,113 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Problema 1: Para 0 menor o igual a [t] menor
+o igual a 6, una partícula se mueve a través del eje x.
+
+99:59:59.999 --> 99:59:59.999
+La posición x(t) de la partícula NO está explícitamente dada;
+la velocidad de la partícula es dada por v(t) es igual
+a todo esto que está por aquí;
+
+99:59:59.999 --> 99:59:59.999
+la aceleración de la partícula es dada por a(t) es 
+igual a todo esto que está aquí. De hecho
+ellos
+
+99:59:59.999 --> 99:59:59.999
+no tenían que darnos eso, porque aceleración
+es solo un derivado de velocidad.
+
+99:59:59.999 --> 99:59:59.999
+Y también nos dan - ellos no nos dicen la
+posición de función pero nos dicen de dónde empezar
+
+99:59:59.999 --> 99:59:59.999
+x(0) es igual a 2. Simple. Ahora hagamos la parte a):
+
+99:59:59.999 --> 99:59:59.999
+La VELOCIDAD the la partícula incrementa o
+decrese en 5.5 da alguna razón por tu
+respuesta.
+
+99:59:59.999 --> 99:59:59.999
+parece que hicieron algo un poco furtivo aquí. porque nos dieron la velocidad
+
+99:59:59.999 --> 99:59:59.999
+función y les piden acerca de la velocidad.
+
+99:59:59.999 --> 99:59:59.999
+Usted podría decir: "espera - no son lo mismo?"
+
+99:59:59.999 --> 99:59:59.999
+Y sería decirle "No"! no son lo mismo.
+
+99:59:59.999 --> 99:59:59.999
+Velocidad es una magnitud y una dirección - es una cantidad vectorial.
+
+99:59:59.999 --> 99:59:59.999
+Velocidad es sólo una magnitud - es una cantidad de caalar.
+
+99:59:59.999 --> 99:59:59.999
+Y para ver la diferencia, podría tener un velocidad 
+-
+
+99:59:59.999 --> 99:59:59.999
+y esto es particular de este problema-
+
+99:59:59.999 --> 99:59:59.999
+porque no nos dan las unidades-, pero podría tener una 
+velocidad
+
+99:59:59.999 --> 99:59:59.999
+o -5 metros por segundo y tal vez si estamos hablando sobre
+
+99:59:59.999 --> 99:59:59.999
+el eje x, esto significaría que nos estamos moviendo hacia la izquierda a 5 metros por segundo
+
+99:59:59.999 --> 99:59:59.999
+en el eje x. Por lo que la magnitud es 5 metros por 
+segundo ,
+
+99:59:59.999 --> 99:59:59.999
+Esta es la magnitu y la dirección es 
+especificada por el número negativo.
+
+99:59:59.999 --> 99:59:59.999
+y eso es la dirección. Su velocidad podría ser-5 metros por segundo, pero su velocidad
+
+99:59:59.999 --> 99:59:59.999
+sólo sería de 5 metros por segundo. Por lo tanto, su velocidad es de 5 metros por segundo si
+
+99:59:59.999 --> 99:59:59.999
+te vas a la izquierda o hacia la derecha. Su velocidad que
+realmente te interesa
+
+99:59:59.999 --> 99:59:59.999
+si va a la derecha. Tan sólo mantengamos en mediados mientras intentamos solucionar esto
+
+99:59:59.999 --> 99:59:59.999
+problema. Así que la mejor forma de averiguar wehter nuestra tasa de cambio es penetrar
+
+99:59:59.999 --> 99:59:59.999
+o descreatinsg es mirar la aceleración. Porque la aceleración es, realmente, sólo la tasa de
+
+99:59:59.999 --> 99:59:59.999
+cambio de velocidad. y, a continuación, podemos pensar en bt un poco sobre este velocty
+
+99:59:59.999 --> 99:59:59.999
+frente a la cuestión de la velocidad. ¿Qué es el acceleaton momento 5.5?
+
+99:59:59.999 --> 99:59:59.999
+Sacar la calculadora - podríamos usar calculadoras para esta parte del examen AP.
+
+99:59:59.999 --> 99:59:59.999
+Asume nos intentaron becaise no es algo que es fácil de calcular a mano.
+
+99:59:59.999 --> 99:59:59.999
+Así te accleration en momento 5.5 - nos jsut tienes que poner t es 5.5 y evaluar esta función.
+
+99:59:59.999 --> 99:59:59.999
+Entonces 1/2 - I'll recibe sólo 0,5 - times [e] a [t] más 5. veremos

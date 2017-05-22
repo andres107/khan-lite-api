@@ -1,0 +1,84 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:08.500
+Vamos a tratar de restar 164 de 301. Le animo a parar el vídeo y probar por su cuenta primero.
+
+00:00:08.500 --> 00:00:13.700
+Así que vamos a ir paso por paso. Y nos damos cuenta de que tenemos que hacer un poco de "endeudamiento" o de "reagrupamiento".
+
+00:00:13.700 --> 00:00:17.300
+Lo primero que vemos es que en el sitio de las unidades tenemos un problema: 4 es mayor que 1.
+
+00:00:17.300 --> 00:00:20.100
+¿Cómo restamos un número más grande a un número menor?
+
+00:00:20.100 --> 00:00:25.700
+También tenemos un problema en el lugar de las decenas: 6 es mayor que 0. ¿Cómo le restamos 6 a 0?
+
+00:00:25.700 --> 00:00:31.100
+La respuesta que se nos viene a la cabeza es que tenemos que hacer un "endeudamiento" o algún "reagrupamiento".
+
+00:00:31.100 --> 00:00:33.433
+Pero entonces podrías estar enfrentandose a otro problema.
+
+00:00:33.433 --> 00:00:36.633
+Usted diría: "Muy bien, vamos a tratar de pedir un préstamo al lugar de las decenas... Aquí.".
+
+00:00:36.633 --> 00:00:39.685
+Tenemos un 1 pero si pudiésemos pedir prestado 10 desde el lugar de las decenas, podría ser once.
+
+00:00:39.685 --> 00:00:44.967
+Pero aquí, en el lugar de las decenas... ¡no hay nada! No hay nada que pedir prestado. ¿Qué hacemos?
+
+00:00:44.967 --> 00:00:49.300
+Pues la manera abordar esto es pedir prestado primero para el lugar de las decenas antes que para el de las unidades.
+
+00:00:49.300 --> 00:00:54.433
+No tenemos nada aquí. Por lo tanto, reagrupamos 100 desde el lugar de las centenas.
+
+00:00:54.433 --> 00:00:59.033
+(Eso es equivalente a pedir prestado un 1 de la posición de las centenas y esto es ahora un 2.)
+
+00:00:59.033 --> 00:01:06.567
+De esta forma, en lugar de un cero en las decenas, vamos a tener un 10.
+
+00:01:06.567 --> 00:01:08.700
+Ahora vamos a asegurarnos de que esto todavía tiene sentido.
+
+00:01:08.700 --> 00:01:20.100
+Tenemos 2 centenas, más 10 decenas. 10 decenas es cien, más uno. 2 centenas, más una centena, más 1... es todavía 301.
+
+00:01:20.100 --> 00:01:21.900
+Sí, esto todavía tiene sentido.
+
+00:01:21.900 --> 00:01:26.367
+Y la razón de por qué esto es importante es porque ahora tenemos algo para reagrupar desde el lugar de las decenas.
+
+00:01:26.367 --> 00:01:34.902
+Si tomamos 1 de las decenas (por lo que ahora nos quedamos con 9 decenas) y la colocamos en la posición de las unidades...
+
+00:01:34.902 --> 00:01:40.033
+... con lo que usted ahora tiene 11 en lugar de un 1.
+
+00:01:40.033 --> 00:01:45.633
+Y podemos comprobar que todavía no hemos cambiado el valor del número real.
+
+00:01:45.633 --> 00:01:51.233
+200 más 90 es 290... más 11... es todavía 301.
+
+00:01:51.233 --> 00:01:58.367
+Pero ahora vemos que todos estos números son más grandes que los números que se les tienen que restar.
+
+00:01:58.367 --> 00:02:00.769
+Por lo tanto, tenemos todo listo para empezar.
+
+00:02:00.769 --> 00:02:11.033
+11 menos 4 es ... Vamos a ver, 10 menos 3 es 7, así que ... 11 menos 4 es 7.
+
+00:02:11.033 --> 00:02:17.905
+9 menos 6 es 3, y 2 menos 1 es 1.
+
+00:02:17.905 --> 00:02:21.905
+Resultado: 137.

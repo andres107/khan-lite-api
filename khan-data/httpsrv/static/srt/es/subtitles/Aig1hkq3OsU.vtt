@@ -1,0 +1,393 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.320 --> 00:00:05.970
+Se nos dice que la fórmula para encontrar el perímetro de una
+
+00:00:05.970 --> 00:00:12.180
+rectángulo es p es igual a 2 l plus 2w, donde p es el
+
+00:00:12.180 --> 00:00:16.520
+l es la longitud el perímetro, y w es la anchura.
+
+00:00:16.520 --> 00:00:18.840
+Y sólo para visualizar lo que están diciendo, y puede
+
+00:00:18.840 --> 00:00:24.080
+ya estar familiarizado con esto, permítanme dibujar un rectángulo.
+
+00:00:24.080 --> 00:00:27.080
+Se ve como un rectángulo.
+
+00:00:27.080 --> 00:00:31.780
+Y si longitud de este lado es l, longitud de este lado es
+
+00:00:31.780 --> 00:00:33.230
+también va a ser l.
+
+00:00:33.230 --> 00:00:38.140
+Y si este ancho es w, entonces este ancho hasta aquí es w.
+
+00:00:38.140 --> 00:00:40.690
+Y el perímetro es cuán, ¿cuál es la distancia si usted
+
+00:00:40.690 --> 00:00:43.460
+¿estaban alrededor de este rectángulo?
+
+00:00:43.460 --> 00:00:49.310
+Y por lo tanto, esa distancia va a ser este w plus este l, además de
+
+00:00:49.310 --> 00:00:53.350
+Este w--o ese ancho--además de esta longitud.
+
+00:00:53.350 --> 00:00:59.070
+Y si tienes 1 w y agregarlo a otro w, que
+
+00:00:59.070 --> 00:01:00.320
+vamos a darle 2 w's
+
+00:01:00.320 --> 00:01:01.940
+Eso es 2 w's
+
+00:01:01.940 --> 00:01:06.700
+Y, a continuación, si tienes 1 l y luego te tiene l otro,
+
+00:01:06.700 --> 00:01:08.260
+que se va a dar, si les añade juntos, que
+
+00:01:08.260 --> 00:01:09.970
+va a darle l's 2
+
+00:01:09.970 --> 00:01:13.150
+Por lo que el perímetro va a ser l's 2 más 2 w's
+
+00:01:13.150 --> 00:01:14.720
+Sólo lo escribía en un orden diferente
+
+00:01:14.720 --> 00:01:16.300
+la forma en que lo escribí.
+
+00:01:16.300 --> 00:01:18.650
+Pero la misma cosa, así que esperemos tiene sentido.
+
+00:01:18.650 --> 00:01:22.040
+Ahora, su pregunta es, reescribir la fórmula lo que
+
+00:01:22.040 --> 00:01:25.630
+resuelve ancho.
+
+00:01:25.630 --> 00:01:29.050
+Por lo que la fórmula, el camino está escrito ahora, dice que p es
+
+00:01:29.050 --> 00:01:30.120
+igual a algo.
+
+00:01:30.120 --> 00:01:33.770
+Nos quieren escribirlo por lo que es, esta w, aquí,
+
+00:01:33.770 --> 00:01:38.410
+queremos ser w es igual a un montón de cosas con l's y
+
+00:01:38.410 --> 00:01:40.210
+P en ella y tal vez algunos números allí.
+
+00:01:40.210 --> 00:01:43.240
+Así que vamos a pensar en cómo podemos hacer esto.
+
+00:01:43.240 --> 00:01:48.260
+Por lo que nos dicen que p es igual a 2 veces l,
+
+00:01:48.260 --> 00:01:50.380
+Además w 2 veces.
+
+00:01:50.380 --> 00:01:53.300
+Queremos resolver por w.
+
+00:01:53.300 --> 00:01:56.750
+Bien, podría ser un buen punto de partida para deshacerse de la l
+
+00:01:56.750 --> 00:01:58.630
+de este lado de la ecuación.
+
+00:01:58.630 --> 00:02:00.790
+Y para deshacerse de ella en ese lado de la ecuación, nos podría
+
+00:02:00.790 --> 00:02:05.050
+restar el 2 l de ambos lados de la ecuación.
+
+00:02:05.050 --> 00:02:06.040
+Así que vamos a hacerlo así.
+
+00:02:06.040 --> 00:02:08.259
+Para restar 2 l aquí.
+
+00:02:08.259 --> 00:02:09.870
+Menos 2 l.
+
+00:02:09.870 --> 00:02:12.070
+También vas a tener que hacerlo en el lado izquierdo.
+
+00:02:12.070 --> 00:02:15.400
+Por lo que vas a tener menos 2 l.
+
+00:02:15.400 --> 00:02:18.060
+Lo que estamos haciendo en ambos lados de la ecuación.
+
+00:02:18.060 --> 00:02:21.180
+Y recuerde, una ecuación dice p es igual a la que, por lo que si usted
+
+00:02:21.180 --> 00:02:23.570
+hacer algo para que, tienes que hacerlo a p.
+
+00:02:23.570 --> 00:02:25.780
+Así que si restar 2 l de esto, vas a tener que
+
+00:02:25.780 --> 00:02:28.950
+restar 2 l de p para que la igualdad
+
+00:02:28.950 --> 00:02:31.260
+para seguir siendo cierto.
+
+00:02:31.260 --> 00:02:39.450
+Por lo que la izquierda va a ser p menos 2 l y luego
+
+00:02:39.450 --> 00:02:43.250
+va a ser igual a--bien, 2 l menos 2 l, toda
+
+00:02:43.250 --> 00:02:46.150
+razón por qué nos resta l 2 es porque éstos van a
+
+00:02:46.150 --> 00:02:47.280
+cancelan.
+
+00:02:47.280 --> 00:02:49.350
+Por lo que éstos se cancelan y sólo eres
+
+00:02:49.350 --> 00:02:51.870
+izquierda con una 2w aquí.
+
+00:02:51.870 --> 00:02:54.170
+Sólo te dejan con un 2w.
+
+00:02:54.170 --> 00:02:55.260
+Estamos casi allí.
+
+00:02:55.260 --> 00:02:58.250
+Casi hemos resuelto por w.
+
+00:02:58.250 --> 00:03:00.990
+Para terminar, sólo tenemos que dividir ambos lados de esta
+
+00:03:00.990 --> 00:03:02.350
+ecuación por 2.
+
+00:03:02.350 --> 00:03:05.510
+Y toda la razón por qué estoy dividir a ambos lados de este
+
+00:03:05.510 --> 00:03:09.400
+ecuación por 2 es para deshacerse de este coeficiente 2, esta 2
+
+00:03:09.400 --> 00:03:11.830
+es multiplicar w.
+
+00:03:11.830 --> 00:03:15.770
+Así que si usted divide ambos lados de esta ecuación por 2, una vez
+
+00:03:15.770 --> 00:03:17.780
+nuevamente, si haces algo a un lado de la ecuación,
+
+00:03:17.780 --> 00:03:19.260
+hacerlo al otro lado.
+
+00:03:19.260 --> 00:03:22.330
+Toda la razón por qué divide la derecha por 2 es 2
+
+00:03:22.330 --> 00:03:25.120
+veces nada dividido por 2 sólo va a ser
+
+00:03:25.120 --> 00:03:27.240
+nada, así que esto va a ser una w.
+
+00:03:27.240 --> 00:03:29.240
+Y, a continuación, tenemos a nuestro lado izquierdo.
+
+00:03:29.240 --> 00:03:31.300
+Así que estamos hechos.
+
+00:03:31.300 --> 00:03:38.240
+Si nos voltean estos dos lados, tenemos nuestro w será igual a
+
+00:03:38.240 --> 00:03:45.830
+esta cosa aquí--es igual a p menos l 2, todos
+
+00:03:45.830 --> 00:03:50.700
+de que a lo largo de 2.
+
+00:03:50.700 --> 00:03:52.830
+Ahora, esta es la respuesta correcta.
+
+00:03:52.830 --> 00:03:54.990
+Hay otras formas de escribir, aunque.
+
+00:03:54.990 --> 00:03:58.610
+Puede que desee escribir esto, así que permítanme esta cuadrado
+
+00:03:58.610 --> 00:04:02.840
+desactivado, porque esto está completamente la respuesta correcta.
+
+00:04:02.840 --> 00:04:05.590
+Esta es la respuesta correcta, pero hay otras maneras que
+
+00:04:05.590 --> 00:04:07.650
+Usted podría haber sido capaz de obtener esta respuesta, otros
+
+00:04:07.650 --> 00:04:09.360
+expresiones de esta respuesta.
+
+00:04:09.360 --> 00:04:12.630
+Puede tener también, ya sabes, otro completamente legítimo
+
+00:04:12.630 --> 00:04:15.720
+forma de hacer este problema--permítanme escribir de esta manera--tan nuestro
+
+00:04:15.720 --> 00:04:21.779
+problema original es p es igual a 2 l plus 2w--es en este
+
+00:04:21.779 --> 00:04:25.960
+¿derecha, lo que si nos factor un 2?
+
+00:04:25.960 --> 00:04:27.010
+Así que permítanme dejar esto claro.
+
+00:04:27.010 --> 00:04:30.280
+Aquí tienes un 2, y tienes un aquí 2.
+
+00:04:30.280 --> 00:04:33.090
+Por lo tanto podía imaginar undistributing los 2.
+
+00:04:33.090 --> 00:04:41.650
+Así obtendríamos p es igual a 2 veces l plus w.
+
+00:04:41.650 --> 00:04:45.680
+Se trata de una forma igualmente legítima hacer este problema.
+
+00:04:45.680 --> 00:04:49.780
+Ahora, podemos dividir ambos lados de esta ecuación por 2, por lo que
+
+00:04:49.780 --> 00:04:52.710
+nos comemos librado de esta 2 a la derecha.
+
+00:04:52.710 --> 00:04:58.170
+Así que si dividir ambos lados de esta ecuación por 2, estos 2
+
+00:04:58.170 --> 00:05:00.760
+se van a cancelar fuera--2 veces nada dividido por 2 es
+
+00:05:00.760 --> 00:05:02.220
+sólo va a ser nada--es
+
+00:05:02.220 --> 00:05:04.440
+igual a p más 2.
+
+00:05:04.440 --> 00:05:07.280
+Así que permítanme simplemente escribir esto aquí.
+
+00:05:07.280 --> 00:05:08.350
+Permítanme simplemente escribir esto.
+
+00:05:08.350 --> 00:05:18.310
+Así llegaremos a P 2 va a ser igual a l plus w.
+
+00:05:18.310 --> 00:05:21.460
+Y, a continuación, si queremos resolver para w, simplemente disminuimos l desde
+
+00:05:21.460 --> 00:05:22.500
+ambos lados.
+
+00:05:22.500 --> 00:05:24.320
+Y a veces, usted sabe, podría escribir en una separada
+
+00:05:24.320 --> 00:05:25.030
+línea como esta.
+
+00:05:25.030 --> 00:05:27.840
+A veces sólo podría escribirla como este.
+
+00:05:27.840 --> 00:05:30.560
+Se podría decir, voy a restar un l de ese lado.
+
+00:05:30.560 --> 00:05:31.790
+Si lo hago de ese lado, tengo que hacerlo
+
+00:05:31.790 --> 00:05:32.830
+de este lado, demasiado.
+
+00:05:32.830 --> 00:05:35.470
+Es lo mismo que agregar un l negativo.
+
+00:05:35.470 --> 00:05:39.160
+Y hasta la derecha, te sólo dejan con una w.
+
+00:05:42.570 --> 00:05:45.230
+Y, a continuación, la izquierda, vas a tener, podría
+
+00:05:45.230 --> 00:05:49.080
+ser un negativo l plus p más 2, o simplemente puede cambiar el
+
+00:05:49.080 --> 00:05:58.190
+orden y usted puede escribir esto como P 2 más menos l.
+
+00:05:58.190 --> 00:06:01.650
+Y esto también es una respuesta igualmente legítima.
+
+00:06:01.650 --> 00:06:02.750
+Y probablemente usted está diciendo, oye Sal, espera.
+
+00:06:02.750 --> 00:06:04.410
+Estas cosas parecen diferentes.
+
+00:06:04.410 --> 00:06:07.850
+P menos l 2 más 2, que se ve diferente de p
+
+00:06:07.850 --> 00:06:09.530
+sobre 2 l menos.
+
+00:06:09.530 --> 00:06:11.880
+Y no son.
+
+00:06:11.880 --> 00:06:12.580
+Pensar en esto.
+
+00:06:12.580 --> 00:06:16.780
+Nos podríamos escribir esto como P--permítanme hacer esto con el mismo
+
+00:06:16.780 --> 00:06:26.690
+colores--esto aquí es lo mismo que p más 2
+
+00:06:26.690 --> 00:06:32.570
+menos l 2 más 2.
+
+00:06:32.570 --> 00:06:32.825
+¿Verdad?
+
+00:06:32.825 --> 00:06:35.450
+Si tengo un signo b y están tanto divididos por
+
+00:06:35.450 --> 00:06:38.360
+2, puedo solo separado--te imaginas que estoy distribuyendo
+
+00:06:38.360 --> 00:06:40.850
+la división por 2 por aquí.
+
+00:06:40.850 --> 00:06:42.640
+Y aquí, l 2 veces dividido por 2,
+
+00:06:42.640 --> 00:06:44.040
+eso es sólo una l.
+
+00:06:44.040 --> 00:06:53.710
+Así que esto va a ser igual a P 2 más menos l, que es
+
+00:06:53.710 --> 00:06:57.440
+exactamente lo mismo que este derecho allí.

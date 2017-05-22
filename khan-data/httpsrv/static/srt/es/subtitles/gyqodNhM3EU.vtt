@@ -1,0 +1,306 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.938 --> 00:00:03.353
+Me han pedido para calcular la probabilidad de ganar
+
+00:00:03.353 --> 00:00:05.069
+La lotería Mega Millions
+
+00:00:05.069 --> 00:00:07.270
+Así que eso es lo que pensé que haría este video en.
+
+00:00:07.270 --> 00:00:11.353
+Así que lo primero es para asegurarse de que entendemos lo que ganar el jackpot en realidad significa.
+
+00:00:11.353 --> 00:00:14.020
+Así que van a ser dos contenedores de bolas.
+
+00:00:14.020 --> 00:00:19.820
+Uno de ellos va a tener 56 bolas. ¿56 Bolas en una bandeja.
+
+00:00:19.820 --> 00:00:22.987
+Y luego otro bin tendrá 45 bolas en él.
+
+00:00:22.987 --> 00:00:27.003
+¿46 Bolas en este compartimiento de aquí.
+
+00:00:27.003 --> 00:00:32.121
+Así que van a recoger 5 bolas de este compartimiento de aquí, y tienes
+
+00:00:32.121 --> 00:00:36.020
+para obtener el número exacto de estos cinco pelotas. Puede ser en cualquier orden, entonces déjame dibujar
+
+00:00:36.020 --> 00:00:39.270
+Así que su una bola, todo sombreado así se parece a una pelota.
+
+00:00:39.270 --> 00:00:45.371
+dos bolas, bolas de tres, cuatro bolas
+
+00:00:45.371 --> 00:00:47.670
+y cinco bolas
+
+00:00:47.670 --> 00:00:52.653
+Y solo tienes que poner los números en cualquier orden. Y se trata de la papelera de 56
+
+00:00:52.653 --> 00:00:55.553
+De una papelera de 56.
+
+00:00:55.553 --> 00:00:57.487
+Y entonces tienes que conseguir el derecho megaball.
+
+00:00:57.487 --> 00:01:00.587
+y van a buscar una pelota a partir de ahí, que llaman el megaball.
+
+00:01:00.587 --> 00:01:06.686
+Van a buscar una pelota desde allí. Y obviamente esto va a ser uno de los 46
+
+00:01:06.686 --> 00:01:08.604
+Así que, desde un contenedor de 46.
+
+00:01:08.604 --> 00:01:14.469
+Entonces para averiguar la probabilidad de ganar va a ser uno de todos los posibles
+
+00:01:14.469 --> 00:01:17.836
+todas las posibilidades de los números que usted puede escoger
+
+00:01:17.836 --> 00:01:24.138
+Su esencialmente toda la combinación de las bolas blancas veces las 46 posibilidades para el mega ball
+
+00:01:24.138 --> 00:01:26.687
+Entonces, pensar en las combinaciones de las bolas blancas
+
+00:01:26.687 --> 00:01:28.219
+Hay dos maneras puedes hacerlo
+
+00:01:28.219 --> 00:01:30.138
+Si usted está pensando en términos de combinatorix
+
+00:01:30.138 --> 00:01:32.686
+Básicamente sería como decir
+
+00:01:32.686 --> 00:01:35.770
+de un conjunto de 56 cosas, voy a elegir
+
+00:01:35.770 --> 00:01:37.820
+Voy a elegir 5 de ellos
+
+00:01:37.820 --> 00:01:39.653
+Literalmente, puedes hacer esto como
+
+00:01:39.653 --> 00:01:41.353
+56 elegir 5
+
+00:01:41.353 --> 00:01:44.853
+O, si quieres pensar en términos conceptuales más
+
+00:01:44.853 --> 00:01:48.652
+la primera pelota que elijo no hay posibilidades de 56
+
+00:01:48.652 --> 00:01:50.552
+Puesto que no cambiamos la bola
+
+00:01:50.552 --> 00:01:51.770
+La siguiente bola que elijo
+
+00:01:51.770 --> 00:01:53.502
+Van a ser 55 posibilidades
+
+00:01:53.502 --> 00:01:56.986
+la bola después de va a ser 54 posibilidades.
+
+00:01:56.986 --> 00:02:01.403
+La bola después de allí habrá 53 posibilidades
+
+00:02:01.403 --> 00:02:04.386
+La bola después de va a ser 52 possiblites.
+
+00:02:04.386 --> 00:02:07.953
+52, porque ya he escogido 4 bolas
+
+00:02:07.953 --> 00:02:10.902
+Ahora este número enseguida hre
+
+00:02:10.902 --> 00:02:12.302
+Cuando multiplicas esto es el número de permutaciones
+
+00:02:12.302 --> 00:02:13.871
+Si me preocupo por orden
+
+00:02:13.871 --> 00:02:15.720
+Si tengo esa combinación exacta
+
+00:02:15.720 --> 00:02:19.442
+Pero para ganar, no tienes que escribirlo en el mismo orden
+
+00:02:19.442 --> 00:02:22.002
+Sólo tienes que poner esos números en cualquier orden
+
+00:02:22.002 --> 00:02:27.137
+Así que lo que quieres hacer es esto divida por el número de formas que pueden ser en realidad cinco cosas
+
+00:02:27.137 --> 00:02:28.220
+ordenado.
+
+00:02:28.220 --> 00:02:34.104
+Y si pides cinco cosas
+
+00:02:34.104 --> 00:02:36.787
+La primera de las cinco cosas podría tomar cinco posiciones diferentes
+
+00:02:36.787 --> 00:02:39.091
+Y la próxima vez tendrá 4 posiciones de izquierda
+
+00:02:39.091 --> 00:02:41.694
+Y el que después de que contará con 3 posiciones de izquierda
+
+00:02:41.694 --> 00:02:43.593
+y después de eso tendrá dos posiciones
+
+00:02:43.593 --> 00:02:47.092
+Y el quinto que se determinarán completamente porque ya hemos colocado los otros cuatro.
+
+00:02:47.092 --> 00:02:48.959
+Tan sólo tendrá una posición
+
+00:02:48.959 --> 00:02:51.943
+Así que cuando calculamos esta parte derecha aquí
+
+00:02:51.943 --> 00:02:55.142
+Esto nos dirá todo de la combinación de sólo las bolas blancas
+
+00:02:55.142 --> 00:02:56.391
+Así calculemos
+
+00:02:56.391 --> 00:02:59.726
+Tan sólo las bolas blancas, tenemos 55
+
+00:02:59.726 --> 00:03:09.643
+lo siento, 56 x 55 x 54 x 53 x 52
+
+00:03:09.643 --> 00:03:11.226
+y nos vamos a dividir
+
+00:03:11.226 --> 00:03:17.993
+5 x 4 x 3 x 2 x 1
+
+00:03:17.993 --> 00:03:19.894
+No tenemos que mutiply por uno, pero voy a hacer eso para mostrar lo que estamos haciendo
+
+00:03:19.894 --> 00:03:23.624
+Y eso nos da unos 3,8 millones
+
+00:03:23.624 --> 00:03:28.492
+Déjame ponerla fuera de la pantalla y Déjeme anotar ese número
+
+00:03:28.492 --> 00:03:35.725
+Así que esto salga a 3,0008 millones y 19 mil
+
+00:03:35.725 --> 00:03:38.678
+3.819.816
+
+00:03:38.678 --> 00:03:40.262
+¿Es el número de posibilidades aquí
+
+00:03:40.262 --> 00:03:42.161
+Así que las probabilidades de escogiendo bien las bolas blancas
+
+00:03:42.161 --> 00:03:43.778
+son uno de esto
+
+00:03:43.778 --> 00:03:45.427
+Asumiendo que usted tiene solamente una entrada
+
+00:03:45.427 --> 00:03:49.345
+y luego hay 46 posibilidades para las bolas de color naranja
+
+00:03:49.345 --> 00:03:51.293
+Así que vas a multiplicar eso por 46
+
+00:03:51.293 --> 00:03:52.980
+Y así va a conseguir
+
+00:03:52.980 --> 00:03:54.827
+Así que cuando se multiplica siempre 46
+
+00:03:54.827 --> 00:03:56.627
+Traer de vuelta la calculadora
+
+00:03:56.627 --> 00:03:59.578
+Así que vamos a multiplicar nuestra respuesta anterior
+
+00:03:59.578 --> 00:04:00.663
+46 veces
+
+00:04:00.663 --> 00:04:02.279
+Ans significa mi respuesta anterior
+
+00:04:02.279 --> 00:04:09.261
+Épocas 46, tengo un poco menos 176 millones
+
+00:04:09.261 --> 00:04:12.344
+Un poco menos 176 millones
+
+00:04:12.344 --> 00:04:17.161
+¿Es decir, déjame escribir ese número
+
+00:04:17.161 --> 00:04:25.678
+Así que eso nos da 175,711,536
+
+00:04:25.678 --> 00:04:28.311
+Así que las probabilidades de ganar, con una entrada
+
+00:04:28.311 --> 00:04:30.477
+Porque este es el número de posibilidades
+
+00:04:30.477 --> 00:04:32.894
+Y esencialmente por un dólar, están consiguiendo una de esas posibilidades.
+
+00:04:32.894 --> 00:04:36.028
+Sus probabilidades de ganar va a ser uno de esto
+
+00:04:36.028 --> 00:04:38.394
+Y poner esto en un contexto poco
+
+00:04:38.394 --> 00:04:42.812
+Lo busqué en internet de cuáles son sus probabilidades de conseguir realmente alcanzada por un rayo en su
+
+00:04:42.812 --> 00:04:43.778
+toda la vida
+
+00:04:43.778 --> 00:04:47.150
+Y sus probabilidades de conseguir un rayo son de 1 en 10.000
+
+00:04:47.150 --> 00:04:51.789
+1 en 10.000 posibilidades de conseguir golpeado por un rayo en tu vida
+
+00:04:51.789 --> 00:04:55.748
+Y casi podríamos decir que las probabilidades de que golpeó dos veces en su tiempo de vida
+
+00:04:55.748 --> 00:04:59.207
+U otra forma de decir, las probabilidades de que tú y tu mejor amigo
+
+00:04:59.207 --> 00:05:02.790
+ambos independientemente a alcanzado por un rayo cuando no estás alrededor eachother
+
+00:05:02.790 --> 00:05:07.007
+Va a ser de 1 en 10.000 veces 1 en 10.000
+
+00:05:07.007 --> 00:05:11.524
+y así que obtendrá 1-tengo ahora ocho ceros
+
+00:05:11.524 --> 00:05:14.673
+uno, dos, tres, cuatro, cinco, seis, siete, ocho.
+
+00:05:14.673 --> 00:05:17.441
+Así que eso le da uno en 100 millones
+
+00:05:17.441 --> 00:05:21.173
+Así que en realidad dos veces, casi esto es muy duro
+
+00:05:21.173 --> 00:05:26.007
+Eres más o menos el doble de probabilidades de conseguir golpeado por un rayo dos veces en tu vida
+
+00:05:26.007 --> 00:05:30.000
+que para ganar el MegaJackpot.

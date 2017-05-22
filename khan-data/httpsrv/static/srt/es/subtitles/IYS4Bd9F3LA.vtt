@@ -1,0 +1,249 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Digamos que usted y yo estamos jugando
+
+99:59:59.999 --> 99:59:59.999
+y tratamos de averiguar qué
+
+99:59:59.999 --> 99:59:59.999
+tan lejos una bola es lanzada al
+
+99:59:59.999 --> 99:59:59.999
+aire, o cuán rápido la lanzamos.
+
+99:59:59.999 --> 99:59:59.999
+al aire, y lo que hacemos
+
+99:59:59.999 --> 99:59:59.999
+es que uno de nosotros tiene una bola, y el otro
+
+99:59:59.999 --> 99:59:59.999
+tiene que parar el reloj justo aquí
+
+99:59:59.999 --> 99:59:59.999
+así, este es mi mejor intento, se ve
+
+99:59:59.999 --> 99:59:59.999
+más como un gato que como un reloj
+
+99:59:59.999 --> 99:59:59.999
+pero usted tiene la idea.
+
+99:59:59.999 --> 99:59:59.999
+Asi que lo que hacemos es que uno de nosotros tira la
+
+99:59:59.999 --> 99:59:59.999
+pelota, y el otro toma el tiempo
+
+99:59:59.999 --> 99:59:59.999
+de cuanto dura en el aire.
+
+99:59:59.999 --> 99:59:59.999
+Ahora, lo que haremos es que vamos
+
+99:59:59.999 --> 99:59:59.999
+a usar ese tiempo en el aire para calcular
+
+99:59:59.999 --> 99:59:59.999
+cuán rápido fue lanzada la pelota
+
+99:59:59.999 --> 99:59:59.999
+hacia arriba, y cuanto tiempo estuvo en el aire
+
+99:59:59.999 --> 99:59:59.999
+y cuan alto llegó.
+
+99:59:59.999 --> 99:59:59.999
+Vamos a asumir
+
+99:59:59.999 --> 99:59:59.999
+y solo es una presunción
+
+99:59:59.999 --> 99:59:59.999
+que vamos a hacer en estos
+
+99:59:59.999 --> 99:59:59.999
+problemas de este tipo de movimiento de proyectil, es que
+
+99:59:59.999 --> 99:59:59.999
+la resistencia del aire es negativa.
+
+99:59:59.999 --> 99:59:59.999
+Y para algo como -si esto es una
+
+99:59:59.999 --> 99:59:59.999
+pelota de baseball o algo así-
+
+99:59:59.999 --> 99:59:59.999
+esa es una muy buena aproximación,
+
+99:59:59.999 --> 99:59:59.999
+así que no vamos a tener la
+
+99:59:59.999 --> 99:59:59.999
+respuesta exacta y los animo
+
+99:59:59.999 --> 99:59:59.999
+a experimentar por su cuenta -o aún
+
+99:59:59.999 --> 99:59:59.999
+a ver qué resistencia del aire
+
+99:59:59.999 --> 99:59:59.999
+relativa a sus cálculos,
+
+99:59:59.999 --> 99:59:59.999
+pero vamos a asumir para este tipo de
+
+99:59:59.999 --> 99:59:59.999
+movimiento de proyectil, y en realidad para todos los
+
+99:59:59.999 --> 99:59:59.999
+siguientes, al menos en la
+
+99:59:59.999 --> 99:59:59.999
+lista de física básica, vamos a
+
+99:59:59.999 --> 99:59:59.999
+asumir que la resistencia del aire
+
+99:59:59.999 --> 99:59:59.999
+irrelevante.
+
+99:59:59.999 --> 99:59:59.999
+Y lo que eso hace para nosotros, es que podemos
+
+99:59:59.999 --> 99:59:59.999
+asumir que el tiempo ascendente -que el tiempo
+
+99:59:59.999 --> 99:59:59.999
+en que la pelota suba hasta su máxima altura-
+
+99:59:59.999 --> 99:59:59.999
+es el mismo que el tiempo
+
+99:59:59.999 --> 99:59:59.999
+que le toma en bajar.
+
+99:59:59.999 --> 99:59:59.999
+Si ve en el video previo,
+
+99:59:59.999 --> 99:59:59.999
+donde tratamos el desplazamiento contra
+
+99:59:59.999 --> 99:59:59.999
+el tiempo, verás que después de 2 segundos
+
+99:59:59.999 --> 99:59:59.999
+la pelota fué del piso
+
+99:59:59.999 --> 99:59:59.999
+o, supongo, de la mano del lanzador,
+
+99:59:59.999 --> 99:59:59.999
+su trayecto hasta su máxima altura,
+
+99:59:59.999 --> 99:59:59.999
+y en los siguientes 2 segundos,
+
+99:59:59.999 --> 99:59:59.999
+le tomó la misma cantidad de tiempo
+
+99:59:59.999 --> 99:59:59.999
+para regresar al suelo, lo cual
+
+99:59:59.999 --> 99:59:59.999
+tiene sentido: cualquiera que sea la
+
+99:59:59.999 --> 99:59:59.999
+Velocidad inicial, le toma la mitad
+
+99:59:59.999 --> 99:59:59.999
+de tiempo ir a cero, y después
+
+99:59:59.999 --> 99:59:59.999
+le toma la misma cantidad de tiempo para
+
+99:59:59.999 --> 99:59:59.999
+ahora ser acelerada hacia abajo
+
+99:59:59.999 --> 99:59:59.999
+, de regreso a la misma magnitud
+
+99:59:59.999 --> 99:59:59.999
+de velocidad, pero ahora en dirección
+
+99:59:59.999 --> 99:59:59.999
+hacia abajo.
+
+99:59:59.999 --> 99:59:59.999
+Así que juguemos un poco con algunos números
+
+99:59:59.999 --> 99:59:59.999
+aquí, solo para tener un poco
+
+99:59:59.999 --> 99:59:59.999
+más de conocimiento concreto.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, digamos que lanzo la pelota al aire,
+
+99:59:59.999 --> 99:59:59.999
+y usted mide, usando el
+
+99:59:59.999 --> 99:59:59.999
+cronómetro, que la pelota
+
+99:59:59.999 --> 99:59:59.999
+está en el aire por cinco segundos.
+
+99:59:59.999 --> 99:59:59.999
+Así que ¿Cómo calculamos qué tan rápido
+
+99:59:59.999 --> 99:59:59.999
+lancé la bola?
+
+99:59:59.999 --> 99:59:59.999
+Bueno, la primera cosa que podemos hacer
+
+99:59:59.999 --> 99:59:59.999
+es que podemos decir, mira, si el
+
+99:59:59.999 --> 99:59:59.999
+tiempo total en el aire fue de cinco segundos,
+
+99:59:59.999 --> 99:59:59.999
+eso significa que el tiempo, permíteme ecribirlo,
+
+99:59:59.999 --> 99:59:59.999
+bien, eso significa que el
+
+99:59:59.999 --> 99:59:59.999
+cambio en el tiempo para ir hacia arriba durante la
+
+99:59:59.999 --> 99:59:59.999
+primera mitad de, supongo, el tiempo de la pelota en
+
+99:59:59.999 --> 99:59:59.999
+el aire, va a ser 2.5 segundos.
+
+99:59:59.999 --> 99:59:59.999
+Lo cual nos dice sobre estos
+
+99:59:59.999 --> 99:59:59.999
+2.5 segundos, fuimos de nuestra
+
+99:59:59.999 --> 99:59:59.999
+velocidad inicial, cualquiera que esta fuera,
+
+99:59:59.999 --> 99:59:59.999
+fuimos de nuestra velocidad inicial
+
+99:59:59.999 --> 99:59:59.999
+a nuestra velocidad inicia, que es la
+
+99:59:59.999 --> 99:59:59.999
+velocidad de cero metros sobre segundo.

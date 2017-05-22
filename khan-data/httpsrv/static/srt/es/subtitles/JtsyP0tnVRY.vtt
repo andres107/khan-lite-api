@@ -1,0 +1,374 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+...
+
+99:59:59.999 --> 99:59:59.999
+...
+
+99:59:59.999 --> 99:59:59.999
+...
+
+99:59:59.999 --> 99:59:59.999
+...
+
+00:00:00.610 --> 00:00:05.170
+Nos preguntan cuál es el término que ocupa el lugar 100
+
+00:00:05.170 --> 00:00:06.000
+de esta sucesión.
+
+00:00:06.000 --> 00:00:09.640
+El primer término es 15, los siguientes 9, 3, -3
+
+00:00:09.640 --> 00:00:11.820
+Escribámoslos así, en una tabla.
+
+00:00:11.820 --> 00:00:15.890
+En una columna tenemos el "término"
+
+00:00:15.890 --> 00:00:18.070
+y en la otra tenemos el "valor"...
+
+00:00:18.070 --> 00:00:20.810
+y en la otra tenemos el valor del término.
+
+00:00:20.810 --> 00:00:23.260
+He hecho una bonita tabla aquí.
+
+00:00:23.260 --> 00:00:26.770
+El primer término habíamos visto que era 15.
+
+00:00:26.770 --> 00:00:30.730
+El segundo término era 9.
+
+00:00:30.730 --> 00:00:33.330
+El tercero era 3.
+
+00:00:33.330 --> 00:00:35.940
+Estoy sólo copiando lo que ya había dicho pero asegurándome
+
+00:00:35.940 --> 00:00:37.720
+de asociar el valor con el término que le corresponde.
+
+00:00:37.720 --> 00:00:42.510
+Y el cuarto término era -3.
+
+00:00:42.510 --> 00:00:46.550
+Me piden averiguar cuál será el valor del 100º término
+
+00:00:46.550 --> 00:00:47.700
+de esta sucesión.
+
+00:00:47.700 --> 00:00:50.670
+Veamos qué está pasando aquí, si podemos encontrar algún
+
+00:00:50.670 --> 00:00:51.900
+tipo de patrón.
+
+00:00:51.900 --> 00:00:53.300
+Cuando pasamos del primer término
+
+00:00:53.300 --> 00:00:54.770
+al segundo, qué sucede?
+
+00:00:54.770 --> 00:00:56.270
+Del 15 al 9
+
+00:00:56.270 --> 00:00:57.670
+parece que bajamos 6.
+
+00:00:57.670 --> 00:00:59.920
+Siempre es bueno pensar en la diferencia
+
+00:00:59.920 --> 00:01:00.910
+entre los números.
+
+00:01:00.910 --> 00:01:02.860
+Ese siempre es el tipo de patrón más simple.
+
+00:01:02.860 --> 00:01:06.070
+Si bajamos 6, restamos 6.
+
+00:01:06.070 --> 00:01:09.470
+Para ir del 9 al 3, también restamos 6.
+
+00:01:12.760 --> 00:01:16.380
+Y para ir del 3 al -3
+
+00:01:16.380 --> 00:01:17.900
+de nuevo restamos 6.
+
+NOTE Paragraph
+
+00:01:17.900 --> 00:01:21.750
+...
+
+00:01:21.750 --> 00:01:26.610
+Tal como parece, para pasar al siguiente término, siempre restamos 6.
+
+00:01:26.610 --> 00:01:29.900
+Por tanto, el 2º término será 6 unidades más pequeño que el 1º.
+
+00:01:29.900 --> 00:01:35.330
+El 3º término será 12 unidades más pequeño que el primero
+
+00:01:35.330 --> 00:01:37.690
+o sea, el 6 restado dos veces.
+
+00:01:37.690 --> 00:01:41.010
+Por tanto, para obtener el 3º término, restas 6 dos veces.
+
+00:01:41.010 --> 00:01:43.270
+Para obtener el 4º término restas
+
+00:01:43.270 --> 00:01:45.710
+6 tres veces.
+
+00:01:45.710 --> 00:01:48.770
+Por tanto, para obtener un término cualquiera, restas 6
+
+00:01:48.770 --> 00:01:51.610
+una vez menos que el número del término que quieres obtener.
+
+00:01:51.610 --> 00:01:55.210
+Escribámoslo. Observa que para obtener tu 1º
+
+00:01:55.210 --> 00:01:57.070
+término, 15, no restas
+
+00:01:57.070 --> 00:01:58.220
+6 ninguna vez.
+
+00:01:58.220 --> 00:02:01.430
+Podríamos decir que restas 6 cero veces.
+
+00:02:01.430 --> 00:02:07.850
+Por tanto podrías decir que es 15 menos 6 multiplicado por 0.
+
+00:02:07.850 --> 00:02:11.290
+Permíteme escribirlo mejor, 15 menos 0
+
+00:02:11.290 --> 00:02:12.860
+multiplicado por 6.
+
+00:02:12.860 --> 00:02:14.890
+Así es como queda el valor del 1º término.
+
+00:02:14.890 --> 00:02:16.530
+Cuál es el 2º término?
+
+00:02:16.530 --> 00:02:18.680
+Es 15
+
+00:02:18.680 --> 00:02:21.140
+al que restamos 6 una vez, o lo que es lo mismo,
+
+00:02:21.140 --> 00:02:24.980
+menos 1 por 6.
+
+00:02:24.980 --> 00:02:26.890
+También puedes decir que sumas una vez -6.
+
+00:02:26.890 --> 00:02:30.700
+De ambas maneras, estamos restando 6 una vez.
+
+00:02:30.700 --> 00:02:32.330
+Ahora, qué está pasando aquí?
+
+00:02:32.330 --> 00:02:38.970
+Éste es 15 menos 2 por -6... no, perdón
+
+00:02:38.970 --> 00:02:40.695
+menos 2 por 6.
+
+00:02:43.850 --> 00:02:46.300
+Estamos restando el 6 dos veces.
+
+00:02:46.300 --> 00:02:47.960
+Cuál es el 4º término?
+
+00:02:47.960 --> 00:02:52.740
+Éste es 15 menos... estamos restando el 6 tres veces
+
+00:02:52.740 --> 00:02:56.870
+al 15. Por lo tanto, es menos 3 por 6.
+
+00:02:56.870 --> 00:03:01.370
+Si ves el patrón aquí... cuando escribimos el 4º
+
+00:03:01.370 --> 00:03:04.940
+término, este número es 1 menos que el término que tenemos aquí.
+
+00:03:04.940 --> 00:03:06.530
+Para el 4º término, tenemos un 3.
+
+00:03:06.530 --> 00:03:09.080
+Para el 3º término, tenemos un 2.
+
+00:03:09.080 --> 00:03:11.800
+Para el 2º término, tenemos un 1.
+
+00:03:11.800 --> 00:03:16.250
+Por tanto, para el nº término... si tenemos el nº término aquí,
+
+00:03:16.250 --> 00:03:17.390
+qué tendremos?
+
+00:03:17.390 --> 00:03:21.890
+Será 15 menos... Será n
+
+00:03:21.890 --> 00:03:23.320
+menos 1 aquí.
+
+00:03:23.320 --> 00:03:23.630
+De acuerdo?
+
+00:03:23.630 --> 00:03:25.960
+Cuando n es 4, n menos 1 es 3.
+
+00:03:25.960 --> 00:03:29.000
+Cuando n es 3, n menos 1 es 2.
+
+00:03:29.000 --> 00:03:32.080
+Cuando n es 2, n menos 1 es 1.
+
+00:03:32.080 --> 00:03:35.960
+Cuando n es 1, n menos 1 es 0.
+
+00:03:35.960 --> 00:03:39.420
+Por tanto, tendremos que este término de aquí es n menos 1.
+
+00:03:39.420 --> 00:03:44.330
+O sea, n menos 1 multiplicado por 6.
+
+00:03:44.330 --> 00:03:46.970
+Por tanto, si queremos averiguar cuál es el 100º término de esta
+
+00:03:46.970 --> 00:03:49.780
+sucesión... aunque no haya escrito
+
+00:03:49.780 --> 00:03:51.450
+el término general, basta con mirar el patrón.
+
+00:03:51.450 --> 00:03:54.590
+Tendrá que ser... Lo haré en rosa... El 100º término
+
+00:03:54.590 --> 00:03:56.640
+de nuestra sucesión... Lo escribiré en la parte inferior de la tabla...
+
+00:03:56.640 --> 00:03:57.600
+será... cuál?
+
+00:03:57.600 --> 00:04:06.310
+Será 15 menos, 100 menos 1, que será 99, por 6.
+
+00:04:06.310 --> 00:04:06.620
+De acuerdo?
+
+00:04:06.620 --> 00:04:07.900
+Yo sólo sigo el patrón.
+
+00:04:07.900 --> 00:04:09.340
+1, tienes un 0 aquí.
+
+00:04:09.340 --> 00:04:10.440
+2, tienes un 1 aquí.
+
+00:04:10.440 --> 00:04:11.730
+3, tienes un 2 aquí.
+
+00:04:11.730 --> 00:04:13.830
+100, tendrás un 99 aquí.
+
+00:04:13.830 --> 00:04:15.950
+Sólo nos queda calcular cuánto es.
+
+00:04:15.950 --> 00:04:18.060
+Cuánto es 99 por 6?
+
+00:04:18.060 --> 00:04:22.680
+99 por 6... en realidad se puede calcular esto mentalmente.
+
+00:04:22.680 --> 00:04:27.160
+Será 6 unidades menos que 100 por 6,
+
+00:04:27.160 --> 00:04:31.360
+que es 600... y 6 unidades menos es 594.
+
+00:04:31.360 --> 00:04:33.120
+Pero si no lo quieres calcular así, basta hacerlo
+
+00:04:33.120 --> 00:04:34.310
+a la vieja usanza.
+
+00:04:34.310 --> 00:04:38.090
+6 por 9 es 54.
+
+00:04:38.090 --> 00:04:39.240
+Me llevo 5.
+
+00:04:39.240 --> 00:04:42.490
+9 por 6, o 6 por 9 es 54.
+
+00:04:42.490 --> 00:04:46.600
+54 más 5 es 59.
+
+00:04:46.600 --> 00:04:51.670
+O sea, que aquí es 594.
+
+00:04:51.670 --> 00:04:55.610
+Y falta calcular 15... Queremos calcular
+
+00:04:55.610 --> 00:05:00.080
+cuánto es 15 menos 594.
+
+00:05:00.080 --> 00:05:03.160
+Y esto puede ser algo confuso pero la forma en que yo
+
+00:05:03.160 --> 00:05:06.040
+siempre hago esto es pensando que es
+
+00:05:06.040 --> 00:05:13.970
+exactamente lo mismo que el opuesto de 594 menos 15.
+
+00:05:13.970 --> 00:05:15.870
+Y si no me crees haz la distributiva
+
+00:05:15.870 --> 00:05:16.920
+en relación a este signo negativo.
+
+00:05:16.920 --> 00:05:20.580
+Menos 1 por 594 es menos 594.
+
+00:05:20.580 --> 00:05:23.970
+Menos 1 por menos 15 es 15 positivo.
+
+00:05:23.970 --> 00:05:25.880
+O sea que estas dos cosas son equivalentes.
+
+00:05:25.880 --> 00:05:29.160
+Personalmente, para mí es mucho más fácil de entender.
+
+00:05:29.160 --> 00:05:32.270
+Por eso, cuánto es 594 menos 15?
+
+00:05:32.270 --> 00:05:33.120
+Podemos hacerlo mentalmente.
+
+00:05:33.120 --> 00:05:40.530
+594 menos 14 sería 580 y 580 menos 1
+
+00:05:40.530 --> 00:05:42.820
+sería 579.
+
+00:05:42.820 --> 00:05:47.270
+Por tanto, tenemos 579 y necesitamos un
+
+00:05:47.270 --> 00:05:48.900
+signo negativo delante.
+
+00:05:48.900 --> 00:05:54.510
+Por todo esto, el 100º término de nuestra sucesión será -579.

@@ -1,0 +1,78 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.630 --> 00:00:04.906
+Digamos que estoy trabajando en un restaurante y estoy ganando 10 dólares por hora.
+
+00:00:04.906 --> 00:00:09.239
+Pero además de mi salario por hora también me dan propinas cada hora.
+
+00:00:09.239 --> 00:00:15.167
+Así puedes expresar esto como cuánto podría ganar en una hora determinada.
+
+00:00:15.167 --> 00:00:23.103
+También es posible que te des cuenta de que el número de propinas o la cantidad de propinas que puedo conseguir puede cambiar drásticamente de una hora a otra.
+
+00:00:23.103 --> 00:00:26.769
+Puede variar. Por ejemplo a la hora del almuerzo puedo conseguir un montón de propinas.
+
+00:00:26.769 --> 00:00:32.449
+La gente puede dar grandes propinas. Y en la siguiente hora puede no haber clientes y las propinas ser realmente bajas.
+
+00:00:32.449 --> 00:00:43.103
+Así que parte de la parte de las propinas aquí a la derecha, consideramos que la palabra entera, para ser una variable puede cambiar de escenario a escenario, de hora a hora.
+
+00:00:43.103 --> 00:00:53.373
+Por ejemplo, en un escenario, tal vez es la hora del almuerzo, estoy recibiendo grandes propinas. Así que digamos que las propinas son igual a 30 dólares.
+
+00:00:53.373 --> 00:01:06.350
+Así que la cantidad total podría hacer en que hora va, nosotros podemos volver a esta expresión justo aquí, va a ser de 10 más, en vez de ir a escribir consejos aquí, voy a escribir 30, porque eso es lo que mis consejos son en esa hora.
+
+00:01:06.350 --> 00:01:15.334
+Así que va a ser igual a 40. ... Voy a hacer eso, esto de color amarillo. Va a ser igual a 40 dólares.
+
+00:01:15.334 --> 00:01:23.790
+Digamos que justo después de que el restaurante baja el ritmo tras la hora del almuerzo. Tal vez el restaurante de al lado está haciendo grandes ventas...
+
+00:01:23.790 --> 00:01:30.307
+En la siguiente hora, mis propinas bajan drásticamente hasta 5 dólares para esa hora.
+
+00:01:30.307 --> 00:01:42.684
+Ahora vuelvo a esta expresión, el total que hago es mi salario por hora además de los 5 dólares en consejos, además de los 5 dólares en propinas, que equivale a 15 dólares.
+
+00:01:42.684 --> 00:01:51.007
+Como veis, esta expresión completa, los 10 más propinas, cambió según sea el valor de las propinas variables.
+
+00:01:51.007 --> 00:01:59.834
+En Álgebra no se ven palabras enteras como variables. Nos volvemos perezosos y en su lugar escribimos símbolos.
+
+00:01:59.834 --> 00:02:10.523
+Así que en este contexto, en lugar de escribir "propinas", escribimos 10 + t, donde t representa la propina que ganábamos en una hora.
+
+00:02:10.523 --> 00:02:20.270
+Entonces ¿qué ocurre cuando t es igual a 30?. Bien, t es igual a 30, voy a escribirlo. Vamos a ver este supuesto.
+
+00:02:20.270 --> 00:02:24.709
+T es igual a 30. Esto supone 10 más 30, que sería 40.
+
+00:02:24.709 --> 00:02:36.723
+¿Qué pasaría que si t es igual a 5, pues esto se evaluaría a 10 más 5, que es igual a 15.
+
+00:02:36.723 --> 00:02:42.393
+Quiero ser claro, aún no tenemos que usar t, ni siquiera tenemos que usar una letra, aunque en álgebra tradicional, casi siempre utilizas una letra.
+
+00:02:42.393 --> 00:02:51.527
+Podríamos haber escrito que como 10 + x, donde x es tus propinas de una hora, x no sea tan natural, no es la primera letra de la palabra "propinas".
+
+00:02:51.527 --> 00:02:59.864
+O podría incluso ha escrito 10 más, podría ha escrito incluso 10 más estrella, donde se puede decir estrella representa el número de puntas en una hora.
+
+00:02:59.864 --> 00:03:02.442
+Pero este poder no hizo tanto en un sentido.
+
+00:03:02.442 --> 00:03:06.327
+Pero esperemos que te de una idea general de lo que una variable.
+
+00:03:06.327 --> 00:03:10.327
+Todo es un símbolo que representa diferentes valores, por eso lo llamamos una variable.

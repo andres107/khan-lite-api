@@ -1,0 +1,496 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:02.840
+Creo que no hace daño practicar tanto como
+
+00:00:02.840 --> 00:00:07.010
+sea posible, resolviendo sistemas 
+de ecuaciones lineales,
+
+00:00:07.010 --> 00:00:07.770
+así que resolvamos esta.
+
+00:00:07.770 --> 00:00:09.930
+Lo que voy a hacer es que 
+la voy a resolver usando
+
+00:00:09.930 --> 00:00:13.310
+una matriz aumentada,
+y voy a ponerla en una
+
+00:00:13.310 --> 00:00:14.130
+forma escalón reducida.
+(N del T: "reduced row echelon form" es literalmente "forma reducida de filas escalonadas", en español se le llama simplemente "forma escalón reducida")
+
+00:00:14.130 --> 00:00:17.940
+Entonces, ¿cuál es la matriz aumentada para este sistema de ecuaciones?
+
+00:00:17.940 --> 00:00:19.405
+Tres incógnitas con tres ecuaciones.
+
+00:00:22.720 --> 00:00:24.990
+Solamente tengo que 
+sacar los coeficientes.
+
+00:00:24.990 --> 00:00:29.010
+Entonces, los coeficientes de los términos x 
+son 1, 1, 1.
+
+00:00:29.010 --> 00:00:33.590
+Los coeficientes de los términos y son
+1, 2 y 3.
+
+00:00:33.590 --> 00:00:35.920
+Los coeficientes de los términos z son
+1, 3 y 4.
+
+00:00:39.340 --> 00:00:41.280
+Y déjenme poner 
+que está aumentado.
+
+00:00:41.280 --> 00:00:47.030
+Y son iguales a 3, 0 y -2.
+
+00:00:47.030 --> 00:00:50.330
+Ahora, quiero convertir esta 
+matriz aumentada en una
+
+00:00:50.330 --> 00:00:51.570
+forma escalón reducida
+
+00:00:51.570 --> 00:00:53.840
+Entonces primero, tengo un 1 aqui
+
+00:00:53.840 --> 00:00:55.240
+que es la entrada de pivote.
+
+00:00:55.240 --> 00:00:59.550
+Déjenme hacer que todo lo demás en esa
+columna sea igual a 0.
+
+00:00:59.550 --> 00:01:01.320
+Así que voy a dejar 
+la primera línea igual.
+
+00:01:01.320 --> 00:01:05.740
+Entonces solo será un 1, un 1, un 1, 
+después la linea divisoria
+
+00:01:05.740 --> 00:01:08.450
+y luego tengo un 3.
+
+00:01:08.450 --> 00:01:13.770
+Ahora, para poner en cero esto, 
+reemplazaré la segunda fila
+
+00:01:13.770 --> 00:01:16.670
+con la primera fila menos la segunda.
+
+00:01:16.670 --> 00:01:19.580
+Entonces, 1 menos 1 es 0.
+
+00:01:19.580 --> 00:01:25.170
+1 menos dos... pensándolo bien, 
+esta mejor porque
+
+00:01:25.170 --> 00:01:28.670
+eventualmente quiero que este sea 1, 
+déjenme reempazar
+
+00:01:28.670 --> 00:01:32.230
+esta fila con esta otra, con la 
+segunda menos la primera
+
+00:01:32.230 --> 00:01:33.620
+en vez de la primera fila
+menos la segunda.
+
+00:01:33.620 --> 00:01:34.910
+Lo puedo hacer de una manera u otra.
+
+00:01:34.910 --> 00:01:37.220
+Entonces, la segunda fila
+menos la primera fila.
+
+00:01:37.220 --> 00:01:39.760
+Así que 1 menos 1 es 0.
+
+00:01:39.760 --> 00:01:43.230
+2 menos 1 es 1.
+
+00:01:43.230 --> 00:01:46.510
+3 menos 1 es 2.
+
+00:01:46.510 --> 00:01:50.930
+Luego 0 menos 3 es -3.
+
+00:01:50.930 --> 00:01:53.550
+Ahora quiero reducir a cero esto.
+
+00:01:53.550 --> 00:01:56.220
+Entonces déjenme reemplazar
+a este sujeto con
+
+00:01:56.220 --> 00:01:58.200
+esta ecuación 
+menos esta otra.
+
+00:01:58.200 --> 00:02:01.170
+Así, 1 menos 1 es 0.
+
+00:02:01.170 --> 00:02:04.800
+3 menos 1 es 2.
+
+00:02:04.800 --> 00:02:08.910
+4 menos 1 es 3.
+
+00:02:08.910 --> 00:02:12.860
+-2 menos 3 es -5.
+
+00:02:12.860 --> 00:02:13.490
+Justo lo suficiente.
+
+00:02:13.490 --> 00:02:14.900
+Entonces tengo mi pivote aquí.
+
+00:02:14.900 --> 00:02:16.200
+Tengo otro pivote aquí.
+
+00:02:16.200 --> 00:02:18.710
+Está a la derecha de este, 
+que es lo que quiero para
+
+00:02:18.710 --> 00:02:20.460
+la forma escalón reducida.
+
+00:02:20.460 --> 00:02:23.710
+Ahora, necesito tomar
+esta entrada y esa entrada.
+
+00:02:23.710 --> 00:02:25.960
+y reducirlas a cero.
+
+00:02:25.960 --> 00:02:28.500
+Así que hagámoslo.
+
+00:02:28.500 --> 00:02:30.800
+Entonces, voy a dejar la segunda fila igual.
+
+00:02:30.800 --> 00:02:35.720
+Mi segunda fila es 0, 1, 2 y luego tengo un -3
+
+00:02:35.720 --> 00:02:38.650
+en la parte aumentada.
+
+00:02:38.650 --> 00:02:42.420
+Y para reducir a cero a este sujeto, 
+lo que tengo que hacer es reemplazar
+
+00:02:42.420 --> 00:02:46.640
+la primera fila con la primera fila menos la segunda.
+
+00:02:46.640 --> 00:02:51.770
+Entonces tengo que 1 menos 0 es 1.
+
+00:02:51.770 --> 00:02:54.700
+1 menos 1 -- hay un pájaro ahí afuera.
+
+00:02:54.700 --> 00:02:56.720
+Déjenme cerrar la ventana.
+
+00:02:56.720 --> 00:02:58.280
+En qué estaba?
+
+00:02:58.280 --> 00:03:01.410
+Estoy reemplazando la primera
+fila con la primera fila menos
+
+00:03:01.410 --> 00:03:02.050
+la segunda fila.
+
+00:03:02.050 --> 00:03:04.800
+Entonces, 1 menos 0 es 1.
+
+00:03:04.800 --> 00:03:07.240
+1 menos 1 es 0.
+
+00:03:11.140 --> 00:03:14.780
+1 menos 2 es -1.
+
+00:03:14.780 --> 00:03:21.130
+Y luego 3 menos -3, eso equivale a 3 más 3,
+
+00:03:21.130 --> 00:03:23.340
+por lo tanto es 6.
+
+00:03:23.340 --> 00:03:24.680
+1 menos 0 es 1.
+
+00:03:24.680 --> 00:03:27.510
+1 menos 1 es 0, 1 negativo.
+
+00:03:27.510 --> 00:03:29.930
+Y luego 3 menos 3 negativo, 
+eso es 6.
+
+00:03:29.930 --> 00:03:32.390
+Siempre hay que estar seguros de 
+no haber cometido algún descuido.
+
+00:03:32.390 --> 00:03:35.230
+Ahora, déjenme eliminar esta entrada de aquí.
+
+00:03:35.230 --> 00:03:36.590
+Déjenme reducirla a cero.
+
+00:03:36.590 --> 00:03:41.780
+Voy a reemplazar la tercer fila con la tercera meno dos veces
+
+00:03:41.780 --> 00:03:43.880
+la segunda fila.
+
+00:03:43.880 --> 00:03:45.980
+Entonces tenemos 0 menos... 
+bueno dos veces cero.
+
+00:03:45.980 --> 00:03:47.760
+Eso sólo es cero.
+
+00:03:47.760 --> 00:03:52.790
+2 menos dos veces 1, 
+eso es 2 menos 2, que es 0.
+
+00:03:52.790 --> 00:03:58.980
+3 menos dos veces 2,
+eso es 3 menos 4, o -1.
+
+00:03:58.980 --> 00:04:04.130
+Y finalmente, -5 menos dos veces -3.
+
+00:04:04.130 --> 00:04:05.380
+Déjenme escribir eso.
+
+00:04:05.380 --> 00:04:10.120
+-5 menos dos veces -3.
+
+00:04:10.120 --> 00:04:15.390
+Eso es -5 menos -6
+
+00:04:15.390 --> 00:04:18.089
+Que es -5 más 6 igual a 1.
+
+00:04:18.089 --> 00:04:19.680
+De verdad quiero asegurarme de que
+
+00:04:19.680 --> 00:04:21.220
+no haya descuidos.
+
+00:04:21.220 --> 00:04:24.110
+Entonces eso es igual a 1.
+
+00:04:24.110 --> 00:04:26.540
+Ya casi termino, pero
+aún no en una forma
+
+00:04:26.540 --> 00:04:27.760
+escalón reducida.
+
+00:04:27.760 --> 00:04:30.260
+Este tiene que ser 
+un 1 positivo en orden para llegar ahí.
+
+00:04:30.260 --> 00:04:31.670
+No puede ser otra cosa que un 1.
+
+00:04:31.670 --> 00:04:33.980
+Así es una forma escalón reducida.
+
+00:04:33.980 --> 00:04:36.390
+Y esos sujetos de ahí tienen 
+que ser reducidos a cero.
+
+00:04:36.390 --> 00:04:38.990
+Bueno, la parte fácil, 
+déjenme multiplicar
+
+00:04:38.990 --> 00:04:41.130
+esta ecuación por -1.
+
+00:04:41.130 --> 00:04:44.490
+Entonces este se vuelve +1
+y este otro -1.
+
+00:04:44.490 --> 00:04:48.120
+Y ahora sólo necesito reducir 
+a cero estos dos sujetos de arriba.
+
+00:04:48.120 --> 00:04:49.810
+Hagámoslo.
+
+00:04:49.810 --> 00:04:53.980
+Entonces, mi ecuación. 
+Voy a dejar igual la tercer fila.
+
+00:04:53.980 --> 00:04:59.410
+Mi tercer fila es ahora 0, 0, 1, -1
+
+00:04:59.410 --> 00:05:03.530
+0, 0, 1, -1
+
+00:05:03.530 --> 00:05:07.330
+Y ahora quiero reducir 
+a cero a este sujeto.
+
+00:05:07.330 --> 00:05:10.420
+Entonces, lo que puedo hacer 
+es fijar mi primera fila igual a
+
+00:05:10.420 --> 00:05:13.970
+mi primera fila mas mi última fila,
+porque si esas dos se suman
+
+00:05:13.970 --> 00:05:15.730
+van a ser igual a cero.
+
+00:05:15.730 --> 00:05:16.580
+Entonces, ¿cómo lo hago?
+
+00:05:16.580 --> 00:05:19.590
+1 más 0 es 1.
+
+00:05:19.590 --> 00:05:22.680
+0 más 0 es 0.
+
+00:05:22.680 --> 00:05:27.050
+-1 más 1 es 0.
+
+00:05:27.050 --> 00:05:31.390
+6 más -1 es 5.
+
+00:05:31.390 --> 00:05:34.300
+Ahora, quiero reducir a cero esta fila.
+
+00:05:34.300 --> 00:05:37.560
+Y para hacerlo, lo que puedo 
+hacer es reemplazarla
+
+00:05:37.560 --> 00:05:42.490
+con la segunda fila menos dos veces la primera.
+
+00:05:42.490 --> 00:05:46.580
+Entonces, 0 menos dos veces 0 
+sólo es 0.
+
+00:05:46.580 --> 00:05:50.990
+1 menos dos veces 0
+es sólo 1.
+
+00:05:50.990 --> 00:05:55.320
+2 menos dos veces 1 es 0.
+
+00:05:55.320 --> 00:05:58.180
+-3 menos dos veces -1.
+
+00:05:58.180 --> 00:05:59.040
+Déjenme escribirlo.
+
+00:05:59.040 --> 00:06:03.060
+-3 menos dos veces -1.
+
+00:06:03.060 --> 00:06:04.960
+No quiero cometer errores.
+
+00:06:04.960 --> 00:06:06.070
+Entonces, ¿a qué equivale?
+
+00:06:06.070 --> 00:06:14.390
+Es igual a - 3 menos -2, o a -3 más 2.
+
+00:06:14.390 --> 00:06:15.790
+lo cuál es igual a -1.
+
+00:06:15.790 --> 00:06:17.830
+Entonces es igual a menos 1.
+
+00:06:17.830 --> 00:06:21.220
+Y ahora tengo mi matriz aumentada en
+
+00:06:21.220 --> 00:06:22.990
+una forma escalón reducida.
+
+00:06:22.990 --> 00:06:30.070
+"Forma escalón reducida".
+
+00:06:30.070 --> 00:06:35.290
+Mis pivotes
+son los únicos en sus columnas.
+
+00:06:35.290 --> 00:06:38.690
+Cada pivote en cada 
+fila sucesiva está a la derecha
+
+00:06:38.690 --> 00:06:40.190
+de el pivote anterior.
+
+00:06:40.190 --> 00:06:42.040
+Y de hecho, 
+no tenemos variables libres.
+
+00:06:42.040 --> 00:06:44.000
+Cada columna
+tiene un pivote.
+
+00:06:44.000 --> 00:06:46.780
+Entonces, volvamos del mundo
+de las matrices aumentadas y
+
+00:06:46.780 --> 00:06:49.550
+del modo de volver a poner 
+nuestras nuestras variables ahí,
+
+00:06:49.550 --> 00:06:51.440
+Que tenemos?
+
+00:06:51.440 --> 00:06:59.980
+Tenemos que x más 0y más 0z es igual a 5.
+
+00:06:59.980 --> 00:07:02.050
+Que es esa fila de aquí.
+
+00:07:02.050 --> 00:07:10.230
+Tenemos que 0x más 1y más 0z es igual a -1.
+
+00:07:10.230 --> 00:07:12.260
+Que es esta fila de acá.
+
+00:07:12.260 --> 00:07:18.000
+Y finalmente, tenemos que 0x más 0y más 1z es
+
+00:07:18.000 --> 00:07:19.740
+igual a -1
+
+00:07:19.740 --> 00:07:21.590
+Que es esta fila de aquí.
+
+00:07:21.590 --> 00:07:24.510
+Y así, hemos resuelto nuestro sistema
+
+00:07:24.510 --> 00:07:26.600
+de tres ecuaciones con tres incógnitas.
+
+00:07:26.600 --> 00:07:27.570
+Aquí está es la solución.
+
+00:07:27.570 --> 00:07:29.570
+Sólo la escribí así para que pudieran ver la
+
+00:07:29.570 --> 00:07:31.610
+correspondiente, pero obviamente, las pude haber escrito
+
+00:07:31.610 --> 00:07:32.875
+más cerca del signo de igual.
+
+00:07:32.875 --> 00:07:36.260
+Ojalá encuentren esto vagamente útil.

@@ -1,0 +1,201 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Hagamos ahora la parte b)
+
+99:59:59.999 --> 99:59:59.999
+Halla la velocidad media de la partícula en un periodo de tiempo entre 0 y 6.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la forma fácil de pensar acerca de esta, velocidad media, es que tu
+
+99:59:59.999 --> 99:59:59.999
+media, o una manera de pensar sobre ello, la distancia que tú
+
+99:59:59.999 --> 99:59:59.999
+trayecto, a veces uso la "d" para la distancia, o la "s" para el desplazamiento
+
+99:59:59.999 --> 99:59:59.999
+Pero tu distancia, en general, es igual a tu (velocidad) media
+
+99:59:59.999 --> 99:59:59.999
+velocidad (media) por el tiempo.
+
+99:59:59.999 --> 99:59:59.999
+O, tu velocidad media es igual a la distancia
+
+99:59:59.999 --> 99:59:59.999
+que recorres, dividida entre el tiempo.
+
+99:59:59.999 --> 99:59:59.999
+Y entonces, ¿cómo averiguamos la distancia que recorremos
+
+99:59:59.999 --> 99:59:59.999
+en ese periodo?
+
+99:59:59.999 --> 99:59:59.999
+Especialmente porque no nos dan explícitamente
+
+99:59:59.999 --> 99:59:59.999
+la función posición.
+
+99:59:59.999 --> 99:59:59.999
+Bueno, si lo piensas,
+
+99:59:59.999 --> 99:59:59.999
+Pensemos sobre la función velocidad de aquí
+
+99:59:59.999 --> 99:59:59.999
+que nos han dado, "v(t)"
+
+99:59:59.999 --> 99:59:59.999
+y no sé muy bien qué forma tiene,
+
+99:59:59.999 --> 99:59:59.999
+deja que dibuje una función general de la velocidad justo aquí
+
+99:59:59.999 --> 99:59:59.999
+Entonces, éste es nuestro eje t,
+
+99:59:59.999 --> 99:59:59.999
+y éste de aquí es nuestro eje v
+
+99:59:59.999 --> 99:59:59.999
+y nos situamos en un tiempo entre 0 y 6
+
+99:59:59.999 --> 99:59:59.999
+y digamos que nuestra función hace algo como esto,
+
+99:59:59.999 --> 99:59:59.999
+no importa demasiado, éste es sólo un dibujo general
+
+99:59:59.999 --> 99:59:59.999
+y aquí, ¿cómo hallamos la (distancia) total
+
+99:59:59.999 --> 99:59:59.999
+distancia (total) en ese tiempo?
+
+99:59:59.999 --> 99:59:59.999
+Bueno, si te tomas algo de tiempo,
+
+99:59:59.999 --> 99:59:59.999
+justo aquí, y lo multiplicas
+
+99:59:59.999 --> 99:59:59.999
+por la velocidad constante, entre ese
+
+99:59:59.999 --> 99:59:59.999
+periodo de tiempo, entonces tendrás el área de
+
+99:59:59.999 --> 99:59:59.999
+esta pequeña columna, que te indica
+
+99:59:59.999 --> 99:59:59.999
+aproximadamente, la distancia recorrida
+
+99:59:59.999 --> 99:59:59.999
+en este pequeño intervalo de tiempo.
+
+99:59:59.999 --> 99:59:59.999
+Porque tienes el tiempo multiplicado por una aproximada
+
+99:59:59.999 --> 99:59:59.999
+velocidad constante, lo que te dará una
+
+99:59:59.999 --> 99:59:59.999
+distancia.
+
+99:59:59.999 --> 99:59:59.999
+Por lo que, en general, si tomas el área
+
+99:59:59.999 --> 99:59:59.999
+encerrada por esta curva, desde 0 a 6,
+
+99:59:59.999 --> 99:59:59.999
+tendrás la distancia total
+
+99:59:59.999 --> 99:59:59.999
+recorrida.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, "d" es igual a la integral definida
+
+99:59:59.999 --> 99:59:59.999
+desde 0 a 6 de "v(t)"
+
+99:59:59.999 --> 99:59:59.999
+de esta cosa de aquí,
+
+99:59:59.999 --> 99:59:59.999
+"v(t)dt"
+
+99:59:59.999 --> 99:59:59.999
+Entonces, si quieres la velocidad media,
+
+99:59:59.999 --> 99:59:59.999
+sólo tienes que hallar la distancia, que es
+
+99:59:59.999 --> 99:59:59.999
+esta integral definida, y entonces
+
+99:59:59.999 --> 99:59:59.999
+divides eso entre el tiempo, o el
+
+99:59:59.999 --> 99:59:59.999
+tiempo transcurrido, en este caso
+
+99:59:59.999 --> 99:59:59.999
+Realmente podría escribir por delta t
+
+99:59:59.999 --> 99:59:59.999
+justo aquí, nuestro cambio en el tiempo
+
+99:59:59.999 --> 99:59:59.999
+justo aquí, va a ser 6
+
+99:59:59.999 --> 99:59:59.999
+empezamos en 0 y acabamos en 6, por lo que
+
+99:59:59.999 --> 99:59:59.999
+sólo tenemos que evaluar esta
+
+99:59:59.999 --> 99:59:59.999
+integral definida, que no es tan fácil de evaluar
+
+99:59:59.999 --> 99:59:59.999
+analíticamente, tenemos suerte porque
+
+99:59:59.999 --> 99:59:59.999
+nos dejan usar calculadoras en esta parte
+
+99:59:59.999 --> 99:59:59.999
+por lo que la evaluaremos usando la calculadora
+
+99:59:59.999 --> 99:59:59.999
+Y entonces, sólo tenmos que dividirlo entre 6
+
+99:59:59.999 --> 99:59:59.999
+Así que hallemos primero la distancia
+
+99:59:59.999 --> 99:59:59.999
+recorrida entre un tiempo 0 y un tiempo 6.
+
+99:59:59.999 --> 99:59:59.999
+Y para hacer eso,
+
+99:59:59.999 --> 99:59:59.999
+podemos usar el TI-85
+
+99:59:59.999 --> 99:59:59.999
+Vamos al catálogo,
+
+99:59:59.999 --> 99:59:59.999
+que nos muestra las diferentes
+
+99:59:59.999 --> 99:59:59.999
+funciones que tienen.
+
+99:59:59.999 --> 99:59:59.999
+Y para evaluar integrales definidas, usamos el

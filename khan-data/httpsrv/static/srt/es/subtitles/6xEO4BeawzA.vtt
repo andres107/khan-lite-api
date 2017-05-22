@@ -1,0 +1,483 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.820 --> 00:00:04.570
+Aprendimos en los pasado varios videos, que si tenía un lineal
+
+00:00:04.570 --> 00:00:07.400
+ecuación diferencial con coeficientes constantes en un
+
+00:00:07.400 --> 00:00:12.570
+homogéneo, tuvo el formulario a veces el segundo
+
+00:00:12.570 --> 00:00:18.520
+derivado plus b veces el primer derivado plus c
+
+00:00:18.520 --> 00:00:20.750
+veces--se puede decir de la función o el 0
+
+00:00:20.750 --> 00:00:22.910
+derivado--igual a 0.
+
+00:00:22.910 --> 00:00:24.240
+Si esa es nuestra ecuación diferencial que el
+
+00:00:24.240 --> 00:00:33.380
+ecuación característica de es Ar squared plus Br
+
+00:00:33.380 --> 00:00:36.910
+Además de c es igual a 0.
+
+00:00:36.910 --> 00:00:38.930
+Y si son las raíces de esta ecuación característica
+
+00:00:38.930 --> 00:00:40.550
+Real--digamos que tenemos dos raíces reales.
+
+00:00:40.550 --> 00:00:41.540
+Permítanme anote.
+
+00:00:41.540 --> 00:00:46.710
+Así que el escenario real donde las dos soluciones van a ser
+
+00:00:46.710 --> 00:00:50.450
+R1 y r2, donde estas son números reales.
+
+00:00:50.450 --> 00:00:53.710
+Entonces la solución general de esta ecuación diferencial--
+
+00:00:53.710 --> 00:00:56.730
+y ver los videos anteriores, si no te acuerdas de esto o
+
+00:00:56.730 --> 00:01:01.100
+Si usted no siente que está debidamente comprobado — la
+
+00:01:01.100 --> 00:01:05.650
+solución general es y es igual a una constante veces e
+
+00:01:05.650 --> 00:01:12.570
+la primera raíz x plus otra constante de algunas veces e a la
+
+00:01:12.570 --> 00:01:14.620
+segunda raíz veces x.
+
+00:01:14.620 --> 00:01:16.570
+Y lo hicimos en los pasado varios videos.
+
+00:01:16.570 --> 00:01:19.200
+Incluso hicimos algunos ejemplos.
+
+00:01:19.200 --> 00:01:21.840
+Ahora mi pregunta es, qué pasa si la característica
+
+00:01:21.840 --> 00:01:24.110
+ecuación no tiene raíces reales,
+
+00:01:24.110 --> 00:01:25.980
+¿Qué pasa si son complejas?
+
+00:01:25.980 --> 00:01:27.090
+Y un poquito de revisión, lo que
+
+00:01:27.090 --> 00:01:27.980
+¿quiero decir con esto?
+
+00:01:27.980 --> 00:01:31.380
+Bueno, si quería averiguar las raíces de este y si me
+
+00:01:31.380 --> 00:01:34.130
+era perezoso, y quiero hacerlo sin tener que pensar,
+
+00:01:34.130 --> 00:01:36.640
+puede lo factor, use sólo inmediatamente la cuadrática
+
+00:01:36.640 --> 00:01:38.050
+ecuación, ya que siempre funciona.
+
+00:01:38.050 --> 00:01:45.140
+Yo diría que, así las raíces de mi ecuación característica son
+
+00:01:45.140 --> 00:01:53.770
+B negativo más o menos la raíz cuadrada de b
+
+00:01:53.770 --> 00:01:56.195
+squared minus 4 AC.
+
+00:02:00.850 --> 00:02:05.820
+Todo eso sobre la 2A.
+
+00:02:05.820 --> 00:02:08.090
+¿Así lo digo por las raíces no reales?
+
+00:02:08.090 --> 00:02:11.460
+Bueno, si esta expresión derecho aquí--si esta b squared minus
+
+00:02:11.460 --> 00:02:14.300
+4AC--si es un número negativo, entonces voy a tener
+
+00:02:14.300 --> 00:02:16.340
+tomar la raíz cuadrada de un número negativo.
+
+00:02:16.340 --> 00:02:20.140
+Por lo que en realidad será un número imaginario y por eso, este
+
+00:02:20.140 --> 00:02:22.450
+todo plazo se vuelve complejo.
+
+00:02:22.450 --> 00:02:24.930
+Vamos a tener una parte real y una parte imaginaria.
+
+00:02:24.930 --> 00:02:28.270
+Y en realidad, las dos raíces van a ser conjugados de
+
+00:02:28.270 --> 00:02:29.070
+¿Sí, correcto?
+
+00:02:29.070 --> 00:02:31.260
+Esto nos podríamos reescribir en las partes reales e imaginarias.
+
+00:02:31.260 --> 00:02:34.350
+Nosotros podríamos reescribir esto como las raíces va a ser igual a
+
+00:02:34.350 --> 00:02:44.490
+menos b sobre 2A, más o menos la raíz cuadrada de b al cuadrado
+
+00:02:44.490 --> 00:02:50.360
+menos 4AC sobre 2A.
+
+00:02:50.360 --> 00:02:53.410
+Y si b al cuadrado menos 4AC es menor que 0, esto va a
+
+00:02:53.410 --> 00:02:55.670
+ser un número imaginario.
+
+00:02:55.670 --> 00:02:59.190
+Así que en ese caso, sólo pensemos qué las raíces
+
+00:02:59.190 --> 00:03:00.980
+aspecto general y luego realmente haremos algunos
+
+00:03:00.980 --> 00:03:03.770
+problemas. Así que permítanme volver a subir aquí.
+
+00:03:03.770 --> 00:03:05.810
+Así entonces las raíces no van a ser dos reales
+
+00:03:05.810 --> 00:03:06.610
+números como ese.
+
+00:03:06.610 --> 00:03:09.670
+Las raíces, podemos escribirles como complejo dos números
+
+00:03:09.670 --> 00:03:10.790
+son conjugados entre sí.
+
+00:03:10.790 --> 00:03:13.610
+Y creo que luz azul es un color adecuado para ello.
+
+00:03:13.610 --> 00:03:17.870
+Así que en esa situación, déjame escribir esto, el complejo
+
+00:03:17.870 --> 00:03:23.710
+raíces--este es un escenario complejo de raíces--y luego la
+
+00:03:23.710 --> 00:03:27.385
+raíces de la ecuación característica va a ser, yo
+
+00:03:27.385 --> 00:03:31.710
+no sé, algún número--vamos a llamarla lambda.
+
+00:03:31.710 --> 00:03:34.250
+Vamos a llamarlo mu, creo que es la Convención que
+
+00:03:34.250 --> 00:03:37.300
+uso de personas--realmente me deja ver lo que tienden a utilizar, se
+
+00:03:37.300 --> 00:03:42.460
+realmente no asunto--vamos a decir la lambda.
+
+00:03:42.460 --> 00:03:46.830
+Para este número, alguna constante llamado lambda y luego plus
+
+00:03:46.830 --> 00:03:51.830
+o menos algunos número imaginario.
+
+00:03:51.830 --> 00:03:55.640
+Y así va a ser algunos mu constante.
+
+00:03:55.640 --> 00:03:57.900
+Eso es sólo algunos constante, no estoy intentando ser elegante, pero
+
+00:03:57.900 --> 00:04:01.150
+Esto es creo que la Convención usada en la mayoría de diferencial
+
+00:04:01.150 --> 00:04:02.100
+libros de ecuaciones.
+
+00:04:02.100 --> 00:04:05.390
+Por eso es mu veces yo.
+
+00:04:05.390 --> 00:04:07.860
+Así que estas son las dos raíces y estas
+
+00:04:07.860 --> 00:04:08.720
+¿son verdaderas raíces, correcto?
+
+00:04:08.720 --> 00:04:12.440
+Porque tenemos lambda plus mu y lambda menos mu i.
+
+00:04:12.440 --> 00:04:17.130
+Así que estas serían las dos raíces, si b al cuadrado menos 4AC
+
+00:04:17.130 --> 00:04:18.970
+es menor que 0.
+
+00:04:18.970 --> 00:04:23.100
+Así que vamos a ver qué pasa cuando tomamos estas dos raíces y nos
+
+00:04:23.100 --> 00:04:25.630
+ponerlos en nuestra solución general.
+
+00:04:25.630 --> 00:04:29.760
+Tan solo como hemos aprendido antes, la solución general
+
+00:04:29.760 --> 00:04:33.460
+va a ser--quedo en la celeste--el general
+
+00:04:33.460 --> 00:04:39.380
+solución va a ser y es igual a c1 veces e a la
+
+00:04:39.380 --> 00:04:42.220
+primera raíz--vamos a hacer que la versión plus--tan
+
+00:04:42.220 --> 00:04:49.770
+Lambda plus mu i.
+
+00:04:49.770 --> 00:04:58.920
+Todos que tiempos x plus c2 veces e a la segunda raíz.
+
+00:04:58.920 --> 00:05:06.890
+Eso va a ser lambda menos mu i veces x.
+
+00:05:06.890 --> 00:05:09.220
+Vamos a ver si podemos hacer algunos simplificación aquí, porque
+
+00:05:09.220 --> 00:05:12.900
+que i hay realmente tipo de hace cosas tipo de loco.
+
+00:05:12.900 --> 00:05:14.600
+Así que vamos a ver si podemos hacer algo o bien deshacerse de
+
+00:05:14.600 --> 00:05:16.460
+se o simplificar la TI, etcétera.
+
+00:05:16.460 --> 00:05:20.080
+Así que vamos a multiplicar la x fuera.
+
+00:05:20.080 --> 00:05:21.940
+Simplemente haciendo alguna manipulación algebraica.
+
+00:05:21.940 --> 00:05:23.780
+Estoy tratando de utilizar tanto espacio como sea posible.
+
+00:05:23.780 --> 00:05:30.730
+¿Por lo que obtener y es igual a c1 e a qué?
+
+00:05:30.730 --> 00:05:41.450
+Lambda x--sólo distribuir ese x--plus xi mu plus c2
+
+00:05:41.450 --> 00:05:50.230
+veces e a la lambda x menos xi mu.
+
+00:05:50.230 --> 00:05:53.960
+Sólo distribuye la equis en tanto de los términos.
+
+00:05:53.960 --> 00:05:55.770
+Y vamos a ver qué podemos hacer.
+
+00:05:55.770 --> 00:06:00.550
+Bueno, cuando añades exponentes, esto es exactamente lo mismo
+
+00:06:00.550 --> 00:06:12.020
+como y es igual a c1 e a la lambda x, tiempos e
+
+00:06:12.020 --> 00:06:16.490
+¿a la xi mu, correcta?
+
+00:06:16.490 --> 00:06:18.300
+Si usted tiene la misma base y está multiplicando, pudiera
+
+00:06:18.300 --> 00:06:20.750
+simplemente añada a exponentes, así que esto es lo mismo que el.
+
+00:06:20.750 --> 00:06:33.173
+Plus c2 veces e a la lambda x, tiempos e negativo xi mu.
+
+00:06:33.173 --> 00:06:36.390
+Ahora vamos a ver, tenemos una e a la lambda x en ambos
+
+00:06:36.390 --> 00:06:38.150
+términos, por lo que nosotros podemos factor hacia afuera.
+
+00:06:38.150 --> 00:06:43.380
+Por lo que tenemos y es igual a--permítanme dibujar una línea aquí, no
+
+00:06:43.380 --> 00:06:45.280
+quiero que se confunda con toda esta ecuación cuadrática
+
+00:06:45.280 --> 00:07:00.610
+cosas - y es igual a e a la lambda x veces c1 e para el mu
+
+00:07:00.610 --> 00:07:11.430
+XI--que es un i--plus c2 veces e negativo xi mu.
+
+00:07:11.430 --> 00:07:13.540
+¿Ahora lo que podemos hacer?
+
+00:07:13.540 --> 00:07:15.240
+Y esto es donde queda divertido.
+
+00:07:15.240 --> 00:07:18.090
+Si ustedes vieron la lista de reproducción de cálculo, especialmente cuando me
+
+00:07:18.090 --> 00:07:22.160
+hablar de aproximación de funciones con la serie, llegamos
+
+00:07:22.160 --> 00:07:25.260
+arriba con lo que el pensamiento fue el resultado más sorprendente en
+
+00:07:25.260 --> 00:07:28.070
+cálculo, sólo de--o en matemáticas--sólo desde una
+
+00:07:28.070 --> 00:07:30.040
+perspectiva metafísica.
+
+00:07:30.040 --> 00:07:33.180
+Y ahora lo realmente usaremos para algo que te vas
+
+00:07:33.180 --> 00:07:35.680
+esperemos ver está vagamente útil.
+
+00:07:35.680 --> 00:07:41.490
+Así que aquí tenemos dos términos que tienen algo veces e a la
+
+00:07:41.490 --> 00:07:42.960
+algo veces i.
+
+00:07:42.960 --> 00:07:46.410
+Y hemos aprendido antes, la fórmula de Euler.
+
+00:07:46.410 --> 00:07:47.340
+Y ¿cuál era la fórmula de Euler?
+
+00:07:47.340 --> 00:07:50.160
+Voy a escribir en púrpura.
+
+00:07:50.160 --> 00:07:58.110
+Que e a la i theta, o nosotros podríamos escribir e en la ix, es
+
+00:07:58.110 --> 00:08:06.070
+igual al coseno de x plus seno de x.
+
+00:08:06.070 --> 00:08:08.610
+Y lo que es asombroso acerca de es, si pones 1 negativo en
+
+00:08:08.610 --> 00:08:15.120
+aquí, entonces obtendrá e--oh no, realmente si pones pi
+
+00:08:15.120 --> 00:08:20.210
+¿aquí--e así al i pi es igual a 1 negativo, correcto?
+
+00:08:20.210 --> 00:08:22.070
+Si usted sustituir esto porque seno de pi es 0.
+
+00:08:22.070 --> 00:08:25.700
+Así que pensé que era increíble, donde se puede escribir e a la
+
+00:08:25.700 --> 00:08:29.000
+i 2 pi es igual a 1.
+
+00:08:29.000 --> 00:08:30.660
+Así es bastante sorprendente.
+
+00:08:30.660 --> 00:08:34.750
+Y en una ecuación tiene todos los números fundamentales
+
+00:08:34.750 --> 00:08:35.700
+de las matemáticas.
+
+00:08:35.700 --> 00:08:38.059
+Es increíble, pero volvamos a
+
+00:08:38.059 --> 00:08:39.080
+tierra y obtener práctica.
+
+00:08:39.080 --> 00:08:43.010
+Así que vamos a ver si podemos utilizar esto para simplificar de Euler--
+
+00:08:43.010 --> 00:08:46.570
+Esto es realmente una definición, y la definición hace mucho
+
+00:08:46.570 --> 00:08:49.680
+de sentido, porque al hacerlo la serie power
+
+00:08:49.680 --> 00:08:51.410
+aproximación o la serie de Maclaurin
+
+00:08:51.410 --> 00:09:01.150
+aproximación, de e a la x, realmente parece que coseno de
+
+00:09:01.150 --> 00:09:05.970
+x plus me veces la aproximación de series de potencias de x.
+
+00:09:05.970 --> 00:09:07.470
+Pero de todas formas, no vamos en eso ahora.
+
+00:09:07.470 --> 00:09:09.360
+Tengo como seis o siete vídeos sobre ella.
+
+00:09:09.360 --> 00:09:12.110
+Pero vamos a usar esto para simplificar esto aquí.
+
+00:09:12.110 --> 00:09:22.640
+Así tenemos que podemos reescribir como y es igual a e a la lambda x
+
+00:09:22.640 --> 00:09:25.990
+tiempos--vamos a hacer la primera de ellas--c1.
+
+00:09:25.990 --> 00:09:31.285
+Es la e a la xi mu, así, en vez de una x
+
+00:09:31.285 --> 00:09:32.130
+Tenemos un mu x.
+
+00:09:32.130 --> 00:09:37.890
+Que será igual al coseno de todo lo que está delante de la
+
+00:09:37.890 --> 00:09:48.760
+i, así coseno de mu x plus me sine de mu x.
+
+00:09:48.760 --> 00:09:55.710
+Y entonces plus c2 veces ¿qué?
+
+00:09:55.710 --> 00:10:12.355
+Coseno de tiempos de menos mu x plus me sine de menos mu x.
+
+00:10:12.355 --> 00:10:15.380
+Y vamos a ver si podemos simplificar esto aún más.
+
+00:10:15.380 --> 00:10:19.140
+Así que una cosa que usted podría--así que vamos a distribuir la segunda
+
+00:10:19.140 --> 00:10:22.860
+Así que ahora tenemos--lo haré en un color diferente--realmente
+
+00:10:22.860 --> 00:10:24.430
+Estoy corriendo fuera de tiempo, así que continuaré
+
+00:10:24.430 --> 00:10:25.200
+Esto en el siguiente vídeo.
+
+00:10:25.200 --> 00:10:26.760
+Nos vemos luego.

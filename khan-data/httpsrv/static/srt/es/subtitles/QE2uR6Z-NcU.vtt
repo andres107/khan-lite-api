@@ -1,0 +1,141 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Tenemos una bolsa, en la bolsa vamos a echar 8 cubos verdes, 9 esferas verdes, tambien voy a poner ,
+
+99:59:59.999 --> 99:59:59.999
+5 cubos amarillos y 7 esferas amarillas. Ahora voy a sacudir la bolsa y voy a esparcir su contenido y ver el primer objeto que sale de la bolsa.
+
+99:59:59.999 --> 99:59:59.999
+Lo que quiero que pensemos en este video es cual es la probabilidad de tener diferente tipo de objetos
+
+99:59:59.999 --> 99:59:59.999
+por ejemplo, cual es la probabilidad de sacar un cubo de cualquier color. Lo podemos pensar como
+
+99:59:59.999 --> 99:59:59.999
+cuales son las resultados equiprobables que podemos obtener.
+
+99:59:59.999 --> 99:59:59.999
+Entonces 8 + 9 es 17, 17 + 5 es 22 y 22 + 7 es 29
+
+99:59:59.999 --> 99:59:59.999
+entonces tenemos 29 objetos en la bolsa. Entonces dibujemos todos los posibles objetos
+
+99:59:59.999 --> 99:59:59.999
+en esta area que representa todos los posibles objetos que son 29,
+
+99:59:59.999 --> 99:59:59.999
+entonces tenemos 29 equibrobables resultados
+
+99:59:59.999 --> 99:59:59.999
+de mi experimento de ver lo que sale de la bolsa. Asumiendo que hay igual probabilidad de que salga
+
+99:59:59.999 --> 99:59:59.999
+un cubo o una esfera primero, y cuantos de ellos cumplen nuestra condicion de que sean cubos
+
+99:59:59.999 --> 99:59:59.999
+tenemos 8 cubos verdes y 5 amarillos, en total 13 cubos, voy a dibujar el grupo de 13 cubos
+
+99:59:59.999 --> 99:59:59.999
+entonces la probabilidad de obtener un cubo es el numero de eventos que cumplen nuestra condicion, los cuales
+
+99:59:59.999 --> 99:59:59.999
+son 13 cubos que tienen igual probabilidad de salir, sobre todas los posibles resultados con igual probabilidad que son 29, que incluyen cubos y esferas.
+
+99:59:59.999 --> 99:59:59.999
+Otra pregunta, es cual es la probabilidad de obtener un objeto amarillo, puede ser un cubo o esfera
+
+99:59:59.999 --> 99:59:59.999
+nuevamente miramos cuantos objetos cumplen la condicion, es 5 + 7, son 12 objetos
+
+99:59:59.999 --> 99:59:59.999
+entonces tenemos 29 objetos equiprobables de los cuales 12 cumplen nuestro criterio, voy a dibujarlos por aca,
+
+99:59:59.999 --> 99:59:59.999
+seria algo como asi, el grupo de objetos amarillos que son 12, asi que la probabilidad de es 12 sobre 29
+
+99:59:59.999 --> 99:59:59.999
+ser amarillo es 12 sobre el total de resultados que es 29. Entonces la probabilidad de sacar cubo es
+
+99:59:59.999 --> 99:59:59.999
+de 13 sobre 29, y la de un objeto amarillo es de 12 sobre 29. Ahora algo mas interesante
+
+99:59:59.999 --> 99:59:59.999
+cual es la probabilidad de obtener un cubo amarillo, lo escribo amarillo porque ahora nos interesa el color
+
+99:59:59.999 --> 99:59:59.999
+cual es la probabilidad de tener un cubo amarillo, entonces tenemos 29 equiprobables objetos
+
+99:59:59.999 --> 99:59:59.999
+y de esos 29 equibrobables objetos, 5 son cubos amarillos, 5 de ellos
+
+99:59:59.999 --> 99:59:59.999
+asi que la probabilidad es 5 sobre 29.
+
+99:59:59.999 --> 99:59:59.999
+En el diagrama de Venn, vemos el area de los cubos y esta area que se intercepta representa los objetos
+
+99:59:59.999 --> 99:59:59.999
+que son cubos y son amarillos, porque estan dentro de los dos circulos
+
+99:59:59.999 --> 99:59:59.999
+entonces voy a escribirlo aca, hay 5 objetos que son amarillos y cubos
+
+99:59:59.999 --> 99:59:59.999
+ahora preguntemos, y esta es bien interesante, cual es la probabilidad de tener algo que sea amarillo o
+
+99:59:59.999 --> 99:59:59.999
+que sea amarillo o un cubo de cualquier color
+
+99:59:59.999 --> 99:59:59.999
+entonces sabemos que el denominador es 29, que son los resultados equiprobables
+
+99:59:59.999 --> 99:59:59.999
+y cuales son los resultados que cumplen nuestra condicion? una de las maneras de pensarlo es
+
+99:59:59.999 --> 99:59:59.999
+hay 12 objetos que cumplen la condicion de ser amarillos que es este circulo
+
+99:59:59.999 --> 99:59:59.999
+12 objetos que cumplen la condicion de ser amarillos, asi que este es el numero de amarillos
+
+99:59:59.999 --> 99:59:59.999
+ademas los cubos pero no podemos adicionar estos 5, porque ya estan contados como amarillos
+
+99:59:59.999 --> 99:59:59.999
+entonces estan 7 objetos amarillos que no son cubos, 5 objetos que son cubos amarillos y 8 cubos que no son amarillos
+
+99:59:59.999 --> 99:59:59.999
+asi que no podemos adicionar todos los cubos porque estariamos adicionando este pequeno espacio del medio
+
+99:59:59.999 --> 99:59:59.999
+entonces tenemos el numero de cubos que es 13 y le restamos la seccion del medio, es decir menos 5
+
+99:59:59.999 --> 99:59:59.999
+este es el numero de cubos amarillos
+
+99:59:59.999 --> 99:59:59.999
+o podemos pensarlo tambien como 12 + 13 - 5, que es 20, entonces es 20 sobre 29.
+
+99:59:59.999 --> 99:59:59.999
+pero mas interesante que el resultado es expresar esto en terminos de otras probabilidades que hemos
+
+99:59:59.999 --> 99:59:59.999
+calculado en el video
+
+99:59:59.999 --> 99:59:59.999
+podemos reescribir esta fraccion como 12 / 29 mas 13 / 29 menos 5 / 29
+
+99:59:59.999 --> 99:59:59.999
+y este es la probabilidad de amarillos sobre el total,
+
+99:59:59.999 --> 99:59:59.999
+mas la probabilidad de sacar un cubo
+
+99:59:59.999 --> 99:59:59.999
+y este es el numero de cubos amarillos del total, entonces restamos la probabilidad de que de
+
+99:59:59.999 --> 99:59:59.999
+sea amarillo "Y" sea un cubo

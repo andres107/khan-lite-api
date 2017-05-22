@@ -1,0 +1,765 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.320
+
+
+00:00:00.320 --> 00:00:02.890
+En este video, vamos a 
+aprender considerar la distancia
+
+00:00:02.890 --> 00:00:08.640
+entre cualquier dos puntos en nuestro 
+plano de coordenadas x, y,
+
+00:00:08.640 --> 00:00:11.060
+y vamos a ver, si es de verdad
+solamente una aplicación de
+
+00:00:11.060 --> 00:00:12.780
+la doctrina de Pitágora.
+
+00:00:12.780 --> 00:00:14.040
+Empecemos con un ejemplo.
+
+00:00:14.040 --> 00:00:16.070
+Digamos que tengo el punto, 
+lo haré en un color más oscuro
+
+00:00:16.070 --> 00:00:17.950
+para que podamos verlo en
+el papel cuadriculado.
+
+00:00:17.950 --> 00:00:22.070
+Digamos que tengo el punto
+3 coma menos 4.
+
+00:00:22.070 --> 00:00:25.180
+Entonces si lo ponga en el gráfico,
+iría 1, 2, 3, y
+
+00:00:25.180 --> 00:00:26.480
+después bajaría 4.
+
+00:00:26.480 --> 00:00:33.440
+1, 2, 3, 4, allí mismo,
+es 3 coma menos 4.
+
+00:00:33.440 --> 00:00:40.110
+Y digamos que también tengo
+el punto 6 coma 0.
+
+00:00:40.110 --> 00:00:45.660
+Entonces 1, 2, 3, 4, 5, 6, y ahora
+no hay movimiento en la
+
+00:00:45.660 --> 00:00:46.310
+dirección y.
+
+00:00:46.310 --> 00:00:47.610
+Sólo estamos quedando 
+en el eje x.
+
+00:00:47.610 --> 00:00:52.086
+La coordenada y es 0,
+así eso es 6 coma 0.
+
+00:00:52.086 --> 00:00:55.810
+Y lo que quiero calcular es
+la distancia entra estos
+
+00:00:55.810 --> 00:00:56.410
+dos puntos.
+
+00:00:56.410 --> 00:01:00.350
+¿Qué es la distancia entre este punto azul 
+y este punto anaranjado?
+
+00:01:00.350 --> 00:01:01.910
+Y al principio, estás, en plan, como "Ay
+Sal, no creo que he visto
+
+00:01:01.910 --> 00:01:03.570
+jamás algo sobre
+cómo resolver para una
+
+00:01:03.570 --> 00:01:04.440
+distancia así.
+
+00:01:04.440 --> 00:01:06.290
+Y ¿de qué estás hablando 
+con respecto a la doctrina de Pitágora?
+
+00:01:06.290 --> 00:01:08.180
+No veo un triángulo allí!"
+
+00:01:08.180 --> 00:01:09.690
+Y si no veas 
+un triángulo,
+
+00:01:09.690 --> 00:01:10.940
+déjame dibujarlo para ti.
+
+00:01:10.940 --> 00:01:13.770
+
+
+00:01:13.770 --> 00:01:18.060
+Déjame dibujar este triángulo aquí
+mismo, así justo.
+
+00:01:18.060 --> 00:01:20.690
+Actualmente, déjame usar varios
+colores aquí, sólo para
+
+00:01:20.690 --> 00:01:23.090
+tocar la cuerda sensible de verdad.
+
+00:01:23.090 --> 00:01:24.650
+Así es nuestro triángulo.
+
+00:01:24.650 --> 00:01:25.990
+Y puede que reconozcas 
+inmediatamente
+
+00:01:25.990 --> 00:01:27.950
+que este es un triángulo recto.
+
+00:01:27.950 --> 00:01:29.810
+Allí es un ángulo recto 
+allí mismo.
+
+00:01:29.810 --> 00:01:33.520
+La base va derecho de la izquierda a
+la derecha, el lado derecho va
+
+00:01:33.520 --> 00:01:36.710
+recto arriba y abajo, entonces
+tratamos con un triángulo recto.
+
+00:01:36.710 --> 00:01:39.210
+Entonces si podríamos calcular
+lo que es la longitud de la base y
+
+00:01:39.210 --> 00:01:42.350
+la anchura, podríamos
+usar la doctrina de Pitágora para
+
+00:01:42.350 --> 00:01:47.690
+calcular este lado largo, el
+lado que es opuesto del
+
+00:01:47.690 --> 00:01:49.700
+ángulo recto, la hipotenusa.
+
+00:01:49.700 --> 00:01:55.890
+Esto aquí mismo, la distancia
+es la hipotenusa de este
+
+00:01:55.890 --> 00:01:57.180
+triángulo recto.
+
+00:01:57.180 --> 00:01:58.180
+Lo escribo.
+
+00:01:58.180 --> 00:02:04.050
+La distancia es igual
+a la hipotenusa
+
+00:02:04.050 --> 00:02:05.660
+de este triángulo recto.
+
+00:02:05.660 --> 00:02:07.480
+Lo dibujo un poco más grande.
+
+00:02:07.480 --> 00:02:10.710
+Entonces esto es la hipotenusa
+allí mismo.
+
+00:02:10.710 --> 00:02:14.880
+Y ahora tenemos el lado por la
+derecha, el lado que va
+
+00:02:14.880 --> 00:02:16.070
+derecho hacia arriba y hacia abajo.
+
+00:02:16.070 --> 00:02:18.500
+Y ahora tenemos nuestra base.
+
+00:02:18.500 --> 00:02:19.860
+Ahora, cómo calculamos--
+bueno
+
+00:02:19.860 --> 00:02:22.550
+esto llamamos "d" por distancia.
+
+00:02:22.550 --> 00:02:24.540
+Eso es la longitud de
+nuestra hipotenusa.
+
+00:02:24.540 --> 00:02:27.640
+¿Cómo calculamos las longitudes
+de este lado arriba y abajo
+
+00:02:27.640 --> 00:02:30.270
+y el lado de la base
+aquí mismo?
+
+00:02:30.270 --> 00:02:32.940
+Veamos por la base primero.
+¿Qué es esta distancia?
+
+00:02:32.940 --> 00:02:35.010
+Aún podrías contarlo en este
+papel cuadriculado, pero aquí,
+
+00:02:35.010 --> 00:02:38.150
+donde x es igual a--
+lo hago en verde.
+
+00:02:38.150 --> 00:02:41.530
+Aquí, estamos en x es igual a 3
+y aquí estamos en x es igual
+
+00:02:41.530 --> 00:02:42.800
+a 6, ¿verdad?
+
+00:02:42.800 --> 00:02:44.550
+Sólo movemos 
+recto a la derecha.
+
+00:02:44.550 --> 00:02:47.570
+Esta es la misma distancia como
+esa distancia allí mismo.
+
+00:02:47.570 --> 00:02:49.910
+Así para calcular esa distancia,
+es literalmente el
+
+00:02:49.910 --> 00:02:50.710
+punto final "x".
+
+00:02:50.710 --> 00:02:52.240
+Y en actualidad podrías ir por
+cualquier dirección, porque vas a
+
+00:02:52.240 --> 00:02:53.770
+calcular el cuadrado de todo, entonces
+no importa si tengas
+
+00:02:53.770 --> 00:02:59.230
+unos números negativos, entonces la
+distancia aquí será 6
+
+00:02:59.230 --> 00:03:03.360
+menos 3, ¿verdad?
+
+00:03:03.360 --> 00:03:04.680
+6 menos 3.
+
+00:03:04.680 --> 00:03:08.520
+Eso es esta distancia aquí mismo,
+lo que es igual a 3.
+
+00:03:08.520 --> 00:03:10.140
+Entonces ya calculamos la base.
+
+00:03:10.140 --> 00:03:12.610
+Y tenemos que recordarnos,
+que eso es igual
+
+00:03:12.610 --> 00:03:14.200
+al cambio en "x".
+
+00:03:14.200 --> 00:03:17.100
+Eso era igual a tu 
+"x" final menos tu
+
+00:03:17.100 --> 00:03:17.890
+"x" inicial.
+
+00:03:17.890 --> 00:03:20.020
+6 menos 3.
+
+00:03:20.020 --> 00:03:21.860
+Esta es nuestra "x" delta.
+
+00:03:21.860 --> 00:03:25.990
+Ahora, por el mismo método de
+razonamiento, esta altura
+
+00:03:25.990 --> 00:03:29.640
+aquí será
+tu cambio en "y".
+
+00:03:29.640 --> 00:03:31.290
+Alto aquí, estás en
+"y" es igual a 0.
+
+00:03:31.290 --> 00:03:32.670
+Eso es donde terminas
+más o menos.
+
+00:03:32.670 --> 00:03:34.360
+Eso es su punto "y" más alto.
+
+00:03:34.360 --> 00:03:37.900
+Y por aquí, estás en "y"
+es igual a menos 4.
+
+00:03:37.900 --> 00:03:42.460
+Entonces el cambio de "y" es igual
+a 0 menos 4 negativo.
+
+00:03:42.460 --> 00:03:44.930
+Sólo tomo el valor "y"
+más grande menos el valor "y"
+
+00:03:44.930 --> 00:03:48.810
+más pequeño, el valor "x" más grande
+menos el valor "x" más pequeño.
+
+00:03:48.810 --> 00:03:49.870
+Pero verás que vamos a 
+calcular el cuadrado en
+
+00:03:49.870 --> 00:03:51.830
+un momento, entonces aún si lo harías
+al revés, tendrás
+
+00:03:51.830 --> 00:03:53.410
+un número negativo, pero
+todavía tendrías la misma
+
+00:03:53.410 --> 00:03:56.030
+respuesta, entonces esto es igual a 4.
+
+00:03:56.030 --> 00:03:57.890
+Entonces este lado es igual a 4.
+
+00:03:57.890 --> 00:04:00.370
+Aún puedes contarlo en el 
+papel cuadriculado si lo preferías.
+
+00:04:00.370 --> 00:04:02.310
+Y este lado es igual a 3.
+
+00:04:02.310 --> 00:04:07.040
+Y ahora podemos hacer la
+doctrina de Pitágora.
+
+00:04:07.040 --> 00:04:11.730
+La distancia es el 
+cuadrado de la distancia.
+
+00:04:11.730 --> 00:04:12.400
+Ten cuidado.
+
+00:04:12.400 --> 00:04:15.270
+El cuadrado de la distancia será
+igual al cuadrado de esta "x" delta,
+
+00:04:15.270 --> 00:04:19.649
+el cuadrado del cambio
+de "x" más
+
+00:04:19.649 --> 00:04:23.440
+el cuadrado del cambio de "y".
+
+00:04:23.440 --> 00:04:24.620
+Esto no es nada sofisticado.
+
+00:04:24.620 --> 00:04:26.770
+A veces la gente llamará esto
+la fórmula de distancia.
+
+00:04:26.770 --> 00:04:29.380
+Sólo es la doctrina de Pitágora.
+
+00:04:29.380 --> 00:04:31.660
+El cuadrado de este lado más
+el cuadrado de ese lado es igual al
+
+00:04:31.660 --> 00:04:34.940
+cuadrado de la hipotenusa, porque
+este es un triángulo recto.
+
+00:04:34.940 --> 00:04:38.260
+Lo apliquemos con estos números,
+los números que ya
+
+00:04:38.260 --> 00:04:39.410
+tenemos a mano.
+
+00:04:39.410 --> 00:04:43.020
+Entonces el cuadrado de la distancia será
+igual al cuadrado de "x" delta
+
+00:04:43.020 --> 00:04:47.580
+es el cuadrado de 3 más
+el cuadrado de "y" delta más
+
+00:04:47.580 --> 00:04:53.080
+el cuadrado de 4, lo que es 9 más 16,
+lo que es igual a 25.
+
+00:04:53.080 --> 00:04:56.050
+Entonces la distancia es igual a--
+lo escribo-- el cuadrado de "d"
+
+00:04:56.050 --> 00:04:57.550
+es igual a 25.
+
+00:04:57.550 --> 00:05:01.600
+"d", nuestra distancia, es igual a--
+no quieres usar
+
+00:05:01.600 --> 00:05:03.160
+la raíz cuadrada negativa, porque
+no existe una distancia negativa,
+
+00:05:03.160 --> 00:05:05.370
+entonces solamente es la raíz
+principal, la raíz cuadrada
+
+00:05:05.370 --> 00:05:09.020
+positivo de 25, lo que
+es igual a 5.
+
+00:05:09.020 --> 00:05:10.780
+Entonces esa distancia aquí
+mismo es 5.
+
+00:05:10.780 --> 00:05:13.130
+O si miremos en esta distancia
+aquí mismo, eso era el
+
+00:05:13.130 --> 00:05:13.920
+problema original.
+
+00:05:13.920 --> 00:05:16.170
+¿Qué es la distancia entre
+este punto y ese punto?
+
+00:05:16.170 --> 00:05:20.180
+Están a 5 unidades.
+
+00:05:20.180 --> 00:05:22.930
+Así lo que verás aquí, la
+llaman la fórmula de distancia,
+
+00:05:22.930 --> 00:05:24.286
+pero sólo es la doctrina
+de Pitágora.
+
+00:05:24.286 --> 00:05:25.642
+Y sólo para que estés expuesto a todos los métodos que verás
+
+00:05:25.642 --> 00:05:27.000
+la fórmula de distancia,
+a veces la gente dirá, ah,
+
+00:05:27.000 --> 00:05:29.770
+si tenga dos puntos, si tenga
+un punto, digamos
+
+00:05:29.770 --> 00:05:33.340
+"x1" y "y1", entonces eso es 
+un punto específico.
+
+00:05:33.340 --> 00:05:37.580
+Y digamos que tengo otro
+punto que llamamos "x2" coma "y2".
+
+00:05:37.580 --> 00:05:42.880
+A veces, verás esta
+fórmula, que la distancia--
+
+00:05:42.880 --> 00:05:45.760
+la verás en
+distintas maneras.
+
+00:05:45.760 --> 00:05:46.940
+Pero verás que la distancia
+es igual a --
+
+00:05:46.940 --> 00:05:49.850
+y parece como si fuera una fórmula 
+muy complicada
+
+00:05:49.850 --> 00:05:52.170
+pero quiero que veas que
+esto solamente es
+
+00:05:52.170 --> 00:05:53.930
+la doctrina de Pitágora.
+
+00:05:53.930 --> 00:05:55.370
+Se ve que la distancia es
+igual a "x2" menos "x1" menos
+
+00:05:55.370 --> 00:06:05.340
+el cuadrado de "x1" más "y2" menos
+el cuadrado de "y1".
+
+00:06:05.340 --> 00:06:18.650
+Esto verás escrito en
+muchos textos como
+
+00:06:18.650 --> 00:06:20.950
+la fórmula de distancia.
+
+00:06:20.950 --> 00:06:22.200
+
+
+00:06:22.200 --> 00:06:24.855
+Y es una pérdida completa de tiempo
+intentar aprenderla de memoria
+
+00:06:24.855 --> 00:06:27.250
+porque realmente sólo es
+la doctrina de Pitágora.
+
+00:06:27.250 --> 00:06:30.060
+Esto es su cambio en "x".
+
+00:06:30.060 --> 00:06:32.370
+Y realmente no importa cual
+"x" eligas primero
+
+00:06:32.370 --> 00:06:34.710
+o segundo, porque aún si 
+tengas el negativo de este
+
+00:06:34.710 --> 00:06:36.730
+valor, cuando calcules el cuadrado,
+desaparece el negativo.
+
+00:06:36.730 --> 00:06:39.470
+Esto aquí mismo es
+tu cambio en "y".
+
+00:06:39.470 --> 00:06:42.900
+Eso es decir el 
+cuadrado de la distancia-- recuerda,
+
+00:06:42.900 --> 00:06:44.693
+si calcules el cuadrado de los dos lados de
+esta ecuación, el radical
+
+00:06:44.693 --> 00:06:48.710
+desaparecerá y esto será
+el cuadrado de la distancia es
+
+00:06:48.710 --> 00:06:51.010
+igual a este cuadrado de
+la expresión, el cuadrado de "x" delta,
+
+00:06:51.010 --> 00:06:54.900
+el cambio en "x"-- "delta" significa cambio
+en-- el cuadrado de "x" delta
+
+00:06:54.900 --> 00:06:59.090
+más el cuadrado de "y" delta.
+
+00:06:59.090 --> 00:07:01.540
+No quiero que se confunda.
+
+00:07:01.540 --> 00:07:02.190
+Y delta solamente significa
+"cambio en 'y'".
+
+00:07:02.190 --> 00:07:04.170
+Probablemente debía de decir
+eso más antes en este video.
+
+00:07:04.170 --> 00:07:06.380
+Pero lo apliquemos a un par
+más, y escogeré unos puntos
+
+00:07:06.380 --> 00:07:09.290
+al azar.
+
+00:07:09.290 --> 00:07:10.030
+Digamos que tengo el punto,
+a ver, 1, 2, 3, 4, 5, 6.
+
+00:07:10.030 --> 00:07:14.850
+Menos 6 coma menos 4.
+
+00:07:14.850 --> 00:07:17.660
+
+
+00:07:17.660 --> 00:07:22.370
+Y digamos que quería calcular la
+distancia entre eso y
+
+00:07:22.370 --> 00:07:24.430
+1 coma 1,2, 3, 4, 5, 6, 7, y 
+el punto 1 coma 7, entonces yo
+
+00:07:24.430 --> 00:07:32.290
+quiero calcular esta distancia
+aquí mismo
+
+00:07:32.290 --> 00:07:34.370
+Entonces es la misma idea.
+
+00:07:34.370 --> 00:07:36.420
+Que usemos la doctrina de Pitágora.
+
+00:07:36.420 --> 00:07:38.610
+Calculas esta distancia,
+lo que es nuestro cambio en "x",
+
+00:07:38.610 --> 00:07:41.830
+esta distancia, lo que es
+nuestro cambio en "y".
+
+00:07:41.830 --> 00:07:43.790
+El cuadrado de esta distancia más
+el cuadrado de esta distancia será
+
+00:07:43.790 --> 00:07:45.955
+igual al cuadrado de esa distancia.
+
+00:07:45.955 --> 00:07:48.750
+Lo hagamos.
+
+00:07:48.750 --> 00:07:50.600
+Entonces nuestro cambio en "x", 
+que tomes-- sabe,
+
+00:07:50.600 --> 00:07:53.160
+no importa.
+
+00:07:53.160 --> 00:07:54.130
+En general, quieres tomar el valor "x"
+más grande menos el valor "x"
+
+00:07:54.130 --> 00:07:56.170
+más pequeño, pero lo
+podrías hacerlo de cualquier modo.
+
+00:07:56.170 --> 00:07:58.400
+Así podrías escribir el cuadrado
+de la distancia es igual a-- ¿qué es
+
+00:07:58.400 --> 00:08:02.180
+nuestro cambio en "x"?
+
+00:08:02.180 --> 00:08:04.430
+Entonces tomemos la "x" más grande
+menos la "x" más pequeño, 1 menos
+
+00:08:04.430 --> 00:08:08.650
+menos 6.
+
+00:08:08.650 --> 00:08:09.430
+1 menos el cuadrado de menos 6
+más el cambio en "y".
+
+00:08:09.430 --> 00:08:14.960
+La "y" más grande está aquí.
+
+00:08:14.960 --> 00:08:16.120
+Es 7.
+
+00:08:16.120 --> 00:08:17.530
+7 menos menos 4.
+
+00:08:17.530 --> 00:08:19.210
+7 menos el cuadrado de menos 4.
+
+00:08:19.210 --> 00:08:22.550
+Y sólo escogí estos números
+al azar, por eso no resultará
+
+00:08:22.550 --> 00:08:24.430
+una solución muy "entero".
+
+00:08:24.430 --> 00:08:26.260
+Entonces sabemos que el cuadrado
+de la distancia es igual a 1 menos
+
+00:08:26.260 --> 00:08:30.490
+menos 6.
+
+00:08:30.490 --> 00:08:31.280
+Eso es 7, el cuadrado de 7, y aún
+lo verás aquí,
+
+00:08:31.280 --> 00:08:35.000
+si lo cuentes.
+
+00:08:35.000 --> 00:08:36.169
+Vas 1, 2, 3, 4, 5, 6, 7.
+
+00:08:36.169 --> 00:08:39.690
+Eso es ese número aquí mismo.
+
+00:08:39.690 --> 00:08:41.470
+Eso es lo que llamamos
+tu cambio en "x".
+
+00:08:41.470 --> 00:08:43.400
+Más 7 menos menos 4.
+
+00:08:43.400 --> 00:08:46.530
+Eso es 11.
+
+00:08:46.530 --> 00:08:47.720
+Eso es esta distancia aquí,
+y puedes contarlo en
+
+00:08:47.720 --> 00:08:51.010
+las cuadras.
+
+00:08:51.010 --> 00:08:51.490
+Vamos a subir por 11.
+
+00:08:51.490 --> 00:08:52.650
+Solamente tomamos 7 menos
+menos 4 para calcular
+
+00:08:52.650 --> 00:08:55.860
+una distancia de 11.
+
+00:08:55.860 --> 00:08:57.740
+Entonces más el cuadrado de 11 es
+igual al cuadrado de "d".
+
+00:08:57.740 --> 00:09:01.750
+Entonces déjame buscar 
+mi calculadora.
+
+00:09:01.750 --> 00:09:05.000
+Entonces la distancia, si añadamos el
+cuadrado de 7 y el cuadrado de 11
+
+00:09:05.000 --> 00:09:13.266
+es igual a 170, esa distancia será 
+la raíz cuadrada de eso,
+
+00:09:13.266 --> 00:09:16.170
+¿verdad? El cuadrado de "d"
+es igual a 170.
+
+00:09:16.170 --> 00:09:18.920
+Entonces tomemos la raíz cuadrada
+de 170 y tenemos 13,0,
+
+00:09:18.920 --> 00:09:25.250
+aproximadamente 13,04.
+
+00:09:25.250 --> 00:09:28.250
+Entonces esta distancia aquí
+mismo que intentamos
+
+00:09:28.250 --> 00:09:30.550
+calcular es 13,04.
+
+00:09:30.550 --> 00:09:35.920
+Espero que eso has encontrado útil.
+
+00:09:35.920 --> 00:09:38.540

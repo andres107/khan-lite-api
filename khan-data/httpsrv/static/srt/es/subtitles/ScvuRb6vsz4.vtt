@@ -1,0 +1,645 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.530 --> 00:00:03.570
+Acabo de recibir este problema de una
+
+00:00:03.580 --> 00:00:06.250
+estudiante de enfermeria, y creo que esencial que
+
+00:00:06.250 --> 00:00:08.890
+los estudiantes de enfermeria puedan hacer esto, solo en caso de que yo sea
+
+00:00:08.890 --> 00:00:10.350
+el paciente que recibe la medicina.
+
+00:00:10.350 --> 00:00:10.880
+Asi que vamos a hacerlo.
+
+00:00:10.890 --> 00:00:14.440
+Creo que es un problema interesante de conversion de unidades para
+
+00:00:14.440 --> 00:00:17.010
+practicamente todo el mundo que quiera practicar conversion de unidades
+
+00:00:17.010 --> 00:00:19.560
+La cuestion es que tenemos un doctor.
+
+00:00:19.570 --> 00:00:23.740
+El doctor ordena una medicina x.
+
+00:00:27.050 --> 00:00:29.780
+Y esta es la dosis que el doctor requiere.
+
+00:00:29.780 --> 00:00:39.530
+El pide 5 mg por libra de peso del paciente
+
+00:00:39.530 --> 00:00:46.780
+cada 12 horas.
+
+00:00:46.790 --> 00:00:48.700
+Esto es lo que se supone que hagamos.
+
+00:00:48.710 --> 00:00:58.130
+Pero nuestro suministro no esta solo en
+
+00:00:58.140 --> 00:00:59.430
+pastillas y mg.
+
+00:00:59.430 --> 00:01:00.340
+Hay una solucion.
+
+00:01:00.350 --> 00:01:04.200
+Hay una cierta cantidad de gramos en cada mililitro
+
+00:01:04.200 --> 00:01:05.330
+que tenemos de la solucion.
+
+00:01:05.340 --> 00:01:08.180
+Eso se disuelve en agua.
+
+00:01:08.180 --> 00:01:11.020
+Asi que esto es nuestro suministro de medicina x.
+
+00:01:14.750 --> 00:01:18.060
+Tenemos 0.9. Voy a escribir un 0 al frente.
+
+00:01:18.060 --> 00:01:20.590
+Mi esposa, quien es doctora, dice que es esencial escribir
+
+00:01:20.590 --> 00:01:21.980
+el 0 en frente del decimal.
+
+00:01:21.980 --> 00:01:29.910
+Tenemos 0.9 gramos por mL de solucion.
+
+00:01:29.920 --> 00:01:32.820
+Asi que si tomamos 1mL de mi solucion
+
+00:01:32.820 --> 00:01:35.410
+y se lo damos a alguien, esencialmente le estamos dando
+
+00:01:35.420 --> 00:01:38.900
+0.9g de esta medicina.
+
+00:01:38.900 --> 00:01:44.950
+Y la parte final de informacion que nos dan es que
+
+00:01:44.950 --> 00:01:51.300
+el paciente pesa y tal vez debamos decir su masa
+
+00:01:51.310 --> 00:01:53.720
+porque kg es masa, pero captan la idea.
+
+00:01:53.730 --> 00:01:56.790
+El paciente tiene 72.7 kg.
+
+00:02:01.590 --> 00:02:03.090
+Asi que hay un par de cosas interesantes aqui.
+
+00:02:03.090 --> 00:02:06.040
+Tenemos que averiguar la dosis en terminos de mL.
+
+00:02:06.040 --> 00:02:07.750
+Tenemos que--oh, en realidad no les he dicho
+
+00:02:07.760 --> 00:02:08.580
+la pregunta.
+
+00:02:08.580 --> 00:02:11.060
+La pregunta es, ¿cuantos mL de solucion
+
+00:02:11.060 --> 00:02:15.490
+tenemos que darle al paciente por dosis?
+
+00:02:15.500 --> 00:02:23.410
+Asi que los mL de solucion por dosis.
+
+00:02:23.410 --> 00:02:24.740
+Esa es nuestra pregunta.
+
+00:02:24.750 --> 00:02:25.430
+Y hay un par de cosas.
+
+00:02:25.430 --> 00:02:29.000
+Tenemos que convertir de mg a g.
+
+00:02:29.000 --> 00:02:31.280
+Y eso convertirlo a mL.
+
+00:02:31.280 --> 00:02:33.520
+Y ellos nos dicen por libra, pero nos dieron
+
+00:02:33.530 --> 00:02:36.470
+el peso del paciente, o su masa, en kg.
+
+00:02:36.470 --> 00:02:37.820
+Asi que tenemos que hacer una conversion ahi.
+
+00:02:37.830 --> 00:02:41.240
+Asi que podemos apreciar como esto puede ser un poco
+
+00:02:41.250 --> 00:02:42.900
+confuso a veces.
+
+00:02:42.900 --> 00:02:45.090
+Asi que hagamos lo paso por paso.
+
+00:02:45.090 --> 00:02:47.430
+La primera cosa interesante y esto es solo
+
+00:02:47.440 --> 00:02:49.200
+algo que pudieras tener que saber o que ya tienes
+
+00:02:49.210 --> 00:02:52.240
+escrito en papel o puede que tengas una calculadora que
+
+00:02:52.250 --> 00:02:55.610
+haga esto--es como convertir de kg a lbs.
+
+00:02:55.610 --> 00:02:57.750
+Y es bueno en general, si estas convirtiendo
+
+00:02:57.750 --> 00:03:00.560
+entre el sistema metrico y el ingles.
+
+00:03:00.560 --> 00:03:05.510
+Pues 1 kg es aproximadamente 2.2 lbs.
+
+00:03:05.520 --> 00:03:08.520
+No exactamente, pero es una buena aproximacion.
+
+00:03:08.520 --> 00:03:12.860
+Y una libra si sacas el inverso de eso
+
+00:03:12.870 --> 00:03:18.550
+es aproximadamente 0.45 kg
+
+00:03:18.550 --> 00:03:19.950
+Asi que ponemos esto en una caja.
+
+00:03:19.960 --> 00:03:23.240
+Esto es la unica informacion externa que
+
+00:03:23.250 --> 00:03:24.630
+necesitaremos para hacer este problema.
+
+00:03:24.630 --> 00:03:26.890
+Todo lo demas, necesitaremos una calculadora, a menos
+
+00:03:26.900 --> 00:03:29.560
+que queramos dedicar mucho tiempo haciendo arimetica.
+
+00:03:29.560 --> 00:03:30.200
+Asi que lo primero.
+
+00:03:30.210 --> 00:03:34.490
+Vamos a averiguar nuestra dosis en terminos de por kg.
+
+00:03:34.500 --> 00:03:36.960
+Esto es por libra, y realmente no necesitamos
+
+00:03:36.960 --> 00:03:38.200
+saber cada doce horas.
+
+00:03:38.210 --> 00:03:41.330
+Porque nos dicen, ¿cuantos mL de solucion
+
+00:03:41.330 --> 00:03:42.950
+damos por dosis?
+
+00:03:42.960 --> 00:03:45.240
+Una dosis es cada 12 horas.
+
+00:03:45.240 --> 00:03:47.690
+Asi que realmente, el cada 12 horas es un poco
+
+00:03:47.690 --> 00:03:48.730
+de informacion extra.
+
+00:03:48.740 --> 00:03:52.720
+Asi que tenemos que averiguar estos 5 mg por lb.
+
+00:03:52.720 --> 00:03:57.090
+¿Como convertimos eso a cuantos mg por kg?
+
+00:03:57.100 --> 00:04:01.170
+Asi que hagamos 5. Voy a escribir en magenta
+
+00:04:01.180 --> 00:04:06.180
+5mg por lb.
+
+00:04:06.180 --> 00:04:08.900
+Y entonces queremos convertir esto a por kg.
+
+00:04:08.900 --> 00:04:12.590
+Asi que podemos multiplicar esto por el numero de libras por
+
+00:04:12.590 --> 00:04:15.820
+kg. Lo hare en amarillo. Multiplicado
+
+00:04:15.830 --> 00:04:17.540
+por esta informacion aqui.
+
+00:04:17.550 --> 00:04:25.300
+Por 2.2 lbs por kg.
+
+00:04:25.300 --> 00:04:27.750
+Y si te confundes, ¿sabes como Sal supo
+
+00:04:27.750 --> 00:04:31.780
+multiplicar por 2.2 en lugar de dividir?
+
+00:04:31.790 --> 00:04:34.350
+Lo que es lo mismo que multiplicar por 0.5.
+
+00:04:34.360 --> 00:04:37.290
+Tienes que poner atencion a las unidades.
+
+00:04:37.300 --> 00:04:40.230
+Nota que yo escribi 2.2 lbs por kg.
+
+00:04:40.230 --> 00:04:42.910
+2.2 lbs/1kg.
+
+00:04:42.910 --> 00:04:45.810
+Y sabes que va a funcionar porque tienes lb en
+
+00:04:45.810 --> 00:04:48.180
+el numerador y tienes lb en el denominador.
+
+00:04:48.180 --> 00:04:50.420
+Se llama analisis dimensional.
+
+00:04:50.430 --> 00:04:53.490
+Si te confundes con esto y creo
+
+00:04:53.500 --> 00:04:55.560
+que con suficiente practica, te daras cuenta que no
+
+00:04:55.560 --> 00:04:56.890
+tienes que prestar mucha atencion a esto.
+
+00:04:56.890 --> 00:04:58.240
+Pero al principio, cuando estas empezando, solo para
+
+00:04:58.250 --> 00:05:00.360
+asegurarnos que no estas multiplicando o dividiendo mal
+
+00:05:00.360 --> 00:05:02.250
+asegurate que las dimensiones cancelen.
+
+00:05:02.250 --> 00:05:05.310
+Lbs en el numerador, lbs en el denominador.
+
+00:05:05.310 --> 00:05:06.350
+Asi que hagamos eso.
+
+00:05:06.360 --> 00:05:10.110
+Lbs en el numerador y lbs en el denominador cancelan.
+
+00:05:10.110 --> 00:05:12.540
+Y multiplicas 5 por 2.2.
+
+00:05:15.970 --> 00:05:20.280
+Eso es igual a
+
+00:05:20.290 --> 00:05:22.850
+5 por 2 es 10.
+
+00:05:22.850 --> 00:05:24.840
+5 por 0.2 es 1.
+
+00:05:24.840 --> 00:05:27.130
+Asi que esto es igual a 11.
+
+00:05:27.130 --> 00:05:30.320
+Y en el numerador tenemos mg.
+
+00:05:30.330 --> 00:05:35.290
+11 mg/kg
+
+00:05:35.300 --> 00:05:39.160
+Asi que hemos convertido la informacion de la dosis
+
+00:05:39.160 --> 00:05:40.880
+a un sistema puramente metrico
+
+00:05:40.880 --> 00:05:42.750
+Antes, era una mezcla entre sistema metrico
+
+00:05:42.760 --> 00:05:44.170
+e ingles.
+
+00:05:44.180 --> 00:05:45.190
+Ahora veamos que podemos hacer.
+
+00:05:45.190 --> 00:05:48.120
+Bueno, vemoas si podemos ponerlo en terminos de cuanto
+
+00:05:48.130 --> 00:05:51.440
+mL tenemos que dar por lb.
+
+00:05:51.450 --> 00:05:53.650
+Una vez mas, queremos esto, bueno, en realidad, vamos
+
+00:05:53.660 --> 00:05:54.990
+a los gramos primero.
+
+00:05:55.000 --> 00:05:56.180
+Porque tenemos mg aqui.
+
+00:05:56.180 --> 00:05:57.300
+Tenemos gramos aqui arriba.
+
+00:05:57.310 --> 00:06:00.570
+Asi que veamos si podemos convertir esto a gramos.
+
+00:06:00.570 --> 00:06:02.760
+Igual que hicimos antes, queremos mg
+
+00:06:02.770 --> 00:06:04.730
+en el denominador.
+
+00:06:04.740 --> 00:06:06.020
+Lo hare en naranja.
+
+00:06:06.020 --> 00:06:08.470
+Queremos mg en el denominador y queremos
+
+00:06:08.480 --> 00:06:10.230
+1 gramo en el numerador.
+
+00:06:10.230 --> 00:06:11.110
+¿Por que digo eso?
+
+00:06:11.120 --> 00:06:13.180
+Porque quiero que esto y esto cancele.
+
+00:06:13.180 --> 00:06:15.050
+Y quiero gramos en el numerador.
+
+00:06:15.050 --> 00:06:18.270
+Asi que, ¿cuantos gramos hay por mg?
+
+00:06:18.270 --> 00:06:19.170
+Piensalo.
+
+00:06:19.180 --> 00:06:23.500
+Hay 1g/1000mg
+
+00:06:23.500 --> 00:06:26.150
+O 1000mg/1g
+
+00:06:26.160 --> 00:06:28.320
+Y lo multiplicas.
+
+00:06:28.320 --> 00:06:32.150
+Asi que mg cancela con mg y entonces
+
+00:06:32.160 --> 00:06:38.330
+tenemos que esto es igual a 11g/1000kg
+
+00:06:42.040 --> 00:06:44.790
+Asi que tenemos todo en terminos de gramo pero queremos
+
+00:06:44.790 --> 00:06:46.050
+en terminos de mL.
+
+00:06:46.060 --> 00:06:48.190
+La pregunta es, ¿cuantos mL de
+
+00:06:48.190 --> 00:06:49.760
+solucion por dosis?
+
+00:06:49.770 --> 00:06:52.870
+Asi que vamos aqui.
+
+00:06:52.870 --> 00:06:56.370
+Tenemos este resultado.
+
+00:06:56.380 --> 00:07:01.630
+Tenemos 11/1000 no hare la division todavia--gramos
+
+00:07:01.630 --> 00:07:04.920
+de medicina x por kg.
+
+00:07:04.930 --> 00:07:08.240
+Esto es solo--acabamos de reescribir
+
+00:07:08.250 --> 00:07:11.100
+la informacion de dosis en unidades diferentes.
+
+00:07:11.100 --> 00:07:14.820
+Asi que veamos cuanta solucion necesitamos por kg
+
+00:07:14.820 --> 00:07:18.880
+Asi que quiero cancelar los gramos aqui y tenemos
+
+00:07:18.890 --> 00:07:19.910
+mL aqui.
+
+00:07:19.920 --> 00:07:21.790
+Asi que para cancelar esos gramos, tendre que
+
+00:07:21.790 --> 00:07:24.970
+poner un gramo en el denominador y mL en el numerador.
+
+00:07:29.770 --> 00:07:34.440
+Asi que en nuestra solucion, ¿cuantos gramos hay por mL?
+
+00:07:34.440 --> 00:07:35.060
+Bueno, nos dijeron.
+
+00:07:35.070 --> 00:07:38.260
+Hay 0.9 g/mL
+
+00:07:38.270 --> 00:07:44.560
+O por cada 1 mL, hay 0.9g.
+
+00:07:44.560 --> 00:07:45.930
+Nota que acabo de tomar el inverso de eso.
+
+00:07:45.940 --> 00:07:48.500
+Porque queremos mL en el numerador y gramos en
+
+00:07:48.500 --> 00:07:50.780
+el denominador, para que estos dos cancelen.
+
+00:07:50.790 --> 00:07:52.800
+Ahora multiplicamos.
+
+00:07:52.810 --> 00:07:54.370
+Y nuestros gramos cancelan.
+
+00:07:54.370 --> 00:07:55.810
+Y tenemos mL por kg.
+
+00:08:00.700 --> 00:08:01.900
+Y lo multiplicamos.
+
+00:08:01.910 --> 00:08:05.780
+11/1000 por 1/0.9.
+
+00:08:05.790 --> 00:08:08.100
+Asi que solo lo escribimos asi.
+
+00:08:08.100 --> 00:08:17.390
+Vamos a tener 11/1000 por 0.9 mL de
+
+00:08:17.390 --> 00:08:19.840
+nuestra solucion por kg.
+
+00:08:19.850 --> 00:08:21.410
+Asi que hemos llegado hasta aqui.
+
+00:08:21.410 --> 00:08:24.240
+Asi que esto es por kg del peso del paciente.
+
+00:08:24.250 --> 00:08:27.070
+Y finalmente, nos dicen cuantos kg
+
+00:08:27.070 --> 00:08:28.010
+nuestro paciente pesa.
+
+00:08:28.020 --> 00:08:30.190
+Asi que hagamos esa ultima multiplicacion y podemos
+
+00:08:30.190 --> 00:08:33.220
+sacar nuestra calculadora y hacerlo todo de una vez.
+
+00:08:33.230 --> 00:08:36.130
+Multiplicamos esto y queremos saber cuantos
+
+00:08:36.130 --> 00:08:38.310
+mL por paciente.
+
+00:08:38.320 --> 00:08:40.280
+Queremos que los kg cancelen.
+
+00:08:40.280 --> 00:08:44.320
+Porque queremos kg por paciente.
+
+00:08:44.330 --> 00:08:46.140
+Ahora hablamos de un paciente particular.
+
+00:08:46.140 --> 00:08:48.240
+No todos los pacientes van a ser el mismo
+
+00:08:48.250 --> 00:08:49.390
+numero de kg.
+
+00:08:49.390 --> 00:08:51.710
+Pero si hacemos esto, kg cancelan.
+
+00:08:51.720 --> 00:08:54.620
+Tenemos mL por paciente--mL de
+
+00:08:54.620 --> 00:08:58.360
+solucion por paciente--que es exactamente lo queremos.
+
+00:08:58.370 --> 00:09:00.850
+Queremos mL de solucion por dosis por paciente.
+
+00:09:00.850 --> 00:09:03.960
+Pero todo lo que hemos asumido ha sido por dosis.
+
+00:09:03.960 --> 00:09:06.640
+Entonces, ¿cuantos kg pesa el paciente?
+
+00:09:06.640 --> 00:09:12.080
+Pues, pesa 72.7kg.
+
+00:09:12.090 --> 00:09:13.660
+Eso ponemos.
+
+00:09:13.660 --> 00:09:15.700
+Hacemos esta ultima multiplicacion y
+
+00:09:15.710 --> 00:09:16.290
+estamos listos.
+
+00:09:16.290 --> 00:09:18.960
+Asi que nuestra respuesta y estas dos cosas van a cancelar
+
+00:09:18.970 --> 00:09:24.720
+para que nuestra respuesta sea 11 * 72.7
+
+00:09:24.720 --> 00:09:28.720
+dividido entre 100--en realidad 100 por 0.9 es
+
+00:09:28.730 --> 00:09:29.790
+facil de calcular
+
+00:09:29.790 --> 00:09:31.070
+Eso es 900.
+
+00:09:31.080 --> 00:09:35.150
+Dividido por 900 mL por paciente.
+
+00:09:35.150 --> 00:09:37.580
+O puedes decir mL por dosis.
+
+00:09:37.590 --> 00:09:38.500
+Como quieras decirlo.
+
+00:09:38.500 --> 00:09:39.460
+Por dosis por paciente.
+
+00:09:39.470 --> 00:09:41.720
+Sacamos la calculadora y hacemos esto.
+
+00:09:41.720 --> 00:09:54.910
+Asi que tenemos 11 por 72.7 es igual a 799 dividido por 900.
+
+00:09:54.910 --> 00:09:58.070
+Es igual a 0.88--bueno podemos redondear eso.
+
+00:09:58.080 --> 00:09:59.360
+0.889.
+
+00:09:59.370 --> 00:10:00.690
+Con suerte al doctor no le va a importar.
+
+00:10:00.690 --> 00:10:04.440
+Eso es igual a--lo voy a escribir en un buen color
+
+00:10:04.450 --> 00:10:14.830
+0.889 mL de solucion por dosis.
+
+00:10:14.840 --> 00:10:17.130
+Asi que esto es lo que le vamos a dar cada 12 horas.
+
+00:10:17.130 --> 00:10:19.520
+Si preguntan, ¿cuantos mL totales por el transcurso
+
+00:10:19.530 --> 00:10:21.010
+de dos dias?
+
+00:10:21.010 --> 00:10:22.530
+Decimos, oh, pues hay 48.
+
+00:10:22.540 --> 00:10:23.910
+Multiplicariamos por 4.
+
+00:10:23.910 --> 00:10:26.250
+Pero esas 12 horas fue informacion extra para este problema.
+
+00:10:26.250 --> 00:10:32.750
+En todo caso, espero que esto sea util y asegure que
+
+00:10:32.750 --> 00:10:35.710
+las enfermeras que me atiendan en el futuro me den
+
+00:10:35.720 --> 00:10:37.030
+my dosis correcta.
+
+00:10:37.030 --> 00:10:40.480
+Y espero, que el doctor asigne la dosis correcta para empezar
+
+00:10:40.490 --> 00:10:42.050
+porque sino, todo esto ha sido en vano.
+
+00:10:42.050 --> 00:10:43.350
+En todo caso.

@@ -1,0 +1,504 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.090 --> 00:00:04.100
+Bueno, bievenido otra vez! Voy a mostrarte ahora las dos últimas propiedades de los logaritmos.
+
+00:00:04.100 --> 00:00:04.890
+Entonces esta--
+
+00:00:04.900 --> 00:00:08.560
+y siempre encuentro que ésta es la más obvia en cierta forma.
+
+00:00:08.560 --> 00:00:11.440
+Pero no te sientas mal si no es obvia.
+
+00:00:11.450 --> 00:00:13.110
+Quizá te tomará un poco de instrospección.
+
+00:00:13.120 --> 00:00:15.690
+Y quiero que te animes a experimentar con estas propiedades de logaritmos,
+
+00:00:15.690 --> 00:00:18.210
+porque esa es la única forma que podrás aprender de verdad.
+
+00:00:18.220 --> 00:00:21.350
+Y el punto de las matemáticas no es de sólo pasar el siguiente examen,
+
+00:00:21.350 --> 00:00:22.470
+o de ganarse una A en el siguiente examen.
+
+00:00:22.490 --> 00:00:24.840
+El punto de las matemáticas es el de entender matemáticas
+
+00:00:24.850 --> 00:00:26.400
+de manera que la puedas aplicar realmente más tarde en la vida
+
+00:00:26.400 --> 00:00:29.980
+y no tener que volver a aprender todo cada vez.
+
+00:00:29.990 --> 00:00:31.260
+Asi que la próxima propiedad del logaritmo es
+
+00:00:31.270 --> 00:00:43.070
+si tengo A multiplicado por el logaritmo en base B de C, si tengo A multiplicado por toda esta cosa,
+
+00:00:43.070 --> 00:00:59.160
+entonces eso es igual al logaritmo en base B de C elevado a la A.
+
+00:00:59.170 --> 00:01:00.520
+Facinante.
+
+00:01:00.530 --> 00:01:02.290
+Asi que veamos si esto funciona.
+
+00:01:02.290 --> 00:01:17.210
+Digamos que si tenemos 3 multiplicado por el logaritmo en base 2 de 8,
+
+00:01:17.210 --> 00:01:18.850
+entonces esta propiedad nos dice que esto
+
+00:01:18.860 --> 00:01:30.240
+va a ser lo mismo que el logaritmo en base 2 de 8 elevado a la 3.
+
+00:01:30.250 --> 00:01:32.200
+Y eso es la misma cosa.
+
+00:01:32.200 --> 00:01:38.150
+Bueno, eso es la misma cosa como--podemos averiguarlo.
+
+00:01:38.150 --> 00:01:39.490
+Entonces veamos lo que es esto.
+
+00:01:39.500 --> 00:01:43.480
+3 multiplicado por el logaritmo en base--cual es el logaritmo en base 2 de 8?
+
+00:01:43.480 --> 00:01:45.540
+La razón por la que yo como que dudé un segundo antes es
+
+00:01:45.540 --> 00:01:48.060
+porque cada vez que quiero averiguar algo,
+
+00:01:48.060 --> 00:01:52.770
+implicitamente quiero usar las reglas de logaritmos y exponentes.
+
+00:01:52.780 --> 00:01:54.200
+Entonces estoy tratando de evitar eso.
+
+00:01:54.200 --> 00:01:55.660
+De todas maneras, regresando,
+
+00:01:55.670 --> 00:01:57.350
+Qué es esto?
+
+00:01:57.350 --> 00:01:58.537
+2 elevado a qué potencia es 8?
+
+00:01:58.537 --> 00:02:00.550
+2 elevado a la 3 es 8, cierto?
+
+00:02:00.560 --> 00:02:01.880
+Entonces eso es 3.
+
+00:02:01.890 --> 00:02:05.060
+Tenemos este 3 aquí, entonces 3 multiplicado por 3.
+
+00:02:05.060 --> 00:02:09.310
+Entonces esta cosa aquí debería ser igual a 9.
+
+00:02:09.310 --> 00:02:10.690
+Si esto es igual a 9,
+
+00:02:10.690 --> 00:02:12.960
+entonces sabemos que esta propiedad funciona por lo menos en este ejemplo.
+
+00:02:12.960 --> 00:02:14.570
+Tú no sabes si funciona en otros ejemplos,
+
+00:02:14.580 --> 00:02:18.620
+y por eso quizá quisieras mirar la prueba que tenemos en otros videos.
+
+00:02:18.620 --> 00:02:20.960
+Pero eso es como un tema más avanzado.
+
+00:02:20.960 --> 00:02:24.480
+Pero lo importante primero es el entender como se usa.
+
+00:02:24.490 --> 00:02:27.770
+Veamos, qué es 2 elevado a la 9?
+
+00:02:27.770 --> 00:02:29.240
+Bueno va a ser algún número grande.
+
+00:02:29.250 --> 00:02:32.740
+Realmente, sé lo que es--es 256.
+
+00:02:32.740 --> 00:02:34.890
+Porque en el último video dedujimos que 2 a la
+
+00:02:34.900 --> 00:02:38.110
+8 era igual a 256.
+
+00:02:38.110 --> 00:02:43.170
+Entonces 2 a la 9 debería ser 512.
+
+00:02:43.180 --> 00:02:44.880
+Entonces 2 a la 9 debería ser 512.
+
+00:02:44.880 --> 00:02:50.810
+Entonces si 8 a la 3 es también 512 entonces estamos bien, cierto?
+
+00:02:50.810 --> 00:02:57.770
+Porque el logaritmo en base 2 de 512 va a ser igual a 9.
+
+00:02:57.780 --> 00:02:58.680
+Qué es 8 a la 3?
+
+00:02:58.680 --> 00:03:00.640
+Es 64--correcto.
+
+00:03:00.650 --> 00:03:05.430
+8 al cuadrado es 64, entonces 8 al cubo--veamos,
+
+00:03:05.430 --> 00:03:07.730
+4 multiplicado por 2 es 3.
+
+00:03:07.740 --> 00:03:10.410
+6 multiplicado por 8--parece que es 512.
+
+00:03:10.410 --> 00:03:12.140
+Correcto.
+
+00:03:12.150 --> 00:03:13.650
+Y hay otras formas en que podrías haberlo hecho.
+
+00:03:13.650 --> 00:03:15.550
+Porque podrías haber dicho 8 a la 3
+
+00:03:15.560 --> 00:03:16.940
+es la misma cosa que 2 a la 9.
+
+00:03:16.940 --> 00:03:18.120
+Como sabemos eso?
+
+00:03:18.130 --> 00:03:20.630
+Bueno, 8 a la 3
+
+00:03:20.630 --> 00:03:25.230
+es igual que 2 a la 3 a la 3, cierto?
+
+00:03:25.240 --> 00:03:28.020
+Justo reescribi 8.
+
+00:03:28.030 --> 00:03:31.290
+Y sabemos por nuestras reglas de exponentes que 2 a la 3 a la 3
+
+00:03:31.290 --> 00:03:35.280
+es la misma cosa que 2 a la 9.
+
+00:03:35.280 --> 00:03:39.140
+Y realmente es esta propiedad del exponente, donde puedes multiplicar--
+
+00:03:39.150 --> 00:03:41.380
+cuando tomas algo al exponente y luego tomas eso a un exponente,
+
+00:03:41.400 --> 00:03:44.000
+y puedes esencialmente justo multiplicar los exponentes--
+
+00:03:44.020 --> 00:03:50.630
+esa es la propiedad del exponente la que realmente nos lleva a la propiedad del logaritmo.
+
+00:03:50.650 --> 00:03:54.080
+Pero no voy a insistir esto demasiado en esta presentación.
+
+00:03:54.090 --> 00:03:58.450
+Hay todo un video que como que lo dice un poco más formalmente.
+
+00:03:58.460 --> 00:04:01.820
+La siguiente propiedad de los logaritmos que te voy a mostar--
+
+00:04:01.830 --> 00:04:04.580
+y luego revisaré todo y quizá ponga algunos ejemplos.
+
+00:04:04.580 --> 00:04:11.570
+Este es probablemente la propiedad de logaritmos más útil, si estás enviciado a las calculadoras.
+
+00:04:11.570 --> 00:04:13.690
+Y te mostraré por qué.
+
+00:04:13.690 --> 00:04:26.380
+Entonces digamos que tengo que el logaritmo en base B de A
+
+00:04:26.390 --> 00:04:40.470
+es igual al logaritmo en base C de A dividido por el logaritmo en base C de B.
+
+00:04:40.480 --> 00:04:45.210
+Ahora, por qué esta propiedad es útil si eres un enviciado a las calculadoras?
+
+00:04:45.210 --> 00:04:48.340
+Bueno, digamos que vas a clase y tienes un examen.
+
+00:04:48.350 --> 00:04:51.160
+El profesor dice, puedes usar la calculadora,
+
+00:04:51.160 --> 00:05:03.380
+y usando tu calculadora quiero que descubras el logaritmo en base 17 de 357.
+
+00:05:03.380 --> 00:05:08.460
+Y te enredas buscando el botón del logaritmo en base 17 en tu calculadora,
+
+00:05:08.470 --> 00:05:09.520
+y no lo encuentras.
+
+00:05:09.520 --> 00:05:14.140
+Porque no hay un botón en la calculadora para el logaritmo en base 17.
+
+00:05:14.140 --> 00:05:17.400
+Probablemente tendrás un boton de log
+
+00:05:17.410 --> 00:05:19.040
+o un botón de ln.
+
+00:05:19.050 --> 00:05:21.800
+Y para que tú sepas, el boton log de tu calculadora
+
+00:05:21.800 --> 00:05:24.510
+es probablemente en base 10.
+
+00:05:24.510 --> 00:05:28.460
+Y tu botón ln en tu calculadora
+
+00:05:28.470 --> 00:05:29.550
+va a ser en base e.
+
+00:05:29.560 --> 00:05:31.730
+Para aquellos que no están familiarizados con e, no se preocupen
+
+00:05:31.730 --> 00:05:34.070
+que es 2.71 algo, algo,
+
+00:05:34.070 --> 00:05:35.030
+es un número.
+
+00:05:35.040 --> 00:05:40.870
+Es un número increíble, pero hablaremos más de eso en una presentación en el futuro.
+
+00:05:40.870 --> 00:05:44.570
+Pero solo hay dos bases que tienes en tu calculadora.
+
+00:05:44.570 --> 00:05:48.360
+Si quieres hallar otra base de logaritmos,
+
+00:05:48.370 --> 00:05:50.010
+usas esta propiedad.
+
+00:05:50.010 --> 00:05:53.160
+Así que si te dan esto en un examen,
+
+00:05:53.170 --> 00:05:57.540
+puedes con mucha confianza decir, oh, bueno eso es lo mismo que --
+
+00:05:57.540 --> 00:06:01.880
+tendrías que cambiar a tu color amarillo para actuar con seguridad--
+
+00:06:01.880 --> 00:06:05.650
+logaritmo en base--podrías usar ya sea e o 10.
+
+00:06:05.660 --> 00:06:11.280
+Podríamos decir que es la misma cosa que logaritmo en base 10 de 357
+
+00:06:11.290 --> 00:06:15.800
+dividido por el logaritmo en base 10 de 17.
+
+00:06:15.810 --> 00:06:19.740
+Así que literalmente podrías solo escribir 357 en tu calculadora
+
+00:06:19.740 --> 00:06:20.420
+y presionar el botón log
+
+00:06:20.420 --> 00:06:22.220
+y vas a obtener bla, bla, bla.
+
+00:06:22.230 --> 00:06:23.220
+Entonces, tú sabes, puedes borrarlo,
+
+00:06:23.220 --> 00:06:25.530
+o si sabes cómo usar los paréntesis en tu calculadora, podrías hacer eso.
+
+00:06:25.540 --> 00:06:28.220
+Pero luego escribes 17 en tu calculadora,
+
+00:06:28.220 --> 00:06:29.520
+presionas el botón log, obtienes bla, bla, bla.
+
+00:06:29.520 --> 00:06:31.390
+Y luego los divides, y obtienes tu respuesta.
+
+00:06:31.390 --> 00:06:37.360
+Entonces esto es una propiedad super útil para los enviciados a las calculadoras.
+
+00:06:37.370 --> 00:06:40.920
+Y una vez más, no voy a ir en mucha profundidad.
+
+00:06:40.930 --> 00:06:43.690
+Esta, para mi es la más útil,
+
+00:06:43.690 --> 00:06:48.120
+pero no lo es completamente--
+
+00:06:48.120 --> 00:06:50.040
+cabe dentro de, obviamente, las propiedades de exponentes.
+
+00:06:50.050 --> 00:06:53.930
+Pero es difícil para mi describir simplimente la intuición,
+
+00:06:53.930 --> 00:06:55.350
+entonces probablemente querrás observar la prueba,
+
+00:06:55.360 --> 00:06:58.320
+si no crees por qué funciona.
+
+00:06:58.320 --> 00:07:00.130
+Pero de todas maneras, con todas ésas a un lado,
+
+00:07:00.130 --> 00:07:03.120
+y ésta es la que vas a estar usando la mayoría de las veces en tu vida cotidiana.
+
+00:07:03.120 --> 00:07:05.840
+Yo aún la uso en mi trabajo.
+
+00:07:05.850 --> 00:07:09.390
+Sólo para que sepas, los logaritmos son muy útiles.
+
+00:07:09.390 --> 00:07:14.100
+Pongamos algunos ejemplos.
+
+00:07:14.110 --> 00:07:19.220
+Escribamos un grupo de cosas en formas más sencillas.
+
+00:07:19.240 --> 00:07:36.520
+Entonces si quisieras escribir el logaritmo en base 2 de la raiz cuadrada de--
+
+00:07:36.520 --> 00:07:37.850
+pensemos en algo.
+
+00:07:37.860 --> 00:07:50.550
+De 32 dividido por el cubo--no, tomaré más bien la raiz cuadrada.
+
+00:07:50.560 --> 00:07:54.120
+Dividido por la raiz cuadrada de 8.
+
+00:07:54.120 --> 00:07:59.080
+Cómo puedo escribir esto de tal manera que sea razonablemente no muy desordenado?
+
+00:07:59.080 --> 00:08:00.180
+Bueno, pensemos en eso.
+
+00:08:00.190 --> 00:08:04.450
+Esto es lo mismo que, es igual a--
+
+00:08:04.450 --> 00:08:05.790
+No sé, si moviera verticalmente u horizontalmente.
+
+00:08:05.800 --> 00:08:07.310
+Moveré verticalmente.
+
+00:08:07.310 --> 00:08:13.120
+Esto es lo mismo que el logaritmo en base 2 de 32
+
+00:08:13.130 --> 00:08:17.740
+sobre la raiz cuadrada de 8 elevado a la 1/2, cierto?
+
+00:08:17.750 --> 00:08:21.130
+Y sabemos de nuestras propiedades de logaritmos, la tercera que aprendimos,
+
+00:08:21.140 --> 00:08:25.910
+que eso es lo mismo que 1/2
+
+00:08:25.920 --> 00:08:33.830
+multiplicado por el logaritmo de 32 dividido por la raiz cuadrada de 8, cierto?
+
+00:08:33.840 --> 00:08:34.840
+Justamente tomé el exponente
+
+00:08:34.840 --> 00:08:36.570
+e hice ese coeficiente sobre el total.
+
+00:08:36.580 --> 00:08:39.400
+Y aprendimos eso al comienzo de este video.
+
+00:08:39.400 --> 00:08:41.640
+Y ahora tenemos un cociente pequeno aquí, cierto?
+
+00:08:41.640 --> 00:08:45.330
+El logaritmo de 32 dividido por el logaritmo de la raiz de 8.
+
+00:08:45.340 --> 00:08:47.020
+Bueno, podemos usar nuestro otro logaritmo--
+
+00:08:47.020 --> 00:08:49.470
+mantengamos el 1/2 a un lado.
+
+00:08:49.480 --> 00:08:56.470
+Eso va a ser igual, paréntesis, logaritmo--
+
+00:08:56.470 --> 00:08:57.580
+oh, olvidé mi base.
+
+00:08:57.580 --> 00:09:02.480
+Logaritmo en base 2 de 32 menos, cierto?
+
+00:09:02.490 --> 00:09:04.000
+Porque este es el cociente.
+
+00:09:04.000 --> 00:09:11.310
+Menos el logaritmo en base 2 de la raiz cuadrada de 8,
+
+00:09:11.320 --> 00:09:12.650
+cierto?
+
+00:09:12.650 --> 00:09:13.400
+Veamos.
+
+00:09:13.400 --> 00:09:15.860
+Bueno aquí una vez más tenemos la raiz cuadrada aquí,
+
+00:09:15.870 --> 00:09:22.190
+asi que podríamos decir que esto es igual a 1/2 multiplicado por el logaritmo en base 2 de 32
+
+00:09:22.190 --> 00:09:24.560
+Menos este 8 a la 1/2,
+
+00:09:24.560 --> 00:09:28.850
+que es lo mismo que 1/2 el logaritmo en base 2 de 8.
+
+00:09:28.860 --> 00:09:31.380
+Aprendimos esa propiedad al comienzo de esta presentacion.
+
+00:09:31.380 --> 00:09:33.740
+Si entonces queremos, podemos distribuir este 1/2 original.
+
+00:09:33.750 --> 00:09:42.170
+Esto es igual a 1/2 el logaritmo en base 2 de 32 menos 1/4--
+
+00:09:42.170 --> 00:09:43.800
+porque tenemos que distribuir ese 1/2--
+
+00:09:43.800 --> 00:09:46.840
+menos 1/4 el logaritmo en base 2 de 8,
+
+00:09:46.850 --> 00:09:52.490
+Esto es 5 medios menos, este es 3,
+
+00:09:52.500 --> 00:09:55.120
+3 multiplicado por 1/4 menos 3/4.
+
+00:09:55.120 --> 00:09:59.440
+O 10/4 menos 3/4 es igual a 7/4.
+
+00:09:59.440 --> 00:10:03.140
+Probablemente cometí algunos errores aritméticos, pero tú cogiste la idea.
+
+00:10:03.140 --> 00:10:04.720
+Nos vemos pronto!

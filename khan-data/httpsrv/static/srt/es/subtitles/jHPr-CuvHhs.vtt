@@ -1,0 +1,226 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.373 --> 00:00:01.367
+¡Bienvenido!
+
+00:00:01.367 --> 00:00:02.771
+Hablemos de la web,
+
+00:00:02.771 --> 00:00:04.934
+la cosa que estás usando en este momento.
+
+00:00:05.381 --> 00:00:08.550
+La web es el vasta red de computadoras
+conectadas
+
+00:00:08.666 --> 00:00:11.270
+Y ya a partir del 2014, hay literalmente
+
+00:00:11.270 --> 00:00:13.722
+más de un millardo de páginas web.
+
+00:00:13.722 --> 00:00:15.125
+¡Un millardo!
+
+00:00:15.125 --> 00:00:17.152
+Cuando yo era niña solo teníamos un millón
+
+00:00:17.152 --> 00:00:18.858
+y pensábamos que eran cool.
+
+00:00:18.858 --> 00:00:20.569
+¿Para qué usamos las páginas web?
+
+00:00:20.569 --> 00:00:22.190
+Bueno, en el principio los investigadores
+
+00:00:22.190 --> 00:00:24.288
+usaban páginas web para compartir
+sus investigaciones
+
+00:00:24.288 --> 00:00:26.613
+Como colisionadores de 
+partículas de alta energía.
+
+00:00:26.978 --> 00:00:29.975
+Pero ahora todos lo usan para casi todo.
+
+00:00:30.665 --> 00:00:33.491
+Tal vez usar una red social para
+charlar con tu familia,
+
+00:00:33.491 --> 00:00:35.542
+una página web para compartir fotos
+
+00:00:35.542 --> 00:00:37.375
+de tus adorables gatitos.
+
+00:00:37.375 --> 00:00:40.741
+Una página de viaje para decidir a
+donde ir en un viaje exótico,
+
+00:00:40.741 --> 00:00:42.401
+o de noticias para averiguar
+
+00:00:42.401 --> 00:00:44.146
+qué esta pasando en el mundo.
+
+00:00:44.146 --> 00:00:46.047
+Y claro, debes estar usando
+
+00:00:46.047 --> 00:00:48.177
+la pagina web Khan Academy para aprender.
+
+00:00:48.838 --> 00:00:51.359
+Entonces, ¿cuál es tu página favorita?
+
+00:00:52.213 --> 00:00:55.155
+De hecho, tengo una mejor pregunta.
+
+00:00:55.371 --> 00:00:58.816
+¿Qué página desearías que exista,
+pero aún no existe?
+
+00:00:59.401 --> 00:01:01.075
+Tal vez una página web sobre ti
+
+00:01:01.075 --> 00:01:02.885
+o alguien que amas.
+
+00:01:03.347 --> 00:01:06.207
+La cosa cool, es que
+puedes programar una página tu mismo.
+
+00:01:06.500 --> 00:01:08.789
+Y puedes aprender como aquí en
+Khan Academy.
+
+00:01:09.267 --> 00:01:10.988
+Piensa en lo que quieres hacer
+
+00:01:10.988 --> 00:01:13.280
+porque serás capaz de hacerlo muy pronto.
+
+00:01:14.510 --> 00:01:16.080
+Primero, retrocedamos un poco
+
+00:01:16.080 --> 00:01:17.909
+y aclaremos algunas terminologías.
+
+00:01:17.909 --> 00:01:19.935
+¿Qué es la web exactamente?
+
+00:01:20.915 --> 00:01:22.491
+Bueno, como dije, es un manojo
+
+00:01:22.491 --> 00:01:24.896
+de computadoras conectadas que
+tienen páginas web.
+
+00:01:25.369 --> 00:01:27.093
+Cuando una computadora se conecta
+
+00:01:27.093 --> 00:01:28.500
+y muetsra una página web,
+
+00:01:28.500 --> 00:01:31.193
+llamamos a esa computadora un servidor,
+
+00:01:31.193 --> 00:01:33.750
+porque esta sirviendo a la página web.
+
+00:01:34.796 --> 00:01:36.904
+Una página web es escrita
+usando 3 lenguajes,
+
+00:01:36.904 --> 00:01:39.812
+HTML para marcar el contenido de la web,
+
+00:01:39.812 --> 00:01:44.812
+CSS para estilizarlo y JavaScript
+para hacerlo interactivo.
+
+00:01:46.975 --> 00:01:50.434
+¿Cómo usuarios como tú en realidad
+ven esas páginas web?
+
+00:01:51.096 --> 00:01:53.998
+Bueno, tú usas una app hecha para
+navegar la web
+
+00:01:53.998 --> 00:01:56.470
+como Chrome, Firefox o Internet Explorer.
+
+00:01:56.888 --> 00:01:59.196
+Y los llamamos navegadores.
+
+00:01:59.392 --> 00:02:02.052
+Los navegadores intentan que
+todo sea igual,
+
+00:02:02.298 --> 00:02:03.761
+pero tienen sus diferencias,
+
+00:02:03.761 --> 00:02:05.048
+por lo que a veces decimos
+
+00:02:05.048 --> 00:02:08.440
+"Ups, hay un error en el navegador,
+prueba otro".
+
+00:02:09.064 --> 00:02:11.874
+¿Qué navegador estas usando ahora?
+
+00:02:11.874 --> 00:02:13.688
+Tú debes estar usando ese navegador
+
+00:02:13.688 --> 00:02:15.398
+desde algún tipo de dispositivo.
+
+00:02:15.398 --> 00:02:18.672
+Como una laptop, celular, tablet
+o hasta un TV inteligente,
+
+00:02:18.672 --> 00:02:21.600
+y llamamos a esos dispositivos "clientes".
+
+00:02:22.012 --> 00:02:23.860
+Los clientes pueden ser muy diferentes;
+
+00:02:23.860 --> 00:02:25.738
+algunos son más pequeños que otros
+
+00:02:25.738 --> 00:02:28.007
+algunos tienen pantallas táctiles,
+otros teclado,
+
+00:02:28.007 --> 00:02:29.986
+otros están en blanco y negro.
+
+00:02:29.986 --> 00:02:32.135
+Entonces las páginas tienen que trabajar bien
+
+00:02:32.135 --> 00:02:33.966
+en todo tipo de clientes.
+
+00:02:34.382 --> 00:02:36.679
+¿Qué cliente estas usando en este momento?
+
+00:02:37.033 --> 00:02:39.677
+Y esa es la web, en la versión
+de dos minutos.
+
+00:02:39.677 --> 00:02:41.477
+Hay mucho que aprender sobre la web,
+
+00:02:41.477 --> 00:02:42.744
+pero pienso que es el momento justo
+
+00:02:42.744 --> 00:02:47.300
+para empezar a escribir un poco
+de HTML y CSS
+
+00:02:47.300 --> 00:02:51.350
+para hacer tus propias páginas web.

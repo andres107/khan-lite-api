@@ -1,0 +1,723 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.520 --> 00:00:03.090
+Ahora que has tenido un poco de la exposición a lo que un
+
+00:00:03.090 --> 00:00:05.650
+convolución es, puedo presentarles a los
+
+00:00:05.650 --> 00:00:14.900
+Teorema de convolución, o al menos en el contexto de--
+
+00:00:14.900 --> 00:00:17.470
+puede haber otros teoremas de convolución--pero estamos hablando de
+
+00:00:17.470 --> 00:00:20.050
+sobre ecuaciones diferenciales y transformadas de Laplace. Por lo tanto
+
+00:00:20.050 --> 00:00:23.440
+Éste es el teorema de convolución como se aplica a Laplace
+
+00:00:23.440 --> 00:00:27.400
+transforma. Y nos dice que si tengo una función f de
+
+00:00:27.400 --> 00:00:32.259
+t--y yo puedo definir su transformada de Laplace como, vamos a
+
+00:00:32.259 --> 00:00:37.130
+ver, la transformada de Laplace de f de t es capital f de s.
+
+00:00:37.130 --> 00:00:38.660
+Lo hemos hecho antes.
+
+00:00:38.660 --> 00:00:43.580
+Y si tengo otra función, g de t y tomar
+
+00:00:43.580 --> 00:00:50.010
+su transformada de Laplace, que por supuesto es capital g de s.
+
+00:00:50.010 --> 00:00:53.220
+Luego, si tuviéramos que circunvoluciona estas dos funciones, por lo que si me
+
+00:00:53.220 --> 00:00:58.670
+fueron a tomar f y yo a lo circunvolucionan con g, que es
+
+00:00:58.670 --> 00:01:00.990
+va a ser otra función de t--y
+
+00:01:00.990 --> 00:01:02.040
+ya vimos esto.
+
+00:01:02.040 --> 00:01:02.970
+Lo vimos en el último video.
+
+00:01:02.970 --> 00:01:06.860
+Enrevesados seno y coseno.
+
+00:01:06.860 --> 00:01:09.460
+Así que esto va a ser una función de t.
+
+00:01:09.460 --> 00:01:13.350
+Que la transformada de Laplace de esta cosa y esto el quid
+
+00:01:13.350 --> 00:01:18.770
+del teorema, la transformada de Laplace de la convolución
+
+00:01:18.770 --> 00:01:22.860
+de estas dos funciones es igual a los productos de sus
+
+00:01:22.860 --> 00:01:29.030
+De Laplace. Es igual a f de s, el gran capital f de s,
+
+00:01:29.030 --> 00:01:32.970
+tiempos de gran capital g de s.
+
+00:01:32.970 --> 00:01:36.050
+Ahora, esto puede parecer muy abstracto y, sabes,
+
+00:01:36.050 --> 00:01:38.170
+disco duro tipo de manija para usted ahora mismo.
+
+00:01:38.170 --> 00:01:39.830
+Así que vamos a hacer un ejemplo real.
+
+00:01:39.830 --> 00:01:42.260
+Y en realidad, incluso mejor, vamos a hacer una inversa de Laplace
+
+00:01:42.260 --> 00:01:44.870
+transformar con un ejemplo.
+
+00:01:44.870 --> 00:01:46.040
+Y realmente, me deja escribir algo más.
+
+00:01:46.040 --> 00:01:47.950
+Si esto es cierto, entonces podríamos también hacemos al revés.
+
+00:01:47.950 --> 00:01:51.580
+También podríamos decir que f--y yo sólo haré todo en amarillo;
+
+00:01:51.580 --> 00:01:54.200
+me toma demasiado tiempo para mantener cambiar colores--que
+
+00:01:54.200 --> 00:01:58.800
+la convolución de f y g, esto es sólo una función de t,
+
+00:01:58.800 --> 00:02:01.790
+Sólo puedo decir que es la inversa de Laplace.
+
+00:02:01.790 --> 00:02:06.480
+Es simplemente la inversa de Laplace de f de
+
+00:02:06.480 --> 00:02:07.540
+s veces g de s.
+
+00:02:07.540 --> 00:02:08.680
+Aunque yo no pude resistirlo.
+
+00:02:08.680 --> 00:02:09.930
+Permítanme cambiar colores.
+
+00:02:15.020 --> 00:02:16.420
+There you go.
+
+00:02:16.420 --> 00:02:18.570
+Ahora, ¿qué bien hace todo este hacer?
+
+00:02:18.570 --> 00:02:21.510
+Bien, podemos tomar inversa de Laplace. Sólo vamos a
+
+00:02:21.510 --> 00:02:25.760
+decir que yo me había--deja escribirlo aquí--digamos
+
+00:02:25.760 --> 00:02:29.080
+usted dijo que la siguiente expresión o función, vamos a
+
+00:02:29.080 --> 00:02:34.430
+decir que h de s--déjame escribirlo de que esta manera--H de s es igual a
+
+00:02:34.430 --> 00:02:38.510
+2S sobre s squared plus 1.
+
+00:02:38.510 --> 00:02:40.880
+Ahora, hicimos este largo ecuaciones diferenciales en el
+
+00:02:40.880 --> 00:02:42.880
+final, terminamos con esta cosa y tenemos que tomar la
+
+00:02:42.880 --> 00:02:45.170
+inversa de Laplace transformar de la misma.
+
+00:02:45.170 --> 00:02:50.580
+Así que queremos averiguar la transformada inversa de Laplace de h
+
+00:02:50.580 --> 00:02:53.960
+s, o la inversa de Laplace transformar de
+
+00:02:53.960 --> 00:02:55.830
+esta cosa allí.
+
+00:02:55.830 --> 00:03:02.090
+Así que queremos averiguar la inversa de la transformada de Laplace
+
+00:03:02.090 --> 00:03:09.285
+Esta expresión aquí, 2s sobre s squared plus 1 cuadrado.
+
+00:03:09.285 --> 00:03:11.040
+No quiero pierda.
+
+00:03:11.040 --> 00:03:12.170
+Allí.
+
+00:03:12.170 --> 00:03:15.760
+Ahora, podemos escribimos esto como producto de dos Laplace
+
+00:03:15.760 --> 00:03:18.000
+¿transformaciones que conocemos?
+
+00:03:18.000 --> 00:03:19.510
+Vamos a intentar hacerlo.
+
+00:03:19.510 --> 00:03:21.790
+Por lo tanto podemos reescribir esto.
+
+00:03:21.790 --> 00:03:23.965
+Así que esto es la inversa de la transformada de Laplace.
+
+00:03:23.965 --> 00:03:26.880
+Así que permítanme reescribir esta expresión aquí abajo.
+
+00:03:26.880 --> 00:03:34.920
+Así que yo puedo reescribir 2s sobre s squared plus 1 cuadrado.
+
+00:03:34.920 --> 00:03:40.180
+Esto es lo mismo que--me deja escribirlo esta forma--2
+
+00:03:40.180 --> 00:03:51.420
+tiempos 1 sobre s squared plus 1, tiempos de s sobre s squared plus 1.
+
+00:03:51.420 --> 00:03:52.490
+Sólo tipo de me rompió.
+
+00:03:52.490 --> 00:03:54.590
+Si multiplicas los numeradores aquí, obtendrá 2 veces
+
+00:03:54.590 --> 00:03:56.580
+s veces, 1 o 2s.
+
+00:03:56.580 --> 00:03:59.200
+Si usted multiplica los denominadores aquí, s cuadrado
+
+00:03:59.200 --> 00:04:02.920
+más veces, 1 s cuadrado más 1, bueno, eso es justo s cuadrado
+
+00:04:02.920 --> 00:04:04.130
+Plus 1 cuadrado.
+
+00:04:04.130 --> 00:04:05.360
+Así que esto es lo mismo.
+
+00:04:05.360 --> 00:04:07.640
+Así que si queremos tomar la transformada inversa de Laplace transformar de
+
+00:04:07.640 --> 00:04:11.530
+Esto, es lo mismo que tomar la transformada inversa de Laplace
+
+00:04:11.530 --> 00:04:14.650
+transformación de esto aquí.
+
+00:04:14.650 --> 00:04:17.649
+Ahora, esperemos que algo debe comenzar
+
+00:04:17.649 --> 00:04:18.870
+saltando en usted.
+
+00:04:18.870 --> 00:04:22.360
+Si estos fueron separadas de las transformaciones, si estuvieran en
+
+00:04:22.360 --> 00:04:24.470
+sus propias, sabemos lo que es.
+
+00:04:24.470 --> 00:04:28.380
+Si llamamos a este f de s, si dijimos que esto es el Laplace
+
+00:04:28.380 --> 00:04:31.230
+transformar de alguna función, sabemos lo que es esa función.
+
+00:04:31.230 --> 00:04:32.980
+Se trata de esta pieza aquí.
+
+00:04:32.980 --> 00:04:35.020
+Simplemente estoy haciendo una pequeña línea punteada alrededor.
+
+00:04:35.020 --> 00:04:37.810
+Se trata de la transformada de Laplace de seno de t.
+
+00:04:37.810 --> 00:04:41.890
+Y entonces si dibujamos una pequeña caja alrededor de este una derecho
+
+00:04:41.890 --> 00:04:44.560
+aquí, esto es la transformada de Laplace
+
+00:04:44.560 --> 00:04:47.480
+coseno de t, G de s.
+
+00:04:47.480 --> 00:04:51.110
+Así que esta es la transformada de Laplace de seno de t, o nos
+
+00:04:51.110 --> 00:04:55.510
+podría escribir que esto implica que f de t es
+
+00:04:55.510 --> 00:04:58.170
+igual al seno de t.
+
+00:04:58.170 --> 00:05:00.600
+Debe reconocer que uno por ahora.
+
+00:05:00.600 --> 00:05:04.650
+Y esto implica que g de t, si definimos como la
+
+00:05:04.650 --> 00:05:10.650
+Transformada de Laplace de g, esto significa que g de t es igual a
+
+00:05:10.650 --> 00:05:13.770
+coseno de t.
+
+00:05:13.770 --> 00:05:15.170
+Y, por supuesto, cuando usted toma la transformada inversa de Laplace
+
+00:05:15.170 --> 00:05:19.150
+transformaciones, podría tomar la salida de la 2.
+
+00:05:19.150 --> 00:05:21.440
+Ahora, ¿qué podemos decir?
+
+00:05:21.440 --> 00:05:26.170
+Ahora podemos decir que--me deja escribirlo de esta manera--la
+
+00:05:26.170 --> 00:05:28.110
+inversa--por lo que en realidad, me deja escribirlo de esta manera.
+
+00:05:28.110 --> 00:05:30.890
+O, en realidad, una cosa mejor que hacer, en lugar de tomar el 2
+
+00:05:30.890 --> 00:05:33.990
+al revés, así que puedo dejarlo limpio y reluciente, podríamos, si nos
+
+00:05:33.990 --> 00:05:40.220
+dibujar un cuadro alrededor de todo esto, y definir esto
+
+00:05:40.220 --> 00:05:46.470
+todo como f de s, entonces f de s es la transformada de Laplace
+
+00:05:46.470 --> 00:05:48.130
+de seno 2 de t.
+
+00:05:48.130 --> 00:05:49.500
+Sólo quería que incluyen 2.
+
+00:05:49.500 --> 00:05:51.620
+No quería dejar fuera y confundir la cuestión.
+
+00:05:51.620 --> 00:05:55.150
+Quería un muy puro f de s veces g de s.
+
+00:05:55.150 --> 00:05:59.430
+Por lo tanto esta expresión aquí es el producto de la Laplace
+
+00:05:59.430 --> 00:06:04.200
+transformación de seno 2 de t y la transformada de Laplace
+
+00:06:04.200 --> 00:06:05.610
+coseno de t.
+
+00:06:05.610 --> 00:06:11.400
+Ahora, nuestro teorema de convolución nos dijeron esto aquí.
+
+00:06:11.400 --> 00:06:14.510
+Que si queremos tomar la inversa de la transformada de Laplace
+
+00:06:14.510 --> 00:06:17.470
+la de Laplace de funciones dos--sé que suena
+
+00:06:17.470 --> 00:06:19.530
+muy confuso--pero usted sólo tipo de coincidencia de patrón.
+
+00:06:19.530 --> 00:06:21.920
+Dices, OK mira, esto que tuve aquí, he podido
+
+00:06:21.920 --> 00:06:24.690
+reescribirlo como un producto de dos Laplace
+
+00:06:24.690 --> 00:06:26.460
+Yo puedo reconocer las transformaciones.
+
+00:06:26.460 --> 00:06:30.670
+Esto aquí es la transformada de Laplace de seno 2 de t.
+
+00:06:30.670 --> 00:06:33.050
+Se trata de la transformada de Laplace de coseno de t.
+
+00:06:33.050 --> 00:06:36.180
+Y justo escribimos como g de s y f de s.
+
+00:06:36.180 --> 00:06:40.040
+Así que si tengo una expresión escrita como este, puedo tomar
+
+00:06:40.040 --> 00:06:42.440
+la inversa de Laplace y será iguales a la
+
+00:06:42.440 --> 00:06:48.220
+convolución de las funciones originales.
+
+00:06:48.220 --> 00:06:51.830
+Va a ser igual a la de la inversa de la convolución
+
+00:06:51.830 --> 00:06:53.630
+g o la inversa de f.
+
+00:06:53.630 --> 00:06:54.750
+Permítaseme escribirlo de esta manera.
+
+00:06:54.750 --> 00:06:56.810
+Pude escribirlo como este.
+
+00:06:56.810 --> 00:07:03.410
+Sabemos que f de t es igual a la transformada inversa de Laplace
+
+00:07:03.410 --> 00:07:06.080
+transformación de f de s.
+
+00:07:06.080 --> 00:07:09.830
+Y sabemos que g--que debo haber hecho de una manera diferente
+
+00:07:09.830 --> 00:07:14.520
+color, pero me haré g en verde--sabemos que g t es
+
+00:07:14.520 --> 00:07:21.190
+igual a la inversa de la transformada de Laplace de g de s.
+
+00:07:21.190 --> 00:07:24.450
+Así nos podemos reescribir el teorema de convolución como la
+
+00:07:24.450 --> 00:07:27.960
+inversa--y esto tal vez podrían confundir más que ayuda,
+
+00:07:27.960 --> 00:07:30.060
+pero te voy a dar mi mejor tiro.
+
+00:07:30.060 --> 00:07:34.550
+La transformada inversa de Laplace de--y voy a intentar permanecer verdadero
+
+00:07:34.550 --> 00:07:43.480
+a los colores--f veces s que g de s es igual a--estoy
+
+00:07:43.480 --> 00:07:45.220
+sólo reafirmar esta circunvolución
+
+00:07:45.220 --> 00:07:45.690
+Teorema de aquí.
+
+00:07:45.690 --> 00:07:49.910
+Esto es igual a la convolución de la función inversa
+
+00:07:49.910 --> 00:07:52.340
+Transformada de Laplace de f de s.
+
+00:07:52.340 --> 00:07:55.680
+Así que es igual a la convolución de la función inversa
+
+00:07:55.680 --> 00:08:04.620
+Transformada de Laplace de f de s con la transformada inversa de Laplace
+
+00:08:04.620 --> 00:08:06.480
+transformación de g de s.
+
+00:08:06.480 --> 00:08:10.380
+Con la transformada inversa de Laplace transformar de
+
+00:08:10.380 --> 00:08:15.410
+capital G, g de s.
+
+00:08:15.410 --> 00:08:17.740
+No estoy seguro si permite o no, pero si vuelves a
+
+00:08:17.740 --> 00:08:19.160
+en este ejemplo podría.
+
+00:08:19.160 --> 00:08:22.260
+Esto es f de s, esto es f de s aquí.
+
+00:08:22.260 --> 00:08:28.130
+lo haré en la celeste--2 veces--esto es 2 sobre s
+
+00:08:28.130 --> 00:08:29.320
+squared plus 1.
+
+00:08:29.320 --> 00:08:32.460
+Es F de s en nuestro ejemplo.
+
+00:08:32.460 --> 00:08:39.820
+Y la g de s s sobre s squared plus 1.
+
+00:08:39.820 --> 00:08:42.590
+Y todo que tengo que desde que sólo se rompió es esta arriba en dos
+
+00:08:42.590 --> 00:08:43.570
+cosas que reconozco.
+
+00:08:43.570 --> 00:08:46.980
+Si multiplica juntos, recupero a mi cosa original
+
+00:08:46.980 --> 00:08:49.540
+que estaba tratando de tomar la transformada inversa de Laplace de.
+
+00:08:49.540 --> 00:08:52.930
+Y así el teorema de convolución dice que, OK, bueno, el
+
+00:08:52.930 --> 00:08:57.170
+inversa de Laplace de esto es igual a la inversa
+
+00:08:57.170 --> 00:09:05.090
+Transformada de Laplace de 2 sobre s squared plus 1, enrevesados
+
+00:09:05.090 --> 00:09:14.960
+con la transformada inversa de Laplace de nuestro g de s, s
+
+00:09:14.960 --> 00:09:18.430
+sobre s squared plus 1.
+
+00:09:18.430 --> 00:09:20.430
+Y sabemos lo que son estas cosas.
+
+00:09:20.430 --> 00:09:22.900
+Ya les dije a ustedes, pero deben ser un poco
+
+00:09:22.900 --> 00:09:23.700
+segunda naturaleza ahora.
+
+00:09:23.700 --> 00:09:25.650
+Esto es sine 2 veces de t.
+
+00:09:28.720 --> 00:09:31.110
+Tome la transformada de Laplace de seno de t, obtendrá 1 sobre s
+
+00:09:31.110 --> 00:09:33.190
+squared plus 1 y luego se multiplica por 2, obtendrá el
+
+00:09:33.190 --> 00:09:34.260
+2 allí arriba.
+
+00:09:34.260 --> 00:09:37.870
+Y vas a tener que circunvoluciona que con el
+
+00:09:37.870 --> 00:09:39.660
+inversa de Laplace transformar esta cosa aquí.
+
+00:09:39.660 --> 00:09:40.580
+Y ya pasamos por esto.
+
+00:09:40.580 --> 00:09:41.900
+Este es el coseno de t.
+
+00:09:44.670 --> 00:09:49.480
+Por lo que nuestro resultado hasta ahora--permítanme ser muy claro.
+
+00:09:49.480 --> 00:09:52.130
+Siempre es bueno dar un paso atrás y pensar sólo en
+
+00:09:52.130 --> 00:09:55.270
+lo que estamos haciendo, mucho menos por eso que estamos haciendo.
+
+00:09:55.270 --> 00:10:00.960
+Pero vamos a ver, a la inversa de Laplace de este
+
+00:10:00.960 --> 00:10:06.650
+lo arriba en esta parte superior de la esquina, 2s sobre s izquierda cuadrado plus
+
+00:10:06.650 --> 00:10:11.220
+1 al cuadrado, que antes de que hicimos lo que estamos haciendo ahora fue muy
+
+00:10:11.220 --> 00:10:13.740
+difícil figura fuera--de hecho, esto sería una llave
+
+00:10:13.740 --> 00:10:17.620
+aquí, pero usted consigue la idea--es igual a esto.
+
+00:10:17.620 --> 00:10:30.710
+Es igual a 2 seno de t, enrevesado con coseno de t.
+
+00:10:30.710 --> 00:10:32.830
+Y es como la Sal, a lo largo de todo este proceso
+
+00:10:32.830 --> 00:10:34.990
+Ya he olvidado de lo que significa circunvoluciona dos
+
+00:10:34.990 --> 00:10:37.330
+funciona, así que vamos a les circunvoluciona.
+
+00:10:37.330 --> 00:10:39.570
+Y solo voy a escribir la definición o la definición
+
+00:10:39.570 --> 00:10:41.310
+Estamos utilizando de la convolución.
+
+00:10:41.310 --> 00:10:44.370
+F enrevesado con g--va a ser
+
+00:10:44.370 --> 00:10:45.040
+una función de g.
+
+00:10:45.040 --> 00:10:46.350
+Sólo voy a escribir esta breve-mano--es igual a la
+
+00:10:46.350 --> 00:10:51.570
+integral de 0 a t, f de t menos tau,
+
+00:10:51.570 --> 00:10:54.910
+veces g de tau, dtau.
+
+00:10:54.910 --> 00:11:03.280
+Deje 2 seno de t enrevesado con coseno de t es igual a--
+
+00:11:03.280 --> 00:11:09.575
+me do un color neutro--la integral de 0 a t, 2
+
+00:11:09.575 --> 00:11:22.290
+seno de t, menos tau, veces el coseno de tau, dtau.
+
+00:11:22.290 --> 00:11:25.800
+Ahora si visto el último video que hice, yo realmente
+
+00:11:25.800 --> 00:11:29.515
+resuelto esto, o me ha resuelto algo muy parecido a esto.
+
+00:11:29.515 --> 00:11:34.400
+Si tomamos la 2 obtenemos 2 veces, la integral de 0 a
+
+00:11:34.400 --> 00:11:43.090
+t, del seno de t menos tau, veces el coseno de tau.
+
+00:11:43.090 --> 00:11:45.950
+Realmente lo solucioné en el video anterior.
+
+00:11:45.950 --> 00:11:48.490
+Este derecho aquí, esto es la convolución de seno de t y
+
+00:11:48.490 --> 00:11:49.170
+coseno de t.
+
+00:11:49.170 --> 00:11:54.000
+Su seno de t enrevesado con coseno de t.
+
+00:11:54.000 --> 00:11:56.870
+Y solo te muestro en el video anterior, ver ese video,
+
+00:11:56.870 --> 00:11:59.490
+donde presento una convolución, que esta cosa
+
+00:11:59.490 --> 00:12:05.870
+justo aquí es igual a 1/2t sinusoidal de t.
+
+00:12:05.870 --> 00:12:08.460
+Ahora, si esta cosa es igual al seno de t de 1/2 de t, y tengo que
+
+00:12:08.460 --> 00:12:14.750
+multiplica por 2, entonces obtenemos, nuestro gran resultado, que la
+
+00:12:14.750 --> 00:12:21.550
+inversa de Laplace de 2s sobre s squared plus 1
+
+00:12:21.550 --> 00:12:26.170
+cuadrado es igual a la convolución de 2 seno de t
+
+00:12:26.170 --> 00:12:27.480
+con coseno de t.
+
+00:12:27.480 --> 00:12:31.550
+Que es sólo 2 veces esto aquí, que es 2 veces
+
+00:12:31.550 --> 00:12:37.650
+1/2--los cancelación fuera--por lo que es igual a senoidal t de t.
+
+00:12:37.650 --> 00:12:39.470
+Y una vez que obtenga el cuelgue de ella, no tendrás que ir
+
+00:12:39.470 --> 00:12:40.820
+a través de todos estos pasos.
+
+00:12:40.820 --> 00:12:43.760
+Pero la clave es reconocer que esto podía ser dividida
+
+00:12:43.760 --> 00:12:47.800
+como los productos de dos de Laplace que reconoces.
+
+00:12:47.800 --> 00:12:50.160
+Esto podría desglosarse como el producto de dos Laplace
+
+00:12:50.160 --> 00:12:51.840
+transformaciones reconocimos.
+
+00:12:51.840 --> 00:12:53.630
+Se trata de la transformada de Laplace de seno 2 de t.
+
+00:12:53.630 --> 00:12:56.010
+Esta fue la transformada de Laplace de coseno de t.
+
+00:12:56.010 --> 00:12:59.320
+Entonces la transformada inversa de Laplace de nuestro original
+
+00:12:59.320 --> 00:13:02.460
+cosa, o expresión original, es sólo la convolución de
+
+00:13:02.460 --> 00:13:04.760
+con eso.
+
+00:13:04.760 --> 00:13:07.190
+Y si ustedes vieron el video anterior, usted se daría cuenta
+
+00:13:07.190 --> 00:13:10.160
+realmente calcular la convolución no fue simple
+
+00:13:10.160 --> 00:13:11.890
+tarea, pero se puede hacer.
+
+00:13:11.890 --> 00:13:13.840
+Para que realmente pueda obtener una forma integral.
+
+00:13:13.840 --> 00:13:16.200
+Incluso si no se puede hacer, puede obtener su respuesta, al menos,
+
+00:13:16.200 --> 00:13:19.510
+en términos de algunos integral.
+
+00:13:19.510 --> 00:13:22.920
+Así que yo no he comprobado la convolución
+
+00:13:22.920 --> 00:13:23.730
+teorema todavía a usted.
+
+00:13:23.730 --> 00:13:25.260
+Lo haré en un futuro vídeo.
+
+00:13:25.260 --> 00:13:30.540
+Pero esperemos que esto le dio un poco más de un sentido de cómo
+
+00:13:30.540 --> 00:13:33.040
+puede utilizarlo para tomar realmente inversa de Laplace
+
+00:13:33.040 --> 00:13:34.840
+transforma. Y recuerde, la razón de por qué estamos aprendiendo a
+
+00:13:34.840 --> 00:13:37.040
+Tome inversa de Laplace y tenemos todos
+
+00:13:37.040 --> 00:13:40.280
+Estas herramientas para hacerlo, es porque siempre es
+
+00:13:40.280 --> 00:13:42.950
+último paso cuando estás resolviendo estas ecuaciones diferenciales,
+
+00:13:42.950 --> 00:13:45.490
+usando a su Laplace transforma.

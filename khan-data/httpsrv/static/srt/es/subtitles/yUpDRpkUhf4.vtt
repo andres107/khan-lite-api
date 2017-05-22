@@ -1,0 +1,480 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:03.640
+Ahora les voy a mostrar lo que yo creo que son probablemente las dos
+
+00:00:03.640 --> 00:00:06.490
+derivadas más interesantes de todo cálculo
+
+00:00:06.490 --> 00:00:08.680
+Me voy a reservar eso.
+
+00:00:08.680 --> 00:00:10.850
+No se me ocurre ninguna otra en este momento.
+
+00:00:10.850 --> 00:00:13.780
+Pero éstas son definitivamente para mí las más claras.
+
+00:00:13.780 --> 00:00:15.795
+Averiguemos cuál es la derivada del
+
+00:00:15.795 --> 00:00:16.810
+logaritmo natural (ln).
+
+00:00:16.810 --> 00:00:18.530
+Y sólo para repasar, ¿Qué es el logaritmo natural?
+
+00:00:18.530 --> 00:00:23.380
+Bueno, el logaritmo natural de algo es exactamente lo mismo
+
+00:00:23.380 --> 00:00:27.720
+que decir el logaritmo en base e de algo.
+
+00:00:27.720 --> 00:00:28.810
+Eso es sólo un repaso.
+
+00:00:28.810 --> 00:00:30.390
+Entonces, derivemos esto.
+
+00:00:33.440 --> 00:00:35.455
+Creo que voy a necesitar un monton de espacio para esto.
+
+00:00:35.455 --> 00:00:37.430
+Voy a intentar hacerlo lo más claro posible.
+
+00:00:37.430 --> 00:00:47.090
+Entonces, la derivada del logaritmo natural de x es igual a....
+
+00:00:47.090 --> 00:00:49.780
+bueno, tomemos la definición de derivada, ¿no?
+
+00:00:49.780 --> 00:00:53.780
+Sólo tomamos la pendiente en algún punto y hallemos el límite cuando
+
+00:00:53.780 --> 00:00:56.720
+se lleva la diferencia entre los dos puntos a 0.
+
+00:00:56.720 --> 00:01:08.240
+Tomemos el límite cuando delta x se aproxima a 0 de
+
+00:01:08.240 --> 00:01:13.340
+f de x mas delta x.
+
+00:01:13.340 --> 00:01:15.440
+Asi que voy a tomar el límite de todo ésto.
+
+00:01:15.440 --> 00:01:21.450
+El logaritmo natural de x mas delta x --bien, ese es
+
+00:01:21.450 --> 00:01:24.660
+un punto que voy a evaluar en la función--
+
+00:01:24.660 --> 00:01:29.490
+menos el logaritmo natural de x.
+
+00:01:29.490 --> 00:01:31.010
+Todo sobre delta x.
+
+00:01:31.010 --> 00:01:34.250
+Y si recordás de los otros videos de derivadas, esto es
+
+00:01:34.250 --> 00:01:37.670
+la pendiente, y yo sólo estoy hallando el límite mientras busco la pendiente
+
+00:01:37.670 --> 00:01:41.040
+entre distancias cada vez más pequeñas.
+
+00:01:41.040 --> 00:01:42.476
+Espero que recuerdes eso.
+
+00:01:42.476 --> 00:01:44.800
+Entonces veamos si podemos realizar algunas propiedades del logaritmo
+
+00:01:44.800 --> 00:01:46.530
+para simplificarlo un poco.
+
+00:01:46.530 --> 00:01:49.820
+Espero que recuerdes --y si no, revisa las propiedades
+
+00:01:49.820 --> 00:01:57.480
+del logaritmo-- pero recuerda que el logaritmo de a menos el logaritmo de b
+
+00:01:57.480 --> 00:02:02.390
+es igual al logaritmo de a sobre b, y eso sale del hecho de que
+
+00:02:02.390 --> 00:02:04.930
+el logaritmo es escencialmente exponentes, asique siguen
+
+00:02:04.930 --> 00:02:06.710
+las reglas de la función exponencial.
+
+00:02:06.710 --> 00:02:08.180
+Y si eso no tiene sentido para vos, deberías
+
+00:02:08.180 --> 00:02:09.580
+revisarlas tambien.
+
+00:02:09.580 --> 00:02:13.090
+Apliquemos las propiedades del logaritmo a ésta ecuación.
+
+00:02:13.090 --> 00:02:15.110
+Déjame reescribir todo, voy a continuar
+
+00:02:15.110 --> 00:02:17.580
+cambiando de colores para evitar que se torne monótono.
+
+00:02:17.580 --> 00:02:26.780
+Asi que tenemos el límite cuando x se aproxima a 0 de ésta gran cosa.
+
+00:02:26.780 --> 00:02:27.230
+Veamos.
+
+00:02:27.230 --> 00:02:32.060
+Logaritmo de a menos b es igual a logaritmo de a sobre b, asi que éste de arriba
+
+00:02:32.060 --> 00:02:38.120
+,el numerador, va a ser igual al logaritmo natural de x mas
+
+00:02:38.120 --> 00:02:42.270
+delta x sobre x
+
+00:02:42.270 --> 00:02:48.000
+Bien? a b a/b, todo eso sobre delta x
+
+00:02:51.350 --> 00:02:58.090
+Entonces eso equivale al límite cuando delta x se aproxima a 0 --creo que
+
+00:02:58.090 --> 00:03:04.240
+es momento para cambiar de colores nuevamente-- delta x se aproxima a 0
+
+00:03:04.240 --> 00:03:07.025
+de --bueno, permitime escribir este 1 sobre delta x
+
+00:03:07.025 --> 00:03:08.730
+adelante.
+
+00:03:08.730 --> 00:03:13.010
+Asi que esto es 1 sobre delta x, y vamos a tomar
+
+00:03:13.010 --> 00:03:15.000
+el límite de todo.
+
+00:03:15.000 --> 00:03:28.270
+logaritmo natural de x dividido por x es 1 más delta x sobre x.
+
+00:03:28.270 --> 00:03:29.580
+Me parece bien.
+
+00:03:29.580 --> 00:03:31.770
+Ahora voy a utilizar otra propiedad del logaritmo
+
+00:03:31.770 --> 00:03:35.130
+y con suerte vos también lo recordás --dejame colocar las propiedades
+
+00:03:35.130 --> 00:03:40.440
+separadas, asi entendés que no es parte de la justificación-- de que a por
+
+00:03:40.440 --> 00:03:46.290
+el logaritmo de b es igual a a b a la a.
+
+00:03:46.290 --> 00:03:48.890
+Y eso viene de cuando tomás algo a una exponente,
+
+00:03:48.890 --> 00:03:51.300
+y luego a otro exponente, sólo hay que mutiplicar
+
+00:03:51.300 --> 00:03:52.670
+esos dos exponentes
+
+00:03:52.670 --> 00:03:53.890
+No quiero confundirte, pero espero
+
+00:03:53.890 --> 00:03:55.370
+que lo recuerdes.
+
+00:03:55.370 --> 00:03:57.710
+Cómo se aplica acá?
+
+00:03:57.710 --> 00:04:00.330
+Bueno, esto deberia ser a por logaritmo de b.
+
+00:04:00.330 --> 00:04:09.020
+Asi que esta expresión es la misma que el límite.
+
+00:04:09.020 --> 00:04:23.740
+El límite cuando delta x se aproxima a 0 del logaritmo natural de uno
+
+00:04:23.740 --> 00:04:31.800
+más delta x sobre x elevado a 1 sobre delta x
+
+00:04:31.800 --> 00:04:34.820
+Y recuerda todo esto es el logaritmo natural de
+
+00:04:34.820 --> 00:04:35.890
+esta cosa.
+
+00:04:35.890 --> 00:04:36.730
+Y luego vamos a tomar el límite cuando
+
+00:04:36.730 --> 00:04:39.110
+delta x se aproxima a 0.
+
+00:04:39.110 --> 00:04:42.270
+Si has visto los problemas de interés compuesto y sabés
+
+00:04:42.270 --> 00:04:44.480
+la definición de e, creo que te va a
+
+00:04:44.480 --> 00:04:45.190
+resultar familiar.
+
+00:04:45.190 --> 00:04:48.030
+Pero permitime hacer una sustitución que debería aclarar las cosas
+
+00:04:48.030 --> 00:04:49.410
+un poco más.
+
+00:04:49.410 --> 00:04:59.190
+Hagamos la sustitución, permíteme llamarlo n --no, no, no,
+
+00:04:59.190 --> 00:05:05.430
+llamémoslo u-- es igual a delta x sobre x.
+
+00:05:05.430 --> 00:05:07.860
+Y luego si eso es correcto, podemos multiplicar ámbos
+
+00:05:07.860 --> 00:05:12.450
+lados por x y luego obtener xu es igual a delta x.
+
+00:05:12.450 --> 00:05:16.650
+O deberíamos saber también que 1 sobre delta x es
+
+00:05:16.650 --> 00:05:20.780
+igual a 1 sobre xu.
+
+00:05:20.780 --> 00:05:22.150
+Todas son equivalentes.
+
+00:05:22.150 --> 00:05:23.720
+Hagamos la sustitución.
+
+00:05:23.720 --> 00:05:28.030
+Asi que si vamos a tomar el límite cuando delta x se aproxima a 0, en ésta
+
+00:05:28.030 --> 00:05:29.930
+expresión si delta x se aproxima a 0, ¿a qué
+
+00:05:29.930 --> 00:05:31.110
+se aproxima u?
+
+00:05:31.110 --> 00:05:32.320
+u se aproxima a 0.
+
+00:05:32.320 --> 00:05:35.860
+Por lo que delta x aproximándose a 0 es exactamente lo mismo que tomar
+
+00:05:35.860 --> 00:05:39.230
+el límite cuando u se aproxima a 0.
+
+00:05:39.230 --> 00:05:46.960
+Asi que podemos escribirlo como el límite cuando u se aproxima a 0 del
+
+00:05:46.960 --> 00:05:53.200
+logaritmo natural de 1 más --realizamos la sustitución, delta x
+
+00:05:53.200 --> 00:05:58.870
+sobre x es ahora u-- elevado a 1 sobre delta x, y la misma
+
+00:05:58.870 --> 00:06:00.960
+sustitución nos dice que es lo mismo que uno sobre xu.
+
+00:06:05.270 --> 00:06:08.360
+recuerda que estamos realizando el logaritmo natural de todo.
+
+00:06:08.360 --> 00:06:11.550
+Y sabemos que esta es una propiedad de las potencias, la cual ahora
+
+00:06:11.550 --> 00:06:13.340
+voy a hacer en un color diferente.
+
+00:06:13.340 --> 00:06:19.530
+Sabemos que a elevado a bc es igual a a elevado a
+
+00:06:19.530 --> 00:06:23.620
+b elevado a c
+
+00:06:23.620 --> 00:06:35.200
+Asi que esto nos dice que me es igual al límite cuando u
+
+00:06:35.200 --> 00:06:46.810
+se aproxima a 0 del logaritmo natural de 1 mas u elevado a 1/u,
+
+00:06:46.810 --> 00:06:49.960
+porque este es 1 sobre xu, verdad?
+
+00:06:49.960 --> 00:06:55.270
+1/u, y luegeo todo eso elevado a 1/x.
+
+00:06:55.270 --> 00:06:56.110
+¿Y cómo lo hice?
+
+00:06:56.110 --> 00:06:57.950
+Simplemente por esta propiedad de las potencias, no?
+
+00:06:57.950 --> 00:07:00.810
+Si fuese a simplificar esto, tendría 1/x por 1/u,
+
+00:07:00.810 --> 00:07:04.740
+y de eso es de donde obtengo este 1 sobre xu
+
+00:07:04.740 --> 00:07:07.780
+Entonces podemos realizar esta propiedad del logaritmo al revés.
+
+00:07:07.780 --> 00:07:10.370
+Si tengo b a la a, puedo sacar el a afuera.
+
+00:07:10.370 --> 00:07:12.670
+Entonces puedo tomar este 1/x y colocarlo adelante
+
+00:07:12.670 --> 00:07:14.160
+del logaritmo natural
+
+00:07:14.160 --> 00:07:16.250
+¿Y ahora que tengo?
+
+00:07:16.250 --> 00:07:18.550
+Ya casi llegamos.
+
+00:07:18.550 --> 00:07:25.780
+Tenemos el límite cuando u se aproxima a 0.
+
+00:07:25.780 --> 00:07:28.950
+Tomo ese 1/x, lo coloco adelante del signo del logaritmo natural.
+
+00:07:28.950 --> 00:07:40.490
+1/x por el logaritmo natural de 1 mas u elevando a 1/u
+
+00:07:40.490 --> 00:07:41.330
+Parece bien.
+
+00:07:41.330 --> 00:07:45.080
+Cuando estamos calculando el límite cuando u se aproxima a 0, x, este término
+
+00:07:45.080 --> 00:07:47.800
+no se involucra para nada.
+
+00:07:47.800 --> 00:07:50.030
+Por lo que podríamos sacarlo, porque el límite
+
+00:07:50.030 --> 00:07:51.430
+no le afecta a este término.
+
+00:07:51.430 --> 00:07:55.890
+Y estamos escencialmente diciendo lo que sucede a esta
+
+00:07:55.890 --> 00:07:59.440
+expresión cuando el límite se aproxima a 0.
+
+00:07:59.440 --> 00:08:10.220
+Asi que esta cosa es equivalente a 1/x por el logaritmo natural del
+
+00:08:10.220 --> 00:08:23.480
+límite cuando u se aproxima a 0 de 1 más u elevando a 1/u.
+
+00:08:23.480 --> 00:08:26.320
+Y por ahora con suerte reconocerás que
+
+00:08:26.320 --> 00:08:27.880
+esta es la definición.
+
+00:08:27.880 --> 00:08:31.230
+Este límite es e, si recordás algo
+
+00:08:31.230 --> 00:08:32.260
+de interés compuesto.
+
+00:08:32.260 --> 00:08:38.140
+Probablemente lo recuerdes como el límite cuando n se aproxima a
+
+00:08:38.140 --> 00:08:42.430
+infinito de 1 más 1 sobre n elevado a la n.
+
+00:08:42.430 --> 00:08:43.780
+Pero estas cosas son equivalentes.
+
+00:08:43.780 --> 00:08:46.360
+Si tomás la sustitución u es equivalente a
+
+00:08:46.360 --> 00:08:48.330
+1/n, obtendrías esto.
+
+00:08:48.330 --> 00:08:49.180
+Obtendría esto.
+
+00:08:49.180 --> 00:08:54.500
+Entonces esta expresión de acá es e. Esa expresión es e.
+
+00:08:54.500 --> 00:08:55.670
+Nos estamos acercando.
+
+00:08:59.570 --> 00:09:05.760
+Entonces todo esto es equivalente a 1/x por
+
+00:09:05.760 --> 00:09:09.050
+el logaritmo natural, y esta la sabemos, esta es una de
+
+00:09:09.050 --> 00:09:10.740
+las formas de obtener e.
+
+00:09:10.740 --> 00:09:13.280
+Asi que el límite cuando u se aproxima a 0 de 1 mas u elevando a 1/u.
+
+00:09:13.280 --> 00:09:15.000
+Eso es e.
+
+00:09:15.000 --> 00:09:16.030
+¿Y cual es el logaritmo natural?
+
+00:09:16.030 --> 00:09:17.530
+Bueno, es el logaritmo en base e.
+
+00:09:17.530 --> 00:09:23.000
+Sabés que esto es equivalente a 1/x por el logaritmo en base e de e.
+
+00:09:23.000 --> 00:09:25.270
+Y eso es decir e elevando a qué es igual a e.
+
+00:09:25.270 --> 00:09:26.870
+Bueno, e elevado a la 1 es e, no?
+
+00:09:26.870 --> 00:09:29.400
+Esto es igual a 1.
+
+00:09:29.400 --> 00:09:33.010
+Entonces 1 por 1/x es igual a 1/x.
+
+00:09:33.010 --> 00:09:34.280
+Y ahí lo tenemos.
+
+00:09:34.280 --> 00:09:39.190
+La derivada del logaritmo natural de x es equivalente a 1/x, la cual
+
+00:09:39.190 --> 00:09:42.260
+yo la veo más clara, por que todos los otros exponentes
+
+00:09:42.260 --> 00:09:43.280
+llevan a otro exponente.
+
+00:09:43.280 --> 00:09:45.580
+Pero derrepente en el desorden tenés el logaritmo natural
+
+00:09:45.580 --> 00:09:47.440
+y la derivada que es igual a x elevado
+
+00:09:47.440 --> 00:09:49.420
+a -1, ó 1/x
+
+00:09:49.420 --> 00:09:49.740
+Fascinante.

@@ -1,0 +1,154 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.878 --> 00:00:07.715
+Este es un cuadro de Rene Descartes. De nuevo, una de las grandes mentes en matemática y filosofía
+
+00:00:07.715 --> 00:00:13.382
+Creo que ven una tendencia aquí de que los grandes filósofos eran también grandes matemáticos
+
+00:00:13.382 --> 00:00:15.277
+y viceversa
+
+00:00:15.277 --> 00:00:18.183
+también era contemporaneo de Galileo. Era 32 años más joven
+
+00:00:18.183 --> 00:00:23.604
+aunque murio poco despues de Galileo, murió en una edad mucho más temprana
+
+00:00:23.604 --> 00:00:27.969
+Galileo estaba en sus 70s. Descartes murio a los 54 años de edad.
+
+00:00:27.969 --> 00:00:32.194
+Y es probablemente más conocido en la cultura popular por esta frase de aquí
+
+00:00:32.194 --> 00:00:35.310
+Una frase bien filosófica. "Pienso, luego existo"
+
+00:00:35.310 --> 00:00:41.119
+Pero también quiero agregar, aunque no está relacionada con álgebra, creo que es una muy buena frase
+
+00:00:41.119 --> 00:00:43.578
+Probablemente su menos famosa frase. Esta de aquí.
+
+00:00:43.578 --> 00:00:47.939
+Me gusta porque es muy práctica. Te hace dar cuenta que estas
+
+00:00:47.939 --> 00:00:51.312
+grandes mentes, estos pilares de la filosofía y las matemáticas
+
+00:00:51.312 --> 00:00:54.042
+a fin de cuentas sólo eran seres humanos.
+
+00:00:54.042 --> 00:00:57.523
+Dice "Solo sigue intentando. Solo sigue intentando.
+
+00:00:57.523 --> 00:01:01.776
+Cometí cada error que se pueda cometer. Sólo seguí intentando."
+
+00:01:01.776 --> 00:01:05.580
+Creo que es un muy buen consejo de vida.
+
+00:01:05.580 --> 00:01:08.708
+Bien, él hizo muchas cosas en filosofía y matemáticas,
+
+00:01:08.708 --> 00:01:12.311
+pero la razón por la que lo incluyo mientras construimos nuestros fundamentos en álgebra
+
+00:01:12.311 --> 00:01:20.860
+es que él es el individuo más responsable por una muy fuerte conexión entre álgebra y geometría
+
+00:01:20.860 --> 00:01:26.048
+A la izquierda aquí tenemos el mundo del álgebra. Ya lo discutimos un poco
+
+00:01:26.048 --> 00:01:31.438
+Tenemos ecuaciones, que tratan con símbolos. Y estos símbolos esencialmente que pueden ser valores
+
+00:01:31.438 --> 00:01:37.529
+Entonces podemos tener que y = 2x - 1
+
+00:01:37.529 --> 00:01:42.194
+Esto nos da una relación entre lo que sea x y lo que sea y
+
+00:01:42.194 --> 00:01:48.127
+Y podemos dibujar una tabla y elegir valores para x y ver cuáles serían los valores de y
+
+00:01:48.127 --> 00:01:52.772
+Y puedo elegir cualquier valor de x, y calcular el de y
+
+00:01:52.772 --> 00:01:57.244
+Pero voy a elegir valores simples para que las cuentas no se compliquen
+
+00:01:57.244 --> 00:02:11.708
+Por ejemplo, si x es -2, y va a ser 2*(-2) -1 que es -4 -1 que da -5
+
+00:02:11.708 --> 00:02:23.981
+Si x es -1, y = 2*(-1)-1, que es -2 -1 que es -3
+
+00:02:23.981 --> 00:02:36.189
+Si x es 0, y va a ser 2*0 -1 que es -1
+
+00:02:36.189 --> 00:02:37.531
+Haré unos más...
+
+00:02:37.531 --> 00:02:42.600
+Si x es 1... Podría haber elegido cualquier valor. ¿Qué pasa si x es la raíz negativa de 2?
+
+00:02:42.600 --> 00:02:50.188
+Qué pasa si x es -5/2, o 6/7, pero elijo estos números porque hacen las cuentas más fáciles
+
+00:02:50.188 --> 00:02:52.010
+cuando intento calcular y
+
+NOTE Paragraph
+
+00:02:52.010 --> 00:03:00.312
+Cuando x es 1, y va a ser (2 * 1) -1, 2 * 1 es 2, menos 1 es 1
+
+00:03:00.312 --> 00:03:03.969
+Y haré uno más. Haré uno más en un color que no haya usado aún
+
+00:03:03.969 --> 00:03:16.297
+Veamos, violeta. Si x es 2, y va a ser 2*2-1. Que es 3
+
+00:03:16.297 --> 00:03:19.708
+Buenísimo, acabo de muestrear esta realción.
+
+00:03:19.708 --> 00:03:24.774
+Dije Ok, esto describe una relación general entre las variables x e y
+
+00:03:24.774 --> 00:03:26.710
+Y luego fui un poco más concreto
+
+00:03:26.710 --> 00:03:32.778
+Dije Ok, para cada uno de estos valores de x cuál es el valor correspondiente de y
+
+00:03:32.778 --> 00:03:37.040
+Y de lo que Descartés se dio cuenta es de que se puede visualizar esto
+
+00:03:37.040 --> 00:03:41.650
+Por un lado se pueden visualizar estos puntos individuales, pero también
+
+00:03:41.650 --> 00:03:44.908
+puede ayudar, en general, a visualizar esta relación.
+
+00:03:44.908 --> 00:03:51.581
+Es decir, lo que escencialmente hizo fue comunicar los mundos de este tipo de muy abstracta y simbólica
+
+00:03:51.581 --> 00:03:52.442
+álgebra
+
+00:03:52.442 --> 00:03:56.902
+con la gemoetría, que tiene que ver con formas, tamaños, ángulos
+
+NOTE Paragraph
+
+00:03:56.902 --> 00:04:02.194
+Por acá tenemos el mundo de la geometría
+
+00:04:02.194 --> 00:04:06.194
+Y obviamente hay personas en la historia, quizás muchas personas que la historia haya olvidado que se ocuparon de esto
+
+99:59:59.999 --> 99:59:59.999
+Pero, antes de Descartes, era generalmente visto que la geometría

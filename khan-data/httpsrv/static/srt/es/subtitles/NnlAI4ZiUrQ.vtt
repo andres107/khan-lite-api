@@ -1,0 +1,606 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.840 --> 00:00:03.450
+Ahora ya sabemos algo sobre imanes.
+
+00:00:03.450 --> 00:00:06.020
+Veamos si podemos profundizar un poco mas y aprender un poquito
+
+00:00:06.020 --> 00:00:08.880
+sobre los campos magneticos y el efecto que
+
+00:00:08.880 --> 00:00:10.960
+tienen sobre las cargas en movimiento.
+
+00:00:10.960 --> 00:00:13.650
+Y asi es de hecho como definimos Campo Magnetico.
+
+00:00:13.650 --> 00:00:17.910
+Antes de nada, con cualquier campo, es una buena idea encontrar
+
+00:00:17.910 --> 00:00:19.730
+alguna forma de visualizarlo.
+
+00:00:19.730 --> 00:00:24.270
+Con los campos electrostaticos dibujabamos lineas de campo.
+
+00:00:24.270 --> 00:00:26.910
+Intentemos pues hacer lo mismo con los campos magneticos.
+
+00:00:26.910 --> 00:00:29.650
+Supongamos que este es mi iman.
+
+00:00:29.650 --> 00:00:34.020
+Este es el polo Norte y este es el polo Sur.
+
+00:00:34.020 --> 00:00:36.940
+Ahora, la convencion, cuando dibujamos lineas de campo magnetico,
+
+00:00:36.940 --> 00:00:39.410
+es que siempre comienzan en el polo norte y van hacia
+
+00:00:39.410 --> 00:00:40.180
+el polo sur.
+
+00:00:40.180 --> 00:00:44.470
+Podemos verla como el camino que tomaria un monopolo magnetico
+
+00:00:44.470 --> 00:00:46.000
+con carga norte.
+
+00:00:46.000 --> 00:00:48.490
+Si parte de aqui, si un monopolo norte,
+
+00:00:48.490 --> 00:00:50.650
+aunque sabemos que no existen en la naturaleza,
+
+00:00:50.650 --> 00:00:53.060
+aunque teoricamente podrian, pero digamos que
+
+00:00:53.060 --> 00:00:54.800
+para poder seguir la discusion que
+
+00:00:54.800 --> 00:00:55.950
+tenemos un monopolo magnetico norte.
+
+00:00:55.950 --> 00:00:57.950
+Si parte de aqui, querra irse lejos del
+
+00:00:57.950 --> 00:01:01.040
+poo norte e intentara ir hacia el polo sur.
+
+00:01:01.040 --> 00:01:02.940
+Haria algo, su camino seria algo como
+
+00:01:02.940 --> 00:01:04.190
+esto.
+
+00:01:07.370 --> 00:01:09.110
+Si empezase aqui, quiza su trayectoria seria
+
+00:01:09.110 --> 00:01:10.360
+algo como esto.
+
+00:01:12.650 --> 00:01:14.460
+O si empezase aqui, quiza su camino seria
+
+00:01:14.460 --> 00:01:15.240
+como este.
+
+00:01:15.240 --> 00:01:18.280
+Creo que lo entiendes.
+
+00:01:18.280 --> 00:01:21.500
+Otra forma de visualizar un campo es, en lugar de pensar
+
+00:01:21.500 --> 00:01:24.610
+en un monopolo y el camino que tomaria,
+
+00:01:24.610 --> 00:01:28.800
+puedes pensar en, que le ocurriria a una brujula aqui?
+
+00:01:28.800 --> 00:01:31.290
+Permiteme dibujar en otro color.
+
+00:01:31.290 --> 00:01:35.140
+Digamos que ponemos la brujula aqui.
+
+00:01:35.140 --> 00:01:36.625
+Ahi no es donde quiero ponerla.
+
+00:01:36.625 --> 00:01:38.430
+Digamos que la pongo aqui.
+
+00:01:38.430 --> 00:01:42.110
+La aguja de la brujula seguira la tangente de la
+
+00:01:42.110 --> 00:01:43.310
+linea de campo.
+
+00:01:43.310 --> 00:01:45.560
+La aguja hara algo como esto
+
+00:01:45.560 --> 00:01:47.712
+en este punto.
+
+00:01:47.712 --> 00:01:50.150
+Sera algo como esto.
+
+00:01:50.150 --> 00:01:53.460
+Este seria el polo norte de la aguja y este
+
+00:01:53.460 --> 00:01:55.440
+seria el polo sur.
+
+00:01:55.440 --> 00:01:57.740
+O podrias, asi es como definimos norte y sur.
+
+00:01:57.740 --> 00:01:59.940
+La gente tiene brujular y se dicen, oh, este es el polo norte
+
+00:01:59.940 --> 00:02:04.100
+de mi brujula, y apunta en esa direccion.
+
+00:02:04.100 --> 00:02:05.740
+Pero realmente esta apuntando al polo sur
+
+00:02:05.740 --> 00:02:06.580
+del iman.
+
+00:02:06.580 --> 00:02:08.949
+Y aqui es donde entramos en la confusa discusion
+
+00:02:08.949 --> 00:02:12.980
+de que el polo norte geografico que usamos es
+
+00:02:12.980 --> 00:02:16.840
+de hecho el polo norte del gran iman
+
+00:02:16.840 --> 00:02:17.340
+que llamamos Tierra.
+
+00:02:17.340 --> 00:02:19.800
+Y podrias ver el ultimo video de Introduccion al
+
+00:02:19.800 --> 00:02:22.160
+Magnetismo para confundirte sobre esto.
+
+00:02:22.160 --> 00:02:23.190
+Pero creo que entiendes lo que quiero decir.
+
+00:02:23.190 --> 00:02:26.100
+El Norte siempre busca el sur de la misma forma que lo positivo
+
+00:02:26.100 --> 00:02:27.430
+busca lo negativo y viceversa.
+
+00:02:27.430 --> 00:02:29.870
+Y el norte huye del norte.
+
+00:02:29.870 --> 00:02:33.060
+Y realmente, la mayor diferencia conceptual--
+aunque son
+
+00:02:33.060 --> 00:02:36.530
+propiedades muy diferentes - aunque veremos mas
+
+00:02:36.530 --> 00:02:39.830
+tarde que de hecho no son sino la misma cosa,
+que
+
+00:02:39.830 --> 00:02:41.800
+tenemos algo llamado fuerza electromagnetica,
+una vez que
+
+00:02:41.800 --> 00:02:43.680
+empecemos a aprender sobre las ecuaciones de Maxwell y
+
+00:02:43.680 --> 00:02:44.520
+la relatividad y todo eso.
+
+00:02:44.520 --> 00:02:46.030
+Pero no nos preocupesmos de eso aun.
+
+00:02:46.030 --> 00:02:50.090
+En el concepto clasico de electricidad y magnetismo, son
+
+00:02:50.090 --> 00:02:51.660
+algo asi como fuerzas diferentes.
+
+00:02:51.660 --> 00:02:54.070
+Y la mayor diferencia -- aunque tu sepas,
+
+00:02:54.070 --> 00:02:57.100
+que estas lineas de campo, aunque las veas muy parecidas--
+
+00:02:57.100 --> 00:03:00.750
+es que en magnetismo siempre tenemos dipolos,
+
+00:03:00.750 --> 00:03:02.920
+mientras que en electrostatica los monopolos pueden existir.
+
+00:03:02.920 --> 00:03:05.110
+Podemos tener una sola carga positiva o negativa.
+
+00:03:05.110 --> 00:03:07.100
+Eso esta bien, dices, Sal, eso me gusta.
+
+00:03:07.100 --> 00:03:08.130
+Pintamos esas lineas de campo.
+
+00:03:08.130 --> 00:03:10.260
+Y probablemente has visto alguna vez que si pones
+
+00:03:10.260 --> 00:03:11.950
+limaduras de metal sobre un iman
+
+00:03:11.950 --> 00:03:13.070
+se ordenan sobre las lineas de campo.
+
+00:03:13.070 --> 00:03:13.930
+a lo largo de estas líneas de campo.
+
+00:03:13.930 --> 00:03:15.440
+Pero podrias decir, bueno, esto es util.
+
+00:03:15.440 --> 00:03:21.520
+Pero como determinamos la fuerza de un campo magnetico
+
+00:03:21.520 --> 00:03:22.300
+en un punto del espacio?
+
+00:03:22.300 --> 00:03:25.950
+Y aqui es donde esto se vuelve interesante.
+
+00:03:25.950 --> 00:03:29.530
+La magnitud del un campo magnetico es en realidad
+
+00:03:29.530 --> 00:03:33.340
+determinada o definida, en funcion del efecto que tiene sobre
+
+00:03:33.340 --> 00:03:35.130
+una carga en movimiento.
+
+00:03:35.130 --> 00:03:36.580
+Esto es interesante.
+
+00:03:36.580 --> 00:03:38.640
+Te he venido diciendo algo asi como que tenemos esta
+
+00:03:38.640 --> 00:03:42.110
+fuerza llamada magnetismo que es diferente de la
+
+00:03:42.110 --> 00:03:43.610
+fuerza electrostatica.
+
+00:03:43.610 --> 00:03:47.490
+Pero vamos a definir magnetismo en funcion del efecto que
+
+00:03:47.490 --> 00:03:48.500
+tiene sobre una carga en movimiento.
+
+00:03:48.500 --> 00:03:49.510
+Y esto es una pista.
+
+00:03:49.510 --> 00:03:51.550
+Aprenderemos mas tarde, o espero que tu aprendas mas tarde,
+
+00:03:51.550 --> 00:03:55.540
+segun avanzas en Fisica, que una fuerza magnetica
+
+00:03:55.540 --> 00:04:00.200
+o un campo magnetico no es mas que un campo electrostatico que se mueve
+
+00:04:00.200 --> 00:04:02.040
+a una gran velocidad.
+
+00:04:02.040 --> 00:04:03.160
+A una velocidad relativista.
+
+00:04:03.160 --> 00:04:06.160
+O podrias verlo como si fuesen la misma cosa
+
+00:04:06.160 --> 00:04:07.730
+pero desde distintos sistemas de referencia.
+
+00:04:07.730 --> 00:04:08.970
+No quiero confundirte ahora.
+
+00:04:08.970 --> 00:04:12.730
+Pero de todos modos, volvamos a la fisica basica.
+
+00:04:12.730 --> 00:04:17.730
+Si tenemos que encontra un
+
+00:04:17.730 --> 00:04:23.610
+y es un campo magnético--sabemos que la fuerza de un
+
+00:04:23.610 --> 00:04:26.000
+movimiento de carga podría ser un electrón, un protón o algunos
+
+00:04:26.000 --> 00:04:29.190
+otro tipo de movimiento de partículas cargadas.
+
+00:04:29.190 --> 00:04:31.840
+Y en realidad, esta es la base de cómo ellos--sabes,
+
+00:04:31.840 --> 00:04:33.830
+Cuando tienes guerra--Cómo obtienen las partículas
+
+00:04:33.830 --> 00:04:36.030
+ir en círculos, y cómo estudiaron por ellos basan sobre cómo
+
+00:04:36.030 --> 00:04:38.110
+ellos se desvían por el campo magnético.
+
+00:04:38.110 --> 00:04:42.820
+Pero de todos modos, la fuerza sobre una carga es igual a la
+
+00:04:42.820 --> 00:04:45.670
+magnitud de la carga--por supuesto, esto podría ser positivo
+
+00:04:45.670 --> 00:04:49.090
+o tiempos de negativo--y esto es donde se pone interesante,
+
+00:04:49.090 --> 00:04:56.000
+la velocidad de carga de la Cruz del campo magnético.
+
+00:04:56.000 --> 00:04:58.460
+Para tomar la velocidad de la carga, o bien puede
+
+00:04:58.460 --> 00:05:00.701
+multiplíquelo por la primera escalar, o usted podría tomar la
+
+00:05:00.701 --> 00:05:02.220
+producto cruzado luego multiplicar por escalar.
+
+00:05:02.220 --> 00:05:03.790
+No importa porque es sólo un número,
+
+00:05:03.790 --> 00:05:04.990
+Esto no es un vector.
+
+00:05:04.990 --> 00:05:07.220
+Pero esencialmente tomar el producto vectorial de la velocidad
+
+00:05:07.220 --> 00:05:09.400
+y el campo magnético, multiplicar que veces el
+
+00:05:09.400 --> 00:05:14.090
+carga y luego obtener el vector de fuerza en esa partícula.
+
+00:05:14.090 --> 00:05:15.930
+Ahora hay algo que debe inmediatamente--si usted
+
+00:05:15.930 --> 00:05:17.960
+Esperemos que consiguió un poco de intuición sobre lo que la Cruz
+
+00:05:17.960 --> 00:05:19.240
+producto fue--allí es algo
+
+00:05:19.240 --> 00:05:22.000
+interesante sucediendo aquí.
+
+00:05:22.000 --> 00:05:25.760
+El producto Cruz se preocupa por los vectores que son
+
+00:05:25.760 --> 00:05:27.750
+perpendiculares entre sí.
+
+00:05:27.750 --> 00:05:31.450
+Así por ejemplo, si la velocidad es exactamente
+
+00:05:31.450 --> 00:05:34.450
+perpendicular al campo magnético, y luego veremos
+
+00:05:34.450 --> 00:05:35.290
+realmente obtener un número.
+
+00:05:35.290 --> 00:05:38.900
+Si son paralelas, entonces el campo magnético no tiene impacto
+
+00:05:38.900 --> 00:05:40.180
+sobre la carga.
+
+00:05:40.180 --> 00:05:42.340
+Eso es una cosa interesante.
+
+00:05:42.340 --> 00:05:44.680
+Y, a continuación, lo interesante es cuando llevas la
+
+00:05:44.680 --> 00:05:49.850
+producto vectorial de dos vectores, el resultado es perpendicular a
+
+00:05:49.850 --> 00:05:51.630
+ambos de estos vectores.
+
+00:05:51.630 --> 00:05:52.380
+Así es interesante.
+
+00:05:52.380 --> 00:05:56.040
+Un campo magnético, con el fin de tener un efecto en un cargo,
+
+00:05:56.040 --> 00:05:59.080
+tiene que ser perpendicular a su velocidad.
+
+00:05:59.080 --> 00:06:01.830
+Y, a continuación, la fuerza va a ser perpendicular a
+
+00:06:01.830 --> 00:06:05.460
+tanto la velocidad de la carga y el campo magnético.
+
+00:06:05.460 --> 00:06:08.100
+Sé que estoy confuso que en este punto, así que vamos a jugar
+
+00:06:08.100 --> 00:06:09.680
+todo con ella y hacer algunos problemas.
+
+00:06:09.680 --> 00:06:11.900
+Pero antes de eso, vamos a averiguar lo que las unidades de la
+
+00:06:11.900 --> 00:06:13.700
+son el campo magnético.
+
+00:06:13.700 --> 00:06:16.910
+Sabemos que el producto Cruz es lo mismo que--
+
+00:06:16.910 --> 00:06:18.970
+así que vamos a decir, ¿cuál es la magnitud de la fuerza?
+
+00:06:18.970 --> 00:06:24.790
+¿La magnitud de la fuerza es igual a?
+
+00:06:24.790 --> 00:06:26.580
+Bien, la magnitud de la carga--esto es sólo un escalar
+
+00:06:26.580 --> 00:06:31.380
+cantidad, por lo que es aún el cargo--veces el
+
+00:06:31.380 --> 00:06:34.650
+magnitud de la velocidad veces la magnitud de la
+
+00:06:34.650 --> 00:06:39.310
+campo veces el seno del ángulo entre ellos.
+
+00:06:39.310 --> 00:06:41.230
+Esta es la definición de un producto de la Cruz y luego nos
+
+00:06:41.230 --> 00:06:44.050
+podría poner--si queríamos la fuerza real vectoriales, podemos
+
+00:06:44.050 --> 00:06:46.200
+simplemente multiplique esto veces el vector que solamente utilizando la
+
+00:06:46.200 --> 00:06:46.720
+regla de derecha.
+
+00:06:46.720 --> 00:06:48.080
+Haremos todo lo en un segundo.
+
+00:06:48.080 --> 00:06:50.230
+De todas formas nos concentramos sólo en las unidades.
+
+00:06:50.230 --> 00:06:53.350
+Seno de theta no tiene unidades así podemos ignorarlo para esto
+
+00:06:53.350 --> 00:06:55.100
+discusión.
+
+00:06:55.100 --> 00:06:57.140
+Sólo estamos tratando de averiguar las unidades de
+
+00:06:57.140 --> 00:06:59.370
+el campo magnético.
+
+00:06:59.370 --> 00:07:06.160
+Así es la fuerza newtons--así que podríamos decir newtons equivale a--
+
+00:07:06.160 --> 00:07:12.350
+carga coulombs, velocidad es metros por segundo y luego
+
+00:07:12.350 --> 00:07:17.910
+Esto es a veces--no sé lo que llamaremos esto--
+
+00:07:17.910 --> 00:07:21.040
+las unidades de B.
+
+00:07:21.040 --> 00:07:22.662
+Lo llamaremos sub unidad B.
+
+00:07:22.662 --> 00:07:23.300
+Así que vamos a ver.
+
+00:07:23.300 --> 00:07:25.780
+Si dividimos ambos lados por coulombs y metros por
+
+00:07:25.780 --> 00:07:28.930
+en segundo lugar, tenemos a Newton por culombio.
+
+00:07:28.930 --> 00:07:30.890
+Y luego, si dividimos por metros por segundo, que la
+
+00:07:30.890 --> 00:07:34.850
+lo mismo que multiplicar por segundos por metro.
+
+00:07:34.850 --> 00:07:39.800
+Es igual a las unidades de campo magnético.
+
+00:07:39.800 --> 00:07:45.380
+Así que el campo magnético en términos de SI, se define como newton
+
+00:07:45.380 --> 00:07:48.080
+segundos por metro de coulomb.
+
+00:07:48.080 --> 00:07:50.920
+Que podría parecer un poco inconexo y han llegado
+
+00:07:50.920 --> 00:07:51.970
+hasta con un nombre genial.
+
+00:07:51.970 --> 00:07:54.660
+Y en honor a un compañero que merecen y que
+
+00:07:54.660 --> 00:07:55.910
+Nikolai Tesla.
+
+00:07:55.910 --> 00:08:01.400
+Así es el un newton segundo por metro de coulomb
+
+00:08:01.400 --> 00:08:07.210
+igual a un tesla.
+
+00:08:07.210 --> 00:08:10.150
+Y realmente estoy corriendo fuera de tiempo en este video, porque
+
+00:08:10.150 --> 00:08:11.650
+Quiero hacer un problema aquí.
+
+00:08:11.650 --> 00:08:15.390
+Pero sólo quiero sentarme y pensar por un segundo.
+
+00:08:15.390 --> 00:08:19.120
+A pesar de que en la vida estamos acostumbrados a tratar con imanes como nosotros
+
+00:08:19.120 --> 00:08:22.200
+tienen estos imanes--y tal vez son fundamentalmente
+
+00:08:22.200 --> 00:08:25.260
+diferente de lo que menos nos imaginamos electricidad para ser--
+
+00:08:25.260 --> 00:08:30.570
+pero la magnitud o realmente las unidades de magnetismo
+
+00:08:30.570 --> 00:08:33.840
+realmente se define en términos del efecto que tendría
+
+00:08:33.840 --> 00:08:35.100
+con una carga en movimiento.
+
+00:08:35.100 --> 00:08:38.840
+Y por eso se define la unidad--uno tesla o un tesla--
+
+00:08:38.840 --> 00:08:42.450
+como un newton segundo por culombio.
+
+00:08:42.450 --> 00:08:46.530
+Por lo tanto la carga electrostática por coulomb metro.
+
+00:08:46.530 --> 00:08:48.600
+Bueno, te dejaré ahora en este video.
+
+00:08:48.600 --> 00:08:49.810
+Tal vez puede sentarse y meditar.
+
+00:08:49.810 --> 00:08:52.010
+Pero voy un poco más sentido cuando hacemos algunas
+
+00:08:52.010 --> 00:08:53.940
+problemas reales con algunos reales
+
+00:08:53.940 --> 00:08:56.240
+números en el siguiente vídeo.
+
+00:08:56.240 --> 00:08:57.490
+Ver

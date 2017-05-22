@@ -1,0 +1,325 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.770 --> 00:00:03.280
+Ahora vamos a aprender un poco sobre las variables
+
+00:00:03.280 --> 00:00:05.436
+tal y como vimos en el último vídeo, una variable puede ser
+
+00:00:05.436 --> 00:00:08.834
+realmente un símbolo, aunque normalmente utilizamos letras,
+
+00:00:08.834 --> 00:00:11.510
+porque estamos acostumbrados a escribir letras.
+
+00:00:11.510 --> 00:00:17.193
+Puede ser cualquiera, desde una "x" a una "y", una "z", una "a", una "b"...
+
+00:00:17.193 --> 00:00:20.833
+y a veces utilizamos letras grietas como teta
+
+00:00:20.833 --> 00:00:22.826
+Pero puedes utilizar cualquer símbolo para decir
+
+00:00:22.826 --> 00:00:24.090
+"Hey, que esto va a cambiar"
+
+00:00:24.090 --> 00:00:26.300
+puede tomar múltiples valores.
+
+00:00:26.300 --> 00:00:27.767
+Pero al margen de esto,
+
+00:00:27.767 --> 00:00:29.759
+la que más se utiliza en álgebra,
+
+00:00:29.759 --> 00:00:31.754
+o incluso en matemáticas,
+
+00:00:31.754 --> 00:00:33.703
+es la variable "x"
+
+00:00:33.703 --> 00:00:36.471
+Aunque esto se utiliza hasta cierto punto,
+
+00:00:36.471 --> 00:00:39.168
+pero, "x" se utiliza tanto
+
+00:00:39.168 --> 00:00:42.757
+que puede suponer un pequeño problema.
+
+00:00:42.757 --> 00:00:46.247
+El problema no es otro que parece que estemos utilizando el símbolo de la multiplicación
+
+00:00:46.247 --> 00:00:48.501
+o lo que utilizamos en artimética.
+
+00:00:48.501 --> 00:00:49.924
+En aritmética
+
+00:00:49.924 --> 00:00:51.209
+si queremos escribir 2 x 3
+
+00:00:51.209 --> 00:00:53.635
+escribimos literalmente "2 x 3"
+
+00:00:53.635 --> 00:00:55.481
+Pero ahora estamos empezando a utilizar variables
+
+00:00:55.481 --> 00:00:57.489
+y si yo quiero escribir "2 veces x",
+
+00:00:57.489 --> 00:00:59.916
+si yo utilizo esto como el símbolo de la multiplicación
+
+00:00:59.916 --> 00:01:01.533
+sería 2 veces x
+
+00:01:01.750 --> 00:01:03.491
+Y el símbolo que me indica las veces y la X
+
+00:01:03.598 --> 00:01:05.593
+son iguales o parecidos.
+
+00:01:05.593 --> 00:01:08.747
+Así que si no soy cuidadoso con lo que escribo
+
+00:01:08.747 --> 00:01:10.248
+puedo confundirme
+
+00:01:10.248 --> 00:01:11.348
+"¿Esto es dos por x?"
+
+00:01:11.348 --> 00:01:13.301
+¿Esto es "dos veces algo"?
+
+00:01:13.301 --> 00:01:15.689
+¿Qué es esto exactamente?
+
+00:01:15.689 --> 00:01:18.023
+Y debido a que esto es a veces confuso,
+
+00:01:18.023 --> 00:01:21.729
+esto de aquí es realmente confuso,
+
+00:01:21.729 --> 00:01:23.967
+y puede ser malinterpretado,
+
+00:01:23.967 --> 00:01:28.636
+tendemos a no utilizar el símbolo de multiplicación
+
+00:01:28.636 --> 00:01:31.101
+cuando hacemos álgebra.
+
+00:01:31.101 --> 00:01:33.683
+En vez de eso, para representar una multiplicación
+
+00:01:33.683 --> 00:01:35.971
+tenemos varias opciones.
+
+00:01:35.971 --> 00:01:38.692
+En vez de escribir dos veces x de esta manera,
+
+00:01:38.692 --> 00:01:45.831
+podemos escribir 2 . x
+
+00:01:45.831 --> 00:01:48.434
+Un punto .
+Quiero ser muy claro,
+
+00:01:48.434 --> 00:01:50.683
+no es un decimal,
+
+00:01:50.683 --> 00:01:52.903
+como véis se escribe un poco más alto,
+
+00:01:52.903 --> 00:01:54.911
+así no nos confundimos
+
+00:01:54.911 --> 00:01:57.700
+en el medio de esto y de una de estas variables, justo aquí.
+
+00:01:57.700 --> 00:02:00.324
+Pero esto puede ser realmente interpretado como "2 veces x"
+
+00:02:00.324 --> 00:02:02.748
+Así por ejemplo, si alguien dice
+
+00:02:02.748 --> 00:02:06.995
+2 punto x, cuando x es igual a 3.
+
+00:02:06.995 --> 00:02:09.762
+Esto sería lo mismo
+
+00:02:09.762 --> 00:02:12.409
+que dos veces tres, cuando x es igual a tres.
+
+00:02:12.409 --> 00:02:13.825
+Podríamos escribir esto también de otro modo
+
+00:02:13.825 --> 00:02:16.574
+Podemos escribir "2" y entonces escribimos la x entre paréntesis
+
+00:02:16.574 --> 00:02:18.494
+justo al lado.
+
+00:02:18.494 --> 00:02:22.221
+Esto se interpreta como 2 veces x
+
+00:02:22.221 --> 00:02:23.285
+Una vez más, en esta situación
+
+00:02:23.285 --> 00:02:24.504
+si "x" fuera siete, esto sería
+
+00:02:24.504 --> 00:02:27.294
+dos veces siete, o catorce.
+
+00:02:27.294 --> 00:02:29.671
+Y la forma más tradicional de hacerlo
+
+00:02:29.671 --> 00:02:32.302
+es escribir la x justo detrás del 2.
+
+00:02:32.302 --> 00:02:35.669
+Y a veces esto se leería como "2x"
+
+00:02:35.669 --> 00:02:39.568
+Pero en realidad significa "Dos veces x"
+
+00:02:39.568 --> 00:02:41.633
+Espera un minuto, ¿por qué no hacemos siempre esto?
+
+00:02:41.633 --> 00:02:44.247
+Sería confuso si lo hiciéramos como aquí
+
+00:02:44.247 --> 00:02:46.501
+En vez de escribir "2 veces 3",
+
+00:02:46.501 --> 00:02:48.272
+y escribir "2 3·,
+
+00:02:48.272 --> 00:02:49.894
+en realidad parece un "23"
+
+00:02:49.894 --> 00:02:51.253
+y no parece que diga dos veces tres.
+
+00:02:51.253 --> 00:02:52.633
+Por eso no se hace nunca de ese modo.
+
+00:02:52.633 --> 00:02:54.365
+Pero aquí, ya que utilizamos una letra,
+
+00:02:54.365 --> 00:02:57.579
+está claro que no es parte de ese número.
+
+00:02:57.579 --> 00:02:59.354
+No es realmente "veintialgo"
+
+00:02:59.354 --> 00:03:02.838
+sino que es dos veces esta variable x.
+
+00:03:02.838 --> 00:03:05.900
+Vamos, que todas estas son realmente la misma expresión:
+
+00:03:05.900 --> 00:03:09.070
+Dos veces x, dos veces x y dos veces x.
+
+00:03:09.070 --> 00:03:10.163
+así
+
+00:03:10.163 --> 00:03:13.554
+Intentemos unos cuantos ejemplos más y practiquemos unos problemas
+
+00:03:13.554 --> 00:03:14.895
+y esto te preparará para el
+
+00:03:14.895 --> 00:03:16.215
+próximo ejercicio
+
+00:03:16.215 --> 00:03:18.034
+Tendrás muchas oportunidades de practicar esto,
+
+00:03:18.034 --> 00:03:24.702
+así que si yo dijera "cuánto es 10 menos tres y"
+
+00:03:24.702 --> 00:03:29.636
+y cuánto es esto si la "y" vale dos
+
+00:03:29.636 --> 00:03:31.821
+Bien, cada vez que veas la "y"
+
+00:03:31.821 --> 00:03:32.833
+verás ese 2 ahí
+
+00:03:32.833 --> 00:03:35.636
+Esto es y que es igual a 2
+
+00:03:35.636 --> 00:03:37.298
+Veamos esta y igual a dos
+
+00:03:37.298 --> 00:03:41.368
+Esto es la misma cosa que 10 menos tres veces dos
+
+00:03:41.368 --> 00:03:43.503
+Has de hacer la multiplicación primero.
+
+00:03:43.503 --> 00:03:46.369
+La multiplicación tiene preferencia en el orden de operaciones
+
+00:03:46.369 --> 00:03:48.829
+Tres veces dos es seis,
+
+00:03:48.829 --> 00:03:53.215
+Diez menos seis es igual a cuatro.
+
+00:03:53.215 --> 00:03:54.414
+Hagamos otro.
+
+00:03:54.414 --> 00:04:08.073
+Digamos que tengo "7x menos 4"
+
+00:04:08.073 --> 00:04:14.970
+y queremos evaluar eso cuando
+
+00:04:14.970 --> 00:04:19.861
+x es igual a tres
+
+00:04:19.861 --> 00:04:22.169
+Cuando vemos la x, ponemos aquí el 3.
+
+00:04:22.169 --> 00:04:29.221
+Es la misma cosa que "7 veces 3"
+
+00:04:29.221 --> 00:04:34.168
+Utilizaré esta notación, siete veces tres menos cuatro.
+
+00:04:34.168 --> 00:04:37.250
+Y una vez más, la multiplicación tiene preferencia
+
+00:04:37.250 --> 00:04:40.104
+en el orden de las operaciones sobre la suma o la resta.
+
+00:04:40.104 --> 00:04:41.701
+Tenemos que multiplicar primero
+
+00:04:41.701 --> 00:04:43.970
+7 veces 3 es 21
+
+00:04:43.970 --> 00:04:48.233
+21 menos 4 es igual a 17.
+
+00:04:48.233 --> 00:04:50.263
+Espero que esto te de un poco de perspectiva
+
+00:04:50.263 --> 00:04:52.763
+y te anime a intentar el próximo ejercicio,
+
+00:04:52.763 --> 00:04:54.367
+La práctica te dará el coraje
+
+00:04:54.367 --> 00:04:56.357
+de evaluar expresiones como esta

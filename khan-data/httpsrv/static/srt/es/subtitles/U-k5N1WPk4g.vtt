@@ -1,0 +1,465 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.890 --> 00:00:04.070
+Bienvenidos a mi presentación el dominio de una función
+
+00:00:04.070 --> 00:00:05.060
+¿Qué es el dominio?
+
+00:00:05.060 --> 00:00:07.720
+El dominio de una función, con frecuencia lo escucharas combinado
+
+00:00:07.720 --> 00:00:09.090
+con dominio y rango.
+
+00:00:09.090 --> 00:00:12.830
+El dominio de una función son los valores que puedes poner en
+
+00:00:12.830 --> 00:00:15.150
+una función y obtener un resultado válido.
+
+00:00:15.150 --> 00:00:16.360
+Empecemos con unos ejemplos.
+
+00:00:16.360 --> 00:00:32.880
+Tengo f de x es igual, digamos, a x al cuadrado.
+
+00:00:35.410 --> 00:00:36.270
+Entonces te pregunto.
+
+00:00:36.270 --> 00:00:39.440
+Que valores de x puedo poner aquí y obtener
+
+00:00:39.440 --> 00:00:41.460
+una respuesta valida para x al cuadrado?
+
+00:00:41.460 --> 00:00:44.820
+Bien, puedo poner cualquiera, cualquier número real.
+
+00:00:44.820 --> 00:00:53.980
+Entonces el dominio es el conjunto de x's
+
+00:00:53.980 --> 00:00:58.620
+Que son parte del conjunto de números reales.
+
+00:00:58.620 --> 00:01:02.020
+Así que esto es sólo una forma elegante de decir que bien, esta r con
+
+00:01:02.020 --> 00:01:04.370
+este tipo de backbone doble aquí, eso sólo significa reales
+
+00:01:04.370 --> 00:01:06.210
+números, y creo que usted está familiarizado con los números reales ahora.
+
+00:01:06.210 --> 00:01:10.420
+Eso es más o menos todos los números fuera de los números complejos.
+
+00:01:10.420 --> 00:01:11.640
+Y si usted no sabe lo que los números complejos
+
+00:01:11.640 --> 00:01:12.910
+son, eso está bien.
+
+00:01:12.910 --> 00:01:14.980
+Probablemente no será necesario que lo sepa ahora mismo.
+
+00:01:14.980 --> 00:01:18.210
+Los números reales son todos los números que la mayoría de la gente
+
+00:01:18.210 --> 00:01:20.290
+familiarizado, incluyendo los números irracionales, incluyendo
+
+00:01:20.290 --> 00:01:23.180
+números trascendentes, incluidas las fracciones - todos los
+
+00:01:23.180 --> 00:01:24.470
+número es un número real.
+
+00:01:24.470 --> 00:01:27.820
+Así que aquí es el dominio x - x sólo tiene que ser un miembro de
+
+00:01:27.820 --> 00:01:28.730
+de los números reales.
+
+00:01:28.730 --> 00:01:31.840
+Y este mensaje poco hacia atrás buscando o algo así, este
+
+00:01:31.840 --> 00:01:35.150
+sólo significa que x es un miembro de los números reales.
+
+00:01:35.150 --> 00:01:37.200
+Así que vamos a hacer otra en una pequeña variación.
+
+00:01:42.445 --> 00:01:51.310
+Así que vamos a decir que tenía f de x es igual a 1 sobre x al cuadrado.
+
+00:01:51.310 --> 00:01:52.620
+Entonces esto es lo mismo ahora?
+
+00:01:52.620 --> 00:01:54.890
+¿Todavía puedo poner cualquier valor de x en el aquí y
+
+00:01:54.890 --> 00:01:56.970
+una respuesta razonable?
+
+00:01:56.970 --> 00:01:57.950
+Bueno, ¿qué es f de 0?
+
+00:02:08.370 --> 00:02:12.880
+f de cero es igual a 1 sobre 0.
+
+00:02:12.880 --> 00:02:14.870
+Y lo que es una más de 0?
+
+00:02:14.870 --> 00:02:17.860
+No sé lo que es, por lo que no está definido.
+
+00:02:22.470 --> 00:02:25.780
+Nadie se tomó la molestia de definir lo que uno más de 0 debe ser.
+
+00:02:25.780 --> 00:02:27.810
+Y probablemente no lo hizo, por lo que algunas personas probablemente pensó
+
+00:02:27.810 --> 00:02:31.170
+acerca de lo que debería ser, pero es probable que no podía saber con
+
+00:02:31.170 --> 00:02:33.450
+una buena definición de 1 sobre 0 que sea coherente con
+
+00:02:33.450 --> 00:02:34.250
+el resto de las matemáticas.
+
+00:02:34.250 --> 00:02:35.710
+Así que 1 sobre 0 se mantiene indefinido.
+
+00:02:35.710 --> 00:02:37.930
+Por lo tanto f 0 es indefinido.
+
+00:02:37.930 --> 00:02:42.700
+Así que no podemos poner 0 y obtener una respuesta válida para f 0.
+
+00:02:42.700 --> 00:02:50.630
+Así que aquí se dice que el dominio es igual a - hacer soportes poco,
+
+00:02:50.630 --> 00:02:52.900
+que muestra el tipo de conjunto de lo que x se aplican.
+
+00:02:52.900 --> 00:02:54.303
+Eso es las llaves poco, no me
+
+00:02:54.303 --> 00:02:56.400
+dibuje tan bien.
+
+00:02:56.400 --> 00:03:02.030
+x es un miembro de los números reales todavía, de manera que
+
+00:03:02.030 --> 00:03:05.560
+x no es igual a 0.
+
+00:03:05.560 --> 00:03:10.230
+Así que aquí acabo de hacer una ligera variante de lo que había antes.
+
+00:03:10.230 --> 00:03:12.925
+Antes de que nos dijo que cuando f de x es igual al cuadrado de x que x
+
+00:03:12.925 --> 00:03:15.050
+es cualquier número real.
+
+00:03:15.050 --> 00:03:20.250
+Ahora estamos diciendo que x es cualquier número real excepto 0.
+
+00:03:20.250 --> 00:03:22.400
+Esto es sólo una forma elegante de decir que, a continuación, estas llaves
+
+00:03:22.400 --> 00:03:24.290
+entre paréntesis sólo significa un conjunto.
+
+00:03:24.290 --> 00:03:26.390
+Vamos a hacer un par de los más.
+
+00:03:26.390 --> 00:03:44.360
+Supongamos que f de x es igual a la raíz cuadrada de x menos 3.
+
+00:03:44.360 --> 00:03:48.170
+Así que hasta aquí hemos dicho, así que esta función no está definida cuando
+
+00:03:48.170 --> 00:03:49.680
+obtener un 0 en el denominador.
+
+00:03:49.680 --> 00:03:52.090
+Pero lo interesante de esta función?
+
+00:03:52.090 --> 00:03:55.600
+¿Podemos tener una raíz cuadrada de un número negativo?
+
+00:03:55.600 --> 00:03:58.000
+Así hasta que aprendamos acerca de imaginarios y complejos
+
+00:03:58.000 --> 00:03:59.030
+números que no se puede.
+
+00:03:59.030 --> 00:04:03.280
+Así que aquí se dice así, cualquier x es válido aquí, salvo para las x
+
+00:04:03.280 --> 00:04:07.220
+que hacen de esta expresión bajo el signo radical negativa.
+
+00:04:07.220 --> 00:04:11.510
+Así que tenemos que decir que x menos 3 tiene que ser mayor o
+
+00:04:11.510 --> 00:04:13.690
+igual a 0, a la derecha, ya que podría tener la plaza a 0,
+
+00:04:13.690 --> 00:04:15.235
+eso está bien, es sólo 0.
+
+00:04:15.235 --> 00:04:20.070
+Por lo menos 3 x debe ser mayor o igual a 0, por lo que x tiene que
+
+00:04:20.070 --> 00:04:22.700
+ser mayor o igual a 3.
+
+00:04:22.700 --> 00:04:35.130
+Así que aquí nuestro dominio es x es un miembro de los números reales,
+
+00:04:35.130 --> 00:04:41.165
+tal que x es mayor o igual a 3.
+
+00:04:45.840 --> 00:04:50.140
+Vamos a hacer una un poco más difícil.
+
+00:04:50.140 --> 00:05:01.260
+¿Qué pasa si yo dije f de x es igual a la raíz cuadrada de la
+
+00:05:01.260 --> 00:05:06.200
+valor absoluto de x menos 3.
+
+00:05:06.200 --> 00:05:08.320
+Así que ahora se está volviendo un poco más complicado.
+
+00:05:08.320 --> 00:05:11.020
+Así como en esta ocasión, esta expresión de
+
+00:05:11.020 --> 00:05:13.180
+el radical todavía tiene que ser mayor o igual a 0.
+
+00:05:13.180 --> 00:05:19.400
+Por lo que sólo se puede decir que el valor absoluto de x menos 3 es
+
+00:05:19.400 --> 00:05:21.910
+mayor o igual a 0.
+
+00:05:21.910 --> 00:05:25.580
+Así que tenemos el valor absoluto de x debe ser mayor
+
+00:05:25.580 --> 00:05:27.830
+o igual a 3.
+
+00:05:27.830 --> 00:05:30.480
+Y si para que el valor absoluto de algo que se
+
+00:05:30.480 --> 00:05:35.440
+mayor o igual a algo, entonces eso significa que
+
+00:05:35.440 --> 00:05:46.290
+x tiene que ser menor o igual a 3 negativos, o x tiene que ser
+
+00:05:46.290 --> 00:05:48.530
+mayor o igual a 3.
+
+00:05:48.530 --> 00:05:52.460
+Tiene sentido porque x no puede ser negativo 2, ¿verdad?
+
+00:05:52.460 --> 00:05:55.240
+Debido a que dos negativos tiene un valor absoluto menor que 3.
+
+00:05:55.240 --> 00:05:57.700
+Por lo que x tiene que ser inferior a 3 negativo.
+
+00:05:57.700 --> 00:06:00.930
+Tiene que ser aún más en la dirección negativa de
+
+00:06:00.930 --> 00:06:03.220
+3 negativos, o tiene que ser aún más en lo positivo
+
+00:06:03.220 --> 00:06:04.790
+dirección positiva de 3.
+
+00:06:04.790 --> 00:06:10.490
+Por lo tanto, una vez más, x tiene que ser inferior a 3 o negativo x
+
+00:06:10.490 --> 00:06:13.000
+tiene que ser mayor que 3, así que tenemos nuestro dominio.
+
+00:06:13.000 --> 00:06:15.920
+Así que lo tenemos que x es un miembro de los reales
+
+00:06:15.920 --> 00:06:19.960
+- Siempre se me olvida.
+
+00:06:19.960 --> 00:06:21.460
+Es que la línea?
+
+00:06:21.460 --> 00:06:23.080
+Se me olvida, o es un colon o una línea.
+
+00:06:23.080 --> 00:06:25.510
+Estoy oxidado, que han pasado años desde que he hecho
+
+00:06:25.510 --> 00:06:26.400
+este tipo de cosas.
+
+00:06:26.400 --> 00:06:29.050
+Pero de todos modos, creo que usted consigue el punto.
+
+00:06:29.050 --> 00:06:32.800
+Podría ser cualquier número real aquí, siempre y cuando x es menor
+
+00:06:32.800 --> 00:06:37.650
+que negativo 3, inferior o igual a 3 negativos, o es x
+
+00:06:37.650 --> 00:06:39.980
+mayor o igual a 3.
+
+00:06:39.980 --> 00:06:41.650
+Permítame hacerle una pregunta ahora.
+
+00:06:41.650 --> 00:06:50.970
+¿Qué pasa si en lugar de esta era - que fue el denominador,
+
+00:06:50.970 --> 00:06:53.270
+todo esto es un problema aparte aquí.
+
+00:06:53.270 --> 00:06:56.500
+Así que ahora tenemos una más de la raíz cuadrada de la absoluta
+
+00:06:56.500 --> 00:06:59.160
+valor de x menos 3.
+
+00:06:59.160 --> 00:07:00.730
+Así que ahora ¿cómo se cambia la situación?
+
+00:07:00.730 --> 00:07:03.650
+Así que no sólo significa esta expresión en el denominador,
+
+00:07:03.650 --> 00:07:06.170
+Esto no sólo tiene que ser mayor o igual a
+
+00:07:06.170 --> 00:07:08.360
+0, puede ser 0 ya?
+
+00:07:08.360 --> 00:07:10.960
+Pues no, porque entonces tendría la raíz cuadrada de 0, lo que
+
+00:07:10.960 --> 00:07:13.560
+es 0 y que tendría un 0 en el denominador.
+
+00:07:13.560 --> 00:07:15.310
+Así que es algo así como el problema más este
+
+00:07:15.310 --> 00:07:16.600
+problema combinado.
+
+00:07:16.600 --> 00:07:20.210
+Así que ahora cuando se tiene una sobre la raíz cuadrada de la absoluta
+
+00:07:20.210 --> 00:07:25.430
+valor de x menos 3, ahora ya no es mayor o igual a
+
+00:07:25.430 --> 00:07:28.690
+0, es sólo una más de 0, ¿no?
+
+00:07:28.690 --> 00:07:30.420
+es sólo mayor que 0.
+
+00:07:30.420 --> 00:07:32.040
+Porque no podemos tener un 0 aquí en el denominador.
+
+00:07:32.040 --> 00:07:37.080
+Así que si es mayor que 0, entonces nos limitamos a decir más de 3.
+
+00:07:37.080 --> 00:07:40.510
+Y, esencialmente, simplemente deshacerse de los signos de igual aquí.
+
+00:07:40.510 --> 00:07:41.790
+Déjame borrar correctamente.
+
+00:07:44.310 --> 00:07:45.750
+Es un color ligeramente diferente, pero tal vez
+
+00:07:45.750 --> 00:07:47.640
+no se dará cuenta.
+
+00:07:47.640 --> 00:07:50.130
+Y esto es todo.
+
+00:07:50.130 --> 00:07:52.450
+En realidad, deberíamos hacer otro ejemplo ya que tenemos tiempo.
+
+00:07:58.470 --> 00:08:01.180
+Déjenme borrar esto.
+
+00:08:01.180 --> 00:08:01.810
+Aceptar.
+
+00:08:01.810 --> 00:08:35.140
+Ahora supongamos que f de x es igual a 2, si x es par,
+
+00:08:35.140 --> 00:08:53.970
+y uno más x menos 2 veces x 1 menos, si x es impar.
+
+00:08:53.970 --> 00:08:55.970
+¿Cuál es el dominio de aquí?
+
+00:08:55.970 --> 00:08:57.620
+¿Qué es un x válidos puedo poner aquí.
+
+00:08:57.620 --> 00:08:59.820
+Así que inmediatamente tenemos dos cláusulas.
+
+00:08:59.820 --> 00:09:13.270
+Si x es aún usamos esta cláusula, por lo que f de 4 - y,
+
+00:09:13.270 --> 00:09:16.030
+que es exactamente igual a 2, ya que hemos utilizado esta cláusula aquí.
+
+00:09:16.030 --> 00:09:19.300
+Sin embargo, esta cláusula se aplica cuando x es impar.
+
+00:09:19.300 --> 00:09:21.370
+Al igual que hicimos en el último ejemplo, ¿cuáles son los
+
+00:09:21.370 --> 00:09:24.270
+situaciones en las que este tipo de avería?
+
+00:09:24.270 --> 00:09:26.200
+Pues bien, cuando el denominador es 0.
+
+00:09:26.200 --> 00:09:29.850
+Así que el denominador es 0 cuando x es igual a 2, o
+
+00:09:29.850 --> 00:09:32.870
+x es igual a 1, ¿verdad?
+
+00:09:32.870 --> 00:09:34.970
+Sin embargo, esta cláusula sólo se aplica cuando x es impar.
+
+00:09:34.970 --> 00:09:37.350
+Por lo tanto x es igual a 2 no se aplicarán a esta cláusula.
+
+00:09:37.350 --> 00:09:41.370
+Por lo que sólo x es igual a 1 se aplicará a esta cláusula.
+
+00:09:41.370 --> 00:09:49.010
+Por lo que el dominio es x es un miembro de los reales, de tal manera que
+
+00:09:49.010 --> 00:09:52.320
+x no es igual a 1.
+
+00:09:52.320 --> 00:09:55.160
+Creo que es todo el tiempo que tengo por ahora.
+
+00:09:55.160 --> 00:09:58.210
+Diviértete practicando estos problemas de dominio.

@@ -1,0 +1,402 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.950 --> 00:00:02.160
+Hola.
+
+00:00:02.160 --> 00:00:05.230
+Trabajemos un poco con las propriedades de los logaritmos.
+
+00:00:05.230 --> 00:00:07.700
+Bueno, revisemos bien rápido lo que es un logaritmo.
+
+00:00:07.700 --> 00:00:19.230
+Si escribo, digamos que escribo log en base "x" de "a" es
+
+00:00:19.230 --> 00:00:22.020
+igual a, no sé, inventemosnos una letra, "n".
+
+00:00:22.020 --> 00:00:23.550
+¿Qué significa eso?
+
+00:00:23.550 --> 00:00:35.800
+Pues, sólo significa que "x" a la "n" es igual a "a".
+
+00:00:35.800 --> 00:00:37.880
+Creo que ya sabíamos eso.
+
+00:00:37.880 --> 00:00:40.150
+Lo aprendimos en el vídeo de logaritmos.
+
+00:00:40.150 --> 00:00:42.860
+Y por lo tanto es muy importante darse cuenta de que cuando evalúas
+
+00:00:42.860 --> 00:00:49.170
+una expresión logarítmica, como log en base "x" de "a", la respuesta,
+
+00:00:49.170 --> 00:00:52.350
+cuando evalúas, lo que obtienes, es un exponente.
+
+00:00:52.350 --> 00:00:54.231
+Este "n" es en verdad sólo un exponente.
+
+00:00:54.231 --> 00:00:56.820
+Esto es igual a esta cosa.
+
+00:00:56.820 --> 00:00:58.910
+Podrías haberlo escrito como así.
+
+00:00:58.910 --> 00:01:02.190
+Porque esta "n" es igual a esta, tu podrias
+
+00:01:02.190 --> 00:01:10.140
+solo escribir "x", va a ser un poco desordenado, al logaritmo
+
+00:01:10.140 --> 00:01:13.930
+base "x" de "a", es igual a "a".
+
+00:01:13.930 --> 00:01:17.000
+Todo lo que hice fue que tomé esta "n" y la reemplacé con este término.
+
+00:01:17.000 --> 00:01:19.530
+Y quería escribirlo así porque quiero que
+
+00:01:19.530 --> 00:01:22.580
+logres un entendimiento intuitivo de la nocion
+
+00:01:22.580 --> 00:01:24.390
+de que un logaritmo, cuando lo evalúas,
+
+00:01:24.390 --> 00:01:25.745
+es sólo un exponente.
+
+00:01:25.745 --> 00:01:27.420
+Y vamos a usar esa nocion.
+
+00:01:27.420 --> 00:01:29.910
+Y de allí, de verdad, es que vienen
+
+00:01:29.910 --> 00:01:32.380
+todas las propriedades de los logarítmos.
+
+00:01:32.380 --> 00:01:35.130
+Asi que déjame tan solo hacer — lo que justo quiero hacer es,
+
+00:01:35.130 --> 00:01:37.760
+que quiero tropezar con las propriedades de los logarítmos
+
+00:01:37.760 --> 00:01:38.540
+al jugar con ellos.
+
+00:01:38.540 --> 00:01:40.405
+Y luego, lo resumiré y luego
+
+00:01:40.405 --> 00:01:41.120
+lo limpiaré.
+
+00:01:41.120 --> 00:01:45.100
+Pero quiero mostrar tal vez cómo la gente originalmente
+
+00:01:45.100 --> 00:01:47.040
+descubrió esto.
+
+00:01:47.040 --> 00:01:52.960
+Entonces digamos que "x" — cambiemos colores.
+
+00:01:52.960 --> 00:01:55.600
+Creo que mantiene las cosas interesantes.
+
+00:01:55.600 --> 00:02:05.190
+Digamos que "x" a la "l" es igual a "a".
+
+00:02:05.190 --> 00:02:07.680
+Bueno, si escribimos que como logarítmo, esa misma
+
+00:02:07.680 --> 00:02:14.900
+relación como logarítmo, podemos escribir que log base "x" de
+
+00:02:14.900 --> 00:02:19.410
+"a" es igual a "l" ¿no cierto?
+
+00:02:19.410 --> 00:02:22.530
+Sólo reescribí lo que escribí en el primer renglon.
+
+00:02:22.530 --> 00:02:25.010
+Ahora, cambiemos de colores.
+
+00:02:25.010 --> 00:02:33.100
+Y si dijiera que "x" a la "m" es igual a "b",
+
+00:02:33.100 --> 00:02:34.620
+sería lo mismo, yo sólo intercambié las letras.
+
+00:02:34.620 --> 00:02:41.980
+Pero eso justo significa que log base "x" de "b" es
+
+00:02:41.980 --> 00:02:43.730
+igual a "m", ¿no cierto?
+
+00:02:43.730 --> 00:02:46.280
+Sólo hice la misma cosa que hice en este renglon,
+
+00:02:46.280 --> 00:02:47.452
+sólo intercambié las letras.
+
+00:02:47.452 --> 00:02:49.620
+Entonces continuemos y veamos qué pasa.
+
+00:02:49.620 --> 00:02:52.770
+Digamos, déjame usar otro color.
+
+00:02:56.380 --> 00:03:03.010
+Digamos que tengo "x" a la "n", y tu estas dicendo, Sal, a donde
+
+00:03:03.010 --> 00:03:03.710
+vas con esto.
+
+00:03:03.710 --> 00:03:04.710
+Pero ya lo verás.
+
+00:03:04.710 --> 00:03:12.360
+Es genial. "x" a la "n" es igual a "a" por "b".
+
+00:03:12.360 --> 00:03:15.260
+"x" a la "n" es igual a "a" por "b".
+
+00:03:15.260 --> 00:03:22.730
+Y eso es lo mismo que decir que log base "x"
+
+00:03:22.730 --> 00:03:26.420
+es igual a "a" por "b".
+
+00:03:26.420 --> 00:03:28.460
+¿Qué podemos hacer con todo esto?
+
+00:03:28.460 --> 00:03:31.010
+Pues, empezamos con con este justo aquí.
+
+00:03:31.010 --> 00:03:33.420
+"x" a la "n" es igual a "a" por "b".
+
+00:03:33.420 --> 00:03:35.670
+Entonces, como podemos reescribirlo?
+
+00:03:35.670 --> 00:03:38.910
+Pues, "a" es esto.
+
+00:03:38.910 --> 00:03:41.670
+Y "b" es esto, ¿no cierto?
+
+00:03:41.670 --> 00:03:43.010
+Entonces, reescribamos eso.
+
+00:03:43.010 --> 00:03:49.770
+Sabemos que "x" a la "n" es igual a "a".
+
+00:03:49.770 --> 00:03:51.480
+"a" es esto.
+
+00:03:51.480 --> 00:03:55.120
+"x" elevada a la "l".
+
+00:03:55.120 --> 00:03:57.370
+"x" elevada a la "l".
+
+00:03:57.370 --> 00:03:59.500
+¿Y qué es "b"?
+
+00:03:59.500 --> 00:04:01.190
+Multiplicado por "b".
+
+00:04:01.190 --> 00:04:04.740
+Pues, "b" es "x" a la "m", ¿no cierto?
+
+00:04:04.740 --> 00:04:07.380
+No estoy haciendo nada elegante en este momento.
+
+00:04:07.380 --> 00:04:09.320
+¿Pero qué es "x" a la "l" por "x" a la "m"?
+
+00:04:09.320 --> 00:04:13.730
+Pues, sabemos por los exponentes que cuando multiplicas
+
+00:04:13.730 --> 00:04:17.390
+dos expresiones que tienen la misma base y
+
+00:04:17.390 --> 00:04:19.025
+exponentes diferentes, añades los exponentes.
+
+00:04:19.025 --> 00:04:22.830
+Entonces esto es igual a — dejame coger un color neutral.
+
+00:04:22.830 --> 00:04:24.660
+No sé si lo dije verbalmente correctamente, pero
+
+00:04:24.660 --> 00:04:25.300
+tu cogiste la idea.
+
+00:04:25.300 --> 00:04:27.560
+Cuando tienes la misma base y estas multiplicando,
+
+00:04:27.560 --> 00:04:28.930
+solo sumes los exponentes.
+
+00:04:28.930 --> 00:04:32.390
+Eso es igual a "x" a la, quiero seguir intercambiando colores, porque
+
+00:04:32.390 --> 00:04:33.870
+creo que es útil.
+
+00:04:33.870 --> 00:04:39.590
+"l", "l" más "m".
+
+00:04:39.590 --> 00:04:42.520
+Es como canson seguir intercambiando colores, pero
+
+00:04:42.520 --> 00:04:43.820
+creo que captas lo que estoy diciendo.
+
+00:04:43.820 --> 00:04:47.590
+Entonces, "x" a la "n" es igual a "x" a la "l" más "m".
+
+00:04:47.590 --> 00:04:49.790
+Dejame poner la "x" aquí.
+
+00:04:49.790 --> 00:04:51.350
+Ah, quería que fuera verde.
+
+00:04:51.350 --> 00:04:53.530
+"x" a la "l" más "n".
+
+00:04:53.530 --> 00:04:54.050
+¿Entonces qué sabemos?
+
+00:04:54.050 --> 00:04:58.980
+Sabemos que "x" a la "n" es igual a "x" a la "l" más "m".
+
+00:04:58.980 --> 00:05:00.220
+¿No cierto?
+
+00:05:00.220 --> 00:05:02.510
+Bueno, tenemos la misma base.
+
+00:05:02.510 --> 00:05:06.370
+Estos exponentes tienen que ser iguales entre si.
+
+00:05:06.370 --> 00:05:18.863
+Entonces, sabemos que "n" es igual a "l" más "m".
+
+00:05:18.863 --> 00:05:21.270
+¿Cómo nos ayuda eso?
+
+00:05:21.270 --> 00:05:23.590
+He como que jugado con los logaritmos.
+
+00:05:23.590 --> 00:05:25.840
+Estoy llegando a algun lugar?
+
+00:05:25.840 --> 00:05:27.590
+Creo que ves que sí.
+
+00:05:27.590 --> 00:05:31.140
+¿Pues como es la otra manera de escribir "n"?
+
+00:05:31.140 --> 00:05:34.510
+Dijimos, "x" a la "n" es a la "a" por "b" -- huy,
+
+00:05:34.510 --> 00:05:37.350
+realmente me salté un paso aquí.
+
+00:05:37.350 --> 00:05:40.080
+Entonces significa —bueno  volviendo aquí, "x" a la "n"
+
+00:05:40.080 --> 00:05:40.710
+es igual a "a" por "b".
+
+00:05:40.710 --> 00:05:44.640
+Eso significa que log base "x" de "a" por "b" es igual a "n".
+
+00:05:44.640 --> 00:05:45.170
+Tu sabíaa eso.
+
+00:05:45.170 --> 00:05:45.890
+Yo no.
+
+00:05:45.890 --> 00:05:47.880
+Espero que no te des cuenta de que no me estoy devolviendo o algo por el estilo.
+
+00:05:47.880 --> 00:05:52.360
+Sólo se me olvidó escribirlo cuando lo hice la primera vez.
+
+00:05:52.360 --> 00:05:53.250
+Pero, de qualquier modo.
+
+00:05:53.250 --> 00:05:54.070
+¿Entonces qué es "n"?
+
+00:05:54.070 --> 00:05:55.520
+¿En qué otra forma se escribe "n"?
+
+00:05:55.520 --> 00:05:58.400
+Pues, otra forma de escribir "n" está aquí mismo.
+
+00:05:58.400 --> 00:06:01.640
+Log base "x" de "a" por "b".
+
+00:06:01.640 --> 00:06:04.840
+Entonces, ahora sabemos que si substituimos "n" con eso,
+
+00:06:04.840 --> 00:06:11.690
+obtenemos log base "x" de "a" por "b".
+
+00:06:11.690 --> 00:06:13.080
+¿Y a qué es igual eso?
+
+00:06:13.080 --> 00:06:14.500
+Pues, eso es igual a "l".
+
+00:06:14.500 --> 00:06:18.230
+Otra manera de escribir "l" está justo aquí.
+
+00:06:18.230 --> 00:06:25.570
+Es igual a log base "x" de "a", más "m".
+
+00:06:25.570 --> 00:06:27.710
+¿Y qué es "m"?
+
+00:06:27.710 --> 00:06:30.792
+"m" está aquí mismo.
+
+00:06:30.792 --> 00:06:35.970
+Entonces, log base "x" of "b".
+
+00:06:35.970 --> 00:06:38.990
+Y allí esta nuestra primera propriedad de los logaritmos.
+
+00:06:38.990 --> 00:06:44.620
+El log base "x" de "a" por "b" — bueno eso es igual a
+
+00:06:44.620 --> 00:06:48.130
+log base "x" de "a" más log base "x" de "b".
+
+00:06:48.130 --> 00:06:50.880
+Y esto espero que lo prueba para ti.
+
+00:06:50.880 --> 00:06:55.460
+Y si quieres la intuición de por que funciona, viene
+
+00:06:55.460 --> 00:07:00.400
+del hecho que los logaritmos no son nada más que exponentes.
+
+00:07:00.400 --> 00:07:02.250
+Entonces, con esto, te dejo con este video.
+
+00:07:02.250 --> 00:07:04.470
+Y en el proximo, probare otra
+
+00:07:04.470 --> 00:07:05.900
+propiedad de los logaritmos.
+
+00:07:05.900 --> 00:07:07.670
+Te vere pronto.

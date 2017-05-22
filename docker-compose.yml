@@ -9,8 +9,7 @@ services:
     data:
         image: quantumobject/docker-ka-lite
         volumes:
-            - ./khan-data/content:/var/ka-lite/.kalite/content
-            - ./khan-data/database:/var/ka-lite/.kalite/database
+            - ./khan-data:/var/ka-lite/.kalite
         command: "true"
     rails:
         image: rails:5.0.0.1

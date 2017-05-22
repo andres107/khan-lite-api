@@ -1,0 +1,456 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:02.113 --> 00:00:12.051
+Digamos que tenemos una función f de x, y permítanme graficar una f de x arbitraria... Ese es mi eje de las Y ese otro es mi eje de las X...
+
+00:00:12.051 --> 00:00:14.698
+y puede que la función f de x luzca algo como así...
+
+00:00:14.698 --> 00:00:23.708
+y lo que busco es aproximarme a f de x con un Polinomio de Taylor centrado en x=a.
+
+00:00:23.708 --> 00:00:27.237
+Luego siendo este el eje de las X y este otro el de las Y, quiero centrar el Polinomio de Taylor aproximadamente ahí.
+
+00:00:27.237 --> 00:00:33.000
+Ustedes han visto como funciona esto: el Polinomio de Taylor proviene de la idea
+
+00:00:33.000 --> 00:00:35.968
+de que para todas las derivadas hasta e inclusive
+
+00:00:35.968 --> 00:00:38.893
+el terecer grado del polinomio, las derivdas del polinomio en cuestión
+
+00:00:38.893 --> 00:00:43.400
+evaluadas en "a" deben ser iguales a las derivadas de nuestra función
+
+00:00:43.400 --> 00:00:46.600
+también evaluada en "a". Y de que el polinomio evaluado en "a" debe también
+
+00:00:46.600 --> 00:00:49.575
+ser igual a dicha función evaluada en "a".
+
+00:00:49.575 --> 00:00:54.265
+Por ende nuestro polinomio, nuestra aproximación al Polinomio de Taylor, luciría algo como esto:
+
+00:00:54.265 --> 00:00:58.909
+Luego lo llamaré p de x, y a veces verán ustedes allí un subtexto
+
+00:00:58.909 --> 00:01:02.717
+de N mayúscula para indicar que es una aproximación de enésimo grado, y otras veces
+
+00:01:02.717 --> 00:01:09.172
+verán algo como esto N, para indicar que es una aproximación al enésimo grado centrada en a
+
+00:01:09.172 --> 00:01:12.377
+y medida en a. Mejor la escribo enseguida... Antes de que la perdamos
+
+00:01:12.377 --> 00:01:14.513
+si debemos escribirla de nuevo una y otra vez, pero ustedes deben suponer
+
+00:01:14.513 --> 00:01:18.042
+que se trata de un polinomio de enésimo grado centrado en a,
+
+00:01:18.042 --> 00:01:21.200
+y que lucirá algo así; será f de a más
+
+00:01:21.200 --> 00:01:28.723
+f prima de a, f prima de a por x menos a, más f prima veces prima de a
+
+00:01:28.723 --> 00:01:39.637
+por x menos a al cuadrado sobre (ustedes pueden anotarlo como dos factorial de dos, tienen igual valor)
+
+00:01:39.637 --> 00:01:44.374
+Yo escribiré factorial de dos, pero ustedes pueden escribir así dividido por factorial de 1 si lo prefieren.
+
+00:01:44.374 --> 00:01:52.315
+Y luego más vayan a la tercera derivada de f en a por x menos a al cubo.
+
+00:01:52.315 --> 00:01:56.402
+(creo que ustedes ven hacia adonde va esto) sobre factorial de 3.
+
+00:01:56.402 --> 00:01:57.981
+y sigan. Yo seguiré esta línea hasta el final.
+
+00:01:57.981 --> 00:02:03.925
+a su enêsimo grado, que es el enêsima derivada de "f" evaluada en "a"
+
+00:02:03.925 --> 00:02:11.495
+por x menos a al n grado encima n factorial
+
+00:02:11.495 --> 00:02:15.674
+Y eso polinomio aquí, el enésimo grado polinomio centrado en "a",
+
+00:02:15.674 --> 00:02:21.108
+es sin duda f de a serâ la misma, o p de a serâ la misma también
+
+00:02:21.108 --> 00:02:24.591
+como f de a, y puedes comprobarlo porque todos los otros grados tienen
+
+00:02:24.591 --> 00:02:27.267
+un x menos a aquí, si pongas un a en el polinomio, todos los otros
+
+00:02:27.267 --> 00:02:32.253
+grados serán cero, y tendrás p de a es igual a f de a, permítame escribirla
+
+00:02:32.253 --> 00:02:38.523
+p de a es igual a f de a. Y parece algo como esto.
+
+00:02:38.523 --> 00:02:42.867
+Va a caberse mejor a la curva cuantos más grados
+
+00:02:42.867 --> 00:02:45.210
+tenemos. Y parecía also como eso.
+
+00:02:45.210 --> 00:02:51.533
+Yo haré lo mejor posible para mostrar que parezca.
+
+00:02:51.533 --> 00:02:54.777
+Que quiero hacer en este video, desde todo de eso es de reviso,
+
+00:02:54.777 --> 00:02:57.795
+tengo el polinomio que aproxima eso función,
+
+00:02:57.795 --> 00:03:00.767
+entre más grados que yo tenga, más alto grado de este polinomio,
+
+00:03:00.767 --> 00:03:05.133
+mejor caberá en la curva si más lejos voy de "a".
+
+00:03:05.133 --> 00:03:08.151
+Pero lo que busco hacer en este video es pensar de, que podríamos comprender
+
+00:03:08.151 --> 00:03:13.400
+como bueno se cabe a la función cuando nos alejamos
+
+00:03:13.400 --> 00:03:17.904
+de "a". Lo que busco hacer es definir una función del resto,
+
+00:03:17.904 --> 00:03:21.387
+o a veces he visto se llaman los libros una función de error.
+
+00:03:21.387 --> 00:03:28.733
+Y llamaré a esto, para que estamos consecuentes con
+
+00:03:28.733 --> 00:03:31.836
+todas las notaciones diferentes en los libros, a veces personas se lo llaman
+
+00:03:31.836 --> 00:03:37.316
+una función del resto para un enésimo grado polinomio centrado en "a",
+
+00:03:37.316 --> 00:03:39.963
+a veces lo verá como una función de error,
+
+00:03:39.963 --> 00:03:43.585
+pero la función de error esta evitado porque
+
+00:03:43.585 --> 00:03:47.254
+parecía como "valor esperado" de la probabilidad,
+
+00:03:47.254 --> 00:03:50.504
+pero es muy común, esta "e" indica error, "r" significa el resto
+
+00:03:50.504 --> 00:03:55.520
+y a veces tendrán los subíndices allí como esto,
+
+00:03:55.520 --> 00:03:58.585
+y harémos definir a la función estar la diferencia entre
+
+00:03:58.585 --> 00:04:05.505
+f de x y nuestra aproximación de f de x para cualquier x dado.
+
+00:04:05.505 --> 00:04:10.533
+Así será (en los mismos colores), será
+
+00:04:10.533 --> 00:04:16.836
+f de x menos p de x. Donde esto es un enésimo grado polinomio
+
+00:04:16.836 --> 00:04:22.873
+centrado en "a". Así por ejemplo, si alguien preguntara:
+
+00:04:22.873 --> 00:04:26.449
+o si quieres ver, de que están hablando:
+
+00:04:26.449 --> 00:04:30.800
+si digan que el error de eso enésimo grado polinomio centrado en "a"
+
+00:04:30.800 --> 00:04:35.133
+cuando estámos en x es igual a b. Cuál es la cosa igual a,
+
+00:04:35.133 --> 00:04:38.802
+o cómo debas pensar de este. Pues, si b está verdad aquí,
+
+00:04:38.802 --> 00:04:43.818
+así el error de b será f de b menos el polinomio en b.
+
+00:04:43.818 --> 00:04:47.733
+Así, si f de b allí, el polinomio es verdad allí, y estará
+
+00:04:47.733 --> 00:04:50.598
+esta distancia en aquí. Así si se mida el error en a,
+
+00:04:50.598 --> 00:04:55.733
+actualmente será cero, porque el polinomio y la función
+
+00:04:55.733 --> 00:05:00.257
+son las mismas allí. F de a es igual a p de a, así el error en "a" es igual a cero.
+
+00:05:00.257 --> 00:05:03.415
+Permítame escribirlo, porque es una característica interesante.
+
+00:05:03.415 --> 00:05:08.988
+Nos ayudará eventualmente, permítame escribirlo. La función de error en "a"
+
+00:05:08.988 --> 00:05:14.839
+, y para el resto del video puedes asumir que puedo escribir un subíndice para el enésimo
+
+00:05:14.839 --> 00:05:18.183
+grado polinomio centrado en "a". No lo escribiré cada
+
+00:05:18.183 --> 00:05:23.600
+vez solamente salvarnos de mucho escrito. Y el error en "a" es igual a
+
+00:05:23.600 --> 00:05:30.257
+f menos p de a, y una vez más no escribiré los subíndices n y a, puedes asumirlo
+
+00:05:30.257 --> 00:05:33.276
+, esto es un enésimo grado polinomio centrado en "a",
+
+00:05:33.276 --> 00:05:37.733
+y estos dos cosas son iguales el uno al otro. Así esto será igual a cero
+
+00:05:37.733 --> 00:05:39.453
+, y vemos ese derecho aquí. La distancia entre
+
+00:05:39.453 --> 00:05:43.200
+las dos funciones es cero allí. Ahora vamos a pensar en otra cosa.
+
+00:05:43.200 --> 00:05:52.038
+Vamos a pensar acerca de lo que la derivada del error es función evaluada en "a".
+
+00:05:52.038 --> 00:06:00.304
+Que va a ser la derivada de nuestra función en "a" menos la primera deriviative de nuestro polinomio en "a".
+
+00:06:00.304 --> 00:06:05.459
+Si suponemos que esto es mayor de grado uno, sabemos que
+
+00:06:05.459 --> 00:06:09.360
+Estos derivados van a ser la misma en "a". Puede intentar tomar el primer
+
+00:06:09.360 --> 00:06:12.378
+derivada de aquí. Si usted toma la primera derivada de este conjunto
+
+00:06:12.378 --> 00:06:16.140
+lio y esto es realmente por qué son tan útiles, polinomios de Taylor
+
+00:06:16.140 --> 00:06:19.066
+es hasta e incluyendo el grado del polinomio,
+
+00:06:19.066 --> 00:06:21.574
+cuando evalúe los derivados de su polinomio en
+
+00:06:21.574 --> 00:06:25.200
+"a" que van a ser los mismos que los derivados de la función en "a".
+
+00:06:25.200 --> 00:06:27.982
+Eso es lo que la hace empieza a ser una buena aproximación.
+
+00:06:27.982 --> 00:06:30.733
+Pero si usted tuvo un derivado aquí, desaparecerá este término aquí,
+
+00:06:30.733 --> 00:06:34.067
+irá a cero, yo te tache por ahora, este término derecho aquí
+
+00:06:34.067 --> 00:06:37.667
+será sólo f prime de "a", y luego todos estos otros términos van
+
+00:06:37.667 --> 00:06:42.239
+para quedar con algún tipo de una x menos una de ellas. Y cuando usted
+
+00:06:42.239 --> 00:06:44.840
+evaluar en "a" todos los términos con una x menos un desaparecen porque
+
+00:06:44.840 --> 00:06:47.998
+tienes un un signo menos una de ellas... esta uno ya desaparecido,
+
+00:06:47.998 --> 00:06:53.338
+y te literalmente dejan con primer p de una voluntad igual a prime f de una.
+
+00:06:53.338 --> 00:06:56.264
+Y hemos visto antes. Así que permítanme escribir.
+
+00:06:56.264 --> 00:07:00.258
+Porque sabemos que p primos de una es igual a prime f de un
+
+00:07:00.258 --> 00:07:06.109
+Cuando evaluamos la función de error, la derivada de la función de error en "a"
+
+00:07:06.109 --> 00:07:10.939
+eso también va a ser igual a cero. Y esta propiedad general
+
+00:07:10.939 --> 00:07:16.048
+por aquí, es verdad hasta e incluyendo n. Así que permítanme escribir esto.
+
+00:07:16.048 --> 00:07:21.527
+Por lo tanto, ya sabemos que p de una es igual a f de una, ya sabemos que
+
+00:07:21.527 --> 00:07:25.846
+p primos de una es igual a prime f de una, esto realmente viene recta
+
+00:07:25.846 --> 00:07:29.376
+fuera de la definición de polinomios y esto va a ser verdad
+
+00:07:29.376 --> 00:07:35.970
+todo el camino hasta la n-ésima derivada de nuestro polinomio es evaluada en "a",
+
+00:07:35.970 --> 00:07:39.639
+no por doquier, solo evalúan en «a», va a ser igual a la n-ésima
+
+00:07:39.639 --> 00:07:44.800
+derivado de nuestra función evaluada en "a".
+
+00:07:44.800 --> 00:07:48.045
+Así que lo nos dice es que podríamos seguir haciendo esto con la función de error
+
+00:07:48.045 --> 00:07:53.200
+todo el camino a la n-ésima derivada de la función error evaluados en "a"
+
+00:07:53.200 --> 00:07:59.237
+va a ser igual a la n-ésima derivada de f evaluada en "a" menos
+
+00:07:59.237 --> 00:08:03.370
+la n-ésima derivada de nuestro polinomio evaluada en "a".
+
+00:08:03.370 --> 00:08:06.063
+Y ya dijimos que estos van a ser iguales entre sí
+
+00:08:06.063 --> 00:08:08.385
+hasta la n-ésima derivada cuando les evaluamos en "a".
+
+00:08:08.385 --> 00:08:12.333
+Así que estos son todos va a ser igual a cero. Así que esto es una propiedad interesante.
+
+00:08:12.333 --> 00:08:16.977
+pero también va a ser útil cuando empezamos a intentar enlazado esta función de error.
+
+00:08:16.977 --> 00:08:19.577
+Y eso es todo el punto de donde estoy tratando de ir con este video, y
+
+00:08:19.577 --> 00:08:20.924
+probablemente el siguiente video
+
+00:08:20.924 --> 00:08:24.000
+Vamos a lo envolvieron sabemos lo bueno de una estimación que tenemos
+
+00:08:24.000 --> 00:08:28.262
+especialmente como vamos más y más lejos de donde nos centramos...
+
+00:08:28.262 --> 00:08:30.584
+desde donde se centra nuestra aproximación.
+
+00:08:30.584 --> 00:08:33.927
+Ahora vamos a pensar cuando tomamos un derivado más allá de eso.
+
+00:08:33.927 --> 00:08:36.899
+Vamos a pensar acerca de lo que pasa cuando tomamos la (n + 1) derivado de la th.
+
+00:08:36.899 --> 00:08:49.392
+¿Qué es la (n + 1) derivado de th de nuestra función de error. Y ni siquiera
+
+00:08:49.392 --> 00:08:51.203
+Si sólo estoy evaluando en "a". Si yo solo digo en general, la función de error
+
+00:08:51.203 --> 00:08:54.872
+e de x... ¿Qué es el n + 1 derivado de ella. Bueno, va a ser el
+
+00:08:54.872 --> 00:09:01.513
+n + 1 derivada de nuestra función menos la derivada n + 1 de...
+
+00:09:01.513 --> 00:09:14.051
+no sólo estamos evaluando "a" aquí tampoco, déjame escribir una x ahí...
+
+00:09:14.051 --> 00:09:15.723
+de nuestra función... Literalmente sólo estoy tomando la derivada n + 1 de
+
+00:09:15.723 --> 00:09:20.692
+ambos lados de esta ecuación por aquí.
+
+00:09:20.692 --> 00:09:23.061
+Así que literalmente es el n + 1 derivada de nuestra función menos
+
+00:09:23.061 --> 00:09:26.729
+el n + 1 derivado de nuestro polinomio de grado n-ésimo.
+
+00:09:26.729 --> 00:09:33.800
+El n + 1 derivado de nuestro polinomio de grado n-ésimo.
+
+00:09:33.800 --> 00:09:35.467
+Una vez más, podría escribir una n aquí, podría escribir una una aquí para mostrar
+
+00:09:35.467 --> 00:09:39.082
+es una enésima centrada en "a".
+
+00:09:39.082 --> 00:09:45.584
+Ahora, ¿qué es la n + 1 derivada de un polinomio de grado n-ésimo?
+
+00:09:45.584 --> 00:09:53.667
+Si desea algunos consejos, tomar la segunda derivada de y igual a x.
+
+00:09:53.667 --> 00:09:56.497
+Es un polinomio de primer grado... tomar la segunda derivada, vas a obtener
+
+00:09:56.497 --> 00:10:01.931
+un cero. Tomar la tercera derivada de y x igual al cuadrado.
+
+00:10:01.931 --> 00:10:07.600
+La primera derivada es 2 x, la segunda derivada es 2, la tercera derivada es cero.
+
+00:10:07.600 --> 00:10:11.776
+En general, si llevas un n + 1 derivado, de un polinomio de grado n-ésimo,
+
+00:10:11.776 --> 00:10:14.191
+y usted puede comprobar por sí mismo, incluso puede probarlo por lo general,
+
+00:10:14.191 --> 00:10:19.857
+pero creo que puede ser un poco de sentido para usted, va a ser igual a cero.
+
+00:10:19.857 --> 00:10:25.867
+Así que esta cosa justo aquí, esto es un n + 1 derivado de un polinomio de grado n-ésimo.
+
+00:10:25.867 --> 00:10:38.804
+Esto va a ser igual a cero. Así que el n + 1 derivado de nuestra función de error,
+
+00:10:38.804 --> 00:10:41.637
+o nuestra función de resto se podría llamar, es igual a
+
+00:10:41.637 --> 00:10:51.297
+el n + 1 derivada de nuestra función. Lo que podemos seguir en el siguiente video,
+
+00:10:51.297 --> 00:10:57.984
+es la figura, al menos podemos estamos obligados, y si somos capaces de obligado,
+
+00:10:57.984 --> 00:11:00.724
+Si somos capaces de averiguar un límite superior de su magnitud,
+
+00:11:00.724 --> 00:11:04.393
+realmente lo que queremos hacer es obligado su magnitud global, obligado
+
+00:11:04.393 --> 00:11:06.993
+su valor absoluto.
+
+00:11:06.993 --> 00:11:11.405
+Si podemos determinar que es menor o igual a algún valor m...
+
+00:11:11.405 --> 00:11:15.260
+Si realmente podemos dependiente lo, lo mejor que podemos hacer un poco de cálculo,
+
+00:11:15.260 --> 00:11:17.333
+podemos mantener integrarla, y tal vez podamos volver a
+
+00:11:17.333 --> 00:11:20.321
+la función original y quizás nos podemos enlazar de alguna manera.
+
+00:11:20.321 --> 00:11:24.321
+Si conocemos algún tipo de enlazado como este aquí, así que voy a tomar en el siguiente vídeo.

@@ -1,0 +1,192 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Ahora que sabemos un poco sobre como construir un vector normal unitario
+
+99:59:59.999 --> 99:59:59.999
+en cualquier punto en una curva - eso lo hicimos en el ultimo video -
+
+99:59:59.999 --> 99:59:59.999
+Quiero empezar a explorar una expresion interesante.
+
+99:59:59.999 --> 99:59:59.999
+La expresion es: el integral lineal alrededor de un
+
+99:59:59.999 --> 99:59:59.999
+orientación hacia la derecha
+
+99:59:59.999 --> 99:59:59.999
+de un campo vectorial f salpicado el vector normal de la unidad en cualquier punto de dicha curva ds
+
+99:59:59.999 --> 99:59:59.999
+(Voy a escribir ds en magenta)
+
+99:59:59.999 --> 99:59:59.999
+DS.
+
+99:59:59.999 --> 99:59:59.999
+Lo primero permite conceptualizar lo que esto incluso está diciendo
+
+99:59:59.999 --> 99:59:59.999
+y luego vamos a manipular un poco para ver si podemos llegar con
+
+99:59:59.999 --> 99:59:59.999
+y conclusión interesante, realmente se manipulan
+
+99:59:59.999 --> 99:59:59.999
+vamos a usar el teorema de green
+
+99:59:59.999 --> 99:59:59.999
+y realmente nos vamos a topar con un 2 dimensiones
+
+99:59:59.999 --> 99:59:59.999
+versión del teorema de la divergencia
+
+99:59:59.999 --> 99:59:59.999
+que todos los sonidos muy complicados
+
+99:59:59.999 --> 99:59:59.999
+pero ojala que podamos llegar a un poco de intuición
+
+99:59:59.999 --> 99:59:59.999
+pues qué es realmente un poco de sentido común.
+
+99:59:59.999 --> 99:59:59.999
+Así, en primer lugar permite sólo pensar en esto.
+
+99:59:59.999 --> 99:59:59.999
+Así que permítanme sorteo-let me dibuje un plano de coordenadas aquí
+
+99:59:59.999 --> 99:59:59.999
+así lo hacemos en blanco
+
+99:59:59.999 --> 99:59:59.999
+Así que este derecho aquí que es nuestro eje de y
+
+99:59:59.999 --> 99:59:59.999
+allí está nuestro eje x
+
+99:59:59.999 --> 99:59:59.999
+Permítanme llamar nosotros mismos mi curva por lo que podría ser mi curva
+
+99:59:59.999 --> 99:59:59.999
+algo así como--voy a hacer en un color azul
+
+99:59:59.999 --> 99:59:59.999
+así que mi curva podría ser algo como esto-mi contorno
+
+99:59:59.999 --> 99:59:59.999
+y su va en la dirección positiva, a la izquierda
+
+99:59:59.999 --> 99:59:59.999
+sólo así
+
+99:59:59.999 --> 99:59:59.999
+y ahora tenemos nuestro campo de vector y sólo un recordatorio
+
+99:59:59.999 --> 99:59:59.999
+hemos visto esto varias veces
+
+99:59:59.999 --> 99:59:59.999
+Puedo-mi campo vectorial asociará un vector con cualquiera
+
+99:59:59.999 --> 99:59:59.999
+punto en el plano x-y
+
+99:59:59.999 --> 99:59:59.999
+y lo hará--puede ser definido como una función
+
+99:59:59.999 --> 99:59:59.999
+de x e y, que yo llamo que p
+
+99:59:59.999 --> 99:59:59.999
+alguna función de x y y veces la i vector unitario
+
+99:59:59.999 --> 99:59:59.999
+por lo que dice lo que el me componente del campo vectorial es para cualquier x e y punto
+
+99:59:59.999 --> 99:59:59.999
+y, a continuación, a lo que el componente j, o lo multiplicamos
+
+99:59:59.999 --> 99:59:59.999
+el componente de j por
+
+99:59:59.999 --> 99:59:59.999
+o punto de la componente vertical de para cualquier x e y
+
+99:59:59.999 --> 99:59:59.999
+así que alguna función de x e y siempre me
+
+99:59:59.999 --> 99:59:59.999
+Además de algunas otras funciones escalares de x e y
+
+99:59:59.999 --> 99:59:59.999
+veces j
+
+99:59:59.999 --> 99:59:59.999
+y si me dan cualquier punto
+
+99:59:59.999 --> 99:59:59.999
+habrá un vector asociado con él
+
+99:59:59.999 --> 99:59:59.999
+cualquier punto de que hay un vector asociado en función
+
+99:59:59.999 --> 99:59:59.999
+¿Cómo definimos esta función.
+
+99:59:59.999 --> 99:59:59.999
+Pero esta expresión por aquí
+
+99:59:59.999 --> 99:59:59.999
+Estamos tomando una línea integral
+
+99:59:59.999 --> 99:59:59.999
+nos preocupa específicamente sobre los puntos a lo largo de esta curva
+
+99:59:59.999 --> 99:59:59.999
+a lo largo de este contorno
+
+99:59:59.999 --> 99:59:59.999
+por aquí y así permite pensar sobre lo que esto es realmente
+
+99:59:59.999 --> 99:59:59.999
+Esta pieza sobre aquí realmente nos está diciendo
+
+99:59:59.999 --> 99:59:59.999
+antes nos resumir todas estas piezas infinitesimal
+
+99:59:59.999 --> 99:59:59.999
+así que si nosotros sólo tomar f punto n
+
+99:59:59.999 --> 99:59:59.999
+permite tan sólo pensar en un punto de esta curva
+
+99:59:59.999 --> 99:59:59.999
+así un punto de esta curva puede ser este punto derecho por aquí
+
+99:59:59.999 --> 99:59:59.999
+asociado hasta que punto allí es un vector
+
+99:59:59.999 --> 99:59:59.999
+es lo que hace el campo vectorial
+
+99:59:59.999 --> 99:59:59.999
+Tan f podría ser algo como ese derecho por allí
+
+99:59:59.999 --> 99:59:59.999
+así podría ser en ese momento f
+
+99:59:59.999 --> 99:59:59.999
+y vamos a punto con el vector normal de la unidad de ese momento
+
+99:59:59.999 --> 99:59:59.999
+por lo que el vector normal de la unidad podría ser algo así
+
+99:59:59.999 --> 99:59:59.999
+en ese momento sería n sombrero
+
+99:59:59.999 --> 99:59:59.999
+es en ese momento el campo vectorial

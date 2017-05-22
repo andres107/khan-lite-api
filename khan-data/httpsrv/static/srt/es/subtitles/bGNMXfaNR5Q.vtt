@@ -1,0 +1,1038 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.920
+-
+
+00:00:00.920 --> 00:00:04.660
+Me han llegado muchas peticiones para explicar o enseñar el
+
+00:00:04.660 --> 00:00:05.590
+teorema del valor medio.
+
+00:00:05.590 --> 00:00:07.010
+Asi que hagámoslo en este video.
+
+00:00:07.010 --> 00:00:09.440
+Asi que este es el teorema del valor medio
+
+00:00:09.440 --> 00:00:13.540
+...
+
+00:00:13.540 --> 00:00:15.530
+Y tengo distintos pensamientos sobre el teorema del valor medio
+
+00:00:15.530 --> 00:00:20.490
+Parece muy fácil, pero te darás cuenta que puede que no lo sea
+
+00:00:20.490 --> 00:00:22.820
+obvio probarlo, pero la intuición detras de esto
+
+00:00:22.820 --> 00:00:23.860
+es muy obvia
+
+00:00:23.860 --> 00:00:27.010
+Y la razón por la que tengo pensamientos diferentes es porque
+
+00:00:27.010 --> 00:00:34.130
+incluso, y espero lo veas, la intuición es muy
+
+00:00:34.130 --> 00:00:36.770
+obvia, pero se apegan a los libros de matematicas, y la gente
+
+00:00:36.770 --> 00:00:39.890
+solo trata de aprender cálculo, y dar a entender lo que "importa", y
+
+00:00:39.890 --> 00:00:41.710
+entonces han puesto el teorema del valor medio ahí, y tienen
+
+00:00:41.710 --> 00:00:43.700
+todas esas notaciones de funciones, y todas esas
+
+00:00:43.700 --> 00:00:45.570
+palabras, y esto solo confunde a la gente.
+
+00:00:45.570 --> 00:00:47.890
+Así que con un poco de suerte este vídeo aclarará eso un poco,
+
+00:00:47.890 --> 00:00:51.360
+y estoy ansioso de ver que piensas de eso.
+
+00:00:51.360 --> 00:00:51.880
+Así que veamos.
+
+00:00:51.880 --> 00:00:53.820
+¿Qué dice el teorema del valor medio?
+
+00:00:53.820 --> 00:00:54.890
+déjame dibujar algunos ejes
+
+00:00:54.890 --> 00:00:56.505
+Haré una explicación visual primero
+
+00:00:56.505 --> 00:01:01.340
+...
+
+00:01:01.340 --> 00:01:03.340
+Creo que utilizaré magenta para esto
+
+00:01:03.340 --> 00:01:04.370
+Así que ese es mi eje X.
+
+00:01:04.370 --> 00:01:07.050
+...
+
+00:01:07.050 --> 00:01:11.340
+y este es mi eje Y
+
+00:01:11.340 --> 00:01:14.000
+Y digamos que tengo una funcion f de x (f(x))
+
+00:01:14.000 --> 00:01:17.110
+...
+
+00:01:17.110 --> 00:01:22.040
+Así que dibujare mi f de x [ f(x) ]
+
+00:01:22.040 --> 00:01:24.100
+esa es tan buena como cualquiera.
+
+00:01:24.100 --> 00:01:26.950
+Y esta es una función f de x, y voy a poner
+
+00:01:26.950 --> 00:01:28.750
+unas condiciones para f de x
+
+00:01:28.750 --> 00:01:38.620
+f de x tiene que ser continua y diferenciable
+
+00:01:38.620 --> 00:01:42.380
+y se que muchos de ustedes probablemente se austen
+
+00:01:42.380 --> 00:01:43.270
+cuando oigan esas palabras.
+
+00:01:43.270 --> 00:01:45.830
+Suena como lo que diría un matematico, y
+
+00:01:45.830 --> 00:01:47.420
+eso suena muy abstracto
+
+00:01:47.420 --> 00:01:51.940
+Continuo significa que la curva esta conectada
+
+00:01:51.940 --> 00:01:54.280
+a si misma a medida que la recorremos
+
+00:01:54.280 --> 00:01:57.300
+y aqui, las condiciones se hacen sobre un intervalo cerrado
+
+00:01:57.300 --> 00:01:59.810
+este es otro termino matemático que verás
+
+00:01:59.810 --> 00:02:03.490
+así que se suele decir, en un intervalo cerrado de "a" a "b"
+
+00:02:03.490 --> 00:02:06.750
+Todo eso es un intervalo, digamos que "a" es el punto menor
+
+00:02:06.750 --> 00:02:09.510
+digamos que este es a, no sabemos que numero es.
+
+00:02:09.510 --> 00:02:12.155
+Podria ser -5, o quien sabe.
+
+00:02:12.155 --> 00:02:17.020
+y digamos que este es b aqui, vamos a poner b justo por aqui
+
+00:02:17.020 --> 00:02:18.080
+Digamos que ese es b
+
+00:02:18.080 --> 00:02:20.720
+asi que cuando se habla de un intervalo cerrado, definido en un
+
+00:02:20.720 --> 00:02:24.360
+un intervalo cerrado, eso significa que la funcion necesita estar
+
+00:02:24.360 --> 00:02:28.460
+definida en cada numero entre a y b, y que la funcion necesita
+
+00:02:28.460 --> 00:02:31.250
+estar definido en a y en b
+
+00:02:31.250 --> 00:02:33.930
+Si se refieren a un intervalo abierto entre "a" y "b", entonces
+
+00:02:33.930 --> 00:02:37.180
+significa que sólo esta definida para los valores entre "a" y "b"
+
+00:02:37.180 --> 00:02:39.160
+pero no necesariamente en "a" y en "b"
+
+00:02:39.160 --> 00:02:42.030
+Así que tiene que ser, continua, diferenciable y digamos
+
+00:02:42.030 --> 00:02:47.790
+que esta definida en un intervalo cerrado, y esta es
+
+00:02:47.790 --> 00:02:51.480
+su notación [a,b]
+
+00:02:51.480 --> 00:02:55.660
+Eso significa que tiene que estar definida para todos los valores de "x"
+
+00:02:55.660 --> 00:03:00.250
+desde "a" hasta "b", incluyendo "a" y "b"
+
+00:03:00.250 --> 00:03:02.660
+Si hubiese sido un intervalo abierto, lo escribiríamos asi
+
+00:03:02.660 --> 00:03:04.720
+escribirias (a,b)
+
+00:03:04.720 --> 00:03:07.350
+que significa un intervalo para todos los números entre "a" y
+
+00:03:07.350 --> 00:03:09.060
+"b" pero sin incluir esos dos
+
+00:03:09.060 --> 00:03:12.580
+Por ahora lo ignoraremos
+
+00:03:12.580 --> 00:03:14.400
+Volviendo al teorema del valor medio
+
+00:03:14.400 --> 00:03:16.060
+ya sabes, espero, que significa "continuo"
+
+00:03:16.060 --> 00:03:18.350
+Dibujaré aquí una función que no es continua
+
+00:03:18.350 --> 00:03:19.620
+Una función no continua se
+
+00:03:19.620 --> 00:03:20.590
+parecería a esta
+
+00:03:20.590 --> 00:03:22.320
+haría así, y seguiría
+
+00:03:22.320 --> 00:03:24.180
+aqui, y continuaría de esta manera
+
+00:03:24.180 --> 00:03:24.490
+bien?
+
+00:03:24.490 --> 00:03:27.430
+Este sería un ejemplo de una función, digamos
+
+00:03:27.430 --> 00:03:30.581
+con los mismos ejes, los dibujo en otro color
+
+00:03:30.581 --> 00:03:35.560
+Si este fuese nuestro "Y" - no, no está bien
+
+00:03:35.560 --> 00:03:39.440
+Si este fuese nuestro eje "Y" y este fuese nuestro eje "X", tendrías
+
+00:03:39.440 --> 00:03:40.800
+unas referencias para lo que he dibujado
+
+00:03:40.800 --> 00:03:43.470
+Asi que si la función es continua, continua,
+
+00:03:43.470 --> 00:03:47.560
+continua y de repente salta, esa desconexión, esa
+
+00:03:47.560 --> 00:03:50.240
+hace la función discontinua, o una
+
+00:03:50.240 --> 00:03:51.720
+función no continua
+
+00:03:51.720 --> 00:03:53.670
+Asi que la función tiene que ser continua
+
+00:03:53.670 --> 00:03:55.770
+y ahora... que significa "diferenciable"?
+
+00:03:55.770 --> 00:03:58.950
+Diferenciable significa que en cada punto del intervalo
+
+00:03:58.950 --> 00:04:02.940
+elegido, debe ser posible calcular su derivada
+
+00:04:02.940 --> 00:04:04.610
+Eso significa que es derivable
+
+00:04:04.610 --> 00:04:06.030
+Es diferenciable
+
+00:04:06.030 --> 00:04:07.050
+Y que más significa?
+
+00:04:07.050 --> 00:04:09.150
+Bien, significa que si representaras gráficamente la derivada
+
+00:04:09.150 --> 00:04:12.460
+de esta función, también sería continua
+
+00:04:12.460 --> 00:04:14.240
+Os dejaré pensar sobre ellos un segundo
+
+00:04:14.240 --> 00:04:16.905
+Y en efecto, en este video os enseñaré un ejemplo de
+
+00:04:16.905 --> 00:04:22.700
+una función que es continua pero no diferenciable y
+
+00:04:22.700 --> 00:04:25.020
+por ello, no podemos aplicar el reorema del valor medio
+
+00:04:25.020 --> 00:04:26.900
+De todas formas, volvamos al teorema del valor medio
+
+00:04:26.900 --> 00:04:30.120
+La mayoría de las funciones con las que trabajamos cumplen las
+
+00:04:30.120 --> 00:04:32.210
+tres condiciones
+
+00:04:32.210 --> 00:04:34.290
+a menos que estés resolviendo límites que hacen
+
+00:04:34.290 --> 00:04:35.960
+que esto se venga abajo
+
+00:04:35.960 --> 00:04:36.990
+De cualquier manera, volviendo a la función
+
+00:04:36.990 --> 00:04:39.560
+esta función cumple los tres requisitos
+
+00:04:39.560 --> 00:04:43.830
+y todo lo que dice es que si tomara la pendiente media
+
+00:04:43.830 --> 00:04:46.120
+entre el punto "a" y el punto "b"...
+
+00:04:46.120 --> 00:04:48.800
+bien... pero que es la pendiente?, la pendiente media entre
+
+00:04:48.800 --> 00:04:50.450
+el punto "a" y el punto "b"?
+
+00:04:50.450 --> 00:04:54.060
+La pendiente es la distancia en vertical partida de la distancia en horizontal
+
+00:04:54.060 --> 00:04:55.610
+bien... que es?
+
+00:04:55.610 --> 00:04:58.810
+Intentaré dibujar la pendiente media
+
+00:04:58.810 --> 00:05:04.700
+la dist. en horizontal sería esta distancia
+
+00:05:04.700 --> 00:05:07.565
+esto sería la dist. en horizontal, si?, y esto la dist. en vertical
+
+00:05:07.565 --> 00:05:10.400
+...
+
+00:05:10.400 --> 00:05:12.630
+y este es el punto, aquí está
+
+00:05:12.630 --> 00:05:17.270
+el punto (a, f(a))
+
+00:05:17.270 --> 00:05:23.450
+y aquí este es el punto (b, f(b))
+
+00:05:23.450 --> 00:05:27.270
+así que cual es la pendiente media entre a y b?
+
+00:05:27.270 --> 00:05:29.240
+Es la dist.en vertical partida de la dist. en horizontal
+
+00:05:29.240 --> 00:05:30.190
+y cuál es la dist. en vertical?
+
+00:05:30.190 --> 00:05:31.510
+cuánto vale esta distancia?
+
+00:05:31.510 --> 00:05:35.630
+cuánto hemos subido en el paso de f(a) a f(b)?
+
+00:05:35.630 --> 00:05:40.100
+bien la dist. en vertical será f(b), esta
+
+00:05:40.100 --> 00:05:45.640
+altura, menos f(a)
+
+00:05:45.640 --> 00:05:50.190
+f(b) menos f(a)
+
+00:05:50.190 --> 00:05:51.960
+y cuál es la dist. en horizontal, cuánto es esta distancia?
+
+00:05:51.960 --> 00:05:53.530
+Pues es "b" menos "a"
+
+00:05:53.530 --> 00:05:57.070
+...
+
+00:05:57.070 --> 00:05:59.430
+y si dibujase la linea que tiene esa pendiente media
+
+00:05:59.430 --> 00:06:00.890
+se parecería a esta
+
+00:06:00.890 --> 00:06:03.690
+Podemos hacerla pasar por estos dos puntos, pero
+
+00:06:03.690 --> 00:06:06.750
+no tiene porque
+
+00:06:06.750 --> 00:06:10.130
+Lo haré en azul
+
+00:06:10.130 --> 00:06:14.570
+...
+
+00:06:14.570 --> 00:06:16.640
+Asi que esta es la pendiente media entre esos
+
+00:06:16.640 --> 00:06:18.090
+dos puntos, bien?
+
+00:06:18.090 --> 00:06:20.030
+Y que es lo que nos dice el teorema del valor medio?
+
+00:06:20.030 --> 00:06:24.690
+Dice que si f(x) está definida en un intervalo cerrado
+
+00:06:24.690 --> 00:06:27.960
+de "a" a "b", si f(x) es continua, y si
+
+00:06:27.960 --> 00:06:29.750
+es diferenciable de tal manera que podríamos calcular la derivada en cualquier
+
+00:06:29.750 --> 00:06:45.560
+punto, tiene que existir algun punto "c", donde "f prima" de "c"
+
+00:06:45.560 --> 00:06:47.350
+es igual a esta cosa
+
+00:06:47.350 --> 00:06:50.740
+es igual a "f prima" de "c"
+
+00:06:50.740 --> 00:06:52.330
+(no debería haberlo escrito aqui)
+
+00:06:52.330 --> 00:06:53.820
+Bien, qué nos está diciendo?
+
+00:06:53.820 --> 00:06:57.140
+Lo que nos está diciendo es que si nos encontramos en una función continua
+
+00:06:57.140 --> 00:07:00.000
+diferenciable, definida en un inervalo cerrado, que
+
+00:07:00.000 --> 00:07:03.890
+existe algun punto "c" -oh! - "c" tiene que estar entre "a" y "b"
+
+00:07:03.890 --> 00:07:07.550
+existe algun punto entre "a" y "b", y podría estar en alguno
+
+00:07:07.550 --> 00:07:11.540
+de los dos, pero hay un punto "c" donde la derivada en
+
+00:07:11.540 --> 00:07:16.390
+"c" o la pendiente en "c"
+
+00:07:16.390 --> 00:07:19.700
+es identica a la pendiente en ese intervalo
+
+00:07:19.700 --> 00:07:21.090
+que significa esto?
+
+00:07:21.090 --> 00:07:22.950
+podemos verlo
+
+00:07:22.950 --> 00:07:27.790
+hay algun punto a lo largo de esta curva donde la pendiente se parezca
+
+00:07:27.790 --> 00:07:31.850
+a la pendiente a la pendiente media que hemos calculado?
+
+00:07:31.850 --> 00:07:33.030
+Por supuesto, veamoslo...
+
+00:07:33.030 --> 00:07:37.010
+parece... quizás... este punto? justo aquí?
+
+00:07:37.010 --> 00:07:37.650
+Aquí donde lo he dibujado
+
+00:07:37.650 --> 00:07:40.320
+--- poco exacto ---
+
+00:07:40.320 --> 00:07:43.520
+pero ese punto se parece a la pendiente, podría
+
+00:07:43.520 --> 00:07:47.060
+decir que la pendiente es algo como esto, justo así
+
+00:07:47.060 --> 00:07:49.970
+y aunque no sabemos como es esta función analíticamente
+
+00:07:49.970 --> 00:07:53.280
+pero visualmente podemos ver que en este punto "c" la
+
+00:07:53.280 --> 00:07:57.220
+derivada, con este punto elegido
+
+00:07:57.220 --> 00:08:00.160
+este podría ser el punto "c"
+
+00:08:00.160 --> 00:08:01.220
+y como podemos decir eso?
+
+00:08:01.220 --> 00:08:05.360
+Bien porque f prima de c está en la pendiente y es igual
+
+00:08:05.360 --> 00:08:06.610
+a la pendiente media
+
+00:08:06.610 --> 00:08:10.190
+asi que f prima de c es esta cosa y va a ser igual a
+
+00:08:10.190 --> 00:08:12.460
+la pendiente media sobre el total
+
+00:08:12.460 --> 00:08:15.230
+y esta curva probablemente tenga otro punto
+
+00:08:15.230 --> 00:08:17.950
+donde la pendiente sea igual a la pendiente media
+
+00:08:17.950 --> 00:08:18.210
+veamos
+
+00:08:18.210 --> 00:08:21.360
+este de aqui parece, justo aqui
+
+00:08:21.360 --> 00:08:23.710
+este que he dibujado
+
+00:08:23.710 --> 00:08:26.460
+parece que la pendiente aqui puede parecerse
+
+00:08:26.460 --> 00:08:28.110
+paralela también
+
+00:08:28.110 --> 00:08:31.000
+estas lineas deberían ser paralelas
+
+00:08:31.000 --> 00:08:33.040
+las tangentes deberían ser paralelas
+
+00:08:33.040 --> 00:08:34.630
+así que espero que tenga sentido para ti
+
+00:08:34.630 --> 00:08:41.170
+Otra forma de pensar , hay?
+
+00:08:41.170 --> 00:08:45.450
+dejadme dibujar un gráfico para asegurarme que
+
+00:08:45.450 --> 00:08:47.620
+acertamos en casa
+
+00:08:47.620 --> 00:08:50.870
+dibujemos mi posición como una funcion del tiempo
+
+00:08:50.870 --> 00:08:53.630
+esto es algo aplicable
+
+00:08:53.630 --> 00:08:55.000
+al mundo real
+
+00:08:55.000 --> 00:08:57.610
+asi este es mi eje x o eje del tiempo
+
+00:08:57.610 --> 00:09:00.270
+y mi eje de posición
+
+00:09:00.270 --> 00:09:03.140
+esto nos lleva de vuelta a nuestra idea original
+
+00:09:03.140 --> 00:09:05.470
+de lo que es una derivada
+
+00:09:05.470 --> 00:09:09.720
+así que esto es tiempo, y defino la posición o distancia
+
+00:09:09.720 --> 00:09:11.050
+no importa
+
+00:09:11.050 --> 00:09:12.490
+posición
+
+00:09:12.490 --> 00:09:15.910
+si me estuviese moviendo a una velocidad constante, mi posición
+
+00:09:15.910 --> 00:09:19.190
+como función del tiempo sería una linea recta verdad?
+
+00:09:19.190 --> 00:09:21.050
+y la velocidad es en realidad tu pendiente
+
+00:09:21.050 --> 00:09:22.590
+pero supongamos que tengo una variación de velocidad
+
+00:09:22.590 --> 00:09:25.910
+y en realidad, si estás conduciendo, siempre estas
+
+00:09:25.910 --> 00:09:27.640
+a cambiando de velocidad
+
+00:09:27.640 --> 00:09:31.770
+así que digamos que empiezo parado en el momento de tiempo "t" igual a cero
+
+00:09:31.770 --> 00:09:39.810
+y después acelero, depues decelero un poco
+
+00:09:39.810 --> 00:09:43.150
+decelero un poco, sigo decelerando y depués llego
+
+00:09:43.150 --> 00:09:45.860
+a una parada, así que me quedo parado
+
+00:09:45.860 --> 00:09:49.920
+Luego acelero otra vez, decelero
+
+00:09:49.920 --> 00:09:52.450
+acelero, etc...
+
+00:09:52.450 --> 00:09:53.080
+bien?
+
+00:09:53.080 --> 00:09:57.145
+así que esto podría ser, tengo una variable velocidad, y
+
+00:09:57.145 --> 00:09:59.500
+esto podría ser mi posición en función del tiempo
+
+00:09:59.500 --> 00:10:04.390
+asi que todo esto es
+
+00:10:04.390 --> 00:10:05.900
+tiempo cero, posición cero
+
+00:10:05.900 --> 00:10:10.920
+esto es digamos despues de una 1 hora, esto es una hora, esto tiempo
+
+00:10:10.920 --> 00:10:16.685
+igual a una hora, y digamos que he recorrido 60 millas
+
+00:10:16.685 --> 00:10:20.660
+...
+
+00:10:20.660 --> 00:10:21.710
+que podemos decir?
+
+00:10:21.710 --> 00:10:29.160
+podemos decir que mi velocidad media
+
+00:10:29.160 --> 00:10:31.370
+la distancia dividida por el cambio en el tiempo
+
+00:10:31.370 --> 00:10:33.700
+es igual a 60 millas/hora
+
+00:10:33.700 --> 00:10:38.230
+...
+
+00:10:38.230 --> 00:10:40.950
+Así que lo que dice el teorema de valores medios, está bien.
+
+00:10:40.950 --> 00:10:43.780
+Tu velocidad media, así que podrías verla como
+
+00:10:43.780 --> 00:10:47.430
+la pendiente media entre este punto y este punto con 60,
+
+00:10:47.430 --> 00:10:51.410
+si tu velocidad media fuera 60 millas por hora, había cierto
+
+00:10:51.410 --> 00:10:54.950
+punto en tiempo, quizá más, pero había al menos un punto en
+
+00:10:54.950 --> 00:10:58.290
+tiempo, donde estabas yendo a exactamente 60 millas por hora
+
+00:10:58.290 --> 00:10:59.590
+Tiene sentido ¿Verdad?
+
+00:10:59.590 --> 00:11:02.030
+Si tu media es de 60 millas por hora, quizá estas yendo a 40
+
+00:11:02.030 --> 00:11:03.880
+en algún punto, pero en otro punto ibas a
+
+00:11:03.880 --> 00:11:07.440
+80, y entre esas tendrías que ir a 60 millas por hora
+
+00:11:07.440 --> 00:11:10.300
+Así que déjame ver si puedo dibujarlo gráficamente.
+
+00:11:10.300 --> 00:11:14.683
+Así que esta pendiente es mi velocidad media, y la forma en que la
+
+00:11:14.683 --> 00:11:17.110
+dibujé, hay probablemente 2 puntos, veamos, probablemente
+
+00:11:17.110 --> 00:11:21.050
+aquí, iba también a 60mph
+
+00:11:21.050 --> 00:11:23.380
+aquí seguramente la pendiente es 60,
+
+00:11:23.380 --> 00:11:29.100
+la velocidad instantánea aquí seguramente también.
+
+00:11:29.100 --> 00:11:32.710
+Vale, antes de irme, vamos a hacer esto analíticamente,
+
+00:11:32.710 --> 00:11:36.010
+para hacerlo con números.
+
+00:11:36.010 --> 00:11:38.280
+Y la razón por la que me gusta y no me gusta el
+
+00:11:38.280 --> 00:11:42.040
+teorema del valor medio es que después es útil, si te haces un experto
+
+00:11:42.040 --> 00:11:46.670
+matemático, seguramente lo usarás para demostrar teoremas
+
+00:11:46.670 --> 00:11:48.290
+o demostrarás el propio teorema del valor medio.
+
+00:11:48.290 --> 00:11:50.390
+Pero si el cálculo lo quieres para aplicarlo,
+
+00:11:50.390 --> 00:11:51.900
+no vas a usar mucho el teorema
+
+00:11:51.900 --> 00:11:52.610
+del valor medio.
+
+00:11:52.610 --> 00:11:54.200
+Pero bueno, si tienes que aprenderlo, tienes que aprenderlo,
+
+00:11:54.200 --> 00:11:56.720
+y así aprendes algo sobre el mundo, así que sí
+
+00:11:56.720 --> 00:11:58.450
+es interesante en ese aspecto.
+
+00:11:58.450 --> 00:12:04.680
+Si tenemos la funcion f(x) = x^2 - 4x
+
+00:12:04.680 --> 00:12:09.210
+y el intervalo que me importa
+
+00:12:09.210 --> 00:12:12.880
+(es un intervalo cerrado, por eso incluyo el 2)
+
+00:12:12.880 --> 00:12:15.880
+va de 2 a 4.
+
+00:12:15.880 --> 00:12:19.200
+El Teorema de valor medio dice que si esta
+
+00:12:19.200 --> 00:12:22.050
+función está definida en este intervalo
+
+00:12:22.050 --> 00:12:23.380
+Podemos poner cualquier número
+
+00:12:23.380 --> 00:12:26.180
+El dominio son en realidad todos los números reales, podría poner aquí
+
+00:12:26.180 --> 00:12:29.050
+cualquier número, por eso va a estar definida,
+
+00:12:29.050 --> 00:12:30.990
+en este intervalo, por narices.
+
+00:12:30.990 --> 00:12:34.140
+Pero por lo que se define en el intervalo, esto es continuo,
+
+00:12:34.140 --> 00:12:34.870
+es diferenciable
+
+00:12:34.870 --> 00:12:36.160
+puedes tomar la derivada , y la derivada
+
+00:12:36.160 --> 00:12:37.380
+es contínua
+
+00:12:37.380 --> 00:12:39.810
+Así, el teorema del valor medio se aplica aqui
+
+00:12:39.810 --> 00:12:42.960
+vamos a ver que valor de "c" es igual a la ...
+
+00:12:42.960 --> 00:12:45.400
+pendiente media entre 2 y 4
+
+00:12:45.400 --> 00:12:48.700
+entonces ¿Cuál es la pendiente media entre 2 y 4?
+
+00:12:48.700 --> 00:12:52.780
+bien, va a ser f de 4, por lo tanto
+
+00:12:52.780 --> 00:12:59.900
+f de 4 menos 2 dividido por el cambio en x, por lo tanto 4-2
+
+00:12:59.900 --> 00:13:01.460
+esto es igual a la pendiente media
+
+00:13:01.460 --> 00:13:06.800
+entonces f de 4 es 16 menos 16, entendido?
+
+00:13:06.800 --> 00:13:07.800
+que da 0
+
+00:13:07.800 --> 00:13:08.370
+Voy a comprobar que esto es correcto
+
+00:13:08.370 --> 00:13:12.740
+4 veces 4, 16 menos 4 veces 4, 16, bien.
+
+00:13:12.740 --> 00:13:14.560
+menos f de 2
+
+00:13:14.560 --> 00:13:19.500
+f de 2 es 2 al cuadrado, es 4, bien, y despues
+
+00:13:19.500 --> 00:13:21.730
+menos 4 veces 2
+
+00:13:21.730 --> 00:13:23.630
+que da 8
+
+00:13:23.630 --> 00:13:27.810
+...
+
+00:13:27.810 --> 00:13:29.390
+todo esto sobre 2
+
+00:13:29.390 --> 00:13:31.060
+y entonces estos iguales menos 4
+
+00:13:31.060 --> 00:13:33.120
+entonces esto da 4/2
+
+00:13:33.120 --> 00:13:36.700
+por lo tanto la pendiente media de X es igual a 2 que es x
+
+00:13:36.700 --> 00:13:39.420
+es igual a 4 es 2
+
+00:13:39.420 --> 00:13:42.350
+y ahora el significado de el teorema del valor medio, nos cuenta que tiene que haber
+
+00:13:42.350 --> 00:13:45.670
+algún punto entre estos dos, quizas incluiyendo uno de estos
+
+00:13:45.670 --> 00:13:50.340
+donde la pendiente en este punto es exactamente igual a 2
+
+00:13:50.340 --> 00:13:51.900
+Vamos a averiguar que punto es
+
+00:13:51.900 --> 00:13:53.390
+este c
+
+00:13:53.390 --> 00:13:55.720
+vamos a hacer la derivada, porque la derivada de c
+
+00:13:55.720 --> 00:13:56.620
+dará como resultado 2
+
+00:13:56.620 --> 00:13:57.690
+Asi que cogemos solo la derivada
+
+00:13:57.690 --> 00:14:04.110
+vamos a decir f prima de x es igual a 2x menos 4
+
+00:14:04.110 --> 00:14:08.990
+y queremos averiguar, a que valor de x es igual a 2
+
+00:14:08.990 --> 00:14:09.600
+Entonces decimos.
+
+00:14:09.600 --> 00:14:13.460
+2x menos 4 es igual a 2
+
+00:14:13.460 --> 00:14:16.030
+¿Donde la media es igual a 2?
+
+00:14:16.030 --> 00:14:24.000
+y obtenemos que 2x es igual a 6, x es igual a 3
+
+00:14:24.000 --> 00:14:27.880
+entonces si x es igual a 3, la derivada es exactamente igual
+
+00:14:27.880 --> 00:14:28.630
+a la pendiente media
+
+00:14:28.630 --> 00:14:30.990
+pero voy a ver si puedo, dejarme poner la
+
+00:14:30.990 --> 00:14:33.540
+calculadora grafica aqui
+
+00:14:33.540 --> 00:14:36.910
+vamos a ver como si la puedo poner
+
+00:14:36.910 --> 00:14:38.980
+OK
+
+00:14:38.980 --> 00:14:43.090
+entonces aqui tenemos la grafica de x cuadrado menos 4x
+
+00:14:43.090 --> 00:14:44.600
+vamos a ver si puedo hacerla un poco más grande
+
+00:14:44.600 --> 00:14:47.920
+...
+
+00:14:47.920 --> 00:14:52.050
+el intervalo que nos importa va de aqui a aquí
+
+00:14:52.050 --> 00:14:55.910
+entonces la pendiente media sobre este intervalo era 2
+
+00:14:55.910 --> 00:14:59.010
+si hubieramos dibujado la pendiente, se pareceria a esto
+
+00:14:59.010 --> 00:15:00.900
+la pendiente se pareceria a esto
+
+00:15:00.900 --> 00:15:04.930
+y en el punto 3, la pendiente es exactamente 2.
+
+00:15:04.930 --> 00:15:07.540
+voy a dibujarla
+
+00:15:07.540 --> 00:15:11.320
+no es muy dificil de dibujar por uno mismo
+
+00:15:11.320 --> 00:15:13.540
+vamos a ver
+
+00:15:13.540 --> 00:15:21.270
+entonces. si este es el eje de las X
+
+00:15:21.270 --> 00:15:22.160
+este es el eje de las y
+
+00:15:22.160 --> 00:15:24.960
+...
+
+00:15:24.960 --> 00:15:28.820
+entonces la grafica pasa por el punto 0, 0
+
+00:15:28.820 --> 00:15:31.010
+lo más recto posible.
+
+00:15:31.010 --> 00:15:31.990
+No, eso no es recto.
+
+00:15:31.990 --> 00:15:35.680
+.
+
+00:15:35.680 --> 00:15:40.610
+Así que, gráficamente se parece a esto. Se achata,
+
+00:15:40.610 --> 00:15:43.610
+luego hace así, y en realidad sigue hacia arriba,
+
+00:15:43.610 --> 00:15:45.660
+así, es una parábola.
+
+00:15:45.660 --> 00:15:47.620
+Este es el punto 4.
+
+00:15:47.620 --> 00:15:51.210
+El punto 2 está aquí.
+
+00:15:51.210 --> 00:15:56.150
+Y en 2 estamos a -4, por lo que el mínimo
+
+00:15:56.150 --> 00:15:57.710
+está en el punto (2, -4).
+
+00:15:57.710 --> 00:16:01.390
+Por tanto, buscábamos la pendiente media en el intervalo cerrado
+
+00:16:01.390 --> 00:16:04.280
+que nos importaba, entre 2 y 4, es decir, desde este 2
+
+00:16:04.280 --> 00:16:05.960
+de aquí a este 4 de aquí.
+
+00:16:05.960 --> 00:16:09.160
+Este es el intervalo, de 2 a 4.
+
+00:16:09.160 --> 00:16:12.850
+La pendiente media es 2.
+
+00:16:12.850 --> 00:16:14.570
+No lo parece, sólo porque he, digamos,
+
+00:16:14.570 --> 00:16:17.010
+comprimido el eje y.
+
+00:16:17.010 --> 00:16:20.090
+Y decimos que, en el punto x=3, la pendiente
+
+00:16:20.090 --> 00:16:22.010
+es igual a exactamente eso.
+
+00:16:22.010 --> 00:16:25.180
+Es decir, en x=3, la pendiente es igual
+
+00:16:25.180 --> 00:16:26.860
+a ese mismo valor.
+
+00:16:26.860 --> 00:16:28.620
+Esto es todo en cuanto al teorema del valor medio.
+
+00:16:28.620 --> 00:16:29.840
+Sé que suena complicado.
+
+00:16:29.840 --> 00:16:32.810
+Hablamos de continuidad, derivabilidad, y
+
+00:16:32.810 --> 00:16:36.520
+f'(c), y todo eso, pero todo lo que dice es que
+
+00:16:36.520 --> 00:16:41.020
+hay algún punto entre estos dos puntos donde la pendiente instantánea
+
+00:16:41.020 --> 00:16:43.690
+o pendiente exactamente en ese punto, es igual a la pendiente
+
+00:16:43.690 --> 00:16:45.510
+entre estos dos puntos.
+
+00:16:45.510 --> 00:16:47.650
+Espero no haberte hecho un lío.

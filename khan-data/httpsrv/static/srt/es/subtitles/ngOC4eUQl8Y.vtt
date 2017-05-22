@@ -1,0 +1,741 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.740 --> 00:00:04.150
+Ya vimos en varios videos atras que si tengo un plano infinito
+
+00:00:04.150 --> 00:00:08.284
+uniformemente cargado - dibujare uno aqui -
+
+00:00:08.284 --> 00:00:09.960
+no lo voy a dibujar infinito y ya te dire por que en un momento
+
+00:00:09.960 --> 00:00:13.450
+si tuviera un plano infinito uniformemente cargado y digamos
+
+00:00:13.450 --> 00:00:19.600
+que es positivo y que el campo electrico
+
+00:00:19.600 --> 00:00:23.935
+generado por esté, es constante.
+
+00:00:29.030 --> 00:00:30.290
+Estas son las lineas de campo,
+
+00:00:30.290 --> 00:00:32.890
+deberian ser todas del mismo tamaño
+
+00:00:32.890 --> 00:00:38.210
+y la fuerza del campo, o la magnitud del campo
+
+00:00:38.210 --> 00:00:45.820
+es igual a 2 veces la constante de Coulomb por pi por la
+
+00:00:45.820 --> 00:00:47.750
+densidad de carga del plano
+
+00:00:47.750 --> 00:00:50.130
+asi que esto es infinito -- bueno pero que es la densidad de carga?
+
+00:00:50.130 --> 00:00:54.450
+la vamos a definir cuando provemos que el campo electrico
+
+00:00:54.450 --> 00:00:57.140
+enverdad es uniforme, pero que es densidad de carga ?
+
+00:00:57.140 --> 00:01:03.280
+densidad de carga es la cantidad total de carga dividida
+
+00:01:03.280 --> 00:01:05.290
+por el area, o la carga por area.
+
+00:01:05.290 --> 00:01:10.560
+si tenemos un plano infinito, el area va a ser infinita
+
+00:01:10.560 --> 00:01:13.110
+as ique este sera un numero constante, este tambien
+
+00:01:13.110 --> 00:01:16.740
+va a ser infinito, asi que es algo dificil trabajar con el.
+
+00:01:16.740 --> 00:01:22.350
+pero sabemos que si tenemos un plano no infinito
+
+00:01:22.350 --> 00:01:27.210
+que tiene un area finita, y que cerca al centro
+
+00:01:27.210 --> 00:01:32.250
+y bastante cerca al centro, este se aproxima a un plano infinito
+
+00:01:32.250 --> 00:01:34.780
+cargado unformemente
+
+00:01:34.780 --> 00:01:37.180
+Así que con esto dicho, vamos a ver si podemos averiguar de algunos de
+
+00:01:37.180 --> 00:01:40.830
+las propiedades de la tensión y cómo se relaciona el voltaje a
+
+00:01:40.830 --> 00:01:42.350
+la carga.
+
+00:01:42.350 --> 00:01:48.130
+Si tuviéramos que tener dos paralelo--permítanme dibujarlo
+
+00:01:48.130 --> 00:01:50.040
+antes de decirlo, porque creo que diciendo lo voy solo
+
+00:01:50.040 --> 00:01:51.850
+los confunda.
+
+00:01:51.850 --> 00:02:02.350
+Así que vamos a decir que tengo dos placas, que placa--y luego
+
+00:02:02.350 --> 00:02:05.290
+Voy a hacer en un color diferente--y tengo
+
+00:02:05.290 --> 00:02:11.650
+la placa y digamos que son del mismo tamaño y
+
+00:02:11.650 --> 00:02:13.470
+ambos tienen área A.
+
+00:02:13.470 --> 00:02:19.860
+Digamos que colocar más vale q de cargos aquí.
+
+00:02:19.860 --> 00:02:22.460
+¿Esto es más q esto quede cargado positivamente, derecha?
+
+00:02:22.460 --> 00:02:24.010
+Aquí pude llamar un montón de cargos.
+
+00:02:24.010 --> 00:02:30.590
+Digamos que es menos Q, así que esto está cargado negativamente.
+
+00:02:30.590 --> 00:02:32.860
+Así que lo que el campo eléctrico va a parecerse
+
+00:02:32.860 --> 00:02:34.730
+¿entre estos dos?
+
+00:02:34.730 --> 00:02:37.070
+Bueno, básicamente va a ser la combinación de la
+
+00:02:37.070 --> 00:02:40.400
+campo eléctrico generado por esta placa en la parte superior de la
+
+00:02:40.400 --> 00:02:42.400
+campo eléctrico generado por esta placa.
+
+00:02:42.400 --> 00:02:45.290
+Y ambos van a ser constante cerca del centro,
+
+00:02:45.290 --> 00:02:46.970
+Suponiendo que son razonablemente--y digamos
+
+00:02:46.970 --> 00:02:49.220
+que son d aparte.
+
+00:02:49.220 --> 00:02:52.140
+Suponiendo que d no es demasiado grande, cerca del centro, vamos a
+
+00:02:52.140 --> 00:02:53.660
+tiene un campo eléctrico constante.
+
+00:02:53.660 --> 00:02:58.070
+Por ejemplo, este verde que uno va a estar generando--su
+
+00:02:58.070 --> 00:03:00.470
+líneas de campo se van a ver algo como esto.
+
+00:03:00.470 --> 00:03:02.200
+Cerca del centro, es constante.
+
+00:03:02.200 --> 00:03:03.450
+Estas están destinadas a buscar constante.
+
+00:03:06.500 --> 00:03:10.250
+Cerca del centro, lo veremos como ese, y empezará a
+
+00:03:10.250 --> 00:03:12.250
+protruir cuando llegue a los bordes.
+
+00:03:14.770 --> 00:03:18.440
+Una vez más, cerca del centro, es constante.
+
+00:03:18.440 --> 00:03:19.635
+Que uno debería has sido en un ángulo.
+
+00:03:19.635 --> 00:03:22.330
+Comienzan a protruir, y lo miraremos
+
+00:03:22.330 --> 00:03:23.830
+algo así.
+
+00:03:23.830 --> 00:03:28.120
+Asimismo, esta placa púrpura generará una constante
+
+00:03:28.120 --> 00:03:30.630
+campo eléctrico, y ya ha cargado negativamente, el campo
+
+00:03:30.630 --> 00:03:33.470
+las líneas se va hacia él, no lejos de ella, así su
+
+00:03:33.470 --> 00:03:35.020
+líneas de campo se van a ver algo como esto.
+
+00:03:35.020 --> 00:03:40.890
+Cerca del centro, será constante y sus líneas de campo
+
+00:03:40.890 --> 00:03:42.140
+se va a ver algo así.
+
+00:03:44.640 --> 00:03:48.380
+Como puede ver, van a ser de la misma magnitud
+
+00:03:48.380 --> 00:03:52.730
+y en la misma dirección y también
+
+00:03:52.730 --> 00:03:54.820
+se protruir por ahí.
+
+00:03:54.820 --> 00:03:59.090
+Por lo que el panorama es sólo tipo de tener dos veces el
+
+00:03:59.090 --> 00:04:02.530
+campo eléctrico que tendría si solo tuvo uno de
+
+00:04:02.530 --> 00:04:03.920
+Estas placas.
+
+00:04:03.920 --> 00:04:06.690
+Así que vamos a decir que estamos operando cerca del centro de éstos,
+
+00:04:06.690 --> 00:04:09.940
+donde tenemos aproximadamente un campo eléctrico constante y
+
+00:04:09.940 --> 00:04:12.620
+ver si podemos averiguar la relación entre la
+
+00:04:12.620 --> 00:04:17.760
+voltaje a través de estas dos placas y el área y tal vez
+
+00:04:17.760 --> 00:04:20.120
+la distancia entre las dos placas.
+
+00:04:20.120 --> 00:04:23.260
+Sabemos que el campo eléctrico generado por cualquiera de
+
+00:04:23.260 --> 00:04:27.100
+Estos carga placas--voy a hacer en el azul de este color.
+
+00:04:27.100 --> 00:04:29.190
+Así que para la parte inferior derecha aquí, lo que es la eléctrica
+
+00:04:29.190 --> 00:04:29.810
+¿campo generado?
+
+00:04:29.810 --> 00:04:34.930
+Es K 2 pi veces sigma.
+
+00:04:34.930 --> 00:04:40.270
+Sigma es simplemente la carga total dividida por el área.
+
+00:04:40.270 --> 00:04:45.640
+¿Asi Q / A, derecho?
+
+00:04:45.640 --> 00:04:48.570
+Y sabemos que el campo eléctrico total generado por
+
+00:04:48.570 --> 00:04:50.890
+Este va a ser esencialmente la misma cosa.
+
+00:04:50.890 --> 00:04:53.370
+O sea, podríamos decir que es un signo menos, negativo, porque
+
+00:04:53.370 --> 00:04:56.110
+va hacia ella, pero es
+
+00:04:56.110 --> 00:04:57.140
+esencialmente la misma cosa.
+
+00:04:57.140 --> 00:04:58.800
+Porque vemos que se superponen sólo dibujar el campo
+
+00:04:58.800 --> 00:05:02.750
+línea, por lo que el eléctrico de campo desde que uno y sabemos
+
+00:05:02.750 --> 00:05:04.570
+que van en la misma dirección.
+
+00:05:04.570 --> 00:05:08.155
+Si se trata de alguna manera--bien, esto es negativo, por lo que el campo
+
+00:05:08.155 --> 00:05:08.850
+líneas van hacia él.
+
+00:05:08.850 --> 00:05:14.300
+Así además de pi de 2 K y esto es Q.
+
+00:05:14.300 --> 00:05:16.640
+Nos podría haber dicho menos y luego tuvo un signo menos Q / A, pero nos
+
+00:05:16.640 --> 00:05:18.730
+saben que van en la misma dirección, por lo que sabemos que
+
+00:05:18.730 --> 00:05:19.820
+van a ser aditivo.
+
+00:05:19.820 --> 00:05:22.950
+Así que sabemos que es el campo eléctrico total
+
+00:05:22.950 --> 00:05:29.625
+va a ser K 4 pi Q / a.
+
+00:05:32.670 --> 00:05:34.320
+Así que ahora sabemos la fuerza exacta de
+
+00:05:34.320 --> 00:05:35.490
+el campo eléctrico.
+
+00:05:35.490 --> 00:05:41.220
+Vamos a ver si podemos averiguar la diferencia de voltaje entre
+
+00:05:41.220 --> 00:05:46.850
+este punto y en este punto.
+
+00:05:46.850 --> 00:05:49.420
+¿Cuál fue la diferencia de voltaje, al igual que un examen?
+
+00:05:49.420 --> 00:05:53.680
+Pues bien, la diferencia de voltaje es el potencial eléctrico
+
+00:05:53.680 --> 00:05:59.200
+energía por carga si la carga fue aquí versus aquí.
+
+00:05:59.200 --> 00:06:02.500
+Por lo tanto existe cuánto más energía potencial por coulomb
+
+00:06:02.500 --> 00:06:04.390
+¿por un cargo para estar aquí en relación con el aquí?
+
+00:06:04.390 --> 00:06:07.220
+Otra forma de verlo es una carga, una carga positiva
+
+00:06:07.220 --> 00:06:10.170
+aquí, porque por defecto siempre estamos asumiendo un positivo
+
+00:06:10.170 --> 00:06:14.100
+cargue cuando hablamos de números positivos y la
+
+00:06:14.100 --> 00:06:15.820
+dirección de las líneas de campo o lo positivo
+
+00:06:15.820 --> 00:06:16.840
+se haría cargo.
+
+00:06:16.840 --> 00:06:21.180
+Así que de forma predeterminada, una carga positiva aquí realmente quiere ir
+
+00:06:21.180 --> 00:06:24.500
+hasta esta placa negativa, aunque más tarde nos enteramos que
+
+00:06:24.500 --> 00:06:28.500
+mayoría del movimiento en electrónica y electricidad,
+
+00:06:28.500 --> 00:06:30.080
+es realmente la carga negativa que se está moviendo.
+
+00:06:30.080 --> 00:06:31.385
+Es los electrones en movimiento.
+
+00:06:31.385 --> 00:06:33.370
+Pero digamos que tenemos un ion positivo
+
+00:06:33.370 --> 00:06:34.500
+o una carga positiva.
+
+00:06:34.500 --> 00:06:39.170
+La tensión es una medida de si cualquier carga aquí, es lo mal
+
+00:06:39.170 --> 00:06:42.550
+¿quiere mover a este punto, si tiene una manera de mover?
+
+00:06:42.550 --> 00:06:46.500
+Si tenemos aire aquí o si tenemos un vacío, podría
+
+00:06:46.500 --> 00:06:49.740
+ser difícil o imposible subir aquí.
+
+00:06:49.740 --> 00:06:52.310
+Pero quizás si tuviéramos que conecte un cable donde el
+
+00:06:52.310 --> 00:06:55.360
+cargos podrían realizar libremente y, a continuación, se moverá.
+
+00:06:55.360 --> 00:06:57.420
+Y la tensión es tipo de cuán mal
+
+00:06:57.420 --> 00:06:58.210
+¿quiere mover?
+
+00:06:58.210 --> 00:07:00.990
+Casi se podría ver como presión.
+
+00:07:00.990 --> 00:07:03.290
+Y tal vez voy a hacer un video completo en tratar de obtener un
+
+00:07:03.290 --> 00:07:05.330
+comprensión intuitiva de tensión, ya que realmente
+
+00:07:05.330 --> 00:07:08.040
+es probablemente la cosa más importante para obtener un intuitivo
+
+00:07:08.040 --> 00:07:10.240
+comprensión de que, si alguna vez desea estudiar eléctrico
+
+00:07:10.240 --> 00:07:11.900
+Ingeniería o lo que sea.
+
+00:07:11.900 --> 00:07:13.190
+Pero de todos modos, hacia el problema.
+
+00:07:13.190 --> 00:07:17.060
+¿Sabemos que el campo eléctrico combinado, es justo?
+
+00:07:17.060 --> 00:07:19.590
+Arriba va en esa dirección.
+
+00:07:19.590 --> 00:07:25.840
+¿Cuál es el potencial eléctrico en este punto
+
+00:07:25.840 --> 00:07:28.430
+en relación con este punto o la diferencia de potencial
+
+00:07:28.430 --> 00:07:30.380
+¿desde aquí hasta aquí?
+
+00:07:30.380 --> 00:07:34.220
+Bueno, eso es la cantidad de energía por carga sería
+
+00:07:34.220 --> 00:07:42.650
+¿tomar para mover una carga positiva de aquí a allí, derecha?
+
+00:07:42.650 --> 00:07:44.810
+Recuerde, energía potencial eléctrica es la cantidad de trabajo
+
+00:07:44.810 --> 00:07:48.210
+necesario para mover una carga desde allí a allí y luego
+
+00:07:48.210 --> 00:07:52.810
+la tensión es cuánto hacerlo por carga.
+
+00:07:52.810 --> 00:07:53.910
+Permítanme anote.
+
+00:07:53.910 --> 00:07:58.730
+Así que el trabajo necesario para mover una carga desde allí a allí--
+
+00:07:58.730 --> 00:08:07.010
+vamos a decir un coulomb 1 carga, será 1 coulomb veces la
+
+00:08:07.010 --> 00:08:09.060
+campo eléctrico, porque siempre vamos a tener que ser
+
+00:08:09.060 --> 00:08:10.660
+ir en contra del campo eléctrico.
+
+00:08:10.660 --> 00:08:13.260
+Así que tenemos que aplicar una igual y opuesto a la fuerza.
+
+00:08:13.260 --> 00:08:17.360
+Así que la fuerza que va a ser el campo eléctrico--tan
+
+00:08:17.360 --> 00:08:19.750
+Ahora, esto sólo genera esta fuerza. eléctricas de Coulomb veces
+
+00:08:19.750 --> 00:08:23.430
+campo, campo eléctrico de tiempos de carga, nos indica la fuerza en
+
+00:08:23.430 --> 00:08:25.200
+¿la carga, correcta?
+
+00:08:25.200 --> 00:08:26.410
+Es fuerza, y entonces tenemos que
+
+00:08:26.410 --> 00:08:28.380
+multiplicar multiplicado por distancia.
+
+00:08:28.380 --> 00:08:31.020
+Distancia de tiempos de fuerza.
+
+00:08:31.020 --> 00:08:36.590
+Así vemos el trabajo necesario va a ser la eléctrica
+
+00:08:36.590 --> 00:08:42.929
+campo veces joules d--la j es julios--y qué es la
+
+00:08:42.929 --> 00:08:48.210
+diferencia de voltaje o la diferencia de potencial eléctrico
+
+00:08:48.210 --> 00:08:50.560
+¿entre este punto y este?
+
+00:08:50.560 --> 00:08:54.720
+Llamemos a ese punto un.
+
+00:08:54.720 --> 00:08:56.450
+Llamemos a ese punto b.
+
+00:08:56.450 --> 00:09:03.040
+Así Va menos Vb, cual es la diferencia de tensión, que
+
+00:09:03.040 --> 00:09:06.000
+esencialmente la diferencia de energía potencial eléctrica
+
+00:09:06.000 --> 00:09:08.580
+dividida por la carga.
+
+00:09:08.580 --> 00:09:09.330
+O, por el cargo.
+
+00:09:09.330 --> 00:09:11.900
+Bien, aquí, la carga fue sólo 1, por lo que sólo podemos dividir
+
+00:09:11.900 --> 00:09:18.380
+por 1, y vemos que es igual al campo eléctrico
+
+00:09:18.380 --> 00:09:20.410
+multiplicado por la distancia.
+
+00:09:20.410 --> 00:09:23.200
+Y las unidades van a ser julios porque dividimos ambos
+
+00:09:23.200 --> 00:09:27.570
+¿lados por julios de carga por coulomb, o voltios, derecha?
+
+00:09:27.570 --> 00:09:29.600
+Eso es sólo las unidades.
+
+00:09:29.600 --> 00:09:30.380
+Así que ¿qué significa?
+
+00:09:30.380 --> 00:09:36.250
+Así el voltaje de diferencia--por lo que podemos decir cambio en el voltaje.
+
+00:09:36.250 --> 00:09:39.130
+La diferencia de voltaje es igual al campo eléctrico,
+
+00:09:39.130 --> 00:09:51.720
+que sabemos es constante pi de 4 K Q A veces la distancia.
+
+00:09:51.720 --> 00:09:53.020
+O nos podríamos escribir esto.
+
+00:09:53.020 --> 00:10:00.300
+Vamos a ver si podríamos escribir q como una función de V.
+
+00:10:00.300 --> 00:10:03.220
+Así que si sólo hacemos un poco de manipulación algebraica, nos
+
+00:10:03.220 --> 00:10:08.110
+¿puede obtener q es igual a qué?
+
+00:10:08.110 --> 00:10:13.800
+Esencialmente nos sería dividir ambos lados por pi 4 Kd y
+
+00:10:13.800 --> 00:10:19.350
+Multiplique ambos lados por A, por lo que obtendríamos a
+
+00:10:19.350 --> 00:10:29.680
+más de 4 K pi d voltaje.
+
+00:10:29.680 --> 00:10:30.960
+Y por qué es interesante?
+
+00:10:30.960 --> 00:10:33.030
+¿Por qué lo hizo ir a través de todo este trabajo para llegar a esta
+
+00:10:33.030 --> 00:10:33.870
+¿relación?
+
+00:10:33.870 --> 00:10:37.780
+Bien, lo que demuestra, si nos fijamos en esto, si suponemos
+
+00:10:37.780 --> 00:10:40.150
+que el área de las placas no están cambiando--que un
+
+00:10:40.150 --> 00:10:43.630
+constante; Este es definitivamente un constante--y si suponemos
+
+00:10:43.630 --> 00:10:46.980
+que la distancia entre las placas no cambian, lo que nos
+
+00:10:46.980 --> 00:10:49.690
+ver es que hay una diferencia proporcional
+
+00:10:49.690 --> 00:10:54.910
+entre la tensión y la cantidad de la carga combinada
+
+00:10:54.910 --> 00:10:56.080
+en las placas.
+
+00:10:56.080 --> 00:10:59.680
+Y eso es interesante porque, antes de hacer esto,
+
+00:10:59.680 --> 00:11:03.240
+tal vez la tensión de alguna manera es proporcional al cuadrado de
+
+00:11:03.240 --> 00:11:06.435
+los cargos o a la raíz cuadrada, pero ahora sabemos que
+
+00:11:06.435 --> 00:11:08.280
+es directamente proporcional.
+
+00:11:08.280 --> 00:11:14.430
+En realidad, este término aquí tiene un nombre y es
+
+00:11:14.430 --> 00:11:15.290
+llamado capacitancia.
+
+00:11:15.290 --> 00:11:18.220
+Y así otra forma de escribir esto, si dividimos
+
+00:11:18.220 --> 00:11:33.660
+ambos lados por tensión, conseguimos Q/V es igual a 1 sobre 4 K pi
+
+00:11:33.660 --> 00:11:37.270
+área a distancia.
+
+00:11:37.270 --> 00:11:41.340
+Y así lo que esencialmente dice es la cantidad de
+
+00:11:41.340 --> 00:11:43.730
+energía que--bien, en realidad, no quiero
+
+00:11:43.730 --> 00:11:45.520
+ir en eso todavía.
+
+00:11:45.520 --> 00:11:48.630
+Pero para una configuración determinada y la configuración es
+
+00:11:48.630 --> 00:11:53.030
+definida por el área de las placas y la distancia--para
+
+00:11:53.030 --> 00:11:55.890
+una configuración determinada, si sabe la cantidad de carga
+
+00:11:55.890 --> 00:11:59.000
+Pongo sobre las placas, si hice un signo menos q aquí y un plus
+
+00:11:59.000 --> 00:12:00.900
+Q aquí, sé que el voltaje a través de la
+
+00:12:00.900 --> 00:12:02.875
+placas o viceversa.
+
+00:12:02.875 --> 00:12:05.090
+Si sé el voltaje a través de las placas y sé su
+
+00:12:05.090 --> 00:12:09.300
+configuración, sé cuánta carga existe, y esto es
+
+00:12:09.300 --> 00:12:12.010
+llamado capacitancia y la unidad de capacitancia
+
+00:12:12.010 --> 00:12:13.990
+se llama el faradio.
+
+00:12:13.990 --> 00:12:15.590
+Y si usted es un ingeniero eléctrico o incluso
+
+00:12:15.590 --> 00:12:17.350
+tomar un par de cursos de ingeniería eléctrica, te vas
+
+00:12:17.350 --> 00:12:19.370
+familiarizarse con esto.
+
+00:12:19.370 --> 00:12:22.650
+Y otra cosa a señalar; Este término derecho aquí,
+
+00:12:22.650 --> 00:12:26.200
+para que sepas un poco de terminología.
+
+00:12:26.200 --> 00:12:27.360
+Este término derecho aquí.
+
+00:12:27.360 --> 00:12:36.630
+Este 1 sobre 4 K pi, esto a menudo se llama épsilon Naught,
+
+00:12:36.630 --> 00:12:39.220
+o simplemente epsilon, y que ha llamado la permitividad del
+
+00:12:39.220 --> 00:12:41.560
+espacio libre o permitividad del vacío.
+
+00:12:41.560 --> 00:12:45.460
+Y tal vez en una futura Conferencia o un video futuro, I'll talk
+
+00:12:45.460 --> 00:12:47.010
+más información acerca de por qué se llama.
+
+00:12:47.010 --> 00:12:49.910
+Pero de todos modos, ya estoy bien encima del límite de tiempo.
+
+00:12:49.910 --> 00:12:55.260
+Tan sólo quería darle un sentido de uno, que se puede
+
+00:12:55.260 --> 00:12:58.230
+calcular la tensión a través de lo que llamamos, en
+
+00:12:58.230 --> 00:12:59.600
+este caso, un condensador.
+
+00:12:59.600 --> 00:13:01.430
+Dispone de capacitancia.
+
+00:13:01.430 --> 00:13:03.385
+Esa tensión, tipo de puede ver como
+
+00:13:03.385 --> 00:13:04.170
+la presión eléctrica.
+
+00:13:04.170 --> 00:13:06.800
+¿Lo mal el cargo aquí desea mover aquí?
+
+00:13:06.800 --> 00:13:09.750
+Y si pones un hilo aquí, usted aprenderá en un segundo--no
+
+00:13:09.750 --> 00:13:11.380
+en un segundo, en varios vídeos--que
+
+00:13:11.380 --> 00:13:12.575
+esa carga fluirá.
+
+00:13:12.575 --> 00:13:15.610
+O realmente las cargas negativas fluirá de esta manera y
+
+00:13:15.610 --> 00:13:16.310
+generar corriente.
+
+00:13:16.310 --> 00:13:17.780
+Y haremos cuando empezamos a aprender un poco
+
+00:13:17.780 --> 00:13:19.360
+más información acerca de la electricidad.
+
+00:13:19.360 --> 00:13:24.120
+Para cualquier configuración determinada, tiene su correspondiente
+
+00:13:24.120 --> 00:13:27.030
+capacitancia y, a continuación, dado que capacitancia, si pongo
+
+00:13:27.030 --> 00:13:28.910
+cierta cantidad de carga, puedo averiguar la tensión, o si
+
+00:13:28.910 --> 00:13:31.070
+Sé que hay algún voltaje, puedo averiguar la carga.
+
+00:13:31.070 --> 00:13:34.350
+De todas formas, nos vemos en el siguiente vídeo.

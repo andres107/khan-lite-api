@@ -1,0 +1,219 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.801 --> 00:00:08.040
+Digamos que Arman tiene 18 años de edad hoy
+
+00:00:08.040 --> 00:00:15.787
+y que Diya tiene 2 años de edad
+
+00:00:15.787 --> 00:00:21.430
+Y lo que me da curiosidad en este video, es saber ¿cuántos años le tomará a ...
+
+00:00:21.430 --> 00:00:22.519
+voy a escribir esto
+
+00:00:22.519 --> 00:00:46.426
+¿cuántos años, le tomará a Arman tener 3 veces la edad de Diya?
+
+00:00:46.426 --> 00:00:48.454
+esa es la pregunta
+
+00:00:48.454 --> 00:00:54.170
+Y te animo a que intentes hacerlo por ti mismo
+
+00:00:54.170 --> 00:00:55.946
+Vamos a pensar en esto por un momento
+
+00:00:55.946 --> 00:01:00.378
+Estamos preguntando ¿cuántos años le tomará?, eso es lo que no sabemos, es lo que nos da curiosidad
+
+00:01:00.378 --> 00:01:05.947
+¿cuántos años le tomará a Arman ser 3 veces más grande que Diya?
+
+00:01:05.947 --> 00:01:10.784
+Vamos a poner una variable, digamos que "y" serán los años
+
+00:01:10.876 --> 00:01:17.697
+digamos que "y" es igual a los años que le tomará
+
+00:01:17.697 --> 00:01:21.643
+Dado esto, ¿podemos definir una ecuación con esta información
+
+00:01:21.643 --> 00:01:28.684
+para encontrar cuántos años le tomará a Arman ser 3 veces más grande que Diya?
+
+00:01:28.684 --> 00:01:35.215
+Bien, vamos a pensar en la edad de Arman en "y" años
+
+00:01:35.215 --> 00:01:49.191
+Bien en "y" años, Arman ¿qué edad tendrá Arman?
+
+00:01:49.191 --> 00:01:52.361
+Arman va a tener, si tiene 18 años en este momento
+
+00:01:52.361 --> 00:01:55.401
+en "y" años, él va a tener "y" años de edad
+
+00:01:55.401 --> 00:01:59.309
+así que en "y" años Arman va a tener 18 más y
+
+00:01:59.309 --> 00:02:02.748
+¿y qué hay de Diya? ¿qué edad tendrá ella?
+
+00:02:02.748 --> 00:02:06.504
+¿qué edad tendrá en "y" años?
+
+00:02:06.504 --> 00:02:12.356
+Bien, ella tiene 2 años ahora y en "y" años ella tendrá 2 más "y"
+
+00:02:12.356 --> 00:02:14.957
+lo que queremos saber ahora que conocemos esto es
+
+00:02:14.957 --> 00:02:23.278
+¿cuántos años le tomará a esta ecuación, a esta expresión, ser 3 veces esta cantidad?
+
+00:02:23.278 --> 00:02:24.673
+Estamos muy interesado
+
+00:02:24.673 --> 00:02:38.177
+queremos resolver esto para "y", como será que 18 más "y" va a ser 3 veces 2 más "y"
+
+00:02:38.177 --> 00:02:42.612
+notemos, que esto representa la edad de Arman en "y" años, y esto la edad de Diya en "y" años
+
+00:02:42.612 --> 00:02:50.344
+y dijimos que Arman va a tener en "y" años 3 veces la edad de Diya en "y" años
+
+00:02:50.344 --> 00:02:51.632
+hemos definido nuestra ecuación
+
+00:02:51.632 --> 00:02:56.296
+ahora sólo tenemos que resolverla, vamos a hacerlo paso a paso
+
+00:02:56.296 --> 00:03:00.674
+en el lado izquierdo, podría hacer esto en otro color así no tendré que seguir cambiando
+
+00:03:00.674 --> 00:03:03.409
+así que en el lado izquierdo, sigo teniendo 18 más "y"
+
+00:03:03.441 --> 00:03:08.328
+y en el lado derecho, puedo distribuir este 3, así que 3 veces 2 es 6
+
+00:03:08.328 --> 00:03:11.204
+3 veces "y" es 3y
+
+00:03:11.204 --> 00:03:13.628
+6 más 3y
+
+00:03:13.628 --> 00:03:18.008
+y entonces, es siempre bueno tener todas las constantes en un lado de la ecuación
+
+00:03:18.008 --> 00:03:20.094
+y todas las variables del otro lado de la ecuación
+
+00:03:20.094 --> 00:03:24.736
+tenemos 3y por aquí, tenemos más "y's" aquí en la derecha que en el lado izquierdo
+
+00:03:24.736 --> 00:03:26.671
+vamos a quitar las "y's" del lado izquierdo
+
+00:03:26.671 --> 00:03:29.088
+puedes hacer esto de la otra manera, pero terminarías con números negativos
+
+00:03:29.088 --> 00:03:33.101
+vamos a restar una y de cada lado
+
+00:03:33.101 --> 00:03:36.461
+y en la izquierda
+
+00:03:36.461 --> 00:03:39.275
+en el lado izquierdo, 18
+
+00:03:39.275 --> 00:03:42.138
+y en el lado derecho, tenemos 6
+
+00:03:42.138 --> 00:03:44.836
+más 3 y's y eliminamos una de esas y's
+
+00:03:44.836 --> 00:03:47.365
+así que quedarán 2 y's en la izquierda
+
+00:03:47.365 --> 00:03:50.411
+ahora, podemos eliminar este término constante de aquí
+
+00:03:50.411 --> 00:03:56.456
+vamos a restar 6 de ambos lados
+
+00:03:56.456 --> 00:03:58.186
+18 menos 6 es 12
+
+00:03:58.186 --> 00:04:01.104
+la razón por la que restamos 6 de la derecha fue para eliminar este
+
+00:04:01.104 --> 00:04:03.881
+6 menos 6 es 0, así que tenemos 12 igual a 2y
+
+00:04:03.881 --> 00:04:06.416
+2 veces el número de años
+
+00:04:06.416 --> 00:04:08.297
+es 12, y podríamos resolver esto mentalmente
+
+00:04:08.297 --> 00:04:12.612
+pero si sólo tenemos un coeficiente aquí dividimos entre 2 en la derecha
+
+00:04:12.612 --> 00:04:15.419
+cualquier cosa que hagamos en un lado de la ecuación, lo tenemos que hacer en el otro
+
+00:04:15.419 --> 00:04:18.315
+de otra manera la ecuación no sería una ecuación
+
+00:04:18.315 --> 00:04:25.115
+quedamos con que, y es igual a 6
+
+00:04:25.115 --> 00:04:27.940
+o y igual a 6
+
+00:04:27.940 --> 00:04:30.106
+regresando a la pregunta
+
+00:04:30.106 --> 00:04:34.125
+¿cuántos años le tomará a Arman tener 3 veces la edad de Diya?
+
+00:04:34.125 --> 00:04:37.540
+bien, le va a tomar 6 años
+
+00:04:37.540 --> 00:04:39.411
+Ahora, quiero verificar eso
+
+00:04:39.411 --> 00:04:43.763
+pensemos en esto, ¿es esto verdadero?
+
+00:04:43.763 --> 00:04:46.777
+bien, en 6 años ¿qué edad va a tener Arman?
+
+00:04:46.777 --> 00:04:51.893
+El va a tener 18 más 6, sabemos que esto es 6
+
+00:04:51.893 --> 00:04:58.383
+en 6 años, Arman va a tener 18 más 6 lo cual es 24 años de edad
+
+00:04:58.383 --> 00:05:00.344
+¿qué edad va a tener Diya?
+
+00:05:00.344 --> 00:05:03.090
+bien, va a tener 2 más 6,
+
+00:05:03.090 --> 00:05:07.358
+lo cual es, 2 más 6 lo cual es 8 años de edad
+
+00:05:07.358 --> 00:05:13.073
+y he aquí que, 24 es en efecto 3 veces 8.
+
+00:05:13.073 --> 00:05:18.496
+En 6 años, Arman tendrá 24 años y Diya 8, Arman tendrá 3 veces la edad de Diya
+
+00:05:18.496 --> 00:05:21.000
+y hemos terminado

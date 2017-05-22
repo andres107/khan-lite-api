@@ -1,0 +1,260 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:01.245
+...
+
+NOTE Paragraph
+
+00:00:01.245 --> 00:00:05.920
+Sabemos que el cuadrilátero ABCD que aparece aquí es un paralelogramo.
+
+00:00:05.920 --> 00:00:11.160
+Y lo que quiero tratar en este video es la forma general de calcular el área de un paralelogramo.
+
+00:00:11.160 --> 00:00:16.068
+En el video anterior hablamos acerca de una manera particular para determinar el área de un rombo.
+
+00:00:16.068 --> 00:00:18.021
+Se puede hacer dividiendo por dos el producto de sus diagonales.
+
+00:00:18.021 --> 00:00:20.735
+Y el rombo es un paralelogramo, pero no puedes simplemente, en general,
+
+00:00:20.735 --> 00:00:24.933
+tomar el resultado del producto de las diagonales dividido por dos en cualquier paralelogramo.
+
+00:00:24.933 --> 00:00:28.333
+Tiene que ser un rombo. Y ahora solo estamos hablando de paralelogramos.
+
+00:00:28.333 --> 00:00:30.975
+Entonces, qué sabemos acerca de los paralelogramos?
+
+00:00:30.975 --> 00:00:33.333
+Pues bien, sabemos que sus lados opuestos son paralelos.
+
+00:00:33.333 --> 00:00:37.800
+Ese lado es paralelo a ese otro y este lado es paralelo a este otro.
+
+00:00:37.800 --> 00:00:40.867
+Y también sabemos que los lados opuestos son congruentes.
+
+00:00:40.867 --> 00:00:43.236
+Así que esta longitud es igual a esta otra
+
+00:00:43.236 --> 00:00:47.647
+Y esta longitud es igual a esta de aquí.
+
+00:00:47.647 --> 00:00:49.600
+Ahora, si trazamos una diagonal,
+
+00:00:49.600 --> 00:00:51.966
+voy a trazar una diagonal AC,
+
+00:00:51.966 --> 00:00:56.133
+podemos dividir nuestro paralelogramo en dos triángulos.
+
+00:00:56.133 --> 00:00:59.559
+Hemos probado en multiples ocasiones que estos dos triángulos son congruentes.
+
+00:00:59.559 --> 00:01:02.400
+Y lo podemos hacer de una manera bastante directa.
+
+00:01:02.400 --> 00:01:07.067
+Podemos ver que obviamente AD es igual a BC.
+
+00:01:07.067 --> 00:01:09.667
+Tenemos que DC es igual a AB.
+
+00:01:09.667 --> 00:01:13.561
+Y también que ambos triángulos comparten este tercer lado que aparece aquí.
+
+00:01:13.561 --> 00:01:16.800
+Ambos comparten AC.
+
+00:01:16.800 --> 00:01:20.133
+Por lo que podemos decir que el triángulo (voy a escribir esto en amarillo)...
+
+00:01:20.133 --> 00:01:27.400
+Podemos decir que el triángulo ADC es congruente con el triángulo, queremos que esto quede bien claro,
+
+00:01:27.400 --> 00:01:32.067
+va a ser congruente con el triángulo ADC.
+
+00:01:32.067 --> 00:01:41.133
+O sea, comenzamos primero por los cortes dobles en magenta, luego los rosados y entoces fue que llegamos al último.
+
+00:01:41.133 --> 00:01:47.133
+Por lo que voy a decir CBA, pues mi trayectoria fue magenta, luego rosado y después este último.
+
+00:01:47.133 --> 00:01:50.829
+O sea, CBA, triángulo CBA.
+
+00:01:50.829 --> 00:01:55.733
+Y esto es mediante la congruencia Lado Lado Lado (LLL).
+
+00:01:55.733 --> 00:01:58.867
+Los tres lados, ambos tienen tres lados correspondientes que son congruentes con los del otro.
+
+00:01:58.867 --> 00:02:01.000
+Por lo que los triángulos son congruentes entre sí.
+
+00:02:01.000 --> 00:02:04.645
+Y lo que eso nos dice es que las áreas de estos dos triángulos van a ser iguales.
+
+00:02:04.814 --> 00:02:11.467
+Por lo que si yo quiero calcuar el área, él área del paralelogramo completo ABCD,
+
+00:02:11.467 --> 00:02:22.933
+esta va a ser igual a la suma del área del triángulo ADC más el área de CBA.
+
+00:02:22.933 --> 00:02:27.467
+Pero el área de CBA es la misma que el área de ADC,
+
+00:02:27.467 --> 00:02:30.400
+pues ambas son congruentes por Lado Lado Lado (LLL).
+
+00:02:30.400 --> 00:02:35.156
+Por tanto esto solo será dos veces el área del triángulo ADC.
+
+00:02:35.156 --> 00:02:40.200
+Lo cual nos resulta conveniente, pues nosotros sabemos cómo calcular el área de los triángulos.
+
+00:02:40.200 --> 00:02:44.606
+El área del triángulo es literalmente el producto de la base por la altura dividido por dos.
+
+00:02:44.606 --> 00:02:48.867
+O sea es la mitad de la base por la altura de este triángulo.
+
+00:02:49.436 --> 00:02:52.533
+Y nos han dado la base de ADC
+
+00:02:52.533 --> 00:02:54.800
+Es esta longitud de aquí.
+
+00:02:54.800 --> 00:02:58.200
+Es DC. Puede verse como la base de todo el paralelogramo.
+
+00:02:58.200 --> 00:02:59.908
+Y si deseas descubrir la altura,
+
+00:02:59.908 --> 00:03:02.710
+podemos trazar la altura de esta manera.
+
+00:03:03.442 --> 00:03:08.314
+Así que esto es una perpendicular. Podemos llamarla altura (h) ahí mismo.
+
+00:03:08.314 --> 00:03:14.815
+Entonces, si queremos el área total del paralelogramo ABCD,
+
+00:03:14.815 --> 00:03:18.600
+esta es igual a dos veces la mitad del producto de la base por la altura.
+
+00:03:18.600 --> 00:03:20.933
+Bueno, una mitad multiplicada por dos es simplemente 1.
+
+00:03:20.933 --> 00:03:23.467
+Por tanto solo nos queda la base por la altura.
+
+00:03:23.467 --> 00:03:31.000
+Por lo que es esta altura de aquí multiplicada por b. La base por la altura.
+
+00:03:31.000 --> 00:03:35.000
+Este es un resultado claro y puede que ustedes hayan supuesto que este sería el caso.
+
+00:03:35.000 --> 00:03:37.533
+Pero si ustedes desean hallar el área de cualquier paralelogramo
+
+00:03:37.533 --> 00:03:39.200
+y si pueden determinar la altura,
+
+00:03:39.200 --> 00:03:47.667
+esto es literalmente, pueden tomar una de las bases, pues los lados opuestos son iguales, y multiplicarla por la altura.
+
+00:03:47.667 --> 00:03:49.400
+Así que esta es una de las maneras en que puedes calcular el área.
+
+00:03:49.400 --> 00:03:52.000
+O podrías haber multiplicado. La otra manera de pensar en ello
+
+00:03:52.000 --> 00:03:58.554
+es como si fuésemos a voltear el paralelogramo, luciría como algo así...
+
+00:04:00.769 --> 00:04:03.762
+pues si lo rotaramos de esa manera,
+
+00:04:04.562 --> 00:04:10.808
+parado sobre este lado, de forma que este sería el punto A,
+
+00:04:13.338 --> 00:04:15.267
+este sería el punto D,
+
+00:04:15.267 --> 00:04:16.713
+este sería el punto C
+
+00:04:16.713 --> 00:04:18.600
+y este sería el punto B.
+
+00:04:18.600 --> 00:04:24.290
+Podrías también hacerlo de esta manera, podrías decir que el área de esto es la base por la altura
+
+00:04:24.290 --> 00:04:28.000
+O sea, podrías decir que es DC multiplicado por h.
+
+00:04:28.000 --> 00:04:34.553
+Entonces, podrías decir que esto va a ser igual a la longitud de DC multiplicada por h.
+
+00:04:35.338 --> 00:04:38.622
+Esta es una manera de hacerlo, esta base multiplicada por esta altura.
+
+00:04:38.622 --> 00:04:48.817
+O puedes decir que es igual a AD multiplicada por,
+
+00:04:48.817 --> 00:04:53.350
+voy a nombrar esta altura h2,
+
+00:04:53.350 --> 00:04:57.067
+tal vez nombre esta h1,
+
+00:04:57.067 --> 00:04:59.723
+O sea, puedes multiplicar esta base por esta altura
+
+00:04:59.723 --> 00:05:06.643
+o puedes multiplicar esta base por esta altura que tenemos aquí.
+
+00:05:06.643 --> 00:05:09.067
+Esta es h2. De cualquiera de las dos formas.
+
+00:05:09.067 --> 00:05:11.133
+Entonces, si alguien les fuese a dar un paralelogramo,
+
+00:05:11.133 --> 00:05:13.467
+solo para aclarar,
+
+00:05:13.467 --> 00:05:17.000
+obviamente tendrías que ser capaz de hallar la altura.
+
+00:05:17.000 --> 00:05:18.667
+Por lo que si alguien te fuese a dar un paralelogramo como este,
+
+00:05:18.667 --> 00:05:20.800
+ellos te dirían que es un paralelogramo.
+
+00:05:20.800 --> 00:05:23.059
+Si ellos te dijeran que esta longitud de aquí es 5,
+
+00:05:23.567 --> 00:05:28.333
+y si te dijeran que esta distancia es 6,
+
+00:05:28.333 --> 00:05:31.720
+entonces el área de este paralelogramo sería, literalente, 6 multiplicado por 5.
+
+00:05:31.720 --> 00:05:34.067
+Yo tracé la altura fuera del paralelogramo.
+
+00:05:34.067 --> 00:05:37.676
+Podría haberla trazado igualmente aquí e igual sería 6.
+
+00:05:37.676 --> 00:05:41.398
+Así que el área de este paralelogramo sería 30.

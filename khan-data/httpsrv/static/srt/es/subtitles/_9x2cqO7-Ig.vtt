@@ -1,0 +1,126 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Sea la curva r definida por --
+
+99:59:59.999 --> 99:59:59.999
+Esta es nuestra curva r, es x por t más i
+
+99:59:59.999 --> 99:59:59.999
+más y por t veces j. Es una curva de dos dimensiones
+
+99:59:59.999 --> 99:59:59.999
+sobre el plano xy, y la vamos a graficar,
+
+99:59:59.999 --> 99:59:59.999
+sólo la graficaremos de forma generalizada.
+
+99:59:59.999 --> 99:59:59.999
+Ése es nuestro eje y, este es nuestro eje x, nuestra curva r
+
+99:59:59.999 --> 99:59:59.999
+podría ser algo como esto, podría parecer-
+
+99:59:59.999 --> 99:59:59.999
+Permítanme dibujar un poco más de-
+
+99:59:59.999 --> 99:59:59.999
+Quizás luzca algo así,
+
+99:59:59.999 --> 99:59:59.999
+quizás sea sólo una parte de ella,
+
+99:59:59.999 --> 99:59:59.999
+y mientras t aumenta vamos
+
+99:59:59.999 --> 99:59:59.999
+en esa dirección, justo ahí.
+
+99:59:59.999 --> 99:59:59.999
+Lo que quiero hacer en este video,
+
+99:59:59.999 --> 99:59:59.999
+y esto es realmente más álgebra vectorial que cálculo vectorial,
+
+99:59:59.999 --> 99:59:59.999
+es pensar sobre, en cualquier punto dado aquí,
+
+99:59:59.999 --> 99:59:59.999
+si podemos encontrar un vector normal,
+
+99:59:59.999 --> 99:59:59.999
+y en particular, un vector normal unitario.
+
+99:59:59.999 --> 99:59:59.999
+Obviamente podemos encontrar un
+
+99:59:59.999 --> 99:59:59.999
+vector normal, sólo debes dividir su magnitud y
+
+99:59:59.999 --> 99:59:59.999
+obtendrás el vector normal unitario.
+
+99:59:59.999 --> 99:59:59.999
+Por eso quiero averiguar, en cualquier punto dado, un vector
+
+99:59:59.999 --> 99:59:59.999
+que va en esa dirección
+
+99:59:59.999 --> 99:59:59.999
+de magnitud 1.
+
+99:59:59.999 --> 99:59:59.999
+Así sería nuestro vector normal unitario.
+
+99:59:59.999 --> 99:59:59.999
+Y para poder hacerlo,
+
+99:59:59.999 --> 99:59:59.999
+primero aprenderemos lo que es un vector tangente
+
+99:59:59.999 --> 99:59:59.999
+y desde un vector tangente
+
+99:59:59.999 --> 99:59:59.999
+podremos encontrar el vector normal.
+
+99:59:59.999 --> 99:59:59.999
+Esto se remonta
+
+99:59:59.999 --> 99:59:59.999
+a lo que quizás has hecho en Álgebra 1 o
+
+99:59:59.999 --> 99:59:59.999
+Álgebra 2, si tienes la pendiente de una recta el
+
+99:59:59.999 --> 99:59:59.999
+recíproco negativo de la pendiente
+
+99:59:59.999 --> 99:59:59.999
+va a ser la pendiente de la línea perpendicular.
+
+99:59:59.999 --> 99:59:59.999
+Vamos a ver algo muy parecido
+
+99:59:59.999 --> 99:59:59.999
+cuando lo hacemos aquí, con el vector-
+
+99:59:59.999 --> 99:59:59.999
+con álgebra vectorial.
+
+99:59:59.999 --> 99:59:59.999
+Así que lo primero que quiero pensar es
+
+99:59:59.999 --> 99:59:59.999
+cómo construimos una línea tangente.
+
+99:59:59.999 --> 99:59:59.999
+Bueno, se pueden imaginar en algún t-algún t
+
+99:59:59.999 --> 99:59:59.999
+Así es como se va a ver nuestro vector de posición
+
+99:59:59.999 --> 99:59:59.999
+así que lo llamamos r1-r1.

@@ -1,0 +1,258 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.740 --> 00:00:04.160
+Escribe la factorización prima de 75.
+
+00:00:04.160 --> 00:00:07.390
+Escribe tu respuesta usando la notación exponencial.
+
+00:00:07.390 --> 00:00:08.970
+Así que tenemos un par de cosas interesantes.
+
+00:00:08.970 --> 00:00:12.410
+Factorización de números primos, y dicen que la notación exponencial.
+
+00:00:12.410 --> 00:00:15.460
+Nos preocuparemos por la notación exponencial más tarde.
+
+00:00:15.460 --> 00:00:18.560
+Así que lo primero que tenemos que preocuparnos es lo que es un
+
+00:00:18.560 --> 00:00:19.380
+número primo?
+
+00:00:19.380 --> 00:00:22.240
+Y así como un repaso, un número primo es un número
+
+00:00:22.240 --> 00:00:26.130
+eso es sólo divisible por sí mismo y una, por lo que los ejemplos de
+
+00:00:26.130 --> 00:00:28.880
+los números primos - permítanme escribir algunas cifras.
+
+00:00:28.880 --> 00:00:34.753
+Primer, no primo.
+
+00:00:34.760 --> 00:00:36.840
+Así que 2 es un número primo.
+
+00:00:36.840 --> 00:00:39.850
+Es sólo divisible por 1 y 2.
+
+00:00:39.850 --> 00:00:42.490
+3 es otro número primo.
+
+00:00:42.490 --> 00:00:46.790
+Ahora, 4 no es primo, porque se trata de
+
+00:00:46.790 --> 00:00:49.790
+divisible por 1, 2 y 4.
+
+00:00:49.790 --> 00:00:50.580
+Podríamos seguir adelante.
+
+00:00:50.580 --> 00:00:56.220
+5, y 5, es sólo divisible por 1 y 5, así que 5 es primo.
+
+00:00:56.220 --> 00:00:59.920
+6 no es primo porque es divisible por 2 y 3.
+
+00:00:59.920 --> 00:01:01.590
+Creo que la idea general.
+
+00:01:01.590 --> 00:01:04.160
+Usted se mueve a 7, 7 es primo.
+
+00:01:04.160 --> 00:01:06.470
+Es sólo divisible por 1 y 7.
+
+00:01:06.470 --> 00:01:08.220
+8 no es primo.
+
+00:01:08.220 --> 00:01:11.440
+9 podría estar tentado a decir que es primo, pero recuerde, es
+
+00:01:11.440 --> 00:01:15.420
+también es divisible por 3, por lo que 9 no es primo.
+
+00:01:15.420 --> 00:01:18.970
+Primo no es lo mismo que los números impares.
+
+00:01:18.970 --> 00:01:21.400
+Entonces, si usted se mueve a 10, 10 tampoco es primo
+
+00:01:21.400 --> 00:01:23.560
+divisible por 2 y 5.
+
+00:01:23.560 --> 00:01:27.220
+11, sólo es divisible por 1 y 11, por lo que 11 es
+
+00:01:27.220 --> 00:01:28.240
+entonces un número primo.
+
+00:01:28.240 --> 00:01:29.780
+Y así podríamos seguir así.
+
+00:01:29.780 --> 00:01:31.570
+Otras personas han escrito programas de ordenador en busca del
+
+00:01:31.570 --> 00:01:33.260
+número primo más alto, y todo eso.
+
+00:01:33.260 --> 00:01:35.220
+Así que ahora que sabemos lo que es un número primo, una factorización en números primos
+
+00:01:35.220 --> 00:01:39.240
+consiste en descomponer un número, como 75, en un
+
+00:01:39.240 --> 00:01:41.620
+producto de números primos.
+
+00:01:41.620 --> 00:01:43.180
+Así que vamos a tratar de hacer eso.
+
+00:01:43.180 --> 00:01:45.530
+Así que vamos a comenzar con 75, y yo lo voy a hacer
+
+00:01:45.530 --> 00:01:49.080
+con lo que llamamos un árbol de factorización.
+
+00:01:49.080 --> 00:01:51.750
+Así que primero tratar de encontrar el número primo más pequeño que
+
+00:01:51.750 --> 00:01:53.890
+voy a entrar en 75.
+
+00:01:53.890 --> 00:01:55.430
+Ahora, el menor número primo es 2.
+
+00:01:55.430 --> 00:01:57.390
+Hace 2 ir a 75?
+
+00:01:57.390 --> 00:02:00.705
+Así, el 75 es un número impar, o el número en el lugar de las unidades,
+
+00:02:00.705 --> 00:02:02.280
+el 5, es un número impar.
+
+00:02:02.280 --> 00:02:06.580
+5 no es divisible por 2, por lo que dos no voy a entrar 75.
+
+00:02:06.580 --> 00:02:08.090
+Así que podríamos intentar 3.
+
+00:02:08.090 --> 00:02:09.639
+Hace 3 van en 75?
+
+00:02:09.639 --> 00:02:12.440
+Bien, 7 más 5 es 12.
+
+00:02:12.440 --> 00:02:15.480
+12 es divisible por 3, por lo que 3 servirá
+
+00:02:15.480 --> 00:02:20.440
+Así que 75 es 3 veces algo más.
+
+00:02:20.440 --> 00:02:22.990
+Y si alguna vez has tratado con el cambio, ya sabes que si
+
+00:02:22.990 --> 00:02:25.890
+tiene tres cuartos, que tienen 75 centavos de dólar, o si usted tiene 3
+
+00:02:25.890 --> 00:02:28.930
+25 veces, tiene 75.
+
+00:02:28.930 --> 00:02:31.560
+Así que esto es 3 veces 25.
+
+00:02:31.560 --> 00:02:33.720
+Y se puede multiplicar esto si no me creen.
+
+00:02:33.720 --> 00:02:35.960
+Múltiples de 3 veces 25.
+
+00:02:35.960 --> 00:02:40.470
+Ahora, es divisible por 25 - se puede renunciar a la 2.
+
+00:02:40.470 --> 00:02:44.910
+Si el 75 no es divisible por 2, 25 no va a ser divisible
+
+00:02:44.910 --> 00:02:46.000
+por 2, bien.
+
+00:02:46.000 --> 00:02:48.730
+Pero tal vez 25 es divisible por 3 otra vez.
+
+00:02:48.730 --> 00:02:52.290
+Así que si usted toma los dígitos 2 + 5, se obtiene 7.
+
+00:02:52.290 --> 00:02:57.700
+7 no es divisible por 3, por lo que 25 no será divisible por 3.
+
+00:02:57.700 --> 00:02:59.480
+Por lo tanto, seguir subiendo: 5.
+
+00:02:59.480 --> 00:03:01.430
+Es de 25 divisible por 5?
+
+00:03:01.430 --> 00:03:01.980
+Bueno, seguro.
+
+00:03:01.980 --> 00:03:03.590
+Es 5 veces 5.
+
+00:03:03.590 --> 00:03:08.330
+Así que 25 es 5 veces 5.
+
+00:03:08.330 --> 00:03:11.730
+Y hemos terminado con nuestra factorización de números primos, porque ahora
+
+00:03:11.730 --> 00:03:13.390
+tiene todos los números primos aquí.
+
+00:03:13.390 --> 00:03:18.270
+Por lo tanto, podemos escribir que el 75 es 3 veces 5 veces 5.
+
+00:03:18.270 --> 00:03:25.640
+Así que 75 es igual a 3 veces 5 veces 5.
+
+00:03:25.640 --> 00:03:27.350
+Podemos decir que es 3 veces 25.
+
+00:03:27.350 --> 00:03:29.400
+25 es 5 veces 5.
+
+00:03:29.400 --> 00:03:33.370
+3 veces 25, 25 es 5 veces 5.
+
+00:03:33.370 --> 00:03:36.460
+Así que esta es una factorización de números primos, pero quiero que
+
+00:03:36.460 --> 00:03:41.690
+nosotros para escribir la respuesta usando la notación exponencial.
+
+00:03:41.690 --> 00:03:44.560
+Así que eso sólo significa que, si hemos repetido los números primos, se puede escribir
+
+00:03:44.560 --> 00:03:45.920
+aquellos como exponente.
+
+00:03:45.920 --> 00:03:48.480
+Entonces, ¿qué es de 5 por 5?
+
+00:03:48.480 --> 00:03:52.380
+5 veces 5 es 5 multiplicado por sí mismo dos veces.
+
+00:03:52.380 --> 00:03:56.310
+Esto es lo mismo que 5 a la segunda potencia.
+
+00:03:56.310 --> 00:03:58.380
+Así que si queremos escribir nuestra respuesta con exponencial
+
+00:03:58.380 --> 00:04:03.420
+notación, podríamos decir que es igual a 3 veces 5 a la
+
+00:04:03.420 --> 00:04:08.110
+segunda potencia, que es lo mismo que 5 veces 5.

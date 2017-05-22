@@ -1,0 +1,459 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.393 --> 00:00:04.708
+Lo que quiero hacer en este vídeo
+es explorar los tipos de formas en 2D
+
+00:00:04.708 --> 00:00:09.300
+que podemos construir,
+mediante planos de corte de cubos.
+
+00:00:09.663 --> 00:00:11.158
+Así que ¿de qué estoy hablando?
+
+00:00:11.365 --> 00:00:13.648
+Digamos que queremos
+deconstruir un cuadrado:
+
+00:00:13.834 --> 00:00:19.581
+¿Cómo podemos cortar un cubo con un plano
+para lograr la intersección de este cubo,
+
+00:00:19.581 --> 00:00:21.978
+y que este plano sea un cuadrado?
+
+00:00:22.369 --> 00:00:25.300
+Imaginaremos que ese plano
+que vamos a cortar, justo así,
+
+00:00:25.300 --> 00:00:27.277
+el cuadro es tal vez el más obvio,
+
+00:00:27.277 --> 00:00:31.632
+así que corta 
+por la parte superior justo allí
+
+00:00:31.632 --> 00:00:35.810
+corta el lateral, justo aquí,
+
+00:00:35.810 --> 00:00:38.528
+corta el lateral, supongo que en la parte
+de atrás de un cubo de cristal,
+
+00:00:38.528 --> 00:00:41.306
+para que podáis verlo,
+justo aquí, línea de puntos,
+
+00:00:41.306 --> 00:00:46.335
+y entonces corta este, justo aquí. 
+Así que podéis imaginar un plano que hace así,
+
+00:00:46.335 --> 00:00:50.032
+y si quiero dibujar el plano más amplio,
+lo puedo dibujar así.
+
+00:00:50.032 --> 00:00:53.304
+Dejarme ver si puedo hacer 
+un trabajo decente y adecuado
+
+00:00:53.304 --> 00:00:57.528
+en dibujar como diríais el propio,
+como podéis ver, la parte del plano
+
+00:00:57.528 --> 00:01:01.766
+que está cortando este cubo. 
+Se verá, podrá verse como algo...
+
+00:01:01.766 --> 00:01:05.943
+se vería como algo así. 
+Y puedo incluso colorear
+
+00:01:05.943 --> 00:01:15.335
+la parte del plano que podríais
+ver, de hecho, si el cubo fuese opaco,
+
+00:01:15.335 --> 00:01:20.088
+si no pudierais ver a través.
+Pero si realmente pudierais mirar a través
+
+00:01:20.088 --> 00:01:23.046
+podríais ver esta línea de puntos,
+y el plano se vería como algo así.
+
+00:01:23.046 --> 00:01:26.047
+Así que un cuadrado es
+algo muy fácil y directo de obtener,
+
+00:01:26.047 --> 00:01:29.240
+si estáis haciendo un plano de corte
+de un cubo.
+
+00:01:29.240 --> 00:01:32.644
+Pero ¿y un rectángulo?
+¿Cómo podéis lograr eso?
+
+00:01:32.644 --> 00:01:34.452
+En todo caso, os animo:
+
+00:01:34.452 --> 00:01:36.771
+Pausad el vídeo y por vosotros mismos 
+tratad de pensar en ello:
+
+00:01:36.771 --> 00:01:38.900
+¿Cómo podéis obtener estas formas
+de las que estoy hablando?
+
+00:01:39.709 --> 00:01:43.944
+Bueno para un rectángulo
+podéis de hecho cortar así:
+
+00:01:43.944 --> 00:01:46.157
+Así, si cortáis este lado así,
+
+00:01:46.157 --> 00:01:49.243
+y después cortáis ese lado así,
+
+00:01:49.243 --> 00:01:53.683
+y entonces cortáis este lado así;
+seguro que ya veis a dónde lleva esto,
+
+00:01:53.683 --> 00:01:56.132
+este lado de esta manera,
+
+00:01:56.132 --> 00:01:59.578
+y entonces cortáis la base,
+justo por allí,
+
+00:01:59.578 --> 00:02:04.175
+y entonces la intersección del plano
+con el que estás cortando;
+
+00:02:04.175 --> 00:02:05.948
+así, la intersección, veamos:
+
+00:02:05.948 --> 00:02:08.497
+Este podría ser el plano
+con el que estoy cortando,
+
+00:02:08.497 --> 00:02:11.351
+así que la intersección del plano
+con el que estoy cortando
+
+00:02:11.351 --> 00:02:17.970
+y mi cubo va a ser un rectángulo.
+
+00:02:17.970 --> 00:02:22.563
+Así que podría verse así, 
+y una vez más, dejadme rellenar esto,
+
+00:02:22.563 --> 00:02:27.731
+si podéis ver esto,
+si imagináis el plano
+
+00:02:27.731 --> 00:02:32.108
+justo como uno de estos enormes filos
+con que los magos usan cortan a gente en dos,
+
+00:02:32.108 --> 00:02:34.069
+o para hacer como que lo hacen, 
+entonces nos da
+
+00:02:34.069 --> 00:02:35.761
+la ilusión de cortar a una persona en dos,
+
+00:02:35.761 --> 00:02:37.063
+se podría ver como algo así.
+
+00:02:37.063 --> 00:02:40.296
+¡Bien! Así que podéis decir:
+"Ok, no es tan difícil de digerir,
+
+00:02:40.296 --> 00:02:45.685
+que si intersecciono un plano con un cubo
+puedo obtener un cuadrado, un rectángulo.
+
+00:02:45.685 --> 00:02:48.255
+Pero ¿y qué tal triángulos?".
+
+00:02:48.255 --> 00:02:51.587
+Bien, una vez más pausad el vídeo
+si pensáis que podéis averiguar esto,
+
+00:02:51.587 --> 00:02:56.677
+los triángulos no son tan difíciles.
+Podéis cortar este lado justo aquí,
+
+00:02:56.677 --> 00:03:00.781
+este lado justo por aquí,
+
+00:03:00.781 --> 00:03:03.818
+y este lado justo por aquí,
+
+00:03:03.818 --> 00:03:06.663
+y entonces, esto es; por supuesto
+puedo seguir dibujando el plano,
+
+00:03:06.663 --> 00:03:08.490
+pero creo que ya os hacéis
+una idea,
+
+00:03:08.490 --> 00:03:09.713
+este sería un triángulo.
+
+00:03:09.713 --> 00:03:11.774
+Hay diferentes tipos de triángulos
+que podéis construir.
+
+00:03:11.774 --> 00:03:15.835
+Podéis construir un triángulo equilátero,
+
+00:03:15.835 --> 00:03:22.251
+así que mientras que este corte sea
+tan largo como este de aquí,
+
+00:03:22.251 --> 00:03:24.460
+y tan largo como esta longitud
+de aquí arriba,
+
+00:03:24.460 --> 00:03:26.911
+o la longitud que hace intersección
+en este espacio del cubo,
+
+00:03:26.911 --> 00:03:28.906
+este será un triángulo equilátero.
+
+00:03:28.906 --> 00:03:33.797
+Si movierais este punto más hacia arriba,
+de hecho lo haré en otro color,
+
+00:03:33.797 --> 00:03:40.059
+entonces obtendríais
+un triángulo isósceles.
+
+00:03:40.059 --> 00:03:43.664
+Si trajerais este punto
+muy, muy cerca, como aquí,
+
+00:03:43.664 --> 00:03:50.094
+os acercaríais a un ángulo recto,
+pero no sería realmente un ángulo recto:
+
+00:03:50.094 --> 00:03:53.404
+todavía tendríais estos ángulos
+que serían de menos de 90º,
+
+00:03:53.404 --> 00:03:56.177
+podéis acercaros a 90º. 
+Así que no podéis realmente obtener
+
+00:03:56.177 --> 00:04:00.541
+un ángulo recto exacto,
+y ya que no podéis llegar a 90º,
+
+00:04:00.541 --> 00:04:03.521
+mucho menos llegaréis a los 91º,
+así que no seréis en verdad capaces de hacer
+
+00:04:03.521 --> 00:04:05.581
+un triángulo obtuso del mismo modo.
+
+00:04:05.581 --> 00:04:08.007
+Pero sí podéis hacer un equilátero,
+podéis hacer isósceles,
+
+00:04:08.007 --> 00:04:09.550
+podéis hacer triángulos escalenos.
+
+00:04:09.550 --> 00:04:13.616
+Se podría decir que podríais hacer
+los diferentes tipos de triángulos agudos.
+
+00:04:13.616 --> 00:04:16.646
+Pero ahora vamos a hacer
+algunas cosas verdaderamente interesantes:
+
+00:04:16.646 --> 00:04:22.040
+¿Podéis hacer un pentágono
+al cortar un cubo con un plano?
+
+00:04:22.040 --> 00:04:24.426
+Y realmente quiero que pauséis el vídeo
+y penséis en ello aquí,
+
+00:04:24.426 --> 00:04:26.500
+porque es algo tan divertido.
+Pensad en ello:
+
+00:04:26.500 --> 00:04:30.376
+¿Cómo podéis obtener un pentágono
+al seccionar un cubo con un plano?
+
+00:04:31.793 --> 00:04:33.748
+Muy bien, pues ahí va,
+
+00:04:33.748 --> 00:04:36.889
+así es como podéis obtener un pentágono
+al seccionar un cubo con un plano:
+
+00:04:36.889 --> 00:04:41.911
+Imaginad cortar la zona superior
+-lo haremos un poco diferente-,
+
+00:04:41.911 --> 00:04:49.390
+así que imaginad cortar la parte superior,
+justo aquí, de esta manera.
+
+00:04:49.390 --> 00:04:54.643
+Imaginad cortar esta parte trasera,
+de esta manera,
+
+00:04:54.643 --> 00:04:58.101
+esta parte trasera que podéis ver,
+algo parecido a esto,
+
+00:04:58.101 --> 00:05:05.706
+ahora cortáis este lado,
+justo aquí, de esta manera,
+
+00:05:05.706 --> 00:05:09.758
+y ahora cortáis este lado,
+justo aquí, de este modo.
+
+00:05:09.758 --> 00:05:13.403
+Este podría ser,
+y del mismo modo dibujaré el plano
+
+00:05:13.403 --> 00:05:15.857
+-aunque tal vez no será tan obvio
+si trato de dibujar el plano-
+
+00:05:15.857 --> 00:05:20.433
+pero así os hacéis una idea:
+si corto aquí, en el ángulo correcto
+
+00:05:20.433 --> 00:05:24.257
+(no en un ángulo recto -90º-
+sino 'el ángulo correcto', el adecuado.
+
+00:05:24.257 --> 00:05:27.018
+De hecho no debería decir 'right angle',
+pues eso lo confundirá todo).
+
+00:05:27.018 --> 00:05:29.802
+Si lo corto en el ángulo correcto,
+
+00:05:29.802 --> 00:05:32.773
+que estoy haciendo,
+con la intersección de mi plano
+
+00:05:32.773 --> 00:05:37.785
+con mi cubo va a ser
+este pentágono, justo aquí.
+
+00:05:37.785 --> 00:05:42.276
+Ahora subamos un poco las apuestas,
+¡subámoslas un poco más!
+
+00:05:42.276 --> 00:05:44.879
+¿Y qué tal un hexágono?
+
+00:05:44.879 --> 00:05:48.264
+¿Puedo cortar un cubo de una manera,
+con un plano bidimensional,
+
+00:05:48.264 --> 00:05:52.763
+que me de la intersección del plano 
+en el cubo que sea un hexágono?
+
+00:05:53.043 --> 00:05:55.596
+Como os podéis imaginar,
+no os habría preguntado eso
+
+00:05:55.596 --> 00:05:59.301
+si no fuese posible.
+Así que veamos si se puede hacer.
+
+00:05:59.301 --> 00:06:06.353
+Así que si cortamos esto, justo aquí,
+si cortamos esta pieza de la base,
+
+00:06:06.353 --> 00:06:12.109
+justo allí,
+y entonces cortamos este lado de atrás,
+
+00:06:12.109 --> 00:06:21.363
+así, y entonces cortamos el lado
+que podemos ver justo aquí
+
+00:06:21.363 --> 00:06:24.266
+(este lado me podría haber salido
+mucho más recto).
+
+00:06:24.266 --> 00:06:26.224
+¡Así que esperemos que tengáis la idea!
+
+00:06:26.224 --> 00:06:30.449
+Puedo cortar este cubo
+de forma que finalmente obtengo un hexágono.
+
+00:06:30.449 --> 00:06:33.707
+Así que esperemos que esto os dé
+una mejor apreciación
+
+00:06:33.707 --> 00:06:36.692
+de lo que podéis hacer realmente
+con un cubo,
+
+00:06:36.692 --> 00:06:41.066
+especialmente si estáis ocupados
+cortándolos con grandes planos de corte
+
+00:06:41.066 --> 00:06:45.213
+-o grandes hojas de corte, de algún modo-.
+
+00:06:45.213 --> 00:06:49.083
+Hay mucho más en un cubo
+de lo que pudierais imaginar en el pasado.
+
+00:06:49.083 --> 00:06:52.662
+Cuando pensamos en ello,
+hay seis caras en un cubo,
+
+00:06:52.662 --> 00:06:54.701
+y por tanto seis superficies en un cubo,
+
+00:06:54.701 --> 00:06:57.422
+y así podéis cortar de él
+un máximo de seis de las superficies
+
+00:06:57.422 --> 00:06:59.430
+cuando lo intersecáis con un plano,
+
+00:06:59.430 --> 00:07:01.928
+y cada vez que cortáis
+en una de estas superficies
+
+00:07:01.928 --> 00:07:04.307
+forma un lado.
+Así que aquí cortamos cuatro lados,
+
+00:07:04.307 --> 00:07:07.102
+aquí cortamos en cuatro superficies
+de cuatro lados,
+
+00:07:07.102 --> 00:07:10.081
+aquí cortamos en tres,
+aquí cortamos en cinco
+
+00:07:10.081 --> 00:07:12.149
+-no estamos cortando la base
+del cubo, aquí-,
+
+00:07:12.149 --> 00:07:17.655
+y aquí estamos cortando en los seis lados,
+en las seis superficies,
+
+00:07:17.655 --> 00:07:20.661
+de las caras de este cubo.

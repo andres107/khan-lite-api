@@ -1,0 +1,798 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.440 --> 00:00:02.930
+en este vídeo, voy a mostrarles una técnica que se llama
+
+00:00:02.930 --> 00:00:09.310
+Completando el cuadrado.
+
+00:00:09.310 --> 00:00:14.490
+y lo genial de esto es que funciona para cualquier
+
+00:00:14.490 --> 00:00:18.210
+ecuación cuadrática, y en realidad es la base de
+
+00:00:18.210 --> 00:00:18.750
+la fórmula cuadrática.
+
+00:00:18.750 --> 00:00:21.990
+en el siguiente vídeo o el siguiente voy a demostrar
+
+00:00:21.990 --> 00:00:25.630
+la formula cuadrática por el método de completar el cuadrado
+
+00:00:25.630 --> 00:00:28.450
+pero antes de eso, tenemos que entender
+
+00:00:28.450 --> 00:00:29.470
+de que trata.
+
+00:00:29.470 --> 00:00:32.070
+y en realidad todo se basa en lo que hicimos en el
+
+00:00:32.070 --> 00:00:33.880
+video anterior, donde resolvimos cuadraticas
+
+00:00:33.880 --> 00:00:36.130
+usando cuadrados perfectos
+
+00:00:36.130 --> 00:00:39.900
+así que, digamos que tengo la ecuación cuadrada
+
+00:00:39.900 --> 00:00:44.880
+x cuadrado, menos 4x, es igual a 5.
+
+00:00:44.880 --> 00:00:47.490
+Y puse este gran espacio aquí por una razon
+
+00:00:47.490 --> 00:00:49.680
+en el vídeo anterior, vimos que esto puede ser muy
+
+00:00:49.680 --> 00:00:53.200
+fácil de resolver si la izquierda de la igualdad
+
+00:00:53.200 --> 00:00:56.500
+es un cuadrado perfecto.
+
+00:00:56.500 --> 00:00:59.050
+Como verán, completando el cuadrado se trata de convertir
+
+00:00:59.050 --> 00:01:01.900
+la ecuación cuadrática en un cuadrado perfecto,
+
+00:01:01.900 --> 00:01:05.190
+ingeniándose, sumando y sustrayendo de los dos lados de manera
+
+00:01:05.190 --> 00:01:05.970
+que sea un cuadrado perfecto.
+
+00:01:05.970 --> 00:01:07.710
+Así que, ¿como hacemos eso?
+
+00:01:07.710 --> 00:01:10.130
+Pues bien, para que este lado izquierdo sea
+
+00:01:10.130 --> 00:01:12.990
+un cuadrado perfecto, tiene que haber algún numero aquí
+
+00:01:12.990 --> 00:01:17.510
+tiene que haber algún numero que si tengo mi numero
+
+00:01:17.510 --> 00:01:20.910
+al cuadrado obtengo ese numero, y luego si tengo dos veces
+
+00:01:20.910 --> 00:01:22.890
+mi numero me resulta "-4"
+
+00:01:22.890 --> 00:01:24.750
+recuerden eso, supongo que me voy a hacer enternder
+
+00:01:24.750 --> 00:01:27.700
+con unos cuantos ejemplos.
+
+00:01:27.700 --> 00:01:35.230
+Quiero "x²-4x+(algo)" que sea igual a
+
+00:01:35.230 --> 00:01:37.740
+"(x - a)²" equis menos a al cuadrado.
+
+00:01:37.740 --> 00:01:41.010
+No sabemos el valor de "a" todavía, pero
+
+00:01:41.010 --> 00:01:42.110
+sabemos un par de cosas.
+
+00:01:42.110 --> 00:01:46.180
+Cuando elevo al cuadrado-- así esto va a ser
+
+00:01:46.180 --> 00:01:49.330
+"x²-2a+a²"
+
+00:01:49.330 --> 00:01:53.640
+Si observamos este patrón de aquí, tiene que ser--
+
+00:01:53.640 --> 00:01:59.880
+perdón, "x cuadrado menos 2ax"-- estos de aquí tiene que ser "2ax"
+
+00:01:59.880 --> 00:02:03.530
+y esto de aquí va a ser "a²"
+
+00:02:03.530 --> 00:02:07.690
+así que este numero, "a" va a ser la mitad de "-4", "a" tiene
+
+00:02:07.690 --> 00:02:10.370
+que ser "-2", cierto?
+
+00:02:10.370 --> 00:02:13.570
+porque 2 veces "a" va a ser "-4"
+
+00:02:13.570 --> 00:02:18.330
+"a" es "-2", y si "a" es "-2", cuanto es "a²"?
+
+00:02:18.330 --> 00:02:21.550
+Bien, entonces "a²" va a ser "4"
+
+00:02:21.550 --> 00:02:24.220
+esto parecerá complicado ahora mismo,
+
+00:02:24.220 --> 00:02:25.910
+pero estoy mostrando la lógica.
+
+00:02:25.910 --> 00:02:29.080
+Literalmente solo miramos a este coeficiente de aquí,
+
+00:02:29.080 --> 00:02:32.670
+y dirán, OK, bien cual es la mitad de ese coeficiente?
+
+00:02:32.670 --> 00:02:35.920
+Bien, la mitad de ese coeficiente de ahí es "-2"
+
+00:02:35.920 --> 00:02:40.230
+podemos decir que "a" es igual a "-2" -- la misma idea de ahí --
+
+00:02:40.230 --> 00:02:41.720
+y después lo elevamos al cuadrado.
+
+00:02:41.720 --> 00:02:44.100
+Elevamos "a" , obtenemos "4"
+
+00:02:44.100 --> 00:02:46.540
+así que sumamos 4 aquí.
+
+00:02:46.540 --> 00:02:47.630
+sumamos un cuatro.
+
+00:02:47.630 --> 00:02:50.990
+Ahora, desde la primera ecuación que hicimos,
+
+00:02:50.990 --> 00:02:55.240
+deberían saber que no pueden hacer algo a solo un lado
+
+00:02:55.240 --> 00:02:55.900
+de la ecuación.
+
+00:02:55.900 --> 00:02:58.700
+No podemos sumar 4 solo a un lado de la ecuación.
+
+00:02:58.700 --> 00:03:02.710
+si "x²-4x" era igual a 5, y luego le sumo 4
+
+00:03:02.710 --> 00:03:04.720
+ya no sería 5.
+
+00:03:04.720 --> 00:03:07.950
+va a ser igual a 5 más 4.
+
+00:03:07.950 --> 00:03:11.430
+sumamos 4 al lado izquierdo porque queríamos que
+
+00:03:11.430 --> 00:03:12.435
+sea un cuadrado perfecto.
+
+00:03:12.435 --> 00:03:15.210
+pero si sumamos algo al lado izquierdo, tenemos que
+
+00:03:15.210 --> 00:03:17.320
+sumarle lo mismo al otro lado.
+
+00:03:17.320 --> 00:03:20.630
+Ahora, conseguimos un problema que
+
+00:03:20.630 --> 00:03:23.410
+es parecido a los del vídeo anterior.
+
+00:03:23.410 --> 00:03:25.960
+¿que es este lado?
+
+00:03:25.960 --> 00:03:27.000
+déjenme reescribirlo.
+
+00:03:27.000 --> 00:03:33.020
+tenemos "x² - 4x + 4 = 9" ahora.
+
+00:03:33.020 --> 00:03:35.380
+Todo lo que hicimos fue sumar 4 a ambos lados de la ecuación.
+
+00:03:35.380 --> 00:03:39.070
+Pero sumamos 4 al propósito de que este lado
+
+00:03:39.070 --> 00:03:41.080
+se vuelva un cuadrado perfecto.
+
+00:03:41.080 --> 00:03:41.760
+Ahora ¿que es esto?
+
+00:03:41.760 --> 00:03:45.340
+Que numero al ser multiplicado por si mismo me da "4"
+
+00:03:45.340 --> 00:03:47.770
+y sumado a si mismo es igual a "-2"?
+
+00:03:47.770 --> 00:03:49.000
+Bien, ya respondimos a esa pregunta.
+
+00:03:49.000 --> 00:03:50.040
+Es "-2"
+
+00:03:50.040 --> 00:03:55.310
+así tenemos "(x-2)*(x-2) = 9"
+
+00:03:55.310 --> 00:03:59.350
+o podemos saltarnos este paso y escribir
+
+00:03:59.350 --> 00:04:02.990
+(x-2)² = 9
+
+00:04:02.990 --> 00:04:07.280
+y luego sacamos la raíz cuadrada de ambos lados,
+
+00:04:07.280 --> 00:04:10.840
+tenemos que "(x-2) = ±3"
+
+00:04:10.840 --> 00:04:16.870
+Sumamos 2 a ambos lados, y tenemos que "x = 2 ± 3"
+
+00:04:16.870 --> 00:04:22.440
+Eso nos dice que x puede ser igual a "2 + 3", que es "5"
+
+00:04:22.440 --> 00:04:28.960
+o "x" puede ser igual a "2 - 3", que es "-1"
+
+00:04:28.960 --> 00:04:30.650
+y terminamos.
+
+00:04:30.650 --> 00:04:31.840
+Ahora quiero ser muy claro.
+
+00:04:31.840 --> 00:04:34.300
+Pudimos haber hecho esto sin completar el cuadrado.
+
+00:04:34.300 --> 00:04:37.640
+Pudimos empezar con que
+
+00:04:37.640 --> 00:04:39.850
+"x² - 4x = 5"
+
+00:04:39.850 --> 00:04:42.970
+pudimos haber restado "5" de los dos lados y sacar
+
+00:04:42.970 --> 00:04:47.160
+"x² - 4x - 5 = 0"
+
+00:04:47.160 --> 00:04:51.940
+Y pudimos haber dicho, hey, si tenemos un "-5"
+
+00:04:51.940 --> 00:04:56.190
+por "1", entonces su producto va a ser "-5"
+
+00:04:56.190 --> 00:04:57.000
+y su suma "-4"
+
+00:04:57.000 --> 00:05:00.800
+Entonces hubiésemos podido decir...
+
+00:05:00.800 --> 00:05:02.480
+(x-5)(x+1) = 0.
+
+00:05:02.480 --> 00:05:06.810
+y luego pudimos decir que "x" es igual a 5 o "x" es igual a
+
+00:05:06.810 --> 00:05:07.700
+"-1"
+
+00:05:07.700 --> 00:05:10.350
+Y en este caso, esto de de hecho probablemente
+
+00:05:10.350 --> 00:05:13.450
+hubiese sido una manera mas rápida de resolver el problema.
+
+00:05:13.450 --> 00:05:16.140
+pero lo bueno acerca de completar el cuadrado es
+
+00:05:16.140 --> 00:05:17.770
+que siempre va a funcionar.
+
+00:05:17.770 --> 00:05:21.580
+Siempre va a funcionar no importa cual sea el coeficiente
+
+00:05:21.580 --> 00:05:23.385
+o no importa que tan retorcido sea el problema.
+
+00:05:23.385 --> 00:05:25.400
+y déjenme demostrarlo.
+
+00:05:25.400 --> 00:05:28.440
+hagamos uno que tradicionalmente seria
+
+00:05:28.440 --> 00:05:31.140
+un problema muy molesto si tratábamos de
+
+00:05:31.140 --> 00:05:36.200
+factorizarlo, especialmente por agrupación
+
+00:05:36.200 --> 00:05:37.020
+o algo parecido.
+
+00:05:37.020 --> 00:05:45.070
+Digamos que tenemos
+
+00:05:45.070 --> 00:05:47.530
+"10x-30x-8 = 0"
+
+00:05:47.530 --> 00:05:50.060
+Ahora, desde el primer momento podríamos decir, hey mira,
+
+00:05:50.060 --> 00:05:53.280
+tal vez podemos dividir todo por "2"
+
+00:05:53.280 --> 00:05:54.800
+eso lo simplifica un poco.
+
+00:05:54.800 --> 00:05:56.450
+dividamos todo por "2"
+
+00:05:56.450 --> 00:06:02.150
+Así que dividimos todo por "2", ¿que obtenemos?
+
+00:06:02.150 --> 00:06:11.990
+tenemos que "5x²-15x-4 = 0".
+
+00:06:11.990 --> 00:06:14.540
+pero una vez mas, ahora tenemos este "5" loco enfrente de
+
+00:06:14.540 --> 00:06:16.810
+este coeficiente y tendríamos que resolver por agrupación
+
+00:06:16.810 --> 00:06:20.410
+que es un proceso bastante doloroso
+
+00:06:20.410 --> 00:06:23.410
+pero ahora directamente podemos completar el cuadrado,
+
+00:06:23.410 --> 00:06:27.500
+y para hacer eso voy a dividir por "5" para obtener
+
+00:06:27.500 --> 00:06:28.870
+un coeficiente de "1" aquí.
+
+00:06:28.870 --> 00:06:31.660
+y verán por que esto diferente a lo que
+
+00:06:31.660 --> 00:06:33.010
+hemos hecho tradicionalmente,
+
+00:06:33.010 --> 00:06:35.730
+Así que si divido todo por "5", pude haber dividido
+
+00:06:35.730 --> 00:06:38.050
+por "10" desde el comienzo pero quería
+
+00:06:38.050 --> 00:06:40.030
+hacer este paso primero para mostrarles que este
+
+00:06:40.030 --> 00:06:41.800
+método no nos daría mucho.
+
+00:06:41.800 --> 00:06:43.660
+Dividamos todo por °5°
+
+00:06:43.660 --> 00:06:52.693
+así si dividimos todo por "5", obtenemos
+
+00:06:52.693 --> 00:06:58.720
+"x² - 3x - 4/5 = 0"
+
+00:06:58.720 --> 00:07:02.020
+Así que, probablemente dirán, hey, porque no
+
+00:07:02.020 --> 00:07:02.630
+lo hacemos por agrupación de factores?
+
+00:07:02.630 --> 00:07:06.140
+si nos limitamos siempre a dividir por este coeficiente principal,
+
+00:07:06.140 --> 00:07:07.220
+nos podemos deshacer de el.
+
+00:07:07.220 --> 00:07:09.840
+Siempre podemos pasar esto a "1" o "-1" si dividimos
+
+00:07:09.840 --> 00:07:10.910
+por el numero correcto.
+
+00:07:10.910 --> 00:07:14.410
+pero fíjense, que al hacer eso obtenemos este "4/5" loco
+
+00:07:14.410 --> 00:07:17.630
+Así que esto es muy difícil de hacer simplemente usando factorización.
+
+00:07:17.630 --> 00:07:19.500
+Tendríamos que decir, ¿qué números cuando saco su
+
+00:07:19.500 --> 00:07:22.100
+producto es igual a menos 4/5?
+
+00:07:22.100 --> 00:07:25.210
+Es una fracción y cuando saco su suma, es igual a
+
+00:07:25.210 --> 00:07:26.140
+menos 3?
+
+00:07:26.140 --> 00:07:29.310
+Este es un problema difícil con factoreo.
+
+00:07:29.310 --> 00:07:36.860
+Esto es difícil mediante factoreo.
+
+00:07:36.860 --> 00:07:42.080
+Por lo tanto, lo mejor sería completar el cuadrado.
+
+00:07:42.080 --> 00:07:44.720
+Así que pensemos un poco cómo podemos convertir esto
+
+00:07:44.720 --> 00:07:45.950
+en un cuadrado perfecto.
+
+00:07:45.950 --> 00:07:48.080
+Lo que quiero hacer -- y verán esto hecho de muchas maneras
+
+00:07:48.080 --> 00:07:50.040
+Voy a demostrarles dos métodos, porque verán a los profesores
+
+00:07:50.040 --> 00:07:53.880
+hacerlo de las dos formas-- Quiero tener el 4/5 del otro lado.
+
+00:07:53.880 --> 00:07:56.900
+Así que vamos a añadir 4/5 a ambos lados de la ecuación.
+
+00:07:56.900 --> 00:07:59.980
+No es necesario hacerlo de esta forma, pero me gusta tener el
+
+00:07:59.980 --> 00:08:01.160
+4/5 fuera del camino.
+
+00:08:01.160 --> 00:08:04.010
+y luego que obtenemos si añadimos 4/5 a
+
+00:08:04.010 --> 00:08:05.250
+ambos lados de la ecuación?
+
+00:08:05.250 --> 00:08:08.350
+El lado izquierdo de la ecuación pasa a ser
+
+00:08:08.350 --> 00:08:11.800
+"x²-3x", ningún 4/5 ahí.
+
+00:08:11.800 --> 00:08:13.660
+Voy a dejar un pequeño espacio.
+
+00:08:13.660 --> 00:08:17.790
+y eso va a ser igual a 4/5.
+
+00:08:17.790 --> 00:08:19.990
+Ahora, al igual que el otro problema, queremos convertir este
+
+00:08:19.990 --> 00:08:23.350
+lado izquierdo en un binomio cuadrado perfecto.
+
+00:08:23.350 --> 00:08:24.740
+Como hacemos eso?
+
+00:08:24.740 --> 00:08:28.360
+Bien, hemos dicho que, que numero por 2 es igual a
+
+00:08:28.360 --> 00:08:30.110
+menos 3?
+
+00:08:30.110 --> 00:08:32.309
+Así algún numero por 2 es menos 3.
+
+00:08:32.309 --> 00:08:35.330
+o esencialmente solo tomamos "-3" y lo dividimos por "2",
+
+00:08:35.330 --> 00:08:37.370
+que es menos 3/2.
+
+00:08:37.370 --> 00:08:39.554
+y luego elevamos al cuadrado "3/2"
+
+00:08:39.554 --> 00:08:44.840
+Así en este ejemplo, diríamos que "a" es "-3/2"
+
+00:08:44.840 --> 00:08:48.380
+y si elevamos al cuadrado "-3/2", ¿que obtenemos?
+
+00:08:48.380 --> 00:08:54.100
+obtenemos "9/4" positivo.
+
+00:08:54.100 --> 00:08:56.810
+Solo tomé la mitad de este coeficiente y lo eleve al cuadrado
+
+00:08:56.810 --> 00:08:58.010
+y obtuve "9/4".
+
+00:08:58.010 --> 00:09:00.720
+El propósito de hacer eso es convertir este
+
+00:09:00.720 --> 00:09:02.920
+lado izquierdo en un cuadrado perfecto.
+
+00:09:02.920 --> 00:09:05.530
+ahora, cualquier cosa que hacemos de un lado,
+
+00:09:05.530 --> 00:09:06.600
+tenemos que hacerlo al otro lado.
+
+00:09:06.600 --> 00:09:11.030
+así que hemos añadido "9/4" aquí, vamos a añadir 9/4 por allá.
+
+00:09:11.030 --> 00:09:13.850
+¿Y en que se convierte nuestra ecuación?
+
+00:09:13.850 --> 00:09:22.530
+Tenemos "x²-3x+9/4" es igual a-- vamos a ver si
+
+00:09:22.530 --> 00:09:24.460
+podemos quitar un denominador común.
+
+00:09:24.460 --> 00:09:29.120
+Así, 4/5 es lo mismo que 16/20.
+
+00:09:29.120 --> 00:09:31.880
+Solo multiplicamos el numerador y denominador por 4.
+
+00:09:31.880 --> 00:09:33.820
+más sobre "20"
+
+00:09:33.820 --> 00:09:36.960
+"9/4" es lo mismo si multiplicamos
+
+00:09:36.960 --> 00:09:42.150
+el numerador por 5 como 45/20.
+
+00:09:42.150 --> 00:09:44.970
+y así, cuanto es 16 + 45?
+
+00:09:44.970 --> 00:09:47.020
+como verán, esto se esta enredando, pero
+
+00:09:47.020 --> 00:09:48.930
+eso es lo divertido, supongo, de
+
+00:09:48.930 --> 00:09:50.380
+completar el cuadrado a veces,
+
+00:09:50.380 --> 00:09:53.420
+16 + 45.
+
+00:09:53.420 --> 00:09:55.780
+vemos que es 55, 61.
+
+00:09:55.780 --> 00:09:59.750
+Así que esto es igual a 61/20.
+
+00:09:59.750 --> 00:10:02.680
+déjenme volver a escribirlo.
+
+00:10:02.680 --> 00:10:09.480
+"x²-3x+9/4 = 61/20"
+
+00:10:09.480 --> 00:10:11.030
+un numero loco.
+
+00:10:11.030 --> 00:10:13.630
+ahora esto, por lo menos en el lado izquierdo,
+
+00:10:13.630 --> 00:10:15.970
+es un cuadrado perfecto.
+
+00:10:15.970 --> 00:10:21.610
+eso es lo mismo que "(x²-3/2)²"
+
+00:10:21.610 --> 00:10:24.200
+y fue por diseño.
+
+00:10:24.200 --> 00:10:27.590
+"menos 3/2" por "menos 3/2" es "9/4 positivo".
+
+00:10:27.590 --> 00:10:32.790
+"menos 3/2" más "menos 3/2" es igual a "menos 3".
+
+00:10:32.790 --> 00:10:37.960
+Así que esto al cuadrado es "61/20"
+
+00:10:37.960 --> 00:10:43.090
+podemos sacar la raíz cuadrada de ambos lados y tenemos que
+
+00:10:43.090 --> 00:10:47.820
+"x" menos "3/2" es igual a más menos
+
+00:10:47.820 --> 00:10:53.320
+± la raíz cuadrada de 61/20.
+
+00:10:53.320 --> 00:10:57.640
+y ahora, podemos sumar 3/2 a ambos lados de esta ecuacion
+
+00:10:57.640 --> 00:11:03.600
+y vamos a obtener que "x" es igual a
+
+00:11:03.600 --> 00:11:07.300
+± la raíz cuadrada de 61/20.
+
+00:11:07.300 --> 00:11:09.290
+y este es un numero muy loco y espero que sea obvio
+
+00:11:09.290 --> 00:11:11.430
+que no seriamos capaces de -- al menos yo no seria capaz de--
+
+00:11:11.430 --> 00:11:15.250
+obtener este numero solo por factoreo.
+
+00:11:15.250 --> 00:11:17.260
+y si quieres sus valores reales, puedes
+
+00:11:17.260 --> 00:11:18.510
+sacar tu calculadora.
+
+00:11:20.620 --> 00:11:22.510
+y déjenme limpiar todo esto.
+
+00:11:25.950 --> 00:11:28.760
+y "3/2" -- hagamos la versión positiva primero. así que queremos
+
+00:11:28.760 --> 00:11:33.710
+hacer 3 dividido por 2 más las segunda raíz cuadrada.
+
+00:11:33.710 --> 00:11:35.050
+queremos tomar esa pequeña raíz cuadrada.
+
+00:11:35.050 --> 00:11:46.480
+Así la raíz cuadrada de 61 dividido por 20, que es 3.24.
+
+00:11:46.480 --> 00:11:52.760
+este 3.2464 loco, solo voy a escribir 3.246.
+
+00:11:52.760 --> 00:12:02.230
+así que esto es aproximadamente igual a 3.246, y eso fue solo
+
+00:12:02.230 --> 00:12:03.110
+la versión positiva.
+
+00:12:03.110 --> 00:12:06.710
+vamos a hacer la versión de la resta.
+
+00:12:06.710 --> 00:12:09.180
+asi podemos poner nuestra entrada -- si haces el segundo ingresa, lo que queremos es esa pequeña entrada amar
+
+00:12:09.180 --> 00:12:11.535
+ingresa, lo que queremos es esa pequeña entrada amarilla,
+
+00:12:11.535 --> 00:12:12.465
+es por eso que apreté el segundo botón.
+
+00:12:12.465 --> 00:12:16.130
+Así que presiono enter, y nos devuelve lo que acabamos de ingresar
+
+00:12:16.130 --> 00:12:23.400
+podemos cambiar la suma o la resta y
+
+00:12:23.400 --> 00:12:27.970
+obtenemos "-0.246."
+
+00:12:27.970 --> 00:12:33.800
+por lo tanto tenemos "-0.246"
+
+00:12:33.800 --> 00:12:38.200
+y podemos verificar que esto satisface
+
+00:12:38.200 --> 00:12:39.360
+nuestra ecuación original.
+
+00:12:39.360 --> 00:12:42.050
+Nuestra ecuación original esta arriba
+
+00:12:42.050 --> 00:12:43.840
+déjenme verificar solo uno de ellos.
+
+00:12:47.400 --> 00:12:50.130
+Por lo tanto la segunda respuesta en la calculadora grafica es
+
+00:12:50.130 --> 00:12:51.760
+la ultima respuesta que usamos.
+
+00:12:51.760 --> 00:12:54.160
+Así que si usamos una respuesta variable, que es
+
+00:12:54.160 --> 00:12:55.160
+este numero de aquí,
+
+00:12:55.160 --> 00:13:00.090
+Asi si tengo mi respuesta al cuadrado -- estoy usando ANS
+
+00:13:00.090 --> 00:13:02.380
+que representa "-0.24"
+
+00:13:02.380 --> 00:13:11.975
+"ANS²-3*ANS-4/5" -- 4 dividido
+
+00:13:11.975 --> 00:13:16.030
+por 5 -- es igual --
+
+00:13:16.030 --> 00:13:18.490
+Y esto es solo un poquito de explicación,
+
+00:13:18.490 --> 00:13:21.860
+esto no guarda el numero entero, va hasta
+
+00:13:21.860 --> 00:13:22.880
+cierto nivel de precisión.
+
+00:13:22.880 --> 00:13:24.910
+guarda una cantidad de dígitos.
+
+00:13:24.910 --> 00:13:28.930
+así cuando hizo el calculo usó este numero guardado justo aquí,
+
+00:13:28.930 --> 00:13:32.240
+obtengo 1 por 10 a la menos 14.
+
+00:13:32.240 --> 00:13:34.980
+eso es 0.0000.
+
+00:13:34.980 --> 00:13:37.100
+eso es 13 ceros y un 1.
+
+00:13:37.100 --> 00:13:38.870
+un decimal, luego 13 ceros y un 1.
+
+00:13:38.870 --> 00:13:41.060
+así que es casi 0.
+
+00:13:41.060 --> 00:13:43.550
+o en realidad, si obtuvieramos la respuesta exacta aquí, si
+
+00:13:43.550 --> 00:13:46.480
+pasamos por un nivel infinito de precisión aquí, o
+
+00:13:46.480 --> 00:13:49.050
+tal vez si lo mantenemos en su forma radical, obtendriamos
+
+00:13:49.050 --> 00:13:52.390
+que esto de hecho es igual a 0.
+
+00:13:52.390 --> 00:13:55.300
+Así que espero que te haya ayudado, toda esta noción de
+
+00:13:55.300 --> 00:13:56.160
+completando el cuadrado.
+
+00:13:56.160 --> 00:13:58.670
+Ahora vamos a pasar a la formula cuadratica
+
+00:13:58.670 --> 00:14:01.510
+que podemos usar, podemos esencialmente introducir
+
+00:14:01.510 --> 00:14:03.610
+cualquier valor para resolver cualquier ecuación cuadrática.

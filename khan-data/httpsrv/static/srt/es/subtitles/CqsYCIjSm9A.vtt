@@ -1,0 +1,525 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:05.070
+En el último video, hemos averiguado cuánto trabajo o cuánto
+
+00:00:05.070 --> 00:00:07.710
+energía tenemos que poner en un objeto para moverlo dentro de un
+
+00:00:07.710 --> 00:00:08.970
+campo eléctrico constante.
+
+00:00:08.970 --> 00:00:13.250
+Vamos a ver si podemos hacer lo mismo ahora con una variable
+
+00:00:13.250 --> 00:00:15.340
+campo eléctrico y en realidad, entonces nosotros podríamos averiguar el
+
+00:00:15.340 --> 00:00:18.070
+potencial eléctrico de una posición en relación a otro.
+
+00:00:18.070 --> 00:00:21.220
+Así que vamos a decir que tenemos una carga de punto.
+
+00:00:21.220 --> 00:00:23.580
+No tiene que ser una punto de carga, pero digamos
+
+00:00:23.580 --> 00:00:30.140
+que hay algún campo generado por esta carga
+
+00:00:30.140 --> 00:00:37.320
+es un primer trimestre positivo coulombs.
+
+00:00:37.320 --> 00:00:39.620
+Y si queríamos llamar campo líneas--y, por supuesto, esto
+
+00:00:39.620 --> 00:00:44.020
+es diferente el ejemplo con el infinito uniformemente
+
+00:00:44.020 --> 00:00:45.900
+cargada de placa porque esto tendrá una variable eléctrica
+
+00:00:45.900 --> 00:00:46.610
+¿campo, correcto?
+
+00:00:46.610 --> 00:00:49.740
+¿Cuál es el campo eléctrico de este cargo?
+
+00:00:49.740 --> 00:00:52.512
+El campo eléctrico va a tener este aspecto.
+
+00:00:52.512 --> 00:00:54.780
+Es esencialmente la cantidad de fuerza que ejercerá en cualquier
+
+00:00:54.780 --> 00:00:57.350
+partícula y siempre va a estar apuntando hacia el exterior,
+
+00:00:57.350 --> 00:00:59.880
+porque suponemos que la partícula de prueba en cuestión es
+
+00:00:59.880 --> 00:01:02.110
+siempre una carga positiva, por lo que será una carga positiva
+
+00:01:02.110 --> 00:01:04.930
+repelidos desde esta carga positiva.
+
+00:01:04.930 --> 00:01:11.980
+Ese campo es la constante de Coulomb veces esta carga q1
+
+00:01:11.980 --> 00:01:15.650
+a la distancia que estamos de este cargo.
+
+00:01:15.650 --> 00:01:19.760
+Así que si tuviera que señalar este campo eléctrico cerca hasta su
+
+00:01:19.760 --> 00:01:21.010
+bastante fuerte.
+
+00:01:26.640 --> 00:01:30.340
+Y, a continuación, en cuanto tengamos más, obtiene más débil un poco.
+
+00:01:30.340 --> 00:01:32.650
+Siempre es radialmente hacia afuera desde la carga.
+
+00:01:32.650 --> 00:01:35.800
+Esta revisión un poco para usted.
+
+00:01:35.800 --> 00:01:41.820
+Y este es un campo vectorial que estoy llamando, donde estoy
+
+00:01:41.820 --> 00:01:44.130
+sólo al azar recogiendo puntos y mostrando el vector de la
+
+00:01:44.130 --> 00:01:47.790
+campo en ese punto, que quede orientada hacia afuera y en cualquier
+
+00:01:47.790 --> 00:01:50.370
+Dada la radio fuera del círculo, estos vectores debe
+
+00:01:50.370 --> 00:01:51.090
+ser de la misma magnitud.
+
+00:01:51.090 --> 00:01:53.040
+Sé mía no exactamente, pero esperemos que obtendrá la
+
+00:01:53.040 --> 00:01:54.310
+¿punto, correcto?
+
+00:01:54.310 --> 00:01:57.860
+Y la magnitud de estos vectores disminuir con la
+
+00:01:57.860 --> 00:02:00.830
+cuadrado de la distancia.
+
+00:02:00.830 --> 00:02:02.540
+Eso es lo que el campo se va a ver como si estuviera
+
+00:02:02.540 --> 00:02:04.420
+para dibujar un montón de líneas de campo vectorial.
+
+00:02:04.420 --> 00:02:06.240
+¿Y tiene sentido, así como una revisión adecuada?
+
+00:02:06.240 --> 00:02:09.979
+Porque sabemos la fuerza--si tuvimos otra prueba carga q2,
+
+00:02:09.979 --> 00:02:12.600
+Sabemos que la fuerza sobre la carga de prueba es sólo q2 veces
+
+00:02:12.600 --> 00:02:15.400
+¿Esto y que sólo la ley de Coulomb, derecho?
+
+00:02:15.400 --> 00:02:20.450
+Que la fuerza en algunas otras partículas q2 es igual a la
+
+00:02:20.450 --> 00:02:30.560
+campo eléctrico veces q2, que es igual a k q1 q2 sobre r
+
+00:02:30.560 --> 00:02:31.060
+¿cuadrado, verdad?
+
+00:02:31.060 --> 00:02:34.180
+Esto es sólo la ley de Coulomb, y realmente esto proviene de
+
+00:02:34.180 --> 00:02:35.520
+Ley de Coulomb.
+
+00:02:35.520 --> 00:02:40.880
+Así que ya sabemos, tomemos algunos otros positiva
+
+00:02:40.880 --> 00:02:43.190
+partícula fuera de aquí y vamos a llamar a ese segundo trimestre.
+
+00:02:47.700 --> 00:02:50.300
+Voy a escribir aquí desde ya de liado ahí abajo.
+
+00:02:50.300 --> 00:02:53.260
+Q2 y digamos que esto es una carga positiva, por lo que es
+
+00:02:53.260 --> 00:02:59.540
+va a ser repelidos desde este primer trimestre.
+
+00:02:59.540 --> 00:03:04.100
+Y vamos a averiguar cuánto trabajo tomar para empujar
+
+00:03:04.100 --> 00:03:05.870
+¿Esta partícula una cierta distancia, correcta?
+
+00:03:05.870 --> 00:03:08.610
+Porque el campo está empujando hacia afuera.
+
+00:03:08.610 --> 00:03:11.180
+Toma trabajo para empujarlo hacia adentro.
+
+00:03:11.180 --> 00:03:13.350
+Así que digamos que queremos empujarla en.
+
+00:03:13.350 --> 00:03:15.200
+Digamos que es a 10 metros.
+
+00:03:15.200 --> 00:03:18.810
+Digamos que este aquí derecho distancia--permítanme llamar un
+
+00:03:18.810 --> 00:03:26.260
+radial línea--digamos que esta distancia aquí es 10
+
+00:03:26.260 --> 00:03:33.720
+metros y quiero empujar esta partícula en 5 metros, por lo que
+
+00:03:33.720 --> 00:03:37.320
+finalmente obtiene aquí.
+
+00:03:37.320 --> 00:03:38.970
+Esto es donde finalmente voy a conseguirlo, entonces tiene
+
+00:03:38.970 --> 00:03:40.260
+va a ser de 5 metros de distancia.
+
+00:03:42.970 --> 00:03:47.430
+Tan cuánto trabajo se necesita para moverlo 5 metros hacia
+
+00:03:47.430 --> 00:03:48.730
+¿Este cargo?
+
+00:03:48.730 --> 00:03:52.070
+Bien, la forma en que usted piensa es que el campo mantiene
+
+00:03:52.070 --> 00:03:53.230
+¿cambiante, verdad?
+
+00:03:53.230 --> 00:03:56.880
+Pero podemos asumir en un muy, muy, muy, muy infinitamente
+
+00:03:56.880 --> 00:04:00.240
+pequeña distancia y vamos a llamar a esa distancia infinitamente pequeña
+
+00:04:00.240 --> 00:04:04.660
+Dr, cambio de radio y como usted puede ver, somos a
+
+00:04:04.660 --> 00:04:08.500
+embarcarse en algunos integral y el cálculo diferencial.
+
+00:04:08.500 --> 00:04:10.720
+Si no entiendes lo que todo esto es, puede que desee
+
+00:04:10.720 --> 00:04:14.250
+para revisar o aprender el cálculo en el cálculo
+
+00:04:14.250 --> 00:04:18.040
+lista de reproducción, pero cuánto trabajo requiere mover esto
+
+00:04:18.040 --> 00:04:20.019
+¿partícula una distancia muy pequeña?
+
+00:04:20.019 --> 00:04:22.720
+Bien, supongamos que sólo sobre esta muy, muy, muy pequeña
+
+00:04:22.720 --> 00:04:25.940
+distancia, que el campo eléctrico es aproximadamente constante, y
+
+00:04:25.940 --> 00:04:29.600
+por lo que podemos decir que la muy pequeña cantidad de trabajo para
+
+00:04:29.600 --> 00:04:32.750
+pasar que muy, muy pequeña distancia es igual a
+
+00:04:32.750 --> 00:04:40.820
+Constante q1 q2 de Coulomb sobre r cuadrado veces dr.
+
+00:04:40.820 --> 00:04:42.150
+Ahora antes de continuar, vamos a pensar en
+
+00:04:42.150 --> 00:04:43.400
+algo durante un segundo.
+
+00:04:45.810 --> 00:04:50.290
+La ley de Coulomb nos dice que esto es el pasivo que
+
+00:04:50.290 --> 00:04:53.140
+Este cargo está ejerciendo sobre esta partícula o que la
+
+00:04:53.140 --> 00:04:55.570
+campo está ejerciendo sobre esta partícula.
+
+00:04:55.570 --> 00:04:59.330
+La fuerza que debemos aplicar para mover la partícula
+
+00:04:59.330 --> 00:05:02.380
+de aquí a aquí tiene que ser una fuerza hacia adentro.
+
+00:05:02.380 --> 00:05:06.160
+Tiene que ser en el exacto opuesto a dirección, por lo que tiene
+
+00:05:06.160 --> 00:05:07.410
+ser un negativo.
+
+00:05:07.410 --> 00:05:08.300
+Y ¿por qué es eso?
+
+00:05:08.300 --> 00:05:12.230
+Porque tenemos que compensar completamente la fuerza del campo.
+
+00:05:12.230 --> 00:05:14.630
+Quizás si la partícula ya estaba moviendo un poco,
+
+00:05:14.630 --> 00:05:17.280
+luego mantendrá nuestra fuerza de desaceleración de la
+
+00:05:17.280 --> 00:05:19.760
+campo, y si ya no estaba en marcha, tendríamos
+
+00:05:19.760 --> 00:05:22.910
+al empujar se acaba una cantidad infinitamente pequeña sólo para que se
+
+00:05:22.910 --> 00:05:26.010
+mover y, a continuación, nuestra fuerza completamente compensaría la
+
+00:05:26.010 --> 00:05:27.970
+la fuerza del campo, y la partícula que ninguno
+
+00:05:27.970 --> 00:05:30.520
+acelerar o desacelerar.
+
+00:05:30.520 --> 00:05:32.890
+Esto es la cantidad de trabajo, y me limitaré a explicar
+
+00:05:32.890 --> 00:05:34.660
+que queremos poner ese signo negativo allí porque nos
+
+00:05:34.660 --> 00:05:37.350
+va en la dirección opuesta del campo.
+
+00:05:37.350 --> 00:05:40.210
+¿Cómo calculamos la cantidad total de trabajo?
+
+00:05:40.210 --> 00:05:43.000
+Hemos descubierto la cantidad de trabajo que de aquí a
+
+00:05:43.000 --> 00:05:46.140
+aquí, y que incluso dibujaba mucho más grande que sería.
+
+00:05:46.140 --> 00:05:48.000
+Estos dr, esto es un infinitamente
+
+00:05:48.000 --> 00:05:51.010
+pequeño cambio en la radio.
+
+00:05:51.010 --> 00:05:52.890
+Si queremos averiguar el trabajo total, entonces mantenemos
+
+00:05:52.890 --> 00:05:53.450
+les sumando.
+
+00:05:53.450 --> 00:05:55.770
+Decimos, OK, ¿cuál es el trabajo para ir de aquí a aquí, entonces el
+
+00:05:55.770 --> 00:05:57.480
+trabajo para ir desde allí a allí, entonces el trabajo para ir
+
+00:05:57.480 --> 00:06:01.550
+a partir de ahí para allá, todo el camino hasta llegar a 5 metros
+
+00:06:01.550 --> 00:06:04.190
+lejos de este cargo.
+
+00:06:04.190 --> 00:06:07.740
+Y lo que hacemos cuando nos tomamos la suma de estos, asumimos
+
+00:06:07.740 --> 00:06:11.190
+que es una suma infinita de los infinitamente pequeños incrementos.
+
+00:06:11.190 --> 00:06:15.250
+Y como aprendió, que no es más que la integral, y
+
+00:06:15.250 --> 00:06:23.790
+por lo es el trabajo total es igual a la integral.
+
+00:06:23.790 --> 00:06:25.260
+Va a ser una integral definida porque estamos
+
+00:06:25.260 --> 00:06:26.210
+a partir de ese momento.
+
+00:06:26.210 --> 00:06:29.900
+Nos estamos sumando desde--nuestra radio es igual a 10 metros--
+
+00:06:29.900 --> 00:06:33.800
+es nuestro punto de partida--en radio igual a 5 metros.
+
+00:06:33.800 --> 00:06:36.270
+Podría ser un poco poco intuitivo que estamos
+
+00:06:36.270 --> 00:06:39.020
+empezando por el mayor valor y terminando en el menor valor,
+
+00:06:39.020 --> 00:06:39.640
+pero eso es lo que estamos haciendo.
+
+00:06:39.640 --> 00:06:41.780
+Nosotros estamos empujando hacia adentro.
+
+00:06:41.780 --> 00:06:50.210
+Y entonces estamos tomando la integral de menos k q1 q2
+
+00:06:50.210 --> 00:06:55.550
+dr r al cuadrado. ¿Todos estos son términos constantes aquí, correcto?
+
+00:06:55.550 --> 00:06:58.030
+Así podríamos llevarlos a cabo.
+
+00:06:58.030 --> 00:07:01.520
+Así que esta es la misma cosa--no quiero ejecutar fuera del
+
+00:07:01.520 --> 00:07:14.350
+espacio--como menos k q1 q2 veces la integral de 10 a 5 de 1
+
+00:07:14.350 --> 00:07:20.950
+r cuadrado--o al negativo 2--dr. Y
+
+00:07:20.950 --> 00:07:28.310
+equivale a menos k--estoy corriendo fuera del espacio--q1 q2.
+
+00:07:28.310 --> 00:07:29.140
+Tomamos la primitiva.
+
+00:07:29.140 --> 00:07:30.720
+No tenemos que preocuparnos sobre plus aquí porque es un
+
+00:07:30.720 --> 00:07:31.600
+integral definida.
+
+00:07:31.600 --> 00:07:33.580
+r el 2 negativo, ¿qué es la primitiva?
+
+00:07:33.580 --> 00:07:35.890
+Es menos r 1 negativo.
+
+00:07:35.890 --> 00:07:40.900
+Bueno, que menos r, se acaba el negativo en el negativo r
+
+00:07:40.900 --> 00:07:41.760
+cancelar con esto.
+
+00:07:41.760 --> 00:07:46.340
+Se convierte en un plus r 1 negativo, Y evaluar
+
+00:07:46.340 --> 00:07:50.130
+a 5 y luego Réstelo y evaluarla en 10.
+
+00:07:50.130 --> 00:07:52.370
+Y entonces--permítanme simplemente subir aquí.
+
+00:07:52.370 --> 00:07:53.620
+En realidad, me deja borrar algo de esto.
+
+00:07:56.822 --> 00:07:58.885
+Quiero borrar esto aquí.
+
+00:08:04.350 --> 00:08:06.040
+Valioso espacio para trabajar.
+
+00:08:08.840 --> 00:08:12.010
+Así que nos dijo que el trabajo es igual a - I'll
+
+00:08:12.010 --> 00:08:13.100
+sólo reescribir.
+
+00:08:13.100 --> 00:08:15.040
+Tuvimos menos aquí, pero luego tuvimos un signo menos y nos
+
+00:08:15.040 --> 00:08:17.080
+tomó la primitiva y canceló, así que tenemos
+
+00:08:17.080 --> 00:08:25.990
+k q1 q2 veces la primitiva evaluada en 5,
+
+00:08:25.990 --> 00:08:27.780
+¿así que 1 más 5, correcto?
+
+00:08:27.780 --> 00:08:30.960
+r al negativo tan 1 1, r menos la primitiva
+
+00:08:30.960 --> 00:08:36.250
+evaluó en 10 menos 1 más 10 es igual a--bien, 1 sobre
+
+00:08:36.250 --> 00:08:41.049
+¿5, eso es lo mismo como 2 sobre 10, la derecha?
+
+00:08:41.049 --> 00:08:50.280
+Así que tenemos el trabajo es igual a k q1 q2 veces 2 sobre 10
+
+00:08:50.280 --> 00:08:55.360
+menos 1 sobre 10 es 1 sobre 10, por lo es igual a
+
+00:08:55.360 --> 00:09:00.740
+k q1 q2 más de 10 años.
+
+00:09:00.740 --> 00:09:04.760
+Es el trabajo para llevar la partícula de aquí a aquí.
+
+00:09:04.760 --> 00:09:07.740
+Y así, del mismo modo, podríamos decir que la energía potencial de
+
+00:09:07.740 --> 00:09:11.120
+la partícula en esto--la diferencia de potencial de la
+
+00:09:11.120 --> 00:09:15.820
+partícula en este momento en relación con este punto, que
+
+00:09:15.820 --> 00:09:19.610
+la diferencia de potencial aquí es mucho mayor.
+
+00:09:19.610 --> 00:09:21.670
+Va a estar en julios, ya es la unidad de
+
+00:09:21.670 --> 00:09:24.900
+trabajo, energía o potencial, porque
+
+00:09:24.900 --> 00:09:25.940
+potencial es la energía de todos modos.
+
+00:09:25.940 --> 00:09:28.960
+Así que el potencial eléctrico se diferencia entre este punto
+
+00:09:28.960 --> 00:09:34.030
+y en este punto: en este punto, es este valor más alto.
+
+00:09:34.030 --> 00:09:38.510
+Vamos a hacer otro ejemplo, y en realidad, sólo puede encontrar
+
+00:09:38.510 --> 00:09:41.790
+Esta interesante, solo de algo que pensar.
+
+00:09:41.790 --> 00:09:45.550
+La gran diferencia entre--en realidad, me deja continuar
+
+00:09:45.550 --> 00:09:47.510
+Esto en el siguiente video porque me doy cuenta de que ya estoy
+
+00:09:47.510 --> 00:09:48.195
+a 10 minutos.
+
+00:09:48.195 --> 00:09:49.880
+Nos vemos pronto.

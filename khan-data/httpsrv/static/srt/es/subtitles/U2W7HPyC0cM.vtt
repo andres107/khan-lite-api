@@ -1,0 +1,206 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:04.387
+Empecemos de nuevo con un punto, y vamos a llamar ese punto "Punto A".
+
+00:00:04.387 --> 00:00:11.973
+Tengo curiosidad por conocer todos los puntos en mi pantalla que estan exactamente a 2cm del "Punto A".
+
+00:00:11.977 --> 00:00:16.321
+Asi que 2 cm en la pantalla, es asi de lejos.
+
+00:00:16.382 --> 00:00:22.152
+Asi que, claramente, si me pongo en "A" y me voy en esa dirección, este punto esta a 2 cm de "A."
+
+00:00:22.177 --> 00:00:28.982
+Si yo llamo a esto "punto B", entonces podría decir que el segmento de recta AB es de 2 cm, la longitud es de 2 cm.
+
+00:00:28.982 --> 00:00:33.359
+Recuerda, esto se refiere al segmento de recta actual.
+
+00:00:33.359 --> 00:00:36.438
+Yo podría decir que esto se ve bien, pero si hablo de su longitud
+
+00:00:36.454 --> 00:00:39.475
+me gustaría deshacerme de esa línea en la parte superior, y yo diría simplemente: "AB" es igual a 2.
+
+00:00:39.475 --> 00:00:42.725
+Si yo quería colocar las unidades, diría que es 2 cm.
+
+00:00:42.741 --> 00:00:46.300
+Pero no tengo curiosidad solo de "B", quiero saber acerca de TODOS los puntos
+
+00:00:46.315 --> 00:00:51.092
+El conjunto de TODOS los puntos que estan alejados exactamente a 2 cm de "A"
+
+00:00:51.115 --> 00:00:56.933
+Así que podría ir a 2 cm en la otra dirección, tal vez llegar al punto "C" por aquí.
+
+00:00:56.941 --> 00:01:02.669
+Por lo tanto "AC" también va a ser igual a 2 cm. Pero yo podría ir 2 cm en cualquier dirección.
+
+00:01:02.700 --> 00:01:07.477
+asi que, si yo encuentro todos los puntos que estan exactamente a 2 cm de distancia de "A"
+
+00:01:07.485 --> 00:01:12.136
+conseguire una figura con un aspecto muy familiar, como esta:
+
+00:01:12.182 --> 00:01:14.144
+(estoy tratando de dibujarlo a pulso)
+
+00:01:14.175 --> 00:01:16.405
+asi que tendria una figura parecida a esta.
+
+00:01:16.448 --> 00:01:20.600
+Ahora, permitanme trazar esto, no quiero hacerlos pensar que son solo los puntos blancos.
+
+00:01:20.700 --> 00:01:23.331
+son TODOS los puntos que estan justo aquí.
+
+00:01:23.392 --> 00:01:30.838
+déjenme aclarar esto, borraré esto y dibujare una linea continua
+
+00:01:32.085 --> 00:01:38.492
+entonces se pareceria a algo así (es lo mejor que pude hacer).
+
+00:01:38.531 --> 00:01:45.441
+Y el conjunto de todos los puntos que están exactamente a 2 cm de distancia de "A", es un Circulo
+
+00:01:45.469 --> 00:01:49.067
+Estoy seguro que ya estas familiarizado con esto, pero esta es la definición formal:
+
+00:01:49.115 --> 00:01:55.544
+es el conjunto de todos los puntos que están a la misma distancia de "A".
+
+00:01:55.623 --> 00:02:00.375
+Sí digo: "el conjunto de puntos que están a 3 cm de "A", podria ser algo así"
+
+00:02:00.679 --> 00:02:08.298
+Eso nos daría otro circulo (creo que ya captaste la idea).
+
+00:02:08.479 --> 00:02:16.708
+Lo que quiero presentarles son algunas palabras y conceptos que usaremos cuando trabajemos con circulos
+
+00:02:16.746 --> 00:02:19.210
+Permítanme deshacerme del circulo de 3 cm.
+
+00:02:19.295 --> 00:02:23.082
+Bien, primero que todo, vamos a pensar en la distancia,
+
+00:02:23.187 --> 00:02:29.892
+o uno de estos segmentos de recta que unen a "A", que podríamos llamar el centro del círculo
+
+00:02:30.002 --> 00:02:33.113
+Asi que llamaremos centro del circulo a "A"
+
+00:02:33.177 --> 00:02:36.298
+(lo que tiene sentido que es justo como usamos "centro" en la vida cotidiana)
+
+00:02:36.402 --> 00:02:40.418
+lo que quiero hacer es que piensen en que el segmento de recta "AB" es ...
+
+00:02:40.556 --> 00:02:41.492
+... AB ...
+
+00:02:41.644 --> 00:02:46.402
+AB conecta el centro, con un punto del circulo.
+
+00:02:46.495 --> 00:02:50.138
+Recuerda, el circulo son todos los puntos que están a la misma distancia del centro.
+
+00:02:50.290 --> 00:02:58.198
+De manera que llamaremos al segmento de recta "AB" que conecta el centro con cualquier punto del circulo como RADIO.
+
+00:02:58.279 --> 00:03:01.185
+... AB es un radio ...
+
+00:03:01.244 --> 00:03:05.492
+entonces la longitud de radio es igual a 2 cm
+
+00:03:05.577 --> 00:03:08.108
+Y probablemente ya estas familiarizado con la palabra 'radio'
+
+00:03:08.177 --> 00:03:10.162
+pero estoy siendo un poquito mas formal
+
+00:03:10.264 --> 00:03:15.138
+Y lo interesante de la geometría, cuando te inicias en la secundaria, probablemente en la primera clase,
+
+00:03:15.238 --> 00:03:18.800
+cuando te introducen a unas matemáticas un poco mas formal
+
+00:03:18.838 --> 00:03:25.292
+donde tenemos mas cuidado con las definiciones y luego basarnos en estas definiciones para llegar a resultados interesantes.
+
+00:03:25.367 --> 00:03:29.438
+y demostrarnos que sabemos lo que creemos saber
+
+00:03:29.500 --> 00:03:31.000
+y es por eso que aquí estamos siendo mas cuidadosos con el lenguaje.
+
+00:03:31.000 --> 00:03:39.131
+Entonces, AB es el radio, el segmento de recta AB, como también lo es el segmento de recta
+
+00:03:39.131 --> 00:03:42.062
+(déjame poner otro punto aquí)
+
+00:03:42.092 --> 00:03:44.933
+Entonces el segmento de recta AX también es un radio
+
+00:03:44.979 --> 00:03:47.133
+También podemos tener otras líneas y segmentos de líneas que interactúan
+
+00:03:50.398 --> 00:03:53.664
+en formas interesante con el círculo. Podríamos tener una línea que corta
+
+00:03:53.664 --> 00:03:56.864
+el círculo en exactamente un punto.
+
+00:03:56.956 --> 00:03:59.923
+Llamaremos a ese punto "D"
+
+00:04:00.085 --> 00:04:03.438
+y el único punto que equidista de "A"
+
+00:04:03.459 --> 00:04:07.287
+y que toca la línea trazada es el punto "D"
+
+99:59:59.999 --> 99:59:59.999
+Tenemos una línea y el único punto del círculo
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+que también está sobre la línea
+
+99:59:59.999 --> 99:59:59.999
+es el punto "D"
+
+99:59:59.999 --> 99:59:59.999
+Digamos que el nombre de la línea es "L"
+
+99:59:59.999 --> 99:59:59.999
+A veces veremos líneas que se identifican por algunos puntos sobre ellas
+
+99:59:59.999 --> 99:59:59.999
+Por ejemplo si tuviera un punto "E"
+
+99:59:59.999 --> 99:59:59.999
+podríamos llamar a la línea DE
+
+99:59:59.999 --> 99:59:59.999
+o podríamos poner una letra minúscula y decir que es la línea "l"
+
+99:59:59.999 --> 99:59:59.999
+Pero a la línea que tiene solamente un punto en común con el círculo
+
+99:59:59.999 --> 99:59:59.999
+la llamamos una TANGENTE.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la línea "l" es una tangente.
+
+99:59:59.999 --> 99:59:59.999
+Tangente al círculo

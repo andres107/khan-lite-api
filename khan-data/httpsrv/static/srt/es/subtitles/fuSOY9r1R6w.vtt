@@ -1,0 +1,825 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.650 --> 00:00:03.530
+Digamos que tienen una función de vector de posición que se ve como
+
+00:00:03.530 --> 00:00:12.202
+esto. r de t es igual a x de tiempos t vector de la unidad i más y
+
+00:00:12.202 --> 00:00:15.075
+de t veces la unidad vector j.
+
+00:00:15.075 --> 00:00:18.030
+Y déjenme graficar esta realidad.
+
+00:00:18.030 --> 00:00:20.580
+Así que digamos, r de t, quiero hacer un poco
+
+00:00:20.580 --> 00:00:21.875
+recta que eso.
+
+00:00:21.875 --> 00:00:28.630
+Así que ese es mi eje, que es mi eje x, y, digamos, r de t,
+
+00:00:28.630 --> 00:00:30.900
+Y esto es para t es menor que, permítanme escribir esto
+
+00:00:30.900 --> 00:00:35.810
+Entonces esto es para t es entre una y b
+
+00:00:35.810 --> 00:00:39.220
+Así que cuando t es igual a uno, estamos en este vector aquí.
+
+00:00:39.220 --> 00:00:43.170
+Así que si realmente sustituir a t es igual a uno aquí, se obtendría
+
+00:00:43.170 --> 00:00:46.070
+un vector de posición que apunte a ese punto más de allí..
+
+00:00:46.070 --> 00:00:49.670
+Y entonces, como t aumenta, se traza una curva, o el
+
+00:00:49.670 --> 00:00:52.210
+criterios de valoración de nuestros vectores posición de la traza una curva que
+
+00:00:52.210 --> 00:00:53.730
+se ve algo como eso.
+
+00:00:53.730 --> 00:00:58.190
+Así que cuando t es igual a b, se obtiene un vector de posición que los puntos
+
+00:00:58.190 --> 00:00:59.510
+hasta ese momento allí.
+
+00:00:59.510 --> 00:01:01.800
+Así que esto define una ruta de acceso.
+
+00:01:01.800 --> 00:01:05.570
+Y el camino va en esta dirección ascendente,
+
+00:01:05.570 --> 00:01:06.950
+así como así.
+
+00:01:06.950 --> 00:01:10.770
+Ahora digamos que tenemos alguna otra posición
+
+00:01:10.770 --> 00:01:13.440
+vector de función.
+
+00:01:13.440 --> 00:01:27.630
+Voy a llamar a su r de t.
+
+00:01:27.630 --> 00:01:28.220
+Es uno diferente.
+
+00:01:28.220 --> 00:01:29.970
+Es el r verde.
+
+00:01:29.970 --> 00:01:31.350
+r de t.
+
+00:01:31.350 --> 00:01:35.950
+En lugar de ser de x t i veces, va a ser x de un punto a favor
+
+00:01:35.950 --> 00:01:41.890
+b menos t i veces, y en vez de a de t, que va a ser y
+
+00:01:41.890 --> 00:01:46.470
+de a más b menos t i veces.
+
+00:01:46.470 --> 00:01:48.640
+Y hemos visto en los últimos dos videos
+
+00:01:48.640 --> 00:01:54.310
+Esto, la trayectoria definida por esta función vector de posición es
+
+00:01:54.310 --> 00:01:56.020
+va se parecen más a esto.
+
+00:01:56.020 --> 00:01:58.640
+Permítanme que señale a mis ejes.
+
+00:01:58.640 --> 00:02:01.820
+Este es mi eje, que es mi eje x.
+
+00:02:01.820 --> 00:02:06.430
+Maybe I should label them, y and x.
+
+00:02:06.430 --> 00:02:08.710
+Este camino se va a ver como esta.
+
+00:02:08.710 --> 00:02:12.390
+Pero en lugar de a partir de aquí e ir allá, cuando t es
+
+00:02:12.390 --> 00:02:15.780
+igual a 1, quiero dejar claro, esto también es válido para
+
+00:02:15.780 --> 00:02:18.840
+una es menor o igual a T, que es menor que b.
+
+00:02:18.840 --> 00:02:20.750
+Así que t va a pasar de una b para.
+
+00:02:20.750 --> 00:02:22.900
+Pero aquí, cuando t es igual a uno, que lo sustituya
+
+00:02:22.900 --> 00:02:25.660
+aquí, usted va a obtener este vector.
+
+00:02:25.660 --> 00:02:30.520
+Usted va a comenzar de nuevo allí, ya medida que incrementa t,
+
+00:02:30.520 --> 00:02:33.600
+como usted lo hace más grande y más grande y más grande, te vas
+
+00:02:33.600 --> 00:02:37.010
+para trazar el mismo camino, pero en la dirección opuesta.
+
+00:02:39.910 --> 00:02:42.750
+Y así, cuando t es igual a B, puesto que en aquí, estás
+
+00:02:42.750 --> 00:02:45.550
+en realidad va a obtener x de una Y y de un no, a la derecha, los
+
+00:02:45.550 --> 00:02:48.300
+B se anulan, y por lo que vamos a apuntar bien así.
+
+00:02:48.300 --> 00:02:50.480
+Así que estos son los mismos, que te puedas imaginar la forma de
+
+00:02:50.480 --> 00:02:54.310
+estos caminos son lo mismo, pero vamos en la exacta
+
+00:02:54.310 --> 00:02:55.750
+dirección opuesta.
+
+00:02:55.750 --> 00:02:58.180
+Entonces, ¿qué vamos a hacer en este video es para ver qué
+
+00:02:58.180 --> 00:03:02.390
+ocurre, cómo, supongo que se podría decir, si tengo algún vector
+
+00:03:02.390 --> 00:03:17.010
+f campo de la xy es igual a P de xy i más q de xy j.
+
+00:03:17.010 --> 00:03:17.220
+, ¿No?.
+
+00:03:17.220 --> 00:03:22.250
+Esto es sólo un campo de vectores en el plano xy.
+
+00:03:22.250 --> 00:03:26.800
+Como la integral de línea de este campo de vector, de este vector
+
+00:03:26.800 --> 00:03:34.640
+campo en este camino, se compara con la integral de línea de la misma
+
+00:03:34.640 --> 00:03:36.500
+vector del campo en ese camino.
+
+00:03:36.500 --> 00:03:40.280
+¿Cómo que se compara con esto
+
+00:03:40.280 --> 00:03:41.770
+Llamaremos a esto la curva de menos.
+
+00:03:41.770 --> 00:03:46.020
+Así que esta es la curva positiva, vamos a llamar a
+
+00:03:46.020 --> 00:03:47.910
+esta curva en el signo menos.
+
+00:03:47.910 --> 00:03:50.400
+Entonces, ¿cómo lo hace, va en la curva positiva, comparar
+
+00:03:50.400 --> 00:03:55.330
+de ir sobre la curva de menos? f de f puntos dr.
+
+00:03:55.330 --> 00:03:57.640
+Así que antes de entrar en los cálculos, vamos a pensar en
+
+00:03:57.640 --> 00:03:58.310
+sobre un poco.
+
+00:03:58.310 --> 00:04:00.540
+Permítanme que señale a este campo vectorial f.
+
+00:04:00.540 --> 00:04:03.720
+Así que tal vez lo que parece, sólo voy a dibujar cosas al azar.
+
+00:04:03.720 --> 00:04:07.540
+So you know, on every point in the x-y plane, it has a vector,
+
+00:04:07.540 --> 00:04:11.560
+define o mapas un vector, para cada punto en el plano xy.
+
+00:04:11.560 --> 00:04:13.800
+Pero realmente nos preocupamos por los puntos que están en la curva.
+
+00:04:13.800 --> 00:04:17.600
+Así que tal vez en la curva, ya sabes, este es el campo vectorial
+
+00:04:17.600 --> 00:04:19.685
+en los puntos de la curva.
+
+00:04:19.685 --> 00:04:21.150
+Y permítanme que atraerá a más de aquí, también.
+
+00:04:21.150 --> 00:04:23.520
+Así que todos los puntos de la curva en la que nos importan, esto es
+
+00:04:23.520 --> 00:04:29.120
+nuestro vector de campo, que es nuestro campo de vectores.
+
+00:04:29.120 --> 00:04:32.030
+Y vamos a tener una intuición de lo que va a ir.
+
+00:04:32.030 --> 00:04:35.990
+Estamos sumando el punto, estamos dando a cada punto a lo largo
+
+00:04:35.990 --> 00:04:41.440
+la línea, y estamos sumando, vamos a empezar por aquí.
+
+00:04:41.440 --> 00:04:43.153
+Estamos tomando cada punto a lo largo de la línea, déjame hacerlo a mí
+
+00:04:43.153 --> 00:04:45.450
+en un color diferente.
+
+00:04:45.450 --> 00:04:49.035
+Y estamos sumando el producto escalar del valor de la
+
+00:04:49.035 --> 00:04:53.910
+campo de vector en ese punto, el producto escalar de que, con el Dr,
+
+00:04:53.910 --> 00:04:57.430
+o el diferencial de nuestra función de vector de posición
+
+00:04:57.430 --> 00:05:01.770
+Y el doctor, puede tipo de imaginar, como un infinitesimal
+
+00:05:01.770 --> 00:05:04.620
+vector pequeño va en la dirección de nuestro movimiento.
+
+00:05:04.620 --> 00:05:08.080
+Y tomamos este producto punto aquí, es en esencia, es
+
+00:05:08.080 --> 00:05:10.340
+Va a ser un valor escalar, sino el producto de punto, si usted
+
+00:05:10.340 --> 00:05:15.530
+recuerde, es la magnitud de f en la dirección del Dr,
+
+00:05:15.530 --> 00:05:18.350
+veces la magnitud del Dr.
+
+00:05:18.350 --> 00:05:21.750
+Así que es esto, usted se puede imaginar que es la sombra de f en
+
+00:05:21.750 --> 00:05:24.040
+el dr. Permítanme hacer zoom en eso, porque creo que es útil.
+
+00:05:24.040 --> 00:05:26.880
+Así que esta pequeña cosa que estoy dibujando aquí, vamos a
+
+00:05:26.880 --> 00:05:29.070
+decir que este es mi camino.
+
+00:05:29.070 --> 00:05:31.470
+Esto es f en ese punto.
+
+00:05:31.470 --> 00:05:34.260
+f en ese punto se ve algo como eso.
+
+00:05:34.260 --> 00:05:37.500
+Y entonces el doctor en este momento se ve algo como eso.
+
+00:05:37.500 --> 00:05:40.840
+Déjame que lo haga en un color diferente. dr mira
+
+00:05:40.840 --> 00:05:42.230
+algo por el estilo.
+
+00:05:42.230 --> 00:05:43.930
+Así que es f.
+
+00:05:43.930 --> 00:05:47.300
+Y así, el producto escalar de estos dos, dice, está bien, la cantidad de f es
+
+00:05:47.300 --> 00:05:48.670
+va en la misma dirección que el dr?
+
+00:05:48.670 --> 00:05:50.940
+Y usted puede clase de imaginar, hay una sombra.
+
+00:05:50.940 --> 00:05:54.800
+Si usted toma la F que está pasando en la misma dirección que el doctor,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si usted toma la F que está pasando en la misma dirección que el doctor,
+
+00:05:54.800 --> 00:05:58.410
+la magnitud de que los tiempos de la magnitud de la República Dominicana, que
+
+00:05:58.410 --> 00:05:59.400
+es el producto escalar.
+
+00:05:59.400 --> 00:06:01.170
+En este caso, vamos a tener un número positivo.
+
+00:06:01.170 --> 00:06:03.360
+Debido a esta longitud es positivo, esta longitud es
+
+00:06:03.360 --> 00:06:06.030
+positiva, que va a ser un número positivo.
+
+00:06:06.030 --> 00:06:08.180
+Ahora lo que si nuestra dr iba en la dirección opuesta,
+
+00:06:08.180 --> 00:06:09.600
+como lo es en este caso?
+
+00:06:09.600 --> 00:06:12.445
+Así que permítanme señalar quizá esa misma parte de la curva.
+
+00:06:15.360 --> 00:06:21.500
+Tenemos nuestro f, nuestro f se verá algo así.
+
+00:06:21.500 --> 00:06:23.520
+Yo estoy sacando esta misma parte exacta de la curva.
+
+00:06:23.520 --> 00:06:27.470
+Pero ahora nuestro dr no va en esa dirección.
+
+00:06:27.470 --> 00:06:31.470
+Nuestro dr que en este momento se va a ir en
+
+00:06:31.470 --> 00:06:32.730
+la otra dirección.
+
+00:06:32.730 --> 00:06:34.800
+Nosotros estamos rastreando la curva en la dirección opuesta.
+
+00:06:34.800 --> 00:06:37.540
+Nuestro dr ahora va a ir en esa dirección.
+
+00:06:41.110 --> 00:06:44.430
+Así que si haces f punto dr, tomando la sombra, o cuánto
+
+00:06:44.430 --> 00:06:46.550
+f va en la dirección del dr, tomar la sombra
+
+00:06:46.550 --> 00:06:50.550
+aquí abajo, va en la dirección opuesta del dr. tan
+
+00:06:50.550 --> 00:06:52.840
+Usted puede imaginar que cuando se multiplican las magnitudes
+
+00:06:52.840 --> 00:06:53.930
+debe obtener un número negativo.
+
+00:06:53.930 --> 00:06:56.870
+Nuestra dirección es ahora opuesto, no van en el--la
+
+00:06:56.870 --> 00:07:01.320
+sombra de f en la misma dirección es Dr. va el
+
+00:07:01.320 --> 00:07:03.540
+dirección como dr opuesta.
+En este caso, va
+
+00:07:03.540 --> 00:07:05.090
+la misma dirección que el dr.
+
+00:07:05.090 --> 00:07:08.010
+Por lo que la intuición es que tal vez estas dos cosas son la
+
+00:07:08.010 --> 00:07:09.480
+negativo de la otra.
+
+00:07:09.480 --> 00:07:12.490
+Y ahora podemos hacer algunos cálculos y tratar de ver si
+
+00:07:12.490 --> 00:07:16.090
+definitivamente, es definitivamente el caso.
+
+00:07:16.090 --> 00:07:20.170
+Así que nos permiten averiguar en primer lugar, vamos a escribir una expresión para
+
+00:07:20.170 --> 00:07:29.830
+el dr diferencial. En este caso, dr, dr dt va a ser
+
+00:07:29.830 --> 00:07:40.990
+igual a x prime de t veces i plus y primo de t veces j.
+
+00:07:40.990 --> 00:07:48.130
+En este ejemplo, el caso inverso, dr, dr
+
+00:07:48.130 --> 00:07:51.350
+¿DT, va a ser, lo que va a ser igual a?
+
+00:07:51.350 --> 00:07:54.540
+Es la derivada de x con respecto a t.
+
+00:07:54.540 --> 00:07:57.530
+La derivada de este término con respecto a t, que la
+
+00:07:57.530 --> 00:08:01.260
+derivado del interior, que es menos 1, o menos, veces
+
+00:08:01.260 --> 00:08:03.840
+la derivada del exterior con respecto a la parte interior.
+
+00:08:03.840 --> 00:08:07.080
+Eso va a ser, es derivado del interior
+
+00:08:07.080 --> 00:08:10.350
+menos veces, 1 la derivada de la parte exterior con respecto a
+
+00:08:10.350 --> 00:08:15.260
+el interior. x flor de un plus b menos t veces me.
+
+00:08:15.260 --> 00:08:17.640
+Y lo mismo luego para el segundo mandato.
+
+00:08:17.640 --> 00:08:20.930
+Derivado de y de este término en relación con el interior,
+
+00:08:20.930 --> 00:08:23.960
+que es menos 1, veces la derivada de la parte exterior con
+
+00:08:23.960 --> 00:08:27.470
+respecto al interior, que es primo y de un plus b menos t.
+
+00:08:27.470 --> 00:08:30.240
+Así que esto va a ser la derivada de la parte interior,
+
+00:08:30.240 --> 00:08:36.650
+tiempos y primo de un b plus minus es t j.
+
+00:08:36.650 --> 00:08:40.660
+Así que esto es dr dt en este caso, se trata de dr dt en ese caso.
+
+00:08:40.660 --> 00:08:45.620
+Y si queríamos escribir el dr diferencial en adelante
+
+00:08:45.620 --> 00:08:51.510
+ejemplo de curva, va a ser igual a x prime de t veces me
+
+00:08:51.510 --> 00:08:58.870
+Plus y primo de t veces j veces el dt escalares.
+
+00:08:58.870 --> 00:09:01.220
+Podría multiplicar en cada uno de estos términos, pero
+
+00:09:01.220 --> 00:09:04.060
+mantiene simple, dejándolo sólo en el exterior.
+
+00:09:04.060 --> 00:09:06.150
+Misma lógica aquí.
+
+00:09:06.150 --> 00:09:10.510
+Dr es igual a menos de x.
+
+00:09:10.510 --> 00:09:12.850
+Cambié mi tono de verde, pero al menos es todavía verde.
+
+00:09:12.850 --> 00:09:21.100
+un plus b menos t lo menos y cebar un plus b menos t j,
+
+00:09:21.100 --> 00:09:25.320
+y yo estoy multiplicando ambos lados por el dt.
+
+00:09:25.320 --> 00:09:27.940
+Ahora estamos listos para expresar esto como una función de t.
+
+00:09:27.940 --> 00:09:31.870
+Así que esta curva aquí, lo haré en rosa, la Rosa es
+
+00:09:31.870 --> 00:09:36.340
+va a ser igual a la integral de t es igual a una
+
+00:09:36.340 --> 00:09:53.630
+t es igual a b f f x f x de t y de punto t
+
+00:09:53.630 --> 00:09:56.820
+esta cosa aquí, que es, sólo voy a escribir aquí, me
+
+00:09:56.820 --> 00:09:59.002
+podría simplificar la TI más tarde.
+
+00:09:59.002 --> 00:10:06.260
+x prime de t i más y primo de t j.
+
+00:10:06.260 --> 00:10:08.930
+Y luego todo eso el dt escalares.
+
+00:10:08.930 --> 00:10:11.230
+Esto será un valor escalar, y entonces tendremos otro escalar
+
+00:10:11.230 --> 00:10:13.190
+valor de dt allí.
+
+00:10:13.190 --> 00:10:16.490
+Ahora, ¿qué es este va a ser igual a si tomo
+
+00:10:16.490 --> 00:10:18.630
+¿Esta inversión integral?
+
+00:10:18.630 --> 00:10:21.275
+La inversa integral va a ser la integral de, yo soy
+
+00:10:21.275 --> 00:10:26.880
+va a necesitar un poco más espacio, de un a b, f de no
+
+00:10:26.880 --> 00:10:34.220
+x de t, pero x un plus b menos t y de un plus b menos t.
+
+00:10:34.220 --> 00:10:36.550
+Estoy escribiendo lo pequeño para tener algo de espacio.
+
+00:10:36.550 --> 00:10:41.160
+Punto, esto es un vector, así que salpican este chico aquí, dr dot.
+
+00:10:41.160 --> 00:10:53.800
+Punto menos x primer de un plus b menos t menos y ceba
+
+00:10:53.800 --> 00:10:55.110
+Estoy usando demasiado espacio.
+
+00:10:55.110 --> 00:10:57.770
+Déjame desplazarse, retroceder un poco.
+
+00:10:57.770 --> 00:10:59.680
+Realmente, permítanme considerar hacer aún más sencillo.
+
+00:10:59.680 --> 00:11:01.690
+Aprovecho este signo fuera de ella.
+
+00:11:01.690 --> 00:11:04.400
+Deje que ponga un plus, y luego voy a poner la
+
+00:11:04.400 --> 00:11:06.790
+signo de menos en el frente.
+
+00:11:06.790 --> 00:11:09.260
+Por lo que el signo es simplemente un valor escalar, por lo que podríamos poner
+
+00:11:09.260 --> 00:11:11.710
+ese signo afuera, usted sabe, cuando toma un producto escalar,
+
+00:11:11.710 --> 00:11:15.180
+y si multiplicas un escalar veces un producto escalar, pudiera
+
+00:11:15.180 --> 00:11:17.680
+Sólo tome la salida escalar, eso es todo lo que digo.
+
+00:11:17.680 --> 00:11:20.880
+Así que tomamos ese signo negativo esta parte aquí.
+
+00:11:20.880 --> 00:11:30.030
+Y luego tienes x cebar un plus b menos t i más y prime
+
+00:11:30.030 --> 00:11:39.970
+de un plus b menos t, desplazarse sobre un poquito, t j dt.
+
+00:11:39.970 --> 00:11:43.130
+Así que este es el avance, esto es cuando nosotros estamos siguiendo
+
+00:11:43.130 --> 00:11:45.930
+a lo largo de la curva de avance, esto es cuando nosotros estamos siguiendo
+
+00:11:45.930 --> 00:11:48.490
+a lo largo de la curva inversa.
+
+00:11:48.490 --> 00:11:51.230
+Ahora como lo hicimos con el ejemplo escalar, vamos a
+
+00:11:51.230 --> 00:11:51.990
+hacer una sustitución.
+
+00:11:51.990 --> 00:11:53.100
+Quiero dejar muy claro lo que hice.
+
+00:11:53.100 --> 00:11:55.330
+Todo lo hice aquí, es que acaba de tomar el producto escalar,
+
+00:11:55.330 --> 00:11:57.600
+pero este signo negativo, yo sólo saqué.
+
+00:11:57.600 --> 00:12:00.290
+Acaba de decir, esto es la misma cosa como negativo 1 veces esto
+
+00:12:00.290 --> 00:12:02.200
+cosa, o negativo 1 veces esta cosa es la misma
+
+00:12:02.200 --> 00:12:03.230
+cosa que.
+
+00:12:03.230 --> 00:12:05.610
+Así que vamos a hacer una sustitución de este lado, porque yo realmente
+
+00:12:05.610 --> 00:12:08.900
+solo quiero mostrar que esto es negativo, derecho
+
+00:12:08.900 --> 00:12:10.880
+allí, porque eso es lo que estaba pasando nuestra intuición.
+
+00:12:10.880 --> 00:12:13.220
+Así que permítanme simplemente centrarse en ese lado.
+
+00:12:13.220 --> 00:12:15.980
+Permítanme hacer una sustitución.
+
+00:12:15.980 --> 00:12:21.530
+u es igual a un plus b menos t.
+
+00:12:21.530 --> 00:12:24.720
+¿Entonces obtenemos du es igual a menos dt, derecho?
+
+00:12:24.720 --> 00:12:26.770
+Tome sólo la derivada de ambos lados.
+
+00:12:26.770 --> 00:12:31.230
+O te dt es igual a menos du.
+
+00:12:31.230 --> 00:12:37.890
+Y entonces llegas, cuando t es igual a, u es igual
+
+00:12:37.890 --> 00:12:40.050
+a b plus menos una.
+
+00:12:40.050 --> 00:12:43.070
+Así pues, la u es igual a b.
+
+00:12:43.070 --> 00:12:49.140
+¿Y luego cuando t es igual a b, u es igual a, derecho?
+
+00:12:49.140 --> 00:12:52.530
+Que es igual a b, a b plus minus b es una.
+
+00:12:52.530 --> 00:12:53.230
+u es igual a una.
+
+00:12:53.230 --> 00:12:57.813
+Para esto, el uso de esa sustitución simplifica, y
+
+00:12:57.813 --> 00:13:03.380
+Esta es la cuestión, que simplifica al menos integral
+
+00:13:03.380 --> 00:13:07.010
+de u es, cuando t es una, u es b.
+
+00:13:07.010 --> 00:13:09.570
+De b, cuando t b, u es una.
+
+00:13:09.570 --> 00:13:13.930
+La integral de u es igual a b le es igual a una de
+
+00:13:13.930 --> 00:13:21.140
+¿f de x de usted y de usted, derecho?
+
+00:13:21.140 --> 00:13:24.000
+Es la u, que es u.
+
+00:13:24.000 --> 00:13:39.330
+Punto x primo de tiempos, que es u allí, plus
+
+00:13:39.330 --> 00:13:44.240
+prime y ustedes veces j.
+
+00:13:44.240 --> 00:13:47.360
+Y luego, en lugar de un dt, necesito poner un du.
+
+00:13:47.360 --> 00:13:49.970
+DT es igual a menos du.
+
+00:13:49.970 --> 00:13:53.190
+Así que pude escribir menos du aquí, o simplemente para no hacerlo
+
+00:13:53.190 --> 00:13:55.780
+confuso, voy a poner aquí la du y tomar la
+
+00:13:55.780 --> 00:13:56.900
+menos parte delantera.
+
+00:13:56.900 --> 00:14:00.230
+Ya tengo un signo menos afuera, por lo que se cancelan.
+
+00:14:00.230 --> 00:14:03.730
+Cancelará, sólo así.
+
+00:14:03.730 --> 00:14:06.480
+Y lo que podríamos decir, hey Sal, estas dos cosas look pretty
+
+00:14:06.480 --> 00:14:07.320
+similares entre sí.
+
+00:14:07.320 --> 00:14:08.770
+No lo hacen como son negativos entre sí.
+
+00:14:08.770 --> 00:14:12.080
+Y yo diría, bueno, que tienes razón casi, excepto este chico
+
+00:14:12.080 --> 00:14:15.240
+límites de integración están invertidos de este chico.
+
+00:14:15.240 --> 00:14:17.810
+Así que esta cosa justo aquí, si inversión los límites de
+
+00:14:17.810 --> 00:14:20.730
+integración, tenemos para que sea negativo.
+
+00:14:20.730 --> 00:14:29.390
+Así que esto es igual a menos la integral de un a b de la
+
+00:14:29.390 --> 00:14:40.920
+vector f de x de usted y de usted punto x prime de ustedes i plus
+
+00:14:40.920 --> 00:14:45.540
+y primo de usted du j.
+
+00:14:45.540 --> 00:14:47.900
+Y ahora esto es idéntico.
+
+00:14:47.900 --> 00:14:50.510
+Esta integral, esta integral definida, es idéntica a
+
+00:14:50.510 --> 00:14:51.620
+la integral definida.
+
+00:14:51.620 --> 00:14:52.870
+Solo tenemos una variable diferente.
+
+00:14:52.870 --> 00:14:55.620
+Dt que hacemos aquí, tenemos du aquí, pero nos vamos a meter
+
+00:14:55.620 --> 00:14:59.220
+la misma exacta número para cualquiera una o b y ante esto
+
+00:14:59.220 --> 00:15:06.050
+vector f y el vector posición ruta r t.
+
+00:15:06.050 --> 00:15:11.430
+Tan sólo para resumir todo arriba, cuando usted está tratando con
+
+00:15:11.430 --> 00:15:16.500
+integrales de línea sobre campos vectoriales, la dirección de asuntos.
+
+00:15:16.500 --> 00:15:18.530
+Si vas en la dirección inversa, vas a obtener
+
+00:15:18.530 --> 00:15:20.520
+la versión negativa de.
+
+00:15:20.520 --> 00:15:23.610
+Y es que en cualquier momento que tomamos el producto escalar, eres
+
+00:15:23.610 --> 00:15:27.060
+no va el, necesariamente, vas en lo contrario
+
+00:15:27.060 --> 00:15:29.330
+dirección, por lo que va a ser el negativo de la otra.
+
+00:15:29.330 --> 00:15:31.730
+Pero cuando usted está tratando con el campo escalar, vimos en el
+
+00:15:31.730 --> 00:15:37.430
+último video, vimos que no importa qué dirección
+
+00:15:37.430 --> 00:15:39.100
+que se recorre la ruta.
+
+00:15:39.100 --> 00:15:41.490
+Que el camino positivo tiene el mismo valor que
+
+00:15:41.490 --> 00:15:42.210
+el camino negativo.
+
+00:15:42.210 --> 00:15:44.600
+Y eso es sólo porque sólo estamos tratando de encontrar la
+
+00:15:44.600 --> 00:15:46.590
+área de esa cortina.
+
+00:15:46.590 --> 00:15:49.670
+Ojalá que encontraste levemente divertido.

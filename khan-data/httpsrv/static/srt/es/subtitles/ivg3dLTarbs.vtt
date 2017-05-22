@@ -1,0 +1,879 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.467 --> 00:00:02.191
+Digamos que estamos trabajando en
+
+00:00:02.191 --> 00:00:03.943
+tres dimensiones.
+
+00:00:03.943 --> 00:00:05.960
+y tenemos una función rho
+
+00:00:05.960 --> 00:00:08.192
+que es función de X,Y,Z
+
+00:00:08.192 --> 00:00:10.255
+y nos dá la densidad de masa
+
+00:00:10.255 --> 00:00:11.944
+en cualquier punto en las tres dimensiones,
+
+00:00:11.944 --> 00:00:13.050
+de un fluido.
+
+00:00:13.050 --> 00:00:14.201
+Un fluido en particular
+
+00:00:14.201 --> 00:00:15.548
+tal vez es un gas, o un fluido,
+
+00:00:15.548 --> 00:00:16.659
+...agua. Quién sabe?
+
+00:00:16.659 --> 00:00:18.210
+Un tipo de sustancia.
+
+00:00:18.210 --> 00:00:19.486
+Nos dá la densidad de masa
+
+00:00:19.486 --> 00:00:21.385
+en cualquier punto en tres dimensiones.
+
+00:00:21.385 --> 00:00:22.952
+y digamos que tenemos otra
+
+00:00:22.952 --> 00:00:24.559
+funcion. Esta es una función escalar
+
+00:00:24.559 --> 00:00:25.776
+y nos dá un número
+
+00:00:25.776 --> 00:00:27.282
+para cualquier punto en 3D (tres dimensiones)
+
+00:00:27.282 --> 00:00:29.213
+y luego, digamos que tenemos otra función V,
+
+00:00:29.213 --> 00:00:30.676
+que es un vector función.
+
+00:00:30.676 --> 00:00:32.069
+y nos dá un vector
+
+00:00:32.069 --> 00:00:33.831
+para cualquier punto en tres dimensiones.
+
+00:00:33.831 --> 00:00:35.211
+y esto de aquí, nos está diciendo
+
+00:00:35.211 --> 00:00:37.322
+la velocidad del mismo,
+
+00:00:37.322 --> 00:00:40.370
+la velocidad del mismo fluido o gas
+
+00:00:40.370 --> 00:00:42.128
+o de lo que sea que estemos hablando.
+
+00:00:42.128 --> 00:00:43.726
+Ahora imaginemos otra función
+
+00:00:43.726 --> 00:00:45.544
+y esto nos lucira algo familiar, porque lo hicimos,
+
+00:00:45.544 --> 00:00:47.013
+atravéz de un ejercicio muy similar
+
+00:00:47.013 --> 00:00:49.226
+en dos direcciones cuando hablamos de las integrales.
+
+00:00:49.226 --> 00:00:51.705
+Ahora solo nos estamos extendiendo a tres dimensiones.
+
+00:00:51.705 --> 00:00:53.411
+Digamos que tenemos una función, F.
+
+00:00:54.119 --> 00:00:55.361
+Digamos que tenemos una función, F.
+
+00:00:55.361 --> 00:00:57.181
+y es igual a
+
+00:00:57.181 --> 00:00:58.292
+el producto
+
+00:00:58.292 --> 00:01:00.739
+el producto de rho y V.
+
+00:01:00.739 --> 00:01:02.627
+y por cualquier punto en (x,y,z)
+
+00:01:02.627 --> 00:01:04.167
+nos dará un vector, y luego
+
+00:01:04.167 --> 00:01:06.666
+lo multiplicaremos por este escalar, de aquí
+
+00:01:06.666 --> 00:01:08.910
+por el mismo punto en tres dimensiones.
+
+00:01:08.910 --> 00:01:10.445
+así que es igual a:
+
+00:01:10.445 --> 00:01:13.055
+Rho veces V.
+
+00:01:16.163 --> 00:01:17.494
+vamos a usar el mismo color
+
+00:01:17.494 --> 00:01:19.189
+que usé antes para V
+
+00:01:25.051 --> 00:01:27.369
+y hay varias formas en las que puedes conceptualizar esto,
+
+00:01:27.369 --> 00:01:28.441
+así que podemos ver esto como,
+
+00:01:28.441 --> 00:01:30.845
+Obviamente se mantiene la dirección y la velocidad,
+
+00:01:30.845 --> 00:01:32.746
+pero ahora su magnitud
+
+00:01:32.746 --> 00:01:33.759
+una manera de ver esto es
+
+00:01:33.759 --> 00:01:35.360
+como la densidad del momento.
+
+00:01:35.360 --> 00:01:36.514
+y si eso no tiene mucho sentido,
+
+00:01:36.514 --> 00:01:38.176
+no tienes que preocuparte mucho de eso.
+
+00:01:38.176 --> 00:01:40.189
+con suerte, como usamos estas dos funciones,
+
+00:01:40.189 --> 00:01:41.662
+y hablamos y pensamos un poco más
+
+00:01:41.662 --> 00:01:42.829
+acerca de sus superficies relativas,
+
+00:01:42.829 --> 00:01:45.522
+esto tomará un poco mas de sentido conceptual.
+
+00:01:45.522 --> 00:01:47.040
+Ahora, lo que quiero hacer es
+
+00:01:47.040 --> 00:01:48.907
+pensar en lo que significa
+
+00:01:48.907 --> 00:01:50.007
+lo que significa
+
+00:01:50.007 --> 00:01:51.242
+dada esta función, F,
+
+00:01:51.242 --> 00:01:54.191
+para evaluar la superficie integral
+
+00:01:54.191 --> 00:01:56.104
+sobre alguna superficie.
+
+00:01:56.104 --> 00:01:57.823
+así que vamos a evaluar sobre alguna superficie.
+
+00:01:57.823 --> 00:02:00.129
+vamos a evaluar F
+
+00:02:00.129 --> 00:02:04.403
+vamos a evaluar F punto N,
+
+00:02:04.403 --> 00:02:07.194
+donde N es una unidad normal al vector en
+
+00:02:07.194 --> 00:02:08.561
+cada punto de su superficie,
+
+00:02:08.561 --> 00:02:11.786
+dS.
+
+00:02:11.786 --> 00:02:12.829
+d- Superficie.
+
+00:02:12.829 --> 00:02:14.981
+Pensemos en lo que nos está diciendo.
+
+00:02:15.381 --> 00:02:18.216
+Primero, permitanme dibujar mis coordenadas.
+
+00:02:18.216 --> 00:02:21.621
+tengo mi
+
+00:02:21.621 --> 00:02:23.085
+coordenada Z
+
+00:02:23.085 --> 00:02:24.409
+esta puede ser...
+
+00:02:24.409 --> 00:02:25.650
+vamos a hacer esta...
+
+00:02:25.650 --> 00:02:27.707
+mi coordinada X
+
+00:02:27.707 --> 00:02:29.637
+y vamos a decir que esta de aquí
+
+00:02:29.637 --> 00:02:31.654
+es mi coordinada Y
+
+00:02:31.654 --> 00:02:33.124
+y digamos que mi superfice
+
+00:02:33.124 --> 00:02:34.047
+voy a usar el mismo color
+
+00:02:34.047 --> 00:02:36.422
+Mi superficie se vé algo así.
+
+00:02:36.422 --> 00:02:39.135
+así que esta es mi superficie.
+
+00:02:39.135 --> 00:02:41.904
+esta es la superficie en cuestión.
+
+00:02:41.904 --> 00:02:43.526
+Esta es S.
+
+00:02:43.526 --> 00:02:44.838
+Ahora pensemos en las unidades,
+
+00:02:44.838 --> 00:02:46.551
+y con suerte esto nos dará el entendimiento conceptual
+
+00:02:46.551 --> 00:02:48.869
+de qué, esto de aqui esta midiendo.
+
+00:02:48.869 --> 00:02:50.094
+es completamente análogo
+
+00:02:50.094 --> 00:02:51.590
+a lo que hicimos en el caso de dos dimensiones
+
+00:02:51.590 --> 00:02:52.712
+con la integral de una linea.
+
+00:02:52.712 --> 00:02:54.595
+Así que tenemos a dS.
+
+00:02:54.595 --> 00:02:56.244
+dS es este trozo de área
+
+00:02:56.244 --> 00:02:57.569
+de la superficie.
+
+00:02:57.569 --> 00:02:59.524
+así que esto es dS.
+
+00:02:59.524 --> 00:03:01.456
+Esto va a ser el área.
+
+00:03:01.456 --> 00:03:02.304
+y si queremos romper
+
+00:03:02.304 --> 00:03:03.077
+esto es...
+
+00:03:03.077 --> 00:03:04.404
+Queremos tomar tomar unidades particulares
+
+00:03:04.404 --> 00:03:06.053
+esto podria ser metros cuadrados
+
+00:03:06.053 --> 00:03:07.460
+metros cuadrados.
+
+00:03:07.460 --> 00:03:08.344
+y creo que cuando tomamos
+
+00:03:08.344 --> 00:03:10.137
+unidades particulares, comienza a tener
+
+00:03:10.137 --> 00:03:11.971
+un poquito mas de sentido concreto.
+
+00:03:11.971 --> 00:03:13.310
+ahora, el vector normal
+
+00:03:13.310 --> 00:03:14.546
+en ese ds.
+
+00:03:14.546 --> 00:03:15.661
+El vector normal va a
+
+00:03:15.661 --> 00:03:16.535
+apuntar, justo aqui
+
+00:03:16.535 --> 00:03:18.604
+es literalmente normal al plano.
+
+00:03:18.604 --> 00:03:20.818
+es literalmente normal al plano.
+
+00:03:20.818 --> 00:03:22.374
+y su magnitud es 1.
+
+00:03:22.374 --> 00:03:24.409
+asi que esa es la unidad normal del vector.
+
+00:03:24.409 --> 00:03:27.568
+y F esta definida atravez de este espacio tridimensional.
+
+00:03:27.568 --> 00:03:28.855
+me das cualquier punto (X,Y,Z)
+
+00:03:28.855 --> 00:03:30.089
+y voy a saber cual sera la densidad de su masa,
+
+00:03:30.089 --> 00:03:30.873
+voy a saber su velocidad,
+
+00:03:30.873 --> 00:03:32.059
+y voy a tener cualquier F.
+
+00:03:32.059 --> 00:03:34.009
+y voy a tener cualquier F en cualquier punto
+
+00:03:34.009 --> 00:03:36.723
+en un espacio tridimencional.
+
+00:03:36.723 --> 00:03:38.458
+incluyendo dentro de la superficie.
+
+00:03:38.458 --> 00:03:39.908
+incluyendo justo aquí.
+
+00:03:39.908 --> 00:03:41.925
+justo aquí, F seria algo,
+
+00:03:41.925 --> 00:03:44.376
+como esto.
+
+00:03:44.376 --> 00:03:47.169
+así que este es F justo en este punto.
+
+00:03:47.169 --> 00:03:48.161
+justo en este punto.
+
+00:03:48.161 --> 00:03:49.142
+así que, Qué significa todo esto?
+
+00:03:49.142 --> 00:03:50.408
+bueno cuando tomas el producto punto
+
+00:03:50.408 --> 00:03:51.992
+de dos vectores, esto es escencialmente diciendo,
+
+00:03:51.992 --> 00:03:53.694
+Qué tan juntos van?
+
+00:03:53.694 --> 00:03:55.276
+y desde n es una unidad vector
+
+00:03:55.276 --> 00:03:56.776
+hasta que tiene magnitud 1,
+
+00:03:56.776 --> 00:03:58.111
+esto es, escensialmente diciendo
+
+00:03:58.111 --> 00:03:58.895
+Cúal es?
+
+00:03:58.895 --> 00:04:00.421
+Cúal es la magnitud?
+
+00:04:00.421 --> 00:04:01.522
+de la componente de F.
+
+00:04:01.522 --> 00:04:03.191
+que va en dirección n?
+
+00:04:03.191 --> 00:04:04.338
+o la componente... o..
+
+00:04:04.338 --> 00:04:05.941
+Cúal es la magnitud?
+
+00:04:05.941 --> 00:04:06.759
+de la componente F eso es
+
+00:04:06.759 --> 00:04:08.740
+Normal a la superficie?
+
+00:04:08.740 --> 00:04:10.595
+o, Qué tanto es normal a la
+
+00:04:10.595 --> 00:04:11.311
+superficie?
+
+00:04:11.311 --> 00:04:12.820
+así que la componente de F que es
+
+00:04:12.820 --> 00:04:13.921
+normal a la supercie
+
+00:04:13.921 --> 00:04:16.053
+se verá algo como...
+
+00:04:16.053 --> 00:04:17.653
+algo como...
+
+00:04:17.653 --> 00:04:19.777
+Como esto.
+
+00:04:19.777 --> 00:04:21.395
+Se vera algo como esto
+
+00:04:21.395 --> 00:04:22.875
+y esto de aquí
+
+00:04:22.875 --> 00:04:24.212
+será escensialmente la
+
+00:04:24.212 --> 00:04:25.777
+magnitud de esto.
+
+00:04:25.777 --> 00:04:26.730
+y va a tomar
+
+00:04:26.730 --> 00:04:29.007
+va a tomar las unidades de F,
+
+00:04:29.007 --> 00:04:30.476
+N, justo aqui, solo especifica
+
+00:04:30.476 --> 00:04:32.864
+una dirección. no tiene unidades asociadas con ella.
+
+00:04:32.864 --> 00:04:33.944
+sus dimensiones.
+
+00:04:33.944 --> 00:04:36.093
+F's unidades van a ser
+
+00:04:36.093 --> 00:04:37.875
+unidades de densidad de masa,
+
+00:04:37.875 --> 00:04:38.827
+asi que podria ser
+
+00:04:38.827 --> 00:04:39.928
+va a ser
+
+00:04:39.928 --> 00:04:41.008
+digamos que va a ser
+
+00:04:41.008 --> 00:04:44.496
+Kilogramos por metro cúbicos.
+
+00:04:44.496 --> 00:04:45.195
+eso es...
+
+00:04:45.195 --> 00:04:46.924
+bueno esto es solo la parte de Rho.
+
+00:04:46.924 --> 00:04:48.878
+así que su densidad de masa veces la velocidad.
+
+00:04:48.878 --> 00:04:51.216
+veces metros por segundo
+
+00:04:51.216 --> 00:04:52.271
+dejame escribirlos en estos colores...
+
+00:04:52.271 --> 00:04:52.911
+así que tenemos
+
+00:04:52.911 --> 00:04:54.437
+claro lo que esta pasando aqui.
+
+00:04:54.437 --> 00:04:55.604
+así que las unidades de F
+
+00:04:55.604 --> 00:04:57.878
+va a ser unidades de Rho,
+
+00:04:57.878 --> 00:04:59.204
+que seran
+
+00:04:59.204 --> 00:05:02.372
+Kilogramos por Metro cúbico
+
+00:05:02.372 --> 00:05:03.579
+Eso es densidad de masa.
+
+00:05:03.579 --> 00:05:05.838
+veces las unidades de V
+
+00:05:05.838 --> 00:05:07.646
+que es metros por segundo
+
+00:05:07.646 --> 00:05:09.124
+Metros por segundo.
+
+00:05:09.124 --> 00:05:11.776
+y vamos a multiplicar esto veces metros cuadrados
+
+00:05:11.776 --> 00:05:12.837
+así que lo que tenemos es
+
+00:05:12.837 --> 00:05:13.557
+tenemos un metro luego
+
+00:05:13.557 --> 00:05:14.894
+un metro cuadrado en el numerador
+
+00:05:14.894 --> 00:05:16.512
+eso es metros cúbicos en el numerador.
+
+00:05:16.512 --> 00:05:17.946
+y metros cúbicos en el denominador.
+
+00:05:17.946 --> 00:05:20.142
+que se cancelan entre sí.
+
+00:05:20.142 --> 00:05:22.846
+y las unidades que tenemos de esto
+
+00:05:22.846 --> 00:05:24.043
+la unidades que tenemos de esto es
+
+00:05:24.043 --> 00:05:26.474
+Kilogramos por Segundo
+
+00:05:26.474 --> 00:05:27.971
+y la manera de conceptualizarlo
+
+00:05:27.971 --> 00:05:29.833
+dado que hemos definido F
+
+00:05:29.833 --> 00:05:32.041
+cuando decimos lo que F representa
+
+00:05:32.041 --> 00:05:33.361
+La manera de conceptualizarlo
+
+00:05:33.361 --> 00:05:35.576
+es diciendo,
+
+00:05:35.576 --> 00:05:37.399
+Cuanta masa dada dá la densidad de masa,
+
+00:05:37.399 --> 00:05:39.704
+esta velocidad va directamente
+
+00:05:39.704 --> 00:05:41.822
+fuera de esta pequeña dS,
+
+00:05:41.822 --> 00:05:42.359
+esta pequeña
+
+00:05:42.359 --> 00:05:44.138
+"infinitesimal" trozo de supercie
+
+00:05:44.138 --> 00:05:46.156
+en un momento dado de tiempo?
+
+00:05:46.156 --> 00:05:46.880
+y luego, si añadimos a esto
+
+00:05:46.880 --> 00:05:48.130
+todo ds
+
+00:05:48.130 --> 00:05:50.055
+y es escencialmente lo que la superficie integral es,
+
+00:05:50.055 --> 00:05:52.033
+estamo diciendo escencialmente,
+
+00:05:52.033 --> 00:05:53.270
+"Cuanta masa
+
+00:05:53.270 --> 00:05:54.606
+en kilogramos por segundo,
+
+00:05:54.606 --> 00:05:55.324
+hemos tomado...
+
+00:05:55.324 --> 00:05:56.510
+Cuanta masa
+
+00:05:56.510 --> 00:05:59.091
+esta viajando atravez de la superficie
+
+00:05:59.091 --> 00:06:01.721
+en cualquier momento de tiempo dado?
+
+00:06:01.721 --> 00:06:03.351
+y esto es realmente la misma idea que tenemos con
+
+00:06:03.351 --> 00:06:04.287
+la linea de integrales.
+
+00:06:04.287 --> 00:06:07.908
+esto es escensialmente el flujo atravez de una superfice de dos dimensiones
+
+00:06:07.908 --> 00:06:09.352
+asi que esto es
+
+00:06:09.352 --> 00:06:12.605
+el flujo atraves de una superficen 2D
+
+00:06:18.559 --> 00:06:19.164
+y no es como
+
+00:06:19.164 --> 00:06:21.582
+algo loco, algo abstracto.
+
+00:06:21.582 --> 00:06:22.762
+o digo, puedes imaginarte,
+
+00:06:22.762 --> 00:06:24.023
+tu sabes, puedes imaginarte
+
+00:06:24.023 --> 00:06:26.717
+algo como vapor de agua en tu baño
+
+00:06:26.717 --> 00:06:27.876
+vapor de agua en tu baño.
+
+00:06:27.876 --> 00:06:28.722
+y me gusta imaginarlo de ese modo,
+
+00:06:28.722 --> 00:06:29.910
+porque es actualmente visible,
+
+00:06:29.910 --> 00:06:32.107
+especialmente cuando los rayos de sol lo atraviezan.
+
+00:06:32.107 --> 00:06:33.908
+y todos hemos visto el vapor de agua
+
+00:06:33.908 --> 00:06:34.579
+atravez...
+
+00:06:34.579 --> 00:06:35.725
+vapor de agua en nuestro baño cuando
+
+00:06:35.725 --> 00:06:37.241
+hay rayos de sol, y puedes ver
+
+00:06:37.241 --> 00:06:38.240
+como las particulas
+
+00:06:38.240 --> 00:06:39.791
+como las particulas estan viajando.
+
+00:06:39.791 --> 00:06:41.321
+y tu ves que tienen cierta densidad
+
+00:06:41.321 --> 00:06:42.228
+en puntos distintos.
+
+00:06:42.228 --> 00:06:43.441
+asi que te puedes imaginar
+
+00:06:43.441 --> 00:06:44.526
+puedes imaginarte
+
+00:06:44.526 --> 00:06:46.493
+que te importa esa superficie...
+
+00:06:46.493 --> 00:06:48.493
+la superficie de tu...
+
+00:06:48.493 --> 00:06:50.394
+talvez tienes una ventana.
+
+00:06:50.394 --> 00:06:52.509
+quizas tienes una ventana en tu baño
+
+00:06:52.509 --> 00:06:53.885
+así que tienes una ventana
+
+00:06:53.885 --> 00:06:55.021
+y entonces, si tu...
+
+00:06:55.021 --> 00:06:57.058
+si la superfice fuera una ventana,
+
+00:06:57.058 --> 00:06:57.704
+y la ventana
+
+00:06:57.704 --> 00:06:58.777
+y digamos que la ventana esta abierta
+
+00:06:58.777 --> 00:06:59.639
+así que es como
+
+00:06:59.639 --> 00:07:01.072
+si no hubiera nada fisico alli.
+
+00:07:01.072 --> 00:07:02.031
+y es como
+
+00:07:02.031 --> 00:07:03.899
+una superfice rectangular
+
+00:07:03.899 --> 00:07:06.331
+que para libremente atravez
+
+00:07:06.331 --> 00:07:08.014
+si... y F es escencialmente
+
+00:07:08.014 --> 00:07:10.128
+la densidad de masa del el vapor de agua
+
+00:07:10.128 --> 00:07:11.670
+veces la velocidad del vapor de agua,
+
+00:07:11.670 --> 00:07:13.677
+luego esto de aqui te dirá,
+
+00:07:13.677 --> 00:07:15.687
+la masa del vapor de agua que esta viajando
+
+00:07:15.687 --> 00:07:18.341
+atravez de esa ventana en cualquier momento dado de tiempo.
+
+00:07:18.341 --> 00:07:19.774
+y otra manera de pensarlo seria...
+
+00:07:19.774 --> 00:07:20.804
+imagina
+
+00:07:20.804 --> 00:07:21.862
+imagina un rio
+
+00:07:21.862 --> 00:07:23.695
+y voy a conceptualizar un rio
+
+00:07:23.695 --> 00:07:24.606
+es como
+
+00:07:24.606 --> 00:07:26.644
+solo la sección de un rio
+
+00:07:26.644 --> 00:07:27.894
+y voy a conceptualizarlo
+
+00:07:27.894 --> 00:07:28.718
+es como...
+
+00:07:28.718 --> 00:07:29.218
+un rio.
+
+00:07:29.218 --> 00:07:30.449
+obviamente esta es la superficie...
+
+00:07:30.449 --> 00:07:31.573
+que normalmente vemos,
+
+00:07:31.573 --> 00:07:32.960
+pero obviamente no tiene profundidad.
+
+00:07:32.960 --> 00:07:34.585
+esta es naturalmente en tres direcciones.
+
+00:07:34.585 --> 00:07:36.838
+y podemos saber la densidad.
+
+00:07:36.838 --> 00:07:37.686
+quizas es constante.
+
+00:07:37.686 --> 00:07:40.060
+tu sabes la densidad, y sabes la velocidad...
+
+00:07:40.060 --> 00:07:41.105
+en cualquier punto
+
+00:07:41.105 --> 00:07:42.786
+eso es lo que F no dá.
+
+00:07:42.786 --> 00:07:44.558
+y eso nos dice...
+
+00:07:44.558 --> 00:07:46.789
+como decimos, podemos ver eso como el
+
+00:07:46.789 --> 00:07:49.358
+momento de densidad en cualquier punto de tiempo dado.
+
+00:07:49.358 --> 00:07:51.939
+y quizas nuestra superficie es algun tipo de malla.
+
+00:07:51.939 --> 00:07:53.434
+nuestra superficie es un tipo de malla.
+
+00:07:53.434 --> 00:07:55.010
+y la malla no tiene que ser necesariamente rectangular.
+
+00:07:55.010 --> 00:07:56.521
+podria ser una forma rara de malla.
+
+00:07:56.521 --> 00:07:57.830
+pero yo lo haré rectangular, porque es
+
+00:07:57.830 --> 00:07:58.978
+mas facil de dibujar.
+
+00:07:58.978 --> 00:08:02.041
+es un tipo de malla que no impide el flujo en ningun sentido...
+
+00:08:02.041 --> 00:08:02.975
+de el fluido
+
+00:08:02.975 --> 00:08:04.124
+una vez mas,
+
+00:08:04.124 --> 00:08:05.658
+cuando evaluas esta integral,
+
+00:08:05.658 --> 00:08:08.045
+te dirá la masa del fluido que está fluyendo
+
+00:08:08.045 --> 00:08:09.069
+atravez de la malla.
+
+00:08:09.069 --> 00:08:11.040
+a cada momento de tiempo dado.
+
+00:08:11.040 --> 00:08:12.057
+y con suerte, esto tiene
+
+00:08:12.057 --> 00:08:14.194
+un poco de sentido conceptual ahora.
+
+00:08:14.194 --> 00:08:15.044
+en los proximos videos,
+
+00:08:15.044 --> 00:08:16.088
+vamos a pensar acerca
+
+00:08:16.088 --> 00:08:16.804
+de como
+
+00:08:16.804 --> 00:08:18.304
+como calcular esto,
+
+00:08:18.304 --> 00:08:20.008
+como podemos representarlo
+
+00:08:20.008 --> 00:08:21.745
+en diferentes maneras.

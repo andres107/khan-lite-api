@@ -1,0 +1,216 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.333 --> 00:00:07.105
+Simplificar 3a elevado a 5 dividido entre 9 a al cuadrado por a elevado a 4 dividido entre a elevado a 3
+
+00:00:07.105 --> 00:00:11.540
+Incluso antes de preocuparnos de las "aes", podemos simplificar el 3 y el 9
+
+00:00:11.540 --> 00:00:12.980
+ambos son divisibles entre 3
+
+00:00:12.980 --> 00:00:17.926
+Dividimos el numerador y el denominador entre 3
+
+00:00:17.926 --> 00:00:21.084
+si dividimos el numerador entre 3, el tres se convierte en 1
+
+00:00:21.084 --> 00:00:26.122
+si dividimos el denominador entre 3, el 9 se convierte en 3
+
+00:00:26.122 --> 00:00:30.400
+así queda reducido o simplificado a un a elevado a 5 por a elevado a 4 dividido...
+
+00:00:30.400 --> 00:00:32.996
+o quizá deberia decir, a elevado a la quinta dividido entre 3 a al cuadrado
+
+00:00:32.996 --> 00:00:36.897
+por a elevado a 4 dividido entre a elevado a 3.
+
+00:00:36.897 --> 00:00:41.657
+Ahora, si multiplicamos las dos expresiones, esto sería igual a
+
+00:00:41.657 --> 00:00:45.023
+a elevado a 5 por a elevado a 4 en el numerador
+
+00:00:45.023 --> 00:00:47.369
+y no tenemos que preocuparnos del 1, no cambia el valor
+
+00:00:47.369 --> 00:00:51.757
+por tanto es a elevado a 5 por a elevado a 4 en el numerador
+
+00:00:51.757 --> 00:01:03.065
+y tenemos 3 por a al cuadrado por a elevado a 3 en el denominador.
+
+00:01:03.065 --> 00:01:07.849
+Desde aquí, hay múltiples maneras de simplificar
+
+00:01:07.849 --> 00:01:13.398
+Una manera, llamada a veces la regla del cociente, se basa en la idea de que si tienes
+
+00:01:13.398 --> 00:01:22.106
+a elevado a "x" dividido entre a elevado a "y", esto va a ser igual a a elevdo a "x-y"
+
+00:01:22.106 --> 00:01:28.027
+y para que veamos por qué esto funciona, si nos fijamos en a elevado a la quinta potencia dividido entre a al cuadrado
+
+00:01:28.027 --> 00:01:37.800
+a elevado a 5 es literalmente a por a por a por a por a
+
+00:01:37.800 --> 00:01:39.405
+justo esto de aquí es a elevado a 5
+
+00:01:39.405 --> 00:01:45.511
+y esto lo dividimos entre a al cuadrado, y pensando en este a al cuadrado de aquí
+
+00:01:45.511 --> 00:01:49.180
+tenemos eso dividido entre a al cuadrado, que es literalmente a por a
+
+00:01:49.180 --> 00:01:51.711
+esto es a al cuadrado
+
+00:01:51.711 --> 00:01:57.656
+y ahora vemos claramente, tanto el numerador como el denominador son divisibles entre "a por a"
+
+00:01:57.656 --> 00:01:59.908
+los dividimos los dos entre "a por a"
+
+00:01:59.908 --> 00:02:06.467
+Si dividimos el numerador entre a por a, eliminamos a por a
+
+00:02:06.467 --> 00:02:10.450
+y si dividimos el denominador entre a por a, nos queda sólo uno
+
+00:02:10.450 --> 00:02:11.704
+por tanto finalmente nos queda
+
+00:02:11.704 --> 00:02:19.436
+"a por a por a por a" dividido entre 1, osea, a por a por a
+
+00:02:19.436 --> 00:02:22.338
+pero ¿qué es esto?
+
+00:02:22.338 --> 00:02:29.667
+esto es a elevado a la tercera potencia, ó a elevado a la potencia de (5 - 2)
+
+00:02:29.667 --> 00:02:33.252
+Teniamos 5, hemos sido capaces de cancelar 2, nos quedan 3
+
+00:02:33.252 --> 00:02:36.619
+Podemos hacer la misma cosa aquí, podemos aplicar la regla del cociente
+
+00:02:36.619 --> 00:02:41.657
+y haré esto de dos maneras, aplicando la regla del cociente a a elevado a 5 y a a elevado al cuadrado
+
+00:02:41.657 --> 00:02:44.049
+y también de esta manera,
+
+00:02:44.049 --> 00:02:51.133
+lo aplicamos a estos dos números y despúes a estos dos
+
+00:02:51.133 --> 00:02:55.775
+y por supuesto, tenemos el tercio enfrente
+
+00:02:55.775 --> 00:03:03.763
+así que esto se puede reducir a un tercio multiplicado, si aplicamos la regla del cociente, a a elevado a 5 dividido entre a al cuadrado
+
+00:03:03.763 --> 00:03:05.249
+lo acabamos de hacer aquí
+
+00:03:05.249 --> 00:03:07.292
+eso se convierte en a elevado a la tercera potencia
+
+00:03:07.292 --> 00:03:12.267
+y si lo aplicamos aquí a a elevado a 4 dividido entre a elevado a 3
+
+00:03:12.267 --> 00:03:25.520
+esto nos dará a elevado a la potencia de(4 menos 3)
+
+00:03:25.520 --> 00:03:28.213
+osea, a elevado a 1
+
+00:03:28.213 --> 00:03:33.902
+y por supuesto podemos simplificar esto como a elevado a 3 multiplicado por a
+
+00:03:33.902 --> 00:03:35.690
+Lo haré aquí
+
+00:03:35.690 --> 00:03:40.000
+incluso antes de reescribirlo, sabemos que a elevado a 3 por a elevado a 1
+
+00:03:40.000 --> 00:03:42.888
+va a ser a elevado a la potencia de (3 +1)
+
+00:03:42.888 --> 00:03:45.117
+tenemos la misma base, así que podemos sumar los exponentes
+
+00:03:45.117 --> 00:03:48.333
+estamos multiplicando a por sí mismo tres veces y despúes otra vez más
+
+00:03:48.333 --> 00:03:49.970
+por tanto esto será a elevado a la cuarta potencia
+
+00:03:49.970 --> 00:03:55.600
+esto de aquí se convierte en a elevado a 4, a elevado a (3+1)
+
+00:03:55.600 --> 00:03:58.133
+and tenemos que multiplicar esto por aquel tercio
+
+00:03:58.133 --> 00:04:01.186
+nuestra respuesta sería un tercio de a elevado a la cuarta potencia
+
+00:04:01.186 --> 00:04:06.433
+o podríamos igualmente escribirlo cono a elevado a 4 dividido entre 3
+
+00:04:06.433 --> 00:04:12.563
+La otra manera de resolver este problema sería aplicando el producto
+
+00:04:12.563 --> 00:04:15.791
+o sumando los exponentes en el numerador y despúes los exponentes en el denominador.
+
+00:04:15.791 --> 00:04:16.778
+Hagámoslo así primero
+
+00:04:16.778 --> 00:04:17.765
+sumamos los exponentes en el numerador primero
+
+00:04:17.765 --> 00:04:19.867
+no empezamos aplicando la regla del cociente primero, eso lo hacemos en segundo lugar
+
+00:04:19.867 --> 00:04:23.779
+en el numerador tenemos que a elevado a 5 por a elevado a 4
+
+00:04:23.779 --> 00:04:27.796
+es a elevado a la potencia de 9 (5+4)
+
+00:04:27.796 --> 00:04:33.392
+y en el denominador tenemos a al cuadrado por a elevado a 3
+
+00:04:33.392 --> 00:04:36.294
+sumamos los exponentes porque es un producto con la misma base
+
+00:04:36.294 --> 00:04:38.500
+tendremos a elevado a 5
+
+00:04:38.500 --> 00:04:43.028
+y todavía tenemos el 3 aquí abajo, tenemos un tercio, o podríamos escribir un 3 aquí
+
+00:04:43.028 --> 00:04:47.765
+Ahora aplicamos la propiedad del cociente de los exponentes
+
+00:04:47.765 --> 00:04:51.933
+tenemos a elevado a 9 dividido entre a elevado a 5
+
+00:04:51.933 --> 00:04:57.587
+a elevaco a 9 dividido entre a elevado a 5 es igual a a elevado a (9 - 5)
+
+00:04:57.587 --> 00:05:00.791
+o lo que es igual, a elevado a la cuarta potencia
+
+00:05:00.791 --> 00:05:04.042
+y por supuesto, todavía tenemos que dividir entre 3
+
+00:05:04.042 --> 00:05:10.567
+De cualquiera de las dos maneras, obtenemos la misma respuesta.

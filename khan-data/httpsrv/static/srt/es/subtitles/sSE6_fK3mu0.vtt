@@ -1,0 +1,268 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:04.490 --> 00:00:08.710
+Vamos a probar con la derivada de e^x. que yo creo
+
+00:00:08.710 --> 00:00:11.400
+que es una de las cosas más increibles, independientemente
+
+00:00:11.400 --> 00:00:14.060
+de como lo veas, segun el cálculo, las matemáticas
+
+00:00:14.060 --> 00:00:14.705
+o el universo.
+
+00:00:17.220 --> 00:00:19.470
+Bueno, vamos a demostrar -- ya os he dicho
+
+00:00:19.470 --> 00:00:23.235
+antes que la derivada de e^x es e^x,
+
+00:00:23.235 --> 00:00:24.600
+lo cual es impresionante.
+
+00:00:24.600 --> 00:00:29.660
+La pendiente en cualquier punto de la línea es igual al valor "x" --
+
+00:00:29.660 --> 00:00:33.050
+es igual a la función en dicho punto, no el valor de "x".
+
+00:00:33.050 --> 00:00:35.010
+Vamos, que la pendiente en cualquier punto es igual a e
+
+00:00:35.010 --> 00:00:36.980
+Esto es acojonante.
+
+00:00:36.980 --> 00:00:39.220
+Y esto nos dice que, la segunda derivada en cualquier punto
+
+00:00:39.220 --> 00:00:42.110
+sera igual a la función de ese valor o la tercera
+
+00:00:42.110 --> 00:00:46.520
+derivada, o la enésima derivada, y que eso nunca
+
+00:00:46.520 --> 00:00:47.380
+deja de alucinarme.
+
+00:00:47.380 --> 00:00:49.300
+Bueno, volvamos al trabajo.
+
+00:00:49.300 --> 00:00:50.220
+Como vamos a demostrar esto?
+
+00:00:50.220 --> 00:00:53.410
+Bueno, anteriormente hemos probado -- Lo acabo de hacer
+
+00:00:53.410 --> 00:00:57.630
+antes de empezar este video -- que la derivada -- y que algunas
+
+00:00:57.630 --> 00:00:59.770
+personas la llaman la definición de e.
+
+00:00:59.770 --> 00:01:00.610
+Esas personas van en el otro sentido.
+
+00:01:00.610 --> 00:01:02.520
+Dicen, que existira algun número para el cual se cumpla,
+
+00:01:02.520 --> 00:01:04.140
+y que a ese número se le llama e.
+
+00:01:04.140 --> 00:01:10.310
+Esto es una situación un poco cíclica, pero
+
+00:01:10.310 --> 00:01:14.770
+hemos dicho que "e" es igual al límite cuando "n" se aproxima al infinito
+
+00:01:14.770 --> 00:01:18.140
+de 1/(1+n) hasta el fin.
+
+00:01:18.140 --> 00:01:21.930
+Y, usando esto, ya hemos provado que la derivada de
+
+00:01:21.930 --> 00:01:25.710
+ln"x" es igual a 1/x.
+
+00:01:25.710 --> 00:01:28.630
+La derivada del logaritmo cuya base es "e" de "x" es igual a 1/x 
+(ln(x) = 1/x)
+
+00:01:28.630 --> 00:01:33.060
+Ahora que hemos probado esto, vamos a usarlo para probar lo siguiente.
+
+00:01:38.310 --> 00:01:40.290
+Dejadme continuar cambiando de colores para mantenerlo interesante.
+
+00:01:40.290 --> 00:01:46.820
+Vamos a coger la derivada de ln e^x
+
+00:01:50.280 --> 00:01:51.420
+Una situación casi trivial.
+
+00:01:51.420 --> 00:01:57.010
+Esto es igual a logaritmo de "a"^"b" es igual a
+
+00:01:57.010 --> 00:01:59.200
+"b" veces el logaritmo de "a", (log (a^b) = b·log(a)), que será igual a la
+
+00:01:59.200 --> 00:02:04.600
+derivada de x · ln(e).
+
+00:02:04.600 --> 00:02:07.640
+Esto es decir a que potencia de "e" es igual a "e".
+
+00:02:07.640 --> 00:02:09.650
+Pues a la primera, no?
+
+00:02:09.650 --> 00:02:13.730
+Esto es igual a la derivada de "x", la cual sabemos
+
+00:02:13.730 --> 00:02:14.840
+que es igual a 1.
+
+00:02:14.840 --> 00:02:17.480
+Creo que la hemos demostrado, menos mal.
+
+00:02:17.480 --> 00:02:20.650
+Pero en caso de no haberlo hecho, es algo muy facil de demostrar.
+
+00:02:20.650 --> 00:02:21.700
+Vale, suficiente.
+
+00:02:21.700 --> 00:02:23.630
+Lo hemos hecho.
+
+00:02:23.630 --> 00:02:25.030
+Pero vamos a hacerlo de esta manera.
+
+00:02:25.030 --> 00:02:28.280
+Usemos la regla de la cadena.
+
+00:02:28.280 --> 00:02:29.420
+Que dice la regla de la cadena?
+
+00:02:29.420 --> 00:02:32.610
+si tenemos f(g(x)), donde tenemos una función dentro
+
+00:02:32.610 --> 00:02:35.660
+de otra, la regla de la cadena dice que usando la derivada de
+
+00:02:35.660 --> 00:02:50.550
+la función interna, así que, d/dx "e"^"x".
+
+00:02:50.550 --> 00:02:53.320
+Y luego cogemos la derivada de la función exterior, o la
+
+00:02:53.320 --> 00:02:56.340
+derivada de la función exterior respecto
+
+00:02:56.340 --> 00:02:57.400
+a la función interna.
+
+00:02:57.400 --> 00:03:00.570
+Lo podemos ver de esa manera.
+
+00:03:00.570 --> 00:03:03.000
+La derivada de ln (e^x)
+
+00:03:03.000 --> 00:03:04.530
+respecto a (e^x).
+
+00:03:04.530 --> 00:03:05.530
+Es un poco lioso.
+
+00:03:05.530 --> 00:03:09.680
+Podrias haber escrito una "d (e^x)" por aquí abajo, pero yo
+
+00:03:09.680 --> 00:03:11.760
+creo que sabes usar la regla de la cadena.
+
+00:03:11.760 --> 00:03:15.650
+Esto es igual a 1/(e^x)
+
+00:03:15.650 --> 00:03:18.055
+Y viene de esto.
+
+00:03:18.055 --> 00:03:19.940
+En vez de una "x", tenemos "e^x".
+
+00:03:19.940 --> 00:03:23.340
+Así que es una regla de la cadena.
+
+00:03:23.340 --> 00:03:24.830
+¿Que más sabemos?
+
+00:03:24.830 --> 00:03:28.090
+Sabemos que esto es igual a aquello, y tambien sabemos que
+
+00:03:28.090 --> 00:03:29.840
+lo de aquí es igual a esto.
+
+00:03:29.840 --> 00:03:31.910
+Por lo tanto estas seran iguales.
+
+00:03:31.910 --> 00:03:34.740
+Así que, tiene que ser igual a 1.
+
+00:03:34.740 --> 00:03:37.150
+Bueno, multipliquemos ambos lados de esta
+
+00:03:37.150 --> 00:03:41.160
+ecuación por e^x
+
+00:03:41.160 --> 00:03:43.070
+En el lado izquierdo, nos quedamos con
+
+00:03:43.070 --> 00:03:44.246
+esta expresión.
+
+00:03:44.246 --> 00:03:51.450
+La derivada de e^x -- multiplicamos ambos
+
+00:03:51.450 --> 00:03:54.090
+lados por "e^x" por "e^x" sobre "e^x".
+
+00:03:54.090 --> 00:03:57.650
+Elijo poner e^x en este termino,
+
+00:03:57.650 --> 00:03:59.740
+es igual a e^x
+
+00:03:59.740 --> 00:04:01.320
+Que es 1.
+
+00:04:01.320 --> 00:04:02.670
+Subráyalo.
+
+00:04:02.670 --> 00:04:03.960
+Estamos listos.
+
+00:04:03.960 --> 00:04:05.890
+Puede que no sea completamente satisfactorio
+
+00:04:05.890 --> 00:04:07.640
+para ti, pero funciona.
+
+00:04:07.640 --> 00:04:12.910
+La derivada de e^x es igual a e^x
+
+00:04:16.490 --> 00:04:21.260
+Creo que la escuela o el país deberian tener
+
+00:04:21.260 --> 00:04:23.250
+vacaciones o algo, y la gente deberia simplemente
+
+00:04:23.250 --> 00:04:27.620
+reflexionar sobre esto, porque es fascinante.
+
+00:04:27.620 --> 00:04:31.730
+Pero esto nos llevara a unos resultados
+
+00:04:31.730 --> 00:04:36.200
+dramaticos, en un futuro no muy lejano.
+
+00:04:36.200 --> 00:04:37.870
+Sea lo que sea, te veo en el próximo video.

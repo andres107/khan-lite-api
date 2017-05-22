@@ -1,0 +1,681 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.740
+.
+
+00:00:00.740 --> 00:00:01.530
+¡Bienvenido!
+
+00:00:01.530 --> 00:00:04.080
+Ahora vamos a utilizar lo que hemos aprendido sobre el concepto de trabajo,
+
+00:00:04.080 --> 00:00:06.540
+energía y la conservación de energía y
+
+00:00:06.540 --> 00:00:08.240
+aplicarlo a maquinas sencillas.
+
+00:00:08.240 --> 00:00:10.650
+Y aprenderemos acerca del concepto "ventaja mecánica".
+
+00:00:10.650 --> 00:00:12.760
+En este ejemplo he dibujado una palanca simple.
+
+00:00:12.760 --> 00:00:14.830
+Y probablemente, hayais visto antes
+
+00:00:14.830 --> 00:00:15.890
+palancas simples.
+
+00:00:15.890 --> 00:00:18.040
+Son como un balancín.
+
+00:00:18.040 --> 00:00:19.910
+El lugar donde la palanca pivota
+
+00:00:19.910 --> 00:00:20.970
+Se llama un fulcro.
+
+00:00:20.970 --> 00:00:22.090
+Es el punto de pivote.
+
+00:00:22.090 --> 00:00:24.480
+Y puedes verlo como un balancín o un gran
+
+00:00:24.480 --> 00:00:26.710
+tablón de madera en lo alto de un triángulo, que es esencialmente
+
+00:00:26.710 --> 00:00:27.760
+lo que he dibujado.
+
+00:00:27.760 --> 00:00:30.750
+En este ejemplo, tengo un gran tablón de madera.
+
+00:00:30.750 --> 00:00:32.729
+En un extremo tengo este peso de 10 newtons, y
+
+00:00:32.729 --> 00:00:33.720
+he escrito 10 allí.
+
+00:00:33.720 --> 00:00:37.640
+Y lo que vamos a averiguar es; uno, cuánta fuerza--
+
+00:00:37.640 --> 00:00:39.480
+bueno, podríamos averiguar varias cosas.
+
+00:00:39.480 --> 00:00:42.300
+¿Cuánta fuerza es necesario aplicar aquí para
+
+00:00:42.300 --> 00:00:45.430
+mantener este nivel?
+
+00:00:45.430 --> 00:00:49.800
+Porque este peso esta empujando hacia abajo.
+
+00:00:49.800 --> 00:00:52.370
+Lógicamente la palanca tendería
+
+00:00:52.370 --> 00:00:54.200
+a rotar en sentido horario.
+
+00:00:54.200 --> 00:00:56.540
+Así que lo que quiero averiguar es, ¿cuánta fuerza tengo
+
+00:00:56.540 --> 00:01:01.860
+que aplicar para mantener el nivel de palanca o para, realmente,
+
+00:01:01.860 --> 00:01:04.450
+girar en sentido antihorario esta palanca?
+
+00:01:04.450 --> 00:01:06.040
+Y cuando giro la palanca
+
+00:01:06.040 --> 00:01:07.310
+hacia la izquierda, ¿ qué sucede?
+
+00:01:07.310 --> 00:01:09.810
+Estoy empujando hacia abajo este lado izquierdo, y estoy
+
+00:01:09.810 --> 00:01:12.490
+elevando este bloque de 10 Newton.
+
+00:01:12.490 --> 00:01:14.950
+Así que vamos a hacer un pequeño experimento y ver lo que
+
+00:01:14.950 --> 00:01:18.200
+ocurre después de girar un poco esta palanca.
+
+00:01:18.200 --> 00:01:20.970
+Así que digamos que lo que yo he dibujado aquí en malva, es nuestra
+
+00:01:20.970 --> 00:01:22.140
+posición inicial.
+
+00:01:22.140 --> 00:01:25.550
+Y en amarillo, voy a dibujar la posición final.
+
+00:01:25.550 --> 00:01:27.040
+Por lo tanto la posición final va a parecer
+
+00:01:27.040 --> 00:01:28.290
+algo como esto.
+
+00:01:28.290 --> 00:01:31.560
+.
+
+00:01:31.560 --> 00:01:34.091
+Intentaré dibujar lo mejor que pueda.
+
+00:01:34.091 --> 00:01:36.120
+La posición final es algo como esto.
+
+00:01:36.120 --> 00:01:38.890
+Y también, una cosa quiero averiguar, que quería
+
+00:01:38.890 --> 00:01:43.000
+escribir, es digamos que la distancia, que esta distancia
+
+00:01:43.000 --> 00:01:47.610
+aquí, desde donde estoy aplicando la fuerza al
+
+00:01:47.610 --> 00:01:52.245
+fulcro, digamos que esa distancia es de 2.
+
+00:01:52.245 --> 00:01:54.990
+Y que desde el punto de apoyo al peso que estoy elevando
+
+00:01:54.990 --> 00:01:56.020
+la distancia es 1.
+
+00:01:56.020 --> 00:01:57.430
+Digamos, sólo en aras del argumento.
+
+00:01:57.430 --> 00:01:59.570
+Digamos que es de 2 metros y 1 metro, aunque podría ser 2
+
+00:01:59.570 --> 00:02:02.340
+kilómetros y 1 kilómetro, lo veremos pronto.
+
+00:02:02.340 --> 00:02:05.300
+Y lo que hice es presionar con fuerza y
+
+00:02:05.300 --> 00:02:08.960
+lo giré un ángulo theta.
+
+00:02:08.960 --> 00:02:12.540
+Así que esto es theta y esto también es theta.
+
+00:02:12.540 --> 00:02:14.540
+Así que mi pregunta para vosotros, y tendremos que sacar un
+
+00:02:14.540 --> 00:02:18.390
+poco de nuestras habilidades de trigonometría, es ¿cuánto
+
+00:02:18.390 --> 00:02:20.060
+se movió este objeto hacia arriba?
+
+00:02:20.060 --> 00:02:22.700
+Así que básicamente, ¿cuál es la distancia?
+
+00:02:22.700 --> 00:02:24.850
+¿Cuál es la distancia en la dirección vertical?
+
+00:02:24.850 --> 00:02:26.150
+¿Cuánto subió?
+
+00:02:26.150 --> 00:02:29.550
+Y también, ¿para qué distancia tengo que aplicar la fuerza
+
+00:02:29.550 --> 00:02:33.070
+hacia abajo aquí--por que es esta distancia--a fin de
+
+00:02:33.070 --> 00:02:35.770
+que este peso se mueva esta distancia hacia arriba?
+
+00:02:35.770 --> 00:02:37.680
+Así que vamos a averiguar ambas cosas.
+
+00:02:37.680 --> 00:02:40.700
+Así que esta distancia es cuál?
+
+00:02:40.700 --> 00:02:41.830
+Pues bien, tenemos theta.
+
+00:02:41.830 --> 00:02:42.870
+Este es el opuesto.
+
+00:02:42.870 --> 00:02:44.410
+Esto es un ángulo de 90 grados, porque
+
+00:02:44.410 --> 00:02:46.060
+partimos del nivel.
+
+00:02:46.060 --> 00:02:47.780
+Este es el opuesto.
+
+00:02:47.780 --> 00:02:49.250
+Y ¿qué es esto?
+
+00:02:49.250 --> 00:02:52.890
+Este es el ángulo adyacente.
+
+00:02:52.890 --> 00:02:53.840
+¿Así que qué tenemos allí?
+
+00:02:53.840 --> 00:02:54.900
+Opuesto sobre adyacente.
+
+00:02:54.900 --> 00:02:59.920
+SoH Cah Toa.
+
+00:02:59.920 --> 00:03:01.760
+Opuesto sobre adyacente.
+
+00:03:01.760 --> 00:03:03.750
+Opuesto sobre adyacente.
+
+00:03:03.750 --> 00:03:05.490
+Es Toa, o tangente.
+
+00:03:05.490 --> 00:03:11.780
+Así que en esta situación, sabemos que la tangente de theta
+
+00:03:11.780 --> 00:03:19.070
+es igual a--vamos a llamar a esto la distancia
+
+00:03:19.070 --> 00:03:20.702
+que desplazamos el peso.
+
+00:03:20.702 --> 00:03:21.400
+¿bien?.
+
+00:03:21.400 --> 00:03:25.480
+Así que es igual a opuesto sobre adyacente, la distancia que
+
+00:03:25.480 --> 00:03:29.050
+movemos el peso dividido entre 1.
+
+00:03:29.050 --> 00:03:30.490
+Y entonces si nos vamos a este lado,
+
+00:03:30.490 --> 00:03:32.070
+podemos hacer lo mismo.
+
+00:03:32.070 --> 00:03:34.110
+Tangente es opuesto sobre adyacente.
+
+00:03:34.110 --> 00:03:38.530
+Así que vamos a llamar a esto la distancia de la fuerza.
+
+00:03:38.530 --> 00:03:41.030
+Así que éste es el opuesto a la distancia de la fuerza y la
+
+00:03:41.030 --> 00:03:45.240
+adyacente es este 2 metros.
+
+00:03:45.240 --> 00:03:47.340
+Porque ésta de aquí es la hipotenusa.
+
+00:03:47.340 --> 00:03:52.530
+Así que también tenemos la tangente de theta--ahora estais utilizando este
+
+00:03:52.530 --> 00:03:55.030
+triángulo--es igual al lado opuesto.
+
+00:03:55.030 --> 00:04:00.250
+La distancia de la fuerza dividida por 2 metros.
+
+00:04:00.250 --> 00:04:01.020
+Esto es interesante.
+
+00:04:01.020 --> 00:04:03.500
+Son ambos igual al tangente de theta.
+
+00:04:03.500 --> 00:04:04.530
+No tenemos que averiguar cuál
+
+00:04:04.530 --> 00:04:05.380
+es la tangente de theta.
+
+00:04:05.380 --> 00:04:11.190
+Sabemos que esta cantidad es igual a esta cantidad.
+
+00:04:11.190 --> 00:04:12.150
+Y podemos escribirlo aquí.
+
+00:04:12.150 --> 00:04:16.250
+Podríamos escribir la distancia de la fuerza, que es la distancia
+
+00:04:16.250 --> 00:04:18.089
+que teníamos que mover hacia abajo el lado de la palanca
+
+00:04:18.089 --> 00:04:22.460
+sobre 2, es igual a la distancia del peso...
+
+00:04:22.460 --> 00:04:25.070
+Es igual a la distancia que el peso subió,
+
+00:04:25.070 --> 00:04:30.350
+dividido por 1.
+
+00:04:30.350 --> 00:04:33.110
+O podríamos decir-- podemos obviar este1.
+
+00:04:33.110 --> 00:04:34.500
+Algo dividido por 1 es sólo 1.
+
+00:04:34.500 --> 00:04:37.130
+O podríamos decir que la distancia de la fuerza es igual
+
+00:04:37.130 --> 00:04:41.100
+2 veces la distancia del peso.
+
+00:04:41.100 --> 00:04:44.270
+Y esto es interesante, porque ahora podemos aplicar lo que
+
+00:04:44.270 --> 00:04:47.870
+aprendimos aquí para averiguar cuál era la fuerza.
+
+00:04:47.870 --> 00:04:48.750
+Y ¿cómo hago eso?
+
+00:04:48.750 --> 00:04:51.500
+Pues bien, cuando estoy aplicando una fuerza aquí, en cierta
+
+00:04:51.500 --> 00:04:53.950
+distancia, estoy poniendo energía en el sistema.
+
+00:04:53.950 --> 00:04:54.710
+Estoy haciendo trabajo.
+
+00:04:54.710 --> 00:04:58.260
+El trabajo es sólo una transferencia de energía en esta máquina.
+
+00:04:58.260 --> 00:05:00.100
+Y al hacerlo, esa máquina está
+
+00:05:00.100 --> 00:05:02.270
+transfiriendo esa energía a este bloque.
+
+00:05:02.270 --> 00:05:05.670
+Realmente está haciendo trabajo en el bloque elevándolo.
+
+00:05:05.670 --> 00:05:08.640
+Por tanto, conocemos la ley de conservación de la energía, y
+
+00:05:08.640 --> 00:05:11.280
+suponemos que se trata de un sistema sin fricción, y
+
+00:05:11.280 --> 00:05:13.730
+nada se está perdiendo en calor o cualquier otra cosa.
+
+00:05:13.730 --> 00:05:17.000
+Así que el trabajo sobre la palanca tiene que ser igual que el trabajo sobre el peso.
+
+00:05:17.000 --> 00:05:18.590
+Y ¿cuál es el trabajo?
+
+00:05:18.590 --> 00:05:21.310
+Bueno, es la fuerza que estoy aplicando hacia abajo por
+
+00:05:21.310 --> 00:05:22.430
+distancia de la fuerza.
+
+00:05:22.430 --> 00:05:24.670
+Este es el trabajo sobre la palanca.
+
+00:05:24.670 --> 00:05:27.500
+La fuerza por la distancia de la fuerza.
+
+00:05:27.500 --> 00:05:28.880
+Voy a cambiar de colores sólo para mantener las cosas
+
+00:05:28.880 --> 00:05:30.050
+interesantes.
+
+00:05:30.050 --> 00:05:34.120
+Y esto tiene que ser igual al trabajo sobre el peso.
+
+00:05:34.120 --> 00:05:36.770
+Bien, ¿qué es el trabajo que sale(de la palanca)?
+
+00:05:36.770 --> 00:05:41.190
+Es la fuerza del peso hacia abajo.
+
+00:05:41.190 --> 00:05:43.700
+Así que tenemos que--es básicamente la fuerza de elevación
+
+00:05:43.700 --> 00:05:45.330
+de la palanca.
+
+00:05:45.330 --> 00:05:47.320
+Tiene que contrarrestar la fuerza del peso
+
+00:05:47.320 --> 00:05:47.950
+hacia abajo.
+
+00:05:47.950 --> 00:05:49.610
+Perdón, me he liado un poco.
+
+00:05:49.610 --> 00:05:52.030
+Pero esta palanca básicamente va a estar
+
+00:05:52.030 --> 00:05:53.820
+empujando hacia arriba en este peso.
+
+00:05:53.820 --> 00:05:55.190
+El peso termina aquí.
+
+00:05:55.190 --> 00:05:57.200
+Lo empuja con una fuerza igual al
+
+00:05:57.200 --> 00:05:58.300
+peso del objeto.
+
+00:05:58.300 --> 00:06:01.040
+Ese es el peso del objeto, que es--dije que
+
+00:06:01.040 --> 00:06:04.440
+es un objeto de 10 newton--por lo que es igual a 10 newtons.
+
+00:06:04.440 --> 00:06:05.250
+Esta es la fuerza
+
+00:06:05.250 --> 00:06:06.190
+ascendente aquí.
+
+00:06:06.190 --> 00:06:08.630
+Y lo hace ¿para qué distancia?
+
+00:06:08.630 --> 00:06:11.480
+Suponemos que este objeto, este peso, se mueve hacia arriba una
+
+00:06:11.480 --> 00:06:12.730
+distancia d sub w.
+
+00:06:12.730 --> 00:06:18.200
+.
+
+00:06:18.200 --> 00:06:22.380
+Y sabemos cuál esla distancia de la fuerza en términos de
+
+00:06:22.380 --> 00:06:24.760
+la distancia de w.
+
+00:06:24.760 --> 00:06:29.360
+Así podríamos reescribir esto como fuerza por , sustituir aquí,
+
+00:06:29.360 --> 00:06:35.930
+2dw es igual a 10 dw.
+
+00:06:35.930 --> 00:06:43.830
+Dividimos ambos lados por 2dw y obteneis fuerza igual a
+
+00:06:43.830 --> 00:06:50.150
+10dw 2 dw, que está igualado a, dw se cancela
+
+00:06:50.150 --> 00:06:52.510
+y te queda solo 5.
+
+00:06:52.510 --> 00:06:54.090
+Esto es interesante.
+
+00:06:54.090 --> 00:06:56.500
+Y creo que veis a dónde va, y lo hicimos
+
+00:06:56.500 --> 00:06:57.490
+un poco complicado esta vez.
+
+00:06:57.490 --> 00:07:01.490
+Pero espero que os dareis cuenta de un tema general.
+
+00:07:01.490 --> 00:07:03.790
+Este era un peso de 10 newton.
+
+00:07:03.790 --> 00:07:06.700
+Y sólo tuve que presionar hacia abajo con 5 newtons a fin
+
+00:07:06.700 --> 00:07:08.460
+de levantarlo.
+
+00:07:08.460 --> 00:07:11.500
+Pero al mismo tiempo, presiona con 5 newtons,
+
+00:07:11.500 --> 00:07:14.880
+pero tuve que empujar hacia abajo para el doble de longitud.
+
+00:07:14.880 --> 00:07:17.880
+Así que mi fuerza era la mitad, pero la distancia a la que tenía
+
+00:07:17.880 --> 00:07:20.190
+que presionar era el doble, como mucho.
+
+00:07:20.190 --> 00:07:25.470
+Y aquí la fuerza es dos veces mayor pero la distancia que
+
+00:07:25.470 --> 00:07:27.480
+se desplazó es la mitad como mucho.
+
+00:07:27.480 --> 00:07:29.350
+Por lo tanto lo que realmente ha pasado aquí es
+
+00:07:29.350 --> 00:07:30.640
+que he multiplicado mi fuerza.
+
+00:07:30.640 --> 00:07:32.490
+Y porque multiplicado mi fuerza, he
+
+00:07:32.490 --> 00:07:35.100
+perdido cierta distancia.
+
+00:07:35.100 --> 00:07:36.710
+Pero he multiplicado mi fuerza, porque he
+
+00:07:36.710 --> 00:07:38.320
+aplicado una fuerza de 5 newton.
+
+00:07:38.320 --> 00:07:41.200
+Y obtengo una fuerza de 10 newton, aunque los 10 newton
+
+00:07:41.200 --> 00:07:43.030
+de fuerza viajaron una menor distancia.
+
+00:07:43.030 --> 00:07:44.230
+Porque el trabajo era constante.
+
+00:07:44.230 --> 00:07:46.460
+Y esto se llama ventaja mecánica.
+
+00:07:46.460 --> 00:07:50.450
+Si tengo una fuerza de entrada de 5, y me da una fuerza de salida de
+
+00:07:50.450 --> 00:07:53.250
+10, la ventaja mecánica es 2.
+
+00:07:53.250 --> 00:07:57.660
+Ventaja mecánica es igual a fuerza de salida entre
+
+00:07:57.660 --> 00:07:59.260
+la fuerza de entrada y esperemos que tenga un poco
+
+00:07:59.260 --> 00:08:00.910
+de sentido intuitivo para vosotros.
+
+00:08:00.910 --> 00:08:03.220
+Y otra cosa que tal vez esteis comenzando a daros cuenta
+
+00:08:03.220 --> 00:08:07.110
+ahora, es la proporción de la ventaja mecánica es
+
+00:08:07.110 --> 00:08:13.480
+realmente el ratio de esta longitud a esta longitud.
+
+00:08:13.480 --> 00:08:15.660
+Y lo averiguamos tomando la tangente y haciendo
+
+00:08:15.660 --> 00:08:16.670
+estas proporciones.
+
+00:08:16.670 --> 00:08:20.200
+Pero en general, tiene sentido, porque esta fuerza
+
+00:08:20.200 --> 00:08:23.340
+por esta distancia tiene que ser igual a esta
+
+00:08:23.340 --> 00:08:25.820
+fuerza por esta distancia.
+
+00:08:25.820 --> 00:08:29.410
+Y sabemos que la distancia que este sube es proporcional
+
+00:08:29.410 --> 00:08:34.169
+la longitud desde el punto de apoyo para el peso.
+
+00:08:34.169 --> 00:08:36.340
+Y sabemos en este lado que la distancia a la que estais empujando
+
+00:08:36.340 --> 00:08:39.260
+hacia abajo, es proporcional a la longitud desde la que
+
+00:08:39.260 --> 00:08:42.020
+aplicais el peso hasta el fulcro.
+
+00:08:42.020 --> 00:08:45.640
+Y ahora voy presentarles un concepto de momentos.
+
+00:08:45.640 --> 00:08:46.890
+En un momento.
+
+00:08:46.890 --> 00:08:49.470
+.
+
+00:08:49.470 --> 00:08:52.240
+Así que en general, si tengo, y esto es realmente todo tienes que
+
+00:08:52.240 --> 00:08:54.350
+aprender, que el último ejercicio de pensamiento fue sólo
+
+00:08:54.350 --> 00:08:55.370
+para mostraroslo.
+
+00:08:55.370 --> 00:09:03.740
+Si tengo un fulcro aquí, y si llamamos a esta distancia d1
+
+00:09:03.740 --> 00:09:06.590
+y llamamos a esta distancia d2.
+
+00:09:06.590 --> 00:09:12.335
+Y si quiero aplicar una fuerza ascendente aquí,
+
+00:09:12.335 --> 00:09:15.770
+Llamemos a este f1.
+
+00:09:15.770 --> 00:09:20.830
+Y tengo una fuerza descendente, f2, en esta máquina.
+
+00:09:20.830 --> 00:09:27.970
+f2 veces d2 es igual a d1 veces f1.
+
+00:09:27.970 --> 00:09:30.220
+Y esto es realmente todo lo que necesitais saber.
+
+00:09:30.220 --> 00:09:33.630
+Y la consecuencia de todo esto es que el trabajo realizado
+
+00:09:33.630 --> 00:09:34.880
+es igual que el trabajo obtenido.
+
+00:09:34.880 --> 00:09:37.540
+Ahora, esta cantidad no es exactamente el trabajo.
+
+00:09:37.540 --> 00:09:41.520
+El trabajo realizado era esta fuerza--perdón, f2-- es esta fuerza
+
+00:09:41.520 --> 00:09:43.130
+por esta distancia.
+
+00:09:43.130 --> 00:09:47.370
+Pero esta distancia es proporcional a esta distancia,
+
+00:09:47.370 --> 00:09:48.610
+y eso es lo que necesitais para daros cuenta.
+
+00:09:48.610 --> 00:09:51.610
+Y esta cantidad se llama realmente el momento.
+
+00:09:51.610 --> 00:09:54.560
+En el siguiente video, que voy a empezar muy pronto porque este
+
+00:09:54.560 --> 00:09:55.730
+video está a punto de terminar.
+
+00:09:55.730 --> 00:09:56.660
+Estoy fuera de tiempo.
+
+00:09:56.660 --> 00:09:59.330
+Usaré estas cantidades para resolver un montón de problemas de
+
+00:09:59.330 --> 00:10:01.560
+ventaja mcánica. Os veo pronto.

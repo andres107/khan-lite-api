@@ -1,0 +1,786 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.065 --> 00:00:03.033
+Me di cuenta de que cometí un pequeño error en el anterior vídeo
+
+00:00:03.033 --> 00:00:06.079
+al hablar de la media poblacional y muestral.
+
+00:00:06.079 --> 00:00:09.016
+Así que volveré a escribir las ecuaciones.
+
+00:00:09.016 --> 00:00:11.053
+Cometí un pequeño error de notación
+
+00:00:11.053 --> 00:00:12.069
+y eso puede haberles confundido un poco.
+
+00:00:12.069 --> 00:00:14.086
+Así que repasarlo no hace daño.
+
+00:00:14.086 --> 00:00:19.042
+La media de la población --tal como dijimos, eso es mu--
+
+00:00:19.042 --> 00:00:22.062
+la media poblacional es igual a, se toma la suma
+
+00:00:22.062 --> 00:00:24.048
+de cada uno de los datos
+
+00:00:24.048 --> 00:00:28.007
+Toman la suma --para eso es para lo que se usa esa gran sigma--
+
+00:00:28.007 --> 00:00:29.071
+de cada uno de los datos.
+
+00:00:29.071 --> 00:00:30.087
+Así que x sub i.
+
+00:00:30.087 --> 00:00:33.088
+Escribí x sub n antes, y si revisan el anterior vídeo,
+
+00:00:33.088 --> 00:00:35.075
+pueden ver por qué es algo confuso.
+
+00:00:35.075 --> 00:00:38.050
+Y comienzan con el primer dato
+
+00:00:38.050 --> 00:00:41.009
+Es decir, i es igual a 1.
+
+00:00:41.009 --> 00:00:43.071
+Comienzan con el primer dato y toman la suma hasta
+
+00:00:43.071 --> 00:00:47.042
+el dato n, donde tenemos una N mayúscula,
+
+00:00:47.042 --> 00:00:51.025
+donde N es el número total de elementos en la población.
+
+00:00:51.025 --> 00:00:53.068
+Y entonces dividen por N.
+
+00:00:53.068 --> 00:00:58.056
+Así que esa es otra manera de escribir x sub 1, más x sub 2,
+
+00:00:58.056 --> 00:01:01.075
+más... y siguen sumando tantos como haya
+
+00:01:01.075 --> 00:01:05.074
+hasta x sub n, y entonces dividen por N.
+
+00:01:05.074 --> 00:01:07.093
+Y esto es lo que les suena como simplemente
+
+00:01:07.093 --> 00:01:10.000
+la media aritmética, o el promedio.
+
+00:01:10.000 --> 00:01:11.092
+Suman todos los elementos y dividen
+
+00:01:11.092 --> 00:01:13.040
+por el número total de elementos que haya.
+
+00:01:13.040 --> 00:01:15.039
+Es simplemente una manera elegante de escribirlo.
+
+00:01:15.039 --> 00:01:18.062
+Y la media muestral es esencialmente lo mismo,
+
+00:01:18.062 --> 00:01:20.032
+aunque la notación es un poco diferente.
+
+00:01:20.032 --> 00:01:25.043
+La media muestral se escribe como x con una línea encima,
+
+00:01:25.043 --> 00:01:31.096
+y es igual, también, a la suma de los elementos de la muestra.
+
+00:01:31.096 --> 00:01:34.076
+Y hay sólo una pequeña diferencia en la notación.
+
+00:01:34.076 --> 00:01:37.037
+Comienzan con el primer elemento de la muestra
+
+00:01:37.037 --> 00:01:39.056
+y van hasta el número de elementos de la muestra.
+
+00:01:39.056 --> 00:01:41.081
+Y eso es por lo que se usa la n minúscula.
+
+00:01:41.081 --> 00:01:44.073
+Hay N mayúsculas para toda la población y si toman
+
+00:01:44.073 --> 00:01:49.004
+un subgrupo de eso --asumimos que esa n minúscula
+
+00:01:49.004 --> 00:01:52.031
+es menor o igual que la N mayúscula-- y dividen eso por
+
+00:01:52.031 --> 00:01:55.084
+el número total de elementos en la muestra.
+
+00:01:55.084 --> 00:02:01.032
+Una vez más, esto sería x1 más x2 más dun dun dun, más
+
+00:02:01.032 --> 00:02:05.023
+x n minúscula, dividido por n minúscula.
+
+00:02:05.023 --> 00:02:07.020
+Son básicamente lo mismo.
+
+00:02:07.020 --> 00:02:09.096
+Si la muestra fuera el total de la población, entonces estas
+
+00:02:09.096 --> 00:02:11.066
+enes serían iguales entre sí, y estos números serían
+
+00:02:11.066 --> 00:02:12.078
+iguales los unos a los otros.
+
+00:02:12.078 --> 00:02:15.008
+Sólo la diferencia de notación, si alguna vez
+
+00:02:15.008 --> 00:02:16.078
+ven esto, sabrán que están manejando una muestra.
+
+00:02:16.078 --> 00:02:19.006
+Aquí sabrán que están manejando toda la población.
+
+00:02:19.006 --> 00:02:21.008
+E igualmente, N mayúscula, toda la población,
+
+00:02:21.008 --> 00:02:23.059
+n minúscula, la muestra.
+
+00:02:23.059 --> 00:02:24.044
+Suficiente.
+
+00:02:24.044 --> 00:02:27.012
+Creo que ya estamos listos para aprender un poco
+
+00:02:27.012 --> 00:02:29.021
+sobre medidas de dispersión.
+
+00:02:29.021 --> 00:02:32.025
+La media, la moda y la mediana que tratamos en
+
+00:02:32.025 --> 00:02:35.012
+el primer vídeo de esta lista eran todo maneras de
+
+00:02:35.012 --> 00:02:39.003
+medir la tendencia central de un grupo de datos,
+
+00:02:39.003 --> 00:02:41.059
+como escoger un número que es el más representativo
+
+00:02:41.059 --> 00:02:43.009
+de todos los números.
+
+00:02:43.009 --> 00:02:44.028
+Pero perdemos mucha información.
+
+00:02:44.028 --> 00:02:46.036
+No vemos si todos los números del conjunto están
+
+00:02:46.036 --> 00:02:48.096
+cerca de ese número, cerca de la media, o puede que estén
+
+00:02:48.096 --> 00:02:50.031
+todos muy lejos d ela media.
+
+00:02:50.031 --> 00:02:52.068
+Y por eso usamos las medidas de dispersión.
+
+00:02:52.068 --> 00:02:57.038
+
+
+00:02:57.038 --> 00:02:59.044
+Déjenme enserñarles a lo que me refiero.
+
+00:02:59.044 --> 00:03:04.000
+Digamos que tengo un grupo, y digamos que es
+
+00:03:04.000 --> 00:03:09.065
+2, 2, 3, y 3
+
+00:03:09.065 --> 00:03:10.086
+Digamos que esto es la población.
+
+00:03:10.086 --> 00:03:14.081
+Limitémonos a medias y medidas de dispersión
+
+00:03:14.081 --> 00:03:15.062
+de la población, de momento.
+
+00:03:15.062 --> 00:03:17.052
+Así que, ¿cuál es la media aquí?
+
+00:03:17.052 --> 00:03:21.061
+La media será 2 más 2 más 3 más 3,
+
+00:03:21.061 --> 00:03:26.084
+todo dividido entre 4.
+
+00:03:26.084 --> 00:03:27.053
+¿Y cuánto es eso?
+
+00:03:27.053 --> 00:03:29.080
+Eso es igual a 2,5, ¿no?
+
+00:03:29.080 --> 00:03:33.003
+4 más 6 dividido entre 4, ¿bien?
+
+00:03:33.003 --> 00:03:35.065
+Eso es igual a 2,5.
+
+00:03:35.065 --> 00:03:38.053
+Suficiente.
+
+00:03:38.053 --> 00:03:39.053
+¿Pero que pasaría si tuviera esto?
+
+00:03:39.053 --> 00:03:49.021
+Qué pasaría si tuviera los números, no sé... 0, 0, 5 y 5.
+
+00:03:49.021 --> 00:03:50.031
+Estos son los números del conjunto.
+
+00:03:50.031 --> 00:03:52.056
+Pondré comas para que sepamos que son
+
+00:03:52.056 --> 00:03:54.002
+números separados.
+
+00:03:54.002 --> 00:03:55.069
+¿Cuál es la media aquí?
+
+00:03:55.069 --> 00:03:59.091
+La media es --y digamos que esto es la población.
+
+00:03:59.091 --> 00:04:01.087
+Esto no es una muestra, es la población completa.
+
+00:04:01.087 --> 00:04:04.047
+Y luego verán por qué hacemos esta distinción.
+
+00:04:04.047 --> 00:04:08.069
+Será 0 más 0 más 5 más 5.
+
+00:04:08.069 --> 00:04:12.096
+Bien, eso es 10, dividido entre 4, igual a 2,5.
+
+00:04:12.096 --> 00:04:16.095
+Así que las medias aritméticas de estas dos poblaciones
+
+00:04:16.095 --> 00:04:18.001
+son las mismas.
+
+00:04:18.001 --> 00:04:18.068
+Ambas son 2,5.
+
+00:04:18.068 --> 00:04:21.048
+
+
+00:04:21.048 --> 00:04:24.037
+Pero ustedes pueden ver que ambos grupos son diferentes.
+
+00:04:24.037 --> 00:04:28.010
+Aquí todos los números están muy cerca de 2.5, ¿no?
+
+00:04:28.010 --> 00:04:32.049
+Mientras que aquí, sí, su media es 2,5,
+
+00:04:32.049 --> 00:04:34.066
+pero están más lejos de 2,5.
+
+00:04:34.066 --> 00:04:40.012
+Las distancias de cada uno estos números, de cada uno
+
+00:04:40.012 --> 00:04:42.064
+de los númeors en el conjunto, su distancia
+
+00:04:42.064 --> 00:04:43.077
+a la media es mayor.
+
+00:04:43.077 --> 00:04:45.097
+Ustedes pueden ver que están más dispersos,
+
+00:04:45.097 --> 00:04:47.038
+están más lejos de la media.
+
+00:04:47.038 --> 00:04:50.049
+Otra forma de verlo es que, la media, aunque
+
+00:04:50.049 --> 00:04:54.074
+mide una tendencia central, no es tan descriptiva
+
+00:04:54.074 --> 00:04:55.048
+de todos los números.
+
+00:04:55.048 --> 00:04:58.074
+Los medios está mucho más lejos de la media.
+
+00:04:58.074 --> 00:05:00.023
+¿Y cómo se mide eso?
+
+00:05:00.023 --> 00:05:02.083
+Pues se mide con la varianza.
+
+00:05:02.083 --> 00:05:07.016
+Esto es algo que parece complicado
+
+00:05:07.016 --> 00:05:08.018
+la primera vez que lo ven.
+
+00:05:08.018 --> 00:05:11.087
+Y la mayoría de los libros de estadística usan una notación bastante compleja.
+
+00:05:11.087 --> 00:05:15.050
+Pero el concepto es casi tan simple como
+
+00:05:15.050 --> 00:05:17.049
+la media aritmética.
+
+00:05:17.049 --> 00:05:19.082
+Lo que hacen es escribir la varianza,
+
+00:05:19.082 --> 00:05:22.049
+y lo hacen con la letra sigma, esta letra griega.
+
+00:05:22.049 --> 00:05:23.061
+Hice la parte superior demasiado grande.
+
+00:05:23.061 --> 00:05:25.048
+Dejen que lo rehaga.
+
+00:05:25.048 --> 00:05:27.053
+No quiero que pasen el resto de su vida
+
+00:05:27.053 --> 00:05:29.000
+escribiendo con la parte de arriba demasiado grande.
+
+00:05:29.000 --> 00:05:31.018
+Lo escriben como sigma al cuadrado.
+
+00:05:31.018 --> 00:05:34.006
+Y luego hablaremos de por qué se escribe así.
+
+00:05:34.006 --> 00:05:36.006
+¿Por qué no escriben simplemente v de varianza?
+
+00:05:36.006 --> 00:05:38.016
+¿Por que escriben esta letra rara al cuadrado?
+
+00:05:38.016 --> 00:05:40.056
+Hablaré de eso en un momento.
+
+00:05:40.056 --> 00:05:43.068
+La varianza de una población se define --y esto es
+
+00:05:43.068 --> 00:05:46.055
+una abstracción hecha por el hombre
+
+00:05:46.055 --> 00:05:49.033
+para manejar datos--
+
+00:05:49.033 --> 00:05:52.025
+Ser capaces de describir un conjunto de datos sin tener
+
+00:05:52.025 --> 00:05:55.022
+que poner todos los números, y ser capaces de entender
+
+00:05:55.022 --> 00:05:58.020
+qué representan esos datos, qué pueden representar esos datos.
+
+00:05:58.020 --> 00:06:05.081
+Así que lo que hay que hacer es tomar la suma, y comienzan
+
+00:06:05.081 --> 00:06:08.031
+con todos los datos de la población.
+
+00:06:08.031 --> 00:06:11.076
+Pero en vez de tomar la suma de los elementos, toman
+
+00:06:11.076 --> 00:06:17.064
+cada elemento, x sub i, y le restan --y es igual si le restan
+
+00:06:17.064 --> 00:06:19.023
+o si lo restan de-- la media, la media,
+
+00:06:19.023 --> 00:06:23.031
+la media de la población.
+
+00:06:23.031 --> 00:06:25.052
+Y lo elevan al cuadrado.
+
+00:06:25.052 --> 00:06:26.032
+¿Qué es esto?
+
+00:06:26.032 --> 00:06:30.051
+Es la distancia entre cada número y la media.
+
+00:06:30.051 --> 00:06:32.036
+Y cuando lo elevan al cuadrado, se vuelve siempre un número positivo.
+
+00:06:32.036 --> 00:06:35.048
+Así que lo pueden ver como la distancia en valor absoluto
+
+00:06:35.048 --> 00:06:38.029
+entre cada número y la media de ese conjunto.
+
+00:06:38.029 --> 00:06:41.041
+Y cuando toman la media de todos esos,
+
+00:06:41.041 --> 00:06:43.087
+y lo dividen por N.
+
+00:06:43.087 --> 00:06:46.031
+Puede parecer un concepto complicado, pero
+
+00:06:46.031 --> 00:06:49.049
+calculémoslo para estos dos grupos de datos.
+
+00:06:49.049 --> 00:06:51.067
+Dejen que vuelva a escribir el primer grupo de datos.
+
+00:06:51.067 --> 00:06:55.050
+Es 2, 2, 3 y 3.
+
+00:06:55.050 --> 00:06:58.061
+
+
+00:06:58.061 --> 00:06:59.074
+De hecho, dejen que lo escriba de esta manera.
+
+00:06:59.074 --> 00:07:03.082
+Esto ayudará a que se lo explique un poco mejor.
+
+00:07:03.082 --> 00:07:11.070
+Si yo escribo i --i1, i2, i3, i4.
+
+00:07:11.070 --> 00:07:13.037
+Eso es i.
+
+00:07:13.037 --> 00:07:16.033
+Entonces x sub i.
+
+00:07:16.033 --> 00:07:19.064
+Es algo arbitrario, es sólo como decir el primer elemento,
+
+00:07:19.064 --> 00:07:20.068
+el segundo elemento, el tercer elemento.
+
+00:07:20.068 --> 00:07:22.093
+Podría tomarlos en cualquier orden, no importa.
+
+00:07:22.093 --> 00:07:24.075
+Este podría ser el primer elemento y este el segundo
+
+00:07:24.075 --> 00:07:25.016
+y este el tercero.
+
+00:07:25.016 --> 00:07:26.056
+No importa, porque los vamos a sumar
+
+00:07:26.056 --> 00:07:28.001
+y luego dividirlos.
+
+00:07:28.001 --> 00:07:29.067
+Así que no importa en qué orden lo hagamos.
+
+00:07:29.067 --> 00:07:36.000
+En cualquier caos, x sub 1 es igual a 2.
+
+00:07:36.000 --> 00:07:39.043
+x sub 2 es igual a 2.
+
+00:07:39.043 --> 00:07:41.016
+x sub 3 es igual a 3.
+
+00:07:41.016 --> 00:07:45.006
+Dejaré escribir estos iguales, x sub 4 es igual a 3.
+
+00:07:45.006 --> 00:07:47.022
+¿Cuál es la media?
+
+00:07:47.022 --> 00:07:48.062
+Ya la calculamos antes.
+
+00:07:48.062 --> 00:07:52.055
+Tomamos estos números, los sumamso y los dividimos entre 4.
+
+00:07:52.055 --> 00:07:53.017
+La media es 2,5.
+
+00:07:53.017 --> 00:07:59.064
+
+
+00:07:59.064 --> 00:08:05.062
+¿Cuánto es x sub i menos la media?
+
+00:08:05.062 --> 00:08:07.036
+Vamos construyendo lentamente esta ecuación.
+
+00:08:07.036 --> 00:08:11.064
+¿Cuánto es x sub i menos la media?
+
+00:08:11.064 --> 00:08:15.041
+Bien, 2 menos 2,5, eso es menos 0,5.
+
+00:08:15.041 --> 00:08:19.036
+2 menos 2,5, eso es otra vez menos 0,5.
+
+00:08:19.036 --> 00:08:22.037
+3 menos 2,5, eso es 0,5.
+
+00:08:22.037 --> 00:08:25.026
+3 menos 2,5, eso es 0,5.
+
+00:08:25.026 --> 00:08:26.076
+Suficiente.
+
+00:08:26.076 --> 00:08:29.010
+Ahora hay que elevarlo al cuadrado.
+
+00:08:29.010 --> 00:08:34.053
+Así que x sub i menos la media, al cuadrado.
+
+00:08:34.053 --> 00:08:37.025
+Y hay otras propiedades de las que hablaremos luego, pero
+
+00:08:37.025 --> 00:08:40.036
+lo más importante que sucede al elevar al cuadrado
+
+00:08:40.036 --> 00:08:42.083
+--y con el valor absoluto hubiéramos conseguido lo mismo--
+
+00:08:42.083 --> 00:08:44.062
+elevar al cuadrado hace que todos los valores sean positivos.
+
+00:08:44.062 --> 00:08:49.057
+Así que menos 0,5 al cuadrado es 0,25 positivo.
+
+00:08:49.057 --> 00:08:51.090
+Esto es 0,25 positivo.
+
+00:08:51.090 --> 00:08:54.072
+Más 0,5 al cuadrado es también 0,25 positivo.
+
+00:08:54.072 --> 00:08:59.041
+Y esto es 0,25 positivo.
+
+00:08:59.041 --> 00:09:06.055
+Así que si queremos saber la suma de i igual a 1 hasta 4
+
+00:09:06.055 --> 00:09:10.091
+de x sub i menos la media, que es 2,5, al cuadrado.
+
+00:09:10.091 --> 00:09:13.062
+Esto es igual a la suma de todos estos números.
+
+00:09:13.062 --> 00:09:15.088
+Es simplemente sumar todos estos.
+
+00:09:15.088 --> 00:09:17.079
+Sumar todos estos 0,25.
+
+00:09:17.079 --> 00:09:19.074
+Lo que es igual a 1.
+
+00:09:19.074 --> 00:09:21.025
+Pero esto no es la varianza aún.
+
+00:09:21.025 --> 00:09:23.086
+La varianza es esto.
+
+00:09:23.086 --> 00:09:25.009
+Miremos la fórmula original.
+
+00:09:25.009 --> 00:09:27.009
+La varianza es esto dividido por número total
+
+00:09:27.009 --> 00:09:29.054
+de elementos que tienen.
+
+00:09:29.054 --> 00:09:31.000
+Así que toman esto.
+
+00:09:31.000 --> 00:09:35.065
+Y la varianza es igual a esto dividido entre el número total
+
+00:09:35.065 --> 00:09:37.071
+de elementos, que es 4.
+
+00:09:37.071 --> 00:09:40.013
+Y eso es igual a 0,25.
+
+00:09:40.013 --> 00:09:45.022
+Aquí pueden ver que la distancia de cada número
+
+00:09:45.022 --> 00:09:48.002
+al cuadrado era 0,25.
+
+00:09:48.002 --> 00:09:50.014
+Así que la media de todos estos --que es
+
+00:09:50.014 --> 00:09:54.012
+lo que es la varianza-- la media era también 0,25.
+
+00:09:54.012 --> 00:09:55.082
+Y haré otro ejemplo en el que estos son diferentes.
+
+00:09:55.082 --> 00:09:56.097
+El otro ejemplo en este vídeo,
+
+00:09:56.097 --> 00:09:57.085
+no son diferentes.
+
+00:09:57.085 --> 00:10:01.074
+Pero aquí pueden ver que la media de las distancias a la media al cuadrado
+
+00:10:01.074 --> 00:10:05.020
+en ese primer conjunto es 0,25.
+
+00:10:05.020 --> 00:10:09.010
+¿Y aquí cuál es la media de la distancia a la media al cuadrado?
+
+00:10:09.010 --> 00:10:10.041
+Veamos.
+
+00:10:10.041 --> 00:10:12.055
+¿Cómo de lejos está de la media?
+
+00:10:12.055 --> 00:10:20.060
+Escribiré x sub i, y luego x sub i menos
+
+00:10:20.060 --> 00:10:23.021
+la media, para esta población.
+
+00:10:23.021 --> 00:10:27.060
+Así que x sub i, es 0, otro 0, esto es un 5, y 5.
+
+00:10:27.060 --> 00:10:29.075
+Aquí está el primer término, x sub 1.
+
+00:10:29.075 --> 00:10:35.013
+x sub 1, esto es x sub 2, y así sucesivamente.
+
+00:10:35.013 --> 00:10:37.062
+Y entonces cada uno de estos números menos --0 mnos,
+
+00:10:37.062 --> 00:10:39.069
+eso es menos 2,5.
+
+00:10:39.069 --> 00:10:43.049
+0 menos 2,5 --esto sería 2,5, ¿no?
+
+00:10:43.049 --> 00:10:44.062
+Eso es la media.
+
+00:10:44.062 --> 00:10:51.033
+Es menos 2,5, 5 menos 2,5 es 2,5, 5 menos 2,5 es 2,5.
+
+00:10:51.033 --> 00:10:56.042
+Ahora, si toman x sub i menos la media, al cuadrado,
+
+00:10:56.042 --> 00:10:58.052
+¿cuánto es 2,5 al cuadrado?
+
+00:10:58.052 --> 00:11:00.024
+6,25 y se vuelve positivo.
+
+00:11:00.024 --> 00:11:02.012
+Así que 6,25.
+
+00:11:02.012 --> 00:11:05.024
+Esto es igual, 6,25.
+
+00:11:05.024 --> 00:11:06.021
+Y ya es positivo.
+
+00:11:06.021 --> 00:11:10.038
+Así que 6,25, 6,25.
+
+00:11:10.038 --> 00:11:14.009
+Así que la varianza es la suma de todos estos divididos por
+
+00:11:14.009 --> 00:11:16.096
+el número total de elementos que hay.
+
+00:11:16.096 --> 00:11:18.016
+Así que tomamos la suma de todos ellos.
+
+00:11:18.016 --> 00:11:19.021
+Es simplemente la media de estos.
+
+00:11:19.021 --> 00:11:21.007
+Y eso es fácil de calcular.
+
+00:11:21.007 --> 00:11:22.057
+Si los suman y los dividen por 4,
+
+00:11:22.057 --> 00:11:24.062
+les saldrá 6,25.
+
+00:11:24.062 --> 00:11:28.025
+Así que la varianza de esta población es 6,25.
+
+00:11:28.025 --> 00:11:29.008
+Ahí lo tienen.
+
+00:11:29.008 --> 00:11:32.058
+Tienen dos grupos de datos cuyas medias son iguales,
+
+00:11:32.058 --> 00:11:36.027
+pero la varianza de este grupo calculamos que era
+
+00:11:36.027 --> 00:11:44.087
+0,25, mientras que la varianza de este grupo es 6,25.
+
+00:11:44.087 --> 00:11:48.035
+Ahora mismo es difícil intuir que significa este 6,25
+
+00:11:48.035 --> 00:11:52.019
+frente al 0,25, pero saben que este es un número mucho
+
+00:11:52.019 --> 00:11:54.098
+mayor que este otro.
+
+00:11:54.098 --> 00:11:58.062
+Lo que intuitivamente podemos interpretar
+
+00:11:58.062 --> 00:12:01.090
+como que los números de este conjunto están más lejos
+
+00:12:01.090 --> 00:12:04.041
+de la media que los números de este conjunto.
+
+00:12:04.041 --> 00:12:05.064
+No me queda tiempo.
+
+00:12:05.064 --> 00:12:06.049
+Les veré en el próximo vídeo.
+
+00:12:06.049 --> 00:12:09.092
+Y hablaremos un poco de esto y pasaremos
+
+00:12:09.092 --> 00:12:11.099
+a la desviación típica y lo que ocurre si tomanos esto de una
+
+00:12:11.099 --> 00:12:14.054
+muestra en vez de de la población.
+
+00:12:14.054 --> 00:12:16.089
+Todo lo que estamos haciendo aquí lo estamos haciendo
+
+00:12:16.089 --> 00:12:18.088
+tomando media y la varianza de todos los números del conjunto.
+
+00:12:18.088 --> 00:12:20.011
+Después lo haremos para una muestra.
+
+00:12:20.011 --> 00:12:21.061
+Hasta pronto.

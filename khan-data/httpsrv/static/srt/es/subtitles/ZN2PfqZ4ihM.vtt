@@ -1,0 +1,765 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.680
+Comienzo
+
+00:00:00.680 --> 00:00:03.280
+Ahora vamos a hacer un otro integral triple y en esté yo
+
+00:00:03.280 --> 00:00:05.300
+no voy a evaluar el integral triple
+
+00:00:05.300 --> 00:00:08.860
+Pero lo que vamos a hacer es definir el integral triple.
+
+00:00:08.860 --> 00:00:10.310
+Vamos a hacer algo similar a lo que hicimos en el
+
+00:00:10.310 --> 00:00:12.500
+segundo video, en el cual encontramos la masa
+
+00:00:12.500 --> 00:00:13.670
+usando la función de densidad.
+
+00:00:13.670 --> 00:00:16.380
+Pero lo que quiero hacer en este video es mostrarles como establecer
+
+00:00:16.380 --> 00:00:18.010
+los limites cuando la figura es un poco
+
+00:00:18.010 --> 00:00:19.010
+mas complicada
+
+00:00:19.010 --> 00:00:21.350
+Y si tenemos tiempo intentaremos hacerlo si cambiamos
+
+00:00:21.350 --> 00:00:22.470
+el orden de integración
+
+00:00:22.470 --> 00:00:26.090
+Ahora pretendamos que tengo la superficie -- dejenme inventar algo
+
+00:00:26.090 --> 00:00:39.340
+2x mas 3z mas y es igual a 6.
+
+00:00:39.340 --> 00:00:41.516
+Vamos a dibujar esa superficie.
+
+00:00:41.516 --> 00:00:43.070
+Es algo como esto.
+
+00:00:43.070 --> 00:00:46.720
+Esta será mi eje de x.
+
+00:00:46.720 --> 00:00:49.580
+Esta va a ser mi eje de z.
+
+00:00:49.580 --> 00:00:50.860
+Esta va a ser mi eje de y.
+
+00:00:50.860 --> 00:00:53.910
+Silencio
+
+00:00:53.910 --> 00:00:56.694
+Dibujenlos.
+
+00:00:56.694 --> 00:00:59.990
+X, Y, y Z.
+
+00:00:59.990 --> 00:01:03.600
+y me importa la superficie siendo un octante positivo
+
+00:01:03.600 --> 00:01:04.970
+debido a que cuando tratamos con tridimensionales
+
+00:01:04.970 --> 00:01:06.840
+en lugar de cuatro cuadrantes tenemos
+
+00:01:06.840 --> 00:01:07.380
+ocho octantes.
+
+00:01:07.380 --> 00:01:10.280
+Pero queremos el octante donde todo X, Y, Z sean positivas
+
+00:01:10.280 --> 00:01:11.780
+que es el que acabo de dibujar aquí.
+
+00:01:11.780 --> 00:01:14.740
+Así que veamos, dejenme dibujar algunos - Cual es el intercepto de x?
+
+00:01:14.740 --> 00:01:17.440
+Cuando Y y Z son 0, así lo escribiremos aqui,
+
+00:01:17.440 --> 00:01:18.860
+este es el intercepto en x.
+
+00:01:18.860 --> 00:01:21.880
+2x es igual a 6, asi que x es igual a 3.
+
+00:01:21.880 --> 00:01:25.070
+Asi que 1, 2, 3.
+
+00:01:25.070 --> 00:01:26.910
+Asi que este es el intercepto de x.
+
+00:01:26.910 --> 00:01:30.880
+El intercepto de y cuando x y z son 0 esta en el eje de y,
+
+00:01:30.880 --> 00:01:32.470
+Asi que Y será igual a 6
+
+00:01:32.470 --> 00:01:41.000
+Asi que tenemos 1, 2, 3, 4, 5, 6 es el intercepto de y.
+
+00:01:41.000 --> 00:01:44.160
+Finalmente, el intercepto de z cuando x y y son 0
+
+00:01:44.160 --> 00:01:45.140
+Estamos en el eje de z.
+
+00:01:45.140 --> 00:01:47.620
+3z es igual a 6.
+
+00:01:47.620 --> 00:01:51.240
+Asi que z es igual a 1, 2.
+
+00:01:51.240 --> 00:01:55.880
+Asi que al figura que me importa se vera algo como
+
+00:01:55.880 --> 00:02:02.730
+esto - es una superficie inclinada.
+
+00:02:02.730 --> 00:02:06.150
+Se va a ver algo como esto.
+
+00:02:06.150 --> 00:02:08.740
+En el octante positivo.
+
+00:02:08.740 --> 00:02:11.070
+Asi que la superficie esta definida por esta funcion.
+
+00:02:11.070 --> 00:02:13.545
+Vamos a decir que me importa el volumen y voy a
+
+00:02:13.545 --> 00:02:15.540
+hacerlo un poco mas complicado.
+
+00:02:15.540 --> 00:02:17.320
+Podriamos decir que este es el volumen entre la
+
+00:02:17.320 --> 00:02:19.170
+superficie y el plano xy.
+
+00:02:19.170 --> 00:02:20.710
+Pero lo voy a hacer un poco mas complicado.
+
+00:02:20.710 --> 00:02:24.440
+Vamos a decir el volumen sobre esta superficie y
+
+00:02:24.440 --> 00:02:28.530
+la superficie z igual a 2.
+
+00:02:28.530 --> 00:02:32.830
+Asi que el volumen que nos importa se va a ver
+
+00:02:32.830 --> 00:02:33.690
+algo como esto.
+
+00:02:33.690 --> 00:02:37.345
+Deja ver si puedo dibujar esto.
+
+00:02:37.345 --> 00:02:46.130
+Si nos movemos 2 hacia arriba - deja dibujar el tope en otro
+
+00:02:46.130 --> 00:02:49.430
+color, deja dibujar el tope verde.
+
+00:02:49.430 --> 00:02:53.530
+Asi que esto es en el plano zy.
+
+00:02:53.530 --> 00:02:56.270
+Y la otra orilla va a lucir
+
+00:02:56.270 --> 00:02:58.636
+algo como esto.
+
+00:02:58.636 --> 00:03:02.110
+Dejame estar seguro que lo puedo dibujar- esta es la parte mas dificil.
+
+00:03:02.110 --> 00:03:06.350
+Nos movemos 2 hacia arriba aqui, en el plano zx.
+
+00:03:06.350 --> 00:03:08.970
+Silencio
+
+00:03:08.970 --> 00:03:10.930
+Y tenemos otra linea conectando estos dos.
+
+00:03:10.930 --> 00:03:13.740
+Silencio
+
+00:03:13.740 --> 00:03:16.150
+Este triangulo verde que es parte
+
+00:03:16.150 --> 00:03:18.180
+del plano z es igual a 2.
+
+00:03:18.180 --> 00:03:21.700
+Silencio
+
+00:03:21.700 --> 00:03:25.450
+El volumen que nos importa es el volumen entre este plan superior verde
+
+00:03:25.450 --> 00:03:29.540
+y este plano inclinado definido por 2x mas 3z
+
+00:03:29.540 --> 00:03:31.100
+mas y igual a 6.
+
+00:03:31.100 --> 00:03:32.530
+Esta area entre medio.
+
+00:03:32.530 --> 00:03:34.780
+Deja ver si puedo hacerlo mas claro.
+
+00:03:34.780 --> 00:03:37.750
+Ya que la visualizacion, como yo digo, es la parte mas dificil.
+
+00:03:37.750 --> 00:03:42.590
+Asi que tenemos como una pared frontal aqui y la pared de atras
+
+00:03:42.590 --> 00:03:46.660
+seria esta pared que esta aca y entonces habria
+
+00:03:46.660 --> 00:03:50.020
+otra pared aca.
+
+00:03:50.020 --> 00:03:53.250
+Y entonces la base, que voy a hacer en color magenta
+
+00:03:53.250 --> 00:03:55.330
+seria este plano.
+
+00:03:55.330 --> 00:03:59.140
+Asi que la base que es este plano - seria la parte de abajo.
+
+00:03:59.140 --> 00:04:01.190
+Comoquiera, no se si lo debi haber hecho tan complicado
+
+00:04:01.190 --> 00:04:04.120
+porque vamos a tener que dibujar dv y d volumen encima.
+
+00:04:04.120 --> 00:04:06.830
+Comoquiera, trataremos lo mejor que podamos.
+
+00:04:06.830 --> 00:04:10.130
+Asi que si vamos a averiguar el volumen - y como
+
+00:04:10.130 --> 00:04:12.230
+estamos haciendo un triple integral y queremos demostrar
+
+00:04:12.230 --> 00:04:14.630
+que tenemos que hacer el triple integral en vez de hacer el volumen,
+
+00:04:14.630 --> 00:04:18.730
+vamos a hacer la masa de algo de densidad variable.
+
+00:04:18.730 --> 00:04:22.700
+Asi que digamos que la densidad en este volumen que nos importa,
+
+00:04:22.700 --> 00:04:27.240
+es una funcion de x, y y z.
+
+00:04:27.240 --> 00:04:28.220
+Puede ser cualquier cosa.
+
+00:04:28.220 --> 00:04:29.770
+Ese no es el punto que estoy tratando de ensenar aca.
+
+00:04:29.770 --> 00:04:30.860
+Pero voy a definir algo.
+
+00:04:30.860 --> 00:04:33.820
+Digamos que es x al cuadrado por yz.
+
+00:04:33.820 --> 00:04:36.080
+Nuestro enfoque es en plantear los integrales.
+
+00:04:36.080 --> 00:04:39.130
+Asiq uqe lo primero que me gustaria hacer es visualizar - lo que vamos a hacer es
+
+00:04:39.130 --> 00:04:42.080
+poner un pequeno cubo
+
+00:04:42.080 --> 00:04:43.410
+en el volumen que estamos considerando.
+
+00:04:43.410 --> 00:04:46.750
+Asi que si tenemos - deja dibujarlo en un color brillante para que puedan
+
+00:04:46.750 --> 00:04:51.565
+verlo- asi que si tengo un cubo- quizas lo hago marron,
+
+00:04:51.565 --> 00:04:53.400
+no es tan brillante pero es diferente de
+
+00:04:53.400 --> 00:04:54.590
+los otros colores.
+
+00:04:54.590 --> 00:05:00.810
+Asi que si tuviera un pequeno cubo en el volumen que estamos considerando
+
+00:05:00.810 --> 00:05:06.480
+ese pequeno cubo lo vamos a considerar dv.
+
+00:05:06.480 --> 00:05:09.840
+El volumen de ese cubo es como un diferencialde volumen.
+
+00:05:09.840 --> 00:05:13.470
+Y eso es igual a dx - no perdon, ese es dy.
+
+00:05:13.470 --> 00:05:16.760
+Dejame hacer esto en amarillo o verde mejor.
+
+00:05:16.760 --> 00:05:19.820
+Entonces dy, ese.
+
+00:05:19.820 --> 00:05:24.370
+dy multiplicado por dx, dx multiplicado por dz.
+
+00:05:24.370 --> 00:05:27.420
+Eso es el volumen de eso cubito.
+
+00:05:27.420 --> 00:05:29.520
+Y si quisieramos saber la masa de eso cubito, nosotros
+
+00:05:29.520 --> 00:05:33.650
+multiplicaríamos el función de densidad en eso punto por ese dv.
+
+00:05:33.650 --> 00:05:36.810
+Entonces la masa, pudieras llamarla d -- no se, dm.
+
+00:05:36.810 --> 00:05:41.270
+La masa diferencial (dm) es igual a eso multiplicado por eso
+
+00:05:41.270 --> 00:05:46.230
+Entonces x al cuadrado yz multiplicado por ese.
+
+00:05:46.230 --> 00:05:48.610
+dx, dy, y dz.
+
+00:05:48.610 --> 00:05:51.850
+Y normalmente cambiamos el orden de ese, dependiente en que
+
+00:05:51.850 --> 00:05:53.650
+vamos a integrar con respecto en primero para que
+
+00:05:53.650 --> 00:05:54.910
+no nos confundimos.
+
+00:05:54.910 --> 00:05:56.210
+Pues tratamos hacer ese:
+
+00:05:56.210 --> 00:05:57.430
+Vamos a tratar a construir ese integral.
+
+00:05:57.430 --> 00:05:58.900
+Vamos hacer tradicionalmente.
+
+00:05:58.900 --> 00:06:01.250
+En los ultimos integrales hicimos nosotros hicimos la integral
+
+00:06:01.250 --> 00:06:03.770
+con respeto a z por primero
+
+00:06:03.770 --> 00:06:04.580
+Vamo a hacer eso.
+
+00:06:04.580 --> 00:06:07.155
+Vamos a integrar con respeto a z por primero, entonces
+
+00:06:07.155 --> 00:06:11.750
+vamos a tomar ese cubo y sumar todos
+
+00:06:11.750 --> 00:06:13.280
+cubitos en el eje Z
+
+00:06:13.280 --> 00:06:16.130
+Arriba y abajo por primero, ¿no?
+
+00:06:16.130 --> 00:06:18.500
+Si lo hagamos en ese manera, ¿que es la frontera de abajo?
+
+00:06:18.500 --> 00:06:23.430
+¿Que es la frontera de abajo?
+
+00:06:23.430 --> 00:06:25.890
+Cuando sumas arriba y abajo, estos cubitos van a
+
+00:06:25.890 --> 00:06:27.460
+cambiar a columnas, ¿correcto?
+
+00:06:27.460 --> 00:06:30.620
+¿Que es la parte de abajo de la columna, la frontera de abajo?
+
+00:06:30.620 --> 00:06:31.700
+¿Que es la superficie?
+
+00:06:31.700 --> 00:06:33.970
+Es la superficie definido aqui
+
+00:06:33.970 --> 00:06:37.740
+Si queramos esa frontera de abajo definido en términos de
+
+00:06:37.740 --> 00:06:39.800
+z, simplemente tenemos que encontrar la solución en términos de z.
+
+00:06:39.800 --> 00:06:40.880
+Vamos a restar.
+
+00:06:40.880 --> 00:06:41.950
+¿Que recibimos?
+
+00:06:41.950 --> 00:06:46.210
+Si queramos eso definido in términos de z, recibimos 3z es
+
+00:06:46.210 --> 00:06:51.160
+igual a 6 menos 2x menos y.
+
+00:06:51.160 --> 00:06:57.900
+O, z es igual 2 menos (2/3)x menos y dividido por 3
+
+00:06:57.900 --> 00:06:59.380
+Ese es la misma cosa que eso.
+
+00:06:59.380 --> 00:07:02.385
+Pero cuando hablamos sobre z, explícitamente definiendo una
+
+00:07:02.385 --> 00:07:05.070
+z, encontramos como eso, manipulado con álgebra.
+
+00:07:05.070 --> 00:07:07.740
+La frontera de abajo -- y pueden visualizarla, ¿no?
+
+00:07:07.740 --> 00:07:09.670
+La frontera abajo de esas columnas van arriba y abajo
+
+00:07:09.670 --> 00:07:11.490
+Vamos a sumar todas las columnas en las direcciónes arriba
+
+00:07:11.490 --> 00:07:12.200
+y abajo, ¿correcto?
+
+00:07:12.200 --> 00:07:13.680
+Pueden imaginar sumandolas.
+
+00:07:13.680 --> 00:07:18.020
+La frontera abajo es ese superficie
+
+00:07:18.020 --> 00:07:25.860
+z es igual a 2 menos (2/3)x menos y dividido por 3.
+
+00:07:25.860 --> 00:07:26.840
+Entonces ¿que es la frontera de arriba?
+
+00:07:26.840 --> 00:07:29.440
+Pues, la superficie arriba de le columna estará es plano
+
+00:07:29.440 --> 00:07:31.610
+verde, y ¿que dijimos del plano verde?
+
+00:07:31.610 --> 00:07:33.110
+Fue que z es igual a 2.
+
+00:07:33.110 --> 00:07:36.130
+z es igual a 2.
+
+00:07:36.130 --> 00:07:37.890
+Este plano, este superficie exactamente aqui.
+
+00:07:37.890 --> 00:07:40.970
+z is igual a 2.
+
+00:07:40.970 --> 00:07:43.690
+Y, por supuesto, ¿que es el volumen de esa columna?
+
+00:07:43.690 --> 00:07:49.500
+Pues, estará la función de densidad, x al cuadrado yz
+
+00:07:49.500 --> 00:07:52.820
+multiplicado por el diferencial de volumen, pero integramos
+
+00:07:52.820 --> 00:07:54.005
+con respeto a z por primero.
+
+00:07:54.005 --> 00:07:57.020
+Déjame escribir dz allí.
+
+00:07:57.020 --> 00:08:00.950
+No sé, digamos que queremos integrar con respecto a--
+
+00:08:00.950 --> 00:08:02.450
+No sé, queremos integrar con respeto
+
+00:08:02.450 --> 00:08:03.540
+a x para el próximo.
+
+00:08:03.540 --> 00:08:05.030
+En el último par de videos, integrado
+
+00:08:05.030 --> 00:08:05.930
+con respecto a y siguiente.
+
+00:08:05.930 --> 00:08:08.880
+Así que vamos a hacer x sólo para demostrar realmente no importa.
+
+00:08:08.880 --> 00:08:11.650
+Así que vamos a integrar con respecto a x.
+
+00:08:11.650 --> 00:08:13.760
+¿Así, ahora tenemos estas columnas, correctas?
+
+00:08:13.760 --> 00:08:15.920
+Cuando integramos con respecto a z, obtenemos el volumen de cada uno
+
+00:08:15.920 --> 00:08:19.060
+de estas columnas donde el límite superior es en ese plano.
+
+00:08:19.060 --> 00:08:22.220
+Vamos a ver si yo puedo dibujar decentemente.
+
+00:08:22.220 --> 00:08:24.570
+El límite superior es ese plano.
+
+00:08:24.570 --> 00:08:27.810
+El límite inferior es esta superficie.
+
+00:08:27.810 --> 00:08:29.560
+Ahora queremos integrar con respecto a x.
+
+00:08:29.560 --> 00:08:32.720
+Así que vamos a sumar todos los dx.
+
+00:08:32.720 --> 00:08:36.620
+¿Cuál es el límite inferior para la x?
+
+00:08:36.620 --> 00:08:41.620
+Pues bien, esta superficie se define completamente al--volumen
+
+00:08:41.620 --> 00:08:44.590
+bajo la pregunta se define todo el camino hasta que x es igual a 0.
+
+00:08:44.590 --> 00:08:48.110
+Y si se confunde, y no es tan difícil conseguir
+
+00:08:48.110 --> 00:08:50.260
+confundido cuando está imaginando estas cosas tridimensionales,
+
+00:08:50.260 --> 00:08:52.910
+decir sabes qué, ya hemos integrado con respecto a z.
+
+00:08:52.910 --> 00:08:55.530
+Las dos variables que me quedan son x e y.
+
+00:08:55.530 --> 00:08:59.530
+Permítanme llamar la proyección de nuestro volumen sobre el plano xy,
+
+00:08:59.530 --> 00:09:01.300
+¿y lo se parece al?
+
+00:09:01.300 --> 00:09:02.350
+Así lo haré.
+
+00:09:02.350 --> 00:09:04.900
+Ya que realmente ayudan a simplificar las cosas.
+
+00:09:04.900 --> 00:09:07.550
+Así que si nos retuerza, si tomamos este y voltear hacia afuera como
+
+00:09:07.550 --> 00:09:11.570
+eso y x que vamos a llegar en especie de la manera tradicional
+
+00:09:11.570 --> 00:09:14.664
+que aprendimos cuando nos enteramos primero álgebra.
+
+00:09:14.664 --> 00:09:15.600
+El eje xy.
+
+00:09:18.745 --> 00:09:21.900
+Así que esto es x, y se trata.
+
+00:09:21.900 --> 00:09:24.510
+Y este punto es ¿qué?
+
+00:09:24.510 --> 00:09:25.300
+¿O este punto?
+
+00:09:25.300 --> 00:09:25.660
+¿Qué es eso?
+
+00:09:25.660 --> 00:09:28.060
+Que x es igual a 3.
+
+00:09:28.060 --> 00:09:30.710
+Así que es de 1, 2, 3.
+
+00:09:30.710 --> 00:09:31.600
+Que x es igual a 3.
+
+00:09:31.600 --> 00:09:33.930
+Y este punto aquí y es igual a 6.
+
+00:09:33.930 --> 00:09:39.200
+Por lo tanto 1, 2, 3, 4, 5, 6.
+
+00:09:39.200 --> 00:09:43.900
+Así sucesivamente el eje xy, tipo del dominio--también se puede ver que
+
+00:09:43.900 --> 00:09:46.360
+--se ve algo así.
+
+00:09:46.360 --> 00:09:50.540
+Es así que una forma de pensar que nosotros hemos averiguado si estas
+
+00:09:50.540 --> 00:09:55.000
+columnas--hemos integrado arriba/abajo o a lo largo del eje z.
+
+00:09:55.000 --> 00:09:58.790
+Pero cuando lo ve mirando directamente hacia abajo sobre la misma, eres
+
+00:09:58.790 --> 00:10:01.350
+buscando en el plano xy, cada una de nuestras columnas van a
+
+00:10:01.350 --> 00:10:06.100
+mira como este donde la columna va a pop out out
+
+00:10:06.100 --> 00:10:07.320
+de la pantalla en la dirección z.
+
+00:10:07.320 --> 00:10:10.760
+Pero la base de cada columna va a dx, y
+
+00:10:10.760 --> 00:10:13.040
+¿entonces dy arriba y abajo, a la derecha?
+
+00:10:13.040 --> 00:10:15.800
+Así que decidimos integrar a continuación con respecto a x.
+
+00:10:15.800 --> 00:10:18.520
+Así que vamos a sumar cada una de esas columnas en el
+
+00:10:18.520 --> 00:10:20.860
+x dirección, en sentido horizontal.
+
+00:10:20.860 --> 00:10:23.140
+Así que la pregunta era ¿cuál es el límite inferior?
+
+00:10:23.140 --> 00:10:24.880
+¿Cuál es el límite inferior en la dirección x?
+
+00:10:24.880 --> 00:10:26.680
+Bueno, la x es igual a 0.
+
+00:10:26.680 --> 00:10:30.400
+Si hubo una línea aquí, entonces probablemente sería esa línea
+
+00:10:30.400 --> 00:10:34.740
+como una función de y, o definitivamente como una función de y.
+
+00:10:34.740 --> 00:10:38.800
+Por lo que es nuestro fondo enlazado aquí x es igual a 0.
+
+00:10:38.800 --> 00:10:39.620
+¿Cuál es nuestra parte superior bound?
+
+00:10:39.620 --> 00:10:41.340
+Me doy cuenta de que ya estoy impulsando.
+
+00:10:41.340 --> 00:10:43.490
+Bueno, nuestros principales enlazado es esta relación, pero tiene que
+
+00:10:43.490 --> 00:10:46.100
+¿ser en términos de x, correcto?
+
+00:10:46.100 --> 00:10:46.980
+¿Cuál es esta relación.
+
+00:10:46.980 --> 00:10:50.230
+Así, usted podría verlo como tipo de decir bueno, si z es igual
+
+00:10:50.230 --> 00:10:51.840
+0, ¿cuál es esta línea?
+
+00:10:51.840 --> 00:10:52.770
+¿Qué es esta línea aquí?
+
+00:10:52.770 --> 00:10:53.910
+Por lo tanto z es igual a 0.
+
+00:10:53.910 --> 00:10:57.390
+Tenemos x 2 plus y es igual a 6.
+
+00:10:57.390 --> 00:10:59.590
+Queremos que la relación en términos de x.
+
+00:10:59.590 --> 00:11:04.130
+Así obtenemos x 2 es igual a 6 menos y donde x es igual
+
+00:11:04.130 --> 00:11:06.220
+3 menos y más de 2 años.
+
+00:11:11.130 --> 00:11:13.500
+Y entonces finalmente vamos a integrar con respecto a y.
+
+00:11:13.500 --> 00:11:16.130
+Y esta es la parte fácil.
+
+00:11:16.130 --> 00:11:20.530
+Así que hemos integrado arriba y abajo para obtener una columna.
+
+00:11:20.530 --> 00:11:23.150
+Estas son las bases de la columna, por lo que hemos integrado
+
+00:11:23.150 --> 00:11:24.000
+en la dirección x.
+
+00:11:24.000 --> 00:11:26.480
+Ahora sólo tenemos que ir hacia arriba y hacia abajo con respecto a y, o en
+
+00:11:26.480 --> 00:11:28.350
+el plano xy con respecto a y.
+
+00:11:28.350 --> 00:11:29.970
+¿Cuál es el límite inferior y?
+
+00:11:29.970 --> 00:11:31.060
+Bueno, es 0.
+
+00:11:31.060 --> 00:11:32.650
+y es igual a 0.
+
+00:11:32.650 --> 00:11:35.660
+Y el límite superior y es igual a 6.
+
+00:11:35.660 --> 00:11:36.540
+Y ahí lo tienen.
+
+00:11:36.540 --> 00:11:38.730
+Hemos establecido la integral y ahora es sólo una cuestión
+
+00:11:38.730 --> 00:11:41.590
+de púlsalo mecánicamente a través de ella.
+
+00:11:41.590 --> 00:11:43.120
+Pero me he quedado sin tiempo y no quiero que este
+
+00:11:43.120 --> 00:11:44.660
+video sea rechazado
+
+00:11:44.660 --> 00:11:45.870
+Asi que los dejare con esto.
+
+00:11:45.870 --> 00:11:47.760
+Nos vemos en el proximo video

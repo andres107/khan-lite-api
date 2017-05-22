@@ -1,0 +1,87 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:01.513
+Supongamos que debemos averiguar
+
+00:00:01.513 --> 00:00:05.478
+cuantas veces cabe el 16 en 1.388.
+
+00:00:05.478 --> 00:00:07.660
+Y lo primero que quiero hacer es pensar en cómo resolveríamos
+
+00:00:07.660 --> 00:00:13.555
+normalmente un problema como éste, y después quiero presentar otro método que permite una aproximación un poco mejor.
+
+00:00:13.555 --> 00:00:17.807
+Normalmente diríamos: 16 no cabe una sola vez en 1,
+
+00:00:17.807 --> 00:00:21.146
+por lo tanto consideremos la próxima cifra: ¿cuantas veces cabe en 13?
+
+00:00:21.146 --> 00:00:25.079
+Pero tampoco cabe en 13, y entonces avanzamos hasta el 138.
+
+00:00:25.079 --> 00:00:29.008
+Entonces diríamos: bueno, 13 cabe en 138, pero ¿cuántas veces cabe el 16 en 138?
+
+00:00:29.008 --> 00:00:34.663
+Podríamos intentar con el 9 primero, y ahora escribiré mis cuentas a la
+
+00:00:34.663 --> 00:00:48.823
+derecha. Entonces tal vez decimos 16 multiplicado por 9... 6 veces 9 son 54, 1 vez 9 es 9,
+
+00:00:48.823 --> 00:00:57.163
+9 mas 5 es 14, así que el resultado es 144, que es más grande que 138.
+
+00:00:57.163 --> 00:01:01.481
+Entonces cabrá 8 veces, 16 veces 8 serán menos que 138,
+
+00:01:01.481 --> 00:01:04.740
+así que pondremos un 8 aquí. Y noten que tuve que hacer esta prueba
+
+00:01:04.740 --> 00:01:09.477
+Para asegurarme de tener el número correcto, el 8 que escribí ahí. Y cuando decir 8
+
+00:01:09.477 --> 00:01:17.490
+multiplica por 6 es 48, y 8 veces 1 son 8, mas 4 es 12.
+
+00:01:17.490 --> 00:01:25.893
+Así que 8 veces 12 es 128, y al restarlo de 138, me da
+
+00:01:25.893 --> 00:01:30.062
+que 8 menos 8 es 0, 3 menos 2 es 1, y los unos se anulan entre sí.
+
+00:01:30.062 --> 00:01:33.852
+Por lo tanto el resto es 10, pero todavía me queda el 8, entonces lo muevo
+
+00:01:33.852 --> 00:01:37.063
+aquí abajo, y queda 108. Y ahora repito la cuenta que hice.
+
+00:01:37.063 --> 00:01:40.288
+Borraré esto para que no se distraigan. Veamos:
+
+00:01:40.288 --> 00:01:46.415
+¿cuántas veces cabe 16 en 108? Podemos aproximar y decir, bueno, seguro que no son 8 veces, porque 16 veces 8
+
+00:01:46.415 --> 00:01:50.647
+son 128. Tal vez sean 7 veces. Hagamos la cuenta:
+
+00:01:50.647 --> 00:02:04.270
+16 veces 7... 6 veces 7 son 42, 1 vez 7 es 7, mas 4 es 11, y nos da 112,
+
+00:02:04.270 --> 00:02:08.543
+que es demasiado grande. Tienen que ser 6 veces, pero noten que tuve que hacer estas cuentas
+
+00:02:08.543 --> 00:02:14.072
+para darme cuenta de que que no eran 7 veces, que 6 es el número más grande
+
+00:02:14.072 --> 00:02:22.402
+que cabe en 108 sin pasarse. Entonces: 6 veces 6 son 36, me llevo el 3,
+
+00:02:22.402 --> 00:02:30.126
+6 veces 1 son 6, mas 3 es 9, y restamos de nuevo:
+
+00:02:30.126 --> 00:02:36.295
+8 menos 6 es 2, y ahora restamos 9 de 10, que es 1, o podríamos tomar prestado

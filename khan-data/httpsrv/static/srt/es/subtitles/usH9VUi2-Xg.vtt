@@ -1,0 +1,543 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.385 --> 00:00:02.515
+Ahora que ojalá tenemos un entendimiento conceptual...
+
+00:00:02.515 --> 00:00:05.350
+...de lo que una integral de superficie como esta PUEDE representar,
+
+00:00:05.350 --> 00:00:08.073
+...quiero pensar acerca de cómo podemos de hecho construir...
+
+00:00:08.073 --> 00:00:10.009
+...un vector unitario...
+
+00:00:10.009 --> 00:00:13.669
+..un vector unitario normal, a cualquier punto de la superficie.
+
+00:00:13.669 --> 00:00:15.483
+Y para hacer eso, asumiré...
+
+00:00:15.483 --> 00:00:18.221
+...que nuestra superficie puede ser parametrizada...
+
+00:00:18.221 --> 00:00:21.282
+...por la función vectorial de posición, r...
+
+00:00:21.282 --> 00:00:23.432
+...y r es una función de dos parámetros.
+
+00:00:23.432 --> 00:00:27.569
+Es una función de u, y es una función de v.
+
+00:00:27.569 --> 00:00:29.529
+Tú me das una u y una v y...
+
+00:00:29.529 --> 00:00:31.489
+...eso esencialmente especificará...
+
+00:00:31.489 --> 00:00:35.002
+...un punto en esta superficie de dos dimensiones justo aquí.
+
+00:00:35.002 --> 00:00:37.931
+Puede ser doblado, así que digamos que existe en un espacio tridimensional...
+
+00:00:37.931 --> 00:00:42.738
+Pero una u y una v especificarán un punto dado en esta superficie.
+
+00:00:42.969 --> 00:00:46.865
+Ahora, pensemos acerca de como se ven las direcciones de r...
+
+00:00:46.865 --> 00:00:48.983
+...la parcial de r con respecto a...
+
+00:00:49.399 --> 00:00:52.188
+...cómo se ve la parcial de r con respecto a u.
+
+00:00:52.188 --> 00:00:54.524
+y cómo se ve la dirección de la parcial de r con respecto a v...
+
+00:00:54.524 --> 00:00:57.692
+...
+
+00:00:57.953 --> 00:00:59.989
+Así que digamos que estamos...
+
+00:00:59.989 --> 00:01:01.289
+...en algún punto
+
+00:01:01.828 --> 00:01:03.729
+Estamos en algún punto (u,v).
+
+00:01:03.729 --> 00:01:06.635
+Así que para algún (u,v), si encontráramos el vector de posición
+
+00:01:06.635 --> 00:01:09.457
+que nos lleva a ese punto en la superficie justo encima de ahí.
+
+00:01:09.457 --> 00:01:12.651
+Ahora, digamos que incrementamos u solo un poco
+
+00:01:12.651 --> 00:01:14.423
+y que conforme incrementamos u solo un poco,
+
+00:01:14.423 --> 00:01:16.655
+...vamos a tener otro punto en nuestra superficie,
+
+00:01:16.655 --> 00:01:18.417
+...y digamos que otro punto en la superficie...
+
+00:01:18.417 --> 00:01:19.461
+...está justamente ahí.
+
+00:01:19.630 --> 00:01:20.826
+Así que
+
+00:01:20.826 --> 00:01:23.121
+¿cómo se vería este vector r_u?
+
+00:01:23.121 --> 00:01:24.881
+Bueno, su magnitud esencialmente sería...
+
+00:01:24.881 --> 00:01:26.598
+dependiente de qué tan rápido está sucediendo.
+
+00:01:26.598 --> 00:01:28.929
+qué tan rápido nos estamos moviendo hacia ese punto,
+
+00:01:28.929 --> 00:01:31.261
+...pero su dirección va a estar en esa dirección.
+
+00:01:31.261 --> 00:01:32.806
+Va a estar dirigido hacia ese punto.
+
+00:01:32.806 --> 00:01:34.251
+Va a estar a lo largo de la superficie.
+
+00:01:34.251 --> 00:01:36.217
+Estamos yendo de un punto en la superficie a otro.
+
+00:01:36.217 --> 00:01:38.760
+Esencialmente va a ser tangente a la superficie en ese punto.
+
+00:01:38.760 --> 00:01:40.240
+Y podría dibujar un poco más grande.
+
+00:01:40.240 --> 00:01:42.181
+Se vería algo como esto.
+
+00:01:42.181 --> 00:01:45.057
+r_u
+
+00:01:45.057 --> 00:01:46.510
+Así que solo hice un acercamiento justo aquí.
+
+00:01:47.110 --> 00:01:49.003
+Ahora, volvamos a este punto.
+
+00:01:49.003 --> 00:01:51.585
+Y ahora hagamos v un poco más grande.
+
+00:01:51.585 --> 00:01:53.448
+Y digamos que si hacemos v un poco más grande,
+
+00:01:53.448 --> 00:01:55.101
+....vamos a este punto justo aquí.
+
+00:01:55.101 --> 00:01:58.625
+Así que entonces nuestro vector de posición, r, apuntaría a este punto.
+
+00:01:58.625 --> 00:02:00.970
+¿Y cómo se vería r_v?
+
+00:02:00.970 --> 00:02:02.817
+Bueno, su magnitud, una vez más, sería dependiente de...
+
+00:02:02.817 --> 00:02:05.634
+...qué tan rápido estamos yendo ahí, pero la dirección es lo que es interesante.
+
+00:02:05.634 --> 00:02:09.078
+La dirección sería tangencial a la superficie.
+
+00:02:09.078 --> 00:02:11.090
+Estamos yendo de un punto en la superficie a otro...
+
+00:02:11.090 --> 00:02:12.416
+...conforme cambiamos v.
+
+00:02:12.416 --> 00:02:15.356
+Así que r_v podría lucir algo como esto.
+
+00:02:16.579 --> 00:02:17.853
+Y ellos no necesariamente...
+
+00:02:17.853 --> 00:02:19.759
+Estos dos, no son necesariamente perpendicular uno al otro.
+
+00:02:19.759 --> 00:02:21.481
+De hecho, por la forma en la que los dibujé, no son perpendiculares.
+
+00:02:21.835 --> 00:02:25.869
+Así que r_v es como este, pero ambos son tangenciales al plano.
+
+00:02:25.869 --> 00:02:28.266
+Ambos nos están diciendo, esencialmente, justo en este punto,
+
+00:02:28.266 --> 00:02:31.139
+...¿cuál es la tangente? ¿Cuál es la pendiente en eso...
+
+00:02:31.139 --> 00:02:34.138
+...en la dirección de u, o en la dirección de v?
+
+00:02:34.138 --> 00:02:35.720
+Ahora, este es...
+
+00:02:35.720 --> 00:02:37.067
+Cuando tienes dos...
+
+00:02:37.067 --> 00:02:38.668
+Cuando tienes dos vectores que son...
+
+00:02:38.668 --> 00:02:40.267
+...que son tangenciales al plano,
+
+00:02:40.267 --> 00:02:42.125
+...y no son el mismo vector, estos de hecho...
+
+00:02:42.125 --> 00:02:43.435
+...ya están especificando...
+
+00:02:43.435 --> 00:02:45.784
+...estos están determinando un plano.
+
+00:02:45.784 --> 00:02:48.417
+Y entonces, puedes imaginar un plano que luce algo como esto.
+
+00:02:48.417 --> 00:02:50.868
+Si tomas combinaciones lineales de estas dos cosas,
+
+00:02:50.868 --> 00:02:54.099
+...tú obtendrías un plano en el que ambos yacería.
+
+00:02:54.099 --> 00:02:57.437
+Ahora, hemos hecho esto con anterioridad, pero lo revisaré.
+
+00:02:57.437 --> 00:02:59.669
+¿Qué pasa cuando como el producto cruz...
+
+00:02:59.669 --> 00:03:02.684
+de r_y y r_v?
+
+00:03:02.684 --> 00:03:05.673
+¿Qué pasa cuando cuando tomo el producto cruz?
+
+00:03:05.673 --> 00:03:08.573
+Bueno, primero, esto va a darnos otro vector.
+
+00:03:08.573 --> 00:03:10.384
+Nos va a dar un vector...
+
+00:03:10.384 --> 00:03:15.082
+...un vector que es perpendicular a ambos...
+
+00:03:15.421 --> 00:03:19.051
+...a r_u Y r_v.
+
+00:03:19.051 --> 00:03:20.823
+U otra forma de ver esto es...
+
+00:03:20.823 --> 00:03:22.867
+...este plano, que estos...
+
+00:03:22.867 --> 00:03:23.716
+...cuando tomas el producto cruz...
+
+00:03:23.716 --> 00:03:26.485
+...este plano es esencialmente un plano tangencial...
+
+00:03:26.485 --> 00:03:27.462
+...a la superficie.
+
+00:03:27.462 --> 00:03:28.984
+Y si algo va a ser perpendicular...
+
+00:03:28.984 --> 00:03:30.452
+...a estos dos personajes,
+
+00:03:30.452 --> 00:03:32.555
+...va a tener que ser normal a ellos...
+
+00:03:32.555 --> 00:03:33.723
+...o, definitivamente va a ser perpendicular...
+
+00:03:33.723 --> 00:03:35.442
+...a ambos, pero va a ser normal...
+
+00:03:35.442 --> 00:03:36.467
+...a este plano.
+
+00:03:36.467 --> 00:03:37.905
+Que esencialmente va a ser...
+
+00:03:37.905 --> 00:03:40.871
+...perpendicular a la superficie en sí.
+
+00:03:40.871 --> 00:03:42.154
+Así que éste por aquí...
+
+00:03:42.154 --> 00:03:44.347
+...será un vector normal.
+
+00:03:44.347 --> 00:03:45.774
+Esto es... Lo reescribiré...
+
+00:03:45.774 --> 00:03:46.956
+Bueno, permíteme escribirlo de esta forma.
+
+00:03:46.956 --> 00:03:48.622
+Este es un vector normal.
+
+00:03:49.176 --> 00:03:50.816
+No estoy diciendo EL vector unitario...
+
+00:03:50.816 --> 00:03:52.906
+No estoy diciendo el vector normal, porque podrías...
+
+00:03:52.906 --> 00:03:54.442
+...tener diferentes vectornes normales de...
+
+00:03:54.442 --> 00:03:55.691
+...diferentes magnitudes.
+
+00:03:55.691 --> 00:03:58.861
+Este es UN vector normal, cuando tomas el producto cruz.
+
+00:03:58.861 --> 00:04:01.641
+Y podemos pensar incluso acerca de en qué dirección está apuntando.
+
+00:04:01.641 --> 00:04:04.477
+Así que cuando tienes "algo" cruz "algo más"...
+
+00:04:04.477 --> 00:04:06.417
+...la forma más fácil en qué yo recuerdo cómo hacer esto es...
+
+00:04:06.417 --> 00:04:07.995
+...apuntas tu pulgar izquierdo...
+
+00:04:07.995 --> 00:04:09.724
+Oh, perdón. Apuntas tu pulgar DERECHO...
+
+00:04:09.724 --> 00:04:11.439
+...en la dirección del primer vector...
+
+00:04:11.439 --> 00:04:13.870
+Así, en este caso, r_u.
+
+00:04:13.870 --> 00:04:14.839
+Así que déjame ver si puedo...
+
+00:04:14.839 --> 00:04:15.709
+...si puedo dibujar esto.
+
+00:04:15.709 --> 00:04:17.771
+Literalmente estoy viendo mi mando derecha y tratando de dibujarla.
+
+00:04:18.402 --> 00:04:20.443
+Así que pones tu pulgar derecho...
+
+00:04:20.443 --> 00:04:22.303
+--así es esto es una regla de la mano derecha. esencialmente --
+
+00:04:22.303 --> 00:04:24.339
+...en la dirección del primer vector...
+
+00:04:24.339 --> 00:04:28.200
+...y después pones tu dedo índice en la dirección de...
+
+00:04:28.200 --> 00:04:29.634
+...el segundo vector...
+
+00:04:29.634 --> 00:04:31.102
+...justo aquí.
+
+00:04:31.102 --> 00:04:32.305
+Así que este es el segundo vector.
+
+00:04:32.305 --> 00:04:34.442
+Así que ésa es la dirección de mi dedo índice.
+
+00:04:35.026 --> 00:04:37.968
+Así que mi dedo índice se va a ver algo como...
+
+00:04:37.968 --> 00:04:39.504
+...esto.
+
+00:04:39.504 --> 00:04:40.702
+Y luego doblas...
+
+00:04:40.702 --> 00:04:43.164
+...doblas tu dedo medio hacia dentro...
+
+00:04:43.164 --> 00:04:45.367
+...y eso te dirá la dirección del producto cruz.
+
+00:04:45.367 --> 00:04:48.054
+Así que si doblo mi dedo medio hacia dentro,
+
+00:04:48.054 --> 00:04:49.533
+...se verá algo como...
+
+00:04:49.533 --> 00:04:52.134
+...se verá algo como esto.
+
+00:04:52.134 --> 00:04:54.651
+Y luego por su puesto, mis otros dos dedos serán...
+
+00:04:54.651 --> 00:04:56.787
+doblados hacia dentro así, y ellos no son relevantes realmente.
+
+00:04:56.787 --> 00:04:59.389
+Pero mis otros dos dedos y mi mano lucen así.
+
+00:04:59.389 --> 00:05:00.924
+Y eso nos dice la dirección.
+
+00:05:00.924 --> 00:05:02.265
+La dirección va a ser así.
+
+00:05:02.265 --> 00:05:03.616
+Va a apuntar hacia arriba.
+
+00:05:03.616 --> 00:05:05.635
+Eso es importante, porque tienes vectores normales.
+
+00:05:05.635 --> 00:05:06.672
+Uno podría...
+
+00:05:06.672 --> 00:05:09.208
+O hay dos direcciones de "normalidad", supongo se podría decir...
+
+00:05:09.208 --> 00:05:11.156
+Una es yendo así...
+
+00:05:11.156 --> 00:05:12.182
+...hacia afuera...
+
+00:05:12.182 --> 00:05:12.954
+o supongo...
+
+00:05:12.954 --> 00:05:14.434
+...en la dirección hacia arriba...
+
+00:05:14.434 --> 00:05:15.903
+...uno estaría yendo hacia abajo,
+
+00:05:15.903 --> 00:05:17.886
+...o yendo -- supongo se podría decir--- hacia la superficie.
+
+00:05:17.886 --> 00:05:19.524
+Pero por la forma en que los tengo ahora,
+
+00:05:19.524 --> 00:05:20.695
+...esto estaría yendo hacia afuera.
+
+00:05:20.695 --> 00:05:22.415
+Podría ser...
+
+00:05:22.415 --> 00:05:24.878
+Podría ser un vector normal...
+
+00:05:24.878 --> 00:05:25.901
+...a la superficie.
+
+00:05:25.901 --> 00:05:28.068
+Ahora, para ir de un vector normal...
+
+00:05:28.068 --> 00:05:31.016
+...a un vector unitario normal,
+
+00:05:31.016 --> 00:05:32.490
+...solo necesitamos normalizarlo.
+
+00:05:32.490 --> 00:05:33.684
+Solo tenemos que dividir esto...
+
+00:05:33.684 --> 00:05:35.173
+... por su magnitud.
+
+00:05:35.173 --> 00:05:37.151
+Así que tenemos redoble.
+
+00:05:37.151 --> 00:05:38.235
+El vector unitario....
+
+00:05:38.235 --> 00:05:39.837
+Y esencialmente va a ser...
+
+00:05:39.837 --> 00:05:41.685
+Va a ser función de u...
+
+00:05:41.685 --> 00:05:42.422
+Va a ser...
+
+00:05:42.422 --> 00:05:44.510
+...una función de u y v.
+
+00:05:44.510 --> 00:05:45.888
+Dame una u o v...
+
+00:05:45.888 --> 00:05:46.600
+...y te daré un...
+
+00:05:46.600 --> 00:05:48.099
+...vector unitario normal.
+
+00:05:48.099 --> 00:05:50.090
+Va a ser igual a...
+
+00:05:50.090 --> 00:05:52.058
+...la parcial de r...
+
+00:05:52.058 --> 00:05:53.998
+....la parcial de r con respecto de u...
+
+00:05:53.998 --> 00:05:55.400
+...producto cruz con...
+
+00:05:55.400 --> 00:05:58.052
+...la parcial de r con respecto de v...
+
+00:05:58.052 --> 00:05:58.580
+Eso solo...
+
+00:05:58.580 --> 00:06:00.090
+Ahora eso nos da un vector normal,
+
+00:06:00.090 --> 00:06:01.451
+pero no ha sido normalizado.
+
+00:06:01.451 --> 00:06:03.054
+Así que queremos dividir...
+
+00:06:03.054 --> 00:06:04.550
+....por su magnitud...
+
+00:06:04.550 --> 00:06:06.785
+Queremos dividir por su magnitud...
+
+00:06:06.785 --> 00:06:08.168
+...de la misma cosa.
+
+00:06:08.168 --> 00:06:11.307
+r_u cruz con r_v.
+
+00:06:14.707 --> 00:06:15.417
+¡Y listo!
+
+00:06:15.417 --> 00:06:17.361
+Hemos construído un vector unitario normal.
+
+00:06:17.361 --> 00:06:21.569
+Y en futuros videos, de hecho haremos esto con ejemplos concretos.

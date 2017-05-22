@@ -1,0 +1,153 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.467 --> 00:00:05.921
+Encuentra la suma de 15 + 46 negativo + 29
+
+00:00:05.921 --> 00:00:08.568
+revisemos ésta primera parte aquí
+
+00:00:08.568 --> 00:00:16.324
+tenemos 15 + 46 negativo, después nos ocupamos del 29
+
+00:00:16.324 --> 00:00:27.469
+ahora solo vamos a hacer 15 + 46 negativo en naranja
+
+00:00:27.469 --> 00:00:34.900
+vamos a dibujar una linea en este número
+
+00:00:34.900 --> 00:00:38.011
+así podemos visualizar lo que está pasando, esta es mi linea del número
+
+00:00:38.011 --> 00:00:47.578
+Permiteme poner un 0 y empezar con el 15
+
+00:00:51.246 --> 00:00:54.915
+puede ser aquí y dibujo una flecha
+
+00:00:54.915 --> 00:00:59.466
+15 tiene un valor absoluto de 15
+
+00:00:59.466 --> 00:01:04.064
+la distancia de 15 es de cero a quince
+
+00:01:04.064 --> 00:01:07.500
+ahora si agregemos al 15 el 46 negativo, que es lo mismo que
+
+00:01:07.500 --> 00:01:14.048
+15 menos 46, lo que significa que vamos a movernos
+
+00:01:14.048 --> 00:01:23.569
+46 espacios a la izquierda del 15, con signo negativo tenemos que movernos hacia la izquierda
+
+00:01:23.569 --> 00:01:30.860
+así que comenzamos en el 15 y vamos a movernos 46 espacios hacia
+
+00:01:30.860 --> 00:01:40.380
+la izquierda. Así que largo de esta flecha va a ser 46
+
+00:01:40.380 --> 00:01:44.745
+vamos a ir hacia la izquierda, este es el 46 negativo que vamos a agregar al 15
+
+00:01:44.745 --> 00:01:48.878
+y vamos a terminar en algún punto por aquí
+
+00:01:48.878 --> 00:01:55.798
+este punto es claramente el 0 y éste punto está definitivamente a la izquierda de 0 así que va a ser definitivamente un valor negativo
+
+00:01:55.798 --> 00:02:04.250
+puedes incluso pensar en el valor absoluto de ese número negativo, solo visualizalo,
+
+00:02:04.250 --> 00:02:09.498
+esta flecha amarilla es el largo de 15, la flecha naranja es el largo de 46
+
+00:02:09.498 --> 00:02:14.002
+la flecha azul que estoy a punto de dibujar es la suma de estos dos va a tener este largo
+
+00:02:14.002 --> 00:02:28.074
+es lo que tenemos que calcular
+
+00:02:28.074 --> 00:02:31.139
+¿Cómo podemos calcularlo?
+
+00:02:31.139 --> 00:02:33.739
+necesitamos encontrar la diferencia entre la
+
+00:02:33.739 --> 00:02:35.411
+flecha naranja y la flecha amarilla
+
+00:02:35.411 --> 00:02:43.817
+la diferencia entre 46 y quince
+
+00:02:43.817 --> 00:02:48.879
+es 31. El largo de la flecha azul es 31
+
+00:02:48.879 --> 00:02:57.145
+y 31 a la izquierda del 0 va a ser -31
+
+00:02:57.145 --> 00:03:00.721
+así que ya sabemos que la primera parte es -31
+
+00:03:00.721 --> 00:03:08.662
+y a eso ahora vamos a agregar 29
+
+00:03:08.662 --> 00:03:12.006
+¿Qué significa esto?. Significa que comenzamos en -31
+
+00:03:12.006 --> 00:03:16.418
+y vamos a movernos 29 espacios a la derecha
+
+00:03:16.418 --> 00:03:30.814
+dejame dibujar una flecha
+
+00:03:30.814 --> 00:03:41.960
+nos estamos moviendo 29 espacios a la derecha
+
+00:03:41.960 --> 00:03:44.653
+ahora vamos a ver que significa esto
+
+00:03:44.653 --> 00:03:52.548
+así qie vamos a ponernos aqui
+
+00:03:52.548 --> 00:03:56.820
+y una vez más necesitamos visualizar
+
+00:03:56.820 --> 00:04:05.133
+que comenzamos en -31 y agregando 29
+
+00:04:05.133 --> 00:04:08.988
+como estamos agregando un número menor a -31
+
+00:04:08.988 --> 00:04:13.632
+vamos a obtener un número menor que 0
+
+00:04:13.632 --> 00:04:16.650
+y va a ser un número negativo
+
+00:04:16.650 --> 00:04:20.467
+¿cómo podemos obtener el valor absoluto de ese número?
+
+00:04:20.467 --> 00:04:33.090
+tenemos que entender lo que la parte blanca es
+
+00:04:33.090 --> 00:04:37.548
+31-29 nos va a dar la el largo de la parte blanca
+
+00:04:37.548 --> 00:04:44.746
+y va a ser negativo porque está a la izquierda del 0
+
+00:04:44.746 --> 00:04:57.332
+31-29 = 2 y como se encuentra
+
+00:04:57.332 --> 00:05:10.381
+a la izquierda del 0, va a ser -2
+
+00:05:10.381 --> 00:05:13.307
+el largo de la parte blanca es decir,
+
+00:05:13.307 --> 00:05:22.641
+es 2 y como está a la izquierda del 0 es -2
+
+00:05:22.641 --> 99:59:59.999
+Respuesta final -2

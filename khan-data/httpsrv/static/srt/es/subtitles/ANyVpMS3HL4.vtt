@@ -1,0 +1,993 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.610 --> 00:00:05.130
+Estamos expuestos por primera vez a la idea de una pendiente de una línea desde el principio
+
+00:00:05.130 --> 00:00:07.280
+en álgebra, pero pensé que nunca está de más
+
+00:00:07.280 --> 00:00:08.600
+repasarlo un poco.
+
+00:00:08.600 --> 00:00:10.450
+Así que permítanme hacer algunos ejes.
+
+00:00:10.450 --> 00:00:12.800
+Ese es mi eje y.
+
+00:00:12.800 --> 00:00:15.170
+Tal vez debería llamar a mi f de x eje.
+
+00:00:15.170 --> 00:00:17.320
+y es igual a f de x.
+
+00:00:17.320 --> 00:00:23.380
+Permítanme que señale a mi eje x, este es mi eje x
+
+00:00:23.380 --> 00:00:28.970
+Y permítanme hacer una línea, permítanme hacer una línea como ésta.
+
+00:00:28.970 --> 00:00:31.770
+Y lo que queremos hacer es recordarnos ¿cómo podemos
+
+00:00:31.770 --> 00:00:36.935
+encontrar la pendiente de esa línea?
+
+00:00:36.935 --> 00:00:42.260
+Y lo que hacemos es tomar dos puntos de la línea,
+
+00:00:42.260 --> 00:00:45.030
+así que digamos que tenemos este punto, aquí mismo.
+
+00:00:45.030 --> 00:00:48.070
+Digamos que el punto x es igual a a.
+
+00:00:48.070 --> 00:00:49.260
+Y entonces, ¿qué sería esto?
+
+00:00:49.260 --> 00:00:53.480
+Este sería el punto f de a, donde la función va
+
+00:00:53.480 --> 00:00:54.440
+a ser alguna línea.
+
+00:00:54.440 --> 00:00:59.493
+Podríamos escribir f de x va a ser igual a mx más b.
+
+00:00:59.493 --> 00:01:01.200
+No sabemos lo que m y b son, pero todo esto
+
+00:01:01.200 --> 00:01:02.410
+es un poco de revisión.
+
+00:01:02.410 --> 00:01:04.050
+Así que esto es a.
+
+00:01:04.050 --> 00:01:06.880
+Y entonces el valor y es lo que le pasa a la función cuando
+
+00:01:06.880 --> 00:01:09.890
+se evalúa a, entonces el punto de aqui
+
+00:01:09.890 --> 00:01:11.950
+Y despues podríamos escojer otro punto en la línea.
+
+00:01:11.950 --> 00:01:14.760
+Digamos que escojemos el punto B, justo ahí.
+
+00:01:14.760 --> 00:01:17.110
+Y luego esta coordenada va a ser
+
+00:01:17.110 --> 00:01:22.010
+el punto b, f de b.
+
+00:01:22.010 --> 00:01:22.290
+¿Correcto?
+
+00:01:22.290 --> 00:01:23.980
+Porque este es sólo el punto en el que se evalúa
+
+00:01:23.980 --> 00:01:24.780
+la función de b.
+
+00:01:24.780 --> 00:01:27.360
+Pones b aquí, vas a conseguir ese punto ahí.
+
+00:01:27.360 --> 00:01:29.270
+Dejame solo dibujar una linea justo allí.
+
+00:01:29.270 --> 00:01:32.630
+Así que es f de b, allí mismo.
+
+00:01:32.630 --> 00:01:35.774
+Quiero dejar claro que este
+
+00:01:35.774 --> 00:01:38.780
+es el punto a, f de a.
+
+00:01:38.780 --> 00:01:42.280
+Entonces, ¿cómo encontrar la pendiente entre estos dos puntos, o más
+
+00:01:42.280 --> 00:01:43.760
+en general, de toda esta línea?
+
+00:01:43.760 --> 00:01:46.890
+Debido a que la pendiente es constante
+
+00:01:46.890 --> 00:01:48.350
+atravez de toda la linea.
+
+00:01:48.350 --> 00:01:50.060
+Y sabemos que una vez encontramos la pendiente, que
+
+00:01:50.060 --> 00:01:51.610
+en realidad va a ser el valor de este m.
+
+00:01:51.610 --> 00:01:54.420
+Eso es todo un repaso de su álgebra, pero ¿cómo hacerlo?
+
+00:01:54.420 --> 00:01:56.890
+Bueno, un par de maneras de pensar en ello.
+
+00:01:56.890 --> 00:02:05.130
+Pendiente es igual a el aumento sobre el corrido.
+
+00:02:05.130 --> 00:02:07.050
+Es posible que lo haya visto asi cuando primer aprendio algebra.
+
+00:02:07.050 --> 00:02:09.670
+Otra forma de escribirlo, es el cambio en
+
+00:02:09.670 --> 00:02:13.570
+y sobre el cambio en x.
+
+00:02:13.570 --> 00:02:16.240
+Así que vamos a ver lo que el cambio en y sobre el cambio
+
+00:02:16.240 --> 00:02:18.810
+en y es para este caso en particular.
+
+00:02:18.810 --> 00:02:22.230
+Por lo tanto el cambio en y es igual a qué?
+
+00:02:22.230 --> 00:02:25.180
+Bueno, vamos a tomar, usted puede tomar este como el
+
+00:02:25.180 --> 00:02:26.990
+primer punto, o este como el primer punto.
+
+00:02:26.990 --> 00:02:29.980
+Pero como que este tiene una x mayor y una y más grande ,
+
+00:02:29.980 --> 00:02:30.870
+vamos a empezar con él.
+
+00:02:30.870 --> 00:02:33.960
+El cambio en y entre ese y ese esta
+
+00:02:33.960 --> 00:02:35.070
+distancia, aquí mismo.
+
+00:02:35.070 --> 00:02:36.800
+Así que permítanme hacer un pequeño triángulo.
+
+00:02:36.800 --> 00:02:39.210
+Esa distancia ahi es un cambio en y
+
+00:02:39.210 --> 00:02:42.190
+O simplemente puede transferir a la eje y.
+
+00:02:42.190 --> 00:02:44.190
+Este es el cambio en y.
+
+00:02:44.190 --> 00:02:46.340
+Ese es su cambio en y, de esa distancia.
+
+00:02:46.340 --> 00:02:47.980
+Entonces, ¿cuál es esa distancia?
+
+00:02:47.980 --> 00:02:51.030
+Es f de f b menos de a.
+
+00:02:51.030 --> 00:02:57.880
+Por lo que es igual a b f de f de menos a.
+
+00:02:57.880 --> 00:03:01.990
+Ese es su cambio en y.
+
+00:03:01.990 --> 00:03:05.480
+Ahora, ¿qué es el cambio en x La pendiente es el cambio
+
+00:03:05.480 --> 00:03:09.010
+en y por el cambio en x.
+
+00:03:09.010 --> 00:03:10.760
+Así que lo que nuestro cambio de x?
+
+00:03:10.760 --> 00:03:11.770
+¿Cuál es esta distancia?
+
+00:03:11.770 --> 00:03:13.490
+Recuerde, estamos llevando esto a ser el primer punto,
+
+00:03:13.490 --> 00:03:16.370
+así que tomó su y menos y. el otro punto de
+
+00:03:16.370 --> 00:03:17.880
+Así que para ser coherentes, vamos a tener que tomar esta
+
+00:03:17.880 --> 00:03:20.660
+punto x menos este punto x.
+
+00:03:20.660 --> 00:03:23.460
+Así que este punto de la coordenada x es b.
+
+00:03:23.460 --> 00:03:29.130
+Por lo tanto, va a ser menos b a.
+
+00:03:29.130 --> 00:03:31.580
+Y así, si usted supiera la ecuación de esta línea, o
+
+00:03:31.580 --> 00:03:34.610
+si usted tenía las coordenadas de estos dos puntos, usted acaba de
+
+00:03:34.610 --> 00:03:39.460
+enchufe en la derecha y que se obtendría de su pendiente.
+
+00:03:39.460 --> 00:03:40.990
+Tan sencillo.
+
+00:03:40.990 --> 00:03:43.150
+Y que viene directamente de su clase de Álgebra 1.
+
+00:03:43.150 --> 00:03:46.060
+Y me dejó solo, sólo para asegurarse de que es de hormigón para usted, si
+
+00:03:46.060 --> 00:03:59.035
+este fue el punto 2, 3, y vamos a decir que esto, aquí,
+
+00:03:59.035 --> 00:04:00.488
+fue el punto 5, 7, entonces si quisiéramos encontrar la pendiente de
+
+00:04:00.488 --> 00:04:06.460
+esta línea, que íbamos a hacer siete menos 3, que sería nuestro cambio de
+
+00:04:06.460 --> 00:04:10.370
+y, esto sería de 7 y esto sería de 3, y luego
+
+00:04:10.370 --> 00:04:15.181
+hacer que más de 5 menos 2.
+
+00:04:15.181 --> 00:04:18.460
+Debido a que este sería un 5, y esto sería un 2, por lo que este
+
+00:04:18.460 --> 00:04:19.620
+sería el cambio en x.
+
+00:04:19.620 --> 00:04:20.690
+5 menos 2.
+
+00:04:20.690 --> 00:04:24.830
+Por lo menos 7 3 es de 4, y 5 menos 2 es 3. por lo que su
+
+00:04:24.830 --> 00:04:30.760
+pendiente sería 4 / 3.
+
+00:04:30.760 --> 00:04:33.010
+Ahora vamos a ver si podemos generalizar esto.
+
+00:04:33.010 --> 00:04:35.370
+Y esto es lo que el nuevo concepto que vamos
+
+00:04:35.370 --> 00:04:38.320
+que el aprendizaje como de profundizar en el cálculo.
+
+00:04:38.320 --> 00:04:41.970
+Vamos a ver si podemos generalizar esto de alguna manera a una curva.
+
+00:04:41.970 --> 00:04:44.310
+Así que vamos a decir que tengo una curva.
+
+00:04:44.310 --> 00:04:46.340
+Tenemos que tener una curva antes de que se puede generalizar
+
+00:04:46.340 --> 00:04:47.180
+a una curva.
+
+00:04:47.180 --> 00:04:47.900
+Permítanme desplácese hacia abajo un poco.
+
+00:04:47.900 --> 00:04:49.850
+Bueno, en realidad, quiero dejar esto aquí, muestran
+
+00:04:49.850 --> 00:04:51.820
+que la similitud.
+
+00:04:51.820 --> 00:04:56.390
+Digamos que tengo, voy a seguir es bastante general en este momento.
+
+00:04:56.390 --> 00:04:58.290
+Digamos que tengo una curva.
+
+00:04:58.290 --> 00:05:01.080
+Voy a hacer una curva de aspecto familiar.
+
+00:05:01.080 --> 00:05:03.390
+Digamos que es la curva y es igual al cuadrado de x, que
+
+00:05:03.390 --> 00:05:06.860
+se ve algo así.
+
+00:05:06.860 --> 00:05:10.010
+Y quiero encontrar la pendiente.
+
+00:05:10.010 --> 00:05:13.280
+Digamos que quiere encontrar la pendiente en algún momento.
+
+00:05:13.280 --> 00:05:15.680
+Y, de hecho, incluso antes de hablar de ello, vamos incluso
+
+00:05:15.680 --> 00:05:18.930
+pensar en lo que significa encontrar la pendiente de una curva.
+
+00:05:18.930 --> 00:05:22.450
+En este caso, la pendiente era la misma todo el tiempo, ¿verdad?
+
+00:05:22.450 --> 00:05:25.028
+Pero en una curva de la pendiente es el cambio.
+
+00:05:25.028 --> 00:05:27.196
+Y sólo para tener una intuición de lo que significa, es decir, lo que
+
+00:05:27.196 --> 00:05:28.240
+la pendiente por aquí?
+
+00:05:28.240 --> 00:05:31.610
+Su inclinación por aquí es la pendiente de la recta tangente.
+
+00:05:31.610 --> 00:05:33.150
+La línea apenas lo toca.
+
+00:05:33.150 --> 00:05:34.180
+Esa es la pendiente por ahí.
+
+00:05:34.180 --> 00:05:35.760
+Es una pendiente negativa.
+
+00:05:35.760 --> 00:05:37.790
+Entonces aquí, la pendiente es todavía negativo, pero es un
+
+00:05:37.790 --> 00:05:39.360
+poco menos negativo.
+
+00:05:39.360 --> 00:05:40.250
+Se va así.
+
+00:05:40.250 --> 00:05:41.570
+No sé si lo hacía, sacó eso.
+
+00:05:41.570 --> 00:05:43.660
+Déjame hacerlo en un color diferente.
+
+00:05:43.660 --> 00:05:45.790
+Déjame hacerlo, de color morado.
+
+00:05:45.790 --> 00:05:48.320
+Así que aquí, la pendiente es ligeramente menos negativo.
+
+00:05:48.320 --> 00:05:51.590
+Es una línea un poco menos inclinada hacia abajo.
+
+00:05:51.590 --> 00:05:56.130
+Y luego, cuando usted se pasa de aquí, en el punto 0, aquí mismo,
+
+00:05:56.130 --> 00:06:00.030
+su pendiente es casi plana, ya que la línea horizontal, y
+
+00:06:00.030 --> 00:06:02.610
+es igual a 0, es tangente a la curva.
+
+00:06:02.610 --> 00:06:05.330
+Y luego a medida que ir a casa de x más positivo, entonces su
+
+00:06:05.330 --> 00:06:08.660
+pendiente comienza a aumentar.
+
+00:06:08.660 --> 00:06:10.340
+Estoy tratando de dibujar una línea tangente.
+
+00:06:10.340 --> 00:06:14.170
+Y aquí es cada vez más, que se incrementó aún más.
+
+00:06:14.170 --> 00:06:17.240
+Por lo que su pendiente es el cambio todo el tiempo, y esto es una especie
+
+00:06:17.240 --> 00:06:19.930
+del gran cambio que se produce cuando se pasa de una
+
+00:06:19.930 --> 00:06:21.530
+línea en una curva.
+
+00:06:21.530 --> 00:06:24.450
+Una línea, su pendiente es la misma todo el tiempo.
+
+00:06:24.450 --> 00:06:27.600
+Usted podría tomar dos puntos cualesquiera de una línea, tener el cambio en y
+
+00:06:27.600 --> 00:06:29.170
+sobre el cambio en x, y se obtiene la pendiente de
+
+00:06:29.170 --> 00:06:30.620
+toda la línea.
+
+00:06:30.620 --> 00:06:32.980
+Pero como se puede ver ya, que va a ser un poco
+
+00:06:32.980 --> 00:06:35.290
+poco más matizada cuando lo hacemos por una curva.
+
+00:06:35.290 --> 00:06:37.570
+Porque depende de qué punto estamos hablando.
+
+00:06:37.570 --> 00:06:40.200
+No podemos decir cuál es la pendiente de esta curva?
+
+00:06:40.200 --> 00:06:43.760
+La pendiente es diferente en cada punto de la curva.
+
+00:06:43.760 --> 00:06:44.120
+Cambia.
+
+00:06:44.120 --> 00:06:46.500
+Si vamos por aquí, que va a ser aún mayor.
+
+00:06:46.500 --> 00:06:50.450
+Va a ser algo como eso.
+
+00:06:50.450 --> 00:06:54.780
+Así que vamos a probar un poco de un experimento.
+
+00:06:54.780 --> 00:06:57.870
+Y yo sé cómo este experimento resulta, por lo que no
+
+00:06:57.870 --> 00:06:59.450
+ser demasiado de un riesgo.
+
+00:06:59.450 --> 00:07:02.300
+Déjame dibujar mejor que eso.
+
+00:07:02.300 --> 00:07:11.800
+Así que ese es mi eje, y ese es mi eje-x.
+
+00:07:11.800 --> 00:07:13.690
+Llamemos a esto, podemos llamar a esto y, o puede que llamamos
+
+00:07:13.690 --> 00:07:15.660
+f de este eje x.
+
+00:07:15.660 --> 00:07:16.890
+De cualquier manera.
+
+00:07:16.890 --> 00:07:20.780
+Y permítanme hacer mi curva de nuevo.
+
+00:07:20.780 --> 00:07:24.740
+Y yo sólo voy a dibujar en la coordenada positiva, de esa manera.
+
+00:07:24.740 --> 00:07:26.890
+Esa es mi curva.
+
+00:07:26.890 --> 00:07:33.400
+¿Y si quiero encontrar la pendiente de ahí?
+
+00:07:33.400 --> 00:07:34.680
+¿Qué puedo hacer?
+
+00:07:34.680 --> 00:07:38.010
+Bueno, sobre la base de nuestra definición de una pendiente, necesitamos dos puntos
+
+00:07:38.010 --> 00:07:39.380
+para encontrar una pendiente, ¿verdad?
+
+00:07:39.380 --> 00:07:41.905
+En este caso, no sé cómo encontrar la pendiente con un punto.
+
+00:07:41.905 --> 00:07:49.210
+Así que vamos a llamar a este punto aquí,
+
+00:07:49.210 --> 00:07:50.240
+que va a ser x.
+
+00:07:50.240 --> 00:07:51.500
+Vamos a ser general.
+
+00:07:51.500 --> 00:07:53.120
+Esto va a ser nuestro punto de x.
+
+00:07:53.120 --> 00:07:55.300
+Sin embargo, para encontrar nuestro pendiente, de acuerdo con nuestra tradicional
+
+00:07:55.300 --> 00:07:58.140
+álgebra 1 la definición de una pendiente, necesitamos dos puntos.
+
+00:07:58.140 --> 00:08:02.100
+Así que vamos a otro punto de aquí.
+
+00:08:02.100 --> 00:08:05.950
+Vamos a tener una versión un poco más grande de este x.
+
+00:08:05.950 --> 00:08:10.430
+Así que digamos que queremos tener, en realidad, vamos a hacerlo, incluso
+
+00:08:10.430 --> 00:08:13.590
+más allá, porque va a causar problemas de otra manera.
+
+00:08:13.590 --> 00:08:15.680
+Así que digamos que tenemos este punto de aquí.
+
+00:08:15.680 --> 00:08:18.750
+Y la diferencia, es apenas más grande que h x.
+
+00:08:18.750 --> 00:08:20.565
+O en realidad, en lugar de decir h más grande, vamos, así
+
+00:08:20.565 --> 00:08:22.120
+déjame decirte h más grande.
+
+00:08:22.120 --> 00:08:25.630
+Así que esto es más x h.
+
+00:08:25.630 --> 00:08:27.910
+Eso es lo que el punto está justo allí.
+
+00:08:27.910 --> 00:08:30.430
+Entonces, ¿qué va a ser sus correspondientes coordenadas
+
+00:08:30.430 --> 00:08:31.820
+en la curva?
+
+00:08:31.820 --> 00:08:35.030
+Bueno, esta es la curva de y es igual af de x.
+
+00:08:35.030 --> 00:08:39.910
+Por lo que este punto de aquí va a ser de nuestro f
+
+00:08:39.910 --> 00:08:41.590
+x todo aquí.
+
+00:08:41.590 --> 00:08:43.930
+Y tal vez para demostrar que estoy tomando un x particular, tal vez
+
+00:08:43.930 --> 00:08:45.305
+Voy a hacer un poco de aquí 0.
+
+00:08:45.305 --> 00:08:48.400
+Esto no es sino x, esto es nada más x h.
+
+00:08:48.400 --> 00:08:51.430
+Esta es la f de x nada.
+
+00:08:51.430 --> 00:08:56.870
+Y entonces ¿qué es esto va a ser aquí, hasta este momento
+
+00:08:56.870 --> 00:08:59.140
+aquí, ese punto hasta aquí?
+
+00:08:59.140 --> 00:09:04.430
+Su coordenada va a ser f de f de esta coordenada x,
+
+00:09:04.430 --> 00:09:05.630
+que he cambiado a lo largo un poco.
+
+00:09:05.630 --> 00:09:08.170
+Está ahí. f de la coordenada x, que es
+
+00:09:08.170 --> 00:09:10.950
+f de x nada más h.
+
+00:09:10.950 --> 00:09:12.310
+Esa es su coordenada.
+
+00:09:12.310 --> 00:09:15.840
+Entonces, ¿cuál es la pendiente va a ser entre estos dos puntos que
+
+00:09:15.840 --> 00:09:17.410
+están relativamente cerca unos de otros?
+
+00:09:17.410 --> 00:09:18.810
+Recuerde, esto no va a ser la pendiente
+
+00:09:18.810 --> 00:09:20.070
+justo en este punto.
+
+00:09:20.070 --> 00:09:23.950
+Esta es la pendiente de la línea entre estos dos puntos.
+
+00:09:23.950 --> 00:09:27.080
+Y si yo tuviera que realmente lo alcanzará, en realidad sería un
+
+00:09:27.080 --> 00:09:29.680
+secante medio, a la curva.
+
+00:09:29.680 --> 00:09:31.860
+Por lo tanto, se cruzan la curva dos veces, una vez en este punto,
+
+00:09:31.860 --> 00:09:32.450
+una vez en este punto.
+
+00:09:32.450 --> 00:09:34.180
+Usted no lo puede ver.
+
+00:09:34.180 --> 00:09:35.510
+Si lo hizo volar un poco, se vería
+
+00:09:35.510 --> 00:09:36.330
+algo como esto.
+
+00:09:36.330 --> 00:09:39.787
+211 00:09:41,36 -&gt; 00:09:47,51 Esta es nuestra coordinar f x nada de nada x, y aquí
+
+00:09:39.787 --> 00:09:51.805
+es nuestro coordenadas para este punto, lo que sería el
+
+00:09:51.805 --> 00:09:56.080
+coordenada x sería nada más x h, y la coordenada y
+
+00:09:56.080 --> 00:09:59.180
+sería f de x nada más h.
+
+00:09:59.180 --> 00:10:02.135
+Justo lo que esta función es, lo estamos evaluando en este
+
+00:10:02.135 --> 00:10:03.770
+coordenada x Eso es todo lo que es.
+
+00:10:03.770 --> 00:10:05.380
+Así que estos son los dos puntos.
+
+00:10:05.380 --> 00:10:07.740
+Así que tal vez un buen comienzo es decir, justo, bueno, ¿cuál es el
+
+00:10:07.740 --> 00:10:10.090
+pendiente de esta recta secante?
+
+00:10:10.090 --> 00:10:12.760
+Y al igual que lo hicimos en el ejemplo anterior, se encuentra la
+
+00:10:12.760 --> 00:10:22.470
+cambio en y, y que se divide por el cambio en x.
+
+00:10:22.470 --> 00:10:23.220
+Déjame llamar aquí.
+
+00:10:23.220 --> 00:10:26.940
+Su cambio en y se que aquí, el cambio en Y, y
+
+00:10:26.940 --> 00:10:29.840
+entonces el cambio de x sería que allí mismo.
+
+00:10:29.840 --> 00:10:33.040
+Entonces, ¿cuál es la pendiente va a ser de la línea secante?
+
+00:10:33.040 --> 00:10:37.250
+La pendiente va a ser igual, vamos a empezar con este
+
+00:10:37.250 --> 00:10:39.440
+punto aquí, sólo porque parece ser más grande.
+
+00:10:39.440 --> 00:10:43.320
+Así que queremos un cambio en y. así, este valor aquí
+
+00:10:43.320 --> 00:10:46.230
+valor y, f es de nada más x h.
+
+00:10:46.230 --> 00:10:47.740
+Acabo de evaluación de este tipo aquí.
+
+00:10:47.740 --> 00:10:49.630
+Parece un término de lujo, pero lo único que significa es, mira.
+
+00:10:49.630 --> 00:10:52.970
+La x un poco más grande evaluar su coordenada.
+
+00:10:52.970 --> 00:10:57.250
+Donde la curva se encuentra en que el valor de x.
+
+00:10:57.250 --> 00:11:00.290
+Así que va a ser, por lo que el cambio en y va a ser
+
+00:11:00.290 --> 00:11:03.400
+af de x nada más h.
+
+00:11:03.400 --> 00:11:05.880
+Esa es la coordenada y aquí.
+
+00:11:05.880 --> 00:11:08.830
+Menos esta coordenada por aquí.
+
+00:11:08.830 --> 00:11:13.600
+F por lo menos de nada x.
+
+00:11:13.600 --> 00:11:16.500
+Por lo que es igual a nuestro cambio en y.
+
+00:11:16.500 --> 00:11:18.543
+Y que desea dividir que por su cambio en x.
+
+00:11:18.543 --> 00:11:21.090
+242 00:11:21,09 -&gt; 00:11:21,8 Entonces, ¿qué es esto?
+
+00:11:21.800 --> 00:11:23.340
+Este es el mayor valor de x.
+
+00:11:23.340 --> 00:11:25.030
+Empezamos con esta coordenada, por lo que empezamos
+
+00:11:25.030 --> 00:11:26.460
+con su coordenada.
+
+00:11:26.460 --> 00:11:30.450
+Por lo que es nada más x h, nada más x h.
+
+00:11:30.450 --> 00:11:32.610
+Menos esto. Coordenada x
+
+00:11:32.610 --> 00:11:33.970
+Bueno, acaba de recoger un número general.
+
+00:11:33.970 --> 00:11:36.330
+Es nada x.
+
+00:11:36.330 --> 00:11:39.300
+Por lo que es más de su cambio en x.
+
+00:11:39.300 --> 00:11:39.990
+Así como así.
+
+00:11:39.990 --> 00:11:41.510
+Así que esta es la pendiente de la recta secante.
+
+00:11:41.510 --> 00:11:43.670
+Todavía no han respondido a lo que la pendiente es justo en ese
+
+00:11:43.670 --> 00:11:47.100
+punto, pero tal vez esto nos ayude a llegar allí.
+
+00:11:47.100 --> 00:11:51.250
+Si simplificamos esto, así que me lo escriba así.
+
+00:11:51.250 --> 00:11:57.630
+La pendiente de la secante, que me escriben que correctamente.
+
+00:11:57.630 --> 00:12:03.930
+La pendiente de la recta secante es igual al valor de la
+
+00:12:03.930 --> 00:12:08.840
+función en este punto, f de x h nada más, menos el valor de la
+
+00:12:08.840 --> 00:12:12.750
+de la función aquí, f mina de nada x.
+
+00:12:12.750 --> 00:12:14.370
+Así que sólo nos dice que el cambio en y.
+
+00:12:14.370 --> 00:12:18.250
+Es la definición exacta de la misma pendiente que siempre hemos usado.
+
+00:12:18.250 --> 00:12:19.890
+Sobre el cambio en x.
+
+00:12:19.890 --> 00:12:20.920
+Y podemos simplificar esto.
+
+00:12:20.920 --> 00:12:23.980
+Tenemos nada más x menos nada x h.
+
+00:12:23.980 --> 00:12:26.450
+Así que nada x nada menos x cancelar, por lo que
+
+00:12:26.450 --> 00:12:27.700
+tiene que más h.
+
+00:12:27.700 --> 00:12:32.530
+Así que esto es igual a nuestro cambio y por el cambio en x.
+
+00:12:32.530 --> 00:12:33.380
+Me parece justo.
+
+00:12:33.380 --> 00:12:36.500
+Pero empecé diciendo, quiero encontrar la pendiente de
+
+00:12:36.500 --> 00:12:38.880
+la línea en ese momento, en este punto, aquí mismo.
+
+00:12:38.880 --> 00:12:40.860
+Esta es la versión amplificada de la misma.
+
+00:12:40.860 --> 00:12:42.260
+Entonces, ¿qué puedo hacer?
+
+00:12:42.260 --> 00:12:45.830
+Bueno, se define aquí como segundo punto sólo el primero
+
+00:12:45.830 --> 00:12:49.370
+punto a favor h. algunos
+
+00:12:49.370 --> 00:12:52.300
+Y que tenemos algo en nuestra caja de herramientas llamado a un límite.
+
+00:12:52.300 --> 00:12:55.840
+Este h es sólo un número general.
+
+00:12:55.840 --> 00:12:59.400
+Podría ser 10, podría ser dos, puede ser 0,02, que podría ser una
+
+00:12:59.400 --> 00:13:01.050
+10 veces a los negativos 100.
+
+00:13:01.050 --> 00:13:03.690
+Podría ser un número arbitrariamente pequeño.
+
+00:13:03.690 --> 00:13:07.210
+Entonces, ¿qué pasa, ¿qué pasaría, al menos teóricamente,
+
+00:13:07.210 --> 00:13:09.620
+si se toma el límite cuando h tiende a 0?
+
+00:13:09.620 --> 00:13:13.360
+Así que ya sabes, en primer lugar, tal vez h es este número bastante grande sobre
+
+00:13:13.360 --> 00:13:15.710
+aquí, y luego si tomo poco ha poco más pequeño, entonces yo estaría
+
+00:13:15.710 --> 00:13:17.740
+encontrar la pendiente de esta recta secante.
+
+00:13:17.740 --> 00:13:20.300
+Si se h a ser incluso un poco más pequeña, sería encontrar el
+
+00:13:20.300 --> 00:13:21.790
+pendiente de esta recta secante.
+
+00:13:21.790 --> 00:13:23.200
+Si h es un poco más pequeño, estaría encontrando
+
+00:13:23.200 --> 00:13:24.390
+la pendiente de esa línea.
+
+00:13:24.390 --> 00:13:28.430
+Así que cuando h tiende a 0, voy a estar cada vez más cerca de
+
+00:13:28.430 --> 00:13:34.230
+encontrar la pendiente de la línea a la derecha en mi punto de vista de que se trate.
+
+00:13:34.230 --> 00:13:36.720
+Obviamente, si h es un número grande, mi línea secante que está pasando
+
+00:13:36.720 --> 00:13:41.110
+que lejos de la pista de exactamente en ese punto ahí.
+
+00:13:41.110 --> 00:13:45.430
+Sin embargo, si h es 0.0000001, si se trata de un infinitesimal
+
+00:13:45.430 --> 00:13:47.810
+número, entonces yo voy a llegar muy cerca.
+
+00:13:47.810 --> 00:13:51.250
+Entonces, ¿qué sucede si dejo de tomar el límite cuando h
+
+00:13:51.250 --> 00:13:53.530
+se aproxima a cero de esto?
+
+00:13:53.530 --> 00:14:00.220
+Así que el límite cuando h tiende a 0 de mi pendiente secante.
+
+00:14:00.220 --> 00:14:03.180
+De, que me cambie a verde.
+
+00:14:03.180 --> 00:14:08.560
+f de x nada más horas menos de nada f x, que fue mi cambio de
+
+00:14:08.560 --> 00:14:15.490
+y, sobre h, que es mi cambio en x.
+
+00:14:15.490 --> 00:14:17.720
+Y ahora, sólo para aclarar algo, y muchas veces te
+
+00:14:17.720 --> 00:14:20.810
+ver en los libros de cálculo diferentes, a veces en lugar de una
+
+00:14:20.810 --> 00:14:22.930
+h, que voy a escribir un delta x aquí.
+
+00:14:22.930 --> 00:14:25.390
+Cuando este segundo punto se han definido como nada x
+
+00:14:25.390 --> 00:14:28.660
+además delta x, y, a continuación, esto habría simplificado a sólo
+
+00:14:28.660 --> 00:14:30.685
+delta x ahí, y estaríamos tomando el límite cuando
+
+00:14:30.685 --> 00:14:31.870
+delta x tiende a 0.
+
+00:14:31.870 --> 00:14:33.200
+Exactamente lo mismo.
+
+00:14:33.200 --> 00:14:34.780
+h, delta x, no importa.
+
+00:14:34.780 --> 00:14:37.630
+Estamos tomando h como la diferencia entre un punto x
+
+00:14:37.630 --> 00:14:39.710
+y entonces el punto x alto, y luego sólo vamos a
+
+00:14:39.710 --> 00:14:40.980
+tomar el límite que se aproxima a cero.
+
+00:14:40.980 --> 00:14:44.010
+Nos podría haber llamado a que x delta con la misma facilidad.
+
+00:14:44.010 --> 00:14:52.050
+Pero yo voy a llamar a esta cosa, lo que equivale a la pendiente
+
+00:14:52.050 --> 00:14:54.260
+de la recta tangente, y es igual a la pendiente de la
+
+00:14:54.260 --> 00:14:58.720
+tangente, voy a llamar a esta la derivada de f.
+
+00:14:58.720 --> 00:15:00.105
+Permítanme escribir eso.
+
+00:15:00.105 --> 00:15:05.580
+319 00:15:05,58 -&gt; 00:15:10,65 Y yo voy a decir que esto es igual a f prima de x
+
+00:15:10.650 --> 00:15:12.680
+Y esto va a ser otra función.
+
+00:15:12.680 --> 00:15:16.320
+Porque recuerda, los cambios de pendiente en cada valor de x.
+
+00:15:16.320 --> 00:15:18.640
+No importa qué valor de x que elija, la pendiente es
+
+00:15:18.640 --> 00:15:19.260
+va a ser diferente.
+
+00:15:19.260 --> 00:15:20.880
+No tiene que ser, pero la forma en que llegó a esta curva,
+
+00:15:20.880 --> 00:15:21.500
+es diferente.
+
+00:15:21.500 --> 00:15:22.950
+Puede ser diferente.
+
+00:15:22.950 --> 00:15:27.070
+Así que ahora, usted me da un valor de x en aquí, voy a aplicar este
+
+00:15:27.070 --> 00:15:30.090
+fórmula por aquí, y luego te puedo decir la
+
+00:15:30.090 --> 00:15:31.810
+pendiente en ese punto.
+
+00:15:31.810 --> 00:15:34.180
+Y todo parece muy confuso y tal vez
+
+00:15:34.180 --> 00:15:35.810
+resumen en este punto.
+
+00:15:35.810 --> 00:15:38.030
+En el siguiente video, en realidad voy a hacer un ejemplo de
+
+00:15:38.030 --> 00:15:40.300
+el cálculo de una pendiente, y va a hacer todo lo que un
+
+00:15:40.300 --> 00:15:42.400
+poco más concreto.

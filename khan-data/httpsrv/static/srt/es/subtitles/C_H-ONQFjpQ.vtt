@@ -1,0 +1,846 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.580
+~Pausa~
+
+00:00:00.580 --> 00:00:03.360
+En el último video, le mostré lo que parecía una neurona
+
+00:00:03.360 --> 00:00:05.790
+y hablamos de las diferentes partes de una neurona,
+
+00:00:05.790 --> 00:00:08.480
+y te di la idea general de lo que una neurona.
+
+00:00:08.480 --> 00:00:11.270
+Se obtiene estimuló a las dendritas--y la
+
+00:00:11.270 --> 00:00:13.730
+estimulación que hablaremos en el futuro videos sobre lo que
+
+00:00:13.730 --> 00:00:16.480
+exactamente ese medio--y que ese impulso, que
+
+00:00:16.480 --> 00:00:19.450
+información, la señal se suman.
+
+00:00:19.450 --> 00:00:22.480
+Si hay varios puntos de estimulación en diversos
+
+00:00:22.480 --> 00:00:25.660
+dendritas, se obtiene sumado y si cumple con algunos umbral
+
+00:00:25.660 --> 00:00:28.310
+nivel, va a crear este potencial de acción o
+
+00:00:28.310 --> 00:00:34.380
+señal que viaja a través del axón y tal vez estimula
+
+00:00:34.380 --> 00:00:38.550
+otras neuronas o músculos porque estos puntos terminales
+
+00:00:38.550 --> 00:00:41.280
+de los axones puedan conectarse a las dendritas de
+
+00:00:41.280 --> 00:00:44.550
+otras neuronas o a células musculares o quién sabe qué.
+
+00:00:44.550 --> 00:00:46.690
+Pero lo que quiero hacer en este video es tipo de laico del
+
+00:00:46.690 --> 00:00:50.100
+bloques de construcción para lo que es esta señal o cómo
+
+00:00:50.100 --> 00:00:54.350
+una neurona realmente transmitir esta información
+
+00:00:54.350 --> 00:00:56.980
+a través del axón--o realmente, cómo va desde la
+
+00:00:56.980 --> 00:00:59.630
+¿dendrita hacia el axón?
+
+00:00:59.630 --> 00:01:01.960
+Antes realmente incluso hablar acerca de eso, tenemos que tipo de
+
+00:01:01.960 --> 00:01:07.400
+establecer las reglas del juego--o una comprensión de la tierra de la
+
+00:01:07.400 --> 00:01:10.120
+el voltaje real potencial a través de la
+
+00:01:10.120 --> 00:01:11.060
+membrana de la neurona.
+
+00:01:11.060 --> 00:01:14.070
+Y, en realidad, todas las celdas tienen algún potencial de voltaje
+
+00:01:14.070 --> 00:01:15.660
+diferencia, pero es de especial relevancia cuando nos
+
+00:01:15.660 --> 00:01:18.110
+hablar de una neurona y su capacidad para enviar señales.
+
+00:01:18.110 --> 00:01:20.745
+Vamos a acercar celular de la neurona.
+
+00:01:20.745 --> 00:01:25.580
+~Pausa~
+
+00:01:25.580 --> 00:01:27.870
+Podía acercar a cualquier punto de esta celda que no es
+
+00:01:27.870 --> 00:01:30.410
+cubierto por una vaina de mielina.
+
+00:01:30.410 --> 00:01:32.520
+Me voy a acercar su membrana.
+
+00:01:32.520 --> 00:01:39.470
+Así que vamos a decir que es la membrana de la
+
+00:01:39.470 --> 00:01:43.260
+neurona, nomás.
+
+00:01:43.260 --> 00:01:45.060
+Es la membrana.
+
+00:01:45.060 --> 00:01:50.970
+Esto está fuera de la neurona o la celda.
+
+00:01:50.970 --> 00:01:56.730
+Y esto está dentro de la neurona o la celda.
+
+00:01:56.730 --> 00:01:59.220
+Ahora, usted tiene sodio y potasio
+
+00:01:59.220 --> 00:02:00.370
+iones flotando alrededor.
+
+00:02:00.370 --> 00:02:01.920
+Voy a dibujar el sodio como este.
+
+00:02:01.920 --> 00:02:03.900
+Va de sodio que es un círculo.
+
+00:02:03.900 --> 00:02:06.770
+Por lo que es sodio y sus iones cargados positivamente tienen un
+
+00:02:06.770 --> 00:02:09.840
+Además de un cargo y, a continuación, potasio, podrá señalar a ellos como
+
+00:02:09.840 --> 00:02:11.340
+pequeños triángulos.
+
+00:02:11.340 --> 00:02:13.150
+Así que vamos a decir que el potasio--símbolo de
+
+00:02:13.150 --> 00:02:14.320
+el potasio es K.
+
+00:02:14.320 --> 00:02:16.190
+Está cargado positivamente.
+
+00:02:16.190 --> 00:02:17.710
+Y tienes sólo tirados.
+
+00:02:17.710 --> 00:02:19.340
+Digamos que empezamos tanto dentro y
+
+00:02:19.340 --> 00:02:21.230
+fuera de la célula.
+
+00:02:21.230 --> 00:02:38.550
+~Pausa~
+
+00:02:38.550 --> 00:02:40.910
+Ellos están cargados de todo positivamente.
+
+00:02:40.910 --> 00:02:43.800
+Sodio en su interior algunos sodio fuera.
+
+00:02:43.800 --> 00:02:48.010
+Ahora resulta que las celdas tienen carga más positiva
+
+00:02:48.010 --> 00:02:50.130
+fuera de sus membranas que
+
+00:02:50.130 --> 00:02:51.410
+en el interior de sus membranas.
+
+00:02:51.410 --> 00:02:53.830
+Por lo que hay realmente un potencial diferencia que si
+
+00:02:53.830 --> 00:02:56.450
+la membrana no estaba allí, negativo cobra querría
+
+00:02:56.450 --> 00:02:59.380
+escape o cargas positivas o iones positivos
+
+00:02:59.380 --> 00:03:01.130
+quisiera conseguir.
+
+00:03:01.130 --> 00:03:03.620
+El exterior termina siendo más positiva, y vamos a
+
+00:03:03.620 --> 00:03:04.870
+hablar de eso.
+
+00:03:04.870 --> 00:03:10.140
+~Pausa~
+
+00:03:10.140 --> 00:03:14.480
+¿Así que esto es un gradiente potencial eléctrico, correcto?
+
+00:03:14.480 --> 00:03:18.300
+Si esto es menos positivo que--si tengo un positivo
+
+00:03:18.300 --> 00:03:19.790
+carga aquí, va a querer ir a menos
+
+00:03:19.790 --> 00:03:20.540
+lado positivo.
+
+00:03:20.540 --> 00:03:21.820
+Va a querer ir lejos de la
+
+00:03:21.820 --> 00:03:22.870
+otras cargas positivas.
+
+00:03:22.870 --> 00:03:25.310
+Es repelido por las otras cargas positivas.
+
+00:03:25.310 --> 00:03:27.610
+Asimismo, si tuviera una carga negativa aquí, quisiera ir
+
+00:03:27.610 --> 00:03:30.290
+el otro lado--o una carga positiva, supongo, sería
+
+00:03:30.290 --> 00:03:32.530
+ser más feliz aquí que aquí.
+
+00:03:32.530 --> 00:03:34.160
+Pero la pregunta es, ¿que ocurre?
+
+00:03:34.160 --> 00:03:36.570
+Porque abandonó a su suerte, los cargos que
+
+00:03:36.570 --> 00:03:38.840
+se dispersan para que no tenga este gradiente de potencial.
+
+00:03:38.840 --> 00:03:41.910
+De alguna manera tenemos que poner energía en el sistema a fin de
+
+00:03:41.910 --> 00:03:46.860
+producir este estado donde tenemos más positivo sobre la
+
+00:03:46.860 --> 00:03:49.070
+carga del exterior que hacemos en el interior.
+
+00:03:49.070 --> 00:03:52.530
+Y que se realiza por las bombas de sodio potasio.
+
+00:03:52.530 --> 00:03:55.560
+Voy a dibujar una cierta manera.
+
+00:03:55.560 --> 00:03:57.810
+Esto es, evidentemente, no cómo la proteína realmente ve, pero
+
+00:03:57.810 --> 00:04:00.870
+lo voy a dar un sentido de cómo bombea realmente las cosas.
+
+00:04:00.870 --> 00:04:03.700
+~Pausa~
+
+00:04:03.700 --> 00:04:05.230
+Te señalar a ese lado de la proteína.
+
+00:04:05.230 --> 00:04:08.760
+Tal vez este aspecto y tendrás un sentido de por qué me
+
+00:04:08.760 --> 00:04:10.050
+dibujó como este.
+
+00:04:10.050 --> 00:04:14.010
+Para que el lado de la proteína o la enzima--y luego la
+
+00:04:14.010 --> 00:04:15.640
+otro lado, te dibujarla como este.
+
+00:04:15.640 --> 00:04:18.380
+Se ve algo como esto y por supuesto la proteína real
+
+00:04:18.380 --> 00:04:19.250
+no tener este aspecto.
+
+00:04:19.250 --> 00:04:22.510
+Tú me has visto mostrar qué proteínas realmente ves como.
+
+00:04:22.510 --> 00:04:25.620
+Parecen grandes clusters de cosas, enormemente complejas.
+
+00:04:25.620 --> 00:04:27.570
+Diferentes partes de las proteínas pueden enlazarse con diferentes
+
+00:04:27.570 --> 00:04:31.150
+las cosas y cuando las cosas de bonos a las proteínas, cambian de forma.
+
+00:04:31.150 --> 00:04:33.565
+Pero estoy haciendo un diagrama muy sencillo aquí y lo que quiero
+
+00:04:33.565 --> 00:04:37.170
+le mostraremos es, esta es nuestra bomba de sodio potasio en su
+
+00:04:37.170 --> 00:04:38.580
+estado inactivado.
+
+00:04:38.580 --> 00:04:40.680
+Y lo que ocurre en esta situación es que tenemos
+
+00:04:40.680 --> 00:04:44.290
+Estos agradables lugares donde puede enlazar nuestra sodio.
+
+00:04:44.290 --> 00:04:49.940
+Así que en esta situación, sodio puede enlazar a estos lugares
+
+00:04:49.940 --> 00:04:52.320
+nuestra enzima o sobre nuestra proteína.
+
+00:04:52.320 --> 00:04:54.470
+Y si sólo teníamos el bind sodiums y no tenían ninguna
+
+00:04:54.470 --> 00:04:56.070
+energía entrar en el sistema, nada pasaría.
+
+00:04:56.070 --> 00:04:58.270
+Sólo se quedaría en esta situación.
+
+00:04:58.270 --> 00:05:01.650
+La proteína real podría parecer algo loco.
+
+00:05:01.650 --> 00:05:05.290
+La proteína real podría ser esta gran nube de proteína y
+
+00:05:05.290 --> 00:05:09.200
+Luego de sus sodiums bonos allí, allí y allí.
+
+00:05:09.200 --> 00:05:11.940
+Tal vez sea dentro de la proteína de alguna manera, pero aún así, nada
+
+00:05:11.940 --> 00:05:15.500
+va a ocurrir justo cuando el sodio bonos en este lado del
+
+00:05:15.500 --> 00:05:16.670
+la proteína.
+
+00:05:16.670 --> 00:05:18.730
+En orden para que pueda hacer nada, en orden para que
+
+00:05:18.730 --> 00:05:24.490
+nada fuera de la bomba, usa la energía de ATP.
+
+00:05:24.490 --> 00:05:27.580
+Así que hemos tenido todos esos vídeos sobre respiración y le dije
+
+00:05:27.580 --> 00:05:30.530
+ese ATP fue la moneda de la energía en la célula--bien,
+
+00:05:30.530 --> 00:05:33.030
+Esto es útil para ATP hacer algo.
+
+00:05:33.030 --> 00:05:38.280
+ATP--es adenosina trifosfato--, podría ir a
+
+00:05:38.280 --> 00:05:42.160
+alguna otra parte de la enzima, pero en este esquema, quizás
+
+00:05:42.160 --> 00:05:44.220
+va a esta parte de la enzima.
+
+00:05:44.220 --> 00:05:47.170
+~Pausa~
+
+00:05:47.170 --> 00:05:50.390
+Y esta enzima, es un tipo de ATPasa.
+
+00:05:50.390 --> 00:05:54.760
+Cuando digo ATPasa, rompe un fosfato desde el ATP--
+
+00:05:54.760 --> 00:05:56.410
+y que es sólo en virtud de su forma.
+
+00:05:56.410 --> 00:05:57.910
+Es capaz de lo monto apaga.
+
+00:05:57.910 --> 00:06:01.270
+Cuando plunks apagado el fosfato, cambia de forma.
+
+00:06:01.270 --> 00:06:06.320
+~Pausa~
+
+00:06:06.320 --> 00:06:11.510
+Así que el paso uno, contamos con iones de sodio--y de hecho, vamos a
+
+00:06:11.510 --> 00:06:13.070
+mantener el número de ellos.
+
+00:06:13.070 --> 00:06:16.310
+Tenemos tres sodio--estas son las proporciones reales--tres
+
+00:06:16.310 --> 00:06:23.570
+iones de sodio del interior de la célula o la neurona.
+
+00:06:23.570 --> 00:06:29.330
+Ellos pegarse a la bomba, que en realidad es una proteína que atraviesa
+
+00:06:29.330 --> 00:06:30.920
+nuestra membrana.
+
+00:06:30.920 --> 00:06:34.590
+Ahora, paso dos, también tenemos ATP.
+
+00:06:34.590 --> 00:06:41.040
+ATP obtiene roto en ATP y fosfato en el real
+
+00:06:41.040 --> 00:06:43.350
+proteína y cambia la forma.
+
+00:06:43.350 --> 00:06:51.635
+Así también proporciona energía para cambiar la forma de la bomba.
+
+00:06:51.635 --> 00:06:55.780
+~Pausa~
+
+00:06:55.780 --> 00:06:57.430
+Ahora es cuando la bomba fue antes.
+
+00:06:57.430 --> 00:07:01.920
+Ahora después, nuestra bomba podría ser algo como esto.
+
+00:07:01.920 --> 00:07:03.570
+Me deja claro a algún espacio aquí.
+
+00:07:03.570 --> 00:07:05.200
+Te llamo la bomba después allí.
+
+00:07:05.200 --> 00:07:07.860
+~Pausa~
+
+00:07:07.860 --> 00:07:09.400
+Y esto es antes.
+
+00:07:09.400 --> 00:07:13.460
+Después de la separación de la fosfato obtiene fuera de la ATP, puede parecer
+
+00:07:13.460 --> 00:07:14.830
+algo como esto.
+
+00:07:14.830 --> 00:07:18.360
+En lugar de estar en esa configuración, se abre en el
+
+00:07:18.360 --> 00:07:19.130
+otra dirección.
+
+00:07:19.130 --> 00:07:21.420
+Así que ahora puede parecer algo como esto.
+
+00:07:21.420 --> 00:07:24.170
+~Pausa~
+
+00:07:24.170 --> 00:07:27.500
+Y por supuesto está llevando a cabo estos grupos fosfato.
+
+00:07:27.500 --> 00:07:28.775
+Tienen una carga positiva.
+
+00:07:28.775 --> 00:07:31.470
+~Pausa~
+
+00:07:31.470 --> 00:07:32.310
+Está abierto como este.
+
+00:07:32.310 --> 00:07:36.390
+Este lado ahora este aspecto.
+
+00:07:36.390 --> 00:07:38.940
+Así que ahora los fosfatos son liberados hacia el exterior.
+
+00:07:38.940 --> 00:07:40.300
+Así que has sido bombeados hacia el exterior.
+
+00:07:40.300 --> 00:07:42.190
+Recuerde, esto es energía necesaria porque va
+
+00:07:42.190 --> 00:07:43.870
+contra el gradiente natural.
+
+00:07:43.870 --> 00:07:46.290
+Usted está tomando la carga positiva y usted está empujando a una
+
+00:07:46.290 --> 00:07:50.670
+entorno que es aún más positivo y usted está también
+
+00:07:50.670 --> 00:07:53.740
+llevándolo a un entorno donde ya hay un montón de
+
+00:07:53.740 --> 00:07:55.625
+sodio y te estás poniendo más sodio allí.
+
+00:07:55.625 --> 00:07:58.370
+Así que vas contra el gradiente de carga y eres
+
+00:07:58.370 --> 00:07:59.980
+ir en contra del gradiente de sodio.
+
+00:07:59.980 --> 00:08:03.550
+Pero ahora--supongo que lo llamamos paso tres--obtiene el sodio
+
+00:08:03.550 --> 00:08:07.090
+lanzado fuera de la célula.
+
+00:08:07.090 --> 00:08:10.350
+Y cuando esto cambia de forma, no es tan bueno en enlace
+
+00:08:10.350 --> 00:08:11.490
+con el sodio ya.
+
+00:08:11.490 --> 00:08:13.660
+Así que quizá pueden estar un poco diferente, tan
+
+00:08:13.660 --> 00:08:16.410
+que el sodio no puede adherir incluso en esta configuración ahora
+
+00:08:16.410 --> 00:08:20.080
+que la proteína ha cambiado de forma debido a la ATP.
+
+00:08:20.080 --> 00:08:26.110
+Así paso tres, los tres sopesen Na, iones de sodio--son
+
+00:08:26.110 --> 00:08:28.590
+lanzado fuera.
+
+00:08:28.590 --> 00:08:31.700
+~Pausa~
+
+00:08:31.700 --> 00:08:33.760
+Ahora una vez en esta configuración, tenemos todos
+
+00:08:33.760 --> 00:08:35.820
+Estos iones positivos aquí.
+
+00:08:35.820 --> 00:08:38.480
+Estos iones positivos desean obtener realmente tan lejos de
+
+00:08:38.480 --> 00:08:39.240
+entre sí como sea posible.
+
+00:08:39.240 --> 00:08:42.320
+En realidad probablemente serían atraídos a la célula
+
+00:08:42.320 --> 00:08:44.820
+porque la célula es menos positiva en el interior.
+
+00:08:44.820 --> 00:08:48.590
+Así que estos iones positivos--y en particular, el potasio--
+
+00:08:48.590 --> 00:08:52.170
+puede enlazarse a este lado de la proteína cuando es en esto--me
+
+00:08:52.170 --> 00:08:55.550
+Supongo que podríamos llamar esta configuración activada.
+
+00:08:55.550 --> 00:08:58.570
+Ahora, supongo que podríamos llamar paso cuatro.
+
+00:08:58.570 --> 00:09:01.400
+~Pausa~
+
+00:09:01.400 --> 00:09:07.260
+Tenemos dos bonos de iones de sodio a--supongo que podríamos llamar
+
+00:09:07.260 --> 00:09:12.680
+la bomba activada--o cambio de bomba.
+
+00:09:12.680 --> 00:09:15.320
+O tal vez podríamos decir que es en su forma abierta.
+
+00:09:15.320 --> 00:09:18.930
+Así que vienen aquí y cuando de bonos, re-changes la
+
+00:09:18.930 --> 00:09:24.430
+forma de esta proteína a esta forma, nuevamente
+
+00:09:24.430 --> 00:09:25.590
+al abrir la forma.
+
+00:09:25.590 --> 00:09:27.660
+Ahora cuando se remonta a la forma abierta, estos chicos no son
+
+00:09:27.660 --> 00:09:30.510
+aquí ya, pero tienen estos dos chicos sentados aquí
+
+00:09:30.510 --> 00:09:33.930
+y en esta forma justo aquí, de repente, estas divots--
+
+00:09:33.930 --> 00:09:34.660
+tal vez no son divots.
+
+00:09:34.660 --> 00:09:37.860
+Son realmente las cosas en este gran grupo de proteínas.
+
+00:09:37.860 --> 00:09:42.230
+No son tan buenos en permanecer servidumbre o sosteniendo sobre estos
+
+00:09:42.230 --> 00:09:47.290
+sodiums para obtener lanzados estas sodiums en la célula.
+
+00:09:47.290 --> 00:09:53.310
+Así paso cinco, la bomba--esto cambia la forma de bomba.
+
+00:09:53.310 --> 00:09:56.636
+Tan bomba cambia de forma al original.
+
+00:09:56.636 --> 00:10:05.200
+~Pausa~
+
+00:10:05.200 --> 00:10:09.220
+Y entonces una vez que estamos en el original, esos dos sodio
+
+00:10:09.220 --> 00:10:15.920
+iones liberados dentro de la célula.
+
+00:10:15.920 --> 00:10:17.990
+Vamos a ver en los próximos pocos videos por qué es útil
+
+00:10:17.990 --> 00:10:19.690
+tienen los iones de sodio en el interior.
+
+00:10:19.690 --> 00:10:21.360
+Usted podría decir: bueno, ¿por qué no nos sólo mantener bombeo cosas sobre
+
+00:10:21.360 --> 00:10:23.420
+¿el exterior con el fin de tener una diferencia de potencial?
+
+00:10:23.420 --> 00:10:24.500
+Pero vamos a ver que son estos iones de sodio
+
+00:10:24.500 --> 00:10:26.620
+en realidad también muy útil.
+
+00:10:26.620 --> 00:10:28.870
+¿Cuál es el efecto neto que está pasando?
+
+00:10:28.870 --> 00:10:35.930
+Terminamos con mucho más iones de sodio en el exterior y
+
+00:10:35.930 --> 00:10:40.420
+Terminamos con más iones de potasio en el interior, pero dije
+
+00:10:40.420 --> 00:10:42.940
+lo que el interior es menos positivo que el exterior.
+
+00:10:42.940 --> 00:10:44.300
+Pero estas son positivas.
+
+00:10:44.300 --> 00:10:46.850
+No me importa si tengo más potasio o sodio, pero si
+
+00:10:46.850 --> 00:10:50.760
+atención a las relaciones que se hablaba, cada
+
+00:10:50.760 --> 00:10:54.290
+tiempo utilizamos un ATP, estamos bombeando de tres sodiums y
+
+00:10:54.290 --> 00:10:58.860
+¿nosotros sólo estamos bombeo en dos potassiums, derecha?
+
+00:10:58.860 --> 00:11:02.880
+Nos bombeadas tres sodiums y dos potassiums. Cada uno de
+
+00:11:02.880 --> 00:11:06.610
+ellos tienen un cargo de plus-1, pero cada vez que hacemos esto, estamos
+
+00:11:06.610 --> 00:11:08.960
+¿agregar una carga de net-1 hacia el exterior, derecho?
+
+00:11:08.960 --> 00:11:10.910
+3 en el exterior, 2 en el interior.
+
+00:11:10.910 --> 00:11:14.560
+Tenemos una carga de net-1--, que tenemos un plus-1 hacia el exterior.
+
+00:11:14.560 --> 00:11:17.770
+Por lo que estamos haciendo el exterior más positivo, especialmente
+
+00:11:17.770 --> 00:11:19.520
+en relación con el interior.
+
+00:11:19.520 --> 00:11:21.840
+Y esto es lo que crea esa diferencia de potencial.
+
+00:11:21.840 --> 00:11:24.000
+Si realmente tuvo un voltímetro--un voltímetro
+
+00:11:24.000 --> 00:11:27.770
+mide la diferencia de potencial eléctrico--y que tomó la
+
+00:11:27.770 --> 00:11:31.800
+diferencia de voltaje entre este punto y este punto--o
+
+00:11:31.800 --> 00:11:34.440
+más específicamente, entre este punto y ese punto, si
+
+00:11:34.440 --> 00:11:37.310
+fueras a restar la tensión aquí de la tensión
+
+00:11:37.310 --> 00:11:43.710
+allí, usted obtendrá-70 milivoltios, que es generalmente
+
+00:11:43.710 --> 00:11:46.650
+considera la diferencia de voltaje reposo, el potencial
+
+00:11:46.650 --> 00:11:49.910
+diferencia a través de la membrana de la neurona cuando está en su
+
+00:11:49.910 --> 00:11:51.010
+Estado de reposo.
+
+00:11:51.010 --> 00:11:55.180
+Así que en este video, tipo de puesto a la Fundación por qué
+
+00:11:55.180 --> 00:11:59.190
+y cómo una célula usando ATP, utilizando la energía, es capaz de
+
+00:11:59.190 --> 00:12:02.290
+mantener una diferencia de potencial a través de su membrana
+
+00:12:02.290 --> 00:12:06.490
+donde el exterior es ligeramente más positivo que el interior.
+
+00:12:06.490 --> 00:12:08.540
+Así que realmente tenemos una diferencia de potencial negativa si estamos
+
+00:12:08.540 --> 00:12:10.810
+comparando el interior hacia el exterior.
+
+00:12:10.810 --> 00:12:13.260
+Carga positiva que desee mover en si se les permitía
+
+00:12:13.260 --> 00:12:15.880
+a y negativa carga querrían mudarse si era
+
+00:12:15.880 --> 00:12:17.030
+permitido.
+
+00:12:17.030 --> 00:12:18.680
+Ahora puede haber una última pregunta.
+
+00:12:18.680 --> 00:12:23.380
+Usted podría decir: bueno, si solo nos seguimos agregando carga fuera
+
+00:12:23.380 --> 00:12:25.930
+aquí, nuestra diferencia de tensión sería conseguir realmente negativa.
+
+00:12:25.930 --> 00:12:29.290
+Esto sería mucho más negativo que el exterior.
+
+00:12:29.290 --> 00:12:32.030
+¿Por qué se estabiliza en -70?
+
+00:12:32.030 --> 00:12:34.240
+Para contestar esa pregunta--estos van a entrar en
+
+00:12:34.240 --> 00:12:37.550
+juego en mucho más detalle en el futuro videos--también tiene
+
+00:12:37.550 --> 00:12:42.530
+canales, que en realidad son proteínas que en estructuras
+
+00:12:42.530 --> 00:12:46.740
+su posición abierta permitirá sodio ir a través de ellos.
+
+00:12:46.740 --> 00:12:48.550
+Y también hay canales que se encuentran en los abiertos
+
+00:12:48.550 --> 00:12:51.120
+posición, permitiría potasio ir a través de ellos.
+
+00:12:51.120 --> 00:12:53.020
+Estoy introducirlo en su posición cerrada.
+
+00:12:53.020 --> 00:12:54.890
+Y vamos a hablar en el siguiente vídeo sobre lo que sucede
+
+00:12:54.890 --> 00:12:55.940
+Cuando se abran.
+
+00:12:55.940 --> 00:12:57.700
+Pero en su posición cerrada, son todavía
+
+00:12:57.700 --> 00:12:58.950
+poco a poco con fugas.
+
+00:12:58.950 --> 00:13:03.530
+~Pausa~
+
+00:13:03.530 --> 00:13:06.560
+Y si, digamos, la concentración de potasio es demasiado alta
+
+00:13:06.560 --> 00:13:11.530
+aquí--y demasiado alto significado cuando empiezan a
+
+00:13:11.530 --> 00:13:14.560
+alcanzar este umbral de-70 milivoltios--o aún mejor,
+
+00:13:14.560 --> 00:13:16.820
+Cuando el sodio obtiene demasiado alto por ahí, algunos de ellos serán
+
+00:13:16.820 --> 00:13:17.680
+empieza a gotear hacia abajo.
+
+00:13:17.680 --> 00:13:20.060
+Cuando la concentración es realmente alta y esto es realmente
+
+00:13:20.060 --> 00:13:22.560
+positivo sólo por el potencial eléctrico, algunos de
+
+00:13:22.560 --> 00:13:23.990
+sólo les serán empujadas a través de.
+
+00:13:23.990 --> 00:13:26.930
+Por lo que mantendremos nos derecha alrededor de-70 milivoltios.
+
+00:13:26.930 --> 00:13:29.790
+Y si vamos por debajo, quizá algunos del potasio obtiene filtrado
+
+00:13:29.790 --> 00:13:30.580
+a través de otra forma.
+
+00:13:30.580 --> 00:13:33.240
+Así que aunque cuando éstos están cerrados--si se vuelve demasiado
+
+00:13:33.240 --> 00:13:37.150
+ridículo--si va a-80 milivoltios o -90 milivoltios,
+
+00:13:37.150 --> 00:13:39.410
+de repente, sería un enorme incentivo para algunos de
+
+00:13:39.410 --> 00:13:42.700
+Esto fugas a través de sus canales respectivos.
+
+00:13:42.700 --> 00:13:44.410
+Eso es lo que nos permite permanecer en el
+
+00:13:44.410 --> 00:13:46.550
+potencial de tensión estable.
+
+00:13:46.550 --> 00:13:48.500
+En el siguiente video, vamos a ver qué pasa con esto
+
+00:13:48.500 --> 00:13:52.400
+potencial de voltaje cuando la neurona es estimulada realmente.
+
+00:13:52.400 --> 00:13:52.631
+~Pausa~

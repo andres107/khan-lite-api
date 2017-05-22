@@ -1,0 +1,252 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.249 --> 00:00:09.463
+Estamos en parte B. La region R esta girando por el eje-x para formar un solido. Encuentra el volumen, V, de el solido en terminos de k.
+
+00:00:09.463 --> 00:00:17.329
+Esta es la region R, y va alternar alrededor de el eje-x... va alternar alrededor de el eje-x para formar un solido.
+
+00:00:17.329 --> 00:00:24.080
+Entonces ese solido se va a ver algo como esto: Se va a ver como esto- esto va a ser el extremo de el solido cuando esta girando alrededor,
+
+00:00:24.080 --> 00:00:30.938
+y se va a ver algo come esto. Hare lo mejor que puedo en dibujar nuestro solido.
+
+00:00:30.938 --> 00:00:40.079
+Va a ser... y entonces ese lado se va ver algo asi; se va a ver casi como un altoparlante.
+
+00:00:40.079 --> 00:00:48.500
+Entonces esto va a ser nuestro solido, y tu puedes imaginar que esto aqui mismo es nuestro eje-y.
+
+00:00:48.500 --> 00:00:57.892
+Eso es el eje-y, y derecho a traves de el centro de el solido ahi tienes tu eje-x.
+
+00:00:57.892 --> 00:01:03.396
+y igual si el solido esta un poco transparente, tu veras el otro lado de esta
+
+00:01:03.396 --> 00:01:07.165
+abertura por aqui. El eje-x va derecho a traves de el centro.
+
+00:01:07.165 --> 00:01:11.620
+Entonces como encontramos el volumen de el solido? Bueno, podemos pensar sobre cada uno de los discos individuales de este
+
+00:01:11.620 --> 00:01:16.742
+solido por aqui. Entonces piensalo en esta manera: vamos a tomar un disco por aca.
+
+00:01:16.742 --> 00:01:19.277
+Toma este disco aqui.
+
+00:01:19.277 --> 00:01:23.575
+Para que te puedas imaginar este poquito de la seccion transversal
+
+00:01:23.575 --> 00:01:28.593
+de este solido, asi este disco aqui mismo va a tener cierta area.
+
+00:01:28.593 --> 00:01:31.260
+Va a tener algo de superficie y tambien va a tener cierta profundidad.
+
+00:01:31.260 --> 00:01:38.478
+Tu puedes imaginar que el fondo es el borde de el cuarto, mientras el area de superficie sirve como la cara de el cuarto;
+
+00:01:38.478 --> 00:01:43.545
+el area de la cara de el cuarto. Entonces que va a ser el volumen de este disco blanco aqui?
+
+00:01:43.545 --> 00:01:51.463
+Bueno va a ser el area de superficie de el disco multiplicado por la profundidad. Entonces cual es el area de superficie?
+
+00:01:51.463 --> 00:01:58.146
+El area de superficie de un circulo es Pi multiplicado por el radio cuadriculado... entonces va a ser
+
+00:01:58.146 --> 00:02:02.278
+Pi multiplicado por... que es este radio?
+
+00:02:02.278 --> 00:02:08.478
+Bueno, el radio es la altura entre el eje-x y la funcion, este radio es e a la potencia de 2x.
+
+00:02:08.478 --> 00:02:20.813
+Entonces el area de cada uno de estos discos a el valor de x va a ser pi multiplicado (e a la potencia de 2x) por cuadriculo,
+
+00:02:20.813 --> 00:02:26.579
+y tambien si queremos el volumen de el este disco entero, vamos al multiplicar el area por la profundidad,
+
+00:02:26.579 --> 00:02:29.063
+entonces es multiplicado por dx.
+
+00:02:29.063 --> 00:02:34.249
+Entonces esto va a ser el volumen de este pequeno disco aqui, que tiene una corta, infinitamente ancha
+
+00:02:34.249 --> 00:02:39.814
+profundidad, pero lo que queremos hacer is sumar todos estos discos. Queremos tener un monton de
+
+00:02:39.814 --> 00:02:44.034
+estos discos. Y queremos sumar todos ellos para que tengamos la suma infinita de estos
+
+00:02:44.034 --> 00:02:50.797
+discos delgados. Esencialmente vamos a tomar la suma de todos estos desde x equivalente a zero,
+
+00:02:50.797 --> 00:02:59.252
+hasta x equivalente a k. Correcto, porque justamente aqui, esto es x = k, esto es x = 0,
+
+00:02:59.252 --> 00:03:02.345
+llevamos la suma de todos los discos, vamos a encontrar el volumen.
+
+00:03:02.345 --> 00:03:08.414
+Entonces podemos evaluar este integral analiticamente, no es tan mal. Porque... dejame escribirlo otra vez...
+
+00:03:08.414 --> 00:03:18.949
+Pi multiplicado... (e a la potencia de 2x) cuadriculado es e a la potencia de (4x) - solo es 2x multiplicado por 2. Si queremos tomar el
+
+00:03:18.949 --> 00:03:23.063
+integral - puedes hacer esto solo por examinarlo - pero si quieres decir, "Hey mira, aqui tengo una funcion
+
+00:03:23.063 --> 00:03:28.504
+quiero su derivado puesto aca," lo que podemos hacer es multiplicar esta expresion por 4;
+
+00:03:28.504 --> 00:03:33.335
+tambien podemos dividirlo por 4. Si multiplicas algo por 4 y lo divides por 4 tu no as cambiado su valor -
+
+00:03:33.335 --> 00:03:39.070
+tu lo multiplicaste por 1. Pero lo que esto hace es que nos da, dejame escribirlo otra vez, esto es
+
+00:03:39.070 --> 00:03:51.543
+lo podemos escribirlo otra vez como (pi sobre 4) multiplicado por 4 multiplicado por (e) a el 4x poder. Acabo de escribir esto - multiplique y dividi por 4.
+
+00:03:51.543 --> 00:03:57.831
+Y la razon porque yo hizo eso es para que tengamos el derivado de 4x, esta sentado aqui mismo, tenemos
+
+00:03:57.831 --> 00:04:03.146
+este cuatro. Pi sobre 4 es constante para que nosotros podamos sacarlo de el integral, y podemos decir
+
+00:04:03.146 --> 00:04:09.811
+esta expresion por aqui es igual a... esta expresion aqui.
+
+00:04:09.811 --> 00:04:16.547
+(pi/4) por el integral de zero a k de (4 e a la potencia de 4x) dx.
+
+00:04:16.547 --> 00:04:22.724
+Y entonces... la razon de multiplicar y dividir por cuatro es: yo tengo algo aqui; yo tengo su derivado.
+
+00:04:22.724 --> 00:04:28.829
+Entonces yo puedo pretender que esto es e a la potencia de x: yo tomo su... puedes decir que tomas el
+
+00:04:28.829 --> 00:04:34.084
+[derivado con respecto a] - o tu puedes llevarte el integral, o el antiderivado con respecto a 4x.
+
+00:04:34.084 --> 00:04:41.128
+Esto - el adentro de e a la potencia de 4x. Y tu puedes verificar: Si tu tomas el derivado de e a la potencia de 4x,
+
+00:04:41.128 --> 00:04:44.580
+eso es el derivado de 4x, que tambien es 4, por (e a la potencia de 4x).
+
+00:04:44.580 --> 00:04:49.414
+Entonces esto aqui es el antiderivado de eso, y vamos a evaluarlo...
+
+00:04:49.414 --> 00:04:57.746
+vamos a evaluarlo desde zero a k. Y todo esto multiplicado por pi sobre cuatro (pi/4).
+
+00:04:57.746 --> 00:05:04.415
+Cuando esta para evaluar a k, es e a la potencia de 4k.
+
+00:05:04.415 --> 00:05:13.812
+Eso es pi/4 por: e a la potencia de 4k menos e a la potencia de (cuatro por zero), que significa e a la potencia de zero, que es [menos] 1.
+
+00:05:13.812 --> 00:05:20.663
+Esto es nuestro volumen: (pi/4) por [e^(4k) -1]. Y eso es parte B. Ya hicimos eso.
+
+00:05:20.663 --> 00:05:27.430
+Ahora parte C - yo pienso que tenemos tiempo para esto. El volumen, V, encontrado en parte B cambia como k cambia tambien.
+
+00:05:27.430 --> 00:05:34.203
+Si el derivado de k con respecto a t es 1/3, encuentra el derivado de V con respecto a t
+
+00:05:34.203 --> 00:05:37.579
+cuando k es 1/2. Esto viene desde la regla de la cadena.
+
+00:05:37.579 --> 00:05:43.646
+La regla de la cadena nos va a decir... y si tu vez el diferencial de calculo ciendo numeros muy pequenos eso solamente
+
+00:05:43.646 --> 00:05:46.081
+se ve como un poco de sentido comun...
+
+00:05:46.081 --> 00:05:51.062
+El ritmo de cambio de V, este bien corto cambio en V con respecto a un cambio corto en t
+
+00:05:51.062 --> 00:05:57.997
+es igual a un cambio bien corto en V con respecto a un cambio bien corto en k,
+
+00:05:57.997 --> 00:06:05.479
+por un cambio bien corto en k dividido por un cambio bien corto en t.
+
+00:06:05.479 --> 00:06:10.013
+O el derivado de v con respecto a t es igual a el derivado de V con respecto a k
+
+00:06:10.013 --> 00:06:12.340
+multiplicado por el derivado de k con respecto a t.
+
+00:06:12.340 --> 00:06:16.514
+Y la razon porque dije esto hizo sentido si tu viste el diferencial como un pequeno numero:
+
+00:06:16.514 --> 00:06:21.882
+Y eso no es una rigurosa manera de hacerlo pero si es una buena manera que hace sentido
+
+00:06:21.882 --> 00:06:26.081
+de como pensar sobre cosas... es que estos aqui van a neutralizarse si solo fueran numeros, y despues
+
+00:06:26.081 --> 00:06:31.497
+tu tendras que tener dV/dt en los dos lados. Y entonces eso es porque you dije que es un poco de sentido comun -
+
+00:06:31.497 --> 00:06:33.252
+tu puedes verlo en esa manera.
+
+00:06:33.252 --> 00:06:35.531
+Pero esto esencialmente nos da todo lo que necesitamos saber:
+
+00:06:35.531 --> 00:06:44.392
+Necesitamos calcular para dV/dt. Ya nos dieron dk/dt = 1/3 cuando k=1/2,
+
+00:06:44.392 --> 00:06:51.747
+ya nos estan diciendo el ritmo de cambio de k con respecto a t, ya sabemos que esta cosa
+
+00:06:51.747 --> 00:06:58.533
+por aqui va a ser 1/3, y ya podemos resolver el derivado de V con respecto a k facilmente:
+
+00:06:58.533 --> 00:07:01.881
+Tenemos V como una funcion de k aqui mismo, entonces vamos a calcular eso.
+
+00:07:01.881 --> 00:07:13.949
+El derivado de V con respecto a k es igual a pi/4 multiplicado por el derivado aqui.
+
+00:07:13.949 --> 00:07:17.948
+El derivado de esto es solo 4(e^4k), el derivado de -1 es solo zero.
+
+00:07:17.948 --> 00:07:26.114
+Entonces e... esto es multiplicado por cuatro... e a el 4k poder es el derivado. Estos de aqui se cancelan cada uno,
+
+00:07:26.114 --> 00:07:33.465
+y esto es igual a pi * e a la potencia de 4k, eso es el derivado de V con respecto a k,
+
+00:07:33.465 --> 00:07:40.831
+queremos encontrarlo cuando k = 1/2, entonces podemos escribir V' a 1/2,
+
+00:07:40.831 --> 00:07:49.866
+o cuando k=1/2, dV/dk va a ser igual a pi multiplicado por e a la potencia de (4 por 1/2),
+
+00:07:49.866 --> 00:07:58.213
+que significa pi * (e cuadriculado). Entonces esta parte aqui mismo es pi*e^2.
+
+00:07:58.213 --> 00:08:02.914
+Y entonces el derivado de V con respecto a t cuando k es igual a 1/2,
+
+00:08:02.914 --> 00:08:11.326
+y el derivado de k con respecto a t es 1/3, va a ser pi*e^2 multiplicado por 1/3.
+
+00:08:11.326 --> 00:08:19.114
+Entonces escribirlo otra vez por aqui. dV/dt va a ser igual a 1/3 * esto.
+
+00:08:19.114 --> 00:08:23.176
+O podemos escribir pi e^2 sobre 3.
+
+00:08:23.176 --> 99:59:59.999
+Y ya esta hecho! :-)

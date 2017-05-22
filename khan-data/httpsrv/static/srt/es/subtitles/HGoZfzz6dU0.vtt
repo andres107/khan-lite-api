@@ -1,0 +1,297 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:02.870
+Si han estado prestando atención a
+
+00:00:02.870 --> 00:00:05.920
+nuestro uso del operador factorial
+
+00:00:05.920 --> 00:00:08.560
+y en los videos de permutación y combinación
+
+00:00:08.560 --> 00:00:11.490
+puede ser que hayan notado algo interesante
+
+00:00:11.490 --> 00:00:14.070
+Revisémos factoriales brevemente.
+
+00:00:14.070 --> 00:00:18.220
+Si yo dijera n factorial, eso por supuesto sería
+
+00:00:18.220 --> 00:00:33.690
+n por n-1 por n-2 y seguiría hasta llegar a por 1
+
+00:00:33.690 --> 00:00:36.720
+sigo disminuyendo n hasta llegar a 1
+
+00:00:36.720 --> 00:00:39.154
+y luego multiplicaría todo
+
+00:00:39.154 --> 00:00:41.534
+así que por ejemplo - y todo esto es revisión-
+
+00:00:41.534 --> 00:00:43.864
+si yo dijera 3 factorial eso sería
+
+00:00:43.864 --> 00:00:47.004
+3 por 2 por 1
+
+00:00:47.004 --> 00:00:49.964
+si dijera 2 factorial eso sería
+
+00:00:49.964 --> 00:00:51.994
+2 por 1
+
+00:00:51.994 --> 00:00:54.524
+si dijera 1 factorial, con esa lógica
+
+00:00:54.524 --> 00:00:57.064
+solo seguiría disminuyendo hasta llegar a 1
+
+00:00:57.064 --> 00:00:59.344
+pero aquí no tengo que disminuir, ya estoy en 1
+
+00:00:59.352 --> 00:01:01.242
+así que sólo multiplico 1
+
+00:01:01.242 --> 00:01:03.512
+¿qué hay del 0 factorial?
+
+00:01:03.512 --> 00:01:04.692
+Ahora esto es interesante.
+
+00:01:04.692 --> 00:01:11.092
+0 factorial, bueno algo lógico sería
+
+00:01:11.092 --> 00:01:15.012
+que 0 factorial es 0.
+
+00:01:15.012 --> 00:01:17.272
+Estoy empezando con el 0 mismo y
+
+00:01:17.281 --> 00:01:18.811
+este ya es menos que 1
+
+00:01:18.811 --> 00:01:21.481
+quizás es 0
+
+00:01:21.481 --> 00:01:25.091
+Ahora lo que veremos es que este no es el caso
+
+00:01:25.091 --> 00:01:28.921
+que las matemáticas y los matemáticos han decidido.
+
+00:01:28.921 --> 00:01:30.561
+y recuerden esto es lo interesante
+
+00:01:30.561 --> 00:01:32.101
+la operación factorial es algo que
+
+00:01:32.101 --> 00:01:34.761
+los humanos han inventado.
+
+00:01:34.761 --> 00:01:36.441
+es algo que piensan que es interesante
+
+00:01:36.441 --> 00:01:37.741
+que es una notación útil
+
+00:01:37.741 --> 00:01:39.781
+así que ellos pueden definir lo que hace
+
+00:01:39.781 --> 00:01:42.971
+y los matemáticos han encontrado que es
+
+00:01:42.971 --> 00:01:45.861
+más útil definir 0 factorial
+
+00:01:45.861 --> 00:01:47.901
+como algo diferente
+
+00:01:47.901 --> 00:01:50.171
+Definir 0 factorial como
+
+00:01:50.171 --> 00:01:52.771
+y aquí hay un redoble de tambores
+
+00:01:52.771 --> 00:01:55.681
+Ellos creen que 0 factorial debería ser 1
+
+00:01:55.681 --> 00:01:58.911
+y yo sé que basado en el razonamiento
+
+00:01:58.911 --> 00:02:00.651
+el razonamiento conceptual de esto
+
+00:02:00.651 --> 00:02:01.801
+esto no tiene sentido.
+
+00:02:01.801 --> 00:02:05.261
+Pero como ya estamos expuestos un poco a permutaciones
+
+00:02:05.261 --> 00:02:09.261
+les mostraré porque esto es un concepto útil
+
+00:02:09.261 --> 00:02:11.651
+especialmente en el mundo de la permutación
+
+00:02:11.651 --> 00:02:14.851
+y combinación, dónde los factoriales
+
+00:02:14.851 --> 00:02:16.241
+aparecen más.
+
+00:02:16.241 --> 00:02:18.321
+La mayoría de los casos en los que
+
+00:02:18.321 --> 00:02:21.141
+he visto factoriales han sido en situaciones de
+
+00:02:21.141 --> 00:02:22.731
+permutaciones y combinaciones
+
+00:02:22.731 --> 00:02:23.801
+y en algunas otras cosas pero
+
+00:02:23.801 --> 00:02:25.961
+mayormente en permutaciones y combinaciones
+
+00:02:25.961 --> 00:02:28.211
+Así que revisemos un poco
+
+00:02:28.211 --> 00:02:31.561
+hemos dicho que si tenemos n cosas
+
+00:02:31.561 --> 00:02:33.191
+y queremos encontrar el número de
+
+00:02:33.191 --> 00:02:37.681
+permutaciones en K espacios será
+
+00:02:37.681 --> 00:02:46.381
+n factorial sobre n menos k factorial
+
+00:02:46.381 --> 00:02:47.971
+y también hemos dicho que
+
+00:02:47.971 --> 00:02:51.131
+si tenemos n cosas y queremos
+
+00:02:51.131 --> 00:02:53.121
+la permutación en n espacios
+
+00:02:53.121 --> 00:02:56.211
+esto es en realidad n factorial
+
+00:02:56.211 --> 00:02:58.887
+el primer lugar tiene, hagámoslo
+
+00:02:58.887 --> 00:03:01.323
+este es el primer lugar, este es
+
+00:03:01.323 --> 00:03:03.651
+el segundo lugar, este es el
+
+00:03:03.651 --> 00:03:09.171
+tercer lugar hasta el lugar n
+
+00:03:09.171 --> 00:03:13.887
+y habrían n posibilidades para el primer lugar
+
+00:03:13.887 --> 00:03:15.593
+o para el objeto que está en el primer lugar
+
+00:03:15.593 --> 00:03:17.441
+y para cada una de esas posibilidades habrá
+
+00:03:17.441 --> 00:03:19.881
+n menos 1 posibilidades para el objeto que
+
+00:03:19.881 --> 00:03:21.661
+elegiste colocar en el segundo lugar
+
+00:03:21.661 --> 00:03:24.441
+porque ya pusiste uno en el primer lugar
+
+00:03:24.441 --> 00:03:27.611
+Ahora para cada uno de las n por n-1 posibilidades
+
+00:03:27.611 --> 00:03:28.981
+donde has colocado dos cosas
+
+00:03:28.981 --> 00:03:32.981
+habrá n - 2 posibilidades en el tercer lugar
+
+00:03:32.981 --> 00:03:35.421
+y seguirías hasta llegar a 1
+
+00:03:35.421 --> 00:03:38.451
+Y esto es exactamente lo que escribimos acá
+
+00:03:38.451 --> 00:03:44.321
+Esto es igual a n factorial
+
+00:03:44.321 --> 00:03:46.661
+Pero si aplicamos directamente esta fórmula
+
+00:03:46.661 --> 00:03:48.251
+si aplicamos esta fórmula
+
+00:03:48.251 --> 00:03:49.291
+Esto tendría que ser
+
+00:03:49.291 --> 00:03:55.001
+n factorial sobre n - n factorial
+
+00:03:55.001 --> 00:03:57.241
+y ahí ves porque esto es interesante
+
+00:03:57.241 --> 00:04:03.331
+porque esto va a ser n factorial sobre 0 factorial
+
+00:04:03.331 --> 00:04:07.711
+así que para que esta fórmula se aplique
+
+00:04:07.711 --> 00:04:13.921
+o incluso para el caso en el que k es igual a n
+
+00:04:13.921 --> 00:04:15.801
+el cuál es este de acá
+
+00:04:15.801 --> 00:04:18.231
+y para que esto sea consistente lógicamente
+
+00:04:18.231 --> 00:04:22.321
+0 factorial tiene que ser igual a 1
+
+00:04:22.321 --> 00:04:24.181
+así que la comunidad matemática
+
+00:04:24.181 --> 00:04:26.401
+ha decidido que esto que hemos construído
+
+00:04:26.401 --> 00:04:27.991
+llamado factorial.
+
+00:04:27.991 --> 00:04:30.491
+ponemos un signo de admiración detrás de algo
+
+00:04:30.491 --> 00:04:32.761
+y en nuestras cabezas contamos ese número
+
+00:04:32.761 --> 00:04:35.671
+hasta que llegue al 1 y los multiplicamos
+
+00:04:35.671 --> 00:04:39.111
+para cero, sólo vamos a definirlo
+
+00:04:39.111 --> 00:04:40.771
+haremos una definición matemática
+
+00:04:40.771 --> 00:04:46.311
+diremos que 0 factorial es igual a 1
+
+00:04:46.000 --> 00:04:49.150
+Y esto es en realidad muy útil

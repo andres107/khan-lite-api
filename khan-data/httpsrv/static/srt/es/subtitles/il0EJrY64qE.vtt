@@ -1,0 +1,891 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.010 --> 00:00:05.050
+Lo que voy a hacer en este video es dar una introducción al lenguaje
+
+00:00:05.060 --> 00:00:10.990
+o algunos de los símbolos que usamos cuando hablamos sobre geometría
+
+00:00:11.000 --> 00:00:13.150
+y supongo que la mejor forma de empezar es pensando sobre
+
+00:00:13.160 --> 00:00:14.410
+¿qué significa la geometría?
+
+00:00:14.420 --> 00:00:18.520
+Como podrás ver, la primera parte de la palabra geometría
+
+00:00:18.530 --> 00:00:20.440
+es la raíz "geo"
+
+00:00:20.450 --> 00:00:24.090
+La misma palabra que ves en palabras como geografía y geología
+
+00:00:24.100 --> 00:00:26.740
+y esto es así porque se refiere a la tierra
+
+00:00:26.750 --> 00:00:28.360
+Esto se refiere,
+
+00:00:28.370 --> 00:00:30.090
+(mi E parece una C aquí)
+
+00:00:30.100 --> 00:00:31.800
+esto se refiere a la tierra
+
+00:00:31.810 --> 00:00:34.250
+luego ves la otra parte: "metría"
+
+00:00:34.260 --> 00:00:37.360
+y la ves también en cosas como la trigonometría,
+
+00:00:37.370 --> 00:00:40.920
+y "metría" o el sistema métrico y esto viene de medición,
+
+00:00:40.930 --> 00:00:44.110
+esto viene de medición o medida
+
+00:00:44.120 --> 00:00:45.420
+Medición
+
+00:00:45.430 --> 00:00:47.120
+Así que cuando alguien está hablando de geometría,
+
+00:00:47.130 --> 00:00:50.290
+La palabra misma significa medida de la tierra
+
+00:00:50.300 --> 00:00:52.520
+Y eso no es malo en un nombre
+
+00:00:52.530 --> 00:00:54.430
+ya que ¡es un tema tan general!
+
+00:00:54.440 --> 00:00:59.130
+La geometría es el estudio y el intento de entender
+
+00:00:59.140 --> 00:01:05.750
+¿Cómo las formas y el espacio y las cosas que vemos se relacionan mutuamente
+
+00:01:05.760 --> 00:01:08.750
+Así que ya sabes, cuando comienzas a aprender acerca de geometría,
+
+00:01:08.760 --> 00:01:11.120
+Aprendes sobre líneas, triángulos y círculos
+
+00:01:11.130 --> 00:01:12.470
+Y aprendes sobre ángulos
+
+00:01:12.480 --> 00:01:15.350
+Y todas estas cosas las definiremos más precisamente
+
+00:01:15.360 --> 00:01:16.680
+ya que vayamos avanzando,
+
+00:01:16.690 --> 00:01:18.710
+Pero también cosas restringidas como diseños
+
+00:01:18.720 --> 00:01:20.680
+Y formas tridimensionales
+
+00:01:20.690 --> 00:01:23.190
+Así que es casi todo lo que vemos
+
+00:01:23.200 --> 00:01:26.940
+todas las Matemáticas que entendemos visualmente
+
+00:01:26.950 --> 00:01:30.480
+pueden de alguna manera ser categorizados dentro de la geometría.
+
+00:01:30.490 --> 00:01:33.330
+Ahora con eso fuera del camino, vamos a empezar desde lo básico
+
+00:01:33.340 --> 00:01:35.640
+El punto de partida más básico de la geometría
+
+00:01:35.650 --> 00:01:37.340
+Y entonces podremos avanzar solo a partir de allí
+
+00:01:37.350 --> 00:01:40.110
+Así que, si empezamos en un punto
+
+00:01:40.120 --> 00:01:42.130
+Ese punto por ahí
+
+00:01:42.140 --> 00:01:43.280
+Es sólo un punto
+
+00:01:43.290 --> 00:01:46.450
+Es sólo un punto en la pantalla por ahí
+
+00:01:46.460 --> 00:01:47.870
+que literalmente llamaríamos un punto
+
+00:01:47.880 --> 00:01:49.750
+y yo le haría definición
+
+00:01:49.760 --> 00:01:51.950
+y lo divertido de las matemáticas es
+
+00:01:51.960 --> 00:01:53.270
+que se pueden hacer definiciones.
+
+00:01:53.280 --> 00:01:54.710
+Nosotros podríamos haber llamado a esto
+
+00:01:54.720 --> 00:01:56.340
+Podríamos haber llamado a esto un armadillo,
+
+00:01:56.350 --> 00:01:59.180
+pero decidimos llamar a esto un punto, que creo que tiene sentido
+
+00:01:59.190 --> 00:02:01.590
+Porque es justo como lo llamaríamos en el lenguaje cotidiano así que
+
+00:02:01.600 --> 00:02:02.530
+Este es un punto
+
+00:02:02.540 --> 00:02:05.990
+Ahora lo que es interesante sobre un punto es que
+
+00:02:06.000 --> 00:02:09.650
+es sólo una posición; y no puedes moverte en un punto
+
+00:02:09.660 --> 00:02:12.200
+Si te mueves, si estas en este punto
+
+00:02:12.210 --> 00:02:13.860
+Y si se mueve en cualquier dirección,
+
+00:02:13.870 --> 00:02:15.770
+en ese momento ya no estarías en ese punto
+
+00:02:15.780 --> 00:02:17.500
+Así que no te puedes mover en un punto.
+
+00:02:17.510 --> 00:02:19.820
+Ahora existen diferencias entre los puntos.
+
+00:02:19.830 --> 00:02:21.730
+Por ejemplo es un punto
+
+00:02:21.790 --> 00:02:23.500
+Tal vez tengo otro punto aquí
+
+00:02:23.510 --> 00:02:25.690
+Y luego tengo otro punto aquí
+
+00:02:25.700 --> 00:02:27.460
+Y luego otro punto allí
+
+00:02:27.470 --> 00:02:30.550
+Si quieres ser capaz de referirse a los diferentes puntos
+
+00:02:30.560 --> 00:02:34.390
+Y no todos tienen el lujo de un lápiz color agradable como yo
+
+00:02:34.400 --> 00:02:36.510
+De otra manera, podrías tener un punto verde,
+
+00:02:36.520 --> 00:02:38.120
+O un punto azul, o un punto rosa
+
+00:02:38.130 --> 00:02:42.010
+Así que tendremos que poner etiquetas en geometría para referirnos a los puntos
+
+00:02:42.020 --> 00:02:43.850
+Y las etiquetas tienden a tener las letras
+
+00:02:43.860 --> 00:02:46.530
+Por ejemplo, esto podría ser un punto;
+
+00:02:46.540 --> 00:02:49.480
+Esto podría ser B; Este sería el punto C;
+
+00:02:49.490 --> 00:02:52.410
+y este derecho aquí podría ser punto D
+
+00:02:52.420 --> 00:02:56.200
+Así que si alguien dice "Hola círculo punto C" sabes de qué círculo esta hablando
+
+00:02:56.210 --> 00:02:57.640
+Sabes cuál círculo es,
+
+00:02:57.650 --> 00:03:00.520
+Tendrías a ese punto circular por aqui
+
+00:03:00.530 --> 00:03:03.280
+Así que hasta el momento es bastante interesante
+
+00:03:03.290 --> 00:03:04.760
+Tienes esas cosas llamadas puntos
+
+00:03:04.770 --> 00:03:06.180
+Realmente no puedes moverte de un punto
+
+00:03:06.190 --> 00:03:07.800
+Lo único que hacen es especificar una posición
+
+00:03:07.810 --> 00:03:09.950
+¿Qué pasa si queremos avanzar un poco más?
+
+00:03:09.960 --> 00:03:12.040
+¿Qué pasa si queremos ir de un punto a otro?
+
+00:03:12.050 --> 00:03:14.110
+¿Qué pasa si tomamos
+
+00:03:14.120 --> 00:03:16.890
+si empezamos en algún momento, y quisieramos, quisieramos que todos los puntos
+
+00:03:16.900 --> 00:03:20.410
+incluyendo este punto, se conecten con este punto, formando otros puntos?
+
+00:03:20.420 --> 00:03:22.860
+Quedan todos estos puntos por aquí
+
+00:03:22.870 --> 00:03:26.810
+¿Así que como llamaríamos a esta cosa?
+
+00:03:26.820 --> 00:03:30.570
+Todos los puntos que conectan A y B a lo largo de una recta
+
+00:03:30.580 --> 00:03:32.160
+Y aquí usaré lenguaje cotidiano.
+
+00:03:32.170 --> 00:03:34.240
+Es como una línea recta, como esta
+
+00:03:34.250 --> 00:03:37.180
+Bueno vamos a llamar a esto un segmento de línea
+
+00:03:37.190 --> 00:03:39.390
+En el lenguaje cotidiano se podría llamar una línea
+
+00:03:39.400 --> 00:03:42.120
+Pero bueno lo llaman una segmento de línea, ya veremos que quiere decir,
+
+00:03:42.130 --> 00:03:43.800
+ya que cuando hablamos en términos matemáticos,
+
+00:03:43.810 --> 00:03:45.540
+una línea significa algo un poco diferente,
+
+00:03:45.550 --> 00:03:48.100
+Así que este es un segmento de línea,
+
+00:03:48.110 --> 00:03:50.520
+y si fuéramos a conectar D y C,
+
+00:03:50.530 --> 00:03:52.560
+esto también sería otro segmento de línea
+
+00:03:52.570 --> 00:03:54.460
+Un segmento de línea
+
+00:03:54.470 --> 00:03:59.840
+Y una vez más, porque no siempre podemos darnos el lujo de los colores
+
+00:03:59.850 --> 00:04:02.060
+Este es claramente el segmento de línea naranja;
+
+00:04:02.070 --> 00:04:03.870
+Esto es claramente el segmento de línea amarilla;
+
+00:04:03.880 --> 00:04:07.080
+Y queremos tener etiquetas para estos segmentos de línea
+
+00:04:07.090 --> 00:04:11.550
+Y la mejor forma de etiquetar los segmentos de línea es con sus puntos finales
+
+00:04:11.560 --> 00:04:12.980
+Y esa es otra palabra aquí
+
+00:04:12.990 --> 00:04:16.610
+un punto es literalmente A o B
+
+00:04:16.620 --> 00:04:19.930
+Pero A y B son también los puntos finales de estos segmentos de línea
+
+00:04:19.940 --> 00:04:22.120
+Así que la línea comienza y termina en A y B
+
+00:04:22.130 --> 00:04:24.650
+Déjame escribir este A y B
+
+00:04:24.660 --> 00:04:28.940
+A y B son puntos finales
+
+00:04:28.950 --> 00:04:31.220
+Otra definición aquí
+
+00:04:31.230 --> 00:04:34.740
+Nosotros, una vez más, podríamos haberlos llamado oricteropos o armadillos
+
+00:04:34.750 --> 00:04:37.450
+Pero como matemáticos decidimos llamarlos puntos finales
+
+00:04:37.460 --> 00:04:39.350
+Porque parece ser un buen nombre
+
+00:04:39.360 --> 00:04:44.200
+Y una vez más, necesitamos una forma de etiquetar estos segmentos de línea
+
+00:04:44.210 --> 00:04:45.980
+Con lo que tenemos los puntos finales
+
+00:04:45.990 --> 00:04:48.250
+¿Y cuál es la mejor de etiquetar un segmento de línea,
+
+00:04:48.260 --> 00:04:49.670
+que con sus puntos finales?
+
+00:04:49.680 --> 00:04:52.550
+Así que nos referiremos a este segmento de línea por aquí.
+
+00:04:52.560 --> 00:04:54.760
+Aquí ponemos sus puntos finales.
+
+00:04:54.770 --> 00:04:56.730
+Y para demostrar que es un segmento de línea,
+
+00:04:56.740 --> 00:04:59.070
+podríamos dibujar una línea sobre el, así
+
+00:04:59.080 --> 00:05:02.560
+Este segmento de línea aquí abajo, lo escribiremos así
+
+00:05:02.570 --> 00:05:05.030
+Y nosotros podríamos haberlo fácilmente escrito así:
+
+00:05:05.040 --> 00:05:07.180
+CD con una línea encima
+
+00:05:07.190 --> 00:05:08.820
+Nos referimos al referimos al mismo segmento de línea
+
+00:05:08.830 --> 00:05:13.930
+BA, BA con un segmento de línea con una línea encima
+
+00:05:13.940 --> 00:05:16.170
+se refiere a ese mismo segmento de línea
+
+00:05:16.180 --> 00:05:19.240
+Y ahora podría decir, pues que no estoy satisfecho
+
+00:05:19.250 --> 00:05:21.830
+viajando entre A y B
+
+00:05:21.840 --> 00:05:23.780
+Y esto es en realidad otra idea interesante
+
+00:05:23.790 --> 00:05:26.920
+Cuando estabas en A, cuando estabas solo en un punto
+
+00:05:26.930 --> 00:05:28.820
+Y no podías viajar en absoluto;
+
+00:05:28.830 --> 00:05:31.300
+no podía viajar en absoluto en cualquier dirección hacia afuera
+
+00:05:31.310 --> 00:05:33.010
+durante la estancia en ese punto,
+
+00:05:33.020 --> 00:05:35.790
+Eso significa que usted tiene cero opciones para viajar
+
+00:05:35.800 --> 00:05:38.670
+No puedes ir hacia arriba o abajo, izquierda o derecha, dentro o fuera de la página
+
+00:05:38.680 --> 00:05:39.990
+Y estando en ese punto
+
+00:05:40.000 --> 00:05:42.860
+Y por eso decimos que un punto tiene cero dimensiones
+
+00:05:42.870 --> 00:05:45.450
+Cero dimensiones
+
+00:05:45.460 --> 00:05:49.320
+Ahora de repente, tenemos esta cosa: este segmento de línea aquí
+
+00:05:49.330 --> 00:05:51.190
+Y en este segmento de línea
+
+00:05:51.210 --> 00:05:53.230
+por lo menos podemos ir a la izquierda y a la derecha
+
+00:05:53.240 --> 00:05:54.300
+a lo largo de este segmento de línea
+
+00:05:54.310 --> 00:05:55.910
+Podemos ir hacia A o B
+
+00:05:55.920 --> 00:05:58.930
+Así que podemos volver atrás o hacia adelante en una dimensión
+
+00:05:58.940 --> 00:06:01.260
+Así que el segmento de línea es dimensional
+
+00:06:01.270 --> 00:06:06.390
+Es la idea de una dimension o un objeto de una dimension
+
+00:06:06.400 --> 00:06:09.040
+Aunque estas son más bien ideas de abstractas,
+
+00:06:09.050 --> 00:06:11.130
+no existe algo que sea un segmento perfecto de línea
+
+00:06:11.140 --> 00:06:13.950
+Porque ningún segmento de línea se puede mover
+
+00:06:13.960 --> 00:06:17.280
+No puedes moverte hacia arriba o hacia abajo en este segmento de línea estando en él
+
+00:06:17.290 --> 00:06:19.980
+Mientras que en realidad nada de lo que creemos que es un segmento de línea
+
+00:06:19.990 --> 00:06:23.720
+Ni aún, digamos, un palo de algún tipo...
+
+00:06:23.730 --> 00:06:26.690
+un palo muy recto o una cadena que se cree
+
+00:06:26.700 --> 00:06:29.150
+todavía tendrá un ancho
+
+00:06:29.160 --> 00:06:32.480
+Pero el segmento de línea geométrica pura no tiene ningún ancho
+
+00:06:32.490 --> 00:06:37.380
+Sólo tiene una longitud aquí tan sólo puede mover a lo largo de la línea
+
+00:06:37.390 --> 00:06:39.360
+Y por eso decimos que es de una dimension
+
+00:06:39.370 --> 00:06:41.010
+Un punto del que no te puedes mover en absoluto;
+
+00:06:41.020 --> 00:06:44.080
+un segmento de línea en el que sólo te puedes mover de ida y vuelta
+
+00:06:44.090 --> 00:06:45.410
+en esa misma dirección
+
+00:06:45.420 --> 00:06:48.620
+Ahora, y dije que esto en realidad puede tener longitud
+
+00:06:48.630 --> 00:06:49.820
+¿Cómo te refieres a eso?
+
+00:06:49.830 --> 00:06:53.590
+Se hace referencia a eso al no escribir esa línea encima
+
+00:06:53.600 --> 00:06:56.450
+Así que si escribo AB con una línea encima así
+
+00:06:56.460 --> 00:06:58.800
+Eso significa que me estoy refiriendo al segmento de línea en realidad
+
+00:06:58.810 --> 00:07:00.420
+si en cambio digo que
+
+00:07:00.430 --> 00:07:02.010
+déjame hacer esto en un nuevo color
+
+00:07:02.020 --> 00:07:06.680
+Si digo que AB es igual a cinco unidades
+
+00:07:06.690 --> 00:07:08.690
+Podría ser centímetros o metros, lo que sea
+
+00:07:08.700 --> 00:07:10.620
+Sólo digo que mide la unidad abstracta de cinco,
+
+00:07:10.630 --> 00:07:14.500
+Eso significa que la distancia entre A y B es cinco
+
+00:07:14.510 --> 00:07:19.780
+La longitud del segmento de línea AB es en realidad cinco
+
+00:07:19.790 --> 00:07:21.700
+Ahora vamos a seguirlo ampliando
+
+00:07:21.710 --> 00:07:23.790
+Digamos que queremos seguir en una dirección
+
+00:07:23.800 --> 00:07:26.670
+Así que digamos que comenzaría en el A
+
+00:07:26.680 --> 00:07:29.030
+Déjame hacer esto en un nuevo color
+
+00:07:29.040 --> 00:07:31.220
+Digamos que empiezo en el A y quiero ir a D
+
+00:07:31.230 --> 00:07:33.360
+Pero quiero, yo quiero la opción de ir más allá
+
+00:07:33.370 --> 00:07:34.620
+Quiero seguir adelante
+
+00:07:34.630 --> 00:07:37.160
+Así que no puedo ir más lejos en la dirección de A
+
+00:07:37.170 --> 00:07:39.420
+Pero puedo ir más lejos en dirección de D
+
+00:07:39.430 --> 00:07:43.480
+Así que esto, esta idea que les mostré;
+
+00:07:43.490 --> 00:07:45.600
+Este es esencialmente una segmento de línea
+
+00:07:45.610 --> 00:07:48.000
+Pero yo puedo seguir adelante más allá de este punto final
+
+00:07:48.010 --> 00:07:51.230
+llamamos a esto un rayo
+
+00:07:51.240 --> 00:07:54.440
+y el punto de partida para un rayo se llama el vértice
+
+00:07:54.450 --> 00:07:56.240
+No un término que usted verá a menudo
+
+00:07:56.250 --> 00:07:59.340
+Usted verá vértice más adelante en otro contexto, pero es bueno saber
+
+00:07:59.350 --> 00:08:01.900
+Este es el vértice del rayo
+
+00:08:01.910 --> 00:08:03.780
+No es el vértice de este segmento de línea
+
+00:08:03.790 --> 00:08:06.200
+Así que tal vez no debí etiqueta lo sólo así
+
+00:08:06.210 --> 00:08:08.340
+Y lo que es interesante acerca de un rayo
+
+00:08:08.350 --> 00:08:09.910
+una vez más su uno una figura dimensional
+
+00:08:09.920 --> 00:08:12.430
+Pero usted podría seguir adelante en uno de los directo-
+
+00:08:12.440 --> 00:08:15.630
+Se puede seguir adelante habiendo pasado uno de los puntos finales
+
+00:08:15.640 --> 00:08:19.040
+Y la forma en la que especificaríamos que es un rayo es que
+
+00:08:19.050 --> 00:08:23.450
+Lo llamaríamos AD y pondríamos esta flechita encima
+
+00:08:23.460 --> 00:08:24.790
+Para demostrar que es un rayo
+
+00:08:24.800 --> 00:08:27.600
+Y en este caso es importante el orden
+
+00:08:27.610 --> 00:08:28.940
+Que pongamos las cartas en orden
+
+00:08:28.950 --> 00:08:32.950
+Si pongo DA si pongo DA como un rayo
+
+00:08:32.960 --> 00:08:34.340
+Esto significaría un rayo diferente
+
+00:08:34.350 --> 00:08:37.050
+Eso significaría que estamos empezando a D y luego vamos a pasar por A
+
+00:08:37.060 --> 00:08:40.440
+Así que esto no es un rayo DA, esto es ray AD
+
+00:08:40.450 --> 00:08:43.870
+Ahora esta es la última idea, en la que estoy seguro que estás pensando
+
+00:08:43.880 --> 00:08:46.410
+¿Y si yo pudiera seguir adelante, en ambas direcciones.
+
+00:08:46.420 --> 00:08:48.930
+Así que digamos que puedo seguir
+
+00:08:48.940 --> 00:08:51.630
+Mi diagrama está desordenado
+
+00:08:51.640 --> 00:08:53.980
+Así que permítanme presentarles algunos puntos más
+
+00:08:53.990 --> 00:08:57.350
+Así que digamos que tengo punto E y entonces tengo punto F aquí
+
+00:08:57.360 --> 00:09:00.810
+Y digamos que tengo este objeto que puede
+
+00:09:00.820 --> 00:09:02.760
+ir a través de E y F
+
+00:09:02.770 --> 00:09:05.210
+pero continúa en ambas direcciones
+
+00:09:05.220 --> 00:09:10.890
+Así que, cuando hablamos en términos de geometría, esto es lo que llamamos una línea
+
+00:09:10.900 --> 00:09:13.380
+Ahora sabes que una línea nunca termina;
+
+00:09:13.390 --> 00:09:15.490
+se puede seguir en cualquier dirección
+
+00:09:15.500 --> 00:09:17.380
+un segmento de línea si tiene fin,
+
+00:09:17.390 --> 00:09:19.780
+tiene puntos finales; pero una línea no
+
+00:09:19.790 --> 00:09:23.340
+Y en realidad un segmento de línea puede a veces ser llamado solo segmento
+
+00:09:23.350 --> 00:09:26.290
+Así que para especificar la línea EF
+
+00:09:26.300 --> 00:09:31.470
+tu puedes especificar la línea EF con estas flechas sólo así
+
+00:09:31.480 --> 00:09:33.840
+Ahora, lo que vas a ver más a menudo
+
+00:09:33.850 --> 00:09:36.770
+Cuando estamos estudiando geometría, son estas aquí
+
+00:09:36.780 --> 00:09:38.200
+Porque vamos a estar preocupados
+
+00:09:38.210 --> 00:09:41.400
+Con los lados de las formas, las distancias entre puntos
+
+00:09:41.410 --> 00:09:43.560
+Y si estamos hablando de cosas
+
+00:09:43.570 --> 00:09:45.020
+cosas que tienen longitud finita;
+
+00:09:45.030 --> 00:09:46.760
+cosas que tienen una longitud real;
+
+00:09:46.770 --> 00:09:48.950
+a través de las que no puedes ir hasta el infinito en una o dos direcciones,
+
+00:09:48.960 --> 00:09:52.940
+entonces estás hablando de un segmento o un segmento de línea.
+
+00:09:52.950 --> 00:09:55.450
+Ahora si vamos a un segmento de línea
+
+00:09:55.460 --> 00:09:57.720
+Sólo hay que distinguir algunas nuevas palabras
+
+00:09:57.730 --> 00:10:00.180
+que encontrarás luego en geometría
+
+00:10:00.190 --> 00:10:02.620
+Si vamos hablar de una línea, ¡cielos!
+
+00:10:02.630 --> 00:10:04.040
+Es que estaba dibujando un rayo...
+
+00:10:04.050 --> 00:10:07.330
+Digamos que tengo los puntos X y Y
+
+00:10:07.340 --> 00:10:10.050
+Y este es un segmento de línea XY;
+
+00:10:10.060 --> 00:10:13.290
+puedo especificarlo así, lo denotan simplemente así
+
+00:10:13.300 --> 00:10:14.790
+Si tengo otro punto
+
+00:10:14.800 --> 00:10:17.360
+Digamos que tengo otro punto aquí
+
+00:10:17.370 --> 00:10:18.620
+Llamemos a ese punto Z
+
+00:10:18.630 --> 00:10:20.720
+y les mostraré otra palabra
+
+00:10:20.730 --> 00:10:25.470
+X, Y y Z están en el mismo están todos alineados en la misma línea
+
+00:10:25.480 --> 00:10:27.120
+Si te imaginas que una línea
+
+00:10:27.130 --> 00:10:29.270
+podría continuar sin parar hasta el infinito y más allá;
+
+00:10:29.280 --> 00:10:32.150
+Entonces podemos decir que XY y Z son colineales
+
+00:10:32.160 --> 00:10:37.200
+Así que esos tres puntos son colineales
+
+00:10:37.210 --> 00:10:39.240
+Todos están ubicados en la misma línea o
+
+00:10:39.250 --> 00:10:43.320
+también están todos sentados en el segmento de línea XY
+
+00:10:43.330 --> 00:10:49.970
+Ahora vamos decir que sabemos, nos han dicho que ZY es igual a XZ
+
+00:10:49.980 --> 00:10:52.060
+Y son todos colineales
+
+00:10:52.070 --> 00:10:53.900
+Eso significa
+
+00:10:53.910 --> 00:10:55.890
+Esto nos está diciendo que la distancia entre X y Z
+
+00:10:55.900 --> 00:10:58.820
+es la misma que la distancia entre Z y Y
+
+00:10:58.830 --> 00:11:01.970
+Así que a veces que podemos podemos marcarlo como eso
+
+00:11:01.980 --> 00:11:05.020
+Esta distancia es la misma que esa distancia allí
+
+00:11:05.030 --> 00:11:09.320
+Así que nos dice que Z es exactamente a medio camino entre X y Y
+
+00:11:09.330 --> 00:11:13.370
+Así que en esta situación llamaríamos Z el punto medio
+
+00:11:13.380 --> 00:11:22.090
+El punto medio del segmento de línea XY está exactamente a medio camino entre X y Y
+
+00:11:22.100 --> 00:11:23.580
+Para terminar,
+
+00:11:23.590 --> 00:11:26.210
+Hemos hablado de cosas que tienen cero dimensiones, puntos
+
+00:11:26.220 --> 00:11:28.850
+Hemos hablado de cosas que tienen una dimensión:
+
+00:11:28.860 --> 00:11:30.810
+una línea, un segmento de línea o un rayo
+
+00:11:30.820 --> 00:11:32.850
+entonces, ¿qué dirías que tiene dos dimensiones?
+
+00:11:32.860 --> 00:11:34.460
+Bueno para tener dos dimensiones
+
+00:11:34.470 --> 00:11:36.310
+Eso significa que puede ir hacia atrás y hacia adelante
+
+00:11:36.320 --> 00:11:37.580
+en dos direcciones diferentes
+
+00:11:37.590 --> 00:11:41.160
+Así que esta página aquí o este video
+
+00:11:41.170 --> 00:11:43.480
+o la pantalla que estás viendo es un objeto tridimensional
+
+00:11:43.490 --> 00:11:44.740
+Puedo ir
+
+00:11:44.750 --> 00:11:47.000
+Puedo ir de derecha izquierda, eso es una dimensión;
+
+00:11:47.010 --> 00:11:49.150
+o puedo ir de arriba a abajo
+
+00:11:49.160 --> 00:11:54.150
+Así que la superficie del monitor, a la que estás mirando
+
+00:11:54.160 --> 00:11:55.680
+Tiene en realidad dos dimensiones
+
+00:11:55.690 --> 00:11:57.500
+Dos dimensiones
+
+00:11:57.510 --> 00:11:59.980
+Se puede ir hacia atrás o hacia adelante en dos direcciones
+
+00:11:59.990 --> 00:12:02.970
+Y las cosas que son de dos dimensiones, los llamamos objetos planos
+
+00:12:02.980 --> 00:12:04.270
+O les llamamos llanos
+
+00:12:04.280 --> 00:12:07.450
+Así que si tomas un pedazo de papel
+
+00:12:07.460 --> 00:12:11.680
+y lo extiendes hasta el infinito, sólo lo extiendes en todas direcciones hasta el infinito
+
+00:12:11.690 --> 00:12:14.330
+Eso, en un sentido geométrico era es un plano
+
+00:12:14.340 --> 00:12:16.990
+El pedazo de papel en sí mismo es finito
+
+00:12:17.000 --> 00:12:20.780
+Y nunca verás este tema en una típica clase de geometría
+
+00:12:20.790 --> 00:12:22.480
+Pero supongo que si fuéramos a dibujar la analogía
+
+00:12:22.490 --> 00:12:25.250
+Se podría llamar un pedazo de papel, tal vez un segmento de plano
+
+00:12:25.260 --> 00:12:27.800
+Porque es un segmento del plano entero
+
+00:12:27.810 --> 00:12:31.450
+Si tuvieras una tercera dimensión y luego hablas de
+
+00:12:31.460 --> 00:12:32.860
+las tres dimensiones del espacio
+
+00:12:32.870 --> 00:12:34.040
+En tres dimensiones del espacio,
+
+00:12:34.050 --> 00:12:36.340
+No sólo puedes quitar izquierda o derecha a lo largo de la pantalla
+
+00:12:36.350 --> 00:12:37.260
+O arriba y abajo,
+
+00:12:37.270 --> 00:12:39.430
+También puedes mover dentro y fuera de la pantalla
+
+00:12:39.440 --> 00:12:42.220
+Usted también puede tener esta dimensión que voy a intentar dibujar
+
+00:12:42.230 --> 00:12:43.500
+Puedes ir a la pantalla
+
+00:12:43.510 --> 00:12:46.260
+o puedes ir fuera de la pantalla así
+
+00:12:46.270 --> 00:12:49.170
+Y como vamos a más y más allá en las matemáticas
+
+00:12:49.180 --> 00:12:51.940
+Aunque resulta muy difícil de visualizar,
+
+00:12:51.950 --> 00:12:54.330
+Verás que ni siquiera podemos empezar a estudiar cosas
+
+00:12:54.340 --> 00:12:56.440
+que tengan más de tres dimensiones

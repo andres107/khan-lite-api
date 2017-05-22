@@ -1,0 +1,282 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:04.420 --> 00:00:07.221
+Imaginemos que estamos viviendo en la prehistoria.
+
+00:00:07.221 --> 00:00:09.468
+Ahora, consideremos lo siguiente:
+
+00:00:09.468 --> 00:00:12.721
+¿Cómo hemos llegado a estimar el tiempo sin reloj?
+
+00:00:12.721 --> 00:00:15.315
+Todos los relojes se basan en un patrón repetitivo
+
+00:00:15.315 --> 00:00:18.890
+que divide la totalidad del tiempo en segmentos iguales.
+
+00:00:18.890 --> 00:00:20.688
+Para encontrar estos patrones repetitivos,
+
+00:00:20.688 --> 00:00:22.918
+miramos hacia el cielo.
+
+00:00:22.918 --> 00:00:24.902
+El sol sube y baja cada día
+
+00:00:26.184 --> 00:00:28.760
+es el más obvio, sin embargo, no perder de vista
+
+00:00:28.760 --> 00:00:30.811
+períodos más largos en el tiempo miramos para ciclos más largos.
+
+00:00:30.811 --> 00:00:32.512
+Para ello, miramos hacia la Luna, que
+
+00:00:32.512 --> 00:00:36.513
+parece crecer poco a poco y disminuyendo a lo largo de muchos días.
+
+00:00:36.578 --> 00:00:38.914
+Cuando tenemos que contar el número de días entre
+
+00:00:38.914 --> 00:00:40.910
+lunas llenas, llegamos al número 29.
+
+00:00:40.910 --> 00:00:42.833
+Este es el origen de un mes.
+
+00:00:42.833 --> 00:00:45.873
+Sin embargo, si tratamos de dividir 29 en partes iguales,
+
+00:00:45.873 --> 00:00:49.227
+nos encontramos con un problema: es imposible.
+
+00:00:49.227 --> 00:00:51.676
+La única forma de dividir el número 29 en partes iguales
+
+00:00:51.676 --> 00:00:54.819
+es dividirlo en unidades individuales.
+
+00:00:54.819 --> 00:00:57.102
+29 es un número primo.
+
+00:00:57.102 --> 00:00:59.061
+Piense en ello como irrompible.
+
+00:00:59.061 --> 00:01:02.619
+Si un número se puede dividir en partes iguales
+
+00:01:02.619 --> 00:01:04.621
+mayor que uno, lo llamamos un número compuesto.
+
+00:01:04.621 --> 00:01:06.608
+Ahora bien, si nos pica la curiosidad, podemos preguntarnos:
+
+00:01:06.608 --> 00:01:08.450
+cuántos números primos hay y
+
+00:01:08.450 --> 00:01:10.398
+qué tan grandes pueden ser?
+
+00:01:10.398 --> 00:01:13.744
+Vamos a empezar por dividir todos los números en dos categorías.
+
+00:01:13.744 --> 00:01:15.611
+Se recogen los números primos a la izquierda y los
+
+00:01:15.611 --> 00:01:17.648
+compuestos a la derecha.
+
+00:01:17.648 --> 00:01:20.379
+En un primer momento, parecen bailar de ida y vuelta.
+
+00:01:20.379 --> 00:01:23.017
+No existe un patrón obvio aquí.
+
+00:01:23.017 --> 00:01:24.439
+Así que vamos a utilizar una técnica moderna
+
+00:01:24.439 --> 00:01:26.077
+para ver el panorama completo.
+
+00:01:26.077 --> 00:01:29.047
+El truco es usar la espiral de Ulam.
+
+00:01:29.047 --> 00:01:32.011
+En primer lugar, una lista de todos los números posibles en
+
+00:01:32.011 --> 00:01:34.043
+orden en una espiral creciente.
+
+00:01:34.043 --> 00:01:37.164
+Luego, pintar todos los números primos de color azul.
+
+00:01:37.164 --> 00:01:41.290
+Por último, alejar el zoom para ver a millones de números.
+
+00:01:41.290 --> 00:01:42.860
+Este es el patrón de los números primos, que
+
+00:01:42.860 --> 00:01:45.365
+sigue y sigue para siempre.
+
+00:01:45.365 --> 00:01:47.967
+Increíblemente, toda la estructura de este patrón
+
+00:01:47.967 --> 00:01:50.314
+sigue sin resolverse en la actualidad.
+
+00:01:50.314 --> 00:01:51.843
+Estamos en lo cierto.
+
+00:01:51.843 --> 00:01:52.987
+Por lo tanto, vamos a avanzar rápidamente en torno a la
+
+00:01:52.987 --> 00:01:55.526
+300 aC en la antigua Grecia.
+
+00:01:55.526 --> 00:01:58.183
+Un filósofo conocido como Euclides de
+
+00:01:58.183 --> 00:01:59.411
+Alejandría entiende que todos los números
+
+00:01:59.411 --> 00:02:02.607
+se puede dividir en estas dos categorías separadas.
+
+00:02:02.607 --> 00:02:04.896
+Empezó por darse cuenta de que cualquier número
+
+00:02:04.896 --> 00:02:07.078
+se puede dividir una y otra vez hasta
+
+00:02:07.078 --> 00:02:10.599
+llegar a un grupo de pequeños números iguales.
+
+00:02:10.599 --> 00:02:12.921
+Y por definición, estos números más pequeños
+
+00:02:12.921 --> 00:02:15.760
+siempre son los números primos.
+
+00:02:15.760 --> 00:02:17.148
+Por lo tanto, sabía que todos los números
+
+00:02:17.148 --> 00:02:20.542
+de alguna manera se construyen
+a partir de pequeños primos.
+
+00:02:20.542 --> 00:02:23.317
+Para ser claros, imaginar un universo de
+
+00:02:23.317 --> 00:02:25.674
+todos los números y pasar por alto 
+los números primos.
+
+00:02:25.674 --> 00:02:28.037
+Ahora, elegir cualquier número compuesto
+y descomponerlo
+
+00:02:30.518 --> 00:02:33.354
+y siempre se queda con los números primos.
+
+00:02:33.354 --> 00:02:34.774
+Por lo tanto, Euclides sabía que todos los números
+
+00:02:34.774 --> 00:02:37.675
+podrían expresarse a partir de
+un grupo de pequeños primos.
+
+00:02:37.675 --> 00:02:40.221
+Piense en estos como piezas de construcción.
+
+00:02:40.221 --> 00:02:41.996
+No importa cuál sea el número que usted elija
+
+00:02:41.996 --> 00:02:46.157
+siempre se puede construir como una adición de pequeños primos.
+
+00:02:46.157 --> 00:02:48.032
+Esta es la raíz del descubrimiento
+
+00:02:48.032 --> 00:02:50.759
+conocido como el 
+teorema fundamental de la aritmética.
+
+00:02:50.759 --> 00:02:52.013
+En la siguiente manera, podrá tomar 
+cualquier número, por ejemplo 30,
+
+00:02:53.934 --> 00:02:55.501
+y encontrar todos los números primos
+
+00:02:55.501 --> 00:02:57.233
+en que se puede dividir.
+
+00:02:57.233 --> 00:02:59.763
+Esto es lo que conocemos como
+factorización.
+
+00:02:59.763 --> 00:03:01.624
+Esto nos dará los factores primos,
+
+00:03:01.624 --> 00:03:05.811
+en este caso 2, 3 y 5 son los factores primos de 30.
+
+00:03:05.811 --> 00:03:07.906
+Euclides dio cuenta de que usted podría multiplicar
+
+00:03:07.906 --> 00:03:10.714
+estos factores primos un número determinado de veces
+
+00:03:10.714 --> 00:03:12.739
+para construir el número original.
+
+00:03:12.739 --> 00:03:13.780
+En este caso, basta con multiplicar cada
+
+00:03:13.780 --> 00:03:16.178
+factor de una vez para construir 30.
+
+00:03:16.178 --> 00:03:20.158
+2 por 3 por 5 es la factorización prima de 30.
+
+00:03:20.158 --> 00:03:23.153
+Piense en ello como una clave especial o una combinación.
+
+00:03:23.153 --> 00:03:24.887
+No hay otra manera de construir 30
+
+00:03:24.887 --> 00:03:27.110
+utilizando algún otro grupo de
+
+00:03:27.110 --> 00:03:28.792
+números primos multiplicados entre sí.
+
+00:03:28.792 --> 00:03:31.276
+Por lo tanto todos los números posibles tiene una
+
+00:03:31.276 --> 00:03:34.046
+y sólo una descomposición en factores primos.
+
+00:03:34.046 --> 00:03:36.299
+Una buena analogía es imaginar cada
+
+00:03:36.299 --> 00:03:38.017
+número como una cerradura diferente.
+
+00:03:38.033 --> 00:03:39.722
+La clave única para su bloqueo
+
+00:03:39.722 --> 00:03:42.054
+sería su descomposición en factores primos.
+
+00:03:42.054 --> 00:03:43.937
+No hay dos cerraduras que compartan
+la misma clave.
+
+00:03:43.937 --> 00:03:47.889
+No hay dos maneras de compartir 
+una descomposición en factores primos.

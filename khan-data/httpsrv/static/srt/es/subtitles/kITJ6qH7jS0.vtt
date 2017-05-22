@@ -1,0 +1,456 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.230 --> 00:00:05.600
+Bienvenido a la presentación de reglas sobre exponentes nivel uno.
+
+00:00:05.600 --> 00:00:08.150
+Vamos a comenzar con algunos problemas.
+
+00:00:08.150 --> 00:00:11.824
+Así que si tuviera que preguntarte qué es dos--
+
+00:00:11.824 --> 00:00:13.737
+eso es un poco más grueso de lo que quería,
+
+00:00:13.737 --> 00:00:15.942
+pero vamos a mantenerlo grueso para que no parezca extraño--
+
+00:00:15.942 --> 00:00:19.414
+dos a las tercera potencia ---
+
+00:00:19.414 --> 00:00:21.745
+y el punto es otra forma de decir multiplicado por--
+
+00:00:21.745 --> 00:00:26.861
+Si tuviera que preguntarte qué es dos elevado a la terceras potencia multiplicado por dos a la quinta potencia,
+
+00:00:26.861 --> 00:00:27.945
+¿Cómo podrías averiguarlo?
+
+00:00:27.945 --> 00:00:30.610
+En realidad, permítanme utilizar un lápiz más delgado porque eso se ve mal.
+
+00:00:30.610 --> 00:00:35.120
+Así, dos elevado a la tercera potencia multiplicado por dos a la quinta potencia
+
+00:00:35.120 --> 00:00:37.610
+Bueno, creo que existe una manera que creo que sabes cómo hacerlo.
+
+00:00:37.610 --> 00:00:42.088
+Podrías descubrir que dos a la tercera potencia es ocho,
+
+00:00:42.088 --> 00:00:45.611
+y que dos a la quinta potencia es treinta y dos.
+
+00:00:45.611 --> 00:00:46.840
+Y, a continuación, podrías multiplicarles.
+
+00:00:46.840 --> 00:00:54.010
+Y 8 multiplicado por 32 es 240 más 16, es 256 ¿correcto?
+
+00:00:54.010 --> 00:00:55.422
+Podrías hacerlo así.
+
+00:00:55.422 --> 00:00:56.365
+Y eso es razonable,
+
+00:00:56.365 --> 00:01:00.520
+porque no es tan difícil averiguar qué es dos a la tercera y dos a la quinta potencia.
+
+00:01:00.520 --> 00:01:04.781
+Pero si estos números fueran mucho más grandes, este método podría ser un poco difícil.
+
+00:01:04.781 --> 00:01:11.628
+Así que voy a mostrar, mediante reglas de exponentes, como puedes multiplicar números con exponentes
+
+00:01:11.628 --> 00:01:15.115
+sin tener que hacer tanta aritmética.
+
+00:01:15.115 --> 00:01:20.874
+O realmente podías manejar números mucho mayores de lo que tus habilidades matemáticas normalmente te permiten.
+
+00:01:20.874 --> 00:01:24.798
+Así que vamos a pensar qué es dos a la tercera potencia multiplicado por dos a la quinta.
+
+00:01:24.798 --> 00:01:32.940
+Dos a la tercera es dos veces dos veces dos, ¿correcto?
+
+00:01:32.940 --> 00:01:35.200
+Y nosotros estamos multiplicando esto por dos elevado a la quinta potencia.
+
+00:01:35.200 --> 00:01:43.160
+Y eso es dos veces dos veces dos veces dos veces dos.
+
+00:01:43.160 --> 00:01:44.200
+Así que, ¿qué tenemos aquí?
+
+00:01:44.200 --> 00:01:45.993
+Tenemos dos veces dos veces dos,
+
+00:01:45.993 --> 00:01:47.102
+multiplicado por,
+
+00:01:47.102 --> 00:01:49.780
+dos veces dos veces dos veces dos veces dos.
+
+00:01:49.780 --> 00:01:52.640
+Todo lo que hacemos es multiplicar dos ... ¿cuantas veces?
+
+00:01:52.640 --> 00:01:58.920
+Bueno, uno, dos, tres, cuatro, cinco, seis, siete, ocho.
+
+00:01:58.920 --> 00:02:03.410
+Por lo que es lo mismo que dos elevado a la octava potencia
+
+00:02:03.410 --> 00:02:05.050
+Interesante.
+
+00:02:05.050 --> 00:02:08.200
+Tres más cinco es igual a ocho.
+
+00:02:08.200 --> 00:02:13.852
+Y eso tiene mucho sentido porque dos elevado a la tercera potencia es igual a dos multiplicado por sí mismo tres veces,
+
+00:02:13.852 --> 00:02:16.446
+a la quinta es dos multiplicado por sí mismo cinco veces,
+
+00:02:16.446 --> 00:02:17.540
+y, entonces estamos multiplicando los dos,
+
+00:02:17.540 --> 00:02:19.980
+así que vamos a multiplicar dos ocho veces.
+
+00:02:19.980 --> 00:02:22.720
+Espero haber logrado mi objetivo de confundirte :)
+
+00:02:22.720 --> 00:02:26.303
+Vamos a hacer otro.
+
+00:02:26.303 --> 00:02:33.772
+Si dije siete al cuadrado multiplicado por siete a la cuarta.
+
+00:02:33.780 --> 00:02:36.550
+Eso es un cuatro.
+
+00:02:36.550 --> 00:02:42.180
+Bien, esto es igual a siete veces siete, ¿correcto?, que es siete al cuadrado,
+
+00:02:42.180 --> 00:02:44.430
+multiplicado por y ahora vamos a hacer siete a la cuarta potencia.
+
+00:02:44.430 --> 00:02:50.290
+Siete multiplicado por siete veces siete veces siete.
+
+00:02:50.290 --> 00:02:53.672
+Pues ahora estamos multiplicando siete por sí mismo seis veces,
+
+00:02:53.672 --> 00:02:56.590
+lo que equivale a siete en la sexta potencia.
+
+00:02:56.590 --> 00:03:02.699
+Por lo que en general, siempre que estoy multiplicando exponentes de la misma base, que es la clave,
+
+00:03:02.699 --> 00:03:04.620
+Sólo puedo sumar los exponentes.
+
+00:03:04.620 --> 00:03:13.397
+Entonces siete a la centésima potencia multiplicado por siete a la quincuagésima potencia --
+
+00:03:13.397 --> 00:03:15.440
+y fíjense que esto es un ejemplo --
+
+00:03:15.440 --> 00:03:19.304
+Sería muy difícil sin una computador averiguar qué es siete a la centésima potencia.
+
+00:03:19.320 --> 00:03:24.052
+Y del mismo modo, es muy difícil sin una computadora calcular que es siete a la 50 º potencia
+
+00:03:24.052 --> 00:03:32.730
+Pero podríamos decir que esto es igual a siete a las cien más cincuenta,
+
+00:03:32.730 --> 00:03:37.790
+que es igual a siete a la ciento cincuenta potencia.
+
+00:03:37.790 --> 00:03:40.292
+Ahora sólo quiero darte una pequeña advertencia,
+
+00:03:40.292 --> 00:03:41.630
+Asegúrate de que estás multiplicando.
+
+00:03:41.630 --> 00:03:49.150
+Porque si tuviera siete a las cien más siete a la cincuenta potencia,
+
+00:03:49.150 --> 00:03:50.590
+hay muy poco que podría hacer aquí.
+
+00:03:50.590 --> 00:03:54.440
+Yo no podía simplificar este número.
+
+00:03:54.440 --> 00:03:56.710
+Pero les voy a proponer uno ...
+
+00:03:56.710 --> 00:04:04.364
+Si tuviera dos a la octava potencia multiplicado por dos a la vigésima potencia.
+
+00:04:04.364 --> 00:04:06.570
+Ahora bien, sabemos que podemos añadir a estos exponentes.
+
+00:04:06.570 --> 00:04:12.500
+Entonces esto te da dos a la vigésima octava potencia, ¿correcto?
+
+00:04:12.500 --> 00:04:20.820
+¿Qué sucede si he tenido dos a la octava más dos a la octava?
+
+00:04:20.820 --> 00:04:22.890
+Esta es una pregunta un poco truculenta.
+
+00:04:22.890 --> 00:04:26.892
+Así que acabo de decir que si estamos agregando, realmente no podemos hacer nada.
+
+00:04:26.900 --> 00:04:28.530
+Realmente no podemos simplificarlo.
+
+00:04:28.530 --> 00:04:32.962
+¿Pero hay un pequeño truco aquí que realmente tenemos dos dos a la octava potencia, ¿correcto?
+
+00:04:32.980 --> 00:04:35.080
+Hay dos a la octava una vez, dos a la octava dos veces.
+
+00:04:35.080 --> 00:04:41.240
+Así que esto es lo mismo que dos multiplicado por dos a la octava potencia, ¿no?
+
+00:04:41.240 --> 00:04:42.073
+Dos veces dos a la octava potencia.
+
+00:04:42.073 --> 00:04:44.940
+Eso es sólo dos a la octava más sí misma.
+
+00:04:44.940 --> 00:04:46.430
+Y dos veces dos a la octava,
+
+00:04:46.430 --> 00:04:53.170
+bueno esto es lo mismo que dos a la primera potencia por dos a la octava.
+
+00:04:53.170 --> 00:04:59.008
+Y dos a la primera multiplicado por dos a la octava, por la misma regla que acabo de hacer, es igual a dos a la novena.
+
+00:04:59.008 --> 00:05:01.080
+Así que pensé que quería mostrárselos.
+
+00:05:01.080 --> 00:05:03.280
+Y funciona incluso con exponentes negativos.
+
+00:05:03.280 --> 00:05:15.348
+Si tuviera que decir cinco a la menos cien multiplicado por tres a la centésima
+
+00:05:15.348 --> 00:05:18.370
+Oh lo siento, multiplicado por cinco, este tiene que ser también un cinco
+
+00:05:18.370 --> 00:05:20.140
+No sé lo que estaba haciendo mi cerebro.
+
+00:05:20.168 --> 00:05:24.688
+Cinco elevado a la menos cien multiplicado por cinco elevado a la 102 potencia,
+
+00:05:24.688 --> 00:05:27.890
+equivaldría a cinco al cuadrado, ¿verdad?
+
+00:05:27.890 --> 00:05:30.930
+Solo tomé menos cien más ciento dos.
+
+00:05:30.930 --> 00:05:31.940
+Este es un cinco.
+
+00:05:31.940 --> 00:05:35.080
+Lo siento por ese fallo en el cerebro.
+
+00:05:35.080 --> 00:05:37.860
+Y por supuesto, equivale a 25.
+
+00:05:37.860 --> 00:05:39.210
+Entonces esta es la primera regla de exponentes
+
+00:05:39.210 --> 00:05:40.206
+Ahora te voy a mostrar otra,
+
+00:05:40.206 --> 00:05:43.900
+y en cierta forma conduce a lo mismo.
+
+00:05:43.900 --> 00:05:54.111
+Si tuviera que preguntarte qué es dos a la novena potencia entre dos a la décima potencia --
+
+00:05:54.111 --> 00:05:56.940
+WoW! Parece que podría ser un poco confuso.
+
+00:05:56.940 --> 00:06:00.058
+Pero en realidad resulta ser la misma regla.
+
+00:06:00.058 --> 00:06:03.110
+Porque ... ¿de que otra forma podemos escribir esto?
+
+00:06:03.110 --> 00:06:08.360
+Ahora bien, sabemos que es lo mismo que dos a la novena potencia
+
+00:06:08.360 --> 00:06:12.710
+multiplicado por uno sobre dos a la décima potencia, ¿correcto?
+
+00:06:12.710 --> 00:06:14.460
+Y sabemos que uno sobre dos a la décima potencia.
+
+00:06:14.460 --> 00:06:17.392
+Buenos, podrías reescribir esto como dos la novena
+
+00:06:17.392 --> 00:06:20.850
+multiplicado por dos a la menos diez, ¿correcto?
+
+00:06:20.850 --> 00:06:25.101
+Todo lo que hice es tomar uno sobre dos a la décima y le di vuelta
+
+00:06:25.101 --> 00:06:26.990
+y he hecho el exponente negativo.
+
+00:06:26.990 --> 00:06:30.638
+Y creo que ya sabes esto del nivel dos de exponentes.
+
+00:06:30.660 --> 00:06:33.090
+Y ahora, una vez más, podemos simplemente sumar a los exponentes.
+
+00:06:33.090 --> 00:06:38.868
+Nueve más diez negativo a equivale a dos negativo,
+
+00:06:38.868 --> 00:06:41.851
+o podríamos decir que es igual a un medio, ¿verdad?
+
+00:06:41.851 --> 00:06:44.850
+Por lo que aquí hay una cosa interesante.
+
+00:06:44.850 --> 00:06:49.418
+No importa lo que sea el exponente de abajo, podrías ponerlo en el numerador como hicimos aquí,
+
+00:06:49.418 --> 00:06:50.800
+pero lo conviertes en un negativo,
+
+00:06:50.800 --> 00:06:52.852
+Lo que nos lleva a la segunda regla de exponentes,
+
+00:06:52.852 --> 00:06:59.860
+una simplificación es que podríamos decir que esto equivale a dos a la novena potencia menos diez,
+
+00:06:59.860 --> 00:07:02.190
+que equivale a dos a la menos uno.
+
+00:07:02.190 --> 00:07:05.160
+Vamos a hacer que otro problema.
+
+00:07:05.160 --> 00:07:16.123
+Si he dicho diez a la 200 sobre diez elevado a la quinceava potencia,
+
+00:07:16.123 --> 00:07:23.640
+bueno, esto equivale a diez elevado a la doscientos menos cincuenta, que es ciento cincuenta.
+
+00:07:23.640 --> 00:07:33.855
+Asimismo, si tuve siete a la 40 potencia sobre siete elevado a cinco negativo,
+
+00:07:33.855 --> 00:07:41.417
+Esto será igual a siete a la cuadragésima potencia menos cinco negativo.
+
+00:07:41.420 --> 00:07:46.230
+Por lo que es igual a siete elevado a la 45 º.
+
+00:07:46.230 --> 00:07:48.310
+Ahora quiero reflexionar sobre eso, ¿tiene sentido?
+
+00:07:48.310 --> 00:07:53.388
+Pues bien, podríamos haber reescrito esta ecuación como
+
+00:07:53.388 --> 00:07:59.180
+siete a la cuadragésima multiplicada por siete a la quinta potencia, ¿correcto?
+
+00:07:59.180 --> 00:08:05.021
+Podríamos haber tomado este uno sobre siete a la quinta potencia negativa y convertirlo en siete a la quinta,
+
+00:08:05.021 --> 00:08:08.148
+y esto sería también siete a la 45 potencia.
+
+00:08:08.160 --> 00:08:12.379
+Así que la segunda regla de exponente que acabo de enseñarte, en realidad no es diferente de aquella primera.
+
+00:08:12.390 --> 00:08:14.272
+Si el exponente está en el denominador,
+
+00:08:14.272 --> 00:08:17.241
+y por supuesto, tiene que ser la misma base y estás dividiendo,
+
+00:08:17.241 --> 00:08:20.570
+resta del exponente en el numerador.
+
+00:08:20.570 --> 00:08:22.575
+Si ambas están en el numerador
+
+00:08:22.575 --> 00:08:25.811
+como en este caso: siete a la cuadragésima multiplicado por siete a la quinta--
+
+00:08:25.811 --> 00:08:29.370
+realmente no hay ningún numerador, pero si están multiplicándose mutuamente,
+
+00:08:29.370 --> 00:08:32.420
+y por supuesto, hay que tener la misma base--
+
+00:08:32.420 --> 00:08:35.690
+entonces suma los exponentes.
+
+00:08:35.690 --> 00:08:38.285
+Voy a añadir una variante de esto, y realmente eso es lo mismo,
+
+00:08:38.285 --> 00:08:40.360
+pero es una pregunta un poco truculenta.
+
+00:08:40.360 --> 00:08:56.470
+¿Qué es dos a la novena multiplicado por cuatro a la centésima potencia?
+
+00:08:56.470 --> 00:08:57.882
+En realidad, tal vez no debiera enseñarte esto.
+
+00:08:57.882 --> 00:08:59.480
+Tendrás que esperar hasta que te enseñe la siguiente regla.
+
+00:08:59.480 --> 00:09:01.900
+Pero te voy a dar una pista.
+
+00:09:01.900 --> 00:09:09.570
+Esto es lo mismo que dos elevado a la novena potencia multiplicado por dos al cuadrado.
+
+00:09:09.570 --> 00:09:13.812
+Y la regla que voy a enseñarte ahora es que cuando tienes algo que elevado a un exponente,
+
+00:09:13.812 --> 00:09:16.718
+y, a continuación, ese número elevado a un exponente
+
+00:09:16.718 --> 00:09:18.930
+en realidad se multiplican a estos dos exponentes.
+
+00:09:18.930 --> 00:09:24.980
+Esto sería dos elevado a la novena multiplicado por dos elevado a 200
+
+00:09:24.980 --> 00:09:26.666
+Y por esa primera regla que aprendimos,
+
+00:09:26.666 --> 00:09:29.760
+Esto sería dos elevado a 209.
+
+00:09:29.760 --> 00:09:31.925
+Ahora en el siguiente módulo voy a cubrir esto con más detalle.
+
+00:09:31.925 --> 00:09:34.650
+Creo que podría haber simplemente confundido.
+
+00:09:34.650 --> 00:09:35.835
+Pero mira el siguiente vídeo
+
+00:09:35.835 --> 00:09:40.400
+y luego de ver el siguiente vídeo creo que vas a estar listo para hacer problemas relacionados con la primera regla de exponentes.
+
+00:09:40.400 --> 00:09:42.545
+¡Que te diviertas!

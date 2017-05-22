@@ -1,0 +1,249 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.731 --> 00:00:02.408
+PROBLEMA: "El gobierno ha creado el siguiente
+
+00:00:02.408 --> 00:00:04.696
+diagrama de tallo y hoja mostrando el número de tortugas
+
+00:00:04.696 --> 00:00:07.169
+en cada zoológico en el país.
+
+00:00:07.169 --> 00:00:10.537
+Cuantos zoológicos tienen menos de 46 tortugas?"
+
+00:00:10.537 --> 00:00:12.753
+Entonces, lo que nos da el diagrama de tallo y hoja
+
+00:00:12.753 --> 00:00:15.170
+es el primer dígito en cada número -
+
+00:00:15.170 --> 00:00:17.604
+(Así que, puedes llamar a este lado "el lado de las decenas")
+
+00:00:17.604 --> 00:00:18.880
+- y entonces tu puedes decir que cada uno de esos
+
+00:00:18.880 --> 00:00:20.156
+números de acá estan en el lugar de las unidades.
+
+00:00:20.156 --> 00:00:21.434
+Entonces aquí solo hay un zoológico que tiene 4 tortugas
+
+00:00:21.434 --> 00:00:26.180
+Entonces puedes ver esto como (0 × 10) + (4 × 1) ... o 4 tortugas.
+
+00:00:26.180 --> 00:00:30.959
+En esta fila, hay un 1 en el lado de las decenas.
+
+00:00:30.959 --> 00:00:32.871
+Entonces podríamos interpretar este numero de aquí como un 10 + 1, o un 11
+
+00:00:32.871 --> 00:00:34.803
+Este es un 14.
+
+00:00:34.803 --> 00:00:37.670
+Este de aquí sería un 16.
+
+00:00:37.670 --> 00:00:39.184
+Ese es un 16
+
+00:00:39.184 --> 00:00:40.600
+Y así, sucesivamente.
+
+00:00:40.600 --> 00:00:42.267
+Este sería un 17 - luego un 18.
+
+00:00:42.267 --> 00:00:44.956
+En esta fila, este es 23. Este es 26 -
+
+00:00:44.956 --> 00:00:46.600
+porque tenemos un dos en el lado de las décimas aquí.
+
+00:00:46.600 --> 00:00:47.933
+Este es el primer dígito.
+
+00:00:47.933 --> 00:00:49.154
+Entonces respondamos la pregunta.
+
+00:00:49.154 --> 00:00:52.868
+"¿Cuantos zoológicos tienen menos de 46 tortugas?"
+
+00:00:52.868 --> 00:00:56.539
+Bien, aquí no hay zoológicos que tengan 40 o mas tortugas.
+
+00:00:56.539 --> 00:00:58.254
+Entonces revisemos.
+
+00:00:58.254 --> 00:00:59.969
+Esta fila muestra los zoológicos que tienen 30 y algo tortugas.
+
+00:00:59.969 --> 00:01:01.684
+Estos tienen 20 y algo tortugas
+
+00:01:01.684 --> 00:01:03.349
+Estos tienen un número en las decenas
+
+00:01:03.349 --> 00:01:04.539
+Este tiene una cifra de tortugas de un sólo dígito (menos de 10).
+
+00:01:04.539 --> 00:01:05.846
+Entonces la respuesta es literalmente
+
+00:01:05.846 --> 00:01:07.046
+todos los zoológicos que hemos ennumerado aquí.
+
+00:01:07.046 --> 00:01:11.155
+Entonces [CONTANDO] 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9 –
+
+00:01:11.155 --> 00:01:15.890
+10 – 11 – 12 – 13 – 14 – 15 – 16 – 17.
+
+00:01:15.890 --> 00:01:19.580
+17 zoológicos tienen menos de 46 tortugas.
+
+00:01:19.580 --> 00:01:21.470
+Hagamos otra mas.
+
+00:01:21.470 --> 00:01:23.584
+PROBLEMA: "El comprador de una cadena de supermercados
+
+00:01:23.584 --> 00:01:25.253
+creó el siguiente diagrama de tallo y hoja mostrando
+
+00:01:25.253 --> 00:01:27.768
+el número de cocos en cada tienda:"
+
+00:01:27.768 --> 00:01:29.863
+"Cual fue el número de cocos mas pequeño
+
+00:01:29.863 --> 00:01:33.249
+de todas las tiendas de supermercados?"
+
+00:01:33.249 --> 00:01:35.084
+Entonces el comprador de la cadena de supermercados creó
+
+00:01:35.084 --> 00:01:36.455
+el siguiente diagrama de tallo y hoja
+
+00:01:36.455 --> 00:01:39.919
+mostrando el número de cocos en cada una de las tiendas.
+
+00:01:39.919 --> 00:01:42.307
+En cualquier (1) tienda de comestibles, el número mas pequeño -
+
+00:01:42.307 --> 00:01:44.600
+bueno, es este de aquí.
+
+00:01:44.600 --> 00:01:46.061
+Recuerda que no es 2.
+
+00:01:46.061 --> 00:01:47.446
+Tenemos nuestro lado de las decenas aquí.
+
+00:01:47.446 --> 00:01:48.072
+Es un 1.
+
+00:01:48.072 --> 00:01:49.359
+Entonces, este número de aquí representa
+
+00:01:49.359 --> 00:01:51.462
+doce cocos en esa tienda.
+
+00:01:51.462 --> 00:01:53.832
+Entonces pondremos el doce justo aquí.
+
+00:01:53.832 --> 00:01:55.600
+Probemos una mas.
+
+00:01:55.600 --> 00:01:58.543
+"Un estadista para una cadena de tiendas departamentales
+
+00:01:58.543 --> 00:02:00.095
+creó el siguiente diagrama de tallo y hoja
+
+00:02:00.095 --> 00:02:02.755
+mostrando el número de relojes en cada una de esas tiendas:"
+
+00:02:02.755 --> 00:02:06.817
+"Cuantas tiendas tienen exactamente 7 relojes?"
+
+00:02:06.817 --> 00:02:11.303
+Bien, solo es esta de aquí: 0 | 7 relojes.
+
+00:02:11.303 --> 00:02:14.795
+Esta y esa de allí no son 7
+
+00:02:14.795 --> 00:02:16.541
+Esta representa 17,
+
+00:02:16.541 --> 00:02:18.803
+porque está en la fila con 1 al principio.
+
+00:02:18.803 --> 00:02:22.247
+Esta de aquí representa 27,
+
+00:02:22.247 --> 00:02:24.720
+porque está en la fila con el 2 al principio
+
+00:02:24.720 --> 00:02:29.137
+Entonces, aquí solamente hay una tienda que tiene exactamente 7 relojes.
+
+00:02:29.137 --> 00:02:29.816
+Hagamos una mas.
+
+00:02:29.816 --> 00:02:31.418
+Esta es divertida.
+
+00:02:31.418 --> 00:02:33.592
+"Un cuidador de zoológico creó el siguiente diagrama de tallo y hoja
+
+00:02:33.592 --> 00:02:34.738
+mostrando el número de tigres
+
+00:02:34.738 --> 00:02:36.455
+en cada gran zoológico del país:"
+
+00:02:36.455 --> 00:02:39.695
+"Cuantos zoológicos tienen mas de 24 tigres?"
+
+00:02:39.695 --> 00:02:42.824
+Entonces, podemos ignorar los ceros y las decenas
+
+00:02:42.824 --> 00:02:44.185
+Y nos metemos en las veintenas.
+
+00:02:44.185 --> 00:02:45.265
+Este es un 25.
+
+00:02:45.265 --> 00:02:46.592
+Entonces, cumple con el criterio.
+
+00:02:46.592 --> 00:02:48.211
+Entonces vas al 28 - 29.
+
+00:02:48.211 --> 00:02:50.414
+Entonces todos esos en las treintenas,
+
+00:02:50.414 --> 00:02:51.818
+y todos estos de acá.
+
+00:02:51.818 --> 00:02:53.731
+Este 3 | 0 no significa 0 tigres.
+
+00:02:53.731 --> 00:02:56.305
+Significa 30 tigres. Estos son 40 tigres.
+
+00:02:56.305 --> 00:03:01.961
+Entonces contamos 1 – 2 – 3 – 4 – 5 – 6 – 7 – 8 – 9.
+
+00:03:01.961 --> 00:03:05.200
+9 zoológicos tienen mas de 24 tigres.
+
+00:03:05.200 --> 00:03:06.714
+9 zoológicos.
+
+00:03:06.714 --> 00:03:08.000
+Y hemos terminado!

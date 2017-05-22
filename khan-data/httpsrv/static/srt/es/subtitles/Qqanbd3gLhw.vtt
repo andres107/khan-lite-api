@@ -1,0 +1,555 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.600
+Comenzando
+
+00:00:00.600 --> 00:00:03.740
+El el video pasado, vimos cómo el área de la superficie
+
+00:00:03.740 --> 00:00:06.410
+de las paredes de este edificio raro, donde
+
+00:00:06.410 --> 00:00:10.880
+el techo de las paredes era definido por la función f(xy)
+
+00:00:10.880 --> 00:00:15.800
+f(xy)= x + y², entonces la base
+
+00:00:15.800 --> 00:00:20.030
+de este edificio, o el borde de sus paredes, fue definida por el camino
+
+00:00:20.030 --> 00:00:24.100
+donde tenemos un círculo de radio 2 aquí, entonces vamos
+
+00:00:24.100 --> 00:00:27.230
+abajo sobre el eje y, y entonces volteamos a la izquierda,
+
+00:00:27.230 --> 00:00:29.450
+y vamos sobre el eje x, y ese fue nuestro edificio.
+
+00:00:29.450 --> 00:00:31.790
+En el vídeo anterior, averiguamos primero
+
+00:00:31.790 --> 00:00:32.830
+el área de superficie de las paredes
+
+00:00:32.830 --> 00:00:36.570
+De hecho, podríamos decir, que nuestro problema original, es
+
+00:00:36.570 --> 00:00:40.730
+que queríamos averiguar la integral lineal a lo largo de un camino carrado
+
+00:00:40.730 --> 00:00:44.360
+de modo que sea una integral linel cerrada, a lo largo del camino cerrado
+
+00:00:44.360 --> 00:00:51.770
+c(f(xy)) [c de f de xy]. Y siempre multiplicamos f de xy por
+
+00:00:51.770 --> 00:00:54.720
+una pequeña parte de nuestro camino ds.
+
+00:00:54.720 --> 00:00:57.550
+Lo estamos escribiendo de la manera mas abstracta posible.
+
+00:00:57.550 --> 00:00:59.800
+Y lo que vimos en el vídeo pasado, es que la manera mas fácil de hacer
+
+00:00:59.800 --> 00:01:02.560
+esto es, separandolo en múltiples caminos, O en
+
+00:01:02.560 --> 00:01:03.990
+múltiples problemas
+
+00:01:03.990 --> 00:01:06.700
+Como pueden imaginar, todo este contorno, todo este camino
+
+00:01:06.700 --> 00:01:08.900
+que llamamos c, pero le podriamos llamar c1
+
+00:01:08.900 --> 00:01:11.330
+como vimos en el video pasado.
+
+00:01:11.330 --> 00:01:15.430
+A esta parte la podemos llama... déjenme que hacer un punto... c2 y este
+
+00:01:15.430 --> 00:01:17.010
+punto aquí es c3
+
+00:01:17.010 --> 00:01:21.640
+De forma que podemos re definir, o separar esta integral lineal cerrada
+
+00:01:21.640 --> 00:01:24.540
+en 3 integrales lineales no cerrada
+
+00:01:24.540 --> 00:01:30.340
+Esto va ser igual a la integral lineal a lo largo del camino c1 de f(xy).ds
+
+00:01:30.340 --> 00:01:40.560
+mas la integral linal a lo largo de c2 de f(xy).ds
+
+00:01:40.560 --> 00:01:44.900
+mas la integral linal. y como podran haber adivinado. a lo largo de c3 de f(xy).ds
+
+00:01:44.900 --> 00:01:50.930
+En el ultimo video, solo vimos
+
+00:01:50.930 --> 00:01:53.340
+como averiguar esta primera parte. Esta pared curva
+
+00:01:53.340 --> 00:01:54.490
+Todo bien
+
+00:01:54.490 --> 00:01:59.870
+La superficie, que averiguamos, era 4+2pi
+
+00:01:59.870 --> 00:02:02.960
+Ahora tenemos que averiguar las otras 2 partes
+
+00:02:02.960 --> 00:02:06.850
+Entonces ahora hagamos C2
+
+00:02:06.850 --> 00:02:08.600
+Y parar hacer esto, necesitamos hacer otra
+
+00:02:08.600 --> 00:02:10.540
+parametrización de x e y
+
+00:02:10.540 --> 00:02:12.620
+Va a ser diferente de lo que hicimos en esta parte
+
+00:02:12.620 --> 00:02:14.570
+ya no estamos a lo largo de este circulo.
+
+00:02:14.570 --> 00:02:16.390
+estamos solo a lo largo del eje-y
+
+00:02:16.390 --> 00:02:18.570
+Entonces mientras estemos aqui. x definitivamente
+
+00:02:18.570 --> 00:02:19.750
+va a ser igual a 0
+
+00:02:19.750 --> 00:02:22.060
+Y esa es mi parametrización. x es igual a 0
+
+00:02:22.060 --> 00:02:25.070
+Si vamos por el eje-y, x es definitivamente igual a 0
+
+00:02:25.070 --> 00:02:30.710
+luego y. Podriamos decir que empieza en y=2
+
+00:02:30.710 --> 00:02:37.790
+Tal vez te decimos y es igual a 2 menos t, t es entre 0, t
+
+00:02:37.790 --> 00:02:40.230
+es mayor o igual a 0, menor o igual a 2.
+
+00:02:40.230 --> 00:02:41.270
+Y que debe trabajar.
+
+00:02:41.270 --> 00:02:44.300
+Cuando t es igual a 0, en este momento estamos allí, y
+
+00:02:44.300 --> 00:02:47.900
+luego como t aumenta hacia 2, nos movemos hacia abajo del eje y, hasta
+
+00:02:47.900 --> 00:02:50.270
+Finalmente cuando t es igual a 2, estamos en ese
+
+00:02:50.270 --> 00:02:51.080
+punto allí.
+
+00:02:51.080 --> 00:02:52.780
+Por lo es nuestra parametrización.
+
+00:02:52.780 --> 00:02:55.530
+Así que vamos a evaluar esta línea y podríamos hacer nuestro
+
+00:02:55.530 --> 00:02:57.250
+derivados, también, si nos gusta.
+
+00:02:57.250 --> 00:02:59.920
+¿Qué es la derivada, voy a escribirlo aquí.
+
+00:02:59.920 --> 00:03:01.290
+¿Qué es dx dt?
+
+00:03:01.290 --> 00:03:02.230
+Bastante sencillo.
+
+00:03:02.230 --> 00:03:09.550
+Derivado de 0 es 0 y dy dt es igual a la
+
+00:03:09.550 --> 00:03:10.400
+derivado de ello.
+
+00:03:10.400 --> 00:03:11.930
+¿Es apenas menos 1, correcto?
+
+00:03:11.930 --> 00:03:17.030
+2 menos t, derivado de menos t, es apenas menos de 1.
+
+00:03:17.030 --> 00:03:19.940
+Y así que vamos a romper justo.
+
+00:03:19.940 --> 00:03:23.540
+Así que tenemos esta cosa aquí, así que tenemos la
+
+00:03:23.540 --> 00:03:25.635
+integral a lo largo de c2.
+
+00:03:25.635 --> 00:03:28.490
+Pero vamos, en lugar de escribir c2, dejaré c2, pero
+
+00:03:28.490 --> 00:03:35.450
+te decimos que estaban yendo de t es igual a 0 2 f de xy.
+
+00:03:35.450 --> 00:03:42.690
+f de xy es esta cosa aquí, es x plus y al cuadrado,
+
+00:03:42.690 --> 00:03:44.090
+y luego veces ds.
+
+00:03:44.090 --> 00:03:47.420
+~Pausa~
+
+00:03:47.420 --> 00:03:50.410
+Y sabemos de la última varios videos, ds puede
+
+00:03:50.410 --> 00:03:57.350
+reescrito como la raíz cuadrada de dx que DT cuadrado, tan 0 cuadrado,
+
+00:03:57.350 --> 00:04:02.340
+Plus dy dt al cuadrado, lo que menos 1 al cuadrado es 1, todos
+
+00:04:02.340 --> 00:04:03.910
+de ese momento dt.
+
+00:04:03.910 --> 00:04:07.390
+Y obviamente, esto es bastante agradable y limpio.
+
+00:04:07.390 --> 00:04:11.640
+Esto es 0 y 1, raíz cuadrada, esto sólo se convierte en 1.
+
+00:04:11.640 --> 00:04:13.260
+Y entonces ¿qué es x?
+
+00:04:13.260 --> 00:04:16.330
+x, si lo escribimos en términos de nuestra parametrización, es siempre
+
+00:04:16.330 --> 00:04:19.780
+va a ser igual a 0, y luego va y cuadrado a
+
+00:04:19.780 --> 00:04:21.280
+ser menos 2 t al cuadrado.
+
+00:04:21.280 --> 00:04:24.490
+Así que esto va a ser 2 menos t al cuadrado.
+
+00:04:24.490 --> 00:04:28.020
+Así que esta cosa todo loca simplificado, vamos a
+
+00:04:28.020 --> 00:04:34.240
+Go de t es igual a 0 para t es igual a 2, la x desaparece en
+
+00:04:34.240 --> 00:04:37.330
+nuestra parametrización, x permanece sólo 0, independientemente de lo que
+
+00:04:37.330 --> 00:04:41.070
+es t y luego tienes y cuadrado, pero es el mismo
+
+00:04:41.070 --> 00:04:47.180
+algo así como 2 menos t, modo 2 menos t al cuadrado y luego tienes
+
+00:04:47.180 --> 00:04:48.440
+su dt sentado por ahí.
+
+00:04:48.440 --> 00:04:49.840
+Esto es bastante sencillo.
+
+00:04:49.840 --> 00:04:52.910
+Me siempre resulta más fácil cuando usted está encontrando un
+
+00:04:52.910 --> 00:04:55.780
+antiderivative de esto, aunque puede hacerlo
+
+00:04:55.780 --> 00:04:59.610
+su cabeza, me gustaría simplemente realidad multiplicar
+
+00:04:59.610 --> 00:05:00.720
+a este binomio.
+
+00:05:00.720 --> 00:05:04.340
+Es así que esto va a ser igual a la primitiva de t
+
+00:05:04.340 --> 00:05:16.230
+igual a 0 para t es igual a 2 de 4 menos 2 menos 4t más t
+
+00:05:16.230 --> 00:05:21.690
+cuadrado, plus t al cuadrado, al igual dt.
+
+00:05:21.690 --> 00:05:23.290
+Y esto es bastante sencillo.
+
+00:05:23.290 --> 00:05:27.150
+Esto va a ser, la primitiva de este es 4
+
+00:05:27.150 --> 00:05:32.750
+¿t menos 2 t al cuadrado, derecha?
+
+00:05:32.750 --> 00:05:34.580
+Al tomar la derivada, hay 2 veces menos 2 es
+
+00:05:34.580 --> 00:05:43.200
+¿menos 4 t y luego tienen más 1/3 t para el tercero, derecho?
+
+00:05:43.200 --> 00:05:45.190
+Estos son sólo simples primitivas, y necesitamos
+
+00:05:45.190 --> 00:05:48.300
+evaluar de 0 a 2.
+
+00:05:48.300 --> 00:05:50.180
+Y así vamos a evaluarlo en 2.
+
+00:05:50.180 --> 00:05:54.140
+4 veces 2 es 8, me permiten elegir un color nuevo.
+
+00:05:54.140 --> 00:06:02.560
+4 veces 2 es 8, menos 2 2 veces cuadrado, 4 hasta 2 veces, así que menos
+
+00:06:02.560 --> 00:06:08.800
+8, además de 2 1/3 veces a la tercera potencia.
+
+00:06:08.800 --> 00:06:10.910
+8 Hasta 1/3 veces.
+
+00:06:10.910 --> 00:06:11.970
+Por lo que estos se cancelan.
+
+00:06:11.970 --> 00:06:15.530
+Tenemos 8 menos 8, y sólo tenemos 8/3.
+
+00:06:15.530 --> 00:06:17.530
+Por lo que sólo se convierte en 8/3.
+
+00:06:17.530 --> 00:06:20.470
+Y luego tenemos que poner un 0, menos 0 evaluar aquí, pero
+
+00:06:20.470 --> 00:06:21.320
+sólo va a ser 0.
+
+00:06:21.320 --> 00:06:24.180
+Tenemos 4 veces a 0, dos veces 0, todos estos van a ser 0.
+
+00:06:24.180 --> 00:06:25.730
+Lo menos 0.
+
+00:06:25.730 --> 00:06:27.700
+Tan sólo como eso, encontramos nuestra superficie
+
+00:06:27.700 --> 00:06:30.210
+de nuestro segundo muro.
+
+00:06:30.210 --> 00:06:34.250
+Esto resultó ser, este derecho es aquí 8/3.
+
+00:06:34.250 --> 00:06:35.890
+Y ahora tenemos nuestro último muro, y luego podemos
+
+00:06:35.890 --> 00:06:37.380
+simplemente agregarlos.
+
+00:06:37.380 --> 00:06:40.640
+Así que tenemos nuestro último muro.
+
+00:06:40.640 --> 00:06:41.800
+Voy a hacer otra parametrización.
+
+00:06:41.800 --> 00:06:44.180
+Quiero tener el gráfico allí.
+
+00:06:44.180 --> 00:06:46.620
+Bueno, tal vez puedo pegarlo nuevamente.
+
+00:06:46.620 --> 00:06:46.990
+Editar.
+
+00:06:46.990 --> 00:06:49.590
+Por lo que hay de nuevo el gráfico.
+
+00:06:49.590 --> 00:06:52.250
+Y ahora vamos a hacer nuestro último muro.
+
+00:06:52.250 --> 00:06:54.870
+Así nuestro último muro es este uno aquí, que es, nos
+
+00:06:54.870 --> 00:06:56.930
+podría escribir, usted sabe, que esto fue c3.
+
+00:06:56.930 --> 00:06:59.750
+Permítanme cambiar colores aquí.
+
+00:06:59.750 --> 00:07:06.420
+Así que esto es c, vamos a ir a lo largo del contorno c3 de f de xy ds,
+
+00:07:06.420 --> 00:07:10.170
+que es lo mismo, vamos a hacer una parametrización.
+
+00:07:10.170 --> 00:07:14.580
+A lo largo de esta curva, si solo decimos, x es igual a t, muy
+
+00:07:14.580 --> 00:07:17.770
+recta hacia adelante, para t es mayor o igual a 0,
+
+00:07:17.770 --> 00:07:20.420
+menor o igual a 2 y esta todo el tiempo que estamos
+
+00:07:20.420 --> 00:07:23.520
+a lo largo del eje x, y va a ser igual a 0.
+
+00:07:23.520 --> 00:07:25.650
+Eso es bastante sencilla parametrización.
+
+00:07:25.650 --> 00:07:29.100
+Así que esto va a ser igual, vamos a ir de t es
+
+00:07:29.100 --> 00:07:37.845
+igual a 0 para t es igual a 2 f de xy, que es, I'll
+
+00:07:37.845 --> 00:07:41.860
+escribir en términos de x en este momento, x y y, x y y
+
+00:07:41.860 --> 00:07:44.760
+squared times ds.
+
+00:07:44.760 --> 00:07:47.970
+Ahora, ¿qué es dx--bien, déjame escribir ds aquí.
+
+00:07:47.970 --> 00:07:48.690
+Tiempos de ds.
+
+00:07:48.690 --> 00:07:50.520
+Eso es lo que estamos tratando con.
+
+00:07:50.520 --> 00:07:52.870
+Ahora sabemos lo que es el ds.
+
+00:07:52.870 --> 00:08:01.030
+DS es igual a la raíz cuadrada de dx dt squared plus
+
+00:08:01.030 --> 00:08:04.940
+dy dt squared times dt.
+
+00:08:04.940 --> 00:08:06.510
+Demostramos en el primer video.
+
+00:08:06.510 --> 00:08:08.690
+O rigurosamente no probarlo, pero tenemos el sentido
+
+00:08:08.690 --> 00:08:09.980
+de por qué esto es cierto.
+
+00:08:09.980 --> 00:08:12.560
+Y ¿qué es la derivada de x con respecto a t?
+
+00:08:12.560 --> 00:08:15.890
+Bien, eso de 1 solo, por lo que esto sólo va a ser un 1,
+
+00:08:15.890 --> 00:08:17.250
+1 lo mismo, cuadrado.
+
+00:08:17.250 --> 00:08:19.030
+Y la derivada de y con respecto a z es 0.
+
+00:08:19.030 --> 00:08:22.840
+Por lo que se trata es de 0, 1 + 0 es 1, raíz cuadrada de 1 es 1.
+
+00:08:22.840 --> 00:08:27.090
+Para esto simplemente se convierte en dt.
+
+00:08:27.090 --> 00:08:30.290
+DS va a ser igual al dt, en este caso.
+
+00:08:30.290 --> 00:08:33.510
+Por lo que sólo se convierte en un dt.
+
+00:08:33.510 --> 00:08:37.515
+Y entonces nuestro x va a ser igual a una t, que es parte
+
+00:08:37.515 --> 00:08:40.460
+de nuestra definición de nuestra parametrización e y es
+
+00:08:40.460 --> 00:08:42.090
+cero, por lo que nosotros podemos ignorar.
+
+00:08:42.090 --> 00:08:43.710
+Esta era una súper integral.
+
+00:08:43.710 --> 00:08:47.580
+Para que esto simplificado para, vamos a ir de 0 a 2
+
+00:08:47.580 --> 00:08:54.540
+de t dt, que es igual a la primitiva de t es sólo 1/2
+
+00:08:54.540 --> 00:08:58.240
+t al cuadrado, y vamos a ir de 0 a 2, que es igual
+
+00:08:58.240 --> 00:09:01.160
+a 2 1/2 veces cuadrado.
+
+00:09:01.160 --> 00:09:05.780
+2 al cuadrado es 4 veces, 1/2 es 2 y luego menos 1/2
+
+00:09:05.780 --> 00:09:08.410
+veces 0 cuadrado, menos 0.
+
+00:09:08.410 --> 00:09:12.860
+Área de la pared de este tercer allí es sólo 2.
+
+00:09:12.860 --> 00:09:15.390
+Bastante sencillo.
+
+00:09:15.390 --> 00:09:19.580
+Para que la derecha, es el área, sólo 2.
+
+00:09:19.580 --> 00:09:23.270
+Y así, para responder a nuestra pregunta, lo que fue esta línea integral
+
+00:09:23.270 --> 00:09:27.420
+¿evaluada sobre este trazado cerrado de f de xy?
+
+00:09:27.420 --> 00:09:28.870
+Bueno, simplemente agregamos estos números.
+
+00:09:28.870 --> 00:09:32.980
+Tenemos 4 plus 2 pi más 8/3 más 2, bueno, ¿qué es esto.
+
+00:09:32.980 --> 00:09:39.530
+8/3 es lo mismo como 2 y 2/3, por lo que tenemos 4 plus 2 y 2/3
+
+00:09:39.530 --> 00:09:44.290
+6 y 2/3, más 2 otro es 8 y 2/3, así que todo esto
+
+00:09:44.290 --> 00:09:47.880
+se convierte en 8 y 2/3, si lo escribimos como un mixto
+
+00:09:47.880 --> 00:09:50.470
+número, además de 2 pi.
+
+00:09:50.470 --> 00:09:51.550
+Y hemos terminado!
+
+00:09:51.550 --> 00:09:52.190
+Y hemos terminado.
+
+00:09:52.190 --> 00:09:55.210
+Ahora podemos empezar tratando de línea integrales con
+
+00:09:55.210 --> 00:09:57.460
+funciones con valores vectoriales.
+
+00:09:57.460 --> 00:09:57.600
+~Pausa~

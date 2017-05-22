@@ -1,0 +1,50 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.670 --> 00:00:05.015
+Digamos que tenemos la ecuación 
+diferencial dy/dx
+
+00:00:05.015 --> 00:00:10.614
+donde la derivada de "y" con respecto
+a "x" es igual a -x/y
+
+00:00:10.844 --> 00:00:13.590
+Digamos que no sabemos como encontrar
+
+00:00:13.590 --> 00:00:19.519
+las soluciones, pero al menos queremos 
+una idea de como pueden ser
+
+00:00:20.307 --> 00:00:23.197
+Para hacer esto podemos mirar un eje de 
+coordenadas
+
+00:00:52.535 --> 00:00:56.505
+Dado que esta ecuación diferencial esta 
+dada en terminos de "x" y "y"
+
+00:00:56.533 --> 00:01:00.023
+y primeras derivadas de "y" con respecto a
+"x"
+
+00:01:00.454 --> 00:01:02.024
+puedo probar puntos en el eje
+
+00:01:02.024 --> 00:01:03.594
+de coordenadas
+
+00:01:03.594 --> 00:01:05.414
+mirar las coordenadas de "x" y "y"
+
+00:01:05.414 --> 00:01:09.524
+substituirlas en la ecuación, determinar
+la monotonia, y entonces puedo
+
+00:01:09.524 --> 00:01:12.710
+visualizar la monotonia ¿Si una solucion
+
+00:01:12.710 --> 00:01:17.176
+pasa por ese punto, cual es la monotonia
+en ese punto?

@@ -1,0 +1,156 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:06.267 --> 00:00:08.800
+Digamos que tenemos un rayo por aqui que empieza en el punto A y entonces va directo hacia un punto B, y asi podriamos
+
+00:00:09.467 --> 00:00:12.933
+llamar a este rayo (podriamos llamar, dejame dibujo este rayo un poco mas recto) entonces podriamos llamar a este rayo AB.
+
+00:00:16.333 --> 00:00:18.867
+empieza en A o tiene un vertice en A y entonces digamos que tambien hay un rayo AC. Asi que digamos que C esta por aqui
+
+00:00:21.333 --> 00:00:25.600
+justo por aqui y entonces podemos dibujar otro rayo que va directo a C, asi este seria rayo AC. Y lo que es interesante
+
+00:00:32.200 --> 00:00:35.733
+sobre estos dos rayos es que tienen el mismo vertice. (tienen exactamente el mismo vertice en A)
+
+00:00:40.467 --> 00:00:43.600
+y en general lo que tenemos cuando hay dos rayos con el mismo vertice es un angulo.
+
+00:00:47.467 --> 00:00:50.600
+y tu probablemente ya estas familiarizado con el concepto de angulo, esta palabra
+
+00:00:53.133 --> 00:00:55.800
+viene del latin y significa esquina lo cual tiene sentido, porque parece como una pequeña esquina justo alli
+
+00:00:58.200 --> 00:01:00.600
+cuando vemos en el punto A, pero la definicion geometrica o la que seguramente encontraras
+
+00:01:04.267 --> 00:01:07.667
+es que cuando dos rayos comparten un mismo vertice, y este es de hecho llamado vertice de el angulo.
+
+00:01:12.667 --> 00:01:16.533
+Entonces A es vértice. No solo es el vértice de cada uno de estos rayos (rayo AB y rayo AC), también es el vértice
+
+00:01:19.933 --> 00:01:24.667
+del ángulo. Entonces lo siguiente que quiero pensar es como nombrar o etiquetar un ángulo.
+
+00:01:28.467 --> 00:01:31.333
+Quizás te gustaría nombrarlo solamente ángulo A, pero te enseñaré en un segundo porque eso no sería tan claro
+
+00:01:35.600 --> 00:01:39.800
+basandose en donde el ángulo esta situado. Entonces la manera de espicificar
+
+00:01:42.267 --> 00:01:46.600
+a un ángulo (y ojalá esto sea fácil de entender en un segundo) es llamarlo ÁNGULO (este es el símbolo de un ángulo)
+
+00:01:52.733 --> 00:01:58.200
+y en realidad se parece a un ángulo acá,
+
+00:02:00.933 --> 00:02:05.333
+pero esta cosita puntiaguda se parece al símbolo de "menos que." Pero no lo es. Esta plano en la parte de abajo que se ve aquí.
+
+00:02:07.800 --> 00:02:09.800
+Este es el símbolo para un ángulo. Dirías ángulo BAC o CAB.
+
+00:02:10.600 --> 00:02:13.133
+Y de cualquier manera se esta especificando o identificando esta esquina. También se podría decir que es una abierta
+
+00:02:15.467 --> 00:02:16.933
+por acá. Lo que es importante reconocer es que el vértice está en el medio de las letras.
+
+00:02:19.867 --> 00:02:21.467
+Y quizás estes pensando que por qué nombrar cada una de las tres letras, por qué no solamente nombrar el ángulo A.
+
+00:02:24.200 --> 00:02:27.133
+Y para ver porque, déjame enseñarte otro gráfico. A pesar de que la
+
+00:02:27.133 --> 00:02:36.600
+definición geométrica implica dos líneas que tienen el mismo vértice
+
+00:02:36.600 --> 00:02:39.667
+en la práctica, verás mucho ángulos
+
+00:02:39.667 --> 00:02:50.467
+formados de una línea y línea de segmentos.
+
+00:02:50.467 --> 00:02:54.267
+Digamos que tengo una línea de segmento como esta, que la llamo
+
+00:02:54.267 --> 00:03:07.800
+DE y otra línea de segmento, FG
+
+00:03:07.800 --> 00:03:15.000
+y digamos que el punto en donde las dos líneas de segmento interactúan
+
+00:03:15.000 --> 00:03:20.533
+es H, ¿cómo podemos especificar este ángulo?
+
+00:03:20.533 --> 00:03:27.800
+¿Podemos llamarle ángulo H, si decimos que es el ángulo H
+
+00:03:27.800 --> 00:03:45.000
+puede ser este ángulo, ese ángulo o este ángulo
+
+00:03:45.000 --> 00:03:49.467
+puede ser este ángulo. La única manera de especificar
+
+00:03:49.467 --> 00:03:54.867
+de cual estamos hablando es nombrarlos con 3 letras
+
+00:03:54.867 --> 00:04:01.467
+si quieres referirte a este ángulo, lo llamarás
+
+00:04:01.467 --> 00:04:12.400
+ángulo EHG o ángulo GHE,
+
+00:04:12.400 --> 00:04:18.933
+si deseas este ángulo, lo puedes nombrar
+
+00:04:18.933 --> 00:04:40.867
+ángulo DHG o ángulo GHD. Creo que entiendes la idea.
+
+00:04:40.867 --> 00:04:45.600
+Este es el ángulo FHE o EHF y este es el ángulo
+
+00:04:45.600 --> 00:04:54.533
+DHF. ¿Está claro a qué ángulo te refieres ahora?
+
+00:04:54.533 --> 00:04:58.467
+entonces ahora tenemos una idea general de lo que es un ángulo y como
+
+00:04:58.467 --> 00:05:02.933
+lo designamos con símbolos, no todos los ángulos
+
+00:05:02.933 --> 00:05:13.267
+se ven iguales. Algunos son más abiertos que otros
+
+00:05:13.267 --> 00:05:19.133
+Por ejemplo, tomemos estos dos ángulos,
+
+00:05:19.133 --> 00:05:58.933
+ángulo ABC, tenemos otro ángulo XYZ
+
+00:05:58.933 --> 00:06:06.333
+cuando observas estos ángulos, el ángulo XYZ es más abierto
+
+00:06:06.333 --> 00:06:15.800
+mientras que este ángulo es más cerrado comparado con el otro ángulo
+
+00:06:15.800 --> 00:06:22.267
+cuando medimos los ángulos, debemos medirlos para saber que tan abiertos o
+
+00:06:22.267 --> 00:06:32.000
+cerrados son. La medida del ángulo XYZ es mayor
+
+00:06:32.000 --> 00:06:38.133
+que la medida del ángulo ABC.
+
+00:06:38.133 --> 00:06:44.533
+La medida de cualquier ángulo se basa en que tan abierto o cerrado
+
+00:06:44.533 --> 99:59:59.999
+es, lo cual veremos en los próximos videos.

@@ -1,0 +1,666 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.580 --> 00:00:03.170
+Ahora que sabemos un poco acerca de la integral de convolución
+
+00:00:03.170 --> 00:00:05.200
+y cómo se aplica a la transformada de Laplace, vamos a
+
+00:00:05.200 --> 00:00:07.950
+realmente intentar resolver una ecuación diferencial real
+
+00:00:07.950 --> 00:00:09.270
+con lo que sabemos.
+
+00:00:09.270 --> 00:00:12.440
+Así que tengo esta ecuación aquí, este problema de valor inicial,
+
+00:00:12.440 --> 00:00:17.410
+donde dice que la segunda derivada de y más de 2 veces
+
+00:00:17.410 --> 00:00:23.380
+la primera derivada y, además de 2 veces y, es igual a
+
+00:00:23.380 --> 00:00:26.970
+seno de alfa t.
+
+00:00:26.970 --> 00:00:29.340
+Y nos dan algunas condiciones iniciales.
+
+00:00:29.340 --> 00:00:34.740
+Nos dicen que y de 0 es igual a 0 y ese primer y
+
+00:00:34.740 --> 00:00:38.090
+0 es igual a 0.
+
+00:00:38.090 --> 00:00:40.350
+Y que es agradable y cómoda que las iniciales condiciones
+
+00:00:40.350 --> 00:00:42.280
+tienden a hacer el problema bastante limpio.
+
+00:00:42.280 --> 00:00:44.170
+Pero vayamos al problema.
+
+00:00:44.170 --> 00:00:46.940
+Así que lo primero que hacemos es tomamos la transformada de Laplace
+
+00:00:46.940 --> 00:00:48.960
+ambos lados de esta ecuación.
+
+00:00:48.960 --> 00:00:51.470
+La transformada de Laplace de la segunda derivada
+
+00:00:51.470 --> 00:00:54.380
+y es justo s al cuadrado.
+
+00:00:54.380 --> 00:00:56.550
+Esto debería ser un poco de segunda naturaleza para usted por ahora.
+
+00:00:56.550 --> 00:01:01.530
+La s squared veces la transformada de Laplace de Y, que
+
+00:01:01.530 --> 00:01:06.580
+Sólo voy a escribir como capital y s, menos s--por lo que empezamos
+
+00:01:06.580 --> 00:01:08.500
+Estamos con el mismo grado que el número de derivados
+
+00:01:08.500 --> 00:01:12.040
+toma y luego disminuye cada vez--menos s
+
+00:01:12.040 --> 00:01:16.130
+tiempos y de 0--crees tipo de esto como la integral,
+
+00:01:16.130 --> 00:01:18.770
+y tomar la derivada 1, por lo que no es exactamente la
+
+00:01:18.770 --> 00:01:22.286
+derivado de que--menos, usted disminuir ese 1, solo
+
+00:01:22.286 --> 00:01:25.680
+tienen un 1 allí, y primo de o.
+
+00:01:25.680 --> 00:01:28.210
+Y es la transformada de Laplace de la segunda
+
+00:01:28.210 --> 00:01:28.730
+derivado.
+
+00:01:28.730 --> 00:01:33.370
+Ahora, tenemos que hacer la transformada de Laplace de 2 veces el primero
+
+00:01:33.370 --> 00:01:33.860
+derivado.
+
+00:01:33.860 --> 00:01:40.470
+Sólo va a ser igual a más de 2 veces, sY de s--s
+
+00:01:40.470 --> 00:01:42.930
+tiempos de la transformada de Laplace de Y; eso es todo
+
+00:01:42.930 --> 00:01:48.920
+allí--menos y de 0.
+
+00:01:48.920 --> 00:01:51.010
+Y sólo tenemos una izquierda.
+
+00:01:51.010 --> 00:01:54.110
+La transformada de Laplace de 2 Y.
+
+00:01:54.110 --> 00:01:57.530
+Es simplemente igual a más 2 veces el Laplace
+
+00:01:57.530 --> 00:01:59.320
+transformación de Y.
+
+00:01:59.320 --> 00:02:02.060
+Y, a continuación, que va a ser igual a la transformada de Laplace
+
+00:02:02.060 --> 00:02:05.910
+del seno de alfa t.
+
+00:02:05.910 --> 00:02:08.300
+Hasta ahora hemos hecho eso varias veces.
+
+00:02:08.300 --> 00:02:15.840
+Eso es justo alpha sobre s squared plus alfa al cuadrado.
+
+00:02:15.840 --> 00:02:17.820
+Ahora, la próxima cosa que queremos hacer es que queremos separar
+
+00:02:17.820 --> 00:02:21.500
+la transformada de Laplace de términos Y, o y de términos de s.
+
+00:02:21.500 --> 00:02:23.790
+En realidad, incluso mejor, vamos a deshacernos de estas iniciales
+
+00:02:23.790 --> 00:02:24.640
+condiciones.
+
+00:02:24.640 --> 00:02:29.460
+y de 0 y y primo de 0 son 0, por lo que este término es 0.
+
+00:02:29.460 --> 00:02:33.230
+Ese término es 0, y ese término es 0.
+
+00:02:33.230 --> 00:02:36.570
+Así que nuestra expresión entera--puedo conseguir librarse de los colores
+
+00:02:36.570 --> 00:02:40.380
+Ahora--sólo resulta--me permiten elegir un bonito color aquí--
+
+00:02:40.380 --> 00:02:51.230
+se convierte en s squared times y s, además de 2s, Y de s--que
+
+00:02:51.230 --> 00:02:57.580
+ese término allí--plus 2Y de s, es igual a la
+
+00:02:57.580 --> 00:03:03.750
+lado derecho, es igual a alfa sobre s plus cuadrado
+
+00:03:03.750 --> 00:03:04.960
+cuadrado de alfa.
+
+00:03:04.960 --> 00:03:07.390
+Ahora vamos a factor y de s, o el de Laplace
+
+00:03:07.390 --> 00:03:09.210
+transformación de Y.
+
+00:03:09.210 --> 00:03:17.790
+Y así obtenemos s squared plus 2s, plus 2, todo eso veces
+
+00:03:17.790 --> 00:03:22.350
+Y de s, es igual a este lado derecho, es igual a
+
+00:03:22.350 --> 00:03:26.480
+Alfa sobre s squared plus alfa al cuadrado.
+
+00:03:26.480 --> 00:03:29.350
+Ahora podemos dividir ambos lados de esta ecuación por esta cosa
+
+00:03:29.350 --> 00:03:33.250
+justo aquí, por ese derecho allí.
+
+00:03:33.250 --> 00:03:38.870
+Y obtenemos y de s, es igual a la transformada de Laplace y
+
+00:03:38.870 --> 00:03:44.570
+esta cosa, alpha sobre s squared plus alfa al cuadrado,
+
+00:03:44.570 --> 00:03:49.770
+veces--o, usted sabe, sólo podría decir veces--1 sobre s
+
+00:03:49.770 --> 00:03:52.380
+cuadrado, más 2s, más 2.
+
+00:03:52.380 --> 00:03:55.040
+Sólo podría decir dividido por esto, pero funciona el
+
+00:03:55.040 --> 00:03:56.700
+de cualquier manera lo mismo.
+
+00:03:56.700 --> 00:03:57.590
+Ahora, ¿qué podemos hacer aquí?
+
+00:03:57.590 --> 00:04:01.290
+Recuerde, por lo que estaba haciendo esto en el contexto de convolución,
+
+00:04:01.290 --> 00:04:04.110
+Quiero buscar una transformada de Laplace que luce como la
+
+00:04:04.110 --> 00:04:06.820
+producto de dos transformaciones de Laplace. Sé que la
+
+00:04:06.820 --> 00:04:08.330
+es la inversa de la transformada de Laplace.
+
+00:04:08.330 --> 00:04:09.380
+De hecho, sólo tomé.
+
+00:04:09.380 --> 00:04:10.890
+Su seno de alfa t.
+
+00:04:10.890 --> 00:04:13.150
+Lo que si puedo averiguar la inversa de la transformada de Laplace
+
+00:04:13.150 --> 00:04:16.950
+Esto, al menos podría expresar al menos nuestra función y de t
+
+00:04:16.950 --> 00:04:19.170
+como una integral, aunque no necesariamente de convolución
+
+00:04:19.170 --> 00:04:20.070
+resolver la integral.
+
+00:04:20.070 --> 00:04:21.870
+Desde allí, es sólo cálculo, o si es un
+
+00:04:21.870 --> 00:04:24.180
+integral irresoluble, sólo podríamos usar una computadora o
+
+00:04:24.180 --> 00:04:26.060
+algo, aunque realmente podría utilizar una computadora para
+
+00:04:26.060 --> 00:04:28.500
+resolver esto, puede omitir algunos pasos incluso
+
+00:04:28.500 --> 00:04:29.080
+pasando por esto.
+
+00:04:29.080 --> 00:04:31.360
+Pero de todas formas, sólo vamos a conseguir esto en términos de una
+
+00:04:31.360 --> 00:04:33.430
+integral de convolución.
+
+00:04:33.430 --> 00:04:34.930
+Así que ¿qué puedo hacer con esto?
+
+00:04:34.930 --> 00:04:37.970
+Esto es, vamos a ver, esto no es un cuadrado perfecto.
+
+00:04:37.970 --> 00:04:40.250
+Así que si esto no es un cuadrado perfecto, es the next best thing
+
+00:04:40.250 --> 00:04:41.870
+para tratar de completar el cuadrado aquí.
+
+00:04:41.870 --> 00:04:45.990
+Así que vamos a tratar de escribir esto como una, así que vamos a ver, si escribo
+
+00:04:45.990 --> 00:04:53.640
+como s squared plus 2s, más algo, más 2.
+
+00:04:53.640 --> 00:04:55.110
+Sólo reescribió como este.
+
+00:04:55.110 --> 00:04:58.250
+Y si escribí esto como s squared plus 2s + 1, que
+
+00:04:58.250 --> 00:05:00.130
+se convierte en s plus 1 cuadrado.
+
+00:05:00.130 --> 00:05:02.210
+Pero si añadir un 1, tengo también restar un 1.
+
+00:05:02.210 --> 00:05:04.430
+Simplemente no puedo añadir de 1 arbitrariamente a las cosas.
+
+00:05:04.430 --> 00:05:06.990
+Así que si agrego 1 tengo que restar un 1 para cancelar
+
+00:05:06.990 --> 00:05:07.430
+con ese 1.
+
+00:05:07.430 --> 00:05:09.690
+Así que realmente no he cambiado esto en absoluto, solo
+
+00:05:09.690 --> 00:05:11.720
+reescribió como este.
+
+00:05:11.720 --> 00:05:14.890
+Pero ahora, yo puedo reescribir este término derecho
+
+00:05:14.890 --> 00:05:18.900
+aquí como s plus 1 cuadrado.
+
+00:05:18.900 --> 00:05:22.460
+Y entonces se convierte en más 1.
+
+00:05:22.460 --> 00:05:23.810
+Es este término aquí.
+
+00:05:23.810 --> 00:05:25.250
+Este es el plus 1.
+
+00:05:25.250 --> 00:05:31.390
+Por lo que yo podía reescribir mi entera y de s ahora es igual a alfa
+
+00:05:31.390 --> 00:05:39.690
+sobre s cuadrados, además de alfa cuadrado, tiempos 1 sobre esto
+
+00:05:39.690 --> 00:05:45.630
+cosa, s más 1 cuadrado, más 1.
+
+00:05:45.630 --> 00:05:49.430
+Ahora, ya he dicho, saber qué la transformada inversa de Laplace
+
+00:05:49.430 --> 00:05:50.920
+es la transformación de esta cosa.
+
+00:05:54.760 --> 00:05:56.600
+Ahora sólo tengo que averiguar qué la transformada inversa de Laplace
+
+00:05:56.600 --> 00:05:58.260
+es la transformación de esta cosa.
+
+00:05:58.260 --> 00:06:02.160
+Esto--me permiten elegir un color bonito--de esa cosa azul en
+
+00:06:02.160 --> 00:06:04.240
+el cuadro azul y luego podemos expresarlo como
+
+00:06:04.240 --> 00:06:05.350
+una integral de convolución.
+
+00:06:05.350 --> 00:06:06.200
+Y ¿cómo lo hago?
+
+00:06:06.200 --> 00:06:07.270
+Sólo pude hacerlo ahora.
+
+00:06:07.270 --> 00:06:11.250
+Podía simplemente inmediatamente decir que y de t--déjame escribir
+
+00:06:11.250 --> 00:06:17.830
+esta abajo--y de t, por lo que es igual a la inversa la
+
+00:06:17.830 --> 00:06:22.740
+inversa de Laplace transformar, obviamente de y de s.
+
+00:06:22.740 --> 00:06:26.430
+Déjame escribir abajo, Y de s.
+
+00:06:26.430 --> 00:06:29.630
+Que es igual a la inversa de Laplace
+
+00:06:29.630 --> 00:06:31.420
+de estas dos cosas.
+
+00:06:31.420 --> 00:06:36.370
+La inversa de la transformada de Laplace de alfa sobre s al cuadrado, plus
+
+00:06:36.370 --> 00:06:46.060
+Alfa cuadrado, veces 1 sobre s plus 1 cuadrado, más 1.
+
+00:06:46.060 --> 00:06:50.300
+Y ahora el teorema de convolución nos dice que esto es
+
+00:06:50.300 --> 00:06:55.440
+va a ser igual a la inversa de la transformada de Laplace
+
+00:06:55.440 --> 00:06:58.182
+Este primer trimestre en el producto.
+
+00:06:58.182 --> 00:07:02.740
+Tan la transformada inversa de Laplace de primer término,
+
+00:07:02.740 --> 00:07:08.960
+Alfa sobre s squared plus alfa squared, enrevesados
+
+00:07:08.960 --> 00:07:14.710
+con--voy a hacer un signo de convolución poco allí.
+
+00:07:14.710 --> 00:07:16.510
+Iba a decir la convulsión.
+
+00:07:16.510 --> 00:07:18.610
+No son demasiado diferentes.
+
+00:07:18.610 --> 00:07:20.930
+Enrevesados con la transformada inversa de Laplace de esto
+
+00:07:20.930 --> 00:07:27.990
+término, la inversa de la transformada de Laplace de 1 sobre s plus 1
+
+00:07:27.990 --> 00:07:30.950
+cuadrado, más 1.
+
+00:07:30.950 --> 00:07:34.730
+Si tengo el producto de dos transformaciones de Laplace, y que pueda
+
+00:07:34.730 --> 00:07:37.100
+tomar cada uno de ellos de forma independiente y puedo invertir
+
+00:07:37.100 --> 00:07:41.410
+ellos, a la inversa de Laplace de su producto es
+
+00:07:41.410 --> 00:07:44.230
+va a ser la convolución de la transformada inversa de Laplace
+
+00:07:44.230 --> 00:07:48.460
+cada uno de ellos, cada uno de los términos.
+
+00:07:48.460 --> 00:07:50.920
+Y lo confundan me un poco, por lo que no quiero
+
+00:07:50.920 --> 00:07:51.470
+confundirle.
+
+00:07:51.470 --> 00:07:52.550
+Pero creo que usted consigue la idea.
+
+00:07:52.550 --> 00:07:53.620
+Tengo estas dos cosas.
+
+00:07:53.620 --> 00:07:55.590
+Reconozco estos independientemente.
+
+00:07:55.590 --> 00:07:58.210
+Puedo tomar independientemente la inversa de cada una de estas
+
+00:07:58.210 --> 00:08:02.840
+cosas, por lo que es la inversa de la transformada de Laplace de sus productos
+
+00:08:02.840 --> 00:08:07.930
+va a ser la convolución de cada uno de su inversa
+
+00:08:07.930 --> 00:08:10.610
+transforma. Ahora ¿qué es esto aquí?
+
+00:08:10.610 --> 00:08:12.340
+¿Bien esto tenía en el comienzo del problema?
+
+00:08:12.340 --> 00:08:16.210
+La inversa de Laplace de esto, aquí, es senoidal
+
+00:08:16.210 --> 00:08:17.460
+de t alfa.
+
+00:08:21.070 --> 00:08:24.140
+Y luego vamos a circunvolucionan que con la
+
+00:08:24.140 --> 00:08:27.070
+inversa de Laplace transformar este derecho aquí.
+
+00:08:27.070 --> 00:08:29.980
+Vamos a hacer un poco de trabajo en el lado, simplemente para asegurarse de que
+
+00:08:29.980 --> 00:08:31.380
+tenemos este derecho.
+
+00:08:31.380 --> 00:08:41.490
+Por lo tanto la transformada de Laplace de seno de t es igual a 1 sobre s
+
+00:08:41.490 --> 00:08:42.960
+cuadrado, más 1.
+
+00:08:42.960 --> 00:08:47.480
+Que este aspecto, pero fui desplazado por menos 1.
+
+00:08:47.480 --> 00:08:52.780
+Usted podría recordar que transformar la Laplace de e a la
+
+00:08:52.780 --> 00:08:58.090
+en el seno de t, cuando multiplicas e a la a veces
+
+00:08:58.090 --> 00:09:00.350
+nada, está cambiando su transformada de Laplace.
+
+00:09:00.350 --> 00:09:04.820
+Por lo que será igual a 1 sobre s menos una
+
+00:09:04.820 --> 00:09:08.900
+cuadrado, más 1.
+
+00:09:08.900 --> 00:09:10.390
+Hemos cambiado esencialmente por una.
+
+00:09:10.390 --> 00:09:12.830
+Así que ahora tenemos algo que parece muy similar a esto.
+
+00:09:12.830 --> 00:09:17.110
+Si acaba de establecer nuestra un igual a negativo 1, aquí nuestro
+
+00:09:17.110 --> 00:09:20.400
+una es igual al negativo 1, a continuación, se ajusta a este patrón.
+
+00:09:20.400 --> 00:09:25.230
+Esto es s menos negativo 1.
+
+00:09:25.230 --> 00:09:27.640
+Así que la transformada inversa de Laplace de esta cosa derecha
+
+00:09:27.640 --> 00:09:34.530
+aquí es justo e a la una, que es menos 1, así menos 1t,
+
+00:09:34.530 --> 00:09:39.800
+seno de tiempos de t.
+
+00:09:39.800 --> 00:09:42.980
+Así que esta es la solución a nuestra ecuación diferencial, incluso
+
+00:09:42.980 --> 00:09:46.780
+Aunque no es en una forma agradable de mirar.
+
+00:09:46.780 --> 00:09:48.890
+Y nosotros podemos, si queremos, lo expreso como integrante.
+
+00:09:48.890 --> 00:09:50.410
+No voy a resolver realmente la integral en este
+
+00:09:50.410 --> 00:09:52.570
+problema, porque se pone peluda, y no está aún claro
+
+00:09:52.570 --> 00:09:54.190
+--bueno, incluso no intentar hacerlo.
+
+00:09:54.190 --> 00:09:56.100
+Pero sólo quiero entrar en un formulario, y desde allí es sólo
+
+00:09:56.100 --> 00:09:58.020
+cálculo integral.
+
+00:09:58.020 --> 00:10:01.500
+o quizás una computadora.
+
+00:10:01.500 --> 00:10:03.110
+¿Qué es la convolución de estas dos cosas?
+
+00:10:03.110 --> 00:10:10.400
+Es la integral de 0 a t, del seno de la primera función
+
+00:10:10.400 --> 00:10:11.810
+de t menos tau.
+
+00:10:14.600 --> 00:10:16.800
+Bueno, realmente pude cambiar, y yo no he demostrado esto,
+
+00:10:16.800 --> 00:10:20.170
+pero podemos cambiar el orden de cualquier manera, pero que realmente
+
+00:10:20.170 --> 00:10:21.420
+me justo hacerlo de esta manera.
+
+00:10:24.720 --> 00:10:27.390
+Podría escribir esto como seno de [? a?]
+
+00:10:27.390 --> 00:10:32.950
+t minus tau, veces alfa--estoy teniendo en el seno de todos
+
+00:10:32.950 --> 00:10:42.870
+esas cosas--veces e el signo tau, seno de tau, dtau.
+
+00:10:42.870 --> 00:10:45.330
+Que es una manera, que si quería expresar la solución
+
+00:10:45.330 --> 00:10:47.310
+de esta ecuación diferencial integral, que pudiera
+
+00:10:47.310 --> 00:10:48.310
+escribirlo como ese.
+
+00:10:48.310 --> 00:10:50.660
+Y en realidad debería ser tipo de obvio para usted que esta
+
+00:10:50.660 --> 00:10:51.890
+podría ir de cualquier manera.
+
+00:10:51.890 --> 00:10:57.190
+Porque cuando era un producto aquí, obviamente orden hace
+
+00:10:57.190 --> 00:10:57.730
+no importa.
+
+00:10:57.730 --> 00:11:00.470
+Este término podría escribir primero, o podría escribir ese término
+
+00:11:00.470 --> 00:11:05.450
+primer. Así que independientemente de qué término se escribe en primer lugar, la
+
+00:11:05.450 --> 00:11:07.690
+se aplicaría el mismo principio.
+
+00:11:07.690 --> 00:11:09.910
+Y voy formalmente probarlo en un futuro vídeo.
+
+00:11:09.910 --> 00:11:12.290
+Así nos podríamos haber también hecho al revés.
+
+00:11:12.290 --> 00:11:16.260
+Podríamos haber escrito esta expresión como e negativo
+
+00:11:16.260 --> 00:11:22.700
+t, seno de t, enrevesado con seno de alfa t.
+
+00:11:22.700 --> 00:11:27.510
+Y que sería igual a la integral de 0 a t, de e a
+
+00:11:27.510 --> 00:11:38.560
+la t menos menos seno de t, menos tau, tau veces sinusoidal de
+
+00:11:38.560 --> 00:11:40.800
+tau alfa, dtau.
+
+00:11:40.800 --> 00:11:42.770
+Así que estas son equivalentes.
+
+00:11:42.770 --> 00:11:46.440
+Cualquiera de estos sería una respuesta aceptable.
+
+00:11:46.440 --> 00:11:48.480
+Y normalmente en una prueba como esta, no espera el maestro
+
+00:11:48.480 --> 00:11:50.240
+usted realmente evaluar estas integrales.
+
+00:11:50.240 --> 00:11:53.370
+El profesor sólo diré, entrar una integral sólo a
+
+00:11:53.370 --> 00:11:56.150
+ver si sabes cómo circunvolucionan las cosas y
+
+00:11:56.150 --> 00:11:59.260
+obtener al menos la solución a la ecuación diferencial
+
+00:11:59.260 --> 00:12:02.310
+en esta forma, porque desde aquí es realmente justo, me
+
+00:12:02.310 --> 00:12:03.860
+no decir cálculo básico, pero es
+
+00:12:03.860 --> 00:12:05.135
+no-ecuaciones diferenciales.
+
+00:12:05.135 --> 00:12:08.560
+Así que esperemos que este segundo ejemplo con la convolución
+
+00:12:08.560 --> 00:12:10.790
+para resolver una transformada inversa aclaró
+
+00:12:10.790 --> 00:12:12.940
+las cosas hasta un poco.

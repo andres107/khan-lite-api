@@ -1,0 +1,624 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.138 --> 00:00:05.828
+Esto aquí es una fotografia de un Avión Airbus A380,
+
+00:00:05.828 --> 00:00:07.129
+y me daba curiosidad
+
+00:00:07.129 --> 00:00:11.262
+Cuanto tiempo se tardaría en despegar?
+
+00:00:11.262 --> 00:00:18.135
+Entonces busqué su velocidad de despegue,
+
+00:00:18.135 --> 00:00:23.986
+y me encontre con que era 280 km/h.
+
+00:00:23.986 --> 00:00:25.426
+Y para hacer esto un vector de velocidad,
+
+00:00:25.426 --> 00:00:27.423
+necesitamos especificar una dirección también,
+
+00:00:27.423 --> 00:00:28.909
+no solo la magnitud.
+
+00:00:28.909 --> 00:00:31.974
+Así que la dirección es la misma que la dirección de la pista de despegue.
+
+00:00:31.974 --> 00:00:34.807
+Y esta sera la dirección positiva.
+
+00:00:34.807 --> 00:00:37.314
+Así que cuando estemos hablando de aceleración,
+
+00:00:37.314 --> 00:00:40.101
+vamos a asumir que esta en esta dirección,
+
+00:00:40.101 --> 00:00:43.000
+la dirección de la pista.
+
+00:00:43.000 --> 00:00:44.977
+Y también busqué sus especificaciones,
+
+00:00:44.977 --> 00:00:46.835
+y estoy simplificando un poco,
+
+00:00:46.835 --> 00:00:48.414
+por que no va a tener solamente
+
+00:00:48.414 --> 00:00:49.528
+aceleración constante.
+
+00:00:49.528 --> 00:00:50.226
+Pero vamos a asumir que:
+
+00:00:50.226 --> 00:00:51.757
+desde el momento que el piloto dice,
+
+00:00:51.757 --> 00:00:54.172
+"Vamos a despegar" a cuando despega actualmente,
+
+00:00:54.172 --> 00:00:55.890
+lleva una aceleración constante.
+
+00:00:55.890 --> 00:00:59.652
+Sus turbinas son capaces de proveer la aceleración constante.
+
+00:00:59.652 --> 00:01:09.888
+Una aceleración de 1.0 m/s^2 metros por segundo segundo.
+
+00:01:09.919 --> 00:01:11.480
+Así que después de cada segundo,
+
+00:01:11.480 --> 00:01:13.585
+puede ir un metro por segundo mas veloz
+
+00:01:13.585 --> 00:01:14.671
+que como estaba yendo
+
+00:01:14.671 --> 00:01:16.170
+al principio de ese segundo.
+
+00:01:16.170 --> 00:01:17.764
+O, otra manera de escribirlo es
+
+00:01:17.764 --> 00:01:27.032
+1.0 m/s^2 metros por segundo segundo.
+
+00:01:27.032 --> 00:01:28.631
+que también puede ser escrita:
+
+00:01:28.631 --> 00:01:31.248
+1.0 m/s^2
+
+00:01:31.248 --> 00:01:33.226
+Yo encuentro esto un poco mas intuitivo,
+
+00:01:33.226 --> 00:01:35.133
+un poco mas pulcro al escribir.
+
+00:01:35.133 --> 00:01:36.340
+Así que vamos a resolver esto.
+
+00:01:36.340 --> 00:01:37.315
+Lo primero
+
+00:01:37.315 --> 00:01:38.787
+que vamos a tratar de resolver es:
+
+00:01:38.787 --> 00:01:47.303
+Cuanto tiempo dura el despegue?
+
+00:01:47.303 --> 00:01:50.412
+Esa es la pregunta que vamos a tratar de responder.
+
+00:01:50.412 --> 00:01:51.185
+Y para contestar esto,
+
+00:01:51.185 --> 00:01:52.547
+por lo menos mi cerebro,
+
+00:01:52.547 --> 00:01:54.406
+quiere por lo menos tener las unidades de medida correctas
+
+00:01:54.406 --> 00:01:55.072
+Así que por aquí,
+
+00:01:55.072 --> 00:01:56.047
+nosotros tenemos nuestra aceleración
+
+00:01:56.047 --> 00:01:58.059
+en términos de metros y segundos,
+
+00:01:58.059 --> 00:01:59.327
+o segundos al cuadrado.
+
+00:01:59.327 --> 00:01:59.886
+Y por aquí,
+
+00:01:59.886 --> 00:02:00.813
+tenemos nuestro vector de velocidad de despegue
+
+00:02:00.813 --> 00:02:04.333
+en términos de kilómetros y horas.
+
+00:02:04.333 --> 00:02:05.179
+Así que solo convertimos
+
+00:02:05.179 --> 00:02:07.254
+esta velocidad de despegue a metros por segundo (m/s)
+
+00:02:07.254 --> 00:02:08.244
+y después talvéz se simplifique,
+
+00:02:08.244 --> 00:02:10.473
+contestando esta pregunta.
+
+00:02:10.473 --> 00:02:15.056
+Si tenemos 280 km/h,
+
+00:02:15.056 --> 00:02:18.200
+como convertimos esto a metros/segundo?
+
+00:02:18.200 --> 00:02:21.589
+Vamos a convertir a Km/s primero.
+
+00:02:21.589 --> 00:02:24.019
+Así que queremos deshacernos de esta "hora".
+
+00:02:24.019 --> 00:02:25.381
+Y la mejor manera de hacer eso es:
+
+00:02:25.381 --> 00:02:26.048
+si tenemos una "hora"
+
+00:02:26.048 --> 00:02:27.130
+en el denominador,
+
+00:02:27.130 --> 00:02:28.477
+nosotros queremos una "hora" en el numerador,
+
+00:02:28.477 --> 00:02:31.650
+y queremos un "segundo" en el denominador.
+
+00:02:31.650 --> 00:02:34.947
+Y así, que multiplicaremos esto por?
+
+00:02:34.947 --> 00:02:35.815
+O que ponemos enfrente de
+
+00:02:35.815 --> 00:02:37.115
+las "horas" y "segundos"?
+
+00:02:37.115 --> 00:02:41.309
+Así que en 1 hora hay 3600 segundos.
+
+00:02:41.309 --> 00:02:42.563
+60 segundos en un minuto,
+
+00:02:42.563 --> 00:02:44.978
+60 minutos en una hora
+
+00:02:44.978 --> 00:02:46.976
+Y entonces 1 de la unidad mas grande
+
+00:02:46.976 --> 00:02:50.318
+equivale a 3600 de la unidad mas chica.
+
+00:02:50.318 --> 00:02:52.425
+Y entonces podemos multiplicar por esta cantidad,
+
+00:02:52.425 --> 00:02:53.786
+Y si hacemos esto,
+
+00:02:53.786 --> 00:02:55.088
+Las "horas" se cancelaran.
+
+00:02:55.088 --> 00:02:57.331
+Y obtendremos 280 dividido por 3600
+
+00:02:57.331 --> 00:02:59.128
+kilómetros por segundo.
+
+00:02:59.128 --> 00:03:00.400
+Pero quiero hacer todas mis matemáticas de una vez,
+
+00:03:00.400 --> 00:03:02.579
+así que también haré la conversión de
+
+00:03:02.579 --> 00:03:04.638
+kilómetros a metros.
+
+00:03:04.638 --> 00:03:05.877
+Va de nuevo,
+
+00:03:05.877 --> 00:03:08.741
+tenemos km en el numerador,
+
+00:03:08.741 --> 00:03:11.133
+y queremos km en el denominador ahora.
+
+00:03:11.133 --> 00:03:12.238
+así que se cancela.
+
+00:03:12.238 --> 00:03:14.235
+Y queremos metros en el numerador
+
+00:03:14.235 --> 00:03:15.953
+y cual es la unidad mas chica?
+
+00:03:15.953 --> 00:03:18.600
+Es metros, y tenemos mil (1,000) metros
+
+00:03:18.600 --> 00:03:20.969
+por cada 1 km.
+
+00:03:20.969 --> 00:03:22.394
+Y cuando multiplicamos esto
+
+00:03:22.394 --> 00:03:23.941
+los km se cancelan.
+
+00:03:23.941 --> 00:03:25.333
+Y solo quedamos con
+
+00:03:25.333 --> 00:03:41.530
+280 por 1000 todo sobre 3600
+
+00:03:41.530 --> 00:03:44.003
+Y las unidades que quedan:
+
+00:03:44.003 --> 00:03:52.907
+son metros por segundo
+
+00:03:52.907 --> 00:03:56.010
+Así que sacare mi calculadora de confianza
+
+00:03:56.010 --> 00:03:58.014
+y actualmente calculare esto.
+
+00:03:58.014 --> 00:04:01.450
+Tenemos 280 por 1,000
+
+00:04:01.450 --> 00:04:02.875
+que es obviamente 280,000,
+
+00:04:02.875 --> 00:04:06.964
+pero deja solo divido esto por 3600.
+
+00:04:06.964 --> 00:04:10.894
+Y me da 77.7777... progresivo.
+
+00:04:10.894 --> 00:04:13.634
+Y parece que tengo 2 cifras significantes
+
+00:04:13.634 --> 00:04:15.259
+en cada de estas cosas originales,
+
+00:04:15.259 --> 00:04:17.069
+I tenia 1 por aquí,
+
+00:04:17.069 --> 00:04:18.557
+no 100% claro cuantas
+
+00:04:18.587 --> 00:04:20.272
+cifras significantes tengo por aquí.
+
+00:04:20.272 --> 00:04:22.067
+Estaba la especificación redondeada?
+
+00:04:22.067 --> 00:04:23.988
+a los 10 km mas cercanos,
+
+00:04:23.988 --> 00:04:26.715
+o era exactamente 280 km/h?
+
+00:04:26.992 --> 00:04:27.796
+Solo para estar seguros,
+
+00:04:27.796 --> 00:04:28.772
+Asumiré que esta redondeada
+
+00:04:28.772 --> 00:04:30.067
+a los 10km mas cercanos
+
+00:04:30.067 --> 00:04:32.379
+así que solo tenemos dos cifras significantes aquí.
+
+00:04:32.379 --> 00:04:33.972
+Solo deberíamos tener 2 cifras significantes
+
+00:04:33.972 --> 00:04:34.901
+en nuestra respuesta,
+
+00:04:34.901 --> 00:04:40.625
+así que vamos a redondear esto a 78 m/s
+
+00:04:41.610 --> 00:04:48.728
+Esto será 78m/s,
+
+00:04:48.867 --> 00:04:50.319
+que es bastante rapido!
+
+00:04:50.627 --> 00:04:52.316
+Para que esto despegue,
+
+00:04:52.316 --> 00:04:53.616
+cada segundo que pasa
+
+00:04:53.616 --> 00:04:55.985
+tiene que viajar 78 metros,
+
+00:04:57.200 --> 00:04:59.979
+mas o menos 3/4 el largo de una cancha de football
+
+00:04:59.979 --> 00:05:01.668
+en cada segundo.
+
+00:05:01.884 --> 00:05:03.148
+Pero eso no es lo que queremos contestar,
+
+00:05:03.148 --> 00:05:04.361
+lo que estamos tratando de decir es cuanto tarda
+
+00:05:04.361 --> 00:05:05.956
+en despegar?
+
+00:05:05.956 --> 00:05:07.922
+Bueno, podríamos hacer esto solo en nuestras cabezas,
+
+00:05:07.922 --> 00:05:09.685
+si lo piensas.
+
+00:05:09.685 --> 00:05:12.989
+La aceleración es un metro por segundo segundo,
+
+00:05:12.989 --> 00:05:13.771
+que nos dice:
+
+00:05:13.771 --> 00:05:15.304
+que después de cada segundo,
+
+00:05:15.304 --> 00:05:17.301
+el avión ira 1 metro por segundo mas veloz.
+
+00:05:17.301 --> 00:05:20.273
+Así que, si tu empiezas a una velocidad de 0,
+
+00:05:20.273 --> 00:05:21.791
+y entonces después de un segundo,
+
+00:05:21.791 --> 00:05:22.966
+va a ir a una velocidad de 1 m/s.
+
+00:05:22.966 --> 00:05:23.757
+Después de 2 segundos
+
+00:05:23.757 --> 00:05:25.011
+va a ir a 2m/s.
+
+00:05:25.011 --> 00:05:25.847
+Después de 3 segundos
+
+00:05:25.847 --> 00:05:27.318
+a 3 m/s
+
+00:05:27.610 --> 00:05:30.908
+así que cuanto tardara en llegar a los 78 m/s ?
+
+00:05:30.908 --> 00:05:33.015
+Bueno, pues tardara 78 segundos.
+
+00:05:33.400 --> 00:05:38.199
+Va a tardar 78 segundos, mas o menos
+
+00:05:38.199 --> 00:05:40.739
+un minuto y 18 segundos.
+
+00:05:40.985 --> 00:05:42.375
+Y para solo verificar esto
+
+00:05:42.405 --> 00:05:44.831
+con nuestra definición de aceleración,
+
+00:05:44.831 --> 00:05:45.471
+por decirlo asi
+
+00:05:45.471 --> 00:05:47.272
+solo recuerda aceleración,
+
+00:05:47.272 --> 00:05:48.373
+que es una cantidad vectorial
+
+00:05:48.373 --> 00:05:48.993
+y todas las direcciones
+
+00:05:48.993 --> 00:05:49.845
+de las que estamos hablando ahora
+
+00:05:49.845 --> 00:05:51.097
+están en dirección de
+
+00:05:51.097 --> 00:05:53.395
+la pista de despegue.
+
+00:05:53.395 --> 00:05:56.898
+La aceleración es igual a
+
+00:05:56.898 --> 00:06:04.889
+el cambio de velocidad sobre tiempo.
+
+00:06:04.889 --> 00:06:05.971
+Y estamos tratando de resolver para:
+
+00:06:05.971 --> 00:06:07.147
+cuanto tiempo tarda
+
+00:06:07.147 --> 00:06:08.544
+o el cambio en tiempo.
+
+00:06:08.682 --> 00:06:09.484
+Asi que hagamos eso.
+
+00:06:09.484 --> 00:06:10.892
+Vamos a multiplicar los dos lados por
+
+00:06:10.892 --> 00:06:12.256
+el cambio en tiempo
+
+00:06:12.518 --> 00:06:17.860
+Tenemos delta t por aceleración
+
+00:06:17.891 --> 00:06:19.919
+es igual a
+
+00:06:19.919 --> 00:06:24.408
+el cambio de velocidad.
+
+00:06:24.408 --> 00:06:25.600
+Y para resolver por cambio de velocidad en tiempo.
+
+00:06:25.600 --> 00:06:31.745
+dividimos cada lado por la aceleración,
+
+00:06:31.745 --> 00:06:33.756
+y obtenemos cambio en tiempo.
+
+00:06:33.756 --> 00:06:35.320
+Yo podria ir aqui abajo
+
+00:06:35.320 --> 00:06:36.327
+pero solo queiro usar todo esto
+
+00:06:36.327 --> 00:06:37.520
+bienes raices tengo por aqui.
+
+00:06:37.520 --> 00:06:38.744
+Tengo cambio en tiempo
+
+00:06:38.744 --> 00:06:40.150
+es igual a
+
+00:06:40.150 --> 00:06:43.961
+cambio en velocidad
+
+00:06:44.007 --> 00:06:48.041
+divido por aceleración.
+
+00:06:48.041 --> 00:06:49.159
+En esta situación,
+
+00:06:49.159 --> 00:06:51.667
+cual es el cambio de velocidad ?
+
+00:06:51.667 --> 00:06:53.942
+Bueno, empezaremos con la velocidad,
+
+00:06:53.942 --> 00:06:54.953
+o asumiremos que estamos empezando
+
+00:06:54.953 --> 00:06:57.733
+con una velocidad de 0 m/s,
+
+00:06:57.733 --> 00:07:01.112
+y llegaremos a 78 m/s,
+
+00:07:01.112 --> 00:07:02.667
+asi que nuestro cambio en velocidad es
+
+00:07:02.667 --> 00:07:08.458
+los 78 metros por segundo.
+
+00:07:09.458 --> 00:07:10.158
+Esto es igual a
+
+00:07:10.158 --> 00:07:11.112
+nuestra situación.
+
+00:07:11.112 --> 00:07:14.719
+78 m/s es nuestro cambio en velocidad.
+
+00:07:14.719 --> 00:07:15.955
+Tomare la velocidad final,
+
+00:07:15.955 --> 00:07:17.301
+78 m/s,
+
+00:07:17.301 --> 00:07:18.602
+y la restare de eso
+
+00:07:18.602 --> 00:07:19.408
+la velocidad inicial
+
+00:07:19.408 --> 00:07:20.400
+que es 0 m/s
+
+00:07:20.400 --> 00:07:21.899
+y solo obtendremos esta
+
+00:07:21.899 --> 00:07:23.733
+dividida por la aceleración,
+
+00:07:23.733 --> 00:07:29.353
+dividida por 1m/s
+
+00:07:29.353 --> 00:07:31.512
+o un m/s^2
+
+00:07:31.512 --> 00:07:33.309
+Los numeros son bastante sencillos.
+
+00:07:33.309 --> 00:07:35.320
+Tu tienes 78 dividido por 1.
+
+00:07:35.320 --> 00:07:36.992
+que es solo 78
+
+00:07:36.992 --> 00:07:38.199
+y entonces las unidades que nos quedan son:
+
+00:07:38.199 --> 00:07:39.267
+metros por segundom
+
+00:07:40.452 --> 00:07:42.611
+y si entonces dividimos por m/s^2,
+
+00:07:42.611 --> 00:07:44.608
+es lo mismo que multiplicar por
+
+00:07:44.608 --> 00:07:46.499
+segundo cuadrado por metro.
+
+00:07:46.499 --> 00:07:47.225
+Cierto?
+
+00:07:47.225 --> 00:07:49.890
+Dividiendo por algo es la misma cosa
+
+00:07:49.890 --> 00:07:51.886
+que multiplicar por su reciproco,
+
+00:07:51.886 --> 00:07:54.246
+y asi que podemos hacer lo mismo con las unidades.
+
+00:07:54.246 --> 00:07:55.336
+Y entonces vemos
+
+00:07:55.336 --> 00:07:57.240
+que los metros se cancelan
+
+00:07:57.240 --> 00:07:59.330
+y entonces segundo cuadrado dividido por segundo
+
+00:07:59.330 --> 00:08:00.570
+solo nos quedan segundos.
+
+00:08:00.570 --> 00:08:04.425
+Y una vez mas , tenemos 78 segundos.
+
+00:08:04.425 --> 99:59:59.999
+Un poco mas de un minuto para que esto despegue.

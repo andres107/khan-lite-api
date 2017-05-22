@@ -1,0 +1,399 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.710 --> 00:00:03.620
+Vamos a seguir haciendo a algunos Laplace transformaciones. Es bueno para uno,
+
+00:00:03.620 --> 00:00:06.580
+a ver donde mucho de esas tablas de transformada de Laplace
+
+00:00:06.580 --> 00:00:09.210
+Usted verá más tarde realmente provienen, y hace
+
+00:00:09.210 --> 00:00:10.780
+usted cómodo con las matemáticas.
+
+00:00:10.780 --> 00:00:14.340
+Que es realmente amable de su segundo cálculo del semestre
+
+00:00:14.340 --> 00:00:16.230
+matemáticas, pero se te hace cómodo con todo el
+
+00:00:16.230 --> 00:00:17.630
+noción de lo que estamos haciendo.
+
+00:00:17.630 --> 00:00:21.110
+Así que ante todo, permítanme sólo reescribir la definición de la
+
+00:00:21.110 --> 00:00:21.865
+Transformada de Laplace.
+
+00:00:21.865 --> 00:00:24.990
+Por eso es la l de Laverne &amp; Shirley.
+
+00:00:24.990 --> 00:00:29.780
+Por lo que es igual a la transformada de Laplace de algunas funciones de t
+
+00:00:29.780 --> 00:00:36.700
+la integral impropia de 0 a infinito e negativo
+
+00:00:36.700 --> 00:00:40.120
+St veces nuestra función.
+
+00:00:40.120 --> 00:00:43.180
+Tiempos de nuestra función de t y es con respecto al dt.
+
+00:00:43.180 --> 00:00:45.030
+De así que vamos a otro Laplace.
+
+00:00:45.030 --> 00:00:52.830
+Digamos que queremos tomar la transformada de Laplace--y
+
+00:00:52.830 --> 00:00:58.765
+Ahora nuestra función f de t, vamos a decir que es e a la a.
+
+00:01:01.640 --> 00:01:03.850
+Transformada de Laplace de e a la a.
+
+00:01:03.850 --> 00:01:06.160
+Bien simplemente sustituimos lo en esta definición de la
+
+00:01:06.160 --> 00:01:07.410
+Transformada de Laplace.
+
+00:01:09.825 --> 00:01:13.040
+Y esto es todo va a ser realmente buena integración
+
+00:01:13.040 --> 00:01:13.760
+práctica para nosotros.
+
+00:01:13.760 --> 00:01:15.180
+Especialmente la integración por partes.
+
+00:01:15.180 --> 00:01:17.910
+Casi todos de Laplace problema se convierte en un
+
+00:01:17.910 --> 00:01:20.370
+integración por problema de piezas.
+
+00:01:20.370 --> 00:01:23.740
+Que, como aprendimos hace mucho tiempo, integración por partes es sólo
+
+00:01:23.740 --> 00:01:26.070
+la regla del producto inversa.
+
+00:01:26.070 --> 00:01:26.840
+Así que de todos modos.
+
+00:01:26.840 --> 00:01:30.380
+Esto es igual a la integral de 0 a infinito.
+
+00:01:30.380 --> 00:01:39.300
+¿e para el st menos veces e a la a,?
+
+00:01:39.300 --> 00:01:41.150
+Es nuestro f de t.
+
+00:01:41.150 --> 00:01:43.600
+DT.
+
+00:01:43.600 --> 00:01:46.500
+Bien esto es equivalente a agregar solo los exponentes porque
+
+00:01:46.500 --> 00:01:47.670
+Tenemos la misma base.
+
+00:01:47.670 --> 00:01:52.160
+La integral de 0 a infinito de e
+
+00:01:52.160 --> 00:01:59.630
+a la una menos stdt.
+
+00:02:04.350 --> 00:02:07.780
+Y ¿qué es la primitiva de esto?
+
+00:02:07.780 --> 00:02:12.400
+¿Así que es igual a qué?
+
+00:02:12.400 --> 00:02:13.160
+Con respecto a C.
+
+00:02:13.160 --> 00:02:20.150
+Por lo que es igual a--s menos, que sólo va a ser un
+
+00:02:20.150 --> 00:02:20.920
+¿constante, correcto?
+
+00:02:20.920 --> 00:02:22.710
+Así nos podemos dejarlo fuera en el exterior.
+
+00:02:22.710 --> 00:02:35.720
+1/al menos s veces e a la un menos st. Y vamos a
+
+00:02:35.720 --> 00:02:39.760
+evaluar que de t es igual a infinito o el límite como t
+
+00:02:39.760 --> 00:02:41.940
+enfoques infinito a t es igual a 0.
+
+00:02:41.940 --> 00:02:44.270
+Y pude haber pongo esto dentro de los soportes, pero su
+
+00:02:44.270 --> 00:02:46.190
+¿sólo un término constante, correcto?
+
+00:02:46.190 --> 00:02:48.820
+Ninguno de ellos tiene stamos en ellos, por lo que sólo puedo tirarles.
+
+00:02:48.820 --> 00:02:58.260
+Así que esto es iguales a 1/al menos s veces--ahora
+
+00:02:58.260 --> 00:03:00.340
+esencialmente tiene que evaluar t en el infinito.
+
+00:03:00.340 --> 00:03:03.190
+¿Cuál es el límite en el infinito?
+
+00:03:03.190 --> 00:03:05.400
+¿Así tenemos dos casos aquí, correctas?
+
+00:03:05.400 --> 00:03:12.510
+Si este exponente--si esta un s negativo es un número positivo,
+
+00:03:12.510 --> 00:03:17.700
+Si un signo menos s es mayor que 0, ¿qué va a pasar?
+
+00:03:17.700 --> 00:03:20.910
+Así como nos acercamos a infinito, sólo obtiene e hasta el infinito
+
+00:03:20.910 --> 00:03:22.260
+más grande y más grande y más grande, verdad?
+
+00:03:22.260 --> 00:03:25.250
+Porque es un exponente infinitamente positivo e.
+
+00:03:25.250 --> 00:03:28.540
+Por lo que no obtenemos una respuesta.
+
+00:03:28.540 --> 00:03:32.050
+Y cuando lo haga, integrales impropias, cuando tome la
+
+00:03:32.050 --> 00:03:35.590
+límite hasta el infinito y no llegan a un finito
+
+00:03:35.590 --> 00:03:38.850
+número, el límite de no acercarse a nada, eso significa
+
+00:03:38.850 --> 00:03:42.750
+que k la integral impropia diverge.
+
+00:03:42.750 --> 00:03:44.025
+Así que no hay límite.
+
+00:03:46.580 --> 00:03:50.250
+Y hasta cierto punto, podemos decir que es la transformada de Laplace
+
+00:03:50.250 --> 00:03:55.480
+no definido con un signo menos s es mayor que 0 o cuando una es
+
+00:03:55.480 --> 00:03:57.040
+mayor que s.
+
+00:03:57.040 --> 00:04:00.665
+Ahora, ¿qué sucede si un s negativo es menor que 0?
+
+00:04:05.220 --> 00:04:08.270
+Bueno, entonces esto va a ser algo negativo
+
+00:04:08.270 --> 00:04:09.620
+¿número aquí, correcto?
+
+00:04:09.620 --> 00:04:12.740
+Y luego, si tomamos e a un número infinito negativo,
+
+00:04:12.740 --> 00:04:14.450
+bueno, entonces acercarse algo.
+
+00:04:14.450 --> 00:04:15.690
+Acerca a 0.
+
+00:04:15.690 --> 00:04:18.860
+Y vimos que en el video anterior.
+
+00:04:18.860 --> 00:04:20.820
+¿Y espero que usted entienda lo que estoy diciendo, derecho?
+
+00:04:20.820 --> 00:04:25.830
+e a un número negativo infinito acerca a 0, mientras que e
+
+00:04:25.830 --> 00:04:27.670
+a un número infinitamente positivo es simplemente infinito.
+
+00:04:27.670 --> 00:04:29.980
+Así realmente no convergen en nada.
+
+00:04:29.980 --> 00:04:31.420
+Así que de todos modos.
+
+00:04:31.420 --> 00:04:36.250
+Si supuse que un s negativo es menor que 0, o es inferior a
+
+00:04:36.250 --> 00:04:43.990
+s y este es el supuesto que haré, para que esto
+
+00:04:43.990 --> 00:04:46.140
+integral impropia converge realmente a algo.
+
+00:04:46.140 --> 00:04:49.410
+Eso si es un signo menor que 0 y este es un negativo
+
+00:04:49.410 --> 00:04:53.470
+e número, a la una menos s veces--bien t, donde t
+
+00:04:53.470 --> 00:04:56.700
+enfoques infinito será 0.
+
+00:04:56.700 --> 00:05:00.230
+Menos esta integral evaluado en 0.
+
+00:05:00.230 --> 00:05:02.220
+Así que cuando usted este valor en 0, ¿qué pasa?
+
+00:05:02.220 --> 00:05:03.140
+T es igual a 0.
+
+00:05:03.140 --> 00:05:05.520
+Todo esto se convierte en e 0 es 1.
+
+00:05:09.400 --> 00:05:10.980
+Y ¿qué nos queda?
+
+00:05:10.980 --> 00:05:13.875
+Menos 1/al menos s.
+
+00:05:13.875 --> 00:05:19.710
+Y al igual que es como 1/s s menos una.
+
+00:05:19.710 --> 00:05:26.540
+Así tenemos nuestra proxima entrada en nuestra tabla de transformada de Laplace.
+
+00:05:26.540 --> 00:05:30.670
+Y es la transformada de Laplace.
+
+00:05:30.670 --> 00:05:41.800
+La transformada de Laplace de e a la a es igual a 1/s s menos
+
+00:05:41.800 --> 00:05:45.650
+una, como hacemos la hipótesis de que s es
+
+00:05:45.650 --> 00:05:48.790
+más de una.
+
+00:05:48.790 --> 00:05:53.930
+Esto es cierto cuando es mayor que un o una s es menor que s.
+
+00:05:53.930 --> 00:05:54.710
+También se podría ver de cualquier manera.
+
+00:05:54.710 --> 00:06:00.350
+Por lo es nuestra segunda entrada en nuestra tabla de transformada de Laplace.
+
+00:06:00.350 --> 00:06:01.310
+Fascinante.
+
+00:06:01.310 --> 00:06:04.460
+Y en realidad, vamos a relacionar esto a nuestra entrada anterior en
+
+00:06:04.460 --> 00:06:05.970
+¿nuestra mesa de transformada de Laplace, correcto?
+
+00:06:05.970 --> 00:06:09.350
+¿Cuál fue nuestra primera entrada en nuestra tabla de transformada de Laplace?
+
+00:06:09.350 --> 00:06:15.810
+¿Fue transformada de Laplace de 1 es igual a 1/s, correcto?
+
+00:06:15.810 --> 00:06:19.730
+¿Bien no es lo mismo 1 cosa como e el 0?
+
+00:06:19.730 --> 00:06:21.930
+Así nos podríamos haber dicho que se trata de la Laplace--sé
+
+00:06:21.930 --> 00:06:24.280
+Estoy quedando sin espacio, pero lo haré aquí en púrpura.
+
+00:06:24.280 --> 00:06:26.780
+Nos podríamos haber dicho de Laplace de 1 es el mismo
+
+00:06:26.780 --> 00:06:31.790
+¿lo que e a la t 0 veces, la derecha?
+
+00:06:31.790 --> 00:06:34.170
+Y equivale a 1/s.
+
+00:06:34.170 --> 00:06:37.075
+Y por suerte es bueno ver que es coherente.
+
+00:06:37.075 --> 00:06:39.950
+Y en realidad, recuerda, incluso hicimos la condición cuando s
+
+00:06:39.950 --> 00:06:41.350
+es mayor que 0, ¿verdad?
+
+00:06:41.350 --> 00:06:43.565
+Asumimos que s es mayor que 0 este ejemplo.
+
+00:06:46.490 --> 00:06:48.820
+Aquí nuevamente, dices s es mayor que 0.
+
+00:06:48.820 --> 00:06:51.920
+¿Esto es completamente consistente con este uno, derecho?
+
+00:06:51.920 --> 00:06:55.600
+Porque si una es igual a 0, entonces la transformada de Laplace de
+
+00:06:55.600 --> 00:06:58.360
+e 0 es sólo 1/s menos 0.
+
+00:06:58.360 --> 00:06:59.690
+Es sólo 1/s.
+
+00:06:59.690 --> 00:07:01.950
+Y tenemos que asumir que s es mayor que cero.
+
+00:07:01.950 --> 00:07:05.895
+Así que realmente son de la misma entrada en nuestro Laplace
+
+00:07:05.895 --> 00:07:06.980
+tabla de transformación.
+
+00:07:06.980 --> 00:07:09.840
+Pero siempre es bueno en matemáticas cuando vemos que
+
+00:07:09.840 --> 00:07:13.740
+dos resultados que obtuvimos en tratar de hacer algo diferente
+
+00:07:13.740 --> 00:07:15.730
+problemas realmente son, en cierto modo,
+
+00:07:15.730 --> 00:07:17.660
+conectado o el mismo resultado.
+
+00:07:17.660 --> 00:07:20.320
+De todos modos nos vemos en el siguiente video y mantendremos
+
+00:07:20.320 --> 00:07:23.570
+tratando de construir nuestra tabla de Laplace transformaciones. Y tal vez
+
+00:07:23.570 --> 00:07:26.130
+tres o cuatro vídeos a partir de ahora realmente mostraré cómo
+
+00:07:26.130 --> 00:07:31.180
+Estas transformaciones son extremadamente útiles en la solución de todo tipo de
+
+00:07:31.180 --> 00:07:32.080
+ecuaciones diferenciales.
+
+00:07:32.080 --> 00:07:33.710
+Nos vemos luego.

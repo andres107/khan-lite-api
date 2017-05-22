@@ -1,0 +1,1080 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.780
+-
+
+00:00:00.780 --> 00:00:03.720
+Mucho de lo que hacemos con las transformas Laplace es
+
+00:00:03.720 --> 00:00:05.070
+tomarlas y tomar sus inversos, involucra
+
+00:00:05.070 --> 00:00:06.260
+en gran parte encontrar parejas.
+
+00:00:06.260 --> 00:00:08.380
+Y no debe ser algo hecho mecánicamente
+
+00:00:08.380 --> 00:00:10.130
+y por eso me he tomado el tiempo para mostrarles
+
+00:00:10.130 --> 00:00:11.270
+por que funcionan
+
+00:00:11.270 --> 00:00:13.650
+Pero únicamente para asegurarnos de que no se
+
+00:00:13.650 --> 00:00:16.370
+confundan, creo que es necesario a revisar un poco de
+
+00:00:16.370 --> 00:00:17.890
+todo lo que hemos aprendido hasta ahora.
+
+00:00:17.890 --> 00:00:21.070
+Así que en el último video, vimos que la transforma Laplace
+
+00:00:21.070 --> 00:00:22.760
+bueno, permítanme escribir algo
+
+00:00:22.760 --> 00:00:26.930
+La transformada de Laplace de f de t, permítanme escribir
+
+00:00:26.930 --> 00:00:31.210
+esta notación y podemos escribir lo como F mayúscula de
+
+00:00:31.210 --> 00:00:33.210
+s, y eso ya se los he comentado antes.
+
+00:00:33.210 --> 00:00:36.090
+Y dado que, en el último video les mostré que si
+
+00:00:36.090 --> 00:00:39.960
+tenemos que idiar con la función escalón unitario, entonces si digo
+
+00:00:39.960 --> 00:00:43.810
+Mira, la transformada de Laplace de la función escalón unitario,
+
+00:00:43.810 --> 00:00:49.690
+se convierte en 1 a algun valor c multiplicado por alguna función f desplazada.
+
+00:00:49.690 --> 00:00:54.420
+de t menos c, en el último video, vimos que esto es
+
+00:00:54.420 --> 00:01:01.530
+justo igual a e a la menos cs multiplicada por la transformada de Laplace
+
+00:01:01.530 --> 00:01:05.079
+de la función de aquí, así que multiplicada por f de s.
+
+00:01:05.079 --> 00:01:08.005
+-
+
+00:01:08.005 --> 00:01:10.780
+Y es realmente importante no confundir esto con
+
+00:01:10.780 --> 00:01:14.530
+otra propiedad de transformada de Laplace o regla o como
+
+00:01:14.530 --> 00:01:16.310
+quieran llamarlo, que hemos averiguado.
+
+00:01:16.310 --> 00:01:18.840
+Creo que fue uno de los videos que hice el año pasado,
+
+00:01:18.840 --> 00:01:20.690
+pero si sólo estan siguiendo estos en orden, que creo que es
+
+00:01:20.690 --> 00:01:22.870
+hace tres o cuatro videos.
+
+00:01:22.870 --> 00:01:31.000
+Y en ese vimos que la transformada de Laplace de e a la
+
+00:01:31.000 --> 00:01:40.710
+at, multiplicado por f de t, que eso es igual a--y quiero hacer
+
+00:01:40.710 --> 00:01:42.340
+Esta distinción muy clara.
+
+00:01:42.340 --> 00:01:45.740
+Aquí hemos cambiado la f de t y obtuvimos una
+
+00:01:45.740 --> 00:01:47.580
+F de s regular.
+
+00:01:47.580 --> 00:01:50.660
+En esta situación, cuando lo multiplicamos por una a e a la
+
+00:01:50.660 --> 00:01:57.480
+at positiva, terminamos desplazando la transformación.
+
+00:01:57.480 --> 00:02:01.480
+Así que esto se convierte en f de s menos a.
+
+00:02:01.480 --> 00:02:04.720
+Y estas dos reglas, o propiedades o lo que sea
+
+00:02:04.720 --> 00:02:06.690
+que quieran llamarlos, son muy fáciles de
+
+00:02:06.690 --> 00:02:07.750
+confundir uno con el otro.
+
+00:02:07.750 --> 00:02:09.509
+Así que vamos a hacer un par de ejemplos en los que vamos
+
+00:02:09.509 --> 00:02:12.040
+a tener que descubrir cuál de estas dos propiedades aplicar.
+
+00:02:12.040 --> 00:02:14.350
+Vamos a escribir también todas las otras cosas que hemos aprendido.
+
+00:02:14.350 --> 00:02:16.740
+Lo primero que aprendimos fue que la transformada de Laplace
+
+00:02:16.740 --> 00:02:21.740
+de 1 es igual a 1/s.
+
+00:02:21.740 --> 00:02:24.270
+Sabemos que esa es bastante sencilla, fácil de
+
+00:02:24.270 --> 00:02:25.320
+demostrar.
+
+00:02:25.320 --> 00:02:27.930
+Y más en general, aprendimos que la transformada de Laplace de
+
+00:02:27.930 --> 00:02:34.330
+t a la n, donde n es un entero positivo, es igual a n
+
+00:02:34.330 --> 00:02:42.120
+factorial sobre s a la n + 1.
+
+00:02:42.120 --> 00:02:44.500
+Y tuvimos las funciones trigonométricas
+
+00:02:44.500 --> 00:02:46.150
+que repasamos.
+
+00:02:46.150 --> 00:02:49.340
+Permítanme hacer esto en un color diferente.
+
+00:02:49.340 --> 00:02:50.130
+Lo haré aquí.
+
+00:02:50.130 --> 00:02:58.980
+La transformada de Laplace de seno de a es igual a sobre s
+
+00:02:58.980 --> 00:03:01.530
+cuadrada, más a cuadrada.
+
+00:03:01.530 --> 00:03:08.760
+Y la transformada de Laplace del coseno de at es igual a s
+
+00:03:08.760 --> 00:03:11.660
+sobre s cuadrada más a cuadrada.
+
+00:03:11.660 --> 00:03:15.330
+Y se sorprenderán hasta qué punto podemos ir con sólo lo que
+
+00:03:15.330 --> 00:03:15.980
+Aquí he escrito.
+
+00:03:15.980 --> 00:03:20.020
+En futuros videos, vamos a ampliar nuestro juego de herramientas
+
+00:03:20.020 --> 00:03:22.610
+aún más, pero con sólo estas justo aquí, ya puede hacer un
+
+00:03:22.610 --> 00:03:26.170
+conjunto de transformaciones de Laplace y transformadas inversas de Laplace
+
+00:03:26.170 --> 00:03:28.330
+Así que vamos a intentar hacer unos pocos.
+
+00:03:28.330 --> 00:03:30.435
+Así que vamos a decir que les daré una transformada de Laplace.
+
+00:03:30.435 --> 00:03:32.410
+Y saben, esto es sólo la parte más difícil.
+
+00:03:32.410 --> 00:03:34.830
+Creo que sabes cómo resolver una ecuación diferencial, si
+
+00:03:34.830 --> 00:03:36.360
+saben cómo tomar la transformada de Laplace
+
+00:03:36.360 --> 00:03:37.240
+e ir hacia adelante y hacia atrás.
+
+00:03:37.240 --> 00:03:39.860
+La parte difícil es sólo reconocer o invertir sus
+
+00:03:39.860 --> 00:03:42.640
+transformadas de Laplace. Así que vamos a decir que tenemos la transformada
+
+00:03:42.640 --> 00:03:46.760
+de Laplace de alguna función f de s.
+
+00:03:46.760 --> 00:03:56.260
+Digamos que es factorial 3 sobre s menos 2 a la cuarta.
+
+00:03:56.260 --> 00:04:00.210
+Ahora, su capacidad para encontrar la pareja, o la parte de reconocimiento de patrones
+
+00:04:00.210 --> 00:04:01.810
+de su cerebro, debe inmediatamente decir, miren, tengo
+
+00:04:01.810 --> 00:04:03.880
+una transformada de Laplace de algo que tiene un factorial
+
+00:04:03.880 --> 00:04:05.860
+en ella, y es un exponente.
+
+00:04:05.860 --> 00:04:08.770
+Esto debe ser algo relacionado con esto
+
+00:04:08.770 --> 00:04:10.540
+de aquí, correcto?
+
+00:04:10.540 --> 00:04:13.240
+Si acabamos de tener la Laplace transform--déjame escribir
+
+00:04:13.240 --> 00:04:18.670
+esto--la transformada de Laplace de--ves un 3 factorial y
+
+00:04:18.670 --> 00:04:22.380
+un cuarto poder, por lo que parece que n es igual a 3.
+
+00:04:22.380 --> 00:04:28.200
+Así que si escribes la transformada de Laplace de t a la 3, esta
+
+00:04:28.200 --> 00:04:31.530
+regla que mostramos aquí, esto significa que sería
+
+00:04:31.530 --> 00:04:38.550
+igual a 3 factorial sobre s a la cuarta.
+
+00:04:38.550 --> 00:04:41.430
+Ahora, esto no es exactamente esta cosa.
+
+00:04:41.430 --> 00:04:43.530
+No son exactamente lo mismo.
+
+00:04:43.530 --> 00:04:46.150
+Sabes, estoy haciendo esto para enseñarle, pero encuentro
+
+00:04:46.150 --> 00:04:48.210
+Estos, cuando realmente los estoy haciendo en un examen--recuerdo
+
+00:04:48.210 --> 00:04:51.370
+Cuando les hice cuando primero aprendí esto, realmente quisiera
+
+00:04:51.370 --> 00:04:54.290
+ir a través de este paso porque definitivamente no deseo
+
+00:04:54.290 --> 00:04:56.690
+cometer un error por descuido y definitivamente quiero
+
+00:04:56.690 --> 00:04:58.610
+asegurarme de que tengan un buen manejo en lo que están haciendo.
+
+00:04:58.610 --> 00:05:00.970
+Así es como, OK, es algo relacionado con esto, pero
+
+00:05:00.970 --> 00:05:04.780
+¿Cuál es la diferencia entre esta expresión aquí y
+
+00:05:04.780 --> 00:05:07.020
+la expresión que estamos tratando de tomar la transformada
+
+00:05:07.020 --> 00:05:09.720
+inversa de Laplace y esta de aquí?
+
+00:05:09.720 --> 00:05:12.310
+Bien, hemos cambiado nuestro s.
+
+00:05:12.310 --> 00:05:22.600
+Si llamamos a esta expresión justo aquí f de s, luego
+
+00:05:22.600 --> 00:05:24.110
+cual es esta expresión?
+
+00:05:24.110 --> 00:05:28.200
+Esta expresión aquí es f de s menos 2.
+
+00:05:28.200 --> 00:05:32.100
+-
+
+00:05:32.100 --> 00:05:34.410
+Así que que es lo que tenemos aquí?
+
+00:05:34.410 --> 00:05:38.730
+Por lo que ven aquí, tienen una f de s desplazada.
+
+00:05:38.730 --> 00:05:43.760
+En este caso, a sería igual a 2.
+
+00:05:43.760 --> 00:05:48.180
+Así que esto es la transformada de Laplace de e a la at multiplicado por
+
+00:05:48.180 --> 00:05:51.390
+nuestra f de t.
+
+00:05:51.390 --> 00:05:52.660
+Así que permítanme escribir esto.
+
+00:05:52.660 --> 00:05:57.850
+Esta es la transformada de Laplace de e a la--y cuanto es a?
+
+00:05:57.850 --> 00:06:00.440
+a es lo que se ha desplazado la función.
+
+00:06:00.440 --> 00:06:03.170
+Es lo que desplazamos menos a, así que tienen una a positiva,
+
+00:06:03.170 --> 00:06:08.060
+así que e la 2t multiplicada por la función.
+
+00:06:08.060 --> 00:06:10.415
+Si esto fue sólo una f de s, que es lo que sería f de t?
+
+00:06:10.415 --> 00:06:15.550
+Bueno, pensamos, es t el 3, t a la tercera potencia.
+
+00:06:15.550 --> 00:06:19.260
+Por lo tanto la transformada de Laplace de esto es igual a eso.
+
+00:06:19.260 --> 00:06:25.250
+O podríamos escribir la transformada inversa de Laplace de 3
+
+00:06:25.250 --> 00:06:31.600
+factorial sobre s menos 2 a la cuarta es igual a e a
+
+00:06:31.600 --> 00:06:35.300
+la 2t multiplicado por t a la tercera.
+
+00:06:35.300 --> 00:06:39.420
+Ahora, si les pareció algo confuso, podrían
+
+00:06:39.420 --> 00:06:40.670
+ir un poco hacia adelante.
+
+00:06:40.670 --> 00:06:43.150
+-
+
+00:06:43.150 --> 00:06:45.730
+Vamos a ir en la otra dirección, y quizás esto quedará
+
+00:06:45.730 --> 00:06:47.250
+un poco más claro.
+
+00:06:47.250 --> 00:06:48.570
+Así que vamos a ir desde esta dirección.
+
+00:06:48.570 --> 00:06:51.390
+Si tengo que tomar la transformada de Laplace de esta cosa, me gustaría
+
+00:06:51.390 --> 00:06:53.370
+decir, OK, bueno, la transformada de Laplace de t
+
+00:06:53.370 --> 00:06:54.620
+al cubo es fácil.
+
+00:06:54.620 --> 00:06:57.340
+-
+
+00:06:57.340 --> 00:07:00.570
+Creo que la herramienta no funciona completamente allí.
+
+00:07:00.570 --> 00:07:02.630
+Permitanme subir un poco.
+
+00:07:02.630 --> 00:07:04.540
+Podría escribirlo justo aquí.
+
+00:07:04.540 --> 00:07:08.385
+Así que si quería averiguar la transformada de Laplace de e a
+
+00:07:08.385 --> 00:07:12.600
+la 2t multiplicado por t al cubo, yo diría, bueno, saben, esta
+
+00:07:12.600 --> 00:07:14.950
+e a la 2t, recuerdo que desplaza algo.
+
+00:07:14.950 --> 00:07:20.050
+Asi que si sé la transformada de Laplace de t al cubo, esto
+
+00:07:20.050 --> 00:07:20.810
+es fácil.
+
+00:07:20.810 --> 00:07:25.710
+Es igual al factorial 3 sobre s a la cuarta.
+
+00:07:25.710 --> 00:07:27.160
+Eso es 3 más 1.
+
+00:07:27.160 --> 00:07:30.780
+Entonces la transformada de Laplace de e a la 2t multiplicada por t al cubo
+
+00:07:30.780 --> 00:07:32.650
+va a estar desplazada.
+
+00:07:32.650 --> 00:07:35.570
+Esto es igual a f de s.
+
+00:07:35.570 --> 00:07:41.600
+Entonces esto va a ser f de s menos 2.
+
+00:07:41.600 --> 00:07:43.550
+¿Qué es f de s menos 2?
+
+00:07:43.550 --> 00:07:49.550
+Va a ser igual a 3 factorial sobre s menos 2 a
+
+00:07:49.550 --> 00:07:50.580
+la cuarta potencia.
+
+00:07:50.580 --> 00:07:52.420
+Creo que ya estan apreciando el hecho que
+
+00:07:52.420 --> 00:07:55.480
+lo más difícil acerca de estos problemas con transformadas de Laplace
+
+00:07:55.480 --> 00:07:58.380
+es realmente todos estos desplazamientos y reconocer
+
+00:07:58.380 --> 00:08:01.410
+los patrones y reconocer lo que es a y lo que es
+
+00:08:01.410 --> 00:08:04.220
+c y ser muy cuidadosos para no hacer un
+
+00:08:04.220 --> 00:08:05.070
+error por descuido.
+
+00:08:05.070 --> 00:08:07.430
+Y creo que haciendo un montón de ejemplos probablemente ayuda mucho,
+
+00:08:07.430 --> 00:08:11.500
+así que vamos a hacer un par más para asegurarnos de que todo esto
+
+00:08:11.500 --> 00:08:14.710
+realmente se quede bien grabado en su cerebro.
+
+00:08:14.710 --> 00:08:16.840
+Así que vamos a tratar este de aquí.
+
+00:08:16.840 --> 00:08:19.640
+Esto se ve un poco más complicado.
+
+00:08:19.640 --> 00:08:23.030
+Nos dicen que la transformada de Laplace de alguna funcion es
+
+00:08:23.030 --> 00:08:32.070
+igual a 2 veces s menos 1 multiplicado por e a la menos 2s, todo
+
+00:08:32.070 --> 00:08:39.940
+eso sobre s cuadrado menos 2s más 2.
+
+00:08:39.940 --> 00:08:41.600
+Ahora esto se ve muy desalentador.
+
+00:08:41.600 --> 00:08:41.990
+¿Cómo lo hacen?
+
+00:08:41.990 --> 00:08:42.680
+Tengo aquí una e.
+
+00:08:42.680 --> 00:08:44.049
+Tengo algo desplazado aquí.
+
+00:08:44.049 --> 00:08:47.260
+Tengo este polinomio en el denominador aquí.
+
+00:08:47.260 --> 00:08:48.720
+¿Qué puedo hacer con esto?
+
+00:08:48.720 --> 00:08:51.080
+Así que la primera cosa, cuando miro estos polinomios en
+
+00:08:51.080 --> 00:08:53.620
+el denominador, digo puedo yo factorizar de alguna manera?
+
+00:08:53.620 --> 00:08:55.800
+Puedo hacerlo ver más simple?
+
+00:08:55.800 --> 00:08:58.830
+Y de hecho, en los exámenes que encontrarás en
+
+00:08:58.830 --> 00:09:00.280
+tu clase de ecuaciones diferenciales, nunca te darán
+
+00:09:00.280 --> 00:09:03.920
+algo que es factorable en estos números extraños.
+
+00:09:03.920 --> 00:09:05.240
+Tienden a ser enteros.
+
+00:09:05.240 --> 00:09:07.200
+Así que, OK, ¿qué dos números?
+
+00:09:07.200 --> 00:09:09.060
+Tienen que ser positivos.
+
+00:09:09.060 --> 00:09:10.990
+Cuando se multiplican, obtenemos un 2.
+
+00:09:10.990 --> 00:09:13.430
+Y luego cuando se suman, obtenemos un 2 negativo, o
+
+00:09:13.430 --> 00:09:14.750
+podrían ser ambos negativos.
+
+00:09:14.750 --> 00:09:17.360
+Pero no hay dos números fáciles, no 1 y 2.
+
+00:09:17.360 --> 00:09:18.800
+Ninguno de esos funciona.
+
+00:09:18.800 --> 00:09:21.820
+Así que si no se puede factorizar facilmente, la siguiente idea es
+
+00:09:21.820 --> 00:09:24.290
+tal vez nosotros pudiéramos completar el cuadrado y tal vez esto
+
+00:09:24.290 --> 00:09:26.470
+coincidirá con una de las formulas del coseno o del seno.
+
+00:09:26.470 --> 00:09:29.280
+Entonces, ¿cómo podemos completar el cuadrado en este denominador?
+
+00:09:29.280 --> 00:09:38.640
+Bien, esto puede ser reescrito como s al cuadrado menos 2s.
+
+00:09:38.640 --> 00:09:42.010
+Y voy a poner un más 2 aquí afuera.
+
+00:09:42.010 --> 00:09:44.230
+Y pueden ver, tengo un montón de vídeos sobre como
+
+00:09:44.230 --> 00:09:45.650
+completar el cuadrado, si todo esto
+
+00:09:45.650 --> 00:09:46.830
+les parece muy extraño.
+
+00:09:46.830 --> 00:09:49.090
+Y para completar el cuadrado, sólo queremos convertir esto en un
+
+00:09:49.090 --> 00:09:50.130
+cuadrado perfecto.
+
+00:09:50.130 --> 00:09:54.850
+Para convertir esto en un cuadrado perfecto--algo que cuando se
+
+00:09:54.850 --> 00:09:58.720
+añade a sí mismo dos veces resulta menos 2 y que cuando
+
+00:09:58.720 --> 00:10:03.030
+lo elevo al cuadrado que, cuando lo agrego a sí mismo dos veces, se vuelve menos
+
+00:10:03.030 --> 00:10:04.300
+2, es menos 1.
+
+00:10:04.300 --> 00:10:07.700
+Y que cuando lo elevo al cuadrado, se convertirá en más 1.
+
+00:10:07.700 --> 00:10:10.160
+Simplemente no puedo añadir más 1 arbitrariamente a alguna
+
+00:10:10.160 --> 00:10:11.650
+expresión, tengo que hacerla neutral.
+
+00:10:11.650 --> 00:10:12.920
+Así que permítanme restar 1.
+
+00:10:12.920 --> 00:10:13.730
+Yo no he cambiado esto.
+
+00:10:13.730 --> 00:10:15.630
+Agregué 1 y resté 1.
+
+00:10:15.630 --> 00:10:17.890
+Un poco sobre como completar el cuadrado.
+
+00:10:17.890 --> 00:10:21.610
+Pero al hacer esto, ahora puedo llamar esta expresión justo
+
+00:10:21.610 --> 00:10:27.780
+aquí, ahora puedo decir que esa cosa es s menos 1 cuadrado.
+
+00:10:27.780 --> 00:10:32.430
+Y luego esta cosa fuera de aquí, esto aquí es 2 menos 1.
+
+00:10:32.430 --> 00:10:34.410
+Esto es solo más 1.
+
+00:10:34.410 --> 00:10:41.100
+Así ahora puedo reescribir la expresión como 2 veces s
+
+00:10:41.100 --> 00:10:45.560
+menos 1 vez e a la menos 2s — Asegúrese de que no soy
+
+00:10:45.560 --> 00:10:51.420
+recortando algo en la parte superior--e a la 2s negativo, todo eso sobre
+
+00:10:51.420 --> 00:10:56.620
+s menos 1 cuadrado más 1.
+
+00:10:56.620 --> 00:11:01.880
+Así que parece que un par de cosas interesantes
+
+00:11:01.880 --> 00:11:06.020
+estan sucediendo aquí.
+
+00:11:06.020 --> 00:11:09.710
+Vamos a hacer un par de test transformadas de Laplace. Así que
+
+00:11:09.710 --> 00:11:15.610
+La transformada de Laplace de coseno de t, sabemos que esto es igual.
+
+00:11:15.610 --> 00:11:23.050
+a s sobre s al cuadrado más 1, que esto se ve casi como
+
+00:11:23.050 --> 00:11:26.180
+si se tratara de una s y esta fuera una s al cuadrado más 1 ..
+
+00:11:26.180 --> 00:11:30.960
+Si se trataba de F de s, entonces ¿qué es esto?.
+
+00:11:30.960 --> 00:11:34.130
+Bueno, vamos a pasar por alto este tipo de aquí por un rato
+
+00:11:34.130 --> 00:11:34.920
+Entonces, ¿qué es?.
+
+00:11:34.920 --> 00:11:36.930
+Sabemos, de hecho, desde el último video
+
+00:11:36.930 --> 00:11:43.720
+Vimos, bueno, que tal si tomamos la transformada de Laplace de e a
+
+00:11:43.720 --> 00:11:45.540
+la - Lo llamaré 1t ..
+
+00:11:45.540 --> 00:11:49.000
+Pero digamos que e a la - sí voy a escribirlo e a la 1t.
+
+00:11:49.000 --> 00:11:52.250
+multiplicado por el coseno de t?
+
+00:11:52.250 --> 00:11:55.410
+Bueno, pues esto sólo desplazará esta transformada
+
+00:11:55.410 --> 00:11:56.995
+de Laplace por 1.
+
+00:11:56.995 --> 00:12:00.100
+La desplazará por 1 hacia la derecha.
+
+00:12:00.100 --> 00:12:03.270
+Siempre que vean una s, pondrán una s menos un 1.
+
+00:12:03.270 --> 00:12:08.900
+Así que esto será igual a s menos 1 sobre s menos 1
+
+00:12:08.900 --> 00:12:11.200
+cuadrada más 1.
+
+00:12:11.200 --> 00:12:13.270
+Estamos cerca.
+
+00:12:13.270 --> 00:12:18.390
+Ya descubrimos ésta parte de aquí.
+
+00:12:18.390 --> 00:12:22.440
+Ahora, en el video previo, creo que fue hace dos videos
+
+00:12:22.440 --> 00:12:25.040
+o tal vez en el último video, lo olvidé.
+
+00:12:25.040 --> 00:12:27.000
+La memoria me falla.
+
+00:12:27.000 --> 00:12:31.060
+Les mostré que si tienen la transformada de Laplace de la
+
+00:12:31.060 --> 00:12:38.970
+función escalón unitario de t multiplicado por una f de t desplazada por algun
+
+00:12:38.970 --> 00:12:50.160
+valor de c, entonces eso es igual a e a la menos cs
+
+00:12:50.160 --> 00:12:54.260
+multiplicada por F de s.
+
+00:12:54.260 --> 00:12:58.260
+OK, y esto puede ser muy confuso.
+
+00:12:58.260 --> 00:13:00.000
+Eso puede ser muy confuso, asi que quiero
+
+00:13:00.000 --> 00:13:01.290
+ser muy cuidadoso aquí.
+
+00:13:01.290 --> 00:13:03.190
+Ignoremos todo ésto de aquí.
+
+00:13:03.190 --> 00:13:06.660
+Llamé esto F de s antes, pero ahora voy a retroceder
+
+00:13:06.660 --> 00:13:07.130
+un poco.
+
+00:13:07.130 --> 00:13:09.980
+Y vamos a ignorar esto, porque voy a re-definir
+
+00:13:09.980 --> 00:13:10.670
+nuestra F de s.
+
+00:13:10.670 --> 00:13:12.670
+Así que sólo ignoren eso por un segundo.
+
+00:13:12.670 --> 00:13:15.940
+Definamos nuestra nueva f de t para que sea esto.
+
+00:13:15.940 --> 00:13:17.260
+Digamos que eso es f de t.
+
+00:13:17.260 --> 00:13:23.690
+Digamos f de t es igual a e a la t coseno de t.
+
+00:13:23.690 --> 00:13:27.200
+Ahora si toman la transformada de Laplace de eso, eso significa
+
+00:13:27.200 --> 00:13:35.850
+que F de s es igual a s menos 1 sobre s menos 1
+
+00:13:35.850 --> 00:13:38.050
+cuadrado mas 1.
+
+00:13:38.050 --> 00:13:39.040
+Nada complejo aquí.
+
+00:13:39.040 --> 00:13:41.190
+Únicamente definí nuestra f de t como esto, y luego
+
+00:13:41.190 --> 00:13:44.400
+nuestra F de s como eso.
+
+00:13:44.400 --> 00:13:48.390
+Ahora, tenemos una situación aquí.
+
+00:13:48.390 --> 00:13:49.880
+Vamos a ignorar el 2 de aquí.
+
+00:13:49.880 --> 00:13:52.410
+El 2 es únicamente una especia de factor que modifica la amplitud de la función.
+
+00:13:52.410 --> 00:13:57.180
+Ésta expresión de aquí, podemos escribirla como esa expresión
+
+00:13:57.180 --> 00:13:59.610
+es igual a-- ésta es nuestra F de s.
+
+00:13:59.610 --> 00:14:05.600
+Esta expresión de aquí es igual a 2 multiplicado por nuestra F de s
+
+00:14:05.600 --> 00:14:09.150
+multiplicada por e elevada a la menos 2s.
+
+00:14:09.150 --> 00:14:10.230
+O permítanme escribirla.
+
+00:14:10.230 --> 00:14:13.440
+Permítanme cambiar el orden, sólo para que se vea bien.
+
+00:14:13.440 --> 00:14:19.140
+2 veces e a la menos 2s multiplicada por F de s.
+
+00:14:19.140 --> 00:14:22.720
+Bueno, eso se ve como si nuestro 2 es
+
+00:14:22.720 --> 00:14:23.970
+igual a nuestra c.
+
+00:14:23.970 --> 00:14:27.000
+-
+
+00:14:27.000 --> 00:14:28.570
+Así que, que nos dice esto?
+
+00:14:28.570 --> 00:14:31.590
+Eso nos dice que la transformada inversa de Laplace, si tomamos
+
+00:14:31.590 --> 00:14:33.660
+la inversa de la trasformada de Laplace-- y
+
+00:14:33.660 --> 00:14:37.060
+vamos a ignorar el 2.
+
+00:14:37.060 --> 00:14:39.540
+Hagámos la transformada inversa de Laplace de todo eso.
+
+00:14:39.540 --> 00:14:44.020
+La transformada inversa de Laplace de esta cosa va a ser
+
+00:14:44.020 --> 00:14:47.070
+igual a-- podríamos únicamente escribir el 2 como un multiplicador
+
+00:14:47.070 --> 00:14:52.000
+2 ahí multiplicado por esta cosa multiplicada por
+
+00:14:52.000 --> 00:14:55.010
+la función escalón unitario.
+
+00:14:55.010 --> 00:14:56.580
+Cuál es nuestra c?
+
+00:14:56.580 --> 00:14:57.650
+Podemos encontrar el patrón.
+
+00:14:57.650 --> 00:14:58.330
+Tienen un 2 aquí.
+
+00:14:58.330 --> 00:15:01.780
+Tienen una c, a menos c, a menos 2, así que c es 2.
+
+00:15:01.780 --> 00:15:06.380
+La función escalón unitario es cero hasta que llega a 2 por t, o
+
+00:15:06.380 --> 00:15:12.180
+de t, asi que, se convierte en 1 después de que t es igual a 2, multiplicado por
+
+00:15:12.180 --> 00:15:19.110
+nuestra función desplazada por 2.
+
+00:15:19.110 --> 00:15:21.990
+Así que esa es nuestra transformada inversa de Laplace.
+
+00:15:21.990 --> 00:15:24.950
+Ahora, cuál era nuestra función?
+
+00:15:24.950 --> 00:15:29.140
+Nuestra función era esta cosa de aquí.
+
+00:15:29.140 --> 00:15:32.090
+Así que si la transformada inversa de Laplace de esa cosa que
+
+00:15:32.090 --> 00:15:38.170
+tenia escrita es esta cosa, una f de t, f de t es igual a e
+
+00:15:38.170 --> 00:15:41.650
+a la t coseno de t.
+
+00:15:41.650 --> 00:15:44.370
+Ahora nuestra inversa-- permítanme escribir todo esto.
+
+00:15:44.370 --> 00:15:47.180
+Permítanme escribir nuestro resultado.
+
+00:15:47.180 --> 00:15:51.470
+Establecimos que la transformada inversa de Laplace de
+
+00:15:51.470 --> 00:15:55.300
+esta cosa grande que había escrito antes, 2 veces s
+
+00:15:55.300 --> 00:16:05.890
+menos 1 multiplicado por e a la menos 2-- perdón, e a la menos 2s
+
+00:16:05.890 --> 00:16:13.820
+sobre s cuadrada menos 2s más 2 es igual a ésta cosa donde f
+
+00:16:13.820 --> 00:16:14.770
+de t es esto.
+
+00:16:14.770 --> 00:16:20.700
+O podríamos únicamente reescribir esto como 2 veces la función escalón
+
+00:16:20.700 --> 00:16:24.130
+unitario comenzando en 2, donde ahí es cuando se convierte
+
+00:16:24.130 --> 00:16:28.630
+en algo distinto de cero de t multiplicado por f de t menos 2, f de t menos 2 es
+
+00:16:28.630 --> 00:16:32.190
+ésto con t reemplazado por t menos 2.
+
+00:16:32.190 --> 00:16:35.120
+Lo haré en otro color, sólo para quitar un poco lo monótono
+
+00:16:35.120 --> 00:16:43.920
+Así que sería e a la t menos 2 coseno de t menos 2.
+
+00:16:43.920 --> 00:16:45.910
+Ahora, podrían estar pensando, Sal, sabes, el tomó
+
+00:16:45.910 --> 00:16:47.990
+todos esos pasos pequeños en éste problema, porque
+
+00:16:47.990 --> 00:16:49.790
+está tratando de explicarmelo.
+
+00:16:49.790 --> 00:16:53.370
+Pero estoy tomando pasos pequeños con éste problema de manera que yo no
+
+00:16:53.370 --> 00:16:54.320
+me confunda.
+
+00:16:54.320 --> 00:16:56.750
+Y creo que es escencialmente lo que deben hacer
+
+00:16:56.750 --> 00:16:58.110
+tomar pasos muy pequeños.
+
+00:16:58.110 --> 00:17:00.320
+Y vamos a pensar acerca de cuáles pequeños pasos tomamos.
+
+00:17:00.320 --> 00:17:01.350
+Y realmente quiero revisar esto.
+
+00:17:01.350 --> 00:17:02.800
+Este es un problema sorprendentemente bueno.
+
+00:17:02.800 --> 00:17:05.930
+No me dí cuenta cuando decidí hacerlo.
+
+00:17:05.930 --> 00:17:07.020
+Resolvimos esto.
+
+00:17:07.020 --> 00:17:09.930
+Queríamos obtener éste denominador en alguna forma
+
+00:17:09.930 --> 00:17:14.560
+que fuera útil de alguna manera, así que completé el cuadrado
+
+00:17:14.560 --> 00:17:17.940
+ahí y luego reescribimos nuestra transformada de Laplace,
+
+00:17:17.940 --> 00:17:19.770
+nuestra f de s de ésta manera.
+
+00:17:19.770 --> 00:17:21.339
+Y luego reconocimos el patrón.
+
+00:17:21.339 --> 00:17:23.869
+Dijímos, vean, si tomo la transformada de Laplace del coseno de
+
+00:17:23.869 --> 00:17:27.750
+t, obtendría s sobre s cuadrada mas 1.
+
+00:17:27.750 --> 00:17:29.500
+Pero esto no es s sobre s cuadrada más 1.
+
+00:17:29.500 --> 00:17:33.180
+Es s menos 1 sobre s menos 1 cuadrada más 1.
+
+00:17:33.180 --> 00:17:36.450
+Así que dijimos, oh, bueno, eso significa que estamos multiplicando
+
+00:17:36.450 --> 00:17:38.300
+nuestra función original en el dominio del tiempo.
+
+00:17:38.300 --> 00:17:43.850
+Estamos multiplicando nuestra f de t multiplicada por e a la 1t.
+
+00:17:43.850 --> 00:17:46.200
+Y eso es lo que obtuvimos aquí.
+
+00:17:46.200 --> 00:17:49.460
+Así que la transformada de Laplace de e a la t coseno se t se convirtió en s
+
+00:17:49.460 --> 00:17:53.180
+menos 1 sobre s menos 1 cuadrada más 1.
+
+00:17:53.180 --> 00:17:56.970
+Y luego tuvimos esta e a la menos 2s todo éste tiempo.
+
+00:17:56.970 --> 00:18:01.470
+Y es ahí cuando dijimos, hey, si tenemos e a la menos 2s
+
+00:18:01.470 --> 00:18:04.610
+en nuestra transformada de Laplace, cuando tomamos la transformada inversa
+
+00:18:04.610 --> 00:18:09.760
+de Laplace, debe ser la función escalón multiplicada por la
+
+00:18:09.760 --> 00:18:11.020
+versión desplazada de esa función.
+
+00:18:11.020 --> 00:18:12.200
+Y es por eso que fuí tan precavido.
+
+00:18:12.200 --> 00:18:14.320
+Y tenian este 2 ahí colgando todo este tiempo, y hubiera podido
+
+00:18:14.320 --> 00:18:15.030
+usarlo en cualquier momento.
+
+00:18:15.030 --> 00:18:19.710
+pero constantes simples como esas solo escalan.
+
+00:18:19.710 --> 00:18:21.960
+Una función es igual a dos veces la transformada de Laplace de
+
+00:18:21.960 --> 00:18:23.410
+esa función y viceversa
+
+00:18:23.410 --> 00:18:25.250
+Asi que era muy fácil lidiar con esos 2s, así que
+
+00:18:25.250 --> 00:18:27.470
+los ignoré por la mayor parte del tiempo.
+
+00:18:27.470 --> 00:18:28.780
+Pero por eso fuí tan cuidadoso.
+
+00:18:28.780 --> 00:18:34.420
+Redefiní f de t para que fuera ésto, F de s para que fuera esto, y
+
+00:18:34.420 --> 00:18:39.920
+dije caramba, si F de s es esto, y si lo estoy multiplicando por e a la
+
+00:18:39.920 --> 00:18:45.040
+menos 2s, lo que esencialmente estoy haciendo, estoy metiendo
+
+00:18:45.040 --> 00:18:46.730
+este patrón aquí
+
+00:18:46.730 --> 00:18:49.070
+Y así, la respuesta a mi problema va a ser
+
+00:18:49.070 --> 00:18:52.450
+la función escalón unitario-- Únicamente puse el 2 afuera-- el 2
+
+00:18:52.450 --> 00:18:57.960
+multiplicado por la función escalón unitario multiplicado por mi f de t desplazada por c.
+
+00:18:57.960 --> 00:19:00.360
+Y establecimos que era nuestra f de t, por lo que sólo
+
+00:19:00.360 --> 00:19:02.500
+la desplazamos por c.
+
+00:19:02.500 --> 00:19:05.570
+Lo desplazamos por 2, y obtuvimos nuestra respuesta final.
+
+00:19:05.570 --> 00:19:09.220
+De modo que ésto es lo más complicado que podemos tener por el momento como verán en
+
+00:19:09.220 --> 00:19:11.780
+un problema de la transformada inversa de Laplace.
+
+00:19:11.780 --> 00:19:14.450
+Asi que, ojalá, que hayan encontrado este problema muy interesante.
+
+00:19:14.450 --> 00:19:14.615
+-

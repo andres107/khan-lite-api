@@ -1,0 +1,204 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.610 --> 00:00:02.770
+Digamos que tenga una cuadrícula seis por seis
+
+00:00:02.770 --> 00:00:04.170
+Y es el que he dibujado aquí.
+
+00:00:04.170 --> 00:00:06.980
+Uno, dos, trés, cuatro, cinco, seis.
+
+00:00:06.980 --> 00:00:09.720
+Uno, dos, trés, cuatro, cinco, seis.
+
+00:00:09.720 --> 00:00:11.970
+Y hubiera que empiezar en el córner izquierdo superior.
+
+00:00:11.970 --> 00:00:14.410
+Entonces, hubiera que empiezar bien aquí.
+
+00:00:14.410 --> 00:00:17.720
+Y su objetivo es llegar al córner inferior derecho.
+
+00:00:17.720 --> 00:00:19.990
+Quiere llegar bien allá, dónde está la estrella.
+
+00:00:19.990 --> 00:00:21.690
+Y solo puede moverse de dos maneras.
+
+00:00:21.690 --> 00:00:24.640
+Solo puede moverse para la derecha.
+
+00:00:24.640 --> 00:00:26.760
+O solo puede moverse para bajo.
+
+00:00:26.760 --> 00:00:28.420
+No puede diagonalmente.
+
+00:00:28.420 --> 00:00:29.910
+No puede para arriba.
+
+00:00:29.910 --> 00:00:31.500
+No puede moverse para la izquierda.
+
+00:00:31.500 --> 00:00:33.355
+Entonces en cada paso, no puede moverse diagonalmente.
+
+00:00:33.355 --> 00:00:35.020
+Y cada paso le llevará un poco
+
+00:00:35.020 --> 00:00:36.110
+más cerca de esa estrella.
+
+00:00:36.110 --> 00:00:38.360
+Entonces no puede tener movimientos hacia atrás.
+
+00:00:38.360 --> 00:00:42.770
+Y mi pregunta para usted es, cuántas maneras diferentes existen
+
+00:00:42.770 --> 00:00:46.750
+para llegar desde aquí hasta aquí?
+
+00:00:46.750 --> 00:00:48.230
+Eso es el problema.
+
+00:00:48.230 --> 00:00:50.780
+Entonces no puede pausar ahora e intentarlo resolver.
+
+00:00:50.780 --> 00:00:54.400
+Y vou a tratar de -- cuándo despausálo -- despacio trabajar para
+
+00:00:54.400 --> 00:00:54.970
+la solución.
+
+00:00:54.970 --> 00:00:55.920
+Y puede lo pausar en cualquier tiempo.
+
+00:00:55.920 --> 00:00:59.180
+Puede mirar todos los pasos intermediários y indicios.
+
+00:00:59.180 --> 00:01:01.400
+Entonces la manera de pensar sobre eso es, buen
+
+00:01:01.400 --> 00:01:02.640
+vamos hacer los faciles.
+
+00:01:02.640 --> 00:01:05.550
+Vamos descubrir cuántas maneras puedo ir desde aquí para cada
+
+00:01:05.550 --> 00:01:08.070
+celda intermedia, y tal vez va a nos ayudar a descifrar
+
+00:01:08.070 --> 00:01:11.020
+cuántas maneras podemos para este punto final.
+
+00:01:11.020 --> 00:01:13.540
+Dejame escoger un color apropriado.
+
+00:01:13.540 --> 00:01:17.180
+Cuántas maneras puedo conseguir desde este punto iniciante haste esta
+
+00:01:17.180 --> 00:01:18.720
+celda aquí?
+
+00:01:18.720 --> 00:01:20.010
+Solo puedo ir en una dirección, cierto?
+
+00:01:20.010 --> 00:01:22.220
+Solo puedo venir de aquí, recto para la derecha.
+
+00:01:22.220 --> 00:01:23.110
+Entonces hay solo un camino.
+
+00:01:23.110 --> 00:01:25.740
+Dejame escribirlo aquí.
+
+00:01:25.740 --> 00:01:27.150
+Un camino para llegar alla.
+
+00:01:27.150 --> 00:01:29.620
+Y cuantos caminos puedo conseguir para esta celda aquí?
+
+00:01:29.620 --> 00:01:31.610
+Hay solo uno camino.
+
+00:01:31.610 --> 00:01:33.210
+Solo puedo ir directo para bajo.
+
+00:01:33.210 --> 00:01:36.000
+Recorda, no puedo ir para la derecha, para bajo
+
+00:01:36.000 --> 00:01:36.900
+y entonces para la izquierda.
+
+00:01:36.900 --> 00:01:38.100
+Porque izquierda no es permitido.
+
+00:01:38.100 --> 00:01:41.380
+Cada paso tiene que me dar algún progeso para mi objetivo.
+
+00:01:41.380 --> 00:01:45.190
+Entonces parece que hemos hecho un poco de progreso.
+
+00:01:45.190 --> 00:01:50.210
+Entonces por cuántos caminos puedo ir a esta celda aquí?
+
+00:01:50.210 --> 00:01:52.060
+Podría seguir para la derecha aquí.
+
+00:01:52.060 --> 00:01:53.580
+Y luego podría seguir un paso más para la derecha.
+
+00:01:53.580 --> 00:01:54.860
+Y eso es más o menos lá única manera que
+
+00:01:54.860 --> 00:01:55.480
+puedo llegar allí, cierto?
+
+00:01:55.480 --> 00:01:57.060
+Si voy para bajo, no puedo volver para arriba.
+
+00:01:57.060 --> 00:01:59.510
+Entonces solo hay una manera de ir allí.
+
+00:01:59.510 --> 00:02:01.400
+Por la misma lógica, solo una manera de ir allí.
+
+00:02:01.400 --> 00:02:02.280
+Sólo en línea recta.
+
+00:02:02.280 --> 00:02:03.270
+Una manera de ir allí.
+
+00:02:03.270 --> 00:02:04.530
+Una mena de ir allí.
+
+00:02:04.530 --> 00:02:07.710
+Del mismo modo, puede más o menos veer estos como simétricos.
+
+00:02:07.710 --> 00:02:10.070
+Digo, cuándo va recto para la derecha, eso es si usted
+
+00:02:10.070 --> 00:02:11.220
+va recto para bajo.
+
+00:02:11.220 --> 00:02:12.680
+Entonces eso es uno camino.
+
+00:02:12.680 --> 00:02:13.870
+Apenas recto para bajo por todo el camino.
+
+00:02:13.870 --> 00:02:14.550
+Uno camino
+
+00:02:14.550 --> 00:02:15.050
+Uno camino
+
+00:02:15.050 --> 00:02:16.080
+Uno camino.
+
+00:02:16.080 --> 00:02:17.470
+Suficientemente justo.

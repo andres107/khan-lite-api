@@ -1,0 +1,399 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.933 --> 00:00:05.133
+Voy a definir una función S de n
+
+00:00:05.133 --> 00:00:06.759
+y la voy a definir como
+
+00:00:06.759 --> 00:00:16.754
+la suma de todos los enteros positivos
+
+00:00:16.754 --> 00:00:22.221
+incluyendo a n.
+
+00:00:22.221 --> 00:00:24.995
+De esta forma, el dominio de esta función son todos
+
+00:00:24.995 --> 00:00:28.533
+los enteros positivos - n tiene que ser un entero positivo.
+
+00:00:28.533 --> 00:00:30.467
+Y entonces podemos probar algunas cosas, podemos
+
+00:00:30.467 --> 00:00:35.200
+tomar S de 3, lo que va a ser igual a 1más
+
+00:00:35.200 --> 00:00:41.071
+2 más 3, que es igual a 6. Podemos tomar S de
+
+00:00:41.071 --> 00:00:46.610
+4, que va a ser igual a 1 más 2 más 3 más 4,
+
+00:00:46.610 --> 00:00:51.225
+lo que va a ser igual a 10.
+
+00:00:51.225 --> 00:00:57.441
+Ahora lo que quiero hacer en este video es probar que
+
+00:00:57.441 --> 00:01:02.200
+puedo escribir esto como una función de n, que la suma de todos
+
+00:01:02.200 --> 00:01:04.200
+los enteros positivos hasta n (incluyéndo n) es igual a
+
+00:01:04.200 --> 00:01:11.400
+n veces (n +1), todo eso sobre 2.
+
+00:01:11.400 --> 00:01:16.821
+Y la forma en la que voy a hacer eso es por inducción.
+
+00:01:16.821 --> 00:01:23.785
+Prueba por inducción
+
+00:01:23.785 --> 00:01:27.867
+La forma en la que se hace una prueba por inducción es primero, se prueba
+
+00:01:27.867 --> 00:01:36.871
+el caso base. Esto es lo que tenemos que probar.
+
+00:01:36.871 --> 00:01:41.933
+Vamos a probarlo primero para 1 - ese va a ser nuestro caso base.
+
+00:01:41.933 --> 00:01:47.400
+Y luego vamos a hacer el paso inductivo, el cual
+
+00:01:47.400 --> 00:01:51.000
+es esencialmente decir "Si asumimos que funciona para algún
+
+00:01:51.000 --> 00:01:55.513
+entero positivo k, entonces podemos probar que va a funcionar
+
+00:01:55.513 --> 00:01:59.467
+para el próximo entero positivo, que sería k+1"
+
+00:01:59.467 --> 00:02:01.995
+Y la razón por la que esto funciona es - Digamos que
+
+00:02:01.995 --> 00:02:10.754
+probamos ambas cosas. El caso base que vamos a probar es 1
+
+00:02:10.769 --> 00:02:13.800
+Pero no es necesario que siempre sea 1.
+
+00:02:13.800 --> 00:02:16.908
+Tu afirmación puede ser cierta para todo lo que sea mayor que 55.
+
+00:02:16.908 --> 00:02:18.667
+O lo que sea mayor a un umbral establecido.
+
+00:02:18.667 --> 00:02:21.533
+Pero en este caso, vamos a decir que esto es cierto para todos los enteros positivos
+
+00:02:21.533 --> 00:02:24.333
+Nuestro caso base va a ser 1.
+
+00:02:24.333 --> 00:02:34.533
+Entonces en nuestro paso inductivo vamos a probar que si asumimos que esto es cierto
+
+00:02:34.533 --> 00:02:37.333
+para la suma hasta k,
+
+00:02:37.333 --> 00:02:42.533
+Entonces va a ser verdadero para la suma hasta k+1
+
+00:02:42.533 --> 00:02:48.333
+Y la razón por la que esto es todo lo que hay que hacer para probarlo para todos los enteros positivos es,
+
+00:02:48.333 --> 00:02:50.000
+solo imaginemos:
+
+00:02:50.000 --> 00:02:52.000
+Pensemos en todos los enteros positivos por este lado.
+
+00:02:52.000 --> 00:02:57.467
+1, 2, 3, 4, 5, 6, y podríamos seguir por siempre...
+
+00:02:57.467 --> 00:03:00.200
+Vamos a probarlo para 1,
+
+00:03:00.200 --> 00:03:02.600
+vamos a probar que esta fórmula de acá,
+
+00:03:02.600 --> 00:03:07.067
+esta expresión que está acá, funciona para es caso de 1, cuando n es 1.
+
+00:03:07.067 --> 00:03:12.867
+Y luego vamos a probar que si sabemos que es verdadero para cualquier k dado, entonces es verdadero para el siguiente
+
+00:03:12.867 --> 00:03:16.333
+Así, si sabemos que es verdadero para 1, en nuestro caso base, entonces
+
+00:03:16.333 --> 00:03:19.067
+el segundo paso de la inducción los dice que entonces debe ser verdadero para 2.
+
+00:03:19.067 --> 00:03:22.867
+Porque probamos de forma general, que si era verdadero para k, entonces va a ser verdadero para k+1
+
+00:03:22.867 --> 00:03:25.733
+Pero si es verdadero para 2, entonces debe ser verdadero para 3,
+
+00:03:25.733 --> 00:03:29.600
+porque probamos que si es verdadero para k, es verdadero para k+1.
+
+00:03:29.600 --> 00:03:31.667
+Entonces si es verdadero para 2, es verdadero para 3,
+
+00:03:31.667 --> 00:03:34.067
+y si es verdadero para 3, va a ser verdadero para 4.
+
+00:03:34.067 --> 00:03:37.667
+Se puede seguir y seguir por siempre, lo que significa que es verdadero para todos.
+
+00:03:37.667 --> 00:03:43.533
+Ahora hablando en general, probemos realmente esto por inducción.
+
+00:03:43.533 --> 00:03:51.800
+Tomemos la suma, hagamos la función de 1.
+
+00:03:51.800 --> 00:03:54.533
+esto va a ser la suma de todos los enteros positivos
+
+00:03:54.533 --> 00:03:56.800
+incluyendo a 1, lo que literalmente va a ser igual a 1.
+
+00:03:56.800 --> 00:03:58.400
+Sumamos todos, y es sólo 1.
+
+00:03:58.400 --> 00:04:02.000
+No hay otro entero positivo hasta 1 e incluyéndolo.
+
+00:04:02.000 --> 00:04:04.400
+Y ahora probemos que es la misma cosa que
+
+00:04:04.400 --> 00:04:09.600
+1 vez (1 + 1), todo eso sobre 2.
+
+00:04:09.600 --> 00:04:14.533
+1 más 1 es 2, 2 dividido 2 es 1, 1 vez 1 es 1.
+
+00:04:14.533 --> 00:04:17.533
+Así que esta fórmula de acá, esta expresión
+
+00:04:17.533 --> 00:04:23.267
+funcionó para 1, entonces hemos probado nuestro caso base.
+
+00:04:23.267 --> 00:04:24.867
+Lo hemos probado para 1.
+
+00:04:24.867 --> 00:04:31.385
+Ahora lo que quiero hacer es asumir que esto funciona para algún número k.
+
+00:04:31.385 --> 00:04:41.467
+Entonces voy a asumir que es verdadero para algún número k.
+
+00:04:41.467 --> 00:04:48.000
+Es decir, voy a asumir que para algún número k, esta función en k va a ser igual a
+
+00:04:48.000 --> 00:04:52.133
+k veces (k +1) sobre 2.
+
+00:04:52.133 --> 00:04:54.200
+Así que sólo estoy asumiendo que es verdadero para esto (para k)
+
+00:04:54.200 --> 00:05:01.400
+Ahora lo que quiero hacer es pensar qué pasa cuando trato de encontrar esta función para k+1
+
+00:05:01.400 --> 00:05:03.133
+Entonces esto es lo que estoy asumiendo,
+
+00:05:03.133 --> 00:05:05.133
+estoy asumiendo que conozco esto.
+
+00:05:05.133 --> 00:05:07.200
+Ahora tratemos de hacerlo para k+1.
+
+00:05:07.200 --> 00:05:14.323
+¿Cuál es la suma de todos los enteros hasta k+1, incluyendo k+1?
+
+00:05:14.323 --> 00:05:20.800
+Bueno, esto va a ser igual a 1 más 2, más 3, más todos los enteros hasta k,
+
+00:05:20.800 --> 00:05:23.667
+más (k+1)
+
+00:05:23.667 --> 00:05:26.933
+¿Sí? Esta es la suma de todos los enteros hasta k+1, incluyéndolo.
+
+00:05:26.933 --> 00:05:30.333
+Bueno, estamos asumiendo que ya sabemos lo que esto es,
+
+00:05:30.333 --> 00:05:32.600
+Estamos asumiendo que ya tenemos una fórmula para esto.
+
+00:05:32.600 --> 00:05:39.133
+Asumimos que esto se puede simplificar como k veces (k+1),sobre 2.
+
+00:05:39.133 --> 00:05:41.000
+Estamos asumiendo que sabemos eso.
+
+00:05:41.000 --> 00:05:44.733
+Entonces vamos a tomar esta parte, y se la vamos a sumar a k+1,
+
+00:05:44.733 --> 00:05:50.190
+la vamos a sumar a k+1 por acá.
+
+00:05:50.190 --> 00:05:55.467
+Y si encontramos un denominador común, el común denominador va a ser 2,
+
+00:05:55.467 --> 00:05:58.667
+Entonces esto va a ser igual a...
+
+00:05:58.667 --> 00:06:00.600
+Voy a escribir primero la parte en magenta,
+
+00:06:00.600 --> 00:06:10.667
+Esto es k veces k+1 sobre 2, más 2 veces k+1 sobre 2.
+
+00:06:10.667 --> 00:06:13.533
+Esta cosa en azul es lo mismo que eso en azul
+
+00:06:13.533 --> 00:06:16.533
+Los 2's se cancelarían, sólo lo escribí de esta forma para tener un común denominador.
+
+00:06:16.533 --> 00:06:20.615
+Entonces esto va a ser igual a...
+
+00:06:20.615 --> 00:06:25.800
+Tenemos un común denominador de 2, y vamos a escribir en un color diferente acá,
+
+00:06:25.800 --> 00:06:32.400
+Vamos a tener k veces (k+1), más 2 veces (k+1)
+
+00:06:32.400 --> 00:06:36.867
+Ahora en este paso de acá se puede sacar un factor común (k +1)
+
+00:06:36.867 --> 00:06:39.267
+Estos dos términos son divisibles por k+1,
+
+00:06:39.267 --> 00:06:41.000
+entonces sacamos factor común.
+
+00:06:41.000 --> 00:06:46.400
+Así que si se saca factor común k+1, conseguimos (k+1) veces...
+
+00:06:46.400 --> 00:06:50.867
+si vemos lo que nos quedó al factorizar de acá, si sacamos de factor común k+1, sólo nos queda k
+
+00:06:50.867 --> 00:06:54.252
+y acá si sacamos factor común k+1, nos queda sólo un 2.
+
+00:06:54.252 --> 00:06:55.225
+Dejenme colorear esos
+
+00:06:55.225 --> 00:06:56.800
+así se dan cuenta de lo que estoy haciendo.
+
+00:06:56.800 --> 00:07:06.667
+Este 2, es este 2 de allí; y esta k ,es esta k de allí
+
+00:07:06.667 --> 00:07:08.533
+Sacamos factor común
+
+00:07:08.533 --> 00:07:12.533
+Estos (k++1)'s que sacamos como factor común es el (k+1) de allí
+
+00:07:12.533 --> 00:07:17.267
+Y todo esto va a ser dividido 2.
+
+00:07:17.267 --> 00:07:21.533
+Ahora, podemos reescribir esto. Esto es lo misma cosa,
+
+00:07:21.533 --> 00:07:23.333
+esto es igual a,
+
+00:07:23.333 --> 00:07:31.867
+es lo mismo que poner (k+1), es la parte de acá,
+
+00:07:31.867 --> 00:07:37.200
+veces ((k+1) +1)
+
+00:07:37.200 --> 00:07:39.800
+Sí? Eso es claramente lo mismo que (k+2)
+
+00:07:39.800 --> 00:07:43.692
+Todo eso sobre 2.
+
+00:07:43.692 --> 00:07:46.141
+¿Por qué nos interesa esto a nosotros?
+
+00:07:46.141 --> 00:07:47.538
+Bueno, acabamos de probar lo que queríamos.
+
+00:07:47.538 --> 00:07:56.467
+Si suponemos que esto es cierto, y usamos esa suposición, conseguimos
+
+00:07:56.467 --> 00:08:05.769
+que la suma de todos los enteros positivos hasta (k+1), incluyéndolo, es igual a (k+1) veces ((k+1)+1),
+
+00:08:05.769 --> 00:08:06.415
+sobre 2.
+
+00:08:06.415 --> 00:08:13.133
+De hecho estamos msotrando que la fórmula original funciona también para (k+1)
+
+00:08:13.133 --> 00:08:20.867
+Si tomamos (k+1) y lo ponemos en el lugar de n, conseguimos exactamente el mismo resultado que logramos por acá.
+
+00:08:20.867 --> 00:08:24.200
+Entonces: mostramos, probamos nuestro caso base,
+
+00:08:24.200 --> 00:08:29.533
+esta expresión funcionó para la suma de todos los enteros positivos hasta 1, incluyéndolo.
+
+00:08:29.533 --> 00:08:34.867
+Y también funciona si asumimos que funciona para todo número hasta k.
+
+00:08:34.867 --> 00:08:39.533
+Y si asumimos que funciona para el entero k, entonces también funciona para el entero (k+1)
+
+00:08:39.533 --> 00:08:42.467
+Y terminamos. Esa es nuestra prueba por inducción.
+
+00:08:42.467 --> 00:08:45.000
+Eso nos prueba que funciona para todos los enteros positivos.
+
+00:08:45.000 --> 00:08:46.400
+¿Por qué?
+
+00:08:46.400 --> 00:08:51.200
+Lo hemos probado para 1, y hemos probado que si funciona para algún entero
+
+00:08:51.200 --> 00:08:56.385
+entonces va a funcionar para el siguiente entero.
+
+00:08:56.385 --> 00:08:59.477
+De esta forma, si asumimos que funciona para 1, entonces va a funcionar para 2
+
+00:08:59.477 --> 00:09:03.267
+Pero ya probamos que funciona para 1, entonces podemos asumir seguros que funciona para 1,
+
+00:09:03.267 --> 00:09:05.067
+entonces definitivamente va a funcionar para 2.
+
+00:09:05.067 --> 00:09:06.800
+Entonces logramos saber que funciona para 2,
+
+00:09:06.800 --> 00:09:10.333
+Pero como podemos saber que funciona para 2, ahora podemos saber que funciona para 3.
+
+00:09:10.333 --> 00:09:14.000
+Y bueno, si funciona para 3, entonces hemos probado que también funciona para 4.
+
+00:09:14.000 --> 00:09:16.600
+Verás, el paso de inducción es como un dominó
+
+00:09:16.600 --> 99:59:59.999
+donde las fichas se tiran entre sí, y podemos seguir por siempre, de manera que funciona para todos los enteros positivos.

@@ -1,0 +1,192 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.600 --> 00:00:01.672
+Lo que quiero hacer en este video es explorar cómo las tasas de cambio flotantes pueden, en teoría, ayudar a resolver desbalances de cambio.
+
+00:00:07.431 --> 00:00:09.380
+Y para este ejemplo simple,
+
+00:00:09.390 --> 00:00:10.649
+vamos a suponer que la tasa de cambio entre el Yuan chino y el dólar americano es de 6 Yuans por dólar.
+
+00:00:17.471 --> 00:00:19.821
+Y también para simplificar,
+
+00:00:19.821 --> 00:00:23.190
+vamos a suponer que China sólo exporta una cosa a EUA
+
+00:00:23.190 --> 00:00:25.525
+y son hornos de microondas.
+
+00:00:25.525 --> 00:00:29.394
+Y que a 6 yuan por dólar los fabricantes chinos van a venderlos en EUA por $50 cada uno
+
+00:00:32.570 --> 00:00:37.790
+y a ese precio hay una demanda en EUA por 1 millón de microondas.
+
+00:00:37.790 --> 00:00:39.656
+También voy a suponer que la única exportación de EUA a China es software.
+
+00:00:42.751 --> 00:00:45.434
+y que tienen una demanda de 2 millones de unidades si los venden a 60 yuans por unidad.
+
+00:00:49.793 --> 00:00:52.668
+Así que vamos a pensar acerca cuál será la demanda de cada divisa de cada uno de los fabricantes.
+
+00:00:55.082 --> 00:00:57.401
+Así que el fabricante chino en un año va a vender un millón de unidades a $50 cada uno.
+
+00:01:00.277 --> 00:01:04.470
+Así que tendrá como ingresos $50 millones de dólares
+
+00:01:04.470 --> 00:01:10.160
+y va a querer convertir esos $50 millones en yuans
+
+00:01:10.170 --> 00:01:12.660
+Así que puedes ver esto como una especie de provisión.
+
+00:01:12.660 --> 00:01:16.600
+Esto de aquí es la reserva de dólares.
+
+00:01:16.600 --> 00:01:17.688
+Y vamos a suponer que éstas son las únicas personas que generan divisas,
+
+00:01:19.398 --> 00:01:22.650
+porque son las únicas personas cambiando en este ultra simplificado mundo.
+
+00:01:22.660 --> 00:01:25.614
+Ahora el fabrincante estadounidense venderá 2 millones de unidades a 60 yuans.
+
+00:01:28.401 --> 00:01:37.650
+Lo que nos da 120 millones de yuans de ingresos.
+
+00:01:37.660 --> 00:01:40.272
+y va a querer convertir esto a dólares
+
+00:01:40.272 --> 00:01:41.854
+en el momento en que la tasa de cambio justo está a 6 yuans por dólar.
+
+00:01:44.438 --> 00:01:46.725
+Así que convertirá esto.
+
+00:01:46.725 --> 00:01:49.190
+Divide ésto entre 6
+
+00:01:49.200 --> 00:01:54.224
+Va a querer convertir ésto en 20 millones de dólares.
+
+00:01:54.224 --> 00:01:56.653
+y obviamente, éste de acá va a querer convertir a yuans
+
+00:01:56.653 --> 00:01:59.460
+porque en eso están sus costos, es donde vive.
+
+00:01:59.460 --> 00:02:01.194
+Este tipo querrá convertir en dólares, porque así es donde están sus costos.
+
+00:02:03.144 --> 00:02:05.361
+Ahora esta es la reserva de dólares. Estos dólares quieren convertirse en divisa china
+
+00:02:08.685 --> 00:02:11.731
+Ésto de aquí es la demanda para dólares.
+
+00:02:11.731 --> 00:02:15.984
+Esta es la cantidad de dólares que necesita este tipo que sean convertidos de yuans
+
+00:02:15.984 --> 00:02:17.790
+Claramente, hay un desequilibrio
+
+00:02:17.800 --> 00:02:23.060
+La reserva de dólares es mucho más grande que la demanda de los mismos en esta situación.
+
+00:02:23.060 --> 00:02:26.480
+Y siempre que la reserva de lo que sea es más grande que la demanda...
+
+00:02:26.520 --> 00:02:32.600
+si la reserva es más grande que la demanda
+
+00:02:32.660 --> 00:02:36.980
+entonces eso significa que los precios deben bajar.
+
+00:02:36.990 --> 00:02:39.310
+Y hablamos acerca del precio de las divisas,
+
+00:02:39.310 --> 00:02:42.000
+en este caso, el precio del dólar cae.
+
+00:02:42.000 --> 00:02:44.097
+Hablamos en términos del yuan
+
+00:02:44.097 --> 00:02:45.450
+así que el dólar...
+
+00:02:45.460 --> 00:02:47.650
+...el dólar bajará.
+
+00:02:47.660 --> 00:02:50.466
+El precio baja, lo que significa que el yuan sube.
+
+00:02:50.466 --> 00:02:52.460
+El dólar se volverá más débil.
+
+00:02:52.460 --> 00:02:54.779
+Y el yaun más fuerte.
+
+00:02:54.779 --> 00:02:56.208
+Ahora, si eso ocurre, ¿qué les pasa a los precios de aquí?
+
+00:02:58.791 --> 00:03:01.099
+Si e yuan se vuelve más fuerte,
+
+00:03:01.099 --> 00:03:06.282
+empezamos a tener cuatro o cinco yuans por dólar o incluso tres yuans por dólar.
+
+00:03:06.282 --> 00:03:07.945
+Entonces este fabricante chino no podrá garantizar vender a $50.
+
+00:03:11.063 --> 00:03:13.322
+Tendrá que subir los precios para cubrir sus costos en divisas chinas.
+
+00:03:16.154 --> 00:03:20.370
+Si sube el precio, bajará la demanda.
+
+00:03:20.380 --> 00:03:23.166
+Por el otro lado de la ecuación, el fabricante americano,
+
+00:03:23.166 --> 00:03:24.850
+para poder obtener el mismo número de dólares,
+
+00:03:24.860 --> 00:03:27.112
+puede vender por menos yuans.
+
+00:03:27.112 --> 00:03:29.650
+Ahora necesita menos yuans por cada dólar.
+
+00:03:29.660 --> 00:03:31.894
+Así que de hecho puede bajar el precio en China.
+
+00:03:31.894 --> 00:03:33.722
+y si baja el precio en China, eso incrementará la demanda.
+
+00:03:36.383 --> 00:03:38.460
+Así que lo que pasa es
+
+00:03:38.460 --> 00:03:40.250
+debido a que el yuan se vuelve más fuerte, si tienes una tasa flotante de cambio,
+
+00:03:42.126 --> 00:03:44.603
+la demanda por los bienes chinos podrían bajar y la demanda por los bienes americanos subirían.
+
+00:03:46.969 --> 00:03:52.810
+y eventualmente, tendrías este cambio y este desequilibrio de divisas resuelto por sí mismo.
+
+00:03:52.860 --> 00:03:54.315
+Ahora bien, todo esto es teórico, y en realidad no está permitido flotar.
+
+00:03:57.843 --> 00:04:00.972
+Describiremos más de esto en futuros videos.
+
+00:04:00.972 --> 00:04:05.435
+Este es Salman Khan desde la Khan Academy para la CNBC.

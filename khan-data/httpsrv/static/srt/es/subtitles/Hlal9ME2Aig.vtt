@@ -1,0 +1,318 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:03.457 --> 00:00:04.768
+En este video quiero que nos familiaricemos con los numeros negativos.
+
+00:00:04.768 --> 00:00:07.564
+y también aprendamos un poco como sumarlos y restarlos
+
+00:00:09.326 --> 00:00:11.612
+ahora, cuando los ves por primera vez, parecen algo profundo y misterioso
+
+00:00:11.612 --> 00:00:14.769
+cuando contamos la primeras cosas, contabamos numeros positivos
+
+00:00:14.769 --> 00:00:17.346
+¿Qué es un número negativo significa?
+
+00:00:20.835 --> 00:00:22.905
+pero cuando lo piensas, probablemente te has encontrado con números negativos en tu vida diaria
+
+00:00:26.412 --> 00:00:30.674
+pero antes de dar un ejemplo, la idea general es que un numero negativo es cualquier numero menor que cero
+
+00:00:30.674 --> 00:00:34.839
+Menor que cero.
+
+00:00:37.191 --> 00:00:39.851
+Y si eso te suena extraño y abstracto sólo piensa que en un par de contextos.
+
+00:00:45.251 --> 00:00:47.114
+Si estamos midiendo la temperatura (y puede ser en Celsius o Farenheit,
+
+00:00:47.114 --> 00:00:49.881
+pero digamos que estamos midiendo en grados Celsius),
+
+00:00:51.878 --> 00:00:53.707
+y déjenme dibujar una pequeña escala que podemos medir la temperatura en.
+
+00:00:57.099 --> 00:01:02.909
+Así que vamos a decir que esto es 0 ° Celsius, que es de 1 ° c, 2 ° Celsius, 3 ° Celsius.
+
+00:01:05.817 --> 00:01:10.296
+Ahora, vamos a decir que es un día bastante frío y actualmente es 3 ° Celsius.
+
+00:01:12.004 --> 00:01:16.976
+Y alguien que predice el futuro le dice que se va a poner más frío 4 ° al día siguiente.
+
+00:01:16.976 --> 00:01:21.502
+Así que ¿cuanto frío va a ser? ¿Cómo se puede representar esa frialdad?
+
+00:01:25.126 --> 00:01:26.874
+Bueno, si sólo obtuvo 1 ° más frías, sería el 2 °, pero sabemos que tenemos que ir más frío 4 °.
+
+00:01:26.874 --> 00:01:32.068
+Si tenemos 2 ° más frío, estaríamos en el 1 °.
+
+00:01:32.068 --> 00:01:35.311
+Si tenemos 3 ° más frío, estaríamos a 0 °.
+
+00:01:38.453 --> 00:01:43.965
+Pero 3 ° no es suficiente, tenemos que ir 4 ° más frío, y por lo tanto tenemos que ir un grado más bajo cero.
+
+00:01:43.965 --> 00:01:50.416
+Y ese 1 bajo 0 que llamamos "negativos 1 °".
+
+00:01:52.907 --> 00:01:57.029
+Y puedes ver que la recta numérica, como ir a la derecha del cero incrementos en los valores positivos,
+
+00:01:57.029 --> 00:02:04.207
+pero como vas a la izquierda del cero que vas a tener -1, -2, -3.
+
+00:02:07.301 --> 00:02:09.948
+Y vas a tener---dependiendo de cómo se piensa en ello---grandes números negativos.
+
+00:02:09.948 --> 00:02:15.372
+Pero quiero dejar muy claro: -3 es menos de -1.
+
+00:02:15.372 --> 00:02:19.488
+Hay menos calor en el aire a-3 ° que -1 °.
+
+00:02:19.488 --> 00:02:23.329
+Es más frío---hay menos temperatura allí.
+
+00:02:23.329 --> 00:02:39.824
+Así que permítanme simplemente dejar muy claro: -100 es mucho menor que -1.
+
+00:02:41.913 --> 00:02:45.094
+Usted puede mirar 100 y podría mirar 1 y podría ser la reacción de su intestino que 100 es mayor.
+
+00:02:45.094 --> 00:02:46.272
+Pero cuando lo piensas, -100 significa que hay una falta de algo.
+
+00:02:52.304 --> 00:02:55.737
+-100 ° allí es una falta de calor, así que hay mucho menos calor aquí que si teníamos-1 °.
+
+00:02:55.737 --> 00:02:57.493
+Te voy a dar otro ejemplo:
+
+00:02:57.493 --> 00:03:11.264
+Digamos que en mi cuenta bancaria hoy tengo $10.
+
+00:03:13.114 --> 00:03:14.949
+Ahora, digamos que vaya por ahí (porque me siento bien sobre mi $10) y digamos
+
+00:03:14.949 --> 00:03:21.426
+Voy y gastar $30.
+
+00:03:24.275 --> 00:03:26.861
+Y, para el bien o el argumento digamos que tengo un banco muy flexible que permite gastar
+
+00:03:26.861 --> 00:03:28.354
+más dinero del que tengo (y realmente existen!).
+
+00:03:30.422 --> 00:03:32.907
+Así que gasto $30. ¿Cómo será mi cuenta ahora?
+
+00:03:37.839 --> 00:03:43.284
+Y puedes tener ya una respuesta intuitiva. Le debo al Banco algo de dinero.
+
+00:03:43.284 --> 00:03:47.130
+Mañana, ¿qué es mi cuenta bancaria?
+
+00:03:47.130 --> 00:03:51.642
+Por lo tanto, podrías inmediatamente decir: "mira, si tengo $10 y gasto $30,
+
+00:03:54.219 --> 00:03:56.489
+Hay veinte dólares que tenía que venir de algún lugar". Y $ 20 vieneron del Banco.
+
+00:03:56.489 --> 00:03:59.119
+Así que voy a deber el Banco $20.
+
+00:04:00.789 --> 00:04:07.199
+Y así, en mi cuenta bancaria, para mostrar cuánto tengo que podía decir $10-$30 =-$ 20.
+
+00:04:13.345 --> 00:04:18.075
+Así, si digo que tengo - $20, que significa que debo al Banco---algo que no tenego.
+
+00:04:20.946 --> 00:04:22.535
+No sólo no tengo nada, le debo algo. Va en sentido contrario.
+
+00:04:25.589 --> 00:04:29.228
+Aquí, tengo algo que gastar, y mis $10 significa que el banco me debe $10.
+
+00:04:33.390 --> 00:04:34.963
+Ahora, de repente le debo al Banco. Me he ido a la otra dirección.
+
+00:04:36.778 --> 00:04:38.593
+Ahora, si usamos una línea númerica aquí esperemos que Tiene más sentido.
+
+00:04:38.593 --> 00:04:39.832
+Por lo que es 0.
+
+00:04:43.347 --> 00:04:47.417
+Estoy empezando con $10, y el gasto de $30 significa me traslado 30 espacios a la izquierda.
+
+00:04:49.848 --> 00:04:52.804
+Por lo que si muevo 10 espacios a la izquierda-- si yo sólo gasto $10, estaré de regreso a $0.
+
+00:04:52.804 --> 00:04:56.829
+Si gasto otros $10 estaré en -$ 10.
+
+00:04:56.829 --> 00:05:02.208
+Si gasto otro $10 después de eso, estaré en-$ 20.
+
+00:05:04.483 --> 00:05:06.759
+Así, cada una de estas distancias, gasto $10 estaría en $0. Otro $10 que estaría en -$ 10.
+
+00:05:06.759 --> 00:05:09.754
+Otro $10 que estaría en -$ 20.
+
+00:05:09.754 --> 00:05:13.144
+Entonces esta distancia entera aquí es cuánto gasté.
+
+00:05:13.144 --> 00:05:17.270
+"gaste $30."
+
+00:05:20.398 --> 00:05:23.327
+Por ello, la idea general cuando se gastan o si resta (cada vez más frío), que se desplaza hacia la izquierda.
+
+00:05:23.327 --> 00:05:24.803
+Los números se haran más pequeños.
+
+00:05:24.803 --> 00:05:27.229
+Y ahora sabemos que pueden llegar incluso menos que 0.
+
+00:05:27.229 --> 00:05:31.604
+Pueden ir a-1, -2---incluso pueden ir a -1.5, -1,6.
+
+00:05:31.604 --> 00:05:34.948
+lo más y más negativo, más pierdes.
+
+00:05:37.268 --> 00:05:41.389
+Si estas añadiendo, si voy y obtengo mi cheque, voy a ir a la derecha de la línea de números.
+
+00:05:43.058 --> 00:05:46.082
+Ahora, con esto fuera del camino, vamos a hacer un par de problemas de matemáticas más puros.
+
+00:05:52.317 --> 00:05:56.474
+Digamos, 3 - 4.
+
+00:05:57.710 --> 00:06:00.193
+Así que una vez más, esto es exactamente lo mismo que hicimos con la temperatura.
+
+00:06:01.944 --> 00:06:03.695
+Estamos empezando con 3 y estamos restando 4, así que vamos a mover 4 hacia la izquierda.
+
+00:06:03.695 --> 00:06:05.854
+Vamos 1, 2, 3, 4.
+
+00:06:05.854 --> 00:06:10.417
+Nos lleva a -1.
+
+00:06:11.767 --> 00:06:13.934
+Y cuando estás empezando a hacer esto estás realmente entiendendo lo que un número negativo es.
+
+00:06:15.843 --> 00:06:17.752
+Realmente te animo a visualizar la línea de número y realmente mover a lo largo dependiendo en
+
+00:06:17.752 --> 00:06:19.961
+Si estás añadiendo o restando.
+
+00:06:19.961 --> 00:06:21.236
+Vamos a hacer un par más.
+
+00:06:21.236 --> 00:06:27.848
+Digamos que tengo 2 -8
+
+00:06:27.848 --> 00:06:30.552
+(Y pensaremos sobre más formas de hacerlo en el futuro los vídeos),
+
+00:06:30.552 --> 00:06:33.612
+pero una vez más, desea hacer la línea de número.
+
+00:06:33.612 --> 00:06:35.083
+Aquí tienes un 0.
+
+00:06:35.083 --> 00:06:38.729
+Estamos en 1, 2.
+
+00:06:43.891 --> 00:06:47.043
+Si estamos restando 8, significa que nos vamos a mover 8 a la izquierda.
+
+00:06:47.043 --> 00:06:50.993
+Así que vamos a ir 1 a la izquierda, 2 hacia la izquierda.
+
+00:06:53.036 --> 00:06:55.080
+Así, hemos ido 2 a la izquierda para ponernos a 0. ¿Tenemos que movernos cuántos más a la izquierda?
+
+00:06:56.961 --> 00:06:59.010
+Nos hemos movido ya 2 a la izquierda, ponernos a 8, tenemos que movernos 6 más a la izquierda.
+
+00:07:07.396 --> 00:07:09.106
+¿Bien, dónde va esto a ponernos?
+
+00:07:09.106 --> 00:07:10.074
+Bien, estuvimos en 0.
+
+00:07:10.074 --> 00:07:18.706
+Esto es -1, -2, -3, -4, -5, -6.
+
+00:07:18.706 --> 00:07:24.310
+Así, 2 -8 = - 6.
+
+00:07:26.540 --> 00:07:29.633
+2-2 sería 0. Cuando está restando 8 tienes que moverse otros 6.
+
+00:07:36.562 --> 00:07:38.807
+Dejame hacer un ejemplo más (y esto será un poco menos convencional pero esperemos que tenga sentido).
+
+00:07:38.807 --> 00:07:43.976
+Tomemos -4 -2.
+
+00:07:49.439 --> 00:07:51.009
+Entonces comenzamos con un número negativo y restamos de esto.
+
+00:07:51.009 --> 00:07:56.808
+¡Ahora, si este parece confuso sólo recuerdan la línea de número!
+
+00:07:59.680 --> 00:08:07.015
+Entonces este está 0 aquí mismo.-1,-2,-3,-4. Entonces esto es donde comenzamos.
+
+00:08:09.279 --> 00:08:11.543
+Ahora vamos a restar 2 de -4, así que vamos a mover 2 a la izquierda.
+
+00:08:15.387 --> 00:08:21.723
+Así que si restamos 1 estaremos en -5. Si restamos otro que estaremos en -6.
+
+00:08:21.723 --> 00:08:23.332
+Esto es -6.
+
+00:08:23.332 --> 00:08:24.748
+Ahora, vamos a hacer otra cosa interesante.
+
+00:08:30.266 --> 00:08:34.261
+Vamos a empezar a -3 y, en lugar de restar, vamos a añadir 2.
+
+00:08:39.389 --> 00:08:42.217
+Así que estamos empezando a -3 y estamos agregando 2. así que vamos a mover a la derecha.
+
+00:08:44.750 --> 00:08:46.760
+Así agregas 1, llegas a -2. Luego, agregar otro y llegas a -1.
+
+00:08:47.969 --> 00:08:49.394
+Movio 2 a la derecha.
+
+00:08:49.394 --> 00:08:54.395
+-Así, -3 + 2 = - 1.
+
+00:08:55.957 --> 00:08:59.934
+Y puedes ver por sí mismo, todo esto se adapta a nuestra tradicional noción de suma y resta.
+
+00:08:59.934 --> 00:09:05.399
+Si comenzamos a -1 y se resta 2, lleguemos -3.
+
+00:09:05.399 --> 00:09:07.506
+Algo invierte esta cosa aquí.

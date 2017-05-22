@@ -1,0 +1,657 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.490
+...
+
+00:00:00.490 --> 00:00:05.380
+Vimos hace varios videos que podemos parametrizar un torus, o
+
+00:00:05.380 --> 00:00:12.670
+una forma de rosquilla, como una función vectorial de posición
+
+00:00:12.670 --> 00:00:13.980
+de dos parámetros.
+
+00:00:13.980 --> 00:00:15.820
+Y este es el resultado que tuvimos.
+
+00:00:15.820 --> 00:00:17.000
+Creo que lo enseñé durante varios videos porque
+
+00:00:17.000 --> 00:00:18.050
+era un poco difícil.
+
+00:00:18.050 --> 00:00:23.500
+Y voy a escribir nuestra función vectorial primero.
+
+00:00:23.500 --> 00:00:26.220
+Así que tenemos R como una función de nuestros dos parámetros S y T.
+
+00:00:26.220 --> 00:00:28.080
+Y luego voy a repasar un poco lo que todos los términos -
+
+00:00:28.080 --> 00:00:31.430
+lo que la S, T, y las A's y B's representan.
+
+00:00:31.430 --> 00:00:37.550
+Pero es igual a b más un coseno de s.
+
+00:00:37.550 --> 00:00:40.980
+Una vez más, vimos en algunos videos anteriores.
+
+00:00:40.980 --> 00:00:45.420
+Así que tal vez quieras ver los videos sobre parametrización
+
+00:00:45.420 --> 00:00:49.950
+de superficies con dos parámetros para entender como llegamos aquí.
+
+00:00:49.950 --> 00:00:51.660
+Por el seno de t.
+
+00:00:51.660 --> 00:00:54.070
+Voy a poner los términos de S y T
+
+00:00:54.070 --> 00:00:55.440
+en colores distintos.
+
+00:00:55.440 --> 00:00:56.860
+Por nuestro vector unitario i .
+
+00:00:56.860 --> 00:00:58.960
+Pondré los vectores, o los vectores unitarios
+
+00:00:58.960 --> 00:01:00.640
+en este color anaranjado.
+
+00:01:00.640 --> 00:01:03.470
+Más- Lo haré en el mismo amarillo.
+
+00:01:03.470 --> 00:01:16.490
+Más b, más un coseno de s, por coseno de t, por el vector unitario j-
+
+00:01:16.490 --> 00:01:20.270
+el factor unitario en la dirección de y
+
+00:01:20.270 --> 00:01:29.970
+Más seno de s, por el vector unitario k- o el vector
+
+00:01:29.970 --> 00:01:32.940
+unitario en la dirección de z
+
+00:01:32.940 --> 00:01:36.570
+Y para generar el torus o la figura de rosquilla,
+
+00:01:36.570 --> 00:01:40.320
+esto es cierto para nuestros parámetros- para no envolvernos
+
+00:01:40.320 --> 00:01:49.820
+múltiples veces alrededor del toro- ponemos s entre 0
+
+00:01:49.820 --> 00:01:55.940
+y 2 pi, y para t entre 0 y 2 pi.
+
+00:01:55.940 --> 00:01:58.680
+Y como un pequeño repaso, de donde vino todo esto-
+
+00:01:58.680 --> 00:02:01.030
+y voy a tener que distribuir partes de mi plan para este video
+
+00:02:01.030 --> 00:02:02.280
+entre varios videos.
+
+00:02:02.280 --> 00:02:05.510
+Pero repasemos de donde vino todo esto.
+
+00:02:05.510 --> 00:02:07.640
+Dibujaré una rosquilla.
+
+00:02:07.640 --> 00:02:11.360
+Aquí esta mi mejor intento a dibujar una rosquilla.
+
+00:02:11.360 --> 00:02:14.850
+Que parece una rosquilla o un torus.
+
+00:02:14.850 --> 00:02:18.720
+Y puedes imaginar un torus, o esta forma de rosquilla es como
+
+00:02:18.720 --> 00:02:20.130
+el producto de dos círculos.
+
+00:02:20.130 --> 00:02:22.790
+Tienes el círculo que es como la sección transversal de
+
+00:02:22.790 --> 00:02:23.900
+una rosquilla a cualquier punto.
+
+00:02:23.900 --> 00:02:25.040
+Lo podrías tomar aquí.
+
+00:02:25.040 --> 00:02:27.370
+Y lo podrías llevar para allá.
+
+00:02:27.370 --> 00:02:30.320
+Y después tienes el círculo que envuelve todos
+
+00:02:30.320 --> 00:02:33.930
+esos otros círculos o estos otros círculos lo envuelven.
+
+00:02:33.930 --> 00:02:39.030
+Y así, cuando derivamos esta fórmula aquí arriba o esta
+
+00:02:39.030 --> 00:02:42.790
+parametrización, A era el radio de estas secciónnes
+
+00:02:42.790 --> 00:02:44.230
+transversales de los círculos.
+
+00:02:44.230 --> 00:02:45.510
+Ese es A.
+
+00:02:45.510 --> 00:02:47.890
+Eso es lo que estos términos de A fueron
+
+00:02:47.890 --> 00:02:55.340
+Y b era la distancia de el centro de nuestra toro a la
+
+00:02:55.340 --> 00:02:57.520
+centro de estas secciones transversales.
+
+00:02:57.520 --> 00:02:59.080
+Así que este fue b.
+
+00:02:59.080 --> 00:03:03.530
+Así que usted puede imaginar que b es como la radio del gran
+
+00:03:03.530 --> 00:03:07.170
+círculo hasta el punto medio del, supongo, la sección transversal.
+
+00:03:07.170 --> 00:03:11.760
+Y a es el radio de los círculos de la sección transversal.
+
+00:03:11.760 --> 00:03:15.410
+Y cuando lo parametrizamos, el parámetro S esencialmente
+
+00:03:15.410 --> 00:03:19.810
+S nos estaba diciendo dónde están o a qué grado
+
+00:03:19.810 --> 00:03:21.570
+estamos envolviendo el circulo
+
+00:03:21.570 --> 00:03:24.450
+Así que es un ángulo de 0 a 2π para decir dónde
+
+00:03:24.450 --> 00:03:25.620
+estamos en el circulo.
+
+00:03:25.620 --> 00:03:28.680
+Y T nos dice a que grado hemos girado el
+
+00:03:28.680 --> 00:03:29.475
+círculo más grande
+
+00:03:29.475 --> 00:03:33.720
+...
+
+00:03:33.720 --> 00:03:37.650
+Así que, si lo piensas bien, puede especificar cualquier punto de este
+
+00:03:37.650 --> 00:03:41.210
+buñuelo o en esta superficie on el el torus por contar
+
+00:03:41.210 --> 00:03:42.390
+S o T
+
+00:03:42.390 --> 00:03:46.870
+Y es por eso que elegimos esa parametrización.
+
+00:03:46.870 --> 00:03:50.470
+Ahora, la razón por la qué estoy repasando esta materia que
+
+00:03:50.470 --> 00:03:53.500
+vimos en un video anterior que vamos a usarla
+
+00:03:53.500 --> 00:03:55.900
+para calcular una integral de superficie actual.
+
+00:03:55.900 --> 00:03:58.480
+Y la integral de superficie que vamos a calcular nos dirá
+
+00:03:58.480 --> 00:04:02.140
+el área de la superficie de este toro.
+
+00:04:02.140 --> 00:04:08.340
+Así que esta superficie aquí es sigma, así y está siendo
+
+00:04:08.340 --> 00:04:11.435
+representado por esta función vectorial de posición.
+
+00:04:11.435 --> 00:04:14.400
+...
+
+00:04:14.400 --> 00:04:18.200
+Se parametriza por estos dos parámetros allí
+
+00:04:18.200 --> 00:04:20.540
+Y si quisiéramos calcular el área de superficie, si la
+
+00:04:20.540 --> 00:04:23.270
+establecemos como la integral de superficie que vimos, creo que
+
+00:04:23.270 --> 00:04:25.670
+el último vídeo - al menos el último video cálculo vectorial - yo
+
+00:04:25.670 --> 00:04:30.380
+hice. Esta es una integral de superficie sobre la superficie.
+
+00:04:30.380 --> 00:04:33.460
+Aquí, este Sigma no representa una suma; representa
+
+00:04:33.460 --> 00:04:38.270
+una superficie de un montón de pequeña d Σ's
+
+00:04:38.270 --> 00:04:40.270
+un grupo de los pequeños trozos de la superficie
+
+00:04:40.270 --> 00:04:43.240
+Y, para repasar, puedes imaginar cada d Σ
+
+00:04:43.240 --> 00:04:45.880
+es una pequeña parte de la superficie de ahí.
+
+00:04:45.880 --> 00:04:49.290
+Es una d Σ.
+
+00:04:49.290 --> 00:04:51.400
+Es un doble-integral porque queremos anadir
+
+00:04:51.400 --> 00:04:53.830
+todo de los d Σ's en 2 direcciones.
+
+00:04:53.830 --> 00:04:57.000
+Puedes imaginar un tipo de girarlo en esta manera alrededor del
+
+00:04:57.000 --> 00:05:00.190
+torus y la otra direecion va en otra direccion
+
+00:05:00.190 --> 00:05:01.440
+alrededor del torus.
+
+00:05:01.440 --> 00:05:04.050
+Eso es porque usamos un doble-integral.
+
+00:05:04.050 --> 00:05:06.230
+esto sólo va a darle la superficie, lo que es
+
+00:05:06.230 --> 00:05:08.310
+el punto central de este video y probablemente de los
+
+00:05:08.310 --> 00:05:09.580
+2 videos próximos
+
+00:05:09.580 --> 00:05:12.150
+Pero si quieres multiplicar estos sigmas por
+
+00:05:12.150 --> 00:05:15.550
+algún otro valor - hay alguna esfera escalar en que esto está
+
+00:05:15.550 --> 00:05:17.500
+que es importante--puedes poner el otro valor
+
+00:05:17.500 --> 00:05:18.560
+aquí.
+
+00:05:18.560 --> 00:05:21.330
+Pero aquí sólo estamos multiplicando por 1.
+
+00:05:21.330 --> 00:05:24.060
+Y vimos en el último video que es una forma de expresar
+
+00:05:24.060 --> 00:05:27.100
+una idea, pero realmente no se puede hacer mucho con este cálculo.
+
+00:05:27.100 --> 00:05:29.750
+Pero una manera de expresarlo para que puedes
+
+00:05:29.750 --> 00:05:32.290
+tomar la integral, es decir que es la misma cosa - y lo vimos
+
+00:05:32.290 --> 00:05:35.510
+en los videos recientes.
+
+00:05:35.510 --> 00:05:39.080
+Esto es lo mismo que la doble integral sobre la
+
+00:05:39.080 --> 00:05:41.610
+región sobre la cual se definen los parámetros.
+
+00:05:41.610 --> 00:05:45.690
+Así que es la región aquí donde s y t ir de 0 a 2π
+
+00:05:45.690 --> 00:05:47.790
+cualquiera que sea su función es esto.
+
+00:05:47.790 --> 00:05:50.760
+Sólo tenemos un 1 aquí, así que sólo podía escribir un 1 si
+
+00:05:50.760 --> 00:05:52.530
+queremos; no va a cambiar much.
+
+00:05:52.530 --> 00:05:55.490
+Por--y eso es lo que aprendimos--
+
+00:05:55.490 --> 00:05:59.150
+la magnitud de la derivada parcial de
+
+00:05:59.150 --> 00:06:03.310
+R con respecto a S.
+
+00:06:03.310 --> 00:06:07.010
+La magnitud de esa cruzada con la derivada parcial
+
+00:06:07.010 --> 00:06:13.370
+de R con respecto a Tds
+
+00:06:13.370 --> 00:06:17.250
+Podrías tomarlo en cualquier orden, menos dsdt
+
+00:06:17.250 --> 00:06:18.460
+Pues, lo vimos en el video anterior.
+
+00:06:18.460 --> 00:06:21.570
+Lo que vamos a hacer ahora es calcularlo.
+
+00:06:21.570 --> 00:06:23.060
+Es el punto central del video.
+
+00:06:23.060 --> 00:06:27.340
+Vamos a tomar el producto cruzado de esos 2 vectores
+
+00:06:27.340 --> 00:06:28.580
+Vamos a calcular los vectores.
+
+00:06:28.580 --> 00:06:30.020
+Luego, en el el siguiente video, vamos a tomar
+
+00:06:30.020 --> 00:06:30.780
+el producto cruzado.
+
+00:06:30.780 --> 00:06:33.520
+Y, a continuación, el vídeo después de lo realmente evaluamos
+
+00:06:33.520 --> 00:06:34.570
+Esta doble integral.
+
+00:06:34.570 --> 00:06:36.900
+Y vas a ver que es un problema bastante dificil y esto
+
+00:06:36.900 --> 00:06:39.745
+es probablemente la razón por la que muy pocas personas alguna vez ven un
+
+00:06:39.745 --> 00:06:42.330
+integral de superficie real calculado.
+
+00:06:42.330 --> 00:06:44.470
+Pero vamos a hacerlo de todas formas.
+
+00:06:44.470 --> 00:06:49.940
+Por lo tanto la derivada parcial de r con respecto a s--por lo que
+
+00:06:49.940 --> 00:06:51.040
+Este término derecho aquí.
+
+00:06:51.040 --> 00:06:53.180
+Haremos el producto cruzado en el siguiente vídeo.
+
+00:06:53.180 --> 00:06:54.030
+¿Este término es qué?
+
+00:06:54.030 --> 00:06:56.240
+Sólo queremos mantener constante de t y se llevó el parcial
+
+00:06:56.240 --> 00:06:59.440
+respecto a S.
+
+00:06:59.440 --> 00:07:03.060
+Así que esto aquí, si usted distribuye el seno del T por
+
+00:07:03.060 --> 00:07:04.940
+b--que sólo va a ser una constante en términos de s,
+
+00:07:04.940 --> 00:07:06.160
+así podemos ignorarlo.
+
+00:07:06.160 --> 00:07:08.350
+Luego tienes el seno de t por esto aquí.
+
+00:07:08.350 --> 00:07:10.570
+Así el seno de t y a es una constante.
+
+00:07:10.570 --> 00:07:12.680
+Y toma la derivada del coseno de s.
+
+00:07:12.680 --> 00:07:16.330
+Eso es negativo seno de s.
+
+00:07:16.330 --> 00:07:19.210
+Así que los derivados de esto con respecto a s o el parcial
+
+00:07:19.210 --> 00:07:24.580
+respecto a s va a ser menos--voy a escribir
+
+00:07:24.580 --> 00:07:27.526
+verde del seno de t, para que sepa que es de donde proviene.
+
+00:07:27.526 --> 00:07:32.870
+Seno de t y luego sinusoidal de s.
+
+00:07:32.870 --> 00:07:34.800
+La derivada de esto es sine negativo de s.
+
+00:07:34.800 --> 00:07:36.070
+Es de donde proviene esa negativa.
+
+00:07:36.070 --> 00:07:37.790
+Y entonces voy a escribir el seno del S ahí.
+
+00:07:37.790 --> 00:07:41.090
+...
+
+00:07:41.090 --> 00:07:44.180
+Por el vector de la unidad i.
+
+00:07:44.180 --> 00:07:48.310
+Es la parcial de este término x con respecto a S.
+
+00:07:48.310 --> 00:07:50.050
+Y luego haremos lo mismo con el
+
+00:07:50.050 --> 00:07:52.270
+término Y o el término de J.
+
+00:07:52.270 --> 00:07:56.230
+Así mas--misma lógica--b veces coseno de t respecto a s.
+
+00:07:56.230 --> 00:07:57.240
+Cuando usted toma el parcial [INAUDIBLE]
+
+00:07:57.240 --> 00:08:01.750
+se convierte en 0 para que te dejan con un--bien, va a ser un
+
+00:08:01.750 --> 00:08:05.460
+menos un nuevo porque cuando tome la derivada de la
+
+00:08:05.460 --> 00:08:09.110
+coseno de s va a ser negativo sinusoidal de s.
+
+00:08:09.110 --> 00:08:09.890
+Me deja hacerlo.
+
+00:08:09.890 --> 00:08:12.660
+Vas a tener un signo menos una.
+
+00:08:12.660 --> 00:08:14.810
+Este coseno de t.
+
+00:08:14.810 --> 00:08:16.960
+Menos un coseno de t.
+
+00:08:16.960 --> 00:08:18.490
+Es los términos constantes.
+
+00:08:18.490 --> 00:08:21.260
+Seno de s.
+
+00:08:21.260 --> 00:08:23.470
+Sólo tomando derivadas parciales.
+
+00:08:23.470 --> 00:08:24.945
+Seno de s. j.
+
+00:08:24.945 --> 00:08:28.730
+...
+
+00:08:28.730 --> 00:08:30.790
+Y, a continuación, por último, tomamos la derivada de esta
+
+00:08:30.790 --> 00:08:32.810
+respecto a s.
+
+00:08:32.810 --> 00:08:33.980
+Y que es bastante sencillo.
+
+00:08:33.980 --> 00:08:37.000
+Sólo va a ser un coseno de s.
+
+00:08:37.000 --> 00:08:47.362
+Así más un coseno de s. k.
+
+00:08:47.362 --> 00:08:49.490
+Ahora esperemos que no encontró este confuso.
+
+00:08:49.490 --> 00:08:51.810
+El sines negativo porque la derivada del coseno
+
+00:08:51.810 --> 00:08:53.090
+son negativos sines.
+
+00:08:53.090 --> 00:08:54.690
+Seno tan negativa de s.
+
+00:08:54.690 --> 00:08:57.290
+Por eso es negativo sinusoidal de s veces la constante.
+
+00:08:57.290 --> 00:09:00.290
+Seno negativo de s veces la constante--la constante
+
+00:09:00.290 --> 00:09:01.163
+coseno de seno t de t.
+
+00:09:01.163 --> 00:09:03.140
+Así que esperemos que esto tiene sentido al igual que un examen de
+
+00:09:03.140 --> 00:09:04.710
+teniendo una derivada parcial.
+
+00:09:04.710 --> 00:09:07.795
+Ahora vamos a hacer lo mismo con respecto a t.
+
+00:09:07.795 --> 00:09:10.990
+...
+
+00:09:10.990 --> 00:09:12.240
+Y lo haré en un color diferente.
+
+00:09:12.240 --> 00:09:15.750
+Así que ahora vamos a tomar el parcial de r con respecto a t.
+
+00:09:15.750 --> 00:09:20.530
+Para el parcial de r con respecto a t es igual a--para
+
+00:09:20.530 --> 00:09:23.690
+Ahora todo este plazo sobre aquí es una constante, y por lo tanto tiene
+
+00:09:23.690 --> 00:09:25.630
+va a ser que todo término veces la derivada de esta
+
+00:09:25.630 --> 00:09:28.120
+con respecto a t, que es justo coseno de t.
+
+00:09:28.120 --> 00:09:35.910
+Así que va a ser b más un coseno de s
+
+00:09:35.910 --> 00:09:43.130
+coseno de tiempos de t i.
+
+00:09:43.130 --> 00:09:45.980
+Y luego, más--y realmente va a ser un signo menos
+
+00:09:45.980 --> 00:09:47.400
+porque cuando usted toma la derivada de esto con
+
+00:09:47.400 --> 00:09:49.670
+respecto a t va a ser menos seno de t.
+
+00:09:49.670 --> 00:09:54.590
+Así que va a ser negativo y, a continuación, permítanme dejar
+
+00:09:54.590 --> 00:09:55.810
+espacio para este término aquí.
+
+00:09:55.810 --> 00:09:59.150
+Seno negativo de t.
+
+00:09:59.150 --> 00:10:01.340
+Y vas a tener ahi un término constante.
+
+00:10:01.340 --> 00:10:03.790
+Es un término constante en t.
+
+00:10:03.790 --> 00:10:07.230
+b más un coseno de s.
+
+00:10:07.230 --> 00:10:08.730
+Es de ahí de ese término.
+
+00:10:08.730 --> 00:10:15.780
+Derivada de coseno t es negativo seno de t por j.
+
+00:10:15.780 --> 00:10:18.150
+Y, a continuación, el parcial de esto con respecto a t--esto
+
+00:10:18.150 --> 00:10:19.340
+es simplemente una constante en t.
+
+00:10:19.340 --> 00:10:20.910
+Por lo tanto la derivada parcial va a ser 0.
+
+00:10:20.910 --> 00:10:22.195
+Así que voy a escribir más 0 k.
+
+00:10:22.195 --> 00:10:25.970
+...
+
+00:10:25.970 --> 00:10:28.130
+Permitame hacer todos mis vectores en ese mismo color.
+
+00:10:28.130 --> 00:10:32.290
+Plus 0 por la vector unidad k.
+
+00:10:32.290 --> 00:10:34.240
+Por lo nos da nuestras derivadas parciales.
+
+00:10:34.240 --> 00:10:36.770
+Ahora tenemos que tomar su producto cruzado y, a continuación, calcular la
+
+00:10:36.770 --> 00:10:39.930
+magnitud del producto cruzado y luego evaluar este
+
+00:10:39.930 --> 00:10:40.930
+integral doble.
+
+00:10:40.930 --> 00:10:44.460
+Y voy a hacer en un par de videos.
+
+00:10:44.460 --> 00:10:44.533
+...

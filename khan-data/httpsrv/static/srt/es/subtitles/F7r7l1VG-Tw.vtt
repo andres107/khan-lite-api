@@ -1,0 +1,615 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.100 --> 00:00:04.000
+Asi que hay que pensar un poco de lo que paso en el video anterior
+
+00:00:04.000 --> 00:00:07.152
+revisaré de nuevo las diferentes nociones de oferta de dinero
+
+00:00:07.152 --> 00:00:10.300
+y hablarémos si es justo para la gente pensar
+
+00:00:10.300 --> 00:00:13.060
+que ellos realmentente tienen el dinero que tienen
+
+00:00:13.060 --> 00:00:15.960
+Así que en el video anterior, después de que
+
+00:00:15.960 --> 00:00:18.397
+la cosecha fue cultivada, los granjeros depositaron
+
+00:00:18.397 --> 00:00:20.812
+1000 monedas de oro en mi banco.
+
+00:00:20.812 --> 00:00:22.808
+Después, yo preste 900 de ellas
+
+00:00:22.808 --> 00:00:24.805
+y me quedé con una reserva en caso de que aquellos granjeros
+
+00:00:24.805 --> 00:00:27.313
+quisieran una parte de su dinero de vuelta.
+
+00:00:27.313 --> 00:00:29.635
+Y pensé, no, ellos nunca requerirán más del diez porciento depositado al mismo tiempo.
+
+00:00:29.635 --> 00:00:32.979
+Por otro lado, alguien tiene una gran idea para realizar un canal de irrigación
+
+00:00:32.979 --> 00:00:35.660
+para hacer poder disponer de más espacio para cultivar
+
+00:00:35.660 --> 00:00:37.360
+y tener mayor acceso al agua.
+
+00:00:37.360 --> 00:00:39.760
+Así que, para construir ese canal de irrigación, ellos toman prestado
+
+00:00:39.760 --> 00:00:41.895
+esas 900 monedas de oro que utilizan para pagar a unos trabajadores
+
+00:00:41.895 --> 00:00:44.160
+esos trabajadores ahora tienen las monedas de oro
+
+00:00:44.160 --> 00:00:46.586
+y necesitan un lugar seguro en donde guardarlas
+
+00:00:46.586 --> 00:00:48.815
+Así que ellos las depositan en mi banco
+
+00:00:48.815 --> 00:00:51.060
+Ahora tengo 900 monedas de oro de depósito
+
+00:00:51.060 --> 00:00:52.793
+Así mismo, reservo el 10%
+
+00:00:52.793 --> 00:00:54.760
+Y ahora doy prestado 810 monedas de oro
+
+00:00:54.760 --> 00:00:57.421
+Digamos que la presto a un empresario que
+
+00:00:57.421 --> 00:01:01.879
+quiere construir una fábrica de herramientas de cosechas
+
+00:01:01.879 --> 00:01:04.294
+que podrían hacer la cosecha de manzanas
+
+00:01:04.294 --> 00:01:07.575
+más eficiente o más rápida o necesitar menos horas de trabajo
+
+00:01:07.575 --> 00:01:10.175
+Así que ese empresario recibe esas 810 monedas de oro
+
+00:01:10.175 --> 00:01:13.954
+Y esas 810 monedas se las paga al constructor del pueblo
+
+00:01:13.954 --> 00:01:17.475
+Así que el constructor del pueblo ahora tiene 810 monedas que deposita en mi banco
+
+00:01:17.475 --> 00:01:20.175
+porque soy el lugar mas seguro para guardarlo
+
+00:01:20.175 --> 00:01:22.774
+asi que termino ahi la cadena aunque puede seguir y seguir
+
+00:01:22.774 --> 00:01:26.131
+aunque hay quienes notaran que los valores se vuelven
+
+00:01:26.131 --> 00:01:27.803
+mas y mas pequeños cada vez
+
+00:01:27.803 --> 00:01:30.729
+y aremos un poco de matematicas para averiguar hasta donde puede llegar
+
+00:01:30.729 --> 00:01:33.376
+pero entonces tomo el dinero del constructor
+
+00:01:33.376 --> 00:01:35.285
+y digo "pues esta idea del banco es una idea nueva
+
+00:01:35.285 --> 00:01:37.648
+para mi, lo dejare todo como reservas porque quiero ver
+
+00:01:37.648 --> 00:01:39.585
+como funciona todo primero"
+
+00:01:39.585 --> 00:01:41.685
+entonces dijimos "cuanto dinero hay en el systema?"
+
+00:01:41.685 --> 00:01:44.085
+y todo depende de como definas "dinero"
+
+00:01:44.085 --> 00:01:47.540
+y hicimos una definición de "dinero" llamada "M cero"
+
+00:01:47.540 --> 00:01:51.023
+y "M cero" dijimos le vamos a llamar nuestra definiciónmas estrecha
+
+00:01:51.023 --> 00:01:53.809
+y esto es literalmente cuanto oro hay en el sistema
+
+00:01:53.809 --> 00:01:57.292
+o cuantas cosas hay en el sistema que podrían ser usadas inmediatamente
+
+00:01:57.292 --> 00:02:01.890
+para llevar acabo una transaccion
+
+00:02:01.890 --> 00:02:04.785
+y estoy asumiendo por el bien de este argumento
+
+00:02:04.785 --> 00:02:07.585
+que ninguno de estos jugadores se quedaron con ningun oro
+
+00:02:07.585 --> 00:02:11.038
+en sus bolsillos o se quedaron con algo de efectivo en sus carteras
+
+00:02:11.038 --> 00:02:13.685
+para un día libre aunque si lo hubiera lo incluiriamos
+
+00:02:13.685 --> 00:02:16.472
+en este cálculo, yo asumí que todos siempre depositan
+
+00:02:16.472 --> 00:02:18.980
+su oro en el banco de Sal
+
+00:02:18.980 --> 00:02:21.395
+Así que cuando hicimos ese cálculo obtuvimos estas
+
+00:02:21.395 --> 00:02:25.980
+100 piezas de oro para la reserva y después 90 aquí
+
+00:02:25.980 --> 00:02:29.148
+lo siento, 900 aquí
+
+00:02:29.148 --> 00:02:33.049
+y despues 810 aqui y si las sumas obtienes
+
+00:02:33.049 --> 00:02:35.650
+1000 piezas de oro en el sistema
+
+00:02:35.650 --> 00:02:39.040
+lo cual tiene mucho sentido por que teníamos
+
+00:02:39.040 --> 00:02:41.283
+1000 piezas originalmente en el sistema
+
+00:02:41.283 --> 00:02:44.283
+y el oro no se uhm ustedes saben en el ejemplo por lo menos
+
+00:02:44.283 --> 00:02:46.795
+como yo lo describo no teníamos a nadie descubriendo
+
+00:02:46.795 --> 00:02:49.783
+cualquier oro nuevo ni estaba siendo el oro comido
+
+00:02:49.783 --> 00:02:52.229
+ni destruido en alguna manera
+
+00:02:52.229 --> 00:02:54.383
+asi que tiene sentido que hay 1000 piezas de oro
+
+00:02:54.383 --> 00:02:57.151
+pero entonces hay una pregunta mas interesante
+
+00:02:57.151 --> 00:02:59.942
+si tu fueses a la ciudad y les has preguntado a todos
+
+00:02:59.942 --> 00:03:02.783
+cuanto dinero tienen, te dirán "tengo este tanto en mi
+
+00:03:02.783 --> 00:03:05.789
+cuenta de cheques en el banco de Sal" me refiero a que
+
+00:03:05.789 --> 00:03:08.071
+si me preguntaras a mi cuanto dinero tengo, yo te diría
+
+00:03:08.071 --> 00:03:11.183
+el monto que tengo en mi cuenta de cheques, de hecho
+
+00:03:11.183 --> 00:03:13.363
+tengo muy poco dinero en efectivo ahorita en mi cartera
+
+00:03:13.363 --> 00:03:15.820
+si alguno de ustedes están pensando en asaltarme
+
+00:03:15.820 --> 00:03:18.286
+todo mi dinero esta en mi cuenta de cheques, entonces
+
+00:03:18.286 --> 00:03:20.421
+si alguien me pregunta cuanto dinero tienes les daría ese monto
+
+00:03:20.421 --> 00:03:22.986
+asi que si fuistes por toda la ciudad y les has preguntado
+
+00:03:22.986 --> 00:03:25.297
+a todos "cuanto dinero tienen?' y lo sumaras obtendrías
+
+00:03:25.297 --> 00:03:28.186
+el total del monto en su cuenta de cheques
+
+00:03:28.186 --> 00:03:32.686
+entonces veamos, 810 piezas de oro de los contratistas
+
+00:03:32.686 --> 00:03:36.286
+900 piezas de oro de los cavadores de zanjas y
+
+00:03:36.286 --> 00:03:39.647
+1000 piezas de oro de los granjeros y ahora veamos
+
+00:03:39.647 --> 00:03:44.886
+1900 mas 1810, bien, obtienes 2710 piezas de oro
+
+00:03:44.886 --> 00:03:47.686
+colectivamente en cuentas de cheques y entonces como
+
+00:03:47.686 --> 00:03:50.839
+soy el único banco ese es el total de mis pasivos aquí
+
+00:03:50.839 --> 00:03:54.286
+y les llamamos a eso M1, y le llamamos así por una razón
+
+00:03:54.286 --> 00:03:56.686
+porque estas son las palabras reales que son usadas por
+
+00:03:56.686 --> 00:03:59.186
+economistas y nuestros funcionarios del gobierno
+
+00:03:59.186 --> 00:04:02.586
+Hay un par de preguntas muy interesantes aquí
+
+00:04:02.586 --> 00:04:05.886
+una es, "como es que 1000 piezas de oro
+
+00:04:05.886 --> 00:04:11.186
+se convirtieron en 2710?" y luego " es este monto de 2710
+
+00:04:11.186 --> 00:04:15.313
+es real o representa riqueza de verdad o es algún tipo de
+
+00:04:15.313 --> 00:04:18.586
+concurso raro que jugamos y representa algún tipo de
+
+00:04:18.586 --> 00:04:20.786
+esquema de piramide raro
+
+00:04:20.786 --> 00:04:23.386
+vaya, como fue creado? pasamos por la mecánica, si?
+
+00:04:23.386 --> 00:04:27.486
+la segunda pregunta, cada vez que hacia al lado un poco
+
+00:04:27.486 --> 00:04:30.586
+lo prestaba y así fue como fue creado
+
+00:04:30.586 --> 00:04:33.686
+la pregunta interesante es, "representa riqueza real?"
+
+00:04:33.686 --> 00:04:38.786
+la respuesta es, representa riqueza real si cada una de
+
+00:04:38.786 --> 00:04:41.886
+estas inversiones fueran inversiones reales
+
+00:04:41.886 --> 00:04:44.586
+entonces si estas 900 piezas de oro que fueran usadas
+
+00:04:44.586 --> 00:04:49.400
+para crear este sistema de irrigación, si ese proyecto
+
+00:04:49.400 --> 00:04:55.901
+realmente genera por lo menos 900 piezas de oro de
+
+00:04:55.901 --> 00:04:58.827
+futura riqueza, esencialmente, por lo menos puede pagar
+
+00:04:58.827 --> 00:05:00.986
+de regreso las 900 piezas de oro, probablemente generara
+
+00:05:00.986 --> 00:05:03.586
+mas si es un buen proyecto, pero si genera por lo menos
+
+00:05:03.586 --> 00:05:06.486
+900 piezas de oro en riqueza futura, entonces este es
+
+00:05:06.486 --> 00:05:10.386
+un activo real, verdad?, este es un activo real, igualmente
+
+00:05:10.386 --> 00:05:15.592
+si esta fábrica realmente genera por lo menos 810 piezas
+
+00:05:15.592 --> 00:05:18.286
+de oro en riqueza futura, si realmente nos va a permitir
+
+00:05:18.286 --> 00:05:21.164
+producir tantas mas manzanas o oro o lo que sea
+
+00:05:21.164 --> 00:05:27.086
+este es un activo real aquí, verdad? entonces esta gente
+
+00:05:27.086 --> 00:05:32.486
+esta riqueza realmente existe, estas 2710 piezas de oro
+
+00:05:32.486 --> 00:05:35.886
+de entre comillas, riqueza, realmente existen siempre que
+
+00:05:35.886 --> 00:05:41.786
+los proyectos que fueron la justificacion para pedir prestado
+
+00:05:41.786 --> 00:05:46.056
+el dinero, en realidad si generan riqueza futura, asi que
+
+00:05:46.056 --> 00:05:49.086
+hay un par de cosas de las que hay que darse cuenta,
+
+00:05:49.086 --> 00:05:52.486
+no hay 2710 piezas de oro en este mundo
+
+00:05:52.486 --> 00:05:56.886
+hay solo 1000 piezas físicas de oro pero si estos proyectos
+
+00:05:56.886 --> 00:05:59.886
+son proyectos reales que no son mal administrados, no son
+
+00:05:59.886 --> 00:06:03.786
+solo el tipo de proyecto de llenar el hoyo, entonces si
+
+00:06:03.786 --> 00:06:10.486
+si tenemos 2710 piezas de oro de valor en riqueza
+
+00:06:10.486 --> 00:06:12.898
+y realmente quiero insistir en este punto, acuerdense
+
+00:06:12.898 --> 00:06:15.986
+que el oro no es riqueza en si mismo, el oro es usado para
+
+00:06:15.986 --> 00:06:18.686
+representar la riqueza, no puedes comer oro o vivir debajo
+
+00:06:18.686 --> 00:06:23.986
+de oro, uhm el oro no te transportara a algún lugar , el oro
+
+00:06:23.986 --> 00:06:27.806
+no mejorara tu salud, es algo que se usa para representar
+
+00:06:27.806 --> 00:06:31.800
+la riqueza, algunas veces gente piensa que es riqueza en si
+
+00:06:31.800 --> 00:06:35.097
+y eso es un concepto erroneo, entonces estos 2710 piezas
+
+00:06:35.097 --> 00:06:41.320
+de oro percibidas si representan riqueza real aunque no
+
+00:06:41.320 --> 00:06:46.586
+representen piezas de oro verdaderas y esto es y otra vez
+
+00:06:46.586 --> 00:06:50.375
+talvez digan este es un tipo de juego de show pero no lo es
+
+00:06:50.375 --> 00:06:53.386
+realmente mientras estas inversiones sean buenas inversiones
+
+00:06:53.386 --> 00:06:56.086
+recuerden que estas son inversiones generadoras de riqueza
+
+00:06:56.086 --> 00:06:58.886
+y noten la masa monetaria, al menos tal como la definimos
+
+00:06:58.886 --> 00:07:02.961
+con esta M1, se expandió para facilitar la producción economica real
+
+00:07:02.961 --> 00:07:08.719
+entonces siempre y cuando esta fabrica si genere riqueza
+
+00:07:08.719 --> 00:07:12.852
+o la zanja de irrigación genere riqueza entonces, nosotros,
+
+00:07:12.852 --> 00:07:16.614
+la masa monetaria, no creció mas rápido que el
+
+00:07:16.614 --> 00:07:19.086
+monto de oro alla afuera, entonces cuando una pieza de
+
+00:07:19.086 --> 00:07:22.886
+oro antes compraba una manzana ahora ojalá! una pieza
+
+00:07:22.886 --> 00:07:25.586
+de oro todavía podrá comprar una manzana, de hecho,
+
+00:07:25.586 --> 00:07:29.686
+y esto es algo importante de tener en cuenta, si estas
+
+00:07:29.686 --> 00:07:32.868
+inversiones son muy buenas, muy buenas, en realidad vas a tener,
+
+00:07:32.868 --> 00:07:37.986
+digamos que solíamos producir 1000 manzanas por año
+
+00:07:37.986 --> 00:07:43.386
+y noten que las manzanas son riqueza real, las manzanas
+
+00:07:43.386 --> 00:07:46.707
+son algo que puedes consumir, que te mantendrán vivo
+
+00:07:46.707 --> 00:07:49.865
+y también las puedes ver como una forma de inversión
+
+00:07:49.865 --> 00:07:52.048
+porque comiendolas puedes realizar trabajo
+
+00:07:52.048 --> 00:07:54.600
+pero de cualquier modo, digamos que antes de que toda
+
+00:07:54.600 --> 00:07:57.402
+esta inversion empezara a suceder, que nuestra economia
+
+00:07:57.402 --> 00:08:00.200
+podia producir 1000 manzanas, entonces ahora digamos
+
+00:08:00.200 --> 00:08:03.254
+que despues de que esta zanja de irrigacion fue producido
+
+00:08:03.254 --> 00:08:08.176
+en lugar de 1000 manzanas ahora vamos a partir de poder
+
+00:08:08.176 --> 00:08:12.913
+producir 1000 manzanas a poder producir, no lo se...
+
+00:08:12.913 --> 00:08:17.650
+2000 manzanas por año, y otra vez mucha riqueza fue
+
+00:08:17.650 --> 00:08:21.087
+creada, recuerden que solo tomamos 900 piezas de oro
+
+00:08:21.087 --> 00:08:23.501
+para contruir esto y de pronto estamos doblando, somos
+
+00:08:23.501 --> 00:08:26.056
+capaces de producir otro incremento de 1000 manzanas
+
+00:08:26.056 --> 00:08:28.703
+por año el cual en nuestra economía antigua valia 1000
+
+00:08:28.703 --> 00:08:32.093
+piezas de oro, por lo que en realidad va a definitivamente
+
+00:08:32.093 --> 00:08:34.833
+redimirse, verdad?, pediste prestadas 900 piezas de oro
+
+00:08:34.833 --> 00:08:38.177
+y este proyecto generara, no 1000 piezas de oro en total
+
+00:08:38.177 --> 00:08:41.100
+si no que en realidad generara el equivalente a 1000 piezas
+
+00:08:41.100 --> 00:08:43.842
+de oro por año, incrementa nuestra producción de 1000
+
+00:08:43.842 --> 00:08:46.700
+manzanas por año e igualmente digamos que esto,
+
+00:08:46.700 --> 00:08:51.180
+esta fabrica nos lleva de 2000 manzanas al año a 3000
+
+00:08:51.180 --> 00:08:54.848
+así que hay que pensar en esto, ahora en un año dado
+
+00:08:54.848 --> 00:08:57.500
+cuantas manzanas están siendo producidas? solíamos
+
+00:08:57.500 --> 00:09:00.003
+tener solo 1000 manzanas siendo producidas, ahora
+
+00:09:00.003 --> 00:09:02.600
+tenemos 3000 manzanas siendo producidas porque estas
+
+00:09:02.600 --> 00:09:05.400
+fueron realmente muy buenas inversiones, realmente
+
+00:09:05.400 --> 00:09:07.500
+mejoraron nuestra producción, entonces si ahora dices
+
+00:09:07.500 --> 00:09:11.300
+"pues todos en la economia piensan que tienen 2710
+
+00:09:11.300 --> 00:09:14.400
+piezas de oro o algún de sus equivalentes y podemos
+
+00:09:14.400 --> 00:09:20.158
+producir 3000 manzanas, ahora la masa monetaria 2710
+
+00:09:20.158 --> 00:09:23.920
+realmente crecio mas lento que nuestra riqueza, bien?
+
+00:09:23.920 --> 00:09:27.100
+talvez deveria dibujar eso, dejenme dibujarlo
+
+00:09:27.100 --> 00:09:33.904
+antes, vamos a ver, dinero, riqueza y creo que es muy
+
+00:09:33.904 --> 00:09:36.830
+importante separar los dos conceptos, el dinero es usado
+
+00:09:36.830 --> 00:09:39.800
+para transacciones de riqueza o representar riqueza pero
+
+00:09:39.800 --> 00:09:43.300
+no es riqueza en si y eso conlleva unos fundamentos
+
+00:09:43.300 --> 00:09:46.400
+filosóficos importantes, probablemente te hará vivir mas feliz
+
+00:09:46.400 --> 00:09:49.090
+si te das cuenta de esta diferencia, pero antes teniamos
+
+00:09:49.090 --> 00:09:51.412
+1000 piezas de oro, antes de que este sistema bancario y
+
+00:09:51.412 --> 00:09:53.700
+sistema de fracción de reservas existiera, y teníamos 1000
+
+00:09:53.700 --> 00:09:58.146
+manzanas de riqueza por año, después entrare mas a
+
+00:09:58.146 --> 00:10:00.747
+fondo en la filosofía del dinero, pero despues de que todo
+
+00:10:00.747 --> 00:10:05.576
+esto sucedió, después, tuvimos 2710 piezas de oro
+
+00:10:05.576 --> 00:10:09.617
+percibidas, esto fue nuestra definición M1, nuestro M0
+
+00:10:09.617 --> 00:10:13.564
+el oro real físico todavía era 1000 pero cuantas manzanas
+
+00:10:13.564 --> 00:10:18.100
+producimos al año?, ahora producimos 3000 manzanas
+
+00:10:18.100 --> 00:10:20.902
+así que noten la proporción de oro a manzanas ha
+
+00:10:20.902 --> 00:10:25.200
+mejorado y ahora si lo piensan, una manzana en realidad
+
+00:10:25.200 --> 00:10:28.100
+va a costar menos oro, antes tendrías aproximadamente
+
+00:10:28.100 --> 00:10:32.976
+1 pieza de oro por manzana, ahora tienes menos de 1 pieza
+
+00:10:32.976 --> 00:10:35.809
+de oro por manzana, entonces debido a nuestra innovación
+
+00:10:35.809 --> 00:10:38.700
+hemos experimentado deflación, así que talvez hagas dicho
+
+00:10:38.700 --> 00:10:41.335
+Madre mia! todo este dinero fue creado de la nada, este
+
+00:10:41.335 --> 00:10:43.843
+dinero no existe, esto dará a la inflación, pero no porque
+
+00:10:43.843 --> 00:10:46.583
+porque esto es un punto muy importante,
+
+00:10:46.583 --> 00:10:50.809
+porque el dinero se puso a trabajar en inversiones
+
+00:10:50.809 --> 00:10:54.013
+productivas reales, que crean riqueza, que hacen el pastel
+
+00:10:54.013 --> 00:10:57.500
+mas grande o la tarta de manzanas mas grande, en
+
+00:10:57.500 --> 00:11:00.500
+realidad experimentamos deflación, y nuestra economia
+
+00:11:00.500 --> 00:11:03.394
+realmente creció y este es en realidad un ejemplo muy
+
+00:11:03.394 --> 99:59:59.999
+muy positivo. Los veo en el próximo video.

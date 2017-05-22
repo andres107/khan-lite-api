@@ -1,0 +1,54 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.998 --> 00:00:03.367
+Lo que quiero hacer en este video es revisitar un poco
+
+00:00:03.367 --> 00:00:06.366
+lo que sabemos sobre pi y como medimos realmente
+
+00:00:06.366 --> 00:00:10.253
+ángulos y radianes, y luego pensar sobre si pi
+
+00:00:10.253 --> 00:00:14.559
+es necesariamente el mejor número al cual prestarle atención.
+
+00:00:14.559 --> 00:00:16.974
+Entonces pensemos un poco sobre lo que acabo de decir.
+
+00:00:16.974 --> 00:00:23.057
+Sabemos que pi está definido -- Lo escribiré definido con el signo de triple igualdad,
+
+00:00:23.057 --> 00:00:24.311
+Supongo que podríamos decirle así.
+
+00:00:24.311 --> 00:00:28.491
+Pi está definido como la proporción de la circunferencia de un círculo
+
+00:00:28.491 --> 00:00:32.410
+a su diámetro, que es lo mismo que la proporción
+
+00:00:32.441 --> 00:00:36.246
+de la circunferencia del circulo a dos veces el radio
+
+00:00:36.246 --> 00:00:40.751
+y de allí obtenemos todas estas interesante fórmulas que obtienes
+
+00:00:40.751 --> 00:00:41.912
+en la clase de geometría.
+
+00:00:41.912 --> 00:00:45.116
+Si tienes el radio y quieres calcular la circunferencia
+
+00:00:45.116 --> 00:00:50.225
+multiplica ambos lados de esta definición por dos veces el radio
+
+00:00:50.225 --> 00:00:54.311
+y obtienes dos veces el radio por pi es igual a
+
+00:00:54.311 --> 00:00:59.327
+la circunferencia o más familiarmente sería
+
+00:00:59.327 --> 00:01:05.550
+la circunferencia es igual a 2 pi r.

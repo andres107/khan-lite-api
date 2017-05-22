@@ -1,0 +1,291 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.030 --> 00:00:02.700
+entonces, ya hiciste algunos programas
+
+00:00:02.700 --> 00:00:07.370
+te debes estar preguntando: ¿Como voy a recordar todas estas ordenes?
+
+00:00:07.370 --> 00:00:09.829
+¿Es un óvalo, un circulo, una elipse?
+
+00:00:09.829 --> 00:00:13.033
+¿Es primero el ancho y después el alto, o es al revés?
+
+00:00:13.033 --> 00:00:15.061
+¿Tengo que memorizar todo esto?
+
+00:00:15.061 --> 00:00:16.675
+Por suerte, no.
+
+00:00:16.675 --> 00:00:18.769
+Para eso sirven las computadoras
+
+00:00:18.769 --> 00:00:22.316
+La cosa es que siempre tenemos una computadora con nosotros cuando programamos
+
+00:00:22.316 --> 00:00:24.898
+Las computadoras son muy buenas recordando cosas, mejores que nosotros
+
+00:00:24.898 --> 00:00:27.544
+¿Entonces por que no solo dejamos que la computadora recuerde todos los detalles por nosotros?
+
+00:00:27.544 --> 00:00:30.007
+Lo podemos usar como un Pictionary para programar
+
+00:00:30.007 --> 00:00:32.173
+Entonces nos podemos concentrar en hacer buenos programas
+
+00:00:32.173 --> 00:00:34.224
+Y no memorizar los detalles aburridos.
+
+00:00:34.224 --> 00:00:41.861
+A eso se le llama documentación: un documento que explica como programar con todo ese lenguaje y nos da ejemplos.
+
+00:00:41.861 --> 00:00:46.399
+Entonces si no nos acordamos de todos los detalles, no hay problema, solo los buscamos
+
+00:00:46.399 --> 00:00:51.105
+Seguro crees que es aburrido leer documentación, y tienes razón (es algo aburrido)
+
+00:00:51.105 --> 00:00:55.228
+¡Es mas divertido escribir un código! Pero al menos que quieras aprenderte todo de memoria,
+
+00:00:55.228 --> 00:00:58.225
+necesitas aprender a usar documentacion o de poder codificar tus ideas.
+
+00:00:58.225 --> 00:01:01.007
+Incluso los mejores programadores no memorizan todo.
+
+00:01:01.007 --> 00:01:04.894
+Es mas, algunos de los mejores programadores tambien son los mejores leyendo documentación
+
+00:01:04.894 --> 00:01:11.705
+Por ejemplo: estoy dibujando esta cara sonriente y ya dibuje la cara y los ojos
+
+00:01:11.705 --> 00:01:15.232
+Usando elipses (una función que conozco bastante bien)
+
+00:01:15.232 --> 00:01:16.505
+Pero tengo mas trabajo que hacer
+
+00:01:16.505 --> 00:01:18.813
+Primero, quiero dibujar la cara con bordes gruesos, como una pegatina
+
+00:01:18.813 --> 00:01:25.059
+Me acuerdo que tiene algo que ver con "stroke" pero no me acuerdo el nombre exacto
+
+00:01:25.059 --> 00:01:32.676
+Entonces en vez de quedarme aqui e inventar (lo que me llevaria horas o tiempo infinito) solo ire a la parte de documentacion
+
+00:01:32.676 --> 00:01:36.069
+y encontrar lo que busco
+
+00:01:36.069 --> 00:01:43.150
+entonces miro en la parte de colorear, porque me parece probable que aparezca aqui
+
+00:01:43.150 --> 00:01:47.196
+miro todas las funciones y al final encuentro la que busco
+
+00:01:47.196 --> 00:01:51.767
+aqui vemos la funcion y los parametros (solo uno en este caso)
+
+00:01:51.767 --> 00:02:01.508
+lo que usualmente hago es copiar el codigo y pegarlo en mi codigo, pero me aparece un error: el grosor no está definido
+
+00:02:01.508 --> 00:02:05.064
+El grosor no es un verdadero valor
+
+00:02:05.064 --> 00:02:09.375
+yo quiero cambiar eso por lo que en realidad busco obtener
+
+00:02:09.375 --> 00:02:13.983
+eso puede ser con un numero o con un valor que se refiera a ese numero
+
+00:02:13.983 --> 00:02:16.329
+en este caso pondre un número
+
+00:02:16.329 --> 00:02:18.836
+ah ok, perfecto.
+
+00:02:18.836 --> 00:02:21.152
+podemos ajustarlo
+
+00:02:21.152 --> 00:02:23.329
+eso es un poco extremo y eso muy pequeño
+
+00:02:23.329 --> 00:02:24.675
+entonces: volver
+
+00:02:24.675 --> 00:02:26.397
+Genial
+
+00:02:26.397 --> 00:02:32.330
+Hay algo muy obvio faltando en la cara: la sonrisa
+
+00:02:32.330 --> 00:02:35.813
+entonces hago algo mas o menos asi
+
+00:02:38.087 --> 00:02:43.334
+Y puedo mirar a la sonrisa y pensar, bueno eso no luce como algo que pueda dibujar con "ellipse"
+
+00:02:43.334 --> 00:02:47.576
+O wide o rect, tiene esta curva en el
+
+00:02:47.576 --> 00:02:49.752
+pero no tiene algo dentro
+
+00:02:49.752 --> 00:02:52.309
+Entonces pienso: Debo chekear la documentación
+
+00:02:52.309 --> 00:02:55.697
+Para ver si hay otra manera de hacer una curva asi
+
+00:02:55.697 --> 00:02:58.466
+Entonce vemos la documentacion para seguir
+
+00:02:58.466 --> 00:03:02.475
+Nos desplazamos hacia abajo y vemos alrededor.
+
+00:03:02.475 --> 00:03:04.668
+Voy a chekear la categoria "Formas"
+
+00:03:04.668 --> 00:03:10.635
+A-ha la primera entrada es "Arc", que se usa para dibujar un arco
+
+00:03:10.635 --> 00:03:15.131
+Suena perfecto para realizar la sonrisa.
+
+00:03:15.131 --> 00:03:17.862
+Esta funcion tiene mas parametros
+
+00:03:17.862 --> 00:03:22.900
+Comenzare pegando la funcion aqui
+
+00:03:22.900 --> 00:03:28.632
+Y recuerda en este lugar van los parametros, y necesitamos reemplazarlos por...
+
+00:03:28.632 --> 00:03:33.306
+Ok, talvez x e y indican donde quiero comenzar
+
+00:03:33.306 --> 00:03:37.539
+Entonces veamos donde esta nuestro medio
+
+00:03:37.539 --> 00:03:40.213
+En 100 entonces comenzare con 150
+
+00:03:40.213 --> 00:03:44.467
+y entonces "y" es tal vez 250, luego "width"...
+
+00:03:44.467 --> 00:03:46.947
+..."width" suena a, ya sabes, lo ancho del arco,
+
+00:03:46.956 --> 00:03:50.665
+tal vez un poco menos que el ancho de la cara.
+
+00:03:50.665 --> 00:03:53.637
+Así que tal vez sea 200, y luego, la altura: "height"..."
+
+00:03:53.637 --> 00:03:58.071
+Tal vez "height" sea la altura desde lo alto del arco hasta el fondo,
+
+00:03:58.071 --> 00:04:02.186
+así que eso podría ser 50. "Start" y "Stop".
+
+00:04:02.756 --> 00:04:08.036
+Mmm... en realidad no sé que sean esos...
+
+00:04:08.039 --> 00:04:13.486
+Bueno, pues ahora estoy atorada, porque estoy viendo esta función y quiero usarla,
+
+00:04:13.486 --> 00:04:16.274
+pero en realidad yo no entiendo estos parámetros
+
+00:04:16.274 --> 00:04:20.983
+Bueno, afortunadamente, lo que puedes hacer es simplemente regresar a los documentos
+
+00:04:20.983 --> 00:04:25.054
+y presionar la función que te interesa,
+
+00:04:25.054 --> 00:04:31.220
+y al hacerlo aparecerá un programa que te mostrará cómo usarla,
+
+00:04:31.220 --> 00:04:33.930
+y te explicará los parámetros con mucho más detalle.
+
+00:04:33.934 --> 00:04:37.926
+Así que al ver esto, dice, sí,"x" es la coordenada en x
+
+00:04:37.926 --> 00:04:40.712
+del centro de la elipse que se deriva del arco.
+
+00:04:40.712 --> 00:04:43.856
+Bien, así que básicamente parece que para dibujar un arco tienes que pensar que pretendes
+
+00:04:43.856 --> 00:04:46.735
+dibujar una elipse, pero sólo una parte de ella,
+
+00:04:46.735 --> 00:04:49.210
+y calcular todo basado en esa idea.
+
+00:04:49.210 --> 00:04:53.417
+Así que la "x" y la "y" cambian el centro de la elipse que pretendemos que hacemos,
+
+00:04:53.417 --> 00:04:56.687
+"width" y "heigth" son el ancho y lo alto de la elipse pretendida,
+
+00:04:56.687 --> 00:04:59.337
+y "start" y "stop", esos son los que no sabía qué eran.
+
+00:04:59.337 --> 00:05:04.835
+"Start" y "stop" son el ángulo... ¡ah! Bien, el ángulo de inicio, el ángulo en el que inicia el arco, en grados,
+
+00:05:04.835 --> 00:05:07.551
+y "stop" es dónde termina, ¿cierto?
+
+00:05:07.551 --> 00:05:09.996
+Y podemos observar los ejemplos que han puesto aquí,
+
+00:05:09.996 --> 00:05:14.382
+así que dibujar el arco de 1 a 270, eso es probablemente este de aquí ¿cierto?,
+
+00:05:14.382 --> 00:05:19.017
+porque de 1 a 270 grados debería verse como esto.
+
+00:05:19.017 --> 00:05:23.141
+Vamos a probar cambiarlo. Aquí vamos, esto tiene sentido ¿cierto?, porque de 1 a 180,
+
+00:05:23.141 --> 00:05:26.704
+algo así es lo que queremos, porque queremos un medio arco...
+
+00:05:26.704 --> 00:05:30.865
+Bien, así que ahora creo que entiendo a "arc" lo suficientemente bien como para usarla.
+
+00:05:30.865 --> 00:05:32.549
+Regresemos a nuestra Carita Sonriente
+
+00:05:32.549 --> 00:05:40.216
+Muy bien, entonces vamos de 0 a 180 y...
+
+00:05:40.216 --> 00:05:43.426
+casi lo logramos. Mi valor de x está fuera porque no sabía
+
+00:05:43.426 --> 00:05:47.014
+que "x" era en realidad el centro de la elipse.
+
+00:05:47.014 --> 00:05:51.589
+y es un un poco amplia, así que vamos a hacer más pequeña.
+
+00:05:51.589 --> 00:05:56.673
+¡Jaja! Ahora sí que tengo un Smiley de verdad.
+
+00:05:56.673 --> 00:06:01.233
+Gracias al uso de la documentación fui capaz de hacer lo que quería mucho más rápido.
+
+00:06:01.233 --> 00:06:06.769
+Y ese es un objetivo cuando se programa: convertir tus ideas en realidad más rápido.
+
+00:06:06.769 --> 00:06:09.779
+Recuerda: ¡Usa el poder de la documentación!

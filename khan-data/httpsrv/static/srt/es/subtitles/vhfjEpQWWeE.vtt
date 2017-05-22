@@ -1,0 +1,742 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.380 --> 00:00:02.440
+En el último video, le presenté a lo
+
+00:00:02.440 --> 00:00:04.850
+probablemente la mayoría función de bizarro que te has
+
+00:00:04.850 --> 00:00:05.950
+se ha encontrado hasta ahora.
+
+00:00:05.950 --> 00:00:09.235
+Y esa fue la función delta de Dirac.
+
+00:00:13.530 --> 00:00:16.190
+Y definí para ser--y voy a hacer la
+
+00:00:16.190 --> 00:00:17.400
+versión desplazada del mismo.
+
+00:00:17.400 --> 00:00:21.970
+Esperemos que ya estás razonablemente familiarizado con ella.
+
+00:00:21.970 --> 00:00:25.380
+Delta de Dirac así de t-c.
+
+00:00:25.380 --> 00:00:31.370
+Podemos decir que es igual a 0, cuando t no es igual a c, lo
+
+00:00:31.370 --> 00:00:33.775
+es igual a 0 en todas partes, pero
+
+00:00:33.775 --> 00:00:35.450
+esencialmente COP hasta infinito.
+
+00:00:35.450 --> 00:00:37.470
+Y tenemos que tener cuidado con este infinito.
+
+00:00:37.470 --> 00:00:38.760
+Voy a escribirlo entre comillas.
+
+00:00:38.760 --> 00:00:40.970
+Salta hasta el infinito.
+
+00:00:40.970 --> 00:00:42.700
+E incluso vimos en el video anterior, es una especie de
+
+00:00:42.700 --> 00:00:45.100
+diferentes grados de infinito, porque todavía puede multiplicar
+
+00:00:45.100 --> 00:00:48.510
+Esto por otros números para obtener a mayor Dirac funciones delta
+
+00:00:48.510 --> 00:00:50.560
+cuando t es igual a c.
+
+00:00:50.560 --> 00:00:53.170
+Pero es más importante que este y este tipo de una
+
+00:00:53.170 --> 00:00:56.750
+pseudodefinition aquí, es la idea que cuando tomamos la
+
+00:00:56.750 --> 00:01:00.860
+integral, cuando tomamos el área bajo la curva la
+
+00:01:00.860 --> 00:01:04.839
+todo x o el eje de todo t, supongo que podríamos decir,
+
+00:01:04.839 --> 00:01:08.730
+Cuando tomamos el área debajo de esta curva y obviamente,
+
+00:01:08.730 --> 00:01:13.890
+igual a cero en todas partes excepto en t es igual a c, cuando nos
+
+00:01:13.890 --> 00:01:17.930
+tomar esta área, este es el punto importante, que el área
+
+00:01:17.930 --> 00:01:19.180
+es igual a 1.
+
+00:01:22.630 --> 00:01:25.830
+Así que esto es lo que quería decir por pseudoinfinity, porque si me
+
+00:01:25.830 --> 00:01:32.730
+tiene 2 veces la función delta de Dirac, y si estoy tomando
+
+00:01:32.730 --> 00:01:37.140
+el área bajo la curva de la, de 2 veces la Dirac
+
+00:01:37.140 --> 00:01:41.370
+función de Delta t menos dt c, debe ser igual a 2
+
+00:01:41.370 --> 00:01:46.410
+función de la zona de debajo de la delta de Dirac para tiempos--2
+
+00:01:46.410 --> 00:01:50.570
+tiempos de menos infinito a infinito de la función delta
+
+00:01:50.570 --> 00:01:55.120
+desplazado por dt c, que es de sólo 2 veces--ya mostramos
+
+00:01:55.120 --> 00:01:58.090
+usted, solo me dijo que, por definición, esto es 1, por lo que este
+
+00:01:58.090 --> 00:02:00.060
+será igual a 2.
+
+00:02:00.060 --> 00:02:04.620
+Así que si pongo un 2 aquí, este infinito tendrá que ser dos veces
+
+00:02:04.620 --> 00:02:07.370
+como alta, por lo que la zona es ahora 2.
+
+00:02:07.370 --> 00:02:09.870
+Por eso puse ese infinito en paréntesis.
+
+00:02:09.870 --> 00:02:11.180
+Pero es una interesante función.
+
+00:02:11.180 --> 00:02:14.100
+Hablé al final del último vídeo que puede
+
+00:02:14.100 --> 00:02:17.720
+ayuda de repente, cosas de modelo ese tipo de cosas de jarra
+
+00:02:17.720 --> 00:02:21.970
+pero imparten una cantidad fija de impulso en algo y un
+
+00:02:21.970 --> 00:02:24.010
+cantidad fija de cambio en el impulso.
+
+00:02:24.010 --> 00:02:26.660
+Y te entendemos un poco más en el futuro.
+
+00:02:26.660 --> 00:02:30.300
+Pero vamos a tipo de obtener las herramientas matemáticas completamente
+
+00:02:30.300 --> 00:02:30.720
+entendido.
+
+00:02:30.720 --> 00:02:33.590
+Y vamos a intentar averiguar qué la función delta de Dirac
+
+00:02:33.590 --> 00:02:36.200
+Cuando multiplican, lo que hace a la de Laplace
+
+00:02:36.200 --> 00:02:38.550
+transformación cuando lo multiplicamos veces alguna función.
+
+00:02:38.550 --> 00:02:42.105
+Así que vamos a decir que tengo mi función delta de Dirac y voy
+
+00:02:42.105 --> 00:02:43.170
+a cambio.
+
+00:02:43.170 --> 00:02:44.560
+Es un poco más interesante.
+
+00:02:44.560 --> 00:02:46.480
+Y si desea unshift ella, sólo decir, OK,
+
+00:02:46.480 --> 00:02:47.440
+bien, c es igual a 0.
+
+00:02:47.440 --> 00:02:49.030
+¿Qué sucede cuando c es igual a 0?
+
+00:02:49.030 --> 00:02:52.520
+Y voy a cambiarla y multiplicar algunas veces
+
+00:02:52.520 --> 00:02:54.720
+función arbitraria f de t.
+
+00:02:54.720 --> 00:02:57.590
+Si quería averiguar la transformada de Laplace de sólo el
+
+00:02:57.590 --> 00:02:59.800
+función delta por sí solo, podría decir f de
+
+00:02:59.800 --> 00:03:01.390
+t es igual a 1.
+
+00:03:01.390 --> 00:03:08.020
+Así que vamos a tomar nuestro transformada de Laplace de esto.
+
+00:03:08.020 --> 00:03:10.220
+Y sólo podemos utilizar la definición de la Laplace
+
+00:03:10.220 --> 00:03:16.740
+transformar, así que esto es igual al área de 0 a infinito,
+
+00:03:16.740 --> 00:03:21.510
+o lo que podríamos llamarlo la integral de 0 a infinito de
+
+00:03:21.510 --> 00:03:24.340
+e negativo--que sólo una parte de la Laplace transformar
+
+00:03:24.340 --> 00:03:27.095
+definición--veces esta cosa--y sólo te escribo
+
+00:03:27.095 --> 00:03:31.080
+en este orden--f de tiempos de t veces
+
+00:03:31.080 --> 00:03:33.960
+nuestra función delta de Dirac.
+
+00:03:33.960 --> 00:03:38.600
+Delta t-c y el tiempo dt.
+
+00:03:41.360 --> 00:03:43.090
+Ahora, aquí voy a hacer un poco de
+
+00:03:43.090 --> 00:03:44.670
+un argumento intuitivo.
+
+00:03:44.670 --> 00:03:47.760
+Mucho de las matemáticas que hacemos es una especie de--especialmente si usted
+
+00:03:47.760 --> 00:03:50.410
+quiero ser muy riguroso y formal, la delta de Dirac
+
+00:03:50.410 --> 00:03:53.660
+función comienza a romper muchas herramientas que puede
+
+00:03:53.660 --> 00:03:55.170
+no han comprendido se descomponen, pero creo que
+
+00:03:55.170 --> 00:03:56.920
+Intuitivamente, todavía podemos trabajar con él.
+
+00:03:56.920 --> 00:04:00.425
+Así que voy a resolver esta integral para usted, intuitivamente,
+
+00:04:00.425 --> 00:04:02.990
+y creo que voy a hacer algún sentido.
+
+00:04:02.990 --> 00:04:05.380
+Así que vamos a sacar esto.
+
+00:04:05.380 --> 00:04:08.790
+Quiero llamar a esto, lo que estamos intentando hacer.
+
+00:04:08.790 --> 00:04:10.310
+Así que permítanme dibujar lo que estamos tratando de tomar
+
+00:04:10.310 --> 00:04:11.375
+la integral de.
+
+00:04:11.375 --> 00:04:13.600
+Y sólo nos preocupamos de cero a infinito, por lo que sólo podrá hacerlo
+
+00:04:13.600 --> 00:04:14.610
+de cero a infinito.
+
+00:04:14.610 --> 00:04:17.820
+Y te supongo que c es mayor que cero, que el
+
+00:04:17.820 --> 00:04:19.560
+función delta aparece algún lugar en
+
+00:04:19.560 --> 00:04:21.870
+el t-eje positivo.
+
+00:04:21.870 --> 00:04:25.620
+¿Qué es esta primera parte va a parecer?
+
+00:04:25.620 --> 00:04:27.610
+¿Qué va a parecer? e negativo
+
+00:04:27.610 --> 00:04:28.780
+¿St veces f de t?
+
+00:04:28.780 --> 00:04:29.220
+No sé.
+
+00:04:29.220 --> 00:04:31.460
+Va a ser de alguna función.
+e a la menos st
+
+00:04:31.460 --> 00:04:34.320
+comienza en 1 y gotas hacia abajo, pero nosotros estamos multiplicando lo veces
+
+00:04:34.320 --> 00:04:38.270
+alguna función arbitraria, por lo que sólo te llamo como este.
+
+00:04:38.270 --> 00:04:40.510
+Tal vez se ve algo como esto.
+
+00:04:40.510 --> 00:04:45.570
+Este derecho está aquí e negativo st veces f de t.
+
+00:04:45.570 --> 00:04:48.860
+Y la f de t es qué tipo de da su forma arbitraria.
+
+00:04:48.860 --> 00:04:50.200
+Bastante justo.
+
+00:04:50.200 --> 00:04:53.110
+Ahora, vamos a graficar nuestra función delta de Dirac.
+
+00:04:53.110 --> 00:04:57.980
+Con cero en todas partes excepto derecho en c, en c derecha
+
+00:04:57.980 --> 00:05:01.840
+allí, salta hasta infinitamente alto, pero sólo sacamos un
+
+00:05:01.840 --> 00:05:05.540
+flecha de altura 1 para mostrar que su área es de 1.
+
+00:05:05.540 --> 00:05:07.260
+O sea, normalmente cuando usted gráfico cosas no dibujar
+
+00:05:07.260 --> 00:05:10.110
+flechas, pero esta flecha muestra el área bajo esta
+
+00:05:10.110 --> 00:05:12.290
+es infinitamente alto 1.
+
+00:05:12.290 --> 00:05:14.260
+Por lo tanto hacemos un 1 allí.
+
+00:05:14.260 --> 00:05:16.630
+Así que si multiplicamos esto, nos preocupamos por el área bajo esta
+
+00:05:16.630 --> 00:05:17.410
+toda la cosa.
+
+00:05:17.410 --> 00:05:21.120
+Cuando multiplicamos estas dos funciones, cuando multiplicamos
+
+00:05:21.120 --> 00:05:24.050
+este momento esto veces la función delta, esto es--deje
+
+00:05:24.050 --> 00:05:24.570
+me escribe esto.
+
+00:05:24.570 --> 00:05:27.800
+Esta es la función de delta desplazada a c.
+
+00:05:27.800 --> 00:05:30.950
+Si se multiplican que tiempos, ¿qué obtengo?
+
+00:05:30.950 --> 00:05:34.060
+Este es el tipo de la intuición clave aquí.
+
+00:05:34.060 --> 00:05:37.410
+Permítanme volver a dibujar mis ejes.
+
+00:05:37.410 --> 00:05:41.500
+Déjame ver si puedo hacerlo un poco más liso.
+
+00:05:41.500 --> 00:05:44.930
+No me juzgues por la rectitud de mis ejes.
+
+00:05:44.930 --> 00:05:46.260
+Eso es t.
+
+00:05:46.260 --> 00:05:48.480
+Entonces, ¿qué pasa cuando multiplican estos dos?
+
+00:05:48.480 --> 00:05:52.480
+En todas partes, cuando t es igual a nada que no sea c, el
+
+00:05:52.480 --> 00:05:55.570
+Función delta de Dirac es cero.
+
+00:05:55.570 --> 00:05:57.290
+Por lo que es cero veces nada.
+
+00:05:57.290 --> 00:05:58.560
+No me importa lo que va a hacer esta función, es
+
+00:05:58.560 --> 00:05:59.920
+va a ser cero.
+
+00:05:59.920 --> 00:06:02.760
+Así que va a ser cero everywhere, excepto algo
+
+00:06:02.760 --> 00:06:07.050
+interesante ocurre en t es igual a c.
+
+00:06:07.050 --> 00:06:10.110
+En t es igual a c, ¿cuál es el valor de la función?
+
+00:06:10.110 --> 00:06:12.000
+Bueno, va a ser el valor de
+
+00:06:12.000 --> 00:06:14.070
+la función delta de Dirac.
+
+00:06:14.070 --> 00:06:17.760
+Va a ser las Dirac delta función veces cualquier
+
+00:06:17.760 --> 00:06:20.030
+Esta es la altura.
+
+00:06:20.030 --> 00:06:23.410
+Esto va a ser este punto aquí o este derecho
+
+00:06:23.410 --> 00:06:26.530
+allí, en ese punto.
+
+00:06:26.530 --> 00:06:30.030
+Esto va a ser esta función evaluada en c.
+
+00:06:30.030 --> 00:06:33.830
+Te marcan a sus derecho aquí en el eje y, o en la f de t,
+
+00:06:33.830 --> 00:06:34.950
+como quiera llamarlo.
+
+00:06:34.950 --> 00:06:39.765
+Esto va a ser negativo sc veces f c.
+
+00:06:39.765 --> 00:06:42.970
+Todo lo que estoy haciendo es simplemente estoy evaluando esta función en c,
+
+00:06:42.970 --> 00:06:45.150
+ese es el punto justo ahí.
+
+00:06:45.150 --> 00:06:48.180
+Así que si usted tomar este punto, que es sólo un número, se
+
+00:06:48.180 --> 00:06:51.840
+podría ser de 5, 5 veces esto, sólo obtendrá 5 veces
+
+00:06:51.840 --> 00:06:53.140
+la función delta de Dirac.
+
+00:06:53.140 --> 00:06:54.540
+O en este caso, no es 5.
+
+00:06:54.540 --> 00:06:55.930
+Es esta cosa poco más abstracta.
+
+00:06:55.930 --> 00:06:58.660
+Sólo pude llamar así.
+
+00:06:58.660 --> 00:07:02.080
+Cuando multiplique esta cosa veces mi función delta poco
+
+00:07:02.080 --> 00:07:04.260
+allí, me sale esto.
+
+00:07:04.260 --> 00:07:08.560
+La altura, es una función de delta, pero se ajusta ahora.
+
+00:07:08.560 --> 00:07:11.420
+Ha escalado, por lo que ahora mi nueva cosa va
+
+00:07:11.420 --> 00:07:12.950
+a este aspecto.
+
+00:07:12.950 --> 00:07:17.080
+Si solo multiplicar que tiempos, esencialmente consigo e
+
+00:07:17.080 --> 00:07:20.820
+la sc menos veces f c.
+
+00:07:20.820 --> 00:07:23.240
+Esto puede parecer alguna función de fantasía, pero es sólo
+
+00:07:23.240 --> 00:07:25.600
+un número cuando lo consideramos en términos de t.
+
+00:07:25.600 --> 00:07:29.240
+s, se convierte en algo cuando entramos en el mundo de Laplace,
+
+00:07:29.240 --> 00:07:32.250
+pero desde l punto de vista, es sólo una constante.
+
+00:07:32.250 --> 00:07:34.100
+Todos estos son solo constantes, por lo que esto podría como
+
+00:07:34.100 --> 00:07:35.430
+ser bien sólo 5.
+
+00:07:35.430 --> 00:07:41.060
+Por lo que es esta constante veces mi función delta de Dirac, veces
+
+00:07:41.060 --> 00:07:43.360
+Delta t menos c.
+
+00:07:43.360 --> 00:07:46.600
+Cuando multiplique esa cosa veces esa cosa, todos me quedo
+
+00:07:46.600 --> 00:07:48.680
+es esta cosa.
+
+00:07:48.680 --> 00:07:51.315
+Y esta altura todavía va a ser infinitamente alto, pero
+
+00:07:51.315 --> 00:07:57.070
+es infinitamente alta escala de tal manera que su área es
+
+00:07:57.070 --> 00:07:59.130
+va a no ser 1.
+
+00:07:59.130 --> 00:08:00.500
+Y te voy a mostrar a usted.
+
+00:08:00.500 --> 00:08:02.850
+¿Cuál es la integral de esta cosa?
+
+00:08:02.850 --> 00:08:04.980
+Tomando la integral de esta cosa de menos infinito a
+
+00:08:04.980 --> 00:08:07.870
+infinito, ya que esta cosa es esto, debería ser el
+
+00:08:07.870 --> 00:08:09.380
+lo mismo que tomar la integral de esta cosa de
+
+00:08:09.380 --> 00:08:10.710
+menos infinito a infinito.
+
+00:08:10.710 --> 00:08:12.220
+Así que vamos a hacer eso.
+
+00:08:12.220 --> 00:08:13.500
+En realidad, no tenemos que hacerlo desde menos infinito.
+
+00:08:13.500 --> 00:08:15.220
+Dije de cero a infinito.
+
+00:08:15.220 --> 00:08:19.850
+Así que si tomamos de cero a infinito, lo que estoy diciendo es
+
+00:08:19.850 --> 00:08:21.390
+Tomando esta integral es equivalente
+
+00:08:21.390 --> 00:08:23.160
+para tomar esta integral.
+
+00:08:23.160 --> 00:08:31.260
+E tan negativo sc f c veces mi función delta t
+
+00:08:31.260 --> 00:08:34.270
+menos c dt.
+
+00:08:34.270 --> 00:08:37.179
+Ahora, esta cosa aquí, quiero dejar esto muy claro,
+
+00:08:37.179 --> 00:08:41.280
+Yo estoy diciendo que esto es equivalente a esto.
+
+00:08:41.280 --> 00:08:44.530
+Porque en todas partes, la función delta ceros esto
+
+00:08:44.530 --> 00:08:47.300
+función, por lo que sólo se preocupan por esta función, o e a
+
+00:08:47.300 --> 00:08:50.430
+el menos st f de t cuando t es igual a c.
+
+00:08:50.430 --> 00:08:52.810
+Y por eso fuimos capaces de convertirlo en una constante.
+
+00:08:52.810 --> 00:08:54.920
+Pero ya que es una constante, podemos llevarlo fuera de la
+
+00:08:54.920 --> 00:08:59.380
+integral, y por lo que es igual a--voy a ir hacia atrás
+
+00:08:59.380 --> 00:09:01.860
+aquí sólo para tipo de ahorrar espacio y todavía te dan estos
+
+00:09:01.860 --> 00:09:03.120
+cosas para mirar.
+
+00:09:03.120 --> 00:09:07.690
+Si tomamos a las constantes desde dentro de la integral,
+
+00:09:07.690 --> 00:09:14.540
+obtenemos e negativo sc veces f c veces la integral de
+
+00:09:14.540 --> 00:09:21.650
+0 a infinidad de f de t menos c dt.
+
+00:09:21.650 --> 00:09:23.830
+Oh lo siento, no f de t-c.
+
+00:09:27.520 --> 00:09:28.370
+Esto no es una f.
+
+00:09:28.370 --> 00:09:29.380
+Tengo que ser muy cuidadoso.
+
+00:09:29.380 --> 00:09:31.000
+Se trata de un delta.
+
+00:09:31.000 --> 00:09:33.160
+Permítanme hacer eso en un color diferente.
+
+00:09:33.160 --> 00:09:35.960
+Sacó de allí los términos constantes, y va a ser un
+
+00:09:35.960 --> 00:09:39.710
+Delta t menos c dt.
+
+00:09:42.410 --> 00:09:43.760
+Let me get el color correcto.
+
+00:09:46.350 --> 00:09:49.300
+Ahora, ¿qué es esta cosa por definición?
+
+00:09:49.300 --> 00:09:50.370
+Esta cosa es 1.
+
+00:09:50.370 --> 00:09:52.420
+O sea, podríamos poner desde menos infinito a infinito,
+
+00:09:52.420 --> 00:09:53.150
+no importa.
+
+00:09:53.150 --> 00:09:55.170
+Es el único momento donde tiene cualquier área bajo c.
+
+00:09:55.170 --> 00:09:57.110
+Así que esta cosa es igual a 1.
+
+00:09:57.110 --> 00:10:01.390
+Así que este derecho todo integral que se ha reducido a esto
+
+00:10:01.390 --> 00:10:04.040
+derecho, porque esto es justo igual a 1.
+
+00:10:04.040 --> 00:10:07.460
+Por lo tanto la Laplace de nuestra función delta desplazado
+
+00:10:07.460 --> 00:10:13.060
+veces alguna otra función es igual a e a la menos sc
+
+00:10:13.060 --> 00:10:15.200
+veces f c.
+
+00:10:15.200 --> 00:10:18.160
+Permítanme vuelva a escribir aquí.
+
+00:10:18.160 --> 00:10:20.650
+Me permito escribir todos a la vez.
+
+00:10:20.650 --> 00:10:25.590
+Por lo tanto la Laplace de nuestra función delta desplazado t
+
+00:10:25.590 --> 00:10:32.900
+menos c veces algunos f función de t, es igual a e
+
+00:10:32.900 --> 00:10:35.570
+al menos c.
+
+00:10:35.570 --> 00:10:38.420
+Esencialmente, sólo que estamos evaluando e a la menos st
+
+00:10:38.420 --> 00:10:39.240
+evalúan en c.
+
+00:10:39.240 --> 00:10:44.110
+Tan e para los cs menos veces f c.
+
+00:10:44.110 --> 00:10:47.420
+Esencialmente sólo estamos evaluando estas cosas a c.
+
+00:10:47.420 --> 00:10:48.680
+Esto es lo que es igual a.
+
+00:10:48.680 --> 00:10:51.160
+Así que de esto podemos obtener un montón de cosas interesantes.
+
+00:10:51.160 --> 00:10:55.080
+¿Cuál es la transformada de Laplace--en realidad, lo que es
+
+00:10:55.080 --> 00:10:57.490
+la transformada de Laplace de sólo la llanura
+
+00:10:57.490 --> 00:11:00.250
+¿función delta vainilla?
+
+00:11:00.250 --> 00:11:05.880
+Bueno, en este caso, tenemos es igual a 0 c y f de t es
+
+00:11:05.880 --> 00:11:06.880
+igual a 1.
+
+00:11:06.880 --> 00:11:08.340
+Es sólo un término constante.
+
+00:11:08.340 --> 00:11:11.090
+Así que si lo hacemos, entonces la Laplace de esto
+
+00:11:11.090 --> 00:11:16.095
+cosa sólo va a ser e negativo 0 veces s veces 1,
+
+00:11:16.095 --> 00:11:18.040
+que es simplemente igual a 1.
+
+00:11:18.040 --> 00:11:21.740
+Así que la transformada de Laplace de nuestra función delta es 1, que
+
+00:11:21.740 --> 00:11:23.850
+es una cosa agradable limpieza para averiguar.
+
+00:11:23.850 --> 00:11:26.270
+Y entonces si queríamos averiguar sólo el Laplace
+
+00:11:26.270 --> 00:11:28.530
+transformación de nuestra función desplazado, el Laplace
+
+00:11:28.530 --> 00:11:35.870
+transformar nuestra función delta desplazado, esto es sólo una
+
+00:11:35.870 --> 00:11:37.813
+caso especial donde f de t es igual a 1.
+
+00:11:40.440 --> 00:11:42.870
+Podríamos escribir momento 1, donde f t es igual a 1.
+
+00:11:42.870 --> 00:11:47.810
+Así que esto va a ser igual a e negativo cs veces f
+
+00:11:47.810 --> 00:11:51.840
+de c, pero f es simplemente una constante, f es sólo 1 aquí.
+
+00:11:51.840 --> 00:11:55.670
+Así que es siempre 1, o es justa e para los cs de la mina.
+
+00:11:55.670 --> 00:12:01.550
+Con tan solo eso, una especie de evaluación visual de
+
+00:12:01.550 --> 00:12:03.820
+la integral, hemos podido averiguar la Laplace
+
+00:12:03.820 --> 00:12:07.850
+transformaciones para un montón de diferentes situaciones que implican
+
+00:12:07.850 --> 00:12:09.510
+la función delta de Dirac.
+
+00:12:09.510 --> 00:12:12.400
+De todas formas, espero que usted encontró que razonablemente útil.

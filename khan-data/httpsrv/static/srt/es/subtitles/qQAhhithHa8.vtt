@@ -1,0 +1,597 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.590 --> 00:00:03.140
+Cuando lo dejamos en el último video, nos fuimos encontrando la
+
+00:00:03.140 --> 00:00:06.580
+superficie de un toro, o la forma de un Rosco.
+
+00:00:06.580 --> 00:00:09.210
+Y hacíamos tomando una integral de superficie.
+
+00:00:09.210 --> 00:00:11.920
+Y para tener una superficie integral, teníamos que encontrar el
+
+00:00:11.920 --> 00:00:15.310
+parcial de nuestra parametrización con respecto a s y la
+
+00:00:15.310 --> 00:00:18.920
+parcial con respecto a t, y ahora estamos listos para tomar
+
+00:00:18.920 --> 00:00:19.910
+el producto vectorial.
+
+00:00:19.910 --> 00:00:21.940
+Y, a continuación, podemos tomar la magnitud del producto Cruz.
+
+00:00:21.940 --> 00:00:24.810
+Y, a continuación, realmente podemos tomar esta integral doble y
+
+00:00:24.810 --> 00:00:26.820
+averiguar la superficie.
+
+00:00:26.820 --> 00:00:28.670
+Así que vamos a hacerlo paso a paso.
+
+00:00:28.670 --> 00:00:31.360
+Aquí podríamos tomar el producto cruzado, que no es
+
+00:00:31.360 --> 00:00:33.330
+una operación no peluda.
+
+00:00:33.330 --> 00:00:36.150
+Por eso no ves muchas integrales de superficie realmente obtener
+
+00:00:36.150 --> 00:00:38.400
+hecho, o muchos ejemplos de hecho.
+
+00:00:38.400 --> 00:00:42.220
+Vamos a tomar el producto cruzado de estos dos becarios.
+
+00:00:42.220 --> 00:00:46.560
+Así que el parcial de r con respecto a s, cruzó con--
+
+00:00:46.560 --> 00:00:50.720
+en magenta--el parcial de r con respecto a t.
+
+00:00:50.720 --> 00:00:52.610
+Se trata de un poco de revisión de la Cruz
+
+00:00:52.610 --> 00:00:53.390
+productos para usted.
+
+00:00:53.390 --> 00:00:55.070
+Podría recordar que esto va a ser igual
+
+00:00:55.070 --> 00:00:57.660
+al determinante.
+
+00:00:57.660 --> 00:01:00.360
+Voy a escribir los vectores de unidad hasta aquí.
+
+00:01:00.360 --> 00:01:05.240
+La primera fila es i, j y k.
+
+00:01:05.240 --> 00:01:07.630
+Y, a continuación, las siguiente 2 filas van a ser--permítanme hacer eso
+
+00:01:07.630 --> 00:01:13.760
+ese color amarillo--las próximos 2 filas van a ser los
+
+00:01:13.760 --> 00:01:15.460
+componentes de estos chicos.
+
+00:01:15.460 --> 00:01:18.670
+Así que permítanme copiar y pegar.
+
+00:01:18.670 --> 00:01:20.740
+Usted tiene razón.
+
+00:01:20.740 --> 00:01:23.620
+Copiar y pegar.
+
+00:01:23.620 --> 00:01:26.050
+Poner a ese chico allí.
+
+00:01:26.050 --> 00:01:28.930
+Entonces ahí tienes este compañero.
+
+00:01:28.930 --> 00:01:30.140
+Copiar y pegar.
+
+00:01:30.140 --> 00:01:31.510
+Lo puso allí.
+
+00:01:31.510 --> 00:01:34.130
+Y luego tienes a este chico aquí.
+
+00:01:34.130 --> 00:01:35.350
+Esto nos ahorrará tiempo.
+
+00:01:35.350 --> 00:01:37.160
+Copiar y pegar.
+
+00:01:37.160 --> 00:01:38.900
+Lo puso allí.
+
+00:01:38.900 --> 00:01:42.440
+Entonces la última fila va a ser componentes de este chico.
+
+00:01:42.440 --> 00:01:44.260
+Copiar y pegar.
+
+00:01:44.260 --> 00:01:46.720
+Ponerlo aquí.
+
+00:01:46.720 --> 00:01:48.680
+Casi todo hecho.
+
+00:01:48.680 --> 00:01:51.740
+Este chico--copiar y pegar.
+
+00:01:51.740 --> 00:01:52.870
+Lo puso allí.
+
+00:01:52.870 --> 00:01:54.890
+Asegúrese de que sabemos que estos son términos independientes.
+
+00:01:54.890 --> 00:01:57.280
+Y por último, no tenemos que copiar y pegar, pero sólo
+
+00:01:57.280 --> 00:01:59.430
+ya lo hicimos para todos los otros términos, podrá hacerlo
+
+00:01:59.430 --> 00:02:01.490
+para 0, así.
+
+00:02:01.490 --> 00:02:04.010
+Por lo tanto el producto cruzado de estos es literalmente el determinante
+
+00:02:04.010 --> 00:02:06.275
+de esta matriz aquí.
+
+00:02:11.350 --> 00:02:13.600
+Y así, igual que un poco de un repaso de la toma
+
+00:02:13.600 --> 00:02:17.490
+determinantes, esto va a ser que el tiempo de la subdeterminante
+
+00:02:17.490 --> 00:02:20.700
+aquí, si cruzas esta columna y la fila.
+
+00:02:20.700 --> 00:02:26.350
+Así que va a ser igual a i--que no está acostumbrado a ver
+
+00:02:26.350 --> 00:02:28.770
+el vector unitario escrito primero, pero nosotros podemos cambiar el orden de
+
+00:02:28.770 --> 00:02:32.330
+más tarde--veces veces la submatrix aquí.
+
+00:02:32.330 --> 00:02:34.290
+Si cruzas esta columna y la fila.
+
+00:02:34.290 --> 00:02:38.370
+Así va a ser este término veces 0--que es justo
+
+00:02:38.370 --> 00:02:42.490
+0--menos este término veces ese término.
+
+00:02:42.490 --> 00:02:45.930
+Por lo tanto menos este veces término este término - los signos negativos son
+
+00:02:45.930 --> 00:02:47.520
+va a cancelar, así que esto será positivo.
+
+00:02:47.520 --> 00:02:50.510
+Tan sólo va a ser que veces este término veces esto
+
+00:02:50.510 --> 00:02:52.240
+plazo, sin derecho hay un signo negativo.
+
+00:02:52.240 --> 00:02:58.850
+Por lo tanto veces este término, que es un coseno de s.
+
+00:02:58.850 --> 00:03:01.630
+Es verdad que término veces ese término, menos ese término
+
+00:03:01.630 --> 00:03:03.230
+veces término, pero los negativos cancelan.
+
+00:03:03.230 --> 00:03:04.370
+Veces que es 0.
+
+00:03:04.370 --> 00:03:05.100
+Eso es cómo podemos hacer esto.
+
+00:03:05.100 --> 00:03:14.230
+Es un coseno de s veces b plus un coseno de s--iré sólo todos
+
+00:03:14.230 --> 00:03:18.140
+Cambie al mismo color--seno de t.
+
+00:03:18.140 --> 00:03:20.700
+Así que tenemos nuestro i término para el producto cruzado.
+
+00:03:20.700 --> 00:03:24.190
+Ahora va a ser menos j--recuerda cuando llevas la
+
+00:03:24.190 --> 00:03:27.590
+determinante, realmente tiene este tipo de, tienes que
+
+00:03:27.590 --> 00:03:29.060
+Junta de comprobador de conmutación sines.
+
+00:03:29.060 --> 00:03:34.370
+Ahora va a ser menos j veces--y tachar
+
+00:03:34.370 --> 00:03:38.390
+fila y la columna--y va a ser este término
+
+00:03:38.390 --> 00:03:43.000
+Este término--que es simplemente 0--menos este término
+
+00:03:43.000 --> 00:03:44.160
+veces este término.
+
+00:03:44.160 --> 00:03:46.770
+Y una vez más, cuando tienes--oh, lo siento.
+
+00:03:46.770 --> 00:03:49.020
+Cuando cruzan esta columna y la fila.
+
+00:03:49.020 --> 00:03:54.750
+Así que va a ser ese chico veces aquel chico, menos
+
+00:03:54.750 --> 00:03:58.230
+Este chico veces este chico.
+
+00:03:58.230 --> 00:04:00.690
+Por lo tanto va a ser menos este chico veces este chico--por lo que es
+
+00:04:00.690 --> 00:04:03.440
+va a ser--me deja hacer en amarillo.
+
+00:04:03.440 --> 00:04:11.980
+Hasta los momentos negativos negativos ese tio, b más un coseno de s
+
+00:04:11.980 --> 00:04:16.680
+coseno de t veces este chico, un coseno de s.
+
+00:04:19.210 --> 00:04:21.574
+Nosotros te limpieza en un poco.
+
+00:04:21.574 --> 00:04:24.420
+Pues esto podrá limpiar, y verá esta negativa y
+
+00:04:24.420 --> 00:04:25.500
+negativo se cancela.
+
+00:04:25.500 --> 00:04:27.520
+Sólo estamos multiplicando todo.
+
+00:04:27.520 --> 00:04:29.800
+Y por último, el término k.
+
+00:04:29.800 --> 00:04:35.470
+Lo más--voy a ir a la siguiente línea--plus k veces--tachar
+
+00:04:35.470 --> 00:04:38.800
+esa fila, columna--va a ser el momento que,
+
+00:04:38.800 --> 00:04:42.340
+menos que el tiempo.
+
+00:04:42.340 --> 00:04:44.990
+Por lo que parece ser una especie de algo bestial.
+
+00:04:44.990 --> 00:04:46.520
+Pero creo que si damos paso a paso, se
+
+00:04:46.520 --> 00:04:47.390
+no debería ser demasiado malo.
+
+00:04:47.390 --> 00:04:48.300
+Así veces.
+
+00:04:48.300 --> 00:04:51.255
+Los negativos van a cancelar.
+
+00:04:51.255 --> 00:04:56.270
+Por lo tanto este término aquí va a ser un seno
+
+00:04:56.270 --> 00:04:59.770
+de t, seno de s.
+
+00:04:59.770 --> 00:05:05.960
+Y, a continuación, este término correcto aquí es b además un
+
+00:05:05.960 --> 00:05:09.375
+coseno del seno s de t.
+
+00:05:13.210 --> 00:05:15.490
+Así es que veces--y los negativos cancelados
+
+00:05:15.490 --> 00:05:17.890
+es por eso no puso ningún negativos aquí--menos
+
+00:05:17.890 --> 00:05:19.370
+este momento esto.
+
+00:05:19.370 --> 00:05:22.000
+Hasta este momento esto va a ser un número negativo.
+
+00:05:22.000 --> 00:05:23.660
+Pero si usted toma el negativo de la misma, se va a
+
+00:05:23.660 --> 00:05:24.480
+ser un valor positivo.
+
+00:05:24.480 --> 00:05:31.470
+Por lo tanto va a ser más un coseno de t
+
+00:05:31.470 --> 00:05:34.780
+seno de s veces.
+
+00:05:34.780 --> 00:05:40.710
+Veces b más un coseno de coseno de s de t.
+
+00:05:40.710 --> 00:05:42.850
+Ahora ves por qué no ves muchos ejemplos de superficie
+
+00:05:42.850 --> 00:05:44.420
+integrales está haciendo.
+
+00:05:44.420 --> 00:05:49.070
+Vamos a ver si tenemos esto podemos limpiar un poco, especialmente si
+
+00:05:49.070 --> 00:05:51.930
+nos podemos limpiar este último término un poco.
+
+00:05:51.930 --> 00:05:54.660
+Así que vamos a ver qué podemos hacer para simplificar la TI.
+
+00:05:54.660 --> 00:05:55.985
+Así que nuestro primer mandato.
+
+00:05:55.985 --> 00:05:58.040
+Así que vamos a simplemente multiplicar, supongo que es el
+
+00:05:58.040 --> 00:05:59.510
+manera más fácil de hacerlo.
+
+00:05:59.510 --> 00:06:02.770
+En realidad, el primer paso más fácil sólo sería factor fuera
+
+00:06:02.770 --> 00:06:04.960
+el b además un coseno de s.
+
+00:06:04.960 --> 00:06:07.680
+Debido a que es en cada término. b más un coseno de s.
+
+00:06:07.680 --> 00:06:09.530
+b más un coseno de s.
+
+00:06:09.530 --> 00:06:12.480
+b plus un coseno de b s. plus un coseno de s.
+
+00:06:12.480 --> 00:06:13.710
+Así que vamos a sólo factor fuera.
+
+00:06:13.710 --> 00:06:20.310
+Así que esta cosa todo loca puede escribirse como b más un coseno
+
+00:06:20.310 --> 00:06:24.370
+s--lo hemos factorizado se fuera--veces--.
+
+00:06:24.370 --> 00:06:27.140
+Voy a poner en algunos soportes aquí, así que no multiplicar
+
+00:06:27.140 --> 00:06:28.790
+el tiempo de cada componente.
+
+00:06:28.790 --> 00:06:31.125
+Por lo tanto el componente, cuando el factor de este chico, que va
+
+00:06:31.125 --> 00:06:34.310
+ser un coseno de seno s de t.
+
+00:06:34.310 --> 00:06:36.480
+Me permito escribir en verde.
+
+00:06:36.480 --> 00:06:46.770
+Por lo tanto va a ser un coseno de seno s de t veces me--eres
+
+00:06:46.770 --> 00:06:48.700
+no acostumbrado a ver la i antes, así que voy a escribir
+
+00:06:48.700 --> 00:06:53.290
+la i aquí--y luego más--.
+
+00:06:53.290 --> 00:06:56.170
+Nos estamos factorización de este chico, por lo que sólo vas a ser
+
+00:06:56.170 --> 00:06:58.750
+izquierda con coseno de t, un coseno de s.
+
+00:06:58.750 --> 00:07:06.350
+O podemos escribir como un coseno de coseno de s de t--que
+
+00:07:06.350 --> 00:07:09.050
+derecho, simplemente ponerlo en el mismo orden que--
+
+00:07:09.050 --> 00:07:12.110
+veces la unidad vector j.
+
+00:07:12.110 --> 00:07:15.590
+Y luego cuando hemos incluido este chico fuera--así que no vamos
+
+00:07:15.590 --> 00:07:21.290
+para ver que o que ya.
+
+00:07:21.290 --> 00:07:24.360
+Cuando el factor fuera, podemos multiplicar este
+
+00:07:24.360 --> 00:07:25.990
+¿fuera, y lo que obtenemos?
+
+00:07:25.990 --> 00:07:29.140
+Por lo tanto en verde, voy a escribir de nuevo.
+
+00:07:29.140 --> 00:07:32.220
+Así que si multiplicar seno de t veces esta cosa aquí--
+
+00:07:32.220 --> 00:07:35.500
+porque eso es todo lo que hemos dejado después nos factor fuera esto
+
+00:07:35.500 --> 00:07:44.550
+¿cosa--obtenemos un seno de s, seno cuadrado de t, correcto?
+
+00:07:44.550 --> 00:07:46.360
+Tenemos seno del seno de tiempos de t de t.
+
+00:07:50.250 --> 00:07:51.910
+Así es que allí.
+
+00:07:51.910 --> 00:07:54.460
+¿Plus--lo que tenemos aquí?
+
+00:07:54.460 --> 00:07:57.520
+Tenemos un seno de veces s coseno cuadrado de t.
+
+00:08:05.000 --> 00:08:08.450
+Y todo eso veces el vector de la unidad de k.
+
+00:08:12.510 --> 00:08:15.310
+Así que las cosas están mirando un poco más simplificadas,
+
+00:08:15.310 --> 00:08:17.580
+pero algo podría ver saltar a te.
+
+00:08:17.580 --> 00:08:19.700
+Tienes un seno cuadrado y un coseno al cuadrado.
+
+00:08:19.700 --> 00:08:22.160
+Tan alguna, si sólo puedo hacer ese seno sólo más cuadrado
+
+00:08:22.160 --> 00:08:24.240
+coseno cuadrado de t, los van a simplificar a 1.
+
+00:08:24.240 --> 00:08:25.580
+Y podemos.
+
+00:08:25.580 --> 00:08:29.280
+Y aquí, este término podemos--si nos centramos sólo en
+
+00:08:29.280 --> 00:08:32.220
+término--y esto es todo tipo de manipulación algebraica.
+
+00:08:32.220 --> 00:08:36.120
+Si sólo nos concentramos en ese término, este término puede ser
+
+00:08:36.120 --> 00:08:42.170
+reescrito como un seno de s--si factor de ese seno fuera--veces
+
+00:08:42.170 --> 00:08:47.400
+cuadrado de t más coseno al cuadrado de los tiempos de t
+
+00:08:47.400 --> 00:08:50.360
+nuestro vector unitario, k.
+
+00:08:50.360 --> 00:08:50.590
+¿Verdad?
+
+00:08:50.590 --> 00:08:53.480
+Yo sólo factorizado en un seno de s de ambos términos.
+
+00:08:53.480 --> 00:08:56.360
+Y esta es nuestra identidad más fundamental de vértice geodésico
+
+00:08:56.360 --> 00:08:57.330
+desde el círculo de la unidad.
+
+00:08:57.330 --> 00:08:59.950
+Esto es igual a 1.
+
+00:08:59.950 --> 00:09:05.110
+Por lo que este último término simplifica a un seno de s veces k.
+
+00:09:05.110 --> 00:09:07.920
+Por lo tanto, hasta ahora nos hemos llegado bastante lejos.
+
+00:09:07.920 --> 00:09:11.840
+Hemos podido averiguar el producto cruzado de estos 2 me
+
+00:09:11.840 --> 00:09:14.445
+supongo, derivadas parciales del vector valorado,
+
+00:09:14.445 --> 00:09:16.710
+o nuestra parametrización original allí.
+
+00:09:16.710 --> 00:09:20.820
+Hemos podido averiguar qué esta cosa aquí, antes
+
+00:09:20.820 --> 00:09:24.070
+tomamos la magnitud de la misma, se traduce en esto
+
+00:09:24.070 --> 00:09:25.370
+cosa aquí.
+
+00:09:25.370 --> 00:09:27.270
+Permítanme reescribir--bien, no necesito a reescribirla.
+
+00:09:27.270 --> 00:09:27.780
+Lo sabe.
+
+00:09:27.780 --> 00:09:28.820
+Bueno, te reescribirla.
+
+00:09:28.820 --> 00:09:31.393
+Por lo que es igual a--a reescribirla prolijamente y vamos a utilizar
+
+00:09:31.393 --> 00:09:38.000
+Esto en el próximo video--b más un coseno de veces s abiertos
+
+00:09:38.000 --> 00:09:46.810
+soporte un coseno de seno s de t veces me plus--volver a
+
+00:09:46.810 --> 00:09:56.840
+el azul--además de un coseno de coseno de s de t veces j plus--
+
+00:09:56.840 --> 00:09:59.900
+Cambie a azul--esta cosa--más--esto simplificado
+
+00:09:59.900 --> 00:10:04.870
+muy bien--un seno de s veces k.
+
+00:10:04.870 --> 00:10:07.315
+Veces la unidad vector k.
+
+00:10:10.000 --> 00:10:15.020
+Aquí se trata de esta expresión allí.
+
+00:10:15.020 --> 00:10:16.740
+Y podrá terminar este video, ya que soy ya
+
+00:10:16.740 --> 00:10:17.970
+más de 10 minutos.
+
+00:10:17.970 --> 00:10:18.900
+Y en el siguiente video, vamos a tomar
+
+00:10:18.900 --> 00:10:20.180
+la magnitud de la misma.
+
+00:10:20.180 --> 00:10:22.540
+Y luego, si tenemos tiempo, realmente tomar
+
+00:10:22.540 --> 00:10:23.470
+Esta doble integral.
+
+00:10:23.470 --> 00:10:24.470
+Y todos podrá ser hechos.
+
+00:10:24.470 --> 00:10:28.390
+Voy averiguar la superficie de este toro.

@@ -1,0 +1,60 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.037 --> 00:00:03.735
+PROBLEMA: ¿Qué translación debe aplicarse
+
+00:00:03.735 --> 00:00:07.353
+para mover la figura azul hasta la figura naranja?
+
+00:00:07.353 --> 00:00:13.553
+Es decir, si queremos mover la figura azul
+
+00:00:13.567 --> 00:00:15.486
+hasta donde está la naranja,
+
+00:00:15.486 --> 00:00:16.751
+¿cómo debemos hacerlo?
+
+00:00:16.751 --> 00:00:17.938
+A mí me gusta hacerlo así:
+
+00:00:17.938 --> 00:00:19.291
+escojo un punto
+
+00:00:19.291 --> 00:00:22.681
+y miro cómo se tendría que mover.
+
+00:00:22.681 --> 00:00:24.794
+Este punto de arriba del todo
+
+00:00:24.794 --> 00:00:26.325
+de esta figura de cuatro lados
+
+00:00:26.325 --> 00:00:27.659
+se tendría que mover hasta aquí abajo.
+
+00:00:27.659 --> 00:00:29.601
+Es decir, una unidad hacia la izquierda
+
+00:00:29.601 --> 00:00:31.951
+y una unidad hacia abajo.
+
+00:00:31.951 --> 00:00:33.600
+Esto se puede expresar como una transformación.
+
+00:00:33.600 --> 00:00:35.788
+Moverse una unidad hacia la izquierda es -1
+
+00:00:35.788 --> 00:00:37.186
+en el eje horizontal.
+
+00:00:37.186 --> 00:00:39.446
+Si se moviera hacia la derecha, sería +1.
+
+00:00:39.456 --> 00:00:42.417
+Se ha movido una unidad hacia abajo en el eje vertical.
+
+00:00:42.417 --> 00:00:45.050
+Y esto es otro -1.

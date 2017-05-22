@@ -1,0 +1,513 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.290 --> 00:00:04.270
+Bienvenido a la presentación de reducción de raíces
+
+00:00:04.270 --> 00:00:06.475
+Vamos a comenzar con un poco de terminología.
+
+00:00:06.490 --> 00:00:11.341
+Probablemente estás pensando en que cosa es un radical (o raíz), así que te ayudaré.
+
+00:00:11.341 --> 00:00:13.111
+Tengo que ajustar la pluma.
+
+00:00:13.111 --> 00:00:15.282
+Un radical es simplemente eso.
+
+00:00:15.282 --> 00:00:18.808
+Probablemente reconocerás el símbolo de la raíz cuadrada.
+
+00:00:18.808 --> 00:00:20.572
+Así que con la terminología no es un estorbo,
+
+00:00:20.572 --> 00:00:23.877
+entonces vamos a hablar lo que significa reducir una raíz.
+
+00:00:23.877 --> 00:00:25.728
+Alguna gente argumentará que lo que realmente vamos a hacer
+
+00:00:25.728 --> 00:00:26.890
+es en realidad complicarnos más las cosas.
+
+00:00:26.890 --> 00:00:29.463
+Pero veamos.
+
+00:00:29.463 --> 00:00:32.819
+Permíteme borrar esto.
+
+00:00:32.819 --> 00:00:36.898
+Así, si te diese la raíz cuadrada de 36,
+
+00:00:36.900 --> 00:00:37.610
+tú dirías, ah, eso es fácil.
+
+00:00:37.610 --> 00:00:40.175
+Eso es simplemente 6 por 6
+
+00:00:40.175 --> 00:00:43.850
+o dirías que la raíz cuadrada de 36 es 6 y ya está.
+
+00:00:43.850 --> 00:00:50.682
+Ahora, ¿y si te preguntase cuanto es la raíz cuadrada de 72?
+
+00:00:50.682 --> 00:00:54.590
+Bien, sabemos que 72 es 36 por 2 ¿cierto?
+
+00:00:54.590 --> 00:00:55.680
+Escribamos esto.
+
+00:00:55.680 --> 00:01:04.358
+La raíz cuadrada de 72 es lo mismo que, la raíz cuadrada de 36 por 2.
+
+00:01:04.372 --> 00:01:07.992
+¿Correcto? Simplemente reescribimos 72 como 36 por 2.
+
+00:01:07.992 --> 00:01:11.582
+Y la raíz cuadrada, si recuerdas del nivel 3 de exponentes,
+
+00:01:11.582 --> 00:01:14.920
+la raíz cuadrada es lo mismo que la potencia "un medio".
+
+00:01:14.920 --> 00:01:15.860
+Lo escribimos así;
+
+00:01:15.860 --> 00:01:20.279
+y lo estoy escribiendo de esta manera sólo para mostrarte como la reducción de raíces funciona,
+
+00:01:20.279 --> 00:01:22.965
+y que en realidad no es un concepto nuevo.
+
+00:01:22.980 --> 00:01:29.488
+De modo que es lo mismo que 36 por 2, a la potencia "un medio".
+
+00:01:29.488 --> 00:01:33.210
+¿Correcto? Porque una raíz cuadrada es la misma cosa que la potencia "un medio".
+
+00:01:33.210 --> 00:01:37.291
+Y aprendimos de las reglas de los exponentes que cuando multiplicas dos números
+
+00:01:37.291 --> 00:01:39.875
+y elevas el producto a la potencia un medio,
+
+00:01:39.875 --> 00:01:47.102
+es la misma cosa que elevar cada uno de los números a la potencia un medio
+
+00:01:47.102 --> 00:01:50.454
+y entonces multiplicarlos. ¿Hasta aquí bien?
+
+00:01:50.454 --> 00:01:58.482
+Resumiendo, es lo mismo decir que es: la raíz cuadrada de 36, por la raíz cuadrada de 2.
+
+00:01:58.482 --> 00:02:00.780
+Y ya sabemos cuanto es la raíz de 36.
+
+00:02:00.780 --> 00:02:01.810
+Es 6.
+
+00:02:01.810 --> 00:02:07.953
+De modo que es simplemente 6 veces la raíz cuadrada de 2.
+
+00:02:07.953 --> 00:02:11.568
+Y probablemente estás pensando porque fui a través del paso de cambiar la raíz,
+
+00:02:11.568 --> 00:02:13.525
+el símbolo de la raíz cuadrada, en la potencia "un medio."
+
+00:02:13.530 --> 00:02:17.022
+Lo hice sólo para mostrarte que esto es sólo una extensión de las reglas de los exponentes.
+
+00:02:17.022 --> 00:02:19.035
+No es realmente un nuevo concepto.
+
+00:02:19.035 --> 00:02:24.690
+Aunque, supongo que a veces no es tan obvio que son los mismos conceptos.
+
+00:02:24.690 --> 00:02:26.480
+Sólo quería señalarlo.
+
+00:02:26.480 --> 00:02:28.470
+Resolvamos otro problema.
+
+00:02:28.470 --> 00:02:33.251
+Pienso que conforme resolvemos más y más problemas, estos se volverán más evidentes.
+
+00:02:33.251 --> 00:02:37.820
+La raíz cuadrada de 50.
+
+00:02:37.820 --> 00:02:40.028
+Bien, la raíz cuadrada de 50 -
+
+00:02:40.028 --> 00:02:47.150
+50 es lo mismo que 25 por 2.
+
+00:02:47.150 --> 00:02:51.652
+Y sabemos, basándonos en que lo que hicimos es aplicar un regla de los exponentes,
+
+00:02:51.652 --> 00:02:58.408
+la raíz cuadrada de 25 por 2, es igual a la raíz cuadrada de 25
+
+00:02:58.408 --> 00:03:01.070
+por la raíz cuadrada de 2.
+
+00:03:01.070 --> 00:03:02.580
+Y sabemos cuanto es la raíz cuadrada de 25.
+
+00:03:02.580 --> 00:03:03.170
+Es 5.
+
+00:03:03.170 --> 00:03:09.700
+Así que es igual a 5 por la raíz cuadrada de 2.
+
+00:03:09.700 --> 00:03:14.148
+Bien, podrías pensar, "Oye, Sal, pero lo haces parecer fácil"
+
+00:03:14.148 --> 00:03:17.856
+"¿pero cómo sabías que debíamos partir 50 en 25 y 2?"
+
+00:03:17.856 --> 00:03:23.102
+¿Por qué no dije que 50 es igual a la raíz cuadrada de 5 y 10?
+
+00:03:23.102 --> 00:03:28.800
+¿O que 50 es igual a la raíz cuadrada de -digamos-, 1 y 50?
+
+00:03:28.800 --> 00:03:30.529
+No sé que otros factores tenga 50.
+
+00:03:30.529 --> 00:03:32.570
+Bien, no iremos a esa parte en este momento.
+
+00:03:32.570 --> 00:03:37.052
+La razón por la que elegí 25 y 2 es porque quería un factor de 50 -
+
+00:03:37.052 --> 00:03:40.871
+que resultase ser un cuadrado perfecto.
+
+00:03:40.880 --> 00:03:42.860
+Y ese es 25.
+
+00:03:42.860 --> 00:03:45.862
+Si hubiese elegido 5 y 10, en realidad no podría haber hecho nada con ello,
+
+00:03:45.862 --> 00:03:47.992
+porque ni 5 ni 10 son cuadrados perfectos
+
+00:03:47.992 --> 00:03:50.610
+y es lo mismo con 1 y 50.
+
+00:03:50.610 --> 00:03:51.839
+De modo que como debes pensar en esto,
+
+00:03:51.839 --> 00:03:55.052
+es buscar los factores del número original
+
+00:03:55.052 --> 00:03:57.890
+y trabajar con los factores que son cuadrados perfectos.
+
+00:03:57.890 --> 00:03:59.370
+No hay un proceso mecánico en ello.
+
+00:03:59.370 --> 00:04:02.280
+Tienes que aprender a reconocer cuadrados perfectos.
+
+00:04:02.280 --> 00:04:03.940
+Y te familiarizarás con ellos, por supuesto.
+
+00:04:03.940 --> 00:04:17.873
+Son el 1, 4, 9, 25, 16, 25, 36, 49, 64, etcétera.
+
+00:04:17.873 --> 00:04:21.288
+Y tal vez realizando este módulo, realmente aprenderás a reconocerlos más fácilmente.
+
+00:04:21.288 --> 00:04:26.638
+Pues si cualquiera de estos números son un factor del número bajo el signo de raíz
+
+00:04:26.638 --> 00:04:28.037
+probablemente puedes factorizarlo,
+
+00:04:28.037 --> 00:04:30.084
+y entonces puedes sacarlos del signo raíz
+
+00:04:30.084 --> 00:04:32.620
+como hicimos en este problema.
+
+00:04:32.620 --> 00:04:37.592
+Hagamos un par más.
+
+00:04:37.592 --> 00:04:43.455
+¿Cuanto es 7 por la raíz cuadrada de 27?
+
+00:04:43.470 --> 00:04:45.066
+Y entonces escribo el 7 al lado,
+
+00:04:45.066 --> 00:04:47.725
+lo que significa que lo multiplicamos por la raíz cuadrada de 27.
+
+00:04:47.725 --> 00:04:50.496
+Bien, pensemos cuales son los otros factores de 27,
+
+00:04:50.496 --> 00:04:52.050
+y si alguno de ellos es un cuadrado perfecto.
+
+00:04:52.050 --> 00:04:56.710
+Bien, 3 es un factor de 27, pero no es cuadrado perfecto.
+
+00:04:56.710 --> 00:04:58.260
+El 9 sí es.
+
+00:04:58.260 --> 00:05:01.215
+Así, podríamos decir 7 -
+
+00:05:01.215 --> 00:05:08.782
+es igual a 7 por, la raíz cuadrada de 9 por 3.
+
+00:05:08.782 --> 00:05:11.352
+Y ahora, basándonos en la reglas que acabamos de estudiar,
+
+00:05:11.352 --> 00:05:17.572
+es lo mismo que 7 por la raíz cuadrada de 9
+
+00:05:17.572 --> 00:05:21.140
+por la raíz cuadrada de 3.
+
+00:05:21.140 --> 00:05:26.399
+Entonces eso es igual a 7 por 3, porque la raíz cuadrada de 9 es 3
+
+00:05:26.399 --> 00:05:29.270
+y eso, por la raíz cuadrada de 3.
+
+00:05:29.270 --> 00:05:34.670
+Eso es igual a 21 por la raíz cuadrada de 3.
+
+00:05:34.670 --> 00:05:35.830
+Hecho.
+
+00:05:35.830 --> 00:05:37.918
+Hagamos uno más.
+
+00:05:37.918 --> 00:05:46.075
+¿Cuánto es 9 por la raíz cuadrada de 18?
+
+00:05:46.075 --> 00:05:48.406
+Bien, una vez más, ¿cuáles son los factores de 18?
+
+00:05:48.406 --> 00:05:50.522
+Bien, tenemos 6 y 3.
+
+00:05:50.522 --> 00:05:52.280
+1 y 18.
+
+00:05:52.280 --> 00:05:54.550
+Ninguno de esos números son cuadrados perfectos.
+
+00:05:54.550 --> 00:05:56.540
+Pero tenemos 2 y 9.
+
+00:05:56.540 --> 00:05:59.010
+Y 9 es un cuadrado perfecto.
+
+00:05:59.010 --> 00:05:59.770
+Vamos a escribirlo.
+
+00:05:59.770 --> 00:06:07.020
+Eso es igual a 9 por la raíz cuadrada de, 2 por 9.
+
+00:06:07.020 --> 00:06:11.560
+Lo que es igual a 9 por la raíz cuadrada de 2 -
+
+00:06:11.560 --> 00:06:15.580
+eso es un 2, por la raíz cuadrada de 9.
+
+00:06:15.580 --> 00:06:20.295
+¿Y qué es igual a 9, por la raíz cuadrada de 2, por 3, cierto?
+
+00:06:20.310 --> 00:06:22.828
+Eso es la raíz cuadrada de 9 que es igual a
+
+00:06:22.828 --> 00:06:27.250
+27 por la raíz cuadrada de 2.
+
+00:06:27.250 --> 00:06:28.130
+Y ya está.
+
+00:06:28.130 --> 00:06:30.160
+Confío en que, estás comenzando a tener la idea de estos problemas.
+
+00:06:30.160 --> 00:06:33.070
+Vamos a hacer otro más.
+
+00:06:33.070 --> 00:06:40.015
+¿Cuánto es 4 por la raíz cuadrada de 25?
+
+00:06:40.015 --> 00:06:41.883
+Bien, veinticinco es en sí un cuadrado perfecto.
+
+00:06:41.883 --> 00:06:45.091
+Esto es un problema que es tan sencillo que es un poco un problema con truco.
+
+00:06:45.106 --> 00:06:47.252
+25 en sí es un cuadrado perfecto.
+
+00:06:47.252 --> 00:06:51.196
+La raíz cuadrada es 5, así que esto es igual a 4 por 5,
+
+00:06:51.196 --> 00:06:52.910
+que es igual a 20.
+
+00:06:52.910 --> 00:06:57.020
+La raíz cuadrada de 25 es 5.
+
+00:06:57.020 --> 00:06:58.220
+Hagamos uno más.
+
+00:06:58.220 --> 00:07:04.688
+¿Cuánto es 3 por la raíz cuadrada de 29?
+
+00:07:04.688 --> 00:07:06.192
+Bien, 29 tiene sólo dos factores.
+
+00:07:06.192 --> 00:07:06.870
+Es un número primo.
+
+00:07:06.870 --> 00:07:09.450
+Sólo tiene los factores 1 y 29.
+
+00:07:09.450 --> 00:07:11.750
+Y ninguno de estos números son cuadrados perfectos.
+
+00:07:11.750 --> 00:07:14.220
+Y esto no podemos simplificarlo más.
+
+00:07:14.220 --> 00:07:19.340
+Entonces, ésta es una forma completamente simplificada.
+
+00:07:19.340 --> 00:07:21.357
+Hagamos un par más.
+
+00:07:21.357 --> 00:07:32.134
+¿Cuánto es 7 por la raíz cuadrada de 320?
+
+00:07:32.140 --> 00:07:35.700
+Pensemos primero en 320.
+
+00:07:35.700 --> 00:07:39.797
+Podríamos hacerlo realmente en etapas cuando tenemos números más grandes como éste.
+
+00:07:39.810 --> 00:07:43.290
+Puedo ver directamente y decir, eso se ve como 4 -
+
+00:07:43.290 --> 00:07:47.385
+en realidad parece que 16 sería apropiado en esto porque 16 es factor de 32.
+
+00:07:47.385 --> 00:07:48.380
+Vamos a intentar eso.
+
+00:07:48.380 --> 00:07:58.003
+Así que es igual a 7 por, la raíz cuadrada de 16 por 20.
+
+00:07:58.003 --> 00:08:04.294
+Bien, eso es igual 7 por la raíz cuadrada de 16
+
+00:08:04.294 --> 00:08:06.960
+por la raíz cuadrada de 20.
+
+00:08:06.960 --> 00:08:08.590
+7 por la raíz cuadrada de 16.
+
+00:08:08.590 --> 00:08:10.380
+La raíz cuadrada de 16 es 4.
+
+00:08:10.380 --> 00:08:11.630
+Y 7 por 4 es 28.
+
+00:08:11.630 --> 00:08:17.110
+Y entonces es igual a 28 por la raíz cuadrada de 20.
+
+00:08:17.110 --> 00:08:19.100
+¿Y hemos terminado?
+
+00:08:19.100 --> 00:08:21.800
+Bien, en realidad, pienso que puedo factorizar 20 aún más
+
+00:08:21.800 --> 00:08:24.680
+porque 20 es igual a 4 por 5.
+
+00:08:24.680 --> 00:08:33.558
+De modo que puedo decir que es 28 por, la raíz cuadrada de cuatro por cinco.
+
+00:08:33.570 --> 00:08:38.270
+La raíz cuadrada de 4 es 2 así que podía simplemente tomar el 2
+
+00:08:38.270 --> 00:08:43.662
+y entonces eso se convierte en 56 por la raíz cuadrada de 5.
+
+00:08:43.662 --> 00:08:44.450
+Espero que tenga sentido para ti.
+
+00:08:44.450 --> 00:08:45.980
+Y ésta es realmente una técnica muy importante
+
+00:08:45.980 --> 00:08:46.890
+pues puedo partir así.
+
+00:08:46.890 --> 00:08:49.060
+Cuando vi el 320.
+
+00:08:49.060 --> 00:08:52.160
+No sé cual es el número más grande que cabe en 320.
+
+00:08:52.160 --> 00:08:54.150
+Y sucede que es 64.
+
+00:08:54.150 --> 00:08:57.604
+Pero con tan sólo mirar el número, me dije, bueno sé que ahí está el 4.
+
+00:08:57.610 --> 00:08:59.705
+Y podría haber obtenido el 4,
+
+00:08:59.705 --> 00:09:01.628
+y decir, "ah, eso es 4 por 80."
+
+00:09:01.628 --> 00:09:03.210
+Y entonces tendría que haber trabajado con 80.
+
+00:09:03.210 --> 00:09:06.483
+En este caso, vi 32 y fue como, parece que 16 está en éste.
+
+00:09:06.483 --> 00:09:08.660
+Y factoricé 16 primero.
+
+00:09:08.660 --> 00:09:11.890
+Y cuando observé la raíz cuadrada de 16, multipliqué el número exterior por 4
+
+00:09:11.890 --> 00:09:13.160
+y así es como obtuvimos el 28.
+
+00:09:13.160 --> 00:09:15.285
+Pero cuando reduje el número al interior de la raíz,
+
+00:09:15.285 --> 00:09:17.430
+dije "ah, eso todavía es divisible por un cuadrado perfecto."
+
+00:09:17.430 --> 00:09:20.055
+"Es todavía divisible por 4." Y entonces seguí
+
+00:09:20.055 --> 00:09:27.696
+hasta quedarme con esencialmente, un número primo o un número que no puede reducirse aún más bajo la raíz.
+
+00:09:27.696 --> 00:09:29.950
+Y no tiene que ser necesariamente un número primo.
+
+00:09:29.950 --> 00:09:34.232
+Y creo que, eso puede darte una buena idea de como hacer reducción de raíces.
+
+00:09:34.232 --> 00:09:37.851
+Es realmente sólo una extensión a las reglas de los exponentes lo que has aprendido,
+
+00:09:37.851 --> 00:09:41.872
+y creo que conforme realices el módulo, podrás llegar a ser bueno con esto.
+
+00:09:41.890 --> 00:09:43.420
+¡Pásalo bien!

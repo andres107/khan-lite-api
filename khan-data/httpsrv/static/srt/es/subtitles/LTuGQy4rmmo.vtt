@@ -1,0 +1,672 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.010 --> 00:00:03.950
+En el último video nos enteramos--o al menos, mostré mi
+
+00:00:03.950 --> 00:00:05.580
+no sé si ha aprendido todavía, pero aprenderemos en
+
+00:00:05.580 --> 00:00:05.890
+Este video.
+
+00:00:05.890 --> 00:00:09.010
+Pero hemos aprendido que la fuerza sobre una carga de móvil desde un
+
+00:00:09.010 --> 00:00:12.020
+campo magnético, y es una cantidad vectorial, es igual a
+
+00:00:12.020 --> 00:00:16.320
+el cargo--en el cargo--movimiento veces la Cruz
+
+00:00:16.320 --> 00:00:23.260
+producto de la velocidad de la carga y el campo magnético.
+
+00:00:23.260 --> 00:00:28.720
+Y usamos esto para mostrar que las unidades de un magnético
+
+00:00:28.720 --> 00:00:32.880
+campo--esto no es una versión beta, es un B--pero las unidades de un
+
+00:00:32.880 --> 00:00:37.300
+campo magnético es el tesla--que se abrevia con una
+
+00:00:37.300 --> 00:00:41.380
+capital T--y es igual a newton
+
+00:00:41.380 --> 00:00:46.000
+segundos por coulomb metros.
+
+00:00:46.000 --> 00:00:49.520
+Así que vamos a ver si podemos aplicar a un problema real.
+
+00:00:49.520 --> 00:00:53.525
+Así que vamos a decir que tiene un campo magnético y digamos
+
+00:00:53.525 --> 00:00:55.630
+está apareciendo fuera de la pantalla.
+
+00:00:55.630 --> 00:00:57.440
+Estoy haciendo esto sobre la marcha, así que espero el
+
+00:00:57.440 --> 00:00:58.960
+girar los números.
+
+00:00:58.960 --> 00:01:01.860
+Está inspirado en un problema que he leído en AP de Barron
+
+00:01:01.860 --> 00:01:03.380
+libro de cálculo.
+
+00:01:03.380 --> 00:01:06.710
+Así que si quiero llamar a un montón de vectores o un campo vectorial
+
+00:01:06.710 --> 00:01:08.400
+que está apareciendo fuera de la pantalla, sólo podía hacer el
+
+00:01:08.400 --> 00:01:10.300
+parte superior de las puntas de flecha.
+
+00:01:10.300 --> 00:01:14.580
+A dibujarlos en magenta.
+
+00:01:14.580 --> 00:01:17.230
+Así que vamos a decir que tengo un campo vectorial.
+
+00:01:17.230 --> 00:01:18.810
+Así que se puede imaginar un montón de flechas
+
+00:01:18.810 --> 00:01:21.420
+estallido fuera de la pantalla.
+
+00:01:21.420 --> 00:01:24.600
+Sólo podrá llamar un par de ellos por lo que tienes la sensación de
+
+00:01:24.600 --> 00:01:25.790
+que es un campo.
+
+00:01:25.790 --> 00:01:29.050
+Impregna el espacio.
+
+00:01:29.050 --> 00:01:32.390
+Se trata de un manojo de flechas saltando.
+
+00:01:32.390 --> 00:01:35.320
+Y el campo está saltando.
+
+00:01:35.320 --> 00:01:38.650
+Y la magnitud del campo, digamos que es, me
+
+00:01:38.650 --> 00:01:44.170
+no sé, digamos que es de 0,5 teslas.
+
+00:01:44.170 --> 00:01:47.530
+Digamos que tengo algunos protones que viene acelerando a lo largo.
+
+00:01:52.190 --> 00:01:57.130
+Y está acelerando a lo largo de a una velocidad--así la velocidad de
+
+00:01:57.130 --> 00:02:04.350
+el protón es igual a 10 6 veces a la
+
+00:02:04.350 --> 00:02:07.960
+Séptimo metros por segundo.
+
+00:02:07.960 --> 00:02:13.590
+Y eso es realmente aproximadamente 1/5 de la velocidad o 1/5 de la
+
+00:02:13.590 --> 00:02:14.340
+velocidad de la luz.
+
+00:02:14.340 --> 00:02:18.060
+Así que estamos prácticamente en el relativista, pero nos
+
+00:02:18.060 --> 00:02:20.180
+no entrar demasiado en la relatividad, porque entonces el
+
+00:02:20.180 --> 00:02:21.910
+aumenta la masa del protón, etcétera, etcétera.
+
+00:02:21.910 --> 00:02:25.250
+Simplemente asumimos que la masa no ha aumentado significativamente
+
+00:02:25.250 --> 00:02:26.020
+en este punto.
+
+00:02:26.020 --> 00:02:28.970
+Por eso tenemos este protón a un 1/5 de la velocidad de la luz
+
+00:02:28.970 --> 00:02:32.040
+y es cruzar a través de este campo magnético.
+
+00:02:32.040 --> 00:02:37.340
+Así que la primera pregunta es ¿cuál es la magnitud y dirección
+
+00:02:37.340 --> 00:02:41.980
+¿de la fuerza en este protón desde este campo magnético?
+
+00:02:41.980 --> 00:02:45.280
+Bien, vamos a averiguar la magnitud primero. Así que cómo se puede
+
+00:02:45.280 --> 00:02:47.320
+¿averiguar la magnitud?
+
+00:02:47.320 --> 00:02:52.100
+Bueno, en primer lugar, ¿cuál es la carga de un protón?
+
+00:02:52.100 --> 00:02:54.170
+Bueno, no lo sabemos ahora, pero mi calculadora tiene
+
+00:02:54.170 --> 00:02:54.710
+que se almacenan en él.
+
+00:02:54.710 --> 00:02:57.970
+Y si tienes una calculadora gráfica de TI, tu calculadora
+
+00:02:57.970 --> 00:02:59.300
+También habría almacenado en él.
+
+00:02:59.300 --> 00:03:02.330
+Así que vamos a escribir hacia abajo como una variable ahora mismo.
+
+00:03:02.330 --> 00:03:07.520
+Así que la magnitud de la fuerza sobre la partícula va a ser
+
+00:03:07.520 --> 00:03:13.110
+igual a la carga de un protón--llamaremos q sub
+
+00:03:13.110 --> 00:03:20.740
+p--veces la magnitud de la velocidad, 10 6 veces a la
+
+00:03:20.740 --> 00:03:22.150
+Séptimo metros por segundo.
+
+00:03:22.150 --> 00:03:23.070
+Estamos utilizando todas las unidades de la derecha.
+
+00:03:23.070 --> 00:03:24.560
+Si esto fue centímetros que probablemente nos gustaría
+
+00:03:24.560 --> 00:03:27.020
+convertir a metros.
+
+00:03:27.020 --> 00:03:28.970
+10 6 veces el séptimo metros por segundo.
+
+00:03:28.970 --> 00:03:35.040
+Y entonces veces la magnitud del campo magnético, que
+
+00:03:35.040 --> 00:03:38.590
+es 0,5 pronto. Teslas--no tener que escribir las unidades
+
+00:03:38.590 --> 00:03:41.200
+pero lo haré allí--veces senoidal de la
+
+00:03:41.200 --> 00:03:43.510
+ángulo entre ellos.
+
+00:03:43.510 --> 00:03:46.480
+Voy a escribir ahora mismo.
+
+00:03:46.480 --> 00:03:47.770
+Pero permítame hacerle una pregunta.
+
+00:03:47.770 --> 00:03:51.650
+Si el campo magnético está orientado hacia fuera de la
+
+00:03:51.650 --> 00:03:53.760
+pantalla--y tú vas a tener que hacer un poco de
+
+00:03:53.760 --> 00:03:57.320
+visualización tridimensional ahora--y esto
+
+00:03:57.320 --> 00:04:01.000
+partícula se mueve en el plano del campo, lo que es
+
+00:04:01.000 --> 00:04:02.950
+¿el ángulo entre ellos?
+
+00:04:02.950 --> 00:04:06.280
+Si usted visualizar en tres dimensiones, que son realmente
+
+00:04:06.280 --> 00:04:07.410
+ortogonales entre sí.
+
+00:04:07.410 --> 00:04:09.590
+Son perpendiculares entre sí.
+
+00:04:09.590 --> 00:04:12.280
+Porque estos vectores están apareciendo fuera de la pantalla.
+
+00:04:12.280 --> 00:04:16.630
+Son perpendiculares al plano que define la pantalla,
+
+00:04:16.630 --> 00:04:20.459
+mientras este protón se mueve en este plano.
+
+00:04:20.459 --> 00:04:23.050
+Así que el ángulo entre ellos, si se pueden visualizar en tres
+
+00:04:23.050 --> 00:04:25.530
+dimensiones, es de 90 grados.
+
+00:04:25.530 --> 00:04:27.470
+O son perfectamente perpendiculares.
+
+00:04:27.470 --> 00:04:29.660
+Y cuando las cosas están perfectamente perpendiculares, lo que es la
+
+00:04:29.660 --> 00:04:31.040
+¿seno de 90 grados?
+
+00:04:31.040 --> 00:04:33.040
+¿O en el seno de pi más 2?
+
+00:04:33.040 --> 00:04:35.330
+De cualquier manera, si se desea abordar en radianes.
+
+00:04:35.330 --> 00:04:37.680
+Bueno, es simplemente igual a 1.
+
+00:04:37.680 --> 00:04:40.690
+El conjunto--Ojalá--intuición tenes la
+
+00:04:40.690 --> 00:04:43.990
+producto cruzado es que sólo queremos multiplicar los componentes de
+
+00:04:43.990 --> 00:04:46.580
+los dos vectores que son perpendiculares entre sí.
+
+00:04:46.580 --> 00:04:48.110
+Y por eso tenemos el seno de theta.
+
+00:04:48.110 --> 00:04:51.310
+Pero si los todo vectores son perpendiculares entre sí,
+
+00:04:51.310 --> 00:04:54.130
+luego simplemente multiplicamos la magnitud del vector.
+
+00:04:54.130 --> 00:04:55.910
+O si olvida incluso hacer que, dices, ¡ oh bien,
+
+00:04:55.910 --> 00:04:56.930
+son perpendiculares.
+
+00:04:56.930 --> 00:04:57.900
+Son ángulos de 90 grados.
+
+00:04:57.900 --> 00:04:58.870
+¿Seno de 90 grados?
+
+00:04:58.870 --> 00:05:00.470
+Bueno, eso de sólo 1.
+
+00:05:00.470 --> 00:05:03.300
+Así que esto es sólo 1.
+
+00:05:03.300 --> 00:05:06.900
+Así que es realmente bastante fácil a la magnitud de la fuerza
+
+00:05:06.900 --> 00:05:08.990
+calcular, si sabemos la carga de un protón.
+
+00:05:08.990 --> 00:05:12.410
+Y vamos a ver si podemos averiguar la carga de un protón.
+
+00:05:12.410 --> 00:05:17.490
+Let me get la trusty TI-85 a.
+
+00:05:17.490 --> 00:05:19.780
+Me deja claro allí, por lo que se puede
+
+00:05:19.780 --> 00:05:23.460
+apreciar la tienda de TI-85.
+
+00:05:23.460 --> 00:05:26.400
+Si pulsas segundo y constante--que es el segundo y
+
+00:05:26.400 --> 00:05:27.330
+a continuación, el número 4.
+
+00:05:27.330 --> 00:05:29.950
+Tienen una constante poco por encima de él.
+
+00:05:29.950 --> 00:05:32.840
+Obtendrá sus funciones constantes.
+
+00:05:32.840 --> 00:05:33.590
+O sus valores.
+
+00:05:33.590 --> 00:05:35.590
+Y dices el incorporado--me importa el incorporado
+
+00:05:35.590 --> 00:05:37.900
+funciones, así que permítanme Presione F1.
+
+00:05:37.900 --> 00:05:39.780
+Y tienen un montón de ustedes saben, este es de Avogadro
+
+00:05:39.780 --> 00:05:43.760
+número, tienen un montón de interesantes--esta es la
+
+00:05:43.760 --> 00:05:45.320
+carga de un electrón.
+
+00:05:45.320 --> 00:05:46.540
+Que es realmente lo mismo que
+
+00:05:46.540 --> 00:05:47.420
+la carga de un protón.
+
+00:05:47.420 --> 00:05:48.670
+Así que vamos a usar.
+
+00:05:50.980 --> 00:05:53.380
+Electrones--Recuerde--tienen electrones y protones
+
+00:05:53.380 --> 00:05:54.210
+compensación de gastos.
+
+00:05:54.210 --> 00:05:56.380
+Uno es positivo y uno es negativo.
+
+00:05:56.380 --> 00:05:59.050
+Es justo que un protón es más masivo.
+
+00:05:59.050 --> 00:05:59.880
+Es cómo son diferentes.
+
+00:05:59.880 --> 00:06:01.020
+Y por supuesto, es positivo.
+
+00:06:01.020 --> 00:06:05.270
+¡ Sólo tienes que confirmar que es la carga de un electrón.
+
+00:06:05.270 --> 00:06:06.690
+Pero también es la carga de un protón.
+
+00:06:06.690 --> 00:06:07.830
+Y en realidad, este valor positivo es la
+
+00:06:07.830 --> 00:06:09.240
+carga exacta de un protón.
+
+00:06:09.240 --> 00:06:11.670
+Debería haber puesto quizás un negativo aquí, pero todos
+
+00:06:11.670 --> 00:06:13.180
+nos importa es el valor.
+
+00:06:13.180 --> 00:06:14.920
+Así que vamos a utilizarlo nuevamente.
+
+00:06:14.920 --> 00:06:17.040
+La carga de un electrón--y esto es positiva, por lo que de
+
+00:06:17.040 --> 00:06:23.280
+lo mismo que la carga de un protón--veces 6 veces
+
+00:06:23.280 --> 00:06:28.290
+10 a la séptima--6 7, simplemente pulsando esa EE
+
+00:06:28.290 --> 00:06:30.790
+su calculadora--veces 0.5 teslas.
+
+00:06:33.480 --> 00:06:37.440
+Asegúrese de que todas las unidades están en teslas, metros, y
+
+00:06:37.440 --> 00:06:41.380
+culombios y luego su resultado será en newtons.
+
+00:06:41.380 --> 00:06:49.630
+Y obtendrá 10 veces 4.8 a la negativa 12 n.
+
+00:06:49.630 --> 00:06:50.950
+Permítanme anote.
+
+00:06:50.950 --> 00:07:03.150
+Así que la magnitud de esta fuerza es igual a 10 veces de 4,8 a
+
+00:07:03.150 --> 00:07:05.610
+al menos 12 newtons.
+
+00:07:05.610 --> 00:07:06.950
+Por lo es la magnitud.
+
+00:07:06.950 --> 00:07:08.760
+Ahora, ¿cuál es la dirección?
+
+00:07:08.760 --> 00:07:10.440
+¿Cuál es la dirección de esta fuerza?
+
+00:07:10.440 --> 00:07:12.750
+Bueno, esto es donde rompemos--ponemos nuestras plumas
+
+00:07:12.750 --> 00:07:16.480
+Si estamos entregados, y usamos nuestra regla de la mano derecha
+
+00:07:16.480 --> 00:07:17.950
+para averiguar la dirección.
+
+00:07:17.950 --> 00:07:18.820
+¿Así que lo que tenemos que hacer?
+
+00:07:18.820 --> 00:07:22.460
+Así que cuando llevas algo cruzó algo, la primera
+
+00:07:22.460 --> 00:07:25.880
+el producto Cruz es su dedo índice sobre su
+
+00:07:25.880 --> 00:07:29.000
+mano derecha.
+
+00:07:29.000 --> 00:07:33.315
+Y, a continuación, lo segundo es su dedo apuntado a
+
+00:07:33.315 --> 00:07:35.570
+un ángulo recto con el dedo índice.
+
+00:07:35.570 --> 00:07:36.930
+Vamos a ver si puedo hacerlo.
+
+00:07:36.930 --> 00:07:41.100
+Quiero mi dedo índice sobre mi mano derecha para
+
+00:07:41.100 --> 00:07:42.930
+punto a la derecha.
+
+00:07:42.930 --> 00:07:46.070
+Pero quiero que mi dedo medio hacia arriba.
+
+00:07:46.070 --> 00:07:49.780
+Déjame ver si yo puedo sacar.
+
+00:07:49.780 --> 00:07:54.220
+Así que mi mano derecha se va a ver algo como esto.
+
+00:07:54.220 --> 00:07:55.470
+Y mi mano es marrón.
+
+00:07:58.070 --> 00:08:00.260
+Así que mi mano derecha se va a ver algo como esto.
+
+00:08:00.260 --> 00:08:05.780
+Mi dedo índice está apuntando en la dirección de la velocidad
+
+00:08:05.780 --> 00:08:10.990
+vector, mientras mi dedo está apuntando a la dirección de
+
+00:08:10.990 --> 00:08:12.720
+el campo magnético.
+
+00:08:12.720 --> 00:08:17.030
+Así que mi dedo índice va a apuntar hacia arriba, así que todo lo que
+
+00:08:17.030 --> 00:08:18.510
+ver es la punta de la misma.
+
+00:08:18.510 --> 00:08:23.860
+Y luego mis otros dedos sólo van a ir como ese.
+
+00:08:23.860 --> 00:08:25.710
+¿Y entonces mi pulgar va a hacer qué?
+
+00:08:25.710 --> 00:08:29.850
+Va mi pulgar--este es el talón de mi pulgar--y así
+
+00:08:29.850 --> 00:08:31.770
+mi pulgar va a ser en ángulo recto para ambos.
+
+00:08:31.770 --> 00:08:35.470
+Así que mi pulgar apunta hacia abajo como esta.
+
+00:08:35.470 --> 00:08:36.909
+Esto a menudo es la parte más difícil.
+
+00:08:36.909 --> 00:08:40.390
+Sólo asegurándose de que obtendrá la visualización de su mano derecha con
+
+00:08:40.390 --> 00:08:41.970
+el producto cruzado.
+
+00:08:41.970 --> 00:08:47.680
+Así como una revisión, esta es la dirección de v.
+
+00:08:47.680 --> 00:08:50.990
+Esta es la dirección del campo magnético.
+
+00:08:50.990 --> 00:08:52.670
+Saltando.
+
+00:08:52.670 --> 00:08:55.830
+Y eso si organizo mi mano derecha, como mi pulgar
+
+00:08:55.830 --> 00:08:57.330
+puntos hacia abajo.
+
+00:08:57.330 --> 00:09:00.560
+Así que esta es la dirección de la fuerza.
+
+00:09:00.560 --> 00:09:04.860
+Así como esta partícula se mueve a la derecha con algunos velocidad,
+
+00:09:04.860 --> 00:09:08.120
+realmente va a ser una fuerza hacia abajo.
+
+00:09:08.120 --> 00:09:09.950
+Hacia abajo en este plano.
+
+00:09:09.950 --> 00:09:13.110
+Por lo tanto la fuerza va a avanzar en esta dirección.
+
+00:09:13.110 --> 00:09:14.730
+¿Qué va a pasar?
+
+00:09:14.730 --> 00:09:16.900
+Bueno, lo que pasa--si recuerdas un poco acerca de
+
+00:09:16.900 --> 00:09:19.620
+su movimiento circular y la aceleración centrípeta y
+
+00:09:19.620 --> 00:09:23.620
+todo eso--¿qué sucede cuando usted tiene una fuerza perpendicular
+
+00:09:23.620 --> 00:09:25.060
+¿a velocidad?
+
+00:09:25.060 --> 00:09:25.720
+Bien, piense en ello.
+
+00:09:25.720 --> 00:09:27.490
+Si usted tiene aquí una fuerza y la velocidad es como que, si
+
+00:09:27.490 --> 00:09:29.550
+las partículas--podrá desviarse un
+
+00:09:29.550 --> 00:09:30.460
+poco a la derecha.
+
+00:09:30.460 --> 00:09:32.820
+Y entonces ya la fuerza siempre va a ser
+
+00:09:32.820 --> 00:09:35.030
+perpendicular al vector de velocidad, la fuerza va a
+
+00:09:35.030 --> 00:09:36.080
+cargar como ese.
+
+00:09:36.080 --> 00:09:40.420
+Por lo tanto la partícula realmente va a ir en un círculo.
+
+00:09:40.420 --> 00:09:43.750
+Como es en el campo magnético, la fuerza
+
+00:09:43.750 --> 00:09:48.120
+aplicado a la partícula por el campo magnético va a ser
+
+00:09:48.120 --> 00:09:51.300
+perpendicular a la velocidad de la partícula.
+
+00:09:51.300 --> 00:09:53.150
+Por lo tanto la velocidad de la partícula--por lo que se va a
+
+00:09:53.150 --> 00:09:55.660
+realmente es como una fuerza centrípeta de la partícula.
+
+00:09:55.660 --> 00:09:58.530
+Por lo tanto la partícula va a entrar en un círculo.
+
+00:09:58.530 --> 00:10:01.150
+Y en el siguiente vídeo realmente voy averiguar el radio
+
+00:10:01.150 --> 00:10:02.140
+de ese círculo.
+
+00:10:02.140 --> 00:10:05.500
+Y solo una cosa quiero dejar pensar.
+
+00:10:05.500 --> 00:10:13.370
+Es tipo de raro o spooky a mí que la fuerza de un
+
+00:10:13.370 --> 00:10:16.660
+partículas móviles--no importa acerca de
+
+00:10:16.660 --> 00:10:18.710
+la partícula s masa.
+
+00:10:18.710 --> 00:10:22.500
+Sólo importa la velocidad y la carga de la partícula.
+
+00:10:22.500 --> 00:10:25.840
+Por lo que es el tipo de un extraño fenómeno que más rápido se
+
+00:10:25.840 --> 00:10:28.600
+mover a través de un campo magnético--o al menos si eres
+
+00:10:28.600 --> 00:10:30.850
+cargada, si eres una partícula cargada--cuanto más rápido se mueve
+
+00:10:30.850 --> 00:10:33.560
+a través de un campo magnético, más fuerza ese campo magnético
+
+00:10:33.560 --> 00:10:35.230
+va a aplicar a usted.
+
+00:10:35.230 --> 00:10:36.950
+Parece que poco a poco, usted sabe, cómo que magnético
+
+00:10:36.950 --> 00:10:38.420
+¿campo sabe cuán rápido eres móviles?
+
+00:10:38.420 --> 00:10:40.030
+Pero de todos modos, te dejo con eso.
+
+00:10:40.030 --> 00:10:43.530
+En el siguiente vídeo exploraremos este magnético
+
+00:10:43.530 --> 00:10:45.560
+fenómeno un poco más profundo.
+
+00:10:45.560 --> 00:10:46.810
+Ver

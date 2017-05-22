@@ -1,0 +1,537 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.890 --> 00:00:04.650
+Ahora le presento al concepto de ecuaciones exactas.
+
+00:00:04.650 --> 00:00:07.470
+Y es otro método para resolver un determinado tipo de
+
+00:00:07.470 --> 00:00:08.370
+ecuaciones diferenciales.
+
+00:00:08.370 --> 00:00:09.220
+Permítanme anote.
+
+00:00:09.220 --> 00:00:12.610
+Ecuaciones exactas.
+
+00:00:15.620 --> 00:00:18.710
+Antes de mostrarle una ecuación exacta de lo que es, estoy solo
+
+00:00:18.710 --> 00:00:21.050
+va a dar un poco de los bloques de construcción, sólo
+
+00:00:21.050 --> 00:00:22.970
+para que cuando después de probarlo, o al menos darle la
+
+00:00:22.970 --> 00:00:26.260
+intuición detrás de ella, no parece viene
+
+00:00:26.260 --> 00:00:27.080
+Out of the blue.
+
+00:00:27.080 --> 00:00:30.500
+Así que vamos a decir que tenía alguna función de x y y ya voy
+
+00:00:30.500 --> 00:00:33.430
+Llame al psi, simplemente porque eso es lo que las personas tienden a utilizar
+
+00:00:33.430 --> 00:00:35.080
+para estas ecuaciones exactas.
+
+00:00:35.080 --> 00:00:37.220
+Psi es una función de x e y.
+
+00:00:41.280 --> 00:00:47.280
+Así que probablemente no está familiarizado con la toma de la cadena
+
+00:00:47.280 --> 00:00:49.870
+regla en derivadas parciales, pero te voy a mostrarlo que usted ahora,
+
+00:00:49.870 --> 00:00:51.030
+y te voy a dar un poco intuición, aunque
+
+00:00:51.030 --> 00:00:51.950
+No probarlo.
+
+00:00:51.950 --> 00:00:54.210
+Así que si tuviera que tomar la derivada de esto con
+
+00:00:54.210 --> 00:00:59.010
+respeto a x, donde y también es función de x, pueden también
+
+00:00:59.010 --> 00:01:04.709
+escribo esto como y--lo sentimos, no es y, psi.
+
+00:01:04.709 --> 00:01:06.130
+Deshacer.
+
+00:01:06.130 --> 00:01:10.890
+Por lo que podría también escribir esto como psi, como x e y, que es un
+
+00:01:10.890 --> 00:01:11.760
+función de x.
+
+00:01:11.760 --> 00:01:12.820
+Yo podría escribir simplemente como ese.
+
+00:01:12.820 --> 00:01:13.940
+Estos son sólo dos formas diferentes de
+
+00:01:13.940 --> 00:01:14.990
+escribir la misma cosa.
+
+00:01:14.990 --> 00:01:18.440
+Ahora, si tuviera que tomar la derivada de psi con respeto
+
+00:01:18.440 --> 00:01:23.100
+x--y estos son sólo los bloques de construcción--si tuviera que
+
+00:01:23.100 --> 00:01:28.020
+tomar la derivada de psi con respecto a x, es igual
+
+00:01:28.020 --> 00:01:30.410
+--Esta es la regla de la cadena utilizando derivadas parciales.
+
+00:01:30.410 --> 00:01:31.820
+Y no lo pruebo, pero te voy a dar el
+
+00:01:31.820 --> 00:01:33.390
+intuición aquí.
+
+00:01:33.390 --> 00:01:37.410
+Así que esto va a ser igual a la derivada parcial de
+
+00:01:37.410 --> 00:01:45.980
+PSI con respecto a x plus la derivada parcial de psi con
+
+00:01:45.980 --> 00:01:49.780
+respeto y momento dy dx.
+
+00:01:53.300 --> 00:01:55.720
+Y esto se debe hacer un poco de intuición.
+
+00:01:55.720 --> 00:01:58.470
+Estoy tomando la derivada con respecto a x, tipo de
+
+00:01:58.470 --> 00:02:02.410
+y si se puede decir, y sé que no pueden, porque esto
+
+00:02:02.410 --> 00:02:04.190
+parcial con respecto a y y la dy, son
+
+00:02:04.190 --> 00:02:04.860
+dos cosas diferentes.
+
+00:02:04.860 --> 00:02:06.540
+Pero si estos cancelado, luego de que tipo de
+
+00:02:06.540 --> 00:02:08.590
+otro parcial con respecto a x.
+
+00:02:08.590 --> 00:02:12.030
+Y si fueras a agregarlos tipo de, entonces se obtendría
+
+00:02:12.030 --> 00:02:14.040
+la derivada total con respecto a x.
+
+00:02:14.040 --> 00:02:16.600
+Que no es ni siquiera es la intuición, que es sólo para mostrarlo que
+
+00:02:16.600 --> 00:02:19.970
+incluso esto debería hacer un poco de sentido intuitivo.
+
+00:02:19.970 --> 00:02:24.280
+Ahora la intuición aquí, digamos psi, y no de psi
+
+00:02:24.280 --> 00:02:27.380
+siempre hay que tener este formulario, pero podría utilizar este mismo
+
+00:02:27.380 --> 00:02:31.600
+metodología para tomar psi a notaciones más complejos.
+
+00:02:31.600 --> 00:02:35.560
+Pero digamos que psi, y no escribo que es una
+
+00:02:35.560 --> 00:02:36.300
+función de x e y.
+
+00:02:36.300 --> 00:02:37.320
+Sabemos que es una función de x e y.
+
+00:02:37.320 --> 00:02:43.190
+Vamos a decir que es igual a alguna función de x, llamaremos
+
+00:02:43.190 --> 00:02:48.480
+F1 de x, siempre alguna función de y.
+
+00:02:48.480 --> 00:02:51.050
+Y supongamos que hay un montón de términos como este.
+
+00:02:51.050 --> 00:02:54.780
+Así que hay n términos como esta, más completamente a la n-ésima
+
+00:02:54.780 --> 00:03:02.660
+término es la n-ésima función de x veces la n-ésima función de y.
+
+00:03:02.660 --> 00:03:05.570
+Acabamos de definir psi como este por lo que le puedo dar la
+
+00:03:05.570 --> 00:03:09.380
+intuición que cuándo utilizar diferenciación implícita en
+
+00:03:09.380 --> 00:03:11.000
+Esto, cuándo tomar la derivada de esto con
+
+00:03:11.000 --> 00:03:12.450
+respeto a x, realmente obtener algo que
+
+00:03:12.450 --> 00:03:13.850
+mira solo como ese.
+
+00:03:13.850 --> 00:03:16.260
+¿Cuál es la derivada de psi con respecto a x?
+
+00:03:21.190 --> 00:03:23.700
+Y esto es sólo la diferenciación implícita que usted
+
+00:03:23.700 --> 00:03:26.780
+aprendido, o que esperemos que aprendiste, en su primera
+
+00:03:26.780 --> 00:03:28.640
+curso de cálculo semestral.
+
+00:03:28.640 --> 00:03:31.150
+¿Que es igual, y sólo hacemos la regla del producto, derecho?
+
+00:03:31.150 --> 00:03:33.500
+Así que la primera expresión, tomar la derivada de
+
+00:03:33.500 --> 00:03:34.540
+con respecto a x.
+
+00:03:34.540 --> 00:03:41.970
+Bien, solo va a ser primo de f1 de x veces el segundo
+
+00:03:41.970 --> 00:03:46.650
+función, bueno, eso es justo g1 de y.
+
+00:03:46.650 --> 00:03:50.640
+Ahora agregar a la derivada de la segunda
+
+00:03:50.640 --> 00:03:53.690
+función de tiempos de la primera función.
+
+00:03:53.690 --> 00:03:58.500
+Así que además de f1 de x, que es sólo la primera función, veces la
+
+00:03:58.500 --> 00:03:59.690
+derivada de la segunda función.
+
+00:03:59.690 --> 00:04:02.280
+Ahora la derivada de la segunda función, se va a
+
+00:04:02.280 --> 00:04:04.030
+ser esta función con respecto a y.
+
+00:04:04.030 --> 00:04:09.015
+Así podría escribir como primer g1 de y.
+
+00:04:09.015 --> 00:04:11.050
+Pero por supuesto, estamos haciendo la regla de la cadena.
+
+00:04:11.050 --> 00:04:12.930
+Por lo resulta a veces dy dx.
+
+00:04:12.930 --> 00:04:17.149
+Y puede que desee revisar la diferenciación implícita
+
+00:04:17.149 --> 00:04:19.399
+videos si parece un poco extraño.
+
+00:04:19.399 --> 00:04:23.430
+Pero esto aquí, lo hice solo, esta expresión
+
+00:04:23.430 --> 00:04:26.070
+justo aquí, esto es la derivada con
+
+00:04:26.070 --> 00:04:28.570
+respecto a x de esto.
+
+00:04:28.570 --> 00:04:30.040
+Y así tenemos n términos.
+
+00:04:30.040 --> 00:04:33.170
+Así que si seguimos agregarlos, lo haré les verticalmente hacia abajo.
+
+00:04:33.170 --> 00:04:36.630
+Así además, y luego tienes un montón de ellos y el último
+
+00:04:36.630 --> 00:04:38.320
+uno se va a ver lo mismo, es sólo la
+
+00:04:38.320 --> 00:04:40.660
+n-ésima función de x.
+
+00:04:40.660 --> 00:04:49.400
+Por lo tanto primer fn de x veces la segunda función, g n y,
+
+00:04:49.400 --> 00:04:55.930
+Además de la primera función, fn de x veces la derivada de la
+
+00:04:55.930 --> 00:04:56.580
+segunda función.
+
+00:04:56.580 --> 00:04:59.350
+La derivada de la segunda función respecto de y es
+
+00:04:59.350 --> 00:05:04.980
+sólo g prime y veces dy dx.
+
+00:05:04.980 --> 00:05:06.650
+Es simplemente una regla de la cadena.
+
+00:05:06.650 --> 00:05:09.620
+DY dx.
+
+00:05:09.620 --> 00:05:13.440
+Ahora, tenemos dos términos n. Tenemos n términos aquí, derecho,
+
+00:05:13.440 --> 00:05:17.260
+donde cada término era una f de x veces una g y o f1 de x
+
+00:05:17.260 --> 00:05:19.040
+veces g1 de y y luego todo el camino a fn de
+
+00:05:19.040 --> 00:05:20.590
+x veces gn de y.
+
+00:05:20.590 --> 00:05:23.150
+Ahora para cada uno de ellos, dos de ellos llegamos cuando hicimos la
+
+00:05:23.150 --> 00:05:25.220
+regla del producto.
+
+00:05:25.220 --> 00:05:28.850
+Si nos agrupar los términos, por lo que si nos grupo todos los términos que
+
+00:05:28.850 --> 00:05:31.500
+¿no tiene un dx dy sobre ellos, lo que obtenemos?
+
+00:05:31.500 --> 00:05:33.430
+Si sumamos todos estos, supongo que se les podrían llamar en
+
+00:05:33.430 --> 00:05:42.010
+el lado izquierdo, sólo estoy reordenando, todo es igual a f1
+
+00:05:42.010 --> 00:05:54.660
+Prime x veces g1 y, además de f2, G2, a fn
+
+00:05:54.660 --> 00:06:00.770
+cebar, lo siento, primo de fn de x, gn de y.
+
+00:06:00.770 --> 00:06:06.900
+Eso es justo todos estos suman, además todos
+
+00:06:06.900 --> 00:06:07.890
+Estos suman.
+
+00:06:07.890 --> 00:06:13.080
+Todos los términos que tienen el dx dy en ellos.
+
+00:06:13.080 --> 00:06:15.640
+Y lo haré en un color diferente.
+
+00:06:15.640 --> 00:06:19.080
+Así que todos estos términos van a ser
+
+00:06:19.080 --> 00:06:20.092
+en un color diferente.
+
+00:06:20.092 --> 00:06:21.880
+Lo haré en un paréntesis diferentes.
+
+00:06:21.880 --> 00:06:30.990
+Plus f1 de prime g1 x de y, y lo haré más tarde, el dx dy
+
+00:06:30.990 --> 00:06:32.100
+Podrá distribuirlo fuera.
+
+00:06:32.100 --> 00:06:41.370
+Más, y tenemos n términos, además de fn de x primer gn de y,
+
+00:06:41.370 --> 00:06:47.200
+y entonces todos estos términos se multiplican por dy dx.
+
+00:06:47.200 --> 00:06:50.080
+Ahora, algo parece interesante aquí.
+
+00:06:50.080 --> 00:06:55.240
+Originalmente definimos nuestro psi, aquí, como este derecho aquí,
+
+00:06:55.240 --> 00:06:57.090
+¿pero lo que es este término verde?
+
+00:06:57.090 --> 00:07:01.470
+Bueno, lo que hicimos es que tomamos todos estos términos individuales,
+
+00:07:01.470 --> 00:07:04.800
+y estos términos verdes aquí sólo están tomando la derivada
+
+00:07:04.800 --> 00:07:09.400
+con respecto a x justa en cada uno de estos términos. Porque si usted
+
+00:07:09.400 --> 00:07:12.340
+tomar la derivada sólo con respecto a x, entonces la
+
+00:07:12.340 --> 00:07:13.890
+función de y es sólo una constante, ¿verdad?
+
+00:07:13.890 --> 00:07:15.900
+Si fueras a tomar sólo una derivada parcial con
+
+00:07:15.900 --> 00:07:17.310
+respecto a x.
+
+00:07:17.310 --> 00:07:19.220
+Así que si usted tomó las derivadas parciales respecto a x
+
+00:07:19.220 --> 00:07:22.740
+de este término, tratas a una función de y como una constante.
+
+00:07:22.740 --> 00:07:26.360
+Así la derivada de esto sólo sería primer f de x, g1
+
+00:07:26.360 --> 00:07:29.080
+y, porque g1 y es sólo una constante.
+
+00:07:29.080 --> 00:07:30.060
+Etcétera, etcétera.
+
+00:07:30.060 --> 00:07:33.410
+Todos estos términos que se puede ver como un parcial en verde
+
+00:07:33.410 --> 00:07:36.430
+derivado de psi con respecto a x.
+
+00:07:36.430 --> 00:07:39.090
+Nosotros sólo fingió como y es una constante.
+
+00:07:39.090 --> 00:07:43.600
+Y esa misma lógica, si ignoras esto, si sólo ves
+
+00:07:43.600 --> 00:07:46.890
+aquí, en esta parte derecha ¿qué es esto?
+
+00:07:46.890 --> 00:07:52.000
+Tomamos psi, hasta aquí, hemos tratado las funciones de x como
+
+00:07:52.000 --> 00:07:56.880
+una constante y sólo tomó las derivadas parciales con
+
+00:07:56.880 --> 00:07:57.870
+respecto a y.
+
+00:07:57.870 --> 00:08:00.055
+Y por eso son los números primos en el g.
+
+00:08:00.055 --> 00:08:03.060
+Y luego tenemos multiplicar veces dy dx.
+
+00:08:03.060 --> 00:08:06.360
+Así podría escribir esto, esto es igual a--voy a hacer esto
+
+00:08:06.360 --> 00:08:12.730
+Este verde verde--es lo mismo que el parcial de psi
+
+00:08:12.730 --> 00:08:15.830
+con respecto a x.
+
+00:08:15.830 --> 00:08:21.140
+Además, ¿qué es este morado, esta parte de la púrpura?
+
+00:08:21.140 --> 00:08:23.850
+Quiero hacerlo en un color diferente, en magenta.
+
+00:08:23.850 --> 00:08:32.409
+Esto, aquí, es el parcial de psi con respecto a
+
+00:08:32.409 --> 00:08:35.799
+y y luego veces dy dx.
+
+00:08:38.890 --> 00:08:41.624
+Eso es básicamente todo lo que quería mostrarle ahora
+
+00:08:41.624 --> 00:08:43.150
+en este video, porque me doy cuenta estoy casi
+
+00:08:43.150 --> 00:08:43.700
+quedando sin tiempo.
+
+00:08:43.700 --> 00:08:47.530
+Que la cadena de la regla, con respecto a uno de los
+
+00:08:47.530 --> 00:08:53.620
+variables, pero la segunda variable en la función es
+
+00:08:53.620 --> 00:08:56.140
+También es una función de x, la regla de la cadena.
+
+00:08:56.140 --> 00:08:59.590
+Si psi es una función de x y y y me llevaría no un
+
+00:08:59.590 --> 00:09:02.380
+derivadas parciales, aprovecho la plena derivada de
+
+00:09:02.380 --> 00:09:04.620
+PSI con respecto a x, es igual al parcial de psi
+
+00:09:04.620 --> 00:09:08.830
+con respecto a x, más el parcial de psi con respecto a
+
+00:09:08.830 --> 00:09:11.180
+y, a veces dy dx.
+
+00:09:11.180 --> 00:09:17.250
+Si y no era una función de x o y si era independiente
+
+00:09:17.250 --> 00:09:19.740
+de x, que dy dx sería 0.
+
+00:09:19.740 --> 00:09:23.220
+Y este término sería 0 y luego la derivada de la psi
+
+00:09:23.220 --> 00:09:26.460
+con respecto a x, sería sólo el parcial de psi con
+
+00:09:26.460 --> 00:09:27.170
+respecto a x.
+
+00:09:27.170 --> 00:09:31.140
+Pero de todos modos, quiero que sólo tenga esto en mente.
+
+00:09:31.140 --> 00:09:33.770
+Y en este video no probarlo, pero esperemos que di
+
+00:09:33.770 --> 00:09:35.630
+usted una intuición poco si no confundir a te.
+
+00:09:35.630 --> 00:09:40.020
+Y vamos a utilizar esta propiedad en la próxima serie de
+
+00:09:40.020 --> 00:09:43.190
+videos para comprender exactamente las ecuaciones un poco más.
+
+00:09:43.190 --> 00:09:45.710
+Me doy cuenta de que en este video acabo en cuanto tipo de
+
+00:09:45.710 --> 00:09:46.610
+dando una intuición aquí.
+
+00:09:46.610 --> 00:09:49.810
+No he dije aún es qué una ecuación exacta.
+
+00:09:49.810 --> 00:09:52.400
+Nos vemos en el siguiente vídeo.

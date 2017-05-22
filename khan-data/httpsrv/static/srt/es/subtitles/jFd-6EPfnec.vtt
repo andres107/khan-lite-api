@@ -1,0 +1,372 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.170 --> 00:00:03.364
+Bienvenido al máximo común divisor
+
+00:00:03.364 --> 00:00:06.020
+o video de mayor factor común.
+
+00:00:06.030 --> 00:00:09.548
+Así que para ser claro, en primer lugar, cuando alguien te pregunta
+
+00:00:09.548 --> 00:00:16.520
+¿Cuál es el máximo común divisor de doce y ocho?
+
+00:00:16.530 --> 00:00:22.758
+O te preguntan cuál es el factor común mayor de doce y ocho?
+
+00:00:22.758 --> 00:00:25.130
+Eso es una "c" ahí para común.
+
+00:00:25.140 --> 00:00:26.590
+No sé por qué salió así.
+
+00:00:26.600 --> 00:00:27.563
+Te están preguntando lo mismo.
+
+00:00:27.563 --> 00:00:31.014
+Quiero decir, realmente un divisor es un número que se puede dividir en algo,
+
+00:00:31.014 --> 00:00:34.167
+y un factor - bueno, creo que también es un número que se puede dividir en algo.
+
+00:00:34.180 --> 00:00:37.130
+Por lo que un divisor y un factor es más o menos lo mismo.
+
+00:00:37.140 --> 00:00:39.769
+Así que con eso fuera del camino, vamos a encontrar,
+
+00:00:39.769 --> 00:00:41.620
+¿Cuál es el máximo común divisor
+
+00:00:41.620 --> 00:00:43.890
+o el máximo factor común de doce y ocho?
+
+00:00:43.890 --> 00:00:45.960
+Bueno, lo que hacemos es que, es bastante sencillo.
+
+00:00:45.970 --> 00:00:48.930
+En primer lugar, sólo averiguamos los factores de cada uno de los números.
+
+00:00:48.930 --> 00:00:52.350
+Así que primero vamos a escribir todos los factores que salen del número doce.
+
+00:00:52.360 --> 00:00:57.250
+Bueno, uno es un factor. Dos cabe doce.
+
+00:00:57.250 --> 00:00:59.090
+Tres cabe en doce.
+
+00:00:59.100 --> 00:01:00.770
+Cuatro cabe en doce.
+
+00:01:00.780 --> 00:01:03.950
+Cinco no cabe en doce.
+
+00:01:03.960 --> 00:01:06.700
+Seis cabe en doce porque es dos veces seis.
+
+00:01:06.700 --> 00:01:10.220
+Y entonces, doce cabe en doce, por supuesto.
+
+00:01:10.230 --> 00:01:11.070
+Una veces doce
+
+00:01:11.070 --> 00:01:12.920
+Así que estos son los factores de doce.
+
+00:01:12.930 --> 00:01:15.430
+Vamos a escribir los factores de ocho.
+
+00:01:15.430 --> 00:01:17.600
+Bueno, uno cabe en ocho.
+
+00:01:17.600 --> 00:01:18.940
+Dos cabe en ocho.
+
+00:01:18.950 --> 00:01:20.630
+Tres no cabe en ocho
+
+00:01:20.640 --> 00:01:22.930
+Cuatro cabe en ocho.
+
+00:01:22.930 --> 00:01:27.830
+Y luego el último factor, la vinculación con el uno es ocho.
+
+00:01:27.840 --> 00:01:31.090
+Así que ahora que hemos escrito todos los factores de doce y ocho.
+
+00:01:31.090 --> 00:01:34.570
+Vamos a averiguar cuáles son los factores comunes de doce y ocho.
+
+00:01:34.570 --> 00:01:37.000
+Bueno, los dos tienen el factor común de uno.
+
+00:01:37.010 --> 00:01:38.380
+Y esto en realidad no es tan especial.
+
+00:01:38.390 --> 00:01:40.324
+Casi todos los números enteros
+
+00:01:40.324 --> 00:01:43.490
+o todo entero tiene el factor común de uno.
+
+00:01:43.500 --> 00:01:47.499
+Ambos comparten el factor común dos
+
+00:01:47.499 --> 00:01:51.070
+y ambos comparten el factor común cuatro.
+
+00:01:51.070 --> 00:01:54.589
+Así que no sólo estamos interesados ​​en encontrar un factor común,
+
+00:01:54.589 --> 00:01:57.380
+estamos interesados ​​en encontrar el máximo factor en común.
+
+00:01:57.390 --> 00:02:00.200
+Así que todos los factores comunes son uno, dos y cuatro.
+
+00:02:00.200 --> 00:02:01.580
+¿Y cuál es el mayor de ellos?
+
+00:02:01.590 --> 00:02:02.820
+Bueno, eso es bastante fácil.
+
+00:02:02.820 --> 00:02:03.890
+Es cuatro.
+
+00:02:03.900 --> 00:02:07.230
+Por lo que el máximo común divisor de doce y ocho es cuatro.
+
+00:02:07.230 --> 00:02:09.520
+Permítanme escribir esto sólo para dar énfasis.
+
+00:02:09.530 --> 00:02:14.650
+El factor común mayor de doce y ocho es igual a cuatro.
+
+00:02:14.660 --> 00:02:16.940
+Y, por supuesto, podríamos haber dicho con la misma facilidad:
+
+00:02:16.940 --> 00:02:23.500
+el máximo común divisor de doce y ocho es igual a cuatro.
+
+00:02:23.500 --> 00:02:27.718
+A veces hace ver las cosas un poco raras.
+
+00:02:27.718 --> 00:02:30.929
+Vamos a hacer otro problema.
+
+00:02:30.929 --> 00:02:41.891
+¿Cuál es el máximo común divisor de veinticinco y veinte?
+
+00:02:41.900 --> 00:02:44.170
+Bueno, vamos a hacerlo de la misma manera.
+
+00:02:44.170 --> 00:02:47.050
+Los factores de veinticinco?
+
+00:02:47.060 --> 00:02:48.430
+Bueno, es uno.
+
+00:02:48.430 --> 00:02:49.390
+Dos no cabe
+
+00:02:49.400 --> 00:02:50.150
+Tres no cabe.
+
+00:02:50.150 --> 00:02:51.420
+Cuatro no cabe.
+
+00:02:51.430 --> 00:02:52.352
+Cinco si lo hace.
+
+00:02:52.352 --> 00:02:54.270
+De hecho, es cinco veces cinco.
+
+00:02:54.280 --> 00:02:57.130
+Y después veinticinco.
+
+00:02:57.130 --> 00:02:59.560
+Es interesante que este sólo tiene tres factores.
+
+00:02:59.560 --> 00:03:02.322
+Te dejaré pensar acerca de por qué este número sólo tiene tres factores
+
+00:03:02.322 --> 00:03:07.958
+y otros números tienden a tener un número par de factores.
+
+00:03:07.958 --> 00:03:12.782
+Y entonces ahora hacemos los factores de veinte.
+
+00:03:12.782 --> 00:03:21.025
+Los factores de veinte son uno, dos, cuatro, cinco, diez y veinte.
+
+00:03:21.025 --> 00:03:22.977
+Y si sólo miramos esto por inspección se ve,
+
+00:03:22.977 --> 00:03:25.050
+bueno, que ambos comparten uno, pero eso no es nada especial.
+
+00:03:25.060 --> 00:03:28.110
+¿Pero ambos tienen el factor común de?
+
+00:03:28.110 --> 00:03:30.550
+Ya lo tienes - de cinco.
+
+00:03:30.560 --> 00:03:35.638
+Por lo tanto el máximo común divisor o factor común
+
+00:03:35.638 --> 00:03:41.030
+de 25 y 20, bueno, es igual a cinco.
+
+00:03:41.030 --> 00:03:44.895
+Vamos a hacer otro problema.
+
+00:03:44.895 --> 00:03:54.687
+¿Cuál es el máximo común divisor de cinco y doce?
+
+00:03:54.690 --> 00:03:56.420
+Bueno, los factores de cinco?
+
+00:03:56.430 --> 00:03:57.330
+Muy fácil.
+
+00:03:57.330 --> 00:03:59.340
+Uno y cinco.
+
+00:03:59.340 --> 00:04:00.283
+Eso es porque es un número primo.
+
+00:04:00.283 --> 00:04:03.378
+No tiene otros factores más que uno y sí mismo.
+
+00:04:03.393 --> 00:04:05.370
+A continuación, los factores de doce?
+
+00:04:05.370 --> 00:04:06.170
+Doce tiene un montón de factores.
+
+00:04:06.180 --> 00:04:14.270
+Es uno, dos, tres, cuatro, seis y doce.
+
+00:04:14.270 --> 00:04:20.520
+Por lo que realmente parece que el único factor común que comparten es uno.
+
+00:04:20.520 --> 00:04:23.360
+Por lo que fue, supongo, en algún tipo de forma decepcionante.
+
+00:04:23.370 --> 00:04:28.750
+Por lo que el máximo común divisor de cinco y doce años es uno.
+
+00:04:28.750 --> 00:04:31.500
+Y voy a lanzarles aquí un poco de terminología.
+
+00:04:31.500 --> 00:04:35.476
+Cuando dos números tienen un factor mayor común de uno,
+
+00:04:35.476 --> 00:04:37.292
+se llaman primos entre sí.
+
+00:04:37.292 --> 00:04:39.992
+Y esto hace sentido, porque un número primo
+
+00:04:39.992 --> 00:04:42.880
+es algo que sólo tiene a uno y sí mismo como un factor.
+
+00:04:42.880 --> 00:04:45.161
+Y dos números primos relativos
+
+00:04:45.161 --> 00:04:50.190
+son números que sólo tienen uno como el máximo común divisor.
+
+00:04:50.190 --> 00:04:51.680
+Espero que no te confundí.
+
+00:04:51.680 --> 00:04:56.744
+Vamos a hacer otro problema.
+
+00:04:56.744 --> 00:05:04.567
+Vamos a hacer el máximo común divisor de seis y doce.
+
+00:05:04.570 --> 00:05:05.670
+Lo sé, 12 está apareciendo muchas veces.
+
+00:05:05.680 --> 00:05:08.810
+Voy a tratar de ser más creativo cuando pienso en mis números.
+
+00:05:08.810 --> 00:05:11.040
+Así, el máximo común divisor de seis y doce?
+
+00:05:11.050 --> 00:05:12.920
+Bueno, son los factores de seis.
+
+00:05:12.920 --> 00:05:17.760
+Son uno, dos, tres y seis.
+
+00:05:17.760 --> 00:05:22.788
+Factores de doce: un, dos, tres -
+
+00:05:22.788 --> 00:05:24.384
+que casi deberíamos de tener estos memorizados.
+
+00:05:24.384 --> 00:05:29.060
+Tres, cuatro, seis y doce.
+
+00:05:29.060 --> 00:05:33.935
+Bueno, resulta que uno es un factor común de ambos.
+
+00:05:33.935 --> 00:05:36.350
+Dos también es un factor común de ambos.
+
+00:05:36.350 --> 00:05:39.540
+Tres es un factor común de ambos.
+
+00:05:39.550 --> 00:05:42.100
+Y seis es un factor común de ambos.
+
+00:05:42.100 --> 00:05:43.910
+Y, por supuesto, ¿Cuál es el máximo común divisor?
+
+00:05:43.920 --> 00:05:46.048
+Bueno, es el seis.
+
+00:05:46.048 --> 00:05:46.770
+Y esto es interesante.
+
+00:05:46.770 --> 00:05:49.518
+Así que en esta situación, el máximo común divisor -
+
+00:05:49.518 --> 00:05:52.600
+y pido disculpas por cambiar constantemente entre divisor y factor.
+
+00:05:52.600 --> 00:05:55.175
+La comunidad matemática debería decidirse por uno de los dos.
+
+00:05:55.175 --> 00:06:00.210
+El máximo común divisor de seis y doce es igual a seis.
+
+00:06:00.220 --> 00:06:01.670
+Lo que en realidad es igual a uno de los números.
+
+00:06:01.680 --> 00:06:02.906
+Y esto tiene mucho sentido
+
+00:06:02.906 --> 00:06:07.710
+ya que seis de hecho es divisible entre doce.
+
+00:06:07.720 --> 00:06:08.930
+Bueno, eso es todo por ahora.
+
+00:06:08.930 --> 00:06:11.630
+Esperemos que estés listo para hacer los problemas del máximo común divisor
+
+00:06:11.640 --> 00:06:12.810
+o factor mayor en común.
+
+00:06:12.810 --> 00:06:14.940
+Creo que podría hacer otro módulo en el futuro cercano
+
+00:06:14.950 --> 00:06:18.155
+que te dará más problemas de ejemplo.

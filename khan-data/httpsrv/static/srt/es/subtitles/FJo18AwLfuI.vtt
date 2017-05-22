@@ -1,0 +1,315 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.640 --> 00:00:08.810
+Tenemos que evaluar el límite, como x infinidad de enfoques, de 4 x
+
+00:00:08.810 --> 00:00:18.350
+cuadrados menos x 5, todo eso en 1 menos x 3 cuadrado.
+
+00:00:18.350 --> 00:00:20.120
+Tan infinito es tipo de un número extraño.
+
+00:00:20.120 --> 00:00:22.940
+Simplemente no enchufe infinito y ver qué pasa.
+
+00:00:22.940 --> 00:00:25.450
+Pero si desea evaluar este límite, lo que podría intentar
+
+00:00:25.450 --> 00:00:28.420
+hacer es justo evaluar--si desea encontrar el límite como esta
+
+00:00:28.420 --> 00:00:31.020
+Numerador enfoques infinito, pones en números realmente grandes
+
+00:00:31.020 --> 00:00:32.840
+allí, y vas a ver que se aproxima a infinito.
+
+00:00:32.840 --> 00:00:34.980
+Que el numerador enfoques infinito como
+
+00:00:34.980 --> 00:00:36.200
+x acerca a infinito.
+
+00:00:36.200 --> 00:00:38.300
+Y si pones realmente grandes cantidades en el denominador,
+
+00:00:38.300 --> 00:00:40.600
+vas a ver que también--que bueno,
+
+00:00:40.600 --> 00:00:41.780
+no bastante infinito.
+
+00:00:41.780 --> 00:00:45.230
+x 3 cuadrado enfoque infinito, pero estamos
+
+00:00:45.230 --> 00:00:46.190
+lo restando.
+
+00:00:49.100 --> 00:00:52.280
+Si resta infinito de algunos no infinito, tiene
+
+00:00:52.280 --> 00:00:54.220
+va a ser infinito negativo.
+
+00:00:54.220 --> 00:00:57.610
+Así que si fueras a sólo tipo de evaluarlo en el infinito,
+
+00:00:57.610 --> 00:01:00.260
+el numerador, obtendría infinito positivo.
+
+00:01:00.260 --> 00:01:04.915
+El denominador, obtendría infinito negativo.
+
+00:01:04.915 --> 00:01:06.260
+Por lo tanto a escribir como este.
+
+00:01:06.260 --> 00:01:07.420
+Infinito negativo.
+
+00:01:07.420 --> 00:01:09.800
+Y esa es una de las formas indeterminadas
+
+00:01:09.800 --> 00:01:11.770
+que regla de L'Hopital puede aplicarse a.
+
+00:01:11.770 --> 00:01:13.040
+Y probablemente usted está diciendo, oye, Sal, por qué somos incluso
+
+00:01:13.040 --> 00:01:14.400
+¿utilizando la regla de L'Hopital?
+
+00:01:14.400 --> 00:01:16.450
+Sé cómo hacerlo sin regla de L'Hopital.
+
+00:01:16.450 --> 00:01:19.130
+Y probablemente haces o debe hacer.
+
+00:01:19.130 --> 00:01:20.160
+Y haremos todo lo en un segundo.
+
+00:01:20.160 --> 00:01:22.220
+Pero sólo quería mostrarle también regla de L'Hopital
+
+00:01:22.220 --> 00:01:24.150
+obras para este tipo de problema y yo realmente sólo quería
+
+00:01:24.150 --> 00:01:28.190
+mostrar un ejemplo que tenía un infinito sobre negativo
+
+00:01:28.190 --> 00:01:30.510
+o forma indeterminada infinito positivo.
+
+00:01:30.510 --> 00:01:32.320
+Pero vamos a aplicar la regla de L'Hopital aquí.
+
+00:01:32.320 --> 00:01:37.360
+Así que si este límite existe, o si el límite de sus derivados
+
+00:01:37.360 --> 00:01:43.380
+Existen, entonces este límite va a ser igual al límite como x
+
+00:01:43.380 --> 00:01:47.000
+enfoques infinito de la derivada del dividendo.
+
+00:01:47.000 --> 00:01:49.750
+Por lo tanto es la derivada del dividendo--el derivado
+
+00:01:49.750 --> 00:01:56.130
+4 x al cuadrado es 8 x menos 5 más--la derivada de la
+
+00:01:56.130 --> 00:01:58.420
+denominador es, pues, derivado de 1 es 0.
+
+00:01:58.420 --> 00:02:03.200
+Derivado de la negativa x 3 al cuadrado es negativo x 6.
+
+00:02:03.200 --> 00:02:06.200
+Y una vez más, cuando evalúa infinito, la
+
+00:02:06.200 --> 00:02:08.930
+Numerador va hasta el infinito de enfoque.
+
+00:02:08.930 --> 00:02:11.310
+Y el denominador se aproxima a infinito negativo.
+
+00:02:11.310 --> 00:02:14.240
+Negativo 6 veces infinito es infinito negativo.
+
+00:02:14.240 --> 00:02:16.390
+Esto es infinito negativo.
+
+00:02:16.390 --> 00:02:18.240
+Así que vamos a aplicar regla de L'Hopital.
+
+00:02:18.240 --> 00:02:22.250
+Así que si existe el límite de los derivados de estos chicos--o la
+
+00:02:22.250 --> 00:02:25.620
+función racional de la derivada de este chico dividido
+
+00:02:25.620 --> 00:02:28.870
+por la derivada de ese chico--si existe, entonces esto
+
+00:02:28.870 --> 00:02:33.010
+límite va a ser igual al límite como x enfoques
+
+00:02:33.010 --> 00:02:38.280
+infinidad de--arbitrariamente el conmutador colores--derivados
+
+00:02:38.280 --> 00:02:41.570
+8 x menos 5 es sólo 8.
+
+00:02:41.570 --> 00:02:45.710
+Derivado de negativo 6 x es negativo 6.
+
+00:02:45.710 --> 00:02:48.040
+Y esto sólo va a ser--esto es solo un constante aquí.
+
+00:02:48.040 --> 00:02:49.910
+Así que no importa qué límite está acercándose,
+
+00:02:49.910 --> 00:02:51.200
+sólo va a igualar este valor.
+
+00:02:51.200 --> 00:02:52.670
+¿Que es lo que?
+
+00:02:52.670 --> 00:02:55.540
+Si queremos ponerlo en menor forma común o simplificado
+
+00:02:55.540 --> 00:02:57.670
+forma, es negativo 4/3.
+
+00:03:01.810 --> 00:03:03.440
+Por lo tanto existe este límite.
+
+00:03:03.440 --> 00:03:04.920
+Se trata de una forma indeterminada.
+
+00:03:04.920 --> 00:03:11.060
+Y el límite de derivado de esta función en este
+
+00:03:11.060 --> 00:03:13.680
+derivado de la función existe, por lo que este límite debe también
+
+00:03:13.680 --> 00:03:15.190
+3/4 negativo igual.
+
+00:03:15.190 --> 00:03:17.610
+Y por el mismo argumento, que limitan también debe ser
+
+00:03:17.610 --> 00:03:20.520
+igual al negativo 4/3.
+
+00:03:20.520 --> 00:03:21.950
+Y para aquellos de ustedes que dicen, bueno, nosotros ya
+
+00:03:21.950 --> 00:03:23.540
+sabía cómo hacerlo.
+
+00:03:23.540 --> 00:03:25.470
+Sólo podríamos factor fuera una x al cuadrado.
+
+00:03:25.470 --> 00:03:26.400
+Está absolutamente en lo cierto.
+
+00:03:26.400 --> 00:03:28.440
+Y le mostraremos ese derecho aquí.
+
+00:03:28.440 --> 00:03:30.580
+Sólo para mostrar que no es el único--saben,
+
+00:03:30.580 --> 00:03:32.920
+Regla de L'Hopital no es el único juego de la ciudad.
+
+00:03:32.920 --> 00:03:35.630
+Y francamente, para este tipo de problema, mi primera reacción
+
+00:03:35.630 --> 00:03:38.380
+probablemente no habría sido usar regla de L'Hopital primero.
+
+00:03:38.380 --> 00:03:42.360
+Podría haber dicho que primero limitar--así el límite de x
+
+00:03:42.360 --> 00:03:49.630
+enfoques infinidad de 4 x al cuadrado menos 5 x 1 más menos
+
+00:03:49.630 --> 00:03:55.830
+3 x al cuadrado es igual al límite cuando x aproxima infinito.
+
+00:03:55.830 --> 00:03:59.940
+Permítanme dibujar una pequeña línea aquí, para mostrar que esto es igual
+
+00:03:59.940 --> 00:04:02.010
+para eso, no a esta cosa aquí.
+
+00:04:02.010 --> 00:04:03.790
+Esto es igual al límite cuando x aproxima infinito.
+
+00:04:03.790 --> 00:04:06.020
+Vamos a factor fuera una x al cuadrado por el numerador
+
+00:04:06.020 --> 00:04:06.690
+y el denominador.
+
+00:04:06.690 --> 00:04:15.750
+Para que tenga una x cuadrada veces 4 menos 5 sobre x.
+
+00:04:15.750 --> 00:04:19.220
+¿Verdad? x cuadrado veces 5 largo x va a ser x 5.
+
+00:04:19.220 --> 00:04:22.440
+Vamos a dividido por--factor fuera una x en el numerador.
+
+00:04:22.440 --> 00:04:29.750
+Tan x cuadrado veces 1 sobre x al cuadrado menos 3.
+
+00:04:29.750 --> 00:04:33.540
+Y entonces se cancelan estos squareds x.
+
+00:04:33.540 --> 00:04:37.920
+Así que esto va a ser igual al límite como x enfoques
+
+00:04:37.920 --> 00:04:45.990
+infinidad de 4 menos 5 largo x 1 más sobre x al cuadrado menos 3.
+
+00:04:45.990 --> 00:04:47.760
+¿Y lo que es este va a ser igual a?
+
+00:04:47.760 --> 00:04:50.610
+Bueno, como x enfoques infinito--5 dividido por
+
+00:04:50.610 --> 00:04:52.050
+infinito--este término va a ser 0.
+
+00:04:52.050 --> 00:04:54.160
+Denominador infinitamente grande Super duper,
+
+00:04:54.160 --> 00:04:56.650
+Esto va a ser 0.
+
+00:04:56.650 --> 00:04:58.800
+Va a enfoque 0.
+
+00:04:58.800 --> 00:04:59.900
+Y el mismo argumento.
+
+00:04:59.900 --> 00:05:02.400
+Aquí va a enfoque 0.
+
+00:05:02.400 --> 00:05:05.010
+Todos te dejan con es un 4 y un 3 negativos.
+
+00:05:06.570 --> 00:05:08.130
+Así que esto va a ser igual al negativo o 4 sobre un
+
+00:05:08.130 --> 00:05:10.610
+negativo 3 o negativo 4/3.
+
+00:05:10.610 --> 00:05:13.270
+Así que no hay que utilizar la regla de L'Hopital
+
+00:05:13.270 --> 00:05:14.910
+para este problema.

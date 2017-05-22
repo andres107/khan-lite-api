@@ -1,0 +1,714 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.740 --> 00:00:02.400
+En el ultimo video, vimos que pasa cuando tenemos
+
+00:00:02.400 --> 00:00:03.970
+resistencias en serie.
+
+00:00:03.970 --> 00:00:05.390
+Ahora veamos que pasa cuando tenemos
+
+00:00:05.390 --> 00:00:07.600
+resistencias en paralelo.
+
+00:00:07.600 --> 00:00:09.860
+Bueno, dejenme elegir un nuevo color.
+
+00:00:09.860 --> 00:00:12.960
+El nuevo color va a ser magenta.
+
+00:00:12.960 --> 00:00:16.720
+Esta es mi bateria: positivo, negativo.
+
+00:00:16.720 --> 00:00:21.140
+Este es mi cable conductor ideal
+
+00:00:21.140 --> 00:00:26.000
+Aca esta mi cable conductor ideal, pero entonces*-- y esto es
+
+00:00:26.000 --> 00:00:30.460
+nuevo--- se ramifica, y ahora tenemos dos resistencias.
+
+00:00:30.460 --> 00:00:31.710
+tengo una aca.
+
+00:00:41.910 --> 00:00:43.140
+Y esta es otra resistencia.
+
+00:00:43.140 --> 00:00:46.320
+Y digamos que esta tiene una resistencia R1, esta tiene
+
+00:00:46.320 --> 00:00:49.130
+una resistencia R2.
+
+00:00:49.130 --> 00:00:52.220
+Y por supuesto, la convencion no-intuitiva es
+
+00:00:52.220 --> 00:00:55.180
+que la corriente fluye desde el positivo al negativo
+
+00:00:55.180 --> 00:00:57.410
+pero sabemos que los electrones estan realmente fluyendo
+
+00:00:57.410 --> 00:00:58.370
+en la otra direccion
+
+00:00:58.370 --> 00:01:00.910
+y quiero seguir diciendo eso, porque creo que es tan
+
+00:01:00.910 --> 00:01:03.700
+importante entender que pasa realmente en lo opuesto a la
+
+00:01:03.700 --> 00:01:05.870
+convencion.
+
+00:01:05.870 --> 00:01:08.450
+Bueno, de cualquier manera, en el video previo dijimos que
+
+00:01:08.450 --> 00:01:12.610
+cuanto tenemos objetos o componentes en serie, la corriente
+
+00:01:12.610 --> 00:01:15.540
+a traves del circuito entero es constante.
+
+00:01:15.540 --> 00:01:18.770
+Pero pensemos que pasa aca.
+
+00:01:18.770 --> 00:01:20.660
+Entonces tenemos estos electrones,--pensemos sobre esto
+
+00:01:20.660 --> 00:01:21.300
+desde el flujo del electron.
+
+00:01:21.300 --> 00:01:23.240
+Los electrones fluyen, fluyen, fluyen a una frecuencia
+
+00:01:23.240 --> 00:01:27.770
+determinada y despues aqui tienen una opcion
+
+00:01:27.770 --> 00:01:31.070
+Algunos de ellos pueden tomar este camino arriba, algunos de ellos pueden tomar este
+
+00:01:31.070 --> 00:01:33.160
+camino abajo.
+
+00:01:33.160 --> 00:01:38.110
+Entonces si pensas en eso, el flujo de los electornes
+
+00:01:38.110 --> 00:01:41.920
+en esta ramificacion mas el flujo de los electrones en esa ramificacion
+
+00:01:41.920 --> 00:01:44.130
+tienen que sumar el flujo de electrones en esta
+
+00:01:44.130 --> 00:01:45.190
+rama, no?
+
+00:01:45.190 --> 00:01:47.610
+y despues se vuelven a reunir, y el flujo de los electrones
+
+00:01:47.610 --> 00:01:50.490
+aqui --si lo pensamos de esta manera y ahora
+
+00:01:50.490 --> 00:01:53.510
+voy a volver a la convencion, esto es I1.
+
+00:01:56.150 --> 00:01:59.110
+Entonces tenes estos electrones fluyendo en una frecuencia determianda.
+
+00:01:59.110 --> 00:02:01.160
+Esta es la corriente aqui.
+
+00:02:01.160 --> 00:02:05.560
+Ellos van a ramificarse, y la mitad tal vez vaya
+
+00:02:05.560 --> 00:02:09.800
+veremos si las resistencias aqui son iguales, si ambas de
+
+00:02:09.800 --> 00:02:13.280
+estas ramas tienen una misma capacidad en terminos de
+
+00:02:13.280 --> 00:02:15.030
+velocidad de flujo de electrones.
+
+00:02:15.030 --> 00:02:17.220
+Si son iguales, o como la corriente va en esta
+
+00:02:17.220 --> 00:02:21.390
+direccion, hablaremos sobre positrones o cargas positivas.
+
+00:02:21.390 --> 00:02:23.950
+Si las cargas positivas - a pesar de que yo solo quiero dejar
+
+00:02:23.950 --> 00:02:25.350
+dicho que no son las cargas positivas
+
+00:02:25.350 --> 00:02:26.170
+las que se mueven.
+
+00:02:26.170 --> 00:02:26.900
+Son los electrones.
+
+00:02:26.900 --> 00:02:30.680
+Pero si decis que la falta de electrones puede fluir de manera igual
+
+00:02:30.680 --> 00:02:33.950
+y facilmente entre ambos caminos, que tal si las resistencias fueran
+
+00:02:33.950 --> 00:02:36.500
+las mismas, podriamos imaginar que la corriente, el flujo
+
+00:02:36.500 --> 00:02:38.270
+se dividiria a si mismo, y despues aqui
+
+00:02:38.270 --> 00:02:39.180
+se volveria a reunir.
+
+00:02:39.180 --> 00:02:43.000
+entonces nosotros diriamos que la corriente aqui seria I1.
+
+00:02:43.000 --> 00:02:45.970
+Pero vamos a ver hacia donde va la corriente.
+
+00:02:45.970 --> 00:02:51.120
+Digamos que esta corriente I2, y esta es I3.
+
+00:02:54.260 --> 00:02:57.660
+Entonces crees que es razonable, y te podes imaginar caños de agua
+
+00:02:57.660 --> 00:03:02.550
+o lo que sea, que la corriente que va a ir hacia la rama
+
+00:03:02.550 --> 00:03:07.590
+es igual a la corriente saliendo de la rama.
+
+00:03:07.590 --> 00:03:10.830
+O podrias pensar que si la corriente ingresando
+
+00:03:10.830 --> 00:03:15.110
+cuando la corriente I2 e I1 se unen, se combinan y
+
+00:03:15.110 --> 00:03:16.520
+se convierten en Corriente 1, no?
+
+00:03:16.520 --> 00:03:17.450
+Digo, pensa en eso.
+
+00:03:17.450 --> 00:03:21.800
+En un segundo, si esto fueran 5 coulombs por segundo
+
+00:03:21.800 --> 00:03:31.660
+--estoy inventando los numeros--- y esto es 6 coulumb por segundo
+
+00:03:31.660 --> 00:03:34.320
+en un segundo aca, vas a tener 5 coulumbs
+
+00:03:34.320 --> 00:03:38.760
+viniendo de esta rama y 6 viniendo de esta rama
+
+00:03:38.760 --> 00:03:41.850
+entonces vas a tener 11 coulombs por segundo saliendo
+
+00:03:41.850 --> 00:03:45.190
+una vez que se haya combinado, entonces seria 11
+
+00:03:45.190 --> 00:03:45.800
+coulombs por segundo.
+
+00:03:45.800 --> 00:03:49.420
+entonces espero que esto tenga sentido para vos
+
+00:03:49.420 --> 00:03:52.480
+que esta corriente sea igual a la combinacion de esta corriente
+
+00:03:52.480 --> 00:03:54.120
+y esta corriente.
+
+00:03:54.120 --> 00:03:55.900
+Ahora, que mas sabemos
+
+00:03:55.900 --> 00:04:03.090
+Ademas sabemos que el voltaje a lo largo de este cable ideal
+
+00:04:03.090 --> 00:04:06.800
+es constante, entonces el voltaje --dejame dibujarlo en otro
+
+00:04:06.800 --> 00:04:09.260
+color en azul.
+
+00:04:09.260 --> 00:04:13.900
+Entonces, por ejemplo, el voltaje a lo largo de este azul...
+
+00:04:13.900 --> 00:04:19.350
+es todo similar, porque este cable es
+
+00:04:19.350 --> 00:04:23.220
+un conductor ideal, y podes ver esta parte azul como
+
+00:04:23.220 --> 00:04:24.830
+una extension del terminal
+
+00:04:24.830 --> 00:04:26.810
+positivo de la bateria.
+
+00:04:26.810 --> 00:04:30.850
+Y de manera similar *--lo hare en amarillo- podriamos dibujar
+
+00:04:30.850 --> 00:04:33.430
+el cable como una extension del terminal
+
+00:04:33.430 --> 00:04:36.750
+negativo de la bateria.
+
+00:04:36.750 --> 00:04:38.280
+Esta es una extension del terminal
+
+00:04:38.280 --> 00:04:39.530
+negativo de la bateria.
+
+00:04:45.150 --> 00:04:48.800
+Entonces si la diferencia del voltaje entre esto y esto,
+
+00:04:48.800 --> 00:04:51.440
+digamos que lo llamamos voltaje total, o llamemoslo
+
+00:04:51.440 --> 00:04:53.480
+Voltaje, si?
+
+00:04:53.480 --> 00:04:55.980
+la diferencia de voltaje entre ese punto y este punto es
+
+00:04:55.980 --> 00:04:58.600
+la misma y exacta diferencia que la diferencia en voltaje entre
+
+00:04:58.600 --> 00:05:02.290
+este punto y este punto, que es la misma cosa
+
+00:05:02.290 --> 00:05:04.180
+que la diferencia de voltaje entre
+
+00:05:04.180 --> 00:05:07.200
+este punto y este punto
+
+00:05:07.200 --> 00:05:08.510
+Entonces, que podemos decir?
+
+00:05:08.510 --> 00:05:10.890
+Cual es la corriente total en el sistema.
+
+00:05:10.890 --> 00:05:12.880
+Si solo miraramos esto como una caja negra, que esto es un
+
+00:05:12.880 --> 00:05:17.880
+tipo de resistencia total, entonces la corriente total en el
+
+00:05:17.880 --> 00:05:22.260
+sistema seria el voltaje total, el voltaje dividido
+
+00:05:22.260 --> 00:05:25.590
+por --- digamos que es nuestra resistencia total, si?
+
+00:05:25.590 --> 00:05:27.580
+Digamos que no pudimos ver esto y recien decimos
+
+00:05:27.580 --> 00:05:32.840
+que es solo la resistencia total y que es igual
+
+00:05:32.840 --> 00:05:35.140
+a la corriente a traves de R1.
+
+00:05:35.140 --> 00:05:37.350
+Esto es I1.
+
+00:05:37.350 --> 00:05:39.100
+Esto es un 1 ahi.
+
+00:05:39.100 --> 00:05:40.350
+Esto es corriente I1.
+
+00:05:42.730 --> 00:05:43.560
+Que es corriente I1.
+
+00:05:43.560 --> 00:05:47.160
+Bueno, va a ser el voltaje a traves de esta resistencia
+
+00:05:47.160 --> 00:05:48.990
+dividido por la resistencia, si?
+
+00:05:48.990 --> 00:05:53.210
+Eso es lo que nos dice la ley de Ohm: V es igual a IR, o
+
+00:05:53.210 --> 00:05:57.770
+otra forma en que lo podriamos decir es que V sobre R es igual a I, no?
+
+00:05:57.770 --> 00:06:01.080
+Entonces I1 es igual al voltaje a lo largo de la resistencia, pero nosotros
+
+00:06:01.080 --> 00:06:02.590
+recien dijimos que el voltaje es lo mismo que
+
+00:06:02.590 --> 00:06:04.350
+este voltaje, no?
+
+00:06:04.350 --> 00:06:06.330
+Este voltaje aca es lo mismo que este voltaje aca.
+
+00:06:06.330 --> 00:06:08.090
+El voltaje aca es lo mismo que el voltaje aca.
+
+00:06:08.090 --> 00:06:11.840
+Entonces el voltaje a traves del resistos sigue siendo V, y de esa manera
+
+00:06:11.840 --> 00:06:15.980
+la corriente fluyendo a traves de ese resistor es V sobre R1.
+
+00:06:15.980 --> 00:06:19.400
+Y la misma logica: que es i2?
+
+00:06:19.400 --> 00:06:21.160
+I2 es esta corriente
+
+00:06:21.160 --> 00:06:23.900
+Cual es el voltaje en este componente?
+
+00:06:23.900 --> 00:06:25.930
+Bueno, es V de nuevo, no?
+
+00:06:25.930 --> 00:06:28.400
+Es lo mismo, ya que el voltaje a traves de este componente es
+
+00:06:28.400 --> 00:06:32.450
+v sobre R2, segun la ley de Ohm.
+
+00:06:32.450 --> 00:06:34.870
+Bueno, todas estas V´s son lo mismo, entonces podemos dividir ambos
+
+00:06:34.870 --> 00:06:38.100
+lados de la ecuacion por V y, obtenemos 1 sobre la resistencia
+
+00:06:38.100 --> 00:06:46.160
+total que es igual a 1 sobre R1 + 1 sobre R2
+
+00:06:46.160 --> 00:06:49.300
+Y vos podrias decir lo mismo si tuvieramos un R3 aca
+
+00:06:49.300 --> 00:06:54.520
+Digamos que tenemos otro componentes y es un R3.
+
+00:06:54.520 --> 00:06:56.430
+Podrias usar el mismo argumento y tendrias
+
+00:06:56.430 --> 00:06:58.590
++1 sobre R3.
+
+00:06:58.590 --> 00:07:02.260
+Y si vos Rn o 10 de ellos, vos solo mantendrias ese 1
+
+00:07:02.260 --> 00:07:05.350
+sobre R4,R5, etc.
+
+00:07:05.350 --> 00:07:08.170
+Entonces veamos si podemos usar esta informacion que tenemos
+
+00:07:08.170 --> 00:07:10.100
+aprendida, para realmente resolver un problema, y yo encuentro
+
+00:07:10.100 --> 00:07:12.760
+que es siempre mas facil resolver un problema que
+
+00:07:12.760 --> 00:07:15.740
+explicar la teoria detras del mismo.
+
+00:07:15.740 --> 00:07:17.750
+Vas a ver que con la mayoria de los problemas en circuitos es
+
+00:07:17.750 --> 00:07:19.860
+realmente matematica muy basica.
+
+00:07:19.860 --> 00:07:23.510
+Entonces digamos que tengo una bateria de 16 volts, mas
+
+00:07:23.510 --> 00:07:27.380
+menos, son 16 volts.
+
+00:07:27.380 --> 00:07:29.660
+Y para llegar al punto donde no siempre tenes
+
+00:07:29.660 --> 00:07:32.090
+que dibujar circuitos iguales(aunque esta bien si
+
+00:07:32.090 --> 00:07:33.900
+estas dibujando circuitos complejos, yo podria
+
+00:07:33.900 --> 00:07:34.950
+dibujarlo asi)
+
+00:07:34.950 --> 00:07:38.650
+Yo podria dibujar el circuito asi, y digamos que
+
+00:07:38.650 --> 00:07:39.806
+hay una resistencia aca.
+
+00:07:39.806 --> 00:07:43.230
+Y despues digamos que hay un cable y hay otra
+
+00:07:43.230 --> 00:07:47.460
+resistencia aca, y que esto decide hacer una cosa azarosa aca
+
+00:07:47.460 --> 00:07:51.200
+y que se conecta aca, y que ellos
+
+00:07:51.200 --> 00:07:52.590
+vuelven ahi.
+
+00:07:52.590 --> 00:07:55.710
+Esta cosa rara que dibujo, que nunca
+
+00:07:55.710 --> 00:07:57.970
+vas a ver en un texto, porque la mayoria de la gente son mas
+
+00:07:57.970 --> 00:08:02.080
+razonables que yo, es la misma cosa exacta---vos podrias casi
+
+00:08:02.080 --> 00:08:05.440
+verlo de manera topologica como el mismo circuito que yo
+
+00:08:05.440 --> 00:08:07.740
+dibujo en el diagrama previo, aunque ahora yo voy a asignar
+
+00:08:07.740 --> 00:08:08.730
+numeros a este.
+
+00:08:08.730 --> 00:08:16.810
+Digamos que esta resistencia es 20 ohms y tambien digamos
+
+00:08:16.810 --> 00:08:23.590
+que esta resistencia es de 5ohms. Lo que quiero saber es cual
+
+00:08:23.590 --> 00:08:26.690
+es la corriente fluyendo en este sistema?
+
+00:08:26.690 --> 00:08:28.040
+Primero tenemos que saber que resistencia equivalente es
+
+00:08:28.040 --> 00:08:30.460
+y entonces podemos aplicar la ley de Ohm
+
+00:08:30.460 --> 00:08:31.720
+para averiguar la corriente en el sistema.
+
+00:08:31.720 --> 00:08:34.070
+Entonces queremos saber la corriente y sabemos que
+
+00:08:34.070 --> 00:08:37.240
+la convencion es que la corriente fluye desde el terminal
+
+00:08:37.240 --> 00:08:39.400
+positivo al negativo.
+
+00:08:39.400 --> 00:08:41.679
+Entonces como averiguamos la resistencia equivalente?
+
+00:08:41.679 --> 00:08:44.890
+Bueno, nosotros sabemos que te probamos que
+
+00:08:44.890 --> 00:08:49.950
+la resistencia total es igual a 1 sobre su resistencia + 1
+
+00:08:49.950 --> 00:08:52.930
+sobre esta resistencia.
+
+00:08:52.930 --> 00:08:57.300
+entonces 1 sobre --- no voy a seguir escribiendolo
+
+00:08:57.300 --> 00:08:58.880
+que es 1 sobre 20?
+
+00:08:58.880 --> 00:09:01.750
+Bueno, hagamoslo fraccion.
+
+00:09:01.750 --> 00:09:06.130
+Entonces es 1/20 + 1/5 es que sobre 20?
+
+00:09:06.130 --> 00:09:07.880
+4/20 no?
+
+00:09:07.880 --> 00:09:14.060
+entonces 1 sobre la resistencia total es igual a 5/20 que es
+
+00:09:14.060 --> 00:09:14.650
+igual a que?
+
+00:09:14.650 --> 00:09:15.900
+1/4
+
+00:09:18.210 --> 00:09:22.520
+entonces si 1/4 es igual a 1/4, R debe ser igual a 4.
+
+00:09:22.520 --> 00:09:25.850
+R es igual a 4 Ohms.
+
+00:09:25.850 --> 00:09:30.260
+Entonces podemos volver a dibujar este circuito loco asi.
+
+00:09:30.260 --> 00:09:32.100
+voy a intentar hacerlo mas chico aca...
+
+00:09:36.840 --> 00:09:40.950
+Podriamos redibujar esto donde esta resistencia es 4 ohms y
+
+00:09:40.950 --> 00:09:43.600
+esto es 16 volts.
+
+00:09:43.600 --> 00:09:47.140
+Podriamos decir que esto todo combinado es
+
+00:09:47.140 --> 00:09:52.770
+una resistencia de 4 ohms, Bueno, si tenemos una
+
+00:09:52.770 --> 00:09:55.340
+difrencial en potencial de 16 volt, corriente fluye en esta direccion , aun
+
+00:09:55.340 --> 00:09:56.910
+aunque no sea lo que los electrones estan haciendo.
+
+00:09:56.910 --> 00:09:58.890
+Y esa es nuestra resistencia. 4.
+
+00:09:58.890 --> 00:10:00.270
+ohms. Cuanto es la corriente?
+
+00:10:00.270 --> 00:10:02.870
+V es igual a IR. Ley de Ohm.
+
+00:10:02.870 --> 00:10:05.020
+El voltaje es de 16 volt.
+
+00:10:05.020 --> 00:10:11.330
+Es igual a la corriente x 4ohms. Entonces la corriente es igual a
+
+00:10:11.330 --> 00:10:15.460
+16/4, que es igual a 4 amperes.
+
+00:10:15.460 --> 00:10:17.150
+entonces hagamos algo interesante.
+
+00:10:17.150 --> 00:10:20.640
+Vamos a descubrir a la corriente.
+
+00:10:20.640 --> 00:10:21.470
+Que es esto?
+
+00:10:21.470 --> 00:10:27.330
+Que es la corriente I1 y la corriente I2?
+
+00:10:27.330 --> 00:10:29.430
+Bueno. ya sabemos que la diferencia en potencial de aqui
+
+00:10:29.430 --> 00:10:31.330
+hasta aqui es de 16 volts, no?
+
+00:10:31.330 --> 00:10:35.530
+Porque esta cosa es esencialmente al mismo
+
+00:10:35.530 --> 00:10:37.420
+potencial, y esta cosa es esencialmente al mismo
+
+00:10:37.420 --> 00:10:40.990
+potencial, entonces tenes 16 volts ahi.
+
+00:10:40.990 --> 00:10:46.610
+16 volts divididos por 20 ohms, llamemlos a esto I1.
+
+00:10:46.610 --> 00:10:54.830
+Entonces I1 es igual a 16 volts dividido por 20 ohms, que es
+
+00:10:54.830 --> 00:10:55.300
+igual a cuanto?
+
+00:10:55.300 --> 00:10:56.660
+4/5
+
+00:10:56.660 --> 00:11:02.820
+entonces si iguala 4/5 de ampere, o 0.8 amperes.
+
+00:11:02.820 --> 00:11:05.440
+Y de igual manera, cual es la cantidad de corriente fluyendo
+
+00:11:05.440 --> 00:11:06.810
+aqui?
+
+00:11:06.810 --> 00:11:07.590
+I2?
+
+00:11:07.590 --> 00:11:09.110
+Voy a hacer esto en otro color.
+
+00:11:09.110 --> 00:11:11.546
+Se pone confuso.
+
+00:11:11.546 --> 00:11:13.030
+Lo voy a hacer en amarillo.
+
+00:11:13.030 --> 00:11:15.090
+Entonces el flujo de corriente aqui, una vez mas, la
+
+00:11:15.090 --> 00:11:17.680
+diferencia en potencial de aqui-- no es diferente
+
+00:11:17.680 --> 00:11:19.890
+-- a la diferencia en potencial de aqui a aqui.
+
+00:11:19.890 --> 00:11:22.190
+ademas son 16 volts, no?
+
+00:11:22.190 --> 00:11:26.240
+Entonces las corriente va a ser I2, que va a ser igual a
+
+00:11:26.240 --> 00:11:35.390
+16/5, que es igual a 3 1/5 amps.
+
+00:11:35.390 --> 00:11:37.730
+Entonces la mayoria de la corriente esta fluyendo a traves de esto,
+
+00:11:37.730 --> 00:11:40.530
+y eso tienen sentido porque la resistencia es menor, no?
+
+00:11:40.530 --> 00:11:42.230
+Entonces esto tendria que darte un poco de intuicion al respcto.
+
+00:11:42.230 --> 00:11:42.980
+de lo que esta sucediendo.
+
+00:11:42.980 --> 00:11:45.910
+Y menos corriente esta fluyendo aqui, entonces I2 a traves
+
+00:11:45.910 --> 00:11:53.630
+de una resistencia de 20 ohm , es 0.8amp es I1, y I2 a traves
+
+00:11:53.630 --> 00:11:58.250
+de la resistencia de 5 ohms es igual a 3,2 amps.
+
+00:11:58.250 --> 00:12:00.740
+Y eso teiene sentido cuando añadis estas dos corrientes
+
+00:12:00.740 --> 00:12:04.560
+juntas. Los 3,2 amps fluyendo de aqui y los
+
+00:12:04.560 --> 00:12:07.000
+0,8 amperes fluyendo de aqui, cuando se combinan
+
+00:12:07.000 --> 00:12:10.840
+y tenes 4 amperes fluyendo aca.
+
+00:12:10.840 --> 00:12:14.280
+Espero haberte dado algo de intuicion
+
+00:12:14.280 --> 00:12:17.850
+sobre que pasa cuando ponemos resistencias en paralelo.
+
+00:12:17.850 --> 00:12:19.100
+Te veo en el proximo video!

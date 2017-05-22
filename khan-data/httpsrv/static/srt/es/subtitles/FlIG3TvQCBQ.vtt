@@ -1,0 +1,156 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:05.093 --> 00:00:07.678
+Por mas de 400 años, ha existido el problema.
+
+00:00:07.678 --> 00:00:11.770
+Como puede Alice diseñar un sistema de cifrado que esconda su huella,
+
+00:00:11.770 --> 00:00:14.497
+para así, parar la fuga de información.
+
+00:00:14.497 --> 00:00:18.135
+La respuesta es 'aleatoriedad'.
+
+00:00:18.135 --> 00:00:21.210
+Imagine que Alice tira un dado de 26 lados
+
+00:00:21.210 --> 00:00:23.525
+para generar una larga lista de movimientos aleatorios,
+
+00:00:23.525 --> 00:00:27.042
+y comparte esto con Bob, en vez de una palabra clave.
+
+00:00:27.042 --> 00:00:28.893
+Ahora, para cifrar su mensaje,
+
+00:00:28.893 --> 00:00:31.987
+Alice usa una lista de movimientos aleatorios.
+
+00:00:31.987 --> 00:00:35.890
+Es importante que esta lista sea tan larga como el mensaje
+
+00:00:35.890 --> 00:00:38.628
+para evitar repeticiones.
+
+00:00:38.628 --> 00:00:41.093
+Luego, ella se lo envía a Bob, que descifra el mensaje
+
+00:00:41.093 --> 00:00:45.148
+usando la misma lista de movimientos aleatorios que ella le había dado.
+
+00:00:47.025 --> 00:00:48.574
+Ahora Eve va a tener un problem,
+
+00:00:48.574 --> 00:00:50.875
+porque el mensaje cifrado que se produce
+
+00:00:50.875 --> 00:00:53.509
+tendrá dos propiedades muy poderosas:
+
+00:00:53.509 --> 00:00:57.175
+Primero, los movimientos nunca caerán en un patrón repetitivo;
+
+00:00:59.083 --> 00:01:03.874
+y segundo, el mensaje cifrado tendrá una distribución de frecuencia uniforme.
+
+00:01:03.874 --> 00:01:06.208
+Ya que no hay un diferencial de frecuencia,
+
+00:01:06.208 --> 00:01:08.172
+y por lo tanto tampoco hay fuga,
+
+00:01:08.172 --> 00:01:11.206
+ahora es imposible que Eve pueda romper el cifrado.
+
+00:01:14.052 --> 00:01:17.668
+Este es el sistema de cifrado mas fuerte posible
+
+00:01:17.668 --> 00:01:21.586
+y emerge hacia el final del Siglo 19,
+
+00:01:21.586 --> 00:01:24.198
+se le conoce como la 'Libreta de un solo uso.'
+
+00:01:25.767 --> 00:01:29.229
+Para visualizar la fortaleza de la libreta de un solo uso,
+
+00:01:29.229 --> 00:01:34.784
+debemos entender la explosión de combinaciones que toma lugar.
+
+00:01:34.784 --> 00:01:38.917
+Por ejemplo, el cifrado Caesar movía cada letra el mismo número de posiciones,
+
+00:01:38.917 --> 00:01:42.960
+que era un número entre 1 y 26.
+
+00:01:42.960 --> 00:01:45.008
+Por lo tanto, si Alice iba a cifrar su nombre,
+
+00:01:45.008 --> 00:01:48.384
+resultaría en 1 de 26 posibles cifrados,
+
+00:01:48.384 --> 00:01:52.251
+lo cual es un pequeño numero de posibilidades, fáciles de revisar,
+
+00:01:52.251 --> 00:01:54.834
+con un método conocido como búsqueda de fuerza bruta.
+
+00:01:54.834 --> 00:01:56.844
+Compare esto a la libreta de un solo uso,
+
+00:01:56.844 --> 00:01:58.990
+donde cada letra sería movida
+
+00:01:58.990 --> 00:02:01.808
+por un numero diferente de posiciones entre 1 y 26,
+
+00:02:01.808 --> 00:02:03.934
+Ahora piense en el número de cifrados posibles,
+
+00:02:03.934 --> 00:02:07.908
+que sería 26 multiplicado por sí mismo 5 veces,
+
+00:02:07.908 --> 00:02:09.920
+lo cual resulta en casi 12 millones.
+
+00:02:09.920 --> 00:02:12.884
+A veces es difícil de visualizar.
+
+00:02:12.884 --> 00:02:15.949
+Así que imagine que ella escribe su nombre en una página,
+
+00:02:15.949 --> 00:02:20.854
+y encima de ella, acumula todos los posibles cifrados.
+
+00:02:20.854 --> 00:02:24.505
+Que tan alto cree que esto sería?
+
+00:02:24.736 --> 00:02:28.869
+Con casi 12 millones de posibles combinaciones de cinco letras,
+
+00:02:28.869 --> 00:02:32.032
+la pila de papel sería enorme,
+
+00:02:32.032 --> 00:02:35.241
+mas de un kilómetro de altura.
+
+00:02:35.241 --> 00:02:38.103
+Cuando Alice cifra su nombre usando la libreta de un solo uso,
+
+00:02:38.103 --> 00:02:42.375
+es lo mismo que tomar una de estas páginas aleatoriamente,
+
+00:02:42.375 --> 00:02:44.663
+desde la perspectiva de Eve, la rompe-código,
+
+00:02:44.663 --> 00:02:47.397
+cada palabra cifrada de cinco letras cifrada que ella tiene
+
+00:02:47.397 --> 00:02:51.578
+es igual de posible que sea alguna palabra de la pila.
+
+00:02:51.578 --> 00:02:54.645
+Por lo tanto, esto es un secreto perfecto en acción.

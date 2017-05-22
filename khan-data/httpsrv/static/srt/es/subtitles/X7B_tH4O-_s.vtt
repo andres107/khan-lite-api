@@ -1,0 +1,840 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.420
+.
+
+00:00:00.420 --> 00:00:03.680
+En este video quiero concentrarme en algunas técnicas más
+
+00:00:03.680 --> 00:00:05.210
+para factorizar polinomios.
+
+00:00:05.210 --> 00:00:09.130
+Y en particular, quiero concentrarme en las cuadráticas
+
+00:00:09.130 --> 00:00:11.310
+que no tienen 1 como coeficiente principal.
+
+00:00:11.310 --> 00:00:15.540
+Por ejemplo, si quisiera factorizar
+
+00:00:15.540 --> 00:00:20.920
+(4x)^2 +25x -21
+
+00:00:20.920 --> 00:00:23.440
+Todas las cuadráticas que hemos factorizado hasta ahora
+
+00:00:23.440 --> 00:00:27.100
+tienen o un 1 o un -1 donde
+
+00:00:27.100 --> 00:00:28.090
+está este 4.
+
+00:00:28.090 --> 00:00:30.880
+De repente ahora, tenemos este 4 acá.
+
+00:00:30.880 --> 00:00:32.840
+Así que lo que les voy a enseñar es una técnica llamada
+
+00:00:32.840 --> 00:00:35.020
+factorización por agrupamiento.
+
+00:00:35.020 --> 00:00:37.130
+Y está un poco más involucrado que lo que hemos aprendido antes,
+
+00:00:37.130 --> 00:00:40.100
+pero es un buen truco.
+
+00:00:40.100 --> 00:00:42.210
+Para algunos grados se volverá obsoleta cuando aprendan
+
+00:00:42.210 --> 00:00:44.600
+la fórmula cuadrática, porque francamente, la fórmula cuadrática
+
+00:00:44.600 --> 00:00:46.230
+es mucho más fácil.
+
+00:00:46.230 --> 00:00:47.550
+Pero es así,
+
+00:00:47.550 --> 00:00:48.770
+les mostraré la técnica.
+
+00:00:48.770 --> 00:00:50.910
+Y al final del video, les mostraré
+
+00:00:50.910 --> 00:00:52.300
+por qué funciona.
+
+00:00:52.300 --> 00:00:55.430
+Lo que necesitamos hacer aquí es pensar
+
+00:00:55.430 --> 00:01:02.120
+en dos números, a y b, donde
+
+00:01:02.120 --> 00:01:03.700
+a x b = 4 x (-21)
+
+00:01:03.700 --> 00:01:12.530
+Así que a x b = 4 x (-21) ,
+
+00:01:12.530 --> 00:01:15.280
+que es igual a -84.
+
+00:01:15.280 --> 00:01:20.490
+Y esos dos mismos números, a+b,
+
+00:01:20.490 --> 00:01:24.480
+necesitan ser igual a 25.
+
+00:01:24.480 --> 00:01:25.930
+Déjenme ser muy claro.
+
+00:01:25.930 --> 00:01:29.300
+Este es el 25, así que necesitan ser igual a 25.
+
+00:01:29.300 --> 00:01:30.970
+Aquí es donde está el 4.
+
+00:01:30.970 --> 00:01:35.540
+Así que 4 x (-21)
+
+00:01:35.540 --> 00:01:37.270
+Es es un -21.
+
+00:01:37.270 --> 00:01:40.680
+Así que, ¿con qué números podemos hacer eso?
+
+00:01:40.680 --> 00:01:45.050
+Bueno, tenemos que mirar los factores del -84.
+
+00:01:45.050 --> 00:01:46.710
+Y una vez más, uno de estos
+
+00:01:46.710 --> 00:01:47.550
+va a ser positivo.
+
+00:01:47.550 --> 00:01:50.870
+Los otros van a dar negativo porque
+
+00:01:50.870 --> 00:01:52.170
+su producto es negativo.
+
+00:01:52.170 --> 00:01:53.350
+Así que pensemos en los diferentes factores
+
+00:01:53.350 --> 00:01:55.420
+que pueden funcionar.
+
+00:01:55.420 --> 00:01:59.465
+4 y -21 lucen tentadores, pero cuando los sumas,
+
+00:01:59.465 --> 00:02:01.970
+obtienes -17.
+
+00:02:01.970 --> 00:02:04.870
+O, si tienes un -4 y 21, obtienes 17.
+
+00:02:04.870 --> 00:02:06.010
+No funciona.
+
+00:02:06.010 --> 00:02:08.220
+Probemos otras combinaciones.
+
+00:02:08.220 --> 00:02:12.150
+1 y 84, están demasiado lejos cuando obtienes su diferencia.
+
+00:02:12.150 --> 00:02:13.420
+Porque eso es esencialmente lo que vamos a hacer,
+
+00:02:13.420 --> 00:02:15.500
+si uno es negativo y otro positivo.
+
+00:02:15.500 --> 00:02:16.840
+Demasiado lejos.
+
+00:02:16.840 --> 00:02:20.730
+Vamos a ver, podemos usar...
+
+00:02:20.730 --> 00:02:23.370
+2 y 42.
+
+00:02:23.370 --> 00:02:24.620
+Una vez más, demasiado lejos.
+
+00:02:24.620 --> 00:02:26.800
+-2 + 42 = 40
+
+00:02:26.800 --> 00:02:29.650
+2+ (-42) = -40. Demasiado lejos.
+
+00:02:29.650 --> 00:02:41.020
+3 y... déjenme ver, 3 entra en 8 dos veces.
+
+00:02:41.020 --> 00:02:42.860
+2 x 3 = 6
+
+00:02:42.860 --> 00:02:45.200
+8 - 6 = 2
+
+00:02:45.200 --> 00:02:46.610
+Bajamos el 4.
+
+00:02:46.610 --> 00:02:49.150
+Entra exactamente 8 veces.
+
+00:02:49.150 --> 00:02:51.120
+Así que 3 y 28.
+
+00:02:51.120 --> 00:02:52.370
+Esto parece interesante.
+
+00:02:52.370 --> 00:02:57.630
+.
+
+00:02:57.630 --> 00:02:59.920
+Y recuerden, uno de estos tiene que ser negativo.
+
+00:02:59.920 --> 00:03:06.240
+Así que si tenemos -3 + 28 = 25.
+
+00:03:06.240 --> 00:03:08.220
+Ahora, hemos encontrado nuestros dos números.
+
+00:03:08.220 --> 00:03:12.200
+Pero no va a ser tan simple como lo que hicimos
+
+00:03:12.200 --> 00:03:19.510
+cuando este era 1 o -1.
+
+00:03:19.510 --> 00:03:23.330
+Lo que vamos a hacer ahora es separar este término justo aquí.
+
+00:03:23.330 --> 00:03:29.160
+.
+
+00:03:29.160 --> 00:03:35.800
+Vamos a separarlo en 28x - 3x
+
+00:03:35.800 --> 00:03:37.590
+Vamos a separar ese término.
+
+00:03:37.590 --> 00:03:39.890
+Es este de acá.
+
+00:03:39.890 --> 00:03:43.150
+Y por supuesto, acá está el -21,
+
+00:03:43.150 --> 00:03:46.350
+y por acá el 4x^2.
+
+00:03:46.350 --> 00:03:49.100
+Ahora, podrás decir: ¿cómo elegiste al 28 para que vaya aquí,
+
+00:03:49.100 --> 00:03:50.570
+y al -3 para que vaya allá?
+
+00:03:50.570 --> 00:03:52.000
+Y en realidad importa.
+
+00:03:52.000 --> 00:03:56.730
+La manera en que lo pensé es que 3 o -3, y 21 o -21,
+
+00:03:56.730 --> 00:03:59.590
+tienen algunos factores en común.
+
+00:03:59.590 --> 00:04:02.460
+En particular, tienen el factor 3 en común.
+
+00:04:02.460 --> 00:04:04.780
+Y 28 y 4 tienen algunos factores comunes.
+
+00:04:04.780 --> 00:04:07.940
+Así que agrupé el 28 del lado del 4.
+
+00:04:07.940 --> 00:04:09.730
+Y van a ver lo que quiero decir en un segundo.
+
+00:04:09.730 --> 00:04:15.450
+Literalmente, agrupamos estos para que el término se convierta en
+
+00:04:15.450 --> 00:04:18.140
+4x^2 + 28x
+
+00:04:18.140 --> 00:04:25.880
+Y entonces, en este lado, por acá en rosa, está
+
+00:04:25.880 --> 00:04:28.740
++ (-3x - 21).
+
+00:04:28.740 --> 00:04:30.810
+Una vez más, elegí estos.
+
+00:04:30.810 --> 00:04:34.300
+Agrupé el -3 con el 21, o el -21
+
+00:04:34.300 --> 00:04:36.320
+porque ambos son divisibles por 3.
+
+00:04:36.320 --> 00:04:38.790
+Y agrupé el 28 con el 4 porque ambos son
+
+00:04:38.790 --> 00:04:40.250
+divisibles por 4.
+
+00:04:40.250 --> 00:04:43.800
+Y ahora, en cada uno de estos grupos, factorizamos
+
+00:04:43.800 --> 00:04:45.550
+tanto como podamos.
+
+00:04:45.550 --> 00:04:49.050
+Así que ambos términos son divisibles por 4x.
+
+00:04:49.050 --> 00:04:55.740
+Así que este término naranja es igual a :
+
+00:04:55.740 --> 00:05:03.020
+(4x^2 / 4x es: x) + (28x / 4x es : 7)
+
+00:05:03.020 --> 00:05:04.020
+Ahora, este segundo término.
+
+00:05:04.020 --> 00:05:05.630
+Recordá, sacás todos los factores
+
+00:05:05.630 --> 00:05:07.030
+que puedas sacar.
+
+00:05:07.030 --> 00:05:10.160
+Bueno, ambos términos son divisibles por 3 o -3.
+
+00:05:10.160 --> 00:05:11.945
+Así que vamos a sacar factor 3.
+
+00:05:11.945 --> 00:05:16.260
+Y esto se convierte en x + 7
+
+00:05:16.260 --> 00:05:18.690
+Y ahora, se te puede ocurrir algo.
+
+00:05:18.690 --> 00:05:25.350
+Tenemos: 4x (x + 7) + -3 (x+7)
+
+00:05:25.350 --> 00:05:27.150
+Entonces,
+
+00:05:27.150 --> 00:05:31.630
+podemos sacar como factor (x + 7)
+
+00:05:31.630 --> 00:05:33.550
+Esto puede no ser completamente obvio.
+
+00:05:33.550 --> 00:05:34.900
+Probablemente no estás acostumbrado a sacar como factor
+
+00:05:34.900 --> 00:05:36.490
+a un binomio completo.
+
+00:05:36.490 --> 00:05:38.350
+Pero podrías ver esto como una "a".
+
+00:05:38.350 --> 00:05:42.790
+O si tenés 4xa - 3a, serás capaz de
+
+00:05:42.790 --> 00:05:43.930
+sacar "a" como factor.
+
+00:05:43.930 --> 00:05:46.330
+Y puedo dejar esto como un signo menos.
+
+00:05:46.330 --> 00:05:50.150
+.
+
+00:05:50.150 --> 00:05:51.950
+Dejenme borrar este + de acá.
+
+00:05:51.950 --> 00:05:55.850
+Porque es sólo -3, ¿verdad?
+
+00:05:55.850 --> 00:05:58.970
++ (-3) es lo mismo que -3.
+
+00:05:58.970 --> 00:06:00.640
+Así que, ¿qué podemos hacer acá?
+
+00:06:00.640 --> 00:06:02.270
+Tenemos 4x (x + 7).
+
+00:06:02.270 --> 00:06:04.040
+Tenemos -3 (x + 7).
+
+00:06:04.040 --> 00:06:06.110
+Saquemos como factor (x+7).
+
+00:06:06.110 --> 00:06:16.350
+Tenemos (x + 7) (4x - 3)
+
+00:06:16.350 --> 00:06:18.790
+Menos ese 3 de ahí.
+
+00:06:18.790 --> 00:06:22.110
+Y hemos factorizado nuestro binomio.
+
+00:06:22.110 --> 00:06:25.550
+Perdón, hemos factorizado nuestra cuadrática por agrupación.
+
+00:06:25.550 --> 00:06:28.210
+Y la factorizamos en dos binomios.
+
+00:06:28.210 --> 00:06:30.140
+Hagamos otro ejemplo de eso,
+
+00:06:30.140 --> 00:06:30.770
+porque es un poco pesado.
+
+00:06:30.770 --> 00:06:34.290
+Pero una vez que lo entendés, es un poco divertido.
+
+00:06:34.290 --> 00:06:43.540
+Así que, digamos que queremos factorizar 6x^2 + 7x + 1
+
+00:06:43.540 --> 00:06:44.800
+Hacemos lo mismo.
+
+00:06:44.800 --> 00:06:50.940
+Queremos encontrar a . b que es igual a 1.6,
+
+00:06:50.940 --> 00:06:52.110
+que es igual a 6.
+
+00:06:52.110 --> 00:06:57.460
+Y queremos encontrar un a + b que tiene que ser igual a 7.
+
+00:06:57.460 --> 00:06:59.520
+Este es un poco más sencillo.
+
+00:06:59.520 --> 00:07:03.900
+¿Cuáles son......? bueno, lo obvio es 1 y 6, ¿verdad?
+
+00:07:03.900 --> 00:07:05.310
+1 . 6 = 6
+
+00:07:05.310 --> 00:07:07.620
+1 + 6 = 7.
+
+00:07:07.620 --> 00:07:10.150
+Así que a = 1.
+
+00:07:10.150 --> 00:07:11.700
+Ni siquiera los voy a asignar.
+
+00:07:11.700 --> 00:07:15.650
+Los números aquí son 1 y 6.
+
+00:07:15.650 --> 00:07:19.740
+Ahora, queremos separar esto en 1x y 6x.
+
+00:07:19.740 --> 00:07:22.420
+Pero queremos agruparlo, así que está al lado de algo
+
+00:07:22.420 --> 00:07:24.090
+con lo que comparte factor.
+
+00:07:24.090 --> 00:07:28.880
+Así que vamos a tener 6x^2 + ---, y entonces,
+
+00:07:28.880 --> 00:07:32.520
+voy a poner 6x primero porque 6
+
+00:07:32.520 --> 00:07:34.170
+y 6 comparten factor.
+
+00:07:34.170 --> 00:07:37.580
+Y entonces, vamos a tener + 1x , ¿verdad?
+
+00:07:37.580 --> 00:07:39.650
+6x + 1x = 7x.
+
+00:07:39.650 --> 00:07:40.830
+Ese era todo el punto.
+
+00:07:40.830 --> 00:07:42.580
+Tienen que agregarle 7.
+
+00:07:42.580 --> 00:07:46.000
+Y entonces tenemos el + 1 final.
+
+00:07:46.000 --> 00:07:49.320
+Ahora, en cada uno de estos grupos, podemos sacar tantos factores
+
+00:07:49.320 --> 00:07:50.220
+como querramos.
+
+00:07:50.220 --> 00:07:53.080
+Así que en este primer grupo, saquemos como factor 6x.
+
+00:07:53.080 --> 00:07:58.020
+Entonces este primer grupo se convierte en 6x por ----
+
+00:07:58.020 --> 00:07:59.480
+6x^2 dividido por 6x es x.
+
+00:07:59.480 --> 00:08:04.380
+6x dividido 6x es 1.
+
+00:08:04.380 --> 00:08:06.730
+Y entonces, el segundo grupo--- vamos a
+
+00:08:06.730 --> 00:08:08.130
+tener un más acá.
+
+00:08:08.130 --> 00:08:11.870
+Pero en este segundo grupo, literalmente tenemos (x + 1).
+
+00:08:11.870 --> 00:08:16.500
+O podríamos incluso escribir 1 (x + 1)
+
+00:08:16.500 --> 00:08:19.440
+Pueden imaginar que saqué como factor 1, por decirlo así.
+
+00:08:19.440 --> 00:08:24.790
+Ahora, tengo 6x (x + 1) + 1 (x + 1).
+
+00:08:24.790 --> 00:08:27.740
+Bueno, puedo sacar como factor (x + 1).
+
+00:08:27.740 --> 00:08:35.549
+Si saco como factor (x + 1), eso es igual a
+
+00:08:35.549 --> 00:08:37.690
+(x + 1)(6x +1).
+
+00:08:37.690 --> 00:08:38.280
+Estoy haciendo la
+
+00:08:38.280 --> 00:08:41.460
+propiedad distributiva en reversa.
+
+00:08:41.460 --> 00:08:43.230
+Así que espero que no encuentren eso muy malo.
+
+00:08:43.230 --> 00:08:45.430
+Y ahora, voy a explicar por qué este
+
+00:08:45.430 --> 00:08:47.170
+sistema mágico realmente funciona.
+
+00:08:47.170 --> 00:08:50.280
+.
+
+00:08:50.280 --> 00:08:52.530
+Déjenme tomar un ejemplo.
+
+00:08:52.530 --> 00:08:54.530
+Lo haré en términos muy generales.
+
+00:08:54.530 --> 00:09:03.630
+Digamos que tengo.... en realidad,
+
+00:09:03.630 --> 00:09:05.300
+tengo miedo de usar "a" y "b".
+
+00:09:05.300 --> 00:09:07.760
+Creo que los voy a confundir
+
+00:09:07.760 --> 00:09:08.930
+si las uso acá.
+
+00:09:08.930 --> 00:09:10.240
+No van a ser lo mismo.
+
+00:09:10.240 --> 00:09:13.760
+Así que déjenme usar letras completamente diferentes.
+
+00:09:13.760 --> 00:09:24.000
+Digamos que tengo (fx + g)(hx+j).
+
+00:09:24.000 --> 00:09:25.240
+Voy a usar "j" en vez de "i".
+
+00:09:25.240 --> 00:09:26.450
+Aprenderán en el futuro por qué
+
+00:09:26.450 --> 00:09:28.710
+no me gusta usar i como variable.
+
+00:09:28.710 --> 00:09:31.000
+Así que, ¿a qué va a ser igual esto?
+
+00:09:31.000 --> 00:09:35.920
+Bueno, va a ser fx . h = fhx.
+
+00:09:35.920 --> 00:09:37.710
+Y entonces, fx . j.
+
+00:09:37.710 --> 00:09:41.800
+Así que es + fjx.
+
+00:09:41.800 --> 00:09:45.240
+Y entonces, vamos a tener g . hx.
+
+00:09:45.240 --> 00:09:49.010
+Así que es + ghx.
+
+00:09:49.010 --> 00:09:50.990
+Y entonces g * j.
+
+00:09:50.990 --> 00:09:53.840
++ gj.
+
+00:09:53.840 --> 00:10:02.500
+O, si agregamos estos dos términos del medio, tenemos (fh) . x +...
+
+00:10:02.500 --> 00:10:08.970
+--agregamos estos dos términos -- + (fj + gh) x
+
+00:10:08.970 --> 00:10:12.170
++ gj.
+
+00:10:12.170 --> 00:10:14.540
+Ahora, ¿qué hice acá?
+
+00:10:14.540 --> 00:10:17.550
+Bueno, recuerden, en todos esos problemas donde tienes
+
+00:10:17.550 --> 00:10:20.650
+coeficientes distintos de -1 o de 1, buscamos
+
+00:10:20.650 --> 00:10:23.560
+dos numeros para sumarles a esto, cuyo producto es igual
+
+00:10:23.560 --> 00:10:25.480
+al producto de eso por eso.
+
+00:10:25.480 --> 00:10:31.780
+Bueno, acá tenemos dos números que sumados... digamos que uno
+
+00:10:31.780 --> 00:10:33.030
+es igual a fj.
+
+00:10:33.030 --> 00:10:36.970
+.
+
+00:10:36.970 --> 00:10:37.750
+Esto es "a".
+
+00:10:37.750 --> 00:10:40.930
+Y "b" = gh.
+
+00:10:40.930 --> 00:10:43.730
+Así que a + b va a ser igual a ese
+
+00:10:43.730 --> 00:10:44.980
+coeficiente del medio.
+
+00:10:44.980 --> 00:10:48.370
+.
+
+00:10:48.370 --> 00:10:52.100
+Y entonces, ¿qué es a . b? a . b va a ser igual a
+
+00:10:52.100 --> 00:10:56.260
+fj . gh
+
+00:10:56.260 --> 00:10:59.140
+.
+
+00:10:59.140 --> 00:11:01.320
+Podemos reordenar estos términos. Simplemente estamos multiplicando
+
+00:11:01.320 --> 00:11:04.430
+algunos términos. Así que eso podría ser reescrito como
+
+00:11:04.430 --> 00:11:09.390
+f .h.g.j
+
+00:11:09.390 --> 00:11:11.090
+Estos son todos iguales.
+
+00:11:11.090 --> 00:11:14.620
+Bueno, ¿qué es fh . gj?
+
+00:11:14.620 --> 00:11:19.150
+Esto es igual a fh . gj
+
+00:11:19.150 --> 00:11:22.530
+Bueno, esto es igual al primer coeficiente multiplicado por
+
+00:11:22.530 --> 00:11:23.670
+el término constante.
+
+00:11:23.670 --> 00:11:27.870
+Así que a + b será igual al coeficiente del medio.
+
+00:11:27.870 --> 00:11:31.930
+Y a . b será igual al primer coeficiente multiplicado por
+
+00:11:31.930 --> 00:11:32.670
+el término constante.
+
+00:11:32.670 --> 00:11:37.330
+Así que por eso todo esto del factoreo funciona,
+
+00:11:37.330 --> 00:11:40.180
+o así es como somos capaces de descubrir
+
+00:11:40.180 --> 00:11:42.200
+qué son "a" y "b".
+
+00:11:42.200 --> 00:11:44.210
+Ahora, voy a cerrar con algo ligeramente
+
+00:11:44.210 --> 00:11:45.800
+diferente, pero sólo para asegurarme de que tienen
+
+00:11:45.800 --> 00:11:49.130
+una educación redondeada sobre factoreo.
+
+00:11:49.130 --> 00:11:52.050
+Lo que quiero hacer es enseñarles cómo factorizar cosas un poco
+
+00:11:52.050 --> 00:11:52.940
+más completas.
+
+00:11:52.940 --> 00:11:55.160
+Y esto es como una especie de "plus".
+
+00:11:55.160 --> 00:11:56.660
+Iba a hacer todo un video de esto.
+
+00:11:56.660 --> 00:11:59.250
+Pero pienso que, en cierto nivel, puede ser
+
+00:11:59.250 --> 00:12:00.480
+un poco obvio para ustedes.
+
+00:12:00.480 --> 00:12:07.190
+Así que digamos que tenemos...
+
+00:12:07.190 --> 00:12:12.910
+digamos que tenemos -x^3 + 17x^2 - 70x
+
+00:12:12.910 --> 00:12:18.180
+.
+
+00:12:18.180 --> 00:12:20.130
+Inmediatamente, dirás, esto no es ni siquiera una cuadrática.
+
+00:12:20.130 --> 00:12:21.770
+No sé cómo resolver algo como esto.
+
+00:12:21.770 --> 00:12:23.580
+Tiene una x elevada al cubo.
+
+00:12:23.580 --> 00:12:26.150
+Y lo primero que tenés que notar, es que cada término acá
+
+00:12:26.150 --> 00:12:27.840
+es divisible por x.
+
+00:12:27.840 --> 00:12:29.920
+Así que saquemos x como factor.
+
+00:12:29.920 --> 00:12:32.260
+O incluso mejor, saquemos -x como factor.
+
+00:12:32.260 --> 00:12:35.320
+Así que si sacamos -x, esto es igual a
+
+00:12:35.320 --> 00:12:38.730
+-x(...
+
+00:12:38.730 --> 00:12:41.810
+-x^3 / -x = x^2
+
+00:12:41.810 --> 00:12:47.910
+17x^2 / -x = 17x.
+
+00:12:47.910 --> 00:12:52.510
+-70x / -x = 70.
+
+00:12:52.510 --> 00:12:54.060
+Las "x" se cancelan.
+
+00:12:54.060 --> 00:12:56.050
+Y ahora, tenés algo que puede parecerte
+
+00:12:56.050 --> 00:12:59.220
+un poco familiar.
+
+00:12:59.220 --> 00:13:02.530
+Tenemos una cuadrática estándar donde
+
+00:13:02.530 --> 00:13:03.650
+el coeficiente principal es 1.
+
+00:13:03.650 --> 00:13:08.290
+Simplemente tenemos que encontrar dos números cuyo producto sea 70,
+
+00:13:08.290 --> 00:13:11.000
+y que sumados den -17.
+
+00:13:11.000 --> 00:13:12.920
+Y los números que inmediatamente vienen a mi cabeza
+
+00:13:12.920 --> 00:13:17.410
+son -10 y -7.
+
+00:13:17.410 --> 00:13:19.520
+Calculas el producto, obtienes 70.
+
+00:13:19.520 --> 00:13:21.870
+Los sumas, obtienes -17.
+
+00:13:21.870 --> 00:13:25.920
+Así que esta parte de aquí va a ser
+
+00:13:25.920 --> 00:13:28.410
+(x-10)(x-7).
+
+00:13:28.410 --> 00:13:31.540
+Y por supuesto, está el coeficiente principal -x.
+
+00:13:31.540 --> 00:13:34.330
+La idea general aquí es simplemente ver
+
+00:13:34.330 --> 00:13:35.320
+si hay algo que puedas sacar fuera como factor.
+
+00:13:35.320 --> 00:13:37.780
+Y eso te llevará a una forma que quizás puedas reconocer.
+
+00:13:37.780 --> 00:13:38.950
+Con suerte, encontrarás esto útil.
+
+00:13:38.950 --> 00:13:41.145
+Quiero reiterar los que les mostré
+
+00:13:41.145 --> 00:13:41.510
+al principio del video.
+
+00:13:41.510 --> 00:13:44.960
+Pienso que es un muy buen truco, por decirlo así, el ser capaz de
+
+00:13:44.960 --> 00:13:49.470
+factorizar cosas que tienen un coeficiente principal
+
+00:13:49.470 --> 00:13:50.460
+distinto de -1 o 1.
+
+00:13:50.460 --> 00:13:52.720
+Pero para algunos grados, vas a encontrar formas más sencillas de
+
+00:13:52.720 --> 00:13:54.370
+hacer esto, especialmente con la fórmula de la cuadrática,
+
+00:13:54.370 --> 00:13:56.620
+en no mucho tiempo.

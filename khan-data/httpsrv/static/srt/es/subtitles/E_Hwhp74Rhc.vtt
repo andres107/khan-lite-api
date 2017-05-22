@@ -1,0 +1,135 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Para empezar, lo que intentaremos hacer en este video es tomar la superficie integral
+
+99:59:59.999 --> 99:59:59.999
+de la funcion x quadrada sobre nuestra superficie donde la superficie
+
+99:59:59.999 --> 99:59:59.999
+en cuestion--la superficie de la cual tomaremos cuidado
+
+99:59:59.999 --> 99:59:59.999
+será la unidad esferica, asi que podria ser definida por la x cuadrada
+
+99:59:59.999 --> 99:59:59.999
+mas y quadrada mas z quadrada es igual a 1
+
+99:59:59.999 --> 99:59:59.999
+En lo que nos enfocaremos este primer video, debido a que tomará varios videos hacer esto
+
+99:59:59.999 --> 99:59:59.999
+is solamente la paremetrizcion del area de esta superficie justo aqui
+
+99:59:59.999 --> 99:59:59.999
+como puedes ver, esto es a menudo la parte mas dificil
+
+99:59:59.999 --> 99:59:59.999
+porque lleva un poco de visualización
+
+99:59:59.999 --> 99:59:59.999
+y despues de eso, es simplemente algo mas o menos mecanico
+
+99:59:59.999 --> 99:59:59.999
+pero puede ser up poco dificil al mismo timepo, asi que vale la pena estudiarlo.
+
+99:59:59.999 --> 99:59:59.999
+Asi que primero simplemente pensemos en como podemos parametrizar
+
+99:59:59.999 --> 99:59:59.999
+y aún tengo dificultad diciendo la palabra,
+
+99:59:59.999 --> 99:59:59.999
+como podemos parametrizar esta unidad esferica es una función de
+
+99:59:59.999 --> 99:59:59.999
+dos parametros
+
+99:59:59.999 --> 99:59:59.999
+asi que pensemos sobre esto, pensemoslo un poquito
+
+99:59:59.999 --> 99:59:59.999
+asi que primero solamente pensemoslo, pero solamente pensemos sobre
+
+99:59:59.999 --> 99:59:59.999
+la unidad esféra
+
+99:59:59.999 --> 99:59:59.999
+voy a tomar una vista lateral de la unidad esféra,
+
+99:59:59.999 --> 99:59:59.999
+asi que tomemos la unidad esfera, asi que esto aqui es
+
+99:59:59.999 --> 99:59:59.999
+nuestro eje z
+
+99:59:59.999 --> 99:59:59.999
+Esto es nueztro eje z, y luego aqui voy a dibujar
+
+99:59:59.999 --> 99:59:59.999
+Esto no solo será el eje x el eje y,
+
+99:59:59.999 --> 99:59:59.999
+esto será nuestro entero plano xy visto de un lado
+
+99:59:59.999 --> 99:59:59.999
+Ese es el plano xy
+
+99:59:59.999 --> 99:59:59.999
+Ahora, nuestra esfera, nuestra esfera, nuestra esfera unitaria se podría ver
+
+99:59:59.999 --> 99:59:59.999
+algo como esto
+
+99:59:59.999 --> 99:59:59.999
+La unidad esféra sola no es tan dificil de visualizar
+
+99:59:59.999 --> 99:59:59.999
+Se podría ver algo como eso
+
+99:59:59.999 --> 99:59:59.999
+El radio de cualquier punto es 1
+
+99:59:59.999 --> 99:59:59.999
+La distancia justo ahí es 1,
+
+99:59:59.999 --> 99:59:59.999
+y esta es una esfera, no solo un circulo
+
+99:59:59.999 --> 99:59:59.999
+Asi que podría aún ponerle un poco de sombra para hacerle
+
+99:59:59.999 --> 99:59:59.999
+claro que esta cosa tiene algo de dimensionalidad
+
+99:59:59.999 --> 99:59:59.999
+asi que ponerle un poco de sombra simplemente lo hacer ver como
+
+99:59:59.999 --> 99:59:59.999
+un poco más esférico.
+
+99:59:59.999 --> 99:59:59.999
+Ahora vamos solo a intentar de parametrizarlo, y el primer
+
+99:59:59.999 --> 99:59:59.999
+paso, pensemoslo solamente, si no tuvieramos que pensar arriba y
+
+99:59:59.999 --> 99:59:59.999
+abajo del eje xy, si solamente pensamos sobre donde esta
+
+99:59:59.999 --> 99:59:59.999
+unidad esférica intersecta el eje xy, como podemos
+
+99:59:59.999 --> 99:59:59.999
+parametrizarlo.
+
+99:59:59.999 --> 99:59:59.999
+Asi que simplemente pensemos sobre donde intersecta el eje xy
+
+99:59:59.999 --> 99:59:59.999
+si lo intersecta ahí, y ahí, y enfin en todos lados
+
+99:59:59.999 --> 99:59:59.999
+lo intersecta en todo lugar.

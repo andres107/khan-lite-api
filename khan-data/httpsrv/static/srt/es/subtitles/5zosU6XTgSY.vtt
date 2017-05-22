@@ -1,0 +1,1047 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.467 --> 00:00:08.200
+Lo que quiero explorar en este video es, si dada la longitud de una línea o de un segmento de línea como éste de aquí, B
+
+00:00:08.200 --> 00:00:14.000
+puedo encontrar un A, tal que la proporción entre A y B
+
+00:00:14.000 --> 00:00:19.933
+sea igual a la proporción entre la suma de ámbos (A+B) y el segmento más largo
+
+00:00:19.933 --> 00:00:24.000
+entonces, es igual a A más B, dividido A
+
+00:00:24.000 --> 00:00:25.733
+Quiero pararme un poco aquí, y pensar en ésto
+
+00:00:25.733 --> 00:00:30.533
+¿puedo encontrar algún A, tal que esta proporción, esta perfecta proporción
+
+00:00:30.533 --> 00:00:33.267
+de alguna manera me estoy refiriendo a esto
+
+00:00:33.267 --> 00:00:36.067
+tal que la proporción entre el lado más largo y el más corto
+
+00:00:36.067 --> 00:00:40.733
+es igual a la proporción del conjunto total con el lado más largo
+
+00:00:40.733 --> 00:00:43.067
+y asumamos que podemos encontrar una proporción como esa
+
+00:00:43.067 --> 00:00:46.467
+y la llamaremos, la llamaremos φ (Phi). Vamos a usar la letra griega phi ("fi")
+
+00:00:46.467 --> 00:00:48.133
+para la proporción de aquí
+
+00:00:48.133 --> 00:00:51.800
+así que vamos a ver qué podemos aprender sobre esta proporción especial llamada phi
+
+00:00:51.800 --> 00:00:56.667
+Bueno, phi es igual a A sobre B, lo que es igual a A más B sobre A
+
+00:00:56.667 --> 00:00:59.600
+sabemos que A más B sobre A es la misma cosa que
+
+00:00:59.600 --> 00:01:04.667
+A sobre A, más B sobre A
+
+00:01:04.667 --> 00:01:06.400
+A sobre A es uno
+
+00:01:06.400 --> 00:01:11.200
+y B sobre A es justo la inversa de lo que tenemos aquí a la izquierda
+
+00:01:11.200 --> 00:01:14.600
+así que B sobre A, lo que tenemos aquí es phi
+
+00:01:14.600 --> 00:01:19.933
+así que B sobre A va a ser 1 sobre phi. Ésto va a ser uno sobre phi.
+
+00:01:19.933 --> 00:01:22.867
+Aquí tenemos algo interesante; encontramos un número
+
+00:01:22.867 --> 00:01:24.600
+que es, vamos a llamar a esta proporción especial
+
+00:01:24.600 --> 00:01:32.467
+phi, es igual a 1, más 1 sobre phi
+
+00:01:32.467 --> 00:01:36.000
+y eso sólo ya es una afirmación bonita
+
+00:01:36.000 --> 00:01:38.800
+antes que nada, restás uno de ambos lados
+
+00:01:38.800 --> 00:01:42.933
+y obtienes que phi menos 1 es igual a su inversa
+
+00:01:42.933 --> 00:01:45.600
+que parece ser una muy buena propiedad de cualquier número;
+
+00:01:45.600 --> 00:01:48.800
+que si le substraemos 1, obtenemos su inverso multiplicativo
+
+00:01:48.800 --> 00:01:52.200
+Y eso ya parece intrigante
+
+00:01:52.200 --> 00:01:54.800
+pero entonces esta parte de aquí también es interesante
+
+00:01:54.800 --> 00:01:58.933
+porque redefinimos phi en términos de 1, más 1 sobre phi
+
+00:01:58.933 --> 00:02:00.267
+entonces podemos pensar sobre eso de ésta forma
+
+00:02:00.267 --> 00:02:07.200
+podríamos decir, que phi es igual a 1 más 1 sobre
+
+00:02:07.200 --> 00:02:09.667
+phi, pero en lugar de escribir phi, decimos, espera
+
+00:02:09.667 --> 00:02:13.995
+phi es justo 1 más 1 sobre, 1 más 1 sobre
+
+00:02:14.179 --> 00:02:18.856
+y en lugar de poner phi, es 1 más 1 sobre
+
+00:02:19.018 --> 00:02:22.640
+y entonces podría escribir phi de nuevo, o podría seguir y seguir así
+
+00:02:22.640 --> 00:02:24.451
+seguir y seguir para siempre
+
+00:02:24.451 --> 00:02:27.563
+podría decir que es 1 sobre, 1 más 1 sobre
+
+00:02:27.563 --> 00:02:30.628
+y sólo seguir infinitamente con eso
+
+00:02:30.628 --> 00:02:32.532
+que es la definición recursiva de una función
+
+00:02:32.532 --> 00:02:35.225
+donde una func... donde la definición recursiva de una variable
+
+00:02:35.225 --> 00:02:37.640
+se define en términos de sí misma
+
+00:02:37.640 --> 00:02:40.427
+pero incluso ésto se ve como una bonita y prolija propiedad
+
+00:02:40.427 --> 00:02:41.820
+pero queremos llegar un poco más lejos
+
+00:02:41.820 --> 00:02:44.374
+queremos encontrar qué es realmente phi
+
+00:02:44.374 --> 00:02:47.671
+cuál es el valor de phi, éste raro número de esta rara proporción
+
+00:02:47.671 --> 00:02:49.947
+que empezamos a explorar
+
+00:02:49.947 --> 00:02:54.312
+asi que vamos a ver si podemos convertirlo en una ecuación cuadrática que sepamos resolver
+
+00:02:54.312 --> 00:02:56.913
+usando métodos más tradicionales
+
+00:02:56.913 --> 00:02:59.328
+y la forma más fácil de hacer esto es multiplicar ámbos lados
+
+00:02:59.328 --> 00:03:01.800
+de esta ecuación por phi
+
+00:03:01.800 --> 00:03:05.513
+y así obtenemos phi al cuadrado
+
+00:03:07.144 --> 00:03:11.400
+más, o phi al cuadrado es igual a phi
+
+00:03:11.400 --> 00:03:14.000
+phi más uno
+
+00:03:14.000 --> 00:03:17.733
+phi al cuadrado es igual a phi más uno
+
+00:03:17.733 --> 00:03:20.200
+y ahi, me voy a detener un poco en esto
+
+00:03:20.200 --> 00:03:21.467
+porque incluso ésto es interesante
+
+00:03:21.467 --> 00:03:23.333
+porque entonces, si sacamos raiz cuadrada a ambos miembros
+
+00:03:23.333 --> 00:03:28.400
+de ésto, tenemos, bajemos un poco, tenemos que phi es igual a
+
+00:03:28.400 --> 00:03:31.267
+la raíz cuadrada de, y sólo voy a cambiar el orden aquí
+
+00:03:31.267 --> 00:03:34.867
+la raíz cuadrada de 1 más, la raíz cuadrada de 1 más
+
+00:03:34.867 --> 00:03:35.733
+phi
+
+00:03:35.733 --> 00:03:38.133
+así que una vez más podemos armar una definición recursiva
+
+00:03:38.133 --> 00:03:43.067
+phi es igual a la raíz cuadrada de 1 más phi
+
+00:03:43.067 --> 00:03:44.733
+y puedo escribir phi aquí, pero hey!
+
+00:03:44.733 --> 00:03:46.000
+phi es igual a la raíz cuadrada de
+
+00:03:46.000 --> 00:03:49.600
+uno más, es igual a la raíz cuadrada de uno más
+
+00:03:49.600 --> 00:03:52.000
+y podría escribir phi ahí, pero hey, phi es igual a
+
+00:03:52.000 --> 00:03:53.733
+la raíz cuadrada de uno más
+
+00:03:53.733 --> 00:03:55.067
+la raíz cuadrada de uno más
+
+00:03:55.067 --> 00:03:57.333
+y así podrías seguir y seguir por siempre
+
+00:03:57.333 --> 00:03:58.600
+así que incluso esto es fantástico
+
+00:03:58.600 --> 00:04:00.400
+el mismo número que puede expresarse de esta manera
+
+00:04:00.400 --> 00:04:02.333
+el mismo número al que si le resto uno
+
+00:04:02.333 --> 00:04:03.667
+obtienes su inverso
+
+00:04:03.667 --> 00:04:07.667
+puede ser expresado también con esta cadena recursiva de raíces cuadradas
+
+00:04:07.667 --> 00:04:09.533
+una debajo de otra
+
+00:04:09.533 --> 00:04:12.267
+así que todo esto en verdad comienza a verse muy muy intrigante
+
+00:04:12.713 --> 00:04:14.400
+bien, volvamos a lo nuestro
+
+00:04:14.608 --> 00:04:17.333
+vamos a resolver para este mágico número
+
+00:04:17.333 --> 00:04:20.600
+esta mágica, mágica proporción en la que empezamos a pensar
+
+00:04:20.600 --> 00:04:22.933
+y, y realmente a partir de una idea muy simple
+
+00:04:22.933 --> 00:04:24.467
+de que la proporción entre el lado más largo
+
+00:04:24.467 --> 00:04:28.333
+y el más corto es igual a la proporción entre la suma de ámbos
+
+00:04:28.333 --> 00:04:30.200
+y el lado más largo
+
+00:04:30.200 --> 00:04:32.467
+así que vamos a resolverlo como una cuadrática normal
+
+00:04:32.467 --> 00:04:34.067
+pongamos todo del lado izquierdo
+
+00:04:34.067 --> 00:04:36.533
+y vamos a restar phi más 1 de ámbos lados
+
+00:04:36.533 --> 00:04:38.400
+y obtenemos phi al cuadrado
+
+00:04:38.400 --> 00:04:40.995
+menos phi, menos 1
+
+00:04:41.102 --> 00:04:43.667
+es igual a 0
+
+00:04:43.667 --> 00:04:47.800
+y podemos resolverlo para un phi ahora usando la fórmula cuadrática
+
+00:04:47.800 --> 00:04:49.333
+que probamos en otros videos
+
+00:04:49.333 --> 00:04:51.533
+puedes probar completando cuadrados
+
+00:04:51.533 --> 00:04:52.733
+pero la fórmula cuadrática
+
+00:04:52.733 --> 00:04:56.467
+dices - B, - B es el coeficiente
+
+00:04:56.467 --> 00:04:57.733
+en este término de aquí
+
+00:04:57.733 --> 00:04:59.067
+así que déjenme escribir abajo
+
+00:04:59.067 --> 00:05:00.000
+A es igual a 1
+
+00:05:00.000 --> 00:05:01.600
+ése es el coeficiente en este término
+
+00:05:01.600 --> 00:05:03.267
+B es igual a - 1
+
+00:05:03.267 --> 00:05:04.933
+ése es el coeficiente en este término
+
+00:05:04.933 --> 00:05:06.600
+C es igual a -1
+
+00:05:06.600 --> 00:05:09.467
+ése es el coeficiente que realmente es la constante en todo esto
+
+00:05:09.467 --> 00:05:12.133
+así que la solución a esto - phi
+
+00:05:12.133 --> 00:05:14.400
+nos va a preocupar sólo la solución positiva
+
+00:05:14.400 --> 00:05:15.667
+porque estamos buscando un positivo
+
+00:05:15.667 --> 00:05:18.133
+los que, si volvemos a nuestro problema original de aquí
+
+00:05:18.133 --> 00:05:20.333
+estamos asumiendo que son las dos distancias positivas
+
+00:05:20.333 --> 00:05:22.200
+así que nos preocupa el resultado positivo aquí
+
+00:05:22.523 --> 00:05:26.267
+tenemos phi es igual a
+
+00:05:26.267 --> 00:05:27.067
+voy a hacerlo en naranja
+
+00:05:27.067 --> 00:05:29.867
+- B, bueno, - (- 1) es 1
+
+00:05:29.867 --> 00:05:32.490
+más menos la raíz cuadrada de
+
+00:05:32.982 --> 00:05:35.400
+B al cuadrado, B al cuadrado va a ser 1
+
+00:05:36.123 --> 00:05:38.663
+menos 4AC
+
+00:05:38.663 --> 00:05:41.200
+A es 1, C es -1
+
+00:05:41.200 --> 00:05:43.333
+entonces cuatro veces -1 es -4, negado es 4
+
+00:05:43.333 --> 00:05:47.267
+1 más 4, todo sobre 2A
+
+00:05:47.267 --> 00:05:50.200
+entonces A es 1, nos queda todo sobre 2
+
+00:05:50.200 --> 00:05:52.933
+y phi es igual a 2, y una vez más, sólo nos preocupa
+
+00:05:52.933 --> 00:05:54.333
+la solución positiva
+
+00:05:54.333 --> 00:05:56.400
+esto es la raíz cuadrada de 5
+
+00:05:56.400 --> 00:05:57.800
+va a quedar 1 menos la raíz de 5
+
+00:05:57.800 --> 00:05:59.025
+podemos encontrar un negativo en el numerador
+
+00:05:59.041 --> 00:06:01.071
+así que sólo buscamos la solución positiva
+
+00:06:01.071 --> 00:06:04.308
+1 más la raíz cuadrada de 5
+
+00:06:04.308 --> 00:06:04.810
+sobre 2
+
+00:06:04.810 --> 00:06:06.600
+y eso se ve como un muy
+
+00:06:06.600 --> 00:06:09.354
+muy interesante número
+
+00:06:09.508 --> 00:06:11.000
+tomemos una calculadora
+
+00:06:11.000 --> 00:06:13.759
+y tratemos de encontrar los primeros dígitos
+
+00:06:13.836 --> 00:06:16.590
+de este mágico número phi
+
+00:06:16.718 --> 00:06:19.333
+así que déjenme sacar mi calculadora
+
+00:06:19.333 --> 00:06:21.133
+y evaluémoslo
+
+00:06:21.133 --> 00:06:22.867
+y vas a a tener que reconocer que la raíz cuadrada de phi
+
+00:06:22.867 --> 00:06:24.400
+es un número irracional
+
+00:06:24.400 --> 00:06:26.800
+y por eso, toda esta cosa va a ser irracional
+
+00:06:26.800 --> 00:06:28.800
+pero eso lo probaré en otro video
+
+00:06:28.800 --> 00:06:30.467
+lo que significa que nunca repite
+
+00:06:30.467 --> 00:06:31.933
+sigue y sigue por siempre
+
+00:06:31.933 --> 00:06:33.067
+pero ahora vamos a evaluarlo
+
+00:06:33.067 --> 00:06:36.667
+entonces, 1 más la raíz cuadrada de 5
+
+00:06:36.667 --> 00:06:39.067
+1 más la raíz cuadrada de 5
+
+00:06:39.067 --> 00:06:42.000
+dividido 2
+
+00:06:42.000 --> 00:06:42.500
+y esto es
+
+00:06:42.500 --> 00:06:45.933
+1,6180339
+
+00:06:45.933 --> 00:06:49.667
+dejemos eso de lado, por ahora
+
+00:06:49.667 --> 00:06:51.533
+y permíteme escribirlo
+
+00:06:51.533 --> 00:06:53.133
+y aquí es donde en verdad comienza a ponerse interesante
+
+00:06:53.133 --> 00:06:54.067
+y misterioso
+
+00:06:54.067 --> 00:06:55.733
+así que este número de aquí
+
+00:06:55.733 --> 00:07:02.867
+es 1,618033988....
+
+00:07:02.867 --> 00:07:04.867
+y sigue y sigue
+
+00:07:04.867 --> 00:07:07.667
+nunca termina, nunca repite
+
+00:07:07.667 --> 00:07:09.333
+así que por sí mismo, hey, ya es un número genial
+
+00:07:09.333 --> 00:07:12.133
+es la proporción que tiene todas estas propiedades geniales
+
+00:07:12.133 --> 00:07:13.400
+que son muy locas
+
+00:07:13.400 --> 00:07:14.867
+de cualquier forma que las expreses
+
+00:07:14.867 --> 00:07:18.533
+pero lo realmente genial, si revisamos esto de aquí
+
+00:07:18.533 --> 00:07:21.533
+porque, qué es 1 sobre phi?
+
+00:07:21.533 --> 00:07:27.102
+1 sobre phi, 1 sobre phi, que a veces denotamos
+
+00:07:27.102 --> 00:07:30.498
+con la letra capital phi (Φ)
+
+00:07:30.498 --> 00:07:32.225
+ya sabemos, 1 sobre phi
+
+00:07:32.225 --> 00:07:33.400
+es sólo phi menos 1
+
+00:07:33.400 --> 00:07:35.600
+asi que podemos hacer ésto en nuestras cabezas
+
+00:07:35.600 --> 00:07:37.400
+uno sobre esto va a ser
+
+00:07:37.400 --> 00:07:42.000
+0,618033988
+
+00:07:42.000 --> 00:07:44.600
+Si no lo sabes, hay algo absurdo sobre esto
+
+00:07:44.600 --> 00:07:47.133
+de que la inversa del número sea en realidad sus decimales
+
+00:07:47.133 --> 00:07:49.400
+una vez que sacas el uno
+
+00:07:49.400 --> 00:07:52.667
+por sí misma es una idea loca
+
+00:07:52.667 --> 00:07:54.000
+pero que se vuelve más loca!!
+
+00:07:54.000 --> 00:07:56.067
+porque este número aparece en todos lados
+
+00:07:56.067 --> 00:07:58.800
+y como podrás imaginar por el título de este video
+
+00:07:58.800 --> 00:08:00.800
+este phi de por aquí
+
+00:08:00.800 --> 00:08:03.467
+es el llamado número áureo
+
+00:08:03.467 --> 00:08:04.933
+éste es el número áureo
+
+00:08:04.933 --> 00:08:06.600
+y aparece en todos lados
+
+00:08:06.600 --> 00:08:09.200
+"Número Áureo"
+
+00:08:09.200 --> 00:08:11.333
+aparece en el arte, aparece en la música
+
+00:08:11.333 --> 00:08:13.333
+aparece en la naturaleza
+
+00:08:13.333 --> 00:08:15.533
+y sólo para tener una idea de su importancia en la naturaleza
+
+00:08:15.533 --> 00:08:17.867
+aparece en muchas ideas puras
+
+00:08:17.867 --> 00:08:19.533
+así que si yo dibujase
+
+00:08:19.533 --> 00:08:21.600
+si quisiera dibujar una estrella perfecta
+
+00:08:21.600 --> 00:08:24.267
+si dibujo una estrella regular como esta de aquí
+
+00:08:24.267 --> 00:08:26.333
+déjenme dibujarla así
+
+00:08:26.333 --> 00:08:28.600
+dibujar esto bien
+
+00:08:28.600 --> 00:08:30.115
+esto es una estrella regular
+
+00:08:30.115 --> 00:08:31.267
+todos los lados son iguales
+
+00:08:31.267 --> 00:08:35.267
+todos los, déjenme dibujarlo un poco mejor que eso
+
+00:08:35.267 --> 00:08:38.000
+asi que si dibujo una estrella como esta de aquí
+
+00:08:38.000 --> 00:08:41.000
+a veces llamado un pentagrama
+
+00:08:41.000 --> 00:08:43.933
+algunas cosas maravillosas comienzan a pasar
+
+00:08:43.933 --> 00:08:49.800
+la proporción de este lado rosa con este lado azul
+
+00:08:49.800 --> 00:08:52.667
+de aquí, es el número áureo
+
+00:08:52.667 --> 00:08:58.400
+la proporción entre este magenta y este rosa, es el número áureo
+
+00:08:58.400 --> 00:09:00.200
+como debería, por definición
+
+00:09:00.200 --> 00:09:05.533
+ahora la proporción del magenta con este naranja
+
+00:09:05.533 --> 00:09:07.200
+es también el número áureo
+
+00:09:07.200 --> 00:09:09.600
+y así aparece en una tonelada de formas diferentes
+
+00:09:09.600 --> 00:09:11.600
+cuando miras un pentagrama como éste
+
+00:09:11.600 --> 00:09:13.667
+Si miras un pentágono
+
+00:09:13.667 --> 00:09:15.333
+un pentágono regular
+
+00:09:15.333 --> 00:09:19.000
+donde todos los ángulos son iguales y todos los lados son iguales
+
+00:09:19.000 --> 00:09:21.267
+un pentágono regular
+
+00:09:21.267 --> 00:09:22.733
+si tomas alguna de las diagonales
+
+00:09:22.733 --> 00:09:25.667
+de un pentágono regular
+
+00:09:25.667 --> 00:09:29.000
+justo aquí, si tomas esta diagonal de aquí
+
+00:09:29.000 --> 00:09:31.333
+la proporción de este lado verde
+
+00:09:31.333 --> 00:09:32.733
+y cuando hablo de diagonales
+
+00:09:32.733 --> 00:09:34.400
+es las que no son los bordes
+
+00:09:34.400 --> 00:09:36.267
+la proporción entre cualquiera de las diagonales
+
+00:09:36.267 --> 00:09:39.200
+con cualquiera de los bordes, es, una vez más
+
+00:09:39.200 --> 00:09:40.933
+el número áureo
+
+00:09:40.933 --> 00:09:43.200
+así sigue apareciendo y apareciendo
+
+00:09:43.200 --> 00:09:44.333
+y podemos hacer cosas interesantes
+
+00:09:44.333 --> 00:09:45.800
+con el número áureo
+
+00:09:45.800 --> 00:09:47.533
+digamos que tenemos un rectángulo
+
+00:09:47.533 --> 00:09:50.544
+donde la proporción del ancho con el alto es el número áureo
+
+00:09:50.544 --> 00:09:53.590
+intentemos
+
+00:09:53.590 --> 00:09:56.467
+digamos que éste es elalto
+
+00:09:56.467 --> 00:09:58.133
+éste es el ancho
+
+00:09:58.133 --> 00:09:59.733
+y ésta la proporción
+
+00:09:59.733 --> 00:10:02.533
+llamemos a esto A, a eso B
+
+00:10:02.533 --> 00:10:06.200
+y la proporción entre A y B es igual a phi
+
+00:10:06.200 --> 00:10:09.133
+que es 1,61... y así sigue
+
+00:10:09.133 --> 00:10:10.800
+y déjenme bajar un poco
+
+00:10:10.800 --> 00:10:12.800
+así que eso va a ser igual a phi
+
+00:10:12.800 --> 00:10:15.000
+entonces, quizás sabes que hay algo
+
+00:10:15.000 --> 00:10:16.867
+interesante para hacer, este es un bonito rectángulo
+
+00:10:16.867 --> 00:10:18.067
+de algún tipo
+
+00:10:18.067 --> 00:10:19.533
+pero déjame poner un cuadrado aquí
+
+00:10:19.533 --> 00:10:23.667
+y déjame separar esto en un cuadrado de B por B
+
+00:10:23.667 --> 00:10:26.200
+este de aquí es un cuadrado de B por B
+
+00:10:26.200 --> 00:10:28.513
+y entonces, déjame hacer un poco más
+
+00:10:29.175 --> 00:10:31.333
+déjame dibujarlo de manera diferente
+
+00:10:31.333 --> 00:10:35.867
+este rectángulo no es exactamente el modo en que quería dibujarlo
+
+00:10:35.867 --> 00:10:39.267
+porque la proporción debería verse un poco más así
+
+00:10:39.267 --> 00:10:42.400
+entonces la proporción entre el ancho y el largo
+
+00:10:42.400 --> 00:10:44.867
+o entre el ancho y el alto, va a ser el número áureo
+
+00:10:44.867 --> 00:10:48.267
+y entonces A sobre B va a ser
+
+00:10:48.267 --> 00:10:49.800
+el número áureo
+
+00:10:49.800 --> 00:10:52.200
+y déjame separar un pequeño cuadrado de B por B
+
+00:10:52.200 --> 00:10:53.733
+por aquí
+
+00:10:53.733 --> 00:10:56.600
+u pequeño cuadrado de B por B
+
+00:10:56.600 --> 00:10:58.667
+tiene ancho B
+
+00:10:58.667 --> 00:11:00.267
+y la distancia de aquí
+
+00:11:00.267 --> 00:11:03.400
+va a ser A menos B
+
+00:11:03.400 --> 00:11:07.000
+asi que ahora tenemos este cuadrado de B por A - B
+
+00:11:07.000 --> 00:11:10.267
+entonces tenemos... en realidad debría decir
+
+00:11:10.267 --> 00:11:11.600
+tenemos un cuadrado de B por B
+
+00:11:11.600 --> 00:11:12.533
+por aquí
+
+00:11:12.533 --> 00:11:13.733
+éste es B por B
+
+00:11:13.733 --> 00:11:16.733
+y luego está el rectángulo de B por a menos B
+
+00:11:16.733 --> 00:11:18.800
+ahora, no sería genial si también
+
+00:11:18.800 --> 00:11:22.267
+aquí estuviese el número áureo?
+
+00:11:22.267 --> 00:11:23.492
+vamos a intentarlo
+
+00:11:23.492 --> 00:11:27.400
+vamos a buscar la proporción entre B y A menos B
+
+00:11:27.400 --> 00:11:30.933
+La proporción entre B y A menos B
+
+00:11:30.933 --> 00:11:32.267
+bueno, va a ser igual a
+
+00:11:32.267 --> 00:11:36.333
+1 sobre la proporción entre B y A menos B
+
+00:11:36.333 --> 00:11:38.600
+parece recíproco a esto de aquí
+
+00:11:38.600 --> 00:11:40.533
+y va a ser igual a
+
+00:11:40.533 --> 00:11:45.575
+1 sobre A sobre B menos 1
+
+00:11:45.682 --> 00:11:48.000
+bien, solo lo reescribo por aqui
+
+00:11:48.000 --> 00:11:50.133
+y esto va a ser igual a 1 sobre
+
+00:11:50.533 --> 00:11:55.000
+phi, la proporción entre A y B dijimos por definición que era phi
+
+00:11:55.000 --> 00:11:56.733
+phi menos 1
+
+00:11:56.733 --> 00:11:58.600
+pero qué es phi menos 1?
+
+00:11:58.600 --> 00:12:00.533
+Bueno, phi menos 1 es 1 sobre phi!
+
+00:12:00.533 --> 00:12:01.800
+Es un número genial
+
+00:12:01.800 --> 00:12:03.400
+Entonces es igual a 1 sobre
+
+00:12:03.400 --> 00:12:05.333
+1 sobre 1 sobre phi
+
+00:12:05.333 --> 00:12:08.133
+que una vez más es igual a phi
+
+00:12:08.133 --> 00:12:10.867
+Y de nuevo, la proporción del rectángulo pequeño
+
+00:12:10.867 --> 00:12:12.600
+entre su altura y su ancho
+
+00:12:12.600 --> 00:12:14.800
+es, una vez más, el número áureo
+
+00:12:14.800 --> 00:12:16.800
+este número que sigue apareciendo
+
+00:12:16.800 --> 00:12:18.400
+y podemos hacer lo mismo otra vez
+
+00:12:18.400 --> 00:12:23.667
+podemos separar éste en un cuadrado (A - B) * (A - B)
+
+00:12:23.667 --> 00:12:24.867
+Justo así
+
+00:12:24.867 --> 00:12:26.867
+y así vamos a tener otro "Rectángulo Áureo"
+
+00:12:26.867 --> 00:12:28.267
+a veces lo llaman así, justo ahí
+
+00:12:28.267 --> 00:12:29.667
+y entonces podemos separarlo en
+
+00:12:29.667 --> 00:12:31.000
+un cuadrado
+
+00:12:31.000 --> 00:12:32.933
+y otro rectángulo áureo
+
+00:12:32.933 --> 00:12:35.000
+y ése podemos separarlo en un cuadrado
+
+00:12:35.000 --> 00:12:37.954
+y luego otro rectángulo áureo
+
+00:12:38.077 --> 00:12:39.667
+realmente, déjenme hacerlo así
+
+00:12:39.667 --> 00:12:41.600
+va a ser mejor
+
+00:12:41.600 --> 00:12:46.533
+permíteme, prtmítemehacer el cuadrado aquí
+
+00:12:46.533 --> 00:12:50.400
+es un cuadrado de A menos B por A menos B
+
+00:12:50.400 --> 00:12:53.267
+y ahí tenemos otro rectángulo áureo, justo ahí
+
+00:12:53.267 --> 00:12:57.267
+podría poner un cuadrado ahí dentro, tendríamos otro rectángulo áureo
+
+00:12:57.267 --> 00:12:59.267
+en el que podríamos poner otro cuadrado
+
+00:12:59.267 --> 00:13:01.333
+y tienes otro rectángulo áureo... creo que ves
+
+00:13:01.333 --> 00:13:02.333
+a dónde va esto
+
+00:13:02.333 --> 00:13:04.133
+otro cuadrado y otro rectángulo áureo
+
+00:13:04.133 --> 00:13:06.933
+Y empieza a crear un diseño muy bueno que podemos seguir
+
+00:13:06.933 --> 00:13:08.667
+envolviéndose sobre sí mismo una y otra vez.
+
+00:13:08.667 --> 00:13:11.000
+y si dibujamos un arco aquí
+
+00:13:11.000 --> 00:13:12.600
+algo genial pasa
+
+00:13:12.600 --> 00:13:15.200
+si tenemos un arco trazados a través de éstas
+
+00:13:15.200 --> 00:13:17.933
+Conseguimos algo, un patrón que ya debes haber visto
+
+00:13:17.933 --> 00:13:20.400
+muchas veces antes
+
+00:13:20.400 --> 00:13:22.867
+y ése patrón no luce muy diferente
+
+00:13:22.867 --> 00:13:24.000
+a lo que puedes encontrar en cosas como
+
+00:13:24.000 --> 00:13:26.467
+el caparazón de un nautilus
+
+00:13:26.467 --> 00:13:28.133
+y aparece en toda la naturaleza
+
+00:13:28.133 --> 00:13:28.800
+y eso tiene sentido
+
+00:13:28.800 --> 00:13:31.600
+simplemente por la forma en que la células se construyen a sí mismas
+
+00:13:31.600 --> 00:13:33.400
+tiene sentido que sea igual
+
+00:13:33.400 --> 00:13:35.067
+a diferentes escalas, y la proporción de una escala
+
+00:13:35.067 --> 00:13:36.800
+a la siguiente puede ser la misma que
+
+00:13:36.800 --> 00:13:38.933
+en cierto modo una proporción constitutiva.
+
+00:13:38.933 --> 00:13:41.533
+Esto de aquí, y aparece en todo el arte
+
+00:13:41.533 --> 00:13:43.067
+un montón en las pinturas de Da Vinci
+
+00:13:43.067 --> 00:13:46.533
+Él nunca, bueno, no explícitamente, lo planteó, pero hay un montón
+
+00:13:46.533 --> 00:13:47.733
+de proporciones ahí.
+
+00:13:47.733 --> 00:13:49.400
+Pero Salvador Dalí, esta pintura de aquí
+
+00:13:49.400 --> 00:13:51.000
+"El Sacramento de la Última Cena"
+
+00:13:51.000 --> 00:13:53.400
+explícitamente usó el número áureo
+
+00:13:53.400 --> 00:13:57.267
+Por lo que la proporción entre el ancho y el alto
+
+00:13:57.267 --> 00:13:58.400
+es e número áureo
+
+00:13:58.400 --> 00:14:00.133
+así que éste es un rectángulo áureo
+
+00:14:00.133 --> 00:14:02.733
+Y hay un montón de proporciones aquí, y te invito
+
+00:14:02.733 --> 00:14:04.600
+a explorarlas, las proporciones de las distintas mesas
+
+00:14:04.600 --> 00:14:06.467
+en donde se sientan en la pintura
+
+00:14:06.467 --> 00:14:07.667
+es el número áureo
+
+00:14:07.667 --> 00:14:08.800
+Está un montón en esta pintura
+
+00:14:08.800 --> 00:14:12.067
+y después tiene los pentágonos de aquí
+
+00:14:12.067 --> 00:14:15.400
+y sabemos que la proporción de la diagonal con los lados del pentágono
+
+00:14:15.400 --> 00:14:17.800
+es también el número áureo
+
+00:14:17.800 --> 00:14:20.000
+y él sólo pensó que era una cosa genial
+
+00:14:20.000 --> 00:14:21.200
+y hay todo tipo de cosas maravillosas
+
+00:14:21.200 --> 00:14:22.933
+que si las encuentras, sabes que dónde estos dos
+
+00:14:22.933 --> 00:14:25.000
+tipos están reverenciando aquí
+
+00:14:25.000 --> 00:14:26.733
+si dibujas esa línea por aquí
+
+00:14:26.733 --> 00:14:28.467
+es el número áureo
+
+00:14:28.467 --> 00:14:30.133
+la proporción del largo aquí
+
+00:14:30.133 --> 00:14:33.000
+con este largo de aquí es, una vez más, el número áureo
+
+00:14:33.000 --> 00:14:35.333
+Simplemente sigue apareciendo en la pintura
+
+00:14:35.333 --> 00:14:36.733
+Así que es realmente una GRAN cosa
+
+00:14:36.733 --> 00:14:39.333
+y te animo a explorar más
+
+00:14:39.333 --> 99:59:59.999
+porque de alguna manera es excitante.

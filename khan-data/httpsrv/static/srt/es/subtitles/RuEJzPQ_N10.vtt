@@ -1,0 +1,162 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.187 --> 00:00:06.669
+Parte B. Para x no es igual a cero, expresa f prima de x como una función definida por tramos.
+
+00:00:06.669 --> 00:00:11.148
+Encuentra el valor de x para los cuales f prima de x es igual a 3 negativo.
+
+00:00:11.148 --> 00:00:16.434
+Así que lo primero que se puede estar preguntando es, ¿por qué incluso tenemos que sacar x es igual a cero de la ...
+
+00:00:16.434 --> 00:00:19.200
+¿O por qué, por qué no es el dervative va a ser definido en él.
+
+00:00:19.200 --> 00:00:22.748
+Y eso es sólo porque vas a ver la derivada va a ser algo diferente cuando nos acercamos a
+
+00:00:22.748 --> 00:00:27.154
+x es igual a cero a partir de los versos que nos acercamos a la izquierda cuando x es igual a cero por la derecha.
+
+00:00:27.154 --> 00:00:29.069
+And that's why they just took it out of there for us.
+
+00:00:29.069 --> 00:00:32.846
+Pero vamos a averiguar lo que la derivada es que todos los otros valores de x.
+
+00:00:32.846 --> 00:00:36.375
+Por lo tanto f prima de x es igual a ...
+
+00:00:36.375 --> 00:00:41.767
+Así que para x es menor que cero, vamos a tomar la derivada de este primer caso ...
+
+00:00:41.767 --> 00:00:46.126
+Así, el derivado de un sólo es cero, el derivado de 2 negativo seno de x ...
+
+00:00:46.126 --> 00:00:50.831
+Bien la derivada de seno de x es sólo coseno de x. Por lo tanto, va a ser negativo el coseno de x 2.
+
+00:00:50.831 --> 00:01:00.282
+Negativo coseno de x 2, para, para x es menor que cero. Y a continuación, para x es mayor que cero ...
+
+00:01:00.282 --> 00:01:02.364
+Voy a hacer esto en otro color, lo haré en color naranja ...
+
+00:01:02.364 --> 00:01:06.864
+Tenemos este caso por aquí y vamos a hacer la regla de la cadena.
+
+00:01:06.864 --> 00:01:13.225
+Derivada de negativos 4 x con respecto a x es negativo 4.
+
+00:01:13.225 --> 00:01:18.136
+Y la derivada de e para los negativos 4 x con respecto a E ... espera espera, ...
+
+00:01:18.136 --> 00:01:26.234
+La derivada de e para los negativos de 4 x con respecto a la negativa de 4 x es igual a las negativas e 4 x .... e para las negativas 4 x.
+
+00:01:26.234 --> 00:01:31.400
+A veces se puede decir que esto es la derivada de los tiempos dentro de la derivada de la parte exterior con respecto a la interior.
+
+00:01:31.400 --> 00:01:40.215
+So either way, it's negative 4 e to the negative 4 x for x is greater than zero.
+
+00:01:40.215 --> 00:01:46.990
+Así que hicimos la primera parte: expresamos f prima de x como una función definida por tramos. No es ... no definimos la derivada ...
+
+00:01:46.990 --> 00:01:52.298
+En realidad me olvidé de un paréntesis aquí. No se derivan ... no definimos la derivada cuando x es igual a cero ...
+
+00:01:52.298 --> 00:01:56.477
+Porque no se trata en realidad va a ser definido en él. Ahora vamos a hacer la segunda parte ...
+
+00:01:56.477 --> 00:02:01.513
+Encuentra el valor de x para los cuales f prima de x es igual a 3 negativo.
+
+00:02:01.513 --> 00:02:08.462
+Y así, si esto no fuera definida por partes, usted acaba, usted acaba de forma muy sencilla simplemente decir: Oh, mira, f prima de x es igual al negativo de 3 ...
+
+00:02:08.462 --> 00:02:12.425
+Usted debe tomar lo que sea f prima de x es igual y que haría un poco de álgebra para resolver por ella.
+
+00:02:12.425 --> 00:02:19.400
+Pero aquí es como, cuyo caso debo usar? No sé si la x que nos lleva a 3 negativo va a ser menor que 0 o no sé si va a ser mayor que 0.
+
+00:02:19.400 --> 00:02:25.652
+Así que no sé lo que el caso de utilizar. Y una cosa que se dan cuenta es que ... es mirar a estas funciones un poco ...
+
+00:02:25.652 --> 00:02:29.015
+... y darse cuenta de que el coseno de x es una función acotada.
+
+00:02:29.015 --> 00:02:40.267
+Coseno de x sólo puede ir entre el positivo y negativo un 1. Tan negativo 2 coseno de x sólo puede ir entre el positivo y negativo 2 2.
+
+00:02:40.267 --> 00:02:45.036
+Así que esto sólo puede ir entre el positivo y negativo 2 2, por lo que nunca puede llegar a 3 negativo.
+
+00:02:45.036 --> 00:02:51.933
+Así que si hay algo que nunca va a llegar a negativo 3, que va a ser esta parte de la derivada o de esta parte de la definición de derivado.
+
+00:02:51.933 --> 00:02:54.646
+Por lo tanto, va a tener que ser lo correcto aquí.
+
+00:02:54.646 --> 00:03:00.923
+Y espero que hay algunos valores de x mayores que cero, donde esta cosa por aquí es igual al negativo de 3.
+
+00:03:00.923 --> 00:03:08.898
+Así que vamos a probarlo. Negativo cuatro e para el negativo de 4 x tiene que ser igual al negativo 3.
+
+00:03:08.898 --> 00:03:18.348
+Podemos dividir ambos lados por 4 negativos, obtenemos correo a la negativa de 4 x es igual a 3/4ths negativo dividido por negativo es 3/4ths 4.
+
+00:03:18.348 --> 00:03:29.185
+Podemos tomar el logaritmo natural de ambos lados y nos pondremos en negativo de 4 x es igual al logaritmo natural de 3/4ths ... logaritmo natural de 3/4ths.
+
+00:03:29.185 --> 00:03:35.405
+Y que quede claro lo que hice aquí, me refiero a que, literalmente, podría poner el logaritmo natural aquí, logaritmo natural allí, y ...
+
+00:03:35.405 --> 00:03:40.215
+se puede poner el logaritmo natural también allí para ver que paso. La natural ... esto nos dice lo que el poder,
+
+00:03:40.215 --> 00:03:45.333
+¿Qué poder tengo para subir al electrónico, para recibir el correo a los negativos de 4 x. Bueno, obviamente, sólo tengo que subir
+
+00:03:45.333 --> 00:03:51.379
+e para los justos ... la negativa 4 x alimentación por allí. Así que esto, este poder es negativo x 4.
+
+00:03:51.379 --> 00:03:58.329
+Y luego nos lo tomamos el logaritmo natural de la derecha también. Y luego para despejar x se puede dividir ambos lados por 4 negativos.
+
+00:03:58.329 --> 00:04:04.677
+Así se obtiene x es igual a ... o bien ... o podríamos decir ... pudimos múltiples ambos lados por 1/4o negativo ... de cualquier manera ....
+
+00:04:04.677 --> 00:04:11.887
+Negativa de registro de cuarto natural de 3/4ths. Y lo que tenemos que hacer es comprobar que esto x ...
+
+00:04:11.887 --> 00:04:19.400
+Así que usamos este caso por aquí. Usamos ese caso. Pero tenemos que asegurarnos de que esta x, que esto, que podemos utilizar este caso ...
+
+00:04:19.400 --> 00:04:24.267
+Que esta x es mayor que cero, y que podría tener la tentación justo cuando nos fijamos en esto, dicen que espere, espere ...,
+
+00:04:24.267 --> 00:04:28.867
+Esto parece ser un número negativo, pero tenemos que recordar que el logaritmo natural de 3/4ths,
+
+00:04:28.867 --> 00:04:35.067
+Desde 3/4ths es menor que e, el logaritmo natural de 3/4ths va a ser un número negativo.
+
+00:04:35.067 --> 00:04:43.600
+Va a ser electrónico a alguna exponente negativo. Así que ya que este es negativo, y ... y de esta parte, justo aquí es negativo,
+
+00:04:43.600 --> 00:04:49.985
+Así que también es negativa, usted tiene un par de veces negativos negativo por lo que esta por aquí es goign a ser positivo.
+
+00:04:49.985 --> 00:04:56.667
+Así que este es un valor positivo por aquí, por lo que usaría, se utiliza, se utiliza
+
+00:04:56.667 --> 00:05:02.898
+este caso por aquí así que eso es nuestra respuesta: x es igual a la negativa de registro 1/4o natural de 3/4ths.
+
+00:05:02.898 --> 00:05:15.236
+O el derivado se podría escribir f prima de -1 / 4 veces el logaritmo natural de 3/4ths es igual a ... es igual a 3 negativo. Y ya hemos terminado.

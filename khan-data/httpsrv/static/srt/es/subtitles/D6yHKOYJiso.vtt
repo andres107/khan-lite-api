@@ -1,0 +1,140 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+¿Cuál es el mínimo común múltiplo, abreviado MCM, de 15,6 y 10?
+
+99:59:59.999 --> 99:59:59.999
+Así que el MCM es exactamente lo que sus palabras dicen, el mínimo común múltiplo de estos números.
+
+99:59:59.999 --> 99:59:59.999
+Y yo se que probablemente no te ayudo mucho. Pero trabajemos en el problema.
+
+99:59:59.999 --> 99:59:59.999
+Para hacerlo debemos pensar en los diferentes múltiplos de 15, 6 y 10.
+
+NOTE Paragraph
+
+00:00:00.369 --> 00:00:07.602
+Y después encontrar el múltiplo más pequeño, el último múltiplo que tienen en común.
+
+00:00:07.602 --> 00:00:13.984
+Así que encontremos los múltiplos de 15. Tu tienes: 1 por 15 es 15, dos por 15 es 30.
+
+00:00:17.453 --> 00:00:22.275
+Luego si tu agregas 15 de nuevo obtienes 45, agregas 15 otra vez obtienes 60, y agregas 15 de nuevo,
+
+00:00:22.275 --> 00:00:26.453
+obtienes 75, agregas 15 otra vez, y obtienes 90, agregas 15 de nuevo y tienes 105
+
+00:00:26.453 --> 00:00:34.396
+y si todavía ninguno de esos son múltiplos comunes con estos chicos que están aquí
+
+00:00:34.396 --> 00:00:41.373
+entonces tendrás que ir mas lejos, pero paremos aquí por ahora.
+
+00:00:41.373 --> 00:00:49.012
+Ahora que los múltiplos de 15 están en 105. Obviamente seguiremos avanzando desde aquí. Ahora encontremos los múltiplos de 6.
+
+00:00:49.012 --> 00:00:53.807
+Hagamos los múltiplos de 6: 1 por 6 es 6, dos or 6 es 12, 3 por 6 es 18, 4 por 6 es 24,
+
+00:00:54.098 --> 00:00:56.906
+5 por 6 es 30, 6 por 6 es 36, 7 por 6 es 42, 8 por 6 es 48,
+
+00:00:57.090 --> 00:01:07.119
+9 por 6 es 54, 10 por 6 es 60. Sesenta parece interesante, porque es un múltiplo común de ambos 15 y 6. Aunque ya tenemos dos de ellos por aquí.
+
+00:01:07.119 --> 00:01:17.480
+Tenemos 30 y tenemos un 30, tenemos un 60 y un 60. Así que el menor MCM
+
+00:01:17.480 --> 00:01:27.345
+entonces si solo nos hubiéramos preocupado por el menor común múltiplo de 15 y 6
+
+00:01:27.345 --> 00:01:39.734
+Hubiéramos dicho que es 30. Vamos a escribir eso como un intermedio: el MCM de 15 y 6. Entonces el mínimo común múltiplo,
+
+00:01:39.734 --> 00:01:44.684
+el múltiplo más pequeño que tenemos en común, podemos ver por aquí. 15 por 2 es 30 y 6 por 5 es 30.
+
+00:01:44.684 --> 00:01:47.689
+Así que definitivamente es el común múltiplo y este es el más pequeño de todos sus MCMs.
+
+00:01:47.797 --> 00:01:57.356
+60 también es un común múltiplo, pero is uno más grande. Este es el mejor menor común múltiplo. Entonces esto es 30.
+
+00:01:57.356 --> 00:02:06.526
+No hemos pensado en el 10 todavía. Así que traigamos el diez aquí. Yo creo que puedes ver a donde nos lleva esto.
+
+00:02:10.896 --> 00:02:16.325
+Encontremos los múltiplos de 10. Ellos son 10, 20 30, 40... bueno, ya hemos ido lo suficientemente lejos. Porque ya tenemos el 30,
+
+00:02:16.617 --> 00:02:22.862
+Y 30 es un común múltiplo de 15 y 6 y es el mas pequeño común múltiplo de todos ellos.
+
+00:02:22.923 --> 00:02:30.592
+Por lo que es actualmente un hecho que el MCM de 15, 6 y 10 es igual a 30.
+
+00:02:30.592 --> 00:02:38.973
+Ahora, esta es una forma de encontrar en mínimo común múltiplo. Literalmente, solo busca y observa los múltiplos de cada uno de los números...
+
+00:02:39.158 --> 00:02:47.412
+Y luego mira cuál es el menor múltiplo que tienen en común.
+
+00:02:47.489 --> 00:02:52.920
+Otra forma de hacerlo es observando la factorización prima de cada uno de los números
+
+00:02:52.982 --> 00:02:57.333
+y el MCM es el numero que tiene todos los elementos de la factorización prima de estos y nada mas.
+
+00:02:57.333 --> 00:03:01.973
+Entonces déjame demostrarte que es lo que quiero decir con eso. Así que lo puede hacer de esta forma o tu puedes decir que 15 es lo
+
+00:03:08.750 --> 00:03:14.422
+mismo que 3 por 5 y que si eso es todo. Esta es la factorización prima, 15 es 3 por 5, desde que ambos 3 y 5 son números primos.
+
+00:03:14.422 --> 00:03:23.537
+Podemos decir que 6 es lo mismo que 2 por 3. Esta es la factorización prima, desde que ambos 2 y 3 son números primos.
+
+00:03:23.614 --> 00:03:30.783
+Y luego podemos decir que 10 es lo mismo que 2 por 5. Ambos 2 y 5 son números primos, así que terminamos de factorizar.
+
+00:03:30.783 --> 00:03:40.249
+Entonces el MCM de 15, 6 y 10, solo necesitamos tener todos los factores primos.
+
+00:03:40.249 --> 00:03:50.930
+Y a lo que me refiero es.... para ser claros, para ser divisibles por 15
+
+00:03:50.930 --> 00:03:55.599
+Tiene que tener al menos un 3 y al menos un 5 en sus factores primos, así que necesita tener al menos un3 y un 5.
+
+00:03:55.599 --> 00:04:03.672
+Al tener un 3 por 5 en sus factores primos que aseguren que es un número divisible por 15.
+
+00:04:09.661 --> 00:04:18.451
+Para ser divisible por 6 tiene que tener al menos un2 y un 3. Así que tiene que tener al menos un 2 y ya tenemos un 3 por aquí, entonces tenemos lo que necesitamos.
+
+00:04:18.574 --> 00:04:28.346
+Solo necesitamos un 3. Entonces un 2 y un 3. Que es 2 por 3 y asegura que es divisible por 6. Y déjame dejarlo claro, este aquí es el 15.
+
+00:04:28.946 --> 00:04:41.884
+Y luego para asegurar que es divisible por 10, necesitamos tener al menos un 2 y un 5. Estos dos por aquí aseguran que es divisible por 10.
+
+00:04:42.083 --> 00:04:47.655
+Y entonces los tenemos a todos, este 2x3x5 tiene todos ls factores primos de cualquiera de estos 10, 6 ó 15, así que este es el MCM.
+
+00:04:52.922 --> 00:04:52.923
+Entonces si multiplicamos esto, tendrás, 2x6 es 6, 6x5 es 30.
+
+00:04:55.969 --> 00:05:05.471
+Así de cualquier manera. Espero que lo entiendas y veas porque tiene sentido.
+
+00:05:05.594 --> 00:05:13.193
+Este segundo método es un poco mejor, si tu estas tratando de hacerlo con números más complejos...
+
+00:05:13.193 --> 00:05:16.062
+números, donde tu tienes que multiplicar por mucho tiempo.
+
+00:05:16.062 --> 00:05:21.834
+Bueno, de cualquier forma, ambos métodos son formas validas de encontrar el mínimo común múltiplo

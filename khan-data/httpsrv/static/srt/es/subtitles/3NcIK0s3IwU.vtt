@@ -1,0 +1,354 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.600 --> 00:00:03.600
+Vamos a ver si podemos aplicar lo que hemos aprendido
+
+00:00:03.600 --> 00:00:06.890
+a un particularmente complicado problema que prepare.
+
+00:00:06.890 --> 00:00:09.600
+Dejenme ver como puedo construir esto...
+
+00:00:09.600 --> 00:00:15.780
+Digamos que en paralelo, tengo esta resistencia aqui arriba
+
+00:00:15.780 --> 00:00:17.590
+y voy a intentar hacerlo de manera que los numeros cierren
+
+00:00:17.590 --> 00:00:19.760
+de manera clara.
+
+00:00:19.760 --> 00:00:28.000
+Esto es 4 ohm. Despues tengo otra resistencia aca.
+
+00:00:28.000 --> 00:00:36.340
+Esto es 8 ohms. Ahora tengo otra resistencia aca.
+
+00:00:36.340 --> 00:00:43.760
+Esta tiene 16 ohms y entonces tengo otra resistencia mas
+
+00:00:43.760 --> 00:00:48.640
+ohms. Ahora, estoy inventando esto al vuelo
+
+00:00:48.640 --> 00:00:50.990
+Me parece que los numberos van a funcionar bien.
+
+00:00:50.990 --> 00:00:54.710
+16 ohms
+
+00:00:54.710 --> 00:00:59.750
+Y digamos que aca en serie, tengo una resistencia
+
+00:00:59.750 --> 00:01:07.720
+que es de 1 ohm, y despues en paralelo a todo esto ---vos
+
+00:01:07.720 --> 00:01:12.080
+podes ver que tan complejo se pone--- tengo una resistencia
+
+00:01:12.080 --> 00:01:22.420
+que es de 3 ohms,Digamos que tengo una resistencia aca
+
+00:01:26.640 --> 00:01:29.650
+Hagamosla simple: 1 ohm.
+
+00:01:29.650 --> 00:01:36.010
+Y solamente para hacer a estos numeros razonablemente mas faciles --- estoy haciendo
+
+00:01:36.010 --> 00:01:38.850
+esto al vuelo ahora--- este es el terminal positivo
+
+00:01:38.850 --> 00:01:41.140
+terminal negativo.
+
+00:01:41.140 --> 00:01:47.370
+Digamos que el voltaje diferencial es de 20 volts.
+
+00:01:47.370 --> 00:01:52.050
+Entonces que lo quiero que hagamos es, descubrir cual es la corriente
+
+00:01:52.050 --> 00:01:54.540
+fluyendo a traves del cable en este punto?
+
+00:01:54.540 --> 00:01:56.010
+Obviamente, eso va a ser diferente al valor de la corriente en
+
+00:01:56.010 --> 00:01:58.090
+este punto, este punto, este punto, este punto, todos
+
+00:01:58.090 --> 00:01:59.710
+estos diferentes puntos, pero va a ser la misma que
+
+00:01:59.710 --> 00:02:01.880
+la corriente fluyendo en este punto.
+
+00:02:01.880 --> 00:02:03.370
+Entonces, que es I?
+
+00:02:03.370 --> 00:02:05.920
+La forma mas facil de hacer esto es tratar de averiguar
+
+00:02:05.920 --> 00:02:07.040
+la resistencia equivalente.
+
+00:02:07.040 --> 00:02:09.199
+Porque una vez que sabemos la resistencia equivalente de este
+
+00:02:09.199 --> 00:02:12.940
+gran problema, entonces podriamos solo usar la ley de Ohm y listo.
+
+00:02:12.940 --> 00:02:16.460
+Entonces, primero, vamos a empezar con la que yo diria
+
+00:02:16.460 --> 00:02:17.090
+es la parte mas simple.
+
+00:02:17.090 --> 00:02:19.310
+Digamos que podemos averiguar la resistencia equivalente
+
+00:02:19.310 --> 00:02:23.550
+de estas cuatro resistencias en paralelo.
+
+00:02:23.550 --> 00:02:26.160
+Bueno, todod sabemos que la resistencia va a ser
+
+00:02:26.160 --> 00:02:34.800
+igual a 1/4 + 1/8 + 1/16 + 1/16.
+
+00:02:34.800 --> 00:02:37.450
+Entonces esa resistencia--y ahora le sumamos
+
+00:02:37.450 --> 00:02:39.100
+fracciones-- sobre 16.
+
+00:02:39.100 --> 00:02:48.740
+1/4 is 4/16 + 2/16 +1 +1 , entonces 1/R es igual a 4
+
+00:02:48.740 --> 00:02:53.170
++2 es igual a 8/16 --los numeros estan funcionando claramente-- se
+
+00:02:53.170 --> 00:02:57.260
+igual a 1/2, entonces la resistencia equivalente es 2.
+
+00:02:57.260 --> 00:02:59.490
+Entonces, rapidamente, decimos, bueno, todos estas
+
+00:02:59.490 --> 00:03:04.110
+resistencias combinadas es igual a 2 ohms.Dejame borrar esto
+
+00:03:04.110 --> 00:03:05.620
+y simplificar el dibujo.
+
+00:03:09.020 --> 00:03:10.510
+Simplifico.
+
+00:03:10.510 --> 00:03:29.310
+Entonces todo esto podria ser simplificado como 2 ohms. Yo
+
+00:03:29.310 --> 00:03:30.240
+perdi un cable aca.
+
+00:03:30.240 --> 00:03:33.000
+Me quiero asegurar que el circuito pueda fluir.
+
+00:03:33.000 --> 00:03:36.910
+Entonces tan facilmente, converti este problema grande en algo
+
+00:03:36.910 --> 00:03:39.540
+que no es tan complejo.
+
+00:03:39.540 --> 00:03:41.950
+Bueno, cual es la resistencia equivalente de esta resistencia
+
+00:03:41.950 --> 00:03:43.330
+y esta resistencia?
+
+00:03:43.330 --> 00:03:46.290
+Bueno, estan en serie, y las resistencias en serie se
+
+00:03:46.290 --> 00:03:47.710
+suman entre ellas, no?
+
+00:03:47.710 --> 00:03:50.770
+Entonces combinando las resistencias de esta resistencia de 2ohms y esta
+
+00:03:50.770 --> 00:03:53.510
+resistencia de 1 ohm, resulta una resistencia de 3 ohms.
+
+00:03:53.510 --> 00:03:57.580
+Entonces borremos y simplifiquemos.
+
+00:03:57.580 --> 00:04:02.280
+Entonces ya tenemos esa resistencia combinada, no?
+
+00:04:02.280 --> 00:04:05.360
+Tenemos los 2 ohm que habiamos simplificado y
+
+00:04:05.360 --> 00:04:06.610
+despues tenemos 1 ohm.
+
+00:04:12.200 --> 00:04:15.250
+Entonces si tenemos 2 ohm y 1 ohm en serie, eso se simplifica
+
+00:04:15.250 --> 00:04:16.880
+a 3 ohms.
+
+00:04:16.880 --> 00:04:19.300
+Bueno, esto se esta poniendo facil.
+
+00:04:19.300 --> 00:04:23.670
+Entonces estas dos resistencias a que se simplifican?
+
+00:04:23.670 --> 00:04:27.710
+bueno, 1 sobre la resistencia combinada es
+
+00:04:27.710 --> 00:04:31.040
+igual a 1/3 + 1/3
+
+00:04:31.040 --> 00:04:31.870
+que es igual a...?
+
+00:04:31.870 --> 00:04:32.770
+2/3
+
+00:04:32.770 --> 00:04:41.560
+1/R es igual a 2/3, entonces R es igual a 3/2, o podriamos decir
+
+00:04:41.560 --> 00:04:45.960
+1.5, no?
+
+00:04:45.960 --> 00:04:51.100
+Entonces, borremos esos y simplifiquemos nuestro dibujo.
+
+00:04:51.100 --> 00:04:57.905
+Todo este problema, la resistencia de 3ohms en paralelo con
+
+00:04:57.905 --> 00:05:00.980
+la otra resistencia de 3ohms es igual a una resistencia con una
+
+00:05:00.980 --> 00:05:02.020
+resistencia de 1.5
+
+00:05:02.020 --> 00:05:03.600
+Y en realidad, este es un buen momento para darte un poco de
+
+00:05:03.600 --> 00:05:05.320
+orientacion (o intuicion) no?
+
+00:05:05.320 --> 00:05:07.550
+Porque aunque estos son resistencias de 3 ohms, tenemos dos de ellas
+
+00:05:07.550 --> 00:05:10.880
+entonces estarias de alguna manera incrementando el caño por el que
+
+00:05:10.880 --> 00:05:14.790
+los electrones pasan, en factor de dos, no?
+
+00:05:14.790 --> 00:05:17.150
+Entonces en realidad esta disminuyendo la resistencia.
+
+00:05:17.150 --> 00:05:19.590
+le esta dando mas Avenidas a los electrones para ir.
+
+00:05:19.590 --> 00:05:21.500
+Ellos en realidad, van a ir en esa direccion.
+
+00:05:21.500 --> 00:05:23.880
+Y es por eso que la resistencia combinada de ambos de estos en
+
+00:05:23.880 --> 00:05:27.160
+paralelo es realmente la mitad de cualquiera de estas
+
+00:05:27.160 --> 00:05:27.565
+resistencias
+
+00:05:27.565 --> 00:05:30.090
+Te sugiero que pienses un poco sobre esto, para que
+
+00:05:30.090 --> 00:05:31.610
+ganes intuicion acerca de lo que sucede con los
+
+00:05:31.610 --> 00:05:36.100
+electrones, a pesar de que hare un video entero en resistividad.
+
+00:05:36.100 --> 00:05:41.180
+Bueno, entonces tenemos esas dos resistencias combinadas---quiero borrar
+
+00:05:41.180 --> 00:05:43.010
+todo eso---
+
+00:05:43.010 --> 00:05:47.210
+Estas dos resistencias combinadas igual a una resistencia de 1.5ohm
+
+00:05:49.850 --> 00:05:53.540
+Eso es 1.5ohm. Ahora todo lo que nos queda son dos
+
+00:05:53.540 --> 00:05:59.270
+resistencias en paralelo, entonces el circuito entero se convierte en esto,
+
+00:05:59.270 --> 00:06:00.860
+que es el mas basico.
+
+00:06:00.860 --> 00:06:04.270
+Esta es una resistencia: 1,5 ohms, 1 ohm en serie.
+
+00:06:04.270 --> 00:06:05.300
+Acabo de decir paralelos?
+
+00:06:05.300 --> 00:06:06.510
+No, estan en serie.
+
+00:06:06.510 --> 00:06:13.210
+1,5 + 1 , esos son 2,5 ohms. El voltaje es 20
+
+00:06:13.210 --> 00:06:14.710
+volts a traves de ellos.
+
+00:06:14.710 --> 00:06:16.920
+Entonces cual es la corriente?
+
+00:06:16.920 --> 00:06:17.860
+La Ley de Ohm.
+
+00:06:17.860 --> 00:06:19.920
+V es igual a IR.
+
+00:06:19.920 --> 00:06:24.500
+Voltaje es 20 que es igual a la corriente x por
+
+00:06:24.500 --> 00:06:31.290
+resistencia equivalente x 2,5 ohms. O la otra forma seria escribir 2,5
+
+00:06:31.290 --> 00:06:33.410
+es 5/2, no?
+
+00:06:33.410 --> 00:06:38.060
+entonces 20 es igual a I x 5/2.
+
+00:06:38.060 --> 00:06:45.570
+O I es igual a 2/5 x 20, y que es eso?
+
+00:06:45.570 --> 00:06:49.950
+2/5 es igual a I que es igual a 8.
+
+00:06:49.950 --> 00:06:51.470
+8 amperes.
+
+00:06:51.470 --> 00:06:54.590
+Eso no fue tan malo,
+
+00:06:54.590 --> 00:06:56.850
+A pesar que al verlo inicialmente parecia
+
+00:06:56.850 --> 00:06:58.540
+extremadamente intimidante.
+
+00:06:58.540 --> 00:07:01.190
+De cualquier manera, si entendiste eso, vas a poder resolver
+
+00:07:01.190 --> 00:07:04.920
+problemas relativamente complicados en circuitos. Te veo en
+
+00:07:04.920 --> 00:07:06.510
+videos futuros!

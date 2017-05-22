@@ -1,0 +1,702 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.165 --> 00:00:01.946
+Nunca está de más tener mucha práctica.
+
+00:00:01.961 --> 00:00:02.845
+Por lo tanto, en este video voy a hacer
+
+00:00:02.845 --> 00:00:07.540
+un montón más de lo que esencialmente llamamos problemas de divisiones largas.
+
+00:00:07.540 --> 00:00:17.040
+Y entonces, si usted tiene cuatro dividiendo a dos mil doscientos noventa y dos.
+
+00:00:17.050 --> 00:00:20.280
+Y yo no se exactamente por qué les llaman divisiones largas,
+
+00:00:20.280 --> 00:00:23.580
+y ya vimos un poco de eso en el último video
+
+00:00:23.580 --> 00:00:25.548
+Yo no les llamaba divisiones largas en aquel entonces,
+
+00:00:25.548 --> 00:00:28.486
+pero supongo que es porque te toman mucho tiempo en hacerlas
+
+00:00:28.486 --> 00:00:31.890
+o por que ocupan mucho espacio en el papel
+
+00:00:31.890 --> 00:00:35.102
+A medida que avanzas, vas entendiendo
+
+00:00:35.102 --> 00:00:37.270
+esa larga cola que se desarrolla en el problema.
+
+00:00:37.280 --> 00:00:39.663
+Esas son, al menos las razones que pude pensar
+
+00:00:39.663 --> 00:00:41.060
+de por qué se les llama divisiones largas.
+
+00:00:41.060 --> 00:00:44.588
+Pero nosotros vimos en el último video que hay una manera de atacar cualquier problema de divisiones
+
+00:00:44.588 --> 00:00:46.746
+mientras sepamos las tablas de multiplicación
+
+00:00:46.746 --> 00:00:49.810
+hasta tal vez diez por diez o doce por doce.
+
+00:00:49.820 --> 00:00:52.034
+Pero como repaso, esto es lo mismo
+
+00:00:52.034 --> 00:00:57.854
+que dos mil doscientos noventa y dos, dividido por cuatro.
+
+00:00:57.854 --> 00:00:59.368
+Y realmente es lo mismo--
+
+00:00:59.368 --> 00:01:01.385
+tu probablemente no habías visto esta notación antes--
+
+00:01:01.385 --> 00:01:06.644
+como dos mil doscientos noventa y dos, dividido por cuatro.
+
+00:01:06.644 --> 00:01:09.006
+Estos--- este, este, y este--
+
+00:01:09.006 --> 00:01:12.780
+en cierto nivel son todas equivalentes.
+
+00:01:12.790 --> 00:01:14.930
+y tu puedes decir "oye Sal, eso parece una fracción"
+
+00:01:14.930 --> 00:01:17.040
+En el caso que ya hayas visto fracciones antes.
+
+00:01:17.040 --> 00:01:18.550
+eso es exactamente lo que es.
+
+00:01:18.560 --> 00:01:20.060
+Es una fracción.
+
+00:01:20.060 --> 00:01:21.865
+Pero de todos modos, voy a usar este formato
+
+00:01:21.865 --> 00:01:26.870
+y en futuros videos vamos a pensar en otras formas de representar divisiones.
+
+00:01:26.870 --> 00:01:28.460
+Entonces hagamos este problema.
+
+00:01:28.460 --> 00:01:31.210
+Así que, ¿cuántas veces cabe cuatro en dos?
+
+00:01:31.210 --> 00:01:34.580
+no cabe en dos, vamos entonces a--
+
+00:01:34.590 --> 00:01:35.320
+déjame cambiar de color--
+
+00:01:35.320 --> 00:01:37.250
+Veamos entonces con veintidós.
+
+00:01:37.260 --> 00:01:40.100
+¿cuántas veces cabe cuatro en veintidós?
+
+00:01:40.100 --> 00:01:40.380
+Veamos.
+
+00:01:40.390 --> 00:01:45.140
+4 por 5 es igual a 20
+
+00:01:45.140 --> 00:01:49.590
+4 por 6 es igual a 24
+
+00:01:49.590 --> 00:01:51.430
+entonces 6 es demasiado
+
+00:01:51.430 --> 00:01:55.405
+4 cabe en 22 cinco veces
+
+00:01:55.405 --> 00:01:58.050
+5 por 4 es 20
+
+00:01:58.059 --> 00:01:59.908
+Vamos a tener un sobrante
+
+00:01:59.908 --> 00:02:02.166
+y lo restamos
+
+00:02:02.166 --> 00:02:03.843
+¿22 menos 20?
+
+00:02:03.843 --> 00:02:05.692
+Bien, es 2
+
+00:02:05.692 --> 00:02:08.710
+Entonces bajas este 9
+
+00:02:08.720 --> 00:02:11.148
+Y tu viste en el último video que significa eso exactamente, verdad?
+
+00:02:11.148 --> 00:02:13.706
+Cuando escribiste este 5 aquí, te diste cuenta que escribiste en las centenas
+
+00:02:13.706 --> 00:02:15.595
+Entonces es un 500
+
+00:02:15.595 --> 00:02:17.856
+Pero en este video, voy a enfocarme más en el proceso
+
+00:02:17.856 --> 00:02:19.860
+y tu puedes pensar mas acerca de lo que realmente significa
+
+00:02:19.870 --> 00:02:21.650
+en términos de "dónde estoy escribiendo los números"
+
+00:02:21.650 --> 00:02:24.358
+Pero pienso que el proceso va a ser claro como el cristal,
+
+00:02:24.358 --> 00:02:25.780
+espero, al final del video.
+
+00:02:25.780 --> 00:02:27.030
+Entonces, bajamos el nueve
+
+00:02:27.030 --> 00:02:29.960
+¿cuántas veces cabe el cuatro en 29?
+
+00:02:29.970 --> 00:02:31.370
+Cabe por lo menos 6 veces
+
+00:02:31.380 --> 00:02:32.740
+¿cuánto es cuatro por siete?
+
+00:02:32.750 --> 00:02:34.840
+4 por 7 es 28
+
+00:02:34.840 --> 00:02:36.610
+Entonces cabe por lo menos siete veces.
+
+00:02:36.610 --> 00:02:38.760
+¿Cuánto es 4 por 8?
+
+00:02:38.770 --> 00:02:41.770
+4 por 8 es 32, entonces no cabe 8 veces.
+
+00:02:41.770 --> 00:02:43.210
+Entonces va a ser 7
+
+00:02:43.210 --> 00:02:46.390
+4 cabe en 29 siete veces,
+
+00:02:46.400 --> 00:02:49.700
+7 por 4 es 28
+
+00:02:49.710 --> 00:02:51.684
+29 menos 28
+
+00:02:51.684 --> 00:02:56.370
+El residuo para este paso en el problema es entonces 1
+
+00:02:56.370 --> 00:02:59.520
+Y ahora vamos a bajar este 2
+
+00:02:59.530 --> 00:03:03.760
+Lo vamos a bajar y vas a tener 12
+
+00:03:03.770 --> 00:03:04.750
+¿4 cabe en 12?
+
+00:03:04.750 --> 00:03:05.170
+Este es fácil
+
+00:03:05.180 --> 00:03:06.680
+4 por 3 es 12
+
+00:03:06.680 --> 00:03:09.080
+4 cabe en 12 tres veces
+
+00:03:09.080 --> 00:03:11.390
+3 por 4 es 12
+
+00:03:11.400 --> 00:03:13.360
+12 menos 12 es cero
+
+00:03:13.360 --> 00:03:14.730
+No nos queda residuo
+
+00:03:14.740 --> 00:03:20.390
+Entonces 4 cabe en 2,292 exactamente 573 veces
+
+00:03:20.400 --> 00:03:26.500
+Entonces 2,292 dividido por 4, podemos decir que es igual a 573
+
+00:03:26.500 --> 00:03:32.240
+O podríamos decir que esto aquí es igual a 573
+
+00:03:32.250 --> 00:03:34.680
+Hagamos un par más
+
+00:03:34.680 --> 00:03:39.080
+Hagamos algunos problemas más
+
+00:03:39.090 --> 00:03:40.960
+Ahora los voy a hacer en rojo
+
+00:03:40.960 --> 00:03:50.800
+Digamos que tenemos 7 dividiendo a 6475
+
+00:03:50.810 --> 00:03:52.200
+Tal vez se le llame una división larga
+
+00:03:52.200 --> 00:03:54.350
+porque tu lo escribiste lindo y largo y tienes esta línea
+
+00:03:54.360 --> 00:03:55.610
+Yo no se.
+
+00:03:55.610 --> 00:03:58.160
+Hay múltiples razones por las que podría llamarse división larga
+
+00:03:58.160 --> 00:04:00.760
+Entonces tu dices 7 cabe en 6 cero veces
+
+00:04:00.770 --> 00:04:03.660
+Entonces avanzamos
+
+00:04:03.660 --> 00:04:06.050
+y tomamos 64
+
+00:04:06.060 --> 00:04:09.160
+¿cuántas veces cabe 7 en 67?
+
+00:04:09.160 --> 00:04:11.040
+Veamos
+
+00:04:11.050 --> 00:04:15.300
+¿7 por 7 es?
+
+00:04:15.300 --> 00:04:16.800
+Bien, ese es muy chico
+
+00:04:16.800 --> 00:04:18.060
+Pensemos un poco
+
+00:04:18.060 --> 00:04:20.610
+Bien, 7 por 9 es 63
+
+00:04:20.620 --> 00:04:21.390
+Estamos bastante cerca
+
+00:04:21.390 --> 00:04:23.350
+Y entonces 7 por 10 va a ser demasiado grande
+
+00:04:23.360 --> 00:04:25.126
+7 por 10 es 70
+
+00:04:25.126 --> 00:04:25.982
+Es demasiado grande
+
+00:04:25.982 --> 00:04:29.681
+Entonces 7 cabe en 64 nueve veces
+
+00:04:29.711 --> 00:04:32.680
+9 por 7 es 63
+
+00:04:32.690 --> 00:04:38.040
+64 menos 63, nuestro residuo en este paso, es 1
+
+00:04:38.050 --> 00:04:41.230
+Bajamos el 7
+
+00:04:41.240 --> 00:04:43.110
+¿Cuántas veces cabe 7 en 17?
+
+00:04:43.120 --> 00:04:45.240
+Bien, 7 por 2 es 14
+
+00:04:45.240 --> 00:04:47.000
+Y entonces 7 por 3 es 21
+
+00:04:47.000 --> 00:04:48.590
+3 es demasiado grande
+
+00:04:48.600 --> 00:04:51.490
+Entonces 7 cabe en 17 dos veces
+
+00:04:51.500 --> 00:04:54.350
+2 veces 7 es 14
+
+00:04:54.350 --> 00:04:57.610
+17 menos 14 es igual a 3
+
+00:04:57.620 --> 00:05:03.527
+Y ahora bajamos el cinco
+
+00:05:03.527 --> 00:05:05.336
+Y siete cabe en 35 ...
+
+00:05:05.350 --> 00:05:07.810
+Eso está en nuestra tabla del siete -- 5 veces
+
+00:05:07.810 --> 00:05:14.093
+5 veces 7 es 35
+
+00:05:14.093 --> 00:05:15.465
+Y ahi tienes
+
+00:05:15.465 --> 00:05:17.990
+El residuo es cero
+
+00:05:17.990 --> 00:05:20.120
+Así que todos los ejemplos que hemos hecho no han tenido residuos.
+
+00:05:20.120 --> 00:05:22.230
+Vamos a hacer uno que tal vez podría tener uno
+
+00:05:22.240 --> 00:05:23.694
+Y para asegurarnos de que tiene un residuo,
+
+00:05:23.694 --> 00:05:24.860
+Me voy a inventar un problema.
+
+00:05:24.870 --> 00:05:27.300
+Es mucho más fácil resolver problemas que tienen residuos
+
+00:05:27.310 --> 00:05:29.510
+que los que no tienen residuos.
+
+00:05:29.510 --> 00:05:37.016
+Así que vamos a decir que quiero dividir 3 entre -
+
+00:05:37.016 --> 00:05:40.343
+Voy a dividirlo entre
+
+00:05:40.343 --> 00:05:47.365
+digamos que entre 1735092
+
+00:05:47.365 --> 00:05:49.480
+Este será un problema agradable, bestial.
+
+00:05:49.490 --> 00:05:50.940
+Si podemos resolver este, prodremos resolver cualquiera
+
+00:05:50.940 --> 00:05:54.210
+Así que es un millón setecientos treinta y cinco mil noventa y dos.
+
+00:05:54.220 --> 00:05:56.514
+Esto es en lo que estamos dividiendo 3
+
+00:05:56.529 --> 00:05:58.721
+Por lo tanto, tres cabe en ..
+
+00:05:58.721 --> 00:06:00.390
+Y en realidad, no estoy seguro de si esto tendrá un residuo
+
+00:06:00.390 --> 00:06:03.136
+En el siguiente video te mostraré
+
+00:06:03.136 --> 00:06:06.260
+cómo saber si algo es divisible por tres.
+
+00:06:06.260 --> 00:06:07.150
+En realidad, podemos hacerlo ahora mismo.
+
+00:06:07.160 --> 00:06:08.780
+Tan solo sumemos todos estas cifras.
+
+00:06:08.790 --> 00:06:10.920
+Uno más siete es ocho.
+
+00:06:10.930 --> 00:06:13.180
+Ocho más tres es once.
+
+00:06:13.180 --> 00:06:15.680
+Once más cinco es dieciséis.
+
+00:06:15.680 --> 00:06:20.240
+Dieciséis más nueve es 25.
+
+00:06:20.250 --> 00:06:22.190
+Veinte y cinco más dos es veintisiete.
+
+00:06:22.190 --> 00:06:24.660
+Así que en realidad, este número es divisible por tres.
+
+00:06:24.670 --> 00:06:27.420
+Así que si se suman todos los dígitos, se obtiene veintisiete.
+
+00:06:27.420 --> 00:06:28.878
+Y entonces usted puede agregar estos dígitos -
+
+00:06:28.878 --> 00:06:30.545
+Dos más siete es nueve.
+
+00:06:30.545 --> 00:06:32.120
+Por lo que es divisible por nueve.
+
+00:06:32.120 --> 00:06:34.050
+Este es un truco que sólo funciona para tres.
+
+00:06:34.060 --> 00:06:35.880
+Así que en realidad este número es divisible entre tres.
+
+00:06:35.890 --> 00:06:37.698
+Así que permítanme cambiarlo un poco,
+
+00:06:37.698 --> 00:06:41.260
+así que no es divisible entre tres.
+
+00:06:41.260 --> 00:06:44.867
+Permitanme hacerlo un uno.
+
+00:06:44.867 --> 00:06:46.940
+Ahora bien, este número no será divisible por tres.
+
+00:06:46.940 --> 00:06:50.425
+Definitivamente quiero un número adonde termine con un residuo.
+
+00:06:50.425 --> 00:06:53.090
+Sólo para que veas como se ve.
+
+00:06:53.100 --> 00:06:54.570
+Hagamos este
+
+00:06:54.570 --> 00:06:57.010
+3 no cabe en 1.
+
+00:06:57.020 --> 00:06:57.889
+Por lo que avanzamos
+
+00:06:57.889 --> 00:06:59.368
+Puedes escribir un cero aquí
+
+00:06:59.368 --> 00:07:00.878
+y multiplicar
+
+00:07:00.878 --> 00:07:03.207
+Pero eso sólo hace que sea un poco más confuso.
+
+00:07:03.207 --> 00:07:04.368
+Así que nos movemos uno a la derecha.
+
+00:07:04.383 --> 00:07:06.880
+Tres cabe en diecisiete ¿cuántas veces?
+
+00:07:06.880 --> 00:07:11.050
+Pues bien, tres veces cinco es quince.
+
+00:07:11.060 --> 00:07:13.930
+Y tres veces seis es igual a dieciocho y es demasiado grande.
+
+00:07:13.930 --> 00:07:18.010
+Así que tres entra en diecisiete cinco veces.
+
+00:07:18.010 --> 00:07:20.570
+Cinco veces tres es quince.
+
+00:07:20.570 --> 00:07:22.000
+Y restamos.
+
+00:07:22.010 --> 00:07:27.010
+Diecisiete menos quince es dos.
+
+00:07:27.010 --> 00:07:31.410
+Y ahora bajamos este tres.
+
+00:07:31.420 --> 00:07:33.480
+Tres entra en veintitrés ¿cuánta veces?
+
+00:07:33.480 --> 00:07:36.740
+Pues bien, tres veces siete es igual a veintiuno.
+
+00:07:36.750 --> 00:07:38.350
+Y tres veces ocho es demasiado grande.
+
+00:07:38.350 --> 00:07:40.010
+Esto es igual a veinticuatro.
+
+00:07:40.010 --> 00:07:44.070
+Así que tres entra en veintitrés, siete veces.
+
+00:07:44.080 --> 00:07:46.850
+Tres veces siete es veintiuno.
+
+00:07:46.860 --> 00:07:47.910
+Luego restamos.
+
+00:07:47.910 --> 00:07:51.740
+Veinte y tres menos veinte es dos.
+
+00:07:51.750 --> 00:07:53.420
+Ahora bajamos el siguiente número.
+
+00:07:53.420 --> 00:07:54.570
+Bajamos el cinco.
+
+00:07:54.570 --> 00:07:57.350
+Creo ahora se puede apreciar por qué se llama división larga
+
+00:07:57.360 --> 00:08:00.050
+Bajamos el cinco.
+
+00:08:00.060 --> 00:08:02.040
+Tres cabe en veinticinco ¿cuántas veces?
+
+00:08:02.040 --> 00:08:04.506
+Bueno, 3 veces 8 nos deja bien cerca
+
+00:08:04.506 --> 00:08:06.153
+y tres veces nueve es demasiado grande.
+
+00:08:06.153 --> 00:08:08.230
+Por lo tanto, cabe ocho veces.
+
+00:08:08.240 --> 00:08:10.170
+Ocho veces tres es veinticuatro.
+
+00:08:10.170 --> 00:08:12.210
+Me voy a quedar sin espacio.
+
+00:08:12.220 --> 00:08:14.170
+Se resta, para conseguir uno.
+
+00:08:14.180 --> 00:08:16.810
+25 menos 24 es uno.
+
+00:08:16.810 --> 00:08:20.146
+Ahora podemos bajar este cero.
+
+00:08:20.146 --> 00:08:23.059
+Bajamos este zero de esta forma.
+
+00:08:23.059 --> 00:08:25.254
+Y entonces 3 ¿cuántas veces cabe en 10?
+
+00:08:25.254 --> 00:08:25.840
+Eso es fácil.
+
+00:08:25.850 --> 00:08:26.940
+Cabe tres veces.
+
+00:08:26.940 --> 00:08:28.000
+Tres veces tres es nueve.
+
+00:08:28.010 --> 00:08:30.070
+Eso es lo más cercano a diez que podemos llegar.
+
+00:08:30.080 --> 00:08:32.870
+Tres veces tres es nueve.
+
+00:08:32.870 --> 00:08:33.612
+Diez menos nueve -
+
+00:08:33.612 --> 00:08:36.150
+Voy a tener que desplazarse hacia arriba y abajo un poco -
+
+00:08:36.150 --> 00:08:37.712
+Diez menos nueve es uno,
+
+00:08:37.712 --> 00:08:39.681
+y luego podemos bajar el número siguiente.
+
+00:08:39.681 --> 00:08:41.420
+Me estoy quedando sin colores.
+
+00:08:41.420 --> 00:08:44.750
+Me puedo bajar ese nueve.
+
+00:08:44.750 --> 00:08:46.590
+Tres cabe en diecinueve ¿cuántas veces?
+
+00:08:46.600 --> 00:08:48.880
+Pues bien, seis es lo más cercano que podemos llegar.
+
+00:08:48.880 --> 00:08:49.861
+Que nos lleva a dieciocho.
+
+00:08:49.861 --> 00:08:51.867
+Así que tres veces seis.
+
+00:08:51.867 --> 00:08:53.659
+Tres cabe en 19, seis veces.
+
+00:08:53.659 --> 00:08:56.390
+Seis veces tres - permitanme desplazarse hacia abajo.
+
+00:08:56.400 --> 00:08:59.520
+Seis veces tres es dieciocho.
+
+00:08:59.530 --> 00:09:01.560
+Diecinueve menos dieciocho - lo restamos aquí también.
+
+00:09:01.570 --> 00:09:04.360
+Diecinueve menos dieciocho es uno y casi hemos terminado
+
+00:09:04.370 --> 00:09:06.120
+Puedo volver al rosado.
+
+00:09:06.120 --> 00:09:09.900
+Bajamos este 1 que está aquí.
+
+00:09:09.910 --> 00:09:11.830
+Tres cabe en once ¿cuánta veces?
+
+00:09:11.840 --> 00:09:15.670
+Bueno, es tres veces ... porque tres veces cuatro es demasiado grande.
+
+00:09:15.670 --> 00:09:17.170
+Tres por cuatro es doce, por lo que es demasiado grande.
+
+00:09:17.170 --> 00:09:18.890
+Por lo tanto, cabe tres veces.
+
+00:09:18.890 --> 00:09:22.260
+Así que tres cabe en 11, tres veces.
+
+00:09:22.260 --> 00:09:26.180
+Tres veces tres son nueve.
+
+00:09:26.190 --> 00:09:30.590
+Y luego se resta y se obtiene un dos.
+
+00:09:30.600 --> 00:09:32.669
+Y no hay nada más que bajar.
+
+00:09:32.669 --> 00:09:34.675
+¿No? Cuando vemos aquí no hay nada más que bajar.
+
+00:09:34.675 --> 00:09:35.750
+Así que hemos terminado!
+
+00:09:35.750 --> 00:09:37.896
+Así que nos quedamos con un residuo de dos,
+
+00:09:37.896 --> 00:09:40.410
+después de hacer todo este problema.
+
+00:09:40.410 --> 00:09:45.313
+Así que la respuesta, tres cabe en un millón setecientos treinta y cinco mil noventa y uno -
+
+00:09:45.313 --> 00:09:52.940
+cabe quinientos setenta y ocho mil trescientos sesenta y tres con un residuo de dos.
+
+00:09:52.950 --> 00:09:57.190
+Y este residuo de dos es lo que obtuvimos aquí abajo.
+
+00:09:57.190 --> 00:09:58.417
+Así que esperamos que ahora veamos
+
+00:09:58.417 --> 00:10:01.140
+que puedes hacer frente prácticamente a cualquier problema de división.
+
+00:10:01.140 --> 00:10:02.940
+Y también, a través de este ejercicio,
+
+00:10:02.955 --> 00:10:06.110
+puedes ver por qué se llama división larga.

@@ -1,0 +1,969 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.690
+(..................)
+
+00:00:00.690 --> 00:00:03.430
+En este video quiero presentaros la idea del
+
+00:00:03.430 --> 00:00:04.680
+polinomio
+
+00:00:04.680 --> 00:00:06.720
+"Polinomio"
+
+00:00:06.720 --> 00:00:10.230
+Quiza os suene como una palabra muy extraña,
+
+00:00:10.230 --> 00:00:12.616
+pero realmente solo se trata de
+
+00:00:12.616 --> 00:00:15.002
+una expresión que tiene un montón de variables o terminos constantes en ella
+
+00:00:15.002 --> 00:00:17.390
+los cuales están por encima de los exponentes no-cero
+
+00:00:17.390 --> 00:00:19.510
+Pero posiblemente esto también suene complicado.
+
+00:00:19.510 --> 00:00:21.330
+Asi pues, dejad que os muestre un ejemplo:
+
+00:00:21.330 --> 00:00:25.420
+si os doy la expresión "X al cuadrado + 1",esto es
+
+00:00:25.420 --> 00:00:26.260
+un polinomio
+
+00:00:26.260 --> 00:00:30.370
+Esto es, de hecho, un binomio,debido a que tiene 2 términos.
+
+00:00:30.370 --> 00:00:32.159
+El termino polinomio es mas general.
+
+00:00:32.159 --> 00:00:32.965
+Básicamente
+
+00:00:32.965 --> 00:00:33.771
+te dice que tienes
+
+00:00:33.771 --> 00:00:34.577
+muchos terminos
+
+00:00:34.577 --> 00:00:35.788
+"Poli" suele significar "muchos"
+
+00:00:36.300 --> 00:00:37.490
+Esto es un binomio.
+
+00:00:37.490 --> 00:00:45.440
+Si yo te dijese "4X al cubo - 2 al cuadrado + 7"
+
+00:00:45.440 --> 00:00:47.200
+Esto seria un trinomio
+
+00:00:47.200 --> 00:00:49.970
+Porque tiene 3 términos.
+
+00:00:49.970 --> 00:00:54.330
+Dejad que os de ahora una explicación mas concreta de que es
+
+00:00:54.330 --> 00:00:56.140
+y que no es un polinomio
+
+00:00:56.140 --> 00:01:03.460
+Por ejemplo, si yo tengo "X elevada a -1/2 + 1 "
+
+00:01:03.460 --> 00:01:06.660
+esto no es un polinomio
+
+00:01:06.660 --> 00:01:08.720
+Lo cual no significa que jamas veras esto
+
+00:01:08.720 --> 00:01:11.240
+en álgebra o matemáticas.
+
+00:01:11.240 --> 00:01:17.840
+Pero nosotros no le vamos a llamar a esto un polinomio
+
+00:01:17.840 --> 00:01:20.610
+dado que tiene un exponente negativo y fraccional.
+
+00:01:20.610 --> 00:01:25.670
+O si os doy la expresión " Y * Raiz cuadrada de Y - Y"
+
+00:01:25.670 --> 00:01:28.630
+(..................)
+
+00:01:28.630 --> 00:01:32.070
+Uno vez mas, esto no es un polinomio, debido a que tiene una raiz cuadrada,
+
+00:01:32.070 --> 00:01:34.810
+lo cual es lo mismo que elevar algo
+
+00:01:34.810 --> 00:01:36.030
+a la "1/2"
+
+00:01:36.030 --> 00:01:39.680
+Así, todos los exponentes de nuestras variables deben ser
+
+00:01:39.680 --> 00:01:41.680
+"no negativos"
+
+00:01:41.680 --> 00:01:45.500
+Por lo tanto ninguno es un polinomio.
+
+00:01:45.500 --> 00:01:48.130
+Ahora, cuando hablamos de polinomios, tenemos que
+
+00:01:48.130 --> 00:01:49.380
+usar cierta terminología.
+
+00:01:49.380 --> 00:01:52.660
+Y tu puedes estar o no familiarizado con ella, por tanto
+
+00:01:52.660 --> 00:01:55.750
+la explicare a continuación.
+
+00:01:55.750 --> 00:01:58.210
+El primer termino es el grado del polinomio.
+
+00:01:58.210 --> 00:02:02.070
+(..................)
+
+00:02:02.070 --> 00:02:08.889
+Y basicamente es el mayor exponente que tenemos
+
+00:02:08.889 --> 00:02:09.720
+en un polinomio.
+
+00:02:09.720 --> 00:02:13.150
+Por ejemplo, este polinomio de aqui
+
+00:02:13.150 --> 00:02:17.910
+es un polinomio de 3º grado.
+
+00:02:17.910 --> 00:02:20.450
+Pero,¿por que?
+
+00:02:20.450 --> 00:02:22.510
+No es necesario escribirlo.
+
+00:02:22.510 --> 00:02:24.910
+¿Por que motivo es un polinomio de 3º grado?
+
+00:02:24.910 --> 00:02:29.020
+Por que su mayor exponente que tenemos es
+
+00:02:29.020 --> 00:02:30.720
+la " X al cubo"
+
+00:02:30.720 --> 00:02:34.150
+Y por tanto es un polinomio de 3º grado.
+
+00:02:34.150 --> 00:02:43.100
+Es cierto que aqui también tenemos un polinomio de 2º grado
+
+00:02:43.100 --> 00:02:45.600
+Y por tanto este es un polinomio de 2º grado
+
+00:02:45.600 --> 00:02:48.750
+Ahora, un par de términos, o palabras que
+
+00:02:48.750 --> 00:02:52.190
+debemos aprender son la constante
+
+00:02:52.190 --> 00:02:54.160
+contra los términos variables. Y creo que ya los conocemos,
+
+00:02:54.160 --> 00:02:56.120
+estos son términos variables.
+
+00:02:56.120 --> 00:02:58.520
+Esto es un termino constante.
+
+00:02:58.520 --> 00:03:01.860
+Esto de aquí es un término constante.
+
+00:03:01.860 --> 00:03:05.390
+Y ahora un ultimo paso para analizar el polinomio
+
+00:03:05.390 --> 00:03:08.670
+adecuadamente es entender los coeficientes del mismo.
+
+00:03:08.670 --> 00:03:12.570
+Así que dejad que os muestre un polinomio de 5º grado
+
+00:03:12.570 --> 00:03:15.990
+Y lo voy a escribir de una forma poco convencional
+
+00:03:15.990 --> 00:03:16.400
+justo aqui.
+
+00:03:16.400 --> 00:03:17.690
+No voy a hacerlo en orden
+
+00:03:17.690 --> 00:03:24.520
+Tan solo digamos que es " X al cuadrdo - 5X + 7X a la 5º
+
+00:03:24.520 --> 00:03:27.150
+-5"
+
+00:03:27.150 --> 00:03:29.840
+Una vez mas esto es un polinomio de grado 5
+
+00:03:29.840 --> 00:03:30.710
+Pero, ¿por que?
+
+00:03:30.710 --> 00:03:35.110
+Debido a que el mayor exponente en una variable es el 5
+
+00:03:35.110 --> 00:03:35.580
+de aquí.
+
+00:03:35.580 --> 00:03:44.910
+Por eso lo llamamos un polinomio de grado 5.
+
+00:03:44.910 --> 00:03:46.870
+Y podrias decir ¿que importancia tiene esto?
+
+00:03:46.870 --> 00:03:49.380
+Y yo te diria que el motivo por el cual debes de tener cuidado
+
+00:03:49.380 --> 00:03:51.590
+con el grado del polinomio es debido a que cuando los números son mas largos,
+
+00:03:51.590 --> 00:03:57.560
+el grado del término mayor es el que realmente domina
+
+00:03:57.560 --> 00:04:00.610
+a todos los demás términos. Este crecera mas rapidamente
+
+00:04:00.610 --> 00:04:03.160
+o se volvera negativo antes, dependiendo de si
+
+00:04:03.160 --> 00:04:05.240
+hay un valor positivo o negativo antes que el.
+
+00:04:05.240 --> 00:04:06.790
+Pero va a dominar todo lo demas.
+
+00:04:06.790 --> 00:04:11.470
+Realmente te indica como de rápido,
+
+00:04:11.470 --> 00:04:16.269
+toda la expresión crecerá o decrecerá en el caso
+
+00:04:16.269 --> 00:04:18.339
+de que tenga un coeficiente negativo.
+
+00:04:18.339 --> 00:04:20.300
+Ahora, si solo usamos la palabra coeficiente.
+
+00:04:20.300 --> 00:04:21.850
+¿Que significa?
+
+00:04:21.850 --> 00:04:23.730
+Coeficiente.
+
+00:04:23.730 --> 00:04:25.900
+La hemos usados antes cuando haciamos
+
+00:04:25.900 --> 00:04:27.500
+ecuaciones lineales.
+
+00:04:27.500 --> 00:04:31.720
+Los coeficientes son solo los términos constantes que
+
+00:04:31.720 --> 00:04:34.460
+multiplican los términos variables.
+
+00:04:34.460 --> 00:04:37.360
+Por ejemplo, el coeficiente en este término de aqui
+
+00:04:37.360 --> 00:04:42.090
+es -5.
+
+00:04:42.090 --> 00:04:44.140
+Debes recordar que tenemos un -5,
+
+00:04:44.140 --> 00:04:46.890
+por lo tanto el coeficiente entero es "-5" (se incluye el símbolo)
+
+00:04:46.890 --> 00:04:49.570
+El coeficiente en este término es 7.
+
+00:04:49.570 --> 00:04:51.870
+Aqui no hay coeficiente; solo un término constante de
+
+00:04:51.870 --> 00:04:52.940
+"-5".
+
+00:04:52.940 --> 00:04:57.170
+Y aquí el coeficiente en la " X al cuadrado" es 1
+
+00:04:57.170 --> 00:04:58.350
+Tan solo "1".
+
+00:04:58.350 --> 00:04:59.160
+Esta implicito.
+
+00:04:59.160 --> 00:05:02.090
+Estas asumiendo que es " 1X al cuadrado"
+
+00:05:02.090 --> 00:05:05.180
+La última cosa que os quiero presentar aqui
+
+00:05:05.180 --> 00:05:07.190
+es la idea de la forma estándar del polinomio.
+
+00:05:07.190 --> 00:05:12.190
+(..................)
+
+00:05:12.190 --> 00:05:14.710
+Nada de esto os va a ayudar a resolver polinomios por ahora
+
+00:05:14.710 --> 00:05:17.690
+pero cuando hablamos de solucionar polinomios,
+
+00:05:17.690 --> 00:05:20.520
+suelo usar cierta terminología o vuestro profesor
+
+00:05:20.520 --> 00:05:21.890
+quizá use esta misma.
+
+00:05:21.890 --> 00:05:24.070
+Por lo tanto es bueno saber de que estamos hablando.
+
+00:05:24.070 --> 00:05:28.640
+La forma estándar de un polinomio, es esencialemente
+
+00:05:28.640 --> 00:05:31.770
+una lista de términos ordenados por graduación.
+
+00:05:31.770 --> 00:05:33.800
+Esta es la forma "no estándar".
+
+00:05:33.800 --> 00:05:37.510
+Si yo fuese a organizar este polinomio de forma estándar,
+
+00:05:37.510 --> 00:05:42.990
+pondría este término primero. Así que voy a escribir primero el " 7X elevado a la 5",
+
+00:05:42.990 --> 00:05:45.810
+¿ahora cual sería el siguiente mas pequeño?
+
+00:05:45.810 --> 00:05:47.260
+Tenemos este " X al cuadrado"
+
+00:05:47.260 --> 00:05:48.680
+No tenemos una "X a la cuarta"
+
+00:05:48.680 --> 00:05:49.800
+o "X al cubo"
+
+00:05:49.800 --> 00:05:52.510
+Por lo tanto sumamos + 1...bueno no tenemos que
+
+00:05:52.510 --> 00:05:56.230
+escribir 1...+ "X al cuadrado".
+
+00:05:56.230 --> 00:06:00.000
+Y ahora tengo qui este término, "-5X"
+
+00:06:00.000 --> 00:06:04.170
+Y por último este de aquí, "-5"
+
+00:06:04.170 --> 00:06:07.430
+Esta es la forma estandar
+
+00:06:07.430 --> 00:06:11.470
+donde vas descendiendo de acuerdo al grado.
+
+00:06:11.470 --> 00:06:15.280
+Ahora vamos a hacer un par de operaciones con polinomios.
+
+00:06:15.280 --> 00:06:18.510
+Esto sera una herramienta muy util mas adelante
+
+00:06:18.510 --> 00:06:21.730
+en tu algebra o en en tu carrera matemática.
+
+00:06:21.730 --> 00:06:24.180
+Así pues, vamos a simplificar unos polinomios.
+
+00:06:24.180 --> 00:06:27.500
+Quizá nos hemos emocionado con estos vídeos previos.
+
+00:06:27.500 --> 00:06:29.980
+Pero creo que esto os hará entenderlo mejor, especialemente
+
+00:06:29.980 --> 00:06:32.970
+cuando tengamos esos términos de alto grado por aquí.
+
+00:06:32.970 --> 00:06:38.290
+Digamos que yo quiero añadir "-2X al cuadrado + 4X - 12"
+
+00:06:38.290 --> 00:06:42.000
+(..................)
+
+00:06:42.000 --> 00:06:48.030
+Y además le añado "7X + X al cuadrado".
+
+00:06:48.030 --> 00:06:50.410
+Lo importante es recordar que cuando simplificas
+
+00:06:50.410 --> 00:06:53.430
+estos polinomios es que vas a añadir términos
+
+00:06:53.430 --> 00:06:56.830
+te la misma variable del grado deseado.
+
+00:06:56.830 --> 00:06:59.870
+Pondré otro ejemplo en un momento donde yo tengo multiples
+
+00:06:59.870 --> 00:07:03.750
+variables en una misma situación.
+
+00:07:03.750 --> 00:07:05.620
+De todas formas, yo tengo estos parentesis,
+
+00:07:05.620 --> 00:07:08.170
+pero realmente no estan haciendo nada.
+
+00:07:08.170 --> 00:07:10.220
+Si tuviese un + aqui, podria
+
+00:07:10.220 --> 00:07:12.940
+distribuir la suma, pero no es el caso
+
+00:07:12.940 --> 00:07:16.270
+Realmente puedo escribir esto como "-2X al cuadrado
+
+00:07:16.270 --> 00:07:21.970
++ 4X - 12 +7X + X al cuadrado"
+
+00:07:21.970 --> 00:07:23.870
+Ahora simplifiquemoslo.
+
+00:07:23.870 --> 00:07:26.440
+Vamos a añadir términos de este grado.
+
+00:07:26.440 --> 00:07:28.000
+I cuando digo de ese grado me refiero también
+
+00:07:28.000 --> 00:07:29.120
+a que tengan la misma variable.
+
+00:07:29.120 --> 00:07:32.990
+Pero en este ejemplo solamente tenemos la variable X.
+
+00:07:32.990 --> 00:07:34.360
+Empecemos!
+
+00:07:34.360 --> 00:07:37.090
+Tengo es "X al cuadrado" y
+
+00:07:37.090 --> 00:07:39.020
+aquella "X al cuadrado", por lo que puedo unirlas.
+
+00:07:39.020 --> 00:07:42.130
+Tengo "-2X al cuadrado",voy a escribirlo
+
+00:07:42.130 --> 00:07:46.640
+junto, primero "-2X al cuadrado + X al cuadrado"
+
+00:07:46.640 --> 00:07:51.560
+Y ahora cojo los términos X, "4X + 7X"
+
+00:07:51.560 --> 00:07:55.490
+esto es "+ 4X + 7X"
+
+00:07:55.490 --> 00:07:57.210
+Para terminar tengo esta constante
+
+00:07:57.210 --> 00:07:58.930
+-12
+
+00:07:58.930 --> 00:08:00.650
+(..................)
+
+00:08:00.650 --> 00:08:03.710
+Y tambien el -2 y añado 1,
+
+00:08:03.710 --> 00:08:05.210
+¿que tenemos?
+
+00:08:05.210 --> 00:08:09.750
+"-2 + 1 " es "-1X al cuadrado"
+
+00:08:09.750 --> 00:08:11.420
+puedo escribir tan solo "-X al cuadrado"
+
+00:08:11.420 --> 00:08:13.320
+pero queria mostraros por que añado el negativo
+
+00:08:13.320 --> 00:08:15.560
+2 al 1 ahí.
+
+00:08:15.560 --> 00:08:21.070
+Me quedan "4X + 7X" esto es "11X"
+
+00:08:21.070 --> 00:08:25.820
+Y finalmente la constante , -12
+
+00:08:25.820 --> 00:08:29.390
+Y termine con este polinomio de 2º grado y 3 terminos.
+
+00:08:29.390 --> 00:08:30.370
+(..................)
+
+00:08:30.370 --> 00:08:33.740
+El principal coeficiente es este, el mas alto
+
+00:08:33.740 --> 00:08:36.990
+grado en la forma estandar ya esta en forma estandar
+
+00:08:36.990 --> 00:08:38.320
+es -1
+
+00:08:38.320 --> 00:08:39.760
+Aqui el coeficiente es 11
+
+00:08:39.760 --> 00:08:42.280
+La constante es -12
+
+00:08:42.280 --> 00:08:43.870
+Hagamos otro de estos ejemplos.
+
+00:08:43.870 --> 00:08:46.060
+Aunque creo que ya teneis una idea general
+
+00:08:46.060 --> 00:08:50.840
+Ahora haremos un ejemplo mas complicado
+
+00:08:50.840 --> 00:09:00.450
+Esta vez tenemos "2A al cuadrado * B - 3AB al cuadrado
+
+00:09:00.450 --> 00:09:09.880
++ 5A al cuadrado <i> B al cuadrado - 2A al cuadrado </i> B
+
+00:09:09.880 --> 00:09:14.110
++ 4A al cuadrado * B - 5B al cuadrado.
+
+00:09:14.110 --> 00:09:18.290
+Aquí tenemos un signo negativo, y multiples variables.
+
+00:09:18.290 --> 00:09:20.990
+Pero hagamoslo paso a paso
+
+00:09:20.990 --> 00:09:22.220
+Lo primero que tenemos que hacer es
+
+00:09:22.220 --> 00:09:23.610
+distribuir este valor negativo
+
+00:09:23.610 --> 00:09:28.470
+Así esta primera parte puede ser escrita como " 2A al cuadrado * B
+
+00:09:28.470 --> 00:09:34.760
+- 3AB al cuadrado + 5A al cuadrado * B al cuadrado
+
+00:09:34.760 --> 00:09:37.180
+Entonces distribuimos el signo menos o multiplicamos
+
+00:09:37.180 --> 00:09:39.760
+todos esos términos por -1 dado que
+
+00:09:39.760 --> 00:09:41.040
+tenemos un "-" ahí.
+
+00:09:41.040 --> 00:09:48.150
+Entonces, "-2A cuadrado <i> B cuadrado - 4A cuadrado </i> B
+
+00:09:48.150 --> 00:09:53.300
+Y "-" y "-" es "+5B cuadrado"
+
+00:09:53.300 --> 00:09:57.690
+Ahora simplemente añadiremos los términos. Aqui tengo
+
+00:09:57.690 --> 00:10:00.050
+"2A al cuadrado * B al cuadrado"
+
+00:10:00.050 --> 00:10:02.880
+¿Tengo algun otro término que contenga un "A cuadrado * B cuadrado
+
+00:10:02.880 --> 00:10:04.950
+en su interior?
+
+00:10:04.950 --> 00:10:06.680
+Disculpad, queria decir "A cuadrado B"
+
+00:10:06.680 --> 00:10:07.750
+Se debe de tener mucho cuidado aqui.
+
+00:10:07.750 --> 00:10:10.860
+Bueno,esto es "AB cuadrado" no. "A cuadrado * B cuadrado"
+
+00:10:10.860 --> 00:10:12.360
+oh!
+
+00:10:12.360 --> 00:10:16.580
+Aqui tengo "A cuadrdo B"
+
+00:10:16.580 --> 00:10:17.860
+Así que voy a escribir estos 2 aquí debajo
+
+00:10:17.860 --> 00:10:24.240
+Tengo "2A cuadrado <i> B - 4A cuadrado </i> B"
+
+00:10:24.240 --> 00:10:26.660
+Estos son los términos de ahi
+
+00:10:26.660 --> 00:10:28.940
+Dejad que me pase al naranja.
+
+00:10:28.940 --> 00:10:33.280
+Aquí tengo un término "AB cuadrado"
+
+00:10:33.280 --> 00:10:37.480
+Hay algun otro por aqui?
+
+00:10:37.480 --> 00:10:40.630
+(..................)
+
+00:10:40.630 --> 00:10:42.550
+No,no hay mas "AB cuadrado", asi que voy a anotarlos
+
+00:10:42.550 --> 00:10:46.740
+"-3 AB cuadrado"
+
+00:10:46.740 --> 00:10:50.580
+Veamos, tengo un "A cuadrado * B cuadrado" aquí
+
+00:10:50.580 --> 00:10:51.520
+¿Tengo mas?
+
+00:10:51.520 --> 00:10:53.390
+Seguro,mirad el siguiente término
+
+00:10:53.390 --> 00:10:55.280
+Es un "A cuadrado * B cuadrado"
+
+00:10:55.280 --> 00:10:56.500
+Anotemoslo
+
+00:10:56.500 --> 00:11:01.810
+"+5A cuadrado <i> B cuadrado - 2A cuadrado </i> B cuadrado"
+
+00:11:01.810 --> 00:11:04.630
+,cierto?
+
+00:11:04.630 --> 00:11:05.860
+Solo he escrito esos dos
+
+00:11:05.860 --> 00:11:09.120
+Y finalmente tengo el ultimo "B cuadrado" ahi,
+
+00:11:09.120 --> 00:11:12.770
+"+5B cuadrado"
+
+00:11:12.770 --> 00:11:14.390
+Ahora puedo añadirlos
+
+00:11:14.390 --> 00:11:19.800
+Primero este grupo de aqui en color purpura
+
+00:11:19.800 --> 00:11:23.230
+2 de algo - 4 de algo va a ser -2
+
+00:11:23.230 --> 00:11:23.770
+de ese algo
+
+00:11:23.770 --> 00:11:28.130
+Asi que va a ser "-2A cuadrado B"
+
+00:11:28.130 --> 00:11:31.450
+Y ahora ese término de aqui, no le voy a añadir nada
+
+00:11:31.450 --> 00:11:34.020
+"3AB cuadrado"
+
+00:11:34.020 --> 00:11:36.170
+Y ahora podemos añadir estos 2 de aqui.Si tengo 5
+
+00:11:36.170 --> 00:11:38.870
+de algo - 2 de algo.Tendre 3
+
+00:11:38.870 --> 00:11:40.200
+de ese algo.
+
+00:11:40.200 --> 00:11:43.880
+"+3A cuadrado * B cuadrado"
+
+00:11:43.880 --> 00:11:51.470
+Finalmente tengo este ultimo termino, "+5AB cuadrado"
+
+00:11:51.470 --> 00:11:52.000
+Y ya esta.
+
+00:11:52.000 --> 00:11:55.170
+Hemos simplificado este polinomio.
+
+00:11:55.170 --> 00:11:58.990
+Puesto en forma estandar podriais pensar en el
+
+00:11:58.990 --> 00:12:00.050
+te diferentes maneras
+
+00:12:00.050 --> 00:12:02.230
+La forma en que quiero que desarrolleis es de acuerdo a la combinación
+
+00:12:02.230 --> 00:12:03.290
+de los grados del término
+
+00:12:03.290 --> 00:12:06.290
+Se podria hacer asi,pero realmente
+
+00:12:06.290 --> 00:12:08.460
+depende de tus gustos
+
+00:12:08.460 --> 00:12:13.030
+Esto es "3A cuadrado * B cuadrado"
+
+00:12:13.030 --> 00:12:15.360
+y entonces puedes coger el que tu quieras para poner el
+
+00:12:15.360 --> 00:12:20.680
+"A al cuadrado * B" o el término "AB cuadrado" primero. "2A cuadrado B"
+
+00:12:20.680 --> 00:12:25.400
+y ahora tienes el "-3AB cuadrado"
+
+00:12:25.400 --> 00:12:28.320
+Entonces tenemos ya el "B cuadrado" ahi
+
+00:12:28.320 --> 00:12:31.180
++5B cuadrado
+
+00:12:31.180 --> 00:12:32.440
+Y ya esta.
+
+00:12:32.440 --> 00:12:35.480
+Hemos simplificado este polinomio.
+
+00:12:35.480 --> 00:12:39.210
+Lo que quiero hacer ahora es un par de ejemplos
+
+00:12:39.210 --> 00:12:40.860
+sobre como construir polinomios.
+
+00:12:40.860 --> 00:12:43.610
+Realmente, la idea es darte una apreciación
+
+00:12:43.610 --> 00:12:46.880
+de porque los polinomios son utiles, representaciones abstractas.
+
+00:12:46.880 --> 00:12:49.570
+Vamos a usarlos todo el rato, no solamente en algebra,
+
+00:12:49.570 --> 00:12:51.460
+pero mas tarde en calculo, y basicamente en todo.
+
+00:12:51.460 --> 00:12:53.470
+Asi que son cosas buenas para conocer.
+
+00:12:53.470 --> 00:12:57.710
+Pero lo que quiero hacer en estos 4 ejemplos es representar
+
+00:12:57.710 --> 00:13:00.360
+el area de cada una de estas figuras con un polinomio.
+
+00:13:00.360 --> 00:13:04.690
+Intentare ajustar los colores tanto como pueda.
+
+00:13:04.690 --> 00:13:06.520
+Aqui,¿cual es el area?
+
+00:13:06.520 --> 00:13:09.420
+La parte azul de aqui,el area
+
+00:13:09.420 --> 00:13:11.315
+es X*Y
+
+00:13:11.315 --> 00:13:14.080
+(..................)
+
+00:13:14.080 --> 00:13:15.360
+¿Y cual es el area aqui?
+
+00:13:15.360 --> 00:13:17.670
+va a ser X*Z
+
+00:13:17.670 --> 00:13:22.130
+Asi pues + X*Z
+
+00:13:22.130 --> 00:13:22.930
+pero tenemos 2
+
+00:13:22.930 --> 00:13:24.370
+Tenemos un X*Z y despues
+
+00:13:24.370 --> 00:13:25.900
+otro X*Z
+
+00:13:25.900 --> 00:13:27.710
+Podemos añadir X*Z aqui
+
+00:13:27.710 --> 00:13:31.390
+O solo escrbir,decir + 2X*Z
+
+00:13:31.390 --> 00:13:36.350
+Y aqui tenemos un polinomio que representa el area
+
+00:13:36.350 --> 00:13:38.210
+de esta figura.
+
+00:13:38.210 --> 00:13:40.470
+Hagamos el siguiente
+
+00:13:40.470 --> 00:13:42.460
+¿Cual es el area aqui?
+
+00:13:42.460 --> 00:13:44.870
+Tenemos AB
+
+00:13:44.870 --> 00:13:46.430
+A*B
+
+00:13:46.430 --> 00:13:50.140
+Parece un AB otra vez,+AB
+
+00:13:50.140 --> 00:13:56.390
+Y otra vez +AB
+
+00:13:56.390 --> 00:14:00.450
+(..................)
+
+00:14:00.450 --> 00:14:02.090
+De hecho esta dibujado
+
+00:14:02.090 --> 00:14:05.460
+un poco raro.
+
+00:14:05.460 --> 00:14:09.560
+Voy a ignorar esta C
+
+00:14:09.560 --> 00:14:13.740
+Quiza nos esten diciendo que esto de aqui es una C
+
+00:14:13.740 --> 00:14:16.230
+Porque es la informacion que necesitamos
+
+00:14:16.230 --> 00:14:18.860
+Quiza tambien nos digan que esta base de aqui
+
+00:14:18.860 --> 00:14:21.240
+es tambien una C.
+
+00:14:21.240 --> 00:14:22.850
+Eso podria ayudarnos
+
+00:14:22.850 --> 00:14:25.580
+Pero si asumimos que esto es otro AB,
+
+00:14:25.580 --> 00:14:27.890
+como voy a hacer
+
+00:14:27.890 --> 00:14:30.380
+Entonces tenemos el ultimo AB
+
+00:14:30.380 --> 00:14:33.610
+Y este A*C
+
+00:14:33.610 --> 00:14:36.770
+(..................)
+
+00:14:36.770 --> 00:14:39.550
+Esta es el area de la figura
+
+00:14:39.550 --> 00:14:41.580
+Obviamente podemos añadir esos 4 terminos
+
+00:14:41.580 --> 00:14:46.780
+Esto es 4AB y entonces tenemos +AC
+
+00:14:46.780 --> 00:14:49.400
+Voy a asumir que es un error,dado que
+
+00:14:49.400 --> 00:14:52.310
+C nos indica el ancho
+
+00:14:52.310 --> 00:14:54.240
+de este pequeño recuadro.
+
+00:14:54.240 --> 00:14:56.210
+No sabemos si es un recuadro,solo si A y C
+
+00:14:56.210 --> 00:14:57.600
+son identicos.
+
+00:14:57.600 --> 00:15:00.180
+Hagamos el siguiente
+
+00:15:00.180 --> 00:15:03.190
+¿Como hallamos el area de la figura rosa?
+
+00:15:03.190 --> 00:15:06.010
+Cogeremos todo el rectangulo
+
+00:15:06.010 --> 00:15:10.730
+que sera 2XY, y entonces le restamos el area de
+
+00:15:10.730 --> 00:15:12.240
+estos recuadros.
+
+00:15:12.240 --> 00:15:18.060
+Cada uno tiene un area de X*X o X al cuadrado
+
+00:15:18.060 --> 00:15:19.810
+Y tenemos dos
+
+00:15:19.810 --> 00:15:23.190
+osea "-2X al cuadrado"
+
+00:15:23.190 --> 00:15:27.050
+Y para terminar,hagamos el ultimo
+
+00:15:27.050 --> 00:15:30.430
+Esto podria ser una linea divisoria
+
+00:15:30.430 --> 00:15:34.250
+Por lo que el area de este punto
+
+00:15:34.250 --> 00:15:37.130
+es A*B, osea AB
+
+00:15:37.130 --> 00:15:43.680
+Y esta tambien parece AB
+
+00:15:43.680 --> 00:15:45.320
+asi que +AB
+
+00:15:45.320 --> 00:15:50.950
+Y el area sobre esto es tambien AB
+
+00:15:50.950 --> 00:15:54.170
+Asi que 3AB
+
+00:15:54.170 --> 00:15:57.700
+Como sea espero que esto os halla ayudado a entender
+
+00:15:57.700 --> 00:15:58.381
+los polinomios
+
+00:15:58.381 --> 00:15:59.190
+(..................)

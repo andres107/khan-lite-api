@@ -1,0 +1,495 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.660 --> 00:00:02.590
+Ahora vamos a aprender un poquito sobre gravedad.
+
+00:00:02.590 --> 00:00:05.590
+Y para que sepan, la gravedad es algo que,
+
+00:00:05.590 --> 00:00:08.620
+sobre todo en Introducción a la Física o incluso en Física avanzada,
+
+00:00:08.620 --> 00:00:11.600
+la gravedad es algo que podemos aprender a calcular, podemos aprender como
+
+00:00:11.600 --> 00:00:14.650
+darnos cuenta cuáles son las variables importantes, pero
+
+00:00:14.650 --> 00:00:17.050
+es algo que no se entiende del todo.
+
+00:00:17.050 --> 00:00:20.940
+Incluso cuando hayan aprendido sobre relatividad general,
+
+00:00:20.940 --> 00:00:23.880
+si logran hacerlo, podrán decir, bueno,
+
+00:00:23.880 --> 00:00:26.120
+es la deformación del espacio-tiempo y todo eso, pero
+
+00:00:26.120 --> 00:00:31.190
+es difícil lograr tener la intuición de por qué dos objetos, solo porque
+
+00:00:31.190 --> 00:00:33.690
+tengan esto que se llama masa,
+
+00:00:33.690 --> 00:00:34.640
+estén atraídos el uno al otro.
+
+00:00:34.640 --> 00:00:38.170
+Realmente es, al menos para mí, un poco místico.
+
+00:00:38.170 --> 00:00:42.240
+Dicho eso, pasemos a aprender sobre la gravedad.
+
+00:00:42.240 --> 00:00:45.140
+Aprenderemos sobre la Ley de Gravitación de Newton,
+
+00:00:45.140 --> 00:00:48.620
+que es lo que sirve más.
+
+00:00:48.620 --> 00:00:50.640
+La Ley de Gravitación de Newton dice que la fuerza entre
+
+00:00:50.640 --> 00:00:55.140
+dos cuerpos, y eso es la fuerza gravitacional, es igual
+
+00:00:55.140 --> 00:00:58.990
+a la constante gravitacional G multiplicada por la masa del primer objeto,
+
+00:00:58.990 --> 00:01:03.500
+multiplicado por la masa del segundo objeto, dividido por
+
+00:01:03.500 --> 00:01:06.890
+el cuadrado de la distancia entre los dos objetos.
+
+00:01:06.890 --> 00:01:07.860
+Eso es bastante simple.
+
+00:01:07.860 --> 00:01:10.320
+Juguemos un poco con esto, a ver si obtenemos
+
+00:01:10.320 --> 00:01:13.490
+resultados que nos resulten familiares.
+
+00:01:13.490 --> 00:01:17.120
+Entonces usemos esta fórmula para calcular
+
+00:01:17.120 --> 00:01:21.070
+la aceleración, la aceleración de la gravedad
+
+00:01:21.070 --> 00:01:23.120
+sobre la superficie de la Tierra.
+
+00:01:23.120 --> 00:01:26.130
+Entonces dibujemos la Tierra, para saber
+
+00:01:26.130 --> 00:01:27.380
+de lo que hablamos.
+
+00:01:29.830 --> 00:01:31.630
+Esa es la Tierra.
+
+00:01:31.630 --> 00:01:34.060
+Y digamos que queremos saber calcular
+
+00:01:34.060 --> 00:01:36.260
+la aceleración de la gravedad sobre Sal.
+
+00:01:36.260 --> 00:01:37.510
+Ese soy yo.
+
+00:01:41.000 --> 00:01:45.770
+¿Y cómo aplicamos esta ecuación para calcular
+
+00:01:45.770 --> 00:01:49.490
+mi aceleración hacia el centro de la Tierra o
+
+00:01:49.490 --> 00:01:51.950
+el centro de masa de la Tierra?
+
+00:01:51.950 --> 00:01:55.890
+La fuerza es igual a - ¿qué era esta G grande?
+
+00:01:55.890 --> 00:02:00.010
+La G es la constante de la gravitación universal.
+
+00:02:00.010 --> 00:02:03.330
+Aunque, que yo sepa, y no soy un experto,
+
+00:02:03.330 --> 00:02:08.620
+en realidad creo que su medición puede cambiar.
+
+00:02:08.620 --> 00:02:11.390
+No es verdaderamente una constante, o creo que
+
+00:02:11.390 --> 00:02:12.840
+a escalas diferentes, puede ser algo diferente.
+
+00:02:12.840 --> 00:02:16.700
+Pero para nuestros propósitos, es una constante, y la constante en la
+
+00:02:16.700 --> 00:02:21.520
+mayoría de las clases de física, es esta: 6,67 multiplicado por 10
+
+00:02:21.520 --> 00:02:24.546
+a la menos 11 metros al cubo por kilogramo segundos al cuadrado.
+
+00:02:24.546 --> 00:02:27.470
+Sé que estas unidades son raras, pero solo deben darse cuenta que
+
+00:02:27.470 --> 00:02:30.005
+estas son las únicas unidades que necesitan, y cuando las multiplican
+
+00:02:30.005 --> 00:02:33.040
+por una masa, y dividen la masa por el cuadrado de la distancia,
+
+00:02:33.040 --> 00:02:35.930
+obtienen newtons, o metros por kilogramo sobre segundo al cuadrado.
+
+00:02:35.930 --> 00:02:38.360
+No nos preocuparemos mucho por estas unidades por ahora.
+
+00:02:38.360 --> 00:02:40.610
+Solo tengan en cuenta que tendrán que trabajar con metros,
+
+00:02:40.610 --> 00:02:42.420
+kilogramos y segundos.
+
+00:02:42.420 --> 00:02:44.620
+Entonces escribamos ese número.
+
+00:02:44.620 --> 00:02:47.440
+Cambiaré los colores para hacerlo interesante.
+
+00:02:47.440 --> 00:02:55.080
+6,67 por 10 a la -11, y queremos saber
+
+00:02:55.080 --> 00:03:00.190
+la aceleración sobre Sal, entonces m1 es la masa de Sal.
+
+00:03:00.190 --> 00:03:02.490
+Y no quiero revelar mi masa en este
+
+00:03:02.490 --> 00:03:05.240
+video, así que lo dejaré como una variable.
+
+00:03:05.240 --> 00:03:06.430
+Y luego ¿qué es la masa 2?
+
+00:03:06.430 --> 00:03:07.950
+Es la masa de la Tierra.
+
+00:03:07.950 --> 00:03:08.820
+Y escribí eso aquí.
+
+00:03:08.820 --> 00:03:10.250
+Lo busqué en Wikipedia.
+
+00:03:10.250 --> 00:03:13.410
+Esta es la masa de la Tierra.
+
+00:03:13.410 --> 00:03:18.890
+La multiplico por la masa de la Tierra, por 5,97
+
+00:03:18.890 --> 00:03:21.670
+por 10 a la 24 kilogramos - pesa un poquito,
+
+00:03:21.670 --> 00:03:25.700
+no pesa, es un poco más masivo que Sal -
+
+00:03:25.700 --> 00:03:27.900
+dividido por el cuadrado de la distancia.
+
+00:03:27.900 --> 00:03:29.420
+Ahora, se puede decir, bueno, ¿cuál es la distancia entre
+
+00:03:29.420 --> 00:03:30.990
+alguien parado sobre la Tierra y la Tierra?
+
+00:03:30.990 --> 00:03:33.080
+Bueno, es cero porque está tocando la Tierra.
+
+00:03:33.080 --> 00:03:35.130
+Pero es importante darse cuenta que la distancia entre
+
+00:03:35.130 --> 00:03:38.570
+dos objetos, especialmente cuando se habla de
+
+00:03:38.570 --> 00:03:40.910
+la Ley de gravitación universal, es la distancia entre
+
+00:03:40.910 --> 00:03:42.310
+los centros de sus masas.
+
+00:03:42.310 --> 00:03:44.290
+Mi centro de masa, tal vez esté
+
+00:03:44.290 --> 00:03:46.610
+como a tres pies del suelo, porque
+
+00:03:46.610 --> 00:03:48.500
+no soy tan alto.
+
+00:03:48.500 --> 00:03:50.510
+Probablemente sea algo más bajo que eso.
+
+00:03:50.510 --> 00:03:52.760
+Bueno, mi centro de masa puede estar a tres pies sobre
+
+00:03:52.760 --> 00:03:54.380
+el suelo, ¿y dónde está el centro de masa de la Tierra?
+
+00:03:54.380 --> 00:03:56.330
+Bueno, está en el centro de la Tierra, por eso tenemos que saber
+
+00:03:56.330 --> 00:03:59.800
+el radio de la Tierra, ¿no?
+
+00:03:59.800 --> 00:04:03.120
+El radio de la Tierra es - también lo busqué en
+
+00:04:03.120 --> 00:04:07.290
+Wikipedia - 6.371 kilómetros.
+
+00:04:07.290 --> 00:04:08.490
+¿Cuántos metros es eso?
+
+00:04:08.490 --> 00:04:11.100
+Son 6 millones de metros, ¿no?
+
+00:04:11.100 --> 00:04:13.470
+Y saben, el metro extra para llegar a mi centro de masa
+
+00:04:13.470 --> 00:04:16.079
+lo podemos ignorar por ahora, porque sería 0,001, así
+
+00:04:16.079 --> 00:04:16.970
+que lo ignoraremos por ahora.
+
+00:04:16.970 --> 00:04:18.120
+Así que es 6.
+
+00:04:18.120 --> 00:04:20.290
+Lo escribiré como notación científica, ya que todo lo demás
+
+00:04:20.290 --> 00:04:25.230
+está como notación científica - 6,371 por 10 a la 6
+
+00:04:25.230 --> 00:04:25.860
+metros, ¿no?
+
+00:04:25.860 --> 00:04:29.610
+6.000 kilómetros son 6 millones de metros.
+
+00:04:29.610 --> 00:04:30.660
+Entonces escribámoslo.
+
+00:04:30.660 --> 00:04:37.580
+Así que la distancia será de 6,37 por 10
+
+00:04:37.580 --> 00:04:40.470
+a la 6 metros.
+
+00:04:40.470 --> 00:04:41.430
+Deberemos calcular el cuadrado de eso.
+
+00:04:41.430 --> 00:04:44.560
+Recuerden, es el cuadrado de la distancia.
+
+00:04:44.560 --> 00:04:47.830
+A ver si lo podemos simplificar un poco.
+
+00:04:47.830 --> 00:04:52.670
+Multipliquemos estos números de arriba primero. La fuerza es igual a -
+
+00:04:52.670 --> 00:04:53.910
+traigamos la variable.
+
+00:04:53.910 --> 00:04:58.550
+La masa de Sal por - hagamos esta parte de arriba.
+
+00:04:58.550 --> 00:05:17.470
+Entonces 6,67 por 5,97 es igual a 39,82.
+
+00:05:17.470 --> 00:05:19.670
+Y solo multipliqué esto por esto, entonces ahora tengo que
+
+00:05:19.670 --> 00:05:21.160
+multiplicar por los 10.
+
+00:05:21.160 --> 00:05:23.590
+Entonces, 10 a la -11 por 10 a la -24.
+
+00:05:23.590 --> 00:05:25.065
+Simplemente podemos sumar los exponentes.
+
+00:05:25.065 --> 00:05:26.850
+Tienen la misma base.
+
+00:05:26.850 --> 00:05:28.360
+¿Cuánto es 24 menos 11?
+
+00:05:28.360 --> 00:05:31.030
+Es 10 a la 13, ¿no?
+
+00:05:31.030 --> 00:05:32.610
+¿y cómo es el denominador?
+
+00:05:32.610 --> 00:05:35.510
+Es el cuadrado de 6,37 por 10
+
+00:05:35.510 --> 00:05:37.270
+a la 6 al cuadrado.
+
+00:05:37.270 --> 00:05:40.010
+Así que es, será como 37
+
+00:05:40.010 --> 00:05:44.900
+o algo así -por- ¿cuánto es 10 a la 6 al cuadrado?
+
+00:05:44.900 --> 00:05:47.650
+Es 10 a la 12, ¿no?
+
+00:05:47.650 --> 00:05:49.120
+10 a la 12.
+
+00:05:49.120 --> 00:05:52.586
+Calculemos cuánto es el cuadrado de 6,37.
+
+00:05:52.586 --> 00:05:56.434
+Esta pequeña calculadora no tiene cuadrado, así que
+
+00:05:56.434 --> 00:06:09.650
+tengo que - entonces es 40,58.
+
+00:06:09.650 --> 00:06:12.740
+Y simplificándolo, la fuerza es igual a la masa de
+
+00:06:12.740 --> 00:06:31.990
+Sal por - dividamos, 39,82 dividido por 40,58 es
+
+00:06:31.990 --> 00:06:38.290
+igual a 9,81.
+
+00:06:38.290 --> 00:06:40.130
+Eso es esto dividido por esto.
+
+00:06:40.130 --> 00:06:44.770
+Y luego 10 a la 13 dividido por 10 a la 12.
+
+00:06:44.770 --> 00:06:46.200
+En realidad no, esto no es 9,81.
+
+00:06:46.200 --> 00:06:48.150
+Perdón, es 0,981.
+
+00:06:48.150 --> 00:06:51.700
+0,981 y luego 10 a la 13 dividido por 10 a la 12 es
+
+00:06:51.700 --> 00:06:52.560
+simplemente 10, ¿no?
+
+00:06:52.560 --> 00:06:57.160
+10 a la 1, por 10, ¿cuánto es 0,981 por 10?
+
+00:06:57.160 --> 00:07:03.710
+Bueno, la fuerza es igual a 9,81 por la masa de Sal.
+
+00:07:03.710 --> 00:07:04.550
+¿Y dónde nos lleva esto?
+
+00:07:04.550 --> 00:07:06.780
+¿Cómo podemos calcular la aceleración ahora?
+
+00:07:06.780 --> 00:07:11.220
+Bueno, la fuerza es simplemente la masa multiplicada por la aceleración, ¿no?
+
+00:07:11.220 --> 00:07:14.800
+Entonces eso también será igual a la aceleración
+
+00:07:14.800 --> 00:07:19.790
+de la gravedad - eso se supone que es una g minúscula allí - multiplicado por
+
+00:07:19.790 --> 00:07:22.310
+la masa de Sal, ¿no?
+
+00:07:22.310 --> 00:07:25.265
+Entonces sabemos que la fuerza gravitacional es de 9,81 por la masa
+
+00:07:25.265 --> 00:07:27.570
+de Sal, y también sabemos que eso es lo mismo que
+
+00:07:27.570 --> 00:07:29.760
+la aceleración de la gravedad por la masa de Sal.
+
+00:07:29.760 --> 00:07:31.840
+Podemos dividir ambos lados por la masa de Sal, y tenemos
+
+00:07:31.840 --> 00:07:33.390
+la aceleración de la gravedad.
+
+00:07:33.390 --> 00:07:35.820
+Y si hubiéramos usado las unidades todo el tiempo, hubieran
+
+00:07:35.820 --> 00:07:38.470
+visto que es kilogramos metros por segundo al cuadrado.
+
+00:07:38.470 --> 00:07:41.880
+Y recién hemos mostrado que, por lo menos basado en los números
+
+00:07:41.880 --> 00:07:46.090
+que nos han dado en Wikipedia, la aceleración de
+
+00:07:46.090 --> 00:07:49.170
+la gravedad sobre la superficie de la Tierra es casi exactamente lo que
+
+00:07:49.170 --> 00:07:51.450
+hemos estado usando en los problemas de movimiento de proyectiles.
+
+00:07:51.450 --> 00:07:55.290
+Es 9,8 metros por segundo al cuadrado.
+
+00:07:55.290 --> 00:07:57.570
+Es interesante.
+
+00:07:57.570 --> 00:07:59.830
+Hagamos rápidamente otro problema que involucre la gravedad, porque
+
+00:07:59.830 --> 00:08:02.570
+tengo dos minutos.
+
+00:08:02.570 --> 00:08:06.390
+Digamos que hay otro planeta llamado
+
+00:08:06.390 --> 00:08:08.380
+la Pequeña Tierra.
+
+00:08:08.380 --> 00:08:15.760
+Y digamos que el radio de la Pequeña Tierra es igual a la mitad
+
+00:08:15.760 --> 00:08:19.380
+del radio de la Tierra y la masa de la Pequeña Tierra es igual
+
+00:08:19.380 --> 00:08:22.280
+a la mitad de la masa de la Tierra.
+
+00:08:22.280 --> 00:08:27.750
+¿Cuál es la fuerza de la gravedad sobre cualquier objeto, digamos el mismo
+
+00:08:27.750 --> 00:08:29.170
+objeto, sobre esto?
+
+00:08:29.170 --> 00:08:31.880
+¿Qué tan pequeño sería en este planeta?
+
+00:08:31.880 --> 00:08:33.952
+Bueno, en realidad lo voy a dejar para el próximo video,
+
+00:08:33.952 --> 00:08:34.789
+porque detesto tener que apurarme.
+
+00:08:34.789 --> 00:08:36.500
+Así que ¡nos vemos pronto!

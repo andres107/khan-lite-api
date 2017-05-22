@@ -1,0 +1,189 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Lo que quiero hacer en este video es pensar en cómo la fuerza normal puede ser distinta
+
+99:59:59.999 --> 99:59:59.999
+dependiendo de la situación.
+
+99:59:59.999 --> 99:59:59.999
+Y ya que mi hijo de dos años y medio está obsesionado con los ascensores,
+
+99:59:59.999 --> 99:59:59.999
+pensé en concentrarme en ellos.
+
+99:59:59.999 --> 99:59:59.999
+Así que aquí he dibujado cuatro situaciones, y podemos imaginarlos en secuencia.
+
+99:59:59.999 --> 99:59:59.999
+En este primer dibujo, voy a asumir que la velocidad es igual a cero,
+
+99:59:59.999 --> 99:59:59.999
+o, para decirlo de otra manera, este ascensor es estacionario.
+
+99:59:59.999 --> 99:59:59.999
+En todo este video vamos a estar hablando en la dirección vertical.
+
+99:59:59.999 --> 99:59:59.999
+Esta es la única dimensión con la que vamos a estar trabajando.
+
+99:59:59.999 --> 99:59:59.999
+Así que esto es cero metros por segundo, en la dirección vertical.
+
+99:59:59.999 --> 99:59:59.999
+Otra manera de decirlo: esta cosa no se está moviendo.
+
+99:59:59.999 --> 99:59:59.999
+Además, y esto puede ser un poco obvio para ustedes,
+
+99:59:59.999 --> 99:59:59.999
+pero su aceleración es también cero metros por segundo al cuadrado en esta imagen.
+
+99:59:59.999 --> 99:59:59.999
+Entonces digamos que estoy parado en este ascensor transparente y presiono un botón
+
+99:59:59.999 --> 99:59:59.999
+y el ascensor comienza a acelerar hacia arriba.
+
+99:59:59.999 --> 99:59:59.999
+Así que en este video de aquí, o en esta captura de aquí,
+
+99:59:59.999 --> 99:59:59.999
+digamos que la aceleración es de dos metros por segundo [al cuadrado]
+
+99:59:59.999 --> 99:59:59.999
+usando la convención de que positivo significa "hacia arriba" y negativo "hacia abajo".
+
+99:59:59.999 --> 99:59:59.999
+Solo vamos a usar esta dimensión ahora.
+
+99:59:59.999 --> 99:59:59.999
+Podría escribir dos metros por segundo [cuadrado] por el vector de unidad j,
+
+99:59:59.999 --> 99:59:59.999
+porque eso nos dice que no nos estamos moviendo [en dirección horizontal]...
+
+99:59:59.999 --> 99:59:59.999
+pero, sí, dejémoslo así, eso significa que nos movemos hacia arriba.
+
+99:59:59.999 --> 99:59:59.999
+Y digamos que hacemos eso por un segundo, y luego vamos a esta captura de aquí.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, no tenemos velocidad, aceleramos... ah, esperen esto es dos metros segundo cuadrado...
+
+99:59:59.999 --> 99:59:59.999
+Es dos metros por segundo por segundo, esto es aceleración.
+
+99:59:59.999 --> 99:59:59.999
+Entonces hacemos eso por un segundo, y al pasar el segundo dejamos de acelerar
+
+99:59:59.999 --> 99:59:59.999
+y pasamos a esta captura de aquí...
+
+99:59:59.999 --> 99:59:59.999
+Nuestra aceleración vuelve a ser cero metros por segundo cuadrado en la dirección j
+
+99:59:59.999 --> 99:59:59.999
+(pero no vamos a escribirlo porque, la verdad, es solo cero)
+
+99:59:59.999 --> 99:59:59.999
+Pero ahora tenemos una velocidad.
+
+99:59:59.999 --> 99:59:59.999
+Aceleramos por... para hacer las cosas sencillas, digamos que esta captura duró un segundo.
+
+99:59:59.999 --> 99:59:59.999
+Así que nuestra velocidad ahora va a ser dos metros sobre segundo
+
+99:59:59.999 --> 99:59:59.999
+en la dirección j o vertical.
+
+99:59:59.999 --> 99:59:59.999
+Y después, digamos que esto sucede por diez segundos,
+
+99:59:59.999 --> 99:59:59.999
+así que a velocidad constante al menos viajamos veinte metros,
+
+99:59:59.999 --> 99:59:59.999
+viajamos un poco más mientras estábamos acelerando, también.
+
+99:59:59.999 --> 99:59:59.999
+Pero nos estamos acercando a nuestro piso y por eso el ascensor tiene que desacelerar.
+
+99:59:59.999 --> 99:59:59.999
+Así que desacelera. La desaceleración ahora es menos dos metros por segundo cuadrado por j.
+
+99:59:59.999 --> 99:59:59.999
+Está acelerando hacia abajo, tiene que ir cada vez más lento para volver a estar quieto.
+
+99:59:59.999 --> 99:59:59.999
+Así que lo quiero hacer es pensar, ¿cuál sería la fuerza normal?,
+
+99:59:59.999 --> 99:59:59.999
+la fuerza que el piso del ascensor ejerce sobre mí en cada una de estas circunstancias.
+
+99:59:59.999 --> 99:59:59.999
+Vamos a asumir que estamos trabajando cerca de la superficie de la Tierra.
+
+99:59:59.999 --> 99:59:59.999
+Así que en cada una de estas situaciones, si estamos trabajando cerca de la superficie terrestre,
+
+99:59:59.999 --> 99:59:59.999
+tengo alguna medida de atracción gravitatoria hacia la Tierra
+
+99:59:59.999 --> 99:59:59.999
+y la Tierra tiene cierta medida de atracción gravitatoria hacia mí.
+
+99:59:59.999 --> 99:59:59.999
+Así que digamos que yo... eh, hagamos las cuentas sencillas, digamos que soy
+
+99:59:59.999 --> 99:59:59.999
+un deambulador y peso diez kilogramos.
+
+99:59:59.999 --> 99:59:59.999
+Tal vez este sea mi hijo, aunque me parece que él pesa doce kilos,
+
+99:59:59.999 --> 99:59:59.999
+pero mantegámoslo simple...
+
+99:59:59.999 --> 99:59:59.999
+Entonces, esta persona, ah, seamos claros:
+
+99:59:59.999 --> 99:59:59.999
+esta persona no pesa diez kilogramos, eso está mal,
+
+99:59:59.999 --> 99:59:59.999
+sino que tiene una masa de diez kilogramos.
+
+99:59:59.999 --> 99:59:59.999
+Peso es la fuerza debida a la gravitación, masa es la cantidad de materia que hay.
+
+99:59:59.999 --> 99:59:59.999
+Así que la masa de este deambulador parado adentro del ascensor es de diez kilogramos.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, ¿cuál es la fuerza gravitatoria? U, otra forma de decirlo, ¿cuánto pesa esta persona?
+
+99:59:59.999 --> 99:59:59.999
+En esta viñeta aquí, es masa por el campo gravitatorio de la Tierra cerca de su superficie,
+
+99:59:59.999 --> 99:59:59.999
+de 9,8 metros por segundo al cuadrado. Escribámoslo aquí...
+
+99:59:59.999 --> 99:59:59.999
+El campo gravitatorio cerca de la superficie terrestre tiene una aceleración de 9,8 m/s^2
+
+99:59:59.999 --> 99:59:59.999
+y el menos indica que está yendo hacia abajo, así que multiplicamos esto por diez kilogramos
+
+99:59:59.999 --> 99:59:59.999
+y... la fuerza gravitatoria... va a ser 10 [kg] por -9.8 metros por segundo cuadrado
+
+99:59:59.999 --> 99:59:59.999
+o -98 newtons, en la dirección j.
+
+99:59:59.999 --> 99:59:59.999
+Bueno, ¿cuál va a ser la fuerza hacia abajo aquí?

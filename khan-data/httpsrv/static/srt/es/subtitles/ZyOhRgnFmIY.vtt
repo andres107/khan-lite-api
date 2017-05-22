@@ -1,0 +1,71 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:05.230
+Una maquina de dulces crea pequeñas obleas de chocolate en forma de discos circulares.
+
+00:00:05.740 --> 00:00:09.740
+El diametro de cada oblea es de 16 milimetros
+
+00:00:10.190 --> 00:00:12.770
+¿Cual es el area de cada dulce?
+
+00:00:13.174 --> 00:00:16.774
+Entonces, el dulce tiene la forma de un disco circular
+
+00:00:17.509 --> 00:00:20.759
+y nos dice que el diametro de la oblea es de16 milimetros
+
+00:00:20.859 --> 00:00:24.859
+si yo dibujo una linea que atraviese por el centro
+
+00:00:25.089 --> 00:00:29.799
+el largo de esa linea que atraviesa por el centro del circulo es de 16 milimetros
+
+00:00:30.936 --> 00:00:37.766
+justo asi, entonces el diametro de aqui es de 16 milimetros
+
+00:00:37.994 --> 00:00:44.954
+y nosotros queremos encontrar el area de esta superficie del dulce (area del circulo)
+
+00:00:46.605 --> 00:00:57.515
+Nosotros sabemos que el area del circulo es igual a "pi" por el radio al cuadrado
+
+00:00:57.923 --> 00:01:00.743
+como ves, nos dan el diametro. ¿cual es el radio?
+
+00:01:01.208 --> 00:01:08.718
+bueno, debes recordar que el radio es la mitad del diametro, la distancia desde el centro del circulo hacia el borde del circulo
+
+00:01:09.023 --> 00:01:11.253
+entonces sera esta distancia de aqui.
+
+00:01:11.375 --> 00:01:15.375
+como es la mitad exacta del diametro medira 8 milimetros
+
+00:01:15.834 --> 00:01:20.714
+como vemos el radio aqui es 8 milimetros
+
+00:01:21.454 --> 00:01:27.054
+por tanto, el area sera igual a "pi" por 8 milimetros al cuadrado
+
+00:01:27.736 --> 00:01:33.226
+que da como resultado 64 milimetros al cuadrado
+
+00:01:33.950 --> 00:01:37.000
+y comunmente esto se escribe con "pi" despues del 64
+
+00:01:37.000 --> 00:01:51.690
+entonces tu lo veras seguido como que esto es igual a 64 "pi" milimetros al cuadrado
+
+00:01:52.350 --> 00:01:59.130
+Ahora, esta es la respuesta (64 "pi" milimetros al cuadrado), pero a veces no es suficiente dejarlo con "pi"
+
+00:01:59.220 --> 00:02:05.770
+tu diras "oh, quiero saber a que numero se acerca, quiero una mejor respresentacion de esto"
+
+00:02:05.874 --> 00:02:09.604
+Y nosotros podemos empezar a utilizar el valor aproximado de "pi"
+
+99:59:59.999 --> 99:59:59.999

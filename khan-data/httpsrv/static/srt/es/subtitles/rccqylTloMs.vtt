@@ -1,0 +1,90 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.472 --> 00:00:02.807
+Así que tenemos el gráfico de una función.
+
+00:00:02.807 --> 00:00:10.211
+Y queremos pensar acerca de ¿cuál es el límite de f(x) cuando x se aproxima a 3?
+
+00:00:10.211 --> 00:00:13.216
+Para ello pensemos en el límite cuando x se aproxima a 3
+
+00:00:13.216 --> 00:00:17.374
+para valores menores que 3 y mayores que 3.
+
+00:00:17.374 --> 00:00:22.401
+Primero pensemos en el límite cuando x se aproxima
+
+00:00:22.401 --> 00:00:27.405
+a 3 para valores menores que 3. Así que este
+sobrescrito indica que nos aproximamos
+
+00:00:27.405 --> 00:00:33.467
+a 3 desde valores menores que 3. Desde 1, 2, 2.5, 2.99, 2.999.
+
+00:00:33.467 --> 00:00:45.102
+Así que este es 3, justo aquí y vamos a tomar el límite por el lado izquierdo.
+
+00:00:45.102 --> 00:00:49.817
+Cuando x es 0, f(x) está aquí (5). Cuando x es 1, f(x) está aquí.
+
+00:00:49.817 --> 00:00:54.873
+Cuando x es 2, f(x) está aquí. Cuando x es dos y medio, f(x) está en 5.
+
+00:00:54.873 --> 00:01:03.539
+Cuando x está en dos y tres cuartos, aproximadamente, f(x) es más o menos 4.5.
+
+00:01:03.539 --> 00:01:08.961
+Así que parece que mientras x se acerca a 3 desde valores menores que 3,
+
+00:01:08.961 --> 00:01:18.416
+nuestra función se aproxima a 4. Así que yo diría que el límite del lado izquierdo de f(x)
+
+00:01:18.431 --> 00:01:20.908
+cuando x se aproxima a 3, es 4.
+
+00:01:20.908 --> 00:01:23.586
+Ahora hagamos lo mismo para el lado derecho.
+
+00:01:23.586 --> 00:01:35.299
+Así buscamos el límite de f(x) cuando x se aproxima a 3 desde valores mayores que 3.
+
+00:01:35.299 --> 00:01:38.524
+Notemos que cuando x es igual a 5, f(x) está aquí arriba.
+
+00:01:38.524 --> 00:01:47.055
+Cuando x es igual a 4, f(x) está aquí. Cuando x es tres y medio, f(x) parece estar un poco abajo de 2.
+
+00:01:47.055 --> 00:01:51.471
+Así que parece que nos estamos acercando más y más, cuando x se aproxima a 3
+
+00:01:51.471 --> 00:02:01.477
+desde la dirección positiva, es decir desde el lado derecho, a 1.
+
+00:02:01.477 --> 00:02:06.658
+Entonces yo estimaría, basado en este gráfico, que el límite de f(x) cuando x se acerca a 3 desde
+
+00:02:06.658 --> 00:02:12.093
+la dirección positiva es igual a 1.
+Ahora tenemos problema:
+
+00:02:12.093 --> 00:02:17.880
+Para que este límite exista, tendríamos que obtener el mismo valor cuando nos aproximamos
+
+00:02:17.880 --> 00:02:21.735
+desde el lado izquierdo tanto como desde el lado derecho. Pero está claro que no nos
+
+00:02:21.735 --> 00:02:27.404
+estamos acercando al mismo valor cuando vamos desde el lado izquierdo como desde el lado derecho.
+
+00:02:27.404 --> 00:02:38.136
+Por tanto, este límite no existe. La única manera para que el límite existiera es que hubiésemos
+
+00:02:38.136 --> 00:02:41.908
+obtenido el mismo valor para ambos de estos.
+Y luego el límite hubiese sido ese valor.
+
+00:02:41.908 --> 00:02:45.908
+Pero claramente no estamos obteniendo un mismo valor.

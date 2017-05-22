@@ -1,0 +1,321 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.122 --> 00:00:04.184
+En el último video tomamos la Seríe de Maclaurin del Coseno de x
+
+00:00:04.184 --> 00:00:06.738
+Nosotros hicimos una aproximación usando este polinomio
+
+00:00:06.738 --> 00:00:08.334
+y vimos este interesante patrón.
+
+00:00:08.334 --> 00:00:10.782
+Vamos a ver si podemos encontrar un patrón similar si intentamos
+
+00:00:10.782 --> 00:00:14.384
+aproximar seno de x usando la serie de Maclaurin.
+
+00:00:14.384 --> 00:00:17.293
+y una vez más las series de Maclaurin es realmente la misma cosa
+
+00:00:17.293 --> 00:00:21.595
+que las series de Taylor en la que centramos nuestra aproximación
+
+00:00:21.595 --> 00:00:27.108
+alrededor de x es igual a 0. Este es un caso especial en las series de Taylor
+
+00:00:27.108 --> 00:00:32.762
+Vamos a decir que f de x en este caso es igual al seno de x
+
+00:00:32.808 --> 00:00:37.877
+f de x es ahora igual al seno de x y vamos a hacer lo mismo
+
+00:00:37.877 --> 00:00:40.256
+que hicimos con el coseno de x. Rápidamente solo vamos a tomar las diferentes
+
+00:00:40.256 --> 00:00:44.754
+derivadas del seno de x. De este modo si tienes la primera
+
+00:00:44.754 --> 00:00:50.348
+derivada del seno de x es justo el coseno de x. La segunda derivada
+
+00:00:50.348 --> 00:00:56.441
+del seno de x es la derivada del cosno de x lo cual es el seno de x negativo
+
+00:00:56.441 --> 00:00:59.302
+la tercera derivada va a ser la derivada de esto
+
+00:00:59.302 --> 00:01:01.098
+así que solo escribiré 3 en paréntesis en vez de
+
+00:01:01.098 --> 00:01:04.231
+poner todos los primos, primos, primos. De este modo la tercera derivada es
+
+00:01:04.231 --> 00:01:09.021
+la derivada de esto que es el coseno de x negativo. La cuarta
+
+00:01:09.021 --> 00:01:12.975
+derivada, la cuarta derivada es la derivada de esto
+
+00:01:12.975 --> 00:01:17.467
+que es nuevamente el seno de x positivo. Así puedes ver que justo cmo el coseno de x
+
+00:01:17.467 --> 00:01:20.436
+es una especie de ciclo después de que encuentras la derivada varias veces
+
+00:01:20.436 --> 00:01:23.252
+y vamos en orden hacia las series de Maclaurin nos ocupamos
+
+00:01:23.252 --> 00:01:29.169
+de evaluar la función y cada una de esas derivadas cuando x es igual a 0
+
+00:01:29.169 --> 00:01:32.215
+así que vamos a hacer eso. Para ello déjame ponerlo en un
+
+00:01:32.215 --> 00:01:37.800
+color diferente, que no sea de el mismo color azul. Lo haré en color violeta
+
+00:01:37.800 --> 00:01:40.329
+asi que f, yo pienso que es difícil de ver, vamos a ponerlo del
+
+00:01:40.329 --> 00:01:47.733
+otro color azul, así que f de 0 en este caso es 0 y f la
+
+00:01:47.733 --> 00:01:51.938
+primera derivada que evaluamos en 0 es 1. El coseno de 0 es 1
+
+00:01:52.846 --> 00:01:59.267
+el seno negativo de 0 va a ser 0 así que f prima prima
+
+00:01:59.267 --> 00:02:01.652
+la segunda derivada evaluada en 0 es 0.
+
+00:02:01.652 --> 00:02:06.944
+La tercera derivada evaluada en 0 es 1 negativo.
+
+00:02:06.944 --> 00:02:10.800
+El coseno de 0 es 1 tienes un negativo de esto
+
+00:02:10.800 --> 00:02:15.421
+y es 1 negativo y la cuarta derivada evaluada en 0 será
+
+00:02:15.421 --> 00:02:19.733
+0 de nuevo. Podríamos volver una vez más y parece que
+
+00:02:19.733 --> 00:02:22.169
+hay un patrón 0 1 -1 0 y luego vas a regresar
+
+00:02:22.169 --> 00:02:27.000
+a 1 positivo y así sucesivamente. Así que vamos a
+
+00:02:27.000 --> 00:02:30.001
+encontrar la representación polinómica usando las series de Maclaurin
+
+00:02:30.001 --> 00:02:33.995
+sólo recordemos que ésta aquí fue una aproximación
+
+00:02:33.995 --> 00:02:36.148
+coseno de x y te vas acercando más y más
+
+00:02:36.148 --> 00:02:38.615
+al coseno de x no estoy mostrando que tan cerca de una manera rigurosa
+
+00:02:38.615 --> 00:02:41.843
+y eso es exactamente la misma cosa que el coseno de x
+
+00:02:41.843 --> 00:02:43.441
+pero te vas acercando más y mós al coseno de x
+
+00:02:43.441 --> 00:02:46.046
+mientras vas agregando términos y si lo haces infinito
+
+00:02:46.046 --> 00:02:49.179
+vas a estar prácticamente en el coseno de x
+
+00:02:49.179 --> 00:02:52.435
+ahora vamos a hacer lo mismo con el seno de x, así
+
+00:02:52.435 --> 00:02:56.518
+tomaré un color nuevo. Este verde se ve bonito. Este es nuestro
+
+00:02:56.518 --> 00:02:58.827
+nuevo p de x así qe aproximadamente será
+
+00:02:58.827 --> 00:03:02.067
+seno de x mientras agregamos más y más términos
+
+00:03:02.067 --> 00:03:07.133
+y así el primer término aquí f de 0 será justamente 0
+
+00:03:07.133 --> 00:03:10.467
+así que ni siquiera necesitamos incluír eso. El próximo término
+
+00:03:10.467 --> 00:03:15.333
+va a ser f prima 0 lo que significa 1 por x, así que será x
+
+00:03:15.841 --> 00:03:19.901
+luego el próximo término es f prima la segunda derivada en 0
+
+00:03:19.901 --> 00:03:23.436
+la cual vemos que es 0. Déjame bajar un poquito
+
+00:03:23.436 --> 00:03:27.133
+es 0 así que no tendremos el segundo término
+
+00:03:27.133 --> 00:03:30.862
+el tercer término justo aquí es la tercera derivada del seno de x
+
+00:03:30.862 --> 00:03:34.831
+evaluada en 0 que es 1 negativo así que ahora tendremos
+
+00:03:34.831 --> 00:03:40.333
+un 1 negativo. Déjame bajar para que los puedas ver
+
+00:03:40.333 --> 00:03:44.877
+1 negativo, esto es 1 negativo en este caso multiplicado por la tercera
+
+00:03:44.877 --> 00:03:50.836
+sobre el factorial de 3, así que x negativa, la tercera sobre factorial de 3
+
+00:03:50.836 --> 00:03:54.446
+y luego el próximo téermino lva a ser 0 porque esa
+
+00:03:54.446 --> 00:03:57.748
+es la cuarta derivada. Esa es la cuarta derivada evaluada
+
+00:03:57.748 --> 00:04:01.892
+en 0 que es el próximo coeficiente. Vemos que eso va a ser 0.
+
+00:04:01.892 --> 00:04:04.712
+así que se elimina y lo que vas a ver aquí
+
+00:04:04.712 --> 00:04:06.823
+y quizás yo no he puesto suficientes términos
+
+00:04:06.823 --> 00:04:08.917
+para que te sienats bien acerca de esto déjame poner
+
+00:04:08.963 --> 00:04:13.379
+un término más justo aquí arriba para que se vea más claro
+
+00:04:13.379 --> 00:04:17.067
+f de la quinta derivada de x va a ser de nuevo el coseno de x
+
+00:04:17.067 --> 00:04:20.249
+la quinta derivada, déjame ponerlo en el mismo color
+
+00:04:20.249 --> 00:04:23.200
+para ser consistentes. La quinta derivada
+
+00:04:23.492 --> 00:04:28.608
+la quinta derivada evaluada en 0 será 1
+
+00:04:29.685 --> 00:04:34.148
+así que la cuarta derivada evaluada en 0 es 0. Luego
+
+00:04:34.148 --> 00:04:38.133
+vas a la quinta derivada evaluada en 0 que será
+
+00:04:38.133 --> 00:04:41.923
+1 positivo y si sigues haciendo esto será 1 positivo multiplicado
+
+00:04:41.923 --> 00:04:47.184
+tendré que escribír 1 como un coeficiente multiplicado por x a la quinta
+
+00:04:47.184 --> 00:04:49.867
+sobre factorial de 5 vemos que hay algo interesante que esta ocurriendo
+
+00:04:49.867 --> 00:04:54.475
+aquí y para el cseno de x yo tenía 1 esencialmente 1
+
+00:04:54.475 --> 00:04:58.890
+multiplicado por x a la cero entonces no tengo a x en la primera potencia
+
+00:04:58.890 --> 00:05:01.349
+No tengo a x en potencia impar sólo
+
+00:05:01.349 --> 00:05:04.089
+tengo a x elevado a todas las potencias pares y cualquiera que sea la potencia
+
+00:05:04.089 --> 00:05:07.339
+estoy dividiendola por ese factorial y luego el signo
+
+00:05:07.339 --> 00:05:10.590
+se mantiene cambiando y eso es, no debería decirlo
+
+00:05:10.590 --> 00:05:13.562
+es una potencia par porque el 0 realmente no lo es, bien creo que
+
+00:05:13.562 --> 00:05:16.333
+puedes verlo com lun número par por eso
+
+00:05:16.333 --> 00:05:21.733
+no entraré en detalle pero esencialment2 0, 2, 4, 6 y así sucesivamente
+
+00:05:21.733 --> 00:05:25.451
+esto es interesante especialmente si lo comparas
+
+00:05:25.451 --> 00:05:28.619
+Estas son todas las potencias impares esta es x a la primera potencia
+
+00:05:28.619 --> 00:05:31.387
+sobre factorial de 1 no lo escribí aquí
+
+00:05:31.387 --> 00:05:34.385
+es x a la tercera potencia sobre el factorial de 3 más x a la quinta potencia
+
+00:05:34.385 --> 00:05:36.831
+sobre el factorial de 5.Cero sería un número par de todos modos
+
+00:05:36.831 --> 00:05:40.033
+ya casi acabo. Mi cerebro está en otro lugar ahora mismo
+
+00:05:40.033 --> 00:05:42.866
+y tú podrías continuar haciendo esto si siguiermos este proceso
+
+00:05:42.866 --> 00:05:45.672
+solo tendrías que ir cambiando los signos de x a la séptima
+
+00:05:45.672 --> 00:05:49.460
+sobre el factorial de 7 más x a la novena potencia sobre el factorial de 9
+
+00:05:49.460 --> 00:05:51.067
+así que hay algo interesante aquí una vez
+
+00:05:51.067 --> 00:05:56.400
+másves es de naturaleza complementaria
+
+00:05:56.400 --> 00:05:59.467
+entre el seno y el coseno, casi lo ves
+
+00:05:59.467 --> 00:06:01.395
+como que se están llenando los baches respectivos sobre el coseno de x
+
+00:06:01.395 --> 00:06:05.714
+es todas las potencias pares de x divididas por la potencia del factorial
+
+00:06:05.714 --> 00:06:09.133
+seno de x cuando tomas la representación polinómica
+
+00:06:09.133 --> 00:06:12.867
+son todas las potencias impares de x divididas por su factorial
+
+00:06:12.867 --> 00:06:17.195
+e intercambias los signos. En el próximo video haré e elevado a la x
+
+00:06:17.195 --> 00:06:20.477
+y lo que es realmente fascinante es que e elevado a la x comienza
+
+00:06:20.477 --> 00:06:24.430
+a verse aquí un poco como una combinación pero no realmente
+
+00:06:24.430 --> 00:06:27.462
+y tú realmente obtienes la combinación cuando involucras
+
+00:06:27.462 --> 00:06:30.333
+a los números imaginarios y es ahí cuando realmente
+
+00:06:30.333 --> 99:59:59.999
+deslumbra

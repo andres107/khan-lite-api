@@ -1,0 +1,705 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.650 --> 00:00:02.510
+Estamos en el problema 36
+
+00:00:02.510 --> 00:00:06.560
+Y dice, ¿Cuál es el área en unidades cuadradas de la
+
+00:00:06.560 --> 00:00:09.180
+trapezoidal que se muestra a continuación?
+
+00:00:09.180 --> 00:00:11.930
+Por lo tanto, cuando usted acaba de ver esto es como, OK, trapecio, se
+
+00:00:11.930 --> 00:00:14.580
+Sé la fórmula para el área de un trapecio.
+
+00:00:14.580 --> 00:00:15.990
+Entonces es posible que se confunda y todo eso.
+
+00:00:15.990 --> 00:00:18.520
+Pero usted dice, bueno, puedo romper eso y convertirlo en un
+
+00:00:18.520 --> 00:00:20.120
+rectángulo y un triángulo
+
+00:00:20.120 --> 00:00:22.935
+Si trazara una línea aquí
+
+00:00:26.110 --> 00:00:28.220
+Convertiría el trapecio en un rectángulo y
+
+00:00:28.220 --> 00:00:29.030
+un triángulo
+
+00:00:29.030 --> 00:00:32.720
+Y si conozco a las dimensiones de cada uno de ellos, sé el
+
+00:00:32.720 --> 00:00:34.480
+área de cada uno de estos y así conozco el área
+
+00:00:34.480 --> 00:00:35.980
+de toda la figura.
+
+00:00:35.980 --> 00:00:39.790
+Entonces veamos. ¿Cuál es la altura aquí o este
+
+00:00:39.790 --> 00:00:43.000
+ancho, debería decir?
+
+00:00:43.000 --> 00:00:45.430
+Bueno. ¿Entonces vamos desde cero a qué?
+
+00:00:45.430 --> 00:00:48.480
+x es igual a 8 aquí.
+
+00:00:48.480 --> 00:00:50.390
+Acabo de ir en línea recta desde x es igual a 8,
+
+00:00:50.390 --> 00:00:51.260
+y es igual a 5.
+
+00:00:51.260 --> 00:00:52.720
+De modo que esta dimensión es 8.
+
+00:00:52.720 --> 00:00:56.190
+y luego vamos desde x es igual a 8, a x es igual a 12, ¿qué
+
+00:00:56.190 --> 00:00:57.210
+medida tiene?
+
+00:00:57.210 --> 00:00:59.060
+bueno, va a ser 4.
+
+00:00:59.060 --> 00:01:02.840
+entonces, esto es 4 y esto es 8
+
+00:01:02.840 --> 00:01:04.080
+bastante justo.
+
+00:01:04.080 --> 00:01:06.000
+luego ¿qué altura tiene este rectángulo?
+
+00:01:06.000 --> 00:01:08.380
+Comenzamos desde y es igual a cero hasta y es igual a
+
+00:01:08.380 --> 00:01:10.030
+5, entonces es 5.
+
+00:01:10.030 --> 00:01:12.035
+y por supuesto esto es 5 también.
+
+00:01:12.035 --> 00:01:13.450
+terminamos.
+
+00:01:13.450 --> 00:01:14.620
+estamos listos para encontrar el área.
+
+00:01:14.620 --> 00:01:18.730
+el área de la parte del rectángulo es 8 veces 5, eso da 40
+
+00:01:18.730 --> 00:01:23.030
+el área de este triangulo es 5 por 4 por 1/2.
+
+00:01:23.030 --> 00:01:24.690
+si no pusiéramos ese 1/2 entonces estaríamos sacando el área
+
+00:01:24.690 --> 00:01:26.310
+de este rectángulo de aquí.
+
+00:01:26.310 --> 00:01:29.710
+entonces 5 veces 4 es 20 veces 1/2 es 10.
+
+00:01:29.710 --> 00:01:36.050
+entonces el área de las 2 figuras combinadas es 10 más 40 te da 50
+
+00:01:36.050 --> 00:01:37.770
+37
+
+00:01:37.770 --> 00:01:40.380
+la figura acá abajo es un cuadrado con 4
+
+00:01:40.380 --> 00:01:41.615
+paralelogramos congruentes dentro.
+
+00:01:41.615 --> 00:01:43.030
+esto se ve interesante.
+
+00:01:43.030 --> 00:01:46.180
+¿Cuál es el área en unidades cuadradas de la parte sombreada?
+
+00:01:46.180 --> 00:01:50.240
+la parte sombreada es el total del cuadrado menos el área
+
+00:01:50.240 --> 00:01:50.960
+del paralelogramo.
+
+00:01:50.960 --> 00:01:52.780
+entonces todo el cuadrado, eso es fácil, es 12
+
+00:01:52.780 --> 00:01:55.540
+y la altura es 12, pero desde que sabes que es un cuadrado
+
+00:01:55.540 --> 00:01:58.830
+sabemos que el ancho tiene que ser 12.
+
+00:01:58.830 --> 00:02:04.670
+entonces el área total del cuadrado es 144.
+
+00:02:04.670 --> 00:02:06.700
+si sabemos el área de uno de los paralelogramos, sabemos
+
+00:02:06.700 --> 00:02:08.930
+el área de todos los paralelogramos por que estos
+
+00:02:08.930 --> 00:02:10.419
+son congruentes.
+
+00:02:10.419 --> 00:02:12.140
+entonces veamos si podemos encontrar el área de uno de los
+
+00:02:12.140 --> 00:02:13.870
+paralelogramos.
+
+00:02:13.870 --> 00:02:16.840
+en realidad, hay una formula para el área del
+
+00:02:16.840 --> 00:02:18.200
+paralelogramo, es solo
+
+00:02:18.200 --> 00:02:20.360
+la base por la altura.
+
+00:02:20.360 --> 00:02:21.420
+y podemos ver que nos dan eso.
+
+00:02:21.420 --> 00:02:23.600
+pero déjame mostrarte que nos dan eso porque puede que
+
+00:02:23.600 --> 00:02:26.090
+no sea obvio para ti.
+
+00:02:26.090 --> 00:02:28.510
+déjame tratar de dibujarlo.
+
+00:02:28.510 --> 00:02:31.370
+Voy a usar mi herramienta de trazar líneas.
+
+00:02:31.370 --> 00:02:32.900
+no, esa no es mi herramienta de trazar líneas.
+
+00:02:36.260 --> 00:02:41.430
+un lado, luego vas derecho así, bajas así
+
+00:02:41.430 --> 00:02:45.590
+está bien.
+
+00:02:45.590 --> 00:02:49.000
+ok, ahora si miro sólo este paralelogramo, nos dicen
+
+00:02:49.000 --> 00:02:50.320
+que su altura es 3.
+
+00:02:53.280 --> 00:02:54.650
+y yo se que es la altura porque nos dan un ángulo
+
+00:02:54.650 --> 00:02:55.400
+de 90 grados.
+
+00:02:55.400 --> 00:02:58.930
+y nos dicen que la base es 5.
+
+00:02:58.930 --> 00:03:01.250
+y te digo que el área del paralelogramo es
+
+00:03:01.250 --> 00:03:04.340
+sólo la base por la altura, lo que te da 15.
+
+00:03:04.340 --> 00:03:06.010
+pero no deberías tomar mi palabra por eso.
+
+00:03:06.010 --> 00:03:08.000
+deberías tener un sentido intuitivo para ti.
+
+00:03:08.000 --> 00:03:10.970
+y la manera de pensar en eso intuitivamente es imaginar si
+
+00:03:10.970 --> 00:03:17.970
+tuviéramos que tomar esta parte del paralelogramo y que tuviéramos
+
+00:03:17.970 --> 00:03:19.750
+que moverlo hacia acá.
+
+00:03:19.750 --> 00:03:22.710
+si cortáramos eso y lo sacáramos hacia acá.
+
+00:03:22.710 --> 00:03:25.460
+entonces el paralelogramo se vería algo así.
+
+00:03:25.460 --> 00:03:29.250
+Tendrías la parte que no cortamos.
+
+00:03:29.250 --> 00:03:31.250
+y luego mueves la parte que cortaste hasta aquí.
+
+00:03:33.940 --> 00:03:37.230
+y ahora las dimensiones, esta base sería 5 y esta
+
+00:03:37.230 --> 00:03:38.110
+altura sería 3.
+
+00:03:38.110 --> 00:03:41.040
+y el área de este rectángulo es 15.
+
+00:03:41.040 --> 00:03:42.850
+y no existe razón para que el área de ésta sea
+
+00:03:42.850 --> 00:03:43.460
+diferente a ésta
+
+00:03:43.460 --> 00:03:45.240
+acabamos de reorganizar sus partes.
+
+00:03:45.240 --> 00:03:48.130
+es por eso que el área del paralelogramo es la base
+
+00:03:48.130 --> 00:03:49.160
+por la altura.
+
+00:03:49.160 --> 00:03:52.700
+entonces el área de cada uno de estos paralelogramo es 15.
+
+00:03:52.700 --> 00:03:55.050
+entonces el área de todos combinados es 15
+
+00:03:55.050 --> 00:03:56.960
+veces 4, que da 60.
+
+00:03:56.960 --> 00:04:03.655
+entonces 144 menos 60 es 84.
+
+00:04:03.655 --> 00:04:08.250
+y esa es la opción B.
+
+00:04:08.250 --> 00:04:09.680
+problema 38.
+
+00:04:09.680 --> 00:04:11.690
+¿Cuál es el ares en metros cuadrados del
+
+00:04:11.690 --> 00:04:14.000
+trapezoide mostrado?
+
+00:04:14.000 --> 00:04:16.510
+entonces para encontrar el área podemos separarlo en
+
+00:04:16.510 --> 00:04:17.970
+estos rectángulos y triángulos.
+
+00:04:17.970 --> 00:04:19.700
+para encontrar el área de este rectángulo
+
+00:04:19.700 --> 00:04:22.300
+necesitamos saber cual es la altura
+
+00:04:22.300 --> 00:04:26.170
+y en realidad necesitamos encontrar el área de
+
+00:04:26.170 --> 00:04:27.670
+los triángulos también.
+
+00:04:27.670 --> 00:04:30.250
+entonces ¿cuál es la altura aquí?
+
+00:04:30.250 --> 00:04:34.030
+Veamos, sabemos que esta distancia va a ser 6.
+
+00:04:34.030 --> 00:04:35.280
+es un rectángulo
+
+00:04:37.430 --> 00:04:41.550
+si esta distancia es 6 y ambos son 5
+
+00:04:41.550 --> 00:04:44.920
+estos triángulos van a a ser congruentes.
+
+00:04:44.920 --> 00:04:48.090
+porque esta altura es igual a esta altura
+
+00:04:48.090 --> 00:04:51.600
+esta altura es igual a esta altura.
+
+00:04:51.600 --> 00:04:56.590
+entonces también podemos volver este ángulo igual a este ángulo.
+
+00:04:56.590 --> 00:05:01.200
+pero igual, déjame hacerlo en otro color
+
+00:05:01.200 --> 00:05:04.370
+¿cuál es la altura de estas dos partes verdes?
+
+00:05:04.370 --> 00:05:07.180
+vamos a llamarla x
+
+00:05:07.180 --> 00:05:09.460
+bueno sabemos que si ponemos x más 6 más x
+
+00:05:09.460 --> 00:05:10.440
+va a ser igual a 12.
+
+00:05:10.440 --> 00:05:12.070
+toda la parte de arriba
+
+00:05:12.070 --> 00:05:16.850
+entonces tienes x más x es 2x más 6 es igual a 12.
+
+00:05:16.850 --> 00:05:18.410
+2x es igual a 6.
+
+00:05:18.410 --> 00:05:19.840
+x es igual a 3.
+
+00:05:19.840 --> 00:05:21.410
+y tu debes ser capaz de resolver eso en tu mente.
+
+00:05:21.410 --> 00:05:23.990
+que si ésto es 6 y éstas son las mismas entonces ambas
+
+00:05:23.990 --> 00:05:26.630
+van a a ser 3.
+
+00:05:26.630 --> 00:05:28.870
+y ahora podemos usar esa información para encontrar esta
+
+00:05:28.870 --> 00:05:31.170
+altura aquí.
+
+00:05:31.170 --> 00:05:36.230
+porque si sólo dibujamos este triángulo aquí, es
+
+00:05:36.230 --> 00:05:40.970
+3, éste es 5, éste es un lado que no conocemos, a.
+
+00:05:40.970 --> 00:05:42.690
+te acabas de dar cuenta que vamos a usar el
+
+00:05:42.690 --> 00:05:43.390
+teorema de Pitágoras
+
+00:05:43.390 --> 00:05:46.490
+y éste es un tipo de triángulo recto muy típico.
+
+00:05:46.490 --> 00:05:48.390
+entonces quiza ya podemos adivinar cuanto vale a.
+
+00:05:48.390 --> 00:05:49.680
+pero vamos a resolverlo.
+
+00:05:49.680 --> 00:05:54.150
+sabemos que a al cuadrado más 3 al cuadrado es igual a
+
+00:05:54.150 --> 00:05:57.510
+la hipotenusa al cuadrado, el lado opuesto a 90 grados
+
+00:05:57.510 --> 00:06:00.230
+entonces es igual a 25
+
+00:06:00.230 --> 00:06:02.230
+5 al cuadrado es 25
+
+00:06:02.230 --> 00:06:06.020
+a al cuadrado más 9 es igual a 25.
+
+00:06:06.020 --> 00:06:08.190
+a al cuadrado es igual a 16.
+
+00:06:08.190 --> 00:06:10.420
+a es igual a 4.
+
+00:06:10.420 --> 00:06:11.580
+a es igual a 4.
+
+00:06:11.580 --> 00:06:14.260
+y ahora estamos listos para encontrar el área.
+
+00:06:14.260 --> 00:06:15.920
+¿Cuál es el área del rectángulo?
+
+00:06:15.920 --> 00:06:18.140
+6 veces 6 es 24.
+
+00:06:18.140 --> 00:06:20.590
+¿cuál es el área de cada uno de estos triángulos?
+
+00:06:20.590 --> 00:06:23.730
+3 veces 4 por 1/2.
+
+00:06:23.730 --> 00:06:27.020
+3 veces 4 es 12 por 1/2 es 6.
+
+00:06:27.020 --> 00:06:28.620
+entonces el área de ese triángulo es 6.
+
+00:06:28.620 --> 00:06:30.310
+el área de este triángulo es 6
+
+00:06:30.310 --> 00:06:35.050
+entonces 6 más 24 más 6 es 36
+
+00:06:35.050 --> 00:06:36.930
+B.
+
+00:06:36.930 --> 00:06:40.010
+problema 39.
+
+00:06:40.010 --> 00:06:44.660
+¿Cuál es el área en centímetros cuadrados del trángulo abajo?
+
+00:06:44.660 --> 00:06:45.800
+interesante.
+
+00:06:45.800 --> 00:06:48.710
+ok, este es un triángulo equilatero, todos
+
+00:06:48.710 --> 00:06:50.070
+los lados son iguales.
+
+00:06:50.070 --> 00:06:53.270
+y podemos decir que estos dos triángulos
+
+00:06:53.270 --> 00:06:54.790
+son asimétricos.
+
+00:06:54.790 --> 00:06:56.160
+Ésto es igual a ésto
+
+00:06:56.160 --> 00:06:58.820
+y eso lleva a una formula general para el área de
+
+00:06:58.820 --> 00:06:59.330
+un triángulo equilatero
+
+00:06:59.330 --> 00:07:00.770
+Pero resolvámoslo todo.
+
+00:07:00.770 --> 00:07:03.740
+este lado va a ser 5
+
+00:07:03.740 --> 00:07:06.390
+y este va a ser 5
+
+00:07:06.390 --> 00:07:09.810
+y este es 5 y este es 10, ¿qué es este lado de acá?
+
+00:07:09.810 --> 00:07:11.520
+Llamémoslo x.
+
+00:07:11.520 --> 00:07:13.600
+Teorema de Pitágoras
+
+00:07:13.600 --> 00:07:14.520
+esta es la hipotenusa
+
+00:07:14.520 --> 00:07:20.080
+entonces x al cuadrado más 5 al cuadrado más 25 va a ser igual
+
+00:07:20.080 --> 00:07:23.440
+a la hipotenusa al cuadrado, es igual a 100
+
+00:07:23.440 --> 00:07:27.460
+x al cuadrado es igual a 100 menos 25,75.
+
+00:07:27.460 --> 00:07:30.860
+x es igual a la raíz cuadrada de 75
+
+00:07:30.860 --> 00:07:32.900
+75 es 25 por 3.
+
+00:07:32.900 --> 00:07:36.710
+entonces eso es igual a la raíz cuadrada de 25 por 3
+
+00:07:36.710 --> 00:07:39.390
+que es igual a la raíz cuadrada de 25 por
+
+00:07:39.390 --> 00:07:41.830
+la raíz cuadrada de 3
+
+00:07:41.830 --> 00:07:44.250
+que es igual a 5 raíz cuadrada de 3
+
+00:07:48.960 --> 00:07:51.410
+y ahora, ¿cuál es el área de este
+
+00:07:51.410 --> 00:07:52.380
+triángulo recto de aquí?
+
+00:07:52.380 --> 00:07:54.080
+Éste en el lado derecho
+
+00:07:54.080 --> 00:07:57.000
+Bueno su base es 5, su altura es 5 raíz cuadrada de 3
+
+00:07:57.000 --> 00:08:03.310
+entonces va a ser 1/2 por la base, 5, por la altura
+
+00:08:03.310 --> 00:08:06.080
+5 raíz de 3
+
+00:08:06.080 --> 00:08:07.360
+y ¿Ésto que es?
+
+00:08:07.360 --> 00:08:08.730
+1/2 por 5 por 5.
+
+00:08:08.730 --> 00:08:14.380
+te da 25 raíz de 3 sobre 2 y esto es sólo este triangulo
+
+00:08:14.380 --> 00:08:15.460
+de acá.
+
+00:08:15.460 --> 00:08:19.720
+Bueno, este triángulo va a tener exactamente el mismo área.
+
+00:08:19.720 --> 00:08:21.540
+Son triángulos congruentes.
+
+00:08:21.540 --> 00:08:25.530
+Entonces el área de la figura es ésto por 2
+
+00:08:25.530 --> 00:08:29.410
+entonces 2 por aquello es igual a sólo el 25 raíz de 3
+
+00:08:29.410 --> 00:08:33.000
+y es, la alternativa B.
+
+00:08:33.000 --> 00:08:35.700
+siguiente problema, problema 40.
+
+00:08:35.700 --> 00:08:39.600
+El perímetro de dos cuadrados está en una proporción de 4 a 9.
+
+00:08:39.600 --> 00:08:42.250
+¿Cuál es la proporción entre las áreas de los dos cuadrados?
+
+00:08:42.250 --> 00:08:45.630
+Déjame dibujar dos cuadrados
+
+00:08:45.630 --> 00:08:47.300
+Eso es un cuadrado
+
+00:08:47.300 --> 00:08:49.090
+Permíteme dibujar otro cuadrado.
+
+00:08:49.090 --> 00:08:51.610
+Este es el otro cuadrado.
+
+00:08:51.610 --> 00:08:58.210
+Digamos que los lados de ésto son x y los lados de
+
+00:08:58.210 --> 00:08:59.460
+este otro son y.
+
+00:09:01.900 --> 00:09:04.460
+Pues dicen que los perímetros de aquellos dos cuadrados están en una
+
+00:09:04.460 --> 00:09:05.460
+proporción de 4:9.
+
+00:09:05.460 --> 00:09:07.890
+Así que el perímetro del primer cuadrado es 4x.
+
+00:09:07.890 --> 00:09:10.190
+x más x más x más x.
+
+00:09:10.190 --> 00:09:12.770
+Entonces el perímetro del primer cuadrado es 4x.
+
+00:09:12.770 --> 00:09:16.540
+El perímetro del segundo cuadrado es 4y.
+
+00:09:16.540 --> 00:09:18.880
+Así que esa es la relación del perímetro del primer cuadrado
+
+00:09:18.880 --> 00:09:21.400
+al perímetro del segundo cuadrado.
+
+00:09:21.400 --> 00:09:23.600
+Y entonces eso es igual a 4:9.
+
+00:09:28.420 --> 00:09:30.800
+Y dicen. ¿Cuál es la relación entre los áreas de los
+
+00:09:30.800 --> 00:09:31.450
+dos cuadrados?
+
+00:09:31.450 --> 00:09:33.685
+Pues quieren que decifremos el área del primer cuadrado.
+
+00:09:33.685 --> 00:09:36.700
+Es x al cuadrado.
+
+00:09:36.700 --> 00:09:38.630
+La base por la altura, x veces x.
+
+00:09:38.630 --> 00:09:42.580
+Y el área del segundo cuadrado es y veces y.
+
+00:09:42.580 --> 00:09:47.700
+Así que quieren que decifremos cuanto esto nos da.
+
+00:09:47.700 --> 00:09:50.140
+Bien, esto es x al cuadrado sobre y al cuadrado.
+
+00:09:50.140 --> 00:09:55.690
+Esto es lo mismo que x sobre y, al cuadrado.
+
+00:09:55.690 --> 00:09:58.150
+Así que si podemos decifrar lo que resulta de x sobre y, podemos
+
+00:09:58.150 --> 00:10:00.430
+sólo cuadrarlo y obtendríamos x al cuadrado sobre y al cuadrado.
+
+00:10:00.430 --> 00:10:02.290
+Pues tratemos de hacer eso.
+
+00:10:02.290 --> 00:10:03.540
+Así que nos dan ésto.
+
+00:10:06.130 --> 00:10:09.235
+Bueno ésto solamente simplifica.
+
+00:10:09.235 --> 00:10:11.213
+x sobre y es igual a 4 sobre 9
+
+00:10:14.780 --> 00:10:16.210
+Pues sustituyamos eso aquí.
+
+00:10:16.210 --> 00:10:20.360
+Así que x al cuadrado sobre y al cuadrado es igual a x sobre y, al cuadrado.
+
+00:10:20.360 --> 00:10:23.910
+Que es igual a 4/9 al cuadrado.
+
+00:10:23.910 --> 00:10:28.430
+Que es igual a 16 sobre 81.
+
+00:10:28.430 --> 00:10:32.680
+O la relación de los áreas de los dos cuadrados es 16:81.
+
+00:10:32.680 --> 00:10:35.830
+Opción D.
+
+00:10:35.830 --> 00:10:39.060
+Pienso que nos cabe otro problema ahí adentro.
+
+00:10:39.060 --> 00:10:40.330
+Realmente no, ya me pasé de 10 minutos.
+
+00:10:40.330 --> 00:10:41.510
+Me detendré aquí mismo.
+
+00:10:41.510 --> 00:10:43.360
+Nos vemos en el siguiente vídeo.

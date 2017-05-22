@@ -1,0 +1,1426 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.730 --> 00:00:03.540
+El punto en el aprendizaje de las ecuaciones diferenciales es
+
+00:00:03.540 --> 00:00:06.270
+Finalmente queremos modelar sistemas físico real. Lo sé
+
+00:00:06.270 --> 00:00:09.330
+todo lo que hemos hecho hasta ahora ha sido realmente un toolkit
+
+00:00:09.330 --> 00:00:12.390
+de poder resolver ellos, pero la razón toda es que
+
+00:00:12.390 --> 00:00:15.410
+porque las ecuaciones diferenciales puede describir mucho de sistemas,
+
+00:00:15.410 --> 00:00:17.320
+y, a continuación, podemos realmente modelarles de esa manera.
+
+00:00:17.320 --> 00:00:20.750
+Y sabemos que en el mundo real, no todo es estos
+
+00:00:20.750 --> 00:00:23.820
+funciones continuas agradables, así que durante el próximo par de videos
+
+00:00:23.820 --> 00:00:25.890
+vamos a hablar acerca de las funciones que son un poco
+
+00:00:25.890 --> 00:00:28.880
+poco más discontinua que lo podría utilizarse para incluso
+
+00:00:28.880 --> 00:00:31.460
+en tipo de un cálculo tradicional o tradicional
+
+00:00:31.460 --> 00:00:32.880
+Clase precálculo.
+
+00:00:32.880 --> 00:00:36.910
+Y la primera de ellas es la función de paso de la unidad.
+
+00:00:36.910 --> 00:00:39.790
+Vamos a escribirlo como u, y luego voy a poner un poco
+
+00:00:39.790 --> 00:00:43.290
+subíndice c aquí de t.
+
+00:00:43.290 --> 00:00:48.110
+Y se define como cuando t--permítanme decirlo de esta manera.
+
+00:00:48.110 --> 00:00:52.150
+Se define como 0 cuando t es menor que--cualquier subíndice
+
+00:00:52.150 --> 00:00:55.220
+Pongo aquí--cuando t es menor que c.
+
+00:00:55.220 --> 00:00:58.380
+Y se define como 1--que por eso lo llamamos el paso de la unidad
+
+00:00:58.380 --> 00:01:02.900
+función: cuando t es mayor o igual a c.
+
+00:01:02.900 --> 00:01:05.700
+Y si tenía la gráfica de esto y podrían graficar así
+
+00:01:05.700 --> 00:01:07.030
+pero no es demasiado difícil de la gráfica.
+
+00:01:07.030 --> 00:01:10.622
+Permítanme llamar mi eje x aquí.
+
+00:01:10.622 --> 00:01:13.010
+Y voy a hacer una pequeña línea más gruesa.
+
+00:01:13.010 --> 00:01:15.490
+Esa es mi eje x allí.
+
+00:01:15.490 --> 00:01:20.430
+Este es mi eje y allí.
+
+00:01:22.990 --> 00:01:25.380
+Y cuando hablamos de las transformaciones de Laplace, que hablaremos
+
+00:01:25.380 --> 00:01:28.400
+unos poco, sólo cuidamos t es mayor que 0.
+
+00:01:28.400 --> 00:01:30.090
+Ya vimos, en nuestra definición de la Laplace
+
+00:01:30.090 --> 00:01:32.510
+transformación, siempre estamos tomando la integral de 0 a
+
+00:01:32.510 --> 00:01:34.360
+infinito, por lo que sólo estamos tratando con
+
+00:01:34.360 --> 00:01:36.470
+el eje x positivo.
+
+00:01:36.470 --> 00:01:39.160
+Pero de todos modos, según esta definición, sería cero
+
+00:01:39.160 --> 00:01:43.970
+todo el camino hasta llegar a algún valor c, por lo que sería cero
+
+00:01:43.970 --> 00:01:45.400
+hasta llegar a c.
+
+00:01:45.400 --> 00:01:49.460
+Y luego a c, saltas, y el punto c se incluye x es
+
+00:01:49.460 --> 00:01:51.220
+igual a c aquí.
+
+00:01:51.220 --> 00:01:53.070
+Así que ha incluido, por lo que voy a poner un punto, porque tiene
+
+00:01:53.070 --> 00:01:54.300
+mayor o igual a c.
+
+00:01:54.300 --> 00:01:57.040
+Usted está en 1, así que esto es 1 aquí.
+
+00:01:57.040 --> 00:01:59.790
+Y luego te vas hacia adelante para todo tiempo.
+
+00:01:59.790 --> 00:02:01.960
+Y usted es como la Sal, usted acaba de decir ese diferencial
+
+00:02:01.960 --> 00:02:05.100
+ecuaciones, estamos aprendiendo cosas de modelo, por qué es este tipo
+
+00:02:05.100 --> 00:02:06.760
+¿de una función útil?
+
+00:02:06.760 --> 00:02:08.580
+Pues bien, en el mundo real, a veces tienes
+
+00:02:08.580 --> 00:02:11.100
+algo que esencialmente rebota algo, que se mueve
+
+00:02:11.100 --> 00:02:12.790
+desde esta posición para esa posición.
+
+00:02:12.790 --> 00:02:15.450
+Y obviamente, nada puede mover inmediatamente como este,
+
+00:02:15.450 --> 00:02:18.650
+pero es posible que tenga algún sistema, podría ser un
+
+00:02:18.650 --> 00:02:22.580
+sistema eléctrico o mecánico, donde tal vez
+
+00:02:22.580 --> 00:02:25.000
+el comportamiento se ve algo como esto, donde tal vez se
+
+00:02:25.000 --> 00:02:26.680
+se mueve como ese o algo.
+
+00:02:26.680 --> 00:02:30.090
+Y esta función es una muy buena aproximación analítica
+
+00:02:30.090 --> 00:02:32.490
+algún tipo de comportamiento del mundo real como esto cuando
+
+00:02:32.490 --> 00:02:33.920
+algo sólo obtiene movido.
+
+00:02:33.920 --> 00:02:36.010
+Cuando resolvemos estas ecuaciones diferenciales
+
+00:02:36.010 --> 00:02:38.540
+analíticamente, realmente sólo estamos tratando de conseguir un puro
+
+00:02:38.540 --> 00:02:39.730
+modelo de algo.
+
+00:02:39.730 --> 00:02:42.610
+Finalmente, veremos que no describe perfectamente
+
+00:02:42.610 --> 00:02:44.730
+las cosas, sino que ayuda a describirlo suficiente para poder obtener un
+
+00:02:44.730 --> 00:02:47.040
+sentido de lo que va a suceder.
+
+00:02:47.040 --> 00:02:49.820
+A veces completamente describirá las cosas, pero de todas formas,
+
+00:02:49.820 --> 00:02:53.220
+podemos ignorar por ahora, así que permítanme deshacerse de estas cosas
+
+00:02:53.220 --> 00:02:54.030
+allí.
+
+00:02:54.030 --> 00:02:56.180
+Así que la primera pregunta es, bueno, usted sabe, qué pasa si
+
+00:02:56.180 --> 00:02:58.000
+¿algo no jar sólo como ese?
+
+00:02:58.000 --> 00:03:03.500
+¿Qué pasa si quiero construir más funciones de la unidad de fantasía o
+
+00:03:03.500 --> 00:03:05.270
+¿más funciones de fancy paso?
+
+00:03:05.270 --> 00:03:07.470
+Digamos que quería construir algo que
+
+00:03:07.470 --> 00:03:09.350
+parecía esto.
+
+00:03:09.350 --> 00:03:13.940
+Permítanme decir que esto es mi eje y.
+
+00:03:13.940 --> 00:03:16.310
+Este es mi eje x.
+
+00:03:16.310 --> 00:03:18.700
+Y digamos que quería construir algo que es
+
+00:03:18.700 --> 00:03:23.820
+en--y quiero hacerlo en un color diferente.
+
+00:03:23.820 --> 00:03:29.935
+Digamos que es en 2 hasta llegar a pi.
+
+00:03:33.450 --> 00:03:40.410
+Y luego desde pi hasta forever sólo permanece en cero.
+
+00:03:40.410 --> 00:03:45.290
+Entonces, ¿cómo podría construir esta función derecha aquí utilizando mi
+
+00:03:45.290 --> 00:03:47.350
+¿función de escalón unidad?
+
+00:03:47.350 --> 00:03:51.940
+Así que qué pasa si había escrito como--así que paso de mi unidad
+
+00:03:51.940 --> 00:03:57.630
+función de cero inicialmente, así que qué pasa si hago menos 2 un
+
+00:03:57.630 --> 00:04:04.100
+¿función de escalón unidad que comienza en pi?
+
+00:04:06.770 --> 00:04:10.710
+Así que si defino mi función aquí, ¿funciona?
+
+00:04:10.710 --> 00:04:13.250
+Bien, esta función de paso de la unidad, cuando pasamos pi, sólo va
+
+00:04:13.250 --> 00:04:14.970
+igual a 1, pero queremos que esta cosa
+
+00:04:14.970 --> 00:04:15.900
+ser igual a cero.
+
+00:04:15.900 --> 00:04:18.820
+Por lo que tiene que ser 2 menos 2, por lo que voy a tener que poner en 2 aquí,
+
+00:04:18.820 --> 00:04:20.010
+y esto debería funcionar.
+
+00:04:20.010 --> 00:04:26.730
+Cuando estamos en cualquier valor por debajo de la pi, cuando t es menor que pi
+
+00:04:26.730 --> 00:04:29.970
+aquí, esto se convierte en un cero, por lo que nuestra función será justo
+
+00:04:29.970 --> 00:04:32.870
+evaluar a 2, que está allí.
+
+00:04:32.870 --> 00:04:36.490
+Pero tan pronto como nos alcanzaron t es igual a pi, pi es el c
+
+00:04:36.490 --> 00:04:40.050
+en este ejemplo, tan pronto como nos alcanzaron, la unidad de paso
+
+00:04:40.050 --> 00:04:41.150
+función se convierte en 1.
+
+00:04:41.150 --> 00:04:45.120
+Tenemos multiplicar por 2, y tenemos 2 2 negativo y luego
+
+00:04:45.120 --> 00:04:48.650
+Aquí terminan con cero,
+
+00:04:48.650 --> 00:04:50.810
+Ahora, que puede ser agradable y todo, pero digamos que le
+
+00:04:50.810 --> 00:04:54.610
+querido para que pueda volver a subir.
+
+00:04:54.610 --> 00:05:03.600
+Digamos que en vez de me deja ir como este--tipo
+
+00:05:03.600 --> 00:05:07.180
+de que borrar por sobregirar el eje x de nuevo--queremos la
+
+00:05:07.180 --> 00:05:09.510
+función para saltar de nuevo.
+
+00:05:09.510 --> 00:05:10.860
+Queremos que saltar de nuevo.
+
+00:05:10.860 --> 00:05:14.150
+Y permite decir en algún valor, digamos es 2pi, queremos
+
+00:05:14.150 --> 00:05:16.210
+la función para saltar de nuevo.
+
+00:05:16.210 --> 00:05:18.920
+¿Cómo podríamos construir?
+
+00:05:18.920 --> 00:05:20.630
+Y nosotros podríamos hacerla saltar a nada, pero digamos que nos
+
+00:05:20.630 --> 00:05:22.410
+Queremos que salta de vuelta al 2.
+
+00:05:22.410 --> 00:05:25.290
+Bueno, sólo podríamos añadir otra función de paso de la unidad
+
+00:05:25.290 --> 00:05:28.810
+aquí, algo que habría sido cero todo el tiempo, todos
+
+00:05:28.810 --> 00:05:30.270
+el camino hasta este punto.
+
+00:05:30.270 --> 00:05:34.160
+Pero luego en 2pi, Salta, en este caso,
+
+00:05:34.160 --> 00:05:36.475
+nuestro c sería 2pi.
+
+00:05:36.475 --> 00:05:38.670
+Esa es nuestra función de paso de unidad, y queremos que salte a 2.
+
+00:05:38.670 --> 00:05:40.430
+Esto sólo sería saltar a 1 por sí mismo.
+
+00:05:40.430 --> 00:05:42.070
+Así que vamos a multiplicarlo por 2.
+
+00:05:42.070 --> 00:05:43.480
+Y ahora tenemos esta función.
+
+00:05:43.480 --> 00:05:45.780
+Por lo que podría imaginar, puede hacer un arbitrariamente
+
+00:05:45.780 --> 00:05:49.180
+función complicada de cosas saltando arriba y abajo para
+
+00:05:49.180 --> 00:05:52.260
+diferentes niveles basados en diferentes esencialmente lineal
+
+00:05:52.260 --> 00:05:54.720
+combinaciones de estas funciones de paso de la unidad.
+
+00:05:54.720 --> 00:05:56.090
+Ahora, qué pasa si yo quería hacer algo
+
+00:05:56.090 --> 00:05:57.030
+¿Fancier un poco?
+
+00:05:57.030 --> 00:05:59.990
+¿Qué pasa si quería hacer algo--digamos
+
+00:05:59.990 --> 00:06:05.420
+tienen alguna función que tiene este aspecto.
+
+00:06:05.420 --> 00:06:07.756
+Permítanme llamar alguna función.
+
+00:06:07.756 --> 00:06:09.340
+Debo llamar la recta que.
+
+00:06:09.340 --> 00:06:11.950
+Debo tener algunas normas.
+
+00:06:11.950 --> 00:06:16.860
+Así que vamos a decir que sólo mi f regular de t--
+
+00:06:16.860 --> 00:06:18.740
+Permítanme, esto es x.
+
+00:06:18.740 --> 00:06:20.030
+En realidad, ¿por qué estoy haciendo x?
+
+00:06:20.030 --> 00:06:21.700
+Este sería el eje de t.
+
+00:06:21.700 --> 00:06:22.940
+Estamos haciendo el dominio del tiempo.
+
+00:06:22.940 --> 00:06:24.100
+Podría haber sido x.
+
+00:06:24.100 --> 00:06:26.720
+Y entonces llamaremos esta f de t.
+
+00:06:26.720 --> 00:06:29.590
+Así que permítanme señalar algunos f arbitraria de t.
+
+00:06:29.590 --> 00:06:32.160
+Digamos que mi función se ve algo loco como ese.
+
+00:06:35.100 --> 00:06:37.980
+Este es mi f de t.
+
+00:06:37.980 --> 00:06:39.680
+¿Qué sucede si estoy modelado de un sistema físico
+
+00:06:39.680 --> 00:06:40.910
+¿que no hacerlo?
+
+00:06:40.910 --> 00:06:45.260
+Que realmente en algún punto--bueno, en realidad, vamos a decirlo
+
+00:06:45.260 --> 00:06:47.330
+permanece en cero.
+
+00:06:47.330 --> 00:06:51.050
+Permanece en cero hasta cierto valor.
+
+00:06:51.050 --> 00:06:53.405
+Digamos llega a cero hasta--no sé, iré
+
+00:06:53.405 --> 00:06:55.190
+volver a llamar que c.
+
+00:06:55.190 --> 00:06:57.870
+Y luego a c, f de t tipo de pone en marcha.
+
+00:06:57.870 --> 00:07:03.140
+Tan derecho a c, f de t debe poner en marcha, por lo que sólo tipo de
+
+00:07:03.140 --> 00:07:05.620
+es este.
+
+00:07:05.620 --> 00:07:09.270
+Así que básicamente lo que tenemos aquí es una combinación de cero
+
+00:07:09.270 --> 00:07:13.860
+completamente, y entonces tenemos un desplazado f de t.
+
+00:07:13.860 --> 00:07:18.600
+En c, tenemos un desplazado f de t, así que cambia esa forma.
+
+00:07:18.600 --> 00:07:21.960
+Entonces, ¿cómo podemos construir esta función amarilla, donde es
+
+00:07:21.960 --> 00:07:25.150
+esencialmente una versión cambiada de esta función verde, pero
+
+00:07:25.150 --> 00:07:26.960
+¿es la cero por debajo de c?
+
+00:07:26.960 --> 00:07:29.020
+Esta función verde podría han continuado.
+
+00:07:29.020 --> 00:07:31.320
+Podría haber ido algo como esto.
+
+00:07:31.320 --> 00:07:34.325
+Podría haber, continuó y hacer algo loco, pero lo que
+
+00:07:34.325 --> 00:07:38.460
+hicimos es nos cambió de aquí para allá y luego nos
+
+00:07:38.460 --> 00:07:40.440
+cero todo antes de c.
+
+00:07:40.440 --> 00:07:41.870
+Entonces, ¿cómo podríamos hacerlo?
+
+00:07:41.870 --> 00:07:44.880
+Bueno, simplemente cambiando esta función, que ha aprendido en
+
+00:07:44.880 --> 00:07:47.940
+su álgebra II o tus clases Precálculo, cambiar
+
+00:07:47.940 --> 00:07:51.620
+una función de c a la derecha, solo para reemplazar su t
+
+00:07:51.620 --> 00:07:52.970
+con un t-c.
+
+00:07:52.970 --> 00:07:59.790
+Así que esta función aquí es f de t-c.
+
+00:07:59.790 --> 00:08:02.960
+Y para asegurarse de que hacer las cosas bien, yo lo que hago siempre es
+
+00:08:02.960 --> 00:08:06.270
+imaginar, OK, ¿qué va a pasar cuando t es igual a c?
+
+00:08:06.270 --> 00:08:10.400
+Cuando t es igual a c, vas a tener un c menos un c,
+
+00:08:10.400 --> 00:08:13.030
+y vas a tener f 0.
+
+00:08:13.030 --> 00:08:15.840
+Así f 0, debe ser el mismo.
+
+00:08:15.840 --> 00:08:19.270
+Así que cuando t es igual a c, este valor, el valor de la
+
+00:08:19.270 --> 00:08:22.560
+función debe ser equivalente al valor del original
+
+00:08:22.560 --> 00:08:25.850
+función verde en cero, por lo que es equivalente a ese valor,
+
+00:08:25.850 --> 00:08:27.110
+que tiene sentido.
+
+00:08:27.110 --> 00:08:31.110
+Si subimos uno más c arriba, así que vamos a decir este es uno más
+
+00:08:31.110 --> 00:08:36.650
+superior c, así que llegamos a este punto, si t es c + 1, entonces
+
+00:08:36.650 --> 00:08:40.390
+cuando pones c plus 1-c, sólo tienes f 1 y f de
+
+00:08:40.390 --> 00:08:42.970
+1 es realmente justo este punto aquí.
+
+00:08:42.970 --> 00:08:45.650
+Y así va a ser que f 1, así que tiene sentido.
+
+00:08:45.650 --> 00:08:48.390
+Así como nos movemos hacia uno adelante aquí, estamos esencialmente en el
+
+00:08:48.390 --> 00:08:52.350
+misma función valor como estábamos allí, así que el cambio funciona.
+
+00:08:52.350 --> 00:08:55.320
+Pero he dicho que tenemos que también--si sólo pasó esto
+
+00:08:55.320 --> 00:08:58.080
+función, que todas esas otras cosas, porque le
+
+00:08:58.080 --> 00:08:59.700
+habría tenido todas esas cosas cuando la función fue
+
+00:08:59.700 --> 00:09:02.500
+aquí todavía en curso.
+
+00:09:02.500 --> 00:09:03.770
+La función--te llamo lo
+
+00:09:03.770 --> 00:09:05.810
+ligeramente--todavía continuaría.
+
+00:09:05.810 --> 00:09:08.330
+Pero dijo que quería a cero esta función
+
+00:09:08.330 --> 00:09:10.390
+antes de llegar c.
+
+00:09:10.390 --> 00:09:12.800
+¿Cómo puedo cero esa función?
+
+00:09:12.800 --> 00:09:14.950
+Bueno, creo que es bastante obvio para usted.
+
+00:09:14.950 --> 00:09:17.750
+Empecé este video hablando de la función de paso de la unidad.
+
+00:09:17.750 --> 00:09:19.680
+Así que qué pasa si multiplique el paso de la unidad
+
+00:09:19.680 --> 00:09:21.280
+¿función veces esta cosa?
+
+00:09:21.280 --> 00:09:22.990
+¿Qué va a pasar?
+
+00:09:22.990 --> 00:09:26.870
+Así que qué pasa si me--mi nueva función, llamarlo la unidad
+
+00:09:26.870 --> 00:09:35.130
+¿función de paso hasta c t veces f de t-c?
+
+00:09:35.130 --> 00:09:37.210
+¿Qué va a pasar?
+
+00:09:37.210 --> 00:09:41.300
+Hasta que llegamos a c, la función de paso de la unidad es cero cuando
+
+00:09:41.300 --> 00:09:42.250
+es menor que c.
+
+00:09:42.250 --> 00:09:44.700
+Así que vas a tener cero veces no importa lo que esta
+
+00:09:44.700 --> 00:09:48.070
+es cero veces nada es cero, por lo que esta función es
+
+00:09:48.070 --> 00:09:50.260
+va a ser cero.
+
+00:09:50.260 --> 00:09:53.900
+Una vez que c, la función de paso de la unidad se convierte en 1.
+
+00:09:53.900 --> 00:09:57.710
+Una vez que pase c, esto se convierte en un 1, y sólo eres
+
+00:09:57.710 --> 00:09:59.320
+izquierda con 1 veces su función.
+
+00:09:59.320 --> 00:10:01.520
+Entonces su función puede comportarse como le gustaría
+
+00:10:01.520 --> 00:10:03.450
+se comportan, y realmente lo cambió.
+
+00:10:03.450 --> 00:10:06.410
+Este t-c es lo que realmente cambió este verde
+
+00:10:06.410 --> 00:10:08.210
+función más a la derecha.
+
+00:10:08.210 --> 00:10:09.760
+Y esto realmente va a ser un muy
+
+00:10:09.760 --> 00:10:14.630
+función útil de construcción.
+
+00:10:14.630 --> 00:10:17.110
+Y en un segundo, wer'e va a averiguar la Laplace
+
+00:10:17.110 --> 00:10:19.820
+transformar esto y vas a apreciar, creo,
+
+00:10:19.820 --> 00:10:22.220
+por eso esta es una función útil para mirar.
+
+00:10:22.220 --> 00:10:26.800
+Pero ahora por lo menos entiendes lo que es y por qué se
+
+00:10:26.800 --> 00:10:30.000
+esencialmente una función se desplaza y ceros todo lo
+
+00:10:30.000 --> 00:10:32.520
+antes de ese punto.
+
+00:10:32.520 --> 00:10:36.140
+Bueno, le dije que esta es una función útil, así que nos
+
+00:10:36.140 --> 00:10:39.480
+debe agregar su transformada de Laplace a nuestra biblioteca de
+
+00:10:39.480 --> 00:10:42.720
+De Laplace.
+Así que vamos a hacer eso.
+
+00:10:42.720 --> 00:10:49.410
+Tomemos un la transformada de Laplace de esto, de la unidad
+
+00:10:49.410 --> 00:10:50.670
+función de paso hasta c.
+
+00:10:50.670 --> 00:10:52.840
+Lo estoy haciendo en términos bastante generales. En el siguiente video,
+
+00:10:52.840 --> 00:10:56.200
+vamos a hacer un montón de ejemplos donde podemos aplicar esto, pero
+
+00:10:56.200 --> 00:10:58.300
+al menos deberíamos demostrar a nosotros mismos qué la Laplace
+
+00:10:58.300 --> 00:11:01.000
+es la transformación de esta cosa.
+
+00:11:01.000 --> 00:11:04.400
+Bueno, la transformada de Laplace de nada, ni nuestra definición de
+
+00:11:04.400 --> 00:11:09.260
+hasta ahora, es la integral de 0 a infinito del e de la
+
+00:11:09.260 --> 00:11:12.630
+menos st veces nuestra función.
+
+00:11:12.630 --> 00:11:18.240
+Por lo que nuestra función en este caso es la función de paso de la unidad, u
+
+00:11:18.240 --> 00:11:24.950
+Sub c de t veces f de t menos c dt.
+
+00:11:24.950 --> 00:11:26.530
+Y este parece muy general.
+
+00:11:26.530 --> 00:11:29.670
+Parece muy difícil evaluar esta integral al principio, pero
+
+00:11:29.670 --> 00:11:32.540
+tal vez podemos hacer algún tipo de una sustitución de obtenerlo en
+
+00:11:32.540 --> 00:11:33.860
+un término que podemos apreciar.
+
+00:11:33.860 --> 00:11:36.940
+Así que vamos a hacer una sustitución aquí.
+
+00:11:36.940 --> 00:11:40.690
+Me permiten elegir una variable agradable trabajar con.
+
+00:11:40.690 --> 00:11:42.370
+No sé, no estamos utilizando una x en cualquier lugar.
+
+00:11:42.370 --> 00:11:43.440
+Así podríamos usar una x.
+
+00:11:43.440 --> 00:11:47.980
+Eso es lo más divertido variable para trabajar con.
+
+00:11:47.980 --> 00:11:50.325
+A veces, verás en muchas clases de matemáticas,
+
+00:11:50.325 --> 00:11:53.060
+introducir estos alfabetos latinos locos y por sí mismo
+
+00:11:53.060 --> 00:11:54.660
+hace difícil de entender.
+
+00:11:54.660 --> 00:11:59.510
+Asi me gusta permanecer lejos de los alfabetos latinos locos,
+
+00:11:59.510 --> 00:12:01.180
+tan sólo usaremos una x regular.
+
+00:12:01.180 --> 00:12:02.120
+Vamos a hacer un sustituto.
+
+00:12:02.120 --> 00:12:08.790
+Supongamos que x es igual a t menos c.
+
+00:12:08.790 --> 00:12:11.560
+O usted podría, si añadimos t a ambos lados, podríamos decir que
+
+00:12:11.560 --> 00:12:14.700
+t es igual a x plus c.
+
+00:12:14.700 --> 00:12:16.600
+Veamos lo que ocurre a nuestro subsitution.
+
+00:12:16.600 --> 00:12:19.220
+Y también, si tomamos la derivada de ambos lados del
+
+00:12:19.220 --> 00:12:22.360
+Esto, o me imagino que el diferencial, se obtendría dx
+
+00:12:22.360 --> 00:12:23.965
+es igual a dt.
+
+00:12:23.965 --> 00:12:27.460
+O sea, si tomaste dx con respecto al dt, se obtendría
+
+00:12:27.460 --> 00:12:30.040
+a igual a 1. c es simplemente una constante.
+
+00:12:30.040 --> 00:12:32.900
+Entonces si usted multiplica ambos lados por dt, obtendrá dx es
+
+00:12:32.900 --> 00:12:35.700
+igual a dt, y es un buen sustituto.
+
+00:12:35.700 --> 00:12:37.610
+Así que lo que nuestra integral va a ser con esto
+
+00:12:37.610 --> 00:12:39.100
+¿sustitución?
+
+00:12:39.100 --> 00:12:42.670
+Así que nuestra integral esto fue t es igual a 0 para
+
+00:12:42.670 --> 00:12:44.520
+t es igual a infinito.
+
+00:12:44.520 --> 00:12:51.880
+¿Cuando t es igual a 0, lo que es x va a ser igual a?
+
+00:12:51.880 --> 00:12:57.080
+Bueno, x va a ser igual al menos c.
+
+00:12:57.080 --> 00:13:00.170
+En realidad, antes de ir allí, me deja realmente dar un paso
+
+00:13:00.170 --> 00:13:03.350
+de nuevo, porque nos podríamos progresar.
+
+00:13:03.350 --> 00:13:04.720
+Podríamos ir en esta dirección.
+
+00:13:04.720 --> 00:13:09.150
+Pero nosotros podríamos realmente simplificarlo más antes de que lo hacemos.
+
+00:13:09.150 --> 00:13:11.680
+Vamos a ir hacia atrás para salida integral original antes de que incluso hicimos
+
+00:13:11.680 --> 00:13:13.010
+nuestra sustitución.
+
+00:13:13.010 --> 00:13:15.680
+Si estamos tomando la integral de 0 a infinito de este
+
+00:13:15.680 --> 00:13:18.290
+cosa, ya dijimos lo que gusta este look integral
+
+00:13:18.290 --> 00:13:20.750
+o ¿como este aspecto de la función?
+
+00:13:20.750 --> 00:13:21.750
+Es la cero.
+
+00:13:21.750 --> 00:13:26.870
+Tenemos esta función de escalón unidad sentado aquí.
+
+00:13:26.870 --> 00:13:29.650
+Tenemos la función de escalón unidad sentado allí.
+
+00:13:29.650 --> 00:13:31.980
+Por lo tanto esta expresión toda va a ser cero
+
+00:13:31.980 --> 00:13:33.980
+hasta que llegamos a c.
+
+00:13:33.980 --> 00:13:36.220
+Todo esto, por definición, este paso de la unidad
+
+00:13:36.220 --> 00:13:38.400
+función es cero hasta llegar a c.
+
+00:13:38.400 --> 00:13:40.400
+Así que este todo va a estar en cero
+
+00:13:40.400 --> 00:13:41.940
+hasta que llegamos a c.
+
+00:13:41.940 --> 00:13:44.890
+Así que básicamente podríamos decir, sabes, no tenemos que
+
+00:13:44.890 --> 00:13:48.010
+tomar la integral de igual t 0 t es igual a infinito.
+
+00:13:48.010 --> 00:13:52.540
+Podríamos tomar la integral--me deja escribirlo aquí.
+
+00:13:52.540 --> 00:13:54.450
+Sólo usaré ese antiguo signo integral.
+
+00:13:54.450 --> 00:13:59.070
+Sólo podríamos tomar la integral de t es igual a c
+
+00:13:59.070 --> 00:14:05.790
+t es igual a infinito de e a la menos st, el paso de la unidad
+
+00:14:05.790 --> 00:14:12.280
+función, uc de t veces f de t menos c dt.
+
+00:14:12.280 --> 00:14:16.990
+De hecho, en este punto, esta función de escalón unidad, tiene no
+
+00:14:16.990 --> 00:14:18.280
+ya en uso.
+
+00:14:18.280 --> 00:14:23.210
+Porque antes de t es igual a c, es igual a 0, y ahora que estamos
+
+00:14:23.210 --> 00:14:26.090
+sólo preocupados por valores superiores a c, es igual a 1, por lo que
+
+00:14:26.090 --> 00:14:28.440
+es igual a 1 en este contexto.
+
+00:14:28.440 --> 00:14:30.240
+Quiero dejar muy claro a usted.
+
+00:14:30.240 --> 00:14:31.320
+¿Qué hacer aquí?
+
+00:14:31.320 --> 00:14:35.340
+He cambiado nuestro límite inferior de 0 c.
+
+00:14:35.340 --> 00:14:37.550
+Y creo que te das cuenta de por qué lo hice cuando estaba
+
+00:14:37.550 --> 00:14:40.270
+trabajar con la sustitución, porque esto simplificará
+
+00:14:40.270 --> 00:14:42.090
+cosas si hacemos esto antes de tiempo.
+
+00:14:42.090 --> 00:14:45.550
+Así que si tenemos esta función de paso de la unidad, esta cosa va
+
+00:14:45.550 --> 00:14:49.960
+a cero esta integral toda antes de llegar a c.
+
+00:14:49.960 --> 00:14:51.950
+Recuerde, esta integral definida es realmente sólo la
+
+00:14:51.950 --> 00:14:56.060
+área bajo la curva de esta función entera, de la unidad
+
+00:14:56.060 --> 00:14:57.980
+función escalón veces todas estas cosas.
+
+00:14:57.980 --> 00:15:00.200
+Todas estas cosas, cuando multiplicamos, va a ser
+
+00:15:00.200 --> 00:15:03.050
+cero hasta llegar a algunos c valor.
+
+00:15:03.050 --> 00:15:05.620
+Y luego por encima de c, va a ser negativo st veces
+
+00:15:05.620 --> 00:15:06.760
+f de t-c.
+
+00:15:06.760 --> 00:15:08.820
+Así que va a empezar a hacer todas esas cosas locas.
+
+00:15:08.820 --> 00:15:12.610
+Así que si queremos esencialmente encontrar el área bajo esta
+
+00:15:12.610 --> 00:15:16.840
+curva, podemos ignorar todo lo que sucede antes de c.
+
+00:15:16.840 --> 00:15:19.520
+Así que en lugar de ir de t es igual a 0 hasta el infinito, podemos
+
+00:15:19.520 --> 00:15:22.640
+Go de t es igual a c hasta el infinito porque no había ninguna
+
+00:15:22.640 --> 00:15:25.540
+área antes t era igual a c.
+
+00:15:25.540 --> 00:15:26.960
+Eso es todo que lo hice aquí.
+
+00:15:26.960 --> 00:15:28.920
+Y luego la otra cosa que me dice es el paso de la unidad
+
+00:15:28.920 --> 00:15:34.640
+función, va a ser 1 sobre toda la gama de
+
+00:15:34.640 --> 00:15:38.420
+t-valores potenciales, por lo que nosotros podemos sólo tipo de ignoran.
+
+00:15:38.420 --> 00:15:41.370
+Sólo va a ser 1 todo este tiempo, así que nuestra integral
+
+00:15:41.370 --> 00:15:46.380
+simplifica a la integral definida de t es igual a c
+
+00:15:46.380 --> 00:15:53.440
+t es igual a infinito e negativo st veces f de t
+
+00:15:53.440 --> 00:15:56.025
+menos es dt c.
+
+00:15:56.025 --> 00:15:58.030
+Y Esto simplificará un buen bit.
+
+00:15:58.030 --> 00:15:59.600
+Estaba bajando el otro camino cuando hice el
+
+00:15:59.600 --> 00:16:01.830
+sustitución en primer lugar, que habría funcionado, pero creo que
+
+00:16:01.830 --> 00:16:04.750
+el argumento de por qué pude haber cambiado los límites
+
+00:16:04.750 --> 00:16:06.760
+habría sido un argumento difícil de hacer.
+
+00:16:06.760 --> 00:16:09.900
+Así que ahora que teníamos esto, vamos a regresar y hacer
+
+00:16:09.900 --> 00:16:13.760
+sustitución que x es igual a t menos c.
+
+00:16:13.760 --> 00:16:17.340
+Por lo que se convierte en nuestra integral--lo haré en verde--cuando t es
+
+00:16:17.340 --> 00:16:18.990
+igual a c, ¿qué es x?
+
+00:16:18.990 --> 00:16:20.950
+¿Entonces x es 0, correcto?
+
+00:16:20.950 --> 00:16:22.440
+c-c es 0.
+
+00:16:22.440 --> 00:16:24.680
+Cuando t es igual a infinito, ¿qué es x?
+
+00:16:24.680 --> 00:16:26.720
+Bien x es, sabes, infinito menos cualquier constante es todavía
+
+00:16:26.720 --> 00:16:29.460
+va a ser infinito, o si el límite es de enfoques de t
+
+00:16:29.460 --> 00:16:32.920
+infinito, x todavía va a ser infinito aquí.
+
+00:16:32.920 --> 00:16:37.100
+Y es la integral de e a la s menos, pero ahora en su lugar
+
+00:16:37.100 --> 00:16:39.245
+de t, tenemos la sustitución.
+
+00:16:39.245 --> 00:16:42.530
+Si decimos que x es igual a t menos c, entonces sólo podemos añadir
+
+00:16:42.530 --> 00:16:45.660
+c a ambos lados y t get es igual a x plus c.
+
+00:16:45.660 --> 00:16:53.830
+Para obtener x c allí y luego veces la función f de t
+
+00:16:53.830 --> 00:16:58.230
+menos c, pero hemos dicho t-c es lo mismo que x.
+
+00:16:58.230 --> 00:17:00.370
+Y dt es que la misma cosa es dx.
+
+00:17:00.370 --> 00:17:05.460
+Le mostré ese derecho, así podemos escribir esto como dx.
+
+00:17:05.460 --> 00:17:08.700
+Ahora esto está empezando a mirar un poco más interesante.
+
+00:17:08.700 --> 00:17:10.780
+¿Qué es este igual?
+
+00:17:10.780 --> 00:17:14.730
+Esto es igual a la integral de 0 a infinito--permítanme
+
+00:17:14.730 --> 00:17:23.579
+expandir este fuera--de e a la sx menos menos sc
+
+00:17:23.579 --> 00:17:28.240
+veces f x DX.
+
+00:17:28.240 --> 00:17:30.360
+Ahora, ¿qué es igual a?
+
+00:17:30.360 --> 00:17:34.500
+Bien, podríamos factor de una e a la sc negativo y llevarlo
+
+00:17:34.500 --> 00:17:36.300
+fuera de la integral, porque esto no tiene nada que hacer
+
+00:17:36.300 --> 00:17:39.150
+con lo que estamos tomando la integral con respecto a.
+
+00:17:39.150 --> 00:17:39.970
+Así que vamos a hacer eso.
+
+00:17:39.970 --> 00:17:44.530
+Permítanme tomar a este chico fuera y tal vez sólo para no confundir
+
+00:17:44.530 --> 00:17:45.600
+Permítanme reescribir todo el asunto.
+
+00:17:45.600 --> 00:17:46.650
+0 hasta el infinito.
+
+00:17:46.650 --> 00:17:50.010
+Yo podía reescribir este término e como e--realmente, permítanme
+
+00:17:50.010 --> 00:17:51.460
+escribirlo de esta manera.
+
+00:17:51.460 --> 00:17:55.930
+Voy a hacer lo que ya estaba en verde como e a la sx negativo
+
+00:17:55.930 --> 00:18:00.820
+veces e a la sc negativo.
+
+00:18:00.820 --> 00:18:01.860
+Base común.
+
+00:18:01.860 --> 00:18:05.800
+Así que si multiplicar estos dos, solo podría añadir el
+
+00:18:05.800 --> 00:18:10.430
+exponentes, que se obtendría que arriba,
+
+00:18:10.430 --> 00:18:14.580
+f de x, d de x.
+
+00:18:14.580 --> 00:18:17.200
+Este es un término constante con respecto a x, por lo que nosotros podemos sólo
+
+00:18:17.200 --> 00:18:18.720
+factor hacia afuera.
+
+00:18:18.720 --> 00:18:22.350
+Nosotros sólo podemos factor esta cosa bien allí, entonces usted
+
+00:18:22.350 --> 00:18:28.290
+llegar e a la sc menos veces la integral de 0 a
+
+00:18:28.290 --> 00:18:37.810
+infinidad de e a la sx menos veces f x DX.
+
+00:18:37.810 --> 00:18:40.090
+¿Ahora, qué estábamos haciendo aquí todo el tiempo?
+
+00:18:40.090 --> 00:18:49.070
+Nos estábamos tomando la transformada de Laplace de la unidad de paso
+
+00:18:49.070 --> 00:18:51.950
+función que va hasta c, y luego es la 0 hasta c, y
+
+00:18:51.950 --> 00:18:58.000
+la 1 después de eso, de t veces algunos cambió de función
+
+00:18:58.000 --> 00:19:01.680
+f de t-c.
+
+00:19:01.680 --> 00:19:05.720
+Y ahora tenemos como igual a esta cosa y nosotros
+
+00:19:05.720 --> 00:19:06.710
+hizo una sustitución.
+
+00:19:06.710 --> 00:19:08.490
+Hemos simplificado un poco.
+
+00:19:08.490 --> 00:19:16.610
+e a la sc menos veces la integral de 0 a infinito de
+
+00:19:16.610 --> 00:19:21.600
+e negativo sx f x DX.
+
+00:19:21.600 --> 00:19:24.180
+Algo acerca de la pastilla no funciona correctamente derecho
+
+00:19:24.180 --> 00:19:26.290
+alrededor de este período.
+
+00:19:26.290 --> 00:19:30.920
+Pero esto debería ser interesante para usted.
+
+00:19:30.920 --> 00:19:32.600
+¿Qué es esto?
+
+00:19:32.600 --> 00:19:35.470
+Se trata de la transformada de Laplace de f de x.
+
+00:19:35.470 --> 00:19:36.280
+Permítanme anote.
+
+00:19:36.280 --> 00:19:40.610
+Lo la Laplace de--bueno, pude escribir como
+
+00:19:40.610 --> 00:19:42.640
+f de t o f de x.
+
+00:19:42.640 --> 00:19:46.910
+La transformada de Laplace de f de t es igual a la integral
+
+00:19:46.910 --> 00:19:55.680
+de 0 a infinito e negativo st veces f de t dt.
+
+00:19:55.680 --> 00:19:58.040
+Esto y esto están exactamente lo mismo.
+
+00:19:58.040 --> 00:19:59.520
+Aquí sólo estamos utilizando un t.
+
+00:19:59.520 --> 00:20:00.960
+Estamos utilizando una x aquí.
+
+00:20:00.960 --> 00:20:01.790
+No hay diferencia.
+
+00:20:01.790 --> 00:20:03.910
+Son solo letras.
+
+00:20:03.910 --> 00:20:06.490
+Esto es f de t.
+
+00:20:06.490 --> 00:20:08.870
+e para el st menos veces f de t dt.
+
+00:20:08.870 --> 00:20:11.270
+Yo pude haber también reescrito como el Laplace
+
+00:20:11.270 --> 00:20:14.970
+transformación de f de t.
+
+00:20:14.970 --> 00:20:17.790
+Podría escribir esto como la integral de 0 a infinito de
+
+00:20:17.790 --> 00:20:24.470
+e a la sy menos veces f y dy.
+
+00:20:24.470 --> 00:20:25.930
+Podría hacerlo por nada porque esto
+
+00:20:25.930 --> 00:20:26.740
+es una integral definida.
+
+00:20:26.740 --> 00:20:28.330
+El y van a desaparecer,
+
+00:20:28.330 --> 00:20:29.190
+y hemos visto.
+
+00:20:29.190 --> 00:20:32.500
+Todos te dejan con es una función de s.
+
+00:20:32.500 --> 00:20:35.910
+Esto termina siendo algún capital, bueno, usted sabe, nos
+
+00:20:35.910 --> 00:20:39.140
+podría escribir alguna función capital de s.
+
+00:20:39.140 --> 00:20:40.060
+Esto es interesante.
+
+00:20:40.060 --> 00:20:44.680
+Se trata de la transformada de Laplace de f de t veces algunos escala
+
+00:20:44.680 --> 00:20:48.060
+factor, y eso es lo que nos propusimos para mostrar.
+
+00:20:48.060 --> 00:20:54.790
+Así que podemos ahora mostrar que la transformada de Laplace de la unidad
+
+00:20:54.790 --> 00:21:02.700
+veces función de paso algunos función t-c es igual a
+
+00:21:02.700 --> 00:21:07.870
+Esta función aquí, e a la sc negativo, donde está este c
+
+00:21:07.870 --> 00:21:11.650
+lo mismo que este c aquí, veces la Laplace
+
+00:21:11.650 --> 00:21:13.740
+transformación de f de t.
+
+00:21:13.740 --> 00:21:17.370
+Veces la transformada de Laplace--no sé qué está pasando
+
+00:21:17.370 --> 00:21:21.450
+con la tableta derecho allí--de f de t.
+
+00:21:21.450 --> 00:21:22.100
+Permítanme escribir.
+
+00:21:22.100 --> 00:21:25.450
+Esto es equivalente a--porque está viendo gracioso allí--e
+
+00:21:25.450 --> 00:21:32.540
+a la sc menos veces la transformada de Laplace de f de t.
+
+00:21:32.540 --> 00:21:33.865
+Este es nuestro resultado.
+
+00:21:37.660 --> 00:21:39.740
+Ahora, ¿qué significa esto?
+
+00:21:39.740 --> 00:21:42.290
+Oh, mira lo había rellenada lo de alguna manera.
+
+00:21:42.290 --> 00:21:43.180
+¿Qué significa esto?
+
+00:21:43.180 --> 00:21:45.285
+¿Qué podemos hacer con esto?
+
+00:21:45.285 --> 00:21:50.420
+Bien, digamos que queríamos averiguar el Laplace
+
+00:21:50.420 --> 00:21:53.910
+transformación de la unidad de paso funcionan
+
+00:21:53.910 --> 00:21:56.200
+se inicia en pi de t.
+
+00:21:56.200 --> 00:21:59.430
+Y digamos que estamos tomando algo que sabemos bien:
+
+00:21:59.430 --> 00:22:05.510
+seno de t menos pi.
+
+00:22:05.510 --> 00:22:08.570
+¿Modo que hemos cambiado, derecha?
+
+00:22:08.570 --> 00:22:10.750
+Esta cosa está funcionando realmente bien en este momento
+
+00:22:10.750 --> 00:22:11.450
+aquí.
+
+00:22:11.450 --> 00:22:14.600
+Me deja ponerla en pausa.
+
+00:22:14.600 --> 00:22:15.440
+Sólo me detuve.
+
+00:22:15.440 --> 00:22:16.890
+Lo siento si fue un poco desconcertante.
+
+00:22:16.890 --> 00:22:19.420
+Sólo me detuve el video porque resultaba difícil
+
+00:22:19.420 --> 00:22:21.950
+grabación en algún momento en mi junta poco.
+
+00:22:21.950 --> 00:22:25.130
+Así que permítanme reescribir lo que demostramos justo ahora.
+
+00:22:25.130 --> 00:22:29.430
+Hemos mostrado la transformada de Laplace de la unidad de paso
+
+00:22:29.430 --> 00:22:34.520
+función de t, y pasa a 1 en algunos c valor veces algunos
+
+00:22:34.520 --> 00:22:38.820
+función que se desplaza por c hacia la derecha.
+
+00:22:38.820 --> 00:22:43.770
+Es igual a e para los cs menos veces la transformada de Laplace
+
+00:22:43.770 --> 00:22:45.520
+sólo la función escribe.
+
+00:22:45.520 --> 00:22:46.400
+Ese fue nuestro resultado.
+
+00:22:46.400 --> 00:22:48.630
+Ese fue el gran punto de este video.
+
+00:22:48.630 --> 00:22:51.550
+Y si esto parece como a algunos bizantino, difícil de entender
+
+00:22:51.550 --> 00:22:53.630
+resultado, nosotros podemos aplicarlo.
+
+00:22:53.630 --> 00:22:55.930
+Así que vamos a decir la transformada de Laplace, esto es lo que estaba
+
+00:22:55.930 --> 00:23:01.080
+justo antes de la tableta de pluma real comenzada
+
+00:23:01.080 --> 00:23:01.920
+un mal funcionamiento.
+
+00:23:01.920 --> 00:23:04.500
+Si queremos tomar la transformada de Laplace de la unidad de paso
+
+00:23:04.500 --> 00:23:09.610
+función que va a 1 en pi, t veces la función seno
+
+00:23:09.610 --> 00:23:15.220
+desplazado por pi a la derecha, sabemos que esto va a ser
+
+00:23:15.220 --> 00:23:19.320
+igual a e para los cs negativos.
+
+00:23:19.320 --> 00:23:24.700
+c en este caso es pi, así que menos pi veces s la Laplace
+
+00:23:24.700 --> 00:23:27.760
+transformación de la función escribe.
+
+00:23:27.760 --> 00:23:29.030
+Así que en este caso, es el Laplace
+
+00:23:29.030 --> 00:23:32.300
+transformación de seno de t.
+
+00:23:32.300 --> 00:23:36.460
+Y sabemos lo que es la transformada de Laplace de seno de t.
+
+00:23:36.460 --> 00:23:41.250
+Es sólo 1 sobre s squared plus 1.
+
+00:23:41.250 --> 00:23:43.770
+Por lo tanto la Laplace de esta cosa aquí, que antes
+
+00:23:43.770 --> 00:23:47.720
+Este video me pareció algo loco, ahora sabemos
+
+00:23:47.720 --> 00:23:49.090
+es que este momento esto.
+
+00:23:49.090 --> 00:23:53.380
+Por lo que es e negativo pi veces s esto, o nosotros podríamos sólo
+
+00:23:53.380 --> 00:23:58.900
+escritura como e negativo pi s sobre s squared plus 1.
+
+00:23:58.900 --> 00:24:00.990
+Vamos a hacer un par de ejemplos más de esto en los próximos
+
+00:24:00.990 --> 00:24:02.900
+vídeo, dónde vamos y hacia atrás entre la Laplace
+
+00:24:02.900 --> 00:24:05.950
+mundo y la t y entre el dominio de s
+
+00:24:05.950 --> 00:24:06.810
+y el dominio del tiempo.
+
+00:24:06.810 --> 00:24:10.730
+Y te voy a mostrar cómo este es un resultado muy útil para tomar una
+
+00:24:10.730 --> 00:24:13.910
+muchas transformaciones de Laplace y a invertir mucho de Laplace
+
+00:24:13.910 --> 00:24:15.160
+transforma.

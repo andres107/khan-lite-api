@@ -1,0 +1,768 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.144 --> 00:00:03.019
+Creo que estamos listos para aprender un poco acerca de
+
+00:00:03.019 --> 00:00:05.005
+las reacciones "oscuras"
+
+00:00:05.005 --> 00:00:07.709
+Pero sólo para recordar donde estamos en todo este esquema de
+
+00:00:07.709 --> 00:00:13.347
+la fotosíntesis, los fotones vienen y excitan electrones en
+
+00:00:13.347 --> 00:00:15.249
+la clorofila en las reacciones lumínicas
+
+00:00:15.249 --> 00:00:17.730
+y a medida que estos fotones bajan y bajan sus niveles de energía
+
+00:00:17.745 --> 00:00:19.945
+(como vimos en el video pasado)
+
+00:00:19.945 --> 00:00:22.255
+A medida que ellos bajan y bajan sus niveles de energía
+
+00:00:22.255 --> 00:00:25.521
+y todo esto estaba aconteciendo en la membrana tilacoidal
+
+00:00:25.521 --> 00:00:28.228
+como vemos aquí, puedes imaginarlo (déjame hacerlo en otro color)
+
+00:00:28.228 --> 00:00:30.267
+Puedes imaginarlo, ocurriendo aquí mismo
+
+00:00:30.267 --> 00:00:32.544
+A medida que ellos bajan y bajan sus niveles de energía
+
+00:00:32.565 --> 00:00:33.698
+dos cosas ocurren
+
+00:00:33.698 --> 00:00:37.406
+Primero, la liberación de energía es capaz de bombear hidrógenos
+
+00:00:37.406 --> 00:00:38.585
+a través de esta membrana
+
+00:00:38.585 --> 00:00:41.137
+Y luego, tienes una alta concentración de hidrógenos
+
+00:00:41.137 --> 00:00:44.680
+los cuales van a através del ATP sintasa y conducen
+
+00:00:44.726 --> 00:00:46.880
+este motor para producir ATP
+
+00:00:46.895 --> 00:00:49.762
+Y luego, el aceptor final de electrones
+
+00:00:49.762 --> 00:00:51.973
+o aceptor de hidrógeno, depende de como quieras llamarlo
+
+00:00:51.973 --> 00:00:55.255
+Todo el átomo de hidrógeno era NAD+.
+
+00:00:55.255 --> 00:00:59.944
+Entonces, los dos subproductos, o los dos que vamos
+
+00:00:59.944 --> 00:01:04.049
+a continuar usando en la fotosíntesis a partir de nuestro ciclo de luz
+
+00:01:04.049 --> 00:01:06.988
+A partir de nuestras reacciones lumínicas
+
+00:01:06.988 --> 00:01:09.042
+(No debí llamarlas "ciclo de luz" )
+
+00:01:09.042 --> 00:01:13.026
+Escribí aquí ATP y NADPH
+
+00:01:13.026 --> 00:01:16.174
+Y luego, el subproducto era el que necesitábamos (el electrón)
+
+00:01:16.174 --> 00:01:18.043
+para reemplazar el primer electrón excitado
+
+00:01:18.074 --> 00:01:19.805
+Lo sacamos del agua
+
+00:01:19.805 --> 00:01:22.801
+y así también producimos oxígeno, el cual es un subproducto
+
+00:01:22.801 --> 00:01:24.780
+de gran valor en esta reacción.
+
+00:01:24.780 --> 00:01:30.095
+Pero ahora, que tenemos ATP y NADPH, estamos listos para
+
+00:01:30.095 --> 00:01:32.237
+avanzar hacia las reacciones "oscuras"
+
+00:01:32.237 --> 00:01:34.152
+Y quiero resaltar de nuevo que aunque sean llamadas
+
+00:01:34.152 --> 00:01:37.407
+reacciones "oscuras" , no quiere decir que ocurran en la noche
+
+00:01:37.407 --> 00:01:40.262
+De hecho, ocurren al mismo tiempo que las reacciones lumínicas
+
+00:01:40.262 --> 00:01:43.067
+Ocurren cuando el sol está presente
+
+00:01:43.067 --> 00:01:45.182
+La razón por la cual son llamadas reacciones "oscuras"
+
+00:01:45.182 --> 00:01:47.113
+es que son independientes de la luz
+
+00:01:47.113 --> 00:01:49.074
+Ellas no requieren fotones
+
+00:01:49.074 --> 00:01:54.218
+Sólo requieren ATP, NADPH y dióxido de carbono
+
+00:01:54.218 --> 00:01:56.447
+Observemos lo que esta ocurriendo acá un poco mejor
+
+00:01:56.447 --> 00:01:58.816
+Voy a bajar un poco en donde tengo
+
+00:01:58.816 --> 00:02:01.958
+algo de espacio libre
+
+00:02:01.958 --> 00:02:03.935
+Entonces, tenemos nuestras reacciones lumínicas,
+
+00:02:03.966 --> 00:02:13.893
+y estas producen , (como lo repasamos) algo de
+
+00:02:13.893 --> 00:02:19.946
+ATP y algo de NADPH
+
+00:02:19.946 --> 00:02:27.218
+Y ahora vamos a tomar dióxido de carbono de la atmósfera
+
+00:02:27.248 --> 00:02:31.652
+y todo esto irá dentro de, (lo llamaré las reacciones independientes de luz)
+
+00:02:31.652 --> 00:02:35.983
+porque es confuso llamarlas reacciones "oscuras"
+
+00:02:36.045 --> 00:02:44.111
+Entonces, en las reacciones independientes de la luz,
+
+00:02:44.111 --> 00:02:47.549
+el mecanismo es llamado el ciclo de Calvin.
+
+00:02:47.549 --> 00:02:49.839
+Este es el tema principal de este video
+
+00:02:49.932 --> 00:02:57.763
+Entran dentro del ciclo de Calvin y generan lo que
+
+00:02:57.778 --> 00:02:59.509
+puedes llamar como PGAL
+
+00:02:59.509 --> 00:03:03.785
+(hablamos de el en el primer video) ,o G3P
+
+00:03:03.785 --> 00:03:06.278
+Esto es, gliceraldehido 3-fosfato.
+
+00:03:06.278 --> 00:03:10.144
+Esto es fosfogliceraldehido, son la misma molécula
+
+00:03:10.144 --> 00:03:12.965
+solamente con nombres diferentes .
+
+00:03:12.965 --> 00:03:15.643
+Y puedes imaginarlo como una cadena de 3 carbonos
+
+00:03:15.643 --> 00:03:19.637
+con un grupo fosfato.
+
+00:03:19.637 --> 00:03:22.748
+Y entonces esto puede ser usado para construir otros
+
+00:03:22.748 --> 00:03:25.695
+carbohidratos, pones dos de estos juntos y puedes obtener glucosa
+
+00:03:25.703 --> 00:03:28.431
+Tal vez recuerdes, que en el primer paso de la glucólisis
+
+00:03:28.431 --> 00:03:31.478
+o la primera vez que cortamos una molécula de glucosa
+
+00:03:31.478 --> 00:03:35.040
+obteníamos dos moléculas de fosfogliceraldehido
+
+00:03:35.040 --> 00:03:36.617
+La glucosa tiene seis carbonos
+
+00:03:36.617 --> 00:03:37.594
+este tiene trés.
+
+00:03:37.594 --> 00:03:42.422
+Estudiemos el ciclo de Calvin en un poco de detalle.
+
+00:03:42.422 --> 00:03:51.680
+Digamos que, saliendo de las reacciones lumínicas,
+
+00:03:51.680 --> 00:03:54.447
+tenemos seis dióxidos de carbono
+
+00:03:54.447 --> 00:03:57.006
+Entonces, estas son las reacciones independientes de la luz
+
+00:03:57.006 --> 00:03:58.752
+Y te mostraré por qué estoy usando estos números.
+
+00:03:58.752 --> 00:04:00.468
+No tengo que utilizarlos exactamente.
+
+00:04:00.468 --> 00:04:03.708
+Digamos que comienzo con seis CO2
+
+00:04:03.708 --> 00:04:06.138
+Y puedo escribir CO2 porque realmente nos importa
+
+00:04:06.138 --> 00:04:07.546
+lo que ocurra con el carbono.
+
+00:04:07.546 --> 00:04:09.962
+Podemos escribirlo como un sólo carbono que tiene
+
+00:04:09.962 --> 00:04:11.478
+dos oxígenos en el, lo cual puedo dibujar.
+
+00:04:11.478 --> 00:04:13.208
+Pero no lo haré ahora mismo.
+
+00:04:13.208 --> 00:04:15.118
+Porque quiero mostrarte realmente lo que ocurre
+
+00:04:15.118 --> 00:04:16.511
+con los carbonos.
+
+00:04:16.511 --> 00:04:18.134
+Tal vez, debería poner esto de amarillo,
+
+00:04:18.134 --> 00:04:19.572
+para mostrarte sólo los carbonos.
+
+00:04:19.572 --> 00:04:21.559
+No te estoy mostrando los oxígenos aquí.
+
+00:04:21.559 --> 00:04:29.421
+Y lo que ocurre es que el CO2, los seis CO2,
+
+00:04:29.421 --> 00:04:34.904
+reaccionan con ( y voy a hablar un poco de esta reacción)
+
+00:04:34.904 --> 00:04:38.569
+reaccionan con seis moléculas
+
+00:04:38.569 --> 00:04:41.634
+( y esto va a parecer algo extraño para tí)
+
+00:04:41.634 --> 00:04:45.458
+de esta molécula que puedes llamar RuBP.
+
+00:04:45.458 --> 00:04:48.739
+Que es la abreviación de ribulosa bifosfato.
+
+00:04:48.739 --> 00:04:52.240
+A veces, es llamada ribulosa 1,5-bifosfato.
+
+00:04:52.240 --> 00:04:54.374
+Y la razón por la cual se llama así es porque,
+
+00:04:54.374 --> 00:04:59.917
+es una molécula de cinco carbonos.
+
+00:04:59.917 --> 00:05:02.749
+Y tiene un grupo fosfato en los carbonos 1 y 5.
+
+00:05:02.780 --> 00:05:06.388
+De ahí es ribulosa bifosfato
+
+00:05:06.388 --> 00:05:12.518
+O a veces, ribulosa 1 (déjame escribir esto), es el
+
+00:05:12.518 --> 00:05:16.649
+primer carbono, 5- bifosfato.
+
+00:05:16.649 --> 00:05:18.303
+tenemos dos fosfatos.
+
+00:05:18.303 --> 00:05:20.902
+Entonces es ribulosa 1,5 bifosfato.
+
+00:05:20.902 --> 00:05:23.354
+Nombre elegante, pero es tan sólo una cadena pentacarbonada
+
+00:05:23.354 --> 00:05:25.008
+con 2 fosfatos en ella.
+
+00:05:25.008 --> 00:05:27.892
+Estos dos reaccionan juntos,
+
+00:05:27.892 --> 00:05:33.138
+(y esto es una simplificación,
+
+00:05:33.138 --> 00:05:34.454
+hay mucho mas ocurriendo aquí, pero
+
+00:05:34.454 --> 00:05:36.200
+(quiero dejarte la idea general)
+
+00:05:36.200 --> 00:05:45.767
+para formar, 12 moléculas de PGAL o fosfogliceraldehido
+
+00:05:45.767 --> 00:05:52.285
+o gliceraldehido 3-fosfato de PGAL, el cual puedes ver
+
+00:05:52.285 --> 00:06:01.328
+como un ( el tiene trés carbonos y un grupo fosfato)
+
+00:06:01.328 --> 00:06:04.081
+Y sólo para asegurarnos que estamos contando los carbonos apropiadamente
+
+00:06:04.081 --> 00:06:06.884
+vamos a pensar en lo que ocurre.
+
+00:06:06.884 --> 00:06:09.034
+Tenemos dos de estos,
+
+00:06:09.034 --> 00:06:13.065
+entonces tenemos 36 carbonos (12 por 3)
+
+00:06:13.065 --> 00:06:14.965
+¿Comenzamos con 36 carbonos?
+
+00:06:14.965 --> 00:06:16.804
+Bien, tenemos 6 por 5 carbonos.
+
+00:06:16.804 --> 00:06:18.917
+Esto es 30, mas otros 6 de aquí.
+
+00:06:18.917 --> 00:06:21.032
+Entonces, sí comenzamos con 36 carbonos.
+
+00:06:21.032 --> 00:06:25.552
+Ellos reaccionan entre ellos para formar PGAL.
+
+00:06:25.629 --> 00:06:29.220
+Los enlaces o electrones en esta moléculas están en un nivel de
+
+00:06:29.220 --> 00:06:32.393
+energía mas alto que los electrones de esta molécula.
+
+00:06:32.393 --> 00:06:34.278
+Entonces tenemos que proveer energía para que así
+
+00:06:34.278 --> 00:06:35.778
+la reacción se lleve a cabo.
+
+00:06:35.778 --> 00:06:37.920
+eso no ocurre espontaneamente,
+
+00:06:37.920 --> 00:06:40.924
+y la energía de esta reacción
+
+00:06:40.924 --> 00:06:43.850
+si nosotros usamos los números 6 y 6, la energía
+
+00:06:43.850 --> 00:06:49.305
+de esta reacción viene de 12 ATPs
+
+00:06:49.305 --> 00:06:55.134
+(puedes imaginar 2 ATP para cada carbono y cada ribulosa bifosfato)
+
+00:06:55.134 --> 00:07:03.664
+y 12 NADPH.
+
+00:07:03.664 --> 00:07:05.241
+No quiero que te confundas
+
+00:07:05.241 --> 00:07:07.669
+( es muy similar al NADH, pero no quiero que lo confundas
+
+00:07:07.669 --> 00:07:09.015
+con lo que ocurre en la respiración)
+
+00:07:09.015 --> 00:07:16.867
+Y estos quedan como 12 ADP más 12 grupos fosfato.
+
+00:07:16.867 --> 00:07:25.902
+Y luego tendrás 12 NADP+.
+
+00:07:25.902 --> 00:07:27.987
+Y esta es la razón por la cual es una fuente de energía,
+
+00:07:27.987 --> 00:07:30.227
+los electrones en el NADPH , o puedes decir
+
+00:07:30.227 --> 00:07:32.363
+el hidrógeno con el electrón en el NADPH,
+
+00:07:32.363 --> 00:07:33.663
+está en un nivel de energía mas alto,
+
+00:07:33.663 --> 00:07:35.502
+entonces a medida que baja su nivel de energía,
+
+00:07:35.502 --> 00:07:37.109
+el ayuda a conducir la reacción-
+
+00:07:37.109 --> 00:07:40.584
+Y por supuesto cuando los ATP pierden sus grupos fosfato,
+
+00:07:40.584 --> 00:07:42.376
+estos electrones están en un nivel alto de energía,
+
+00:07:42.376 --> 00:07:44.518
+y entran a un nivel de energía más bajo, y esto ayuda
+
+00:07:44.518 --> 00:07:46.172
+a llevar la reacción,
+
+00:07:46.172 --> 00:07:47.687
+ayudan a poner energía en la reacción.
+
+00:07:47.687 --> 00:07:50.877
+Entonces tenemos estos 12PGALs.
+
+00:07:50.877 --> 00:07:53.261
+La razón por la cual es llamado ciclo de Calvin
+
+00:07:53.261 --> 00:07:55.847
+(así como puedes imaginarlo), estudiamos el ciclo de Krebs.
+
+00:07:55.847 --> 00:07:58.137
+Los ciclos comienzan reutilizando cosas.
+
+00:07:58.137 --> 00:08:00.406
+La razón por la cual es llamado ciclo de Calvin, es porque
+
+00:08:00.406 --> 00:08:04.029
+se reutilizan la mayoría de estos PGAL.
+
+00:08:04.060 --> 00:08:13.003
+Entonces de los 12 PGAL, usaremos 10
+
+00:08:13.003 --> 00:08:15.847
+(permíteme hacerlo de este modo)
+
+00:08:15.847 --> 00:08:18.694
+Entonces tenemos 10 PGAL
+
+00:08:18.694 --> 00:08:23.431
+10 fosfogliceraldehidos, 10 PGAL, los cuales usaremos
+
+00:08:23.431 --> 00:08:26.481
+para volver a crear la ribulosa bifosfato.
+
+00:08:26.481 --> 00:08:27.704
+Y el conteo funciona.
+
+00:08:27.704 --> 00:08:29.810
+Porque tenemos 10 moléculas de 3 carbonos.
+
+00:08:29.810 --> 00:08:31.495
+Esto es 30 carbonos,
+
+00:08:31.495 --> 00:08:33.804
+y luego tenemos 6 moléculas de 5 carbonos.
+
+00:08:33.804 --> 00:08:35.104
+Esto es 30 carbonos,
+
+00:08:35.104 --> 00:08:36.881
+Pero esto, requiere energía nuevamente.
+
+00:08:36.881 --> 00:08:42.116
+Esto tomará la energía de 6 ATPs.
+
+00:08:42.116 --> 00:08:46.403
+Entonces, tenemos 6 ATP perdiendo su grupo fosfato.
+
+00:08:46.403 --> 00:08:49.050
+Los electrones entran a un nivel más bajo de energía
+
+00:08:49.050 --> 00:08:50.550
+y esto hace que se dé la reacción.
+
+00:08:50.550 --> 00:08:56.028
+Y tendrás 6 ADP mas 6 grupos fosfato que son liberados.
+
+00:08:56.028 --> 00:08:57.728
+Y así lo ves como un ciclo.
+
+00:08:57.728 --> 00:09:00.282
+pero, la pregunta es, bueno, yo usé todos estos,
+
+00:09:00.282 --> 00:09:01.597
+¿Qué obtengo de esto?
+
+00:09:01.597 --> 00:09:03.680
+Y bueno, usé 10 de los 12.
+
+00:09:03.680 --> 00:09:09.264
+De ahí tengo 2 PGAL restantes.
+
+00:09:09.280 --> 00:09:11.382
+Y estos pueden ser usados.
+
+00:09:11.382 --> 00:09:15.191
+Y la razón por la que usé 6 y 6 y obtengo 12 aquí,
+
+00:09:15.191 --> 00:09:17.968
+y 2 aquí, y la razón por la que tengo 2 aquí es porque
+
+00:09:17.968 --> 00:09:23.154
+2 PGAL pueden ser usados para hacer glucosa
+
+00:09:23.154 --> 00:09:26.342
+la cual es una molécula de 6 carbonos.
+
+00:09:26.357 --> 00:09:31.089
+Su fórmula, como lo vimos anteriormente es C6H12O6.
+
+00:09:31.089 --> 00:09:34.624
+Pero es importante recordar que no tiene que tener sólo
+
+00:09:34.624 --> 00:09:38.020
+glucosa, puede generar carbohidratos de cadenas más largas
+
+00:09:38.020 --> 00:09:39.105
+y almidones
+
+00:09:39.105 --> 00:09:41.386
+cualquier cosa que tenga un esqueleto de carbono.
+
+00:09:41.386 --> 00:09:43.602
+Y estas son las reacciones "oscuras"
+
+00:09:43.602 --> 00:09:47.225
+somos capaces de coger los subproductos de las
+
+00:09:47.225 --> 00:09:50.863
+reacciones lumínicas, el ATP y el NADH
+
+00:09:50.863 --> 00:09:52.071
+( Hay más ATP acá)
+
+00:09:52.117 --> 00:09:54.881
+y usarlos para fijar carbono.
+
+00:09:54.881 --> 00:09:56.734
+A esto se le llama fijación del carbono.
+
+00:09:56.734 --> 00:09:59.992
+Cuando tomas carbono en forma gaseosa y lo pones
+
+00:09:59.992 --> 00:10:04.206
+en una estructura sólida, es llamado fijación del carbono.
+
+00:10:04.206 --> 00:10:07.642
+entonces, a través de este ciclo de Calvin podemos
+
+00:10:07.642 --> 00:10:10.430
+fijar carbono y la energía proviene de las moléculas
+
+00:10:10.430 --> 00:10:12.458
+generadas a partir de las reacciones lumínicas.
+
+00:10:12.458 --> 00:10:14.959
+Y por supuesto, es llamado ciclo, porque generamos
+
+00:10:14.959 --> 00:10:17.504
+estos PGAL, algunos de los cuales pueden ser usados
+
+00:10:17.504 --> 00:10:21.884
+para producir Glucosa, pero muchos de ellos continúan
+
+00:10:21.884 --> 00:10:25.089
+para ser reciclados en ribulosa bifosfato
+
+00:10:25.089 --> 00:10:28.277
+la cual nuevamente, reacciona con el dióxido de carbono
+
+00:10:28.277 --> 00:10:31.246
+Y tienes el ciclo ocurriendo una y otra vez.
+
+00:10:31.246 --> 00:10:33.413
+Hemos dicho que esto no ocurre en una aspiradora,
+
+00:10:33.413 --> 00:10:39.903
+el lugar donde esto ocurre es en el estroma
+
+00:10:39.903 --> 00:10:41.849
+En el fluido que está dentro del cloroplasto
+
+00:10:41.849 --> 00:10:44.330
+pero afuera del tilacoide.
+
+00:10:44.330 --> 00:10:47.364
+Es en el estroma donde ocurren las reacciones
+
+00:10:47.364 --> 00:10:50.304
+independientes de la luz
+
+00:10:50.304 --> 00:10:55.570
+Y no sólo ocurre con el ADP y el NADPH
+
+00:10:55.570 --> 00:10:58.243
+Hay una enzima o proteina de tamaño
+
+00:10:58.243 --> 00:11:00.801
+moderadamente decente que facilita esto,
+
+00:11:00.801 --> 00:11:03.031
+permite al dióxido de carbono enlazarse en
+
+00:11:03.031 --> 00:11:06.249
+ciertos puntos de la ribulosa bifosfato y el ATP para
+
+00:11:06.249 --> 00:11:08.216
+reaccionar en ciertos puntos, para conducir estas dos
+
+00:11:08.216 --> 00:11:10.594
+moléculas a reaccionar.
+
+00:11:10.594 --> 00:11:15.404
+Y a esta enzima a veces se le llama RuBisCO
+
+00:11:15.404 --> 00:11:17.134
+Te diré porque se llama RuBisCO.
+
+00:11:17.134 --> 00:11:19.788
+Esta es la RuBisCO
+
+00:11:19.788 --> 00:11:30.119
+Ribulosa-1,5-bisfosfato carboxilasa oxigenasa
+
+00:11:30.119 --> 00:11:31.680
+Y esta es su apariencia
+
+00:11:31.680 --> 00:11:34.656
+es una proteina enzimática bastante grande
+
+00:11:34.656 --> 00:11:37.860
+puedes imaginar que tienes tu ribulosa bisfosfato
+
+00:11:37.860 --> 00:11:39.806
+enlazandose en un punto
+
+00:11:39.806 --> 00:11:41.691
+Tienes dióxido de carbono enlazandose en otro punto
+
+00:11:41.691 --> 00:11:43.191
+No se cuales puntos serán.
+
+00:11:43.191 --> 00:11:45.821
+ATP enlazandose en otro punto.
+
+00:11:45.821 --> 00:11:47.044
+Reaccionan
+
+00:11:47.044 --> 00:11:50.461
+Esto hace que esta cosa gire y de vuelta en cierta forma
+
+00:11:50.461 --> 00:11:53.326
+para hacer que la ribulosa bifosfato
+
+00:11:53.326 --> 00:11:55.694
+reaccione con el dióxido de carbono.
+
+00:11:55.694 --> 00:11:57.753
+NADPH puede estar reaccionando en otras partes
+
+00:11:57.783 --> 00:12:01.096
+y esto es lo que facilita el ciclo de Calvin.
+
+00:12:01.096 --> 00:12:07.574
+Te he dicho que esta RuBP, esto es
+
+00:12:07.574 --> 00:12:13.017
+ribulosa-1,5-bisfosfato. Esta RuBisCO,
+
+00:12:13.109 --> 00:12:14.532
+el nombre corto para
+
+00:12:14.532 --> 00:12:18.726
+ribulosa-1,5-bisfosfato carboxilasa oxigenasa
+
+00:12:18.726 --> 00:12:20.265
+No lo escribiré todo, puedes verlo aquí mismo.
+
+00:12:20.265 --> 00:12:23.396
+Pero sólo es para decirte que es una enzima que es usada
+
+00:12:23.396 --> 00:12:28.017
+para reaccionar con carbono y ribulosa-1,5-bisfosfato.
+
+00:12:28.017 --> 00:12:31.128
+Ahora hemos terminado con fotosíntesis.
+
+00:12:31.128 --> 00:12:36.008
+Podemos comenzar con fotones y agua para producir
+
+00:12:36.008 --> 00:12:40.338
+ATP y NADPH pues teníamos esos electrones excitados
+
+00:12:40.338 --> 00:12:45.547
+Teníamos toda la quimiosmosis para conducir la formación
+
+00:12:45.547 --> 00:12:48.124
+de ATP con ayuda de la ATP sintasa.
+
+00:12:48.124 --> 00:12:50.849
+NADPH fue el aceptor final de electrones.
+
+00:12:50.849 --> 00:12:53.403
+Estos son usados luego como combustible en el
+
+00:12:53.403 --> 00:12:55.164
+ciclo de Calvin, en las reacciones "oscuras"
+
+00:12:55.164 --> 00:12:56.387
+Las cuales son mal llamadas, pues deberían
+
+00:12:56.387 --> 00:12:57.733
+ser llamadas reacciones independientes de la luz
+
+00:12:57.733 --> 00:12:59.464
+porque realmente ocurren en presencia de luz.
+
+00:12:59.464 --> 00:13:01.963
+Tomas tu combustible de las reacciones lumínicas
+
+00:13:01.963 --> 00:13:04.882
+con dióxido de carbono y puedes fijarlo usando
+
+00:13:04.882 --> 00:13:08.139
+la enzima llamada RuBisCO, en el ciclo de Calvin
+
+00:13:08.139 --> 00:13:11.683
+Y obtienes fosfogliceraldehido, el cual
+
+00:13:11.683 --> 00:13:14.300
+puede ser llamado gliceraldehido 3-fosfato
+
+00:13:14.300 --> 00:13:17.379
+que puede ser usado para generar glucosa
+
+00:13:17.379 --> 00:13:21.792
+la cual usamos para comer y dar energía a nuestros cuerpos
+
+00:13:21.792 --> 00:13:23.323
+O como aprendimos en la respiración celular, que
+
+00:13:23.323 --> 99:59:59.999
+puede ser convertida en ATP cuando sea necesario.

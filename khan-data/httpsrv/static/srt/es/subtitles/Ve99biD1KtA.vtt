@@ -1,0 +1,1065 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.670 --> 00:00:03.970
+Ahora que comprendemos un poco del teorema del emparedado,
+
+00:00:03.970 --> 00:00:09.280
+vamos a usarlo para demostrar que el límite --
+
+00:00:09.280 --> 00:00:17.190
+lo escribo en amarillo -- el límite cuando x tiende a 0 del seno de x sobre x
+
+00:00:17.190 --> 00:00:22.280
+es igual a 1.
+
+00:00:22.280 --> 00:00:25.090
+Y es probable que estés prestando mucha atención
+
+00:00:25.090 --> 00:00:26.535
+puesto que he dicho esto tantas veces.
+
+00:00:26.535 --> 00:00:29.410
+Bueno, empecemos con, por supuesto,
+
+00:00:29.410 --> 00:00:32.220
+la trigonometría, porque nuestra demostración será visual.
+
+00:00:32.220 --> 00:00:35.640
+Entonces voy a dibujar por lo menos el primer y cuarto cuadrantes
+
+00:00:35.640 --> 00:00:37.440
+del círculo unitario.
+
+00:00:37.440 --> 00:00:40.870
+Eso voy a dibujar en magenta.
+
+00:00:40.870 --> 00:00:42.420
+A ver, lo debo dibujar
+
+00:00:42.420 --> 00:00:44.220
+bien grande.
+
+00:00:44.220 --> 00:00:44.840
+A ver.
+
+00:00:44.840 --> 00:00:47.795
+Mejor de tamaño grande.
+
+00:00:47.795 --> 00:00:49.240
+Entonces lo dibujaré así.
+
+00:00:54.570 --> 00:00:55.780
+Es suficiente.
+
+00:00:55.780 --> 00:00:59.030
+Y ahora los ejes.
+
+00:00:59.030 --> 00:01:02.920
+Entonces éste es el eje x, algo así.
+
+00:01:02.920 --> 00:01:03.660
+Disculpa, ése es el eje y.
+
+00:01:06.180 --> 00:01:07.100
+Sí, bueno.
+
+00:01:07.100 --> 00:01:10.790
+Y el eje x, algo así.
+
+00:01:10.790 --> 00:01:12.030
+Éste es nuestro círculo unitario.
+
+00:01:14.810 --> 00:01:16.220
+Bueno.
+
+00:01:16.220 --> 00:01:18.690
+Ahora voy a dibujar unas cosas más.
+
+00:01:18.690 --> 00:01:24.170
+Primero, dibujo -- pues, es un radio, pero lo voy a extender
+
+00:01:24.170 --> 00:01:26.580
+más allá del círculo unitario.
+
+00:01:30.850 --> 00:01:34.970
+Hasta allí más o menos.
+
+00:01:34.970 --> 00:01:39.690
+Unas cosas más, para preparar este problema.
+
+00:01:39.690 --> 00:01:41.650
+No, no quería hacer eso.
+
+00:01:41.650 --> 00:01:44.180
+Quería hacerlo precisamente de este punto.
+
+00:01:44.180 --> 00:01:45.340
+Así.
+
+00:01:45.340 --> 00:01:49.260
+Y de este punto, quiero hacer esto.
+
+00:01:52.720 --> 00:01:55.560
+Y entonces quiero dibujar otra línea de ese punto.
+
+00:01:55.560 --> 00:01:59.960
+Lo voy a hacer.
+
+00:01:59.960 --> 00:02:02.250
+Y ahora estamos listos.
+
+00:02:02.250 --> 00:02:03.640
+¿Qué dije?
+
+00:02:03.640 --> 00:02:05.860
+¿Éste es el círculo unitario, no?
+
+00:02:05.860 --> 00:02:07.570
+Entonces, si ése es el círculo unitario, ¿qué significa eso?
+
+00:02:07.570 --> 00:02:09.780
+Es un círculo con radio de 1.
+
+00:02:09.780 --> 00:02:14.540
+Así que la distancia de aquí hasta aquí es 1.
+
+00:02:14.540 --> 00:02:21.040
+Y si éste es un ángulo x en radianes, ¿qué es la longitud
+
+00:02:21.040 --> 00:02:23.260
+de ésta línea aquí?
+
+00:02:23.260 --> 00:02:24.310
+¿De ésa?
+
+00:02:24.310 --> 00:02:27.430
+Pues, por definición, el seno de x se defina como la coordenada y
+
+00:02:27.430 --> 00:02:30.830
+de cualquier punto en el círculo unitario.
+
+00:02:30.830 --> 00:02:32.070
+Éste es el seno de x.
+
+00:02:35.270 --> 00:02:38.300
+Se me va a acabar el espacio, así que dibujo una flecha.
+
+00:02:38.300 --> 00:02:41.320
+Entonces éste aquí es el seno de x.
+
+00:02:44.300 --> 00:02:46.270
+Ahora algo un poquito más difícil:
+
+00:02:46.270 --> 00:02:47.870
+¿Qué es la longitud aquí?
+
+00:02:51.370 --> 00:02:52.970
+Pues, pensemos en ello.
+
+00:02:52.970 --> 00:02:53.880
+¿Qué significa tangente?
+
+00:02:53.880 --> 00:02:56.370
+Regresemos a la definición de SOHCAHTOA de tangente.
+
+00:02:56.370 --> 00:02:57.720
+TOA.
+
+00:02:57.720 --> 00:03:07.380
+La tangente es igual a TOA: opuesto sobre adyacente.
+
+00:03:07.380 --> 00:03:08.910
+Entonces, ¿qué es la tangente de x?
+
+00:03:14.460 --> 00:03:17.630
+Pues, sería igual a -- podríamos hacer esto -- si decimos que
+
+00:03:17.630 --> 00:03:20.450
+éste es el triángulo rectángulo, sería esta longitud --
+
+00:03:20.450 --> 00:03:26.110
+el cateto opuesto -- sobre el adyacente, ¿verdad?
+
+00:03:26.110 --> 00:03:28.440
+Entonces vamos a llamar esto la longitud,
+
+00:03:28.440 --> 00:03:30.380
+y esto 'o' para opuesto.
+
+00:03:30.380 --> 00:03:31.620
+¿Pero que es la longitud adyacente?
+
+00:03:31.620 --> 00:03:34.600
+¿Qué es la base de este triángulo más grande?
+
+00:03:34.600 --> 00:03:36.050
+Pues, es el círculo unitario, ¿no?
+
+00:03:36.050 --> 00:03:40.660
+Entonces la distancia de aquí hasta aquí, esta distancia también
+
+00:03:40.660 --> 00:03:41.830
+será 1, ¿verdad?
+
+00:03:41.830 --> 00:03:43.070
+Porque es simplemente un radio.
+
+00:03:43.070 --> 00:03:44.400
+Es 1.
+
+00:03:44.400 --> 00:03:48.980
+Entonces el opuesto sobre el adyacente es igual a la tangente de x.
+
+00:03:48.980 --> 00:03:52.350
+Pero el opuesto sobre el adyacente -- el adyacente es simplemente 1, ¿verdad?
+
+00:03:52.350 --> 00:03:56.280
+Así que el lado opuesto, este lado aquí, va a ser igual a
+
+00:03:56.280 --> 00:03:57.655
+la tangente de x.
+
+00:03:57.655 --> 00:04:00.312
+Otro modo de edecirlo es, tangente de x es igual a
+
+00:04:00.312 --> 00:04:02.930
+este lado sobre 1, o tangente de x es igual a este lado.
+
+00:04:02.930 --> 00:04:04.700
+Así que voy a escribir esto.
+
+00:04:04.700 --> 00:04:08.080
+Este lado es igual a la tangente de x.
+
+00:04:11.840 --> 00:04:17.770
+Ahora, pensemos sobre el área de un par de partes de esta
+
+00:04:17.770 --> 00:04:18.730
+figura que he dibujado aquí.
+
+00:04:18.730 --> 00:04:20.580
+Tal vez debía habelo dibujado más grande, aunque
+
+00:04:20.580 --> 00:04:22.560
+pienso que seremos capaces de hacerlo.
+
+00:04:22.560 --> 00:04:25.210
+Primero, tomemos un triángulo relativamente pequeño.
+
+00:04:25.210 --> 00:04:27.580
+Hagamos este triángulo justo aquí.
+
+00:04:27.580 --> 00:04:29.870
+Lo pondré en verde.
+
+00:04:29.870 --> 00:04:34.250
+Esye triángulo que dibujo aquí en verde---¿cual es el área de
+
+00:04:34.250 --> 00:04:37.730
+este triángulo?
+
+00:04:37.730 --> 00:04:40.910
+Bueno, pues va a ser la mitad (1/2) de la base por la altura.
+
+00:04:40.910 --> 00:04:49.850
+Así que es 1/2 veces la base, qué es 1.
+
+00:04:49.850 --> 00:04:50.110
+¿De acuerdo?
+
+00:04:50.110 --> 00:04:51.600
+Es todo el triángulo.
+
+00:04:51.600 --> 00:04:53.240
+Y luego, ¿Cual es su altura?
+
+00:04:53.240 --> 00:04:55.740
+Bien, acabamos de ver que esta altura de aquí, que
+
+00:04:55.740 --> 00:04:57.690
+esta altura es seno de x.
+
+00:04:57.690 --> 00:04:58.780
+Por seno de x.
+
+00:05:01.880 --> 00:05:04.650
+Entonces, es este triángulo de aquí, ¿si?
+
+00:05:04.650 --> 00:05:09.040
+Ahora, cual es es área de--no de este triángulo verde.
+
+00:05:09.040 --> 00:05:11.180
+Lo voy a hacer de un color diferente.
+
+00:05:11.180 --> 00:05:16.480
+Voy a hacerlo en--voy a hacerlo en rojo.
+
+00:05:16.480 --> 00:05:20.540
+¿Cual es el área de este pi?
+
+00:05:20.540 --> 00:05:23.470
+Este pi de aquí.
+
+00:05:23.470 --> 00:05:24.270
+Este pi.
+
+00:05:24.270 --> 00:05:26.620
+Espero que lo vean--este color no parece distinguirse bien.
+
+00:05:26.620 --> 00:05:29.440
+Así que, este pi de aquí.
+
+00:05:29.440 --> 00:05:30.330
+O me voy allí.
+
+00:05:30.330 --> 00:05:32.050
+Y lugo me voy al arco.
+
+00:05:32.050 --> 00:05:34.630
+Y es un poco más grande que el triángulo que
+
+00:05:34.630 --> 00:05:35.640
+acabamos de resolver, ¿sí?
+
+00:05:35.640 --> 00:05:37.130
+Siempre va a ser un poco más grande, porque incluye
+
+00:05:37.130 --> 00:05:41.220
+este área entre este triángulo y el arco, ¿de acuerdo?
+
+00:05:41.220 --> 00:05:42.890
+¿Cual ers el área del arco?
+
+00:05:45.600 --> 00:05:54.500
+bien, si este ángulo es x--, son los radianes de x--¿que fracción
+
+00:05:54.500 --> 00:05:56.660
+queda fuera de la unidad del círculo?
+
+00:05:56.660 --> 00:05:59.920
+Bien, hay 2 pi radianes en la unidad total del círculo. ¿si?
+
+00:05:59.920 --> 00:06:04.220
+Así que este área de aquí ¿va a ser igual a qué?
+
+00:06:04.220 --> 00:06:09.690
+Va a ser igual a la fracción de x del total de
+
+00:06:09.690 --> 00:06:14.270
+radianes de la unidad del círculo. ¿si?
+
+00:06:14.270 --> 00:06:17.060
+Entonces, son x radianes sobre 2 pi radianes en
+
+00:06:17.060 --> 00:06:18.450
+toda la unidad del círculo.
+
+00:06:18.450 --> 00:06:21.135
+Este es el tipo de fracción que se obtiene de--como
+
+00:06:21.135 --> 00:06:23.770
+si lo hiciéramos en grados--la fracción que resulta sobre 360.
+
+00:06:23.770 --> 00:06:26.350
+grados, por el área de todo el círculo, ¿lo ven?
+
+00:06:26.350 --> 00:06:28.490
+Esto nos dice que fracción tenemos del círculo, y vamos
+
+00:06:28.490 --> 00:06:30.280
+a multiplicar esto por el área de
+
+00:06:30.280 --> 00:06:31.350
+el círculo entero.
+
+00:06:31.350 --> 00:06:33.450
+Bien, ¿cual es el área del círculo entero?
+
+00:06:33.450 --> 00:06:38.660
+El área es pi r cuadrado, el radio es 1, ¿si?
+
+00:06:38.660 --> 00:06:42.100
+Así que, el área del círculo entero es pi.
+
+00:06:45.250 --> 00:06:47.700
+Pi r cuadrado, r es 1, poir lo tanto el área del círculo--por
+
+00:06:47.700 --> 00:06:51.960
+lo tanto el área de esta porción aquí, va a ser igual a--
+
+00:06:51.960 --> 00:06:55.210
+este pi se anula--es igual a x sobre 2.
+
+00:06:55.210 --> 00:07:00.860
+Este primer triángulo pequeño, este triángulo verde
+
+00:07:00.860 --> 00:07:04.050
+que hicimos, es seno de x.
+
+00:07:04.050 --> 00:07:07.630
+1/2 del seno de x, ese es el área de este triaángulo verde.
+
+00:07:07.630 --> 00:07:11.390
+Luego, el área algo mayor de la fracción es-- lo resolvemos
+
+00:07:11.390 --> 00:07:12.640
+ahora--es x sobre 2.
+
+00:07:12.640 --> 00:07:15.630
+Y ahoraq, tomemos el área de este triángulo más grande,
+
+00:07:15.630 --> 00:07:17.020
+de este triángulo grande de aquí.
+
+00:07:17.020 --> 00:07:18.860
+Y esto puede parecer lo más obvio.
+
+00:07:18.860 --> 00:07:20.130
+La 1/2 de la base por la altura.
+
+00:07:20.130 --> 00:07:24.950
+Así que, esto es 1/2--la base es 1 de nuevo--1 por
+
+00:07:24.950 --> 00:07:28.720
+la altura, es la tangente de x.
+
+00:07:28.720 --> 00:07:33.900
+Igual a 1/2 de la tangente de x.
+
+00:07:33.900 --> 00:07:36.640
+Ahora, debería verse claro solo con mirar este diagrama,
+
+00:07:36.640 --> 00:07:40.350
+sin importar donde dibujo esta linea superior, que este triángulo verde
+
+00:07:40.350 --> 00:07:43.690
+tiene iun área menor que esta racción, que tiene un a´rea menor
+
+00:07:43.690 --> 00:07:45.330
+que este triángulo grande.
+
+00:07:45.330 --> 00:07:45.960
+¿De acuerdo?
+
+00:07:45.960 --> 00:07:48.510
+Entonces vamos a escribir una desigualdad que dice.
+
+00:07:48.510 --> 00:07:54.830
+El triángulo verde--el área del triángulo verde--esto es 1/2
+
+00:07:54.830 --> 00:07:58.900
+del seno de x, este es el área del triángulo verde--es
+
+00:07:58.900 --> 00:08:04.030
+menos que el área de esta fracción.
+
+00:08:04.030 --> 00:08:06.360
+Esto es x sobre 2.
+
+00:08:06.360 --> 00:08:09.540
+Y, ambos son menos qué el área de este triángulo
+
+00:08:09.540 --> 00:08:11.200
+grande, ¿de acuerdo?
+
+00:08:11.200 --> 00:08:13.860
+Que es 1/2 de la tangente de x.
+
+00:08:16.920 --> 00:08:18.010
+Ahora, ¿cuando es esto cierto?
+
+00:08:18.010 --> 00:08:21.160
+Esto es cierto siempre que estemos en el primer cuadrante ¿si?
+
+00:08:21.160 --> 00:08:23.400
+Siempre que nos mantengamos en el segundo cuadrante.
+
+00:08:23.400 --> 00:08:25.960
+Es casí también así si nos vamos al cuarto cuadrante,
+
+00:08:25.960 --> 00:08:28.310
+exceptro cuando el seno de x se vuelve negativo, la tangente
+
+00:08:28.310 --> 00:08:31.130
+de x se vuelve negativa, y x es negativa.
+
+00:08:31.130 --> 00:08:33.300
+Pero, sí tomamos el valor absoluto de todo, se mantiene
+
+00:08:33.300 --> 00:08:34.900
+para el cuarto cuadrante.
+
+00:08:34.900 --> 00:08:37.450
+Por que, si se vuelve negativo, siempre que tomemos el valor
+
+00:08:37.450 --> 00:08:39.900
+absoluto, la distancia de mantendrá y seguimos teniendo
+
+00:08:39.900 --> 00:08:42.120
+areas positivas y todo lo demás.
+
+00:08:42.120 --> 00:08:47.060
+Así que si mi objetivo es obtener el límite, conforme x se acrca a 0, y
+
+00:08:47.060 --> 00:08:49.540
+quiero obtener el límite--con el fin de definir el límite en
+
+00:08:49.540 --> 00:08:53.260
+general, tiene que ser cierto tando desde el lado positivo
+
+00:08:53.260 --> 00:08:54.320
+como del negativo.
+
+00:08:54.320 --> 00:08:56.170
+Vamos a tomar los valores absolutos de ambos lados.
+
+00:08:56.170 --> 00:08:57.750
+Y con suerte le encontrís el sentido a todo esto.
+
+00:08:57.750 --> 00:08:59.950
+Si fuera a dibujar una línea aquí abajo--y esto sería
+
+00:08:59.950 --> 00:09:02.720
+el seno de x, y esto la tangente de x--siempre que
+
+00:09:02.720 --> 00:09:04.350
+tomemos el valor absoluto de todo, estas esencialmente
+
+00:09:04.350 --> 00:09:06.370
+haciendo lo mismo que el primer cuadrante.
+
+00:09:06.370 --> 00:09:10.150
+Así que tomemos el valor absoluto de todo.
+
+00:09:10.150 --> 00:09:14.020
+Y esto no debería cambiar nada, especialmente si estás
+
+00:09:14.020 --> 00:09:14.750
+en el primer cuadrante.
+
+00:09:14.750 --> 00:09:16.190
+Y puede que quieras pensar en ello un poco, porque
+
+00:09:16.190 --> 00:09:18.290
+no cambia nada en el segundo cadrante.
+
+00:09:18.290 --> 00:09:19.510
+Tenemos esta desigualdad.
+
+00:09:19.510 --> 00:09:21.270
+veamos si podemos juguetear con esto.
+
+00:09:21.270 --> 00:09:22.940
+Lo primero de todo, multipliquemos todo por 2.
+
+00:09:22.940 --> 00:09:25.180
+y nos quitamos de encima los 1/2.
+
+00:09:25.180 --> 00:09:33.110
+Así que obtenemos que el valor absoluto del seno de, que es menor
+
+00:09:33.110 --> 00:09:36.770
+el valor absoluto de x, que x es menor que el valor absoluto
+
+00:09:36.770 --> 00:09:38.500
+de la tangente de x.
+
+00:09:38.500 --> 00:09:41.420
+Espero no haberles confundido al tomar el valor absoluto.
+
+00:09:41.420 --> 00:09:44.940
+Esta desigualdad original que he escrito es completamente válida
+
+00:09:44.940 --> 00:09:48.310
+para el primer cuadrante, pero como quiero que esta desigualdad
+
+00:09:48.310 --> 00:09:50.510
+sea cierta en el primer y cuarto cuadrante, porque estoy tomando
+
+00:09:50.510 --> 00:09:53.260
+el límite según x se aproxima a 0 en los dos lados, pongo
+
+00:09:53.260 --> 00:09:54.120
+el valor absoluto allí.
+
+00:09:54.120 --> 00:09:56.540
+Pueden dibujar la línea aquí abajo y hacer todo lo que
+
+00:09:56.540 --> 00:09:58.470
+hemos hecho en el cuarto cuadrante, pero tomando
+
+00:09:58.470 --> 00:10:01.170
+el valor absoluto y debería reloverse igualmente.
+
+00:10:01.170 --> 00:10:02.390
+De todos modos, volviendo al problema
+
+00:10:02.390 --> 00:10:03.730
+Tenemos esta desigualdad.
+
+00:10:03.730 --> 00:10:06.630
+me estoy quedandsin espacio, voy a borrar
+
+00:10:06.630 --> 00:10:07.710
+parte de todo esto.
+
+00:10:11.280 --> 00:10:12.570
+Borrar.
+
+00:10:12.570 --> 00:10:12.760
+Borrar
+
+00:10:15.420 --> 00:10:17.940
+Esto no se borra.
+
+00:10:17.940 --> 00:10:18.960
+Ok
+
+00:10:18.960 --> 00:10:21.400
+Esto no se debe borra.
+
+00:10:21.400 --> 00:10:23.230
+Ok
+
+00:10:23.230 --> 00:10:25.980
+Podemos borrar todo lo que nos llevó hasta aquí.
+
+00:10:25.980 --> 00:10:28.122
+Aunque no podemos olvidarlo.
+
+00:10:28.122 --> 00:10:30.310
+Esto nos deja mucho espacio.
+
+00:10:30.310 --> 00:10:32.430
+Ok
+
+00:10:32.430 --> 00:10:35.700
+Así que vamos a tomar esto, y vamos a tomar esa expresión, y
+
+00:10:35.700 --> 00:10:38.460
+dividir todos los lados.
+
+00:10:38.460 --> 00:10:40.190
+Usted sabe, y tiene tres lados, a la izquierda,
+
+00:10:40.190 --> 00:10:41.100
+central y derecha.
+
+00:10:41.100 --> 00:10:43.730
+Vamos a dividir todos ellos por el valor absoluto de seno de x.
+
+00:10:43.730 --> 00:10:45.960
+Y ya que sabemos que el valor absoluto del seno de x es
+
+00:10:45.960 --> 00:10:49.640
+un número positivo, sabemos que se trata de menos de signos
+
+00:10:49.640 --> 00:10:51.155
+no cambian, ¿verdad?
+
+00:10:51.155 --> 00:10:52.260
+Así que vamos a hacer eso.
+
+00:10:52.260 --> 00:10:55.210
+Así, el valor absoluto del seno de x dividido por el
+
+00:10:55.210 --> 00:10:57.585
+valor absoluto del seno de x, así, que es igual a 1.
+
+00:11:00.440 --> 00:11:04.230
+Lo cual es menor que el valor absoluto de x dividido por el
+
+00:11:04.230 --> 00:11:05.870
+valor absoluto de seno de x.
+
+00:11:08.650 --> 00:11:12.420
+¿Qué es inferior a - ¿Cuál es el valor absoluto de tan - así, todos los
+
+00:11:12.420 --> 00:11:15.850
+Que estoy haciendo es que estoy tomando el valor absoluto del seno de x,
+
+00:11:15.850 --> 00:11:20.910
+valor absoluto de seno de x, valor absoluto de seno de x.
+
+00:11:20.910 --> 00:11:23.350
+¿Cuál es el valor absoluto de la tangente de x dividido por el
+
+00:11:23.350 --> 00:11:26.580
+valor absoluto del seno de x?
+
+00:11:26.580 --> 00:11:32.930
+Bueno, tangente es condición sine sobre coseno.
+
+00:11:32.930 --> 00:11:35.580
+Así que eso es igual a - por lo que sólo, hacer esta parte, justo aquí.
+
+00:11:35.580 --> 00:11:40.430
+Eso equivale a más de seno coseno dividido por seno.
+
+00:11:40.430 --> 00:11:41.895
+Y usted sabe, usted podría decir que eso es lo mismo
+
+00:11:41.895 --> 00:11:42.680
+como el valor absoluto.
+
+00:11:42.680 --> 00:11:45.360
+Y el valor absoluto dividido por el valor absoluto.
+
+00:11:45.360 --> 00:11:46.900
+Así que lo que queda?
+
+00:11:46.900 --> 00:11:50.620
+Bueno, te acaba de dejar con un sobre - esto cancela con
+
+00:11:50.620 --> 00:11:54.550
+esto, que se convierte en un 1 a 1 sobre el valor absoluto
+
+00:11:54.550 --> 00:11:57.720
+del coseno de x.
+
+00:11:57.720 --> 00:12:00.630
+Así que usted puede sentir que nos estamos acercando.
+
+00:12:00.630 --> 00:12:03.700
+Debido a que este se parece mucho a esto, se acaba de invertir.
+
+00:12:03.700 --> 00:12:06.050
+Así que para llegar a esto, vamos a invertir.
+
+00:12:06.050 --> 00:12:07.750
+Y para invertir, ¿qué sucede?
+
+00:12:07.750 --> 00:12:10.090
+Bueno, en primer lugar, lo que sucede cuando se invierte 1?
+
+00:12:10.090 --> 00:12:13.880
+Bueno, 1/1 está a sólo 1.
+
+00:12:13.880 --> 00:12:17.760
+Sin embargo, cuando usted invierte ambos lados de una desigualdad, se cambia
+
+00:12:17.760 --> 00:12:18.960
+la desigualdad, ¿verdad?
+
+00:12:18.960 --> 00:12:22.480
+Y si eso no tiene sentido para usted, piense en esto.
+
+00:12:22.480 --> 00:12:26.870
+Ya sabes, si digo que 1/2 es menor que 2, y yo invertimos ambos lados
+
+00:12:26.870 --> 00:12:32.020
+de eso, tengo 2 es mayor que 1/2.
+
+00:12:32.020 --> 00:12:33.830
+So that hopefully gives you a little intuition.
+
+00:12:33.830 --> 00:12:37.380
+Así que si estoy invirtiendo todos los lados de esta desigualdad,
+
+00:12:37.380 --> 00:12:40.210
+tener que cambiar los signos de desigualdad.
+
+00:12:40.210 --> 00:12:48.130
+Así 1 es mayor que el valor absoluto de seno de x, sobre el
+
+00:12:48.130 --> 00:12:52.415
+valor absoluto de x, que es mayor que absoluta
+
+00:12:52.415 --> 00:12:55.400
+valor de coseno de x.
+
+00:12:55.400 --> 00:12:58.430
+Ahora déjame hacerte una pregunta.
+
+00:12:58.430 --> 00:13:01.330
+El valor absoluto de seno de x en - bueno, en primer lugar
+
+00:13:01.330 --> 00:13:04.030
+de todo, seno de x sobre x.
+
+00:13:04.030 --> 00:13:10.140
+¿Habrá alguna vez un momento en el seno de x sobre x es - en el
+
+00:13:10.140 --> 00:13:12.730
+primero o el cuarto cuadrante - ¿Hay algún momento en que
+
+00:13:12.730 --> 00:13:17.110
+seno de x sobre x es una expresión negativa?
+
+00:13:17.110 --> 00:13:19.680
+Bueno, en el primer cuadrante, seno de x es positivo,
+
+00:13:19.680 --> 00:13:20.910
+y x es positivo.
+
+00:13:20.910 --> 00:13:22.960
+Así un positivo dividido por un positivo es
+
+00:13:22.960 --> 00:13:24.090
+va a ser positivo.
+
+00:13:24.090 --> 00:13:29.610
+Y en el cuarto cuadrante, seno de x es negativo, y es
+
+00:13:29.610 --> 00:13:32.390
+negativo, y el ángulo es negativo, por lo que x es
+
+00:13:32.390 --> 00:13:33.400
+también negativa.
+
+00:13:33.400 --> 00:13:37.240
+Así que en el cuarto cuadrante, seno de x sobre x va a ser un
+
+00:13:37.240 --> 00:13:39.010
+divide negativo por un negativo.
+
+00:13:39.010 --> 00:13:40.850
+Por lo tanto, va a ser positivo otra vez.
+
+00:13:40.850 --> 00:13:45.070
+Así seno de x sobre x siempre va a ser positivo.
+
+00:13:45.070 --> 00:13:48.120
+Así que los signos de valor absoluto son una especie de redundancia.
+
+00:13:48.120 --> 00:13:53.990
+Por lo tanto, podría escribir una es mayor que seno de x sobre x.
+
+00:13:53.990 --> 00:13:57.250
+Y la misma lógica, en los cuadrantes primero y cuarto -
+
+00:13:57.250 --> 00:13:58.540
+y ahí es donde estamos tratando.
+
+00:13:58.540 --> 00:14:05.860
+Estamos hablando de menos pi sobre 2 es menor que x, que
+
+00:14:05.860 --> 00:14:08.000
+es menor que pi durante 2.
+
+00:14:08.000 --> 00:14:09.960
+Así que vamos de menos más de 2 pi todos los
+
+00:14:09.960 --> 00:14:11.310
+la manera de más de 2 pi.
+
+00:14:11.310 --> 00:14:13.510
+Así que estamos en el cuarto cuadrante y en primer lugar.
+
+00:14:13.510 --> 00:14:15.050
+Es el coseno de x siempre negativo?
+
+00:14:15.050 --> 00:14:17.830
+Bueno, el coseno es el valor de x, y x el - por definición, en
+
+00:14:17.830 --> 00:14:19.653
+los cuadrantes primero y cuarto-el valor de x
+
+00:14:19.653 --> 00:14:20.880
+siempre es positivo.
+
+00:14:20.880 --> 00:14:23.480
+Así que si esto es siempre positivo, podemos deshacernos de la
+
+00:14:23.480 --> 00:14:27.940
+signos de valor absoluto allí, y sólo escribir eso.
+
+00:14:27.940 --> 00:14:33.430
+Y ahora, estamos dispuestos a usar el teorema de compresión.
+
+00:14:33.430 --> 00:14:36.060
+Déjame borrar todo esto aquí ahora.
+
+00:14:39.580 --> 00:14:42.500
+Así que déjame hacerte una pregunta.
+
+00:14:42.500 --> 00:14:50.170
+¿Cuál es el límite, cuando x tiende a 0, de
+
+00:14:50.170 --> 00:14:52.750
+la función de uno?
+
+00:14:52.750 --> 00:14:55.510
+Pues bien, la función de uno es siempre igual a 1.
+
+00:14:55.510 --> 00:14:57.460
+Así que puede establecer el límite cuando x tiende a infinito, el límite
+
+00:14:57.460 --> 00:14:59.310
+cuando x tiende a pi, nada.
+
+00:14:59.310 --> 00:15:02.750
+Esto siempre va a ser igual a 1.
+
+00:15:02.750 --> 00:15:05.620
+Así cuando x tiende a 0, esto es igual a 1.
+
+00:15:05.620 --> 00:15:14.570
+Y entonces ¿cuál es el límite, cuando x tiende a 0, de coseno de x?
+
+00:15:14.570 --> 00:15:15.620
+Bueno, eso es fácil, también.
+
+00:15:15.620 --> 00:15:18.170
+A medida que x se aproxima a 0, el coseno de 0 es 1 - y como se obtiene,
+
+00:15:18.170 --> 00:15:22.620
+usted sabe, es una función continua - por lo que el límite es de 1.
+
+00:15:22.620 --> 00:15:25.630
+Así que estamos dispuestos a usar el teorema de compresión.
+
+00:15:25.630 --> 00:15:31.990
+A medida que se acerquen a 0, cuando x tiende a 0, esta
+
+00:15:31.990 --> 00:15:33.770
+la función se aproxima a 1.
+
+00:15:33.770 --> 00:15:35.650
+Esta función se aproxima a 1.
+
+00:15:35.650 --> 00:15:38.350
+Y esta función, esta expresión, es en
+
+00:15:38.350 --> 00:15:39.870
+entre los dos.
+
+00:15:39.870 --> 00:15:45.300
+Y si es entre los dos, cuando nos acercamos - esto es
+
+00:15:45.300 --> 00:15:48.290
+se aproxima a 1 cuando nos acercamos a 0, esto se está acercando a una medida que
+
+00:15:48.290 --> 00:15:51.470
+enfoque 0, y esto es entre ellos, por lo que también tiene que
+
+00:15:51.470 --> 00:15:53.790
+acercarse a una medida que nos acercamos 0.
+
+00:15:53.790 --> 00:15:58.340
+Y por lo que estamos usando el teorema de compresión sobre la base de esto y esto.
+
+00:15:58.340 --> 00:16:00.090
+Y se podría decir, ya sabes, por lo tanto, por la contracción
+
+00:16:00.090 --> 00:16:03.740
+teorema, ya que esto es cierto, esto es cierto, y esto es cierto,
+
+00:16:03.740 --> 00:16:11.010
+seno de x sobre x, el límite cuando x tiende a 0, es igual a 1.
+
+00:16:11.010 --> 00:16:13.310
+Así que espero que le dio la intuición.
+
+00:16:13.310 --> 00:16:18.910
+Esa otra manera de ver, ya que esta línea se hace más pequeño y
+
+00:16:18.910 --> 00:16:24.410
+más pequeño, ya que se aproxima a 0, cuando x se aproxima a cero, que esta
+
+00:16:24.410 --> 00:16:27.300
+área y esta área convergen, por lo que el área entre tipo de cuenta
+
+00:16:27.300 --> 00:16:30.660
+a converger a los dos de ellos.
+
+00:16:30.660 --> 00:16:32.700
+Y si quieres ver gráficamente, no tengo
+
+00:16:32.700 --> 00:16:34.490
+graficada aquí.
+
+00:16:34.490 --> 00:16:37.285
+Déjame ver si puedo graficar esta cosa.
+
+00:16:37.285 --> 00:16:40.610
+Te voy a mostrar el gráfico.
+
+00:16:40.610 --> 00:16:42.850
+Sólo para que me cree.
+
+00:16:42.850 --> 00:16:47.270
+Así que dice que 1 es siempre mayor que seno de x, que
+
+00:16:47.270 --> 00:16:52.630
+es siempre mayor que el coseno de x, entre pi negativo
+
+00:16:52.630 --> 00:16:53.440
+más de 2 y más de 2 pi.
+
+00:16:53.440 --> 00:16:56.740
+Y, por supuesto, esto no está definida en x es igual a 0.
+
+00:16:56.740 --> 00:16:58.350
+Sin embargo, podemos calcular el límite.
+
+00:16:58.350 --> 00:16:59.530
+Así que ahí lo tenemos.
+
+00:16:59.530 --> 00:17:03.130
+Esta línea azul aquí, esa es la función 1.
+
+00:17:03.130 --> 00:17:06.650
+Eso es y es igual a 1.
+
+00:17:06.650 --> 00:17:09.440
+Esta línea de color azul claro aquí es el coseno de x.
+
+00:17:09.440 --> 00:17:11.430
+Y esta es la gráfica de seno de x sobre x.
+
+00:17:11.430 --> 00:17:15.480
+Y usted puede ver que en realidad lo escribió en
+
+00:17:15.480 --> 00:17:22.060
+Así seno de x sobre x, entre pi negativo en más de 2 y pi
+
+00:17:22.060 --> 00:17:27.170
+2, o los cuadrantes primero y cuarto, la línea roja
+
+00:17:27.170 --> 00:17:29.100
+es siempre en el medio.
+
+00:17:29.100 --> 00:17:32.750
+Siempre es de entre el azul oscuro y la línea azul claro.
+
+00:17:32.750 --> 00:17:34.970
+Y así, esta es sólo una intuición de lo que sucede
+
+00:17:34.970 --> 00:17:36.180
+con el teorema de compresión.
+
+00:17:36.180 --> 00:17:39.390
+Sabemos que la límite, ya que esta línea de color azul claro
+
+00:17:39.390 --> 00:17:40.860
+se aproxima a 0, es 1.
+
+00:17:40.860 --> 00:17:43.300
+Y sabemos que el límite superior, ya que la línea de color azul oscuro
+
+00:17:43.300 --> 00:17:45.500
+se aproxima a 0 es 1.
+
+00:17:45.500 --> 00:17:47.780
+Y esta línea roja es siempre en medio de ella, por lo que
+
+00:17:47.780 --> 00:17:49.240
+También se aproxima a 1.
+
+00:17:49.240 --> 00:17:50.600
+Así que ahí lo tienen.
+
+00:17:50.600 --> 00:17:53.370
+La prueba, usando el teorema de compresión, y un poco de
+
+00:17:53.370 --> 00:17:57.960
+trigonometría, visual, de por qué el límite, cuando x tiende a 0, de
+
+00:17:57.960 --> 00:18:00.970
+seno de x sobre x es igual a 1.
+
+00:18:00.970 --> 00:18:03.900
+Espero que no te he confundido.

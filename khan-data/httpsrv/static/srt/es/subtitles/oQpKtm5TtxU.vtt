@@ -1,0 +1,223 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.630 --> 00:00:04.580
+En un partido, un código utilizando
+crea diferentes colores
+
+00:00:04.580 --> 00:00:07.340
+un jugador, el codemaker y el otro jugador, el
+
+00:00:07.340 --> 00:00:09.670
+decodificador, intenta adivinar el código.
+
+00:00:09.670 --> 00:00:12.150
+El codemaker da pistas sobre si los colores son
+
+00:00:12.150 --> 00:00:13.840
+correcto y en la posición correcta.
+
+00:00:13.840 --> 00:00:14.890
+Muy bien.
+
+00:00:14.890 --> 00:00:17.910
+Los posibles colores son azules--permítanme subrayar en el
+
+00:00:17.910 --> 00:00:31.340
+real colores--azul, amarillo, blanco, rojo, naranja y verde.
+
+00:00:31.340 --> 00:00:33.370
+Verde ya está escrito en verde, pero voy subrayar
+
+00:00:33.370 --> 00:00:34.120
+en verde nuevamente.
+
+00:00:34.120 --> 00:00:35.780
+Y verde.
+
+00:00:35.780 --> 00:00:38.530
+Códigos de color 4 cuántos pueden hacerse si la
+
+00:00:38.530 --> 00:00:39.970
+¿no pueden repetirse colores?
+
+00:00:39.970 --> 00:00:42.040
+En cierta medida, este párrafo entero al principio
+
+00:00:42.040 --> 00:00:43.590
+no tema incluso.
+
+00:00:43.590 --> 00:00:46.120
+Si sólo nos estamos eligiendo desde--en vamos a ver, estamos eligiendo
+
+00:00:46.120 --> 00:00:47.170
+¿desde--cuántos colores existen?
+
+00:00:47.170 --> 00:00:52.230
+Hay 1, 2, 3, 4, 5, 6 colores y nos vamos a
+
+00:00:52.230 --> 00:00:53.500
+Elija 4 de ellos.
+
+00:00:53.500 --> 00:00:55.750
+Códigos de color 4 cuántos pueden hacerse si la
+
+00:00:55.750 --> 00:00:58.350
+¿no pueden repetirse colores?
+
+00:00:58.350 --> 00:01:02.470
+Y dado que se trata de códigos, vamos a suponer que
+
+00:01:02.470 --> 00:01:15.050
+azul, rojo, amarillo y verde, que esto--que es
+
+00:01:15.050 --> 00:01:23.380
+diferente de verde, rojo, amarillo y azul.
+
+00:01:23.380 --> 00:01:25.940
+Vamos a asumir que no son el mismo código.
+
+00:01:25.940 --> 00:01:28.970
+A pesar de que hemos escogido los mismos 4 colores, vamos a
+
+00:01:28.970 --> 00:01:31.130
+se supone que estos son 2 códigos diferentes y
+
+00:01:31.130 --> 00:01:32.410
+hace sentido ya que estamos tratando con códigos.
+
+00:01:32.410 --> 00:01:37.080
+Así que estos son códigos diferentes.
+
+00:01:37.080 --> 00:01:39.750
+Por lo tanto esto contaría como 2 códigos diferentes aquí,
+
+00:01:39.750 --> 00:01:44.120
+a pesar de que hemos escogido los mismos colores reales.
+
+00:01:44.120 --> 00:01:45.530
+Los mismos 4 colores, hemos escogido les
+
+00:01:45.530 --> 00:01:46.310
+en diferentes órdenes.
+
+00:01:46.310 --> 00:01:48.290
+Ahora, con el fuera del camino, vamos a pensar en cuántas
+
+00:01:48.290 --> 00:01:50.700
+diferentes maneras podemos elegir 4 colores.
+
+00:01:50.700 --> 00:01:54.530
+Así que vamos a decir que aquí tenemos 4 ranuras.
+
+00:01:54.530 --> 00:01:57.920
+1 ranura, slot 2, ranura 3 y 4 ranuras.
+
+00:01:57.920 --> 00:02:01.290
+Y en primer lugar, nos preocupamos sólo acerca de cuántas maneras podemos
+
+00:02:01.290 --> 00:02:03.830
+¿elegir un color para esa franja de allí, que primero la ranura?
+
+00:02:03.830 --> 00:02:05.740
+Nosotros no hemos elegido los colores aún.
+
+00:02:05.740 --> 00:02:09.410
+Pues bien, tenemos 6 colores posibles, 1, 2, 3, 4, 5, 6.
+
+00:02:09.410 --> 00:02:12.310
+Así que ahí va a ser 6 distintas posibilidades para
+
+00:02:12.310 --> 00:02:13.680
+Esta ranura allí.
+
+00:02:13.680 --> 00:02:16.240
+Así que vamos a poner allí un 6.
+
+00:02:16.240 --> 00:02:19.520
+Ahora, nos dijeron que los colores no pueden repetirse, por lo que
+
+00:02:19.520 --> 00:02:21.960
+cualquier color es en esta ranura, vamos a considerar
+
+00:02:21.960 --> 00:02:24.260
+de los colores posibles.
+
+00:02:24.260 --> 00:02:26.660
+Ahora que hemos tomado ese color, cuántos
+
+00:02:26.660 --> 00:02:29.430
+las posibilidades son cuando vamos a esta ranura, cuando vamos a
+
+00:02:29.430 --> 00:02:30.640
+¿la siguiente ranura?
+
+00:02:30.640 --> 00:02:32.030
+¿Cuántas posibilidades cuando vamos a la
+
+00:02:32.030 --> 00:02:33.240
+¿siguiente ranura aquí?
+
+00:02:33.240 --> 00:02:36.280
+Pues bien, tomamos 1 de los 6 fuera de la primera ranura, por lo que hay
+
+00:02:36.280 --> 00:02:38.300
+sólo 5 posibilidades aquí.
+
+00:02:38.300 --> 00:02:41.140
+Y por la misma lógica cuando vamos a la tercera ranura, nos has
+
+00:02:41.140 --> 00:02:44.480
+utiliza hasta 2 de las ranuras--2 de los colores ya, por lo que hay
+
+00:02:44.480 --> 00:02:46.940
+sería sólo 4 colores posibles izquierda.
+
+00:02:46.940 --> 00:02:49.940
+Y luego por la ranura del pasado, habría utilizado hasta 3 de la
+
+00:02:49.940 --> 00:02:52.840
+colores, por lo que sólo hay 3 posibilidades a la izquierda.
+
+00:02:52.840 --> 00:02:55.350
+Entonces, si pensamos en todas las posibilidades, todos los
+
+00:02:55.350 --> 00:02:57.790
+permutaciones--y permutaciones son cuando se
+
+00:02:57.790 --> 00:02:59.880
+pensar en todas las posibilidades y cuidado
+
+00:02:59.880 --> 00:03:02.910
+acerca de orden; donde te dice que esto es diferente
+
+00:03:02.910 --> 00:03:05.750
+Esto--esto es una permutación diferente que esto.
+
+00:03:05.750 --> 00:03:09.420
+Por lo tanto todas las diferentes permutaciones aquí, cuando usted
+
+00:03:09.420 --> 00:03:14.190
+Elija 4 colores fuera de una posible de 6 colores, es
+
+00:03:14.190 --> 00:03:18.680
+va a ser 6 posibilidades para el primer 1, tiempos 5 para
+
+00:03:18.680 --> 00:03:24.900
+el segundo cubo, tiempos 4 para el tercero o el cubo de tercero
+
+00:03:24.900 --> 00:03:27.130
+de la tercera posición, multiplicado por 3.
+
+00:03:27.130 --> 00:03:32.950
+Hasta 6 veces 5 es 30 veces, 4 es multiplicado por 3.
+
+00:03:32.950 --> 00:03:34.776
+Hasta 30 veces 12.
+
+00:03:34.776 --> 00:03:40.950
+Así que es 30 veces 12, que es igual a sus 360 posibles
+
+00:03:40.950 --> 00:03:43.680
+códigos de color de 4.

@@ -1,0 +1,105 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.766 --> 00:00:04.024
+Se pidió a veinte maestros de su campo favorito .
+
+00:00:04.024 --> 00:00:05.532
+Siete profesores dijeron idioma.
+
+00:00:05.532 --> 00:00:06.884
+Tres profesores dijeron historia.
+
+00:00:06.884 --> 00:00:08.164
+Nueve profesores dijeron geometría.
+
+00:00:08.164 --> 00:00:09.961
+Un maestro dijo química .
+
+00:00:09.976 --> 00:00:12.459
+Cero maestros dijeron física.
+
+00:00:12.459 --> 00:00:15.832
+Crear un gráfico de barras que muestra campos favoritos de todo el mundo .
+
+00:00:15.832 --> 00:00:18.072
+Así que tenemos el gráfico de barras por aquí .
+
+00:00:18.072 --> 00:00:19.660
+Vamos a ver lo que tenemos que trazar .
+
+00:00:19.660 --> 00:00:22.034
+Por lo tanto, dijo cero maestros dijeron física -
+
+00:00:22.034 --> 00:00:23.251
+lo cual es sorprendente para mí ,
+
+00:00:23.251 --> 00:00:25.554
+porque la física es sin duda mi asignatura favorita.
+
+00:00:25.554 --> 00:00:27.668
+Pero vamos a trazar lo que tiene los datos.
+
+00:00:27.668 --> 00:00:28.604
+Así que la física -
+
+00:00:28.604 --> 00:00:29.714
+En este momento parece que
+
+00:00:29.714 --> 00:00:31.162
+está a medio camino entre cero y uno .
+
+00:00:31.162 --> 00:00:33.500
+Así que tengo que llevar a la "física " a cero .
+
+00:00:33.500 --> 00:00:35.865
+Química ... dijeron -
+
+00:00:35.865 --> 00:00:36.430
+Vamos a ver .
+
+00:00:36.430 --> 00:00:37.486
+Un maestro dijo química.
+
+00:00:37.486 --> 00:00:40.146
+Así que tenemos que llevar a la "química " de cero hasta uno .
+
+00:00:40.146 --> 00:00:42.737
+Ahora, nueve profesores dijeron geometría.
+
+00:00:42.767 --> 00:00:44.025
+Así que la "geometría " ...
+
+00:00:44.025 --> 00:00:46.368
+Vamos a sacar el tema a nueve.
+
+00:00:46.368 --> 00:00:48.220
+Un maestro dijo química .
+
+00:00:48.220 --> 00:00:49.239
+Oh , ya lo leí .
+
+00:00:49.239 --> 00:00:50.663
+Historia . Historia .
+
+00:00:50.663 --> 00:00:51.872
+Tres profesores dijeron historia.
+
+00:00:51.872 --> 00:00:55.206
+Por lo tanto , vamos a traer " historia" hasta tres.
+
+00:00:55.206 --> 00:00:57.876
+Y entonces el lenguaje - siete maestros dijeron idioma .
+
+00:00:57.876 --> 00:01:00.649
+Así que vamos a pasar esto a siete.
+
+00:01:00.649 --> 00:01:02.608
+Y creo que -
+
+00:01:02.608 --> 00:01:04.855
+si yo no he cometido ningún error por descuido , que se puede hacer.
+
+00:01:04.855 --> 00:01:06.430
+Sí , muy bien.

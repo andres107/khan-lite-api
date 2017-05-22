@@ -1,0 +1,375 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.650 --> 00:00:03.360
+Ahora que tenemos los fundamentos del orden de las operaciones,
+
+00:00:03.360 --> 00:00:06.100
+vamos a intentar abordar un problema realmente
+
+00:00:06.100 --> 00:00:07.240
+peludo y bestial.
+
+00:00:07.240 --> 00:00:08.990
+Así que aquí tenemos todo tipo de paréntesis y
+
+00:00:08.990 --> 00:00:10.340
+números volando alrededor.
+
+00:00:10.340 --> 00:00:13.190
+Pero en cualquiera de estos problemas del orden de las operaciones, la que realmente
+
+00:00:13.190 --> 00:00:15.650
+tienes que hacer es tomar un respiro profunda y recordar, vamos
+
+00:00:15.650 --> 00:00:17.870
+a hacer primero los paréntesis.
+
+00:00:17.870 --> 00:00:18.810
+Paréntesis.
+
+00:00:18.810 --> 00:00:19.820
+P de paréntesis.
+
+00:00:19.820 --> 00:00:20.760
+Luego exponentes.
+
+00:00:20.760 --> 00:00:22.330
+No te preocupes si no sabes lo que son exponentes, porque
+
+00:00:22.330 --> 00:00:23.910
+Este no tiene ningún exponentes.
+
+00:00:23.910 --> 00:00:25.930
+Luego vas a hacer la multiplicación y la división.
+
+00:00:25.930 --> 00:00:27.220
+Están al mismo nivel.
+
+00:00:27.220 --> 00:00:28.980
+A continuación, haces la suma y resta.
+
+00:00:28.980 --> 00:00:31.330
+Por lo que algunas personas recuerdan PEMDAS.
+
+00:00:31.330 --> 00:00:33.640
+Pero si te acuerdas de PEMDAS, recuerda multiplicación,
+
+00:00:33.640 --> 00:00:34.900
+División, mismo nivel.
+
+00:00:34.900 --> 00:00:38.500
+Suma y resta, también en el mismo nivel.
+
+00:00:38.500 --> 00:00:42.360
+Así que vamos averiguar lo que el orden de las operaciones nos dice
+
+00:00:42.360 --> 00:00:44.290
+respecto a como se debe evaluar esto.
+
+00:00:44.290 --> 00:00:46.100
+Así que lo primero que vamos a hacer es nuestros entre paréntesis.
+
+00:00:46.100 --> 00:00:47.590
+Y aquí tenemos un montón de paréntesis.
+
+00:00:47.590 --> 00:00:50.800
+Tenemos esta expresión entre paréntesis allí, y
+
+00:00:50.800 --> 00:00:54.930
+incluso dentro de eso tenemos estos paréntesis.
+
+00:00:54.930 --> 00:00:58.370
+Así nuestro orden de operaciones dicen, mire, hacer sus paréntesis
+
+00:00:58.370 --> 00:01:01.120
+primero, pero a fin de evaluar este paréntesis exterior--esta
+
+00:01:01.120 --> 00:01:02.910
+cosa naranja--que vamos a tener que evaluar esta cosa
+
+00:01:02.910 --> 00:01:04.750
+en amarillo allí.
+
+00:01:08.530 --> 00:01:10.910
+Pues bien, si miramos sólo dentro de él, lo primero que queremos
+
+00:01:10.910 --> 00:01:12.690
+hacer es simplificar los paréntesis dentro de
+
+00:01:12.690 --> 00:01:13.940
+los paréntesis.
+
+00:01:13.940 --> 00:01:16.590
+¿Puedes ver este 5 menos 2 allí?
+
+00:01:16.590 --> 00:01:18.560
+Vamos a hacer esto no importa lo que pase.
+
+00:01:23.270 --> 00:01:26.690
+Y para que esto simplifique a--lo haré paso a paso.
+
+00:01:26.690 --> 00:01:28.480
+Una vez que le agarras el truco, puedes hacer múltiples
+
+00:01:28.480 --> 00:01:29.570
+pasos a la vez.
+
+00:01:29.570 --> 00:01:34.770
+Así que esto va a ser 7 más 3 multiplicado por 5
+
+00:01:34.770 --> 00:01:36.710
+menos 2, que es 3.
+
+00:01:36.710 --> 00:01:39.620
+Y todos los paréntesis alrededor de ella.
+
+00:01:39.620 --> 00:01:41.780
+Y por supuesto, tienes todas estas cosas en ambos
+
+00:01:41.780 --> 00:01:44.960
+lados--la división 4--no.
+
+00:01:44.960 --> 00:01:45.820
+Perdón.
+
+00:01:45.820 --> 00:01:46.650
+Eso no es lo que quiero.
+
+00:01:46.650 --> 00:01:48.760
+Quería copiar y pegar.
+
+00:01:48.760 --> 00:01:50.840
+Quiero copiar y pegar allí.
+
+00:01:50.840 --> 00:01:55.246
+Copiar así, entonces--no, me esta dando la cosa equivocada.
+
+00:01:55.246 --> 00:01:57.290
+Habría sido más fácil--permítanme simplemente reescribirla.
+
+00:01:57.290 --> 00:01:58.230
+Eso es lo más fácil.
+
+00:01:58.230 --> 00:02:00.590
+Estoy teniendo dificultades técnicas.
+
+00:02:00.590 --> 00:02:04.660
+Entones dividida por 4 multiplicada por 2.
+
+00:02:04.660 --> 00:02:10.200
+Y en este lado, tenías esto 7 veces 2 más esta cosa en
+
+00:02:10.200 --> 00:02:11.760
+paréntesis anaranjados allí.
+
+00:02:11.760 --> 00:02:14.060
+Ahora, en cualquier paso solo miras una vez más.
+
+00:02:14.060 --> 00:02:15.690
+Siempre queremos hacer en primer lugar los paréntesis.
+
+00:02:15.690 --> 00:02:17.140
+Bien, quedas con ganas de hacer más y realmente
+
+00:02:17.140 --> 00:02:18.750
+no hay otro paréntesis?
+
+00:02:18.750 --> 00:02:22.210
+Así que tenemos que evaluar este paréntesis en naranja aquí.
+
+00:02:22.210 --> 00:02:25.160
+Así que tenemos que evaluar esta cosa primero.
+
+00:02:25.160 --> 00:02:26.550
+Pero a fin de evaluar esta cosa, tenemos
+
+00:02:26.550 --> 00:02:27.810
+que mirar en su interior.
+
+00:02:27.810 --> 00:02:31.290
+Y si nos fijamos en su interior, tienes 7 más 3 multiplicado por 3.
+
+00:02:31.290 --> 00:02:33.970
+Así que si usted sólo tenía 7 más 3 multiplicado por 3,
+
+00:02:33.970 --> 00:02:35.150
+¿cómo evaluarlo?
+
+00:02:35.150 --> 00:02:37.260
+Bueno, miras hacia atrás en el orden de las operaciones.
+
+00:02:37.260 --> 00:02:40.550
+Estamos dentro de los paréntesis aquí, por lo que en su interior
+
+00:02:40.550 --> 00:02:42.585
+ya no hay otros paréntesis.
+
+00:02:42.631 --> 00:02:48.085
+Así que la próxima cosa que debemos hacer... No hay ningún exponentes. La siguiente cosa es la multiplicación.
+
+00:02:48.085 --> 00:02:49.970
+Por lo que hacemos esto antes de hacer cualquier suma o resta.
+
+00:02:49.970 --> 00:02:54.250
+Por lo que queremos hacer el 3 multiplicado por 3 antes de que le agreguemos el 7.
+
+00:02:54.250 --> 00:02:59.090
+Así que esto va a ser 7 más --y el 3 multiplicado
+
+00:02:59.090 --> 00:03:00.270
+por 3 que queremos hacer en primer lugar.
+
+00:03:00.270 --> 00:03:01.850
+Queremos hacer la multiplicación en primer lugar.
+
+00:03:01.850 --> 00:03:04.380
+7 más 9.
+
+00:03:04.380 --> 00:03:06.360
+Va a estar entre los paréntesis anaranjados.
+
+00:03:06.360 --> 00:03:10.020
+Y luego tienes el 7 multiplicado por 2 más esto, en
+
+00:03:10.020 --> 00:03:10.870
+el lado izquierdo.
+
+00:03:10.870 --> 00:03:15.060
+Tienes la división por 4 veces multiplicado por 2 en el lado derecho.
+
+00:03:15.060 --> 00:03:17.370
+Y ahora esto--la cosa entre paréntesis--porque
+
+00:03:17.370 --> 00:03:19.200
+todavía quiero hacer primero los paréntesis.
+
+00:03:19.200 --> 00:03:20.650
+Bastante fácil de evaluar.
+
+00:03:20.650 --> 00:03:23.770
+¿Qué es 7 más 9?
+
+00:03:23.770 --> 00:03:27.040
+7 más 9 es 16.
+
+00:03:27.040 --> 00:03:32.280
+Y por lo tanto todo lo que tenemos se simplifica a 7 multiplicado por 2 más
+
+00:03:32.280 --> 00:03:38.140
+16 dividido por 4 multiplicado 2 veces.
+
+00:03:38.140 --> 00:03:40.103
+Ahora no tenemos ningún otro paréntesis, así que nos
+
+00:03:40.103 --> 00:03:42.910
+no tiene que preocupar la P en PEMDAS.
+
+00:03:42.910 --> 00:03:45.610
+No tenemos E, no hay exponentes en esto.
+
+00:03:45.610 --> 00:03:48.650
+Así que entonces vamos directo a la multiplicación y la división.
+
+00:03:48.650 --> 00:03:51.970
+Tenemos una multiplicación--tenemos algunas multiplicaciones
+
+00:03:51.970 --> 00:03:53.200
+sucediendo allí.
+
+00:03:53.200 --> 00:03:55.200
+Tenemos algunas divisiones sucediendo aquí y una
+
+00:03:55.200 --> 00:03:56.800
+multiplicación allí.
+
+00:03:56.800 --> 00:04:00.210
+Por lo que deberíamos hacer estas a continuación, antes de hacer estas
+
+00:04:00.210 --> 00:04:01.670
+sumas allí.
+
+00:04:01.670 --> 00:04:03.830
+Por lo que podríamos hacer esta multiplicación.
+
+00:04:03.830 --> 00:04:05.260
+Podríamos hacer esa multiplicación.
+
+00:04:05.260 --> 00:04:08.480
+7 veces 2 es 14.
+
+00:04:08.480 --> 00:04:10.015
+Vamos a esperar para hacer esa suma.
+
+00:04:10.015 --> 00:04:12.730
+Y, a continuación, aquí tenemos un 16 dividido por 4 multiplicador 2 veces.
+
+00:04:16.070 --> 00:04:17.770
+Esto obtiene prioridad sobre la adición, así que vamos a hacer
+
+00:04:17.770 --> 00:04:19.160
+esto antes que de hacer la adición.
+
+00:04:19.160 --> 00:04:21.370
+Pero ¿cómo evaluamos?
+
+00:04:21.370 --> 00:04:23.810
+¿Hacemos la división primero, o la multiplicación de primero?
+
+00:04:23.810 --> 00:04:26.340
+Y recuerda, lo dije en el último video, cuando tienes 2--
+
+00:04:26.340 --> 00:04:28.760
+Cuando tienes varias operaciones del mismo nivel--
+
+00:04:28.760 --> 00:04:31.190
+en este caso, división y multiplicación--son
+
+00:04:31.190 --> 00:04:32.220
+del mismo nivel.
+
+00:04:32.220 --> 00:04:34.460
+Es más seguro si vas de izquierda a derecha.
+
+00:04:34.460 --> 00:04:36.360
+Deberías de ir de izquierda a derecha.
+
+00:04:36.360 --> 00:04:39.950
+Por lo que haces 16 dividido por 4 es 4.
+
+00:04:39.950 --> 00:04:42.180
+Por lo tanto esta cosa aquí --simplifica 16 dividido
+
+00:04:42.180 --> 00:04:43.680
+por 4 multiplicado 2 veces.
+
+00:04:43.680 --> 00:04:49.420
+Simplifica a 4 multiplicado por 2.
+
+00:04:49.420 --> 00:04:51.800
+Es esta cosa verde justo allí.
+
+00:04:51.800 --> 00:04:54.180
+Y, a continuación, vamos a querer hacer la multiplicación.
+
+00:04:54.180 --> 00:04:58.050
+Así que esto va a simplificar a --porque la multiplicación
+
+00:04:58.050 --> 00:05:01.930
+tiene prioridad sobre la adición--esto simplifica a 8.
+
+00:05:01.930 --> 00:05:08.740
+Y así obtendrás 14--este 14 aquí--más 8.
+
+00:05:08.740 --> 00:05:10.730
+Y ¿qué es 14 más 8?
+
+00:05:10.730 --> 00:05:13.190
+Es 22.
+
+00:05:13.190 --> 00:05:16.450
+Es igual a 22.
+
+00:05:16.450 --> 00:05:18.990
+Y terminamos.

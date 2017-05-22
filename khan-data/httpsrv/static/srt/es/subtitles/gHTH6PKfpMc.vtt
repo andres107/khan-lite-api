@@ -1,0 +1,558 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.250 --> 00:00:05.640
+Bienvenidos a la presentación sobre divisiones de nivel cuatro.
+
+00:00:05.640 --> 00:00:09.540
+¿Qué es lo que hace que las divisiones de nivel cuatro sean más difíciles que las de nivel tres?
+
+00:00:09.540 --> 00:00:14.582
+es que en lugar de tener un número de un dígito dividiendo a un número de varios dígitos,
+
+00:00:14.582 --> 00:00:17.838
+ahora vamos a tener un número de dos dígitos dividiendo a un número de varios dígitos.
+
+00:00:17.838 --> 00:00:21.540
+Empecemos entonces con algunos problemas de práctica.
+
+00:00:21.540 --> 00:00:26.118
+Vamos a empezar con lo que yo diría que es un ejemplo relativamente sencillo.
+
+00:00:26.118 --> 00:00:27.318
+El nivel cuatro de problemas que verás
+
+00:00:27.318 --> 00:00:28.300
+son en realidad un poco más difíciles.
+
+00:00:28.300 --> 00:00:40.320
+Pero digamos que tengo 25 dividiendo a 6,250
+
+00:00:40.320 --> 00:00:46.660
+La mejor manera de pensar acerca de esto es que dices, bueno, tengo 25.
+
+00:00:46.660 --> 00:00:48.520
+Cabe 25 en 6?
+
+00:00:48.520 --> 00:00:49.300
+Bueno, no.
+
+00:00:49.300 --> 00:00:52.900
+Es evidente que 6 es menor que 25, por lo que 25 no cabe en 6.
+
+00:00:52.900 --> 00:00:56.744
+Entonces pregúntate a ti mismo, si 25 no cabe en 6,
+
+00:00:56.744 --> 00:00:58.990
+¿Cabe 25 en 62?
+
+00:00:58.990 --> 00:00:59.740
+Bueno, seguro que sí.
+
+00:00:59.740 --> 00:01:03.940
+62 es mayor que 25, por lo que 25 cabe en 62.
+
+00:01:03.940 --> 00:01:05.230
+Bueno, vamos a pensar en esto.
+
+00:01:05.230 --> 00:01:07.370
+25 veces uno es 25
+
+00:01:07.370 --> 00:01:10.800
+25 veces dos es 50.
+
+00:01:10.800 --> 00:01:13.180
+Por lo tanto, cabe en 62 por lo menos dos veces.
+
+00:01:13.180 --> 00:01:15.700
+Y 25 veces tres es 75.
+
+00:01:15.700 --> 00:01:16.900
+Así que eso es demasiado.
+
+00:01:16.900 --> 00:01:21.300
+Así que 25 cabe en 62 dos veces.
+
+00:01:21.300 --> 00:01:25.020
+Y realmente no hay manera mecánica de averiguar esto.
+
+00:01:25.030 --> 00:01:26.508
+Tienes que pensar un poco y decir,
+
+00:01:26.508 --> 00:01:28.375
+Bien, ¿cuántas veces creo que 25 va a caber en 62?
+
+00:01:28.375 --> 00:01:29.440
+Y a veces te equivocas.
+
+00:01:29.440 --> 00:01:30.560
+A veces vas a poner un número aquí.
+
+00:01:30.560 --> 00:01:32.949
+Dirás que si no supieras, habrías puesto un 3 aquí
+
+00:01:32.949 --> 00:01:34.484
+y luego habrías dicho que 3 veces 25
+
+00:01:34.484 --> 00:01:35.930
+sería 75 aquí.
+
+00:01:35.930 --> 00:01:37.486
+Y esto hubiera sido un número demasiado grande,
+
+00:01:37.486 --> 00:01:39.840
+así que me habría regresado y lo hubiera cambiado a un dos.
+
+00:01:39.840 --> 00:01:43.808
+Del mismo modo, si hubiera dicho uno tuviera 1 veces 25,
+
+00:01:43.808 --> 00:01:45.703
+cuando lo resto,
+
+00:01:45.703 --> 00:01:48.290
+la diferencia que habría conseguido sería mayor que 25.
+
+00:01:48.290 --> 00:01:50.150
+Y luego sabría que, uno es demasiado pequeño.
+
+00:01:50.150 --> 00:01:51.970
+Tengo que aumentar a dos.
+
+00:01:51.970 --> 00:01:53.490
+Espero que no haya confundido demasiado.
+
+00:01:53.490 --> 00:01:56.445
+Sólo quiero que sepas que no te debes de poner nervioso,
+
+00:01:56.445 --> 00:01:59.612
+y pensar, hombre, cada vez que doy este paso es como -
+
+00:01:59.612 --> 00:02:01.170
+si tuviera que adivinar cual es el número
+
+00:02:01.170 --> 00:02:02.800
+en lugar de tener un método.
+
+00:02:02.800 --> 00:02:04.540
+Y eso es cierto. Todo el mundo tiene que hacer eso.
+
+00:02:04.540 --> 00:02:08.650
+Así que bueno, 25 cabe en 62 dos veces.
+
+00:02:08.650 --> 00:02:10.480
+Ahora vamos a multiplicar 2 veces 25.
+
+00:02:10.480 --> 00:02:13.840
+Bueno, 2 veces 5 es 10.
+
+00:02:13.840 --> 00:02:18.740
+Y luego 2 veces 2 más 1 es cinco.
+
+00:02:18.740 --> 00:02:21.860
+Y sabemos que 2 veces 25 es 50.
+
+00:02:21.860 --> 00:02:23.020
+Luego restamos.
+
+00:02:23.020 --> 00:02:24.970
+Dos menos cero es dos.
+
+00:02:24.970 --> 00:02:27.630
+Seis menos cinco es uno.
+
+00:02:27.631 --> 00:02:31.101
+Y ahora bajamos el cinco.
+
+00:02:31.101 --> 00:02:32.220
+El resto de la mecánica
+
+00:02:32.220 --> 00:02:35.540
+es más o menos como un problema de división de nivel tres.
+
+00:02:35.540 --> 00:02:41.250
+Ahora nos preguntamos, ¿cuántas veces cabe 25 en 125?
+
+00:02:41.250 --> 00:02:43.720
+Bueno, mi forma de pensar sobre esto es, veinticinco -
+
+00:02:43.720 --> 00:02:45.288
+cabe en cien aproximadamente cuatro veces -
+
+00:02:45.288 --> 00:02:47.855
+por lo que va a caber en 125 una vez más.
+
+00:02:47.855 --> 00:02:49.560
+Cabe 5 veces.
+
+00:02:49.560 --> 00:02:51.096
+Si no estabas seguro podrías tratar con cuatro
+
+00:02:51.096 --> 00:02:53.110
+y entonces verías que sobra mucho.
+
+00:02:53.110 --> 00:02:57.540
+O si trataste con 6 verías que en realidad se tendría -
+
+00:02:57.540 --> 00:02:59.805
+6 veces 25 es un número mayor que 125.
+
+00:02:59.805 --> 00:03:02.380
+Por lo que no puedes usar seis.
+
+00:03:02.380 --> 00:03:07.212
+Así que si decimos 25 cabe en 125 en 5 ocasiones,
+
+00:03:07.212 --> 00:03:13.608
+entonces vamos a multiplicar 5 veces 5 es 25.
+
+00:03:13.608 --> 00:03:17.138
+5 veces 2 es 10 más dos.
+
+00:03:17.138 --> 00:03:18.376
+Ciento veinticinco.
+
+00:03:18.376 --> 00:03:19.400
+Así que cabe exactamente.
+
+00:03:19.400 --> 00:03:22.414
+Entonces 125 menos 125 es claramente cero.
+
+00:03:22.414 --> 00:03:25.150
+Luego bajamos el cero.
+
+00:03:25.150 --> 00:03:28.270
+Y veinticinco cabe en cero, cero veces.
+
+00:03:28.270 --> 00:03:29.430
+Cero veces veinticinco es igual a cero.
+
+00:03:29.430 --> 00:03:30.990
+El residuo es igual a cero.
+
+00:03:30.990 --> 00:03:39.500
+Así que vemos que 25 cabe en 6,250 exactamente 250 veces.
+
+00:03:39.500 --> 00:03:45.998
+Vamos a hacer otro problema.
+
+00:03:45.998 --> 00:03:50.820
+Digamos que había - quiero escoger un número interesante.
+
+00:03:50.820 --> 00:03:55.232
+Digamos que tengo 15,
+
+00:03:55.232 --> 00:04:05.710
+y me gustaría saber cuántas veces cabe en 2,265.
+
+00:04:05.710 --> 00:04:07.330
+Bueno, hagamos lo mismo que hicimos antes.
+
+00:04:07.330 --> 00:04:09.780
+Decimos bien, cabe quince en dos?
+
+00:04:09.780 --> 00:04:10.710
+No.
+
+00:04:10.710 --> 00:04:12.910
+Así que, ¿quince cabe en veintidós?
+
+00:04:12.910 --> 00:04:13.430
+Seguro.
+
+00:04:13.430 --> 00:04:16.250
+Quince cabe en veintidós una vez.
+
+00:04:16.250 --> 00:04:18.220
+Notemos que escribimos el uno sobre el veintidós.
+
+00:04:18.220 --> 00:04:20.800
+Si hubiese sido dos, hubiéramos escrito el uno aquí.
+
+00:04:20.800 --> 00:04:23.260
+Pero quince cabe en veintidós una vez.
+
+00:04:23.260 --> 00:04:27.984
+Una veces quince es quince. ¿No?
+
+00:04:27.999 --> 00:04:33.378
+22 menos 15 - podríamos trasladar esto - uno, doce.
+
+00:04:33.378 --> 00:04:36.392
+Doce menos cinco es siete.
+
+00:04:36.392 --> 00:04:38.158
+Uno menos uno es igual a cero.
+
+00:04:38.158 --> 00:04:40.443
+Veintidós menos quince es siete.
+
+00:04:40.443 --> 00:04:43.190
+Baja el seis.
+
+00:04:43.190 --> 00:04:46.980
+Bien, ahora ¿cuántas veces cabe quince en setenta y seis?
+
+00:04:46.980 --> 00:04:50.330
+Una vez más, no hay una forma mecánica para hacerlo.
+
+00:04:50.330 --> 00:04:53.210
+Puedes hacerlo al ojo y estimar.
+
+00:04:53.210 --> 00:04:55.530
+Pues bien, quince veces dos es treinta.
+
+00:04:55.530 --> 00:04:58.490
+Quince veces cuatro es sesenta.
+
+00:04:58.490 --> 00:05:01.510
+Quince veces cinco es setenta y cinco.
+
+00:05:01.510 --> 00:05:08.469
+Ya estamos muy cerca, así que digamos 15 cabe en76 en cinco ocasiones.
+
+00:05:08.469 --> 00:05:12.118
+Por lo tanto 5 veces 5, una vez más, ya lo descubrí mentalmente,
+
+00:05:12.118 --> 00:05:13.760
+pero voy a hacerlo de nuevo.
+
+00:05:13.760 --> 00:05:15.200
+Cinco veces uno es cinco.
+
+00:05:15.200 --> 00:05:17.920
+Más siete.
+
+00:05:17.920 --> 00:05:20.740
+Oh, lo siento.
+
+00:05:20.740 --> 00:05:25.825
+5 veces 5 es 25.
+
+00:05:25.825 --> 00:05:26.620
+5 veces 1 es 5.
+
+00:05:26.620 --> 00:05:29.994
+Más 2 son 7.
+
+00:05:30.025 --> 00:05:32.030
+Ahora sólo restamos.
+
+00:05:32.040 --> 00:05:34.640
+76 menos 75 claramente igual a uno.
+
+00:05:34.640 --> 00:05:37.770
+Bajemos el cinco.
+
+00:05:37.770 --> 00:05:42.090
+Pues bien, 15 cabe en 15 exactamente una vez.
+
+00:05:42.090 --> 00:05:47.684
+Una veces 15 es 15.
+
+00:05:47.684 --> 00:05:50.338
+Restemos y tenemos un residuo de cero.
+
+00:05:50.340 --> 00:05:57.410
+Así que 15 cabe en 2,265 exactamente 151 veces.
+
+00:05:57.410 --> 00:05:59.647
+Por lo que pensemos en lo que estamos haciendo aquí
+
+00:05:59.647 --> 00:06:04.100
+y por qué es que es un poco más difícil que cuando se tiene un número de un dígito aquí.
+
+00:06:04.100 --> 00:06:05.550
+Es que tienes que pensar,
+
+00:06:05.550 --> 00:06:09.580
+Bueno, ¿cuántas veces este número de dos dígitos cabe en este número más grande?
+
+00:06:09.580 --> 00:06:14.926
+Y puesto que no conocemos las tablas de multiplicar de dos dígitos - muy pocas personas las conocen -
+
+00:06:14.926 --> 00:06:16.416
+tienes que hacer un poco de conjeturas.
+
+00:06:16.416 --> 00:06:17.992
+A veces se puede ver en este primer dígito
+
+00:06:17.992 --> 00:06:20.600
+y buscar en el primer dígito aquí y hacer una estimación.
+
+00:06:20.600 --> 00:06:21.800
+Pero a veces es prueba y error.
+
+00:06:21.800 --> 00:06:23.575
+Vas a tratar y cuando lo multipliques,
+
+00:06:23.575 --> 00:06:25.510
+es posible que te equivoques en el primer intento.
+
+00:06:25.510 --> 00:06:27.875
+Vamos a hacer otro problema.
+
+00:06:27.875 --> 00:06:29.262
+Y, de hecho, voy a elegir números al azar,
+
+00:06:29.262 --> 00:06:31.020
+para no tener un residuo fácil.
+
+00:06:31.020 --> 00:06:32.300
+Pero creo que entiendes el punto.
+
+00:06:32.300 --> 00:06:33.738
+No voy a enseñar ahora decimales,
+
+00:06:33.738 --> 00:06:36.590
+así que, si existe, solo voy a dejar el residuo.
+
+00:06:36.590 --> 00:06:49.580
+Digamos que tengo 67 dividiendo a 5,978.
+
+00:06:49.580 --> 00:06:51.651
+Acabo de seleccionar estos número al azar
+
+00:06:51.651 --> 00:06:56.513
+Les mostraré que a veces yo también tengo que hacer un poco de conjeturas
+
+00:06:56.513 --> 00:07:00.326
+para averiguar cuántas veces es que uno de estos números de dos dígitos cabe en un número mayor.
+
+00:07:00.326 --> 00:07:03.560
+Así que 67 cabe en 5 cero veces
+
+00:07:03.560 --> 00:07:06.620
+67 cabe en 59 cero veces.
+
+00:07:06.620 --> 00:07:13.440
+67 cabe en 597 - vamos a ver ...
+
+00:07:13.440 --> 00:07:19.880
+67 es casi 70 y 597 es casi 600.
+
+00:07:19.880 --> 00:07:27.681
+Así que si 70 cabe - 70 veces 9 es 630. ¿No?
+
+00:07:27.681 --> 00:07:29.820
+Porque 7 veces 9 sesenta y tres.
+
+00:07:29.820 --> 00:07:33.110
+Así que voy a la aproximación de ojo
+
+00:07:33.110 --> 00:07:35.060
+Voy a decir que cabe 8 veces.
+
+00:07:35.060 --> 00:07:38.765
+Puedo estar equivocado.
+
+00:07:38.765 --> 00:07:40.226
+Y siempre se puede comprobar,
+
+00:07:40.226 --> 00:07:42.930
+pero bueno, vamos a ver en realidad en este paso.
+
+00:07:42.930 --> 00:07:48.082
+8 veces 7 - y eso es 56.
+
+00:07:48.082 --> 00:07:51.251
+Y luego 8 veces 6 es 48.
+
+00:07:51.251 --> 00:07:57.377
+Más 2 son 53.
+
+00:07:57.377 --> 00:07:59.315
+7 menos 6 es uno.
+
+00:07:59.315 --> 00:08:01.740
+9 menos 3 es 6.
+
+00:08:01.740 --> 00:08:03.560
+Cinco menos cinco es igual a cero.
+
+00:08:03.560 --> 00:08:04.650
+Sesenta y uno.
+
+00:08:04.650 --> 00:08:05.908
+Así que, bueno. Lo hice bien.
+
+00:08:05.908 --> 00:08:12.040
+Porque si yo tengo aquí un número más grande que - que fuese 67 o mayor,
+
+00:08:12.052 --> 00:08:15.050
+entonces eso significa que este número hasta aquí no era lo suficientemente grande.
+
+00:08:15.050 --> 00:08:17.401
+Pero aquí, tengo un número que es positivo,
+
+00:08:17.401 --> 00:08:20.530
+porque 536 es menor que 597.
+
+00:08:20.530 --> 00:08:24.070
+Y es menor que 67, así que hice ese paso bien.
+
+00:08:24.070 --> 00:08:28.250
+Así que, ahora bajamos este ocho.
+
+00:08:28.250 --> 00:08:30.760
+Ahora bien, esto podría ser un poco más complicado esta vez.
+
+00:08:30.760 --> 00:08:35.500
+Una vez más, tenemos casi 70 y aquí tenemos casi 630.
+
+00:08:35.500 --> 00:08:37.990
+Así que tal vez cabe 9 veces.
+
+00:08:37.990 --> 00:08:42.225
+Bueno, vamos a probar y ver si cabe.
+
+00:08:42.225 --> 00:08:49.318
+9 veces 7 es 63.
+
+00:08:49.338 --> 00:08:51.709
+9 veces 6 es 54.
+
+00:08:51.720 --> 00:08:53.870
+Más 6 es 60.
+
+00:08:53.870 --> 00:08:54.700
+Bien!
+
+00:08:54.700 --> 00:08:56.210
+Así que en realidad cupo 9 veces
+
+00:08:56.210 --> 00:08:59.480
+porque 603 es menor que 618.
+
+00:08:59.480 --> 00:09:01.730
+8 menos 3 es 5.
+
+00:09:01.730 --> 00:09:04.580
+Uno menos cero es uno.
+
+00:09:04.580 --> 00:09:07.662
+Y 6 menos 6 es igual a cero.
+
+00:09:07.662 --> 00:09:13.434
+Tenemos un residuo de 15, que es menor que 67.
+
+00:09:13.434 --> 00:09:15.158
+Así que no te voy a enseñar los decimales en este momento,
+
+00:09:15.158 --> 00:09:16.970
+por lo que podemos dejar el residuo.
+
+00:09:16.970 --> 00:09:23.690
+Entonces, lo qué podemos decir es que 67 cabe en 5,978 89 veces.
+
+00:09:23.690 --> 00:09:25.488
+Y cuando cabe 89 veces,
+
+00:09:25.488 --> 00:09:28.670
+Te queda un residuo de 15.
+
+00:09:28.670 --> 00:09:33.558
+Esperemos que estés listo ahora para probar resolver problemas de división de nivel cuatro.
+
+00:09:33.560 --> 00:09:35.130
+Que se diviertan!

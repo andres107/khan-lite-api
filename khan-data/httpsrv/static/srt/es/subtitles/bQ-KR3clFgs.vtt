@@ -1,0 +1,269 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.938 --> 00:00:04.559
+Ahora que conocemos un poco sobre la multiplicación de números positivos y negativos
+
+00:00:04.559 --> 00:00:06.649
+Pensemos en cómo podemos dividirlos
+
+00:00:06.649 --> 00:00:10.022
+Lo que vas a ver es una metodología muy similar
+
+00:00:10.022 --> 00:00:13.854
+que si ambos son positivos, usted va a obtener una respuesta positiva
+
+00:00:13.864 --> 00:00:18.395
+pero si uno es negativo, o el otro, pero no ambos, la respuesta será negativa.
+
+00:00:18.395 --> 00:00:21.910
+y si ambos son negativos, ellos se cancelarán y obtendrá una respuesta positiva.
+
+00:00:21.910 --> 00:00:25.862
+Pero vamos a aplicarlo y yo lo animo a que pause este vídeo y lo intente usted solo
+
+00:00:25.862 --> 00:00:29.333
+y luego mire si usted obtiene la misma respuesta que yo voy a obtener.
+
+00:00:29.333 --> 00:00:32.670
+así, 8 dividido entre 2 negativo
+
+00:00:32.670 --> 00:00:37.487
+bien, si digo solo que 8 dividido entre 2, será 4 positivo,
+
+00:00:37.487 --> 00:00:41.356
+pero como exactamente uno de estos dos números es negativo,
+
+00:00:41.356 --> 00:00:45.145
+justo este aquí arriba, entonces la respuesta será negativa
+
+00:00:45.145 --> 00:00:49.556
+asi que, 8 divido entre 2 negativo será 4 negativo
+
+00:00:49.556 --> 00:00:52.875
+ahora, 16 negativo divido entre 4 positivo
+
+00:00:52.875 --> 00:00:54.423
+ahora, tenga cuidado aquí.
+
+00:00:54.423 --> 00:00:59.727
+si yo digo solo que 16 positivo dividido entre 4 positivo me da 4
+
+00:00:59.727 --> 00:01:02.675
+pero dado que uno de estos números es negativo,
+
+00:01:02.675 --> 00:01:05.121
+y exactamente uno de estos dos números es negativo,
+
+00:01:05.121 --> 00:01:08.204
+entonces voy a obtener una respuesta negativa.
+
+00:01:08.204 --> 00:01:11.874
+Ahora yo tengo 30 negativo dividido entre 5 negativo,
+
+00:01:11.874 --> 00:01:16.775
+Si solo digo 30 divido entre 5, eso daría 6 positivo,
+
+00:01:16.775 --> 00:01:20.573
+y dado que yo tengo un negativo dividido entre un negativo,
+
+00:01:20.573 --> 00:01:25.011
+entonces los negativos se cancelan, así mi respuesta será 6 positivo
+
+00:01:25.011 --> 00:01:27.602
+y puedo incluso ponerle un positivo (+) aquí, pero no es obligatorio
+
+00:01:27.602 --> 00:01:29.638
+luego, esto es un seis positivo.
+
+00:01:29.638 --> 00:01:34.065
+Un negativo dividido otro negativo, es justo como negativo por negativo,
+
+00:01:34.065 --> 00:01:37.063
+usted va a obtener una respuesta positiva.
+
+00:01:37.063 --> 00:01:39.035
+18 dividido entre 2
+
+00:01:39.035 --> 00:01:40.612
+y esta es una pregunta un poco obvia,
+
+00:01:40.612 --> 00:01:43.934
+pues es lo que usted ya sabía hacer mucho antes que habláramos de números negativos.
+
+00:01:43.934 --> 00:01:47.067
+un positivo dividido entre un positivo
+
+00:01:47.067 --> 00:01:49.035
+el cual será un positivo,
+
+00:01:49.035 --> 00:01:52.918
+eso será igual a 9 positivo.
+
+00:01:52.918 --> 00:01:55.769
+Ahora, empezaremos a hacer cosas interesantes,
+
+00:01:55.769 --> 00:01:57.967
+Aquí hay una especie de problema compuesto.
+
+00:01:57.967 --> 00:02:01.464
+Tenemos multiplicación y división a la vez
+
+00:02:01.464 --> 00:02:03.698
+por eso empecemos aquí arriba, en la forma que está escrito,
+
+00:02:03.698 --> 00:02:06.030
+vamos a multiplicar los numeradores
+
+00:02:06.030 --> 00:02:07.794
+y si no está familiarizado con este pequeño símbolo de punto,
+
+00:02:07.794 --> 00:02:10.164
+es solo otra forma de indicar una multiplicación,
+
+00:02:10.164 --> 00:02:12.381
+Yo hubiera podido escribir este pequeño "por" de aquí
+
+00:02:12.381 --> 00:02:15.628
+pero lo que usted va a ver en álgebra es que el punto será mucho más común.
+
+00:02:15.628 --> 00:02:19.308
+porque la equis "x" será usada para otras cosas llamadas variables
+
+00:02:19.308 --> 00:02:23.383
+y la gente no quiere confundir el símbolo por "x" con la letra equis
+
+00:02:23.383 --> 00:02:25.444
+la cual se usa muchísimo en álgebra.
+
+00:02:25.444 --> 00:02:27.567
+Por eso se usa el punto con mucha frecuencia
+
+00:02:27.567 --> 00:02:31.093
+solo digamos que 7 negativo por 3 en el numerador,
+
+00:02:31.093 --> 00:02:34.717
+y luego tomaremos ese producto y lo dividimos entre 1 negativo
+
+00:02:34.717 --> 00:02:37.687
+así el numerador, 7 negativo por 3,
+
+00:02:37.687 --> 00:02:40.490
+7 positivo por 3 dará veintiuno
+
+00:02:40.490 --> 00:02:43.657
+pero como exactamente uno de esos dos es negativo,
+
+00:02:43.657 --> 00:02:45.883
+esto será 21 negativo sobre 1 negativo
+
+00:02:45.928 --> 00:02:49.143
+así 21 negativo dividido entre 1 negativo
+
+00:02:49.143 --> 00:02:54.444
+negativo divido entre negativo será un positivo
+
+00:02:54.454 --> 00:02:57.300
+así esto será 21 positivo
+
+00:02:57.300 --> 00:02:59.510
+Déjeme escribir todo estas cosas aquí abajo
+
+00:02:59.510 --> 00:03:06.956
+Si tengo un POSITIVO divido entre NEGATIVO dará NEGATIVO
+
+00:03:06.956 --> 00:03:13.285
+Si tengo un NEGATIVO dividido POSITIVO dará NEGATIVO también.
+
+00:03:13.285 --> 00:03:19.677
+Si tengo un NEGATIVO dividido entre NEGATIVO dará POSITIVO
+
+00:03:19.677 --> 00:03:27.061
+y si tengo un POSITIVO dividido entre POSITIVO dará POSITIVO
+
+00:03:27.061 --> 00:03:28.970
+Ahora hagamos este último aquí arriba,
+
+00:03:28.970 --> 00:03:30.579
+Esto es solo multiplicación
+
+00:03:30.589 --> 00:03:31.989
+pero es interesante porque estamos multplicando
+
+00:03:31.989 --> 00:03:34.539
+tres cosas, que no hemos hecho aún.
+
+00:03:34.539 --> 00:03:37.116
+y podemos ir de izquierda a derecha, aquí arriba,
+
+00:03:37.116 --> 00:03:40.405
+y podemos pensar primero en 2 negativo por 7 negativo
+
+00:03:40.405 --> 00:03:43.169
+2 negativo por 7 negativo son ambos negativos
+
+00:03:43.169 --> 00:03:45.177
+luego negativo cancela negativo
+
+00:03:45.177 --> 00:03:49.199
+luego, esto nos dará, esta parte de aquí, 14 positivo
+
+00:03:49.199 --> 00:03:54.938
+así que vamos a multiplicar 14 positivo por 1negativo
+
+00:03:54.938 --> 00:03:57.819
+ahora tenemos un positivo por un negativo
+
+00:03:57.819 --> 00:03:59.590
+exactamente uno de ellos es negativo,
+
+00:03:59.590 --> 00:04:01.470
+así que esto me dará una respuesta negativa
+
+00:04:01.470 --> 00:04:04.710
+Esto me va a dar 14 negativo
+
+00:04:04.710 --> 00:04:06.087
+Ahora, déjeme darle otro par de casos
+
+00:04:06.087 --> 00:04:08.655
+creo que los voy a llamar problemas truco
+
+00:04:08.655 --> 00:04:13.960
+¿Qué pasa si tengo 0 dividido entre 5 negativo?
+
+00:04:13.960 --> 00:04:16.482
+bien. esto es CERO QUINTOS negativo
+
+00:04:16.482 --> 00:04:21.925
+como 0 dividido entre cualquier número distinto de cero es 0
+
+NOTE Paragraph
+
+00:04:21.925 --> 00:04:25.035
+pero que pasa si lo tenemos al contrario?
+
+00:04:25.035 --> 00:04:27.371
+¿Qué pasa si decimos 5 negativo dividido entre 0?
+
+00:04:27.371 --> 00:04:29.837
+bien, nosotros no sabemos que pasa si usted divide entre 0.
+
+00:04:29.837 --> 00:04:31.522
+NO hemos DEFINIDO eso.
+
+00:04:31.522 --> 00:04:35.254
+Existen argumentos para muchas formas de concebir esto,
+
+00:04:35.254 --> 00:04:38.301
+así que, siempre decimos que esto NO ESTA DEFINIDO.
+
+00:04:38.301 --> 00:04:42.693
+No hemos definido qué pasa cuando "algo" está dividido entre 0
+
+00:04:42.693 --> 00:04:45.807
+análogamente, si tenemos 0 dividido entre 0,
+
+00:04:45.807 --> 00:04:51.441
+esto también es INDEFINIDO.

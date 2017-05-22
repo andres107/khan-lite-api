@@ -1,0 +1,99 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+En el video anterior descubrimos cómo construir una unidad vectorial en una superficie y ahora podemos
+
+99:59:59.999 --> 99:59:59.999
+usarlo de vuelta en nuestra integral de superficie original para intentar simplificarlo un poco o al menos darnos una idea
+
+99:59:59.999 --> 99:59:59.999
+de cómo podemos calcular estas cosas y además pensar diferentes maneras de representar este tipo de integral
+
+99:59:59.999 --> 99:59:59.999
+superficial asi que si solo sustituimos lo que elegimos como vector normal -- nuestro vector de unidad normal--
+
+99:59:59.999 --> 99:59:59.999
+justo aquí tendremos, tendremos--asi que una vez más es la integral de superficie de FF punto-- y todo esto
+
+99:59:59.999 --> 99:59:59.999
+acá voy a escribirlo en blanco así no me toma mucho tiempo
+
+99:59:59.999 --> 99:59:59.999
+Así que la parcial de r con respecto a tí multiplicada por la parcial con respecto a v sobre la magnitud
+
+99:59:59.999 --> 99:59:59.999
+de la misma cosa:la parcial de r con respecto a tí multiplicada por la parcial con respecto a v
+
+99:59:59.999 --> 99:59:59.999
+Y ahora, hemos jugado con ds un montón--sabemos esa otra forma de escribir ds y di la intuición,afortunadamente,
+
+99:59:59.999 --> 99:59:59.999
+para eso. En varios videos previos cuando empezamos a explorar que era todo esto de la integral de superficie--Sabemos que
+
+99:59:59.999 --> 99:59:59.999
+ds puede ser representada como la magnitud parcial de r con respecto a ti por
+
+99:59:59.999 --> 99:59:59.999
+parcial de r con respecto de v, du, dv--y obviamente du dv pueden ser escritos como dv du, puede ser escrita
+
+99:59:59.999 --> 99:59:59.999
+como un pedazo de área en el plano uv o en el dominio uv. Y de hecho desde ahora estas integrales
+
+99:59:59.999 --> 99:59:59.999
+en términos de uv-- ya no estamos tomando una integral de superficie sino una doble integral sobre el dominio uv.
+
+99:59:59.999 --> 99:59:59.999
+Asi que puedes decir más o menos una región en uv asi que esto es, voy a decir r y decir que esa es una región en el plano uv
+
+99:59:59.999 --> 99:59:59.999
+la que estabamos pensando. Hay probablemente una grande o deberia haber o solo estoy adivinando que hay una gran
+
+99:59:59.999 --> 99:59:59.999
+simplificacion que te sale ahora-- estamos dividiendo por la magnitud del producto de estos dos vectores
+
+99:59:59.999 --> 99:59:59.999
+y entonces estamos multiplicando por la magnitud del producto de estos dos vectores-- estas son las
+
+99:59:59.999 --> 99:59:59.999
+cantidades escalares que divides por algo y multiplicas por algo.bueno, es lo mismo
+
+99:59:59.999 --> 99:59:59.999
+que multiplicar o dividir por 1. Asi que estos dos se cancelan y nuestras integrales se simplifican, tambien
+
+99:59:59.999 --> 99:59:59.999
+la doble integral sobre esa región correspondiente al plano uv d de nuestro campo vectorial
+
+99:59:59.999 --> 99:59:59.999
+f puntuado con este producto-- esto va a darnos un vector por aqui
+
+99:59:59.999 --> 99:59:59.999
+eso nos va a dar un vector y nos da
+
+99:59:59.999 --> 99:59:59.999
+de hecho un vector normal, entonces dividimos por su magnitud y te da una unidad normal de vector
+
+99:59:59.999 --> 99:59:59.999
+asi que esto--vas a tomar el producto resultante de f con
+
+99:59:59.999 --> 99:59:59.999
+r la parcial de r con respecto de ti
+
+99:59:59.999 --> 99:59:59.999
+por la parcial de r con respecto de v
+
+99:59:59.999 --> 99:59:59.999
+du dv du, dejenme moverme un poco
+
+99:59:59.999 --> 99:59:59.999
+du dv y veremos en unos pocos videos que asi es como eventualmente
+
+99:59:59.999 --> 99:59:59.999
+calcularemos estas cosas teniendo una primarizacion
+
+99:59:59.999 --> 99:59:59.999
+puedes obtener todo en terminos de una doble integral en terminos de uv de esta manera ahora
+
+99:59:59.999 --> 99:59:59.999
+la ultima cosa que quiero hacer es explorar otra forma que verás una integral de superficie como la aqui escrita

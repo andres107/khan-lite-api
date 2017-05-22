@@ -1,0 +1,110 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.859 --> 00:00:09.653
+Lo que quiero hacer en este video es trabajar en la diferencia entre un SEGMENTO DE LÍNEA una RECTA
+
+00:00:10.145 --> 00:00:18.704
+y un RAYO (semi recta) y esta es la versión geométrica. Un SEGMENTO DE LÍNEA es lo que normalmente
+
+00:00:18.898 --> 00:00:23.393
+asociamos con la idea de línea en nuestro día a día.
+
+00:00:23.778 --> 00:00:30.477
+Entonces un segmento de línea, es sólo una línea recta,
+
+00:00:30.477 --> 00:00:34.897
+pero que llamamos segmento por que tiene un punto de inicio y otro final.
+
+00:00:34.977 --> 00:00:40.397
+Entonces la mayoría de las líneas de nuestro día a día son segmentos de línea si las pensamos desde
+
+00:00:40.711 --> 00:00:45.605
+un punto de vista geométrico. Y sé que dibujé un pedazo de curva aquí, pero se supone
+
+00:00:45.957 --> 00:00:51.404
+que es completamente derecha. Pero es un segmento de línea. El segmento se basa en el hecho
+
+00:00:51.404 --> 00:00:56.388
+de que tiene un punto final y uno de inicio, o un punto de inicio y uno final. Una linea recta,
+
+00:00:56.446 --> 00:01:03.253
+es esencialmente, en sentido geometrico, una linea sin fin,
+
+00:01:03.253 --> 00:01:08.663
+No tiene un punto de comienzo y un punto final. Se extiende en ambas direcciones,
+
+00:01:08.663 --> 00:01:16.334
+entonces una linea se vería así, y para mostrar que se extiende siempre
+
+00:01:16.334 --> 00:01:22.564
+en esa dirección (a la derecha) la dibujamos como una flecha, y para seguir mostrando que continúa
+
+00:01:22.564 --> 00:01:28.778
+hacia abajo a la izquierda, dibujo una flecha justo ahí. Obviamente nunca encontraremos
+
+00:01:28.778 --> 00:01:33.667
+una linea que se mantenga recta por siempre, pero en matemática (esa es la idea de la matemática)
+
+NOTE Paragraph
+
+00:01:33.667 --> 00:01:39.797
+podemos pensar sobre estas nociones abstractas, en que en el sentido geométrico una línea recta
+
+00:01:39.797 --> 00:01:48.427
+es la "cosa" recta que se extiende de forma infinita. Ahora un rayo es algo parecido. Un rayo tiene un punto de inicio bien definido
+
+00:01:48.427 --> 00:01:53.672
+( este es el punto de inicio) pero no tiene un punto final, se mantiene en una dirección. Entonces, el rayo
+
+00:01:53.682 --> 00:02:00.726
+puede comenzar por aquí, pero se mantiene en una dirección. Entonces, eso que está acá
+
+00:02:00.726 --> 00:02:10.456
+es un rayo. Deberíamos tratar un módulo que nos permita reconocer la diferencia entre rectas, segmentos y rayos.
+
+00:02:10.456 --> 00:02:16.307
+Ya con esto, tienen suficiente información para dominar este modulo.
+
+00:02:22.971 --> 00:02:28.090
+Ok, que es la cosa que está justo ahí
+
+00:02:28.123 --> 00:02:32.183
+Bien, tiene dos puntas de flechas en ambos extremos, lo que implica que seguirá de forma infinita. Esto
+
+00:02:32.183 --> 00:02:38.179
+será una línea recta (marquemos nuestra alternativa). Sí, es una recta (toma un poco de tiempo, correcto,
+
+00:02:38.179 --> 00:02:43.680
+siguiente pregunta). Ok, que pasa con esto?, esperen, una vez más flechas en ambos extremos, lo que significa que
+
+00:02:43.680 --> 00:02:50.710
+seguirá siempre en ambas direcciones, nuevamente es una recta. Muy bien, hagamos otra.
+
+00:02:50.710 --> 00:02:56.683
+Acá, tenemos una flecha, por lo tanto irá en una sola dirección, y tiene un punto inicial bien definido.
+
+00:02:56.683 --> 00:03:01.007
+Entonces, comienza y se extiende infinitamente. Y si recuerdan así es un rayo.
+
+00:03:01.007 --> 00:03:07.815
+Un punto de inicio pero se extiende infinitamente, se extiende en una sola dirección.
+
+00:03:07.815 --> 00:03:13.012
+Es un rayo. realicemos otra pregunta. Esta de acá, tenemos
+
+00:03:13.012 --> 00:03:20.180
+un punto de inicio y un punto final. Puedes decir que este es el punto inicial y el punto final pero no sigue de forma infinita en ninguna dirección
+
+00:03:20.180 --> 00:03:25.320
+por lo tanto, este de acá es un segmento.
+
+00:03:25.320 --> 00:03:32.884
+Esperemos, esto les entrega suficiente trabajo en este módulo. Se pueden dar cuenta, que cuando hice este módulo,
+
+00:03:32.884 --> 00:03:35.914
+no había video, es es exactamente lo que es esto,
+
+00:03:34.000 --> 00:03:37.700
+el video para este modulo.

@@ -1,0 +1,507 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.650 --> 00:00:04.500
+Bueno, ahora que has aprendido lo que yo creo, es muy probablemente uno de los
+
+00:00:04.500 --> 00:00:07.010
+Conceptos más útiles en la vida, y tú ya debes estar
+
+00:00:07.010 --> 00:00:11.920
+familiarizado con él, pero si no, esto con suerte te mantedrá
+
+00:00:11.920 --> 00:00:16.330
+lejos de un día llenar tu declaración de bancarrota
+
+00:00:16.330 --> 00:00:20.830
+OK de todos modos, voy hablar acerca del interés y luego interés simple
+
+00:00:20.830 --> 00:00:21.865
+versus interés compuesto.
+
+00:00:21.865 --> 00:00:23.770
+Entonces, ¿Qué es interés?
+
+00:00:23.770 --> 00:00:24.840
+Hemos oído algo de él
+
+00:00:24.840 --> 00:00:29.030
+Tasas de Interés, o interés en tu hipoteca, o cuánto
+
+00:00:29.030 --> 00:00:31.240
+interés debo en mi Tarjeta de Crédito
+
+00:00:31.240 --> 00:00:34.140
+Entonces interés -- No se cuál es la definición formal actual,
+
+00:00:34.140 --> 00:00:35.610
+Tal vez debería mirarlo en Wikipedia-- pero es
+
+00:00:35.610 --> 00:00:37.850
+esencialmente alquiler de dinero.
+
+00:00:37.850 --> 00:00:41.350
+Así que es dinero que tu pagas a fin de mantener dinero
+
+00:00:41.350 --> 00:00:42.520
+por algún período de tiempo.
+
+00:00:42.520 --> 00:00:45.420
+Esta no es probablemente la definición más obvia, pero
+
+00:00:45.420 --> 00:00:46.920
+déjame colocarlo de ésta manera.
+
+00:00:46.920 --> 00:00:52.640
+Digamos que quiero pedirte prestado $100 dólares
+
+00:00:52.640 --> 00:00:54.760
+Así que esto es ahora.
+
+00:00:54.760 --> 00:00:59.120
+y digamos que este es un año desde ahora.
+
+00:00:59.120 --> 00:01:00.080
+un año.
+
+00:01:00.080 --> 00:01:04.830
+Y este eres tú, y este soy yo.
+
+00:01:04.830 --> 00:01:07.580
+Entonces tu me das $100 dólares
+
+00:01:07.580 --> 00:01:09.915
+y luego yo tenglo los $100 dólares y un año pasó,
+
+00:01:09.915 --> 00:01:12.570
+y tengo $100 dólares aquí.
+
+00:01:12.570 --> 00:01:15.980
+Y si yo sólo te devolviera $100 dólares tu no
+
+00:01:15.980 --> 00:01:17.510
+recogerías ningún beneficio.
+
+00:01:17.510 --> 00:01:19.470
+tú sólo habrías recuperado tu dinero.
+
+00:01:19.470 --> 00:01:20.880
+no hubieras recibido ningún interés.
+
+00:01:20.880 --> 00:01:24.470
+Pero si tu dices, Sal yo puedo darte esos $100 dólares ahora si
+
+00:01:24.470 --> 00:01:30.860
+tú me das $110 un año después.
+
+00:01:30.860 --> 00:01:34.620
+Entonces en esta situación ¿Cuánto te pagué por mantener
+
+00:01:34.620 --> 00:01:36.620
+esos $100 dólares por un año?
+
+00:01:36.620 --> 00:01:38.200
+Bueno, te estoy pagando $10 dólares más ¿Verdad?
+
+00:01:38.200 --> 00:01:45.610
+Te estoy regresando los $100, y te estoy dando otros $10 dólares.
+
+00:01:45.610 --> 00:01:51.510
+Y estos $10 dólares extra que te estoy entregando es esencialmente
+
+00:01:51.510 --> 00:01:54.570
+una cuota que pagué por poder tener ese dinero y hacer
+
+00:01:54.570 --> 00:01:56.790
+cualquier cosa que yo quisiera con ese dinero, y tal vez ahorrarlo,
+
+00:01:56.790 --> 00:01:59.630
+tal vez invertirlo, hacer lo que quiera en un año.
+
+00:01:59.630 --> 00:02:02.200
+Y esos $ 10 dólares son esencialmente el interés.
+
+00:02:02.200 --> 00:02:05.530
+Y una forma en la que es a menudo calculado es como un porcentaje
+
+00:02:05.530 --> 00:02:07.850
+del monto original que pedí prestado.
+
+00:02:07.850 --> 00:02:11.140
+Y el monto original que pedí prestado en la jerga bancaria o
+
+00:02:11.140 --> 00:02:12.980
+en la terminología financiera es llamada Capital Inicial.
+
+00:02:19.200 --> 00:02:23.630
+Entonces en este caso, el 'alquiler' del dinero o el interés fueron $10 dólares.
+
+00:02:23.630 --> 00:02:27.920
+Y si quiero hacerlo como un porcentaje, diría 10 sobre
+
+00:02:27.920 --> 00:02:34.240
+el capital inicial-- sobre 100 -- lo cual es igual al 10%.
+
+00:02:34.240 --> 00:02:39.480
+Así que deberías decir, hey Sal, te puedo prestar $100 dólares si
+
+00:02:39.480 --> 00:02:41.420
+tu me pagas el 10% sobre el interés.
+
+00:02:41.420 --> 00:02:44.770
+Así que el 10% de $100 dólares fueron $10 dólares, así que después de un año te pagué
+
+00:02:44.770 --> 00:02:46.810
+$100 dólares, mas el 10%
+
+00:02:46.810 --> 00:02:47.560
+E igualmente
+
+00:02:47.560 --> 00:02:51.220
+por cualquier monto de dinero, decimos que me puedes prestar cualquier
+
+00:02:51.220 --> 00:02:53.540
+cantidad de dinero por un 10% de interés.
+
+00:02:53.540 --> 00:02:58.680
+Entonces si tu me estuvieras prestando $1.000 dólares, entonces el interés
+
+00:02:58.680 --> 00:03:00.950
+sería el 10% de eso, lo cual serían $100 dólares.
+
+00:03:00.950 --> 00:03:11.020
+Luego, despues de un año te debería $1.000 dólares mas 10% veces
+
+00:03:11.020 --> 00:03:14.555
+$1.000 dólares, y eso es igual a $1.100 dólares
+
+00:03:14.555 --> 00:03:17.780
+OK, to sólo añadía un cero a todo.
+
+00:03:17.780 --> 00:03:20.090
+En este caso $100 dólares serían el interés, pero
+
+00:03:20.090 --> 00:03:22.130
+éste sigue siendo el 10%.
+
+00:03:22.130 --> 00:03:25.170
+Entonces déjame hacer una diferenciación entre interés simple
+
+00:03:25.170 --> 00:03:27.000
+e interés compuesto.
+
+00:03:30.430 --> 00:03:33.220
+Así que hicimos justo un ejemplo donde tu me prestaste dinero
+
+00:03:33.220 --> 00:03:36.540
+por un año al 10%, ¿Verdad?
+
+00:03:36.540 --> 00:03:42.280
+Entonces digamos que alguien fuera a decir que mi tasa de interés
+
+00:03:42.280 --> 00:03:43.930
+que ellos cargan-- o la tasa de interés que ellos cargan a
+
+00:03:43.930 --> 00:03:51.000
+otras prsonas - is - bueno, 10% es un buen número -- 10% por año.
+
+00:03:51.000 --> 00:03:55.700
+Y digamos que el capital inicial que voy a pedir prestado
+
+00:03:55.700 --> 00:04:01.900
+de esta persona es $100 dólares.
+
+00:04:01.900 --> 00:04:03.980
+Así que mi pregunta para ti -- y tal vez quieras hacer una pausa
+
+00:04:03.980 --> 00:04:18.570
+después de lo que representa - es ¿Cuánto debo yo en 10 años?
+
+00:04:18.570 --> 00:04:21.140
+¿Cuánto debo yo en 10 años?
+
+00:04:21.140 --> 00:04:23.080
+Entonces hay realmente dos maneras de pensar acerca de esto.
+
+00:04:23.080 --> 00:04:30.350
+como si sólo
+
+00:04:30.350 --> 00:04:32.430
+hubiese pedido prestado el dinero, yo lo devolví inmediatamente,
+
+00:04:32.430 --> 00:04:33.730
+eso hubieran sido $100 dólares, ¿Verdad?
+
+00:04:33.730 --> 00:04:35.210
+No voy a hacer eso, voy a mantenerlo
+
+00:04:35.210 --> 00:04:36.570
+por al menos un año.
+
+00:04:36.570 --> 00:04:40.270
+Así que después de un año, sólo basado en el ejemplo que hicimos
+
+00:04:40.270 --> 00:04:48.870
+Yo podría añadir el 10% al moto de $100 dólares y yo
+
+00:04:48.870 --> 00:04:51.050
+debería entonces $110 dólares.
+
+00:04:51.050 --> 00:04:55.420
+Y después de dos años podría añadir otro 10% del
+
+00:04:55.420 --> 00:04:57.800
+monto principal original, Correcto?
+
+00:04:57.800 --> 00:04:59.610
+Así quye cada año, yo apenas añado $10 dólares.
+
+00:04:59.610 --> 00:05:03.775
+Así que en este caso serían $120, y en el año tres,
+
+00:05:03.775 --> 00:05:05.310
+Debería $130.
+
+00:05:05.310 --> 00:05:09.770
+Básicamente el alquiler al año de prestar estos $100 es $10, ¿verdad?
+
+00:05:09.770 --> 00:05:12.580
+Porque siempre estoy tomando el 10% de la cantidad original.
+
+00:05:12.580 --> 00:05:17.090
+Y después de 10 años - debido a que cada año me han tenido que
+
+00:05:17.090 --> 00:05:20.120
+pagar un extra de $10 en intereses - después de 10 años
+
+00:05:20.120 --> 00:05:22.630
+tendría que pagar $200.
+
+00:05:22.630 --> 00:05:23.200
+¿No?
+
+00:05:23.200 --> 00:05:33.520
+Y que $200 es igual a $ 100 de principal, más $100 de
+
+00:05:33.520 --> 00:05:36.580
+interses, porque me pagan $10 al año de intereses.
+
+00:05:36.580 --> 00:05:39.260
+Y esta idea que acabo de hacer aquí, es en realidad
+
+00:05:39.260 --> 00:05:43.020
+lo que llamamos interés simple.
+
+00:05:43.020 --> 00:05:45.260
+Lo cual es esencialmente de tomar la cantidad original que
+
+00:05:45.260 --> 00:05:48.840
+pediste prestada, el tipo de interés, la cantidad, la cuota que
+
+00:05:48.840 --> 00:05:51.140
+pagará cada año es el tipo de interés por la
+
+00:05:51.140 --> 00:05:53.090
+cantidad inicial, y que pagará de forma incremental
+
+00:05:53.090 --> 00:05:54.380
+para cada año.
+
+00:05:54.380 --> 00:05:55.980
+Pero si lo piensas bien, en realidad estás pagando un
+
+00:05:55.980 --> 00:05:58.390
+porcentaje más pequeño de lo que debería
+
+00:05:58.390 --> 00:05:59.170
+en ese año.
+
+00:05:59.170 --> 00:06:00.950
+Y tal vez cuando le muestre el interés compuesto
+
+00:06:00.950 --> 00:06:01.690
+esto tenga sentido.
+
+00:06:01.690 --> 00:06:05.530
+Así que esta es una forma de interpretar interés del 10% al año.
+
+00:06:05.530 --> 00:06:10.960
+Otra manera de interpretar es, OK, al inicio tenemos $100
+
+00:06:10.960 --> 00:06:13.840
+que usted está pidiendo prestado, o si se entregó el dinero, usted dice
+
+00:06:13.840 --> 00:06:15.230
+oh no, no, no lo quiero y que acaba de devolver,
+
+00:06:15.230 --> 00:06:16.550
+que me debe $ 100.
+
+00:06:16.550 --> 00:06:21.630
+Después de un año, básicamente pagaría los
+
+00:06:21.630 --> 00:06:27.450
+$100 más el 10% de $100, a la derecha, que es $110.
+
+00:06:27.450 --> 00:06:32.830
+Así que eso es $100, más el 10% de $100.
+
+00:06:32.830 --> 00:06:35.180
+Permítanme cambiar de color, porque es monótono.
+
+00:06:35.180 --> 00:06:36.970
+De acuerdo, pero creo que esto tiene sentido para ti.
+
+00:06:36.970 --> 00:06:39.030
+Y aquí es donde el interés simple y compuesto
+
+00:06:39.030 --> 00:06:40.220
+comienza a divergir.
+
+00:06:40.220 --> 00:06:42.930
+En este último caso que acabamos de ver el incremento del 10%
+
+00:06:42.930 --> 00:06:44.480
+de los $100 originales.
+
+00:06:44.480 --> 00:06:49.310
+En el interés compuesto ahora, no tomamos el 10% de
+
+00:06:49.310 --> 00:06:50.310
+la cantidad original.
+
+00:06:50.310 --> 00:06:52.310
+Ahora tomamos el 10% de esta cantidad.
+
+00:06:56.340 --> 00:07:02.440
+Así que ahora vamos a tener $ 110.
+
+00:07:02.440 --> 00:07:05.470
+Casi se puede ver como nuestro nuevo inicio.
+
+00:07:05.470 --> 00:07:06.840
+Esto es lo que ofrecemos por año, y luego
+
+00:07:06.840 --> 00:07:09.110
+devolveriamos.
+
+00:07:09.110 --> 00:07:19.810
+Así que ahora vamos a pagar $110 más el 10% de 110.
+
+00:07:19.810 --> 00:07:23.220
+Usted podría no repartir los 110, y eso es
+
+00:07:23.220 --> 00:07:32.950
+igual a 110 por 110.
+
+00:07:32.950 --> 00:07:34.440
+En realidad 110 por 1,1.
+
+00:07:39.730 --> 00:07:41.280
+Y la verdad es que podría escribirse de esta otra manera también.
+
+00:07:41.280 --> 00:07:45.850
+Podría escribir 100 por 1,1 al cuadrado,
+
+00:07:45.850 --> 00:07:49.920
+y es igual a $121.
+
+00:07:49.920 --> 00:07:52.790
+Y luego en el segundo año, este es mi nuevo principal - esto es
+
+00:07:52.790 --> 00:07:55.110
+$121 - este es mi nuevo principal.
+
+00:07:55.110 --> 00:07:57.990
+Y ahora tengo que en tres años - este es el segundo año.
+
+00:07:57.990 --> 00:08:01.710
+Estoy tomando más espacio, así que esto es de dos años.
+
+00:08:01.710 --> 00:08:06.450
+Y ahora, en tres años, voy a tener que pagar los $121
+
+00:08:06.450 --> 00:08:14.820
+que le debía al final del segundo año, más el 10% de la cantidad
+
+00:08:14.820 --> 00:08:20.450
+de dinero que debía al principio del año, $121.
+
+00:08:20.450 --> 00:08:22.950
+Y eso es lo mismo - que podría poner entre paréntesis
+
+00:08:22.950 --> 00:08:29.270
+aquí - esto es lo mismo que 1 por 121 más 0,1 por
+
+00:08:29.270 --> 00:08:35.650
+121, por lo que es lo mismo que 1,1 por 121.
+
+00:08:35.650 --> 00:08:38.800
+U otra forma de verlo, que es igual a nuestra cantidad original
+
+00:08:38.800 --> 00:08:44.180
+por 1,1 a la tercera potencia.
+
+00:08:44.180 --> 00:08:46.060
+Y si sigue haciendo esto - y le animo a hacerlo,
+
+00:08:46.060 --> 00:08:48.660
+porque le dará cierto sentido - al final de los
+
+00:08:48.660 --> 00:08:52.030
+10 años, tendremos que pagar - o usted, se me olvidaba quien prestaba a
+
+00:08:52.030 --> 00:08:57.962
+quien - $100 por 1,1 a la decima potencia.
+
+00:08:57.962 --> 00:08:59.050
+¿Y a qué es igual?
+
+00:08:59.050 --> 00:09:01.320
+Dejenme sacar mi hoja de cálculo.
+
+00:09:01.320 --> 00:09:02.690
+Permítanme tomar una celda al azar.
+
+00:09:02.690 --> 00:09:10.980
+Por lo tanto, 100 por 1,1 a la decima potencia.
+
+00:09:10.980 --> 00:09:14.160
+Así que $259 y algo más.
+
+00:09:19.890 --> 00:09:22.730
+Lo que pudo parecer una pequeña diferencia, pero que termina
+
+00:09:22.730 --> 00:09:24.580
+siendo una diferencia muy grande.
+
+00:09:24.580 --> 00:09:30.610
+Cuando se suma un 10% durante 10 años utilizando el interés
+
+00:09:30.610 --> 00:09:33.100
+compuesto, debo $259.
+
+00:09:33.100 --> 00:09:37.290
+Cuando lo hice con un interés simple, solo debí $ 200.
+
+00:09:37.290 --> 00:09:40.770
+Así que 59 dólares fue el incremento que
+
+00:09:40.770 --> 00:09:43.360
+me ha costado por el interés compuesto.
+
+00:09:43.360 --> 00:09:45.610
+Estoy a punto de quedarme sin tiempo, así que voy a hacer un par de
+
+00:09:45.610 --> 00:09:47.560
+ejemplos más en el siguiente video, solo para que realmente consiga una comprensión
+
+00:09:47.560 --> 00:09:50.460
+más completa de cómo hacer el interés compuesto, cómo
+
+00:09:50.460 --> 00:09:53.680
+funcionan los exponentes, y cual es realmente la diferencia.
+
+00:09:53.680 --> 00:09:54.060
+Nos vemos en el siguiente video.

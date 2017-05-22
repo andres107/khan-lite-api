@@ -1,0 +1,483 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.200 --> 00:00:07.740
+Supongamos que tengo $50 dólares en mi billetera y quiero ir a la tienda.
+
+00:00:07.750 --> 00:00:12.562
+$ 50 dólares en mi billetera.
+
+00:00:14.100 --> 00:00:18.660
+Este día la tienda tiene 25 por ciento
+
+00:00:18.670 --> 00:00:24.670
+de descuento sobre el precio de venta.
+
+00:00:24.670 --> 00:00:28.860
+El 25 por ciento de descuento significa
+
+00:00:28.870 --> 00:00:31.660
+que voy a pagar 25 por ciento menos
+
+00:00:31.670 --> 00:00:34.380
+sobre una venta de 100 dólares.
+
+00:00:34.390 --> 00:00:40.820
+Mi pregunta es: ¿ Si tengo $50 dólares
+
+00:00:40.820 --> 00:00:42.590
+, cual es el máximo precio de venta que puedo pagar?
+
+00:00:42.600 --> 00:00:45.270
+Necesito saber primero esto antes de comprar algo
+
+00:00:45.270 --> 00:00:47.270
+que me pueda gustar.
+
+00:00:47.270 --> 00:00:49.910
+Hagamos algunas operaciones algebraicas.
+
+00:00:49.920 --> 00:01:05.230
+Digamos que x es el máximo monto venta que puedo comprar.
+
+00:01:05.230 --> 00:01:10.280
+Si la venta x tiene un 25 por ciento de descuento, entonces el nuevo
+
+00:01:10.290 --> 00:01:20.680
+precio de venta de ese producto será x menos
+
+00:01:20.680 --> 00:01:22.780
+el 25 por ciento de x.
+
+00:01:22.790 --> 00:01:26.720
+Digamos que no existe ningún impuesto estatal sobre las ventas.
+
+00:01:26.730 --> 00:01:29.760
+Al final cualquiera que sea el precio de venta, es el precio que tengo que pagar en efectivo.
+
+00:01:29.760 --> 00:01:33.810
+Por lo tanto, tenemos que x menos el 25 por ciento de x es el precio de venta.
+
+00:01:33.810 --> 00:01:35.850
+El descuento va ser el 25 por ciento de x.
+
+00:01:35.850 --> 00:01:44.470
+Pero este es igual a expresarlo en la siguiente forma: x -.25x.
+
+00:01:44.480 --> 00:01:46.520
+Sabemos que es la misma cosa porque
+
+00:01:46.530 --> 00:01:49.590
+x es lo mismo que 1x.
+
+00:01:49.590 --> 00:01:50.900
+1x menos 0.25x.
+
+00:01:50.900 --> 00:02:00.040
+Esto significa que .75x es el precio de venta. ¿No es cierto?
+
+00:02:00.040 --> 00:02:07.170
+Todo lo que hice fue reescribir la ecuación x -.25x como 1x -.25x.
+
+00:02:07.180 --> 00:02:09.300
+Que es lo mismo que 0.75x.
+
+00:02:09.300 --> 00:02:12.170
+Porque 1 menos 0.25 es igual a 0.75.
+
+00:02:12.180 --> 00:02:15.280
+Entonces 0.75x es el precio de venta.
+
+00:02:15.280 --> 00:02:17.960
+Ahora, ¿Cuál es el precio de venta que puedo pagar sin el descuento?
+
+00:02:17.970 --> 00:02:22.430
+Lo máximo que puedo pagar es $50 dólares.
+
+00:02:22.430 --> 00:02:28.710
+Así, 0.75x = 50.
+
+00:02:31.430 --> 00:02:34.810
+Si x es un numero más grande que el numero que estoy tratando de hallar,
+
+00:02:34.810 --> 00:02:37.320
+entonces el precio final de venta después del descuento va a ser mucho mayor de mis $50 dólares
+
+00:02:37.330 --> 00:02:38.360
+y no lo podre pagar.
+
+00:02:38.360 --> 00:02:41.510
+Lo máximo que puedo pagar es $50 dólares
+
+00:02:41.520 --> 00:02:42.940
+y ese es el precio final de venta.
+
+00:02:42.940 --> 00:02:45.150
+Recordemos como resolvimos esta clase de problemas anteriormente.
+
+00:02:45.160 --> 00:02:47.700
+En este caso, dividamos por 0.75 en ambos lados de la ecuación.
+
+00:02:47.710 --> 00:02:52.110
+Entonces tenemos que el máximo precio de venta antes del descuento que puedo pagar
+
+00:02:52.120 --> 00:02:58.000
+es $50 dividido por 0.75.
+
+00:02:58.000 --> 00:03:00.400
+Vamos a hallar el resultado de esto.
+
+00:03:00.400 --> 00:03:07.480
+50 dividido entre 0.75, añadimos unos ceros.
+
+00:03:07.490 --> 00:03:09.810
+Muevo estos dos decimales a la derecha.
+
+00:03:09.810 --> 00:03:15.210
+Añadamos dos decimales a la derecha, aquí.
+
+00:03:15.210 --> 00:03:18.920
+Entonces tendremos que dividir 50 entre 0.75 nos da el mismo
+
+00:03:18.930 --> 00:03:22.940
+número de veces que la división entre 5000 y 75.
+
+00:03:22.940 --> 00:03:23.780
+Entonces, hagamos esto.
+
+00:03:23.780 --> 00:03:25.860
+¿Cuántas veces cabe 75 en 5000?
+
+00:03:25.870 --> 00:03:29.710
+75 en 500, déjeme pensar.
+
+00:03:29.710 --> 00:03:32.060
+Creo que 6 veces.
+
+00:03:34.720 --> 00:03:36.100
+Porque 7 se pasa.
+
+00:03:36.110 --> 00:03:40.030
+Vamos con 6.
+
+00:03:40.030 --> 00:03:44.830
+5 por 6 es 30.
+
+00:03:44.840 --> 00:03:46.880
+5 por 7 es 42.
+
+00:03:46.880 --> 00:03:50.030
+Más 3 es 45.
+
+00:03:50.030 --> 00:03:53.140
+El remanente es 50.
+
+00:03:53.150 --> 00:03:54.270
+Ya veo el patrón.
+
+00:03:54.270 --> 00:03:55.630
+Bajamos el cero.
+
+00:03:55.630 --> 00:03:56.630
+Otra vez, lo mismo.
+
+00:03:56.630 --> 00:04:00.610
+75 en 500 son 6 veces.
+
+00:04:00.620 --> 00:04:03.660
+Otra vez 5 por 75 es 450.
+
+00:04:03.660 --> 00:04:05.720
+Vamos a seguir teniendo este mismo patrón
+
+00:04:05.720 --> 00:04:06.590
+una y otra vez.
+
+00:04:06.590 --> 00:04:12.090
+El resultado es 66.666. Espero que no vayan a pensar que soy
+
+00:04:12.090 --> 00:04:15.490
+muy malo por la aparición de este número.
+
+00:04:15.500 --> 00:04:19.080
+De cualquier forma, el máximo precio de venta que puedo pagar
+
+00:04:19.080 --> 00:04:24.260
+antes del descuento es de $66 dólares.
+
+00:04:24.260 --> 00:04:28.410
+Y si redondeamos los centavos
+
+00:04:28.420 --> 00:04:31.060
+entonces se aproximaría a 67 centavos.
+
+00:04:31.060 --> 00:04:34.340
+Y si escribiéramos este número con el decimal repitiéndose,
+
+00:04:34.350 --> 00:04:38.790
+entonces lo podríamos escribir como 66.666…
+
+00:04:38.800 --> 00:04:42.140
+Sabemos que el decimal se va a repetir por siempre,
+
+00:04:42.140 --> 00:04:43.220
+pero 0.666.. lo podemos escribir en forma de fraccionario : 2/3.
+
+00:04:43.230 --> 00:04:46.570
+Queda que 66.66… es igual a 66 2/3.
+
+00:04:46.570 --> 00:04:48.280
+Pero estamos trabajando con dinero,
+
+00:04:48.290 --> 00:04:50.270
+entonces debemos redondearlo en centavos, que son dos cifras significativas.
+
+00:04:50.270 --> 00:04:55.310
+Entonces el máximo precio de un producto antes del descuento que puedo pagar es $66.67 dólares.
+
+00:04:55.310 --> 00:04:58.810
+Si me gustan un par de zapatos que cuestan
+
+00:04:58.820 --> 00:05:02.350
+$55 dólares, claro que los puedo pagar.
+
+00:05:02.360 --> 00:05:05.570
+En cambio no puedo pagar con mis $50 dólares una corbata
+
+00:05:05.570 --> 00:05:07.340
+cuyo precio de venta es de $75 dólares.
+
+00:05:07.350 --> 00:05:10.610
+Espero que este ejercicio no solamente les enseñe un poco de matemáticas
+
+00:05:10.620 --> 00:05:13.680
+pero también les ayude a comprar.
+
+00:05:13.680 --> 00:05:15.430
+Veamos otro
+
+00:05:15.430 --> 00:05:17.750
+problema interesante.
+
+00:05:17.750 --> 00:05:22.470
+Vamos a empezar con cualquier cantidad,
+
+00:05:22.480 --> 00:05:23.200
+con una cantidad fija.
+
+00:05:23.200 --> 00:05:27.250
+Digamos que $100 dólares.
+
+00:05:27.250 --> 00:05:35.620
+Después de un año este valor aumenta un 25 por ciento más.
+
+00:05:38.680 --> 00:05:41.990
+En el segundo año, la cantidad que tengo
+
+00:05:42.000 --> 00:05:45.300
+disminuye en un 25 por ciento.
+
+00:05:45.300 --> 00:05:47.100
+Digamos que esto pudo pasar en la bolsa de valores.
+
+00:05:47.100 --> 00:05:49.360
+Tuve un primer año muy bueno donde mi portafolio
+
+00:05:49.370 --> 00:05:51.060
+aumentó un 25 por ciento.
+
+00:05:51.060 --> 00:05:52.980
+Pero mi segundo año fue malo y mi portafolio
+
+00:05:52.990 --> 00:05:54.730
+disminuyó en un 25 por ciento.
+
+00:05:54.730 --> 00:05:57.540
+Mi pregunta es: ¿Cuánto
+
+00:05:57.540 --> 00:05:59.920
+dinero tengo al finalizar el segundo año?
+
+00:05:59.930 --> 00:06:02.060
+Pues mucha genta dirá que la respuesta es bien fácil.
+
+00:06:02.060 --> 00:06:06.250
+Si mi dinero aumentó un 25% y luego disminuyo en un 25 por ciento,
+
+00:06:06.260 --> 00:06:08.310
+voy a terminar con la misma cantidad que empecé, $100 dólares.
+
+00:06:08.310 --> 00:06:13.760
+En cualquier caso esto no es verdad, porque aplicar el 25 por ciento
+
+00:06:13.770 --> 00:06:16.510
+a nuestro dinero en estos dos años nos da
+
+00:06:16.510 --> 00:06:18.090
+una cantidad completamente diferente.
+
+00:06:18.100 --> 00:06:19.580
+Vamos hallar la respuesta.
+
+00:06:19.580 --> 00:06:27.090
+Si empiezo con $100 y aumenta en un 25% entonces terminaría con $125 porque el 25% de $100 es $25.
+
+00:06:27.100 --> 00:06:28.250
+Mi dinero se incrementó en $25.
+
+00:06:28.250 --> 00:06:34.290
+Tendría $125.
+
+00:06:34.300 --> 00:06:38.580
+En otras palabras terminaría el primer año con $125 después de un incremento del 25% de mi dinero inicial.
+
+00:06:38.580 --> 00:06:44.660
+Estos $125 van a disminuir en un 25%.
+
+00:06:44.670 --> 00:06:48.310
+Si algo disminuye en un 25%, esto significa que quedamos con
+
+00:06:48.310 --> 00:06:52.670
+un 75% o 0.75 del dinero inicial. ¿Cierto?
+
+00:06:52.680 --> 00:06:55.850
+Uno menos el 25%.
+
+00:06:55.850 --> 00:06:59.490
+0.75 por $125.
+
+00:06:59.500 --> 00:07:01.820
+Hallemos la respuesta.
+
+00:07:01.820 --> 00:07:07.310
+$125 por 0.75.
+
+00:07:07.320 --> 00:07:10.760
+No quiero confundirlos mucho,
+
+00:07:10.760 --> 00:07:13.790
+pero si una cantidad disminuye en un 25%
+
+00:07:13.800 --> 00:07:16.790
+esto significa que la cantidad final es 75% de la cantidad inicial.
+
+00:07:16.790 --> 00:07:23.130
+Entonces, si $125 disminuye en un 25%, nuestra cantidad final es $125 por 0.75.
+
+00:07:23.130 --> 00:07:24.430
+Hallemos el resultado.
+
+00:07:24.430 --> 00:07:27.970
+5 por 5 es 25.
+
+00:07:27.980 --> 00:07:31.800
+2 por 5 es 10 más 2 es 12.
+
+00:07:31.810 --> 00:07:34.800
+1 por 5…, 7
+
+00:07:34.800 --> 00:07:38.500
+7 por 5 es 35.
+
+00:07:38.500 --> 00:07:40.090
+7 por 2 es 14.
+
+00:07:40.100 --> 00:07:43.740
+Más 3 es 17.
+
+00:07:43.750 --> 00:07:45.560
+¡Perdón!
+
+00:07:45.560 --> 00:07:46.870
+7 por 1 es 7.
+
+00:07:46.870 --> 00:07:48.970
+Más 1 es 8.
+
+00:07:48.980 --> 00:07:53.790
+Tenemos 5, 7, este es 7 realmente.
+
+00:07:53.800 --> 00:07:55.120
+14.
+
+00:07:55.120 --> 00:07:56.480
+9.
+
+00:07:56.490 --> 00:07:58.250
+94.75 es la respuesta ¿Es correcto?
+
+00:07:58.250 --> 00:08:00.220
+Dos decimales después del punto.
+
+00:08:00.230 --> 00:08:03.410
+94.75.
+
+00:08:03.410 --> 00:08:05.740
+¡Interesante!
+
+00:08:05.750 --> 00:08:11.380
+Comencé con $100 que aumentó en un 25% el primer año
+
+00:08:11.380 --> 00:08:16.440
+y luego disminuyó en un 25% el segundo año. Al final terminé con menos dinero que con el que comencé .
+
+00:08:16.440 --> 00:08:18.870
+Quiero que piensen en lo que pasó.
+
+00:08:18.880 --> 00:08:24.380
+Estoy ganando un 25% de $100.
+
+00:08:24.390 --> 00:08:26.780
+Esta cantidad es mucho menor que el dinero que estoy perdiendo.
+
+00:08:26.790 --> 00:08:31.320
+Estoy perdiendo el 25% de $125.
+
+00:08:31.320 --> 00:08:33.260
+¡Es bien interesante! ¿Qué piensan?
+
+00:08:33.270 --> 00:08:35.090
+Es bien interesante cuando mucha
+
+00:08:35.100 --> 00:08:39.470
+gente lo compara con el mercado de valores , rentabilidad
+
+00:08:39.480 --> 00:08:40.340
+pero no voy a tocar ese tema.
+
+00:08:40.340 --> 00:08:41.820
+Pero pienso que es bien interesante.
+
+00:08:41.820 --> 00:08:43.280
+Deberían practicar con otros ejemplos.
+
+00:08:43.280 --> 00:08:46.690
+Otro punto importante es pensar en que para cualquier aumento porcentual
+
+00:08:46.700 --> 00:08:49.040
+también debería determinarse
+
+00:08:49.040 --> 00:08:51.250
+el máximo porcentaje de perdida
+
+00:08:51.250 --> 00:08:52.030
+que me permita quedar con el monto inicial.
+
+00:08:52.040 --> 00:08:54.070
+Este es otro proyecto interesante.
+
+00:08:54.080 --> 00:08:56.700
+Quizás lo haga en una presentación futura.
+
+00:08:56.700 --> 00:08:59.420
+De cualquier forma, creo que ustedes están listos para resolver cualquiera
+
+00:08:59.420 --> 00:09:02.190
+de estos problemas tan complicados.
+
+00:09:02.200 --> 00:09:03.320
+Espero que se diviertan.
+
+00:09:03.330 --> 00:09:04.620
+Hasta pronto.

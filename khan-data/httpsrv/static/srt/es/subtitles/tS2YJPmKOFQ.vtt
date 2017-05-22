@@ -1,0 +1,882 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.000
+
+
+00:00:00.000 --> 00:00:04.870
+Sal: sabemos que si dejamos agua por si misma... entonces
+
+00:00:04.870 --> 00:00:08.010
+tenemos H2O... tenemos un equilibrio con la
+
+00:00:08.010 --> 00:00:10.240
+versión autoionizada de si misma.
+
+00:00:10.240 --> 00:00:13.850
+Entonces un poco de agua se convertirá en iones hidrógeno,
+
+00:00:13.850 --> 00:00:16.000
+y sabemos que toman la forma de iones hidrogeniones.
+
+00:00:16.000 --> 00:00:18.400
+Y éstos se unen a otras moléculas de agua.
+
+00:00:18.400 --> 00:00:21.580
+Y pueden ser H3O, lo escribiremos aquí
+
+00:00:21.580 --> 00:00:23.640
+como un ion hidrógeno.
+
+00:00:23.640 --> 00:00:26.240
+Lo que es realmente un protón libre.
+
+00:00:26.240 --> 00:00:29.870
+Más un ion hidroxilo.
+
+00:00:29.870 --> 00:00:34.480
+Y también sabemos que este caso de estado de equilibrio es a 25
+
+00:00:34.480 --> 00:00:36.850
+grados Celcius.
+
+00:00:36.850 --> 00:00:39.420
+Y recordamos, que contantes de equilibrio y
+
+00:00:39.420 --> 00:00:42.040
+reacciones equilibradas solo dependen de la temperatura.
+
+00:00:42.040 --> 00:00:43.790
+Nada más.
+
+00:00:43.790 --> 00:00:46.480
+Para una molécula dada, por supuesto.
+
+00:00:46.480 --> 00:00:48.905
+Entonces 25 grados Celcius.
+
+00:00:48.905 --> 00:00:51.640
+También sabemos, lo hicimos hace dos videos, que
+
+00:00:51.640 --> 00:00:54.410
+la constante de equilibrio-- para repasar-- es la
+
+00:00:54.410 --> 00:01:01.990
+concentración de los productos divididos por la concentración
+
+00:01:01.990 --> 00:01:03.230
+de los reactivos.
+
+00:01:03.230 --> 00:01:05.279
+Pero quien reacciona en este caso es sólo el agua.
+
+00:01:05.279 --> 00:01:06.590
+Que también es el solvente.
+
+00:01:06.590 --> 00:01:09.660
+Y si quien reacciona es lo que eres-- está en todas partes.
+
+00:01:09.660 --> 00:01:11.780
+Entonces si volvemos atrás con este ejemplo intuitivo, la
+
+00:01:11.780 --> 00:01:13.880
+probabilidad de encontrarlo es 1.
+
+00:01:13.880 --> 00:01:17.300
+Entonces siempre está ahí, entonces simplemente no lo incluimos.
+
+00:01:17.300 --> 00:01:19.670
+Entonces simplemente lo dividimos por 1 o lo que sea, y esto es
+
+00:01:19.670 --> 00:01:23.650
+igual a la constante de equilibrio del agua.
+
+00:01:23.650 --> 00:01:27.350
+Aprendimos que eso es 10 a la menos 14.
+
+00:01:27.350 --> 00:01:32.520
+Porque el agua por si misma va a tener una concentración de hidrogeniones
+
+00:01:32.520 --> 00:01:37.630
+de 10 a la menos 7 y una de hidroxilos
+
+00:01:37.630 --> 00:01:38.880
+de 10 a la menos 7.
+
+00:01:38.880 --> 00:01:41.980
+Y si llevamos un registro de todo... entonces... si tomamos
+
+00:01:41.980 --> 00:01:46.280
+el pKw
+
+00:01:46.280 --> 00:01:47.220
+qué era eso?
+
+00:01:47.220 --> 00:01:49.185
+Si ponemos una p delante de algo, significa que
+
+00:01:49.185 --> 00:01:51.020
+usamos el logaritmo negativo.
+
+00:01:51.020 --> 00:01:54.470
+Entonces el menos logaritmo de 10 a la menos 14, el logaritmo en base 10
+
+00:01:54.470 --> 00:01:57.050
+a la menos 14, es menos 14
+
+00:01:57.050 --> 00:01:59.410
+Entonces el negativo será simplemente 14.
+
+00:01:59.410 --> 00:02:07.770
+Entonces, pKw es 14 que es igual a... si tomamos el logaritmo
+
+00:02:07.770 --> 00:02:10.960
+negativo de este lado aquí... aquí lo haré
+
+00:02:10.960 --> 00:02:12.520
+Esta es una propiedad del logaritmo.
+
+00:02:12.520 --> 00:02:15.870
+Esto es más matemática en la química.
+
+00:02:15.870 --> 00:02:23.660
+Entonces el log de H+ por OH por nuestro ion hidroxilo.
+
+00:02:23.660 --> 00:02:25.710
+Es lo mismo, son las propiedades del logaritmo.
+
+00:02:25.710 --> 00:02:32.180
+Es lo lo mismo que menos log de H+ menos, o se
+
+00:02:32.180 --> 00:02:40.150
+puede decir mas el menos log de OH-.
+
+00:02:40.150 --> 00:02:41.730
+Y qué es esto?
+
+00:02:41.730 --> 00:02:48.540
+bueno esto es el pH, que es igual
+
+00:02:48.540 --> 00:02:49.900
+al menos log.
+
+00:02:49.900 --> 00:02:52.830
+Esto es 10 a la menos7, no?
+
+00:02:52.830 --> 00:02:54.250
+10 a la menos7,
+
+00:02:54.250 --> 00:02:55.860
+El log de eso es menos 7.
+
+00:02:55.860 --> 00:02:56.660
+tienes el menos delante.
+
+00:02:56.660 --> 00:02:59.570
+Entonces es el pH, que es igual a 7.
+
+00:02:59.570 --> 00:03:01.360
+Y qué es esto?
+
+00:03:01.360 --> 00:03:02.140
+Aquí está.
+
+00:03:02.140 --> 00:03:05.910
+Éste es nuestro pOH.
+
+00:03:05.910 --> 00:03:08.710
+El menos log de la concentración de hidroxilos.
+
+00:03:08.710 --> 00:03:12.420
+Y por supuesto, eso también es 10 a la menos 7.
+
+00:03:12.420 --> 00:03:16.600
+Vemos que nuestro pOH es igual al log de eso, que es menos 7.
+
+00:03:16.600 --> 00:03:17.580
+Tenemos el menos delante.
+
+00:03:17.580 --> 00:03:19.000
+Es igual a 7.
+
+00:03:19.000 --> 00:03:24.050
+Entonces tenemos que la pequeña fórmula del pkw,
+
+00:03:24.050 --> 00:03:28.520
+o el log negativo de la constante de equilibrio del agua,
+
+00:03:28.520 --> 00:03:41.240
+pKw es igual al pH del agua mas el pOH del agua.
+
+00:03:41.240 --> 00:03:43.780
+Y esto a 25º C, aquí está el tema
+
+00:03:43.780 --> 00:03:45.550
+que permanecerá constante porque vamos a comenzar
+
+00:03:45.550 --> 00:03:47.730
+a mezclar un poco, tirando ácido y
+
+00:03:47.730 --> 00:03:49.090
+base al agua.
+
+00:03:49.090 --> 00:03:55.620
+Esto siempre de 14 a 25ºC.
+
+00:03:55.620 --> 00:03:57.820
+Recuerda, mientras la temperatura sea constante y
+
+00:03:57.820 --> 00:04:01.230
+no te metas mucho con molécul apor si misma, tu
+
+00:04:01.230 --> 00:04:03.200
+enstante de equilibrio permanece constante.
+
+00:04:03.200 --> 00:04:04.940
+Por eso la llamamos constante.
+
+00:04:04.940 --> 00:04:08.710
+Entonces con eso fuera del camino, pensemos que
+
+00:04:08.710 --> 00:04:13.960
+pasa si arrojamos un poco de ácido en ---digamos que tengo un poco
+
+00:04:13.960 --> 00:04:15.210
+de Ácido Clorhídrico.
+
+00:04:15.210 --> 00:04:18.990
+
+
+00:04:18.990 --> 00:04:21.260
+Usaré colores para hacerlo de forma creativa.
+
+00:04:21.260 --> 00:04:23.270
+Tengo Ácido Clorhídrico.
+
+00:04:23.270 --> 00:04:26.700
+Es una solución acuosa.
+
+00:04:26.700 --> 00:04:32.900
+Sabemos que se disocia completamente, lo que significa que
+
+00:04:32.900 --> 00:04:39.400
+sólo nos quedaremos con el ion hidrógeno en el cual
+
+00:04:39.400 --> 00:04:42.730
+por supuesto se adhiere a otra molécula de agua y
+
+00:04:42.730 --> 00:04:44.750
+se convierte en hidróneo.
+
+00:04:44.750 --> 00:04:51.570
+Más el ion cloruro, o ion negativo.
+
+00:04:51.570 --> 00:04:53.850
+Aquí-
+
+00:04:53.850 --> 00:05:09.080
+Y digamos que hago esto con 1molar...o ya saben,
+
+00:05:09.080 --> 00:05:12.280
+esto es a veces escrito 1 M mayúscula ..
+
+00:05:12.280 --> 00:05:13.770
+de Ácido Clorhídrico.
+
+00:05:13.770 --> 00:05:15.600
+Qué estoy haciendo básicamente?
+
+00:05:15.600 --> 00:05:18.610
+Estoy tomando 1 molar de Ácido Clorhídrico, literalmente
+
+00:05:18.610 --> 00:05:26.980
+significa que tomo 1 mol de HCl por litro
+
+00:05:26.980 --> 00:05:28.040
+de la solución total.
+
+00:05:28.040 --> 00:05:29.160
+Lo que es principalmente agua.
+
+00:05:29.160 --> 00:05:30.750
+Es una solución acuosa.
+
+00:05:30.750 --> 00:05:33.000
+Por litro de agua, no?
+
+00:05:33.000 --> 00:05:36.750
+Cuál es la concentración de estas cosas?
+
+00:05:36.750 --> 00:05:37.380
+aquí?
+
+00:05:37.380 --> 00:05:39.120
+O en particular, cuál es la concentración de
+
+00:05:39.120 --> 00:05:41.470
+H?
+
+00:05:41.470 --> 00:05:46.250
+Bueno, si esta totalmente disociado, no?
+
+00:05:46.250 --> 00:05:49.340
+Entonces todas estas cosas-- esta no es una reacción equilibrada.
+
+00:05:49.340 --> 00:05:49.940
+Recuerda.
+
+00:05:49.940 --> 00:05:52.230
+Yo solo dibujé una flecha de un sentido hacia la derecha.
+
+00:05:52.230 --> 00:05:54.190
+Ni siquiera hay una pequeña hacia la izquierda.
+
+00:05:54.190 --> 00:05:57.250
+Este es un Ácido Clorhídrico fuerte.
+
+00:05:57.250 --> 00:06:01.510
+Entonces si realmente ponemos 1 molar de esto en una solución
+
+00:06:01.510 --> 00:06:03.390
+acuosa, no vas a ver nada de esto.
+
+00:06:03.390 --> 00:06:04.650
+Solo verás ésto.
+
+00:06:04.650 --> 00:06:11.290
+Verás que la concentración de hidrógeno aquí en
+
+00:06:11.290 --> 00:06:16.090
+la solución acuosa será igual a 1 molar.
+
+00:06:16.090 --> 00:06:19.770
+Y también habrá 1 molar de cloruros, pero
+
+00:06:19.770 --> 00:06:22.540
+no nos interesan-
+
+00:06:22.540 --> 00:06:24.910
+Si todavía no lo dije, sería lindo darse cuenta de
+
+00:06:24.910 --> 00:06:27.330
+qué pH es la solución.
+
+00:06:27.330 --> 00:06:29.830
+Ahora que le puse Ácido Clorhídrico.
+
+00:06:29.830 --> 00:06:32.055
+Bueno, el pH es la Concentración de H.
+
+00:06:32.055 --> 00:06:36.930
+
+
+00:06:36.930 --> 00:06:38.640
+Ya tenemos la concentración de H.
+
+00:06:38.640 --> 00:06:42.200
+Es 1 molar, o 1 mol por litro de solución.
+
+00:06:42.200 --> 00:06:53.450
+Entonces el pH será igual al menos log en base 10 de
+
+00:06:53.450 --> 00:06:54.770
+nuestra concentración de H.
+
+00:06:54.770 --> 00:06:56.900
+O sea de 1.
+
+00:06:56.900 --> 00:06:59.150
+10 elevado a la qué potencia es igual a 1?
+
+00:06:59.150 --> 00:07:01.970
+Bueno cualquiera elevado a la 0 es igual a
+
+00:07:01.970 --> 00:07:02.930
+1, incluyendo 10-
+
+00:07:02.930 --> 00:07:05.980
+Esto es igual a 0 menos 0 es 0.
+
+00:07:05.980 --> 00:07:07.390
+Entonces el pH es 0.
+
+00:07:07.390 --> 00:07:15.200
+Si tenemos 1 molar de Ácido Clorhídrico y si
+
+00:07:15.200 --> 00:07:19.050
+lo ponemos en una solución acuosa.
+
+00:07:19.050 --> 00:07:21.950
+Y bueno, supongo que estoy diciendo que lo agregamos a
+
+00:07:21.950 --> 00:07:23.430
+una solución, cuando digo que es 1 molar.
+
+00:07:23.430 --> 00:07:26.750
+Si la concentración es de 1 mol por litro de
+
+00:07:26.750 --> 00:07:31.200
+solución, donde el disolvente es agua, terminaremos
+
+00:07:31.200 --> 00:07:33.940
+con un pH de 0.
+
+00:07:33.940 --> 00:07:35.190
+El pH es 0.
+
+00:07:35.190 --> 00:07:38.040
+
+
+00:07:38.040 --> 00:07:43.750
+Entonces el pH del agua sin ácido, es
+
+00:07:43.750 --> 00:07:44.670
+igual a 7.
+
+00:07:44.670 --> 00:07:49.380
+Se considera un pH neutro.
+
+00:07:49.380 --> 00:07:54.000
+Ahora sabemos que si tenemos una solución acuosa
+
+00:07:54.000 --> 00:07:59.020
+con 1 molar de Ácido Clorhídrico, podemos decir --yo lo hago
+
+00:07:59.020 --> 00:08:07.920
+en rojo porque-- pH del HCl en agua es igual a 0.
+
+00:08:07.920 --> 00:08:11.430
+Obviamente un pH bajo es más acídico.
+
+00:08:11.430 --> 00:08:14.610
+Y repasamos de los videos anteriores.
+
+00:08:14.610 --> 00:08:18.410
+Veamos cuál es el pOH del Ácido Clorhídrico.
+
+00:08:18.410 --> 00:08:24.860
+pOH de Ácido Clorhídrico en solución acuosa.
+
+00:08:24.860 --> 00:08:28.490
+Nos referimos al principio de Le Chatelier no?
+
+00:08:28.490 --> 00:08:29.925
+Si vamos a lo que decía.
+
+00:08:29.925 --> 00:08:32.610
+
+
+00:08:32.610 --> 00:08:34.380
+Esto es agua pura.
+
+00:08:34.380 --> 00:08:37.549
+Si tenemos que agregarle 1 molar de Ácido Clorhídrico,
+
+00:08:37.549 --> 00:08:46.070
+esencialmente le tiramos una tonelada de
+
+00:08:46.070 --> 00:08:46.950
+Protones hidrógenos.
+
+00:08:46.950 --> 00:08:50.270
+Substancialmente le incrementamos la concentración de esto.
+
+00:08:50.270 --> 00:08:52.910
+Y el principio de Le Chatelier dice oh, bueno eso significa que
+
+00:08:52.910 --> 00:08:55.650
+un montón del esto va a ser consumido y la reacción
+
+00:08:55.650 --> 00:08:56.870
+irá en esta dirección.
+
+00:08:56.870 --> 00:08:59.160
+El equilibrio de la reacción irá en esa dirección,
+
+00:08:59.160 --> 00:09:00.130
+Pero recuerda.
+
+00:09:00.130 --> 00:09:03.410
+El agua por si misma tiene una concentración de 10 a la menos 7.
+
+00:09:03.410 --> 00:09:10.860
+Vamos a tirarle un millón-- quiero decir que son 10 millones
+
+00:09:10.860 --> 00:09:13.220
+de partes de mol por litro.
+
+00:09:13.220 --> 00:09:17.110
+Ahora lo agregamos,--qué es eso?
+
+00:09:17.110 --> 00:09:17.760
+10 a la séptima.
+
+00:09:17.760 --> 00:09:22.350
+Vamos a tirarle 10 millones de veces de H
+
+00:09:22.350 --> 00:09:23.480
+en el agua.
+
+00:09:23.480 --> 00:09:25.300
+Todo esto se consume.
+
+00:09:25.300 --> 00:09:26.380
+Tal vez va para allá.
+
+00:09:26.380 --> 00:09:30.480
+Y la concentración de esto se tira hacia abajo
+
+00:09:30.480 --> 00:09:32.610
+porque estamos vertiendo tanto.
+
+00:09:32.610 --> 00:09:34.950
+Y la concentración de esto aumenta porque solo
+
+00:09:34.950 --> 00:09:37.020
+puede consumir mucho de estos chicos,
+
+00:09:37.020 --> 00:09:38.430
+No hay tanto de esto.
+
+00:09:38.430 --> 00:09:40.890
+Solo hay 10 a la menos 7 molar de esto.
+
+00:09:40.890 --> 00:09:43.180
+Esto termina siendo 1 molar.
+
+00:09:43.180 --> 00:09:46.110
+Y si esto termina siendo 1 molar-- porque 10 a la
+
+00:09:46.110 --> 00:09:48.420
+menos 7 molar, esencialmente se puede ver como
+
+00:09:48.420 --> 00:09:50.590
+todo se consume con lo de este lado.
+
+00:09:50.590 --> 00:09:53.680
+qué termina siendo la concentración de OH?
+
+00:09:53.680 --> 00:09:58.840
+Bueno, ya sabemos que el pKw es 14 de agua a 25
+
+00:09:58.840 --> 00:10:03.320
+grados, y que el pKw del agua es igual al pH de
+
+00:10:03.320 --> 00:10:05.250
+tu solución mas tu pOH.
+
+00:10:05.250 --> 00:10:12.330
+Entonces tu pH para el ácido clorhídrico es 0, no?
+
+00:10:12.330 --> 00:10:14.275
+Tenemos 1 molar de ácido clorhídrico.
+
+00:10:14.275 --> 00:10:19.590
+Luego tu pOH de 1 molar de ácido clorhídrico es 14.
+
+00:10:19.590 --> 00:10:24.070
+Aquí nuestro pOH es igual a 14.
+
+00:10:24.070 --> 00:10:26.160
+Hagamos lo mismo con una base y nos daremos cuenta
+
+00:10:26.160 --> 00:10:26.970
+de qué pH es.
+
+00:10:26.970 --> 00:10:28.480
+Una base fuerte.
+
+00:10:28.480 --> 00:10:30.640
+Y creo que verán que es lo opuesto.
+
+00:10:30.640 --> 00:10:35.706
+Digamos que tengo hidróxido de potasio.
+
+00:10:35.706 --> 00:10:37.510
+Una base fuerte.
+
+00:10:37.510 --> 00:10:43.630
+Se disocia completamente en el agua a cationes potasio.
+
+00:10:43.630 --> 00:10:46.220
+Iones cargados positivamente.
+
+00:10:46.220 --> 00:10:50.130
+Mas iones hidroxilos.
+
+00:10:50.130 --> 00:10:51.420
+Se disocia completamente.
+
+00:10:51.420 --> 00:10:53.650
+Entonces si pongo algo de esto en solución acuosa-- debería
+
+00:10:53.650 --> 00:10:54.900
+escribirlo-
+
+00:10:54.900 --> 00:10:59.190
+
+
+00:10:59.190 --> 00:11:02.460
+Solución acuosa solo significa que estamos en agua, por supuesto.
+
+00:11:02.460 --> 00:11:05.940
+Y si esencialmente ponemos 1 molar-- recuerda
+
+00:11:05.940 --> 00:11:07.080
+las unidades de concentración.
+
+00:11:07.080 --> 00:11:07.950
+Podemos decir, oh, el ácido clorhídrico
+
+00:11:07.950 --> 00:11:09.320
+tiene un pH de 0.
+
+00:11:09.320 --> 00:11:09.420
+No.
+
+00:11:09.420 --> 00:11:11.320
+Tienes que decir que 1 molar de ácido clorhídrico
+
+00:11:11.320 --> 00:11:13.700
+tiene un pH de 0.
+
+00:11:13.700 --> 00:11:15.050
+Y de hecho no lo escribí.
+
+00:11:15.050 --> 00:11:15.660
+Déjame escribirlo-
+
+00:11:15.660 --> 00:11:16.910
+1 molar.
+
+00:11:16.910 --> 00:11:19.290
+
+
+00:11:19.290 --> 00:11:22.380
+Y dejaré que te des cuenta cuál es el pOH de
+
+00:11:22.380 --> 00:11:24.310
+2 molar de ácido clorhídrico.
+
+00:11:24.310 --> 00:11:26.950
+o 10 molar,
+
+00:11:26.950 --> 00:11:29.700
+Y que te des cuenta de cuáles son esos pHs.
+
+00:11:29.700 --> 00:11:36.090
+Pero si tenemos 1 molar de hidróxido de potasio
+
+00:11:36.090 --> 00:11:39.090
+
+
+00:11:39.090 --> 00:11:41.170
+Tenemos 1 molar de esto.
+
+00:11:41.170 --> 00:11:42.940
+Y se disocia completamente.
+
+00:11:42.940 --> 00:11:43.610
+en agua.
+
+00:11:43.610 --> 00:11:47.610
+Entonces no queda nada de esto.
+
+00:11:47.610 --> 00:11:50.480
+Cuál es la concentración de OH?
+
+00:11:50.480 --> 00:11:55.860
+Cuando la concentración de OH sea 1 molar.
+
+00:11:55.860 --> 00:11:56.070
+no?
+
+00:11:56.070 --> 00:11:58.300
+Si tuviera un mol por litro de esto, tendremos un 1 mol
+
+00:11:58.300 --> 00:11:58.840
+por litro de esto.
+
+00:11:58.840 --> 00:12:01.170
+Porque todo esto desaparece en el agua.
+
+00:12:01.170 --> 00:12:02.440
+Entonces cuál es el pOH?
+
+00:12:02.440 --> 00:12:05.350
+
+
+00:12:05.350 --> 00:12:08.260
+pOH es el log negativo de esto.
+
+00:12:08.260 --> 00:12:10.450
+El log de 1 es 0.
+
+00:12:10.450 --> 00:12:12.700
+El negativo de 0 es 0.
+
+00:12:12.700 --> 00:12:19.120
+Y el pH en estas circunstancias-- bueno podríamos
+
+00:12:19.120 --> 00:12:20.700
+decir, oh, es la concentración de H.
+
+00:12:20.700 --> 00:12:22.550
+No sabemos cuál es, pero
+
+00:12:22.550 --> 00:12:24.320
+sabemos que cuando arrojamos un montón de esto,
+
+00:12:24.320 --> 00:12:26.170
+tomará muchos H+ y los H+
+
+00:12:26.170 --> 00:12:27.110
+bajarán mucho.
+
+00:12:27.110 --> 00:12:28.480
+Pero cómo medirlo?
+
+00:12:28.480 --> 00:12:29.650
+Bueno, recuerdalo.
+
+00:12:29.650 --> 00:12:32.300
+25º Celcius.
+
+00:12:32.300 --> 00:12:34.930
+La constante de equilibrio del agua es igual a
+
+00:12:34.930 --> 00:12:37.140
+el pH mas el pOH.
+
+00:12:37.140 --> 00:12:38.630
+Eso lo mostramos al principio.
+
+00:12:38.630 --> 00:12:43.250
+14 es igual al pH mas 0.
+
+00:12:43.250 --> 00:12:45.430
+Ese es el pOH en este caso.
+
+00:12:45.430 --> 00:12:49.180
+Entonces el pH es 14.
+
+00:12:49.180 --> 00:12:52.720
+Si tenemos 1 molar -- usé hidróxido de potasio en
+
+00:12:52.720 --> 00:12:55.820
+este caso-- pero si tengo 1 molar de base fuerte-- dejame
+
+00:12:55.820 --> 00:12:57.305
+anotarlo.
+
+00:12:57.305 --> 00:13:05.440
+1 molar de base fuerte
+
+00:13:05.440 --> 00:13:08.210
+Recuerda, fuerte es como un término oficial en química.
+
+00:13:08.210 --> 00:13:11.120
+Significa completa disociación.
+
+00:13:11.120 --> 00:13:17.980
+Tenemos un pH de 14 y un pOH de 0.
+
+00:13:17.980 --> 00:13:22.440
+Si tenemos 1 molar de ácido fuerte.
+
+00:13:22.440 --> 00:13:25.680
+Si alguien dice que tiene algo con pH de 0
+
+00:13:25.680 --> 00:13:31.520
+que quisieran tirar encima tuyo, deberías negarte.
+
+00:13:31.520 --> 00:13:34.640
+Porque probablemente te lastime.
+
+00:13:34.640 --> 00:13:37.260
+no hay muchas chances, pero bueno, de todas maneras...
+
+00:13:37.260 --> 00:13:39.360
+Entonces digamos que tenemos 1 molar de ácido fuerte,
+
+00:13:39.360 --> 00:13:47.880
+Con un pH de 0 y pOH de 14.
+
+00:13:47.880 --> 00:13:50.430
+De todas maneras, tal vez en el próximo capítulo lo verás,
+
+00:13:50.430 --> 00:13:52.580
+Esto puede darte la impresión de que es una escala
+
+00:13:52.580 --> 00:13:53.810
+absoluta.
+
+00:13:53.810 --> 00:13:57.490
+Que 0 es lo más ácido que hay y 14 es lo más básico
+
+00:13:57.490 --> 00:13:59.290
+en pH, pero
+
+00:13:59.290 --> 00:14:00.000
+no es el caso.
+
+00:14:00.000 --> 00:14:01.630
+Se puede ir sobre o
+
+00:14:01.630 --> 00:14:02.450
+por debajo de esta escala.
+
+00:14:02.450 --> 00:14:07.210
+Esto es cuando tenemos 1 molar de un ácido fuerte.
+
+00:14:07.210 --> 00:14:10.240
+Si tenemos 2 molar de lo mismo, o
+
+00:14:10.240 --> 00:14:11.610
+si tenemos 10 moles.
+
+00:14:11.610 --> 00:14:11.840
+no?
+
+00:14:11.840 --> 00:14:12.830
+Digamos que tenemos H
+
+00:14:12.830 --> 00:14:19.910
+con una concentración de 10 molar,
+
+00:14:19.910 --> 00:14:23.150
+Si tenemos 10 molar de un ácido fuerte, lo aplicamos
+
+00:14:23.150 --> 00:14:24.080
+en una solución acuosa.
+
+00:14:24.080 --> 00:14:27.090
+Es, cuando digo que es molar por definición.
+
+00:14:27.090 --> 00:14:28.750
+Cuál será el pH?
+
+00:14:28.750 --> 00:14:33.020
+El pH será el menos log de 10.
+
+00:14:33.020 --> 00:14:34.420
+El log en base 10 de 10 es 1.
+
+00:14:34.420 --> 00:14:36.270
+10 a la 1 es 10.
+
+00:14:36.270 --> 00:14:37.830
+es igual a menos 1.
+
+00:14:37.830 --> 00:14:40.770
+Menos 1 pH sería si tenemos 10 molar de
+
+00:14:40.770 --> 00:14:45.140
+ácido clorhídrico o nítrico o algo como eso.
+
+00:14:45.140 --> 00:14:47.060
+De todas maneras, eso es todo lo que veremos en este video.
+
+00:14:47.060 --> 00:14:49.070
+Nos vemos la próxima.

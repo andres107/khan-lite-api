@@ -1,0 +1,858 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.460 --> 00:00:03.540
+Lo que quiero hacer en este video es encontrar una condicion rasonablemente
+
+00:00:03.540 --> 00:00:07.540
+poderosa en la cual pueda establecer que el campo
+
+00:00:07.540 --> 00:00:10.350
+vectorial, o la integral de linea de un campo vectorial es
+
+00:00:10.350 --> 00:00:11.670
+independiente de la trayectoria
+
+00:00:11.670 --> 00:00:14.420
+Y cuando digo eso, lo que quiero decir es que si fuera a tomar
+
+00:00:14.420 --> 00:00:21.780
+esta integral de linea a lo largo de la trayectoria c de f producto punto dr, y
+
+00:00:21.780 --> 00:00:24.310
+digamos que mi trayectoria se ve asi.
+
+00:00:28.110 --> 00:00:34.020
+Ese es mi eje x y eje y, y digamos que mi trayectoria se ve
+
+00:00:34.020 --> 00:00:37.530
+algo como esto: Empiezo alla y voy por
+
+00:00:37.530 --> 00:00:40.510
+alla hasta el punto c.
+
+00:00:40.510 --> 00:00:43.050
+Mi punto final, la curva aqui es c.
+
+00:00:43.050 --> 00:00:46.210
+Y asi podría evaluar esta integral de linea, este campo
+
+00:00:46.210 --> 00:00:48.640
+vectorial a lo largo de este trayectoria.
+
+00:00:48.640 --> 00:00:52.420
+Esta sería un campo vectorial independiente de la trayectoria, o nosotros
+
+00:00:52.420 --> 00:00:59.890
+lo llamamos campo vectorial conservativo, si esta cosa es igual
+
+00:00:59.890 --> 00:01:06.370
+a la misma integral sobre una trayectoria diferente que tiene
+
+00:01:06.370 --> 00:01:07.240
+el mismo punto final.
+
+00:01:07.240 --> 00:01:11.250
+Entonces llamemos esta c1, bueno esta es c1, y esta es c2.
+
+00:01:11.250 --> 00:01:15.680
+Este campo vectorial es conservativo si empiezo
+
+00:01:15.680 --> 00:01:17.530
+en el mismo punto pero tomo diferentes trayectorias.
+
+00:01:17.530 --> 00:01:22.050
+Digamos que tengo algo asi: si tomo una
+
+00:01:22.050 --> 00:01:27.600
+trayectoria diferente-- y esta es mi c2-- sigo obteniendo el mismo valor.
+
+00:01:27.600 --> 00:01:30.190
+Lo que esto me esta diciendo es que todo lo interesa es evaluar
+
+00:01:30.190 --> 00:01:33.980
+estas integrales en mi punto de partida y mi punto de llegada.
+
+00:01:33.980 --> 00:01:35.750
+No interesa lo que yo haga en el medio.
+
+00:01:35.750 --> 00:01:38.410
+No interesa como sali de mi punto de partida
+
+00:01:38.410 --> 00:01:40.140
+hasta mi punto de llegada.
+
+00:01:40.140 --> 00:01:42.610
+Estas dos integrales de linea tienen el mismo punto inicial y el mismo punto final,
+
+00:01:42.610 --> 00:01:45.320
+sin importar las influenciadas de su trayectoria real, ellas
+
+00:01:45.320 --> 00:01:46.350
+van a ser las mismas.
+
+00:01:46.350 --> 00:01:50.530
+Esto es lo que que necesita f para ser un campo conservativo, o
+
+00:01:50.530 --> 00:01:54.670
+lo que necesita esta integral para ser independiente de la trayectoria.
+
+00:01:54.670 --> 00:01:58.080
+Entonces antes de probarles o demostrarles las condiciones, contruyamos
+
+00:01:58.080 --> 00:02:00.560
+nuestra caja de herramientas un poco mas.
+
+00:02:00.560 --> 00:02:04.750
+Quizas hayas o no visto aun
+
+00:02:04.750 --> 00:02:06.590
+la regla de la cadena para multivariables.
+
+00:02:06.590 --> 00:02:11.220
+La regla de la cadena de mutivariables.
+
+00:02:11.220 --> 00:02:14.850
+Y no lo voy a probar en este video, pero
+
+00:02:14.850 --> 00:02:16.390
+creo que sera muy intuitivo para ustedes.
+
+00:02:16.390 --> 00:02:19.000
+Entonces tal vez no necesite tener que probarlo, o lo demostrare
+
+00:02:19.000 --> 00:02:21.560
+eventualmente, pero lo que realmente quiero es dejarles la parte intuitiva.
+
+00:02:21.560 --> 00:02:24.610
+Y todo lo que dice es que si tengo alguna función-- digamos
+
+00:02:24.610 --> 00:02:29.860
+Tengo f de x y y, pero x y y son funciones de, digamos
+
+00:02:29.860 --> 00:02:37.220
+de una tercera variable, t, asi que f de x de t y y de t-- que
+
+00:02:37.220 --> 00:02:45.720
+la derivada de f con respecto a t es multivariable.
+
+00:02:45.720 --> 00:02:48.000
+Tengo dos variables aca en x y y.
+
+00:02:48.000 --> 00:02:50.810
+Esto va a ser igual a derivada parcial de f
+
+00:02:50.810 --> 00:02:52.350
+con respecto a x.
+
+00:02:52.350 --> 00:02:58.130
+Que tan rapido f cambia a medida que x cambia multiplicado por la derivada de
+
+00:02:58.130 --> 00:03:02.120
+'x' con respecto a 't' -- Esto es una función de una sola variable por
+
+00:03:02.120 --> 00:03:04.780
+acá, así que derivadan en forma normal.
+
+00:03:04.780 --> 00:03:09.140
+Que tan rapido x cambia con respecto a t.
+
+00:03:09.140 --> 00:03:11.680
+Esta es una derivada estandar, esta es una derivada parcial,
+
+00:03:11.680 --> 00:03:14.290
+porque a ese nivel vamos a tratar con dos variables.
+
+00:03:14.290 --> 00:03:18.280
+Y no hemos terminado. --mas que tan rapido f cambia con respecto a
+
+00:03:18.280 --> 00:03:25.960
+y por la derivada de y con respecto de t.
+
+00:03:25.960 --> 00:03:29.110
+Entonces dy/dt.
+
+00:03:29.110 --> 00:03:31.490
+Y no voy a demostrarlo, pero creo que se hace
+
+00:03:31.490 --> 00:03:32.730
+bastante intuitivo.
+
+00:03:32.730 --> 00:03:35.950
+Ese es el decir, a medida que muevo un poco dt,
+
+00:03:35.950 --> 00:03:37.290
+cuanto de un df obtengo?
+
+00:03:37.290 --> 00:03:40.200
+O que tan rapido esta f cambia con respecto a t?
+
+00:03:40.200 --> 00:03:42.400
+Dice, bien hay dos formas de que pueda f cambiar: puede
+
+00:03:42.400 --> 00:03:45.670
+cambiar con respecto a x y puede cambiar con respecto a y.
+
+00:03:45.670 --> 00:03:49.170
+Entonces porque no adiciono esas dos cosas como si ambas
+
+00:03:49.170 --> 00:03:51.020
+cambiaran con respecto a t?
+
+00:03:51.020 --> 00:03:53.940
+Eso es todo es decir, y si se puede imaginar que
+
+00:03:53.940 --> 00:03:57.090
+pudieran cancelar esta derivada parcial de x con respecto de d x, y la derivada parcial
+
+00:03:57.090 --> 00:04:00.550
+de y con respecto de d y, se podrian imaginar que la derivadsa parcial de f
+
+00:04:00.550 --> 00:04:04.200
+con respecto a t en el lado de x de las cosas, y luego mas la
+
+00:04:04.200 --> 00:04:08.650
+parcial de f con respecto a t en la dimension de y.
+
+00:04:08.650 --> 00:04:10.930
+Y luego les dara el cambio total de f
+
+00:04:10.930 --> 00:04:12.150
+con respecto a t.
+
+00:04:12.150 --> 00:04:15.560
+Un argumento algo insubstancial, pero al menos para mi esto
+
+00:04:15.560 --> 00:04:16.900
+es una formula muy intuitiva.
+
+00:04:16.900 --> 00:04:19.420
+Bueno esta es nuestra herramienta; la regla de la cadena
+
+00:04:19.420 --> 00:04:20.450
+para mutivariables.
+
+00:04:20.450 --> 00:04:23.040
+Vamos a dejar de lado esto por un segundo.
+
+00:04:23.040 --> 00:04:29.090
+Ahora digamos que tengo un campo vectorial f-- y es
+
+00:04:29.090 --> 00:04:31.100
+diferente de esta f, bueno lo hare en un color diferente;
+
+00:04:31.100 --> 00:04:34.660
+magenta-- tengo un campo vectorial f que es una
+
+00:04:34.660 --> 00:04:36.920
+funcion de x y de y.
+
+00:04:36.920 --> 00:04:40.380
+Y digamos que resulta ser el gradiente de
+
+00:04:40.380 --> 00:04:41.705
+algun campo escalar.
+
+00:04:41.705 --> 00:04:46.910
+digamos igual al gradiente de un campo escalar
+
+00:04:46.910 --> 00:04:49.440
+Lo llamare F mayuscula.
+
+00:04:49.440 --> 00:04:53.060
+Y este gradiente que significa que la F mayuscula es tambien
+
+00:04:53.060 --> 00:04:59.230
+función de x y de y-- entonces no quiero escribirlo en una nueva
+
+00:04:59.230 --> 00:05:02.890
+linea, podría igualmente escribir aqui; F mayuscula es igualmente una
+
+00:05:02.890 --> 00:05:07.470
+función de x y de y -- y el gradiente, y todo eso lo quiere decir es
+
+00:05:07.470 --> 00:05:13.150
+que el campo vectorial de f de xy--f minuscula de xy, es igual a
+
+00:05:13.150 --> 00:05:18.710
+la derivada parcial de la F mayuscula con respecto a x
+
+00:05:18.710 --> 00:05:24.250
+por el vector unitario i mas la derivada de F mayuscula
+
+00:05:24.250 --> 00:05:27.690
+con respecto a y por el vector unitario j.
+
+00:05:27.690 --> 00:05:32.170
+Esto es la definición del gradiente precisamente.
+
+00:05:32.170 --> 00:05:35.480
+Y si se imaginan que la F mayuscula es algun tipo de
+
+00:05:35.480 --> 00:05:48.530
+superficie-- entonces esta es F mayuscula de xy -- el gradiente F de xy
+
+00:05:48.530 --> 00:05:51.390
+va a ser un campo vectorial que les dice la dirección de
+
+00:05:51.390 --> 00:05:53.440
+el descenso mas pronunciado (inclinado) en cualquier punto.
+
+00:05:53.440 --> 00:05:56.740
+Entonces sera definida por el plano xy.
+
+00:05:56.740 --> 00:06:00.060
+En el plano xy les dira-- dejenme dibujar; es
+
+00:06:00.060 --> 00:06:04.820
+el eje vertical, quizas ese es el eje x, ese es el eje y
+
+00:06:04.820 --> 00:06:08.150
+-- el gradiente de esto, si tomas cualquier punto sobre el plano xy,
+
+00:06:08.150 --> 00:06:10.240
+les dira la dirección en que necesitan viajar para ir
+
+00:06:10.240 --> 00:06:11.610
+hasta el descenso mas pronunciado (inclinado).
+
+00:06:11.610 --> 00:06:13.320
+Y para este gradiente va a ser
+
+00:06:13.320 --> 00:06:14.700
+algo como esto.
+
+00:06:14.700 --> 00:06:18.450
+va a ser algo asi
+
+00:06:18.450 --> 00:06:20.730
+Y quizas por aqui empieza a ir en esa dirección porque
+
+00:06:20.730 --> 00:06:23.800
+descenderian hacia este pequeño punto
+
+00:06:23.800 --> 00:06:24.260
+minimo justo aqui.
+
+00:06:24.260 --> 00:06:25.770
+De todas maneras, no quiero involucrarme demasiado.
+
+00:06:25.770 --> 00:06:28.960
+Y el punto de esto no es realmente obtener
+
+00:06:28.960 --> 00:06:32.050
+la intuicion detras de los gradientes; existen otros videos para este proposito.
+
+00:06:32.050 --> 00:06:35.960
+El punto de este es obtener otra prueba para ver si
+
+00:06:35.960 --> 00:06:39.290
+algo es independiente de la trayectoria; si un campo vectorial es independiente
+
+00:06:39.290 --> 00:06:41.050
+de la trayectoria, si es conservativo.
+
+00:06:41.050 --> 00:06:45.010
+Y resulta que si esto existe-- y lo voy a demostrarlo
+
+00:06:45.010 --> 00:06:57.350
+ya--si f es el gradiente de algun campo escalar
+
+00:06:57.350 --> 00:07:01.630
+entonces f es conservativo.
+
+00:07:04.570 --> 00:07:07.900
+O podrían decir que no interesa que trayectoria sigamos cuando
+
+00:07:07.900 --> 00:07:11.670
+tomamos una integral de linea sobre f, lo que realmente importa son nuestro
+
+00:07:11.670 --> 00:07:14.950
+punto inicial y nuestro punto final.
+
+00:07:14.950 --> 00:07:18.030
+Ahora veamos si puedo demostrarles eso a ustedes.
+
+00:07:18.030 --> 00:07:20.820
+Entonces empecemos por aceptar (suponer) de que f puede ser
+
+00:07:20.820 --> 00:07:24.560
+escrita de esta manera, como el gradiente, la f minuscula puede
+
+00:07:24.560 --> 00:07:28.120
+ser escrita como el gradiente de una F mayuscula.
+
+00:07:28.120 --> 00:07:36.490
+En este caso nuestra integral--bueno, definamos
+
+00:07:36.490 --> 00:07:37.510
+nuestra trayectoria primero.
+
+00:07:37.510 --> 00:07:41.310
+Nuestra funcion del vector posición--siempre necesitamos uno
+
+00:07:41.310 --> 00:07:45.250
+de esos para hacer la integral de linea o una integral de linea vectorial--r
+
+00:07:45.250 --> 00:07:52.890
+de t que va ser igual a x de t multiplicado por i mas y de t multiplicado por
+
+00:07:52.890 --> 00:07:56.770
+j con t que va entre a y b.
+
+00:07:56.770 --> 00:07:59.730
+Han visto este muchas veces; esta es una definición
+
+00:07:59.730 --> 00:08:04.950
+basicamente de cualquier trayectoria en dos dimensiones.
+
+00:08:04.950 --> 00:08:13.270
+Y entonces vamos a decir que f de xy va a ser igual a
+
+00:08:13.270 --> 00:08:16.760
+esto: va a ser la derivada parcial de F mayuscula
+
+00:08:16.760 --> 00:08:20.740
+con respecto a x-- estamos asumiendo que esta existe, que
+
+00:08:20.740 --> 00:08:25.790
+esto es cierto-- multiplicado por i mas la derivada parcial de F minuscula
+
+00:08:25.790 --> 00:08:29.210
+con respecto a y por j.
+
+00:08:29.210 --> 00:08:42.470
+Ahora, dado esto que es la f minuscula punto dr que va
+
+00:08:42.470 --> 00:08:45.080
+a igualar sobre esta trayectoria por aca?
+
+00:08:45.080 --> 00:08:48.660
+Esta trayectoria esta definida por esta funcion de posicion por alla.
+
+00:08:48.660 --> 00:08:51.970
+Bien, va a ser igual a , necesitamos resolver
+
+00:08:51.970 --> 00:08:54.280
+que dr es, y lo hemos hecho en varios videos.
+
+00:08:54.280 --> 00:08:56.480
+Lo hare sobre la derecha por aqui.
+
+00:08:56.480 --> 00:08:59.740
+dr, hemos visto esto en varias ocasiones.
+
+00:08:59.740 --> 00:09:00.980
+En realidad, lo resolvere de nuevo.
+
+00:09:00.980 --> 00:09:11.590
+dr sobre dt por la definicion era igual a dx sobre dt por i
+
+00:09:11.590 --> 00:09:15.960
+mas-- no se porque se porque se me cambio el calibre de esa manera
+
+00:09:15.960 --> 00:09:20.070
+--dy sobre dt por j.
+
+00:09:20.070 --> 00:09:21.630
+y eso es lo que dr sobre dt es.
+
+00:09:21.630 --> 00:09:24.320
+Si queremos resolver que es dr, la diferencial de
+
+00:09:24.320 --> 00:09:26.720
+dr, si queremos jugar con las diferenciales de esta forma,
+
+00:09:26.720 --> 00:09:29.490
+multiplicamos a ambos lados del dt.
+
+00:09:29.490 --> 00:09:31.520
+Y en realidad voy a manejar el dt, lo multipliare;
+
+00:09:31.520 --> 00:09:32.670
+lo distribuire.
+
+00:09:32.670 --> 00:09:44.030
+Es dx sobre dt por dt i mas dy/dt por dt j.
+
+00:09:44.030 --> 00:09:48.460
+Estamos hablando del producto punto de f con dr, que
+
+00:09:48.460 --> 00:09:49.060
+vamos a obtener?
+
+00:09:49.060 --> 00:09:55.080
+que vamos a obtener?
+
+00:09:55.080 --> 00:10:01.960
+Esta va a ser la integral sobre la curva de--
+
+00:10:01.960 --> 00:10:04.840
+Escribire la c por alla; podemos escribir en terminos de los
+
+00:10:04.840 --> 00:10:08.790
+puntos final como t una vez que nos sintamos bien de que tenemos todo en
+
+00:10:08.790 --> 00:10:12.560
+terminos de t-- pero va a ser igual a este punto que,
+
+00:10:12.560 --> 00:10:16.510
+es igual a-- tratare de mantener los colores-- la
+
+00:10:16.510 --> 00:10:23.450
+derivada parcial de F mayuscula con respecto a x por esa, multiplicada por
+
+00:10:23.450 --> 00:10:26.520
+dx sobre d t-- voy a a escribir esto dt en un
+
+00:10:26.520 --> 00:10:35.850
+color diferente-- por dt mas la derivada parcial de F mayuscula con
+
+00:10:35.850 --> 00:10:41.020
+respecto a y por-- estamos multiplicando la
+
+00:10:41.020 --> 00:10:41.950
+las componentes de j, cierto?
+
+00:10:41.950 --> 00:10:45.170
+Cuando hacen el producto punto, multiplicar las componentes de i, y
+
+00:10:45.170 --> 00:10:48.680
+luego adicionarlas a lo que obtuvieron del producto de las
+
+00:10:48.680 --> 00:10:50.400
+componentes de j-- esta componente parcial de j de
+
+00:10:50.400 --> 00:10:54.830
+F mayuscula con respecto a y, y luego tenemos la multiplicacion--
+
+00:10:54.830 --> 00:11:03.680
+cambiamos a amarillo-- dy sobre dt por esa dt de alla.
+
+00:11:03.680 --> 00:11:05.790
+Y luego podemos factorizar el dt.
+
+00:11:05.790 --> 00:11:08.860
+Podemos factorar el dt
+
+00:11:08.860 --> 00:11:11.300
+O mejor, no tengo que ni siquiera escribir esto de nuevo, ahora mismo
+
+00:11:11.300 --> 00:11:12.800
+Lo escribo sin, bien dejenme escribirlo de nuevo.
+
+00:11:12.800 --> 00:11:16.035
+Esto es igual a la integral.
+
+00:11:16.035 --> 00:11:18.420
+Y digamos que lo tenemos en terminos de t; hemos escrito
+
+00:11:18.420 --> 00:11:22.760
+todo en terminos de t, entonces t va desde a hasta b, y por esto
+
+00:11:22.760 --> 00:11:27.150
+va a ser igual a-- lo escribire en azul -- la derivada parcial
+
+00:11:27.150 --> 00:11:33.610
+de F mayuscula con respecto a x por dx sobre dt mas-- estoy
+
+00:11:33.610 --> 00:11:36.980
+distribuyendo este dt-- mas la parcial de F
+
+00:11:36.980 --> 00:11:39.910
+mayuscula con respecto a y.
+
+00:11:39.910 --> 00:11:42.200
+dy sobre dt.
+
+00:11:42.200 --> 00:11:46.530
+todo eso multiplicado dt.
+
+00:11:46.530 --> 00:11:49.190
+Esto es equivalente a eso.
+
+00:11:49.190 --> 00:11:51.950
+Ahora se pueden dar cuenta porque hable de la
+
+00:11:51.950 --> 00:11:53.640
+regla de la cadena para multivariables.
+
+00:11:53.640 --> 00:11:55.480
+Que es esto por aqui?
+
+00:11:55.480 --> 00:11:57.100
+Que es eso por alla?
+
+00:11:57.100 --> 00:11:59.050
+Pueden hacer que coincidan algunos patrones.
+
+00:11:59.050 --> 00:12:04.180
+Eso es exactamente la derivada de F
+
+00:12:04.180 --> 00:12:05.950
+mayuscula con respecto a t.
+
+00:12:05.950 --> 00:12:07.980
+Miren esto; dejenme lo copio y lo pego solo
+
+00:12:07.980 --> 00:12:08.940
+para que lo puedan apreciar mejor (valorar).
+
+00:12:17.170 --> 00:12:21.370
+Entonces esta es nuestra definición, o esta es nuestra-- no diria
+
+00:12:21.370 --> 00:12:22.920
+definición; en realidad alguien puede demostrarla.
+
+00:12:22.920 --> 00:12:25.040
+No tienes que empezar desde alla-- pero esta es nuestra
+
+00:12:25.040 --> 00:12:27.220
+regla de la cadena para multivariables justo por aqui.
+
+00:12:27.220 --> 00:12:29.890
+La derivada de cualquier función con respecto a t es la derivada parcial
+
+00:12:29.890 --> 00:12:32.400
+de esa función con respecto a x multiplicado por dx sobre dt mas la
+
+00:12:32.400 --> 00:12:34.830
+derivada parcial de esa función con respecto a dy sobre dt.
+
+00:12:34.830 --> 00:12:37.710
+Tengo la derivada parcial de F mayuscula con respecto a
+
+00:12:37.710 --> 00:12:40.650
+x por dx sobre dt mas la derivada parcial de F mayuscula
+
+00:12:40.650 --> 00:12:42.130
+con respecto a y.
+
+00:12:42.130 --> 00:12:44.340
+Esto y esto son identicos si solo reemplazan esta
+
+00:12:44.340 --> 00:12:46.420
+f minuscula con la F mayuscula.
+
+00:12:46.420 --> 00:12:49.470
+Entonces esto en azul por aque, esto expresión completa es igual
+
+00:12:49.470 --> 00:12:57.500
+a la integral de t igual a hasta t igual a b de-- en
+
+00:12:57.500 --> 00:13:07.250
+azul aqui-- la derivada de f con respecto a dt.
+
+00:13:07.250 --> 00:13:10.030
+Y como lo evaluan-- dejenme solo el dt en verde
+
+00:13:10.030 --> 00:13:11.980
+-- como evaluan algo como esto?
+
+00:13:11.980 --> 00:13:14.790
+Solo quiero hacer un punto: esto es solo de la
+
+00:13:14.790 --> 00:13:16.540
+regla de la cadena para multivariables.
+
+00:13:16.540 --> 00:13:19.610
+Y como evaluamos una integral definida como esta?
+
+00:13:19.610 --> 00:13:21.430
+Bueno, tomamos la antiderivada de lo
+
+00:13:21.430 --> 00:13:25.120
+interior con respecto a dt
+
+00:13:25.120 --> 00:13:26.730
+Entonces que va esto ser igual?
+
+00:13:26.730 --> 00:13:32.030
+Toman la antiderivada de la parte interna, que es justo f.
+
+00:13:32.030 --> 00:13:36.192
+Entonces esto es igual a f de t.
+
+00:13:36.192 --> 00:13:38.410
+Y permitanme aclarar.
+
+00:13:38.410 --> 00:13:41.690
+Escribimos antes que f es una función.
+
+00:13:41.690 --> 00:13:47.330
+Nuestra F mayuscula es una función de x y y,
+
+00:13:47.330 --> 00:13:49.390
+que puedo igualmente escrita, ya que cada uno de estos son funciones
+
+00:13:49.390 --> 00:13:54.310
+de t, pudo ser escrito como f de x de t de y de t.
+
+00:13:54.310 --> 00:13:55.920
+Solo estoy re-escribiendolo en una formas diferentes.
+
+00:13:55.920 --> 00:14:00.430
+Y esto pudo ser escrito com f o t.
+
+00:14:00.430 --> 00:14:02.550
+Estos son todos equivalentes, dependiendo si ustedes quieren
+
+00:14:02.550 --> 00:14:04.490
+incluir solamente la x´s o la y´s, o las t´s
+
+00:14:04.490 --> 00:14:06.310
+solamente, o ambas.
+
+00:14:06.310 --> 00:14:10.370
+Ya que las x´s y las y´s son funciones de t.
+
+00:14:10.370 --> 00:14:13.650
+Esta es la derivada de f con respecto a t.
+
+00:14:13.650 --> 00:14:15.880
+Si esta fuera solo en terminos de t, esta es la derivada
+
+00:14:15.880 --> 00:14:17.390
+de eso con respecto a t.
+
+00:14:17.390 --> 00:14:20.880
+Tomamos su antiderivada, quedamos solo con f y nosotros
+
+00:14:20.880 --> 00:14:26.540
+tenemos que evaluarla desde t igual a hasta t igual a b.
+
+00:14:26.540 --> 00:14:29.730
+Y esto es igual a-- y esto es la parte final de esta dificil actividad--
+
+00:14:29.730 --> 00:14:35.910
+esto es igual a f de b menos f de a.
+
+00:14:35.910 --> 00:14:38.170
+Y si quieren pensarlo en estos terminos, esto
+
+00:14:38.170 --> 00:14:39.260
+es la misma cosa.
+
+00:14:39.260 --> 00:14:46.560
+Esto es igual a f de x de b sobre y de b-- permitanme asegurarme
+
+00:14:46.560 --> 00:14:49.970
+tengo todos los parentesis -- menos f de x de
+
+00:14:49.970 --> 00:14:52.330
+a sobre y de a.
+
+00:14:52.330 --> 00:14:53.660
+Estos son equivalentes.
+
+00:14:53.660 --> 00:14:58.320
+Me dan otro punto cualquiera sobre el planos xy, un x y una y, y
+
+00:14:58.320 --> 00:15:00.070
+me dicen donde estoy.
+
+00:15:00.070 --> 00:15:03.220
+Esta es my F mayuscula, me da una altura.
+
+00:15:03.220 --> 00:15:05.800
+Justo asi.
+
+00:15:05.800 --> 00:15:09.652
+Este asocia un valor con cada punto sobre el plano xy.
+
+00:15:09.652 --> 00:15:13.370
+Pero esto ejercicio completo, recuerden este es la
+
+00:15:13.370 --> 00:15:15.280
+misms cosa que esta.
+
+00:15:15.280 --> 00:15:18.010
+Esto es nuestra ejercicio que estabamos tratando de demostrar: eso es
+
+00:15:18.010 --> 00:15:25.300
+igual a f punto dr.f punto dr, nuestro campo vectorial, que es el
+
+00:15:25.300 --> 00:15:29.890
+gradiente de la F mayuscula -- recuerde F era igual al
+
+00:15:29.890 --> 00:15:33.000
+gradiente de F, asumimos que es el gradiente de alguna
+
+00:15:33.000 --> 00:15:36.800
+función de F mayuscula, si ese es el cado, entonces justamente hicimos un
+
+00:15:36.800 --> 00:15:39.180
+poco de calculo o algebra, como lo quieran
+
+00:15:39.180 --> 00:15:43.150
+llamar, y hallamos que podemos evaluar esta integral
+
+00:15:43.150 --> 00:15:47.170
+evaluando la F mayuscula en t igual a b, y luego
+
+00:15:47.170 --> 00:15:50.570
+restando de F mayuscula en t que es igual a a.
+
+00:15:50.570 --> 00:15:52.860
+Pero lo que esto les dice es que esta integral, el valor de
+
+00:15:52.860 --> 00:15:58.980
+esta integral, es solamente dependiente de nuestro
+
+00:15:58.980 --> 00:16:06.090
+punto de inicio, t igual a, esto es el punto de x de a, y de a, y
+
+00:16:06.090 --> 00:16:13.810
+el punto final, t igual a b, que es x de b, y de b.
+
+00:16:13.810 --> 00:16:16.020
+Esa integral depende solamente de estas dos valores.
+
+00:16:16.020 --> 00:16:17.300
+Como lo se?
+
+00:16:17.300 --> 00:16:20.340
+Porque para resolverlo-- porque estoy diciendo que esta cosa
+
+00:16:20.340 --> 00:16:23.880
+existe -- tuve que evaluar esa cosa en esos dos
+
+00:16:23.880 --> 00:16:26.890
+puntos; no me intereso lo que habia en medio de la curva.
+
+00:16:26.890 --> 00:16:34.450
+Entonces esto demuestra que si F es igual al gradiente-- esto
+
+00:16:34.450 --> 00:16:37.340
+es llamado por lo general una función potencial de F mayuscula, sin embargo
+
+00:16:37.340 --> 00:16:39.590
+generalmente ellas son negativas una respecto de la otra, pero es la misma
+
+00:16:39.590 --> 00:16:44.220
+idea -- si el campo vectorial f es el gradiente de algun escalar o
+
+00:16:44.220 --> 00:16:56.490
+campo de F mayuscula, entonces podemos decir que f es conservativa o
+
+00:16:56.490 --> 00:17:00.980
+que la integral de linea de f punto dr es independiente de la trayectoria.
+
+00:17:00.980 --> 00:17:04.420
+No importa que trayectoria tomemos con tal de que nuestro
+
+00:17:04.420 --> 00:17:06.420
+punto inicial y punto final sean los mismos.
+
+00:17:06.420 --> 00:17:07.580
+Espero que hayan encontrado esto de utilidad.
+
+00:17:07.580 --> 00:17:08.680
+Y hare algunos ejemplos con esto.
+
+00:17:08.680 --> 00:17:10.990
+Y en realidad en el proximo video demostrare otro resultado
+
+00:17:10.990 --> 00:17:13.480
+interesante basado en esto.

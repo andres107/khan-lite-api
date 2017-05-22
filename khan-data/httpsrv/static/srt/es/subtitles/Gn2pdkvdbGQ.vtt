@@ -1,0 +1,573 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.890 --> 00:00:03.770
+Ahora voy a mostrar cómo convertir una fracción
+
+00:00:03.770 --> 00:00:04.920
+en un decimal.
+
+00:00:04.920 --> 00:00:06.990
+Y si tenemos tiempo, tal vez vamos a convertir un
+
+00:00:06.990 --> 00:00:08.730
+decimal en una fracción.
+
+00:00:08.730 --> 00:00:11.420
+Así que vamos a empezar, lo que yo diría, es un
+
+00:00:11.420 --> 00:00:12.480
+ejemplo bastante sencillo.
+
+00:00:12.480 --> 00:00:15.210
+Vamos a empezar con la fracción 1 / 2.
+
+00:00:15.210 --> 00:00:17.390
+Y quiero convertir esto en un decimal.
+
+00:00:17.390 --> 00:00:20.170
+Así que el método que te voy a mostrar siempre va a funcionar.
+
+00:00:20.170 --> 00:00:22.850
+Lo que haces es tomar el denominador y lo divides
+
+00:00:22.850 --> 00:00:24.530
+con el numerador.
+
+00:00:24.530 --> 00:00:25.510
+Vamos a ver cómo funciona.
+
+00:00:25.510 --> 00:00:29.110
+Así que tomamos el denominador - es 2 - y los vamos a dividir
+
+00:00:29.110 --> 00:00:32.280
+en el numerador, 1.
+
+00:00:32.280 --> 00:00:34.110
+Y probablemente estés diciendo, bueno, ¿cómo se divide 2 en 1?
+
+00:00:34.110 --> 00:00:37.010
+Bueno, si te acuerdas del módulo de dividir decimales,
+
+00:00:37.010 --> 00:00:40.220
+puedemos simplemente añadir un punto decimal aquí y añadir ceros al final.
+
+00:00:40.220 --> 00:00:42.880
+No hemos cambiado el valor de la cifra, solo estamos
+
+00:00:42.880 --> 00:00:45.260
+obteniendo más precisión aquí.
+
+00:00:45.260 --> 00:00:46.700
+Ponemos el punto decimal aquí.
+
+00:00:50.260 --> 00:00:50.650
+¿Cabe 2 en 1?
+
+00:00:50.650 --> 00:00:51.280
+No.
+
+00:00:51.280 --> 00:00:56.180
+2 cabe en 10, así que decimos 2 cabe en 10 en cinco ocasiones.
+
+00:00:56.180 --> 00:00:59.060
+5 veces 2 es 10.
+
+00:00:59.060 --> 00:01:00.050
+El residuo es 0.
+
+00:01:00.050 --> 00:01:01.150
+Hemos terminado.
+
+00:01:01.150 --> 00:01:06.675
+Así que 1 / 2 es igual a 0.5
+
+00:01:10.570 --> 00:01:12.050
+Vamos a hacer uno un poco más difícil.
+
+00:01:12.050 --> 00:01:15.000
+Vamos a ver que es 1 / 3.
+
+00:01:15.000 --> 00:01:19.190
+Bueno, una vez más, tomamos el denominador, 3, y los dividimos
+
+00:01:19.190 --> 00:01:20.740
+en el numerador.
+
+00:01:20.740 --> 00:01:25.470
+Y sólo voy a añadir un montón ceros al final.
+
+00:01:25.470 --> 00:01:27.800
+3 entra en - bueno, 3 no entra en 1.
+
+00:01:27.800 --> 00:01:30.150
+3 cabe en 10 en tres ocasiones.
+
+00:01:30.150 --> 00:01:32.452
+3 veces 3 es 9.
+
+00:01:32.452 --> 00:01:35.720
+Vamos a restar, obtenemos un 1, bajamos el 0.
+
+00:01:35.720 --> 00:01:37.700
+3 cabe en 10 en tres ocasiones.
+
+00:01:37.700 --> 00:01:39.700
+En realidad, este punto decimal está aquí.
+
+00:01:39.700 --> 00:01:42.710
+3 veces 3 es 9.
+
+00:01:42.710 --> 00:01:43.930
+¿Ves un patrón aquí?
+
+00:01:43.930 --> 00:01:45.070
+Seguimos recibiendo lo mismo.
+
+00:01:45.070 --> 00:01:47.350
+Como se ve en realidad es 0.3333
+
+00:01:47.350 --> 00:01:48.830
+Se repite por siempre.
+
+00:01:48.830 --> 00:01:52.160
+Y una forma de representar esto, obviamente no se puede escribir
+
+00:01:52.160 --> 00:01:54.020
+un número infinito de 3.
+
+00:01:54.020 --> 00:02:00.430
+es usted podría escribir 0 .-- así, se podría escribir 0.33
+
+00:02:00.430 --> 00:02:03.060
+repitiendo, lo que significa que el 0,33 seguirá para siempre.
+
+00:02:03.060 --> 00:02:06.960
+O usted puede incluso decir 0.3 repitiendose.
+
+00:02:06.960 --> 00:02:08.630
+A pesar de que se tiende a ver más a menudo.
+
+00:02:08.630 --> 00:02:09.840
+Tal vez estoy equivocado.
+
+00:02:09.840 --> 00:02:12.410
+Pero, en general, esta línea en la parte superior del decimal significa
+
+00:02:12.410 --> 00:02:17.320
+que este patrón numérico se repite indefinidamente.
+
+00:02:17.320 --> 00:02:25.210
+Así que 1 / 3 es igual a 0,33333 y se repite para siempre.
+
+00:02:25.210 --> 00:02:29.770
+Otra forma de escribir es 0,33 repitiendose
+
+00:02:29.770 --> 00:02:33.400
+Vamos a hacer un par de ejercicios, tal vez un poco más difíciles, pero
+
+00:02:33.400 --> 00:02:35.060
+todos siguen el mismo patrón.
+
+00:02:35.060 --> 00:02:36.890
+Permítanme escoger algunos números extraños.
+
+00:02:40.470 --> 00:02:41.890
+Déjenme hacer una fracción impropia.
+
+00:02:41.890 --> 00:02:49.050
+Permítanme decir 17 / 9.
+
+00:02:49.050 --> 00:02:50.160
+Así que aquí, es interesante.
+
+00:02:50.160 --> 00:02:52.260
+El numerador es mayor que el denominador.
+
+00:02:52.260 --> 00:02:54.200
+Así que en realidad vamos a obtener un número mayor que 1.
+
+00:02:54.200 --> 00:02:55.270
+Pero vamos a resolverlo.
+
+00:02:55.270 --> 00:03:00.586
+Así que tomamos 9 dividiendo 17.
+
+00:03:00.586 --> 00:03:06.000
+Y vamos a añadir un poco ceros para el punto decimal aquí.
+
+00:03:06.000 --> 00:03:08.730
+Así que 9 cabe en 17 una vez.
+
+00:03:08.730 --> 00:03:11.260
+1 veces 9 es 9.
+
+00:03:11.260 --> 00:03:14.040
+17 menos 9 es 8.
+
+00:03:14.040 --> 00:03:16.240
+Bajamos el 0.
+
+00:03:16.240 --> 00:03:20.080
+9 cabe en 80 -, así, sabemos que 9 veces 9 es 81, por lo que tiene
+
+00:03:20.080 --> 00:03:21.830
+que caber sólo ocho veces porque no cabe
+
+00:03:21.830 --> 00:03:23.230
+nueve veces.
+
+00:03:23.230 --> 00:03:27.010
+8 veces 9 es 72.
+
+00:03:27.010 --> 00:03:29.560
+80 menos 72 es 8.
+
+00:03:29.560 --> 00:03:30.770
+Bajamos otro 0.
+
+00:03:30.770 --> 00:03:32.260
+Creo que podemos ver un patrón de formándose de nuevo.
+
+00:03:32.260 --> 00:03:35.990
+9 cabe en 80 en ocho ocasiones.
+
+00:03:35.990 --> 00:03:40.820
+8 veces 9 es 72.
+
+00:03:40.820 --> 00:03:44.350
+Y claro, yo podría seguir haciendo esto para siempre y
+
+00:03:44.350 --> 00:03:46.790
+seguiríamos obteniendo el 8.
+
+00:03:46.790 --> 00:03:53.740
+Vemos, pues, 17 dividido por 9 es igual a 1.88 adonde 0.88
+
+00:03:53.740 --> 00:03:56.080
+en realidad se repite para siempre.
+
+00:03:56.080 --> 00:03:59.200
+O bien, si realmente quisiéramos redondear esto podemos decir que
+
+00:03:59.200 --> 00:04:01.430
+que también es igual a 1 .-- dependiendo donde queríamos
+
+00:04:01.430 --> 00:04:02.860
+redondear ... en qué lugar.
+
+00:04:02.860 --> 00:04:05.990
+Se puede decir más o menos 1,89.
+
+00:04:05.990 --> 00:04:07.480
+O podríamos redondear en un lugar diferente.
+
+00:04:07.480 --> 00:04:09.310
+Redondeamos en los centésimos.
+
+00:04:09.310 --> 00:04:11.350
+Pero esto es en realidad la respuesta exacta.
+
+00:04:11.350 --> 00:04:15.126
+17 / 9 es igual a 1.88
+
+00:04:15.126 --> 00:04:17.380
+De hecho, podría hacer un módulo aparte, pero ¿cómo se escribe
+
+00:04:17.380 --> 00:04:20.730
+esto como un número mixto?
+
+00:04:20.730 --> 00:04:23.030
+Bueno, en realidad, yo voy a hacer eso en otra ocasión.
+
+00:04:23.030 --> 00:04:24.390
+No quiero que te confundas.
+
+00:04:24.390 --> 00:04:25.380
+Vamos a hacer un par de problemas más.
+
+00:04:28.560 --> 00:04:29.980
+Permítanse hacer uno extraño.
+
+00:04:29.980 --> 00:04:34.360
+Déjame hacer 17/93.
+
+00:04:34.360 --> 00:04:36.710
+¿Qué es a lo que equivale como decimal?
+
+00:04:36.710 --> 00:04:39.130
+Bueno, hacemos lo mismo.
+
+00:04:39.130 --> 00:04:45.630
+93 cabe - Hago una línea muy larga aquí, porque
+
+00:04:45.630 --> 00:04:47.930
+No sé cuántos decimales vamos a hacer.
+
+00:04:50.570 --> 00:04:53.220
+Y recuerda, siempre es el denominador que se divide
+
+00:04:53.220 --> 00:04:54.930
+entre el numerador.
+
+00:04:54.930 --> 00:04:56.950
+Esto solía confundirme mucho porque estás a menudo
+
+00:04:56.950 --> 00:04:59.630
+dividiendo un número más grande en un número menor.
+
+00:04:59.630 --> 00:05:02.580
+Así que 93 no cabe en 17.
+
+00:05:02.580 --> 00:05:04.080
+Aquí hay un decimal.
+
+00:05:04.080 --> 00:05:05.990
+¿93 cabe 170?
+
+00:05:05.990 --> 00:05:07.270
+Cabe una vez.
+
+00:05:07.270 --> 00:05:11.410
+1 veces 93 es 93.
+
+00:05:11.410 --> 00:05:14.370
+170 menos 93 es 77.
+
+00:05:17.980 --> 00:05:20.360
+Baja el 0.
+
+00:05:20.360 --> 00:05:23.700
+¿93 cabe en 770?
+
+00:05:23.700 --> 00:05:24.660
+Vamos a ver.
+
+00:05:24.660 --> 00:05:29.120
+Si cabe, creo que, más o menos en ocho ocasiones.
+
+00:05:29.120 --> 00:05:33.330
+8 veces 3 es 24.
+
+00:05:33.330 --> 00:05:35.970
+8 veces 9 es 72.
+
+00:05:35.970 --> 00:05:39.730
+Más 2 es 74.
+
+00:05:39.730 --> 00:05:42.186
+Y luego restamos.
+
+00:05:42.186 --> 00:05:43.990
+10 y 6.
+
+00:05:43.990 --> 00:05:46.710
+Es igual a 26.
+
+00:05:46.710 --> 00:05:47.760
+Luego bajamos otro 0.
+
+00:05:47.760 --> 00:05:52.800
+93 cabe en 26 - cerca de dos veces.
+
+00:05:52.800 --> 00:05:57.020
+2 por 3 es 6.
+
+00:05:57.020 --> 00:05:58.704
+18.
+
+00:05:58.704 --> 00:05:59.920
+Esto es 74.
+
+00:06:03.120 --> 00:06:03.930
+0.
+
+00:06:03.930 --> 00:06:06.380
+Así que podemos seguir adelante.
+
+00:06:06.380 --> 00:06:08.030
+Podríamos seguir averiguando los puntos decimales.
+
+00:06:08.030 --> 00:06:10.020
+Puedes hacer esto por tiempo indefinido.
+
+00:06:10.020 --> 00:06:12.090
+Pero si quieres conseguir al menos una aproximación,
+
+00:06:12.090 --> 00:06:23.490
+dirías que 17 cabe en 93 0 .-- o 17/93 es igual a 0.182 y
+
+00:06:23.490 --> 00:06:25.020
+luego los decimales siguen adelante.
+
+00:06:25.020 --> 00:06:27.170
+Y puede seguir haciéndolo si lo deseas.
+
+00:06:27.170 --> 00:06:28.650
+Si ves esto en un examen, probablemente diría que pares
+
+00:06:28.650 --> 00:06:29.640
+en algún momento.
+
+00:06:29.640 --> 00:06:31.650
+Algo como, redondea a las centésimas
+
+00:06:31.650 --> 00:06:33.610
+o milésimas
+
+00:06:33.610 --> 00:06:36.550
+Y para que lo sepas, vamos a tratar de convertir a la inversa,
+
+00:06:36.550 --> 00:06:37.830
+de decimales a fracciones.
+
+00:06:37.830 --> 00:06:40.090
+En realidad, esto es, creo yo
+
+00:06:40.090 --> 00:06:42.300
+Más fácil de hacer.
+
+00:06:42.300 --> 00:06:49.810
+Si yo te preguntara lo que 0.035 como una fracción?
+
+00:06:49.810 --> 00:06:56.845
+Bueno, todo lo que haces es decir, bueno, 0.035, podríamos escribirlo
+
+00:06:56.845 --> 00:07:05.130
+de esta manera - se podría escribir que es lo mismo que 03 -
+
+00:07:05.130 --> 00:07:06.300
+bueno, yo no debería escribir 035.
+
+00:07:06.300 --> 00:07:10.700
+Eso es lo mismo que 35 / 1000.
+
+00:07:10.700 --> 00:07:11.580
+Y probablemente estés diciendo, Sal, ¿cómo
+
+00:07:11.580 --> 00:07:14.120
+sabes que es 35/1000?
+
+00:07:14.120 --> 00:07:18.590
+Bien porque fuimos a 3 - esta en los decimales.
+
+00:07:18.590 --> 00:07:20.230
+Decimales no dieces.
+
+00:07:20.230 --> 00:07:21.360
+Esto es centésimas.
+
+00:07:21.360 --> 00:07:23.230
+Este es el lugar de las milésimas.
+
+00:07:23.230 --> 00:07:25.890
+Así que fuimos a tres decimales.
+
+00:07:25.890 --> 00:07:29.260
+Así que esto es 35 milésimas.
+
+00:07:29.260 --> 00:07:38.650
+Si el decimal era, digamos, si era 0.030.
+
+00:07:38.650 --> 00:07:40.140
+Hay un par de maneras en que podría decir esto.
+
+00:07:40.140 --> 00:07:42.490
+Bueno, podría decir, así que llegamos a 3 - fuimos a
+
+00:07:42.490 --> 00:07:43.570
+al lugar de las milésimas.
+
+00:07:43.570 --> 00:07:48.240
+Así que esto es lo mismo que 30 / 1000.
+
+00:07:48.240 --> 00:07:48.610
+o.
+
+00:07:48.610 --> 00:07:55.550
+Podríamos también haber dicho que, 0.030 es lo mismo que
+
+00:07:55.550 --> 00:08:02.710
+0.03 porque realmente este 0 no agrega ningún valor.
+
+00:08:02.710 --> 00:08:05.920
+Si tenemos 0.03 entonces sólo vamos al lugar de las centésimas.
+
+00:08:05.920 --> 00:08:11.100
+Así que esto es lo mismo que 3 / 100.
+
+00:08:11.100 --> 00:08:13.160
+Así que déjame preguntarte, ¿son estos dos lo mismo?
+
+00:08:16.330 --> 00:08:16.670
+Bueno, sí.
+
+00:08:16.670 --> 00:08:17.680
+Claro que lo son.
+
+00:08:17.680 --> 00:08:20.065
+Si dividimos el numerador y el denominador de ambos
+
+00:08:20.065 --> 00:08:24.890
+estas expresiones entre 10 obtenemos 3 / 100.
+
+00:08:24.890 --> 00:08:26.220
+Volvamos a este caso.
+
+00:08:26.220 --> 00:08:27.550
+¿Hemos terminado con esto?
+
+00:08:27.550 --> 00:08:30.120
+Es 35 / 1000 - quiero decir, que está bien.
+
+00:08:30.120 --> 00:08:31.660
+Es una fracción.
+
+00:08:31.660 --> 00:08:32.584
+35 / 1000.
+
+00:08:32.584 --> 00:08:35.440
+Pero si queremos simplificar aún más parece que podríamos
+
+00:08:35.440 --> 00:08:38.530
+Dividir a ambos el numerador y el denominador por 5.
+
+00:08:38.530 --> 00:08:40.860
+Y entonces, justo para entrar en forma más simple,
+
+00:08:40.860 --> 00:08:47.280
+que es igual a 7 / 200.
+
+00:08:47.280 --> 00:08:51.020
+Y si queremos convertir 7 / 200 en decimales, mediante la
+
+00:08:51.020 --> 00:08:54.150
+técnica que acabamos ver, haríamos .. ¿cabe 200 en 7?
+
+00:08:54.150 --> 00:08:56.120
+y lo calculamos
+
+00:08:56.120 --> 00:09:00.170
+Deberíamos de obtener 0.035.
+
+00:09:00.170 --> 00:09:02.650
+Te voy a dejar esto como un ejercicio.
+
+00:09:02.650 --> 00:09:05.370
+Esperemos que ahora tengas por lo menos un entendimiento inicial de cómo
+
+00:09:05.370 --> 00:09:09.320
+convertir una fracción en un decimal y quizá viceversa.
+
+00:09:09.320 --> 00:09:11.840
+Y si no, realiza algunos ejercicios.
+
+00:09:11.840 --> 00:09:16.990
+Y también voy a intentar grabar otro módulo sobre este tema
+
+00:09:16.990 --> 00:09:18.880
+u otra presentación.
+
+00:09:18.880 --> 00:09:20.090
+Diviértete con los ejercicios.

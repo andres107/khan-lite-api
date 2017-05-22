@@ -1,0 +1,324 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.800 --> 00:00:06.625
+Encuentra la suma de -15 + (-46) + (-29).
+
+00:00:06.625 --> 00:00:08.471
+Para hacer esto, primero vamos a visualizar
+
+00:00:08.471 --> 00:00:10.115
+cómo se ve cada uno de estos números.
+
+00:00:10.115 --> 00:00:12.497
+Así que voy a dibujar una recta numérica para cada uno de ellos.
+
+00:00:12.497 --> 00:00:15.649
+-15 luce más o menos así.
+
+00:00:15.649 --> 00:00:21.031
+Si esto es 0, digamos que esto es -15.
+
+00:00:21.031 --> 00:00:28.087
+Puedo representar -15 como una flecha que apunta desde 0 hasta -15.
+
+00:00:28.087 --> 00:00:31.698
+El largo de la flecha es el valor absoluto.
+
+00:00:31.698 --> 00:00:33.344
+Es la distancia desde 0.
+
+00:00:33.344 --> 00:00:36.129
+Así que el largo aquí es 15
+
+00:00:36.129 --> 00:00:39.254
+y el signo negativo dice que estamos apuntando hacia la izquierda.
+
+00:00:39.254 --> 00:00:42.070
+Así que el valor absoluto es 15.
+
+00:00:42.070 --> 00:00:43.647
+Es el largo de esa flecha.
+
+00:00:43.647 --> 00:00:45.645
+Hagamos lo mismo para -46.
+
+00:00:45.645 --> 00:00:53.044
+Nuevamente, voy a dibujar mi recta numérica.
+
+00:00:53.044 --> 00:00:55.580
+El 0 estará por allá
+
+00:00:55.580 --> 00:00:59.924
+y el -46 va a estar en algún lugar por aquí.
+
+00:00:59.924 --> 00:01:02.154
+Observen que es exactamente la misma idea.
+
+00:01:02.154 --> 00:01:04.564
+La distancia entre -46 y 0
+
+00:01:04.564 --> 00:01:08.477
+o, visto de otra forma, es el valor absoluto de -46.
+
+00:01:08.477 --> 00:01:14.867
+Esta distancia va a ser 46.
+
+00:01:14.867 --> 00:01:16.569
+y su dirección es hacia la la izquierda.
+
+00:01:16.569 --> 00:01:21.549
+Por eso es que llegamos al número -46.
+
+00:01:21.549 --> 00:01:22.454
+El signo negativo realmente dice
+
+00:01:22.454 --> 00:01:25.491
+si estás a la izquierda o a la derecha del 0.
+
+00:01:25.491 --> 00:01:26.745
+El valor absoluto dice
+
+00:01:26.745 --> 00:01:30.193
+cuán lejos estás a la izquierda o derecha de cero.
+
+00:01:30.193 --> 00:01:35.656
+Finalmente, hagamos lo mismo para -29.
+
+00:01:35.656 --> 00:01:40.596
+Nuevamente, voy a dibujar mi recta numérica.
+
+00:01:40.596 --> 00:01:42.579
+Voy a usar el amarillo de nuevo
+
+00:01:42.579 --> 00:01:45.032
+para poder dibujar mi recta numérica.
+
+00:01:45.032 --> 00:01:50.359
+Digamos que esto es 0, así que -29 va a estar más o menos aquí.
+
+00:01:50.359 --> 00:01:54.953
+De nuevo, -29 está exactamente a 29 unidades desde el 0.
+
+00:01:54.953 --> 00:02:00.267
+Así que este largo es 29 y está a la izquierda
+
+00:02:00.267 --> 00:02:02.099
+por eso es -29.
+
+00:02:02.099 --> 00:02:05.043
+Si fuera +29 estaría a 29 unidades hacia la derecha del cero.
+
+00:02:05.043 --> 00:02:07.359
+Hemos presentado todos estos números
+
+00:02:07.359 --> 00:02:09.502
+y pueden ver cómo lucen sus valores absolutos.
+
+00:02:09.502 --> 00:02:12.111
+Ahora vamos a pensar que pasaría si los sumas.
+
+00:02:12.111 --> 00:02:14.194
+Una manera de pensar sobre cómo sumar estos números
+
+00:02:14.194 --> 00:02:16.165
+es como si sumaras estas flechas.
+
+00:02:16.165 --> 00:02:19.433
+Si pones esta flecha sobre esta flecha
+
+00:02:19.433 --> 00:02:20.886
+o a la izquierda de esta flecha.
+
+00:02:20.886 --> 00:02:23.551
+Si comenzaras donde esta flecha termina,
+
+00:02:23.551 --> 00:02:25.273
+entonces pones esta flecha verde
+
+00:02:25.273 --> 00:02:26.517
+y luego pones la flecha anaranjada.
+
+00:02:26.517 --> 00:02:32.569
+Así que hagamos eso. Dibujemos eso.
+
+00:02:32.569 --> 00:02:34.444
+Va a ser una flecha más larga esta vez.
+
+00:02:34.444 --> 00:02:36.143
+Así que comenzaremos en el 0.
+
+00:02:36.143 --> 00:02:38.118
+Primero tenemos -15,
+
+00:02:38.118 --> 00:02:42.052
+así que vamos a movernos 15 lugares a la izquierda
+
+00:02:42.052 --> 00:02:46.733
+para llegar a -15.
+
+00:02:46.733 --> 00:02:48.982
+Entonces vamos a movernos 46 lugares a la izquierda
+
+00:02:48.982 --> 00:02:53.595
+para llegar a -15 + (-46).
+
+00:02:53.595 --> 00:02:58.716
+Voy a dibujar eso. Luego vamos...
+
+00:02:58.716 --> 00:03:01.318
+Y vamos a averiguar qué numero es ese en un momento.
+
+00:03:01.318 --> 00:03:04.596
+Entonces vamos a movernos 46 lugares a la izquierda. Aproximadamente así de largo,
+
+00:03:04.596 --> 00:03:08.662
+es solamente esta flecha. Ahora la estoy colocando.
+
+00:03:08.662 --> 00:03:11.333
+Comenzaré donde el -15 comenzaba,
+
+00:03:11.333 --> 00:03:13.608
+o donde el -15 terminaba,
+
+00:03:13.608 --> 00:03:15.723
+y voy a poner esa flecha después.
+
+00:03:15.723 --> 00:03:18.485
+Y aún no sabemos a qué número nos lleva esto.
+
+00:03:18.485 --> 00:03:19.713
+Vamos a tener que utilizar las matemáticas aquí.
+
+00:03:19.713 --> 00:03:21.299
+Ese es en realidad el punto de hacer este problema.
+
+00:03:21.299 --> 00:03:25.195
+Pero sabemos que el largo de esta flecha es 46,
+
+00:03:25.195 --> 00:03:27.271
+es 46 hacia la izquierda.
+
+00:03:27.271 --> 00:03:30.662
+Y sabemos que el largo de esta flecha magenta es 15.
+
+00:03:30.662 --> 00:03:34.257
+Finalmente tenemos esta flecha anaranjada
+
+00:03:34.257 --> 00:03:36.105
+que sabemos que tiene un largo de 29 unidades,
+
+00:03:36.105 --> 00:03:37.965
+aunque es 29 hacia la izquierda,
+
+00:03:37.965 --> 00:03:39.035
+y se ve así.
+
+00:03:39.035 --> 00:03:41.050
+Tiene un largo de 29.
+
+00:03:41.050 --> 00:03:44.308
+al fin, ¿dónde nos quedamos?
+
+00:03:44.308 --> 00:03:46.831
+¿Dónde nos encontramos en la recta numérica?
+
+00:03:46.831 --> 00:03:49.733
+La longitud total en el cual estamos a la izquierda
+
+00:03:49.733 --> 00:03:52.316
+es 15+46+29
+
+00:03:52.316 --> 00:03:54.072
+Pero eso va a estar a la izquierda
+
+00:03:54.072 --> 00:03:55.454
+entonces será negativo
+
+00:03:55.454 --> 00:03:57.212
+entonces podemos ver esto como
+
+00:03:57.212 --> 00:03:58.835
+ya que todos estos tienen el mismo valor
+
+00:03:58.835 --> 00:04:00.776
+Así que es lo mismo que abs(-15)+abs(-46)+abs(-29)
+
+00:04:00.776 --> 00:04:09.474
+como abs(-15)+abs(-46)+abs(-29)
+
+00:04:09.474 --> 00:04:11.726
+tomando el valor negativo
+
+00:04:11.726 --> 00:04:12.557
+vamos a sumarlo
+
+00:04:12.557 --> 00:04:23.849
+que es 15+46+29 te llevará a
+
+00:04:23.849 --> 00:04:27.215
+5+6 igual 11. 11+9 igual 20. 2 queda.
+
+00:04:27.215 --> 00:04:33.643
+2 y 1 igual 3. 3 y 4 igual 7. 7 y 2 igual 9. Eso nos lleva a 90.
+
+00:04:33.643 --> 00:04:37.464
+90. La longitud entera es 90
+
+00:04:37.464 --> 00:04:40.026
+si sumas todas las flechas, tendrás 90.
+
+00:04:40.026 --> 00:04:42.605
+No es 90 a la derecha de 0, lo que significaría que es positivo, e
+
+00:04:42.605 --> 00:04:44.855
+Si fuera 90 a la derecha, todo esto sería positivo
+
+00:04:44.855 --> 00:04:46.581
+entonces tendríamos un 90 positivo.
+
+00:04:46.581 --> 00:04:48.067
+es 90 a la izquierda, llegamos a -90
+
+00:04:48.067 --> 00:04:49.998
+entonces cuando sumas todo esto
+
+00:04:49.998 --> 00:04:51.981
+no tendras un 90 positivo
+
+00:04:51.981 --> 00:04:54.102
+sino un 90 negativo
+
+00:04:54.102 --> 00:04:57.133
+Una manera de verlo es ya que todos los signos son los mismos
+
+00:04:57.133 --> 00:04:58.718
+va a ser -(abs(-15)+abs(-46)+abs(-29))
+
+00:04:58.718 --> 00:05:12.651
+el -( abs(-15)+abs(-46)+abs(-29))
+
+00:05:12.651 --> 00:05:14.400
+la razón por la que escribimos así
+
+00:05:14.400 --> 00:05:15.977
+tal vez esto parezca lujoso
+
+00:05:15.977 --> 00:05:21.573
+esto es realmente solo el largo de las diferentes flechas
+
+00:05:21.573 --> 00:05:23.623
+el valor absoluto de 46
+
+00:05:23.623 --> 00:05:27.401
+eso es en realidad la longitud de la flecha verde, 46.
+
+00:05:27.401 --> 00:05:32.093
+esta es la longitud de la flecha anaranjada
+
+00:05:32.093 --> 00:05:35.600
+Así que esto es 15+46+29
+
+00:05:35.600 --> 00:05:40.918
+90 es dado a la izquierda. Así que esto es porque es -90

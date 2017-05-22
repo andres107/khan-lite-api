@@ -1,0 +1,117 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:05.367
+Vamos a restarle 286 a 913.
+
+00:00:05.367 --> 00:00:07.967
+Pero primero voy a hacerlo un poco diferente.
+
+00:00:07.967 --> 00:00:10.233
+He cogido cada uno de los tres numeros y los expandí.
+
+00:00:10.233 --> 00:00:17.567
+Este 9 en el puesto de las centenas representa 900, este 1 en el puesto de las decenas representa 10, y este 3 en el puesto de las unidades representa 3.
+
+00:00:17.567 --> 00:00:22.833
+del mismo modo, 286 es lo mismo que 200 mas 80 mas 6.
+
+00:00:22.833 --> 00:00:28.633
+Entonces intentemos restar yendo puesto por puesto. entonces si empezamos con la posición de las unidades, tenemos un problema inmediatamente.
+
+00:00:28.633 --> 00:00:33.624
+3 es menor que 6. Cómo le restamos a un numero pequeño, uno mas grande?
+
+00:00:33.624 --> 00:00:42.216
+También tenemos un problema con la posición de las decenas, pues 80 es mas grande que 10. Entonces, qué hacemos?
+
+00:00:42.216 --> 00:00:43.888
+Cómo le restamos a un numero pequeño uno mas grande?
+
+00:00:43.888 --> 00:00:47.767
+Y puedes llegar a adivinar que la respuesta aqui es Regrupar, a veces se llama Prestar
+
+00:00:47.767 --> 00:00:50.767
+Vamos a coger un valor de una posicion y darselo a otra.
+
+00:00:50.767 --> 00:00:58.700
+asi que digamos, en este caso aqui donde tenemos este 3 y queremos quitarle algo de valor de otra posicion.
+
+00:00:58.700 --> 00:01:05.500
+bueno, yo podría coger 10 de la posición de las decenas, entonces estas se volverian 0.
+
+00:01:05.500 --> 00:01:12.767
+Y si le doy esas 10 a las unidades, entonces 10 mas 3 es 13.
+
+00:01:12.767 --> 00:01:19.971
+Noten que no he cambiado el valor. 900 mas 0 mas 13 sigue siendo 913.
+
+00:01:19.971 --> 00:01:27.123
+Ahora esto resolvió el problema de las unidades. Ahora puedo restarle 6 a 13, pero eso hizo mi problema con las decenas algo peor.
+
+00:01:27.123 --> 00:01:30.633
+Tengo que restarle 80 a 0! Qué hago??
+
+00:01:30.633 --> 00:01:33.767
+Pues, afortunadamente puedo ir a la posicion de las centenas.
+
+00:01:33.767 --> 00:01:41.967
+Puedo coger 100 de 900 (y de este modo me quedan 800) y se los puedo dar a la posicion de las decenas.
+
+00:01:41.967 --> 00:01:50.033
+Entonces si se los doy a la posicion de las decenar, esta ahora va a ser 100.
+
+00:01:50.033 --> 00:01:56.300
+Noten que esto sigue sumando 913. 800 mas 100 mas 13 es 913.
+
+00:01:56.300 --> 00:02:02.367
+Por qué este valor? Pues, ahora en cada columna estoy restando un numero a otro numero mayor.
+
+00:02:02.367 --> 00:02:06.033
+Tu podrás decir : "no es ese un signo positivo aqui?", si, pero tenemos este negativo aqui afuera.
+
+00:02:06.033 --> 00:02:11.967
+Entonces estamos restandole 6 a 13, restandole 80 a 100 y restandole 200 a 800
+
+00:02:11.967 --> 00:02:13.900
+Asi que, hagámoslo.
+
+00:02:13.900 --> 00:02:25.637
+13 menos 6 es 7. 100 menos 80 es 20. 800 menos 200 es 600.
+
+00:02:25.637 --> 00:02:31.100
+Asi que quedamos con 600 mas 20 mas 7, que es 627.
+
+00:02:31.100 --> 00:02:35.167
+Ahora hagamos exactamente la misma cosa, pero no vamos a expandir los numeros.
+
+00:02:35.167 --> 00:02:40.638
+Entonces 6 es mayor que 3. Que hacemos? bueno, podemos "pedir prestado" de las decenas
+
+00:02:40.638 --> 00:02:47.300
+Podemos coger 10 de aqui (y quedamos con 0 en las decenas) y darselas a las unidades.
+
+00:02:47.300 --> 00:02:54.802
+Entonces si le das 10 a 3 .. se vuelve 13.
+
+00:02:54.802 --> 00:02:58.610
+Pero ahora tenemos un problema con las decenas. Cómo vamos a restarle 8 a 0?
+
+00:02:58.610 --> 00:03:06.767
+Bueno, pues podemos pedir 100 a las centenas (entonces 900 se vuelve 800) y le damos esos 100 a las decenas.
+
+00:03:06.767 --> 00:03:11.900
+Le das 100 a las decenas, 100 mas 0 es 100.
+
+00:03:11.900 --> 00:03:19.972
+100 es lo mismo que 10 decenas.
+
+00:03:19.972 --> 00:03:28.500
+Y ahora ya estamos listos para restar. 13 menos 6 es 7, 10 menos 8 es 2.
+
+00:03:28.500 --> 00:03:38.300
+Recuerda, esto es realmente 10 decenas menos 8 decenas, y te da 2 decenas. 100 menos 80 te da 20.
+
+00:03:38.300 --> 00:03:42.300
+Y finalmente tenemos 800 menos 200 te da 600. 627

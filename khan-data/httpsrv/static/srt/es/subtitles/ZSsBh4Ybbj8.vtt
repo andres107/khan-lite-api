@@ -1,0 +1,186 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.000
+...
+
+00:00:00.000 --> 00:00:03.050
+Jill observó la siguiente secuencia:
+
+00:00:03.050 --> 00:00:07.810
+0, 3, 8, 15, 24, 35.
+
+00:00:07.810 --> 00:00:10.190
+Y continúa aumentando, yo supongo, con un punto, punto, punto.
+
+00:00:10.190 --> 00:00:12.410
+Ella vio que los números eran menores por 1
+
+00:00:12.410 --> 00:00:14.110
+que el cuadrado de un número
+
+00:00:14.110 --> 00:00:16.820
+0 es menor que 1 por 1, el cual es el cuadrado de un número.
+
+00:00:16.820 --> 00:00:18.160
+3 es 1 menor que 4.
+
+00:00:18.160 --> 00:00:19.740
+8 es 1 menor que 9.
+
+00:00:19.740 --> 00:00:20.950
+15 es 1 menor que 16.
+
+00:00:20.950 --> 00:00:22.960
+¡Sí!, todos son menores que el cuadrado de un número por 1.
+
+00:00:22.960 --> 00:00:26.030
+Y conjeturó que el enésimo número sería "n"
+
+00:00:26.030 --> 00:00:27.180
+al cuadrado menos 1
+
+00:00:27.180 --> 00:00:29.850
+Pues bien conjeturar, suena como una palabra muy elegante.
+
+00:00:29.850 --> 00:00:32.600
+Cuando alguien hace una conjetura, ellos conjeturan,
+
+00:00:32.600 --> 00:00:35.260
+Eso sólo significa que ellos están haciendo una afirmación que parece,
+
+00:00:35.260 --> 00:00:37.470
+o ellos están haciendo una proposición que parece probable
+
+00:00:37.470 --> 00:00:38.130
+que sea verdad.
+
+00:00:38.130 --> 00:00:40.060
+Parece ser una cosa muy razonable para decir.
+
+00:00:40.060 --> 00:00:41.550
+Pero no es definitivamente verdadera.
+
+00:00:41.550 --> 00:00:44.250
+Así que conjeturó que el enésimo número sería "n"
+
+00:00:44.250 --> 00:00:47.300
+al cuadrado menos 1.
+
+00:00:47.300 --> 00:00:51.010
+La razón por la que esta conjeturó se opone a una
+
+00:00:51.010 --> 00:00:53.960
+afirmación 100% verdadera, es que no sabemos
+
+00:00:53.960 --> 00:00:55.870
+si esta secuencia continúa.
+
+00:00:55.870 --> 00:00:58.980
+Ella sólo se ha basado en el patrón que ha visto hasta ahora
+
+00:00:58.980 --> 00:01:00.100
+y sólo lo generalizó.
+
+00:01:00.100 --> 00:01:02.690
+Ella tan sólo asume que continuará.
+
+00:01:02.690 --> 00:01:05.099
+Pero no sabemos si seguirá creciendo.
+
+00:01:05.099 --> 00:01:09.620
+Tal vez el siguiente número, esperarías que fuese 48, pero
+
+00:01:09.620 --> 00:01:10.690
+tal vez no es 48.
+
+00:01:10.690 --> 00:01:11.880
+Tal vez hay algo raro.
+
+00:01:11.880 --> 00:01:12.780
+Tal vez es 2.
+
+00:01:12.780 --> 00:01:14.270
+Tal vez es 500.
+
+00:01:14.270 --> 00:01:16.870
+Por tanto la conjetura no sería respaldada si te tocara ver
+
+00:01:16.870 --> 00:01:20.020
+eso, pero basados en la evidencia que vez hasta ahora
+
+00:01:20.020 --> 00:01:21.600
+parece completamente razonable que este
+
+00:01:21.600 --> 00:01:23.030
+patrón podría continuar.
+
+00:01:23.030 --> 00:01:25.690
+Así que ella conjeturó que el enésimo número sería "n"
+
+00:01:25.690 --> 00:01:27.230
+al cuadrado menos 1
+
+00:01:27.230 --> 00:01:28.510
+Completamente razonable.
+
+00:01:28.510 --> 00:01:31.195
+¿Acaso Jill usó razonamiento inductivo?
+
+00:01:31.195 --> 00:01:34.070
+...
+
+00:01:34.070 --> 00:01:35.860
+Sí, ella usó razonamiento inductivo.
+
+00:01:35.860 --> 00:01:38.200
+Eso es lo que el razonamiento inductivo es.
+
+00:01:38.200 --> 00:01:39.640
+Tú ves un patrón.
+
+00:01:39.640 --> 00:01:46.160
+En este caso, cada término en esta secuencia como está, si
+
+00:01:46.160 --> 00:01:48.990
+se trata del tercer término, era 3 al cuadrado menos 1.
+
+00:01:48.990 --> 00:01:50.810
+El cuarto término es 4 al cuadrado menos 1.
+
+00:01:50.810 --> 00:01:54.370
+El quinto término es 5 al cuadrado menos 1.
+
+00:01:54.370 --> 00:01:56.980
+Entonces ella vio el patrón y sólo lo generalizó para decir,
+
+00:01:56.980 --> 00:02:00.730
+bueno, creó, o ,he conjeturado que el enésimo
+
+00:02:00.730 --> 00:02:02.770
+número será n al cuadrado menos 1.
+
+00:02:02.770 --> 00:02:05.160
+De eso se trata el razonamiento inductivo.
+
+00:02:05.160 --> 00:02:08.160
+No siempre vas a estar 100%, o definitivamente no estarás
+
+00:02:08.160 --> 00:02:10.660
+100% seguro de que estas en lo correcto, que el enésimo número
+
+00:02:10.660 --> 00:02:12.160
+será n al cuadrado menos 1.
+
+00:02:12.160 --> 00:02:14.200
+Pero basado en el patrón que has visto hasta ahora, es
+
+00:02:14.200 --> 00:02:17.160
+algo completamente razonable para, supongo que
+
+00:02:17.160 --> 00:02:18.410
+podrías decir, inducir.
+
+00:02:18.410 --> 00:02:20.066
+...

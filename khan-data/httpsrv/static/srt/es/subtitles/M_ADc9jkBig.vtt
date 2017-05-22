@@ -1,0 +1,120 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Parte C.
+
+99:59:59.999 --> 99:59:59.999
+Buscar todos los valores de "x" comprendidos en el intervalo -4&lt;x&lt;3 para que el gráfico
+
+99:59:59.999 --> 99:59:59.999
+de "g" tenga un punto de inflexión.
+
+99:59:59.999 --> 99:59:59.999
+justifica tu respuesta.
+
+99:59:59.999 --> 99:59:59.999
+Sabemos que, un punto de inflexión es un punto donde el signo
+
+99:59:59.999 --> 99:59:59.999
+de la segunda derivada cambia.
+
+99:59:59.999 --> 99:59:59.999
+Por lo tanto, si tomamos la segunda derivada en ese punto o segun
+
+99:59:59.999 --> 99:59:59.999
+nos aproximamos a ese punto e incluso pasamos este punto pasamos
+
+99:59:59.999 --> 99:59:59.999
+de positivo a negativo o de negativo a positivo.
+
+99:59:59.999 --> 99:59:59.999
+Y para visualizar esto, se puede considerar algunos
+
+99:59:59.999 --> 99:59:59.999
+ejemplos, de modo que si tienes una curva que
+
+99:59:59.999 --> 99:59:59.999
+parece algo asi, os dareis cuenta que en esta parte de aquí
+
+99:59:59.999 --> 99:59:59.999
+la pendiente es negativa, pero está aumentando.
+
+99:59:59.999 --> 99:59:59.999
+Es cada vez menos negativa, menos negativa, hasta el punto de llegar a cero,
+
+99:59:59.999 --> 99:59:59.999
+Luego sigue aumentando.
+
+99:59:59.999 --> 99:59:59.999
+la pendiente está aumentando hasta aqui y, a continuación, comienza
+
+99:59:59.999 --> 99:59:59.999
+cada vez a ser menos positiva.
+
+99:59:59.999 --> 99:59:59.999
+De modo que comienza disminuir.
+
+99:59:59.999 --> 99:59:59.999
+Por lo que está aumentando, la pendiente va en aumento sobre este punto
+
+99:59:59.999 --> 99:59:59.999
+por aquí, así que, aunque la pendiente es negativa
+
+99:59:59.999 --> 99:59:59.999
+se va transformando en menos negativa aquí. Por lo tanto está aumentando
+
+99:59:59.999 --> 99:59:59.999
+y, a continuación, sigue aumentando la pendiente porque se está haciendo más
+
+99:59:59.999 --> 99:59:59.999
+y más positiva hasta llegar a este punto, pero luego la pendiente
+
+99:59:59.999 --> 99:59:59.999
+es positiva pero luego se vuelve menos positiva, por lo que la pendiente
+
+99:59:59.999 --> 99:59:59.999
+comienza a disminuir después de haber llegado aqui.
+
+99:59:59.999 --> 99:59:59.999
+Así entonces la pendiente comienza a disminuir tras llegar a este punto.
+
+99:59:59.999 --> 99:59:59.999
+Por lo tanto esto que vemos aquí, es un punto de inflexión.
+
+99:59:59.999 --> 99:59:59.999
+La pendiente ha pasado de aumentar a disminuir y del
+
+99:59:59.999 --> 99:59:59.999
+mismo modo - donde la pendiente pasase de disminuir
+
+99:59:59.999 --> 99:59:59.999
+a aumentar sería tambien un punto de inflexión.
+
+99:59:59.999 --> 99:59:59.999
+Así que si estuvieramos tratando algún tipo de curva trigometrica
+
+99:59:59.999 --> 99:59:59.999
+podrías ver algo como parecido a esto.
+
+99:59:59.999 --> 99:59:59.999
+Y esto también sería un punto de inflexión.
+
+99:59:59.999 --> 99:59:59.999
+Pero en este caso, es difícil visualizar la forma g x
+
+99:59:59.999 --> 99:59:59.999
+definidas en esta area.
+
+99:59:59.999 --> 99:59:59.999
+Así que la mejor manera de atajar esto es simplemente averiguar dónde
+
+99:59:59.999 --> 99:59:59.999
+la segunda derivada tiene un cambio de signo.
+
+99:59:59.999 --> 99:59:59.999
+Y para ello, tenemos que encontrar su segunda derivada.
+
+99:59:59.999 --> 99:59:59.999
+Así que escribimos g(x) aqui. Sabemos g de x es igual a

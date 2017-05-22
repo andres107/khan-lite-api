@@ -1,0 +1,501 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.700 --> 00:00:04.370
+Entonces, estamos haciendo la parte c del primer problema de Cálculo
+
+00:00:04.370 --> 00:00:09.210
+del examen BC, la parte de respuesta libre, entonces, voy a re-leerlo,
+
+00:00:09.210 --> 00:00:12.420
+dice, la región r, esta es la región r,
+
+00:00:12.420 --> 00:00:13.610
+es la base de un sólido,
+
+00:00:13.610 --> 00:00:16.190
+Yo re-dibujé la región r aquí, pero con un poco de perspectiva, entonces,
+
+00:00:16.190 --> 00:00:19.930
+esperamos poder visualizarlo en tres dimensiones,
+
+00:00:19.930 --> 00:00:22.590
+Entonces, dice que para este sólido, cada sección transversal perpendicular
+
+00:00:22.590 --> 00:00:24.000
+al eje x, correcto
+
+00:00:24.000 --> 00:00:25.750
+hay dos formas en las que usted puede hacer secciones transversales, usted puede
+
+00:00:25.750 --> 00:00:27.870
+cortar de esta forma, pero esto sería
+
+00:00:27.870 --> 00:00:30.040
+paralelo al eje x
+
+00:00:30.040 --> 00:00:33.210
+queremos cortar perpendicular al eje x, o paralelo
+
+00:00:33.210 --> 00:00:34.420
+al eje y, correcto?
+
+00:00:34.420 --> 00:00:38.740
+Entonces, si cortamos a lo largo de la línea de esta forma,
+
+00:00:38.740 --> 00:00:42.500
+entonces se dice, que cada sección transversal perpendicular
+
+00:00:42.500 --> 00:00:43.810
+al eje x es un cuadrado.
+
+00:00:43.810 --> 00:00:45.120
+Aquí dibujé unos cuantos cuadros.
+
+00:00:45.120 --> 00:00:46.250
+Este es uno.
+
+00:00:46.250 --> 00:00:50.270
+Entonces aquí, esta será la base, y ya que sabemos
+
+00:00:50.270 --> 00:00:52.290
+que la sección transversal es un cuadrado, la altura tendrá que ser
+
+00:00:52.290 --> 00:00:53.710
+de la misma longitud que la base.
+
+00:00:53.710 --> 00:00:54.660
+Igual aquí.
+
+00:00:54.660 --> 00:00:56.790
+Entonces aqui, la altura tendrá que ser realmente grande, ya que este
+
+00:00:56.790 --> 00:01:01.150
+es el punto máximo en términos del ancho de la base.
+
+00:01:01.150 --> 00:01:04.090
+Pero está un poco amplio, y después se vuelve a estrechar
+
+00:01:04.090 --> 00:01:06.320
+Entonces, como podríamos calcular el volumen de este sólido?
+
+00:01:06.320 --> 00:01:08.140
+Que es un poco difícil de visualizar.
+
+00:01:08.140 --> 00:01:10.816
+y de alguna manera, es más fácil visualizarlo que
+
+00:01:10.816 --> 00:01:12.680
+dibujarlo! entonces me tienen que dar un poco de crédito por esto!
+
+00:01:12.680 --> 00:01:15.830
+De todas formas, lo que hacemos, es tomar el área de cada uno
+
+00:01:15.830 --> 00:01:17.960
+de estos cuadrados, y aquí dibujé uno de esos
+
+00:01:17.960 --> 00:01:20.520
+usted toma el área de cada uno de estos cuadrados
+
+00:01:20.520 --> 00:01:24.600
+y los multiplica por un cambio super pequeño en x, y entonces sabemos
+
+00:01:24.600 --> 00:01:27.770
+de todo lo que hemos aprendido en cálculo, espero,
+
+00:01:27.770 --> 00:01:30.180
+que el cambio super pequeño en x, estoy tratando de dibujar una pequeña
+
+00:01:30.180 --> 00:01:32.830
+perspectiva, es dx.
+
+00:01:32.830 --> 00:01:36.960
+Entonces si multiplicamos dx veces el área de este cuadrado, esto es,
+
+00:01:36.960 --> 00:01:42.190
+el volumen de esta parte del sólido total
+
+00:01:42.190 --> 00:01:45.900
+y si sumamos todos estos sólidos infinitamente delgados,
+
+00:01:45.900 --> 00:01:47.830
+tendremos el volumen de toda la cosa,
+
+00:01:47.830 --> 00:01:49.540
+Entonces, cómo lo hacemos?
+
+00:01:49.540 --> 00:01:53.850
+Bueno, escribamos nuestra expresión integral,
+
+00:01:53.850 --> 00:01:59.350
+cuál es el área de cada uno de estos cuadrados?
+
+00:01:59.350 --> 00:02:02.020
+cada una de estas secciones transversales, cuál es el área?
+
+00:02:02.020 --> 00:02:05.090
+Bueno, la base va a ser la diferencia entre
+
+00:02:05.090 --> 00:02:06.520
+nuestras dos funciones, cierto?
+
+00:02:06.520 --> 00:02:13.210
+Esta función de arriba de aquí, era seno de pi x.
+
+00:02:13.210 --> 00:02:18.560
+Y esta función de abajo, esta de aquí, esta es y es igual a
+
+00:02:18.560 --> 00:02:22.010
+x a la 3 menos 4x.
+
+00:02:22.010 --> 00:02:27.040
+Entonces, la base de las funciones, la base de esta distancia de aquí
+
+00:02:27.040 --> 00:02:29.560
+va a ser la diferencia entre la función de arriba
+
+00:02:29.560 --> 00:02:31.820
+y la función de abajo.
+
+00:02:31.820 --> 00:02:42.540
+Entonces, cada base va a ser seno de pi x, menos esta función,
+
+00:02:42.540 --> 00:02:46.580
+entonces -x a la 3, más 4x, correcto, cambiemos el signo,
+
+00:02:46.580 --> 00:02:50.590
+-x a la 3, más 4x.
+
+00:02:50.590 --> 00:02:54.110
+Hasta ahora, esto se ve muy similar a la parte a, pero
+
+00:02:54.110 --> 00:02:55.280
+cuál es el cambio aquí?
+
+00:02:55.280 --> 00:02:56.980
+Queremos el área.
+
+00:02:56.980 --> 00:02:58.350
+El área de cada uno de los cuadrados, no
+
+00:02:58.350 --> 00:02:59.200
+solamente la distancia.
+
+00:02:59.200 --> 00:02:59.940
+Entonces, cuál es el área?
+
+00:02:59.940 --> 00:03:03.260
+Va a ser la distancia al cuadrado, entonces tenemos que
+
+00:03:03.260 --> 00:03:06.360
+poner al cuadrado toda esta cosa.
+
+00:03:06.360 --> 00:03:09.090
+Entonces, esto es el área de todos los cuadrados y entonces
+
+00:03:09.090 --> 00:03:12.740
+tenemos que multiplicarlos por dx.
+
+00:03:12.740 --> 00:03:16.950
+y eso nos da el volumen para cada uno de estos, y creo
+
+00:03:16.950 --> 00:03:18.690
+partes del sólido total.
+
+00:03:18.690 --> 00:03:20.360
+y entonces, cuáles son los límites de integración?
+
+00:03:20.360 --> 00:03:22.340
+Bueno, es la misma cosa que la parte a.
+
+00:03:22.340 --> 00:03:24.240
+Esto es 0, esto es 2.
+
+00:03:24.240 --> 00:03:28.090
+Entonces, los límites son sencillos,
+
+00:03:28.090 --> 00:03:31.970
+Entonces ahora tenemos que evaluar esto,
+
+00:03:31.970 --> 00:03:36.730
+y como en la parte b, primero traté de evaluar esto
+
+00:03:36.730 --> 00:03:39.620
+analíticamente, y usted termina teniendo una integral
+
+00:03:39.620 --> 00:03:41.000
+muy, muy peluda.
+
+00:03:41.000 --> 00:03:43.220
+que usted puede hacer analíticamente, pero usted necesita saber
+
+00:03:43.220 --> 00:03:46.010
+fórmulas de reducción de potencias de trigonometría, usted tiene que hacer
+
+00:03:46.010 --> 00:03:49.160
+la integración por partes, probablemente usaría todo
+
+00:03:49.160 --> 00:03:51.220
+el tiempo del Examen AP!.
+
+00:03:51.220 --> 00:03:54.080
+Entonces, ya que dicen que se requiere de una calculadora gráfica,
+
+00:03:54.080 --> 00:03:56.700
+para algunas partes del problema, entonces pienso,
+
+00:03:56.700 --> 00:03:58.110
+por qué no usarla?
+
+00:03:58.110 --> 00:04:01.360
+Ya que la calculadora gráfica es muy buena numéricamente
+
+00:04:01.360 --> 00:04:03.450
+evaluando integrales definidas como esta.
+
+00:04:03.450 --> 00:04:09.100
+Entonces, saquemos mi emulador TI-85 otra vez,
+
+00:04:09.100 --> 00:04:11.950
+Aquí estamos,
+
+00:04:11.950 --> 00:04:15.210
+Quiero que vea cuáles teclas presionar, para que usted, OK,
+
+00:04:15.210 --> 00:04:18.640
+encendámosla, salgámonos de aquí,
+
+00:04:18.640 --> 00:04:23.920
+entonces vamos a usar las funciones de cálculo aquí,
+
+00:04:23.920 --> 00:04:27.070
+entonces, segundo, cálculo.
+
+00:04:27.070 --> 00:04:29.580
+Y esta función aquí, esta es la integral definida
+
+00:04:29.580 --> 00:04:31.490
+Una función muy útil de utilizar,
+
+00:04:31.490 --> 00:04:34.490
+Presione F5, integral definida,
+
+00:04:34.490 --> 00:04:36.450
+y entonces introduzca la expresión,
+
+00:04:36.450 --> 00:04:41.050
+entonces la expresión, déjeme moverla hacia abajo un poquito,
+
+00:04:41.050 --> 00:04:50.040
+entonces abrimos paréntesis seno de... dónde está pi?
+
+00:04:50.040 --> 00:04:54.470
+Pi es - Hace tiempo que no uso una de estas calculadoras,
+
+00:04:54.470 --> 00:04:57.160
+mucho tiempo -Oh, aquí está.
+
+00:04:57.160 --> 00:05:13.210
+segundo, pi x seno de pi x menos x a la tercera potencia, más 4x.
+
+00:05:13.210 --> 00:05:16.380
+todo esto,
+
+00:05:16.380 --> 00:05:21.010
+Todo esto, al cuadrado.
+
+00:05:21.010 --> 00:05:24.180
+y entonces, esta integral definida, usted tiene que decirle
+
+00:05:24.180 --> 00:05:26.750
+cuál es la variable independiente, o algo similar, usted
+
+00:05:26.750 --> 00:05:29.930
+sabe, cuál variable estamos integrando transversalmente, y
+
+00:05:29.930 --> 00:05:31.360
+esa es la variable x.
+
+00:05:31.360 --> 00:05:33.510
+y ahora tenemos que poner los límites de la integración,
+
+00:05:33.510 --> 00:05:34.450
+y estamos listos.
+
+00:05:34.450 --> 00:05:40.420
+Entonces, integrar de 0 desde x=0, hasta x=2.
+
+00:05:40.420 --> 00:05:43.740
+Si no he cometido ningún error, puedo darle a enter, y entonces,
+
+00:05:43.740 --> 00:05:46.100
+la calculadora hace el resto del trabajo.
+
+00:05:46.100 --> 00:05:49.780
+Veamos qué nos dá.
+
+00:05:49.780 --> 00:05:54.460
+OK, 9. Esta es la respuesta, este es el volumen de este
+
+00:05:54.460 --> 00:06:00.110
+sólido, es 9.9783. Entonces usted puede escribir esto
+
+00:06:00.110 --> 00:06:05.130
+es igual a 9.9783
+
+00:06:05.130 --> 00:06:07.630
+Estoy muy seguro de que ellos quieren que usted use su calculadora
+
+00:06:07.630 --> 00:06:11.580
+porque francamente, computar la integral, es algo
+
+00:06:11.580 --> 00:06:14.870
+de matemática muy mecánica, aunque es
+
+00:06:14.870 --> 00:06:17.220
+muy sofisticado, pero tomaría mucho tiempo
+
+00:06:17.220 --> 00:06:19.860
+pero este tipo, pienso, que lo que ellos quieren que usted haga,
+
+00:06:19.860 --> 00:06:23.810
+es formular la integral, reconocer que cada uno de los cuadrados, el área
+
+00:06:23.810 --> 00:06:26.790
+de cada uno de los cuadrados, va a ser la distancia,
+
+00:06:26.790 --> 00:06:29.060
+va a ser la distancia entre estas dos funciones al cuadrado.
+
+00:06:29.060 --> 00:06:32.470
+y entonces integra esto de 0 a 2.
+
+00:06:32.470 --> 00:06:34.830
+Veamos a ver cuánto tiempo me queda...
+
+00:06:34.830 --> 00:06:35.760
+tengo unos cuantos minutos.
+
+00:06:35.760 --> 00:06:37.920
+Hagamos la parte d.
+
+00:06:45.360 --> 00:06:52.620
+Los modelos de la región r... déjeme empastar, Oh, no quería
+
+00:06:52.620 --> 00:07:02.030
+hacer esto. Edite, deshaga, edite, empaste, aquí vamos.
+
+00:07:02.030 --> 00:07:05.510
+OK, quería hacer esto un poco más pequeño.
+
+00:07:05.510 --> 00:07:06.610
+Entonces, qué dice la parte d?
+
+00:07:06.610 --> 00:07:09.760
+La región r modela la superficie de una poza pequeña
+
+00:07:09.760 --> 00:07:11.420
+entonces ahora estamos viendo superficie.
+
+00:07:11.420 --> 00:07:17.880
+En todos los puntos r a la distancia x del eje y, la profundidad del
+
+00:07:17.880 --> 00:07:22.460
+agua está dado por h(x) = 3-x.
+
+00:07:22.460 --> 00:07:27.710
+Entonces, esencialmente 3-x es la profundidad, verdad?
+
+00:07:27.710 --> 00:07:33.890
+En este punto de la poza, la profundidad es justamente 3, cierto, 3-0.
+
+00:07:33.890 --> 00:07:39.260
+En este punto, la profundidad es 3-2, que es 1.
+
+00:07:39.260 --> 00:07:41.650
+Entonces la poza va a ser menos profunda y
+
+00:07:41.650 --> 00:07:45.750
+menos profunda, o conforme vayamos hacia la derecha,
+
+00:07:45.750 --> 00:07:47.640
+usted casi que puede imaginárselo, déjeme ver si puedo
+
+00:07:47.640 --> 00:07:50.900
+dibujarla otra vez,
+
+00:07:50.900 --> 00:07:56.980
+entonces, esto es la función seno con un poco de perspectiva
+
+00:07:56.980 --> 00:08:01.700
+Esta es la función polinomial debajo de ella.
+
+00:08:01.700 --> 00:08:06.610
+Esto es, probablemente está dibujado aquí, esto es el eje x.
+
+00:08:10.110 --> 00:08:12.480
+Esto es el eje y.
+
+00:08:18.980 --> 00:08:24.460
+Y aquí, la profundidad de la poza está dada por la función
+
+00:08:24.460 --> 00:08:28.580
+h(x) = 3-x.
+
+00:08:28.580 --> 00:08:34.826
+Entonces aquí, la profundidad es 3, entonces, si fuéramos a dibujar, entonces si yo
+
+00:08:34.826 --> 00:08:36.790
+fuera a ir directo hacia lo profundo, es, usted sabe,
+
+00:08:36.790 --> 00:08:38.110
+tal vez es 3.
+
+00:08:38.110 --> 00:08:41.140
+y la poza esencialmente se hace menos y menos profunda...
+
+00:08:41.140 --> 00:08:44.070
+conforme me mueva hacia la derecha
+
+00:08:44.070 --> 00:08:48.110
+Entonces, cómo podemos calcular el volumen de esto?
+
+00:08:48.110 --> 00:08:49.880
+En este punto, cuál es la profundidad?
+
+00:08:49.880 --> 00:08:52.100
+Va a ser 1, correcto, 3-2.
+
+00:08:52.100 --> 00:08:54.370
+Esto es, x=2.
+
+00:08:54.370 --> 00:08:56.580
+Entonces, aquí la profundidad será 1.
+
+00:08:56.580 --> 00:09:00.890
+Entonces si tomamos la sección transversal a lo largo de x,
+
+00:09:00.890 --> 00:09:03.290
+la profundidad va a parecerse a algo como esto, pero entonces
+
+00:09:03.290 --> 00:09:04.190
+esta es la parte de arriba,
+
+00:09:04.190 --> 00:09:06.100
+Yo sé, esto es algo difícil de visualizar,
+
+00:09:06.100 --> 00:09:11.680
+pero de todas maneras, cómo podemos imaginarnos
+
+00:09:11.680 --> 00:09:13.500
+cuál es el volumen del lago?
+
+00:09:13.500 --> 00:09:15.840
+Pero, me acabo de dar cuenta que ya llevo 9 minutos, entonces
+
+00:09:15.840 --> 00:09:17.750
+Voy a continuar esto en el próximo video.
+
+00:09:17.750 --> 00:09:19.252
+Hasta pronto!

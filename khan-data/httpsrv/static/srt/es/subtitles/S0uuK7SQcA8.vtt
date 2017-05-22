@@ -1,0 +1,537 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.820 --> 00:00:03.560
+Bienvenidos a la presentación dividiendo decimales.
+
+00:00:03.560 --> 00:00:05.620
+Vamos a empezar con un problema.
+
+00:00:05.620 --> 00:00:24.505
+Si yo fuera a decir, ¿cuántas veces cabe 0.28 en 23.828?
+
+00:00:24.505 --> 00:00:26.310
+Vas a ver que estos problemas de división decimal
+
+00:00:26.320 --> 00:00:28.480
+son en realidad iguales que los problemas de división de nivel cuatro.
+
+00:00:28.480 --> 00:00:30.730
+Sólo tienes que saber dónde poner el decimal.
+
+00:00:30.730 --> 00:00:33.998
+Así que lo que haces es que siempre tomas este decimal
+
+00:00:33.998 --> 00:00:39.370
+y lo mueves sobre tantas casillas como sea necesario para convertir este número en un número entero.
+
+00:00:39.370 --> 00:00:43.075
+Así que en este caso, tenemos que mover un espacio, dos espacios más
+
+00:00:43.075 --> 00:00:44.670
+para poner el decimal aquí.
+
+00:00:44.670 --> 00:00:46.835
+Bueno, si yo hiciera eso con este número
+
+00:00:46.835 --> 00:00:48.340
+Tengo que hacerlo con este número también.
+
+00:00:48.350 --> 00:00:50.359
+Así que lo traslado dos espacios a la derecha,
+
+00:00:50.359 --> 00:00:54.360
+así que tengo que mover el decimal dos espacios a la derecha - uno, dos.
+
+00:00:54.360 --> 00:00:56.042
+El decimal va aquí,
+
+00:00:56.042 --> 00:00:58.450
+y pongo el decimal aquí encima, justo aquí.
+
+00:00:58.450 --> 00:01:03.560
+Ahora puedo tratar este veintiocho como un número entero.
+
+00:01:03.570 --> 00:01:06.835
+Y si quiero, déjame ver si puedo -
+
+00:01:06.835 --> 00:01:07.969
+bueno, no voy a borrar el decimal antiguo
+
+00:01:07.969 --> 00:01:11.530
+porque si lo hicieras con un lapicero tendrías el mismo problema que yo tengo.
+
+00:01:11.540 --> 00:01:14.440
+Así que ahora lo hacemos como un problema de división en cuatro niveles.
+
+00:01:14.450 --> 00:01:17.950
+Así que podemos decir, ¿cuántas veces cabe veintiocho en dos?
+
+00:01:17.950 --> 00:01:19.260
+Bueno, ninguna.
+
+00:01:19.260 --> 00:01:21.090
+Dos es menor que veinte y ocho.
+
+00:01:21.090 --> 00:01:23.770
+¿Cuántas veces cabe 28 en 23?
+
+00:01:23.780 --> 00:01:27.144
+Una vez más, todavía, no cabe,
+
+00:01:27.144 --> 00:01:29.800
+porque 23 es menor que 28.
+
+00:01:29.808 --> 00:01:34.550
+¿Cuántas veces cabe 28 en 238?
+
+00:01:34.560 --> 00:01:36.670
+Vamos a pensar en esto.
+
+00:01:36.680 --> 00:01:39.310
+Veintiocho es casi treinta.
+
+00:01:39.310 --> 00:01:44.160
+238 es casi 240.
+
+00:01:44.170 --> 00:01:47.499
+Así que 30 cabe en 240 ocho veces,
+
+00:01:47.499 --> 00:01:49.610
+porque 3 cabe en 24, ocho veces.
+
+00:01:49.620 --> 00:01:54.470
+Así que voy a suponer que 28 cabe en 238 en ocho ocasiones.
+
+00:01:55.080 --> 00:01:55.680
+Y, literalmente, es una suposición.
+
+00:01:55.680 --> 00:01:58.360
+Algunas veces, ustedes tienen que probar varios números.
+
+00:01:58.370 --> 00:02:03.132
+8 veces 8 es 64.
+
+00:02:03.132 --> 00:02:05.832
+8 veces 2 es 16.
+
+00:02:05.832 --> 00:02:10.429
+Más 6 es 22.
+
+00:02:10.429 --> 00:02:11.591
+Restamos
+
+00:02:11.591 --> 00:02:15.380
+Obtengo catorce.
+
+00:02:15.380 --> 00:02:21.138
+Adiviné, porque el residuo cuando 28 divide a 238
+
+00:02:21.138 --> 00:02:23.020
+y yo digo que cabe 8 veces, el residuo es 14,
+
+00:02:23.030 --> 00:02:24.470
+que es menos de veinte y ocho.
+
+00:02:24.470 --> 00:02:27.602
+Así que ocho fue el mayor número de veces
+
+00:02:27.602 --> 00:02:31.110
+que el 28 podría ir en 238 sin ser más grande.
+
+00:02:31.120 --> 00:02:32.590
+Así que ahora bajo estos dos.
+
+00:02:32.590 --> 00:02:36.504
+Una vez más, puedes ver que esto es puramente un problema de división de dos niveles -
+
+00:02:36.504 --> 00:02:39.100
+un problema de división de nivel cuatro.
+
+00:02:39.110 --> 00:02:42.170
+Así que ahora digo, ¿cuántas veces cabe 28 en 142?
+
+00:02:42.180 --> 00:02:43.970
+Bueno, una vez más, voy a aproximar.
+
+00:02:43.970 --> 00:02:47.350
+28 es casi 30.
+
+00:02:47.360 --> 00:02:50.890
+Vamos a ver, 34 veces 4 es 120.
+
+00:02:50.900 --> 00:02:53.062
+Así que voy a adivinar y decir
+
+00:02:53.062 --> 00:02:54.490
+digamos que cabe cuatro veces.
+
+00:02:54.490 --> 00:02:58.770
+Podría estar equivocado, pero veamos a ver si funciona.
+
+00:02:58.770 --> 00:02:59.970
+Déjame deshacerme de antiguo seis.
+
+00:02:59.970 --> 00:03:04.331
+Cuatro veces ocho es treinta y dos.
+
+00:03:04.331 --> 00:03:06.960
+Y cuatro veces dos es ocho.
+
+00:03:06.960 --> 00:03:12.784
+Más tres es once.
+
+00:03:12.784 --> 00:03:14.468
+Dos menos dos es igual a cero.
+
+00:03:14.470 --> 00:03:16.815
+Cuatro menos uno es tres.
+
+00:03:16.815 --> 00:03:18.580
+Eh! ¡Interesante!
+
+00:03:18.590 --> 00:03:23.205
+Así que resulta que mi residuo aquí es mayor que 28,
+
+00:03:23.205 --> 00:03:28.846
+así que en realidad podría haber dividido a 28 entre 142 una vez más.
+
+00:03:28.860 --> 00:03:31.440
+Permítanme volver atrás y cambiar eso.
+
+00:03:31.440 --> 00:03:34.120
+Ves, no es una cosa mecánica.
+
+00:03:34.120 --> 00:03:36.653
+Y si algunas veces te sientes inseguro,
+
+00:03:36.653 --> 00:03:38.770
+sólo hay que probar con números y ver si funcionan.
+
+00:03:38.780 --> 00:03:41.360
+Y de lo contrario, aumentar o disminuir el número.
+
+00:03:41.360 --> 00:03:46.400
+Así que déjame borrar ese cuatro.
+
+00:03:46.400 --> 00:03:52.469
+Voy a tratar de no echar a perder esto.
+
+00:03:52.469 --> 00:03:57.000
+Borremos todas estas cosas aquí abajo.
+
+00:03:57.000 --> 00:04:00.115
+Probablemente debería haber probado antes de hacer todo esto
+
+00:04:00.115 --> 00:04:03.266
+y no habría tenido que volver y borrarlo.
+
+00:04:03.270 --> 00:04:06.500
+Y luego déjame volver a lo que estaba haciendo.
+
+00:04:06.500 --> 00:04:09.252
+Así que cuando me fui a cuatro veces el residuo era demasiado grande,
+
+00:04:09.252 --> 00:04:13.331
+Voy a tratar ahora con cinco.
+
+00:04:13.331 --> 00:04:17.569
+5 veces 8 es 40.
+
+00:04:17.569 --> 00:04:18.880
+5 veces 2 es 10
+
+00:04:18.880 --> 00:04:22.992
+Más cuatro es catorce.
+
+00:04:22.992 --> 00:04:25.508
+142 menos 140 es dos.
+
+00:04:25.520 --> 00:04:25.940
+Bueno!
+
+00:04:25.940 --> 00:04:27.880
+Dos es menos que veinte y ocho.
+
+00:04:27.890 --> 00:04:29.575
+Estos cinco es correcto.
+
+00:04:29.575 --> 00:04:32.900
+Ahora bajemos el ocho.
+
+00:04:32.910 --> 00:04:36.702
+Veintiocho cabe en veintiocho exactamente una vez.
+
+00:04:36.702 --> 00:04:40.627
+Una vez 28 es 28,
+
+00:04:40.627 --> 00:04:42.325
+residuo de cero. ¡Listo!
+
+00:04:42.330 --> 00:04:49.600
+Así que 28 cabe en 2,382.80, 85.1 veces
+
+00:04:49.606 --> 00:05:03.540
+O se podría decir, el 0.28 cabe en 23.828, 85.1 veces.
+
+00:05:03.550 --> 00:05:05.300
+Esa es la respuesta que obtuvimos.
+
+00:05:05.300 --> 00:05:06.540
+Y esto tiene sentido.
+
+00:05:06.540 --> 00:05:07.925
+Siempre es bueno hacer una revisión de la realidad,
+
+00:05:07.925 --> 00:05:13.475
+porque si tomo 85.1 y lo multiplico por 0.28,
+
+00:05:13.475 --> 00:05:16.115
+tiene sentido que tendré un número de alrededor de 23.
+
+00:05:16.115 --> 00:05:18.760
+0.28 es casi un tercio.
+
+00:05:18.760 --> 00:05:22.050
+Así 23 es casi un tercio de los 85.
+
+00:05:22.060 --> 00:05:23.810
+Así que al menos tiene sentido en un número aproximado.
+
+00:05:23.810 --> 00:05:25.246
+Cuando estés haciendo decimales,
+
+00:05:25.246 --> 00:05:28.383
+si yo hubiera tenido 800 aquí en vez de 85,
+
+00:05:28.383 --> 00:05:30.520
+Pensaría, oh bien, ¿0.28 veces 800?
+
+00:05:30.520 --> 00:05:32.810
+No sé si eso es igual a veintitrés.
+
+00:05:32.810 --> 00:05:34.675
+Por lo tanto, siempre es bueno hacer una revisión de la realidad,
+
+00:05:34.675 --> 00:05:39.690
+y tener una idea de por lo menos la magnitud que tu respuesta debe tener.
+
+00:05:39.700 --> 00:05:43.742
+Vamos a hacer otro problema.
+
+00:05:43.742 --> 00:05:58.119
+Vamos a hacer 3.3 cabe en 43.23.
+
+00:05:58.120 --> 00:05:59.480
+Este es un tres.
+
+00:05:59.490 --> 00:06:01.330
+Así que lo primero que queremos hacer es mover el decimal.
+
+00:06:01.330 --> 00:06:02.861
+Sólo tenemos que moverlo un espacio aquí,
+
+00:06:02.861 --> 00:06:04.860
+por lo que lo movemos un espacio aquí también.
+
+00:06:04.870 --> 00:06:06.300
+Ponga el decimal aquí.
+
+00:06:06.300 --> 00:06:09.190
+Y ahora es sólo un problema de división de nivel cuatro.
+
+00:06:09.190 --> 00:06:13.470
+33 no cabe en 4.
+
+00:06:13.480 --> 00:06:16.870
+33 cabe en 43 una vez.
+
+00:06:16.870 --> 00:06:17.810
+Eso es fácil.
+
+00:06:17.820 --> 00:06:21.670
+Una vez 33 es 33.
+
+00:06:21.680 --> 00:06:22.540
+Hacemos la resta.
+
+00:06:22.540 --> 00:06:25.390
+43 menos 33 es 10.
+
+00:06:25.390 --> 00:06:27.820
+Bajamos este dos.
+
+00:06:27.820 --> 00:06:31.170
+¿33 cabe en 102?
+
+00:06:31.180 --> 00:06:33.300
+Usted podría calcular de ojo esto y decir, unas tres veces,
+
+00:06:33.300 --> 00:06:37.468
+porque 3 veces 33 es 99.
+
+00:06:37.468 --> 00:06:41.230
+3 veces 33 es 99.
+
+00:06:41.240 --> 00:06:42.914
+¿102 menos 99?
+
+00:06:42.914 --> 00:06:43.414
+Bueno, eso es fácil.
+
+00:06:43.414 --> 00:06:44.740
+Es tres.
+
+00:06:44.750 --> 00:06:48.892
+Bajemos este tres.
+
+00:06:48.892 --> 00:06:52.490
+33 cabe en 33 una vez.
+
+00:06:52.500 --> 00:06:56.982
+Una vez 33 es 33.
+
+00:06:56.982 --> 00:06:58.529
+Menos treinta y tres, cero.
+
+00:06:58.529 --> 00:07:06.000
+De modo que 3.3 cabe en 43.23, 13.1 vez.
+
+00:07:06.000 --> 00:07:07.962
+O, si se mueve el decimal,
+
+00:07:07.962 --> 00:07:10.722
+y cuando se mueve el decimal a la derecha un punto,
+
+00:07:10.722 --> 00:07:16.930
+todo lo que estamos haciendo es que estás multiplicando ambos el divisor y el dividendo por diez.
+
+00:07:16.930 --> 00:07:20.164
+Lo cual está bien, siempre y cuando se multiplique ambos por diez.
+
+00:07:20.164 --> 00:07:27.820
+También es como decir 33 cabe en 432.3, 13.1 veces.
+
+00:07:27.820 --> 00:07:28.820
+Vamos a hacer un problema más.
+
+00:07:28.820 --> 00:07:30.380
+Creo que tengo tiempo.
+
+00:07:30.380 --> 00:07:32.280
+YouTube pone un límite a estas cosas.
+
+00:07:32.290 --> 00:07:44.300
+Así que vamos a decir 2.5 cabe en 0.3350 ¿cuantas veces?
+
+00:07:44.310 --> 00:07:47.860
+Bueno, una vez más, vamos a mover el punto decimal una posición.
+
+00:07:47.860 --> 00:07:49.770
+Por lo tanto, movemos el punto decimal en una posición aquí.
+
+00:07:49.770 --> 00:07:51.650
+Ponemo el decimal aquí.
+
+00:07:51.660 --> 00:07:54.130
+Así que ¿cuántas veces cabe 25 en 3?
+
+00:07:54.130 --> 00:07:55.560
+Bueno cero.
+
+00:07:55.570 --> 00:07:58.780
+Así que se puede poner un cero sólo por diversión, si quieres.
+
+00:07:58.790 --> 00:08:01.470
+¿Cuántas veces cabe 25 en 33?
+
+00:08:01.470 --> 00:08:02.980
+Bueno, cabe una vez.
+
+00:08:02.990 --> 00:08:06.940
+Una vez 25 es 25.
+
+00:08:06.940 --> 00:08:09.110
+33 menos 25 es 8.
+
+00:08:09.120 --> 00:08:11.490
+Bajamos el cinco.
+
+00:08:11.490 --> 00:08:13.038
+¿25 cabe en 85?
+
+00:08:13.038 --> 00:08:16.430
+Bueno, ya sabemos que 25 por 3 es 75.
+
+00:08:16.430 --> 00:08:18.910
+Por lo tanto, cabe tres veces.
+
+00:08:18.920 --> 00:08:20.067
+Tres veces 25 ,
+
+00:08:20.067 --> 00:08:23.100
+sabemos que es 75.
+
+00:08:23.100 --> 00:08:26.192
+85 menos 75 es 10.
+
+00:08:26.192 --> 00:08:27.920
+Bajamos el cero.
+
+00:08:27.920 --> 00:08:30.205
+Hasta aquí habíamos bajado el cinco.
+
+00:08:30.205 --> 00:08:33.367
+Y 25 cabe en 100, cuatro veces.
+
+00:08:33.367 --> 00:08:42.910
+Entonces nuestra respuesta es que 2.5 cabe en 0.3350, 0.13 veces.
+
+00:08:42.910 --> 00:08:43.765
+Así que como ves,
+
+00:08:43.765 --> 00:08:47.710
+el único paso diferente entre lo que estamos haciendo cuando estamos dividiendo decimales,
+
+00:08:47.710 --> 00:08:50.195
+y cuando estamos haciendo divisiones de nivel 4,
+
+00:08:50.195 --> 00:08:54.153
+es que sólo tenemos que asegurarnos de tener el decimal en el lugar correcto.
+
+00:08:54.153 --> 00:08:58.118
+Cambiamos el decimal lo suficiente para que esto se convierte en un número entero
+
+00:08:58.118 --> 00:09:01.896
+y sólo hay que cambiar el decimal aquí el mismo número de veces.
+
+00:09:01.900 --> 00:09:02.815
+Y una vez que lo has hecho
+
+00:09:02.815 --> 00:09:05.950
+sólo se convierte en problema de división de nivel cuatro.
+
+00:09:05.950 --> 00:09:08.172
+Y el truco con las divisiones de nivel cuatro
+
+00:09:08.172 --> 00:09:12.330
+es siempre estar dispuestos a probar con diferentes números, y si los números no funcionan,
+
+00:09:12.330 --> 00:09:13.230
+ajustarlos consecuentemente
+
+00:09:13.240 --> 00:09:16.373
+No creas que hay alguna manera de poder resolver estos problemas a la fuerza.
+
+00:09:16.373 --> 00:09:17.751
+Tienes que hacer un poco de prueba y error
+
+00:09:17.751 --> 00:09:21.070
+y tal vez utilizar tu borrador o realizar cálculos aparte.
+
+00:09:21.070 --> 00:09:25.961
+Pero de todos modos, creo que está listo para hacer algunos problemas dividiendo decimales.
+
+00:09:25.961 --> 00:09:27.138
+Espero te diviertas!

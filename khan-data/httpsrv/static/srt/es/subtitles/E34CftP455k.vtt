@@ -1,0 +1,658 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.010 --> 00:00:04.070
+Veamos un poco comparar y contrastar entre el punto
+
+00:00:04.070 --> 00:00:05.710
+producto y el producto cruzado.
+
+00:00:05.710 --> 00:00:09.670
+Permítanme hacer dos vectores--sólo visualmente dibujarlos.
+
+00:00:09.670 --> 00:00:15.620
+Y tal vez si tenemos tiempo, nos va, realmente averiguar
+
+00:00:15.620 --> 00:00:17.970
+algunos puntos y productos cruzados con vectores reales.
+
+00:00:36.170 --> 00:00:47.070
+Vamos a llamar el uno primera--que es el ángulo entre ellos.
+
+00:00:47.070 --> 00:00:47.550
+Vale.
+
+00:00:47.550 --> 00:00:49.550
+Así que vamos a ir sobre las definiciones y luego te
+
+00:00:49.550 --> 00:00:50.980
+trabajar en la intuición.
+
+00:00:50.980 --> 00:00:53.360
+Y ojalá, tiene ya un poco de ambos.
+
+00:00:53.360 --> 00:00:59.240
+¿Qué es un punto b?
+
+00:00:59.240 --> 00:01:03.000
+Bueno antes que nada, que es exactamente lo mismo como punto b una.
+
+00:01:03.000 --> 00:01:06.590
+No importa el orden cuando llevas el producto escalar porque
+
+00:01:06.590 --> 00:01:09.230
+terminas con sólo un número.
+
+00:01:09.230 --> 00:01:13.440
+Y que es igual a la magnitud de una veces la
+
+00:01:13.440 --> 00:01:21.145
+magnitud de b veces el coseno del ángulo entre ellos.
+
+00:01:21.145 --> 00:01:24.450
+Echemos un vistazo a la definición del producto Cruz.
+
+00:01:24.450 --> 00:01:31.810
+¿Qué es una cruz b?
+
+00:01:31.810 --> 00:01:34.615
+Bueno antes que nada, que se cruza b no es igual un.
+
+00:01:34.615 --> 00:01:37.650
+Realmente es igual a la dirección opuesta, o usted
+
+00:01:37.650 --> 00:01:39.900
+podía ver como el negativo de b Cruz una.
+
+00:01:39.900 --> 00:01:42.980
+Porque termina el vector que terminas con volteado,
+
+00:01:42.980 --> 00:01:44.510
+cualquier orden que hacer.
+
+00:01:44.510 --> 00:01:51.600
+Pero una cruz b, que es igual a la magnitud del vector de un
+
+00:01:51.600 --> 00:01:54.580
+veces la magnitud del vector b--hasta ahora, se ve mucho
+
+00:01:54.580 --> 00:01:57.420
+como el producto escalar, pero esto es donde está el diverge--
+
+00:01:57.420 --> 00:02:00.690
+veces en el seno del ángulo entre ellos.
+
+00:02:00.690 --> 00:02:02.030
+El seno del ángulo entre ellos.
+
+00:02:02.030 --> 00:02:04.070
+Y esto es donde realmente diverge.
+
+00:02:04.070 --> 00:02:05.610
+Cuando tomamos el producto escalar, acabamos
+
+00:02:05.610 --> 00:02:06.420
+terminó con un número.
+
+00:02:06.420 --> 00:02:07.520
+Esto es sólo un número.
+
+00:02:07.520 --> 00:02:08.729
+No hay ninguna dirección aquí.
+
+00:02:08.729 --> 00:02:10.340
+Esto es sólo una cantidad escalar.
+
+00:02:10.340 --> 00:02:13.700
+Pero el producto cruzado, tomamos la magnitud de una veces la
+
+00:02:13.700 --> 00:02:16.250
+magnitud de b, a veces el seno del ángulo entre ellos, y
+
+00:02:16.250 --> 00:02:18.600
+proporciona una magnitud, pero también tiene una dirección.
+
+00:02:18.600 --> 00:02:21.840
+Y esa dirección es proporcionada por este vector normal.
+
+00:02:21.840 --> 00:02:23.550
+Es un vector unitario.
+
+00:02:23.550 --> 00:02:26.820
+Un vector unitario obtiene ese sombrero poco sobre ella.
+
+00:02:26.820 --> 00:02:28.470
+¿Es un vector de unidad, y es qué dirección?
+
+00:02:28.470 --> 00:02:31.320
+Bien, es definido por la regla de la mano derecha.
+
+00:02:31.320 --> 00:02:33.200
+Esto es un vector.
+
+00:02:33.200 --> 00:02:45.870
+Es perpendicular a ambos una y b.
+
+00:02:45.870 --> 00:02:48.740
+Y, a continuación, usted podría decir, a y b, la forma que señala a ellos,
+
+00:02:48.740 --> 00:02:51.810
+están sentado en el plano de esta pantalla de vídeo, o
+
+00:02:51.810 --> 00:02:53.200
+su pantalla de vídeo.
+
+00:02:53.200 --> 00:02:55.670
+Así para que algo sea perpendicular a ambas
+
+00:02:55.670 --> 00:02:59.550
+Estos, cualquiera tiene que salir de la pantalla o pop en
+
+00:02:59.550 --> 00:03:00.240
+¿la pantalla derecha?
+
+00:03:00.240 --> 00:03:02.110
+Y cuando has aprendido sobre el producto cruzado, dije que hay
+
+00:03:02.110 --> 00:03:05.110
+dos formas de mostrar un vector apareciendo fuera de la pantalla.
+
+00:03:05.110 --> 00:03:07.430
+Parece que debido a es la punta de una flecha.
+
+00:03:07.430 --> 00:03:10.110
+Y para mostrar un vector que va en la pantalla, es como
+
+00:03:10.110 --> 00:03:13.040
+que debido a que es la parte de atrás de una flecha.
+
+00:03:13.040 --> 00:03:14.980
+La parte trasera de una flecha.
+
+00:03:14.980 --> 00:03:17.020
+Entonces, ¿cómo sabe usted cuál de estos dos es?
+
+00:03:17.020 --> 00:03:20.350
+Porque ambos de estos vectores son perpendiculares a una y b.
+
+00:03:20.350 --> 00:03:22.480
+Que es donde usted tomar la mano derecha y utiliza la
+
+00:03:22.480 --> 00:03:23.470
+regla de la mano derecha.
+
+00:03:23.470 --> 00:03:27.120
+Para tomar su dedo índice en la dirección de una, su
+
+00:03:27.120 --> 00:03:29.730
+dedo medio en la dirección de b y luego el pulgar
+
+00:03:29.730 --> 00:03:32.210
+apunta en la dirección de n.
+
+00:03:32.210 --> 00:03:33.460
+Así que vamos a hacer eso.
+
+00:03:33.460 --> 00:03:36.695
+Estoy mirando mi mano.
+
+00:03:36.695 --> 00:03:40.300
+No es una cosa fácil de hacer con su mano derecha, pero su
+
+00:03:40.300 --> 00:03:43.820
+mano derecha se va a ver algo como esto.
+
+00:03:43.820 --> 00:03:55.820
+El dedo índice va en la dirección de un.
+
+00:03:55.820 --> 00:03:59.200
+El dedo medio va en la dirección de b.
+
+00:03:59.200 --> 00:04:02.040
+Ese es mi dedo medio.
+
+00:04:02.040 --> 00:04:04.610
+Y luego mis otros dos dedos hacer sólo lo que necesitan hacer.
+
+00:04:04.610 --> 00:04:06.160
+Me gusta doblarlas justo fuera del camino.
+
+00:04:09.160 --> 00:04:11.940
+Tan sólo curl alrededor de mi mano.
+
+00:04:11.940 --> 00:04:14.280
+¿Y entonces qué dirección es mi pulgar en?
+
+00:04:14.280 --> 00:04:17.820
+Mi pulgar--bien, realmente dibujó en el ángulo equivocado.
+
+00:04:17.820 --> 00:04:21.300
+¿Mi pulgar realmente va en esta dirección, correcta?
+
+00:04:21.300 --> 00:04:22.730
+En la página.
+
+00:04:22.730 --> 00:04:23.830
+Esta es la parte superior de mi mano.
+
+00:04:23.830 --> 00:04:25.550
+Estos son como mis venas.
+
+00:04:25.550 --> 00:04:29.450
+O, si realmente dibujaba lo correctamente, donde verá
+
+00:04:29.450 --> 00:04:32.690
+la mano de lado--de manera que se vería como este.
+
+00:04:32.690 --> 00:04:34.390
+Se podría ver su pinky.
+
+00:04:34.390 --> 00:04:37.760
+Su palma y su pinky sería así.
+
+00:04:37.760 --> 00:04:39.630
+Y el otro dedo como este.
+
+00:04:39.630 --> 00:04:43.460
+El dedo medio iría en la dirección de b.
+
+00:04:43.460 --> 00:04:46.900
+El dedo índice va en la dirección de a y
+
+00:04:46.900 --> 00:04:49.430
+incluso no veía el pulgar, porque está apuntando su dedo pulgar
+
+00:04:49.430 --> 00:04:49.960
+recto hacia abajo.
+
+00:04:49.960 --> 00:04:53.520
+Pero creo que obtendrá el punto.
+a b Cruz, este vector n es
+
+00:04:53.520 --> 00:04:54.780
+apuntando hacia abajo.
+
+00:04:54.780 --> 00:04:55.630
+Es un vector unitario.
+
+00:04:55.630 --> 00:04:56.750
+Y esto proporciona la magnitud.
+
+00:04:56.750 --> 00:04:59.240
+Vector unitario sólo significa que tiene una magnitud de uno.
+
+00:04:59.240 --> 00:05:02.560
+Así parecen las magnitudes de la Cruz y los productos de punto
+
+00:05:02.560 --> 00:05:03.360
+bastante cerca.
+
+00:05:03.360 --> 00:05:06.440
+Ambos tienen la magnitud de ambos vectores allí.
+
+00:05:06.440 --> 00:05:08.720
+Producto escalar, theta de coseno.
+
+00:05:08.720 --> 00:05:09.980
+Seno de producto cruzado de theta.
+
+00:05:09.980 --> 00:05:11.710
+Pero entonces, la gran diferencia es sine
+
+00:05:11.710 --> 00:05:12.730
+de theta tiene una dirección.
+
+00:05:12.730 --> 00:05:14.410
+Es un vector diferente que es
+
+00:05:14.410 --> 00:05:16.360
+perpendicular a ambos.
+
+00:05:16.360 --> 00:05:18.340
+Ahora, vamos a obtener la intuición.
+
+00:05:18.340 --> 00:05:20.830
+Y si has visto los videos sobre el punto y la
+
+00:05:20.830 --> 00:05:23.420
+producto cruzado, esperemos que tienes un poco intuición.
+
+00:05:23.420 --> 00:05:25.740
+Pero revisarlo porque creo que se adapta a todos juntos
+
+00:05:25.740 --> 00:05:28.230
+Cuando los ves uno con el otro.
+
+00:05:42.060 --> 00:05:45.290
+En primer lugar, vamos a estudiar una, coseno b de theta.
+
+00:05:45.290 --> 00:05:49.470
+Si vieron el coseno de video, producto escalar de theta, si usted
+
+00:05:49.470 --> 00:05:51.860
+tomó, vamos a decir, b coseno de theta.
+
+00:05:51.860 --> 00:05:54.750
+¿Qué es el coseno de b de theta?
+
+00:05:54.750 --> 00:05:56.930
+coseno de b de theta--y usted podría work it out en su propio
+
+00:05:56.930 --> 00:06:03.690
+tiempo--si dices coseno es adyacente sobre hipotenusa, el
+
+00:06:03.690 --> 00:06:06.140
+magnitud de theta de coseno b realmente va a ser el
+
+00:06:06.140 --> 00:06:09.520
+magnitud de, si usted deja caer una perpendicular--usaré un
+
+00:06:09.520 --> 00:06:14.940
+color diferente aquí--si usted deja caer una perpendicular aquí,
+
+00:06:14.940 --> 00:06:17.250
+Esta longitud correcta aquí--que es theta de coseno de b.
+
+00:06:17.250 --> 00:06:18.680
+Permítanme dibujarlo por separado.
+
+00:06:18.680 --> 00:06:21.140
+No quiero lío esta imagen demasiado.
+
+00:06:21.140 --> 00:06:22.390
+Eso si es b.
+
+00:06:30.890 --> 00:06:40.320
+Si eso s--Y que es b.
+
+00:06:40.320 --> 00:06:41.610
+Esta es la una.
+
+00:06:41.610 --> 00:06:42.540
+Esto es theta.
+
+00:06:42.540 --> 00:06:47.236
+theta de coseno de b, si se le cae una línea perpendicular a,
+
+00:06:47.236 --> 00:06:48.590
+es un ángulo recto.
+
+00:06:48.590 --> 00:06:51.350
+theta de coseno de b, adyacente sobre hipotenusa es
+
+00:06:51.350 --> 00:06:52.910
+igual a theta de coseno.
+
+00:06:52.910 --> 00:06:55.210
+Así que sería la proyección de b va en el mismo
+
+00:06:55.210 --> 00:06:57.230
+dirección como una.
+
+00:06:57.230 --> 00:06:59.810
+Por lo que sería esta magnitud.
+
+00:07:02.770 --> 00:07:06.120
+Es theta de coseno de b.
+
+00:07:06.120 --> 00:07:13.180
+Por lo que es la magnitud de ese vector allí la
+
+00:07:13.180 --> 00:07:16.720
+magnitud del coseno b de theta.
+
+00:07:16.720 --> 00:07:18.910
+Así que cuando usted está tomando el producto escalar, por lo menos el ejemplo
+
+00:07:18.910 --> 00:07:22.970
+Lo acabo de hacer, si lo ve como la magnitud de una veces la
+
+00:07:22.970 --> 00:07:26.570
+magnitud de theta de coseno de b, usted está diciendo qué parte de b
+
+00:07:26.570 --> 00:07:28.680
+¿va en la misma dirección como un?
+
+00:07:28.680 --> 00:07:30.870
+Y sea de esa magnitud, déjame solo multiplicar
+
+00:07:30.870 --> 00:07:31.980
+veces la magnitud de una.
+
+00:07:31.980 --> 00:07:34.360
+Y tengo el producto escalar.
+
+00:07:34.360 --> 00:07:35.960
+Tomemos las piezas que van en la misma dirección y
+
+00:07:35.960 --> 00:07:36.590
+multiplicar en ellos.
+
+00:07:36.590 --> 00:07:38.040
+¿Cuánto se mueven juntos?
+
+00:07:38.040 --> 00:07:40.310
+¿O que apunten juntos?
+
+00:07:40.310 --> 00:07:41.510
+O podría ver el otro lado.
+
+00:07:41.510 --> 00:07:44.050
+Podría ver el producto escalar como--y lo hice en el punto
+
+00:07:44.050 --> 00:07:50.510
+video de producto--podría verlo como un coseno de theta, b.
+
+00:07:50.510 --> 00:07:51.480
+Porque no importa.
+
+00:07:51.480 --> 00:07:52.990
+Estas son todas las cantidades escalares, por lo que no
+
+00:07:52.990 --> 00:07:55.560
+importa qué orden que llevas la multiplicación en.
+
+00:07:55.560 --> 00:07:57.270
+Y un theta de coseno es lo mismo.
+
+00:07:57.270 --> 00:08:00.350
+Es la magnitud de la un vector que va en el
+
+00:08:00.350 --> 00:08:01.060
+misma dirección de b.
+
+00:08:01.060 --> 00:08:04.270
+O la proyección de un a b.
+
+00:08:04.270 --> 00:08:08.620
+Por lo que este vector aquí es un theta coseno; la magnitud de
+
+00:08:08.620 --> 00:08:10.940
+un theta de coseno.
+
+00:08:10.940 --> 00:08:12.010
+Y son realmente el mismo número.
+
+00:08:12.010 --> 00:08:14.320
+Si llevas la cantidad de b va en la dirección de a, y
+
+00:08:14.320 --> 00:08:16.400
+que se multiplican con la magnitud de una, que le da
+
+00:08:16.400 --> 00:08:20.550
+el mismo número que la cantidad de una va en la dirección de b,
+
+00:08:20.550 --> 00:08:24.270
+y luego multiplicar las dos magnitudes.
+
+00:08:24.270 --> 00:08:28.100
+Ahora, ¿qué es un, theta de seno b?
+
+00:08:28.100 --> 00:08:29.710
+a, b, theta sinusoidal.
+
+00:08:29.710 --> 00:08:34.299
+Bueno si este vector aquí es un coseno theta--y usted
+
+00:08:34.299 --> 00:08:35.700
+aprendí esto cuando aprendió a tomar la
+
+00:08:35.700 --> 00:08:36.600
+componentes de vectores.
+
+00:08:36.600 --> 00:08:43.460
+Este vector aquí es la magnitud de un theta sinusoidal.
+
+00:08:43.460 --> 00:08:49.330
+Se podría reescribir esto como la magnitud de un theta sine
+
+00:08:49.330 --> 00:08:53.750
+veces la magnitud de b en esa dirección del vector normal.
+
+00:08:53.750 --> 00:08:56.830
+Así que si usted toma un seno theta veces b, usted está diciendo lo que
+
+00:08:56.830 --> 00:08:59.460
+parte de un no va en la misma dirección que b.
+
+00:08:59.460 --> 00:09:02.290
+¿Qué parte de una es completamente perpendicular a b--tiene
+
+00:09:02.290 --> 00:09:03.390
+nada que ver es b.
+
+00:09:03.390 --> 00:09:05.100
+Comparten nada en común.
+
+00:09:05.100 --> 00:09:06.930
+Va en una dirección completamente diferente.
+
+00:09:06.930 --> 00:09:08.340
+Es un theta sinusoidal.
+
+00:09:08.340 --> 00:09:12.560
+Y así tomar el producto de ello con b y, a continuación, obtendrá una
+
+00:09:12.560 --> 00:09:13.690
+tercer vector.
+
+00:09:13.690 --> 00:09:15.930
+Y casi dice, cómo diferentes
+
+00:09:15.930 --> 00:09:16.950
+¿son estos dos vectores?
+
+00:09:16.950 --> 00:09:18.390
+Y apunta en una dirección diferente.
+
+00:09:18.390 --> 00:09:20.810
+Te da esto--a veces se llama un vector de pseudo
+
+00:09:20.810 --> 00:09:22.330
+porque se aplica a algunos conceptos
+
+00:09:22.330 --> 00:09:24.060
+son vectores de pseudo.
+
+00:09:24.060 --> 00:09:26.750
+Pero lo más importante de estos conceptos es par, cuando
+
+00:09:26.750 --> 00:09:30.970
+hablamos sobre el campo magnético; la fuerza de un magnético
+
+00:09:30.970 --> 00:09:32.320
+campo de carga eléctrica.
+
+00:09:32.320 --> 00:09:35.600
+Estas son todas las fuerzas, o estos son todos los fenómenos físicos,
+
+00:09:35.600 --> 00:09:39.170
+donde lo que importa no es la dirección de la fuerza con
+
+00:09:39.170 --> 00:09:41.110
+otro vector, es la dirección de la fuerza
+
+00:09:41.110 --> 00:09:42.630
+perpendicular a otro vector.
+
+00:09:42.630 --> 00:09:45.080
+Y lo que es donde el producto cruzado viene útil.
+
+00:09:45.080 --> 00:09:48.140
+De todos modos, ojala, te dio un poco intuición.
+
+00:09:48.140 --> 00:09:49.280
+Y usted podría hacerlo al revés.
+
+00:09:49.280 --> 00:09:51.310
+Usted podría haber escrito esto como theta de seno b.
+
+00:09:51.310 --> 00:09:53.800
+Y, a continuación, habría dicho que es el componente de b que
+
+00:09:53.800 --> 00:09:54.900
+es perpendicular a una.
+
+00:09:54.900 --> 00:09:58.665
+Por eso theta de seno b realmente hubiera sido este vector.
+
+00:10:02.140 --> 00:10:03.330
+O déjame dibujar aquí.
+
+00:10:03.330 --> 00:10:04.070
+Tendría más sentido.
+
+00:10:04.070 --> 00:10:08.210
+Esto sería theta de seno b.
+
+00:10:08.210 --> 00:10:10.030
+Así se podrían cambiar órdenes.
+
+00:10:10.030 --> 00:10:11.160
+Se puede visualizar de cualquier manera.
+
+00:10:11.160 --> 00:10:12.500
+Se podría decir que esta es la magnitud de b es
+
+00:10:12.500 --> 00:10:15.550
+completamente perpendicular a, multiplicar los dos y utilizar la
+
+00:10:15.550 --> 00:10:18.000
+regla de la mano derecha para obtener ese vector normal.
+
+00:10:18.000 --> 00:10:22.350
+Y hemos decidido que vamos a utilizar la mano derecha
+
+00:10:22.350 --> 00:10:23.630
+regla para tener una convención común.
+
+00:10:23.630 --> 00:10:25.470
+Pero la gente pudo haber utilizado la regla de la mano izquierda, o que ellos podrían
+
+00:10:25.470 --> 00:10:26.730
+han utilizado una diferente manera.
+
+00:10:26.730 --> 00:10:29.810
+Es sólo una forma que tenemos un marco coherente, para que
+
+00:10:29.810 --> 00:10:32.770
+Cuando tomamos el producto cruzado todos sabemos en qué dirección
+
+00:10:32.770 --> 00:10:34.900
+apunta en ese vector normal.
+
+00:10:34.900 --> 00:10:35.400
+De todos modos.
+
+00:10:35.400 --> 00:10:38.300
+En el siguiente vídeo les mostraré cómo calcular realmente
+
+00:10:38.300 --> 00:10:41.430
+punto y productos de Cruz cuando les está dado su
+
+00:10:41.430 --> 00:10:43.100
+notación de componentes.
+
+00:10:43.100 --> 00:10:44.920
+Nos vemos en el siguiente vídeo.

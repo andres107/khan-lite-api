@@ -1,0 +1,269 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.740 --> 00:00:05.450
+Me han pedido ayuda sobre por qué, digamos,
+
+00:00:05.450 --> 00:00:12.030
+A a la menos B es igual a 1 sobre A a la B
+
+00:00:12.030 --> 00:00:13.382
+Y antes de darles la ayuda,
+
+00:00:13.382 --> 00:00:17.420
+quiero que noten que esto, en realidad, es una definición
+
+00:00:17.420 --> 00:00:17.920
+No sé.
+
+00:00:17.920 --> 00:00:20.950
+"El inventor de las matemáticas" no fue una persona.
+
+00:00:20.950 --> 00:00:23.120
+Fue, como saben, una convención que surgió
+
+00:00:23.120 --> 00:00:25.180
+Pero definieron esto,
+
+00:00:25.180 --> 00:00:28.634
+y definieron esto por las razones que les voy a mostrar.
+
+00:00:28.634 --> 00:00:30.477
+Bueno, lo que les voy a mostrar es una de las razones,
+
+00:00:30.477 --> 00:00:32.593
+y luego veremos que esta es una buena definición,
+
+00:00:32.593 --> 00:00:38.790
+porque una vez que aprendes las reglas de exponentes,
+el resto de las reglas de exponentes se mantienen
+consistentes para los exponentes negativos
+
+00:00:38.790 --> 00:00:41.596
+y para cuando elevas algo a la cero.
+
+00:00:41.596 --> 00:00:44.740
+Tomemos los exponentes positivos.
+
+00:00:44.740 --> 00:00:47.180
+Esos son bastante intuitivos, creo.
+
+00:00:47.180 --> 00:00:54.200
+Entonces, los exponentes positivos. Tenemos A a la 1, A cuadrado,
+
+00:00:54.200 --> 00:00:58.140
+A cubo, A a la cuarta.
+
+00:00:58.140 --> 00:01:01.832
+¿Qué es A a la uno? A a la uno, dijimos, es A,
+
+00:01:01.832 --> 00:01:06.060
+y luego, para obtener A cuadrado, ¿qué hicimos?
+
+00:01:06.060 --> 00:01:08.200
+Multiplicamos por A, cierto?
+
+00:01:08.200 --> 00:01:10.650
+A cuadrado es A por A.
+
+00:01:10.650 --> 00:01:13.040
+Y luego para obtener A cubo, ¿qué hicimos?
+
+00:01:13.040 --> 00:01:15.160
+Multiplicamos por A otra vez.
+
+00:01:15.160 --> 00:01:17.420
+Y luego para obtener A a la cuarta, ¿qué hicimos?
+
+00:01:17.420 --> 00:01:18.920
+Multiplicamos por A de nuevo.
+
+00:01:18.920 --> 00:01:24.480
+Por el otro lado, pueden imaginarse, cuando disminuimos el exponente, qué estamos haciendo?
+
+00:01:24.480 --> 00:01:29.560
+Estamos multiplicando por 1 sobre A, o dividiendo por A.
+
+00:01:29.560 --> 00:01:33.140
+Y así, disminuyes otra vez, estás dividiendo por A.
+
+00:01:33.140 --> 00:01:38.479
+Y para ir de A cuadrado a A a la uno, estás dividiendo por A.
+
+00:01:38.479 --> 00:01:41.700
+Usemos esta progresión para averiguar qué es A a la cero.
+
+00:01:41.720 --> 00:01:43.900
+Esta es la primera difícil
+
+00:01:43.900 --> 00:01:45.010
+Entonces, A a la cero.
+
+00:01:45.010 --> 00:01:49.990
+Eres el inventor, la madre fundadora de las matemáticas,
+
+00:01:49.990 --> 00:01:52.170
+y necesitas definir qué es A a la cero.
+
+00:01:52.170 --> 00:01:55.420
+Y, no sé, tal vez es diecisiete, tal vez es pi.
+
+00:01:55.420 --> 00:01:56.100
+No sé.
+
+00:01:56.100 --> 00:01:58.860
+Es tu responsabilidad decidir que es A a la cero.
+
+00:01:58.860 --> 00:02:02.140
+Pero no sería lindo que A a la cero mantuviera este patrón?
+
+00:02:02.140 --> 00:02:07.274
+Que cada vez que disminuyes el exponente, estás dividiendo por a, cierto?
+
+00:02:07.274 --> 00:02:11.700
+Entonces, si vamos de A a la uno a A a la cero,
+
+00:02:11.700 --> 00:02:14.160
+no sería lindo si solo dividiéramos por A?
+
+00:02:14.160 --> 00:02:15.189
+Hagamos eso.
+
+00:02:15.189 --> 00:02:18.320
+Entonces si vamos de A a la uno, que es solo A,
+
+00:02:18.320 --> 00:02:21.078
+y divimos por A,
+
+00:02:21.078 --> 00:02:23.848
+cierto?, entonces solo vamos a-- solo vamos a dividir por A.
+
+00:02:23.863 --> 00:02:27.235
+¿Qué es A dividido A?
+
+00:02:27.235 --> 00:02:29.730
+Bueno, es uno.
+
+00:02:29.730 --> 00:02:30.994
+Entonces de allí es de donde la definición--
+
+00:02:30.994 --> 00:02:37.420
+o esta es una de las intuiciones detrás de por qué algo elevado a la cero es igual a uno.
+
+00:02:37.420 --> 00:02:39.456
+Porque cuando tomas ese número
+
+00:02:39.456 --> 00:02:43.190
+y lo divides por sí mismo una vez más, obtienes uno.
+
+00:02:43.190 --> 00:02:44.177
+Eso es bastante razonable,
+
+00:02:44.177 --> 00:02:45.890
+pero ahora vayamos al dominio de los negativos.
+
+00:02:45.890 --> 00:02:51.891
+A qué debería ser igual A a la menos uno?
+
+00:02:51.891 --> 00:02:54.410
+Bueno, una vez más, sería lindo si podemos mantener este patrón,
+
+00:02:54.410 --> 00:02:57.682
+donde cada vez que disminuimos el exponente estamos dividiendo por A.
+
+00:02:57.682 --> 00:03:01.546
+Entonces dividamos por A otra vez, entonces uno sobre A.
+
+00:03:01.546 --> 00:03:06.140
+Vamos a tomar A a la cero y a dividirlo por A.
+
+00:03:06.140 --> 00:03:09.610
+A a la cero es uno, entonces cuánto es uno dividido A?
+
+00:03:09.610 --> 00:03:12.090
+Es uno sobre A
+
+00:03:12.090 --> 00:03:13.078
+Ahora, hagamos esto una vez más,
+
+00:03:13.078 --> 00:03:15.330
+y luego creo que van a entender el patrón.
+
+00:03:15.330 --> 00:03:16.880
+Bueno, creo que probablemente ya entendieron el patrón.
+
+00:03:16.880 --> 00:03:18.350
+¿Qué es A a la menos dos?
+
+00:03:18.350 --> 00:03:21.993
+Bueno, queremos-- ya saben, sería tonto cambiar ahora este patrón.
+
+00:03:21.993 --> 00:03:25.130
+Cada vez que disminuimos el exponente, estamos dividiendo por A.
+
+00:03:25.130 --> 00:03:27.840
+Entonces para ir de A a la menos uno a A a la menos dos,
+
+00:03:27.855 --> 00:03:30.470
+solo dividimos por A otra vez.
+
+00:03:30.470 --> 00:03:32.550
+Y qué obtenemos?
+
+00:03:32.550 --> 00:03:36.040
+Si toman uno sobre A y lo dividen por A, obtienen uno sobre A cuadrado
+
+00:03:36.040 --> 00:03:39.146
+Y podrían seguir con este patrón aún más hacia la izquierda,
+
+00:03:39.146 --> 00:03:44.761
+y obtendrían A a la menos B es igual a uno sobre A a la B.
+
+00:03:44.761 --> 00:03:48.790
+Con suerte, eso les debe haber dado una pequeña idea de por qué--
+
+00:03:48.790 --> 00:03:51.090
+bueno, primero de todo, el gran misterio es,
+
+00:03:51.090 --> 00:03:53.590
+algo elevado a la cero, por qué es igual a uno?
+
+00:03:53.590 --> 00:03:55.970
+Primero, no se olviden que esa es solo una definición.
+
+00:03:55.972 --> 00:03:59.134
+Alguien decidió que debería ser igual a uno, pero tenían una buena razón.
+
+00:03:59.134 --> 00:04:02.617
+Y su buena razón es que querían mantener este patrón andando.
+
+00:04:02.617 --> 00:04:07.422
+Y esa es la misma razón por la cual definieron los exponentes negativos de esta manera.
+
+00:04:07.440 --> 00:04:08.654
+Y lo que extra cool sobre esto
+
+00:04:08.654 --> 00:04:13.227
+es que no solo mantiene este patrón de que cuando disminuyen exponentes, están dividiendo por A,
+
+00:04:13.227 --> 00:04:16.138
+o cuando están aumentando exponentes, están multiplicando por A,
+
+00:04:16.138 --> 00:04:20.457
+pero como verán en los videos de reglas de exponentes, todas las reglas se mantienen.
+
+00:04:20.460 --> 00:04:25.574
+Todas las reglas sobre exponentes son consistentes con esta definición de algo elevado a la cero
+
+00:04:25.574 --> 00:04:28.472
+y esta definición de algo elevado a una potencia negativa.
+
+00:04:28.472 --> 00:04:30.290
+Con suerte, eso no los confundió
+
+00:04:30.290 --> 00:04:34.010
+y les di un poquito de idea y desmitifiqué algo que, francamente
+
+00:04:34.010 --> 00:04:37.545
+es bastante "místico" la primera vez que lo aprendes.

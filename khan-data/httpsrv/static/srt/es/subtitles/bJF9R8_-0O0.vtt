@@ -1,0 +1,69 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.960 --> 00:00:05.741
+Los segmentos de linea AB y CD son congruentes?
+
+00:00:05.741 --> 00:00:07.935
+Veamos ésto
+
+00:00:07.935 --> 00:00:11.002
+Éste es el segmento de línea AB
+
+00:00:11.002 --> 00:00:13.136
+Y el segmento de línea CD está aquí
+
+00:00:13.136 --> 00:00:18.072
+AB tiene longitud de una unidad, de 2 a 3
+
+00:00:18.072 --> 00:00:21.406
+Y CD tiene la longitud de una unidad, de 4 a 5
+
+00:00:21.406 --> 00:00:26.004
+Por lo que tienen exactamente la misma longitud ambos segmentos de linea
+
+00:00:26.004 --> 00:00:27.736
+Asi que sí, son congruentes
+
+00:00:27.736 --> 00:00:29.403
+"Yes"
+
+00:00:29.403 --> 00:00:31.402
+Hagamos un par más
+
+00:00:31.402 --> 00:00:33.212
+AB y CD son congruentes?
+
+00:00:33.212 --> 00:00:37.211
+Veamos, AB es mucho más largo que CD
+
+00:00:37.211 --> 00:00:41.474
+AB tiene longitud de 4 unidades, de -5 a -1
+
+00:00:41.474 --> 00:00:45.003
+Y CD tiene longitud una unidad, de 1 a 2
+
+00:00:45.003 --> 00:00:46.803
+Asi que no, no son congruentes
+
+00:00:46.803 --> 00:00:48.545
+Tienen diferentes longitudes
+
+00:00:48.545 --> 00:00:50.003
+Hagamos uno más
+
+00:00:50.003 --> 00:00:51.540
+AB y CD son congruentes?
+
+00:00:51.540 --> 00:00:54.878
+AB tiene longitud de 2 unidades, de -1 a 1
+
+00:00:54.878 --> 00:00:56.825
+Y CD tiene longitud de 3 unidades, de 2 a 5
+
+00:00:56.825 --> 00:00:57.901
+Asi que no son congruentes
+
+00:00:57.917 --> 00:00:59.437
+"No"

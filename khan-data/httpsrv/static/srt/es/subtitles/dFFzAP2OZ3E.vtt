@@ -1,0 +1,590 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.640
+----
+
+00:00:00.640 --> 00:00:02.820
+Voy a hacer un vídeo más sobre entropía
+
+00:00:02.820 --> 00:00:04.180
+Quizás haga más en el futuro
+
+00:00:04.180 --> 00:00:06.970
+Pero pensé que haría al menos uno más, porque
+
+00:00:06.970 --> 00:00:11.080
+porque realmente quiero que quede clara la idea de entropía como una
+
+00:00:11.080 --> 00:00:13.290
+variable de estado macro.
+
+00:00:13.290 --> 00:00:14.590
+Bueno, voy a escribir eso.
+
+00:00:14.590 --> 00:00:20.320
+Una S, que significa entropia, es una variable de estado marcro.
+
+00:00:20.320 --> 00:00:24.100
+Voy a escribir macro en rojo resaltado.
+
+00:00:24.100 --> 00:00:28.010
+Es una variable de estado macro.
+
+00:00:28.010 --> 00:00:29.500
+Y quiero enfatizar esto.
+
+00:00:29.500 --> 00:00:31.780
+Hablé un poco sobre en esto en mi vídeo anterior,
+
+00:00:31.780 --> 00:00:35.590
+pero pienso que incluso entonces, no fui tan exacto como debí haberlo sido.
+
+00:00:35.590 --> 00:00:37.850
+Y la razón por la que quiero decir que es macro, es porque
+
+00:00:37.850 --> 00:00:40.920
+hay una fuerte tentacion a señalar a
+
+00:00:40.920 --> 00:00:44.520
+a estados micro específicos y decir, tiene esto más
+
+00:00:44.520 --> 00:00:46.570
+menos entropía que este otro?
+
+00:00:46.570 --> 00:00:48.830
+Por ejemplo, el clásico.
+
+00:00:48.830 --> 00:00:51.430
+Incluso yo hice esto.
+
+00:00:51.430 --> 00:00:55.750
+En realidad, voy a hacer una linea mas grande y gruesa.
+
+00:00:55.750 --> 00:01:02.360
+Ahora tienes esta caja con una línea que la divide.
+
+00:01:02.360 --> 00:01:05.090
+Hemos revisado esto varias veces.
+
+00:01:05.090 --> 00:01:08.710
+Voy a dibujar la línea aqui.
+
+00:01:08.710 --> 00:01:09.960
+Bien.
+
+00:01:09.960 --> 00:01:13.530
+Bien, al principio si tenemos un sistema donde todas las
+
+00:01:13.530 --> 00:01:19.550
+moleculas estan aqui, por tanto ese es nuestro primer escenario.
+
+00:01:19.550 --> 00:01:21.510
+Y nuestro segundo escenario, hemos estudiado esto mucho.
+
+00:01:21.510 --> 00:01:25.190
+Nos deshacemos de esta pared aqui.
+
+00:01:25.190 --> 00:01:28.870
+Y calculamos la entropia.
+
+00:01:28.870 --> 00:01:29.630
+Control.
+
+00:01:29.630 --> 00:01:29.870
+Bien.
+
+00:01:29.870 --> 00:01:33.240
+Voy a copiar y pegarlo.
+
+00:01:33.240 --> 00:01:37.210
+Voy a ponerlas una alado de la otra.
+
+00:01:37.210 --> 00:01:38.210
+Muy bien.
+
+00:01:38.210 --> 00:01:39.540
+Ahora tengo estas dos cosas.
+
+00:01:39.540 --> 00:01:42.360
+Y ahora la segunda vez, yo elimino esta pared.
+
+00:01:42.360 --> 00:01:45.200
+Voy a quitarla.
+
+00:01:45.200 --> 00:01:47.120
+Voy a borrar la pared aquí.
+
+00:01:47.120 --> 00:01:50.230
+Y entonces dijimos, una vez que el sistema alcanza el equilibro
+
+00:01:50.230 --> 00:01:54.640
+nuevamente, recuerden, estas variables de estado macro, como
+
+00:01:54.640 --> 00:01:57.600
+presión, volumen, temperatura, entropía, son
+
+00:01:57.600 --> 00:02:01.240
+solamente definidas una vez que el sistema está en equilibrio.
+
+00:02:01.240 --> 00:02:04.660
+Así que una vez que el sistema está en equilibrio, estas
+
+00:02:04.660 --> 00:02:07.305
+partículas son ahora --- quería el mismo número de partículas,
+
+00:02:07.305 --> 00:02:11.840
+voy a borrar algunas de estas partículas, voy a moverlas.
+
+00:02:11.840 --> 00:02:13.160
+Voy a ver si puedo seleccionar algunas.
+
+00:02:13.160 --> 00:02:23.920
+----
+
+00:02:23.920 --> 00:02:25.110
+Bien,
+
+00:02:25.110 --> 00:02:29.380
+Ahora tenemos algo más uniforme. Voy a dibujar nuevamente.
+
+00:02:29.380 --> 00:02:32.850
+1, 2, 3, 4, 5, 6, 7, 8 partículas.
+
+00:02:32.850 --> 00:02:37.980
+Voy a borrar lo que tengo aquí. Y voy a hacer una distribución más uniforme
+
+00:02:37.980 --> 00:02:39.230
+---
+
+00:02:39.230 --> 00:02:41.020
+---
+
+00:02:41.020 --> 00:02:46.770
+Bien, una vez que me deshago de la pared, yo podría tener 1, 2, 3, 4,
+
+00:02:46.770 --> 00:02:48.930
+5, 6, 7, 8.
+
+00:02:48.930 --> 00:02:51.520
+Ahora, la razon por la que estoy haciendo todo esto es porque hay
+
+00:02:51.520 --> 00:02:56.660
+una tentacion a decir que este estado, lo que acabo de dibujar
+
+00:02:56.660 --> 00:02:59.080
+cuando me asegure de deshacerme de estas y dibujar 8
+
+00:02:59.080 --> 00:03:01.600
+mas, yo dibuje un micro estado.
+
+00:03:01.600 --> 00:03:02.850
+Esto es un micro estado.
+
+00:03:02.850 --> 00:03:05.900
+---
+
+00:03:05.900 --> 00:03:08.080
+Cada vez que alguien dibuja en realidad moleculas para ti,
+
+00:03:08.080 --> 00:03:09.330
+estan dibujando un micro estado.
+
+00:03:09.330 --> 00:03:12.580
+---
+
+00:03:12.580 --> 00:03:13.680
+Ahora, yo quiero ser muy claro.
+
+00:03:13.680 --> 00:03:17.260
+Este micro estado no tiene mas entropia que este
+
+00:03:17.260 --> 00:03:18.310
+micro estado.
+
+00:03:18.310 --> 00:03:21.380
+De hecho, los micro estados no tienen entropia.
+
+00:03:21.380 --> 00:03:23.140
+La entropia no tiene sentido.
+
+00:03:23.140 --> 00:03:27.670
+Lo que se puede decir es un sistema--- y esta vez, voy a
+
+00:03:27.670 --> 00:03:29.050
+dibujar sin particulas.
+
+00:03:29.050 --> 00:03:33.900
+Si tengo un recipiente de este tamano, que
+
+00:03:33.900 --> 00:03:36.210
+contiene-- que tiene cierto volumen.
+
+00:03:36.210 --> 00:03:38.700
+El volumen es igual a v1.
+
+00:03:38.700 --> 00:03:42.840
+Su temperatura es igual a t1, y tiene 8
+
+00:03:42.840 --> 00:03:43.860
+particulas.
+
+00:03:43.860 --> 00:03:46.230
+Esto tiene cierta entropia asociada.
+
+00:03:46.230 --> 00:03:48.840
+Y lo que se puede decir, es que si vamos a doblar el tamano de
+
+00:03:48.840 --> 00:03:54.880
+este recipiente, lo cual lo hicimos al deshacernos de esta pared, ahora
+
+00:03:54.880 --> 00:03:59.160
+de pronto nuestro volumen es igual a 2 veces v1, si decimos
+
+00:03:59.160 --> 00:04:00.100
+que es el doble.
+
+00:04:00.100 --> 00:04:02.330
+Nuestra temperatura es aun igual a t1.
+
+00:04:02.330 --> 00:04:04.080
+Vimos eso en algunos videos anteriores.
+
+00:04:04.080 --> 00:04:05.445
+Y aun tenemos 8 moleculas.
+
+00:04:05.445 --> 00:04:08.030
+---
+
+00:04:08.030 --> 00:04:10.940
+La entropia de este sistema es mayor.
+
+00:04:10.940 --> 00:04:14.180
+Por tanto ahora la entropia es mayor.
+
+00:04:14.180 --> 00:04:16.500
+Y quiero poner esto muy claro, porque Uds. nunca ven
+
+00:04:16.500 --> 00:04:17.279
+dibujado esto de esta manera.
+
+00:04:17.279 --> 00:04:20.029
+Las personas siempre quieren dibujar las moleculas.
+
+00:04:20.029 --> 00:04:22.079
+Pero eso confunde el asunto.
+
+00:04:22.079 --> 00:04:24.380
+Cuando se dibujan las moleculas, se esta mostrando
+
+00:04:24.380 --> 00:04:26.010
+un estado particular.
+
+00:04:26.010 --> 00:04:30.200
+Por ejemplo, este sistema, si fueramos en realidad a medir
+
+00:04:30.200 --> 00:04:33.600
+el micro estado, podria ser --- hay una muy, muy infinitesima
+
+00:04:33.600 --> 00:04:37.310
+probabilidad--- que todas las moleculas, todas
+
+00:04:37.310 --> 00:04:40.160
+las 8 moleculas puedan estar alli.
+
+00:04:40.160 --> 00:04:43.380
+Es decir, es casi como que podrias esperar a que todo el
+
+00:04:43.380 --> 00:04:45.500
+universo venga y vaya, y aun esto no suceda.
+
+00:04:45.500 --> 00:04:47.270
+Pero hay cierta probabilidad de que pueda suceder.
+
+00:04:47.270 --> 00:04:50.160
+Por tanto no se puede asignar la entropia a un estado particular.
+
+00:04:50.160 --> 00:04:54.110
+Todo lo que se puede hacer, es asignar a un sistema particular.
+
+00:04:54.110 --> 00:04:55.610
+Quiero clarificar.
+
+00:04:55.610 --> 00:04:58.410
+Incluso yo hable de un cuarto limpio y sucio
+
+00:04:58.410 --> 00:05:00.060
+y todo aquelllo.
+
+00:05:00.060 --> 00:05:01.690
+El cuarto limpio versus el cuarto sucio.
+
+00:05:01.690 --> 00:05:04.650
+---
+
+00:05:04.650 --> 00:05:08.220
+El punto que queria hacer es que la entropia de un cuarto no es
+
+00:05:08.220 --> 00:05:10.840
+dependiente de su limpieza o suciedad.
+
+00:05:10.840 --> 00:05:11.960
+De hecho, se los puede ver
+
+00:05:11.960 --> 00:05:13.670
+como estados de un cuarto.
+
+00:05:13.670 --> 00:05:14.980
+Pero incluso mas, estos realmente no son ni siquiera
+
+00:05:14.980 --> 00:05:15.890
+estados de un cuarto.
+
+00:05:15.890 --> 00:05:19.390
+Porque cuando un cuarto esta limpio, o un cuarto esta estatico a un nivel macro,
+
+00:05:19.390 --> 00:05:20.640
+están estáticos.
+
+00:05:20.640 --> 00:05:23.400
+---
+
+00:05:23.400 --> 00:05:29.760
+Si mis libros están tirados como --ya sabéis, algunas veces la gente
+
+00:05:29.760 --> 00:05:31.390
+mira una baraja de cartas y dicen, oh!, si tuviera todas mis
+
+00:05:31.390 --> 00:05:35.940
+cartas apiladas así, o si tuviera todas mis cartas
+
+00:05:35.940 --> 00:05:43.320
+que son un desastre como éste, que tiene una mayor entropía.
+
+00:05:43.320 --> 00:05:44.680
+Y quiero hacerlo que quede muy claro.
+
+00:05:44.680 --> 00:05:46.740
+Quiero decir, quizás puedes hacer un tipo de analogía.
+
+00:05:46.740 --> 00:05:49.090
+Pero ese no es el caso.
+
+00:05:49.090 --> 00:05:51.960
+Ambos sistemas son macroestados.
+
+00:05:51.960 --> 00:05:55.420
+Por ejemplo, estas cartas no están vibrando
+
+00:05:55.420 --> 00:05:57.730
+y alrededor no hay nada más que estas cartas.
+
+00:05:57.730 --> 00:06:00.660
+
+
+00:06:00.660 --> 00:06:01.970
+
+
+00:06:01.970 --> 00:06:04.770
+
+
+00:06:04.770 --> 00:06:07.800
+
+
+00:06:07.800 --> 00:06:10.710
+
+
+00:06:10.710 --> 00:06:13.820
+
+
+00:06:13.820 --> 00:06:15.220
+
+
+00:06:15.220 --> 00:06:19.410
+
+
+00:06:19.410 --> 00:06:23.000
+
+
+00:06:23.000 --> 00:06:26.490
+
+
+00:06:26.490 --> 00:06:30.120
+
+
+00:06:30.120 --> 00:06:32.500
+
+
+00:06:32.500 --> 00:06:34.230
+
+
+00:06:34.230 --> 00:06:38.380
+
+
+00:06:38.380 --> 00:06:40.500
+
+
+00:06:40.500 --> 00:06:41.930
+
+
+00:06:41.930 --> 00:06:44.790
+
+
+00:06:44.790 --> 00:06:47.580
+
+
+00:06:47.580 --> 00:06:48.900
+
+
+00:06:48.900 --> 00:06:51.280
+
+
+00:06:51.280 --> 00:06:52.330
+
+
+00:06:52.330 --> 00:06:55.740
+
+
+00:06:55.740 --> 00:06:59.110
+
+
+00:06:59.110 --> 00:07:01.460
+
+
+00:07:01.460 --> 00:07:04.150
+
+
+00:07:04.150 --> 00:07:06.460
+
+
+00:07:06.460 --> 00:07:08.860
+
+
+00:07:08.860 --> 00:07:10.280
+
+
+00:07:10.280 --> 00:07:11.310
+
+
+00:07:11.310 --> 00:07:14.990
+
+
+00:07:14.990 --> 00:07:17.580
+
+
+00:07:17.580 --> 00:07:21.730
+
+
+00:07:21.730 --> 00:07:23.810
+
+
+00:07:23.810 --> 00:07:26.740
+
+
+00:07:26.740 --> 00:07:28.990
+
+
+00:07:28.990 --> 00:07:31.600
+
+
+00:07:31.600 --> 00:07:34.060
+
+
+00:07:34.060 --> 00:07:36.600
+
+
+00:07:36.600 --> 00:07:40.010
+
+
+00:07:40.010 --> 00:07:41.220
+
+
+00:07:41.220 --> 00:07:45.030
+
+
+00:07:45.030 --> 00:07:46.280
+
+
+00:07:46.280 --> 00:07:48.130
+
+
+00:07:48.130 --> 00:07:49.260
+
+
+00:07:49.260 --> 00:07:52.030
+
+
+00:07:52.030 --> 00:07:53.570
+
+
+00:07:53.570 --> 00:07:55.490
+
+
+00:07:55.490 --> 00:07:59.250
+
+
+00:07:59.250 --> 00:08:02.280
+
+
+00:08:02.280 --> 00:08:05.820
+
+
+00:08:05.820 --> 00:08:08.450
+
+
+00:08:08.450 --> 00:08:09.330
+
+
+00:08:09.330 --> 00:08:13.310
+
+
+00:08:13.310 --> 00:08:14.560
+
+
+00:08:14.560 --> 00:08:15.960
+
+
+00:08:15.960 --> 00:08:21.920
+
+
+00:08:21.920 --> 00:08:24.860
+
+
+00:08:24.860 --> 00:08:26.560
+
+
+00:08:26.560 --> 00:08:28.670
+
+
+00:08:28.670 --> 00:08:30.900
+
+
+00:08:30.900 --> 00:08:34.059
+
+
+00:08:34.059 --> 00:08:37.650
+
+
+00:08:37.650 --> 00:08:41.429
+
+
+00:08:41.429 --> 00:08:46.210
+
+
+00:08:46.210 --> 00:08:48.740
+
+
+00:08:48.740 --> 00:08:51.750
+
+
+00:08:51.750 --> 00:08:53.820
+
+
+00:08:53.820 --> 00:08:54.190
+
+
+00:08:54.190 --> 00:08:55.440
+
+
+00:08:55.440 --> 00:08:56.030

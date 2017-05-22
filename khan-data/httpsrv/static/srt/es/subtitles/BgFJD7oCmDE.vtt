@@ -1,0 +1,46 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:04.947 --> 00:00:08.157
+Un sistema de cifrado fuerte es aquella que disfraza su huella digital.
+Para hacer una huella más ligera
+es para aplanar esta distribución de frecuencias de las letras.
+A mediados del siglo 15,
+habíamos avanzado las cifras polialfabéticos
+para lograr esto.
+Imagínese Alice y Bob comparten una palabra secreta turno.
+En primer lugar, Alice convierte la palabra en números
+de acuerdo a la posición letra del alfabeto.
+A continuación, esta secuencia de números se repite a lo largo del mensaje.
+A continuación, cada letra en el mensaje se cifra
+al cambiar de acuerdo con el número debajo de ella.
+Ahora, ella está usando varios turnos en lugar de un solo turno
+a través del mensaje como César había hecho antes.
+Entonces, el mensaje cifrado se envía abiertamente a Bob.
+Bob descifrar el mensaje restando los desplazamientos
+conforme a la palabra secreta que él también tiene una copia.
+Ahora imagine un Codebreaker, Eva,
+intercepta una serie de mensajes
+y calcula las frecuencias de las letras,
+ella encontrará una distribución más plano o una huella digital más ligera,
+así que żcómo iba a romper este?
+Recuerde, los descifradores buscan información filtrada,
+lo mismo que encontrar una huella dactilar parcial.
+Cada vez que hay una diferencia en las frecuencias de la letra,
+una fuga de información se produce.
+Esta diferencia es causada por la repetición en el mensaje cifrado.
+En este caso, la cifra del Alice contiene una palabra de código de repetición.
+Para romper el cifrado, Eve habría primero que determinar
+la longitud de la palabra turno utilizado, no la palabra misma.
+Ella tendrá que ir a través de
+y comprobar la distribución de frecuencias de los diferentes intervalos.
+Cuando se comprueba la distribución de frecuencias de cada quinta carta,
+la huella digital se revelará.
+El problema ahora, es romper cinco sistemas de cifrado César
+en una secuencia repetitiva.
+Individualmente, esta es una tarea trivial
+como hemos visto antes,
+la mayor resistencia del sistema de cifrado es el tiempo necesario
+para determinar la longitud de la palabra turno utilizado.
+Cuanto más larga sea la palabra cambio, más fuerte es el sistema de cifrado.

@@ -1,0 +1,441 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.533 --> 00:00:08.067
+Vamos a agregar algo moviéndose con una velocidad constante de 5 m/s
+
+00:00:08.067 --> 00:00:10.512
+y suponemos que se está moviendo a la derecha
+
+00:00:10.512 --> 00:00:13.533
+solo para darnos una dirección, porque esto es una cantidad vectorial
+
+00:00:13.533 --> 00:00:16.022
+por eso, avanzando en esa dirección, por ahí
+
+00:00:16.022 --> 00:00:18.506
+Y permítanme trazar su velocidad contra el tiempo
+
+00:00:18.506 --> 00:00:24.133
+así que esta es mi velocidad
+
+00:00:24.133 --> 00:00:26.759
+Realmente voy a trama sólo la magnitud de la velocidad
+
+00:00:26.759 --> 00:00:29.544
+y que puede especificar como este: ||v||
+
+00:00:29.544 --> 00:00:33.333
+así que esta es la magnitud de la velocidad
+
+00:00:33.333 --> 00:00:39.600
+Y luego, en este eje, me voy a trazar tiempo
+
+00:00:39.600 --> 00:00:43.200
+Así que tenemos una velocidad constante de 5 m/s
+
+00:00:43.200 --> 00:00:51.533
+por lo que su magnitud es 5 m/s, y es constante, no está cambiando
+
+00:00:51.533 --> 00:00:54.753
+como las garrapatas lejos de segundos, la velocidad no cambia
+
+00:00:54.753 --> 00:00:58.421
+Tan sólo avanza 5 m/s
+
+00:00:58.421 --> 00:01:05.533
+¿Ahora, mi pregunta es: cuánto esta cosa viajar después de 5 segundos?
+
+00:01:05.533 --> 00:01:12.200
+Así después de 5 segundos, así que esto es 1s...2s...3s...4S...5S... por aquí
+
+00:01:12.200 --> 00:01:15.400
+Así lo esta cosa viajar después de 5 segundos
+
+00:01:15.400 --> 00:01:17.346
+Bien podemos pensar sobre ella dos formas
+
+00:01:17.346 --> 00:01:30.024
+1) Sabemos que la velocidad es igual al desplazamiento sobre el cambio en el tiempo
+
+00:01:30.024 --> 00:01:33.920
+y desplazamiento es sólo cambio de posición
+
+00:01:33.920 --> 00:01:36.867
+así que esto es un cambio de posición sobre el cambio en el tiempo
+
+00:01:36.867 --> 00:01:40.667
+o 2) otra forma de pensar, si multiplicar ambos lados por el cambio en el tiempo
+
+00:01:40.667 --> 00:01:48.133
+Puedes obtener el cambio de tiempos de velocidad en el tiempo, es igual al desplazamiento
+
+00:01:48.133 --> 00:01:50.843
+¿Cuál fue el desplazamiento por aquí?
+
+00:01:50.843 --> 00:01:55.425
+Bien sé lo que es la velocidad, es 5 m/s
+
+00:01:55.425 --> 00:01:59.892
+5 m/s, lo que es la velocidad (permítanme esta color-code)
+
+00:01:59.892 --> 00:02:05.533
+Y sabemos lo que es el cambio en el tiempo aquí, es de 5 segundos
+
+00:02:05.533 --> 00:02:08.000
+y así obtendrá... los segundos se cancelan con segundos...
+
+00:02:08.000 --> 00:02:12.533
+obtendrá 5 * 5 = 25 metros
+
+00:02:12.533 --> 00:02:14.252
+Y eso es bastante sencillo
+
+00:02:14.252 --> 00:02:15.898
+pero lo más interesante es
+
+00:02:15.898 --> 00:02:24.428
+es que es exactamente el área bajo este rectángulo por aquí
+
+00:02:24.428 --> 00:02:26.267
+Y lo que quiero mostrar en este video
+
+00:02:26.267 --> 00:02:30.600
+eso es en general, si usted trazar la velocidad, la magnitud de la velocidad
+
+00:02:30.600 --> 00:02:32.933
+.. Galeon podría decir velocidad frente al tiempo...
+
+00:02:32.933 --> 00:02:36.133
+o Déjame quedarme sólo con la * magnitud de la velocidad frente a * time
+
+00:02:36.133 --> 00:02:41.773
+el área bajo la curva va a ser la distancia recorrida (o el desplazamiento)
+
+00:02:41.773 --> 00:02:46.696
+porque el desplazamiento es sólo la velocidad veces el cambio en el tiempo
+
+00:02:46.696 --> 00:02:49.691
+así que si solo sacar un rectángulo derecho por alli
+
+00:02:49.691 --> 00:02:52.687
+Así que permítanme señalar uno ligeramente diferente donde la velocidad está cambiando
+
+00:02:52.687 --> 00:02:55.933
+así que permítanme señalar una situación diferente donde tienes una aceleración constante
+
+00:02:55.933 --> 00:03:03.333
+la aceleración aquí va a ser m 1, s, s, hasta 1 m/s ^ 2
+
+00:03:03.333 --> 00:03:05.482
+y permítanme llamar el mismo tipo de gráfico
+
+00:03:05.482 --> 00:03:08.000
+(aunque va a mirar un poco diferente ahora)
+
+00:03:08.000 --> 00:03:11.625
+Así que esta es mi eje de velocidad
+
+00:03:11.625 --> 00:03:13.867
+(Te voy a dar yo un poco más espacio)
+
+00:03:13.867 --> 00:03:16.812
+Así que esta es mi eje de velocidad
+
+00:03:16.812 --> 00:03:19.320
+Sólo voy a señalar la magnitud de la velocidad
+
+00:03:19.320 --> 00:03:22.800
+y este derecho aquí es mi eje de tiempo
+
+00:03:22.800 --> 00:03:26.147
+por lo que se trata de tiempo, me deja marcar algunas cosas fuera de aquí
+
+00:03:26.147 --> 00:03:31.575
+así que...1... 2... 3... 4... 5... 6... 7... 8... 9... 10
+
+00:03:31.575 --> 00:03:37.467
+y...1... 2... 3... 4... 5... 6... 7... 8... 9... 10
+
+00:03:37.467 --> 00:03:41.843
+y la magnitud de la velocidad va a ser medida en m/s
+
+00:03:41.843 --> 00:03:47.822
+y el tiempo va a ser medido en segundos
+
+00:03:47.822 --> 00:03:49.533
+Así que ¿qué va a pasar aquí?
+
+00:03:49.533 --> 00:03:51.400
+Suponiendo que empezamos con...
+
+00:03:51.400 --> 00:03:59.221
+así que mi velocidad inicial, o podría decir la magnitud de mi velocidad inicial
+
+00:03:59.221 --> 00:04:02.951
+así que mi velocidad inicial, se podría decir, esto es sólo una elegante manera de decir mi velocidad inicial...
+
+00:04:02.951 --> 00:04:04.206
+.. .es cero
+
+00:04:04.206 --> 00:04:06.783
+Así que mi velocidad inicial es 0
+
+00:04:06.783 --> 00:04:09.533
+así que después de 1 segundo, ¿qué va a pasar?
+
+00:04:09.533 --> 00:04:12.467
+Después de 1 segundo, voy más rápido de 1 m/s
+
+00:04:12.467 --> 00:04:15.800
+así que ahora voy 1 m/s. ¿Después de 2 segundos, lo que ha ocurrido?
+
+00:04:15.800 --> 00:04:19.067
+Bueno ahora me voy más rápido que el otro 1 m/s
+
+00:04:19.067 --> 00:04:22.133
+Después de otra segunda, si avanzar en el tiempo
+
+00:04:22.133 --> 00:04:25.667
+Si el cambio en el tiempo es de 1 segundo, me voy un segundo más rápido que el que
+
+00:04:25.667 --> 00:04:30.348
+Y si recuerda la idea de * pendiente * de su clase de álgebra 1
+
+00:04:30.348 --> 00:04:34.841
+eso es exactamente lo que * aceleración * es, en este diagrama por aquí
+
+00:04:34.841 --> 00:04:46.488
+Sabemos que la aceleración es igual a... cambiar de velocidad sobre el cambio en el tiempo
+
+00:04:46.488 --> 00:04:49.400
+aquí el cambio en el tiempo es a lo largo del eje x
+
+00:04:49.400 --> 00:04:52.333
+por lo que este derecho aquí es un cambio en el tiempo
+
+00:04:52.333 --> 00:04:55.867
+y este derecho aquí es un cambio en la velocidad
+
+00:04:55.867 --> 00:05:01.333
+Cuando hemos trazado velocidad (o la magnitud de la velocidad) relativa a tiempo
+
+00:05:01.333 --> 00:05:05.180
+la pendiente de esa línea es la aceleración
+
+00:05:05.180 --> 00:05:08.200
+y ya que estamos suponiendo que la aceleración es constante
+
+00:05:08.200 --> 00:05:09.933
+Tenemos una pendiente constante
+
+00:05:09.933 --> 00:05:12.867
+así tenemos sólo una línea aquí, no tenemos una curva
+
+00:05:12.867 --> 00:05:15.590
+Ahora lo que quiero hacer es pensar en una situación
+
+00:05:15.590 --> 00:05:20.775
+Digamos que aceleramos en 1 m/s^2...and que hacemos para
+
+00:05:20.775 --> 00:05:28.098
+por lo que el cambio en el tiempo va a ser de 5 segundos
+
+00:05:28.098 --> 00:05:31.349
+y mi pregunta es: ¿hasta dónde hemos viajamos?
+
+00:05:31.349 --> 00:05:34.667
+Que es una pregunta un poco más interesante de lo que hemos estado pidiendo hasta ahora
+
+00:05:34.667 --> 00:05:37.600
+Por lo tanto nosotros empezar con una velocidad inicial de 0
+
+00:05:37.600 --> 00:05:42.169
+y luego de 5 segundos, aceleramos a 1 m/s ^ 2
+
+00:05:42.169 --> 00:05:46.733
+por lo tanto 1... 2... 3... 4... 5... así que esto es donde estamos
+
+00:05:46.733 --> 00:05:49.147
+así que después de 5 segundos, sabemos nuestra velocidad
+
+00:05:49.147 --> 00:05:53.071
+nuestra velocidad es ahora 5 m/s
+
+00:05:53.071 --> 00:05:56.400
+Pero ¿hasta dónde hemos viajamos?
+
+00:05:56.400 --> 00:05:59.400
+Por lo que podemos pensar un poco visualmente
+
+00:05:59.400 --> 00:06:02.556
+podríamos decir, mira, que podemos intentar dibujar rectángulos aquí
+
+00:06:02.556 --> 00:06:06.133
+Estuvimos en, tal vez justo aquí tuvimos a una velocidad de 1 m/s
+
+00:06:06.133 --> 00:06:10.941
+por lo que si digo 1 m/s veces un segundo, voy a dar me un poco de distancia...
+
+00:06:10.941 --> 00:06:14.267
+y cada uno tengo un poco más de distancia...
+
+00:06:14.267 --> 00:06:17.139
+calculado de la misma manera. Pude mantener plano estos rectángulos aquí
+
+00:06:17.139 --> 00:06:19.135
+Pero entonces eres como...¡ Espera! Faltan los rectángulos...
+
+00:06:19.135 --> 00:06:23.000
+porque yo no era... para todo el segundo...No voy sólo 1 m/s...
+
+00:06:23.000 --> 00:06:27.843
+Me * mantuvo * acelerar, por lo que en realidad puede debo dividir los rectángulos
+
+00:06:27.843 --> 00:06:30.415
+Podría dividir a los rectángulos aún más
+
+00:06:30.415 --> 00:06:32.165
+Por lo que puede pasar, cada segundo semestre
+
+00:06:32.165 --> 00:06:34.733
+así en esta segunda mitad, iba a esta velocidad
+
+00:06:34.733 --> 00:06:36.733
+y voy a esa velocidad por medio de un segundo
+
+00:06:36.733 --> 00:06:39.400
+velocidad veces el tiempo me dará el desplazamiento
+
+00:06:39.400 --> 00:06:41.467
+y, a continuación, lo hago para la próxima segunda mitad
+
+00:06:41.467 --> 00:06:44.333
+idea exacta mismo aquí, lo voy a dar me el desplazamiento
+
+00:06:44.333 --> 00:06:46.600
+así sucesivamente, etc.
+
+00:06:46.600 --> 00:06:49.133
+Creo que lo que ves es su obtención...
+
+00:06:49.133 --> 00:06:53.467
+es el menor de los rectángulos que intenta hacer aquí
+
+00:06:53.467 --> 00:07:00.662
+cuanto más vas a llegar hasta el área bajo la curva
+
+00:07:00.662 --> 00:07:09.556
+Y al igual que la situación aquí, esta área bajo la curva va a ser la distancia recorrida
+
+00:07:09.556 --> 00:07:13.533
+y suerte para nosotros, esto sólo va a ser un triángulo
+
+00:07:13.533 --> 00:07:16.713
+y sabemos cómo averiguar el área de un triángulo
+
+00:07:16.713 --> 00:07:24.579
+por lo tanto el área de un triángulo = (parte 1 de 2) * base * altura
+
+00:07:24.579 --> 00:07:26.000
+Ojalá que tiene sentido para usted
+
+00:07:26.000 --> 00:07:28.133
+porque si usted simplemente multiplica base * altura
+
+00:07:28.133 --> 00:07:32.000
+obtener el área del rectángulo completo, y el triángulo es exactamente la mitad de esa
+
+00:07:32.000 --> 00:07:35.667
+Por lo tanto la distancia recorrida en esta situación
+
+00:07:35.667 --> 00:07:37.733
+o debería decir el desplazamiento
+
+00:07:37.733 --> 00:07:40.080
+simplemente porque queremos hacer seguro nos centramos en vectores
+
+00:07:40.080 --> 00:07:42.147
+el desplazamiento de aquí va a ser
+
+00:07:42.147 --> 00:07:45.667
+(o debería decir la magnitud del desplazamiento... que es lo mismo que la distancia)
+
+00:07:45.667 --> 00:07:55.293
+va a ser 1/2 veces la base... que es de 5 segundos
+
+00:07:55.293 --> 00:07:59.008
+veces la altura... que es de 5 metros por segundo
+
+00:07:59.008 --> 00:08:07.385
+.. .times 5 m/s (permítanme hacer eso en otro color)
+
+00:08:07.385 --> 00:08:09.361
+los segundos se cancelan con segundos
+
+00:08:09.361 --> 00:08:13.400
+y estamos dejamos con (parte 1 de 2) * 5 * 5 metros
+
+00:08:13.400 --> 00:08:19.200
+por lo que es (parte 1 de 2) * 25, que es igual a 12.5 metros
+
+00:08:19.200 --> 00:08:21.110
+y por lo que hay aquí una cosa interesante
+
+00:08:21.110 --> 00:08:22.908
+hay un par de cosas interesantes
+
+00:08:22.908 --> 00:08:26.733
+Ojalá te das cuenta si está tramando velocidad frente al tiempo
+
+00:08:26.733 --> 00:08:32.267
+1) el área bajo la curva, dada una cierta cantidad de tiempo, te dice cuánto ha viajado
+
+00:08:32.267 --> 00:08:36.621
+2) la otra cosa interesante es que la pendiente de la curva le dice su aceleración
+
+00:08:36.621 --> 00:08:38.362
+¿Cuál es la pendiente aquí (izquierda)?
+
+00:08:38.362 --> 00:08:41.200
+Bueno, es completamente plana, y eso es porque no está cambiando la velocidad
+
+00:08:41.200 --> 00:08:45.579
+así que en esta situación, tenemos una aceleración constante
+
+00:08:45.579 --> 00:08:48.695
+la magnitud de esa aceleración es exactamente cero
+
+00:08:48.695 --> 00:08:50.762
+nuestra velocidad no está cambiando
+
+00:08:50.762 --> 00:08:54.000
+aquí (a la derecha) tenemos una aceleración de 1 m/s ^ 2
+
+00:08:54.000 --> 00:08:57.356
+y por eso la pendiente de esta línea por aquí es 1
+
+00:08:57.356 --> 00:09:00.933
+la otra cosa interesante, es incluso si tiene aceleración constante
+
+00:09:00.933 --> 00:09:05.733
+todavía puede averiguar la distancia sólo tomando el área bajo la curva... como este
+
+00:09:05.733 --> 00:09:09.133
+por lo que hemos podido averiguar... pudimos obtener 12,5 metros
+
+00:09:09.133 --> 00:09:11.862
+Lo último que quiero presentarles a...
+
+00:09:11.862 --> 00:09:13.400
+(en realidad me deja hacerlo en el siguiente vídeo)
+
+00:09:13.400 --> 00:09:15.979
+y presentaré a usted la idea de * promedio velocidad *
+
+00:09:15.979 --> 00:09:18.486
+Ahora que nos sentimos cómodos con la idea de que
+
+00:09:18.486 --> 99:59:59.999
+la distancia recorrida que es el área bajo esta velocidad frente a la curva de tiempo

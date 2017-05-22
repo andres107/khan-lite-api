@@ -1,0 +1,246 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Ahora estamos en la recta final. Sólo tenemos que evaluar
+
+99:59:59.999 --> 99:59:59.999
+la integral de superficie en tercer lugar, que es más en esta parte superior
+
+99:59:59.999 --> 99:59:59.999
+de nuestro pequeño cilindro cortado por aquí. Así que vamos a tratar de pensar
+
+99:59:59.999 --> 99:59:59.999
+de un paramaterization-y me dejó sólo tienes que copiar y pegar todo este
+
+99:59:59.999 --> 99:59:59.999
+dibujo, sólo para que lo puedo usar por debajo de
+
+99:59:59.999 --> 99:59:59.999
+como yo lo parametrizar. Así que permítanme que copiar, copiar ...
+
+99:59:59.999 --> 99:59:59.999
+... y luego todo el camino hasta aquí, y me deja pegar.
+
+99:59:59.999 --> 99:59:59.999
+Bueno, esa es nuestra forma de nuevo, nuestra superficie,
+
+99:59:59.999 --> 99:59:59.999
+y luego nos vamos a la capa que quiero conseguir en
+
+99:59:59.999 --> 99:59:59.999
+y luego déjame empezar. Permítanme comenzar su evaluac.
+
+99:59:59.999 --> 99:59:59.999
+Así que lo que queremos tener en cuenta es la integral sobre la superficie de tres
+
+99:59:59.999 --> 99:59:59.999
+de z, ds.
+
+99:59:59.999 --> 99:59:59.999
+En la superficie de tres aquí, vemos que la x e y valores esencialmente
+
+99:59:59.999 --> 99:59:59.999
+asumir todos los valores x e y en el interior del círculo unidad,
+
+99:59:59.999 --> 99:59:59.999
+incluyendo el límite,
+
+99:59:59.999 --> 99:59:59.999
+y que los valores de z van a ser una función de los valores de x.
+
+99:59:59.999 --> 99:59:59.999
+Sabemos que este avión, que esta superficie superior derecha aquí, s3,
+
+99:59:59.999 --> 99:59:59.999
+es un subconjunto del plano z, z es igual a 1-x.
+
+99:59:59.999 --> 99:59:59.999
+Es un subconjunto que es una especie de sobre el círculo unidad en el plano xy.
+
+99:59:59.999 --> 99:59:59.999
+o en especie del subconjunto que se cruza con nuestro cilindro
+
+99:59:59.999 --> 99:59:59.999
+y el tipo de chuletas de ella.
+
+99:59:59.999 --> 99:59:59.999
+Así que vamos a pensar en x y el primer y.
+
+99:59:59.999 --> 99:59:59.999
+Así que en primer lugar, por lo que x-vamos a pensar en ello en términos de coordenadas polares
+
+99:59:59.999 --> 99:59:59.999
+porque esa es probablemente la forma más fácil de pensar en ello.
+
+99:59:59.999 --> 99:59:59.999
+Voy a volver a dibujar una especie de vista superior,
+
+99:59:59.999 --> 99:59:59.999
+así que me voy a volver a dibujar la vista superior de forma que
+
+99:59:59.999 --> 99:59:59.999
+ese es mi eje y,
+
+99:59:59.999 --> 99:59:59.999
+y este es mi eje x,
+
+99:59:59.999 --> 99:59:59.999
+y el de X e Y puede tomar cualquier valor.
+
+99:59:59.999 --> 99:59:59.999
+En esencia, tiene que completar el círculo unitario.
+
+99:59:59.999 --> 99:59:59.999
+Así que si usted, si usted fuera a tipo de proyecto
+
+99:59:59.999 --> 99:59:59.999
+esta superficie superior hacia abajo sobre el plano xy,
+
+99:59:59.999 --> 99:59:59.999
+que se obtendría de esta superficie Rn, que la superficie inferior,
+
+99:59:59.999 --> 99:59:59.999
+que se parecía a esto.
+
+99:59:59.999 --> 99:59:59.999
+Fue esencialmente el círculo unitario,
+
+99:59:59.999 --> 99:59:59.999
+así como así.
+
+99:59:59.999 --> 99:59:59.999
+Yo voy a dibujar un poco más ordenado que,
+
+99:59:59.999 --> 99:59:59.999
+Que puedo hacer un mejor trabajo, por lo que va a ser ... todos los derechos.
+
+99:59:59.999 --> 99:59:59.999
+Así que permítanme dibujar el círculo unidad tan claramente como puedo,
+
+99:59:59.999 --> 99:59:59.999
+por lo que no es mi círculo unitario.
+
+99:59:59.999 --> 99:59:59.999
+Y para que podamos tener un parámetro
+
+99:59:59.999 --> 99:59:59.999
+que en esencia dice hasta qué punto todo
+
+99:59:59.999 --> 99:59:59.999
+el círculo de unidad que vamos,
+
+99:59:59.999 --> 99:59:59.999
+así que, esencialmente, que sería nuestro punto de vista,
+
+99:59:59.999 --> 99:59:59.999
+y vamos a utilizar theta,
+
+99:59:59.999 --> 99:59:59.999
+porque eso es, lo que, sólo por diversión,
+
+99:59:59.999 --> 99:59:59.999
+porque no han utilizado theta
+
+99:59:59.999 --> 99:59:59.999
+como nuestro parámetro todavía.
+
+99:59:59.999 --> 99:59:59.999
+Eso es teta, pero, si tuviéramos X o Y
+
+99:59:59.999 --> 99:59:59.999
+es sólo una función de la teta y que tenía un radio fijo,
+
+99:59:59.999 --> 99:59:59.999
+que esencialmente sólo nos dan los puntos
+
+99:59:59.999 --> 99:59:59.999
+en el exterior del círculo unitario.
+
+99:59:59.999 --> 99:59:59.999
+Pero tenemos que ser capaces de tener toda la
+
+99:59:59.999 --> 99:59:59.999
+XY que están en el exterior y el interior del círculo unitario.
+
+99:59:59.999 --> 99:59:59.999
+Así que en realidad tiene que tener 2 parámetros.
+
+99:59:59.999 --> 99:59:59.999
+Necesitamos no sólo variar este ángulo,
+
+99:59:59.999 --> 99:59:59.999
+pero también tenemos que variar el radio.
+
+99:59:59.999 --> 99:59:59.999
+Así que nos gustaría trazar el exterior del círculo unidad,
+
+99:59:59.999 --> 99:59:59.999
+y tal vez nos gustaría acortarla a poco,
+
+99:59:59.999 --> 99:59:59.999
+y luego se trazan de nuevo.
+
+99:59:59.999 --> 99:59:59.999
+Y entonces acortar un poco más, y luego se trazan de nuevo.
+
+99:59:59.999 --> 99:59:59.999
+Y por lo que desea realmente tener un radio variable, así,
+
+99:59:59.999 --> 99:59:59.999
+y por lo que podría haber que tan lejos te vas.
+
+99:59:59.999 --> 99:59:59.999
+Usted puede llamar que r.
+
+99:59:59.999 --> 99:59:59.999
+Así, por ejemplo, si R está fijado
+
+99:59:59.999 --> 99:59:59.999
+Y cambiar los rangos de theta
+
+99:59:59.999 --> 99:59:59.999
+entonces, esencialmente, obtendría todos los puntos
+
+99:59:59.999 --> 99:59:59.999
+justo ahí.
+
+99:59:59.999 --> 99:59:59.999
+Usted haría eso por todos los r,
+
+99:59:59.999 --> 99:59:59.999
+y de R a cero, todo el camino a r1,
+
+99:59:59.999 --> 99:59:59.999
+y esencialmente llenar el círculo de toda la unidad.
+
+99:59:59.999 --> 99:59:59.999
+Y así que vamos a hacer eso.
+
+99:59:59.999 --> 99:59:59.999
+Así que r se va a ir entre 0 y 1,...
+
+99:59:59.999 --> 99:59:59.999
+r se va a ir entre 0 y 1,
+
+99:59:59.999 --> 99:59:59.999
+y nuestra teta va a toda la vuelta.
+
+99:59:59.999 --> 99:59:59.999
+Así que nuestra teta se va a ir entre 0 y 2π.
+
+99:59:59.999 --> 99:59:59.999
+Esto es, permítanme escribir esto;
+
+99:59:59.999 --> 99:59:59.999
+Escribí 0 en lugar de teta.
+
+99:59:59.999 --> 99:59:59.999
+Nuestra theta va a ser mayor que o igual a 0,
+
+99:59:59.999 --> 99:59:59.999
+menor o igual a 2π,
+
+99:59:59.999 --> 99:59:59.999
+y ahora estamos listos para parametrizar.

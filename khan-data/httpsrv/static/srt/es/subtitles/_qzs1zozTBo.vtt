@@ -1,0 +1,225 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.630 --> 00:00:08.150
+Redondea 24.259 a las centenas.
+
+00:00:08.150 --> 00:00:09.590
+Vas a ver que hacer estos problemas es
+
+00:00:09.590 --> 00:00:11.910
+bastante fácil, pero lo que quiero hacer es
+
+00:00:11.910 --> 00:00:15.750
+pensar lo que significa redondear a la centena más próxima.
+
+00:00:15.750 --> 00:00:18.140
+Lo que voy a hacer es dibujar una recta numérica.
+
+00:00:18.140 --> 00:00:21.220
+Voy a dibujar una recta numérica aquí, y voy a
+
+00:00:21.220 --> 00:00:23.970
+marcar las centenas en la recta.
+
+00:00:23.970 --> 00:00:37.290
+Tenemos 24.100, y luego 24.200, y después
+
+00:00:37.290 --> 00:00:44.490
+tenemos 24.300, y después, 24.000.
+
+00:00:44.490 --> 00:00:46.000
+Creo que veis lo que quiero decir cuando solo
+
+00:00:46.000 --> 00:00:47.250
+marco las centenas.
+
+00:00:47.250 --> 00:00:50.160
+Voy aumentando de 100 en 100.
+
+00:00:50.160 --> 00:00:56.130
+Ahora, en esta recta numérica, ¿dónde está el 24.259?
+
+00:00:56.130 --> 00:01:00.200
+Si miramos a la recta, es más que 24.200,
+
+00:01:00.200 --> 00:01:02.930
+y es menos que 24.300.
+
+00:01:02.930 --> 00:01:09.220
+Y es 259, así que si esta distancia justo aquí es 100, 59
+
+00:01:09.220 --> 00:01:14.300
+esta justo por ahí, y es ahí donde está nuestro número.
+
+00:01:14.300 --> 00:01:18.570
+Eso es 24.259.
+
+00:01:18.570 --> 00:01:22.110
+Así que, cuando alguien te pida redondear a la centena más cercana,
+
+00:01:22.110 --> 00:01:25.700
+te está diciendo que redondees a uno de estos incrementos de
+
+00:01:25.700 --> 00:01:29.370
+100 o que redondees al incremento de 100 del que esté
+
+00:01:29.370 --> 00:01:30.900
+más cerca.
+
+00:01:30.900 --> 00:01:33.420
+Y si lo miras lo miras así, a ojo,
+
+00:01:33.420 --> 00:01:38.760
+verás que, en realidad, está más cerca de 24.300
+
+00:01:38.760 --> 00:01:41.220
+que de 24.200.
+
+00:01:41.220 --> 00:01:45.160
+Así que, cuando redondeas, redondeas a 24.300.
+
+00:01:45.160 --> 00:01:47.890
+Si redondeas a la centena más próxima, la respuesta
+
+00:01:47.890 --> 00:01:51.180
+es literalmente 24.300.
+
+00:01:51.180 --> 00:01:53.310
+Esto es en cierto sentido la comprensión conceptual de
+
+00:01:53.310 --> 00:01:55.230
+por qué se llama la centena más próxima.
+
+00:01:55.230 --> 00:01:58.200
+La centena más próxima es 24.300.
+
+00:01:58.200 --> 00:01:59.870
+Pero cada vez que haces un problema como este, no
+
+00:01:59.870 --> 00:02:02.460
+hace falta dibujar una recta numérica y pasar por todo este proceso,
+
+00:02:02.460 --> 00:02:04.580
+salvo que quisieras pensar sobre ello.
+
+00:02:04.580 --> 00:02:07.910
+Un proceso más fácil, o tal vez más mecánico, es
+
+00:02:07.910 --> 00:02:14.900
+mirar literalmente al número 24.259.
+
+00:02:14.900 --> 00:02:17.470
+Queremos redondearlo a la centena más próxima, así que miramos
+
+00:02:17.470 --> 00:02:19.080
+al lugar de las centenas.
+
+00:02:19.080 --> 00:02:21.860
+Este es el lugar de las centenas, justo aquí, y cuando redondeamos,
+
+00:02:21.860 --> 00:02:23.130
+significa que no queremos ningún dígito,
+
+00:02:23.130 --> 00:02:25.650
+que solo queremos ceros detrás del lugar de las centenas.
+
+00:02:25.650 --> 00:02:28.490
+Así que lo que hacemos es mirar al lugar anterior al
+
+00:02:28.490 --> 00:02:29.510
+lugar al que estás redondeando.
+
+00:02:29.510 --> 00:02:33.120
+Este es el sitio de las centenas, así que miras al 5, justo aquí,
+
+00:02:33.120 --> 00:02:37.950
+y si este número es 5 o mayor, si es 5, 6, 7, 8,
+
+00:02:37.950 --> 00:02:40.360
+o 9, redondeas hacia arriba.
+
+00:02:40.360 --> 00:02:46.290
+Entonces, 5 o más, redondeas hacia arriba.
+
+00:02:49.910 --> 00:02:52.800
+Redondear hacia arriba en esta situación, es 5,
+
+00:02:52.800 --> 00:02:56.640
+es 5 o mayor, así que redondear hacia arriba significa que vamos
+
+00:02:56.640 --> 00:03:04.270
+al 24 mil, y puesto que estamos redondeando hacia arriba,
+
+00:03:04.270 --> 00:03:05.820
+convertimos el 2 en un 3.
+
+00:03:05.820 --> 00:03:13.540
+Incrementamos en uno, redondeando hacia arriba, así que 24.300.
+
+00:03:13.540 --> 00:03:15.570
+Esto es lo que queremos decir con "redondear hacia arriba".
+
+00:03:15.570 --> 00:03:18.180
+Y como contraejemplo, si tuviera
+
+00:03:18.180 --> 00:03:28.610
+24.249 y quisiera redondear a la centena más próxima,
+
+00:03:28.610 --> 00:03:30.580
+diría, vale, quiero redondear a la centena más próxima.
+
+00:03:30.580 --> 00:03:33.430
+Voy a mirar al lugar de las decenas, este sitio un puesto
+
+00:03:33.430 --> 00:03:35.150
+más a la derecha.
+
+00:03:35.150 --> 00:03:38.745
+No es 5 o mayor que 5, así que lo redondearé hacia abajo.
+
+00:03:43.010 --> 00:03:44.640
+Y cuando redondees hacia abajo, ten cuidado,
+
+00:03:44.640 --> 00:03:46.120
+no significa que disminuyas este 2.
+
+00:03:46.120 --> 00:03:48.700
+Literalmente, significa que tienes solo un 2.
+
+00:03:48.700 --> 00:03:50.410
+Te deshaces de todo lo que está detrás de él.
+
+00:03:50.410 --> 00:03:53.820
+Así que se convierte en 24.200.
+
+00:03:53.820 --> 00:03:55.580
+Ese es el proceso por el que redondeas hacia abajo.
+
+00:03:55.580 --> 00:03:58.300
+Si redondeas hacia arriba, se convierte en 24.300.
+
+00:03:58.300 --> 00:03:59.180
+Y tiene sentido.
+
+00:03:59.180 --> 00:04:05.410
+24.249 estará justo en algún lugar por aquí, y
+
+00:04:05.410 --> 00:04:08.730
+estará más cerca de 24.200.
+
+00:04:08.730 --> 00:04:12.310
+24.200 sería la centena más próxima cuando redondeamos
+
+00:04:12.310 --> 00:04:13.470
+hacia abajo en este caso.
+
+00:04:13.470 --> 00:04:17.390
+Para el caso del problema, 24.259, la c
+
+00:04:17.390 --> 00:04:20.140
+centena más próxima es 24.300.
+
+00:04:20.140 --> 00:04:21.970
+Redondeamos hacia arriba.

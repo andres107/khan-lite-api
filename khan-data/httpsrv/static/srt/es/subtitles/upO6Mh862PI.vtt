@@ -1,0 +1,435 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.030 --> 00:00:05.980
+Yo recibí una sugerencia de que hago viejos problemas del exámen AP,
+
+00:00:05.980 --> 00:00:08.550
+y busqué en el Internet y he aquí, en el
+
+00:00:08.550 --> 00:00:11.640
+sitio de la comisión de colegios, si van a collegeboard.com, ustedes pueden
+
+00:00:11.640 --> 00:00:14.380
+tener-- yo no pude encontrar las preguntas de opción múltiple,
+
+00:00:14.380 --> 00:00:16.760
+pero ustedes pueden encontrar las preguntas de respuesta libre, y pues
+
+00:00:16.760 --> 00:00:19.790
+esta pregunta es, de hecho, la primera pregunta de respuesta libre
+
+00:00:19.790 --> 00:00:23.060
+que ellos tienen en el exámen de cálculo BC que fue administrado
+
+00:00:23.060 --> 00:00:24.620
+recientemente en el 2008.
+
+00:00:24.620 --> 00:00:25.990
+Así que hagamos este problema.
+
+00:00:25.990 --> 00:00:28.140
+Francamente, si ustedes entienden cómo hacer todas las
+
+00:00:28.140 --> 00:00:32.200
+preguntas de respuesta libre, probablemente les irá bien en
+
+00:00:32.200 --> 00:00:34.840
+el exámen de opción múltiple, porque el de respuesta libre tiende a ser
+
+00:00:34.840 --> 00:00:36.980
+un poco más difícil, especialmente las últimas partes
+
+00:00:36.980 --> 00:00:38.260
+de ese exámen.
+
+00:00:38.260 --> 00:00:40.110
+Como sea, hagamos este problema.
+
+00:00:40.110 --> 00:00:42.205
+Solamente lo leeré, ya que no quiero escribirlo
+
+00:00:42.205 --> 00:00:44.300
+todo aquí, pero este es el diagrama.
+
+00:00:44.300 --> 00:00:48.250
+De hecho, yo copié y pegué esto del PDF que ellos
+
+00:00:48.250 --> 00:00:50.360
+tienen en collegeboard.com
+
+00:00:50.360 --> 00:00:54.630
+Dice, sea R --esta es R-- la región encerrada por las
+
+00:00:54.630 --> 00:00:57.390
+gráfica de y=sen(pi*x).
+
+00:00:57.390 --> 00:00:58.850
+Déjenme escribirlo.
+
+00:00:58.850 --> 00:01:09.116
+Esta gráfica de arriba es y=sen(pi*x).
+
+00:01:22.860 --> 00:01:28.060
+Y la gráfica de abajo es y=x al cubo - 4x.
+
+00:01:37.410 --> 00:01:39.320
+Y, cómo supe que esta era la de abajo?
+
+00:01:39.320 --> 00:01:41.780
+Bueno, yo
+
+00:01:41.780 --> 00:01:42.840
+Porque este aspecto sinusoidal.
+
+00:01:42.840 --> 00:01:44.910
+¿No se ve así, derecho?
+
+00:01:44.910 --> 00:01:48.280
+Cuando vayas seno de pi es 0, el seno de 0 es
+
+00:01:48.280 --> 00:01:50.380
+0, seno de 2pi es 0.
+
+00:01:50.380 --> 00:01:51.760
+Así que hacemos esto como seno de pi x.
+
+00:01:51.760 --> 00:01:55.600
+Bien de todas formas, ellos quieren--así que esto es la región entre
+
+00:01:55.600 --> 00:01:59.110
+Estas dos funciones y la parte a del este--y esto es una especie de
+
+00:01:59.110 --> 00:02:01.890
+la cuestión de Softbol, sólo para asegurarse de que usted sepa cómo
+
+00:02:01.890 --> 00:02:07.040
+no integrales definidas--y dice, hallar el área de r.
+
+00:02:07.040 --> 00:02:08.890
+Entonces, ¿cómo lo hacemos?
+
+00:02:08.890 --> 00:02:11.800
+Creo que ustedes saben que vamos a hacer un poco definida
+
+00:02:11.800 --> 00:02:13.290
+integración, así que vamos a hacer eso.
+
+00:02:13.290 --> 00:02:15.780
+Entonces vamos a tomar la integral definida, así que vamos a
+
+00:02:15.780 --> 00:02:23.280
+sólo el área es igual a--no sé si eso tiene--espero
+
+00:02:23.280 --> 00:02:26.140
+Estoy escribiendo lo suficientemente grande como para usted--la zona va a ser
+
+00:02:26.140 --> 00:02:28.960
+igual a la integral definida de.
+
+00:02:28.960 --> 00:02:30.150
+¿Cuáles son los valores de x?
+
+00:02:30.150 --> 00:02:32.266
+Vamos a estar yendo de x es igual a 0
+
+00:02:32.266 --> 00:02:34.540
+a x es igual a 2.
+
+00:02:38.890 --> 00:02:40.330
+Y ¿qué es esto?
+
+00:02:40.330 --> 00:02:44.510
+En un dado valor de punto de x, tipo de lo que va a ser el
+
+00:02:44.510 --> 00:02:46.990
+alta--cuando estamos tomando el área, estamos tomando un montón de
+
+00:02:46.990 --> 00:02:50.850
+¿rectángulos de anchura dx, correcto?
+
+00:02:50.850 --> 00:02:52.900
+Así que eso de que no es lo suficientemente oscuro, no creo que
+
+00:02:52.900 --> 00:02:55.750
+se puede ver que--por lo es uno de mis rectángulos.
+
+00:02:55.750 --> 00:02:56.890
+Hurras.
+
+00:02:56.890 --> 00:03:00.730
+Vamos a decir que es uno de mis rectángulos justo aquí
+
+00:03:00.730 --> 00:03:02.070
+Voy a estar resumiendo.
+
+00:03:02.070 --> 00:03:04.110
+Su anchura es dx.
+
+00:03:04.110 --> 00:03:06.220
+¿Cuál es su altura?
+
+00:03:06.220 --> 00:03:09.440
+Su altura va a ser esta función superior menos
+
+00:03:09.440 --> 00:03:12.340
+Esta función de la parte inferior.
+
+00:03:12.340 --> 00:03:15.240
+Así que, básicamente, vamos a tomar la suma de todos estos
+
+00:03:15.240 --> 00:03:18.710
+rectángulos, por lo que su altura va a ser--permiten cambiar
+
+00:03:18.710 --> 00:03:22.670
+colores arbitrariamente--la altura va a ser la función superior
+
+00:03:22.670 --> 00:03:24.500
+menos la función de la parte inferior.
+
+00:03:24.500 --> 00:03:35.060
+Así seno de pi x--paréntesis aquí--menos el
+
+00:03:35.060 --> 00:03:35.720
+función de la parte inferior.
+
+00:03:35.720 --> 00:03:40.250
+Por lo tanto menos x cubed plus x 4.
+
+00:03:42.810 --> 00:03:47.270
+Ya estoy restando, cambié dos de estos signos.
+
+00:03:47.270 --> 00:03:51.010
+Y todo eso veces el ancho de cada uno de estos poco
+
+00:03:51.010 --> 00:03:54.670
+rectángulos--que es infinitamente pequeño--dx.
+
+00:03:54.670 --> 00:03:56.810
+Y estamos yendo a la suma de todo hasta de x es igual
+
+00:03:56.810 --> 00:03:59.510
+0 x es igual a 2.
+
+00:03:59.510 --> 00:04:01.610
+Esto debe ser bastante sencillo para usted.
+
+00:04:01.610 --> 00:04:02.850
+Entonces, ¿cómo evaluamos esto?
+
+00:04:02.850 --> 00:04:06.080
+Bien, esencialmente tomamos la primitiva de esto y
+
+00:04:06.080 --> 00:04:08.870
+luego evalúan en 2 y luego evaluar en 0.
+
+00:04:08.870 --> 00:04:12.590
+¿Qué es la primitiva de seno de pi x?
+
+00:04:12.590 --> 00:04:17.900
+Bien, lo que derivado de las funciones es seno de x.
+
+00:04:17.900 --> 00:04:19.100
+Coseno de x--vamos a ver.
+
+00:04:19.100 --> 00:04:21.420
+Si tuviera que tomar la derivada del coseno--vamos a
+
+00:04:21.420 --> 00:04:24.960
+decir que llevó a la derivada de pi de coseno x.
+
+00:04:24.960 --> 00:04:27.090
+Esto debería ser razonablemente familiar para usted.
+
+00:04:27.090 --> 00:04:30.590
+Coseno de pi x, si tuviera que tomar la derivada
+
+00:04:30.590 --> 00:04:34.200
+de la misma, ¿qué puedo obtener?
+
+00:04:34.200 --> 00:04:36.320
+Es igual a pi.
+
+00:04:36.320 --> 00:04:37.980
+¿Tomar la derivada de la interior, derecha?
+
+00:04:37.980 --> 00:04:39.120
+Por la regla de la cadena.
+
+00:04:39.120 --> 00:04:43.130
+Así es pi veces la derivada de la cosa entera.
+
+00:04:43.130 --> 00:04:46.230
+La derivada del coseno de x es menos seno de x, por lo que
+
+00:04:46.230 --> 00:04:54.440
+derivado a esto va a ser a veces menos seno de pi x, o
+
+00:04:54.440 --> 00:05:02.080
+se podría decir que es igual a menos seno de pi pi x.
+
+00:05:02.080 --> 00:05:06.810
+Así que la derivada del coseno de pi x es casi, ello sólo
+
+00:05:06.810 --> 00:05:09.270
+¿tiene menos pi, derecho?
+
+00:05:09.270 --> 00:05:12.150
+Así que vamos a ver si nos podemos reescribir por lo que se ve como el
+
+00:05:12.150 --> 00:05:16.440
+derivados de pi de coseno x.
+
+00:05:16.440 --> 00:05:17.690
+Y te cambio a magenta.
+
+00:05:20.730 --> 00:05:22.400
+Quiero para asegurarse de que tengo suficiente espacio para hacer
+
+00:05:22.400 --> 00:05:23.225
+todo este problema.
+
+00:05:27.180 --> 00:05:36.880
+Así que vamos a escribir un 1 menos veces pi pi negativo.
+
+00:05:36.880 --> 00:05:40.020
+Todo que lo hice, al evaluar esta, esta es igual a 1, por lo que pueda
+
+00:05:40.020 --> 00:05:48.100
+ello veces sine pi x, y, a continuación, que es menos x a la
+
+00:05:48.100 --> 00:05:54.370
+terceros plus x 4 y luego todos de ese momento el dx de ancho.
+
+00:05:54.370 --> 00:05:55.200
+Bien ahora lo tenemos.
+
+00:05:55.200 --> 00:05:59.810
+¿Sabemos que la primitiva esto es coseno pi x, a la derecha?
+
+00:05:59.810 --> 00:06:00.910
+Y esto es sólo un término constante.
+
+00:06:00.910 --> 00:06:03.370
+¿Qué es la primitiva de todo esto?
+
+00:06:03.370 --> 00:06:05.780
+Y arbitrariamente a cambiar colores nuevamente.
+
+00:06:05.780 --> 00:06:10.070
+La primitiva es coseno pi x.
+
+00:06:10.070 --> 00:06:18.620
+Así que tenemos menos 1 sobre pi pi coseno x--Recuerde, he podido
+
+00:06:18.620 --> 00:06:21.320
+simplemente llevarlo encima, esto es sólo una constante término--
+
+00:06:21.320 --> 00:06:25.590
+antiderivative es este derecho aquí.
+
+00:06:25.590 --> 00:06:28.330
+Y, a continuación, estos son un poco más sencillos.
+
+00:06:28.330 --> 00:06:31.770
+Por lo tanto menos la primitiva de x a la tercera es x a la
+
+00:06:31.770 --> 00:06:41.300
+en cuarto lugar sobre 4 plus la primitiva de esta es 4 x
+
+00:06:41.300 --> 00:06:47.250
+cuadrado más de 2 años, o simplemente podría ver como 2 x al cuadrado,
+
+00:06:47.250 --> 00:06:52.620
+y, a continuación, vamos a evaluar en 2 y en
+
+00:06:52.620 --> 00:06:55.260
+0 y vamos a hacerlo.
+
+00:06:55.260 --> 00:07:03.510
+Esto es igual al coseno de 2pi, y tendremos un signo menos
+
+00:07:03.510 --> 00:07:09.930
+firmar aquí, así que menos coseno de 2pi sobre pi, menos lo que de
+
+00:07:09.930 --> 00:07:11.680
+¿2 a la cuarta potencia?
+
+00:07:11.680 --> 00:07:11.960
+Vamos a ver.
+
+00:07:11.960 --> 00:07:18.170
+2 para el tercero es de 8, 2 el cuarto es de 16, 16 sobre 4 es 4,
+
+00:07:18.170 --> 00:07:26.750
+por eso es menos de 4, 2 al cuadrado es 4 veces 2 es 8, por lo tanto más 8, tan
+
+00:07:26.750 --> 00:07:31.020
+que es la primitiva evaluada en 2 y ahora vamos a
+
+00:07:31.020 --> 00:07:35.460
+Réstelo evaluado en 0.
+
+00:07:35.460 --> 00:07:46.470
+Para que esto sea menos el coseno de 0 sobre pi--todos los derechos, que
+
+00:07:46.470 --> 00:07:50.630
+que evalúan en 0--menos 0, más 0.
+
+00:07:50.630 --> 00:07:52.540
+Por lo que estos términos no aportan nada al
+
+00:07:52.540 --> 00:07:54.880
+para evaluarlos en 0.
+
+00:07:54.880 --> 00:07:56.250
+Y entonces ¿qué hacemos?
+
+00:07:56.250 --> 00:07:58.620
+¿Qué es el coseno de 2pi?
+
+00:07:58.620 --> 00:08:01.110
+Coseno de 2pi es lo mismo que el coseno
+
+00:08:01.110 --> 00:08:03.090
+de 0, y es igual a 1.
+
+00:08:03.090 --> 00:08:06.490
+¿Cuál es el valor de x del círculo unidad en 2pi o a 0?
+
+00:08:06.490 --> 00:08:07.070
+Es igual a 1.
+
+00:08:07.070 --> 00:08:15.670
+Así que esto equivale a menos 1 sobre pi menos 4 plus 8 y por eso, este
+
+00:08:15.670 --> 00:08:19.900
+menos menos, los dos se convierten en ventajas, coseno de 0 es 1,
+
+00:08:19.900 --> 00:08:25.840
+así plus 1 sobre pi y por lo tanto esto menos 1 sobre pi y esto más 1
+
+00:08:25.840 --> 00:08:30.570
+sobre pi se cancelan, y todos estamos salimos con es menos 4
+
+00:08:30.570 --> 00:08:34.210
+Plus 8 y es igual a 4.
+
+00:08:34.210 --> 00:08:42.830
+Eso es parte uno, parte a del número uno, en el DC 2008
+
+00:08:42.830 --> 00:08:43.920
+preguntas de respuesta libre.
+
+00:08:43.920 --> 00:08:46.090
+Realmente me tomó un video completo para hacer esa parte.
+
+00:08:46.090 --> 00:08:48.550
+En el siguiente vídeo, lo haré, parte B, y sólo te mantenga haciendo
+
+00:08:48.550 --> 00:08:51.115
+Esto y yo voy a intentar hacer un par de ellas cada día.
+
+00:08:51.115 --> 00:08:52.690
+Nos vemos luego.

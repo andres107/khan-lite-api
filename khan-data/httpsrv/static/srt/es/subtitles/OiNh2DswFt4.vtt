@@ -1,0 +1,462 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.960 --> 00:00:02.980
+Ahora te presentaré al concepto
+
+00:00:02.980 --> 00:00:05.460
+de la transformada de Laplace.
+
+00:00:05.460 --> 00:00:09.930
+Y esto es verdaderamente uno de los conceptos más útiles que
+
+00:00:09.930 --> 00:00:13.840
+aprenderás, no sólo en las ecuaciones diferenciales, pero
+
+00:00:13.840 --> 00:00:15.100
+realmente en matemáticas.
+
+00:00:15.100 --> 00:00:18.050
+Y sobre todo si vas a entrar en ingeniería, te vas
+
+00:00:18.050 --> 00:00:20.610
+encontrar la transformación de Laplace, además de ayudarle a
+
+00:00:20.610 --> 00:00:25.480
+resolver ecuaciones diferenciales, también ayuda a que transformar
+
+00:00:25.480 --> 00:00:30.210
+funciones o formas de onda desde el dominio del tiempo a la
+
+00:00:30.210 --> 00:00:33.170
+dominio de la frecuencia y estudiar y comprender un
+
+00:00:33.170 --> 00:00:34.740
+conjunto de fenómenos.
+
+00:00:34.740 --> 00:00:36.480
+Pero no llego a todos los todavía.
+
+00:00:36.480 --> 00:00:38.920
+Ahora sólo impartiré usted lo que es.
+
+00:00:38.920 --> 00:00:40.170
+Transformada de Laplace.
+
+00:00:42.960 --> 00:00:45.100
+A enseñarle lo que es, te hacen cómodo con la
+
+00:00:45.100 --> 00:00:48.330
+matemáticas y luego en un par de vídeos a partir de ahora,
+
+00:00:48.330 --> 00:00:52.220
+Realmente te mostraré cómo es útil resolver
+
+00:00:52.220 --> 00:00:53.180
+ecuaciones diferenciales.
+
+00:00:53.180 --> 00:00:55.200
+Realmente te resolvemos algunas de las ecuaciones diferenciales
+
+00:00:55.200 --> 00:00:56.800
+lo hizo antes, utilizando los métodos anteriores.
+
+00:00:56.800 --> 00:00:59.470
+Pero nos lo seguir haciendo, y lo resolvemos más
+
+00:00:59.470 --> 00:01:01.000
+problemas difíciles.
+
+00:01:01.000 --> 00:01:02.890
+¿Cuál es la transformada de Laplace?
+
+00:01:02.890 --> 00:01:08.575
+Bueno, la de Laplace, la notación es la l como
+
+00:01:08.575 --> 00:01:12.056
+Laverne de Laverne &amp;amp; Shirley.
+
+00:01:12.056 --> 00:01:15.040
+Que podría ser antes, muchos de sus tiempos, pero
+
+00:01:15.040 --> 00:01:16.860
+Crecí en eso.
+
+00:01:16.860 --> 00:01:20.690
+En realidad, creo que era repeticiones incluso cuando era un crío.
+
+00:01:20.690 --> 00:01:22.770
+Así Laplace de algunas funciones.
+
+00:01:22.770 --> 00:01:25.170
+Y aquí, la Convención, en lugar de decir f de x,
+
+00:01:25.170 --> 00:01:26.590
+la gente dice f de t.
+
+00:01:26.590 --> 00:01:30.120
+Y la razón es que en mucho de la diferencial
+
+00:01:30.120 --> 00:01:32.190
+ecuaciones o un lote de ingeniería realmente estás
+
+00:01:32.190 --> 00:01:34.360
+conversión de una función de tiempo
+
+00:01:34.360 --> 00:01:35.630
+función de la frecuencia.
+
+00:01:35.630 --> 00:01:37.300
+Y no te preocupes ahora mismo.
+
+00:01:37.300 --> 00:01:40.180
+Si te confunde.
+
+00:01:40.180 --> 00:01:43.020
+Pero la transformada de Laplace de una función de t.
+
+00:01:43.020 --> 00:01:47.820
+Transforma esa función en alguna otra función de s.
+
+00:01:47.820 --> 00:01:49.410
+¿y y hacer eso?
+
+00:01:49.410 --> 00:01:53.150
+Bien hecho, permítanme hacer algunas notación matemática
+
+00:01:53.150 --> 00:01:56.460
+probablemente no significan mucho para usted.
+
+00:01:56.460 --> 00:01:57.800
+¿Así qué transforman?
+
+00:01:57.800 --> 00:01:59.630
+Bien, creo que de la misma forma es tipo de
+
+00:01:59.630 --> 00:02:00.870
+función de funciones.
+
+00:02:00.870 --> 00:02:05.220
+Una función le llevará desde un conjunto de--bien, en lo que
+
+00:02:05.220 --> 00:02:08.009
+nosotros hemos trabajado con--un conjunto de números a otro conjunto
+
+00:02:08.009 --> 00:02:09.060
+de los números.
+
+00:02:09.060 --> 00:02:11.990
+Una transformación que le llevará desde un conjunto de funciones a
+
+00:02:11.990 --> 00:02:13.100
+otro conjunto de funciones.
+
+00:02:13.100 --> 00:02:14.140
+Así que permítanme simplemente definir esto.
+
+00:02:14.140 --> 00:02:23.310
+La transformada de Laplace para nuestros propósitos se define como la
+
+00:02:23.310 --> 00:02:24.510
+integral impropia.
+
+00:02:24.510 --> 00:02:27.790
+Sé que realmente no he hecho todavía inadecuadas integrales
+
+00:02:27.790 --> 00:02:29.890
+pero explicaré en pocos segundos.
+
+00:02:29.890 --> 00:02:36.430
+La integral impropia de 0 a infinito e negativo
+
+00:02:36.430 --> 00:02:43.605
+St veces f de t--así sea entre el Laplace
+
+00:02:43.605 --> 00:02:49.170
+Transformar los soportes--dt.
+
+00:02:49.170 --> 00:02:51.190
+Ahora puede parecer muy difícil y muy
+
+00:02:51.190 --> 00:02:54.120
+confuso, pero ahora haré un par de ejemplos.
+
+00:02:54.120 --> 00:02:55.660
+¿Cuál es la transformada de Laplace?
+
+00:02:55.660 --> 00:02:57.950
+Bien vamos a decir que f de t es igual a 1.
+
+00:02:57.950 --> 00:03:00.300
+¿Cuál es la transformada de Laplace de 1?
+
+00:03:04.180 --> 00:03:07.660
+Así que si f de t es igual a 1--es simplemente una función constante
+
+00:03:07.660 --> 00:03:14.280
+de tiempo--bien realmente, permítanme simplemente sustituir exactamente la
+
+00:03:14.280 --> 00:03:15.130
+manera que lo escribí aquí.
+
+00:03:15.130 --> 00:03:18.910
+Eso es la integral impropia desde 0 hasta el infinito de
+
+00:03:18.910 --> 00:03:24.640
+e para el st menos veces 1 aquí.
+
+00:03:24.640 --> 00:03:29.000
+No tengo que escribirlo aquí, pero hay un momento 1dt.
+
+00:03:29.000 --> 00:03:32.270
+Y sé que infinito probablemente es escuchas le derecha
+
+00:03:32.270 --> 00:03:34.480
+Ahora, pero vamos a tratar con poco.
+
+00:03:34.480 --> 00:03:35.620
+En realidad, vamos a tratar ahora.
+
+00:03:35.620 --> 00:03:40.660
+Esto es lo mismo que el límite.
+
+00:03:40.660 --> 00:03:48.870
+Y digamos como una infinidad de enfoques de la integral de
+
+00:03:48.870 --> 00:03:57.400
+0 a Ae negativo St. dt.
+
+00:03:57.400 --> 00:03:59.410
+Solo para que se sienta un poco más cómodo con ella, usted
+
+00:03:59.410 --> 00:04:01.640
+podría haber adivinado que esto es lo mismo.
+
+00:04:01.640 --> 00:04:04.560
+Porque obviamente no se puede evaluar infinito, pero usted
+
+00:04:04.560 --> 00:04:07.410
+podría tomar el límite como algo acerca a infinito.
+
+00:04:07.410 --> 00:04:09.880
+Así que de todos modos, vamos a tomar la primitiva y evaluar
+
+00:04:09.880 --> 00:04:12.730
+Esta integral definida inadecuada, o
+
+00:04:12.730 --> 00:04:13.810
+Esta integral impropia.
+
+00:04:13.810 --> 00:04:17.300
+¿Qué es anti-derivative de e a la menos st
+
+00:04:17.300 --> 00:04:19.339
+¿con respecto al dt?
+
+00:04:19.339 --> 00:04:28.625
+¿Bien es igual a menos 1/s e a la menos st, derecha?
+
+00:04:28.625 --> 00:04:30.640
+Si no me creéis, tomar la derivada de esto.
+
+00:04:30.640 --> 00:04:32.070
+Usted tomaría menos s veces.
+
+00:04:32.070 --> 00:04:34.500
+Que todo sería cancelar, y sólo quedaría con e
+
+00:04:34.500 --> 00:04:36.455
+el signo menos San justo lo suficiente.
+
+00:04:39.720 --> 00:04:42.410
+Quiero eliminar esta aquí, este signo igual.
+
+00:04:42.410 --> 00:04:45.890
+Porque realmente pude utilizar algunos inmobiliaria.
+
+00:04:45.890 --> 00:04:51.430
+Vamos a tomar el límite como una infinidad de enfoques.
+
+00:04:51.430 --> 00:04:53.330
+No siempre tienes que hacer esto, pero esta es la primera
+
+00:04:53.330 --> 00:04:54.650
+tiempo que estamos tratando con intergrals incorrecta.
+
+00:04:54.650 --> 00:04:57.270
+Así que pensé que así podría recordarles que
+
+00:04:57.270 --> 00:04:59.340
+Estamos tomando un límite.
+
+00:04:59.340 --> 00:05:01.030
+Ahora tomamos la primitiva.
+
+00:05:01.030 --> 00:05:04.960
+Ahora tenemos que evaluarlo en el a menos la primitiva
+
+00:05:04.960 --> 00:05:06.050
+evaluarla en 0,
+
+00:05:06.050 --> 00:05:08.740
+y luego tomar el límite de lo que sea que termina siendo como
+
+00:05:08.740 --> 00:05:09.710
+Una infinidad de enfoques.
+
+00:05:09.710 --> 00:05:17.490
+Esto es igual al límite como una infinidad de enfoques.
+
+00:05:17.490 --> 00:05:17.750
+Vale.
+
+00:05:17.750 --> 00:05:24.550
+Si sustituimos a en aquí primero, obtenemos menos 1/s.
+
+00:05:24.550 --> 00:05:26.960
+Recuerde que estamos tratando con t.
+
+00:05:26.960 --> 00:05:30.220
+Tomamos la integral con respecto a t.
+
+00:05:30.220 --> 00:05:36.630
+¿e negativo sA, derecho?
+
+00:05:36.630 --> 00:05:38.650
+Eso es lo que pasa cuando pongo a aquí.
+
+00:05:38.650 --> 00:05:41.350
+Menos-
+
+00:05:41.350 --> 00:05:44.970
+¿Ahora lo que pasa cuando pongo t es igual a 0 aquí?
+
+00:05:44.970 --> 00:05:47.830
+Así que cuando t es igual a 0, se convierte en e al menos s veces 0.
+
+00:05:47.830 --> 00:05:49.320
+Todo esto se convierte en 1.
+
+00:05:49.320 --> 00:05:51.190
+Y me quedo sólo con menos 1/s.
+
+00:05:57.800 --> 00:05:58.450
+Bastante justo.
+
+00:05:58.450 --> 00:06:01.000
+Y luego me baje un poco.
+
+00:06:01.000 --> 00:06:02.490
+Escribí un poco más grande que he querido
+
+00:06:02.490 --> 00:06:03.770
+pero eso está bien.
+
+00:06:03.770 --> 00:06:10.160
+Así que esto va a ser el límite como una infinidad de enfoques
+
+00:06:10.160 --> 00:06:20.640
+de menos de 1/s e negativo sA menos menos 1/s.
+
+00:06:20.640 --> 00:06:24.780
+Así plus 1/s.
+
+00:06:24.780 --> 00:06:26.170
+¿Cuál es el límite como una infinidad de enfoques?
+
+00:06:26.170 --> 00:06:28.150
+¿Bien lo que es este término va a hacer?
+
+00:06:28.150 --> 00:06:34.350
+Como una infinidad de enfoques, si suponemos que s es mayores
+
+00:06:34.350 --> 00:06:37.810
+que 0--y haremos ese supuesto por ahora.
+
+00:06:37.810 --> 00:06:39.000
+En realidad, permítanme Anote explícitamente.
+
+00:06:39.000 --> 00:06:41.950
+Supongamos que s es mayor que 0.
+
+00:06:41.950 --> 00:06:45.320
+Lo que si suponemos que s es mayores que 0, entonces como a
+
+00:06:45.320 --> 00:06:47.870
+enfoques infinito, ¿qué va a pasar?
+
+00:06:47.870 --> 00:06:53.210
+¿Bien este término va a ir a 0, correcto? e negativo--
+
+00:06:53.210 --> 00:06:55.640
+un googol es un número muy, muy pequeño.
+
+00:06:55.640 --> 00:07:00.520
+Y una e a la menos googolplex es un número aún menor.
+
+00:07:00.520 --> 00:07:04.530
+Así entonces este e el infinito negativo acerca a 0, por lo que este
+
+00:07:04.530 --> 00:07:05.920
+enfoques del término 0.
+
+00:07:05.920 --> 00:07:08.850
+Este término no es afectado porque tiene no en ella, tan
+
+00:07:08.850 --> 00:07:12.420
+estamos simplemente salimos con 1/s.
+
+00:07:12.420 --> 00:07:13.400
+Así que ahí va.
+
+00:07:13.400 --> 00:07:16.120
+Este es un momento importante en su vida.
+
+00:07:16.120 --> 00:07:21.190
+Sólo que ha estado expuesto a su primer de Laplace.
+
+00:07:21.190 --> 00:07:23.350
+Mostraré en unos videos, hay tablas enteras de
+
+00:07:23.350 --> 00:07:25.300
+De Laplace, y finalmente veremos
+
+00:07:25.300 --> 00:07:27.570
+demostrar a todos ellos.
+
+00:07:27.570 --> 00:07:29.440
+Pero por ahora, sólo trabajaremos a través de
+
+00:07:29.440 --> 00:07:30.230
+los más básicos.
+
+00:07:30.230 --> 00:07:32.180
+Pero esto puede ser nuestra primera entrada en nuestro
+
+00:07:32.180 --> 00:07:34.680
+Tabla transformada de Laplace.
+
+00:07:34.680 --> 00:07:39.870
+La transformada de Laplace de f de t es igual a
+
+00:07:39.870 --> 00:07:44.030
+1 es igual a 1/s.
+
+00:07:44.030 --> 00:07:46.430
+Aviso, pasamos de una función de t--aunque obviamente esto
+
+00:07:46.430 --> 00:07:50.460
+uno no era realmente dependiente de t--a una función de s.
+
+00:07:50.460 --> 00:07:53.520
+Me quedan unos 3 minutos, pero no creo que esa es la
+
+00:07:53.520 --> 00:07:56.010
+suficiente tiempo para hacer otra transformada de Laplace.
+
+00:07:56.010 --> 00:07:59.040
+Así guardo para el siguiente vídeo.
+
+00:07:59.040 --> 00:08:00.660
+Nos vemos luego.

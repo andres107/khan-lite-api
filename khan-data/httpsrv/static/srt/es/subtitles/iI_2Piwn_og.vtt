@@ -1,0 +1,711 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.450 --> 00:00:03.730
+Ahora quiero resolver algunas desigualdades que también han
+
+00:00:03.730 --> 00:00:05.550
+valores absolutos en ellos.
+
+00:00:05.550 --> 00:00:08.900
+Y si hay cualquier tema en álgebra que probablemente se confunde
+
+00:00:08.900 --> 00:00:10.260
+la mayoría de la gente, es esto.
+
+00:00:10.260 --> 00:00:12.890
+Pero si el tipo de mantenemos nuestra cabeza recto acerca de lo que
+
+00:00:12.890 --> 00:00:15.620
+realmente significa valor absoluto, creo que usted encontrará que tiene
+
+00:00:15.620 --> 00:00:16.650
+no es tan malo.
+
+00:00:16.650 --> 00:00:20.810
+Así que empecemos con un problema de calentamiento agradable, bastante simple.
+
+00:00:20.810 --> 00:00:27.370
+Vamos a iniciar con el valor absoluto de x es inferior a 12.
+
+00:00:27.370 --> 00:00:28.740
+Así que recuerde lo que le dije acerca de la
+
+00:00:28.740 --> 00:00:30.420
+significado de valor absoluto.
+
+00:00:30.420 --> 00:00:33.890
+Significa cuán lejos estás de 0.
+
+00:00:33.890 --> 00:00:37.390
+Por lo tanto una forma de decir esto es, ¿cuáles son todas las x que
+
+00:00:37.390 --> 00:00:41.120
+¿son menos de 12 lejos de 0?
+
+00:00:41.120 --> 00:00:42.370
+Vamos a dibujar una recta numérica.
+
+00:00:45.490 --> 00:00:49.120
+Así que si tenemos 0 aquí y queremos todos los números que son
+
+00:00:49.120 --> 00:00:52.100
+menos de 12 lejos de 0, bueno, usted podría ir todo el camino
+
+00:00:52.100 --> 00:00:56.570
+12 a positivo y usted podría ir todo el camino a 12 negativos.
+
+00:00:56.570 --> 00:01:02.820
+Cualquier cosa que esté entre estos dos números va a
+
+00:01:02.820 --> 00:01:06.360
+tienen un valor absoluto de menos de 12.
+
+00:01:06.360 --> 00:01:10.550
+Va a ser inferior a 12 lejos de 0.
+
+00:01:10.550 --> 00:01:15.020
+Por eso, este, se podría decir, esto podría ser todos los números
+
+00:01:15.020 --> 00:01:19.310
+donde x es mayor que 12 negativos.
+
+00:01:19.310 --> 00:01:26.220
+Definitivamente los van a tener un valor absoluto menor
+
+00:01:26.220 --> 00:01:31.050
+de 12, como son también--y, x tiene que
+
+00:01:31.050 --> 00:01:33.520
+tener menos de 12.
+
+00:01:33.520 --> 00:01:37.170
+Así que si un x cumple con dos de estas restricciones, su absoluta
+
+00:01:37.170 --> 00:01:39.890
+valor definitivamente va a ser de menos de 12.
+
+00:01:39.890 --> 00:01:42.050
+Sabes, que tomar el valor absoluto de negativo 6,
+
+00:01:42.050 --> 00:01:43.860
+es de sólo 6 lejos de 0.
+
+00:01:43.860 --> 00:01:46.670
+El valor absoluto de 11 negativa, sólo 11 lejos de 0.
+
+00:01:46.670 --> 00:01:49.520
+Lo mismo ocurrirá con algo que satisface a ambas de estas restricciones
+
+00:01:49.520 --> 00:01:50.630
+satisfacen la ecuación.
+
+00:01:50.630 --> 00:01:52.440
+Y en realidad, hemos resuelto, porque esto es sólo una
+
+00:01:52.440 --> 00:01:53.810
+ecuación de un solo paso allí.
+
+00:01:53.810 --> 00:01:56.670
+Pero creo que pone una buena base para los próximos
+
+00:01:56.670 --> 00:01:59.030
+problemas. Y realmente pude escribirlo como este.
+
+00:01:59.030 --> 00:02:02.280
+En notación de intervalo, sería todo entre negativo
+
+00:02:02.280 --> 00:02:06.880
+12 y positivo 12 y no incluye esos números.
+
+00:02:06.880 --> 00:02:10.690
+O lo podríamos escribir así, x es inferior a 12, y
+
+00:02:10.690 --> 00:02:13.100
+es mayor que 12 negativos.
+
+00:02:13.100 --> 00:02:15.180
+Es la solución que se establezca allí.
+
+00:02:15.180 --> 00:02:18.420
+Ahora vamos a uno que es un poco poco más complicado,
+
+00:02:18.420 --> 00:02:21.340
+nos permite pensar un poco más difícil.
+
+00:02:21.340 --> 00:02:28.480
+Así que vamos a decir que tenemos el valor absoluto de 7 x es
+
+00:02:28.480 --> 00:02:31.260
+mayor o igual a 21.
+
+00:02:31.260 --> 00:02:33.710
+Así que vamos a siquiera pensar en lo que está dentro de lo absoluto
+
+00:02:33.710 --> 00:02:36.020
+signo de valor ahora mismo.
+
+00:02:36.020 --> 00:02:38.180
+Para que el valor absoluto de nada ser
+
+00:02:38.180 --> 00:02:41.260
+mayor o igual a 21, ¿qué significa?
+
+00:02:41.260 --> 00:02:44.040
+Esto significa que lo que está dentro de este valor absoluto
+
+00:02:44.040 --> 00:02:47.640
+signo, lo que está dentro de nuestro signo de valor absoluto, se
+
+00:02:47.640 --> 00:02:52.840
+debe ser de 21 o más lejos de 0.
+
+00:02:52.840 --> 00:02:54.910
+Vamos a llamar a nuestra línea de número.
+
+00:02:54.910 --> 00:02:57.010
+Y realmente debe visualizar una línea de número cuando
+
+00:02:57.010 --> 00:02:58.970
+para ello, y no voy nunca se confunden entonces.
+
+00:02:58.970 --> 00:03:01.660
+Usted no debería memorizar las reglas.
+
+00:03:01.660 --> 00:03:03.860
+Así que vamos a dibujar aquí 0.
+
+00:03:03.860 --> 00:03:08.980
+Hagamos 21 positiva y vamos a hacer un negativo 21 aquí.
+
+00:03:08.980 --> 00:03:12.470
+Por lo que queremos todos los números, por lo que es esta cosa,
+
+00:03:12.470 --> 00:03:17.400
+son mayores o iguales a 21.
+
+00:03:17.400 --> 00:03:20.860
+Son más de 21 lejos de 0.
+
+00:03:20.860 --> 00:03:23.920
+Su valor absoluto es más de 21.
+
+00:03:23.920 --> 00:03:27.000
+Bien, todos estos negativos números que son menos de
+
+00:03:27.000 --> 00:03:30.090
+negativo 21, cuando toma su valor absoluto, cuando usted
+
+00:03:30.090 --> 00:03:33.750
+deshacerse del signo negativo, o cuando encuentre su
+
+00:03:33.750 --> 00:03:37.160
+distancia de 0, todos van a ser mayor de 21.
+
+00:03:37.160 --> 00:03:39.110
+Si usted toma el valor absoluto de 30 negativo, va a
+
+00:03:39.110 --> 00:03:40.900
+ser mayor de 21.
+
+00:03:40.900 --> 00:03:47.070
+Asimismo, hasta aquí, nada más de la voluntad positiva de 21
+
+00:03:47.070 --> 00:03:50.440
+también tienen un valor absoluto mayor que 21.
+
+00:03:50.440 --> 00:03:54.160
+Así que lo que podríamos decir es 7 x debe ser igual a uno de
+
+00:03:54.160 --> 00:03:58.530
+Estos números, o 7 x debe ser igual a uno de estos
+
+00:03:58.530 --> 00:03:59.930
+números aquí.
+
+00:03:59.930 --> 00:04:06.230
+Así podríamos escribir 7 x debe ser uno de estos números.
+
+00:04:06.230 --> 00:04:07.580
+Bien, ¿cuáles son estos números?
+
+00:04:07.580 --> 00:04:10.810
+Estos son todos los números que son inferiores o iguales a
+
+00:04:10.810 --> 00:04:20.070
+21 negativos o x 7--permítanme hacer un color distinto aquí--o x 7
+
+00:04:20.070 --> 00:04:22.160
+tiene que ser uno de estos números.
+
+00:04:22.160 --> 00:04:26.290
+Y eso significa que 7 x debe ser mayor o igual a
+
+00:04:26.290 --> 00:04:28.070
+21 positivos.
+
+00:04:28.070 --> 00:04:29.870
+Realmente quiero que tipo de internalize
+
+00:04:29.870 --> 00:04:31.460
+¿Qué está sucediendo aquí.
+
+00:04:31.460 --> 00:04:34.590
+Si nuestro valor absoluto es mayor o igual a 21,
+
+00:04:34.590 --> 00:04:38.480
+Eso significa que lo que está dentro del valor absoluto tiene que ser
+
+00:04:38.480 --> 00:04:42.370
+ya sea sólo hacia arriba mayor que la positiva 21,
+
+00:04:42.370 --> 00:04:45.070
+o menos negativo 21.
+
+00:04:45.070 --> 00:04:47.170
+Porque si es menos negativo 21, cuando toma su
+
+00:04:47.170 --> 00:04:51.110
+valor absoluto, va a tener más de 21 lejos de 0.
+
+00:04:51.110 --> 00:04:52.090
+Ojalá tenga sentido.
+
+00:04:52.090 --> 00:04:54.120
+Vamos a hacer varios de estos problemas de la práctica, por lo que se
+
+00:04:54.120 --> 00:04:56.190
+realmente obtiene arraigado en su cerebro.
+
+00:04:56.190 --> 00:04:58.650
+Pero una vez que tienes esto establecido, y esto sólo se convierte en un
+
+00:04:58.650 --> 00:05:01.960
+compuesto de desigualdad, dividir ambos lados de esta ecuación por
+
+00:05:01.960 --> 00:05:08.130
+7, obtienes x es menor o igual al negativo de 3.
+
+00:05:08.130 --> 00:05:12.590
+O dividir ambos lados de éste por 7, obtienes x es
+
+00:05:12.590 --> 00:05:14.710
+mayor o igual a 3.
+
+00:05:14.710 --> 00:05:15.520
+Quiero ser muy claro.
+
+00:05:15.520 --> 00:05:17.920
+Esto lo saqué de aquí, no era el conjunto de soluciones.
+
+00:05:17.920 --> 00:05:21.070
+Esto es lo que 7 x tenía que ser igual a.
+
+00:05:21.070 --> 00:05:23.470
+Sólo quería que visualizar lo que significa que el
+
+00:05:23.470 --> 00:05:27.460
+valor absoluto ser mayor de 21, a ser más de
+
+00:05:27.460 --> 00:05:30.470
+21 lejos de 0.
+
+00:05:30.470 --> 00:05:33.950
+Este es el conjunto de soluciones. x debe ser mayor o
+
+00:05:33.950 --> 00:05:37.570
+igual a 3, o menor o igual al negativo de 3.
+
+00:05:37.570 --> 00:05:43.370
+Por lo que la solución real a esta ecuación--permítanme llamar un
+
+00:05:43.370 --> 00:05:49.870
+línea de número--vamos a decir es 0, que es el 3, que es negativo
+
+00:05:49.870 --> 00:05:54.365
+3. x tiene que ser mayor que o igual a 3.
+
+00:05:58.410 --> 00:05:59.620
+Es el signo igual.
+
+00:05:59.620 --> 00:06:02.000
+O menor o igual al negativo de 3.
+
+00:06:08.210 --> 00:06:08.960
+Y hemos terminado.
+
+00:06:08.960 --> 00:06:10.500
+Vamos a hacer un par más de estos.
+
+00:06:10.500 --> 00:06:13.520
+Porque son, creo, confuso, pero si te realmente
+
+00:06:13.520 --> 00:06:17.490
+empieza a llegar la esencia de qué valor absoluto es decir,
+
+00:06:17.490 --> 00:06:19.930
+convertido, creo, intuitiva.
+
+00:06:19.930 --> 00:06:23.840
+Así que vamos a decir que tenemos el valor absoluto--deje
+
+00:06:23.840 --> 00:06:24.570
+me consigue una buena.
+
+00:06:24.570 --> 00:06:32.310
+Supongamos que el valor absoluto de x 5 plus 3 es inferior a 7.
+
+00:06:32.310 --> 00:06:34.780
+Eso de decirnos que lo que está dentro de nuestro
+
+00:06:34.780 --> 00:06:40.030
+signo de valor absoluto tiene que ser inferior a 7 lejos de 0.
+
+00:06:40.030 --> 00:06:43.360
+Así que las formas en que podemos ser menos de 7 lejos 0--
+
+00:06:43.360 --> 00:06:47.770
+me dibuje una línea número--así las maneras en que usted puede ser menos de
+
+00:06:47.770 --> 00:06:52.870
+7 lejos de 0, podría ser inferior a 7 y mayor que
+
+00:06:52.870 --> 00:06:54.740
+7 negativo.
+
+00:06:54.740 --> 00:06:54.910
+¿Verdad?
+
+00:06:54.910 --> 00:06:56.970
+Tienes que estar en este rango.
+
+00:06:56.970 --> 00:07:00.240
+Así que para satisfacer esta cosa en este valor absoluto
+
+00:07:00.240 --> 00:07:03.590
+signo, tiene que serlo--la cosa en el valor absoluto
+
+00:07:03.590 --> 00:07:07.170
+signo, que es 5 x plus 3--tiene que ser mayor que
+
+00:07:07.170 --> 00:07:16.310
+negativo 7 y tiene que ser inferior a 7, para que su
+
+00:07:16.310 --> 00:07:19.060
+valor absoluto a ser menos de 7.
+
+00:07:19.060 --> 00:07:23.680
+Si esta cosa, este x 5 más 3, evalúa cualquier lugar aquí,
+
+00:07:23.680 --> 00:07:26.810
+será su valor absoluto, su distancia de 0,
+
+00:07:26.810 --> 00:07:28.420
+ser menos de 7.
+
+00:07:28.420 --> 00:07:30.270
+Y entonces sólo podemos resolver estos.
+
+00:07:30.270 --> 00:07:32.810
+Reste 3 de ambos lados.
+
+00:07:32.810 --> 00:07:36.160
+x 5 es mayor que 10 negativos.
+
+00:07:36.160 --> 00:07:40.010
+Dividir ambos lados por 5. x es mayor que 2 negativos.
+
+00:07:40.010 --> 00:07:42.200
+Ahora aquí, restar 3 de ambos lados.
+
+00:07:42.200 --> 00:07:45.960
+x 5 es inferior a 4.
+
+00:07:45.960 --> 00:07:51.300
+Dividir ambos lados por 5, obtienes x es menor que 4/5.
+
+00:07:51.300 --> 00:07:53.560
+Y, a continuación, podemos dibujar el conjunto solución.
+
+00:07:53.560 --> 00:07:58.270
+Tenemos que ser mayor que 2 negativo, no mayor que
+
+00:07:58.270 --> 00:08:01.120
+o igual a y menos de 4/5.
+
+00:08:01.120 --> 00:08:03.230
+Así que esto puede parecer una coordenada, pero esto es también
+
+00:08:03.230 --> 00:08:05.590
+notación de intervalo, si lo que estamos diciendo todas las x entre
+
+00:08:05.590 --> 00:08:07.770
+negativo de 2 y 4/5.
+
+00:08:07.770 --> 00:08:10.780
+O se pueden escribir todas las x que son superiores
+
+00:08:10.780 --> 00:08:15.140
+2 negativos y menos de 4/5.
+
+00:08:15.140 --> 00:08:19.160
+Estas son la x que satisfacen esta ecuación.
+
+00:08:19.160 --> 00:08:20.810
+Y realmente quiero que internalizar este
+
+00:08:20.810 --> 00:08:22.110
+visualización aquí.
+
+00:08:22.110 --> 00:08:28.830
+Ahora, usted podría ya estar viendo un poco de una regla aquí.
+
+00:08:28.830 --> 00:08:31.110
+Y no sólo memorizarlo que quiero, pero te voy a dar
+
+00:08:31.110 --> 00:08:32.590
+a usted en caso de que desee.
+
+00:08:32.590 --> 00:08:36.809
+Si tienes algo como f de x, el valor absoluto de f
+
+00:08:36.809 --> 00:08:41.409
+de x es menor que, digamos, algunos un.
+
+00:08:41.409 --> 00:08:41.730
+¿Verdad?
+
+00:08:41.730 --> 00:08:42.600
+Esta era la situación.
+
+00:08:42.600 --> 00:08:44.810
+Tenemos algunos f x menos de una.
+
+00:08:44.810 --> 00:08:48.080
+Eso significa que tiene el valor absoluto de f de x, o f de x
+
+00:08:48.080 --> 00:08:50.600
+ser inferior a una distancia de 0.
+
+00:08:50.600 --> 00:08:56.960
+Por lo que significa que f x tiene que ser menos positiva una o
+
+00:08:56.960 --> 00:08:59.730
+mayor que el negativo un.
+
+00:08:59.730 --> 00:09:05.090
+Se traduce en que, lo que se traduce a f de x mayor
+
+00:09:05.090 --> 00:09:10.460
+que el negativo una y f x menos de una.
+
+00:09:10.460 --> 00:09:12.280
+Pero se trata de la misma lógica.
+
+00:09:12.280 --> 00:09:15.540
+Esto tiene que evaluar a algo que es menos de un
+
+00:09:15.540 --> 00:09:17.380
+lejos de 0.
+
+00:09:17.380 --> 00:09:20.280
+Ahora, si vamos al otro lado, si tienes algo de
+
+00:09:20.280 --> 00:09:24.810
+el formulario f de x es mayor que un.
+
+00:09:24.810 --> 00:09:28.660
+Eso significa que esta cosa se tiene que evaluar a algo que
+
+00:09:28.660 --> 00:09:30.730
+es más que una distancia de 0.
+
+00:09:30.730 --> 00:09:34.330
+Lo significa que f x sea justo hacia arriba
+
+00:09:34.330 --> 00:09:40.720
+mayor que el positivo, o f de x es menos negativo un.
+
+00:09:40.720 --> 00:09:40.880
+¿Verdad?
+
+00:09:40.880 --> 00:09:44.380
+Si es menos negativo una, quizás ha negativo un signo menos
+
+00:09:44.380 --> 00:09:50.980
+otro 1, o 5 negativo más negativo un.
+
+00:09:50.980 --> 00:09:52.525
+Luego, cuando toma su valor absoluto, te
+
+00:09:52.525 --> 00:09:53.730
+convertido en un plus 5.
+
+00:09:53.730 --> 00:09:56.490
+Por lo que su valor absoluto va a ser más de una.
+
+00:09:56.490 --> 00:09:59.300
+Así que sólo quiero--usted puede memorizar esto si lo desea, pero
+
+00:09:59.300 --> 00:10:01.760
+Realmente quiero que piense esto es justo decir, OK,
+
+00:10:01.760 --> 00:10:05.100
+Esto tiene que evaluar, ser inferior a una distancia de 0, esto ha
+
+00:10:05.100 --> 00:10:07.440
+más que una distancia de 0.
+
+00:10:07.440 --> 00:10:10.310
+Vamos a hacer uno más, porque sé que esto puede ser
+
+00:10:10.310 --> 00:10:11.780
+un poco confuso de bit.
+
+00:10:11.780 --> 00:10:14.040
+Y os animo a ver este video una y otra y
+
+00:10:14.040 --> 00:10:16.490
+otra vez, si te ayuda.
+
+00:10:16.490 --> 00:10:23.020
+Digamos que tenemos el valor absoluto de x 2--me deja hacer
+
+00:10:23.020 --> 00:10:24.040
+otro por aquí.
+
+00:10:24.040 --> 00:10:25.810
+Vamos a hacer uno más duro.
+
+00:10:25.810 --> 00:10:31.460
+Supongamos que el valor absoluto de 2 x más 7 plus es de 9
+
+00:10:31.460 --> 00:10:35.460
+mayor que 5/7.
+
+00:10:35.460 --> 00:10:40.370
+Entonces esta cosa tiene que evaluar a algo que es más que
+
+00:10:40.370 --> 00:10:43.090
+5/7 lejos de 0.
+
+00:10:43.090 --> 00:10:47.610
+Así que esta cosa, x 2 sobre TI 7 plus 9, sólo podría ser recta
+
+00:10:47.610 --> 00:10:49.740
+hasta más de 5/7.
+
+00:10:49.740 --> 00:10:53.220
+O podría ser menos negativo 5/7, porque si es
+
+00:10:53.220 --> 00:10:56.180
+menos negativo 5/7, su valor absoluto va a ser
+
+00:10:56.180 --> 00:10:57.840
+mayor que 5/7.
+
+00:10:57.840 --> 00:11:04.970
+O 2 x sobre 7 plus 9 será menos negativo 5/7.
+
+00:11:04.970 --> 00:11:07.540
+Estamos haciendo este caso aquí.
+
+00:11:07.540 --> 00:11:10.290
+Y entonces sólo resolver ambas de estas ecuaciones.
+
+00:11:10.290 --> 00:11:13.750
+Ver si restamos--vamos a simplemente multiplicar todo por 7,
+
+00:11:13.750 --> 00:11:16.290
+para conseguir estos denominadores fuera del camino.
+
+00:11:16.290 --> 00:11:21.730
+Así que si usted multiplica ambos lados por 7, obtendrá x 2 plus 9 veces
+
+00:11:21.730 --> 00:11:24.800
+7 63, es mayor que 5.
+
+00:11:24.800 --> 00:11:25.750
+Vamos a hacerlo aquí, también.
+
+00:11:25.750 --> 00:11:32.630
+Obtendrá x 2 plus 63 es menos negativo 5.
+
+00:11:32.630 --> 00:11:37.010
+Vamos a restar 63 desde ambos lados de esta ecuación, y
+
+00:11:37.010 --> 00:11:39.200
+obtienes 2 x--vamos a ver.
+
+00:11:39.200 --> 00:11:44.470
+5 menos 63 es 58, 2 x es superior a 58.
+
+00:11:44.470 --> 00:11:47.230
+Si usted restar 63 desde ambos lados de esta ecuación, se
+
+00:11:47.230 --> 00:11:59.040
+obtener 2 x es menos negativo 68.
+
+00:11:59.040 --> 00:12:00.345
+Oh, acabo de darme cuenta que cometí un error aquí.
+
+00:12:00.345 --> 00:12:04.090
+Reste 63 desde ambos lados de esta, es 5 menos 63
+
+00:12:04.090 --> 00:12:05.350
+58 negativo.
+
+00:12:05.350 --> 00:12:07.970
+No quiero hacer allí un error por descuido.
+
+00:12:07.970 --> 00:12:09.420
+Y luego dividir ambos lados por 2.
+
+00:12:09.420 --> 00:12:12.180
+Obtendrá, en este caso, x es mayor que--no tienes
+
+00:12:12.180 --> 00:12:14.910
+para cambiar la desigualdad, porque nos estamos dividiendo por un
+
+00:12:14.910 --> 00:12:22.440
+número positivo--58 negativo sobre 2 es negativo 29, o,
+
+00:12:22.440 --> 00:12:29.110
+aquí, si usted divide ambos lados por 2, o, x es inferior a
+
+00:12:29.110 --> 00:12:33.520
+34 negativo.
+
+00:12:33.520 --> 00:12:36.180
+68 dividido por 2 es 34.
+
+00:12:36.180 --> 00:12:39.160
+Y así, en la recta numérica, la solución
+
+00:12:39.160 --> 00:12:41.880
+ecuación tendrá este aspecto.
+
+00:12:41.880 --> 00:12:43.470
+Ése es mi número.
+
+00:12:43.470 --> 00:12:46.460
+Tengo 29 negativo.
+
+00:12:46.460 --> 00:12:49.890
+Tengo 34 negativo.
+
+00:12:49.890 --> 00:12:53.380
+Así que la solución es, yo puedo ser superior a 29, no
+
+00:12:53.380 --> 00:12:58.550
+mayor que o igual a, tan superior a 29, es
+
+00:12:58.550 --> 00:13:06.470
+allí, o podría ser menos negativo 34.
+
+00:13:06.470 --> 00:13:10.410
+Para que cualquiera de los que van a satisfacer este valor absoluto
+
+00:13:10.410 --> 00:13:11.660
+desigualdad.

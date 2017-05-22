@@ -1,0 +1,520 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.760 --> 00:00:04.200
+Ahora trasladaremos desde el mundo de diferenciales de primer orden
+
+00:00:04.200 --> 00:00:06.400
+ecuaciones para el mundo de segundo orden
+
+00:00:06.400 --> 00:00:07.280
+ecuaciones diferenciales.
+
+00:00:07.280 --> 00:00:07.800
+¿Y qué significa eso?
+
+00:00:07.800 --> 00:00:10.450
+Eso significa que ahora vamos a empezar con la
+
+00:00:10.450 --> 00:00:11.600
+segunda derivada.
+
+00:00:11.600 --> 00:00:13.510
+Y la primera clase que voy a mostrar a usted--y esto
+
+00:00:13.510 --> 00:00:16.360
+es probablemente la clase más útil cuando estudias
+
+00:00:16.360 --> 00:00:19.990
+física clásica--son lineal de segundo orden
+
+00:00:19.990 --> 00:00:21.080
+ecuaciones diferenciales.
+
+00:00:21.080 --> 00:00:23.150
+¿Qué es un lineal ecuación diferencial de segundo orden?
+
+00:00:23.150 --> 00:00:27.210
+Creo que tocaba en ella un poco en nuestra primera
+
+00:00:27.210 --> 00:00:27.760
+vídeo de introducción.
+
+00:00:27.760 --> 00:00:29.820
+Pero es algo que se parezca a esto.
+
+00:00:29.820 --> 00:00:35.270
+Si tengo una de x--tan alguna función solo de x--veces el
+
+00:00:35.270 --> 00:00:42.110
+segunda derivada de y, con respecto a x, plus b de x,
+
+00:00:42.110 --> 00:00:47.420
+tiempos de la primera derivada de y, con respecto a x, plus c
+
+00:00:47.420 --> 00:00:56.200
+de x, tiempos y es igual a alguna función que es sólo una
+
+00:00:56.200 --> 00:00:59.140
+función de x.
+
+00:00:59.140 --> 00:01:01.760
+Tan sólo para revisar nuestra terminología, y es el segundo
+
+00:01:01.760 --> 00:01:04.910
+orden porque la derivada mayor aquí es el segundo
+
+00:01:04.910 --> 00:01:08.170
+derivado, por lo que la convierte en segundo orden.
+
+00:01:08.170 --> 00:01:10.220
+¿Y qué es lineal?
+
+00:01:10.220 --> 00:01:13.770
+Bien todos los coeficientes en--y quiero ser cuidadoso
+
+00:01:13.770 --> 00:01:15.950
+con los coeficientes de término, porque consideramos que tradicionalmente
+
+00:01:15.950 --> 00:01:21.760
+coeficientes como siempre constantes--pero aquí tenemos
+
+00:01:21.760 --> 00:01:23.880
+funciones de x como coeficientes.
+
+00:01:23.880 --> 00:01:26.550
+En orden para que esto sea una ecuación diferencial lineal,
+
+00:01:26.550 --> 00:01:30.120
+una de x, b, x, c de x y d de x, todos tienen que ser
+
+00:01:30.120 --> 00:01:33.770
+funciones sólo de x, ya que he dibujado aquí.
+
+00:01:33.770 --> 00:01:36.580
+Y ahora, antes de empezar a tratar de solucionar esto
+
+00:01:36.580 --> 00:01:41.730
+en general, haremos un caso especial de este, donde a, b, c
+
+00:01:41.730 --> 00:01:44.190
+son constantes y d es 0.
+
+00:01:44.190 --> 00:01:45.890
+¿Así como se verá?
+
+00:01:45.890 --> 00:01:51.100
+Por lo que sólo puedo escribir como acumulado ahora no es una función
+
+00:01:51.100 --> 00:01:55.790
+ya, es sólo un número--A veces la segunda derivada
+
+00:01:55.790 --> 00:02:02.070
+y, con respecto a x, plus b veces la primera derivada,
+
+00:02:02.070 --> 00:02:05.230
+Plus y c veces.
+
+00:02:05.230 --> 00:02:09.600
+Y en lugar de tener sólo un cuarto constante, en lugar de d
+
+00:02:09.600 --> 00:02:13.670
+de x, sólo voy a definir que sea igual a 0.
+
+00:02:13.670 --> 00:02:18.090
+Y estableciendo este igual a 0, ahora he presentado le
+
+00:02:18.090 --> 00:02:21.010
+a la otra forma de homogéneo
+
+00:02:21.010 --> 00:02:22.180
+ecuación diferencial.
+
+00:02:22.180 --> 00:02:23.890
+Y este se llama homogénea.
+
+00:02:23.890 --> 00:02:27.490
+Y no he hecho todavía la conexión sobre cómo estos
+
+00:02:27.490 --> 00:02:30.830
+ecuaciones diferenciales de segunda orden están relacionadas con la
+
+00:02:30.830 --> 00:02:33.200
+primer orden los que solo presentó--a estas otras
+
+00:02:33.200 --> 00:02:35.130
+ecuaciones diferenciales homogéneas que le introduje.
+
+00:02:35.130 --> 00:02:37.720
+Creo que sólo pasan a tener el mismo nombre, incluso
+
+00:02:37.720 --> 00:02:39.700
+Aunque no están relacionadas.
+
+00:02:39.700 --> 00:02:43.350
+Así la razón de por qué esto uno se llama homogénea es porque
+
+00:02:43.350 --> 00:02:45.920
+lo tienes igual a 0.
+
+00:02:45.920 --> 00:02:47.750
+Esto es lo que hace homogénea.
+
+00:02:47.750 --> 00:02:51.250
+Y en realidad, veo más de una conexión entre este tipo
+
+00:02:51.250 --> 00:02:56.000
+de la ecuación y leche donde toda la grasa está distribuida, porque
+
+00:02:56.000 --> 00:02:59.320
+Si piensas en él, la solución para todos homogéneos
+
+00:02:59.320 --> 00:03:03.295
+ecuaciones, cuando usted tipo de resolver la ecuación,
+
+00:03:03.295 --> 00:03:04.240
+siempre igual a 0.
+
+00:03:04.240 --> 00:03:08.010
+Por lo que están homogeneizadas, supongo que es la mejor manera que yo
+
+00:03:08.010 --> 00:03:10.950
+puede dibujar cualquier tipo de paralelo.
+
+00:03:10.950 --> 00:03:17.390
+Por lo que podríamos llamar esto un segundo orden lineal porque A, B, y
+
+00:03:17.390 --> 00:03:20.290
+C definitivamente son funciones sólo de--bien, no son
+
+00:03:20.290 --> 00:03:22.310
+incluso las funciones de x o y, sólo son constantes.
+
+00:03:22.310 --> 00:03:26.445
+Lo segundo orden lineal homogénea--porque ellos
+
+00:03:26.445 --> 00:03:28.800
+iguales ecuaciones diferenciales 0--.
+
+00:03:28.800 --> 00:03:31.420
+Y creo que verás que, en cierto modo, son la
+
+00:03:31.420 --> 00:03:34.240
+más diversión ecuaciones diferenciales para resolver.
+
+00:03:34.240 --> 00:03:36.470
+Y en realidad, a menudo el más útil porque en un lote de la
+
+00:03:36.470 --> 00:03:38.760
+aplicaciones de la mecánica clásica, esto es todo lo que
+
+00:03:38.760 --> 00:03:40.420
+necesidad de resolver.
+
+00:03:40.420 --> 00:03:42.820
+Pero ellos son lo más divertido para resolver porque todos ellos hervir
+
+00:03:42.820 --> 00:03:45.660
+hasta problemas de álgebra II.
+Y yo te toque
+
+00:03:45.660 --> 00:03:46.960
+en en un segundo.
+
+00:03:46.960 --> 00:03:48.660
+Pero vamos a solo pensar en esto un poco.
+
+00:03:48.660 --> 00:03:50.180
+Piense en lo que las propiedades de estos
+
+00:03:50.180 --> 00:03:51.130
+soluciones podrían ser.
+
+00:03:51.130 --> 00:03:52.870
+Permítanme simplemente tirar algo.
+
+00:03:52.870 --> 00:04:01.500
+Vamos a decir que g x es una solución.
+
+00:04:05.590 --> 00:04:12.650
+Lo significa que a veces g prime prime, plus b veces g
+
+00:04:12.650 --> 00:04:17.839
+Prime, más veces c g es igual a 0.
+
+00:04:17.839 --> 00:04:18.550
+¿Verdad?
+
+00:04:18.550 --> 00:04:20.200
+Estos significan lo mismo.
+
+00:04:20.200 --> 00:04:22.490
+Ahora, mi pregunta es, qué pasa si tengo algunos
+
+00:04:22.490 --> 00:04:24.040
+¿constante veces g?
+
+00:04:24.040 --> 00:04:27.170
+¿Todavía es una solución?
+
+00:04:27.170 --> 00:04:32.620
+Así que mi pregunta es, vamos a decir algunas veces constante c1 gx--c1
+
+00:04:32.620 --> 00:04:35.860
+¿g--es una solución?
+
+00:04:35.860 --> 00:04:36.560
+Bien, vamos a probarlo.
+
+00:04:36.560 --> 00:04:39.610
+Vamos a sustituir esto en nuestra ecuación original.
+
+00:04:39.610 --> 00:04:42.770
+Así que una veces la segunda derivada de esto sería sólo
+
+00:04:42.770 --> 00:04:49.000
+ser--y podrá cambiar de colores aquí; Permítanme pasar a brown--
+
+00:04:49.000 --> 00:04:52.970
+por lo que a veces sería la segunda derivada de esto--
+
+00:04:52.970 --> 00:04:54.770
+la constante, cada vez que toma un derivado, el
+
+00:04:54.770 --> 00:05:00.900
+constante sólo lleva más--por lo sólo podrá ser a veces c1
+
+00:05:00.900 --> 00:05:05.640
+g primos primos, plus--lo mismo para la primera
+
+00:05:05.640 --> 00:05:14.190
+son derivado--B veces c1 g prime, más C--y este c
+
+00:05:14.190 --> 00:05:18.430
+diferente de la c1 c--veces g.
+
+00:05:18.430 --> 00:05:21.360
+Y vamos a ver si esto es igual a 0.
+
+00:05:21.360 --> 00:05:27.190
+Así nos podríamos factor a esa constante c1, y llegamos a c1 veces
+
+00:05:27.190 --> 00:05:37.130
+Primer primo AG, más prime Bg más Cg.
+
+00:05:37.130 --> 00:05:38.460
+Y lo aquí, ya sabemos.
+
+00:05:38.460 --> 00:05:40.950
+Porque sabemos que g x es una solución, sabemos
+
+00:05:40.950 --> 00:05:42.130
+que esto es cierto.
+
+00:05:42.130 --> 00:05:45.080
+Así que esto va a ser igual a 0.
+
+00:05:45.080 --> 00:05:47.440
+Porque g es una solución.
+
+00:05:47.440 --> 00:05:53.060
+Así que si es 0, c1 veces 0 va a ser igual a 0.
+
+00:05:53.060 --> 00:05:56.610
+Así, esta expresión aquí también es igual a 0.
+
+00:05:56.610 --> 00:05:59.870
+U otra forma de verlo es si g es una solución para
+
+00:05:59.870 --> 00:06:03.720
+Este diferencial homogénea lineal de segundo orden
+
+00:06:03.720 --> 00:06:07.790
+ecuación y, a continuación, algunas veces constantes g es también una solución.
+
+00:06:07.790 --> 00:06:12.770
+Así que esto también es una solución a la ecuación diferencial.
+
+00:06:12.770 --> 00:06:14.840
+Y, a continuación, la propiedad siguiente que quiero mostrar usted--y esto es
+
+00:06:14.840 --> 00:06:17.110
+todos van a un lugar, no se preocupe.
+
+00:06:17.110 --> 00:06:20.410
+La siguiente pregunta que quiero hacerle es, OK, que sabemos que g
+
+00:06:20.410 --> 00:06:23.010
+de x es una solución a la ecuación diferencial.
+
+00:06:23.010 --> 00:06:24.510
+¿Y si tuviera que decirle también que h
+
+00:06:24.510 --> 00:06:28.090
+¿de x es también una solución?
+
+00:06:32.900 --> 00:06:42.700
+Así que mi pregunta es, ¿es g de x plus h de x una solución?
+
+00:06:45.200 --> 00:06:49.330
+Si sumamos estas dos funciones que son ambas soluciones, si
+
+00:06:49.330 --> 00:06:52.400
+Puedes añadirlos juntos, que sigue siendo una solución de nuestro
+
+00:06:52.400 --> 00:06:53.970
+¿ecuación diferencial original?
+
+00:06:53.970 --> 00:06:56.150
+Bien, vamos a sustituir todo esto en nuestro original
+
+00:06:56.150 --> 00:06:58.090
+¿ecuación diferencial, correcto?
+
+00:06:58.090 --> 00:07:00.620
+Por lo que te tienen a veces el segundo
+
+00:07:00.620 --> 00:07:03.430
+derivado de esta cosa.
+
+00:07:03.430 --> 00:07:05.590
+Bueno, eso es bastante claro.
+
+00:07:05.590 --> 00:07:11.580
+Es justo g prime prime, plus h primer prime plus b
+
+00:07:11.580 --> 00:07:16.500
+veces--la primera derivada de esta cosa--g prime plus h
+
+00:07:16.500 --> 00:07:25.370
+tiempos de primos, además de C--esta función--g + h.
+
+00:07:25.370 --> 00:07:26.200
+Y ahora ¿qué podemos hacer?
+
+00:07:26.200 --> 00:07:27.880
+Vamos a distribuir todas estas constantes.
+
+00:07:27.880 --> 00:07:34.440
+Conseguimos a veces g prime prime plus a veces primer primo h,
+
+00:07:34.440 --> 00:07:38.320
+Plus b veces la primera derivada de g + B veces
+
+00:07:38.320 --> 00:07:42.270
+la primera derivada de h, más veces c g,
+
+00:07:42.270 --> 00:07:44.510
+más veces c h.
+
+00:07:44.510 --> 00:07:46.350
+Y ahora podemos reorganizarlos.
+
+00:07:46.350 --> 00:07:49.580
+Y llegamos A--vamos a tomar este uno; vamos a tomar todas la g
+
+00:07:49.580 --> 00:07:54.140
+términos--una veces la segunda derivada de g + B veces
+
+00:07:54.140 --> 00:07:59.930
+la primera derivada, más veces c g--que es estos tres
+
+00:07:59.930 --> 00:08:07.090
+términos--y a veces la segunda derivada de h, plus b
+
+00:08:07.090 --> 00:08:12.040
+tiempos de las primeras veces derivados, además de c h.
+
+00:08:12.040 --> 00:08:14.890
+Y ahora sabemos que g y h son soluciones de la
+
+00:08:14.890 --> 00:08:16.130
+ecuación diferencial original.
+
+00:08:16.130 --> 00:08:21.390
+Por definición, si g es una solución del original
+
+00:08:21.390 --> 00:08:23.350
+ecuación diferencial y este fue el lado izquierdo del
+
+00:08:23.350 --> 00:08:25.850
+esa ecuación diferencial, esto va a ser igual a
+
+00:08:25.850 --> 00:08:32.520
+0, y es así que este va a ser igual a 0.
+
+00:08:32.520 --> 00:08:35.429
+Por lo que hemos demostrado que esta expresión toda es igual a 0.
+
+00:08:35.429 --> 00:08:38.789
+Entonces, si g es una solución de la ecuación diferencial--de
+
+00:08:38.789 --> 00:08:41.480
+Este diferencial homogénea lineal de segundo orden
+
+00:08:41.480 --> 00:08:45.110
+ecuación--y h es también una solución, entonces si se
+
+00:08:45.110 --> 00:08:49.720
+añadirlos juntos, la suma de ellos es también una solución.
+
+00:08:49.720 --> 00:08:53.070
+Lo que en general, si mostramos que g es una solución y h es un
+
+00:08:53.070 --> 00:08:54.820
+solución, puede agregarlos.
+
+00:08:54.820 --> 00:08:57.490
+Y hemos mostrado antes que cualquier constante veces
+
+00:08:57.490 --> 00:08:59.020
+ellos también es una solución.
+
+00:08:59.020 --> 00:09:04.590
+Así también se podría decir que alguna constante veces g de x
+
+00:09:04.590 --> 00:09:10.270
+Además, algunas veces constantes h de x es también una solución.
+
+00:09:10.270 --> 00:09:12.150
+Y tal vez la constante en uno de los
+
+00:09:12.150 --> 00:09:13.560
+casos es 0 o algo.
+
+00:09:13.560 --> 00:09:14.290
+No sé.
+
+00:09:14.290 --> 00:09:19.350
+Pero de todas formas, estas son propiedades útiles para tal vez
+
+00:09:19.350 --> 00:09:23.290
+internalizar para homogénea de segundo orden lineal
+
+00:09:23.290 --> 00:09:24.560
+ecuaciones diferenciales.
+
+00:09:24.560 --> 00:09:26.600
+Y en el siguiente vídeo, realmente vamos a aplicarlos
+
+00:09:26.600 --> 00:09:29.660
+propiedades para averiguar las soluciones para estos.
+
+00:09:29.660 --> 00:09:32.190
+Y verás que son realmente sencillas.
+
+00:09:32.190 --> 00:09:35.690
+Yo diría que mucho más fácil que lo que hicimos en la anterior
+
+00:09:35.690 --> 00:09:38.070
+ecuaciones en diferencias homogénea, de primer orden o la
+
+00:09:38.070 --> 00:09:39.020
+ecuaciones exactas.
+
+00:09:39.020 --> 00:09:40.310
+Esto es mucho más fácil.
+
+00:09:40.310 --> 00:09:42.550
+Nos vemos en el siguiente vídeo.

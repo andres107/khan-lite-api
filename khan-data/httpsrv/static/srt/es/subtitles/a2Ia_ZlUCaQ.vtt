@@ -1,0 +1,264 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.967 --> 00:00:04.997
+Digamos que f(x) es igual a 1/x
+
+00:00:04.997 --> 00:00:11.360
+Y queremos pensar en cuál es el límite de f(x) cuando x tiende a 0
+
+00:00:11.360 --> 00:00:14.103
+Desde la dirección positiva
+
+00:00:14.103 --> 00:00:17.915
+Voy a hacer una pequeña tabla aquí
+
+00:00:17.915 --> 00:00:25.702
+Pongamos x, y pensemos en cuál será f(x)
+
+00:00:25.702 --> 00:00:28.634
+Y voy a acercarme a cero desde la dirección positiva
+
+00:00:28.634 --> 00:00:41.501
+Así que probemos 0.1, luego probemos 0.01, luego 0.001, luego podemos probar 0.0001
+
+00:00:41.501 --> 00:00:45.436
+Noten que cada uno de estos números son mayores que cero
+
+00:00:45.436 --> 00:00:47.501
+Y están acercándose a cero desde la dirección positiva
+
+00:00:47.501 --> 00:00:50.769
+Están cada vez más cercanos a cero
+
+00:00:50.769 --> 00:00:54.970
+Así que cuando x es 0.1, f(x) va a ser 1 sobre esto, es decir
+
+00:00:54.970 --> 00:00:58.100
+f(0.1) va a ser 10
+
+00:00:58.100 --> 00:01:03.301
+1/0.01 va a ser 100
+
+00:01:03.301 --> 00:01:07.669
+1 sobre 0.001 va a ser 1000
+
+00:01:07.669 --> 00:01:14.914
+1 sobre 0.0001 va a ser 10 mil
+
+00:01:14.914 --> 00:01:22.255
+Noten que mientras x se acerca a 0 desde la dirección positiva, f(x) aumenta de forma rápida
+
+00:01:22.255 --> 00:01:32.369
+Así que decimos aquí que el límite de f(x) cuando x tiende a 0 de la dirección positiva va a ser Infinito positivo
+
+00:01:32.369 --> 00:01:37.043
+Podemos simplemente escribir infinito. Esto de aquí; si ponemos algo muy cercano
+
+00:01:37.043 --> 00:01:45.581
+Digamos 0.0000001, 7 dígitos en la parte decimal, entonces 1 sobre va a ser
+
+00:01:45.581 --> 00:02:01.305
+10000000 (7 ceros)
+
+00:02:01.305 --> 00:02:08.643
+Como pueden ver, cuando x se acerca más a cero, f(x) se hace cada vez más grande
+
+00:02:08.643 --> 00:02:12.254
+Entonces decimos que esto es igual a infinito
+
+00:02:12.254 --> 00:02:13.767
+Hay que pensar en otro límite.
+
+00:02:13.767 --> 00:02:21.087
+Pensemos en el límite de cuando x tiende a 0 desde la dirección negativa
+
+00:02:21.087 --> 00:02:23.970
+El límite de f(x) cuando x tiende a 0 por la dirección negativa.
+
+00:02:23.970 --> 00:02:27.002
+En este caso, hay que hacer a cada uno de estos valores negativos
+
+00:02:27.002 --> 00:02:31.835
+Entonces x va a ser 0.1 negativo (-0.1) y este va a ser -10
+
+00:02:31.835 --> 00:02:38.337
+Si este es negativo, entonces este también es negativo
+
+00:02:38.337 --> 00:02:44.978
+Entonces, vemos aquí que estos se vuelven números más grandes pero en la dirección negativa
+
+00:02:44.978 --> 00:02:48.702
+y seguirá, si pensamos en una línea numérica, más y más hacia la izquierda
+
+00:02:48.702 --> 00:02:53.251
+Entonces, el límite de f(x) cuando x tiende a 0 desde la dirección negativa
+
+00:02:53.251 --> 00:02:58.770
+Es igual a Infinito negativo
+
+00:02:58.770 --> 00:03:00.419
+Eso es interesante
+
+00:03:00.419 --> 00:03:04.748
+Ahora pensemos en el límite cuando x tiende a tanto infinito positivo como negativo
+
+00:03:04.748 --> 00:03:14.238
+Entonces pensemos en el límite de f(x) cuando x tiende al infinito
+
+00:03:14.238 --> 00:03:18.167
+Y una forma de formar esta tabla, digamos
+
+00:03:18.167 --> 00:03:22.421
+x y f(x)
+
+00:03:22.421 --> 00:03:29.435
+Entonces, si x es 10, f(x) es 1/10
+
+00:03:29.435 --> 00:03:31.367
+Voy a ir a números más y más grandes
+
+00:03:31.367 --> 00:03:36.701
+Si x es mil, entonces f(x) es 1/1000
+
+00:03:36.701 --> 00:03:45.998
+Si x es un millón, entonces f(x) va a ser 1/1000000
+
+00:03:45.998 --> 00:03:53.437
+Ven que mientras x se vuelve más y más grande en la dirección positiva, entonces f(x) se acerca más y más a cero
+
+00:03:53.437 --> 00:03:59.836
+Se puede decir que el límite de f(x) mientras x tiende al infinito es igual a 0
+
+00:03:59.836 --> 00:04:08.413
+Ahora pensemos en el límite de f(x) mientras x tiende a infinito negativo
+
+00:04:08.413 --> 00:04:12.505
+Entonces tomemos números que son más y más negativos
+
+00:04:12.505 --> 00:04:15.702
+Si x es -10, este va a ser - 1/10
+
+00:04:15.702 --> 00:04:18.247
+Si x es -1000, este va a ser -1/1000
+
+00:04:18.247 --> 00:04:21.505
+Si este es un millón negativo, entonces este es -1/1000000
+
+00:04:21.505 --> 00:04:25.044
+Pero pueden notar que aún así tendemos al cero
+
+00:04:25.044 --> 00:04:29.700
+Entonces aquí, otra vez, estamos acercándonos al cero
+
+00:04:29.700 --> 00:04:34.308
+¿Qué implicaciones trae esto? Aparte del hecho de que hemos logrado enfrentarnos a los límites
+
+00:04:34.308 --> 00:04:40.310
+No he dado una definición formal de esto, pero espero que les haya dado una intuición cuando tomamos límites hacia el infinito,
+
+00:04:40.310 --> 00:04:42.920
+y al infinito negativo
+
+00:04:42.920 --> 00:04:49.502
+Límites a infinito, y al infinito negativo, o cuando el límite en sí son infinito, o infinito negativo
+
+00:04:49.502 --> 00:04:52.171
+Una vez que veamos que podemos hacer eso,
+
+00:04:52.171 --> 00:04:54.364
+Probemos visualizando esto,
+
+00:04:54.364 --> 00:04:59.928
+Cuando vemos el gráfico de f(x)=1/x
+
+00:05:08.436 --> 00:05:10.708
+Este es nuestro eje x
+
+00:05:10.708 --> 00:05:13.587
+Este otro aquí es nuestro eje y;
+
+00:05:13.587 --> 00:05:15.834
+y hay que graficar f(x)
+
+00:05:15.834 --> 00:05:23.341
+Entonces vemos que si x es un número muy pequeño, como cuando x es 0.1
+
+00:05:23.341 --> 00:05:26.916
+Entonces y va a ser un número muy alto
+
+00:05:26.916 --> 00:05:32.004
+Y cuando más cercanos estemos a cero desde la dirección positiva,
+
+00:05:32.004 --> 00:05:37.183
+f(x) se acerca al infinito
+
+00:05:37.183 --> 00:05:40.948
+Mientras x se acerca más y más a cero, los valores de y suben y suben
+
+00:05:40.948 --> 00:05:44.971
+Luego, mientras nuestros valores de x se vuelven más grandes
+
+00:05:44.971 --> 00:05:52.442
+Nuestros valores de f(x) se vuelven más y más pequeños
+
+00:05:52.442 --> 00:05:58.172
+Similarmente, si nos acercamos acercamos a x desde una dirección negativa
+
+00:05:58.172 --> 00:05:59.369
+Justo aquí
+
+00:05:59.369 --> 00:06:04.944
+Vemos que f(x) tiende a infinito negativo
+
+00:06:04.944 --> 00:06:09.037
+Así que cuando tenemos a x más cercano a cero, nuestro f(x) se vuelve más negativo
+
+00:06:09.145 --> 00:06:20.668
+Y mientras nuestro x se vuelve más negativo, podemos ver que nuestra función se acerca al cero
+
+00:06:20.668 --> 00:06:27.587
+De la forma en la que lo he dibujado, pueden ver que hay dos asíntotas para el gráfico de f(x)=1/x
+
+00:06:27.587 --> 00:06:35.702
+Tenemos una asíntota horizontal en y=0
+
+00:06:35.702 --> 00:06:42.172
+Cuando x tiende al infinito, f(x) se acerca a cero, pero nunca lo toca
+
+00:06:42.172 --> 00:06:51.700
+Cuando x se acerca a infinito negativo, f(x) se acerca a 0, desde abajo, pero nunca lo toca
+
+00:06:51.700 --> 00:06:55.502
+Pero también tenemos una asíntota vertical
+
+00:06:55.502 --> 00:06:58.767
+Tenemos una asíntota vertical justo aquí cuando x tiende a 0
+
+00:06:58.767 --> 00:07:05.103
+Y vemos eso porque mientras x se acerca a 0, desde la posición negativa, y se acerca al infinito
+
+00:07:05.103 --> 00:07:10.590
+Y mientras x se acerca a 0 desde la dirección negativa, y tiende al infinito negativo
+
+00:07:10.590 --> 00:07:13.945
+Entonces, el límite aquí en x=0
+
+00:07:13.945 --> 00:07:18.814
+SI queremos decir, vean el límite cuando x tiende a 0 desde la dirección positiva, desde la dirección negativa
+
+00:07:18.814 --> 00:07:22.253
+Vemos que tienden a dos cosas diferentes
+
+00:07:22.253 --> 00:07:25.000
+Definitivamente tenemos una asíntota vertical en x=0
+
+00:07:25.000 --> 00:07:28.706
+Pero el límite cuando x tiende a 0
+
+00:07:28.706 --> 00:07:33.643
+de f(x). Esto no está definido
+
+00:07:33.643 --> 00:07:37.643
+¿A qué se debe esto? Bueno, cuando nos acercamos a 0 desde la dirección positiva, tenemos una cosa diferente a la que tenemos cuando nos acercamos desde la negativa

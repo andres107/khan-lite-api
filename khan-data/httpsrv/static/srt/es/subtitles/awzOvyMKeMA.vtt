@@ -1,0 +1,324 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.533 --> 00:00:05.733
+Vamos a trabajar otros escenarios que involucran el desplazamiento, velocidad y tiempo
+
+00:00:05.733 --> 00:00:08.000
+O distancia, rapidez y tiempo
+
+00:00:08.000 --> 00:00:17.694
+Así que allá tenemos a Ben corriendo a velocidad constante de 3m/s hacia el este, tres metros
+
+00:00:17.694 --> 00:00:23.400
+por segundo hacia el este... repasando, esto es una cantidad vectorial, ya que nos han dado la magnitud
+
+00:00:23.400 --> 00:00:29.867
+y la dirección. Si nos dijeran únicamente 3 metros por segundo entonces sería únicamente la rapidez.
+
+00:00:29.867 --> 00:00:40.472
+Esto es, la magnitud es 3m/s, hacia el este y como nos dan la dirección, es una cantidad vectorial.
+
+00:00:40.472 --> 00:00:42.467
+Por lo que es velocidad en vez de solo rapidez.
+
+00:00:42.467 --> 00:00:52.000
+¿Cuanto le tomará a él viajar 720 metros?
+
+00:00:52.000 --> 00:01:01.867
+Lo haré ambos usando vectores y tal vez nos diga cuanto tardó en recorrer 720 metros al este.
+
+00:01:01.867 --> 00:01:11.800
+Tenga en cuenta que dejo claro que es una cantidad vectorial, que es desplazamiento en vez de solo distancia.
+
+00:01:11.800 --> 00:01:12.867
+Lo haremos de ambas formas.
+
+00:01:12.867 --> 00:01:17.133
+Si consideramos la versión escalar del mismo, como ya dijimos,
+
+00:01:17.133 --> 00:01:20.295
+la rapidez es igual a la distancia recorrida sobre algún tiempo.
+
+00:01:20.295 --> 00:01:27.133
+A pesar que escribo "t" muchos escriben un triángulo pequeño o delta,
+
+00:01:27.133 --> 00:01:30.697
+que significa cambio. Pero eso está implícito cuando se escribe solo "t" como aquí.
+
+00:01:30.697 --> 00:01:37.867
+Por tanto la rapidez es igual a la distancia divida por el tiempo,
+
+00:01:37.867 --> 00:01:42.667
+ahora en el problema se nos da la rapidez, es decir la parte escalar,
+
+00:01:42.667 --> 00:01:51.667
+y nos dicen que es 3m/s.
+
+00:01:51.667 --> 00:01:56.378
+También nos están dando la distancia y quieren que hallemos el tiempo "t".
+
+00:01:56.378 --> 00:02:07.200
+Así que nos dan una distancia de 720 metros
+
+00:02:07.200 --> 00:02:16.333
+y debemos de hallar el tiempo. Si hacemos la versión escalar del problema,
+
+00:02:16.333 --> 00:02:18.000
+no trataremos con la velocidad y desplazamiento,
+
+00:02:18.000 --> 00:02:19.733
+solamente con rapidez y distancia.
+
+00:02:19.733 --> 00:02:27.800
+Por lo que 3m/s=720 metros sobre algún cambio temporal.
+
+00:02:27.800 --> 00:02:32.267
+Manipulando algebraicamente esta ecuación,
+
+00:02:32.267 --> 00:02:36.804
+multiplicando ambos lados por el tiempo
+
+00:02:36.804 --> 00:03:00.628
+entonces 3m/s por tiempo es igual a 720 metros.
+
+00:03:00.628 --> 00:03:11.200
+Y esto tiene sentido, al menos las unidades, porque el tiempo será en segundos
+
+00:03:11.200 --> 00:03:14.067
+y se cancela con las segundos en el denominador, así que solo se obtendrá metros,
+
+00:03:14.067 --> 00:03:16.800
+lo que tiene sentido. Así que si usted quiere resolver el tiempo,
+
+00:03:16.800 --> 00:03:25.133
+usted puede dividir ambos lados por 3m/s y al lado izquierdo se cancelan,
+
+00:03:25.133 --> 00:03:42.667
+a lado derecho será igual a 720 dividido entre 3 multiplicado metros en el numerador y m/s en el denominador.
+
+00:03:42.667 --> 00:03:50.713
+Si desea m/s en el numerador, inviertalo poniendo metros en el tope (lo haré en color verde)
+
+00:03:50.713 --> 00:03:58.467
+Por lo que 720 metros divido por m/s, o lo que es lo mismo, a multiplicar por su inverso s/m.
+
+00:03:58.467 --> 00:04:04.867
+Por lo tanto usted obtendrá aquí que las "m" se cancelarán, y resulta 720/3 segundos
+
+00:04:04.867 --> 00:04:12.800
+es decir 720/3, 72 divido entre 3 es 24 por lo que el resultado es 240.
+
+00:04:12.800 --> 00:04:15.698
+Esta parte será 240 en segundos
+
+00:04:15.698 --> 00:04:21.067
+y esa es la única unidad que sobrevive.
+
+00:04:21.067 --> 00:04:28.667
+Al lado izquierdo solamente tenemos el tiempo. por lo que tiempo es 240 segundos.
+
+00:04:28.667 --> 00:04:35.000
+En algunas clases de física muestran todas esas fórmulas, pero lo que quiero que vean
+
+00:04:35.000 --> 00:04:42.067
+es que todas esas fórmulas son solo manipulaciones algebraicas de una sola.
+
+00:04:42.067 --> 00:04:44.955
+Usted no debería memorizar todas ellas,
+
+00:04:44.955 --> 00:04:48.949
+siempre deberías verlas como manipulaciones de las otras fórmulas que tenía anteriormente.
+
+00:04:48.949 --> 00:04:53.200
+Alguna de ellas tienen incluso mucho sentido. Usted puede empezar
+
+00:04:53.200 --> 00:04:55.867
+por cosas de sentido común. Rapidez es distancia dividido entre tiempo
+
+00:04:55.867 --> 00:05:00.280
+y manipularla para obtener las otras cantidades. Esto lo hubiésemos podido hacer aquí multiplicando ambos lados por tiempo,
+
+00:05:00.280 --> 00:05:03.533
+antes de poner las variables. multiplicando por tiempo
+
+00:05:03.533 --> 00:05:05.333
+Si multiplicamos ambos lados por tiempo
+
+00:05:05.333 --> 00:05:15.629
+habría tenido a la derecha de la ecuación
+
+00:05:15.629 --> 00:05:18.733
+que la distancia es tiempo por rapidez o rapidez por tiempo
+
+00:05:18.733 --> 00:05:24.133
+y esto es comunmente visto como la formula de rapidez.
+
+00:05:24.133 --> 00:05:28.957
+Si la manipulas tendras que la distacia es igual a rapidez por tiempo
+
+00:05:28.957 --> 00:05:32.533
+así que todas dicen lo mismo y si deseas el tiempo
+
+00:05:32.533 --> 00:05:36.467
+divides ambos lados por la rapidez
+
+00:05:36.467 --> 00:05:39.667
+y obtienes que distancia dividido entre rapidez es igual al tiempo
+
+00:05:39.667 --> 00:05:47.133
+por los que si tu distancia era 720 m
+
+00:05:47.133 --> 00:05:49.533
+y tu rapidez 3m/s. 720m / 3m/n
+
+00:05:49.533 --> 00:05:53.617
+también te dará un tiempo de 240 segundo.
+
+00:05:53.617 --> 00:05:57.333
+Ahora, si queremos hacer lo mismo pero la versión vectorial
+
+00:05:57.333 --> 00:06:00.867
+la notacion lucirá diferente porque tenemos que seguirle
+
+00:06:00.867 --> 00:06:03.800
+la pista a la dirección
+
+00:06:03.800 --> 00:06:06.133
+así que podemos decir que la velocidad
+
+00:06:06.133 --> 00:06:11.067
+con una flecha arriba.
+
+00:06:11.067 --> 00:06:20.947
+La velocidad es igual a desplazamiento (en azul),
+
+00:06:20.947 --> 00:06:22.867
+recuerden usaremos "s" para el desplazamiento,
+
+00:06:22.867 --> 00:06:24.964
+no queremos usar "d" porque en cálculo
+
+00:06:24.964 --> 00:06:28.957
+"d" es el operador de derivada,
+
+00:06:28.957 --> 00:06:31.533
+si no sabes qué és derivada, no importa por el momento.
+
+00:06:31.533 --> 00:06:39.600
+La "s" es desplazamiento por convención
+
+00:06:39.600 --> 00:06:42.400
+puedes usar cualquier letra pero para evitar confusiones
+
+00:06:42.400 --> 00:06:45.667
+nos usaremos "s"
+
+00:06:45.667 --> 00:06:54.000
+desplazamiento por tiempo, o desplazamiento por cambio de tiempo,
+
+00:06:54.000 --> 00:07:01.067
+que es en realidad usare "t" porque es lo que mas comúnmente existe.
+
+00:07:01.067 --> 00:07:03.533
+Así una vez más si deseamos resolver tiempo,
+
+00:07:03.533 --> 00:07:05.947
+multiplicamos a ambos lado por "t"
+
+00:07:05.947 --> 00:07:08.067
+y después de cancelar las "t" usted obtiene
+
+00:07:08.067 --> 00:07:15.867
+desplazamiento es igual a
+
+00:07:15.867 --> 00:07:25.800
+a velocidad por tiempo.
+
+00:07:25.800 --> 00:07:27.200
+Y para saber el tiempo
+
+00:07:27.200 --> 00:07:32.116
+divides ambos lados por la magnitud de la velocidad
+
+00:07:32.116 --> 00:07:37.733
+por lo que el tiempo es desplazamiento dividido por la magnitud de la velocidad
+
+00:07:37.733 --> 00:07:43.400
+Nuestro desplazamiento es 720m hacia el este
+
+00:07:43.400 --> 00:07:54.291
+por lo que el tiempo será 720 m al este (el despalzamiento)
+
+00:07:54.291 --> 00:08:04.400
+dividido por la magnitud de la velocidad, 3 m/s al este
+
+00:08:04.400 --> 00:08:10.600
+una vez mas 720/3 nos dará 240
+
+00:08:10.600 --> 00:08:22.294
+y las unidades m en el numerador divido entre m/s en el denomidador
+
+00:08:22.294 --> 00:08:24.467
+es igual a multiplicar por s/m se cancelan las "m" y quedaran segundos
+
+00:08:24.467 --> 00:08:28.800
+una nota importante es que hasta ahora los vectores
+
+00:08:28.800 --> 00:08:31.443
+los he denotado diciendo hacia el este o hacia el norte
+
+00:08:31.443 --> 00:08:34.667
+pero ver que iremos a problemas mas complicados
+
+00:08:34.667 --> 00:08:38.293
+lo que vera en las clases o libros de física
+
+00:08:38.293 --> 00:08:42.200
+y es una convención donde dira
+
+00:08:42.200 --> 00:08:47.267
+que la dirección positiva, especialmente cuando se habla de una dimension
+
+00:08:47.267 --> 00:08:49.667
+donde el movimiento es hacia adelante o hacia atras
+
+00:08:49.667 --> 00:08:50.947
+o izquierda o derecha
+
+00:08:50.947 --> 00:08:53.533
+hablaremos de otras cantidades vectoriales cuando nos movamos
+
+00:08:53.533 --> 00:08:54.667
+en dos o tres dimensiones
+
+00:08:54.667 --> 00:08:57.133
+pero la convension es que positivo
+
+00:08:57.133 --> 00:08:59.133
+significa que usted se mueve
+
+00:08:59.133 --> 00:09:05.400
+al este y negativo al oeste
+
+00:09:05.400 --> 00:09:11.962
+así que de esta forma esto hará mejor descripción del problema
+
+00:09:11.962 --> 00:09:15.600
+por lo que esto será 720 metros positivos
+
+00:09:15.600 --> 00:09:18.695
+y 3m/s positivos
+
+00:09:18.695 --> 00:09:20.948
+indicando implicitamente que es hacia el este
+
+00:09:20.948 --> 00:09:22.782
+si fuese negativo se estaria moviendo hacia el oeste
+
+00:09:22.782 --> 00:09:27.467
+Esto lo exploraremos mas en vídeos futuros
+
+00:09:27.467 --> 99:59:59.999
+donde diremos positivo es arriba, negativo abajo

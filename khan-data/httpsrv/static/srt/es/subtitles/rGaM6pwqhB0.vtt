@@ -1,0 +1,538 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:02.700
+Vamos a hacer un par de problemas donde las raíces de la
+
+00:00:02.700 --> 00:00:04.980
+ecuación característica son complejas.
+
+00:00:04.980 --> 00:00:07.380
+Y como un poco de un examen, y pondremos esto
+
+00:00:07.380 --> 00:00:09.460
+aquí, en la esquina, por lo que es útil para nosotros.
+
+00:00:09.460 --> 00:00:12.600
+Aprendimos que si las raíces de nuestra ecuación característica
+
+00:00:12.600 --> 00:00:19.290
+son r es igual a lambda más o menos mu i, que el
+
+00:00:19.290 --> 00:00:26.360
+solución general de nuestra ecuación diferencial es y
+
+00:00:26.360 --> 00:00:34.740
+igual a e a la lambda x veces c1 con alguna constante
+
+00:00:34.740 --> 00:00:45.120
+coseno de mu x plus c2 veces sinusoidal de mu x.
+
+00:00:45.120 --> 00:00:47.310
+Y dicho esto, vamos a hacer algunos problemas.
+
+00:00:47.310 --> 00:00:49.860
+Así que vamos a ver, una primera que nuestro diferencial
+
+00:00:49.860 --> 00:00:52.040
+ecuación--voy a hacer uno en azul--nuestro diferencial
+
+00:00:52.040 --> 00:00:57.320
+la ecuación es la segunda derivada, y primos primer plus
+
+00:00:57.320 --> 00:01:05.700
+4y prime plus 5y es igual a 0.
+
+00:01:05.700 --> 00:01:09.200
+Y realmente nos dan algunas condiciones iniciales.
+
+00:01:09.200 --> 00:01:15.610
+Dicen y 0 es igual a 1 y prime y de
+
+00:01:15.610 --> 00:01:22.980
+0 es igual a 0.
+
+00:01:22.980 --> 00:01:25.660
+Así que ahora realmente podremos averiguar un particular
+
+00:01:25.660 --> 00:01:28.000
+solución o la solución particular, en este
+
+00:01:28.000 --> 00:01:29.260
+ecuación diferencial.
+
+00:01:29.260 --> 00:01:31.580
+Así que vamos a escribir la ecuación característica.
+
+00:01:31.580 --> 00:01:41.700
+Por lo que es r squared plus 4r plus 5 es igual a 0.
+
+00:01:41.700 --> 00:01:43.890
+Vamos a romper nuestra Fórmula cuadrática.
+
+00:01:43.890 --> 00:01:47.600
+Las raíces de este va a ser b negativo.
+
+00:01:47.600 --> 00:01:54.290
+Por lo tanto menos 4 más o menos la raíz cuadrada de b al cuadrado.
+
+00:01:54.290 --> 00:01:56.210
+Por lo es 16.
+
+00:01:56.210 --> 00:02:05.240
+Menos 4 veces--bueno eso 1--veces c 1, veces veces 5.
+
+00:02:05.240 --> 00:02:07.940
+Todos de que más de 2 veces un.
+
+00:02:07.940 --> 00:02:10.880
+una es 1 así que todo eso sobre 2.
+
+00:02:10.880 --> 00:02:12.240
+Y con esto se simplifica.
+
+00:02:12.240 --> 00:02:19.830
+¿Esto equivale a menos 4 más o menos 16--esto es 20, correcto?
+
+00:02:19.830 --> 00:02:22.310
+4 veces 1 veces 5 es 20.
+
+00:02:22.310 --> 00:02:25.990
+Por lo que 16 menos 20 es menos 4.
+
+00:02:25.990 --> 00:02:29.590
+Menos 4 sobre 2.
+
+00:02:29.590 --> 00:02:38.670
+¿Y que equivale a menos 4 más o menos 2i, correcto?
+
+00:02:38.670 --> 00:02:40.580
+Raíz cuadrada de menos 4 es 2i.
+
+00:02:40.580 --> 00:02:42.820
+Todos los más de 2 años.
+
+00:02:42.820 --> 00:02:47.900
+Por lo tanto nuestras raíces de la ecuación característica
+
+00:02:47.900 --> 00:02:53.100
+menos 2--simplemente dividiendo por 2--menos 2 más o menos,
+
+00:02:53.100 --> 00:02:56.610
+¿podríamos decir o 1i, derecha?
+
+00:02:56.610 --> 00:02:58.910
+Así que si queríamos hacer alguna coincidencia de patrón, si acabamos
+
+00:02:58.910 --> 00:03:01.050
+quería hacerlo realmente rápido, ¿cuál es nuestra lambda?
+
+00:03:01.050 --> 00:03:03.120
+Nuestra lambda es apenas menos de 1.
+
+00:03:03.120 --> 00:03:04.840
+Permítanme anote.
+
+00:03:04.840 --> 00:03:07.800
+Esa es nuestra lambda.
+
+00:03:07.800 --> 00:03:09.110
+¿Cuál es nuestro mu?
+
+00:03:09.110 --> 00:03:14.800
+Mu bien es el coeficiente en el i, por lo que mu es 1.
+
+00:03:14.800 --> 00:03:16.260
+Mu es igual a 1.
+
+00:03:16.260 --> 00:03:19.360
+Y ahora estamos listos para escribir nuestra solución general.
+
+00:03:19.360 --> 00:03:23.270
+Por lo tanto la solución general de esta ecuación diferencial es
+
+00:03:23.270 --> 00:03:28.570
+y es igual a e a la lambda x--bien lambda es menos 2--
+
+00:03:28.570 --> 00:03:36.780
+menos 2 veces x c1 coseno de mu x--pero mu es sólo 1--así c1
+
+00:03:36.780 --> 00:03:42.370
+coseno de x, más c2 sinusoidal de mu x, cuando es mu
+
+00:03:42.370 --> 00:03:44.970
+1, tan seno de x.
+
+00:03:44.970 --> 00:03:46.070
+Bastante justo.
+
+00:03:46.070 --> 00:03:47.890
+Ahora vamos a usar nuestras condiciones iniciales para encontrar la
+
+00:03:47.890 --> 00:03:50.990
+solución en particular, o una solución particular.
+
+00:03:50.990 --> 00:03:53.780
+Así, cuando x es 0, y es igual a 1.
+
+00:03:53.780 --> 00:03:57.440
+Así, y es igual a 1 cuando x es 0.
+
+00:03:57.440 --> 00:04:00.630
+Por lo que 1 es igual a--vamos a sustituir x es 0 aquí.
+
+00:04:00.630 --> 00:04:05.140
+Tan e al menos 2 veces 0, que es sólo 1.
+
+00:04:05.140 --> 00:04:07.460
+Así que todo esto se convierte en 1, por lo que sólo podríamos ignorarlo.
+
+00:04:07.460 --> 00:04:09.490
+Es sólo 1 veces esta cosa.
+
+00:04:09.490 --> 00:04:11.740
+Así que voy a escribir hacia abajo.
+
+00:04:11.740 --> 00:04:18.970
+e a la 0 es 1 veces c1 veces coseno de 0, además de c2
+
+00:04:18.970 --> 00:04:22.300
+seno de tiempos de 0.
+
+00:04:22.300 --> 00:04:23.530
+Ahora, ¿qué es sinusoidal de 0?
+
+00:04:23.530 --> 00:04:25.290
+Seno de 0 es 0.
+
+00:04:25.290 --> 00:04:28.400
+Por lo tanto este término todo va a ser 0.
+
+00:04:28.400 --> 00:04:31.480
+Coseno de 0 es 1.
+
+00:04:31.480 --> 00:04:34.080
+Así que, ya solucionado para c1.
+
+00:04:34.080 --> 00:04:35.570
+Conseguimos esto, esto es 1.
+
+00:04:35.570 --> 00:04:39.440
+Por lo tanto c1 1 veces veces 1 es igual a 1.
+
+00:04:39.440 --> 00:04:41.340
+Así conseguimos nuestro primer coeficiente.
+
+00:04:41.340 --> 00:04:44.880
+C1 es igual a 1.
+
+00:04:44.880 --> 00:04:49.020
+Ahora tomemos la derivada de nuestra solución general.
+
+00:04:49.020 --> 00:04:51.180
+Y aun podríamos sustituir c1 aquí, tan sólo que nos
+
+00:04:51.180 --> 00:04:53.740
+hay que dejar de escribir c1 todo el tiempo.
+
+00:04:53.740 --> 00:04:56.630
+Y podemos resolver para c2.
+
+00:04:56.630 --> 00:05:02.260
+Así que ahora sabemos que nuestra solución general y--nos
+
+00:05:02.260 --> 00:05:03.960
+Esto podría llamar nuestra solución pseudo-general,
+
+00:05:03.960 --> 00:05:07.070
+porque ya hemos resuelto para c1--y es igual a e a la
+
+00:05:07.070 --> 00:05:12.630
+menos 2 veces x c1, pero sabemos que C1 es 1, por lo que voy a escribir
+
+00:05:12.630 --> 00:05:20.130
+veces coseno de x, además de c2 veces seno de x.
+
+00:05:20.130 --> 00:05:22.180
+Ahora tomemos la derivada de ello, por lo que podemos utilizar
+
+00:05:22.180 --> 00:05:24.520
+la segunda condición inicial.
+
+00:05:24.520 --> 00:05:27.840
+Por lo que es igual a--primer y vamos a tener que hacer un poco
+
+00:05:27.840 --> 00:05:29.970
+broca de regla del producto.
+
+00:05:29.970 --> 00:05:32.450
+¿Cuál es la derivada de la primera expresión?
+
+00:05:32.450 --> 00:05:37.345
+Es menos 2e al menos x 2.
+
+00:05:37.345 --> 00:05:39.860
+Y multiplicamos veces la segunda expresión.
+
+00:05:39.860 --> 00:05:45.860
+Coseno de x plus c2 seno de x.
+
+00:05:45.860 --> 00:05:49.390
+Y, a continuación, añadimos a sólo la primera expresión regular.
+
+00:05:49.390 --> 00:05:54.190
+Así plus e al menos x 2 veces la derivada de la
+
+00:05:54.190 --> 00:05:55.840
+segunda expresión.
+
+00:05:55.840 --> 00:05:57.750
+¿Cuál es la derivada del coseno de x?
+
+00:05:57.750 --> 00:05:59.440
+Es menos seno de x.
+
+00:06:02.360 --> 00:06:04.840
+Y entonces ¿qué es la derivada del seno de c2 de x?
+
+00:06:04.840 --> 00:06:07.750
+Bueno, es además c2 coseno de x.
+
+00:06:11.290 --> 00:06:17.080
+Y vamos a ver si podemos hacer cualquier tipo de simplificación aquí.
+
+00:06:17.080 --> 00:06:18.730
+Bueno de hecho, la forma más fácil, en lugar de intentar
+
+00:06:18.730 --> 00:06:21.310
+Simplifique la TI algebraicamente y todo, vamos a utilizar nuestra
+
+00:06:21.310 --> 00:06:22.530
+condición inicial.
+
+00:06:22.530 --> 00:06:25.640
+Nuestra condición inicial es primo y 0 es igual a 0.
+
+00:06:25.640 --> 00:06:27.940
+Permítanme anote.
+
+00:06:27.940 --> 00:06:32.170
+Segunda condición inicial era primo y 0 es igual a 0.
+
+00:06:32.170 --> 00:06:36.800
+Tan y primo, cuando x es igual a 0, es igual a 0.
+
+00:06:36.800 --> 00:06:39.210
+Y vamos a sustituir x es igual a 0 en esta cosa.
+
+00:06:39.210 --> 00:06:41.110
+Nos podríamos haber simplificado esto más, pero vamos no te preocupes
+
+00:06:41.110 --> 00:06:42.500
+por eso ahora mismo.
+
+00:06:42.500 --> 00:06:46.510
+¿Así que si x es 0, esto va a ser 1, derecha?
+
+00:06:46.510 --> 00:06:48.370
+E el 0.
+
+00:06:48.370 --> 00:06:52.250
+¿e a la 0 es 1, por lo que estamos salimos con sólo menos de 2, derecha?
+
+00:06:52.250 --> 00:06:58.490
+Menos 2 veces e 0, tiempos coseno de 0, es 1,
+
+00:06:58.490 --> 00:07:01.060
+Además c2 veces sinusoidal de 0.
+
+00:07:01.060 --> 00:07:02.550
+Seno de 0 es 0.
+
+00:07:02.550 --> 00:07:08.010
+Eso es sólo 1 + 0, plus e al menos 2 veces 0.
+
+00:07:08.010 --> 00:07:09.880
+Eso sólo 1.
+
+00:07:09.880 --> 00:07:11.870
+Veces menos seno de 0.
+
+00:07:11.870 --> 00:07:14.250
+Seno de 0 es 0.
+
+00:07:14.250 --> 00:07:16.530
+Además c2 veces coseno de 0.
+
+00:07:16.530 --> 00:07:17.870
+Coseno de 0 es 1.
+
+00:07:17.870 --> 00:07:19.520
+Así que además de c2.
+
+00:07:19.520 --> 00:07:21.070
+¿Que cosas simplificadas, no lo?
+
+00:07:21.070 --> 00:07:25.730
+Así que vamos a ver, obtenemos 0 es igual a--esto es solo 1--
+
+00:07:25.730 --> 00:07:30.130
+menos 2 más c2.
+
+00:07:30.130 --> 00:07:34.490
+U obtenemos c2 es igual a 2.
+
+00:07:34.490 --> 00:07:38.090
+Añadir 2 a ambos lados.
+C2 es igual a 2.
+
+00:07:38.090 --> 00:07:41.950
+Y luego tenemos nuestra solución particular.
+
+00:07:41.950 --> 00:07:46.230
+Sé la c2 es igual a 2, c1 es igual a 1.
+
+00:07:46.230 --> 00:07:49.160
+En realidad, quiero borrar algo de esto, para que podemos ir
+
+00:07:49.160 --> 00:07:51.245
+desde nuestra solución general de nuestra solución particular.
+
+00:07:56.170 --> 00:07:59.600
+Por lo que nosotros habíamos pensado, puede recordar, c1 es 1 y c2 es 2.
+
+00:07:59.600 --> 00:08:02.570
+Eso es fácil de memorizar.
+
+00:08:02.570 --> 00:08:05.230
+Tan sólo podrá eliminar todo esto.
+
+00:08:05.230 --> 00:08:10.490
+Voy a escribir bonito y grande.
+
+00:08:10.490 --> 00:08:13.070
+Así que nuestra solución particular, habida cuenta de estas iniciales
+
+00:08:13.070 --> 00:08:20.980
+las condiciones, fueron, o son o es de x es igual a este
+
+00:08:20.980 --> 00:08:26.220
+fue una solución general--e negativo x 2 veces--solucionamos
+
+00:08:26.220 --> 00:08:27.930
+para c1, es igual a 1.
+
+00:08:27.930 --> 00:08:30.890
+Tan sólo podemos escribir coseno de x.
+
+00:08:30.890 --> 00:08:31.950
+Y, a continuación, hemos resuelto para c2.
+
+00:08:31.950 --> 00:08:33.090
+Hemos descubierto que era 2.
+
+00:08:33.090 --> 00:08:36.860
+Plus 2 seno de x.
+
+00:08:36.860 --> 00:08:37.909
+Y hay ir.
+
+00:08:37.909 --> 00:08:42.710
+Tenemos nuestra solución particular--donde lo siento
+
+00:08:42.710 --> 00:08:45.200
+escribo TI--a esta ecuación diferencial con
+
+00:08:45.200 --> 00:08:46.290
+estas condiciones iniciales.
+
+00:08:46.290 --> 00:08:50.870
+Y lo que es limpio es, cuando originalmente tipo de demostramos esto
+
+00:08:50.870 --> 00:08:53.070
+fórmula--cuando mostramos originalmente esta fórmula--tuvimos
+
+00:08:53.070 --> 00:08:55.110
+todos estos i y hemos simplificado.
+
+00:08:55.110 --> 00:08:57.210
+Dijimos c2, fue una combinación de otros
+
+00:08:57.210 --> 00:08:58.640
+constantes veces algunos i
+
+00:08:58.640 --> 00:09:01.380
+Y dijimos, oh no sabemos si son imaginarios o
+
+00:09:01.380 --> 00:09:03.075
+no, así que vamos a simplemente combinarlos en una constante.
+
+00:09:03.075 --> 00:09:06.890
+Pero lo más interesante es que esta solución en particular no tiene i
+
+00:09:06.890 --> 00:09:09.570
+en cualquier lugar en ella.
+
+00:09:09.570 --> 00:09:12.530
+Y así, nos dice un par de cosas ordenadas.
+
+00:09:12.530 --> 00:09:18.470
+Uno que, si nos habíamos mantenido este c2 en términos de algunos múltiples
+
+00:09:18.470 --> 00:09:20.745
+i, y nuestros constantes realmente habría tenido i
+
+00:09:20.745 --> 00:09:22.440
+y habría cancelado, etcétera.
+
+00:09:22.440 --> 00:09:26.860
+Y también nos dice que esta fórmula es útil más allá de
+
+00:09:26.860 --> 00:09:29.230
+fórmulas que sólo involucran números imaginarios.
+
+00:09:29.230 --> 00:09:32.460
+Por ejemplo, esta ecuación diferencial, no veo una i
+
+00:09:32.460 --> 00:09:34.070
+cualquier lugar aquí.
+
+00:09:34.070 --> 00:09:36.790
+No veo aquí a una i en cualquier lugar.
+
+00:09:36.790 --> 00:09:40.320
+Y aquí no veo una i en cualquier lugar.
+
+00:09:40.320 --> 00:09:42.190
+Pero dada esta ecuación diferencial, para llegar a la
+
+00:09:42.190 --> 00:09:45.770
+solución, hemos tenido que utilizar entre números imaginarios.
+
+00:09:45.770 --> 00:09:48.990
+Y creo que esta es la primera vez--si estoy recordando a todos
+
+00:09:48.990 --> 00:09:51.800
+Mis listas de reproducción correctamente--esta es la primera vez que usamos
+
+00:09:51.800 --> 00:09:54.120
+números imaginarios para algo útil.
+
+00:09:54.120 --> 00:09:58.760
+Hemos utilizado como una herramienta intermedia donde tenemos un real, un
+
+00:09:58.760 --> 00:10:02.070
+no imaginario solución a un problema real, un
+
+00:10:02.070 --> 00:10:03.140
+problema no imaginario.
+
+00:10:03.140 --> 00:10:06.100
+Pero hemos utilizado números imaginarios como una herramienta para solucionarlo.
+
+00:10:06.100 --> 00:10:08.370
+Así que, con suerte, has encontrado que algo interesante.
+
+00:10:08.370 --> 00:10:10.960
+Y nos vemos en el siguiente vídeo.

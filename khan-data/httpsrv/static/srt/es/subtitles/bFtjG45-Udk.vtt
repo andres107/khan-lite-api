@@ -1,0 +1,570 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.600
+
+
+00:00:00.600 --> 00:00:02.770
+Y ahora quiero hacer un montón de ejemplos de
+
+00:00:02.770 --> 00:00:07.160
+probablemente los dos tipos más característicos de la
+
+00:00:07.160 --> 00:00:10.550
+multiplicación de polinomios que sin duda verán en el álgebra.
+
+00:00:10.550 --> 00:00:13.640
+el primero es sólo el cuadrado del binomio.
+
+00:00:13.640 --> 00:00:20.600
+Así que si tengo x más 9 al cuadrado, sé que se sentirán tentados
+
+00:00:20.600 --> 00:00:24.630
+a decir, oh, ¿no es eso x al cuadrado más 9 al cuadrado?
+
+00:00:24.630 --> 00:00:26.260
+Y yo les diré, no, no lo es.
+
+00:00:26.260 --> 00:00:28.260
+Tienen que resistir todas las tentaciones del
+
+00:00:28.260 --> 00:00:29.660
+planeta de hacer eso.
+
+00:00:29.660 --> 00:00:32.280
+No es x al cuadrado más 9 al cuadrado.
+
+00:00:32.280 --> 00:00:40.610
+Recuerden, x más 9 al cuadrado , esto es igual a x más 9,
+
+00:00:40.610 --> 00:00:43.630
+multiplicado por x más 9.
+
+00:00:43.630 --> 00:00:47.940
+Esta es una multiplicación de este binomio por sí mismo.
+
+00:00:47.940 --> 00:00:49.350
+Siempre hay que recordar eso.
+
+00:00:49.350 --> 00:00:52.900
+Es muy tentador pensar que es solo x al cuadrado más
+
+00:00:52.900 --> 00:00:55.760
+9 al cuadrado, pero no, tienen que expandirlo
+
+00:00:55.760 --> 00:00:59.160
+Y ahora que lo hemos expandido, podemos utilizar algunas de los
+
+00:00:59.160 --> 00:01:02.250
+las habilidades que hemos aprendido en el último vídeo para multiplicarlo
+
+00:01:02.250 --> 00:01:04.370
+Y sólo para demostrar que podemos hacerlo de la manera en que
+
+00:01:04.370 --> 00:01:09.910
+multiplicamos el trinomio la vez pasada, vamos a multiplicar x + 9,
+
+00:01:09.910 --> 00:01:15.760
+por x mas 9 en magenta
+
+00:01:15.760 --> 00:01:18.850
+Y lo hago asi sólo para mostrar cuando estoy
+
+00:01:18.850 --> 00:01:20.880
+multiplicando por este 9 contra esta x.
+
+00:01:20.880 --> 00:01:21.740
+Hagámoslo
+
+00:01:21.740 --> 00:01:23.970
+Así que tenemos 9 veces 9 es 81.
+
+00:01:23.970 --> 00:01:25.800
+Póngalo en el lugar de las constantes
+
+00:01:25.800 --> 00:01:29.630
+9 veces x es 9x.
+
+00:01:29.630 --> 00:01:32.830
+Entonces tenemos - hay que cambiar este término x - tenemos un amarillo
+
+00:01:32.830 --> 00:01:36.240
+x. x multiplicado por 9x es 9x.
+
+00:01:36.240 --> 00:01:38.022
+Pónganlo en el espacio de primer grado.
+
+00:01:38.022 --> 00:01:40.960
+x por x es x al cuadrado.
+
+00:01:40.960 --> 00:01:43.670
+
+
+00:01:43.670 --> 00:01:45.700
+Y luego sumamos todo.
+
+00:01:45.700 --> 00:01:52.520
+Y tenemos x al cuadrado más 18x más 81.
+
+00:01:52.520 --> 00:01:57.650
+Esto es igual al x al cuadrado más 18x más 81
+
+00:01:57.650 --> 00:02:00.560
+Ahora tal vez vean un patrón aquí, y de hecho
+
+00:02:00.560 --> 00:02:02.965
+lo haré explícito en un segundo.
+
+00:02:02.965 --> 00:02:06.010
+Pero cuando se eleva al cuadrado un binomio, ¿qué pasa?
+
+00:02:06.010 --> 00:02:07.750
+Tienen x al cuadrado.
+
+00:02:07.750 --> 00:02:11.190
+Tienen esta x po esta x, que da x al cuadrado.
+
+00:02:11.190 --> 00:02:13.920
+Tienen 9 por 9, que es 81.
+
+00:02:13.920 --> 00:02:16.950
+Y luego tienen este término de aquí, que es 18x.
+
+00:02:16.950 --> 00:02:18.910
+¿Cómo hemos obtuvimos el 18x?
+
+00:02:18.910 --> 00:02:23.210
+Bueno, hemos multiplicado este x por 9 para obtener 9x, y luego
+
+00:02:23.210 --> 00:02:26.510
+multiplicamos este 9 por x para obtener otro 9x.
+
+00:02:26.510 --> 00:02:29.960
+Y luego los sumamos aquí para obtener 18x.
+
+00:02:29.960 --> 00:02:33.250
+Así pues, en general, siempre que tenga un binomio al cuadrado
+
+00:02:33.250 --> 00:02:33.890
+déjenme hacerlo de esta manera.
+
+00:02:33.890 --> 00:02:38.250
+Lo haré en términos muy generales. Digamos que tenemos un
+
+00:02:38.250 --> 00:02:39.630
+más b al cuadrado.
+
+00:02:39.630 --> 00:02:42.340
+
+
+00:02:42.340 --> 00:02:44.740
+Lo multiplicaré de esta manera una vez más, sólo para darles la
+
+00:02:44.740 --> 00:02:45.630
+una idea.
+
+00:02:45.630 --> 00:02:53.250
+Esto es igual a más b por un ---lo haré en verde
+
+00:02:53.250 --> 00:02:54.770
+más b, justo aquí.
+
+00:02:54.770 --> 00:02:58.440
+Así que tenemos que b por b es b al cuadrado.
+
+00:02:58.440 --> 00:03:00.410
+Vamos a suponer que este es un término constante.
+
+00:03:00.410 --> 00:03:04.510
+Lo pondré en el b al cuadrado justo aquí.
+
+00:03:04.510 --> 00:03:05.860
+Asumo que esto es constante.
+
+00:03:05.860 --> 00:03:07.060
+Así que esto sería una constante, esto sería
+
+00:03:07.060 --> 00:03:08.660
+análogo a nuestra 81.
+
+00:03:08.660 --> 00:03:11.640
+a es una variable que - en realidad déjenme cambiar esto
+
+00:03:11.640 --> 00:03:13.040
+mucho mejor.
+
+00:03:13.040 --> 00:03:21.270
+Déjenme hacer este x más b al cuadrado y estamos asumiendo que b
+
+00:03:21.270 --> 00:03:22.750
+es una constante.
+
+00:03:22.750 --> 00:03:30.890
+Por lo que sería x más b por x más una b verde... allí mismo.
+
+00:03:30.890 --> 00:03:34.700
+Así que suponiendo que b es una constante, b por b es b al cuadrado.
+
+00:03:34.700 --> 00:03:38.060
+b por x es bx.
+
+00:03:38.060 --> 00:03:40.090
+Y entonces haremos la x magenta.
+
+00:03:40.090 --> 00:03:43.140
+x por b es bx.
+
+00:03:43.140 --> 00:03:46.900
+Y luego x por x es x al cuadrado.
+
+00:03:46.900 --> 00:03:50.330
+Así que cuando se suma todo, se quedan con x al cuadrado
+
+00:03:50.330 --> 00:03:56.840
+más 2bx, más b al cuadrado.
+
+00:03:56.840 --> 00:04:02.010
+Así que lo que vemos es el producto final, lo que se tiene cuando
+
+00:04:02.010 --> 00:04:06.340
+tienen x más b al cuadrado, es x al cuadrado más 2 por
+
+00:04:06.340 --> 00:04:10.490
+el producto de x y b, más b al cuadrado.
+
+00:04:10.490 --> 00:04:13.750
+Así que dado éste patrón, vamos a hacer un montón más de ellos.
+
+00:04:13.750 --> 00:04:17.910
+
+
+00:04:17.910 --> 00:04:19.709
+Y voy a hacerlo de la manera rápida.
+
+00:04:19.709 --> 00:04:23.850
+3x menos 7 al cuadrado .
+
+00:04:23.850 --> 00:04:25.980
+Vamos a recordar lo que les dije.
+
+00:04:25.980 --> 00:04:29.340
+No lo recuerden sólo vagamente, deben
+
+00:04:29.340 --> 00:04:30.780
+saber por qué tiene sentido.
+
+00:04:30.780 --> 00:04:33.350
+Si tuviera que multiplicar esto, use la propiedad distributiva
+
+00:04:33.350 --> 00:04:36.740
+dos veces, saben que van a obtener la misma respuesta.
+
+00:04:36.740 --> 00:04:44.730
+Así que esto va a ser igual a 3x al cuadrado, más 2 por
+
+00:04:44.730 --> 00:04:48.990
+3x por menos 7
+
+00:04:48.990 --> 00:04:49.280
+¿Cierto?
+
+00:04:49.280 --> 00:04:53.630
+Sabemos que es 2 veces el producto de estos términos,
+
+00:04:53.630 --> 00:04:57.700
+más menos 7al cuadrado.
+
+00:04:57.700 --> 00:05:01.200
+Y si usamos nuestras reglas producto aquí, 3x al cuadrado es
+
+00:05:01.200 --> 00:05:03.950
+lo mismo que 9x al cuadrado.
+
+00:05:03.950 --> 00:05:06.440
+Este de aquí, vamos a tener 2 por 3, que es
+
+00:05:06.440 --> 00:05:11.980
+6 por menos 7, que es 42x negativo.
+
+00:05:11.980 --> 00:05:16.670
+Y luego menos 7 al cuadrado es más 49.
+
+00:05:16.670 --> 00:05:17.930
+Esa fue la forma rápida.
+
+00:05:17.930 --> 00:05:20.600
+Y sólo para asegurarse de que no estoy haciendo algo extraño,
+
+00:05:20.600 --> 00:05:22.950
+déjenme hacerlo de la manera lenta para ustedes.
+
+00:05:22.950 --> 00:05:32.320
+3x menos 7 por 3x menos 7.
+
+00:05:32.320 --> 00:05:36.940
+7 negativo por 7 negativo es 49 positivo.
+
+00:05:36.940 --> 00:05:42.310
+7 negativo por 3x es 21x negativo.
+
+00:05:42.310 --> 00:05:47.220
+3x por 7 negativo es 21x negativo.
+
+00:05:47.220 --> 00:05:52.280
+3x por 3x 9 x al cuadrado.
+
+00:05:52.280 --> 00:05:54.060
+Desplacémonos hacia la izquierda un poco.
+
+00:05:54.060 --> 00:05:55.050
+Sumen todo.
+
+00:05:55.050 --> 00:06:02.060
+Se quedan con 9x al cuadrado, menos 42x, más 49.
+
+00:06:02.060 --> 00:06:05.050
+Así que, efectivamente, obtenemos la misma respuesta.
+
+00:06:05.050 --> 00:06:07.580
+Vamos a hacer uno más, y lo haremos de la manera rápida.
+
+00:06:07.580 --> 00:06:12.130
+Así que si tenemos 8x menos 3 - de hecho, déjenme hacer uno que
+
+00:06:12.130 --> 00:06:13.920
+tenga más variables.
+
+00:06:13.920 --> 00:06:19.370
+Digamos que tenemos 4x al cuadrado más y al cuadrado y queremos
+
+00:06:19.370 --> 00:06:21.360
+elevarlo al cuadrado
+
+00:06:21.360 --> 00:06:22.720
+Bueno, la misma idea.
+
+00:06:22.720 --> 00:06:27.820
+Esto va a ser igual a este término al cuadrado, 4x al cuadrado
+
+00:06:27.820 --> 00:06:32.840
+más 2 veces el producto de ambos términos, 2 veces
+
+00:06:32.840 --> 00:06:39.210
+4x al cuadrado por y al cuadrado, más y
+
+00:06:39.210 --> 00:06:42.710
+al cuadrado, este término, al cuadrado.
+
+00:06:42.710 --> 00:06:44.800
+Y ¿esto a qué va a ser igual?
+
+00:06:44.800 --> 00:06:48.430
+Esto va a ser igual a 16 - a la derecha, 4 al cuadrado es 16 -
+
+00:06:48.430 --> 00:06:53.320
+x al cuadrado, al cuadrado, es 2 por 2, por lo que es x
+
+00:06:53.320 --> 00:06:54.730
+a la cuarta potencia
+
+00:06:54.730 --> 00:06:58.330
+Y luego, más 2 por veces 4 por 1, que es
+
+00:06:58.330 --> 00:07:01.820
+8x cuadrado y al cuadrado.
+
+00:07:01.820 --> 00:07:07.300
+Y luego y al cuadrado, al cuadrado, es y a la cuarta.
+
+00:07:07.300 --> 00:07:10.390
+Ahora, hemos estado tratando con el cuadrado de un binomio.
+
+00:07:10.390 --> 00:07:13.140
+El siguiente ejemplo que quiero mostrar es cuando tengo el
+
+00:07:13.140 --> 00:07:15.700
+producto de una suma y una diferencia.
+
+00:07:15.700 --> 00:07:18.350
+Y éste realmente se ve muy bien.
+
+00:07:18.350 --> 00:07:20.160
+Así que voy a hacer uno muy general para ustedes.
+
+00:07:20.160 --> 00:07:28.160
+Vamos a hacer a mas b por a menos b
+
+00:07:28.160 --> 00:07:30.400
+Así que ¿a qué va a ser igual esto?
+
+00:07:30.400 --> 00:07:36.660
+Esto va a ser igual a: a por a - voy a hacer estas
+
+00:07:36.660 --> 00:07:41.260
+en diferentes colores - así que a menos b, sólo así
+
+00:07:41.260 --> 00:07:45.900
+Por lo tanto, va a ser esta a por esta a magenta,
+
+00:07:45.900 --> 00:07:55.380
+a por a, más, o quizá debería decir menos, la a verde
+
+00:07:55.380 --> 00:07:56.670
+por esta b.
+
+00:07:56.670 --> 00:07:59.560
+Tengo el signo menos de ahí.
+
+00:07:59.560 --> 00:08:04.370
+Y luego vamos a tener la b verde, así que más la b verde
+
+00:08:04.370 --> 00:08:07.230
+por la a magenta.
+
+00:08:07.230 --> 00:08:10.920
+Sólo estoy multiplicando cada término por cada término.
+
+00:08:10.920 --> 00:08:17.250
+Y, finalmente, menos la b verde - que es donde sale
+
+00:08:17.250 --> 00:08:19.050
+el menos - menos la b verde
+
+00:08:19.050 --> 00:08:22.370
+por la b magenta.
+
+00:08:22.370 --> 00:08:23.590
+¿Y a qué va ser igual esto?
+
+00:08:23.590 --> 00:08:27.220
+Esto va a ser igual a un cuadrado, y luego
+
+00:08:27.220 --> 00:08:29.020
+esto es menos ab.
+
+00:08:29.020 --> 00:08:32.840
+Esto podría ser reescrito como más ab, y entonces tenemos
+
+00:08:32.840 --> 00:08:35.039
+menos b cuadrado.
+
+00:08:35.039 --> 00:08:39.130
+Estas aquí se anulan, menos ab mas ab, por lo que se quedan
+
+00:08:39.130 --> 00:08:42.600
+sólo con un menos b al cuadrado
+
+00:08:42.600 --> 00:08:44.430
+Que es un resultado muy claro, ya que
+
+00:08:44.430 --> 00:08:46.120
+realmente simplifica las cosas.
+
+00:08:46.120 --> 00:08:49.190
+Así que vamos a utilizar esa idea para hacer algo de multiplicación.
+
+00:08:49.190 --> 00:08:55.470
+Si decimos que 2x menos 1 por 2x más 1.
+
+00:08:55.470 --> 00:08:56.710
+Bueno, estos son la misma cosa.
+
+00:08:56.710 --> 00:09:01.810
+El 2x + 1, se puede ver esto como, si se quiere, un más b
+
+00:09:01.810 --> 00:09:06.750
+y el 2x menos 1, se puede ver como un menos b, donde
+
+00:09:06.750 --> 00:09:10.830
+esto es a, y esa b es 1.
+
+00:09:10.830 --> 00:09:13.440
+Est es b.
+
+00:09:13.440 --> 00:09:15.010
+Esto es a.
+
+00:09:15.010 --> 00:09:18.660
+Sólo usando este patrón que apenas descubrimos
+
+00:09:18.660 --> 00:09:19.680
+Entonces, ¿a qué va a ser igual?
+
+00:09:19.680 --> 00:09:24.820
+Va a ser a cuadrada, va a ser 2x al cuadrado,
+
+00:09:24.820 --> 00:09:29.490
+menos b cuadrada, menos 1 al cuadrado.
+
+00:09:29.490 --> 00:09:32.790
+2x al cuadrado es 4x al cuadrado.
+
+00:09:32.790 --> 00:09:36.180
+1al cuadrado es 1, así que menos 1.
+
+00:09:36.180 --> 00:09:39.210
+Por lo tanto, va a ser 4x al cuadrado menos uno.
+
+00:09:39.210 --> 00:09:41.560
+Vamos a hacer uno más de estos, sólo para realmente
+
+00:09:41.560 --> 00:09:42.890
+darle al clavo
+
+00:09:42.890 --> 00:09:45.590
+
+
+00:09:45.590 --> 00:09:47.290
+Ahora me enfocaré en la multiplicación
+
+00:09:47.290 --> 00:09:52.040
+Si tengo 5a menos 2b, y lo multiplico por
+
+00:09:52.040 --> 00:09:54.910
+5a mas 2b.
+
+00:09:54.910 --> 00:09:58.640
+Y recuerden, esto sólo aplica cuando tengo el
+
+00:09:58.640 --> 00:10:00.750
+producto de una suma y una diferencia.
+
+00:10:00.750 --> 00:10:02.410
+Esa es la única vez que puedo usar esto.
+
+00:10:02.410 --> 00:10:03.850
+Y les he mostrado por qué.
+
+00:10:03.850 --> 00:10:06.320
+Y si tienen alguna duda, sólo se multipliquenlo.
+
+00:10:06.320 --> 00:10:07.880
+Les tomará un poco más.
+
+00:10:07.880 --> 00:10:09.630
+Y verán a los términos cancelarse.
+
+00:10:09.630 --> 00:10:13.070
+No se puede hacer esto para cualquier multiplicación binomial.
+
+00:10:13.070 --> 00:10:14.590
+Ya lo vieron en el video anterior, cuando estabamos
+
+00:10:14.590 --> 00:10:17.080
+multiplicando, cuando estábamos haciendo cuadrados.
+
+00:10:17.080 --> 00:10:19.560
+Así que esto va a ser, con el patrón, va a ser
+
+00:10:19.560 --> 00:10:28.310
+5a al cuadrado menos 2b al cuadrado, lo que equivale a 25a al squared
+
+00:10:28.310 --> 00:10:31.400
+menos 4b al cuadrado.
+
+00:10:31.400 --> 00:10:34.330
+Y, bueno, voy a dejarlo aquí, y nos vemos en
+
+00:10:34.330 --> 00:10:35.900
+el siguiente video.

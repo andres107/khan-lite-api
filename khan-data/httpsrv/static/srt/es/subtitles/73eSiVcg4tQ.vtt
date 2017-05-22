@@ -1,0 +1,117 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+parte B
+
+99:59:59.999 --> 99:59:59.999
+encuentre la pendiente de la recta tangente al recorrido de la partícula en el tiempo t=3
+
+99:59:59.999 --> 99:59:59.999
+entonces la pendiente de la recta tangente sera igual a
+
+99:59:59.999 --> 99:59:59.999
+taza de cambio de y con su respectiva x en ese punto
+
+99:59:59.999 --> 99:59:59.999
+y esto es lo mismo que dy dt sobre dx dt
+
+99:59:59.999 --> 99:59:59.999
+y manejar estas diferenciales es un poco extraño
+
+99:59:59.999 --> 99:59:59.999
+en especial cuanto se quiere tratar con ellas de manera rigurosa, pero ud siempre las podra ver como cambios muy pequeños
+
+99:59:59.999 --> 99:59:59.999
+en y, cambios pequeños en t, cambios pequeños en x, cambios pequeños en t
+
+99:59:59.999 --> 99:59:59.999
+cuando se ve de esta manera, usted podra decir, "oh, si simplemente multiplico el numerador y el denominador
+
+99:59:59.999 --> 99:59:59.999
+por dy sobre dt, lo cual al hacerlo es el mismo cambio pequeño
+
+99:59:59.999 --> 99:59:59.999
+a dy sobre dx
+
+99:59:59.999 --> 99:59:59.999
+y la razon por la cual lo escribi de esta manera es que nos dan, por cierto, estos valores
+
+99:59:59.999 --> 99:59:59.999
+nos dan dy dr y también nos dan dx dt
+
+99:59:59.999 --> 99:59:59.999
+entonces, si usted quisiera encontrar la pendiente en el tiempo t=3
+
+99:59:59.999 --> 99:59:59.999
+simplemente debe enontrar dy dt en el tiempo t=s y dx dt en el tiempo t=s
+
+99:59:59.999 --> 99:59:59.999
+entonces, dy dt en el tiempo t=3, por lo que dy dt esta justo aqui,
+
+99:59:59.999 --> 99:59:59.999
+será simplemente seno de 3 al cuadrado, o seno de 9
+
+99:59:59.999 --> 99:59:59.999
+y dx dt aen el tiempo t=3, será simplemente, esto nos dice lo que dx dt es,
+
+99:59:59.999 --> 99:59:59.999
+como una función del tiempo, cuatrp veces tres mas uno
+
+99:59:59.999 --> 99:59:59.999
+bueno, esto da como resultado trece. y podemos tomar nuestra calculadora y evaluarlo
+
+99:59:59.999 --> 99:59:59.999
+en el primer problema realizamos bastante trabajo, así que simplemente tomemos estos valores
+
+99:59:59.999 --> 99:59:59.999
+así que tenemos seno de nueve dividido entre trece
+
+99:59:59.999 --> 99:59:59.999
+esto nos da como resultado cero punto cero tres uno 7 (0.0317)
+
+99:59:59.999 --> 99:59:59.999
+y lo hemos termiunado, ésa es la pendiente de la recta tangente
+
+99:59:59.999 --> 99:59:59.999
+al recorrido de la partícula en el tiempo t=3
+
+99:59:59.999 --> 99:59:59.999
+creo que también tenmos tiempo de llevar a cabo la parte C.
+
+99:59:59.999 --> 99:59:59.999
+Parte C: encuentre la posición de la partícula en el tiempo t=3
+
+99:59:59.999 --> 99:59:59.999
+entonces, nos dan x prima de t y rambién nos dan y prima de x
+
+99:59:59.999 --> 99:59:59.999
+ésta es x-prima de t y ésta es y-prima de t. Necesitamos encontrar x de tres y y de 3
+
+99:59:59.999 --> 99:59:59.999
+escribamos X de t y Yde t, y luego evaluemolas en el tiempo t=3
+
+99:59:59.999 --> 99:59:59.999
+Ahora veamos. entonces x de t será igual a la anti-derivada de esto de aqui
+
+99:59:59.999 --> 99:59:59.999
+ahora, la antiderivada de cuatro t (4t) sera dos t al cuadrado (2t^2)
+
+99:59:59.999 --> 99:59:59.999
+Tome la derivada aqui y obtendrá 4t
+
+99:59:59.999 --> 99:59:59.999
+La anti-derivada de uno es t, mas t, y tendrás, esto más una constante
+
+99:59:59.999 --> 99:59:59.999
+simplemente tomamos la integral indefinide de este lado de 4t mas 1,
+
+99:59:59.999 --> 99:59:59.999
+entonces se obtendrá la constante aquí,
+
+99:59:59.999 --> 99:59:59.999
+porque si tomas la derivada de esta constante, la constante obviamente desparecerá,
+
+99:59:59.999 --> 99:59:59.999
+entonces perderías aquella información

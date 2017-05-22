@@ -1,0 +1,99 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.460
+En el último vídeo, empezamos a hablar sobre cómo
+
+00:00:00.460 --> 00:00:02.830
+parametrizar un toro, o una forma similar a un doughnut.
+
+00:00:02.830 --> 00:00:06.840
+Y los dos parámetros que usamos, y dediqué bastante
+
+00:00:06.840 --> 00:00:09.670
+tiempo a intentar visualizarlo, ya que todo esto
+
+00:00:09.670 --> 00:00:11.750
+es sobre visualización.
+
+00:00:11.750 --> 00:00:12.660
+Creo que es lo más complicado de hacer aquí.
+
+00:00:12.660 --> 00:00:14.950
+Pero la forma en la que podemos parametrizar un todo, que es la superficie
+
+00:00:14.950 --> 00:00:19.490
+de este doughnut, es decir 'hey, tomemos un punto
+
+00:00:19.490 --> 00:00:23.860
+y rotémoslo al rededor de un círculo'.
+
+00:00:23.860 --> 00:00:25.790
+Puede ser cualquer círculo.
+
+00:00:25.790 --> 00:00:26.580
+He seleccionado un círculo en el plano z-y
+
+00:00:26.580 --> 00:00:29.000
+Qué tan lejos va alrededor de dicho círculo lo parametrizamos
+
+00:00:29.000 --> 00:00:32.670
+por s. s puede estar entre 0 y 2 pi. Después,
+
+00:00:32.670 --> 00:00:37.320
+vamos a rotar este círculo alrededor de sí mismo
+
+00:00:37.320 --> 00:00:39.990
+O quizás una mejor manera de decirlo es, vamos a rotar el
+
+00:00:39.990 --> 00:00:42.480
+círculo alrededor del eje z y todo está en el centro del
+
+00:00:42.480 --> 00:00:45.860
+círculo, así que siempre mantenemos una distancia b desde el eje.
+
+00:00:45.860 --> 00:00:49.290
+Estas eran vistas superiores.
+
+00:00:49.290 --> 00:00:51.800
+Después definimos nuestro segundo parametro t, que nos dice qué tan
+
+00:00:51.800 --> 00:00:55.590
+lejos ha rotado el círculo alrededor de
+
+00:00:55.590 --> 00:00:59.180
+el eje z.
+
+00:00:59.180 --> 00:00:59.920
+Esas fueron nuestras dos definiciones de parámetros.
+
+00:00:59.920 --> 00:01:03.150
+Ahora aquí tratamos de visualizar lo que pasa.
+
+00:01:03.150 --> 00:01:05.780
+Esto es más o menos el dominio en el cual nuestra parametrización
+
+00:01:05.780 --> 00:01:08.350
+va a ser definida.
+
+00:01:08.350 --> 00:01:09.820
+s va entre 0 y 2 pi, así que cuando t es 0, no hemos
+
+00:01:09.820 --> 00:01:14.140
+rotado afuera del plano z-y.
+
+00:01:14.140 --> 00:01:16.870
+S esta en 0, y va completamente hasta 2 pi
+
+00:01:16.870 --> 00:01:20.910
+Luego cuando t va a 2 pi, hemos como movido nuestro circulo.
+
+00:01:20.910 --> 00:01:26.510
+Lo hemos movido en conjunto, y hemos rotado alrededor
+
+00:01:26.510 --> 00:01:29.460
+del eje z un poco.
+
+00:01:29.460 --> 00:01:30.970
+Y luego esta linea en nuestro

@@ -1,0 +1,645 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.590 --> 00:00:03.880
+Vamos a hacer algunas ecuaciones que tratan con valores absolutos.
+
+00:00:03.880 --> 00:00:05.119
+Y un poco de un examen, cuando tome la absoluta
+
+00:00:05.119 --> 00:00:07.650
+valor de un número.
+
+00:00:07.650 --> 00:00:10.680
+Digamos que tome el valor absoluto de 1 negativo.
+
+00:00:10.680 --> 00:00:12.263
+Lo que realmente está haciendo es que usted está diciendo, lo que es
+
+00:00:12.263 --> 00:00:16.090
+¿número de 0?
+
+00:00:16.090 --> 00:00:20.620
+Y en caso de negativa 1, si trazamos una derecha recta numérica
+
+00:00:20.620 --> 00:00:23.310
+--existe una línea muy mal dibujada de número.
+
+00:00:23.310 --> 00:00:26.230
+Si trazamos una línea número allí, es 0.
+
+00:00:26.230 --> 00:00:28.470
+Ahí tienes un negativo 1.
+
+00:00:28.470 --> 00:00:30.230
+Bueno, es 1 a 0.
+
+00:00:30.230 --> 00:00:33.250
+Por lo que el valor absoluto de 1 negativo es 1.
+
+00:00:33.250 --> 00:00:38.850
+Y el valor absoluto de 1 es 1 a 0.
+
+00:00:38.850 --> 00:00:40.610
+También es igual a 1.
+
+00:00:40.610 --> 00:00:43.500
+Así sucesivamente a cierto nivel, valor absoluto es la distancia desde 0.
+
+00:00:43.500 --> 00:00:45.587
+Pero otro, supongo que la manera más simple de pensar en ella, siempre que
+
+00:00:45.587 --> 00:00:48.600
+resultados en la versión positiva del número.
+
+00:00:48.600 --> 00:00:59.360
+El valor absoluto de 7.346 negativo es igual a 7.346.
+
+00:00:59.360 --> 00:01:00.779
+Así que con eso en mente, vamos a intentar resolver algunas ecuaciones
+
+00:01:00.779 --> 00:01:05.050
+con valores absolutos en ellos.
+
+00:01:05.050 --> 00:01:06.675
+Así que vamos a decir que tengo la ecuación el valor absoluto de
+
+00:01:06.675 --> 00:01:14.500
+x menos 5 es igual a 10.
+
+00:01:14.500 --> 00:01:15.895
+Una forma puede interpretar esto y quiere pensar
+
+00:01:15.895 --> 00:01:18.161
+sobre esto, realmente esto es decir que la distancia
+
+00:01:18.161 --> 00:01:23.120
+entre x y 5 es igual a 10.
+
+00:01:23.120 --> 00:01:26.750
+¿Cómo tantos números que son exactamente 10 lejos 5?
+
+00:01:26.750 --> 00:01:29.430
+Y ya puede pensar en la solución de esta ecuación,
+
+00:01:29.430 --> 00:01:31.960
+pero a mostrarle cómo resolver sistemáticamente.
+
+00:01:31.960 --> 00:01:36.510
+Ahora esto va a ser cierto en dos situaciones.
+
+00:01:36.510 --> 00:01:41.800
+Bien x menos 5 es igual a 10 positivos.
+
+00:01:41.800 --> 00:01:44.630
+Si esto se evalúa a 10 positivos, entonces cuando usted
+
+00:01:44.630 --> 00:01:46.610
+tomar el valor absoluto de la misma, vas a
+
+00:01:46.610 --> 00:01:48.380
+conseguir 10 positivos.
+
+00:01:48.380 --> 00:01:53.130
+O podría evaluar x menos 5 a 10 negativos.
+
+00:01:53.130 --> 00:01:58.700
+Si x menos 5 evaluado negativo 10, cuando tome la
+
+00:01:58.700 --> 00:01:59.950
+el valor absoluto del mismo, que obtiene 10 nuevamente.
+
+00:01:59.950 --> 00:02:04.280
+Tan x menos 5 también podría ser igual al negativo de 10.
+
+00:02:04.280 --> 00:02:07.730
+Ambos podrían satisfacer esta ecuación.
+
+00:02:07.730 --> 00:02:08.958
+Ahora, para resolver esta uno, añadir 5 a ambos
+
+00:02:08.958 --> 00:02:11.500
+lados de esta ecuación.
+
+00:02:11.500 --> 00:02:14.160
+Obtendrá x es igual a 15.
+
+00:02:14.160 --> 00:02:17.830
+Para resolver esto, añadir 5 a ambos lados de esta ecuación.
+
+00:02:17.830 --> 00:02:20.900
+x es igual al negativo de 5.
+
+00:02:20.900 --> 00:02:21.963
+Así que nuestra solución, hay dos x que
+
+00:02:21.963 --> 00:02:24.910
+satisfacer esta ecuación.
+
+00:02:24.910 --> 00:02:26.890
+x podría ser 15.
+
+00:02:26.890 --> 00:02:29.502
+15 menos 5 es 10, tomar el valor absoluto, vas
+
+00:02:29.502 --> 00:02:32.690
+para obtener 10 o x podría ser negativo 5.
+
+00:02:32.690 --> 00:02:36.060
+5 Negativos menos 5 es negativo 10.
+
+00:02:36.060 --> 00:02:39.020
+Tomar el valor absoluto, obtendrá 10.
+
+00:02:39.020 --> 00:02:41.632
+Y aviso, estos números son exactamente 10 lejos
+
+00:02:41.632 --> 00:02:45.750
+desde el número 5.
+
+00:02:45.750 --> 00:02:48.050
+Vamos a hacer otro de estos.
+
+00:02:48.050 --> 00:02:51.130
+Vamos a hacer otro.
+
+00:02:51.130 --> 00:02:52.182
+Supongamos que tenemos el valor absoluto de x plus
+
+00:02:52.182 --> 00:02:58.580
+2 es igual a 6.
+
+00:02:58.580 --> 00:02:59.610
+¿Así que qué dice nosotros?
+
+00:02:59.610 --> 00:03:03.132
+Eso nos dice que x plus 2, que la cosa dentro de
+
+00:03:03.132 --> 00:03:07.030
+el signo del valor absoluto, es igual a 6.
+
+00:03:07.030 --> 00:03:10.380
+O la cosa dentro del signo del valor absoluto, la x
+
+00:03:10.380 --> 00:03:12.050
+Además de 2, también podría ser negativo 6.
+
+00:03:12.050 --> 00:03:13.910
+Si todo este asunto evaluado negativo 6, tomar el
+
+00:03:13.910 --> 00:03:16.210
+valor absoluto, obtendría 6.
+
+00:03:16.210 --> 00:03:20.340
+Por lo tanto, o x plus 2 podría igualar 6 negativo.
+
+00:03:20.340 --> 00:03:22.880
+Y entonces si resta 2 a ambos lados de este
+
+00:03:22.880 --> 00:03:25.850
+ecuación, obtendrá x podría ser igual a 4.
+
+00:03:25.850 --> 00:03:29.780
+Si se resta 2 a ambos lados de esta ecuación,
+
+00:03:29.780 --> 00:03:33.690
+obtener x podría ser igual al negativo de 8.
+
+00:03:33.690 --> 00:03:37.240
+Así que estas son las dos soluciones a la ecuación.
+
+00:03:37.240 --> 00:03:39.740
+Y a que tipo de gel en tu mente, que
+
+00:03:39.740 --> 00:03:42.500
+valor absoluto, puede tipo de verlo como una distancia, te
+
+00:03:42.500 --> 00:03:43.940
+podría reescribir este problema como el valor absoluto de x menos
+
+00:03:43.940 --> 00:03:50.410
+2 negativos es igual a 6.
+
+00:03:50.410 --> 00:03:52.759
+Y por lo que esto me está preguntando, ¿cuáles son las que son exactamente 6 x
+
+00:03:52.759 --> 00:03:57.590
+¿lejos de 2 negativos?
+
+00:03:57.590 --> 00:03:59.168
+Recuerde que hasta aquí hemos dicho, ¿cuáles son los x que son
+
+00:03:59.168 --> 00:04:03.560
+¿exactamente 10 lejos 5 positivo?
+
+00:04:03.560 --> 00:04:05.990
+Cualquiera que sea el número le está restando 5 positivos,
+
+00:04:05.990 --> 00:04:08.560
+Estos son ambos 10 lejos 5 positivos.
+
+00:04:08.560 --> 00:04:09.515
+Esto es preguntando, ¿qué es exactamente 6 lejos
+
+00:04:09.515 --> 00:04:13.080
+¿2 negativa?
+
+00:04:13.080 --> 00:04:15.510
+Y va a ser 8 4 o negativo.
+
+00:04:15.510 --> 00:04:17.959
+Usted podría probar esos números por sí mismo.
+
+00:04:17.959 --> 00:04:20.459
+Vamos a hacer otro de estos.
+
+00:04:20.459 --> 00:04:25.330
+Vamos a hacer otro, y nosotros haremos en púrpura.
+
+00:04:25.330 --> 00:04:30.190
+Supongamos que tenemos el valor absoluto de x 4--voy a
+
+00:04:30.190 --> 00:04:31.430
+cambiar este problema hasta un poco.
+
+00:04:31.430 --> 00:04:33.390
+4 x menos 1.
+
+00:04:33.390 --> 00:04:36.583
+El valor absoluto de 4 x menos 1, es igual a--en realidad,
+
+00:04:36.583 --> 00:04:40.200
+Sólo podrá mantenerla--es igual a 19.
+
+00:04:40.200 --> 00:04:41.769
+Por lo tanto, al igual que los últimos pocos problemas, podría ser 4 x menos 1
+
+00:04:41.769 --> 00:04:47.640
+igual a 19.
+
+00:04:47.640 --> 00:04:51.670
+O 4 x menos 1 podría evaluar a 19 negativo.
+
+00:04:51.670 --> 00:04:53.130
+Porque entonces cuando toma el valor absoluto, vas
+
+00:04:53.130 --> 00:04:54.800
+volver a poner 19.
+
+00:04:54.800 --> 00:04:59.100
+O 4 x menos 1 podría ser igual al negativo de 19.
+
+00:04:59.100 --> 00:05:00.970
+A continuación, usted sólo resolver estas dos ecuaciones.
+
+00:05:00.970 --> 00:05:02.945
+Añadir 1 a ambos lados de esta ecuación--podríamos hacer
+
+00:05:02.945 --> 00:05:04.274
+simultáneamente, incluso.
+
+00:05:04.274 --> 00:05:08.510
+Añadir 1 a ambos lados de este, obtendrá 4 x es igual a 20.
+
+00:05:08.510 --> 00:05:11.005
+Añadir 1 a ambos lados de esta ecuación, obtendrá 4 x es igual
+
+00:05:11.005 --> 00:05:15.340
+18 negativos.
+
+00:05:15.340 --> 00:05:20.210
+Dividir ambos lados de este por 4, llegas x es igual a 5.
+
+00:05:20.210 --> 00:05:23.920
+Dividir ambos lados de este por 4, llegas x es igual a
+
+00:05:23.920 --> 00:05:31.770
+negativo 18/4, que es igual al negativo de 9/2.
+
+00:05:31.770 --> 00:05:35.730
+Por lo tanto ambos x valores satisfacen la ecuación.
+
+00:05:35.730 --> 00:05:36.587
+Pruebe.
+
+00:05:36.587 --> 00:05:39.580
+Negativo 9/2 veces 4.
+
+00:05:39.580 --> 00:05:41.570
+Esto se convertirá en un negativo 18.
+
+00:05:41.570 --> 00:05:44.200
+18 Negativos menos 1 es negativo 19.
+
+00:05:44.200 --> 00:05:46.740
+Tomar el valor absoluto, usted obtiene 19.
+
+00:05:46.740 --> 00:05:49.920
+Pones un 5 aquí, 4 veces 5 es 20.
+
+00:05:49.920 --> 00:05:51.960
+Menos 1 es positiva 19.
+
+00:05:51.960 --> 00:05:53.260
+Para tomar el valor absoluto.
+
+00:05:53.260 --> 00:05:55.920
+Una vez más, obtendrá un 19.
+
+00:05:55.920 --> 00:05:58.580
+Vamos a intentar gráfico uno de ellos, sólo por diversión.
+
+00:05:58.580 --> 00:05:59.283
+Así que vamos a decir que tengo y es igual a la absoluta
+
+00:05:59.283 --> 00:06:04.990
+valor de x más 3.
+
+00:06:04.990 --> 00:06:07.840
+Así que esto es una función o un gráfico, con un
+
+00:06:07.840 --> 00:06:09.410
+valor absoluto en ella.
+
+00:06:09.410 --> 00:06:11.820
+Así que vamos a pensar acerca de dos escenarios.
+
+00:06:11.820 --> 00:06:13.136
+Hay un escenario donde la cosa dentro de lo absoluto
+
+00:06:13.136 --> 00:06:16.430
+el valor es positivo.
+
+00:06:16.430 --> 00:06:18.873
+Por lo tanto tienes el escenario donde x plus 3--voy a escribir sobre
+
+00:06:18.873 --> 00:06:23.420
+aquí--x plus 3 es mayor que 0.
+
+00:06:23.420 --> 00:06:29.370
+Y luego tienes el escenario donde x plus 3 es menor que 0.
+
+00:06:29.370 --> 00:06:32.658
+Cuando x plus 3 es mayor que 0, este gráfico, o esta línea--
+
+00:06:32.658 --> 00:06:36.490
+o me imagino que no puede llamarlo una línea--esta función, es la
+
+00:06:36.490 --> 00:06:41.690
+lo mismo y es igual a x plus para 3.
+
+00:06:41.690 --> 00:06:44.370
+Si esta cosa aquí es mayor que 0, entonces la
+
+00:06:44.370 --> 00:06:46.750
+signo de valor absoluto es irrelevante.
+
+00:06:46.750 --> 00:06:48.780
+Así entonces esta cosa es la misma cosa, y es
+
+00:06:48.780 --> 00:06:50.280
+igual a x más 3.
+
+00:06:50.280 --> 00:06:52.590
+¿Pero cuando es x plus 3 mayor que 0?
+
+00:06:52.590 --> 00:06:56.366
+Bien, si restar 3 de ambos lados, obtendrá x es
+
+00:06:56.366 --> 00:06:59.910
+superior a 3 negativos.
+
+00:06:59.910 --> 00:07:02.249
+Así que cuando x es mayor que 3 negativos, este gráfico es
+
+00:07:02.249 --> 00:07:08.460
+va a ver igual y es igual a x plus para 3.
+
+00:07:08.460 --> 00:07:11.500
+Ahora, cuando x plus 3 es menor que 0.
+
+00:07:11.500 --> 00:07:13.328
+Cuando la situación donde esto--dentro de nuestro
+
+00:07:13.328 --> 00:07:16.509
+signo de valor absoluto--es negativo, en esa situación
+
+00:07:16.509 --> 00:07:20.356
+Esta ecuación va a ser y es igual a la
+
+00:07:20.356 --> 00:07:26.250
+negativa de x más 3.
+
+00:07:26.250 --> 00:07:27.540
+¿Cómo puedo decir?
+
+00:07:27.540 --> 00:07:30.520
+Pues mira, si esto va a ser un número, negativo si x
+
+00:07:30.520 --> 00:07:33.060
+Además 3 va a ser un negativo número--eso es lo que
+
+00:07:33.060 --> 00:07:36.010
+Suponemos aquí--si va a ser un número negativo,
+
+00:07:36.010 --> 00:07:38.090
+a continuación, cuando toma el valor absoluto de un negativo
+
+00:07:38.090 --> 00:07:40.050
+número, vas a hacer positivos.
+
+00:07:40.050 --> 00:07:43.280
+Es igual que multiplicar por 1 negativo.
+
+00:07:43.280 --> 00:07:45.870
+Si sabe que está tomando el valor absoluto de un negativo
+
+00:07:45.870 --> 00:07:48.890
+número, es igual que multiplicar por 1 negativo,
+
+00:07:48.890 --> 00:07:51.010
+porque vas a hacer positivos.
+
+00:07:51.010 --> 00:07:53.870
+Y esto va a ser la situación.
+
+00:07:53.870 --> 00:07:55.840
+x plus 3 es menor que 0.
+
+00:07:55.840 --> 00:07:59.850
+Si se resta 3 de ambos lados, cuando x es inferior a
+
+00:07:59.850 --> 00:08:01.280
+3 negativos.
+
+00:08:01.280 --> 00:08:03.920
+Así que cuando x es menos negativo 3, será el gráfico
+
+00:08:03.920 --> 00:08:05.040
+este aspecto.
+
+00:08:05.040 --> 00:08:08.280
+Cuando x es mayor que 3 negativos, el gráfico será
+
+00:08:08.280 --> 00:08:09.600
+mira como ese.
+
+00:08:09.600 --> 00:08:11.300
+Así que vamos a verlo que haría el
+
+00:08:11.300 --> 00:08:13.670
+gráfico todo aspecto.
+
+00:08:13.670 --> 00:08:21.520
+Permítanme llamar mis ejes.
+
+00:08:21.520 --> 00:08:26.070
+Esa es mi eje x, que es mi eje y.
+
+00:08:26.070 --> 00:08:29.090
+Así que permítanme multiplicar esta fuera, sólo lo tenemos en mx
+
+00:08:29.090 --> 00:08:29.870
+Además de formulario b.
+
+00:08:29.870 --> 00:08:36.070
+Esto es igual a x negativo menos 3.
+
+00:08:36.070 --> 00:08:37.409
+Así que vamos a simplemente averiguar lo que sería este gráfico
+
+00:08:37.409 --> 00:08:38.620
+el aspecto en general.
+
+00:08:38.620 --> 00:08:42.020
+Negativo x menos 3.
+
+00:08:42.020 --> 00:08:47.380
+La intercepción es 3 negativos, por lo que 1, 2, 3.
+
+00:08:47.380 --> 00:08:51.060
+Y negativos x medio se inclinan hacia abajo, tiene un
+
+00:08:51.060 --> 00:08:52.290
+cuesta abajo de 1.
+
+00:08:52.290 --> 00:08:53.540
+Por lo que podría tener este aspecto.
+
+00:08:56.840 --> 00:09:02.830
+X-intercepción sería en x es igual a--.
+
+00:09:02.830 --> 00:09:07.740
+Así que si dices y es igual a 0, pasaría cuando x es
+
+00:09:07.740 --> 00:09:08.575
+igual al negativo de 3.
+
+00:09:08.575 --> 00:09:10.380
+Así que va a pasar por esa línea,
+
+00:09:10.380 --> 00:09:11.920
+ese punto justo ahí.
+
+00:09:11.920 --> 00:09:14.190
+Y el gráfico, si no tenemos este derecha de restricción
+
+00:09:14.190 --> 00:09:15.600
+aquí, sería algo como esto.
+
+00:09:19.890 --> 00:09:22.760
+Eso si nos lo no restringir a un intervalo determinado en
+
+00:09:22.760 --> 00:09:23.880
+el eje x.
+
+00:09:23.880 --> 00:09:27.080
+¿Ahora este gráfico, lo ve como?
+
+00:09:27.080 --> 00:09:27.480
+Vamos a ver.
+
+00:09:27.480 --> 00:09:31.810
+Tiene su intercepción en positivo 3.
+
+00:09:31.810 --> 00:09:33.230
+Sólo así.
+
+00:09:33.230 --> 00:09:35.260
+¿Y donde está su x-intecept?
+
+00:09:35.260 --> 00:09:37.970
+Cuando es igual a 0, x es negativo 3.
+
+00:09:37.970 --> 00:09:39.760
+Por lo que también pasa por ese punto justo ahí, y tiene
+
+00:09:39.760 --> 00:09:40.620
+una pendiente de 1.
+
+00:09:40.620 --> 00:09:43.710
+Por lo que se vería algo como esto.
+
+00:09:43.710 --> 00:09:45.330
+Eso es lo que parece este gráfico.
+
+00:09:45.330 --> 00:09:48.100
+Ahora, lo que hemos averiguado es que este valor absoluto
+
+00:09:48.100 --> 00:09:52.030
+función, parece que este gráfico púrpura cuando x es menor
+
+00:09:52.030 --> 00:09:53.830
+a 3 negativos.
+
+00:09:53.830 --> 00:09:57.070
+Cuando x es menos negativo 3--que x es igual
+
+00:09:57.070 --> 00:09:59.593
+a negativa 3 allí--cuando x es menos negativo
+
+00:09:59.593 --> 00:10:03.170
+3, parece que este gráfico púrpura.
+
+00:10:03.170 --> 00:10:04.570
+Allí.
+
+00:10:04.570 --> 00:10:07.390
+Así es cuando x es menor que 3 negativos.
+
+00:10:07.390 --> 00:10:10.830
+Pero cuando x es mayor que 3 de negativos, parece que la
+
+00:10:10.830 --> 00:10:12.160
+gráfico de verde.
+
+00:10:12.160 --> 00:10:14.640
+Parece como ese.
+
+00:10:14.640 --> 00:10:17.480
+Por lo que este gráfico es similar a este extraño v.
+
+00:10:17.480 --> 00:10:21.430
+Cuando x es mayor que 3 negativas, esto es positivo.
+
+00:10:21.430 --> 00:10:24.950
+Por eso tenemos el gráfico de--tiene una pendiente positiva.
+
+00:10:24.950 --> 00:10:28.270
+Pero luego cuando x es menos negativo 3, somos esencialmente
+
+00:10:28.270 --> 00:10:30.550
+tomando el negativo de la función, si desea ver
+
+00:10:30.550 --> 00:10:32.280
+es así, y por eso tenemos esta pendiente negativa.
+
+00:10:32.280 --> 00:10:35.060
+Tan amable de tener esta forma de v que funciona, esto
+
+00:10:35.060 --> 00:10:38.250
+gráfico en forma de v, que es indicativo de una absoluta
+
+00:10:38.250 --> 00:10:39.950
+función de valor.

@@ -1,0 +1,383 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:02.950
+En lenguaje cotidiano, sabemos el significado de un cometa
+
+00:00:02.960 --> 00:00:05.050
+Son estas cosas frágiles que llevamos a la playa
+
+00:00:05.050 --> 00:00:07.950
+para que vuelen con el viento en compañía de nuestras familias.
+
+00:00:07.950 --> 00:00:09.450
+Pero te imaginarás que matemáticos
+
+00:00:09.450 --> 00:00:11.450
+han mirado la forma general de estos cometas,
+
+00:00:11.450 --> 00:00:13.690
+o al menos la forma que tienen en los dibujitos
+
+00:00:13.690 --> 00:00:15.439
+y han dicho, bien, esa es una forma interesante
+
+00:00:15.439 --> 00:00:16.160
+en si misma.
+
+00:00:16.160 --> 00:00:17.990
+Hagamos también de este un término matemático.
+
+00:00:17.990 --> 00:00:20.540
+Esta es una forma como la de un paralelograma
+
+00:00:20.540 --> 00:00:21.960
+o como la de un rombo.
+
+00:00:21.960 --> 00:00:25.270
+Es solamente otra clase de quadriláteros.
+
+00:00:25.270 --> 00:00:28.470
+Pero para que sea utilizada en matemática en buena forma,
+
+00:00:28.470 --> 00:00:31.007
+necesitamos definarla con un poco más de precisión.
+
+00:00:31.007 --> 00:00:32.840
+Entonces, veamos si podemos crear unas cuantas
+
+00:00:32.840 --> 00:00:35.120
+definiciones interesantes de lo que es un cometa podría
+
+00:00:35.120 --> 00:00:38.420
+ser o algunas ideas interesantes de cómo construir uno.
+
+00:00:38.420 --> 00:00:40.620
+Bien, una manera en la que podrías pensar sobre un cometa
+
+00:00:40.620 --> 00:00:43.145
+es que luce como si tuviera dos pares de lados
+
+00:00:43.145 --> 00:00:44.520
+que son congruentes a sí mismos.
+
+00:00:44.520 --> 00:00:48.440
+Por ejemplo, parece que este lado y este lado
+
+00:00:48.440 --> 00:00:50.780
+necesitan ser congruentes a sí mismos.
+
+00:00:50.780 --> 00:00:52.900
+Entonces, hagamos de esto una restricción.
+
+00:00:52.900 --> 00:00:54.210
+Y ellos se unen en un extremo.
+
+00:00:54.210 --> 00:00:55.910
+Ellas comparten un punto final.
+
+00:00:55.910 --> 00:00:57.820
+Así, tienes un par de lados congruentes
+
+00:00:57.820 --> 00:00:59.070
+que son adjacentes entre sí.
+
+00:00:59.070 --> 00:01:01.060
+Estos tienen un punto en común.
+
+00:01:01.060 --> 00:01:06.230
+Y ahi tienes otro par de lados
+
+00:01:06.230 --> 00:01:08.120
+que también son congruentes.
+
+00:01:10.650 --> 00:01:11.820
+Y que son adjacentes.
+
+00:01:11.820 --> 00:01:13.610
+Comparten un punto.
+
+00:01:13.610 --> 00:01:16.690
+Entonces, una definición que podrías idear para un cometa
+
+00:01:16.690 --> 00:01:27.880
+es que tu tienes dos pares de lados congruentes,
+
+00:01:27.880 --> 00:01:31.630
+donde los lados congruentes son adjacentes.
+
+00:01:38.541 --> 00:01:40.790
+Y tu dirías, pero ¿cuál es la otra alternativa?
+
+00:01:40.790 --> 00:01:42.610
+Si los lados congruentes no son adjacentes,
+
+00:01:42.610 --> 00:01:43.610
+¿qué más podrían ser?
+
+00:01:43.610 --> 00:01:45.960
+Bien, los lados congruentes podrías ser opuestos
+
+00:01:45.960 --> 00:01:47.660
+Y ¿qué pasaría si tuvieras que hacer eso?
+
+00:01:47.660 --> 00:01:49.400
+Si estos dos lados fueran congruentes,
+
+00:01:49.400 --> 00:01:51.202
+pero no tuvieran un punto común,
+
+00:01:51.202 --> 00:01:52.910
+nosotros todavía estaríamos teniendo un quadrilátero.
+
+00:01:52.910 --> 00:01:54.300
+¿Cómo luciría?
+
+00:01:54.300 --> 00:01:57.230
+Pues, tendrías un lugar congruente aquí,
+
+00:01:57.230 --> 00:02:03.825
+y sería congruente a esta lado de aquí.
+
+00:02:04.110 --> 00:02:07.350
+Y luego tendrías un lado congruente hacia aquí
+
+00:02:07.350 --> 00:02:08.758
+que es congruente a este lado.
+
+00:02:08.758 --> 00:02:10.217
+Esta sería una situación donde tu
+
+00:02:10.217 --> 00:02:11.759
+tienes 2 pares de lados congruentes,
+
+00:02:11.759 --> 00:02:12.800
+pero que no son adjacentes.
+
+00:02:12.800 --> 00:02:16.260
+Que no tienen ningún punto en común.
+
+00:02:16.260 --> 00:02:19.430
+Cada lado en el par de lados congruentes,
+
+00:02:19.430 --> 00:02:21.130
+es opuesto el uno al otro.
+
+NOTE Paragraph
+
+00:02:21.130 --> 00:02:23.070
+Pues, aquí, una vez más, tenemos un quadrilátero.
+
+00:02:23.070 --> 00:02:24.140
+Todavía tenemos cuatro lados.
+
+00:02:24.140 --> 00:02:25.290
+Un cometa es un quadrilátero.
+
+00:02:25.290 --> 00:02:26.620
+Este es un quadrilátero.
+
+00:02:26.620 --> 00:02:27.850
+Pero esto no es un cometa.
+
+00:02:27.850 --> 00:02:32.310
+Esto aquí es un paralelograma,
+
+00:02:32.310 --> 00:02:34.760
+y ya lo hemos visto varias veces en el pasado.
+
+00:02:34.760 --> 00:02:36.230
+Pero los cometas también pueden ser construidos
+
+00:02:36.230 --> 00:02:37.830
+en otras formas interesantes
+
+00:02:37.830 --> 00:02:42.300
+Tu podrías ver lo que parece aquí, que estas dos
+
+00:02:42.300 --> 00:02:44.357
+diagonales de este cometa son perpendiculares.
+
+00:02:44.357 --> 00:02:46.190
+Y que si --y no voy a probarlo
+
+00:02:46.190 --> 00:02:48.565
+aquí-- es una propiedad de un cometa
+
+00:02:51.990 --> 00:02:54.910
+Estas dos lineas, estas dos diagonales,
+
+00:02:54.910 --> 00:02:58.272
+se intersectan en un ángulo de 90 grados.
+
+00:02:58.272 --> 00:02:59.730
+La otra cosa que conocemos sobre los cometas
+
+00:02:59.730 --> 00:03:03.100
+es que una de estas lineas está bisecando al otro de los dos.
+
+00:03:03.100 --> 00:03:05.570
+Entonces, tu prodrías construir un cometa de esta forma.
+
+00:03:05.570 --> 00:03:10.150
+Podrías empezar con una linea, y entonces tu
+
+00:03:10.150 --> 00:03:12.280
+podrías construir un bisector perpendicular
+
+00:03:12.280 --> 00:03:14.260
+de esa linea, otro segmento que
+
+00:03:14.260 --> 00:03:16.760
+lo biseca en un ángulo de 90 grados.
+
+00:03:16.760 --> 00:03:18.550
+Entonces aquí, y ahi va.
+
+00:03:18.550 --> 00:03:20.200
+Entonces lo biseca, lo que significa
+
+00:03:20.200 --> 00:03:22.630
+que este segmento es igual a este segmento.
+
+00:03:22.630 --> 00:03:24.050
+Lo separamos en dos.
+
+00:03:24.050 --> 00:03:26.820
+Y luego si conectas los puntos terminales de los segmentos,
+
+00:03:26.820 --> 00:03:28.190
+tendrías un cometa.
+
+00:03:28.190 --> 00:03:30.080
+Y en verdad tienes un cometa.
+
+00:03:30.080 --> 00:03:36.030
+Lo que luciría algo así.
+
+00:03:36.030 --> 00:03:38.380
+Y una vez más, este segmento es congruente
+
+00:03:38.380 --> 00:03:41.170
+a este segmento adjacente, y este segmento
+
+00:03:41.170 --> 00:03:43.710
+es congruente a este segmento adjacente
+
+00:03:43.710 --> 00:03:46.450
+Pero ¿qué sucedería si estas dos diagonales son
+
+00:03:46.450 --> 00:03:50.020
+ambas bisectoras perpendiculares a sí mismas?
+
+00:03:50.020 --> 00:03:52.100
+Entonces, ¿qué sucedería en este caso,
+
+00:03:52.100 --> 00:03:56.779
+donde-- déjame dibujar un segmento.
+
+00:03:56.779 --> 00:03:58.570
+Y luego voy a hacer otro segmento,
+
+00:03:58.570 --> 00:04:00.111
+pero van a ser perpendiculares
+
+00:04:00.111 --> 00:04:02.130
+bisectores a sí mismos.
+
+00:04:02.130 --> 00:04:03.010
+Entonces, hagamos eso,
+
+00:04:03.010 --> 00:04:05.427
+Ahora son bisectores perpendiculares
+
+00:04:05.427 --> 00:04:06.010
+de sí mismos.
+
+00:04:06.010 --> 00:04:08.640
+Este segmento es igual a este segmento,
+
+00:04:08.640 --> 00:04:11.740
+y este segmento es igual a este segmento.
+
+00:04:11.740 --> 00:04:16.110
+Ahora bien, una vez más, todavía tienes un cometa,
+
+00:04:16.110 --> 00:04:18.350
+pero ahora ya estás respetando las restricciones
+
+00:04:18.350 --> 00:04:21.750
+para otro tipo de quadriláteros que ya hemos visto.
+
+00:04:21.750 --> 00:04:25.390
+Ahora ya estás respetando las restricciones.
+
+00:04:25.390 --> 00:04:27.230
+Todos tus lados son iguales.
+
+00:04:27.230 --> 00:04:29.190
+Todos tus lados son paralelos.
+
+00:04:29.190 --> 00:04:33.640
+Ahora, estás lidiando con un rombo, que también es
+
+00:04:33.640 --> 00:04:36.050
+un caso especial de paralelograma.
+
+00:04:36.050 --> 00:04:37.810
+Y luego si quisieras ir un poco más lejos,
+
+00:04:37.810 --> 00:04:40.350
+donde estas diagnonales tienen exactamente la misma medida
+
+00:04:40.350 --> 00:04:43.520
+y ambos son bisectores perpendiculares de si mismos,
+
+00:04:43.520 --> 00:04:46.380
+de manera a que tengas exactamente las mismas medidas.
+
+00:04:46.380 --> 00:04:48.470
+Voy a tratar de dibujarlo lo mejor que pueda.
+
+00:04:48.470 --> 00:04:50.810
+Como para que ambos tengan las mismas medidas,
+
+00:04:50.810 --> 00:04:53.830
+y que sean bisectores perpendiculares de sí mismos.
+
+00:04:53.830 --> 00:04:56.580
+Entonces, cada una de estas mitades también tendrían medidas iguales.
+
+00:04:56.580 --> 00:04:59.570
+Entonces allí tienes un subconjunto de lo que yo llamaría rombos,
+
+00:04:59.570 --> 00:05:01.510
+y tu tendrías un cuadrado.
+
+00:05:08.060 --> 00:05:12.010
+Una manera de pensar sobre esto es que cualquier cuadrado
+
+00:05:12.010 --> 00:05:14.096
+también es un rombo.
+
+00:05:16.950 --> 00:05:20.850
+Y que cualquier rombo también respetará todas las restricciones
+
+00:05:20.850 --> 00:05:21.890
+para ser un cometa
+
+00:05:21.890 --> 00:05:23.950
+Pero hay muchos tipos que no
+
+00:05:23.950 --> 00:05:28.060
+respetan las restricciones de ser un rombo o un cuadrado.
+
+00:05:28.060 --> 00:05:30.780
+Un cometa es solo 2 pares de lados congruentes
+
+00:05:30.780 --> 00:05:33.620
+que son adjacentes a sí mismos, y que son usualmente
+
+00:05:33.620 --> 00:05:37.395
+fácilmente distinguidos ya que lucen como "cometas."

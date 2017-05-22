@@ -1,0 +1,533 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:09:25.773 --> 00:09:29.346
+para averiguar el tamaño si les dan uno de los lados.
+
+00:09:29.346 --> 00:09:31.067
+Espero no haberles confundido demasiado
+
+00:09:31.067 --> 00:09:33.523
+y espero volver a verlos en la próxima presentación.
+
+00:09:33.523 --> 00:09:35.991
+¡Nos vemos!
+
+00:00:00.000 --> 00:00:03.520
+Les prometí hacer más problemas sobre el
+
+00:00:03.520 --> 00:00:05.340
+Teorema de Pitágoras, así que haremos ahora
+
+00:00:05.350 --> 00:00:09.691
+más problemas sobre el Teorema de Pitágoras.
+
+00:00:09.691 --> 00:00:12.684
+Una vez más, esto es cuestión de práctica
+
+00:00:12.684 --> 00:00:27.297
+Digamos que tengo un triángulo -- este me salió mal
+
+00:00:27.317 --> 00:00:34.224
+déjenme que dibuje otro--
+
+00:00:34.224 --> 00:00:40.280
+y digamos que este lado vale 7, este otro 6
+
+00:00:40.280 --> 00:00:42.340
+y queremos obtener este otro.
+
+00:00:42.340 --> 00:00:44.530
+Bien, según aprendimos en la última presentación
+
+00:00:44.540 --> 00:00:46.830
+¿qué lado es la hipotenusa?
+
+00:00:46.830 --> 00:00:49.990
+Este es el ángulo recto y el lado opuesto al ángulo recto
+
+00:00:49.990 --> 00:00:51.548
+es la hipotenusa.
+
+00:00:51.548 --> 00:00:53.522
+Y lo que queremos hacer es averiguar
+
+00:00:53.522 --> 00:00:54.790
+cuanto vale la hipotenusa.
+
+00:00:54.805 --> 00:00:59.893
+Y sabemos que 6 al cuadrado más 7 al cuadrado
+
+00:00:59.893 --> 00:01:01.803
+es igual a la hipotenusa al cuadrado.
+
+00:01:01.803 --> 00:01:03.412
+Y en el Teorema de Pitágoras, se usa la letra "C"
+
+00:01:03.412 --> 00:01:04.418
+para representar la hipotenusa,
+
+00:01:04.418 --> 00:01:10.960
+así que también la usaremos aquí.
+
+00:01:10.960 --> 00:01:21.211
+Y 36 mas 49 es igual a C al cuadrado, y 36 mas 49 son 85
+
+00:01:21.211 --> 00:01:24.825
+85 es igual a C al cuadrado.
+
+00:01:24.825 --> 00:01:30.687
+es decir, C es igual a la raíz cuadrada de 85.
+
+00:01:30.687 --> 00:01:32.846
+Y aquí es donde muchos tienen problemas
+
+00:01:32.846 --> 00:01:34.600
+simplificando el radical
+
+00:01:34.600 --> 00:01:38.857
+En este caso, raíz cuadrada de 85. ¿Se puede factorizar 85
+
+00:01:38.857 --> 00:01:42.701
+como producto de un cuadrado perfecto y otro número?
+
+00:01:42.701 --> 00:01:45.875
+85 no es divisible entre 4, por tanto
+
+00:01:45.875 --> 00:01:48.678
+no será divisible entre 16 o cualquier múltiplo de 4.
+
+00:01:48.678 --> 00:01:55.868
+¿Cuantas veces cabe 5 en 85?
+
+00:01:55.868 --> 00:01:58.322
+No, tampoco es un cuadrado perfecto.
+
+00:01:58.322 --> 00:02:02.190
+No creo que 85 se pueda factorizar más como producto
+
+00:02:02.190 --> 00:02:03.966
+de un cuadrado perfecto y otro número.
+
+00:02:03.966 --> 00:02:06.945
+Por tanto, y podéis corregirme si me equivoco
+
+00:02:06.945 --> 00:02:08.715
+sería un buen ejercicio para ustedes después, pero
+
+00:02:08.715 --> 00:02:12.705
+por lo que a mi respecta, creo que esa es la solución:
+
+00:02:12.705 --> 00:02:15.098
+la solución en este caso es raíz cuadrada de 85.
+
+00:02:15.098 --> 00:02:17.872
+Y si queremos estimar su valor, pensemos en ello
+
+00:02:17.872 --> 00:02:23.173
+la raíz cuadrada de 81 es 9, y la de 100 es 10
+
+00:02:23.173 --> 00:02:25.073
+por tanto, raíz cuadrada de 85 estará entre 9 y 10
+
+00:02:25.073 --> 00:02:26.629
+posiblemente un poco más cerca de 9
+
+00:02:26.629 --> 00:02:28.264
+es decir, será 9 coma algo, algo, algo...
+
+00:02:28.264 --> 00:02:30.491
+Y para comprobar que tiene sentido, veamos el triángulo
+
+00:02:30.491 --> 00:02:33.919
+Si este lado mide 6 y este otro 7... 9 coma algo algo algo
+
+00:02:33.919 --> 00:02:36.235
+tiene sentido para la longitud de la hipotenusa!
+
+00:02:36.235 --> 00:02:44.529
+Hagamos otro problema
+
+00:02:44.529 --> 00:02:49.089
+Digamos que este lado vale 10
+
+00:02:49.089 --> 00:02:51.361
+y este otro vale 3.
+
+00:02:51.361 --> 00:02:53.170
+¿Cuánto vale este lado?
+
+00:02:53.170 --> 00:02:55.200
+En primer lugar, busquemos la hipotenusa.
+
+00:02:55.200 --> 00:02:57.967
+Tenemos el ángulo recto aquí, por tanto, el lado opuesto
+
+00:02:57.967 --> 00:02:59.026
+al ángulo recto es la hipotenusa, que es también
+
+00:02:59.026 --> 00:03:00.972
+el lado más largo y por tanto, vale 10.
+
+00:03:00.972 --> 00:03:04.747
+Así que 10 al cuadrado es igual a la suma de
+
+00:03:04.747 --> 00:03:06.696
+los cuadrados de los otros dos lados.
+
+00:03:06.696 --> 00:03:10.595
+Esto es igual a 3 al cuadrado -- llamemos a esto A
+
+00:03:10.595 --> 00:03:11.872
+arbitrariamente --
+
+00:03:11.872 --> 00:03:14.115
+más A al cuadrado.
+
+00:03:14.115 --> 00:03:21.749
+Bien, por tanto 100 es igual a 9 más A al cuadrado, o
+
+00:03:21.749 --> 00:03:29.532
+A al cuadrado es igual a 100 menos 9
+
+00:03:29.532 --> 00:03:34.104
+A al cuadrado es igual a 91.
+
+00:03:34.104 --> 00:03:38.206
+Por tanto A es igual a la raíz cuadrada de 91.
+
+00:03:38.206 --> 00:03:40.261
+No creo que esto se pueda simplificar más tampoco.
+
+00:03:40.261 --> 00:03:41.744
+No es divisible entre 3
+
+00:03:41.744 --> 00:03:43.907
+Me pregunto, es 91 un número primo?
+
+00:03:43.907 --> 00:03:44.923
+no estoy seguro.
+
+00:03:44.923 --> 00:03:48.280
+Por lo que a mi respecta, hemos finalizado el problema.
+
+00:03:48.280 --> 00:03:54.055
+Hagamos otro problema, y esta vez voy a añadir
+
+00:03:54.055 --> 00:03:56.518
+un paso extra para intentar confundirlos
+
+00:03:56.518 --> 00:04:00.000
+Porque creo que ya son demasiado fáciles para ustedes.
+
+00:04:00.000 --> 00:04:05.107
+Digamos que tengo un triángulo
+
+00:04:05.107 --> 00:04:08.020
+Y de nuevo trataremos con triángulos rectángulos...
+
+00:04:08.020 --> 00:04:11.763
+Nunca deben utilizar el Teorema de Pitágoras si no es seguro
+
+00:04:11.763 --> 00:04:15.984
+que se trata de un triángulo rectángulo.
+
+00:04:15.984 --> 00:04:19.656
+En este ejemplo sabemos que es un triángulo rectángulo.
+
+00:04:19.656 --> 00:04:24.508
+Si les digo que la longitud de este lado es 5
+
+00:04:24.508 --> 00:04:33.319
+y que este ángulo es de 45 grados, ¿Podremos averiguar
+
+00:04:33.319 --> 00:04:36.293
+la longitud de los otros dos lados del triángulo?
+
+00:04:36.293 --> 00:04:38.222
+Bien, no podemos utilizar el Teorema de Pitágoras directamente
+
+00:04:38.222 --> 00:04:41.134
+porque nos dice que si tenemos un triángulo rectángulo
+
+00:04:41.134 --> 00:04:43.053
+y sabemos la longitud de dos de sus lados
+
+00:04:43.053 --> 00:04:45.074
+podemos averiguar la longitud del lado que falta.
+
+00:04:45.074 --> 00:04:46.854
+Aquí tenemos un triángulo rectángulo y
+
+00:04:46.854 --> 00:04:48.830
+solo conocemos uno de sus lados.
+
+00:04:48.830 --> 00:04:50.949
+Por tanto, de momento no podemos conocer los otros dos.
+
+00:04:50.949 --> 00:04:53.489
+Pero quizás utilizando esta información extra,
+
+00:04:53.489 --> 00:04:56.337
+Estos 45 grados, podamos averiguar el otro lado
+
+00:04:56.337 --> 00:04:59.220
+para después utilizar el Teorema de Pitágoras.
+
+00:04:59.220 --> 00:05:01.756
+Bien, sabemos que los 3 ángulos de un triángulo
+
+00:05:01.756 --> 00:05:03.519
+suman 180 grados.
+
+00:05:03.519 --> 00:05:05.223
+Espero que ya sepan que los 3 ángulos
+
+00:05:05.223 --> 00:05:06.527
+de un triángulo suman 180 grados.
+
+00:05:06.527 --> 00:05:07.754
+Si no lo saben, es culpa mía
+
+00:05:07.754 --> 00:05:09.575
+por no habérselo enseñado antes.
+
+00:05:09.575 --> 00:05:13.768
+Averiguemos entonces cuanto suman
+
+00:05:13.768 --> 00:05:15.151
+los ángulos de este triángulo.
+
+00:05:15.151 --> 00:05:17.862
+Quiero decir, ya sabemos que suman 180 grados, y con esa información
+
+00:05:17.862 --> 00:05:20.730
+podemos averiguar cuanto vale este otro ángulo. ¿Verdad?
+
+00:05:20.730 --> 00:05:23.499
+Ya que sabemos que este ángulo vale 90 grados y este otro 45
+
+00:05:23.499 --> 00:05:31.553
+Es decir, 45 -- llamemos a este ángulo x; parece que lo estoy enredando
+
+00:05:31.553 --> 00:05:37.220
+-- 45 más 90, esto significa que se trata de un ángulo de 90 grados,
+
+00:05:37.220 --> 00:05:40.614
+más x es igual a 180 grados.
+
+00:05:40.614 --> 00:05:43.005
+Y eso es porque los 3 ángulos de un triángulo
+
+00:05:43.005 --> 00:05:46.755
+siempre suman 180 grados.
+
+00:05:46.755 --> 00:05:55.915
+Y si despejamos x, obtenemos 135 + x = 180.
+
+00:05:55.915 --> 00:05:57.616
+Restamos 135 en ambos lados
+
+00:05:57.616 --> 00:06:01.098
+Y obtenemos que x es igual a 45 grados.
+
+00:06:01.098 --> 00:06:02.602
+Interesante!
+
+00:06:02.602 --> 00:06:06.660
+x vale también 45 grados
+
+00:06:06.660 --> 00:06:11.173
+Por tanto tenemos un ángulo de 90 grados y dos de 45.
+
+00:06:11.173 --> 00:06:13.884
+Ahora voy a darles un nuevo Teorema que no está nombrado
+
+00:06:13.884 --> 00:06:16.315
+en honor a un jefe religioso
+
+00:06:16.315 --> 00:06:17.835
+o al fundador de una religión.
+
+00:06:17.835 --> 00:06:20.183
+De hecho no creo que este Teorema tenga nombre.
+
+00:06:20.183 --> 00:06:26.220
+El caso es que si tengo un triángulo
+
+00:06:26.220 --> 00:06:31.131
+-- voy a dibujar otro triángulo por aquí --
+
+00:06:31.131 --> 00:06:35.572
+en el que dos de sus ángulos base son iguales -- y cuando digo ángulos base me refiero tan solo
+
+00:06:35.572 --> 00:06:39.810
+a que estos dos ángulos son iguales, llamémosles "a".
+
+00:06:39.810 --> 00:06:44.201
+Ambos son de "a" grados, entonces, los lados que NO comparten
+
+00:06:44.201 --> 00:06:46.471
+en este caso comparten este lado verdad?
+
+00:06:46.471 --> 00:06:49.240
+pero si nos fijamos en los lados que no comparten
+
+00:06:49.240 --> 00:06:53.119
+deberíamos saber que esos lados son iguales.
+
+00:06:53.119 --> 00:06:54.701
+He olvidado cómo llamamos a esto en la clase de geometría.
+
+00:06:54.701 --> 00:06:56.445
+Quizás lo busque en otra presentación
+
+00:06:56.445 --> 00:06:57.850
+Y os lo haré saber.
+
+00:06:57.850 --> 00:06:59.686
+Pero he llegado hasta aquí sin saber
+
+00:06:59.686 --> 00:07:00.721
+el nombre del teorema
+
+00:07:00.721 --> 00:07:04.067
+Y tiene sentido, no es necesario que se lo diga.
+
+00:07:04.067 --> 00:07:10.034
+--Como podría dibujar este ángulo--Si modificase uno de estos ángulos,
+
+00:07:10.034 --> 00:07:11.498
+la longitud también cambiaría.
+
+00:07:11.498 --> 00:07:13.956
+Otra forma de verlo, la única forma -- no,
+
+00:07:13.956 --> 00:07:15.309
+mmm no quiero confundirlos mucho --
+
+00:07:15.309 --> 00:07:19.345
+Pero pueden comprobar visualmente que si estos dos lados son iguales
+
+00:07:19.345 --> 00:07:21.649
+entonces estos dos ángulos también lo serán.
+
+00:07:21.649 --> 00:07:24.918
+Si cambiasen el tamaño de alguno de estos lados, entonces los ángulos
+
+00:07:24.918 --> 00:07:28.453
+también cambiarían o dejarían de ser iguales.
+
+00:07:28.453 --> 00:07:31.181
+Pero lo dejaré para que lo piensen ustedes.
+
+00:07:31.181 --> 00:07:34.805
+Ahora tienen que aceptar que si dos ángulos de un triángulo
+
+00:07:34.805 --> 00:07:39.192
+son iguales, entonces los lados que no comparten
+
+00:07:39.192 --> 00:07:41.517
+tendrán la misma longitud verdad?
+
+00:07:41.517 --> 00:07:43.551
+Asegúrense de recordar: el lado que comparten NO -- porque
+
+00:07:43.551 --> 00:07:46.519
+ese lado puede tener cualquier longitud -- son los lados
+
+00:07:46.519 --> 00:07:49.237
+que NO comparten los que tienen la misma longitud.
+
+00:07:49.237 --> 00:07:52.834
+Por tanto aquí tenemos un ejemplo con 2 ángulos iguales
+
+00:07:52.834 --> 00:07:55.100
+ambos de 45 grados.
+
+00:07:55.100 --> 00:07:58.469
+Eso significa que los lados que NO comparten
+
+00:07:58.469 --> 00:08:00.129
+-- este es el lado que comparten verdad?
+
+00:08:00.129 --> 00:08:02.229
+ambos ángulos comparten este lado -- lo que significa
+
+00:08:02.229 --> 00:08:05.183
+que los lados que no comparten son iguales.
+
+00:08:05.183 --> 00:08:08.225
+Por tanto, este lado es igual a este otro.
+
+00:08:08.225 --> 00:08:12.060
+Y creo que podrías estar teniendo un momento "ah-hah" ahora mismo.
+
+00:08:12.060 --> 00:08:16.031
+Bien, este lado es igual a este otro -- al inicio del problema les dije
+
+00:08:16.031 --> 00:08:18.342
+que este lado vale 5 -- por lo que
+
+00:08:18.342 --> 00:08:20.403
+sabemos que este lado es igual a 5.
+
+00:08:20.403 --> 00:08:23.757
+Y ahora podemos aplicar el teorema de Pitágoras.
+
+00:08:23.757 --> 00:08:26.893
+Sabemos que esta es la hipotenusa verdad?
+
+NOTE Paragraph
+
+00:08:26.893 --> 00:08:35.038
+Podemos decir entonces que 5 al cuadrado mas 5 al cuadrado es igual a -- digamos
+
+00:08:35.038 --> 00:08:38.420
+"C" al cuadrado, siendo C la longitud de la hipotenusa
+
+00:08:38.420 --> 00:08:41.553
+-- 5 al cuadrado más 5 al cuadrado -- es 50 --
+
+00:08:41.553 --> 00:08:44.269
+y esto es igual a C al cuadrado.
+
+00:08:44.269 --> 00:08:48.368
+Entonces C es igual a la raíz cuadrada de 50.
+
+00:08:48.368 --> 00:08:56.201
+Y 50 es 2 veces 25, por lo que C es 5 por la raíz cuadrada de 2
+
+00:08:56.201 --> 00:08:56.932
+Interesante.
+
+00:08:56.932 --> 00:09:00.052
+Creo que les he dado un montón de información aquí.
+
+00:09:00.052 --> 00:09:02.827
+Si se confunden pueden volver a ver este video.
+
+00:09:02.827 --> 00:09:05.949
+Pero en el siguiente video les daré más información
+
+00:09:05.949 --> 00:09:07.382
+sobre este tipo de triángulos, que en realidad
+
+00:09:07.382 --> 00:09:10.987
+son un tipo de triángulos muy comunes en geometría
+
+00:09:10.987 --> 00:09:14.398
+y trigonometría llamados triángulos de 45, 45 - 90.
+
+00:09:14.398 --> 00:09:16.019
+Y tiene sentido que se llamen así puesto que tienen
+
+00:09:16.019 --> 00:09:19.766
+dos ángulos de 45 y uno de 90 grados.
+
+00:09:19.766 --> 00:09:21.734
+Y también les enseñaré una forma rápida de
+
+00:09:21.734 --> 00:09:25.773
+utilizar la información de que se trata de un triángulo de 45, 45 y 90 grados

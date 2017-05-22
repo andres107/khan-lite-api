@@ -1,0 +1,1086 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.560 --> 00:00:03.240
+Hasta ahora solamente hemos parametrizado
+
+00:00:03.240 --> 00:00:05.855
+una curva con un solo parámetro.
+
+00:00:05.855 --> 00:00:09.420
+Lo que vamos a hacer en este video es parametrizar una
+
+00:00:09.420 --> 00:00:12.990
+superficie en tres dimensiones, usando dos parámetros.
+
+00:00:12.990 --> 00:00:15.870
+Y vamos a empezar con un ejemplo de toro
+
+00:00:15.870 --> 00:00:22.320
+Un toro, o más conocido como la forma de una dona.
+
+00:00:22.320 --> 00:00:25.300
+Y sabemos a que se parece una dona.
+
+00:00:25.300 --> 00:00:27.990
+Voy a dibujarla en un color, ejem, no tengo ningún
+
+00:00:27.990 --> 00:00:30.930
+color apropiado para donas, así voy a usar verde.
+
+00:00:30.930 --> 00:00:33.740
+Una dona es como esto.
+
+00:00:33.740 --> 00:00:38.460
+Tiene un hueco en el centro, y tal vez el otro lado de
+
+00:00:38.460 --> 00:00:40.750
+la dona se parece a algo como esto, y podemos
+
+00:00:40.750 --> 00:00:43.840
+sombrearla así.
+
+00:00:43.840 --> 00:00:46.640
+Asi es como se ve una dona.
+
+00:00:46.640 --> 00:00:51.010
+Entonces, ¿cómo la construimos usando dos parámetros?
+
+00:00:51.010 --> 00:00:53.640
+Lo que queremos hacer es que puedes visualizarla, una
+
+00:00:53.640 --> 00:00:56.170
+dona, si dibujaras unos ejes aquí.
+
+00:00:56.170 --> 00:00:57.230
+Eso es nuestra dona.
+
+00:00:57.230 --> 00:00:59.310
+Voy a dibjuar unos ejes.
+
+00:00:59.310 --> 00:01:03.100
+Supongamos que tengo el eje z que va recto de arriba a abajo.
+
+00:01:03.100 --> 00:01:05.030
+Está dibujado aqui, la dona está un poco
+
+00:01:05.030 --> 00:01:07.430
+inclinada, así voy a inclinar el eje z un poco.
+
+00:01:07.430 --> 00:01:11.580
+Entonces nuestro eje z pasa a través del centro
+
+00:01:11.580 --> 00:01:13.650
+de la dona
+
+00:01:13.650 --> 00:01:17.880
+Si seguimos así, esto va a ser un ejercicio
+
+00:01:17.880 --> 00:01:19.810
+de dibujo más que otra cosa
+
+00:01:19.810 --> 00:01:23.830
+Entonces ese es mi eje z, y puedes imaginar que el eje z va
+
+00:01:23.830 --> 00:01:28.020
+desde allí, y entonces esto que sale de aquí
+
+00:01:28.020 --> 00:01:30.470
+será mi eje x.
+
+00:01:30.470 --> 00:01:35.890
+Correcto, aquí esta mi eje x, y tal vez entonces mi eje y
+
+00:01:35.890 --> 00:01:38.190
+sale por acá de esta manera.
+
+00:01:38.190 --> 00:01:40.210
+Y la razón por la que lo dibujé de esta forma es que si tú
+
+00:01:40.210 --> 00:01:42.860
+imaginas la sección de cruce de esta dona podrás
+
+00:01:42.860 --> 00:01:45.410
+apreciarla más fácilmente. pero la sección de cruce de esta dona
+
+00:01:45.410 --> 00:01:48.710
+en los ejes x-z se parecerá a algo como esto.
+
+00:01:48.710 --> 00:01:51.820
+Si lo cortara en el eje x-z, se vería
+
+00:01:51.820 --> 00:01:52.570
+como algo así.
+
+00:01:57.580 --> 00:01:58.580
+Eso sería el segmento.
+
+00:01:58.580 --> 00:02:00.510
+Se traza, y estamos pensando acerca de la no
+
+00:02:00.510 --> 00:02:02.570
+una rosquilla completa, sólo la superficie de un donut.
+
+00:02:02.570 --> 00:02:04.440
+Por lo tanto sería trazar un círculo como este.
+
+00:02:04.440 --> 00:02:07.570
+Si fueras a cortar los anillos en el eje z positivo-y tiene
+
+00:02:07.570 --> 00:02:13.620
+va a rastrear a un círculo que tiene un aspecto
+
+00:02:13.620 --> 00:02:14.600
+de esa forma, justo allí.
+
+00:02:14.600 --> 00:02:17.540
+Y si se apaga aquí, vas a obtener el manojo de círculos.
+
+00:02:17.540 --> 00:02:20.150
+Así que si pones a pensar, es un manojo de círculos girado
+
+00:02:20.150 --> 00:02:21.950
+alrededor del eje z.
+
+00:02:21.950 --> 00:02:25.940
+Si usted piensa de esa manera, nos daremos algunos buenos
+
+00:02:25.940 --> 00:02:29.190
+intuición de la mejor forma de parametrizar esta cosa.
+
+00:02:29.190 --> 00:02:31.900
+Así que vamos a hacerlo de esa manera.
+
+00:02:31.900 --> 00:02:34.030
+Vamos a empezar con sólo el eje z-y.
+
+00:02:34.030 --> 00:02:36.690
+Voy dibujar un poco mejor de lo que he hecho aquí.
+
+00:02:36.690 --> 00:02:45.240
+Por lo que es el eje z y es y, sólo así.
+
+00:02:45.240 --> 00:02:48.630
+Y supongamos que el centro de estos círculos, vamos a decirlo
+
+00:02:48.630 --> 00:02:53.350
+mentiras sobre, ustedes saben, puede mentir, al cruzar el eje z-y,
+
+00:02:53.350 --> 00:02:55.220
+el centro se sitúa en el eje y.
+
+00:02:55.220 --> 00:02:56.770
+No señalo lo que claramente aquí, pero creo que
+
+00:02:56.770 --> 00:02:58.730
+se pueden visualizar.
+
+00:02:58.730 --> 00:03:01.070
+Así que allí se asienta en el eje y.
+
+00:03:01.070 --> 00:03:06.200
+Y digamos que es una distancia b del centro
+
+00:03:06.200 --> 00:03:10.330
+del Toro, o desde el eje z es una distancia de b.
+
+00:03:10.330 --> 00:03:13.170
+Siempre va a estar a una distancia de b.
+
+00:03:13.170 --> 00:03:15.510
+Ha siempre, si te imaginas la parte superior de la rosquilla, permítanme
+
+00:03:15.510 --> 00:03:17.420
+Dibuja la parte superior de la rosquilla.
+
+00:03:17.420 --> 00:03:21.630
+Si usted está buscando hacia abajo en una rosquilla, permítanme llamar un
+
+00:03:21.630 --> 00:03:25.420
+donut justo aquí, si usted está buscando hacia abajo en una rosquilla,
+
+00:03:25.420 --> 00:03:27.710
+sólo se ve algo así.
+
+00:03:27.710 --> 00:03:30.760
+El eje z sólo va a ir apareciendo directamente hacia afuera.
+
+00:03:30.760 --> 00:03:36.510
+El eje x vendría como esta, y luego sería el eje y
+
+00:03:36.510 --> 00:03:39.370
+ir a la derecha, como ese.
+
+00:03:39.370 --> 00:03:41.210
+Por lo que te imaginas, sólo estoy volando por encima de esto.
+
+00:03:41.210 --> 00:03:43.670
+Estoy sentada en el eje z hacia abajo mirando el donut.
+
+00:03:43.670 --> 00:03:46.000
+Se verá igual a ésta.
+
+00:03:46.000 --> 00:03:49.720
+Y si te imaginas la sección transversal, este círculo derecha
+
+00:03:49.720 --> 00:03:57.050
+aquí, la parte superior del círculo si lo que buscas,
+
+00:03:57.050 --> 00:03:59.450
+quedaría sólo como ese.
+
+00:03:59.450 --> 00:04:04.680
+Y esta distancia b es la distancia desde el eje z
+
+00:04:04.680 --> 00:04:06.100
+en el centro de cada uno de estos círculos.
+
+00:04:06.100 --> 00:04:09.920
+Para esta distancia, permítanme dibujar en el mismo color, desde el
+
+00:04:09.920 --> 00:04:15.280
+Centro para el centro de estos círculos, que va a ser b.
+
+00:04:15.280 --> 00:04:17.000
+Sólo va a seguir yendo al centro
+
+00:04:17.000 --> 00:04:18.670
+de los círculos, b.
+
+00:04:18.670 --> 00:04:21.840
+Va a ser b, que va a ser b.
+
+00:04:21.840 --> 00:04:23.370
+Va a ser b.
+
+00:04:23.370 --> 00:04:26.590
+Desde el centro de nuestro Toro en el centro de nuestro círculo
+
+00:04:26.590 --> 00:04:29.810
+define el toro, es una distancia de b.
+
+00:04:29.810 --> 00:04:35.380
+Así que esta distancia aquí, esa distancia allí es b.
+
+00:04:35.380 --> 00:04:38.780
+Y de b, podemos imaginar que tenemos un radio.
+
+00:04:38.780 --> 00:04:40.570
+Un radio de longitud un.
+
+00:04:40.570 --> 00:04:42.860
+Para estos círculos tienen radio de longitud un.
+
+00:04:42.860 --> 00:04:46.390
+Así es esta distancia aquí una, esta distancia es aquí
+
+00:04:46.390 --> 00:04:49.520
+una, esta distancia derecha hay una, esa distancia
+
+00:04:49.520 --> 00:04:50.250
+derecha hay un.
+
+00:04:50.250 --> 00:04:51.910
+Si yo fuera mirar estos círculos, estos círculos
+
+00:04:51.910 --> 00:04:53.650
+tienen radio un.
+
+00:04:53.650 --> 00:04:55.980
+Y lo que vamos a hacer es tener dos parámetros.
+
+00:04:55.980 --> 00:05:01.710
+Uno es el ángulo que esta radio se hace con el x-z
+
+00:05:01.710 --> 00:05:05.520
+plano, por lo que puede imaginar el eje que sale.
+
+00:05:05.520 --> 00:05:08.040
+Permítanme hacer eso en el mismo color.
+
+00:05:08.040 --> 00:05:11.750
+Se puede imaginar el eje que sale de aquí.
+
+00:05:11.750 --> 00:05:13.570
+Este es el plano x-z.
+
+00:05:13.570 --> 00:05:17.480
+Para un parámetro va a ser el ángulo entre nuestros
+
+00:05:17.480 --> 00:05:19.840
+radio y el plano x-z.
+
+00:05:19.840 --> 00:05:24.670
+Vamos a llamar a ese ángulo, o ese parámetro, estamos
+
+00:05:24.670 --> 00:05:26.550
+vamos a llamar que s.
+
+00:05:26.550 --> 00:05:33.342
+Y así como s va entre 0 y 2 pi, como s va entre 0 en 2
+
+00:05:33.342 --> 00:05:37.190
+PI, cuando el 0 solo va a ser en este momento aquí,
+
+00:05:37.190 --> 00:05:40.960
+y luego como va a 2 pi, vas a rastrear a un
+
+00:05:40.960 --> 00:05:43.490
+círculo que se ve sólo como ese.
+
+00:05:43.490 --> 00:05:45.070
+Ahora, tenemos sólo un parámetro.
+
+00:05:45.070 --> 00:05:47.950
+Lo que queremos hacer es girar entonces este círculo alrededor.
+
+00:05:47.950 --> 00:05:51.550
+Sólo saqué es ese círculo allí.
+
+00:05:51.550 --> 00:05:56.060
+Lo que queremos hacer es exprimido todo el círculo alrededor.
+
+00:05:56.060 --> 00:06:00.210
+Así que vamos a definir otro parámetro.
+
+00:06:00.210 --> 00:06:02.450
+Llamaremos a este una t, y voy a tomar nuevamente la vista superior.
+
+00:06:02.450 --> 00:06:03.700
+Este está un poco desordenado.
+
+00:06:03.700 --> 00:06:05.470
+Permítanme llamar otra vista superior.
+
+00:06:05.470 --> 00:06:07.700
+Como puede ver, esto es todo acerca de la visualización.
+
+00:06:07.700 --> 00:06:13.910
+Así que vamos a decir que esto es mi eje x, es mi eje y.
+
+00:06:13.910 --> 00:06:17.730
+Y dijimos que comenzamos aquí en el plano z-y.
+
+00:06:17.730 --> 00:06:22.580
+Somos b lejos del eje z, por lo que la distancia es b.
+
+00:06:22.580 --> 00:06:25.110
+En este diagrama, el eje z es saltando sólo a nosotros.
+
+00:06:25.110 --> 00:06:26.160
+Está apareciendo fuera de la página.
+
+00:06:26.160 --> 00:06:27.490
+Estamos viendo hacia abajo.
+
+00:06:27.490 --> 00:06:29.540
+Es como la misma vista como allí.
+
+00:06:29.540 --> 00:06:35.170
+Y lo acaba de dibujar, cuando s es igual a 0 radianes, vamos
+
+00:06:35.170 --> 00:06:37.860
+estar aquí, exactamente un radio más
+
+00:06:37.860 --> 00:06:38.700
+a lo largo del eje y.
+
+00:06:38.700 --> 00:06:40.440
+Y luego vamos a rotar.
+
+00:06:40.440 --> 00:06:42.230
+Como nos girar alrededor, vamos a girar y luego
+
+00:06:42.230 --> 00:06:43.700
+venir aquí durante todo el camino.
+
+00:06:43.700 --> 00:06:45.760
+Es entonces cuando estamos por allí y luego volver hacia abajo.
+
+00:06:45.760 --> 00:06:47.670
+Así que si has buscado en la parte superior del círculo, tiene
+
+00:06:47.670 --> 00:06:49.410
+va a ver como ese.
+
+00:06:49.410 --> 00:06:50.910
+Ahora, para hacer el donut, vamos a tener que
+
+00:06:50.910 --> 00:06:55.010
+Gire esta configuración toda alrededor del eje z.
+
+00:06:55.010 --> 00:06:56.500
+Recuerde, el eje z es saltando.
+
+00:06:56.500 --> 00:06:58.920
+Está mirando hacia arriba en nosotros.
+
+00:06:58.920 --> 00:07:01.340
+Está saliendo de su pantalla de vídeo.
+
+00:07:01.340 --> 00:07:04.820
+Ahora para rotarlo, vamos a rotar este
+
+00:07:04.820 --> 00:07:09.840
+un círculo alrededor del eje z.
+
+00:07:09.840 --> 00:07:12.490
+Y para ello, vamos a definir un parámetro que nos dice cómo
+
+00:07:12.490 --> 00:07:16.210
+mucho nos hemos girado.
+
+00:07:16.210 --> 00:07:18.940
+Esto es cuando nos hemos rotado 0 radianes.
+
+00:07:18.940 --> 00:07:23.550
+En algún momento, vamos a estar aquí, y lo haríamos
+
+00:07:23.550 --> 00:07:27.490
+han girado, esto es b así, y va nuestro círculo
+
+00:07:27.490 --> 00:07:29.390
+estar buscando como este.
+
+00:07:29.390 --> 00:07:33.640
+Quizás es este punto nuestros anillos, justo ahí.
+
+00:07:33.640 --> 00:07:35.390
+En ese momento, nos habría girado
+
+00:07:35.390 --> 00:07:37.230
+digamos radianes p.
+
+00:07:37.230 --> 00:07:40.880
+Por lo que este parámetro de cuánto tienen gira alrededor de la
+
+00:07:40.880 --> 00:07:44.240
+eje z, cuánto hemos llegado alrededor de esa manera, estamos
+
+00:07:44.240 --> 00:07:45.560
+vamos a llamar que t.
+
+00:07:45.560 --> 00:07:52.900
+Y t también va a variar entre 0 y 2 pi.
+
+00:07:52.900 --> 00:07:53.960
+Y quiero dejar esto muy claro.
+
+00:07:53.960 --> 00:08:00.830
+Vamos a llamar realmente el dominio que le estamos asignando de a
+
+00:08:00.830 --> 00:08:04.690
+nuestra superficie, por lo que entendemos esto completamente.
+
+00:08:04.690 --> 00:08:07.390
+Así que permítanme señalar algunas, y luego hablaremos sobre cómo podemos
+
+00:08:07.390 --> 00:08:10.850
+realmente parametrizar en una posición
+
+00:08:10.850 --> 00:08:13.030
+función con valores vectoriales.
+
+00:08:13.030 --> 00:08:21.030
+Tan derecho aquí, vamos a llamar el t-eje.
+
+00:08:21.030 --> 00:08:23.330
+Que es, recuerda, cuánto estamos girados en torno a
+
+00:08:23.330 --> 00:08:25.010
+el eje z en allí.
+
+00:08:25.010 --> 00:08:31.610
+Y vamos a llamar a esto aquí abajo nuestra s-eje.
+
+00:08:31.610 --> 00:08:35.410
+Y creo que esto ayudará a las cosas un poco bueno.
+
+00:08:35.410 --> 00:08:39.180
+Cuando s es igual a 0, y variamos t justo, así que son
+
+00:08:39.180 --> 00:08:41.270
+ambos vamos a variar entre 0 y 2 pi.
+
+00:08:41.270 --> 00:08:46.190
+Así que aquí esto es 0, esto aquí es 2 pi.
+
+00:08:46.190 --> 00:08:47.540
+Permítanme hacer algunas cosas en el medio.
+
+00:08:47.540 --> 00:08:52.840
+Esto es pi, esto sería pi sobre 2 obviamente, pi más 2,
+
+00:08:52.840 --> 00:08:55.250
+Esto sería pi 3 más 4.
+
+00:08:55.250 --> 00:08:57.050
+Haces lo mismo en el eje de p.
+
+00:08:57.050 --> 00:08:59.550
+Va a ir hasta 2 pi.
+
+00:08:59.550 --> 00:09:00.560
+Vamos a hacer eso.
+
+00:09:00.560 --> 00:09:03.820
+Así que vamos a ir hasta 2 pi.
+
+00:09:03.820 --> 00:09:06.060
+Realmente quiero que visualizar esto, porque entonces el
+
+00:09:06.060 --> 00:09:10.190
+parametrización, creo, será bastante sencilla.
+
+00:09:10.190 --> 00:09:16.240
+Eso es 2 pi, pi, esto es pi más 2, y
+
+00:09:16.240 --> 00:09:20.890
+entonces esto es pi 3 más 4.
+
+00:09:20.890 --> 00:09:23.930
+Así que vamos a pensar en lo que parece si sólo tienes s
+
+00:09:23.930 --> 00:09:28.770
+constante en 0 y nosotros sólo variar t entre cero y 2 pi.
+
+00:09:28.770 --> 00:09:32.870
+Y me deja hacer eso en magenta, aquí.
+
+00:09:32.870 --> 00:09:35.480
+Así que estamos manteniendo constante s, y nosotros sólo estamos variando
+
+00:09:35.480 --> 00:09:37.250
+el pi de parámetro 2.
+
+00:09:37.250 --> 00:09:39.800
+Así, si lo piensas, debe simplemente formar una curva en
+
+00:09:39.800 --> 00:09:41.030
+tres dimensiones, no de una superficie.
+
+00:09:41.030 --> 00:09:43.500
+Porque somos sólo variable un parámetro aquí.
+
+00:09:43.500 --> 00:09:45.370
+Así que vamos a pensar en lo que se trata.
+
+00:09:45.370 --> 00:09:51.360
+Recuerde, es s, permítanme llamar mis ejes.
+
+00:09:51.360 --> 00:09:58.330
+Por lo que es mi eje x, que es mi eje y, y luego
+
+00:09:58.330 --> 00:10:01.970
+Esto es mío, estoy recibiendo messier y messier.
+
+00:10:01.970 --> 00:10:05.630
+Esa es mi eje z, derecho--en realidad, permítanme dibujar un
+
+00:10:05.630 --> 00:10:06.860
+un poco más grande que eso.
+
+00:10:06.860 --> 00:10:10.570
+Creo que ayudará a todos nuestros visualizaciones.
+
+00:10:10.570 --> 00:10:11.080
+Muy bien.
+
+00:10:11.080 --> 00:10:20.210
+Así que esta es mi eje x, que es mi eje y y luego mi z
+
+00:10:20.210 --> 00:10:22.450
+sube como ese. eje z.
+
+00:10:22.450 --> 00:10:25.360
+Ahora recuerdo, cuando s es igual a 0, lo que significa que no tenemos
+
+00:10:25.360 --> 00:10:29.550
+gira alrededor de este círculo en absoluto.
+
+00:10:29.550 --> 00:10:31.300
+Eso significa que estamos aquí.
+
+00:10:31.300 --> 00:10:34.830
+Vamos a estar lejos b y luego un lejos otra vez.
+
+00:10:34.830 --> 00:10:35.050
+¿Verdad?
+
+00:10:35.050 --> 00:10:36.990
+No hemos girado alrededor de esto en absoluto.
+
+00:10:36.990 --> 00:10:39.630
+S que nos estamos fijando como igual a cero.
+
+00:10:39.630 --> 00:10:43.650
+Así que básicamente, vamos a ser b, por lo que esto va a
+
+00:10:43.650 --> 00:10:46.800
+mantener una distancia de b lejos, y, a continuación, vamos a
+
+00:10:46.800 --> 00:10:48.480
+otro ser un visitante.
+
+00:10:48.480 --> 00:10:50.310
+El b es el centro del círculo, y luego vamos
+
+00:10:50.310 --> 00:10:51.300
+a ser otro un lejos.
+
+00:10:51.300 --> 00:10:52.550
+Vamos a estar por allí.
+
+00:10:52.550 --> 00:10:54.730
+Esto es un plus b lejos.
+
+00:10:54.730 --> 00:10:56.130
+Y, a continuación, vamos a variar t.
+
+00:10:56.130 --> 00:10:59.870
+Recuerde, la t fue cuánto nos hemos ido alrededor del eje z.
+
+00:10:59.870 --> 00:11:01.670
+Estos fueron vistas superiores aquí.
+
+00:11:01.670 --> 00:11:07.640
+Por lo tanto esta línea justo aquí, en nuestro dominio de s-t, podemos decir, cuando nos
+
+00:11:07.640 --> 00:11:11.940
+mapa, o parametrizarlo, le corresponden a la curva
+
+00:11:11.940 --> 00:11:13.980
+que es esencialmente el borde exterior del son circulares.
+
+00:11:13.980 --> 00:11:16.690
+Si esta es la vista superior de la rosquilla, será el exterior
+
+00:11:16.690 --> 00:11:18.800
+borde de la rosquilla, nomás.
+
+00:11:18.800 --> 00:11:20.690
+Así que permítanme dibujar el borde exterior.
+
+00:11:20.690 --> 00:11:22.620
+Y para hacer un poco mejor, me deja dibujar los ejes
+
+00:11:22.620 --> 00:11:25.440
+en tanto el positivo y el dominio negativo.
+
+00:11:25.440 --> 00:11:29.140
+Mi gráfico puede ser un poco más fácil de visualizar las cosas.
+
+00:11:29.140 --> 00:11:33.820
+Dominio positivo y negativo, esto es negativo z allí.
+
+00:11:33.820 --> 00:11:37.480
+Para esta línea en nuestro avión t-s, supongo que podríamos decir, esto
+
+00:11:37.480 --> 00:11:42.470
+línea magenta, tenemos s a 0 radianes y aumentamos t, esto
+
+00:11:42.470 --> 00:11:47.750
+es t es cero, esto es t es igual a 2 pi, t que es
+
+00:11:47.750 --> 00:11:53.290
+Esto es igual a pi, t es igual a pi 3 más 2, completamente
+
+00:11:53.290 --> 00:11:55.780
+Back to t es igual a 2 pi.
+
+00:11:55.780 --> 00:12:00.470
+Esta línea corresponde a esa línea, como nos gire, como nos
+
+00:12:00.470 --> 00:12:04.890
+aumentar t y mantenga constante s a 0.
+
+00:12:04.890 --> 00:12:06.900
+Ahora vamos a hacer otro punto.
+
+00:12:06.900 --> 00:12:11.750
+Vamos a decir cuando s es pi, derecho, recuerda, cuando es s
+
+00:12:11.750 --> 00:12:14.660
+en pi, hemos ido exactamente, pi es 180 grados.
+
+00:12:14.660 --> 00:12:17.430
+Cuando s es pi, hemos ido exactamente 180 grados
+
+00:12:17.430 --> 00:12:19.340
+alrededor del círculo, alrededor de cada uno de estos círculos.
+
+00:12:19.340 --> 00:12:20.810
+Así que estamos por allí.
+
+00:12:20.810 --> 00:12:23.520
+Y ahora vamos a mantenerla constante en pi y girarla
+
+00:12:23.520 --> 00:12:24.710
+alrededor para formar nuestros anillos.
+
+00:12:24.710 --> 00:12:27.540
+Así que vamos a formar el interior de nuestros anillos.
+
+00:12:27.540 --> 00:12:32.120
+Cuando s está en pie, y vamos a tomar t de 0, cuando
+
+00:12:32.120 --> 00:12:35.620
+s es pi y t es 0, vamos a estar, esto fue el centro de
+
+00:12:35.620 --> 00:12:37.410
+nuestro círculo, vamos a ser una por debajo.
+
+00:12:37.410 --> 00:12:39.930
+Vamos a estar por allí.
+
+00:12:39.930 --> 00:12:47.430
+Y entonces, como nos varían, ya que incrementamos t, así que a medida que avanzamos hacia arriba
+
+00:12:47.430 --> 00:12:54.620
+a lo largo, sostiene s en pi y aumentamos t, vamos a
+
+00:12:54.620 --> 00:13:02.070
+trazar el interior de nuestras circulares, que se verán
+
+00:13:02.070 --> 00:13:04.170
+algo así.
+
+00:13:04.170 --> 00:13:06.340
+Fue mi mejor tiro a introducirlo.
+
+00:13:06.340 --> 00:13:08.050
+Y, a continuación, podemos hacer esto varias veces.
+
+00:13:08.050 --> 00:13:11.660
+Cuando s es pi 2 más, quiero hacer varios colores diferentes,
+
+00:13:11.660 --> 00:13:15.960
+Cuando s es pi 2 más, nos hemos girado hasta aquí exactamente
+
+00:13:15.960 --> 00:13:16.980
+¿90 grados, correctas?
+
+00:13:16.980 --> 00:13:18.900
+En este punto, el PI más 2 es 90 grados.
+
+00:13:18.900 --> 00:13:21.500
+Y, a continuación, si variamos t, nos estamos esencialmente seguimiento la
+
+00:13:21.500 --> 00:13:23.840
+¿parte superior de la rosquilla, correcto?
+
+00:13:23.840 --> 00:13:25.110
+Así que permítanme Asegúrese de que lo llamo.
+
+00:13:25.110 --> 00:13:26.990
+Para la sección de la Cruz, la parte superior de la rosquilla, vamos
+
+00:13:26.990 --> 00:13:30.690
+para empezar por aquí.
+
+00:13:30.690 --> 00:13:34.910
+Así que cuando s es pi 2 más y que lo varían a derecho y luego le
+
+00:13:34.910 --> 00:13:39.100
+muy t, estoy teniendo problemas para dibujar líneas rectas.
+
+00:13:39.100 --> 00:13:42.500
+Y entonces usted variar t, va a tener este aspecto.
+
+00:13:42.500 --> 00:13:44.980
+Es la parte superior de ese círculo allí.
+
+00:13:44.980 --> 00:13:47.420
+La parte superior de este círculo va a estar allí.
+
+00:13:47.420 --> 00:13:50.490
+La parte superior de este círculo va a ser justo por allí.
+
+00:13:50.490 --> 00:13:53.000
+Parte superior del círculo va a ser justo por allí.
+
+00:13:53.000 --> 00:13:54.300
+Entonces acabo de conectar los puntos.
+
+00:13:54.300 --> 00:13:59.470
+Va a ser algo así.
+
+00:13:59.470 --> 00:14:00.770
+Es la parte superior de nuestros anillos.
+
+00:14:00.770 --> 00:14:02.750
+Si estaba haciendo esta vista superior, que sería la parte superior de la
+
+00:14:02.750 --> 00:14:04.100
+anillos, al igual.
+
+00:14:04.100 --> 00:14:06.750
+Y si quería hacer sólo a la parte inferior de la dona,
+
+00:14:06.750 --> 00:14:10.530
+aclarar la imagen, si tuviera que hacer la parte inferior de la
+
+00:14:10.530 --> 00:14:13.350
+Donut, sería la parte inferior de los anillos--ver, si me
+
+00:14:13.350 --> 00:14:17.210
+tomar s 3 pi más 4 y yo variar t, que es el fondo
+
+00:14:17.210 --> 00:14:17.850
+de nuestras donas.
+
+00:14:17.850 --> 00:14:21.870
+Así que permítanme dibujar el círculo, es justo ahí, el círculo es
+
+00:14:21.870 --> 00:14:24.400
+derecho, no podrá ver todo
+
+00:14:24.400 --> 00:14:26.950
+Si esto no era transparente.
+
+00:14:26.950 --> 00:14:30.660
+Así sería rastrear desde el fondo de la dona,
+
+00:14:30.660 --> 00:14:31.350
+sólo así.
+
+00:14:31.350 --> 00:14:33.860
+Sé que este gráfico se está volviendo un poco confuso, pero
+
+00:14:33.860 --> 00:14:34.860
+Esperamos que usted consigue la idea.
+
+00:14:34.860 --> 00:14:38.470
+Cuando s es pi 2 nuevamente, usted va a ser hacia el exterior
+
+00:14:38.470 --> 00:14:40.220
+de nuevo de la dona.
+
+00:14:40.220 --> 00:14:43.460
+Eso también va a ser de color púrpura.
+
+00:14:43.460 --> 00:14:46.480
+Eso es lo que sucede cuando tenemos la constante s en determinado
+
+00:14:46.480 --> 00:14:48.730
+valores y variar la t.
+
+00:14:48.730 --> 00:14:50.780
+Ahora vamos a hacer lo contrario.
+
+00:14:50.780 --> 00:14:55.140
+¿Qué sucede si mantenemos t 0, y nosotros muy la s?
+
+00:15:00.510 --> 00:15:03.610
+T es 0, esto significa que no hemos girado todavía a todos.
+
+00:15:03.610 --> 00:15:05.160
+Así que estamos en el plano z-y.
+
+00:15:05.160 --> 00:15:16.690
+Entonces t es 0, s comenzará a 0 y lo voy a pi más 2,
+
+00:15:16.690 --> 00:15:18.180
+ese punto está allí.
+
+00:15:18.180 --> 00:15:20.670
+Luego iré a pi.
+
+00:15:20.670 --> 00:15:23.300
+Este punto es lo mismo que ese punto.
+
+00:15:23.300 --> 00:15:28.020
+Luego irá a pi 3 más 4, luego que volveré
+
+00:15:28.020 --> 00:15:29.550
+todo el camino a 2 pi.
+
+00:15:29.550 --> 00:15:34.080
+Así, esta línea se corresponde con este círculo, allí.
+
+00:15:34.080 --> 00:15:43.270
+Nosotros podríamos mantener estas haciendo si recogemos cuando t es pi--permítanme utilizar
+
+00:15:43.270 --> 00:15:46.290
+un color diferente, que no es lo suficientemente diferente.
+
+00:15:46.290 --> 00:15:50.870
+Cuando t es pi más 2, sólo así.
+
+00:15:50.870 --> 00:15:53.980
+Nos habría girado alrededor del eje z de 90 grados,
+
+00:15:53.980 --> 00:15:55.280
+así que ahora estamos aquí.
+
+00:15:55.280 --> 00:15:58.710
+Y ahora cuando variamos s, s comenzará aquí, y
+
+00:15:58.710 --> 00:16:02.330
+va a ir todo el camino alrededor como ese.
+
+00:16:02.330 --> 00:16:05.025
+Así, esta línea se corresponde con ese círculo.
+
+00:16:05.025 --> 00:16:08.180
+Lo podríamos seguir haciendo como este.
+
+00:16:08.180 --> 00:16:11.610
+Cuando t es igual a pi, eso significa que tenemos todo el camino
+
+00:16:11.610 --> 00:16:14.670
+alrededor del círculo de esa forma y ahora cuando variamos s desde 0
+
+00:16:14.670 --> 00:16:18.470
+para pi más 2, vamos a empezar todo el camino aquí,
+
+00:16:18.470 --> 00:16:20.590
+y luego nos vamos para variar, todo el camino, vamos a ir
+
+00:16:20.590 --> 00:16:24.430
+abajo y golpear todos aquellos contornos que hablábamos antes,
+
+00:16:24.430 --> 00:16:26.920
+y voy a hacer uno más, sólo para tipo de hacer esto,
+
+00:16:26.920 --> 00:16:29.510
+el andamio, claro.
+
+00:16:29.510 --> 00:16:31.540
+Este color púrpura oscuro, con suerte puedes verla.
+
+00:16:31.540 --> 00:16:34.150
+Cuando t es pi 3 más 4, hemos girado completamente.
+
+00:16:34.150 --> 00:16:38.070
+Así que estamos en el plano x-z.
+
+00:16:38.070 --> 00:16:41.900
+Y luego cuando el usuario cambia de s, s comenzará aquí, y
+
+00:16:41.900 --> 00:16:48.460
+a medida que aumenta s, vas a ir alrededor del círculo, alrededor de
+
+00:16:48.460 --> 00:16:50.950
+el círculo, al igual.
+
+00:16:50.950 --> 00:16:54.220
+Y por supuesto, cuando llegue el círculo completo, t
+
+00:16:54.220 --> 00:16:55.810
+sobre pi más 2, es lo mismo.
+
+00:16:55.810 --> 00:16:57.170
+Eres nuevo por aquí nuevamente.
+
+00:16:57.170 --> 00:17:01.620
+Así que esto va a ser, incluso podemos oscurecerlo del mismo color.
+
+00:17:01.620 --> 00:17:03.000
+Y esperemos que está recibiendo un sentido ahora de
+
+00:17:03.000 --> 00:17:04.130
+la parametrización.
+
+00:17:04.130 --> 00:17:05.450
+Yo no he hecho ningún matemáticas.
+
+00:17:05.450 --> 00:17:07.450
+Realmente no he mostró usted cómo representar matemáticamente
+
+00:17:07.450 --> 00:17:10.360
+como un vector función de valor, pero esperemos que obtendrá
+
+00:17:10.360 --> 00:17:15.670
+un sentido de lo que significa parametrizar por dos parámetros.
+
+00:17:15.670 --> 00:17:23.080
+Y sólo para tener una idea de lo que estas áreas en nuestro avión s-t
+
+00:17:23.080 --> 00:17:30.350
+corresponden a esta superficie, en que supongo que se podría
+
+00:17:30.350 --> 00:17:34.640
+decir, en R3, esta pequeña plaza aquí, vamos a ver
+
+00:17:34.640 --> 00:17:36.300
+lo que está rodeado.
+
+00:17:36.300 --> 00:17:38.900
+Esta pequeña plaza, quiero hacer que escogí un cuadrado
+
+00:17:38.900 --> 00:17:41.100
+que puedo llamar perfectamente.
+
+00:17:41.100 --> 00:17:46.755
+Así que esto aquí, cuadrado que entre, cuando observas t,
+
+00:17:46.755 --> 00:17:50.070
+es entre 0 y pi más 2.
+
+00:17:55.340 --> 00:17:58.740
+Y s está entre 0 y pi más 2.
+
+00:17:58.740 --> 00:18:04.120
+Esto aquí es esta parte de nuestro Toro.
+
+00:18:07.080 --> 00:18:11.840
+Si se está viendo desde la parte superior, se vería
+
+00:18:11.840 --> 00:18:13.390
+de esa forma, justo allí.
+
+00:18:13.390 --> 00:18:16.020
+Os podéis imaginar, nos hemos transformado esta plaza.
+
+00:18:16.020 --> 00:18:18.560
+Incluso yo no he demostrado cómo hacerlo matemáticamente todavía.
+
+00:18:18.560 --> 00:18:22.130
+Pero nos hemos transformado esta plaza a este
+
+00:18:22.130 --> 00:18:24.570
+parte de los anillos.
+
+00:18:24.570 --> 00:18:27.340
+Ahora, creo que hemos hecho sobre todo lo que puedo hacer en
+
+00:18:27.340 --> 00:18:28.530
+el lado de visualización.
+
+00:18:28.530 --> 00:18:30.490
+I'll stop este video aquí.
+
+00:18:30.490 --> 00:18:31.970
+En el siguiente video, vamos a hablar realmente acerca de cómo
+
+00:18:31.970 --> 00:18:35.290
+¿Estamos realmente parametrizar usando estos dos parámetros?
+
+00:18:35.290 --> 00:18:39.380
+Recuerde, s toma alrededor de cada uno de estos círculos y, a continuación, t
+
+00:18:39.380 --> 00:18:41.090
+nos lleva alrededor del eje z.
+
+00:18:41.090 --> 00:18:43.690
+Y si se toman todas las combinaciones de s y t, eres
+
+00:18:43.690 --> 00:18:46.050
+va a tener cada punto a lo largo de la superficie de este
+
+00:18:46.050 --> 00:18:47.470
+Toro o este donut.
+
+00:18:47.470 --> 00:18:50.760
+¿Realmente ir de una s y una t que va desde 0 a
+
+00:18:50.760 --> 00:18:56.030
+2 pi, en ambos casos y convertirlo en una tridimensional
+
+00:18:56.030 --> 00:19:00.130
+¿Posicionar la función vectorial que definiría esta superficie?
+
+00:19:00.130 --> 00:19:02.280
+Vamos a hacerlo en el siguiente vídeo.

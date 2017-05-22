@@ -1,0 +1,651 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.710 --> 00:00:04.470
+En el último video le presenté la idea de la cadena
+
+00:00:04.470 --> 00:00:05.520
+regla con derivadas parciales.
+
+00:00:05.520 --> 00:00:10.080
+Y dijimos, bueno, si tengo una función, psi, letra griega,
+
+00:00:10.080 --> 00:00:14.020
+PSI, es una función de x e y.
+
+00:00:14.020 --> 00:00:16.770
+Y si quería tomar el parcial, con respeto
+
+00:00:16.770 --> 00:00:19.360
+— no, quiero tomar la derivada, no el parcial--
+
+00:00:19.360 --> 00:00:23.430
+la derivada de esto, con respecto a x, esto es igual a
+
+00:00:23.430 --> 00:00:29.540
+el parcial de psi, con respecto a x, más el parcial
+
+00:00:29.540 --> 00:00:35.400
+de psi, con respecto a y, a veces dy, dx.
+
+00:00:35.400 --> 00:00:37.630
+Y en el último video no demostrar a usted, pero
+
+00:00:37.630 --> 00:00:40.260
+Esperemos que le dio un poco de intuición que puede
+
+00:00:40.260 --> 00:00:40.740
+Créeme.
+
+00:00:40.740 --> 00:00:43.030
+Pero tal vez algún día voy probarlo un poco más
+
+00:00:43.030 --> 00:00:46.120
+rigurosamente, pero usted puede encontrar pruebas en la web si estás
+
+00:00:46.120 --> 00:00:49.960
+interesado, para la regla de la cadena con derivadas parciales.
+
+00:00:49.960 --> 00:00:52.760
+Así que vamos a poner eso a un lado y vamos a explorar otra propiedad
+
+00:00:52.760 --> 00:00:55.600
+de derivadas parciales, y entonces estamos listos para obtener el
+
+00:00:55.600 --> 00:00:57.080
+intuición detrás de ecuaciones exactas.
+
+00:00:57.080 --> 00:00:59.070
+Porque vas a encontrar, es bastante sencillo
+
+00:00:59.070 --> 00:01:02.210
+resolver ecuaciones exactas, pero la intuición es un poco
+
+00:01:02.210 --> 00:01:05.140
+más--bueno, no quiero decir que es difícil, porque si
+
+00:01:05.140 --> 00:01:06.890
+tienes la intuición, la tienes.
+
+00:01:06.890 --> 00:01:11.490
+Así que qué pasa si tuve, decir, esta función, psi y fueron a
+
+00:01:11.490 --> 00:01:16.580
+tomar la derivada parcial de psi, con respecto a x, primero.
+
+00:01:16.580 --> 00:01:17.510
+Sólo voy a escribir psi.
+
+00:01:17.510 --> 00:01:19.640
+No tengo que escribir x e y de cada vez.
+
+00:01:19.640 --> 00:01:22.890
+Y entonces iban a tomar la derivada parcial con
+
+00:01:22.890 --> 00:01:25.485
+respecto a y.
+
+00:01:28.920 --> 00:01:32.730
+Así como una notación, esto se puede escribir como, usted podría
+
+00:01:32.730 --> 00:01:34.620
+tipo de verlo como está multiplicando a los operadores, por lo que
+
+00:01:34.620 --> 00:01:36.050
+se podría escribir como este.
+
+00:01:36.050 --> 00:01:42.400
+El parcial del cuadrado veces psi o del cuadrado psi, más
+
+00:01:42.400 --> 00:01:47.540
+del y del, o rizado x d.
+
+00:01:47.540 --> 00:01:50.330
+Y que también puede escribirse como--y esto es mi preferido
+
+00:01:50.330 --> 00:01:53.040
+notación, porque no tiene toda esta basura extra
+
+00:01:53.040 --> 00:01:53.800
+en todas partes.
+
+00:01:53.800 --> 00:01:56.350
+Sólo se puede decir, bueno, el parcial, tomamos el parcial,
+
+00:01:56.350 --> 00:02:00.050
+con respecto a x, primero. Lo que simplemente significa el parcial de
+
+00:02:00.050 --> 00:02:01.240
+PSI, con respecto a x.
+
+00:02:01.240 --> 00:02:04.060
+Y luego tomamos el parcial, con respecto a y.
+
+00:02:04.060 --> 00:02:05.870
+Así es una situación a considerar.
+
+00:02:05.870 --> 00:02:07.970
+¿Qué sucede cuando tomamos el parcial, con respecto a x,
+
+00:02:07.970 --> 00:02:08.650
+¿y, a continuación, y?
+
+00:02:08.650 --> 00:02:13.100
+Así que con respecto a x, se mantiene y constante para obtener sólo el
+
+00:02:13.100 --> 00:02:14.190
+parcial, con respecto a x.
+
+00:02:14.190 --> 00:02:15.000
+Ignorar el y allí.
+
+00:02:15.000 --> 00:02:17.060
+Y luego se mantiene la constante x, y tomar la
+
+00:02:17.060 --> 00:02:18.670
+parcial, con respecto a y.
+
+00:02:18.670 --> 00:02:21.480
+¿Cuál es la diferencia entre eso y si tuviéramos que
+
+00:02:21.480 --> 00:02:22.370
+¿cambiar el orden?
+
+00:02:22.370 --> 00:02:24.970
+Así que ¿qué pasa si tuviéramos que--lo haré de una forma diferente
+
+00:02:24.970 --> 00:02:30.400
+color--si teníamos psi, y fuimos a tomar el parcial, con
+
+00:02:30.400 --> 00:02:34.480
+respecto a y, en primer lugar, y luego fuimos a tomar el parcial,
+
+00:02:34.480 --> 00:02:36.510
+¿con respecto a x?
+
+00:02:36.510 --> 00:02:40.640
+Tan sólo la notación, por lo que estás cómodo con él,
+
+00:02:40.640 --> 00:02:44.660
+que sería--x tan parcial, y parcial.
+
+00:02:44.660 --> 00:02:46.360
+Y éste es el operador.
+
+00:02:46.360 --> 00:02:48.750
+Y podría ser un poco confuso aquí, entre
+
+00:02:48.750 --> 00:02:51.060
+Estas dos notaciones, aunque son la misma cosa,
+
+00:02:51.060 --> 00:02:52.740
+se mezcla el orden.
+
+00:02:52.740 --> 00:02:54.250
+Eso es sólo porque es sólo un modo distinto de
+
+00:02:54.250 --> 00:02:54.910
+pensando en ello.
+
+00:02:54.910 --> 00:02:57.990
+Esto dice, OK, parcial en primer lugar, con respecto a x, y, a continuación.
+
+00:02:57.990 --> 00:03:00.160
+Esto ve más como el operador, por lo que tomamos la
+
+00:03:00.160 --> 00:03:03.000
+parcial de x primero y luego tomó y, como si estuvieras
+
+00:03:03.000 --> 00:03:04.950
+multiplicando a los operadores.
+
+00:03:04.950 --> 00:03:08.840
+Pero de todos modos, así que esto también se puede escribir como el parcial de
+
+00:03:08.840 --> 00:03:13.070
+y, con respecto a x--lo siento, el parcial de y y luego nos
+
+00:03:13.070 --> 00:03:14.910
+se llevó el parcial de con respecto a x.
+
+00:03:14.910 --> 00:03:17.980
+Ahora, voy a decir que ahora, que si cada uno de los
+
+00:03:17.980 --> 00:03:20.840
+primeros parciales son continuas--y la mayoría de los
+
+00:03:20.840 --> 00:03:24.510
+las funciones que hemos tratado en un dominio normal, tan largo como
+
+00:03:24.510 --> 00:03:26.780
+no hay ningún discontinuidades o agujeros, o
+
+00:03:26.780 --> 00:03:29.070
+algo raro en la definición de función,
+
+00:03:29.070 --> 00:03:30.290
+generalmente son continuos.
+
+00:03:30.290 --> 00:03:32.990
+Y especialmente en un cálculo de primer año o diferencial
+
+00:03:32.990 --> 00:03:35.810
+curso, probablemente vamos a estar tratando con continua
+
+00:03:35.810 --> 00:03:37.620
+funciones en breve. nuestro dominio.
+
+00:03:37.620 --> 00:03:40.480
+Si ambas funciones son continuas, si ambos de la
+
+00:03:40.480 --> 00:03:45.410
+primeros parciales son continuas y, a continuación, estos dos van a ser
+
+00:03:45.410 --> 00:03:47.170
+iguales entre sí.
+
+00:03:47.170 --> 00:03:54.950
+Tan psi de xy va a ser igual a psi de yx.
+
+00:03:54.950 --> 00:04:01.220
+Ahora, podemos utilizar este conocimiento, que es la cadena
+
+00:04:01.220 --> 00:04:04.870
+regla con derivadas parciales y esto
+
+00:04:04.870 --> 00:04:09.060
+conocimiento ahora resolver una cierta clase de diferencial
+
+00:04:09.060 --> 00:04:13.060
+ecuaciones, ecuaciones diferenciales de primeras orden, denominada
+
+00:04:13.060 --> 00:04:14.270
+ecuaciones exactas.
+
+00:04:14.270 --> 00:04:17.860
+Y ¿como un aspecto de la ecuación exacta?
+
+00:04:17.860 --> 00:04:21.990
+Una ecuación exacta tiene el siguiente aspecto.
+
+00:04:21.990 --> 00:04:23.710
+La selección de color s la parte dura.
+
+00:04:23.710 --> 00:04:26.290
+Así que vamos a decir que esto es mi ecuación diferencial.
+
+00:04:26.290 --> 00:04:29.550
+Tengo alguna función de x e y.
+
+00:04:29.550 --> 00:04:31.830
+Así que no sé, podría ser x squared veces
+
+00:04:31.830 --> 00:04:32.920
+coseno de y o algo.
+
+00:04:32.920 --> 00:04:34.650
+No sé, podría ser cualquier función de x e y.
+
+00:04:34.650 --> 00:04:40.350
+Además de alguna función de x y y, que llamaremos que n, tiempos dy,
+
+00:04:40.350 --> 00:04:44.900
+DX es igual a 0.
+
+00:04:44.900 --> 00:04:47.520
+Esto es--bueno, no sé si es una ecuación exacta todavía,
+
+00:04:47.520 --> 00:04:50.880
+pero si has visto algo de esta forma, su primer impulso
+
+00:04:50.880 --> 00:04:52.990
+debe ser,--bueno, en realidad, su primera
+
+00:04:52.990 --> 00:04:54.500
+¿es el impulso, esto es separable?
+
+00:04:54.500 --> 00:04:56.180
+Y debe tratar de jugar con el álgebra de un
+
+00:04:56.180 --> 00:04:57.620
+un poco a ver si es separable, porque esa es la
+
+00:04:57.620 --> 00:04:59.210
+siempre de la manera más sencilla.
+
+00:04:59.210 --> 00:05:01.770
+Si no es separable, pero todavía puede ponerlo en esta forma,
+
+00:05:01.770 --> 00:05:04.460
+¿dices, hey, es una ecuación exacta?
+
+00:05:04.460 --> 00:05:06.340
+Y ¿qué es una ecuación exacta?
+
+00:05:06.340 --> 00:05:07.270
+Pues mira inmediatamente.
+
+00:05:07.270 --> 00:05:11.600
+Este patrón aquí parece un horrible
+
+00:05:11.600 --> 00:05:14.000
+mucho como este patrón.
+
+00:05:14.000 --> 00:05:18.210
+¿Qué pasa si m fue el parcial de psi, con respecto a x?
+
+00:05:18.210 --> 00:05:24.920
+¿Qué sucede si el psi, con respecto a x, es igual a M?
+
+00:05:24.920 --> 00:05:26.710
+¿Qué pasa si esto fue psi, con respecto a x?
+
+00:05:26.710 --> 00:05:29.570
+Y ¿qué pasa si esto fue psi, respecto y?
+
+00:05:29.570 --> 00:05:32.500
+Psi, con respecto a y, es igual a N.
+
+00:05:32.500 --> 00:05:32.950
+¿Y si?
+
+00:05:32.950 --> 00:05:34.670
+¿Sólo estoy diciendo, no sabemos con certeza, a la derecha?
+
+00:05:34.670 --> 00:05:37.500
+Si sólo ves esto un lugar al azar, no vas a saber para
+
+00:05:37.500 --> 00:05:40.200
+seguro que esto es el parcial, con respecto a x de algunos
+
+00:05:40.200 --> 00:05:43.060
+función y esto es el parcial, con respecto a y de
+
+00:05:43.060 --> 00:05:43.830
+alguna función.
+
+00:05:43.830 --> 00:05:45.810
+Pero nosotros estamos simplemente diciendo, ¿qué pasa si?
+
+00:05:45.810 --> 00:05:49.650
+Si esto fuera cierto, entonces nosotros podríamos reescribir esto como el
+
+00:05:49.650 --> 00:05:52.870
+parcial de psi, con respecto a x, más el parcial de psi,
+
+00:05:52.870 --> 00:05:58.680
+con respecto a y, a veces dy, dx, igual a 0.
+
+00:05:58.680 --> 00:06:02.050
+Y esto justo aquí, allí, el lado izquierdo que la
+
+00:06:02.050 --> 00:06:04.790
+¿lo mismo que este derecho?
+
+00:06:04.790 --> 00:06:09.040
+Esto es sólo el derivado de psi, con respecto a x, utilizando
+
+00:06:09.040 --> 00:06:10.940
+la regla de cadena derivada parcial.
+
+00:06:10.940 --> 00:06:12.710
+Así podría escribirlo.
+
+00:06:12.710 --> 00:06:17.130
+Se podría reescribir, esto es sólo el derivado de psi,
+
+00:06:17.130 --> 00:06:20.480
+con respecto a x, dentro de la función de x,
+
+00:06:20.480 --> 00:06:23.410
+y, es igual a 0.
+
+00:06:23.410 --> 00:06:27.730
+Así que si ves una ecuación diferencial, y esto tiene
+
+00:06:27.730 --> 00:06:31.070
+formulario y le dice, chico, que no puedo separarla, pero quizá
+
+00:06:31.070 --> 00:06:32.030
+es una ecuación exacta.
+
+00:06:32.030 --> 00:06:35.940
+Y francamente, si eso fue lo que recientemente fue cubierto antes
+
+00:06:35.940 --> 00:06:38.800
+el examen actual, probablemente es una ecuación exacta.
+
+00:06:38.800 --> 00:06:40.940
+Pero si ves esto forman, dices, chico, tal vez
+
+00:06:40.940 --> 00:06:42.070
+es una ecuación exacta.
+
+00:06:42.070 --> 00:06:44.580
+Si es una ecuación exacta--y te mostraré cómo probar
+
+00:06:44.580 --> 00:06:48.350
+en un segundo utilizando que esta información, entonces esto puede ser
+
+00:06:48.350 --> 00:06:52.550
+escrito como la derivada de alguna función, psi, donde esta
+
+00:06:52.550 --> 00:06:54.840
+es el parcial de psi, con respecto a x.
+
+00:06:54.840 --> 00:06:57.720
+Este es el parcial de psi, con respecto a y.
+
+00:06:57.720 --> 00:06:59.655
+Y entonces si se puede escribir como esta, y tomar la
+
+00:06:59.655 --> 00:07:01.370
+derivado de ambos lados--perdón, tomar la
+
+00:07:01.370 --> 00:07:06.890
+primitiva de ambos lados--y usted obtendría psi de x, y
+
+00:07:06.890 --> 00:07:10.070
+es igual a c como una solución.
+
+00:07:10.070 --> 00:07:12.770
+Así que hay dos cosas que nosotros le debemos ser preocuparse por.
+
+00:07:12.770 --> 00:07:16.470
+A continuación, usted podría estar diciendo, OK, Sal, que ha caminado a través de
+
+00:07:16.470 --> 00:07:19.550
+PSI y parciales y todo esto.
+
+00:07:19.550 --> 00:07:22.020
+Uno, ¿Cómo sé que es una ecuación exacta?
+
+00:07:22.020 --> 00:07:24.590
+Y entonces, si es una ecuación exacta, que nos dice que
+
+00:07:24.590 --> 00:07:28.290
+hay algunos psi, entonces ¿cómo resolver el PSI?
+
+00:07:28.290 --> 00:07:32.380
+Así que la forma de averiguar es una ecuación exacta, es utilizar
+
+00:07:32.380 --> 00:07:34.690
+Esta información aquí.
+
+00:07:34.690 --> 00:07:38.150
+Sabemos que si psi y sus derivados son continuos
+
+00:07:38.150 --> 00:07:42.100
+sobre algún dominio, que cuando usted toma el parcial, con
+
+00:07:42.100 --> 00:07:45.760
+respecto a x y luego y, que es lo mismo que hacerlo
+
+00:07:45.760 --> 00:07:46.980
+que en el otro orden.
+
+00:07:46.980 --> 00:07:48.930
+Por lo que hemos dicho, este es el parcial, con
+
+00:07:48.930 --> 00:07:50.180
+¿respecto a x, a la derecha?
+
+00:07:52.610 --> 00:07:55.920
+Y este es el parcial, con respecto a y.
+
+00:07:55.920 --> 00:07:59.880
+Así que si esto es una ecuación exacta, si esta es la exacta
+
+00:07:59.880 --> 00:08:03.250
+ecuación, si nos tomamos el parcial, con respeto
+
+00:08:03.250 --> 00:08:05.330
+¿a y derecha?
+
+00:08:05.330 --> 00:08:11.600
+Si tuviéramos que lo tomar el parcial de M, respecto y--
+
+00:08:11.600 --> 00:08:15.560
+el parcial de psi, con respecto a x, es igual a M.
+
+00:08:15.560 --> 00:08:18.490
+Si tuviéramos que tomar el parcial de aquellos, respecto y--
+
+00:08:18.490 --> 00:08:22.450
+por lo que sólo podríamos reescribir como--, entonces, debería ser
+
+00:08:22.450 --> 00:08:28.090
+¿igual que el parcial de N, con respecto a x, a la derecha?
+
+00:08:28.090 --> 00:08:31.976
+El parcial de psi, con respecto a y, es igual a N.
+
+00:08:31.976 --> 00:08:34.760
+Así que si tomamos el parcial, con respecto a x, de ambos
+
+00:08:34.760 --> 00:08:40.964
+Estos, sabemos de esto que estas deben ser iguales, si psi
+
+00:08:40.964 --> 00:08:44.400
+y sus parciales son continuas sobre ese dominio.
+
+00:08:44.400 --> 00:08:49.320
+Entonces esto será igual.
+
+00:08:49.320 --> 00:08:51.990
+Por lo es realmente el caso de prueba a
+
+00:08:51.990 --> 00:08:53.930
+Esta es una ecuación exacta.
+
+00:08:53.930 --> 00:08:56.300
+Entonces, permítanme reescribir todo eso nuevamente y resumirlo un
+
+00:08:56.300 --> 00:08:56.690
+poco.
+
+00:08:56.690 --> 00:09:04.870
+Así que si ves algo de la forma, M de x, y más n de x,
+
+00:09:04.870 --> 00:09:09.580
+y, a veces dy dx es igual a 0.
+
+00:09:09.580 --> 00:09:13.110
+Y luego tomar la derivada parcial de M, con respeto
+
+00:09:13.110 --> 00:09:18.280
+a y, y luego tomar la derivada parcial de N, con
+
+00:09:18.280 --> 00:09:24.030
+respecto a x, y son iguales entre sí, entonces--
+
+00:09:24.030 --> 00:09:26.410
+y es verdad si y sólo si, so it goes ambas maneras--
+
+00:09:26.410 --> 00:09:30.930
+Esta es una ecuación exacta, una ecuación diferencial exacta.
+
+00:09:30.930 --> 00:09:32.410
+Esta es una ecuación exacta.
+
+00:09:32.410 --> 00:09:35.510
+Y si es una ecuación exacta, nos dice hay
+
+00:09:35.510 --> 00:09:47.140
+existe un psi, tal que la derivada de la psi de x, y es
+
+00:09:47.140 --> 00:09:52.200
+igual a 0, o psi de x, y es igual a c, es una solución de
+
+00:09:52.200 --> 00:09:53.050
+Esta ecuación.
+
+00:09:53.050 --> 00:09:58.480
+Y la derivada parcial de psi, con respecto a x, es
+
+00:09:58.480 --> 00:09:59.740
+igual a M.
+
+00:09:59.740 --> 00:10:03.760
+Y es la derivada parcial de psi, con respecto a y,
+
+00:10:03.760 --> 00:10:05.340
+igual a N.
+
+00:10:05.340 --> 00:10:07.550
+Y te voy a mostrar en el siguiente vídeo Cómo utilizar efectivamente este
+
+00:10:07.550 --> 00:10:09.810
+información para resolver psi.
+
+00:10:09.810 --> 00:10:11.640
+Aquí hay algunas cosas que quiero señalar.
+
+00:10:11.640 --> 00:10:13.720
+Esto va a ser la derivada parcial de psi,
+
+00:10:13.720 --> 00:10:17.620
+con respecto a x, pero cuando tomamos el tipo de prueba exacta,
+
+00:10:17.620 --> 00:10:19.590
+lo tomamos con respecto a y, porque queremos
+
+00:10:19.590 --> 00:10:21.080
+derivado de la mezcla.
+
+00:10:21.080 --> 00:10:23.410
+Asimismo, esto va a ser la derivada parcial de psi,
+
+00:10:23.410 --> 00:10:27.030
+con respecto a y, pero cuando lo hagamos la prueba, tomamos el
+
+00:10:27.030 --> 00:10:29.500
+parcial de la misma con respecto a x, por lo que conseguimos que mezclan
+
+00:10:29.500 --> 00:10:30.730
+derivado.
+
+00:10:30.730 --> 00:10:32.570
+Esto es con respecto a y y luego con respecto a
+
+00:10:32.570 --> 00:10:33.920
+x, para obtener esto.
+
+00:10:33.920 --> 00:10:36.300
+De todos modos, sé podría estar involucrado un poco, pero si
+
+00:10:36.300 --> 00:10:38.360
+has entendido todo lo que hice, creo que tendrás la
+
+00:10:38.360 --> 00:10:41.390
+intuición detrás de por qué la metodología de
+
+00:10:41.390 --> 00:10:43.470
+obras de ecuaciones exactas.
+
+00:10:43.470 --> 00:10:45.950
+Nos vemos en el siguiente vídeo, donde podremos realmente
+
+00:10:45.950 --> 00:10:49.400
+resolver algunas ecuaciones exactas ver

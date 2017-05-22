@@ -1,0 +1,505 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.360 --> 00:00:04.530
+En el último video, vimos lo que es un sistema de ecuaciones.
+
+00:00:04.530 --> 00:00:06.970
+Y en este video, voy a mostrar una algebraica
+
+00:00:06.970 --> 00:00:09.390
+técnica para resolver sistemas de ecuaciones, donde no
+
+00:00:09.390 --> 00:00:12.630
+a las dos líneas de la gráfica y tratar de averiguar exactamente
+
+00:00:12.630 --> 00:00:13.560
+intersección.
+
+00:00:13.560 --> 00:00:15.610
+Esto le dará una respuesta exacta algebraica.
+
+00:00:15.610 --> 00:00:17.290
+Y en videos futuros, vamos a ver más
+
+00:00:17.290 --> 00:00:18.290
+métodos de hacerlo.
+
+00:00:18.290 --> 00:00:19.760
+Así que vamos a decir que tenía dos ecuaciones.
+
+00:00:19.760 --> 00:00:27.910
+Uno es x plus 2y es igual a 9, y la otra ecuación es
+
+00:00:27.910 --> 00:00:35.140
+3 x plus 5y es igual a 20.
+
+00:00:35.140 --> 00:00:37.810
+Ahora, si hicimos lo que hicimos en el último video, nosotros podríamos gráfico
+
+00:00:37.810 --> 00:00:38.350
+cada uno de ellos.
+
+00:00:38.350 --> 00:00:39.010
+Estas son las líneas.
+
+00:00:39.010 --> 00:00:42.630
+Puede situar en cualquier forma pendiente-interceptar o
+
+00:00:42.630 --> 00:00:43.560
+forma punto pendiente.
+
+00:00:43.560 --> 00:00:45.290
+Están ahora en forma estándar.
+
+00:00:45.290 --> 00:00:47.530
+Y entonces podría gráfico de cada una de estas líneas, averiguar
+
+00:00:47.530 --> 00:00:50.040
+donde intersectan, y que sería una solución para.
+
+00:00:50.040 --> 00:00:52.710
+Pero a veces es difícil de encontrar, a solo mirando,
+
+00:00:52.710 --> 00:00:54.280
+averiguar exactamente donde intersectan.
+
+00:00:54.280 --> 00:00:56.890
+Así que vamos a descubrir una manera de hacerlo algebraicamente.
+
+00:00:56.890 --> 00:00:59.150
+Y qué voy a hacer es el método de sustitución.
+
+00:00:59.150 --> 00:01:02.400
+Voy a utilizar una de las ecuaciones para resolver uno de
+
+00:01:02.400 --> 00:01:05.440
+las variables y, a continuación, voy a sustituir a
+
+00:01:05.440 --> 00:01:06.880
+para esa variable aquí.
+
+00:01:06.880 --> 00:01:08.570
+Así que permítanme mostrarles lo que estoy hablando.
+
+00:01:08.570 --> 00:01:11.500
+Así que permítanme resolver para x usando esta ecuación superior.
+
+00:01:11.500 --> 00:01:16.440
+Por lo que dice la ecuación superior x plus 2y es igual a 9.
+
+00:01:16.440 --> 00:01:20.410
+Quiero resolver para x, así que vamos a restar 2y tanto
+
+00:01:20.410 --> 00:01:22.520
+lados de la ecuación.
+
+00:01:22.520 --> 00:01:28.500
+Así que me quedo con x es igual a 9 menos 2 y.
+
+00:01:28.500 --> 00:01:30.780
+Esto es lo que me dice esta primera ecuación.
+
+00:01:30.780 --> 00:01:32.960
+Yo simplemente reorganizarlo poco a poco.
+
+00:01:32.960 --> 00:01:34.710
+La primera ecuación es decirlo.
+
+00:01:34.710 --> 00:01:39.350
+Por lo que a fin de satisfacer ambas de estas ecuaciones, x
+
+00:01:39.350 --> 00:01:41.890
+cumplen esta restricción aquí.
+
+00:01:41.890 --> 00:01:47.080
+Por lo que yo puedo sustituir este en x.
+
+00:01:47.080 --> 00:01:49.430
+Que estamos diciendo, dice esta ecuación superior, x tiene que ser
+
+00:01:49.430 --> 00:01:50.320
+igual a esto.
+
+00:01:50.320 --> 00:01:52.690
+Bueno, si x tiene que ser igual al vamos a
+
+00:01:52.690 --> 00:01:54.820
+este sustituto x.
+
+00:01:54.820 --> 00:01:59.990
+Así que esta ecuación se convertirá en x 3 veces.
+
+00:01:59.990 --> 00:02:07.300
+Y en lugar de una x, voy a escribir esta cosa, 9 menos 2 y.
+
+00:02:07.300 --> 00:02:15.090
+9 3 veces menos 2y más 5y es igual a 20.
+
+00:02:15.090 --> 00:02:16.540
+Es por eso ha llamado al método de sustitución.
+
+00:02:16.540 --> 00:02:18.250
+Sólo sustituido por x.
+
+00:02:18.250 --> 00:02:20.730
+Y la razón de por qué que es útil es ahora tengo uno
+
+00:02:20.730 --> 00:02:23.830
+ecuación con una desconocida y podemos resolver para y.
+
+00:02:23.830 --> 00:02:25.060
+Así que vamos a hacer eso
+
+00:02:25.060 --> 00:02:27.810
+9 3 veces es 27.
+
+00:02:27.810 --> 00:02:35.150
+3 veces 2 negativo es negativo 6y plus 5y es igual a 20.
+
+00:02:35.150 --> 00:02:39.180
+Añadir 6y negativo plus el 5y, agregue estos dos términos. Usted
+
+00:02:39.180 --> 00:02:45.750
+tiene 27--vamos a ver, se trata--menos y es igual a 20.
+
+00:02:45.750 --> 00:02:48.870
+Vamos a restar 27 desde ambos lados.
+
+00:02:48.870 --> 00:02:51.260
+Y se consigue--Déjame escribir aquí.
+
+00:02:51.260 --> 00:02:56.110
+Así que vamos a restar 27 desde ambos lados.
+
+00:02:56.110 --> 00:02:59.250
+La izquierda, los 27 cancelan entre sí.
+
+00:02:59.250 --> 00:03:03.420
+Y te dejan con negativo y es igual a 20 menos 27,
+
+00:03:03.420 --> 00:03:04.770
+7 negativos.
+
+00:03:04.770 --> 00:03:07.170
+Y, a continuación, podemos multiplicamos ambos lados de la ecuación por
+
+00:03:07.170 --> 00:03:12.450
+negativo 1 y se consigue y es igual a 7.
+
+00:03:12.450 --> 00:03:20.320
+Así que hemos encontrado el valor y del punto de intersección de estos
+
+00:03:20.320 --> 00:03:22.320
+dos líneas. y es igual a 7.
+
+00:03:22.320 --> 00:03:26.550
+Déjame escribir aquí, así que no tengo que mantener desplazamiento
+
+00:03:26.550 --> 00:03:29.660
+abajo y copia de seguridad.
+y es igual a 7.
+
+00:03:29.660 --> 00:03:32.290
+Pues bien, si sabemos y podemos ahora resolver para x. x es
+
+00:03:32.290 --> 00:03:34.780
+igual a 9 menos 2 y.
+
+00:03:34.780 --> 00:03:36.120
+Así que vamos a hacer eso.
+
+00:03:36.120 --> 00:03:42.010
+x es igual a 9 menos 2 veces y 2 veces 7.
+
+00:03:42.010 --> 00:03:49.210
+X es igual a 9 menos 14 o x es igual a la negativa de 5.
+
+00:03:49.210 --> 00:03:51.640
+Así que tenemos justo, usando sustitución, hemos sido capaces de
+
+00:03:51.640 --> 00:03:55.600
+para encontrar un par de x y y señala que
+
+00:03:55.600 --> 00:03:57.020
+satisfacer estas ecuaciones.
+
+00:03:57.020 --> 00:04:00.990
+El punto x es igual a la negativa de 5, y es igual a 7,
+
+00:04:00.990 --> 00:04:02.520
+satisfacer estos dos.
+
+00:04:02.520 --> 00:04:04.830
+Y usted puede probarlo.
+
+00:04:04.830 --> 00:04:10.270
+Negativa de 5 más 2 veces 7, que la negativa 5 y 14,
+
+00:04:10.270 --> 00:04:11.990
+de hecho es 9.
+
+00:04:11.990 --> 00:04:12.910
+Hacer esta ecuación.
+
+00:04:12.910 --> 00:04:18.170
+3 veces 5 negativo es negativo 15, además de 5 veces y,
+
+00:04:18.170 --> 00:04:19.670
+Además 7 5 veces.
+
+00:04:19.670 --> 00:04:24.310
+Tan negativo 15 además 35 es 20.
+
+00:04:24.310 --> 00:04:26.350
+Por lo tanto esto satisface ambas ecuaciones.
+
+00:04:26.350 --> 00:04:28.640
+Si tuviera que gráfica tanto de estas ecuaciones,
+
+00:04:28.640 --> 00:04:33.090
+se cruzan en el punto negativo 5 coma 7.
+
+00:04:33.090 --> 00:04:38.000
+Ahora vamos a utilizar nuestra habilidad recién encontrada hacer
+
+00:04:38.000 --> 00:04:40.830
+un problema de palabra real.
+
+00:04:40.830 --> 00:04:46.530
+Digamos que nos dicen que la suma de
+
+00:04:46.530 --> 00:04:55.130
+dos números es de 70.
+
+00:04:55.130 --> 00:05:00.710
+Y se diferencian--o quizás podríamos afirmar su diferencia--
+
+00:05:00.710 --> 00:05:06.820
+se diferencian en 11.
+
+00:05:06.820 --> 00:05:08.070
+¿Cuáles son los números?
+
+00:05:14.900 --> 00:05:16.980
+Así que vamos a hacer este problema de la palabra.
+
+00:05:16.980 --> 00:05:18.460
+Así que vamos a definir algunas variables.
+
+00:05:18.460 --> 00:05:29.210
+Vamos a dejar x ser el mayor número y sea y la
+
+00:05:29.210 --> 00:05:30.420
+número menor.
+
+00:05:30.420 --> 00:05:33.180
+Sólo arbitrariamente estoy creando estas variables.
+
+00:05:33.180 --> 00:05:34.640
+Uno de ellos es más grande que el otro.
+
+00:05:34.640 --> 00:05:39.940
+Se diferencian en 11.
+
+00:05:39.940 --> 00:05:44.020
+Ahora, esta primera declaración, la suma de los dos números es de 70.
+
+00:05:44.020 --> 00:05:51.340
+Eso nos dice que x más y debe ser igual a 70.
+
+00:05:51.340 --> 00:05:56.350
+Esa segunda declaración, que se diferencian por 11.
+
+00:05:56.350 --> 00:05:58.450
+Eso significa que el mayor número menos el menor
+
+00:05:58.450 --> 00:06:00.290
+número debe ser 11.
+
+00:06:00.290 --> 00:06:06.320
+Eso nos dice que x menos y debe ser igual a 11.
+
+00:06:06.320 --> 00:06:06.960
+Así que ahí lo tenemos.
+
+00:06:06.960 --> 00:06:08.510
+Tenemos dos ecuaciones y dos incógnitas.
+
+00:06:08.510 --> 00:06:10.530
+Tenemos un sistema de dos ecuaciones.
+
+00:06:10.530 --> 00:06:15.040
+Ahora podemos resolver mediante el método de sustitución.
+
+00:06:15.040 --> 00:06:18.190
+Así que vamos a resolver para x en esta ecuación aquí.
+
+00:06:18.190 --> 00:06:21.160
+Si añades y a ambos lados de esta
+
+00:06:21.160 --> 00:06:26.610
+¿ecuación, lo que obtienes?
+
+00:06:26.610 --> 00:06:28.700
+En el lado izquierdo, sólo obtendrá un x, porque estos
+
+00:06:28.700 --> 00:06:29.890
+cancelan.
+
+00:06:29.890 --> 00:06:33.000
+Y, a continuación, en el lado derecho, obtendrá x es igual a 11
+
+00:06:33.000 --> 00:06:36.630
+más y, o y más 11.
+
+00:06:36.630 --> 00:06:39.240
+Por lo que obtener x es igual a 11 más y
+
+00:06:39.240 --> 00:06:40.830
+mediante la ecuación de segunda.
+
+00:06:40.830 --> 00:06:44.070
+Y, a continuación, podemos sustituir en esta ecuación superior.
+
+00:06:44.070 --> 00:06:46.770
+Así, en lugar de escribir x plus y es igual a 70, podemos
+
+00:06:46.770 --> 00:06:49.850
+este sustituto x.
+
+00:06:49.850 --> 00:06:53.210
+Ahora ya hemos utilizado la segunda ecuación, el uno magenta,
+
+00:06:53.210 --> 00:06:55.360
+Tenemos que usar la restricción superior.
+
+00:06:55.360 --> 00:07:00.600
+Así que si sustituimos este, obtenemos y plus 11--Recuerde,
+
+00:07:00.600 --> 00:07:04.990
+Esto es lo que x fue, nos estamos sustituyendo en x--
+
+00:07:04.990 --> 00:07:08.700
+Además, y es igual a 70.
+
+00:07:08.700 --> 00:07:11.710
+Se trata de x.
+
+00:07:11.710 --> 00:07:14.870
+Y esa restricción fue dado a nosotros por esta ecuación,
+
+00:07:14.870 --> 00:07:16.650
+o por esta segunda declaración.
+
+00:07:16.650 --> 00:07:20.020
+Yo sólo sustituye esta x con y además 11 y pude
+
+00:07:20.020 --> 00:07:22.480
+hacer eso porque eso es la restricción de la segunda
+
+00:07:22.480 --> 00:07:24.420
+ecuación nos dio.
+
+00:07:24.420 --> 00:07:26.280
+Y ahora solo vamos a resolver.
+
+00:07:26.280 --> 00:07:32.230
+Obtenemos y además 11 plus y es igual a 70.
+
+00:07:32.230 --> 00:07:36.470
+Eso es 2y plus 11 es igual a 70.
+
+00:07:36.470 --> 00:07:45.430
+Y, a continuación, si se resta 11 de ambos lados, obtenemos 2y es
+
+00:07:45.430 --> 00:07:46.570
+igual a--¿qué es eso?
+
+00:07:46.570 --> 00:07:48.220
+¿59?
+
+00:07:48.220 --> 00:07:50.160
+Resta 10 70, obtendrá 60, por lo que
+
+00:07:50.160 --> 00:07:51.530
+va a ser 59.
+
+00:07:51.530 --> 00:07:56.120
+Por lo que es igual a 59 2.
+
+00:07:56.120 --> 00:08:00.240
+O otra forma de escribir, que podría escribir como 59
+
+00:08:00.240 --> 00:08:10.110
+más de 2 años es lo mismo que--vamos a ver--25--29,5.
+
+00:08:10.110 --> 00:08:15.380
+y es igual a 29,5.
+
+00:08:15.380 --> 00:08:17.650
+Ahora, ¿qué es x va a ser igual a?
+
+00:08:17.650 --> 00:08:21.090
+Bueno, nosotros ya averiguado x es igual a y más 11.
+
+00:08:21.090 --> 00:08:26.120
+Así que x es igual a 29,5--eso es lo que, nos
+
+00:08:26.120 --> 00:08:30.835
+sólo imaginé que fuera--además de 11, que es igual a--por lo
+
+00:08:30.835 --> 00:08:32.549
+Añadir 10, obtendrá 39,5.
+
+00:08:32.549 --> 00:08:36.809
+Agregar otro 1, obtendrá 40,5.
+
+00:08:36.809 --> 00:08:37.990
+Y nosotros vamos a hacer.
+
+00:08:37.990 --> 00:08:40.690
+Si desea encontrar la intersección de estas dos
+
+00:08:40.690 --> 00:08:48.140
+líneas, lo que se cruzan en el punto 40.5 coma 29,5.
+
+00:08:48.140 --> 00:08:51.435
+Y podría haber usado esta ecuación a resolver para x y
+
+00:08:51.435 --> 00:08:52.200
+luego sustituyó en éste.
+
+00:08:52.200 --> 00:08:53.756
+Podría haber usado esta ecuación a resolver y y
+
+00:08:53.756 --> 00:08:55.250
+luego sustituyó en éste.
+
+00:08:55.250 --> 00:08:57.245
+Puede utilizar esta ecuación para resolver y y entonces
+
+00:08:57.245 --> 00:08:58.760
+sustituir en esa ecuación.
+
+00:08:58.760 --> 00:09:02.770
+Lo importante es, se utilizar ambas restricciones.
+
+00:09:02.770 --> 00:09:05.850
+Ahora vamos a simplemente comprobar que esto realmente funciona.
+
+00:09:05.850 --> 00:09:07.330
+¿Cuál es la suma de estos dos números?
+
+00:09:07.330 --> 00:09:11.600
+40.5 plus 29.5, de hecho es 70.
+
+00:09:11.600 --> 00:09:15.250
+Y la diferencia entre ambos es de hecho 11.
+
+00:09:15.250 --> 00:09:17.550
+Son exactamente 11 aparte.
+
+00:09:17.550 --> 00:09:20.320
+De todos modos, esperemos que se encontró que útil.

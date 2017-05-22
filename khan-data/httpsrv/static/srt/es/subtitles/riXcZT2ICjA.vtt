@@ -1,0 +1,303 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.160 --> 00:00:05.318
+En este video quiero familiarizarte con la idea de un límite.
+
+00:00:05.318 --> 00:00:08.933
+que es una idea super importante, es realmente la idea en la que
+
+00:00:08.933 --> 00:00:14.002
+se basa todo el cálculo, pero a pesar de que es super importante, es en realidad
+
+00:00:14.002 --> 00:00:19.000
+realmente, realmente una idea simple. Bueno, vamos a dibujar
+
+00:00:19.000 --> 00:00:22.733
+una función, en realidad, vamos a definir una función, aquí, un tipo de función simple
+
+00:00:22.733 --> 00:00:30.302
+Así que, definamos f(x), digamos que va ser igual a X menos uno
+
+00:00:30.302 --> 00:00:36.267
+sobre X menos uno, Uds. dirán, hey, tengo lo mismo en el numerador que en el denominador.
+
+00:00:36.267 --> 00:00:39.913
+Tengo algo dividido por lo mismo, eso sería simplemente igual a uno.
+
+00:00:39.913 --> 00:00:43.600
+¿No puedo simplificarlo y listo?
+
+00:00:43.615 --> 00:00:50.041
+Estás casi en lo cierto. La diferencia entre f(x) igual a uno y a ésto aquí,
+
+00:00:50.048 --> 00:00:55.021
+es que ésto está indefinido cuando X es igual a uno.
+
+00:00:59.795 --> 00:01:04.138
+Si tienes "efe" de uno, ¿Qué pasa? El numerador viene a ser uno menos uno,
+
+00:01:04.138 --> 00:01:10.652
+que es cero, en el numerador y en el denominador uno menos uno,
+
+00:01:10.752 --> 00:01:16.225
+que tambien es cero. Entonces, cualquiera cosa dividido por cero,
+
+00:01:16.225 --> 00:01:18.956
+incluso cero dividido cero es indefinido.
+
+00:01:18.956 --> 00:01:25.087
+Esto es indefinido. No puedes simplificar, no puedes decir que esto es
+
+00:01:25.102 --> 00:01:29.187
+lo mismo a f(x) igual a uno.
+
+00:01:29.218 --> 00:01:31.656
+Pero tendrías que agregar la restricción de que
+
+00:01:31.671 --> 00:01:37.279
+X no puede ser igual a uno, y esto y esto son equivalentes.
+
+00:01:37.295 --> 00:01:42.687
+Ambos van a ser igual a uno, para cualquier X distinto de uno
+
+00:01:42.702 --> 00:01:46.956
+pero cuando X es igual a uno, f(x) resulta indefinido.
+
+00:01:46.971 --> 00:01:52.756
+Esto es indefinido y esto tambien. ¿Cómo grafico esta función?
+
+00:01:52.756 --> 00:01:56.195
+Déjenme dibujarlo. Éste es mi eje "y",
+
+00:01:56.225 --> 00:02:01.871
+"y" es igual a f(x).
+
+00:02:01.933 --> 00:02:09.498
+Esto aquí es mi eje "x".
+
+00:02:09.682 --> 00:02:24.800
+Éste es el punto x = 1. Aqui X = -1, aqui Y = 1.
+
+00:02:24.800 --> 00:02:30.671
+Bueno, esencialmente, para cualquier X distinto de uno,
+
+00:02:30.671 --> 00:02:33.248
+f (X) va a ser igual a uno.
+
+00:02:33.248 --> 00:02:42.215
+Osea, se va a ver así, excepto en uno: En uno f(x) es indefinido.
+
+00:02:42.215 --> 00:02:48.898
+Pongo un vacio aquí. El círculo quiere decir que la función no está definida en ese punto.
+
+00:02:48.929 --> 00:02:53.108
+No sabemos si esta función es igual a uno. Nunca lo definimos.
+
+00:02:53.123 --> 00:02:59.046
+Esta definición de función no nos dice que hacer con X = 1. Es literalmente indefinida.
+
+00:02:59.062 --> 00:03:01.954
+cuando X es igual a uno.
+
+00:03:01.969 --> 00:03:05.092
+Ésta es la función aquí encima.
+
+00:03:05.108 --> 00:03:07.262
+y cuando alguien te pregunte, ¿cuánto vale f(1)?
+
+00:03:10.015 --> 00:03:16.000
+Ésta es la funcíon. x = 1, oh espera, hay un vacio en mi función
+
+00:03:16.000 --> 00:03:25.333
+y esta indefinida. Déjenme escribirla. f(1) es indefinido
+
+00:03:25.333 --> 00:03:32.448
+¿Cuál es la función de acercamiento de X=1?
+
+00:03:32.448 --> 00:03:38.164
+Ésta es la idea de un límite. X se acerca más y más a uno.
+
+00:03:38.179 --> 00:03:50.387
+Como nos acercamos más y más, x a uno, ¿Cuál es la función de acercamiento?
+
+00:03:50.402 --> 00:03:59.871
+En el lado izquierdo, no importa cuán cerca llegues a uno, siempre y cuando no añadas uno, f(x) es igual a uno
+
+00:03:59.871 --> 00:04:02.533
+Por el lado derecho, tienes lo mismo.
+
+00:04:02.533 --> 00:04:09.133
+asi que podrías decir, y te familiarizás más a la idea, haremos mas ejemplos,
+
+00:04:09.133 --> 00:04:24.964
+que el limite, "lim", al x acercarse a uno de f(x) es igual a,
+
+00:04:24.979 --> 00:04:28.533
+infinitamente cerca a uno, siempre y cuando no añadamos uno,
+
+00:04:28.533 --> 00:04:34.379
+nuestra función va a ser igual a uno, acercandose más y más a uno.
+
+00:04:34.379 --> 00:04:41.938
+Digamos entonces que; el límite, cuando x se acerca a uno de f(x) , es uno.
+
+00:04:41.954 --> 00:04:48.867
+Es una fantasiosa notación. ¿Cúal es la función de acercamiento cuando x se acerca más y más a uno?
+
+00:04:48.867 --> 00:04:55.292
+Déjenme hacer otro ejemplo. Tratemos con una curva. Para que tengan una idea general.
+
+00:04:55.292 --> 00:05:03.667
+Digamos f(x). Por amor a la variedad, dejenme llamar "g" a "f". Digamos que tenemos g(x)
+
+00:05:03.667 --> 00:05:15.333
+g(x) es igual a, puedo definirlo así. x al cuadrado cuando x no es igual a dos.
+
+00:05:15.333 --> 00:05:24.867
+Y digamos que cuando x es igual a dos, es igual a uno. Otra vez tenemos
+
+00:05:24.867 --> 00:05:31.092
+una interesante función que, como verán, no es completamente contínua,
+
+00:05:31.092 --> 00:05:42.400
+tiene discontinuidad. Éste es mi eje de ye. Mi eje de x aquí.
+
+00:05:42.400 --> 00:05:55.010
+x=2, esto es x=1, esto es x=2. Esto es -1. Esto -2.
+
+00:05:55.010 --> 00:06:01.215
+Todo lugar, expecto x=2, es igual a x al cuadrado.
+
+00:06:01.215 --> 00:06:12.041
+Dibujamos una parábola. Algo así.
+
+00:06:12.041 --> 00:06:22.400
+Algo así. No es la más bonita parábola dibujada en la historia del dibujo de parábolas.
+
+00:06:22.400 --> 00:06:27.246
+Pero pienso que te dará la idea de como se ve una parábola.
+
+00:06:27.246 --> 00:06:37.067
+Debería ser simétrico. Déjenme redibujarla. Ok. Se ve mejor ahora. !Muy bien!
+
+00:06:37.067 --> 00:06:47.400
+Éste es el gráfico de x al cuadrado, pero no es al cuadrado cuando x = 2.
+
+00:06:47.400 --> 00:06:53.638
+Cuando x=2 deberíamos tener, un poquito de discontinuidad aqui.
+
+00:06:53.638 --> 00:07:00.882
+Dibujo un vacío aquí. Porque cuando x = 2, la igual es igual a uno.
+
+00:07:00.882 --> 00:07:13.956
+No lo haré a la misma escala. En el gráfico de f(x) = x al cuadrado. Esto es 4, esto 2, esto 1 esto 3,
+
+00:07:13.971 --> 00:07:24.121
+Bueno, cuando x=2, nuestra función es igual a uno.
+
+00:07:24.121 --> 00:07:30.571
+Es un función un poquito bizarra, pero podemos definirla así, o como quieras definirla.
+
+00:07:30.571 --> 00:07:36.377
+Te darás cuenta, es simmplemente como el gráfico de f(x) = X al cuadrado,
+
+00:07:36.392 --> 00:07:41.259
+Excepto que cuando llegas a dos, tiene este vacío, pues
+
+00:07:41.259 --> 00:07:48.362
+no se usa f(x) = x al cuadrado cuando x es igual a dos, se usa f(x), ¡Qué digo! g(x).
+
+00:07:48.362 --> 00:07:52.556
+Se usa g(x). He estado diciendo f(x), disculpen.
+
+00:07:52.571 --> 00:08:01.321
+Se usa g(x)=1. Exactamente como dos cae sobre uno, prolongandose la función g(x)
+
+00:08:01.321 --> 00:08:05.425
+a lo largo de la función X al cuadrado.
+
+00:08:05.479 --> 00:08:13.121
+Bueno, si tuvieras el valor de la función g(2), solo mira esta definición,
+
+00:08:13.121 --> 00:08:19.648
+cuando x=2 yo uso esta definición de aquí, y me dice que va a ser igual a uno.
+
+00:08:19.664 --> 00:08:23.633
+Veamos otra pregunta más interesante, quizás más interesante.
+
+00:08:23.633 --> 00:08:32.818
+¿Cuál es el límite cuando x se acerca a dos de g(x)?. Otra vez, una función fantasiosa.
+
+00:08:32.818 --> 00:08:44.531
+Pero nos están preguntando algo muy muy simple. Cuando x se acerca más y más a dos.
+
+00:08:44.531 --> 00:08:48.598
+¿Cúal es la aproximación de g(x)?
+
+00:08:48.598 --> 00:08:57.925
+Osea, si tienes 1.9 y 1.99 o 1.99999 o 1.9999999 ¿Cúal es la aproximación de g(x)?
+
+00:08:57.925 --> 00:09:06.248
+Y qué pasa si vas del lado positivo. Digamos 2.1, ó cúal es el g de 2.01, ó 2.001.
+
+00:09:06.264 --> 00:09:11.141
+¿Cúal es esa aproximación mientras más nos acercamos?
+
+00:09:11.141 --> 00:09:17.121
+Y puedes verlo visualmente dibujando el gráfico. Al acercarce g a dos.
+
+00:09:17.121 --> 00:09:22.859
+Y si seguimos a lo largo del gráfico, vemos que nos acercamos a 4.
+
+00:09:22.859 --> 00:09:27.813
+A pesar de que ésa no es la función. La función cae sobre uno.
+
+00:09:27.813 --> 00:09:36.336
+El límite de g(x) al x aproximarse a 2 = 4. Puedes hacer esto numericamente usando la calculadora.
+
+00:09:36.336 --> 00:09:46.079
+Va a ser interesante. Déjenme sacar mi calculadora Aquí está.
+
+00:09:46.095 --> 00:09:54.567
+Y puedes decir numericamente, ¿Cuál va a ser la aproximación cuando te aproximas a x=2?
+
+00:09:54.567 --> 00:10:00.638
+Intentemos con 1.9. Para x=1.9 vamos a usar esto de aca arriba.
+
+00:10:00.638 --> 00:10:08.392
+1.9 al cuadrado. Tenemos 3.61. ¿Y que tal si nos acercamos aún más a dos?
+
+00:10:08.392 --> 00:10:18.346
+1.99. Otra vez esto al cuadrado. tenemos 3.96. Que tal si tomamos 1.999
+
+00:10:18.346 --> 00:10:28.279
+Sacamos el cuadrado, tenemos 3.996. Noten, estoy llegando más y más cerca a nuestro punto.
+
+00:10:28.279 --> 00:10:36.844
+Y si tuviera 1.999999999999, al cuadrado, ¿A qué llego?
+
+00:10:36.859 --> 00:10:46.095
+No va a ser algo exacto cuatro, esta calculadora redondea todo. Voy a llegar a un número realmente muy muy cerca a cuatro.
+
+00:10:46.095 --> 00:10:50.905
+Podemos hacer algo desde el lado positivo tambien.
+
+00:10:50.905 --> 00:10:56.218
+Y va ser el mismo número. Cuando nos tratamos de acercar de abajo o de arriba.
+
+00:10:56.218 --> 00:11:05.469
+Si tratamos, 2.1 al cuadrado obtenemos 4.4. Si tratamos 2.0001 llegamos más cerca.
+
+00:11:05.469 --> 00:11:10.644
+Esto es mas cerca a 2, al cuadrado. Estamos ahora mas cerca a cuatro.
+
+00:11:10.644 --> 00:11:15.444
+Mientras mas cerca a dos, mas cerca estamos a cuatro.
+
+00:11:15.444 --> 00:11:23.685
+Es una forma numerica de decir que el limite, cuando x se aproxima a dos por cualquier direccion,
+
+00:11:23.685 --> 00:11:34.354
+la funcion es igual a 1. Porque el limite es discontinuo al acercarnos a 2 y 4.

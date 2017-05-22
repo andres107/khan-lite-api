@@ -1,0 +1,93 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.739 --> 00:00:07.950
+Se nos pide graficar(8,10). Así que el primer número en este par ordenado es la coordenada X.
+
+00:00:07.950 --> 00:00:10.819
+Nos dice hasta donde nos movemos en la dirección de X
+
+00:00:10.819 --> 00:00:14.660
+Es un ocho positivo, así que nos movemos en la dirección de X
+
+00:00:16.674 --> 00:00:20.791
+y entonces el segundo número del par ordenado es 10
+
+00:00:20.791 --> 00:00:24.382
+Esa es la coordenada Y; que nos dice hasta donde nos movemos en la dirección de Y
+
+00:00:24.382 --> 00:00:30.188
+Como es positivo nos movemos 10 hacia arriba. Nos movemos todo este camino hasta aquí.
+
+00:00:30.188 --> 00:00:32.493
+Y se podía pensar de otra manera. Se podía decir:
+
+00:00:32.493 --> 00:00:39.821
+Hey, miren, esta es la coordenada Y, es 10, así que me muevo hacia arriba y luego la coordenada X es 8 positivo,
+
+00:00:39.821 --> 00:00:44.656
+así que me moveré 8 a lo largo del eje positivo de X o me moveré 8 a la derecha.
+
+00:00:44.656 --> 00:00:51.077
+Se ve justo acá arriba, me moví 8 a la derecha, 1,2,3,4,5,6,7,8
+
+00:00:51.077 --> 00:00:57.719
+y me moví 10 hacia arriba: 1,2,3,4,5,6,7,8,9,10.
+
+00:00:57.719 --> 00:01:03.251
+Podría ser tentador moverse 8 arriba y entonces 10 a la derecha lo que te llevaría ahí,
+
+00:01:03.251 --> 00:01:05.520
+pero entonces habrías tenido los 2 números mezclados.
+
+00:01:05.520 --> 00:01:08.251
+Habrías tenido las coordenadas X e Y mezcladas.
+
+00:01:08.251 --> 00:01:16.154
+El 8 nos dice hasta donde nos movemos en la dirección horizontal, el 10 hasta donde en la vertical
+
+00:01:16.154 --> 00:01:19.652
+Hagamos un par mas de ejemplos.
+
+00:01:19.652 --> 00:01:27.252
+Graficar(6,10). Bueno, otra vez, el primer número en el par ordenado es la coordenada X,
+
+00:01:27.252 --> 00:01:30.785
+hasta donde nos movemos en la dirección de X, 6 a la derecha
+
+00:01:30.785 --> 00:01:35.583
+Y luego el segundo número, el 10 nos dice la coordenada vertical, coordenada Y
+
+00:01:35.583 --> 00:01:40.851
+Así que es 10 positivo, nos movemos 10 hacia arriba
+
+00:01:40.851 --> 00:01:42.857
+Hagamos uno más
+
+00:01:42.857 --> 00:01:45.053
+(5,7)
+
+00:01:45.053 --> 00:01:49.317
+Así que, la coordenada horizontal es 5, me muevo 5 a la derecha
+
+00:01:49.317 --> 00:01:58.487
+Y entonces la coordenada vertical es 7. Me muevo 5 hacia arriba: 1,2,3,4,5,6,7.
+
+00:01:58.487 --> 00:02:01.491
+Mientras recuerdes cual es horizontal y cual es vertical
+
+00:02:01.491 --> 00:02:03.392
+o cual es X y cual es Y, ¡vas a estar bién!
+
+00:02:05.293 --> 00:02:07.195
+Tu podrías decir: mira, esta es la coordenada Y, 7.
+
+00:02:07.195 --> 00:02:12.448
+Me voy a mover 7 hacia arriba, y la X es 5, me moy a mover 5 a la derecha
+
+00:02:12.448 --> 00:02:14.299
+y llegaríamos al mismo punto exactamente.
+
+00:02:14.346 --> 00:02:18.346
+Esto específica exactamente un punto en el plano coordenado

@@ -1,0 +1,60 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.184 --> 00:00:04.807
+Los problemas que hemos visto hasta ahora, esencialmente han sido
+
+00:00:04.807 --> 00:00:11.494
+en una dimension. Irias hacia adelante o hacia atras.
+
+00:00:11.494 --> 00:00:14.027
+o a la derecha o la izquierda, o hacia arriba o abajo.
+
+00:00:14.150 --> 00:00:19.900
+De lo que quiero hablar en este video es que pasaria cuando tenemos dos dimensiones
+
+00:00:19.900 --> 00:00:25.333
+o tres o cuatro, o tal vez un numero arbitrario de dimensiones
+
+00:00:25.333 --> 00:00:27.333
+pero, ya que estamos trabajando con la mecánica
+
+00:00:27.333 --> 00:00:30.906
+Normalmente no tenemos que ir mas alla de tres dimensiones.
+
+00:00:30.906 --> 00:00:33.878
+Pero vamos a trabajar con mas de una dimension, o dos dimensiones
+
+00:00:33.878 --> 00:00:36.711
+tambien vamos a trabajar con vectores de dos dimensiones.
+
+00:00:36.711 --> 00:00:38.522
+Solo quiero asegurarme que a traves de este video
+
+00:00:38.522 --> 00:00:41.540
+entenderemos por lo menos lo basico de vectores de dos dimensiones
+
+00:00:41.540 --> 00:00:45.859
+Recuerden, qun vector es algo que tiene tanto magnitud como dirección.
+
+00:00:45.859 --> 00:00:47.970
+Lo primero que quiero hacer, es darles una imagen visual
+
+00:00:48.001 --> 00:00:52.000
+de como sumariamos vectores en dos dimensiones.
+
+00:00:52.000 --> 00:00:56.660
+Entonces digamos que aqui tengo un vector A,
+
+00:00:56.660 --> 00:01:02.844
+y su magnitud se expresa por la longitud de esta linea
+
+00:01:02.890 --> 00:01:09.095
+su dirección es la dirección de la flecha, la cual va en esta dirección.
+
+00:01:09.126 --> 00:01:15.117
+Tengo otro vector, llamado Vector B
+
+00:01:15.117 --> 00:01:16.045
+Y se ve así,

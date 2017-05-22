@@ -1,0 +1,275 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.530
+
+
+00:00:00.530 --> 00:00:04.740
+Encuentra la pendiente de la línea en la gráfica.
+
+00:00:04.740 --> 00:00:08.020
+Y así como un poco de una revisión, pendiente simplemente nos está diciendo cómo
+
+00:00:08.020 --> 00:00:10.490
+empinada es una línea.
+
+00:00:10.490 --> 00:00:19.850
+Y la mejor manera de ver, la pendiente es igual al cambio en y
+
+00:00:19.850 --> 00:00:21.510
+por el cambio en x.
+
+00:00:21.510 --> 00:00:25.510
+
+
+00:00:25.510 --> 00:00:31.080
+Y de una línea, esto siempre será constante.
+
+00:00:31.080 --> 00:00:33.940
+Y a veces es posible ver que se escribe así: es posible que
+
+00:00:33.940 --> 00:00:36.590
+ver este triángulo, que es un delta de capital, lo que significa
+
+00:00:36.590 --> 00:00:40.730
+cambio en, cambio en y por el cambio en x.
+
+00:00:40.730 --> 00:00:42.560
+Eso es sólo una forma elegante de decir cambio en y
+
+00:00:42.560 --> 00:00:43.740
+por el cambio en x.
+
+00:00:43.740 --> 00:00:47.760
+Así que vamos a ver lo que este cambio en y para cualquier cambio en x.
+
+00:00:47.760 --> 00:00:51.010
+Así que vamos a comenzar en algún punto que parece bastante razonable
+
+00:00:51.010 --> 00:00:54.810
+para leer esta tabla aquí, en este gráfico.
+
+00:00:54.810 --> 00:00:57.560
+Así que vamos a ver, estamos empezando aquí - me dejó hacerlo de una manera más
+
+00:00:57.560 --> 00:00:59.160
+vibrantes colores - así que digamos que empezamos a
+
+00:00:59.160 --> 00:01:00.520
+ese momento allí.
+
+00:01:00.520 --> 00:01:02.350
+Y queremos ir a otro punto que es bastante
+
+00:01:02.350 --> 00:01:04.379
+sencillo de leer, por lo que puede pasar a
+
+00:01:04.379 --> 00:01:05.450
+ese momento allí.
+
+00:01:05.450 --> 00:01:08.340
+Estamos, literalmente, podría elegir cualquiera de los dos puntos en esta línea.
+
+00:01:08.340 --> 00:01:11.490
+Estoy recogiendo las que son buenas coordenadas enteras, por lo que
+
+00:01:11.490 --> 00:01:12.610
+es fácil de leer.
+
+00:01:12.610 --> 00:01:15.510
+Entonces, ¿qué es el cambio en Y, y lo que es el cambio en x?
+
+00:01:15.510 --> 00:01:17.540
+Así que primero vamos a ver el cambio en x.
+
+00:01:17.540 --> 00:01:21.750
+Así que si nos vamos de allí para allá, lo que es
+
+00:01:21.750 --> 00:01:23.510
+el cambio en x?
+
+00:01:23.510 --> 00:01:26.660
+Mi cambio de x es igual a qué?
+
+00:01:26.660 --> 00:01:28.340
+Bueno, yo sólo puedo contar a cabo.
+
+00:01:28.340 --> 00:01:31.480
+Fui pasos 1, 2 pasos, 3 pasos.
+
+00:01:31.480 --> 00:01:33.620
+Mi cambio de x es 3.
+
+00:01:33.620 --> 00:01:35.400
+E incluso se podía ver desde los valores de x.
+
+00:01:35.400 --> 00:01:40.060
+Si me voy de negativo 3 a 0, me fui por 3.
+
+00:01:40.060 --> 00:01:42.105
+Así que mi cambio de x es 3.
+
+00:01:42.105 --> 00:01:48.200
+Así que me escribo esto, el cambio en x, delta x es igual a 3.
+
+00:01:48.200 --> 00:01:50.860
+Y lo que es mi cambio en y?
+
+00:01:50.860 --> 00:01:53.200
+Bueno, mi cambio en y, me voy de negativo 3 hasta
+
+00:01:53.200 --> 00:01:57.580
+una negativa, o usted podría decir 1, 2.
+
+00:01:57.580 --> 00:02:05.260
+Así que mi cambio en y, es igual a 2 positivo.
+
+00:02:05.260 --> 00:02:06.360
+Así que me escriba eso.
+
+00:02:06.360 --> 00:02:09.710
+Cambio en y es igual a 2.
+
+00:02:09.710 --> 00:02:13.450
+Entonces, ¿cuál es mi cambio en y para un cambio en x?
+
+00:02:13.450 --> 00:02:19.560
+Bueno, cuando mi cambio de x es 3, mi cambio de y es 2.
+
+00:02:19.560 --> 00:02:21.870
+Así que esta es mi inclinación.
+
+00:02:21.870 --> 00:02:23.490
+Y una cosa que quiero hacer, quiero demostrar que yo podía
+
+00:02:23.490 --> 00:02:25.910
+realmente han recogido dos puntos aquí.
+
+00:02:25.910 --> 00:02:31.670
+Digamos que no se recuperó - Déjenme aclarar esto - vamos a decir
+
+00:02:31.670 --> 00:02:33.970
+Yo no elegí esos dos puntos, vamos a buscarme alguna otra
+
+00:02:33.970 --> 00:02:35.700
+puntos, e incluso a ir en una dirección diferente.
+
+00:02:35.700 --> 00:02:38.510
+Quiero demostrar que usted va a obtener la misma respuesta.
+
+00:02:38.510 --> 00:02:42.440
+Digamos que he usado esto como punto de partida, y quiero
+
+00:02:42.440 --> 00:02:46.300
+recorrer todo el camino allí.
+
+00:02:46.300 --> 00:02:48.640
+Bueno, vamos a pensar en el cambio en y en primer lugar. Por lo que el
+
+00:02:48.640 --> 00:02:55.960
+cambio en y, yo voy por el número de unidades?
+
+00:02:55.960 --> 00:03:01.490
+1, 2, 3, 4 unidades, por lo que mi cambio y, en este ejemplo, se
+
+00:03:01.490 --> 00:03:03.000
+4 negativos.
+
+00:03:03.000 --> 00:03:06.710
+Me fui del 1 al 3 negativo, eso es negativo 4.
+
+00:03:06.710 --> 00:03:08.400
+Ese es mi cambio en y.
+
+00:03:08.400 --> 00:03:10.950
+Cambio en y es igual a 4 negativos.
+
+00:03:10.950 --> 00:03:12.820
+Ahora ¿cuál es mi cambio de x?
+
+00:03:12.820 --> 00:03:16.320
+Bueno, voy a partir de este momento, o de este valor de x,
+
+00:03:16.320 --> 00:03:20.020
+todo el camino - me deja hacer eso en un color diferente - todos los
+
+00:03:20.020 --> 00:03:23.080
+camino de vuelta de esta manera.
+
+00:03:23.080 --> 00:03:24.880
+Así que voy a la izquierda, por lo que va a ser negativo
+
+00:03:24.880 --> 00:03:31.060
+cambio en x, y me fui 1, 2, 3, 4, 5, 6 unidades de la espalda.
+
+00:03:31.060 --> 00:03:34.845
+Así que mi cambio de x es igual a la negativa 6.
+
+00:03:34.845 --> 00:03:38.380
+
+
+00:03:38.380 --> 00:03:41.470
+E incluso se puede ver que se inició en x es igual a 3, y yo
+
+00:03:41.470 --> 00:03:43.910
+fue hasta el final de x es igual a 3 negativos.
+
+00:03:43.910 --> 00:03:46.430
+Eso es un cambio negativo de 6.
+
+00:03:46.430 --> 00:03:49.050
+Fui 6 a la izquierda, o un cambio negativo de 6.
+
+00:03:49.050 --> 00:03:52.270
+Entonces, ¿cuál es mi cambio en y por el cambio en x?
+
+00:03:52.270 --> 00:03:57.670
+Mi cambio en y por el cambio en x es igual a 4 negativos sobre
+
+00:03:57.670 --> 00:03:58.790
+negativa 6.
+
+00:03:58.790 --> 00:04:01.370
+Los negativos se cancelan y lo que es cuatro más de 6?
+
+00:04:01.370 --> 00:04:03.380
+Bueno, eso es sólo el 2 por 3.
+
+00:04:03.380 --> 00:04:05.610
+Por lo que es el mismo valor, sólo tienes que ser coherente.
+
+00:04:05.610 --> 00:04:08.200
+Si éste es mi punto de partida, bajé 4, y
+
+00:04:08.200 --> 00:04:09.930
+luego volví 6.
+
+00:04:09.930 --> 00:04:11.330
+4 negativos más negativos 6.
+
+00:04:11.330 --> 00:04:13.800
+Si ve este como punto de partida, podría decir
+
+00:04:13.800 --> 00:04:21.040
+que subió 4, por lo que sería un cambio en y sería de 4,
+
+00:04:21.040 --> 00:04:26.480
+y mi cambio de x sería de 6.
+
+00:04:26.480 --> 00:04:29.640
+Y de cualquier manera, una vez más, el cambio en y por el cambio en x
+
+00:04:29.640 --> 00:04:32.370
+va a ser de 4 a 6, 2 / 3.
+
+00:04:32.370 --> 00:04:34.440
+Así que no importa el que usted elija, siempre que tipo de
+
+00:04:34.440 --> 00:04:36.570
+pensar en ello de una manera coherente, que va a obtener el
+
+00:04:36.570 --> 00:04:38.870
+mismo valor de la pendiente.
+
+00:04:38.870 --> 00:04:39.200

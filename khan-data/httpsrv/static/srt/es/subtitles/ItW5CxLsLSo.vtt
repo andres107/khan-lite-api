@@ -1,0 +1,67 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Ahora que hemos creado la parametrización vamos a tratar de evaluar la integral.
+
+99:59:59.999 --> 99:59:59.999
+Lo siguiente que tenemos que hacer es expresa en términos de ds du y dv.
+
+99:59:59.999 --> 99:59:59.999
+Hemos visto esto antes ds va a ser igual a la magnitud del producto cruz
+
+99:59:59.999 --> 99:59:59.999
+del parcial de r con respecto a u cruzado con parciales de r con respecto a v du dv
+
+99:59:59.999 --> 99:59:59.999
+Primero vamos a tomar el producto cruz y lo haremos con una matriz de 3 por 3, vamos a hacer eso por aquí
+
+99:59:59.999 --> 99:59:59.999
+hemos creado y llenar de u r y r de v en el determinante real de por aquí. Así que primero tenemos nuestros componentes i, j, k.
+
+99:59:59.999 --> 99:59:59.999
+En primer lugar piensa en r sub u es. El parcial de r con respecto a u. Bueno, es componente
+
+99:59:59.999 --> 99:59:59.999
+va a ser la 1 parcial de u con respecto a u es 1 por lo que es componente i es 1, el componente j va a ser cero
+
+99:59:59.999 --> 99:59:59.999
+parcial de v con respecto a u es cero, v no cambia con respecto a U, por lo que este va a ser 0, parcial de (no tienen
+
+99:59:59.999 --> 99:59:59.999
+English
+
+
+
+Spanish
+
+
+
+Arabic
+
+
+
+
+
+
+
+a ser soportes de aquí parcial de este con respecto a la u es sólo va a ser una vez más, este es el parcial de la relación v al cuadrado
+
+99:59:59.999 --> 99:59:59.999
+de u es cero, por lo que este es sólo un nuevo y entonces r sub v el parcial de r con respecto a V, el componente i va a ser cero
+
+99:59:59.999 --> 99:59:59.999
+componente j va a ser uno y el parcial de u + v al cuadrado va a ser 2v, así que esto es determinante bastante sencillo
+
+99:59:59.999 --> 99:59:59.999
+así que vamos a tratar de evaluar, por lo que el componente i por lo que cruzar esta columna y la fila de esto, por lo que este será 0 veces 2v menos 1 veces 1, por lo que en esencia
+
+99:59:59.999 --> 99:59:59.999
+que sólo va a ser negativo 1 veces i por lo que van a tener negativo que esto es igual a negativo que a continuación, el componente j
+
+99:59:59.999 --> 99:59:59.999
+tenemos que poner un delantero fuera negativo. Y recuerda que tenemos que revisar modelo de la tarjeta.
+
+99:59:59.999 --> 99:59:59.999
+Así que tache esa fila, la columna.

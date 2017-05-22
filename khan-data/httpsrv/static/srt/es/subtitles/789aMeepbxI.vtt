@@ -1,0 +1,279 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.840
+Blank
+
+00:00:00.840 --> 00:00:04.090
+Así que me han pedido que haga la prueba de la derivada de
+
+00:00:04.090 --> 00:00:06.300
+la raíz cuadrada de x, y he pensado en hacer un video rápido
+
+00:00:06.300 --> 00:00:08.300
+de como se halla la prueba de la derivada de
+
+00:00:08.300 --> 00:00:10.370
+la raíz cuadrada de x.
+
+00:00:10.370 --> 00:00:13.680
+Conocemos de la definición de una derivada que la
+
+00:00:13.680 --> 00:00:22.280
+la derivada de la función raíz cuadrada de x, es igiual a
+
+00:00:22.280 --> 00:00:26.520
+---voy a cambiar los colores, para hacerlo más variado-- es igual al
+
+00:00:26.520 --> 00:00:33.080
+límite mientras delta x se acerca a 0.
+
+00:00:33.080 --> 00:00:35.595
+algunas personas dicen que h se acerca a 0,
+
+00:00:35.595 --> 00:00:36.360
+o que d se acerca a 0.
+
+00:00:36.360 --> 00:00:37.450
+Yo solo utilizo delta x.
+
+00:00:37.450 --> 00:00:39.450
+Asi que el cambio en x sobre 0.
+
+00:00:39.450 --> 00:00:41.830
+Y, entonces decimos que f de x más delta x, y en
+
+00:00:41.830 --> 00:00:42.910
+este caso esto es f de x.
+
+00:00:42.910 --> 00:00:52.260
+Entonces es la ráiz cuadrada de x más delta x menos f de x,
+
+00:00:52.260 --> 00:00:54.640
+que en este caso es la raíz cuadrada de x.
+
+00:00:54.640 --> 00:00:57.140
+Todo esto sobre el cambio de x, sobre delta x.
+
+00:00:57.140 --> 00:01:00.040
+Silencio
+
+00:01:00.040 --> 00:01:02.580
+Ahora mismo, cuando miro esto, no veo demasiada simplificación
+
+00:01:02.580 --> 00:01:04.945
+puedo hacer algo para que resulte algo con sentido.
+
+00:01:04.945 --> 00:01:09.940
+Silencio
+
+00:01:09.940 --> 00:01:12.540
+Voy a multiplicar el numerador y el denominador
+
+00:01:12.540 --> 00:01:13.790
+por el conjugado del numerador, eso es lo que quiero decir con esto
+
+00:01:13.790 --> 00:01:14.200
+Lo que quiero decir es
+
+00:01:14.200 --> 00:01:15.480
+Dejenme reescribirlo
+
+00:01:15.480 --> 00:01:19.740
+El limit es delta de x tendiendo a 0 ... solo lo estoy reescribiendo
+
+00:01:19.740 --> 00:01:21.280
+que tenemos aqui.
+
+00:01:21.280 --> 00:01:26.650
+Entonces, dije que la raiz cuadrada de x más el delta de x menos
+
+00:01:26.650 --> 00:01:28.610
+la raiz cuadrada de x.
+
+00:01:28.610 --> 00:01:31.200
+Todo sobre delta de x.
+
+00:01:31.200 --> 00:01:34.490
+Y voy a multiplicar eso (después de cambiar colores)
+
+00:01:34.490 --> 00:01:41.840
+por la raíz cuadrada de x más delta x mas la raiz cuadrada
+
+00:01:41.840 --> 00:01:48.260
+de x, sobre la raíz cuadrada de x más delta x más
+
+00:01:48.260 --> 00:01:49.250
+la raíz cuadrada de x.
+
+00:01:49.250 --> 00:01:53.420
+Esto es solo 1, asi que puedo por supuesto multiplicar eso por -- si
+
+00:01:53.420 --> 00:01:57.110
+asumimos que x y delta x son diferentes de cero, esto es
+
+00:01:57.110 --> 00:01:59.090
+un numero definido y esto será 1.
+
+00:01:59.090 --> 00:02:00.010
+Y podemos hacer eso.
+
+00:02:00.010 --> 00:02:02.130
+Esto es 1/1, solo estamos multiplicando eso por esta
+
+00:02:02.130 --> 00:02:10.900
+ecuación, y obtenemos el límite cuando delta x se aproxima a 0.
+
+00:02:10.900 --> 00:02:13.510
+Esto es a menos b por a más b.
+
+00:02:13.510 --> 00:02:15.360
+Dejenme hacerlo a un ladito.
+
+00:02:15.360 --> 00:02:20.880
+Digamos que a + b por a - b es igual a
+
+00:02:20.880 --> 00:02:23.150
+a al cuadrado - b al cuadrado.
+
+00:02:23.150 --> 00:02:26.600
+Entonces esto es a más b por a menos b.
+
+00:02:26.600 --> 00:02:29.410
+Entonces va a ser igual a a al cuadrado.
+
+00:02:29.410 --> 00:02:32.010
+Entonces que es esto al cuadrado, o esto
+
+00:02:32.010 --> 00:02:33.180
+cualquiera, son mis aes.
+
+00:02:33.180 --> 00:02:35.450
+Es solo x más delta de x
+
+00:02:35.450 --> 00:02:39.430
+Asi que obtenemos x + delta x
+
+00:02:39.430 --> 00:02:41.050
+y que es b al cuadrado?
+
+00:02:41.050 --> 00:02:46.380
+Asumimos que el opuesto de la raiz cuadrada de x es b en esta analogía
+
+00:02:46.380 --> 00:02:50.640
+Asi que la raiz cuadrada de x al cuadrado es simplemente x
+
+00:02:50.640 --> 00:02:56.760
+y todo eso sobre delta de x por la raiz de x
+
+00:02:56.760 --> 00:03:04.210
+mas delta de x mas la raiz de x
+
+00:03:04.210 --> 00:03:05.900
+veamos como simplificarlo
+
+00:03:05.900 --> 00:03:08.580
+Tenemos una x y luego un menos x, asi que
+
+00:03:08.580 --> 00:03:11.480
+Esos se cancelan, x menos x
+
+00:03:11.480 --> 00:03:13.460
+y quedamos solo con el numerador y el denomiador
+
+00:03:13.460 --> 00:03:15.690
+tenemos delta de x aca y delta de x aca
+
+00:03:15.690 --> 00:03:18.770
+asi que dividamos el numerador y el denominador por delta x
+
+00:03:18.770 --> 00:03:22.822
+este se vuelve 1, este se vuelve 1
+
+00:03:22.822 --> 00:03:26.350
+entonces es igual al limte, lo voy a escribir más pequeño
+
+00:03:26.350 --> 00:03:34.920
+porque ya no tengo espacio-- el limite cuando delta x tiende a 0 de 1 sobre
+
+00:03:34.920 --> 00:03:37.780
+Esto solo se puede hacer si asumimos que delta--
+
+00:03:37.780 --> 00:03:40.220
+bueno, estamos dividiendo entre delta x para empezar, asi que sabemos
+
+00:03:40.220 --> 00:03:42.420
+que no es cero, solo se aproxima a cero.
+
+00:03:42.420 --> 00:03:50.320
+Tenemos la raiz de x mas delta x mas
+
+00:03:50.320 --> 00:03:51.860
+la raiz de x.
+
+00:03:51.860 --> 00:03:53.550
+Ahora podemos tomar directamente el limite
+
+00:03:53.550 --> 00:03:54.410
+cuando se aproxima a cero
+
+00:03:54.410 --> 00:03:56.440
+Hacemos delta x igual a cero
+
+00:03:56.440 --> 00:03:58.140
+que es a lo que se aproxima
+
+00:03:58.140 --> 00:04:04.260
+y es igual a 1 sobre la raiz cuadrada de x
+
+00:04:04.260 --> 00:04:06.790
+Si, delta x es cero, y podemos ignorarlo.
+
+00:04:06.790 --> 00:04:09.120
+Podemos tomar el limite hasta cero.
+
+00:04:09.120 --> 00:04:13.000
+Y entonces esto es, por supuesto, una raiz cuadrada de x aqui más
+
+00:04:13.000 --> 00:04:17.160
+la raiz cuadrada de x y eso es igual a 1 sobre
+
+00:04:17.160 --> 00:04:19.350
+2 veces la raiz de x
+
+00:04:19.350 --> 00:04:24.890
+y eso es igual a 1/2x elevado a la negativo 1/2
+
+00:04:24.890 --> 00:04:28.900
+Acabamos de probar que la derivada de x a la 1/2 potencia
+
+00:04:28.900 --> 00:04:35.220
+es 1/2x elevado a la negativo 1/2, y esto es consistente con
+
+00:04:35.220 --> 00:04:41.700
+la propiedad general de que la derivada de --no se--
+
+00:04:41.700 --> 00:04:50.850
+la derivada de x a la n es igual a n x a la
+
+00:04:50.850 --> 00:04:55.150
+n menos 1, incluso cuando n es 1/2.
+
+00:04:55.150 --> 00:04:56.100
+Espero que eso sea satisfactorio.
+
+00:04:56.100 --> 00:04:58.960
+No lo probé para todoas las fracciones, pero esto es un inicio.
+
+00:04:58.960 --> 00:05:01.120
+Esta es una muy comun, la raiz de x, y
+
+00:05:01.120 --> 00:05:03.770
+espero, no muy complicada de probar.
+
+00:05:03.770 --> 00:05:05.180
+Bueno, los veré en videos futuros.
+
+00:05:05.180 --> 00:05:06.900
+Silencio

@@ -1,0 +1,730 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.590 --> 00:00:03.620
+Estámos en el probléma número 4, y nos dán un teorema.Este teorema dice que, un triangulo tiene no más de un angulo obtuso.
+
+00:00:03.620 --> 00:00:08.240
+.Este teorema dice que, un triangulo tiene no más de un angulo obtuso.
+
+00:00:08.240 --> 00:00:09.240
+Eso es todo.
+
+00:00:09.240 --> 00:00:11.850
+.Eduardo esta comprobando el teorema expuesto arriba, utilizando la tecnica de contradiccion
+
+00:00:14.630 --> 00:00:16.750
+Por lo tanto, la forma en que tu puedes comprobar un teorema utilizando la tecnica de contradiccion es como si tu estuvieras diciendo
+
+00:00:16.750 --> 00:00:18.330
+Bueno, que pasaria si esto no fuera cierto.
+
+00:00:18.330 --> 00:00:20.230
+Dejame probar que esto no puede pasar
+
+00:00:20.230 --> 00:00:21.930
+Veamos que fue lo que el hizo
+
+00:00:21.930 --> 00:00:26.480
+El empezo por asumir que en el triangulo ABC, los angulos A y B son obtusos,como parecen ser a simple vista (menores de 90 grados)
+
+00:00:26.480 --> 00:00:28.030
+Ambos son obtusos (menores de 90 grados)Cual Teorema usará Eduardo para
+
+00:00:28.030 --> 00:00:32.520
+Cual Teorema usará Eduardo para encontrar una contradiccion?
+
+00:00:32.520 --> 00:00:38.680
+Muy bien, dejame dibujar esto, lo que Eduardo está tratando de hacer
+
+00:00:38.680 --> 00:00:40.780
+. La forma en la que yo estoy dibujando es muy dificil
+
+00:00:40.780 --> 00:00:42.610
+Podemos decir que no es exactamente un dibujo a escala Entonces,
+
+00:00:42.610 --> 00:00:46.010
+él esta diciendo que los angulos A y B son ambos obtusos
+
+00:00:46.010 --> 00:00:48.570
+Por lo tanto, esto significa que este angulo es mayor a 90 grados Digamos que este es el angulo A
+
+00:00:48.570 --> 00:00:50.050
+Digamos que este es el angulo A
+
+00:00:50.050 --> 00:00:51.290
+y digamos que este es el angulo BY este es tambien mayor a 90 grados
+
+00:00:51.290 --> 00:00:52.460
+Y este es tambien mayor a 90 grados
+
+00:00:52.460 --> 00:00:55.070
+Esto es lo que significa Obtuso
+
+00:00:55.070 --> 00:00:58.510
+Cual teorema utilizara Eduardo para encontrar su contradiccion?
+
+00:00:58.510 --> 00:01:01.420
+Bueno, aun antes de empezar a leer las posibles respuestas, piensa en esto
+
+00:01:01.420 --> 00:01:02.970
+Que es lo que sabemos acerca de los triangulos?
+
+00:01:02.970 --> 00:01:07.580
+Que la suma de todos los angulos internos de un triangulo es igual a 180 grados, Cierto?
+
+00:01:07.580 --> 00:01:10.000
+Por lo tanto, este es el angulo A y este es el angulo B,
+
+00:01:10.000 --> 00:01:12.460
+Entonces llamemos a este angulo, el angulo C
+
+00:01:12.460 --> 00:01:18.480
+Sabemos que la suma de A más B más C = 180
+A + B + C = 180 grados......
+
+00:01:18.480 --> 00:01:20.910
+correcto?
+
+00:01:20.910 --> 00:01:29.240
+O bien, otra forma de decir esto seria de la siguiente manera Angulo C es igual a 180 menos A menos B
+
+00:01:29.240 --> 00:01:32.100
+C = 180 - A - B
+
+00:01:32.100 --> 00:01:33.750
+es decir, podemos expresar nuestra ecuacion de muchas maneras diferentes
+
+00:01:33.750 --> 00:01:34.470
+C = 180 - (A + B)
+
+00:01:34.470 --> 00:01:40.300
+C es igual a 180 menos la suma de los angulos (A + B)
+
+00:01:40.300 --> 00:01:42.110
+Ahora, dejame hacerte una pregunta?
+
+00:01:42.110 --> 00:01:46.400
+Si nosotros asumimos, como lo hizo Eduardo,
+
+00:01:46.400 --> 00:01:50.920
+que ambos angulos A y B son mayores que 90 grados
+
+00:01:50.920 --> 00:01:53.600
+la suma de: angulo A, más angulo B; va a ser mayor que ?
+
+00:01:53.600 --> 00:01:56.160
+Si este angulo es mayor que 90 y aquel angulo es mayor que 90 grados
+
+00:01:56.160 --> 00:01:59.010
+entonces A + B va a ser mayor que 180
+
+00:01:59.010 --> 00:02:01.660
+por lo tanto si esta suma es mayor que 180
+
+00:02:01.660 --> 00:02:04.240
+y nosotros estamos restando a 180
+
+00:02:04.240 --> 00:02:10.690
+esto escencialmente dice que el angulo A es mayor de 90 grados
+
+00:02:10.690 --> 00:02:15.340
+y que el angulo B es mayor de 90 grados
+
+00:02:15.340 --> 00:02:17.770
+lo que podemos duducir de este enunciado y de esta ecuacion
+
+00:02:17.770 --> 00:02:20.310
+De esta ecuacion, justo aqui
+
+00:02:20.310 --> 00:02:22.370
+Si este y este son mayores de 180 entonces el termino completo
+
+00:02:22.370 --> 00:02:23.560
+es mayor que 180
+
+00:02:23.560 --> 00:02:26.760
+Por lo tanto la deduccion sería que el angulo C tendría que ser menor que cero,
+
+00:02:26.760 --> 00:02:29.480
+y nosotros no podemos tener angulos con un valor negativo
+
+00:02:29.480 --> 00:02:34.910
+Entonces justo aqui, tenemos la contradiccion
+
+00:02:34.910 --> 00:02:37.850
+Y entonces podemos decir, Esta Bien, por lo tanto no podemos tener dos
+
+00:02:37.850 --> 00:02:40.490
+angulosque sean mayores a 90 grados, dentro del mismo triangulo
+
+00:02:40.490 --> 00:02:42.490
+ó lo que es lo mismo, no podemos tener 2 angulos obtusos en un triangulo
+
+00:02:42.490 --> 00:02:46.090
+Y esta seria tu forma de probar por contradiccion
+
+00:02:46.090 --> 00:02:49.400
+Veamos si lo que hicimos, lo podemos poner en palabras
+
+00:02:49.400 --> 00:02:50.170
+en alguna de las siguientes opciones
+
+00:02:50.170 --> 00:02:53.010
+Si dos angulos de un triangulo son iguales, los lados son opuesto
+
+00:02:53.010 --> 00:02:53.820
+sLos angulos son iguales
+
+00:02:53.820 --> 00:02:54.380
+No
+
+00:02:54.380 --> 00:03:01.410
+Sí dos angulos sulementarios son iguales, cada angulo
+
+00:03:01.410 --> 00:03:02.410
+mide 90 grados
+
+00:03:02.410 --> 00:03:05.290
+Bien, nosotros no hicimos eso.
+
+00:03:05.290 --> 00:03:07.020
+El angulo mayor de un triangulo es opuesto
+
+00:03:07.020 --> 00:03:07.580
+a el lado mas grande (más largo)
+
+00:03:07.580 --> 00:03:07.860
+No
+
+00:03:07.860 --> 00:03:10.710
+La suma de la medida de los angulos de un triangulo es igual a 180 grados
+
+00:03:10.710 --> 00:03:13.370
+Esa fue la primera cosa que nosotros escribimos aqui
+
+00:03:13.370 --> 00:03:15.720
+Por lo tanto; la respuesta correcta es D
+
+00:03:15.720 --> 00:03:20.160
+Este es el teorema que Eduardo utilizó para demostrar su contradiccion
+
+00:03:20.160 --> 00:03:23.160
+Siguiente pregunta
+
+00:03:23.160 --> 00:03:24.410
+Problema numero 5
+
+00:03:27.320 --> 00:03:28.570
+Muy bien, este es el problema
+
+00:03:31.860 --> 00:03:36.210
+Es una pregunta dificil
+
+00:03:36.210 --> 00:03:39.830
+Dejame ver si puedo copiar y pegar el problema completo
+
+00:03:39.830 --> 00:03:41.080
+Ya lo he copiado
+
+00:03:44.270 --> 00:03:45.520
+Muy bien
+
+00:03:50.110 --> 00:03:52.040
+Yo pienso que todo aparece en la pantalla
+
+00:03:52.040 --> 00:03:54.960
+Veamos, dice que usemos la prueba para contestar
+
+00:03:54.960 --> 00:03:56.110
+la pregunta que esta abajo
+
+00:03:56.110 --> 00:04:02.860
+Dado que el lado AB es congruente con el lado BC
+
+00:04:02.860 --> 00:04:05.810
+Entonces podemos decir que este lado es igual a este lado
+
+00:04:05.810 --> 00:04:06.820
+dado que
+
+00:04:06.820 --> 00:04:08.440
+D es el punto medio del segmento AC
+
+00:04:08.440 --> 00:04:10.220
+Esto significa que D es equidistante (esta a la misma distancia) entre AC
+
+00:04:10.220 --> 00:04:13.470
+Esto significa que AD y DC son de igual longuitud
+
+00:04:13.470 --> 00:04:14.720
+Dejame escribir esto
+
+00:04:19.910 --> 00:04:27.225
+Probar que el triangulo ABD es congruente a el triangulo CBD
+
+00:04:30.440 --> 00:04:32.980
+Muy bien, y como ustedes saben, triangulos congruentes son aquellos
+
+00:04:32.980 --> 00:04:35.920
+triangulos que son iguales en todo (forma y medida) excepto que tal vez
+
+00:04:35.920 --> 00:04:38.770
+han sido rotados
+
+00:04:38.770 --> 00:04:41.040
+Ellos pudieron haber sido rotados en alguna forma
+
+00:04:41.040 --> 00:04:43.480
+Si tu tienes triangulos similares, entonces tu puedes tener
+
+00:04:43.480 --> 00:04:44.520
+diferentes medidas en sus lados
+
+00:04:44.520 --> 00:04:46.250
+Ellos pudes ser de la misma figura, pero pueden haber sido
+
+00:04:46.250 --> 00:04:50.120
+expandidos o contraidos en alguna forma
+
+00:04:50.120 --> 00:04:53.390
+Si tu tienes triangulos congruentes, estos seran similares en la figura
+
+00:04:53.390 --> 00:04:54.980
+ellos tambien tendran las mismas medidas
+
+00:04:54.980 --> 00:04:57.060
+Pero aun y cuando tienen la misma figura y las mismas medidas ellos pudieron haber
+
+00:04:57.060 --> 00:04:57.900
+sido girados o rotados
+
+00:04:57.900 --> 00:04:59.440
+como tu puedes ver en este triangulo
+
+00:04:59.440 --> 00:05:05.420
+triangulo ABD se mira como si se reflejara en un espejo formando el triangulo DBC
+
+00:05:05.420 --> 00:05:07.610
+echale una mirada cuidadosa, y veras que parecen ser
+
+00:05:07.610 --> 00:05:09.230
+triangulos congruentes
+
+00:05:09.230 --> 00:05:11.920
+Veamos como lo vamos a probar
+
+00:05:11.920 --> 00:05:16.720
+por la oracion numero 1,segmento AB es congruente al segmento BC.
+
+00:05:16.720 --> 00:05:18.240
+ellos nos dieron esto
+
+00:05:18.240 --> 00:05:19.740
+D es el punto medio del segmento AC
+
+00:05:19.740 --> 00:05:22.070
+Esto nos fue dado como tal
+
+00:05:22.070 --> 00:05:23.870
+Segmento AD es congruente a el segmento CD
+
+00:05:26.750 --> 00:05:29.640
+Esto es porque D es el punto medio de AC
+
+00:05:29.640 --> 00:05:32.060
+Nosotros hicimos esta parte aqui, por deefinicion de punto medio
+
+00:05:32.060 --> 00:05:33.420
+solo por eso
+
+00:05:33.420 --> 00:05:37.790
+BD is congruente a BD por supuesto
+
+00:05:37.790 --> 00:05:40.300
+Cualquier cosa es congruente asi mismo
+
+00:05:40.300 --> 00:05:43.990
+por lo tanto, esto dice que BD para este triangulo es la misma
+
+00:05:43.990 --> 00:05:45.450
+longuitud que BD para este otro triangulo
+
+00:05:45.450 --> 00:05:47.270
+tal cual, estamos usando la propiedad de reflexion
+
+00:05:47.270 --> 00:05:50.300
+una palabra muy elegante, para una idea muy simple
+
+00:05:50.300 --> 00:05:54.870
+Y entonces finalmente, nos dicen que el triangulo ABD es
+
+00:05:54.870 --> 00:05:57.270
+congruente a el triangulo CBD
+
+00:05:57.270 --> 00:06:01.180
+Muy bien, como vamos, usando este enunciado, hemos
+
+00:06:01.180 --> 00:06:02.640
+demostrado que ellos son lo mismo
+
+00:06:02.640 --> 00:06:05.050
+los tres lados tienen exactamente las mismas medidas
+
+00:06:05.050 --> 00:06:07.470
+Ambos triangulos tienen un lado de longuitud BD
+
+00:06:07.470 --> 00:06:10.960
+Ambos triangulos tienen un lado de longuitud AD ó DC
+
+00:06:10.960 --> 00:06:13.930
+Y ambos triangulos tienen un lado de longuitud BA
+
+00:06:13.930 --> 00:06:16.570
+Por lo tanto, todos sus lados tienen la misma longuitud
+
+00:06:16.570 --> 00:06:21.100
+Esto es lo que sabemos despues de los tres primeros pasos
+
+00:06:21.100 --> 00:06:24.670
+que razon podemos usar para probar que
+
+00:06:24.670 --> 00:06:25.420
+los triangulos son congruentes?
+
+00:06:25.420 --> 00:06:28.230
+Bueno como dijimos, estos tres pasos demuestran que
+
+00:06:28.230 --> 00:06:29.650
+todos los lados son iguales
+
+00:06:29.650 --> 00:06:32.060
+por lo tanto es lo que tu puedes ver
+
+00:06:32.060 --> 00:06:32.660
+Que razon?
+
+00:06:32.660 --> 00:06:34.463
+SSS significa lado, lado, lado
+
+00:06:37.440 --> 00:06:42.020
+y este es el argumento que usamos en la clase de Geometría
+
+00:06:42.020 --> 00:06:45.500
+que todos los lados son iguales
+
+00:06:45.500 --> 00:06:47.910
+entonces los triangulos son congruentes
+
+00:06:47.910 --> 00:06:50.340
+esto significa que tu tienes un angulo, un angulo y un lado
+
+00:06:50.340 --> 00:06:52.570
+Esto quiere decir que tu tienes un angulo y entonces el lado
+
+00:06:52.570 --> 00:06:54.010
+entre los dos angulos
+
+00:06:54.010 --> 00:06:56.360
+y entonces el siguiente angulo, hasta ver que todos ellos son congruente
+
+00:06:56.360 --> 00:06:59.130
+Y esto dice que uno de los lados y el angulo y el
+
+00:06:59.130 --> 00:07:00.340
+otro lado, que estos son congruentes
+
+00:07:00.340 --> 00:07:01.530
+probablemente veremos mas de esto en
+
+00:07:01.530 --> 00:07:02.330
+el siguiente par de preguntas
+
+00:07:02.330 --> 00:07:05.520
+Pero de cualquier forma, esto demuestra que todos los lados
+
+00:07:05.520 --> 00:07:06.690
+de un triangulo son iguales a los lados del otro triangulo
+
+00:07:06.690 --> 00:07:12.630
+y por lo tanto podemos decir, por el razonamiento de lado, lado, lado
+
+00:07:12.630 --> 00:07:16.730
+No so mu bueno con la terminologia
+
+00:07:16.730 --> 00:07:19.230
+por el razonamiento lado, lado, lado decimos que ambos
+
+00:07:19.230 --> 00:07:20.500
+son triangulos congruentes
+
+00:07:20.500 --> 00:07:23.820
+y como yo digo, esta es una de las formas de pensar acerca de
+
+00:07:23.820 --> 00:07:25.540
+triangulos congruentes, es que los lados van a ser
+
+00:07:25.540 --> 00:07:28.150
+de la misma longuitud
+
+00:07:28.150 --> 00:07:29.400
+Siguiente pregunta.
+
+00:07:33.260 --> 00:07:34.510
+Muy bien.
+
+00:07:42.420 --> 00:07:47.590
+En la figura, AB es mayor que el BC.
+
+00:07:47.590 --> 00:07:49.740
+OK, así que este lado es superior a ese lado.
+
+00:07:49.740 --> 00:07:52.830
+Aunque la forma lo llamaron, todos miran el mismo.
+
+00:07:52.830 --> 00:07:54.760
+Así que vamos a ver qué podemos hacer.
+
+00:07:54.760 --> 00:07:59.250
+Si suponemos que esa medida de un ángulo es iguales a la medida de
+
+00:07:59.250 --> 00:08:19.030
+ángulo C, se deduce que AB es igual a BC.
+
+00:08:19.030 --> 00:08:22.510
+AB es igual a BC.
+
+00:08:22.510 --> 00:08:25.150
+Y no sé si has corre en esto ya, pero usted
+
+00:08:25.150 --> 00:08:28.910
+aprendí que si tienes dos ángulos que son congruentes, o
+
+00:08:28.910 --> 00:08:30.030
+Si las medidas son las mismas.
+
+00:08:30.030 --> 00:08:31.480
+Esto está diciendo esencialmente ese ángulo a es
+
+00:08:31.480 --> 00:08:32.950
+congruente con el ángulo C.
+
+00:08:32.950 --> 00:08:35.230
+En su lugar simplemente escribieron lo que las medidas de la
+
+00:08:35.230 --> 00:08:36.690
+ángulos son iguales.
+
+00:08:36.690 --> 00:08:38.570
+Que es lo que es la definición de congruencia, es que el
+
+00:08:38.570 --> 00:08:40.539
+medidas de los ángulos son iguales.
+
+00:08:40.539 --> 00:08:45.940
+Podría haber escrito el ángulo a es congruente con el ángulo C.
+
+00:08:45.940 --> 00:08:50.440
+Pero de todas formas, si tienes dos ángulos que son iguales, entonces
+
+00:08:50.440 --> 00:08:52.670
+los lados que están frente a esos ángulos son
+
+00:08:52.670 --> 00:08:53.960
+también va a ser igual.
+
+00:08:53.960 --> 00:08:55.750
+Así que este lado derecho aquí va a ser
+
+00:08:55.750 --> 00:08:57.010
+igual a ese lado.
+
+00:08:57.010 --> 00:08:57.980
+Y eso es lo que escribieron aquí.
+
+00:08:57.980 --> 00:09:01.830
+Se deduce que AB es igual a BC.
+
+00:09:01.830 --> 00:09:03.160
+Bastante justo.
+
+00:09:03.160 --> 00:09:07.180
+Luego dicen que esto contradice la afirmación dada que AB es
+
+00:09:07.180 --> 00:09:09.760
+mayor de BC.
+
+00:09:09.760 --> 00:09:12.880
+A la derecha, dice, se deduce que AB es igual a BC y
+
+00:09:12.880 --> 00:09:14.680
+contradice esta afirmación.
+
+00:09:14.680 --> 00:09:16.140
+¿Adónde van con esto?
+
+00:09:16.140 --> 00:09:19.705
+¿Qué conclusión de esta contradicción?
+
+00:09:23.190 --> 00:09:25.100
+Vamos a ver, medida del ángulo a es igual a
+
+00:09:25.100 --> 00:09:26.350
+medida del ángulo B.
+
+00:09:31.970 --> 00:09:33.830
+No, eso no es el caso.
+
+00:09:33.830 --> 00:09:34.900
+Puedo pensar en un ejemplo.
+
+00:09:34.900 --> 00:09:37.450
+Ambos pueden ser ángulos de 30 grados.
+
+00:09:37.450 --> 00:09:41.430
+Si se trata de dos ángulos de 30 grados, añadir hasta 60, entonces
+
+00:09:41.430 --> 00:09:43.840
+Esto tendría que ser de 120 que suman hasta 180.
+
+00:09:43.840 --> 00:09:45.550
+Y sería completamente gel con
+
+00:09:45.550 --> 00:09:46.490
+todo lo que hemos aprendido.
+
+00:09:46.490 --> 00:09:48.280
+Así, A definitivamente no es correcta.
+
+00:09:48.280 --> 00:09:51.560
+Que no tiene que ser igual a B.
+
+00:09:51.560 --> 00:09:54.680
+Medida de la a no es igual a la medida del ángulo B.
+
+00:09:58.800 --> 00:10:00.670
+¿Bueno, ellos podrían, derecho?
+
+00:10:00.670 --> 00:10:03.770
+Todos estos ángulos podrían ser de 60 grados.
+
+00:10:03.770 --> 00:10:06.380
+Nosotros no hemos dicho que b definitivamente no es igual A.
+
+00:10:06.380 --> 00:10:07.970
+Esto podría ser de 60, que podría ser de 60, y así
+
+00:10:07.970 --> 00:10:08.790
+podría tratarse de 60.
+
+00:10:08.790 --> 00:10:12.530
+Y nos estaría tratando con un triángulo equilátero.
+
+00:10:12.530 --> 00:10:15.100
+Así que no creo sea correcto.
+
+00:10:15.100 --> 00:10:19.070
+Medida del ángulo a es igual a la medida de ángulo C.
+
+00:10:24.780 --> 00:10:27.560
+Veo lo que están diciendo aquí.
+
+00:10:27.560 --> 00:10:29.330
+Lo siento, y este es mi mal.
+
+00:10:29.330 --> 00:10:32.350
+Dicen, AB es definitivamente mayor que BC.
+
+00:10:36.920 --> 00:10:41.800
+Ahora, dijeron si asumimos esa medida de ángulo a es
+
+00:10:41.800 --> 00:10:43.630
+igual a la medida del ángulo C, se deduce que
+
+00:10:43.630 --> 00:10:45.260
+AB es igual a BC.
+
+00:10:45.260 --> 00:10:47.550
+No dicen que esto es sin duda cierto.
+
+00:10:47.550 --> 00:10:51.520
+Sólo dijeron si suponemos que esto es cierto.
+
+00:10:51.520 --> 00:10:53.990
+Pero no dicen que este es un caso claro.
+
+00:10:53.990 --> 00:10:55.710
+Y esa es la procedencia de la contradicción.
+
+00:10:55.710 --> 00:10:58.690
+Porque si lo asumimos, entonces AB no podría ser
+
+00:10:58.690 --> 00:11:00.540
+mayor de BC.
+
+00:11:00.540 --> 00:11:03.700
+Porque entonces sería igual a AB BC.
+
+00:11:03.700 --> 00:11:05.590
+Ahora veo lo que están pidiendo.
+
+00:11:05.590 --> 00:11:07.040
+Así que esto es una suposición.
+
+00:11:07.040 --> 00:11:09.070
+Esto realmente no está probado para ser verdad.
+
+00:11:09.070 --> 00:11:11.920
+Así que esto contradice la declaración dada que AB es
+
+00:11:11.920 --> 00:11:13.130
+mayor de BC.
+
+00:11:13.130 --> 00:11:14.410
+Derecho, eso es cierto.
+
+00:11:14.410 --> 00:11:17.640
+¿Qué conclusión de esta contradicción?
+
+00:11:17.640 --> 00:11:21.000
+Así que hicimos la suposición de que la medida del ángulo a es
+
+00:11:21.000 --> 00:11:22.290
+igual a la medida del ángulo C.
+
+00:11:22.290 --> 00:11:24.740
+Que sigue que estos dos lados son iguales, que
+
+00:11:24.740 --> 00:11:26.840
+contradice la instrucción dada.
+
+00:11:26.840 --> 00:11:29.790
+Por lo tanto, sabemos que las medidas de estos dos ángulos
+
+00:11:29.790 --> 00:11:31.710
+no pueden ser iguales entre sí.
+
+00:11:31.710 --> 00:11:35.220
+Porque si fueran, entonces sería contradecir el dado
+
+00:11:35.220 --> 00:11:36.310
+Asunción.
+
+00:11:36.310 --> 00:11:39.440
+Así, sabemos de la contradicción que la medida
+
+00:11:39.440 --> 00:11:44.580
+de ángulo a no pueden igualar la medida del ángulo C.
+
+00:11:44.580 --> 00:11:46.490
+Y no podemos hacer esa suposición porque lleva a
+
+00:11:46.490 --> 00:11:48.390
+una contradicción.
+
+00:11:48.390 --> 00:11:52.620
+Por lo tanto la respuesta correcta es D.
+
+00:11:52.620 --> 00:11:55.900
+Bien, nos vemos en el siguiente vídeo.

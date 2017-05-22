@@ -1,0 +1,211 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.500
+Comienzo
+
+00:00:00.500 --> 00:00:04.140
+En el ultimo video terminamos con estos dos resultados.
+
+00:00:04.140 --> 00:00:06.850
+Comenzamos a pensar en que significa tomar la
+
+00:00:06.850 --> 00:00:10.000
+derivada parcial de una función vectorial, y
+
+00:00:10.000 --> 00:00:13.000
+obtuve estas clases de, podrías llamarlos, resultados bizarros.
+
+00:00:13.000 --> 00:00:15.230
+Tu sabes, ¿cual fue el punto en general de llegar aquí, Sal?
+
+00:00:15.230 --> 00:00:18.820
+Y el punto en general es que yo pueda darte las herramientas que tu
+
+00:00:18.820 --> 00:00:21.840
+necesitas para entender que es una integral de superficie
+
+00:00:21.840 --> 00:00:27.320
+Entonces vamos solo a pensar, vamos a dibujar el plano (s,t),
+
+00:00:27.320 --> 00:00:29.640
+y luego ver como se transforma en
+
+00:00:29.640 --> 00:00:31.720
+esta superficie r.
+
+00:00:31.720 --> 00:00:33.620
+Entonces vamos a hacer eso.
+
+00:00:36.490 --> 00:00:43.760
+Decimos que ese es el eje-t, y decimos que ese es el
+
+00:00:43.760 --> 00:00:49.240
+eje-s, y luego decimos que nuestra funcion vectorial, nuestra
+
+00:00:49.240 --> 00:00:52.550
+función vectorial posicionada, es definida de las s
+
+00:00:52.550 --> 00:00:57.590
+entre a y b, yo solo estoy eligiendo limites arbitrarios,
+
+00:00:57.590 --> 00:01:01.550
+y entre t siendo igual a c y d.
+
+00:01:04.250 --> 00:01:09.320
+Entonces el area
+
+00:01:09.320 --> 00:01:15.710
+este rectángulo justo aquí, sera cartografiado a parte
+
+00:01:15.710 --> 00:01:16.890
+de esa superficie.
+
+00:01:16.890 --> 00:01:19.100
+Y si tu gráficas estos puntos, eventualmente vas a
+
+00:01:19.100 --> 00:01:21.130
+obtener la superficie r.
+
+00:01:21.130 --> 00:01:25.250
+Déjame dibujar r en 3 dimensiones.
+
+00:01:25.250 --> 00:01:26.770
+Una superficie en 3D.
+
+00:01:26.770 --> 00:01:33.090
+Así que esa es nuestro eje-x, esa es nuestro eje-y, y luego
+
+00:01:33.090 --> 00:01:36.930
+esa es el eje-z.
+
+00:01:36.930 --> 00:01:40.780
+Y solo como pequeño recordatorio, se podría ver
+
+00:01:40.780 --> 00:01:42.370
+algo como esto.
+
+00:01:42.370 --> 00:01:46.570
+Si nosotros fuéramos a, este punto justo aquí, donde s es igual a a,
+
+00:01:46.570 --> 00:01:51.560
+y t es igual a c, recuerda, nosotros vamos a dibujar la 
+superficie
+
+00:01:51.560 --> 00:01:54.540
+indicada por la posición función vectorial
+
+00:01:54.540 --> 00:01:57.380
+s, r de s y t.
+
+00:01:57.380 --> 00:02:01.230
+Así que este punto de aquí, cuando s es a y t es c, tal vez
+
+00:02:01.230 --> 00:02:04.120
+proyecte, ya sabes, ese punto!
+
+00:02:04.120 --> 00:02:05.070
+justo aquí
+
+00:02:05.070 --> 00:02:09.540
+cuando coges a y c, lo pones en esto de aquí
+
+00:02:09.540 --> 00:02:12.870
+vas a obtener el vector que señala a aquél
+
+00:02:12.870 --> 00:02:15.840
+entonces dirás, te va a dar una posición vectorial
+
+00:02:15.840 --> 00:02:19.170
+esto te indicará en aquella posición, justo allí
+
+00:02:19.170 --> 00:02:23.407
+y entonces digamos que esta línea de aquí, si fuéramos a
+
+00:02:23.407 --> 00:02:31.570
+coger s constante de a, y si fuéramos a variar t de c
+
+00:02:31.570 --> 00:02:36.810
+a d, entonces tal vez podría parecerse a esto
+
+00:02:36.810 --> 00:02:40.080
+sólo estoy dibujando algunos contornos arbitrarios allí
+
+00:02:40.080 --> 00:02:45.980
+tal vez si cogemos la constante t a c y variamos s de a a b
+
+00:02:45.980 --> 00:02:50.210
+tal vez se parecerá a algo como aquello
+
+00:02:50.210 --> 00:02:50.980
+no lo sé
+
+00:02:50.980 --> 00:02:53.980
+sólo estoy intentando enseñaros un ejemplo
+
+00:02:53.980 --> 00:02:58.150
+entonces este punto de aquí corresponde al punto aquél
+
+00:02:58.150 --> 00:03:03.380
+de allí donde pones en el vector-valor función r, tú
+
+00:03:03.380 --> 00:03:07.420
+obtendrás un vector que te señale a ese punto, justo como ese
+
+00:03:07.420 --> 00:03:11.710
+y este punto de aquí enmorado, cuando evaluar r de
+
+00:03:11.710 --> 00:03:16.660
+s y t, te daré un vector que te señale justo allí,
+
+00:03:16.660 --> 00:03:18.850
+a aquél punto de allí, y podremos hacer una pareja de otros
+
+00:03:18.850 --> 00:03:21.430
+puntos, sólo para obtener una idea de aqué se parece la superficie
+
+00:03:21.430 --> 00:03:24.390
+aunque estoy intentando mantenerlo todo lo más general posible
+
+00:03:24.390 --> 00:03:30.730
+entonces tal vez, déja que lo haga en este color azulado
+
+00:03:30.730 --> 00:03:37.350
+este, si cogemos p en d y variamos s de a a b, tenemos
+
+00:03:37.350 --> 00:03:38.230
+que empezar aquí
+
+00:03:38.230 --> 00:03:41.540
+aquí es cuando t es d y s es a
+
+00:03:41.540 --> 00:03:44.880
+y cuando lo varías, tal vez obtienes algo como aquello
+
+00:03:44.880 --> 00:03:45.320
+no lo sé
+
+00:03:45.320 --> 00:03:50.900
+entonces este punto de aquí correspondería a aquél vector
+
+00:03:50.900 --> 00:03:56.430
+que señala ese punto, justo allí, y finalmente esta
+
+00:03:56.430 --> 00:04:02.600
+linea, o esta, si cogemos s en b y variamos t entre c y d,
+
+00:04:02.600 --> 00:04:08.480
+tendremos que ir de ese punto a ese otro punto,
+
+00:04:08.480 --> 00:04:12.140
+entonces se parecéra a algo así, oh, lo siento, vamos
+
+00:04:12.140 --> 00:04:14.630
+a ir desde este punto a este punto
+
+00:04:14.630 --> 00:04:18.580
+cogemos s en b, variando t de c a d tal vez
+
+00:04:18.580 --> 00:04:21.290
+se parecerá a algo como aquello

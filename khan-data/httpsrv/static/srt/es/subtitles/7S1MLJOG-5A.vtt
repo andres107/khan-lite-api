@@ -1,0 +1,126 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:02.000 --> 00:00:04.867
+Encuentra el área y el perimetro del polígono
+
+00:00:04.867 --> 00:00:06.933
+empezamos con el área primero
+
+00:00:06.933 --> 00:00:08.733
+el área de este polígono
+
+00:00:08.733 --> 00:00:10.467
+y hay como dos partes de eso
+
+00:00:10.467 --> 00:00:13.267
+primero tienes este parte que es como rectangular
+
+00:00:13.267 --> 00:00:15.000
+o es rectangular
+
+00:00:15.000 --> 00:00:16.667
+este parte aquí
+
+00:00:16.667 --> 00:00:18.333
+y este area es sencillo
+
+00:00:18.333 --> 00:00:20.333
+solo será la base por la altura
+
+00:00:20.333 --> 00:00:22.600
+el área será 8 por 4
+
+00:00:22.600 --> 00:00:25.733
+8 por 4 para la parte rectangular
+
+00:00:25.733 --> 00:00:28.600
+y luego tenemos este parte triangular aquí
+
+00:00:28.600 --> 00:00:30.533
+tenemos este área aquí
+
+00:00:30.533 --> 00:00:36.000
+y para un triangulo este área es base por altura por 1/2
+
+00:00:36.000 --> 00:00:37.267
+este actualmente tiene sentido
+
+00:00:37.267 --> 00:00:39.133
+porque solo multiplicas base por altura
+
+00:00:39.133 --> 00:00:39.633
+tendrías este área entero
+
+00:00:39.633 --> 00:00:43.667
+tienes el área del rectángulo
+
+00:00:43.667 --> 00:00:46.267
+y vees que el triangulo es exactamente medio de él
+
+00:00:46.267 --> 00:00:47.667
+si tomas esta parte del triangulo
+
+00:00:47.667 --> 00:00:49.600
+y volteas, llenarías este espacio
+
+00:00:49.600 --> 00:00:51.000
+y tomas este parte del triangulo
+
+00:00:51.000 --> 00:00:52.933
+y volteas, llenarías este espacio
+
+00:00:52.933 --> 00:00:54.867
+el área del triangulo es medio del
+
+00:00:54.867 --> 00:00:57.600
+base del triangulo por la altura del triangulo
+
+00:00:57.600 --> 00:01:03.067
+más 1/2 por el base del triangulo que es 8 pulgadas
+
+00:01:03.067 --> 00:01:06.267
+y la altura del trianguloque es 4 pulgadas
+
+00:01:06.267 --> 00:01:09.600
+calculamos y da a nosotros
+
+00:01:09.600 --> 00:01:24.400
+no es 4, la altura del triangulo es 3, deja que nosotros regresamos
+
+00:01:24.400 --> 00:01:37.333
+y calcularlo área = 32 + 1/2 * 8 * 3 = 32 + 12 = 44
+
+00:01:37.333 --> 00:01:40.000
+el área de la figura es 44
+
+00:01:40.000 --> 00:01:42.267
+ahora deja que nosotros hacemos el perímetro. Necesitamos resolver la
+
+00:01:42.267 --> 00:01:45.467
+suma de los lados. Si necesitamos poner una cerca
+
+00:01:45.467 --> 00:01:51.200
+qué es el longitud que necesitamos cubrir
+
+00:01:51.200 --> 00:02:13.000
+el perímetro = 8+4+5+5+4 =26 pulgadas
+
+00:02:13.000 --> 00:02:32.533
+Dejame hacer la unidad corecto, aquí nosotros estamos multiplicando
+
+00:02:32.533 --> 00:02:38.200
+8 pulgadas y 4 pulgadas recibimos 32 pulgadas cuadradas y
+
+00:02:38.200 --> 00:02:40.000
+aquí multiplicamos 8 pulgadas y 3 pulgadas recibimos 24 pulgadas cuadradas
+
+00:02:40.000 --> 00:02:43.067
+divides entre 2 recibimos 12 pulgadas cuadradas
+
+00:02:43.067 --> 00:02:46.600
+área = 44 pulgadas cuadradas, perímetro es 26 pulgadas
+
+00:02:46.600 --> 99:59:59.999
+área es dos dimensional y perimetro es un dimensional

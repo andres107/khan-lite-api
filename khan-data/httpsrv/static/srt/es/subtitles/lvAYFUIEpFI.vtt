@@ -1,0 +1,740 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:03.330
+En el último vídeo, aprendimos un poco sobre el círculo.
+
+00:00:03.330 --> 00:00:07.350
+Y el círculo es realmente solo un caso especial de una elipse.
+misma
+
+00:00:07.350 --> 00:00:13.220
+Es un caso especial porque en un círculo siempre se está a la
+
+00:00:13.220 --> 00:00:15.420
+distancia del centro del círculo, mientras que en una
+
+00:00:15.420 --> 00:00:18.730
+elipse, la distancia desde el centro del círculo
+
+00:00:18.730 --> 00:00:20.110
+siempre está cambiando.
+
+00:00:20.110 --> 00:00:21.820
+Tu sabes a que una elipse se parece.
+
+00:00:21.820 --> 00:00:23.300
+Bueno, yo te lo mostre en el primer video.
+
+00:00:23.300 --> 00:00:26.020
+Se ve mas o menos de esta manera.
+
+00:00:26.020 --> 00:00:28.140
+Lo que significa es que el radio o la distancia desde el
+
+00:00:28.140 --> 00:00:29.360
+centro siempre está cambiando.
+
+00:00:29.360 --> 00:00:33.630
+Permíteme decir que esto esta centrado en el origen.
+
+00:00:33.630 --> 00:00:36.190
+De modo que alli es el origen.
+
+00:00:36.190 --> 00:00:40.440
+Aqui ves, que realmente estamos, si estamos en este punto de la
+
+00:00:40.440 --> 00:00:43.010
+elipse, muy cerca del origen.
+
+00:00:43.010 --> 00:00:45.110
+Esto es realmente lo mas cercano que llegaramos, tan cerca como
+
+00:00:45.110 --> 00:00:46.520
+vamos a llegar acá.
+
+00:00:46.520 --> 00:00:49.540
+Y cuando estamos aquí estamos muy lejos del origen
+
+00:00:49.540 --> 00:00:54.650
+y eso es lo más lejos que vamos a llegar.
+
+00:00:54.650 --> 00:00:58.400
+Así que un círculo es un caso especial de esto, porque en el caso
+
+00:00:58.400 --> 00:01:01.770
+del circulo, lo más lejos que llegamos desde el origen es la misma distancia
+
+00:01:01.770 --> 00:01:04.670
+que lo más cercano que llegamos al origen, o, en otras palabras, estamos siempre
+
+00:01:04.670 --> 00:01:07.190
+a exactamente la misma distancia del origen.
+
+00:01:07.190 --> 00:01:09.240
+Pues bien, dicho esto, vayamos en realidad un poco
+
+00:01:09.240 --> 00:01:10.070
+más a matematicas.
+
+00:01:10.070 --> 00:01:14.640
+Así que la forma general o estandar de una elipse centrada en
+
+00:01:14.640 --> 00:01:23.120
+el origen es x al cuadrado sobre a al cuadrado mas y al cuadrado sobre
+
+00:01:23.120 --> 00:01:25.170
+b al cuadrado es igual a 1.
+
+00:01:25.170 --> 00:01:29.040
+Donde a y b son sólo cualesquiera dos números
+
+00:01:29.040 --> 00:01:31.170
+Yo hubiera podido haber escrito esto como C al cuadrado y d al cuadrado.
+
+00:01:31.170 --> 00:01:32.920
+Quiero decir, sólo son marcadores de posición.
+
+00:01:32.920 --> 00:01:35.430
+Sólo para dar una idea de lo que esto significa, si esta fuera
+
+00:01:35.430 --> 00:01:41.180
+nuestra elipse en cuestión ahora mismo, a es la longitud del
+
+00:01:41.180 --> 00:01:43.330
+radio en la dirección x.
+
+00:01:43.330 --> 00:01:45.030
+Recuerda, nosotros vamos a tener a al cuadrado aquí.
+
+00:01:45.030 --> 00:01:46.760
+Así que si tomaste la raíz cuadrada de lo que sea que este en el
+
+00:01:46.760 --> 00:01:49.130
+denominador, a es el radio x.
+
+00:01:49.130 --> 00:01:53.260
+Por lo tanto esta distancia en nuestro pequeño cuadro de aqui, en nuestro pequeño
+
+00:01:53.260 --> 00:01:56.700
+gráfico de aquí, esa distancia es a, o que este punto de aquí,
+
+00:01:56.700 --> 00:01:59.200
+ya que estamos centrados en el origen, será el punto x es
+
+00:01:59.200 --> 00:02:02.160
+igual a a, y es igual a 0.
+
+00:02:02.160 --> 00:02:06.050
+Y, por supuesto, este punto aquí será a, por lo que este
+
+00:02:06.050 --> 00:02:09.620
+sera el punto menos a coma 0.
+
+00:02:09.620 --> 00:02:14.320
+Y entonces el radio en la dirección y sera este
+
+00:02:14.320 --> 00:02:16.860
+radio de aquí y es b.
+
+00:02:16.860 --> 00:02:21.430
+Así que este punto sera x es igual a 0, y es igual a b.
+
+00:02:21.430 --> 00:02:24.720
+Del mismo modo este punto aquí sera x es igual a 0,
+
+00:02:24.720 --> 00:02:27.010
+y es igual a menos b.
+
+00:02:27.010 --> 00:02:29.730
+Y la forma en que dibujo esto, tenemos una especie de corta y gorda
+
+00:02:29.730 --> 00:02:33.090
+elipse, también puedes tener una especie de elipse alta y flaca.
+
+00:02:33.090 --> 00:02:35.600
+Pero en la elipse corta y gorda, la dirección que
+
+00:02:35.600 --> 00:02:39.710
+en que estas corta, se llama el eje menor.
+
+00:02:39.710 --> 00:02:44.010
+Y así b, siempre se me olvida la terminología exacta, pero b
+
+00:02:44.010 --> 00:02:48.125
+lo puedes llamar semi o la longitud del semi-eje menor.
+
+00:02:56.520 --> 00:02:58.120
+Y de dónde viene esa palabra?
+
+00:02:58.120 --> 00:03:00.660
+Bueno, si todo esto es tu eje menor o tal vez
+
+00:03:00.660 --> 00:03:03.820
+la puedes llamar diámetro menor, si toda esta cosa es tu
+
+00:03:03.820 --> 00:03:05.850
+diámetro menor se llama menor, porque es la
+
+00:03:05.850 --> 00:03:09.470
+más corta de todos los diámetros de esta elipse.
+
+00:03:09.470 --> 00:03:12.210
+Y luego la semi es la mitad de eso.
+
+00:03:15.720 --> 00:03:17.840
+b es la longitud del eje semi-minor.
+
+00:03:21.180 --> 00:03:24.650
+Esto es b en este ejemplo, simplemente porque a medida que dibujo esta elipse
+
+00:03:24.650 --> 00:03:27.450
+simplemente ocurre que b es mas pequeña que a.
+
+00:03:27.450 --> 00:03:31.860
+Si b fuera mas larga que a, yo tendría una elipse alta y flaca.
+
+00:03:31.860 --> 00:03:32.830
+Permítanme dibujar una.
+
+00:03:32.830 --> 00:03:34.100
+Podría haber sido de esta forma.
+
+00:03:34.100 --> 00:03:36.550
+Podría tener una elipse que se vea de esta manera.
+
+00:03:36.550 --> 00:03:41.190
+En cuyo caso, de repente b sería el semi-mayor eje,
+
+00:03:41.190 --> 00:03:43.710
+porque b sería mayor que a.
+
+00:03:43.710 --> 00:03:46.440
+Esto sería más alto que ancho.
+
+00:03:46.440 --> 00:03:49.640
+Pero dejenme no complicar el gráfico demasiado.
+
+00:03:49.640 --> 00:03:54.860
+Y en este caso, a es la longitud de -- creo que has
+
+00:03:54.860 --> 00:04:03.520
+adivinado -- a es la longitud del eje semi-mayor o puedes
+
+00:04:03.520 --> 00:04:06.210
+incluso llamarlo la longitud de radio mayor.
+
+00:04:06.210 --> 00:04:07.460
+Creo que eso tiene más sentido.
+
+00:04:12.330 --> 00:04:14.220
+Y puedes llamar a esto el radio menor.
+
+00:04:22.390 --> 00:04:23.360
+Así que vamos a hacer un ejemplo.
+
+00:04:23.360 --> 00:04:26.120
+Y creo que cuando haya hecho un ejemplo con números reales,
+
+00:04:26.120 --> 00:04:28.250
+todo sera un poco más claro.
+
+00:04:28.250 --> 00:04:31.510
+Así que digamos que yo apareciera en su puerta con la
+
+00:04:31.510 --> 00:04:39.580
+siguiente: Si yo fuera a decir x al cuadrado sobre 9 más y cuadrado
+
+00:04:39.580 --> 00:04:44.800
+sobre 25 es igual a 1.
+
+00:04:44.800 --> 00:04:48.350
+Entonces, ¿cuál es tu radio en la dirección x?
+
+00:04:48.350 --> 00:04:51.050
+Este es tu radio en la dirección x al cuadrado.
+
+00:04:51.050 --> 00:04:53.002
+Así que tu radio en la dirección x si solo lo trazaramos
+
+00:04:53.002 --> 00:04:56.030
+diríamos que a es igual a 3.
+
+00:04:56.030 --> 00:04:57.690
+Debido a que esto es un cuadrado.
+
+00:04:57.690 --> 00:05:00.260
+Y si sólo lo fueramos a trazarlo, diriamos que esto es b al cuadrado, lo cual
+
+00:05:00.260 --> 00:05:04.930
+nos dice que b es igual a 5.
+
+00:05:04.930 --> 00:05:06.830
+Así que si quisiéramos graficar esto, y una vez más esto
+
+00:05:06.830 --> 00:05:08.500
+está centrado en el origen.
+
+00:05:08.500 --> 00:05:09.840
+Permítanme dibujar la elipse primero.
+
+00:05:09.840 --> 00:05:13.810
+Así, en primer lugar, tenemos que nuestro radio en la dirección y es
+
+00:05:13.810 --> 00:05:17.140
+más grande que nuestro radio en la dirección x.
+
+00:05:17.140 --> 00:05:20.320
+La elipse va a ser más alta y delgada.
+
+00:05:20.320 --> 00:05:23.170
+Se va a parecer a algo como esto.
+
+00:05:23.170 --> 00:05:28.060
+Dibuja algunos ejes, este podría ser tu eje x, tu eje y.
+
+00:05:32.140 --> 00:05:35.260
+Este es tu radio en la dirección y.
+
+00:05:35.260 --> 00:05:39.060
+Por lo que esta distancia aquí va a ser 5, y
+
+00:05:39.060 --> 00:05:42.030
+también lo sera esta distancia.
+
+00:05:42.030 --> 00:05:43.960
+Y este es tu radio en la dirección x.
+
+00:05:43.960 --> 00:05:48.310
+Así que este será 3, y este será 3.
+
+00:05:48.310 --> 00:05:48.990
+Eso es todo.
+
+00:05:48.990 --> 00:05:52.170
+Ya has trazado esta elipse.
+
+00:05:52.170 --> 00:05:53.530
+Nada demasiado lujoso al respecto.
+
+00:05:53.530 --> 00:05:55.720
+Y en realidad sólo, para mas o menos, tocar el punto que el
+
+00:05:55.720 --> 00:05:59.720
+círculo es un caso especial de una elipse.
+
+00:05:59.720 --> 00:06:03.720
+Hemos aprendimos en el último video que la ecuación de un círculo
+
+00:06:03.720 --> 00:06:08.900
+es x al cuadrado y un círculo centrado en el origen.
+
+00:06:08.900 --> 00:06:12.320
+x al cuadrado mas y al cuadrado es igual a r al cuadrado.
+
+00:06:12.320 --> 00:06:16.350
+Así que si tuviéramos que dividir a ambos lados por r al cuadrado, nosotros
+
+00:06:16.350 --> 00:06:19.290
+obtendriamos--y esto es solo un poco de manipulación algebraica--
+
+00:06:19.290 --> 00:06:26.510
+x al cuadrado sobre r al cuadrado mas y al cuadrado sobre r al cuadrado
+
+00:06:26.510 --> 00:06:28.430
+es igual a 1.
+
+00:06:28.430 --> 00:06:33.940
+Ahora, en este caso, a es r y b tambien lo es.
+
+00:06:33.940 --> 00:06:38.860
+Por lo que el eje semi-minor es r y tambien lo es
+
+00:06:38.860 --> 00:06:40.600
+el eje semi-mayor de r.
+
+00:06:40.600 --> 00:06:42.500
+O, en otras palabras, esta distancia es la misma que esa
+
+00:06:42.500 --> 00:06:45.200
+distancia, por lo que nunca sera corto o gordo
+
+00:06:45.200 --> 00:06:46.350
+ni alto y flaco.
+
+00:06:46.350 --> 00:06:47.710
+Va a ser perfectamente redonda.
+
+00:06:47.710 --> 00:06:51.750
+Y por eso es que el círculo es un caso especial de una elipse.
+
+00:06:51.750 --> 00:06:54.740
+Así que permíteme darte un poco --se verá mucho más
+
+00:06:54.740 --> 00:06:56.770
+complicado, y esto es algo que podrías
+
+00:06:56.770 --> 00:06:57.600
+ver en un examen.
+
+00:06:57.600 --> 00:06:59.980
+Pero sólo quiero mostrar que esto es sólo un cambio.
+
+00:06:59.980 --> 00:07:06.960
+Digamos que hemos querído trasladar esta elipse.
+
+00:07:06.960 --> 00:07:11.990
+Digamos que queremos desplazarla 5 a la derecha.
+
+00:07:15.810 --> 00:07:19.040
+Así que en lugar de tener el origen en x igual a 0, el origen
+
+00:07:19.040 --> 00:07:22.550
+ahora será en x igual 5.
+
+00:07:22.550 --> 00:07:27.620
+Así que una manera de pensar en esto es, que debe ser este termino
+
+00:07:27.620 --> 00:07:32.340
+de modo que a las 5 este termino termine siendo 0.
+
+00:07:32.340 --> 00:07:33.780
+Bueno, de hecho lo dibujare por ti, porque pienso
+
+00:07:33.780 --> 00:07:34.920
+que puede ser confuso.
+
+00:07:34.920 --> 00:07:39.170
+Así que si corremos esto hacia la derecha 5, la nueva ecuación de
+
+00:07:39.170 --> 00:07:49.950
+esta elipse será x menos 5 al cuadrado sobre 9 más y al cuadrado
+
+00:07:49.950 --> 00:07:52.600
+sobre 25 igual a 1.
+
+00:07:52.600 --> 00:07:55.460
+Así que si tuviera que dibujar esta elipse en este momento
+
+00:07:55.460 --> 00:07:57.850
+se veria de esta manera.
+
+00:07:57.850 --> 00:07:59.290
+Quiero que se vea bastante similar a la
+
+00:07:59.290 --> 00:08:01.500
+elipse que tenía antes.
+
+00:08:01.500 --> 00:08:03.530
+Se veria de esta forma.
+
+00:08:03.530 --> 00:08:07.180
+Sólo correla 5 posiciones.
+
+00:08:07.180 --> 00:08:11.170
+Y la intuición que aprendimos un poco en el vídeo del círculo
+
+00:08:11.170 --> 00:08:13.240
+donde decía, Ah bueno, ustedes saben, si tienes x menos
+
+00:08:13.240 --> 00:08:15.120
+algo que significa que el nuevo origen sera ahora
+
+00:08:15.120 --> 00:08:16.680
+en 5 positivo.
+
+00:08:16.680 --> 00:08:18.010
+Y tu puedes memorizar eso.
+
+00:08:18.010 --> 00:08:19.580
+Siempre se puede decir, ah, si tengo un signo menos aquí, que el
+
+00:08:19.580 --> 00:08:23.880
+origen está en lado negativo de cualquiera que sea este número, por lo
+
+00:08:23.880 --> 00:08:25.570
+que sería un cinco positivo.
+
+00:08:25.570 --> 00:08:27.420
+Tu sabes, si tuvieras un resultado positivo sería lo opuesto a eso.
+
+00:08:27.420 --> 00:08:30.950
+Pero la forma realmente de pensar al respecto es si vas a x
+
+00:08:30.950 --> 00:08:37.490
+igual a 5, cuando x es igual a 5, todo este término, x menos
+
+00:08:37.490 --> 00:08:41.550
+5, se comportará igual que este término x lo hara aca.
+
+00:08:41.550 --> 00:08:47.100
+Cuando x es igual a 5 este término es 0, al igual que
+
+00:08:47.100 --> 00:08:48.910
+cuando x es 0 aquí.
+
+00:08:48.910 --> 00:08:51.750
+Así que cuando x es igual a 5, este término es 0, y entonces y al cuadraro
+
+00:08:51.750 --> 00:08:56.290
+sobre 25 es igual a 1, de modo que y tiene que ser igual a cinco.
+
+00:08:56.290 --> 00:08:59.470
+Al igual que aquí, cuando x es igual a 0, y al cuadrado sobre 25
+
+00:08:59.470 --> 00:09:01.930
+tenía que ser igual a 1, y es igual a cualquiera
+
+00:09:01.930 --> 00:09:04.690
+positivo o menos 5.
+
+00:09:04.690 --> 00:09:06.550
+Y yo realmente quiero darte esa intuición.
+
+00:09:06.550 --> 00:09:08.970
+Y entonces, digamos que queríamos correr esta
+
+00:09:08.970 --> 00:09:10.780
+ecuación abajo por dos.
+
+00:09:14.250 --> 00:09:17.250
+Así que nuestra nueva elipse se parece a algo como esto.
+
+00:09:20.530 --> 00:09:22.310
+Muchas veces aprendiste esto en las secciones cónicas.
+
+00:09:22.310 --> 00:09:23.880
+Pero esto es cierto para cualquier función.
+
+00:09:23.880 --> 00:09:26.960
+Cuando corres las cosas, las desplazas de esta forma.
+
+00:09:26.960 --> 00:09:31.340
+Si desplazas esta gráfica a la derecha por cinco, reemplazas todas
+
+00:09:31.340 --> 00:09:34.010
+las x con x menos 5.
+
+00:09:34.010 --> 00:09:38.860
+Y si fueras a desplazar hacia abajo por dos la gráfica, reemplazarias
+
+00:09:38.860 --> 00:09:44.780
+todas las y por y mas 2.
+
+00:09:44.780 --> 00:09:46.610
+Así que permíteme dibujar nuestra nueva elipse primero, solo para
+
+00:09:46.610 --> 00:09:47.580
+mostrarte lo que estoy haciendo.
+
+00:09:52.770 --> 00:09:59.170
+Así que nuestra nueva elipse se va a ver algo así.
+
+00:09:59.170 --> 00:10:03.050
+Estoy desplazando la elipse amarilla hacia abajo por dos.
+
+00:10:03.050 --> 00:10:08.310
+Por lo tanto esta ecuación, si la desplazo hacia abajo, bien, la x esta aun
+Esta ecuación, si desplazar hacia abajo, bueno, x eso todavía
+
+00:10:08.310 --> 00:10:16.160
+donde estaba antes. x menos 5 al cuadrado sobre 9 más y más 2
+
+00:10:16.160 --> 00:10:20.050
+al cuadrado sobre 25 es igual a 1.
+
+00:10:20.050 --> 00:10:23.840
+Y una vez más, la razón por lo que sé que esto es porque ahora cuando
+
+00:10:23.840 --> 00:10:29.180
+y es menos 2, todo este término es 0.
+
+00:10:29.180 --> 00:10:31.040
+0 cuando y es igual a menos 2.
+
+00:10:31.040 --> 00:10:34.370
+Y cuando este término es 0, se comporta de la misma manera como
+
+00:10:34.370 --> 00:10:36.200
+cuando este término fue 0.
+
+00:10:36.200 --> 00:10:39.400
+Por eso, cuando y es igual a menos 2, se obtiene el mismo comportamiento,
+
+00:10:39.400 --> 00:10:45.560
+te encuentras en el mismo punto sobre la curva, aquí realmente, como
+
+00:10:45.560 --> 00:10:48.770
+cuando y era igual a 0 en éste.
+
+00:10:48.770 --> 00:10:50.050
+Así que no es el mismo punto.
+
+00:10:50.050 --> 00:10:52.880
+Se pude ver mas o menos como la misma parte de la elipse.
+
+00:10:52.880 --> 00:10:57.960
+Tu te encuentras en el punto maximo de anchura de la elipse, aquí
+
+00:10:57.960 --> 00:11:01.650
+y aquí cuando y es igual a 2, y tu estuviste aquí en y igual a
+
+00:11:01.650 --> 00:11:04.530
+0--perdón, cuando y es igual a menos 2.
+
+00:11:04.530 --> 00:11:05.540
+Esto es menos 2.
+
+00:11:05.540 --> 00:11:07.390
+Y esto es porque cuando pones y igual a menos 2 aquí
+
+00:11:07.390 --> 00:11:08.980
+todo este término es 0.
+
+00:11:08.980 --> 00:11:10.490
+Al igual que cuando y fue 0 acá,
+
+00:11:10.490 --> 00:11:13.130
+No quiero hacerlo demasiado confuso.
+
+00:11:13.130 --> 00:11:16.350
+Pero solo como para redondear todo, a veces tu podras ver
+
+00:11:16.350 --> 00:11:24.490
+algo así como el gráfico siguiente: y menos 1 al cuadrado
+
+00:11:24.490 --> 00:11:33.430
+sobre 4 mas x mas 2 al cuadrado sobre 9 igual a 1.
+
+00:11:33.430 --> 00:11:35.760
+Por lo que lo primero que podrias decir es O.K esto es sólo
+
+00:11:35.760 --> 00:11:42.410
+como la elipse estándar y al cuadrado sobre 4 mas x al cuadrado
+
+00:11:42.410 --> 00:11:44.040
+sobre 9, igual a uno.
+
+00:11:44.040 --> 00:11:47.040
+Es igual a ésta, pero esta corrida.
+
+00:11:47.040 --> 00:11:55.170
+¿El origen de esta es 0,0, mientras que el origen de esta sería cual?
+
+00:11:55.170 --> 00:12:01.170
+Sería el punto x menos 2 y el punto y 1.
+
+00:12:01.170 --> 00:12:06.110
+Así que si fueras a gráficar esto, el radio en
+
+00:12:06.110 --> 00:12:08.680
+la dirección y es 2.
+
+00:12:08.680 --> 00:12:10.000
+2 al cuadrado es igual a 4.
+
+00:12:10.000 --> 00:12:12.590
+El radio en la dirección x es 3.
+
+00:12:12.590 --> 00:12:15.900
+3 al cuadrado es igual a 9.
+
+00:12:15.900 --> 00:12:18.870
+Así que el radio x es más grande que el radio y.
+
+00:12:18.870 --> 00:12:22.860
+Por lo que, va a ser una elipse un poco gorda.
+
+00:12:22.860 --> 00:12:24.265
+En realidad, permíteme dibujar primero los ejes.
+
+00:12:28.360 --> 00:12:30.290
+Permíteme dibujarla de esta manera.
+
+00:12:30.290 --> 00:12:38.120
+Eso es mi eje vertical, este es mi eje x.
+
+00:12:38.120 --> 00:12:41.450
+Y así, mi centro se encuentra ahora en menos 2, 1.
+
+00:12:44.920 --> 00:12:49.040
+Eso es menos 2, y subo uno.
+
+00:12:49.040 --> 00:12:50.830
+Este es el centro de mi elipse.
+
+00:12:50.830 --> 00:12:54.560
+Y ahora, en la dirección x, éste es el término x,
+
+00:12:54.560 --> 00:12:57.850
+mi radio x es 3.
+
+00:12:57.850 --> 00:13:03.780
+Por lo que la elipse se extendera tres--en esa dirección.
+
+00:13:03.780 --> 00:13:07.210
+Este es su punto más ancho, será 3 en esa dirección.
+
+00:13:07.210 --> 00:13:10.700
+Y, a continuación, en la dirección y se extendera 2, por lo que subira
+
+00:13:10.700 --> 00:13:15.030
+1, 2 de modo que este ahí y luego 1, 2 y esta alli.
+
+00:13:15.030 --> 00:13:17.140
+Así que si tuviera que dibujar la elipse se vería algo
+
+00:13:17.140 --> 00:13:18.770
+como esto, siendo este mi mejor intento.
+
+00:13:23.930 --> 00:13:27.170
+Un poco más gorda que alta, y eso es porque
+
+00:13:27.170 --> 00:13:30.590
+su radio x es mayor que su radio y.
+
+00:13:30.590 --> 00:13:35.440
+La distancia aquí es 3, la distancia aquí es 3,
+
+00:13:35.440 --> 00:13:41.530
+la distancia aquí es 2, la distancia aquí es 2.
+
+00:13:41.530 --> 00:13:42.950
+Tu puedrias averiguar lo que estos puntos son.
+
+00:13:42.950 --> 00:13:45.590
+No voy a hacer todos ellos en este momento sólo por el bien del tiempo.
+
+00:13:45.590 --> 00:13:49.410
+Pero este acá, es el punto menos 2, 1.
+
+00:13:49.410 --> 00:13:52.810
+Así que si te mueves tres más de ahí--por lo que si se agrega 3 a
+
+00:13:52.810 --> 00:13:57.730
+la dirección de x, este es el punto 1 coma 1.
+
+00:13:57.730 --> 00:13:59.445
+Si quitaras tres de la dirección x, esto
+
+00:13:59.445 --> 00:14:00.740
+sería menos 5 coma 1.
+
+00:14:00.740 --> 00:14:02.260
+Y tu podrias averiguar los otros puntos.
+
+00:14:02.260 --> 00:14:03.900
+Eso podría ser un buen ejercicio para ti.
+
+00:14:03.900 --> 00:14:05.910
+De todos modos esto es un poco sobre elipses.
+
+00:14:05.910 --> 00:14:07.970
+En los videos que vamos a hacer en el futuro haremos problemas complicados en donde tu
+
+00:14:07.970 --> 00:14:11.480
+tendras que simplificarlos a esta forma para que pódamos saber que
+
+00:14:11.480 --> 00:14:12.550
+definitivamente es una elipse.

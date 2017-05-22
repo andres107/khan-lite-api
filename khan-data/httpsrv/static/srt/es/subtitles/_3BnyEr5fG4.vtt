@@ -1,0 +1,528 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.570 --> 00:00:05.130
+Nuestra pregunta, qué ecuación describe el crecimiento
+
+00:00:05.130 --> 00:00:08.550
+¿patrón de esta secuencia de un bloque?
+
+00:00:08.550 --> 00:00:12.460
+Así que queremos averiguar, si sé que x es igual a 10,
+
+00:00:12.460 --> 00:00:14.860
+¿Cuántos bloques me voy a tener?
+
+00:00:14.860 --> 00:00:17.240
+Tan sólo veamos este patrón aquí.
+
+00:00:17.240 --> 00:00:20.440
+Así que nuestro primer plazo en nuestra secuencia, o nuestro primer objeto,
+
+00:00:20.440 --> 00:00:23.360
+o nuestro primer patrón de bloques aquí, que apenas tiene 1
+
+00:00:23.360 --> 00:00:24.350
+bloque de derecha.
+
+00:00:24.350 --> 00:00:28.470
+Así que permítanme escribir, el término--escribirlo aquí--por lo que tengo
+
+00:00:28.470 --> 00:00:35.350
+el término y, a continuación, vas a tener el número de bloques.
+
+00:00:41.830 --> 00:00:45.520
+Así que en nuestro primer mandato, tuvimos una cuadra.
+
+00:00:45.520 --> 00:00:47.780
+Y, a continuación, nuestro segundo término--sólo a escribir esto
+
+00:00:47.780 --> 00:00:50.150
+sólo así tenemos--¿qué pasó aquí?
+
+00:00:50.150 --> 00:00:52.940
+Por lo que se ve al igual que nuestro primer mandato, pero agregamos un
+
+00:00:52.940 --> 00:00:54.545
+columna aquí de cuatro bloques.
+
+00:00:54.545 --> 00:00:57.140
+Así es como 1 plus 4 allí.
+
+00:00:57.140 --> 00:00:59.500
+Así que vamos a tener cinco cuadras de allí.
+
+00:00:59.500 --> 00:01:01.330
+Hemos añadido 4 a ella.
+
+00:01:01.330 --> 00:01:03.850
+A continuación, en nuestro tercer término ¿qué sucedió?
+
+00:01:03.850 --> 00:01:05.269
+¿Lo que sucedió en nuestro tercer término?
+
+00:01:05.269 --> 00:01:07.650
+Bien parece justo al igual que el segundo término, pero hemos añadido
+
+00:01:07.650 --> 00:01:09.980
+otra columna de cuatro bloques aquí.
+
+00:01:09.980 --> 00:01:10.170
+¿Verdad?
+
+00:01:10.170 --> 00:01:11.450
+Hemos añadido esta columna derecha.
+
+00:01:11.450 --> 00:01:13.540
+Si te imaginas que se agregaron a la izquierda de
+
+00:01:13.540 --> 00:01:14.660
+el patrón.
+
+00:01:14.660 --> 00:01:16.030
+Así hemos añadido cuatro cuadras más.
+
+00:01:16.030 --> 00:01:17.930
+Ahora tenemos nueve cuadras.
+
+00:01:17.930 --> 00:01:20.020
+Tenemos nueve bloques, por lo que parece que cada vez estamos
+
+00:01:20.020 --> 00:01:20.810
+la adición de cuatro bloques.
+
+00:01:20.810 --> 00:01:22.900
+Y en cuarto término, lo mismo.
+
+00:01:22.900 --> 00:01:25.520
+El tercer término es sólo esto aquí.
+
+00:01:25.520 --> 00:01:28.250
+Este derecho aquí es lo que gusta el tercer término buscado, y
+
+00:01:28.250 --> 00:01:30.650
+Luego añadimos otra columna de cuatro bloques aquí.
+
+00:01:30.650 --> 00:01:33.570
+Así que hemos añadido cuatro más, así que vamos a tener 13 bloques.
+
+00:01:33.570 --> 00:01:36.800
+Por lo tanto nuestro cuarto término es 13.
+
+00:01:36.800 --> 00:01:38.870
+Así que vamos a ver si podemos dar con una fórmula, ya sea buscando
+
+00:01:38.870 --> 00:01:42.020
+en los gráficos, o tal vez mirando los números
+
+00:01:42.020 --> 00:01:43.530
+ellos mismos.
+
+00:01:43.530 --> 00:01:47.675
+Así que una forma para pensar, para empezar con--cuando así
+
+00:01:47.675 --> 00:01:52.470
+x es igual a 1, vamos a decir que x es igual a la expresión,
+
+00:01:52.470 --> 00:01:54.510
+añadimos este 1 allí.
+
+00:01:54.510 --> 00:01:59.440
+A continuación, cuando x es igual a 2, hemos añadido una columna de cuatro.
+
+00:01:59.440 --> 00:02:03.860
+Así que esto es cuando x es igual a 2, tenemos una columna de cuatro.
+
+00:02:03.860 --> 00:02:06.690
+A continuación, cuando x es igual a 3, tenemos dos
+
+00:02:06.690 --> 00:02:09.520
+columnas de 4, justo ahí.
+
+00:02:09.520 --> 00:02:13.390
+Y se podría decir incluso cuando x es igual a 1, tenía cero
+
+00:02:13.390 --> 00:02:14.270
+¿columnas, correctas?
+
+00:02:14.270 --> 00:02:17.300
+Hemos tenido nada, no, no hay columnas extra de cuatro bloques.
+
+00:02:17.300 --> 00:02:18.510
+No tenemos ninguno.
+
+00:02:18.510 --> 00:02:22.670
+Y, a continuación, cuando x es igual a 4, tuvimos tres columnas.
+
+00:02:22.670 --> 00:02:26.410
+Tuvimos tres columnas, donde x es igual a 4.
+
+00:02:26.410 --> 00:02:27.750
+¿Cuál es el patrón aquí?
+
+00:02:27.750 --> 00:02:30.530
+O ¿cómo podemos expresar el número de bloques que vamos
+
+00:02:30.530 --> 00:02:34.920
+¿, dado el plazo que tenemos?
+
+00:02:34.920 --> 00:02:36.800
+Bueno, parece que siempre vamos a tener uno
+
+00:02:36.800 --> 00:02:39.010
+bloquear, así que permítanme escribe de esta manera.
+
+00:02:39.010 --> 00:02:41.550
+Si escribo el número de bloques--permítanme escribir esto
+
+00:02:41.550 --> 00:02:49.650
+modo--parece que siempre vamos
+
+00:02:49.650 --> 00:02:51.050
+¿tener uno, correcto?
+
+00:02:51.050 --> 00:02:54.500
+Tenemos este uno derecho aquí, un derecho, que uno
+
+00:02:54.500 --> 00:02:56.030
+a la derecha, que uno allí.
+
+00:02:56.030 --> 00:03:00.420
+Parece siempre tiene uno más un cierto número de
+
+00:03:00.420 --> 00:03:02.710
+columnas de cuatro, pero ¿cuántas columnas tenemos?
+
+00:03:02.710 --> 00:03:06.120
+Cuando x es igual a 1, tenemos no hay columnas de cuatro bloques.
+
+00:03:06.120 --> 00:03:08.740
+Cuando x es igual a 2, tenemos una columna.
+
+00:03:08.740 --> 00:03:11.330
+Cuando x es igual a 3, tenemos dos columnas.
+
+00:03:11.330 --> 00:03:13.770
+Así que cuando x es igual a nada, parece que nos
+
+00:03:13.770 --> 00:03:16.300
+tener un menor número de columnas.
+
+00:03:16.300 --> 00:03:22.740
+¿Así va a ser x menos 1, derecha?
+
+00:03:22.740 --> 00:03:25.360
+Cuando x 2, x menos 1 es 1.
+
+00:03:25.360 --> 00:03:30.220
+Cuando x 3, x menos 1, por lo que este derecho aquí es x menos 1.
+
+00:03:30.220 --> 00:03:31.950
+x 2, esto es x menos 1.
+
+00:03:31.950 --> 00:03:33.670
+Esto es x menos 1.
+
+00:03:33.670 --> 00:03:36.650
+Esto es x menos 1 y x menos 1 nos dirá el número de
+
+00:03:36.650 --> 00:03:37.990
+¿columnas que tenemos derecho?
+
+00:03:37.990 --> 00:03:40.180
+Aquí tenemos uno, dos, tres columnas.
+
+00:03:40.180 --> 00:03:42.150
+Aquí tenemos uno, dos columnas.
+
+00:03:42.150 --> 00:03:43.330
+Aquí tenemos sólo una columna.
+
+00:03:43.330 --> 00:03:44.780
+Aquí tenemos cero columnas.
+
+00:03:44.780 --> 00:03:47.010
+Así funciona incluso para el primer término.
+
+00:03:47.010 --> 00:03:50.670
+Y en cada una de estas columnas, por lo que este derecha aquí, x
+
+00:03:50.670 --> 00:03:57.600
+menos 1 es el número de columnas y, a continuación, en cada uno
+
+00:03:57.600 --> 00:03:59.430
+columna tenemos cuatro bloques.
+
+00:03:59.430 --> 00:04:03.530
+¿Por eso, el número de columnas veces 4, derecha?
+
+00:04:03.530 --> 00:04:05.340
+Para cada una de estas columnas, tenemos una columna.
+
+00:04:05.340 --> 00:04:07.710
+Contamos con uno, dos, tres, cuatro bloques.
+
+00:04:07.710 --> 00:04:11.590
+Esto es la ecuación que describe el patrón de crecimiento.
+
+00:04:11.590 --> 00:04:14.400
+Así que permítanme escribir esto, permítaseme simplificar esto un poco.
+
+00:04:14.400 --> 00:04:18.390
+Si multiplica x 4 veces menos 1, obtener el número de
+
+00:04:18.390 --> 00:04:21.940
+bloques de ser igual a 1 y 4 veces x.
+
+00:04:21.940 --> 00:04:22.960
+Tengo que distribuirlo.
+
+00:04:22.960 --> 00:04:28.050
+4 veces x es 4 x y, a continuación, 4 veces negativos
+
+00:04:28.050 --> 00:04:31.680
+1 es negativo 4.
+
+00:04:31.680 --> 00:04:34.980
+Lo es igual al número de bloques.
+
+00:04:38.230 --> 00:04:39.600
+Y podríamos simplificar esto.
+
+00:04:39.600 --> 00:04:42.690
+Tenemos un 1 y tenemos un signo 4 o supongo que estamos
+
+00:04:42.690 --> 00:04:47.420
+restando 4 de él, así que esto va a ser igual a 4 x
+
+00:04:47.420 --> 00:04:51.250
+menos 3 es el número de bloques dado nuestro mandato de x.
+
+00:04:51.250 --> 00:04:56.190
+Por lo que si estamos en plazo 50, va a ser 50 4 veces, que
+
+00:04:56.190 --> 00:05:00.120
+200 menos 3, que es 197 bloques.
+
+00:05:00.120 --> 00:05:01.890
+Ahora otra forma podría haberlo hecho es que sólo podría tener
+
+00:05:01.890 --> 00:05:05.100
+dijo, mira, cada vez estamos agregando 4, esto es lineal
+
+00:05:05.100 --> 00:05:10.050
+relación y esencialmente podría encontrar la pendiente de
+
+00:05:10.050 --> 00:05:13.370
+la línea que conecta, pero asumir que nuestra línea es
+
+00:05:13.370 --> 00:05:15.560
+sólo se definen en números enteros.
+
+00:05:15.560 --> 00:05:17.520
+Y que podría ser un poco más complicado, pero la forma
+
+00:05:17.520 --> 00:05:23.330
+que piensa es, cada uno, cada vez que agregamos
+
+00:05:23.330 --> 00:05:27.930
+un bloque, hemos añadido--o cada vez que agregamos un término hemos añadido
+
+00:05:27.930 --> 00:05:28.660
+cuatro bloques.
+
+00:05:28.660 --> 00:05:30.180
+Así podríamos escribirlo de esta manera.
+
+00:05:30.180 --> 00:05:33.490
+Sólo podríamos escribir cambio--por eso, este el triángulo derecho
+
+00:05:33.490 --> 00:05:34.520
+aquí significa cambia.
+
+00:05:34.520 --> 00:05:48.240
+Delta significa cambia en bloques divididos por cambio en x.
+
+00:05:48.240 --> 00:05:49.490
+Ahora podría reconocer esto.
+
+00:05:49.490 --> 00:05:51.290
+Se trata de pendiente.
+
+00:05:51.290 --> 00:05:54.160
+Y si usted no se preocupe si pendiente es completamente extranjero
+
+00:05:54.160 --> 00:05:56.100
+concepto a usted, puede hacerlo la manera que lo hicimos el
+
+00:05:56.100 --> 00:05:57.190
+primera parte de este video.
+
+00:05:57.190 --> 00:05:59.180
+Y es un legítimo completamente cierto y ojalá
+
+00:05:59.180 --> 00:06:01.550
+hará que algunas conexiones entre lo que cuesta.
+
+00:06:01.550 --> 00:06:05.670
+¿Cuál es el cambio en bloques de un cambio en x.
+
+00:06:05.670 --> 00:06:11.050
+Así que cuando nos fuimos de x va de 1 a 2--tan nuestro cambio
+
+00:06:11.050 --> 00:06:15.350
+x aquí sería 2 menos 1, hemos aumentado por 1--lo que fue nuestro
+
+00:06:15.350 --> 00:06:16.700
+¿cambio en bloques?
+
+00:06:16.700 --> 00:06:19.580
+Sería 4 o 5 menos 1.
+
+00:06:19.580 --> 00:06:21.740
+Es 5 menos 1.
+
+00:06:21.740 --> 00:06:22.560
+¿Y lo que es este igual a?
+
+00:06:22.560 --> 00:06:28.330
+Esto es igual a 4 más 1, que es igual a 4.
+
+00:06:28.330 --> 00:06:29.710
+Me permito desplazarse sobre un poco.
+
+00:06:29.710 --> 00:06:34.380
+Así que nuestro cambio en bloques, o en x es 4, o nuestro pendiente
+
+00:06:34.380 --> 00:06:35.890
+es igual a 4.
+
+00:06:35.890 --> 00:06:39.920
+Así que si quieres hacer este tipo de la configuración de la ecuación
+
+00:06:39.920 --> 00:06:42.900
+un modo en línea, usted diría que nuestra ecuación--si bien
+
+00:06:42.900 --> 00:06:43.460
+Permítaseme escribirlo.
+
+00:06:43.460 --> 00:06:54.130
+Número de bloques van a ser igual a 4 veces el término
+
+00:06:54.130 --> 00:06:56.970
+que estamos tratando con el término en nuestro
+
+00:06:56.970 --> 00:07:00.490
+patrón, además de una constante.
+
+00:07:00.490 --> 00:07:02.260
+Aquí se trata de la ecuación de una línea.
+
+00:07:02.260 --> 00:07:05.135
+Si es completamente ajena a usted, simplemente lo hacen el camino lo hicimos
+
+00:07:05.135 --> 00:07:07.330
+lo anterior en el video.
+
+00:07:07.330 --> 00:07:10.370
+Y, por tanto, ¿cómo solucionamos este constante?
+
+00:07:10.370 --> 00:07:12.320
+Bueno, vamos a usar uno de los términos de aquí.
+
+00:07:12.320 --> 00:07:14.960
+Sabemos que cuando teníamos uno--en nuestro primer mandato nos
+
+00:07:14.960 --> 00:07:16.700
+sólo había una cuadra.
+
+00:07:16.700 --> 00:07:17.750
+Así que vamos a poner aquí.
+
+00:07:17.750 --> 00:07:22.760
+Así que en nuestro primer término--vamos a tener ese derecho b
+
+00:07:22.760 --> 00:07:25.390
+allí--sólo teníamos una cuadra.
+
+00:07:25.390 --> 00:07:28.830
+Por eso tenemos 1 es igual a 4 más b.
+
+00:07:28.830 --> 00:07:33.260
+Si resta 4 a ambos lados de esta ecuación, lo
+
+00:07:33.260 --> 00:07:36.240
+restar 4 de ambos lados, ¿qué consigue?
+
+00:07:36.240 --> 00:07:40.360
+En el lado izquierdo, 1 menos 4 es 3 negativos y
+
+00:07:40.360 --> 00:07:43.260
+igual a--cancelar de estos 4--y y
+
+00:07:43.260 --> 00:07:45.030
+es igual a b.
+
+00:07:45.030 --> 00:07:46.970
+Así que otra forma de obtener la ecuación de la línea, tenemos
+
+00:07:46.970 --> 00:07:49.910
+sólo resuelto que b es igual al negativo de 3.
+
+00:07:49.910 --> 00:07:53.960
+Dijimos cuánto el número de bloques de cambio para un determinado
+
+00:07:53.960 --> 00:07:56.660
+cambio en x, que es un cambio en los bloques números para un
+
+00:07:56.660 --> 00:07:58.680
+el cambio en x, vimos siempre es 4.
+
+00:07:58.680 --> 00:08:00.230
+4 por cambio en x.
+
+00:08:00.230 --> 00:08:03.510
+Cuando x cambios por 1, cambiamos por 4.
+
+00:08:03.510 --> 00:08:05.630
+Nos dio nuestra pendiente.
+
+00:08:05.630 --> 00:08:08.535
+Y luego resolver--si ver esto como una línea, aunque
+
+00:08:08.535 --> 00:08:12.120
+Esto sólo está definida en números enteros,
+
+00:08:12.120 --> 00:08:14.550
+adivinar números enteros positivos.
+
+00:08:14.550 --> 00:08:17.230
+En esta situación, podría ver esto como una intercepción.
+
+00:08:17.230 --> 00:08:20.520
+Para resolver esta constante, sólo utilizamos uno de nuestros términos. Le
+
+00:08:20.520 --> 00:08:21.320
+podría haber usado alguna de ellas.
+
+00:08:21.320 --> 00:08:22.540
+Utilizamos 1 y 1.
+
+00:08:22.540 --> 00:08:23.680
+Podría utilizar 3 y 9.
+
+00:08:23.680 --> 00:08:24.390
+Puede utilizar cualquier cosa.
+
+00:08:24.390 --> 00:08:27.980
+Resolvimos b es igual a la negativa de 3 y por lo tanto si pones
+
+00:08:27.980 --> 00:08:31.990
+b volver aquí, obtendrá cuatro x menos 3, que es lo que tenemos
+
+00:08:31.990 --> 00:08:33.789
+anteriormente en el video, allí.
+
+00:08:33.789 --> 00:08:35.799
+Esperemos que has encontrado esa diversión.

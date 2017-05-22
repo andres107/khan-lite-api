@@ -1,0 +1,552 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.660 --> 00:00:01.510
+Bienvenido.
+
+00:00:01.510 --> 00:00:04.280
+Estábamos en el medio de averiguar la Laplace
+
+00:00:04.280 --> 00:00:09.210
+transformar de seno de en cuando estaba quedando sin tiempo.
+
+00:00:09.210 --> 00:00:11.980
+Esta fue la definición de la Laplace
+
+00:00:11.980 --> 00:00:13.470
+transformación de seno de a.
+
+00:00:13.470 --> 00:00:15.380
+He dicho que es igual a y.
+
+00:00:15.380 --> 00:00:17.750
+Esto va a ser útil para nosotros, ya que vamos a ser
+
+00:00:17.750 --> 00:00:20.120
+haciendo la integración por partes dos veces.
+
+00:00:20.120 --> 00:00:23.130
+Así lo hice una vez la integración por partes y, a continuación, hice integración
+
+00:00:23.130 --> 00:00:24.160
+por partes dos veces.
+
+00:00:24.160 --> 00:00:25.900
+Lo dicho, sabes, no te preocupes por los límites de la
+
+00:00:25.900 --> 00:00:26.700
+integral ahora mismo.
+
+00:00:26.700 --> 00:00:28.390
+Vamos a sólo preocuparse por la integral indefinida.
+
+00:00:28.390 --> 00:00:31.820
+Y luego después resolvemos y--digamos y es el
+
+00:00:31.820 --> 00:00:34.270
+versión indefinida de esto--entonces podemos evaluar la
+
+00:00:34.270 --> 00:00:35.830
+límites.
+
+00:00:35.830 --> 00:00:38.540
+Y llegamos a este punto, y después hicimos la realización,
+
+00:00:38.540 --> 00:00:41.480
+haciendo dos integración por partes y teniendo mucho cuidado de no
+
+00:00:41.480 --> 00:00:44.560
+Esperemos que cometer errores por descuido, nos dimos cuenta, wow,
+
+00:00:44.560 --> 00:00:47.240
+Este es nuestro y original.
+
+00:00:47.240 --> 00:00:49.410
+Si pongo los límites aquí, eso es lo mismo que la
+
+00:00:49.410 --> 00:00:51.100
+¿Transformada de Laplace de seno de a la derecha?
+
+00:00:51.100 --> 00:00:52.760
+Es nuestro y original.
+
+00:00:52.760 --> 00:00:56.700
+Así que ahora--y me voy cambiar colores sólo evitar la monotonía--
+
+00:00:56.700 --> 00:01:00.295
+Esto es igual a, en realidad, permítanme sólo--esto es y.
+
+00:01:05.209 --> 00:01:05.560
+¿Verdad?
+
+00:01:05.560 --> 00:01:07.600
+Esa fue nuestra definición original.
+
+00:01:07.600 --> 00:01:12.420
+Así que vamos a agregar un cuadrado sobre senoidal y cuadrada a
+
+00:01:12.420 --> 00:01:13.900
+ambos lados de esta.
+
+00:01:13.900 --> 00:01:19.400
+Así que esto es igual a y plus--sólo estoy añadiendo este conjunto
+
+00:01:19.400 --> 00:01:24.130
+plazo a ambos lados de esta ecuación--además de un cuadrado sobre
+
+00:01:24.130 --> 00:01:31.470
+s y cuadrado es igual a--por lo que este término es ahora desaparecido, por lo que es
+
+00:01:31.470 --> 00:01:32.475
+igual a estas cosas.
+
+00:01:32.475 --> 00:01:34.260
+Y vamos a ver si podemos simplificar esto.
+
+00:01:34.260 --> 00:01:38.845
+Así que vamos a factor fuera una e a la menos St. en realidad, vamos a
+
+00:01:38.845 --> 00:01:45.360
+factor fuera un negativo e a la menos st. Por eso es menos e
+
+00:01:45.360 --> 00:01:58.320
+el signo menos st, veces sinusoidal de--bien, permítanme escribir 1 sobre
+
+00:01:58.320 --> 00:02:10.900
+s, seno de al menos 1 sobre s cuadrado, coseno de a.
+
+00:02:10.900 --> 00:02:13.650
+Espero realmente que no he hecho los errores por descuido.
+
+00:02:13.650 --> 00:02:16.010
+Y por eso, este, podemos añadir el coeficiente.
+
+00:02:16.010 --> 00:02:22.030
+Así obtenemos 1 plus un cuadrado, sobre s al cuadrado, tiempos y.
+
+00:02:22.030 --> 00:02:25.440
+Pero que es lo mismo que s cuadrado sobre s al cuadrado, más una
+
+00:02:25.440 --> 00:02:27.100
+cuadrado sobre s al cuadrado.
+
+00:02:27.100 --> 00:02:31.920
+Por lo que es la s squared plus un cuadrado, sobre s al cuadrado, y es
+
+00:02:31.920 --> 00:02:40.320
+igual a menos e a la menos st, tiempos todo esto,
+
+00:02:40.320 --> 00:02:47.510
+seno de al menos 1 sobre s al cuadrado, coseno de a.
+
+00:02:47.510 --> 00:02:50.410
+Y ahora, esta aquí, ya que estamos haciendo todo lo
+
+00:02:50.410 --> 00:02:53.050
+¿con respecto al dt, esto es sólo una constante, correcto?
+
+00:02:53.050 --> 00:02:54.740
+Por lo que podemos decir una constante veces la
+
+00:02:54.740 --> 00:02:56.290
+primitiva es igual a esto.
+
+00:02:56.290 --> 00:03:00.360
+Esto es como un tiempo como cualquiera para evaluar los límites.
+
+00:03:00.360 --> 00:03:00.580
+¿Verdad?
+
+00:03:00.580 --> 00:03:03.440
+Si esto tuviera un t aquí, tengo que recuperarlos de alguna manera
+
+00:03:03.440 --> 00:03:04.820
+en el otro lado.
+
+00:03:04.820 --> 00:03:07.230
+Porque la an está involucrados en la evaluación de los límites,
+
+00:03:07.230 --> 00:03:10.040
+ya estamos haciendo nuestra integral definida o integral impropia.
+
+00:03:10.040 --> 00:03:13.230
+Así que vamos a evaluar los límites ahora.
+
+00:03:13.230 --> 00:03:14.620
+Y nos podríamos haber mantenido junto con nosotros
+
+00:03:14.620 --> 00:03:15.810
+¿todo el tiempo, correcto?
+
+00:03:15.810 --> 00:03:19.510
+Y sólo factorizado a este término aquí.
+
+00:03:19.510 --> 00:03:19.920
+Pero de todas formas.
+
+00:03:19.920 --> 00:03:23.090
+Así que vamos a evaluar esto desde 0 hasta el infinito.
+
+00:03:23.090 --> 00:03:25.050
+Y esto debería simplificar las cosas.
+
+00:03:25.050 --> 00:03:28.820
+Por lo tanto el lado derecho de esta ecuación, al evaluarlo
+
+00:03:28.820 --> 00:03:33.290
+en el infinito, ¿qué es e hasta el infinito negativo?
+
+00:03:33.290 --> 00:03:36.250
+Bueno, eso es 0.
+
+00:03:36.250 --> 00:03:37.850
+Hemos establecido que varias veces.
+
+00:03:37.850 --> 00:03:40.350
+Y ahora se aproxima a 0 por el lado negativo, pero
+
+00:03:40.350 --> 00:03:44.020
+todavía va a ser 0, o se aproxima a 0.
+
+00:03:44.020 --> 00:03:45.010
+¿Qué es el seno del infinito?
+
+00:03:45.010 --> 00:03:48.130
+Bien, sine sólo mantiene oscilando, entre negativo
+
+00:03:48.130 --> 00:03:49.840
+1 y 1, y así hace coseno.
+
+00:03:49.840 --> 00:03:50.470
+¿Verdad?
+
+00:03:50.470 --> 00:03:51.970
+Así que esto es limitado.
+
+00:03:51.970 --> 00:03:55.180
+Así que esta cosa va a dominar estos.
+
+00:03:55.180 --> 00:03:57.030
+Y si tienes curiosidad, puede graficarlo.
+
+00:03:57.030 --> 00:04:00.220
+Este tipo de forma una envoltura alrededor de estas oscilaciones.
+
+00:04:00.220 --> 00:04:03.110
+Por lo que está pasando el límite, esto acerca a infinito,
+
+00:04:03.110 --> 00:04:04.360
+a ser igual a 0.
+
+00:04:07.780 --> 00:04:08.450
+¿Y eso tiene mucho sentido, derecha?
+
+00:04:08.450 --> 00:04:10.270
+Estos están acotados entre 0 y negativo 1.
+
+00:04:10.270 --> 00:04:13.750
+Y esto acerca muy rápidamente a 0.
+
+00:04:13.750 --> 00:04:16.420
+Por lo tanto es 0 veces algo acotado entre 1
+
+00:04:16.420 --> 00:04:17.540
+y 1 negativo.
+
+00:04:17.540 --> 00:04:21.360
+Otra forma de verlo es el valor más grande que esto podría igualar
+
+00:04:21.360 --> 00:04:24.390
+1 veces cualquier coeficiente de sobre él y entonces
+
+00:04:24.390 --> 00:04:25.080
+Esto va a 0.
+
+00:04:25.080 --> 00:04:26.310
+Así es como 1 0 veces.
+
+00:04:26.310 --> 00:04:28.610
+De todas formas, no desea centrarse demasiado en eso.
+
+00:04:28.610 --> 00:04:30.830
+Puedes jugar con si lo desea.
+
+00:04:30.830 --> 00:04:34.880
+Menos todo esto evaluado en 0.
+
+00:04:34.880 --> 00:04:36.840
+¿Qué es e 0 negativo?
+
+00:04:36.840 --> 00:04:40.840
+Bueno, e menos 0 es 1.
+
+00:04:40.840 --> 00:04:41.310
+¿Verdad?
+
+00:04:41.310 --> 00:04:42.780
+Es e 0.
+
+00:04:42.780 --> 00:04:48.160
+Ahora, tenemos un 1 negativo, por lo que se convierte en más veces 1--
+
+00:04:48.160 --> 00:04:51.370
+seno de 0 es 0.
+
+00:04:51.370 --> 00:04:56.190
+Menos 1 sobre s cuadrado, coseno de 0.
+
+00:05:00.390 --> 00:05:01.580
+Vamos a ver.
+
+00:05:01.580 --> 00:05:11.190
+Coseno de 0 es 1, por lo que tenemos menos 1 s al cuadrado, menos
+
+00:05:11.190 --> 00:05:14.230
+1 sobre s al cuadrado, tiempos 1.
+
+00:05:14.230 --> 00:05:23.720
+Lo es igual a menos 1 sobre s al cuadrado.
+
+00:05:23.720 --> 00:05:27.100
+Y creo que cometí un error, porque yo no debo tener
+
+00:05:27.100 --> 00:05:28.270
+aquí un número negativo.
+
+00:05:28.270 --> 00:05:32.260
+Así que vamos a retroceder.
+
+00:05:32.260 --> 00:05:33.910
+¿Tal vez esto no es un número negativo?
+
+00:05:33.910 --> 00:05:36.310
+¿Vamos a ver, infinito, correcto?
+
+00:05:36.310 --> 00:05:39.660
+Todo esto es 0.
+
+00:05:39.660 --> 00:05:44.800
+Cuando cuando pones 0 aquí, esto se convierte en un signo menos 1.
+
+00:05:44.800 --> 00:05:47.460
+sí.
+
+00:05:47.460 --> 00:05:49.750
+Así que esto es un plus o esto es un plus.
+
+00:05:49.750 --> 00:05:52.480
+Vamos a ver donde hice mi error.
+
+00:05:52.480 --> 00:05:58.130
+e a la st negativo--Ah, ya veo dónde está mi error.
+
+00:05:58.130 --> 00:05:59.650
+Hasta aquí.
+
+00:05:59.650 --> 00:06:04.650
+¿Donde factorizado fuera un negativo e a la menos st, derecha?
+
+00:06:04.650 --> 00:06:05.270
+Bastante justo.
+
+00:06:05.270 --> 00:06:07.920
+Lo hace este 1 sobre s, seno de a.
+
+00:06:07.920 --> 00:06:10.840
+Pero si factor fuera un negativo e st negativo, se convierte en
+
+00:06:10.840 --> 00:06:13.680
+¿un plus, derecho?
+
+00:06:13.680 --> 00:06:16.005
+Era un signo de menos aquí, pero yo estoy factoring fuera un negativo e
+
+00:06:16.005 --> 00:06:16.980
+el signo menos st.
+
+00:06:16.980 --> 00:06:18.420
+Eso es un plus.
+
+00:06:18.420 --> 00:06:20.160
+Esto es un plus.
+
+00:06:20.160 --> 00:06:22.470
+Chico, me alegra que no era demasiado difícil de encontrar.
+
+00:06:22.470 --> 00:06:24.170
+Entonces esto se convierte en un plus.
+
+00:06:24.170 --> 00:06:25.550
+Y entonces se convierte en un plus.
+
+00:06:25.550 --> 00:06:26.165
+Gracias a Dios.
+
+00:06:26.165 --> 00:06:29.420
+Hubiera sido triste si pierde dos videos y terminó
+
+00:06:29.420 --> 00:06:31.030
+con un número negativo, descuidado.
+
+00:06:31.030 --> 00:06:31.470
+De todos modos.
+
+00:06:31.470 --> 00:06:39.660
+Así que ahora tenemos s squared plus un cuadrado, sobre s al cuadrado,
+
+00:06:39.660 --> 00:06:41.880
+tiempos y es igual a esto.
+
+00:06:41.880 --> 00:06:44.480
+Multiplicar dos veces de lados s squared over--s
+
+00:06:44.480 --> 00:06:45.010
+squared plus un cuadrado.
+
+00:06:45.010 --> 00:06:49.420
+Divide ambos lados por esto, y obtenemos y es igual a 1 sobre s
+
+00:06:49.420 --> 00:06:56.570
+cuadrado--Y realmente, permítanme que esté derecha.
+
+00:06:56.570 --> 00:06:59.870
+Es 1 sobre s al cuadrado.
+
+00:06:59.870 --> 00:07:07.980
+y es igual a 1 sobre s squared times s al cuadrado, más
+
+00:07:07.980 --> 00:07:10.760
+s squared plus un cuadrado.
+
+00:07:10.760 --> 00:07:12.570
+Y, a continuación, estas se cancelan.
+
+00:07:12.570 --> 00:07:14.090
+Y permítanme Asegúrese de que no he hecho
+
+00:07:14.090 --> 00:07:16.202
+otro error por descuido.
+
+00:07:16.202 --> 00:07:16.750
+Porque tengo un
+
+00:07:16.750 --> 00:07:22.970
+sentimiento que tengo. YEP.
+
+00:07:22.970 --> 00:07:23.360
+Allí.
+
+00:07:23.360 --> 00:07:25.150
+Veo el error por descuido.
+
+00:07:25.150 --> 00:07:28.090
+Y fue en este término.
+
+00:07:28.090 --> 00:07:30.010
+Y espero que no te importa mis errores por descuido, pero quiero
+
+00:07:30.010 --> 00:07:33.720
+ver que estoy haciendo estas cosas en tiempo real y
+
+00:07:33.720 --> 00:07:37.470
+Soy humano, en caso de que usted no ha realizado ya.
+
+00:07:37.470 --> 00:07:40.600
+De todos modos, asi que me hice el mismo error por descuido.
+
+00:07:40.600 --> 00:07:45.410
+Así que factor fuera una e a la st negativo aquí, por lo que es más.
+
+00:07:45.410 --> 00:07:47.310
+Pero era una s al cuadrado.
+
+00:07:47.310 --> 00:07:49.290
+Así que esto es una una.
+
+00:07:49.290 --> 00:07:50.720
+Que un un.
+
+00:07:50.720 --> 00:07:53.640
+Así que esto es una una.
+
+00:07:53.640 --> 00:07:56.370
+Así que esto es una una.
+
+00:07:56.370 --> 00:07:58.470
+Así que esto es una una.
+
+00:07:58.470 --> 00:07:58.740
+¿Verdad?
+
+00:07:58.740 --> 00:08:01.640
+Esto fue una una.
+
+00:08:01.640 --> 00:08:03.730
+Y esta es la respuesta correcta.
+
+00:08:03.730 --> 00:08:07.120
+un sobre s squared plus un cuadrado.
+
+00:08:07.120 --> 00:08:09.360
+Así que espero que no de esos errores por descuido
+
+00:08:09.360 --> 00:08:11.910
+te tiran apaga demasiado.
+
+00:08:11.910 --> 00:08:14.490
+Estas cosas pasan cuando haces dos veces la integración por partes
+
+00:08:14.490 --> 00:08:15.840
+con un montón de variables.
+
+00:08:15.840 --> 00:08:19.430
+Pero de todos modos, ahora estamos listos para añadir una entrada significativa
+
+00:08:19.430 --> 00:08:23.600
+en nuestra tabla de transformadas de Laplace. Y es que
+
+00:08:23.600 --> 00:08:26.860
+la transformada de Laplace--tenía un rizo extra, allí.
+
+00:08:26.860 --> 00:08:27.520
+Fue innecesarios.
+
+00:08:27.520 --> 00:08:28.740
+Quiero hacerlo de nuevo.
+
+00:08:28.740 --> 00:08:40.230
+La transformada de Laplace de seno de a es igual a una s
+
+00:08:40.230 --> 00:08:43.159
+cuadrado, además de un cuadrado.
+
+00:08:43.159 --> 00:08:45.210
+Y es una entrada significativa.
+
+00:08:45.210 --> 00:08:48.100
+Y tal vez un buen ejercicio para usted, sólo para ver qué divertido es
+
+00:08:48.100 --> 00:08:51.070
+hacer estas integración por partes problemas dos veces, es
+
+00:08:51.070 --> 00:08:55.390
+averiguar la transformada de Laplace de coseno de a.
+
+00:08:55.390 --> 00:08:56.240
+Y te voy a dar una sugerencia.
+
+00:08:56.240 --> 00:09:00.410
+La s en s cuadrado sobre s squared plus un cuadrado.
+
+00:09:00.410 --> 00:09:02.620
+Y es bueno que exista esa simetría allí.
+
+00:09:02.620 --> 00:09:05.330
+De todas formas, estoy casi en mi límite de tiempo.
+
+00:09:05.330 --> 00:09:08.850
+Y estoy muy cansado de trabajar en este video.
+
+00:09:08.850 --> 00:09:12.360
+Así que te dejaré ahí y nos vemos en la siguiente.

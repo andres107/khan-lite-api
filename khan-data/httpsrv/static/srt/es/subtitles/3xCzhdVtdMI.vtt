@@ -1,0 +1,578 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.309 --> 00:00:02.545
+Hemos hablado mucho sobre la demanda
+
+00:00:02.545 --> 00:00:04.820
+Así que ahora vamos a hablar de la oferta!
+
+00:00:04.820 --> 00:00:06.711
+Y vamos a usar uvas para este ejemplo
+
+00:00:06.711 --> 00:00:09.479
+Supongamos que somos agricultores de alguna variedad de uva
+
+NOTE Paragraph
+
+00:00:09.479 --> 00:00:11.355
+Así que voy a empezar presentándoles
+
+00:00:11.355 --> 00:00:13.723
+(y tal vez lo haré, de color morado en honor de la uva)
+
+00:00:13.723 --> 00:00:19.389
+a la ley de la oferta que, como la ley de la demanda,
+
+00:00:19.389 --> 00:00:21.014
+tiene mucho sentido intuitivo
+
+00:00:21.014 --> 00:00:22.639
+If we hold all else equal
+
+00:00:22.639 --> 00:00:23.790
+y en los próximos vídeos
+
+00:00:23.790 --> 00:00:24.827
+vamos a hablar de lo que sucede
+
+NOTE Paragraph
+
+00:00:24.827 --> 00:00:26.418
+cuando cambiamos algunas de esas cosas
+
+00:00:26.418 --> 00:00:27.655
+que ahora mismo a mantener iguales
+
+00:00:27.655 --> 00:00:29.559
+pero si tienes todo lo demás igual
+
+00:00:29.559 --> 00:00:31.333
+y lo único que estás haciendo
+
+00:00:31.333 --> 00:00:33.347
+es que quiere cambiar precio
+
+00:00:33.347 --> 00:00:35.318
+entonces, dice la ley de la oferta
+
+00:00:35.318 --> 00:00:37.172
+eso si el precio sube
+
+00:00:37.172 --> 00:00:38.475
+Yo sólo diré p precio
+
+00:00:38.475 --> 00:00:41.000
+Si el precio sube entonces la fuente
+
+00:00:41.000 --> 00:00:42.469
+y Déjame ser cuidadoso
+
+00:00:42.469 --> 00:00:48.646
+Sube la cantidad suministrada
+
+00:00:48.646 --> 00:00:50.225
+Y luego te imaginas
+
+00:00:50.225 --> 00:00:52.080
+Si el precio desciende
+
+00:00:52.080 --> 00:00:56.819
+desciende la cantidad suministrada
+
+00:00:56.819 --> 00:00:58.630
+Y usted podría notar ya
+
+00:00:58.630 --> 00:01:02.816
+que tuve cuidado de decir la cantidad suministrada
+
+00:01:02.816 --> 00:01:05.377
+Y al igual que vimos con demanda
+
+00:01:05.377 --> 00:01:08.151
+Cuando hablamos de demanda va hacia arriba o hacia abajo
+
+00:01:08.151 --> 00:01:12.731
+Estamos hablando sobre el desplazamiento de la relación de precio/cantidad entera
+
+00:01:12.731 --> 00:01:15.906
+Cuando hablamos de una determinada cantidad demandada
+
+00:01:15.906 --> 00:01:17.299
+decimos que la cantidad exigida
+
+00:01:17.299 --> 00:01:18.333
+no sólo decimos demanda
+
+00:01:18.333 --> 00:01:19.933
+Esto es exactamente lo mismo para la fuente
+
+00:01:19.933 --> 00:01:21.618
+Cuando estamos hablando de una cantidad determinada
+
+00:01:21.618 --> 00:01:23.244
+estaremos cuidadosos de decir la cantidad
+
+00:01:23.244 --> 00:01:24.822
+Si hablamos sobre el aumento del suministro
+
+00:01:24.822 --> 00:01:27.562
+Estamos hablando de la relación toda cambio
+
+00:01:27.562 --> 00:01:29.933
+ya sea hacia arriba o hacia abajo
+
+NOTE Paragraph
+
+00:01:29.933 --> 00:01:33.308
+¡ Sólo asegúrese de que esto tiene sentido intuitivo para nosotros
+
+00:01:33.308 --> 00:01:35.434
+y creo que probablemente no.
+
+NOTE Paragraph
+
+00:01:35.434 --> 00:01:37.547
+Pensemos en nosotros mismos como productores de uvas
+
+NOTE Paragraph
+
+00:01:37.547 --> 00:01:40.171
+y voy a hacer una pequeña fuente programar derecho aquí
+
+00:01:40.171 --> 00:01:41.843
+Fuente...
+
+00:01:41.843 --> 00:01:46.556
+Horario de suministro tan uva que es realmente sólo una tabla
+
+00:01:46.556 --> 00:01:49.482
+mostrando la relación, todo lo demás igual,
+
+00:01:49.482 --> 00:01:52.222
+el precio y la cantidad suministrada
+
+00:01:52.222 --> 00:01:55.241
+Así que vamos a etiquetar algunos escenarios aquí
+
+00:01:55.241 --> 00:01:56.820
+al igual que hicimos con el horario de la demanda
+
+00:01:56.820 --> 00:02:01.882
+Escenarios... y vamos a poner nuestro precio aquí
+
+00:02:01.882 --> 00:02:08.197
+y esto será en precio/lb el precio de la libra de uvas por
+
+00:02:08.197 --> 00:02:11.541
+y se trata de la cantidad producida durante el período de tiempo
+
+00:02:11.541 --> 00:02:13.191
+y cada vez que hacemos cualquiera de estos
+
+00:02:13.191 --> 00:02:14.926
+horarios de oferta o demanda
+
+00:02:14.926 --> 00:02:16.905
+Estamos hablando sobre un período de tiempo determinado
+
+00:02:16.905 --> 00:02:17.787
+Podría ser por día.
+
+00:02:17.787 --> 00:02:19.200
+Podría ser por mes.
+
+00:02:19.200 --> 00:02:20.312
+Podría ser por año.
+
+00:02:20.312 --> 00:02:22.547
+pero esa es la única forma de lograr cierta sensación de
+
+00:02:22.547 --> 00:02:25.539
+OK, ¿cuál es la cantidad por la que va a ser producido, día
+
+00:02:25.539 --> 00:02:26.658
+¿Si ese es el precio?
+
+00:02:26.658 --> 00:02:27.470
+No decimos por día...
+
+00:02:27.470 --> 00:02:29.908
+No sabemos lo que estamos hablando.
+
+00:02:29.908 --> 00:02:36.735
+Cantidad suministrada...
+
+00:02:36.735 --> 00:02:41.982
+Y así vamos a decir escenario a
+
+00:02:41.982 --> 00:02:47.281
+Si el precio por libra de uvas es 50 centavos
+
+00:02:47.281 --> 00:02:48.856
+Si es 50 centavos de dólar por libra
+
+00:02:48.856 --> 00:02:52.617
+me dejó realmente a la vuelta de números
+
+00:02:52.617 --> 00:02:54.243
+pero la idea
+
+00:02:54.243 --> 00:02:55.566
+El precio por libra es de $1.
+
+00:02:55.566 --> 00:02:57.122
+Digamos para nosotros
+
+00:02:57.122 --> 00:02:59.815
+consideramos al ser un precio relativamente bajo.
+
+NOTE Paragraph
+
+00:02:59.815 --> 00:03:04.483
+Y tan sólo de la tierra más fácil
+
+00:03:04.483 --> 00:03:06.267
+nuestra tierra más fértil donde es fácil producir uvas
+
+00:03:06.267 --> 00:03:10.241
+y tal vez la tierra fértil y barata
+
+00:03:10.241 --> 00:03:12.267
+por lo que nadie quiere usar la tierra para otras cosas
+
+00:03:12.267 --> 00:03:13.910
+sólo es bueno para el cultivo de la vid
+
+00:03:13.910 --> 00:03:17.370
+Y así que proporcionaremos,
+
+00:03:17.370 --> 00:03:22.432
+--así que esto es el precio por libra--
+
+00:03:22.432 --> 00:03:26.913
+En esa situación podemos producir 1000 libras en este año.
+
+00:03:26.913 --> 00:03:28.533
+Y nunca he sido un agricultor de la uva,
+
+00:03:28.533 --> 00:03:29.398
+así que realmente no sé
+
+00:03:29.398 --> 00:03:31.069
+Si eso es una cantidad razonable o no
+
+00:03:31.069 --> 00:03:33.229
+pero sólo iré con él, 1000 libras.
+
+00:03:33.229 --> 00:03:35.713
+Ahora, vamos a tomar el escenario B
+
+00:03:35.713 --> 00:03:38.268
+Digamos que el precio va a $2
+
+00:03:38.268 --> 00:03:39.847
+Pues ahora no sólo produciría
+
+00:03:39.847 --> 00:03:41.193
+lo que estábamos produciendo antes,
+
+00:03:41.193 --> 00:03:44.235
+pero ahora podríamos quiere comprar un terreno más
+
+00:03:44.235 --> 00:03:46.464
+tierra que podría haber tenido otros usos
+
+00:03:46.464 --> 00:03:49.483
+tierra que tal vez no es tan productivo para uvas
+
+00:03:49.483 --> 00:03:52.223
+pero lo haríamos porque ahora podemos conseguir más para uvas
+
+00:03:52.223 --> 00:04:03.113
+y así que tal vez ahora estamos dispuestos a producir 2000 libras.
+
+00:04:03.113 --> 00:04:03.995
+Y nosotros podríamos seguir
+
+00:04:03.995 --> 00:04:06.480
+la misma dinámica seguir sucediendo
+
+00:04:06.480 --> 00:04:12.238
+así que vamos a decir si el precio fuera de $3 por libra
+
+00:04:12.238 --> 00:04:13.910
+ahora queremos producir más,
+
+00:04:13.910 --> 00:04:16.882
+tal vez ahora estamos incluso dispuestos a trabajar un poco más,
+
+00:04:16.882 --> 00:04:19.251
+o cosas más cerca entre sí, de la planta
+
+00:04:19.251 --> 00:04:23.400
+o tal vez llegaré más tierra que
+
+00:04:23.400 --> 00:04:26.000
+De lo contrario habría utilizado para otros cultivos
+
+00:04:26.000 --> 00:04:30.582
+y entonces yo me voy a producir 2500 libras
+
+NOTE Paragraph
+
+00:04:30.582 --> 00:04:33.252
+Y voy a hacer un escenario más.
+
+00:04:33.252 --> 00:04:34.646
+Digamos que el escenario D.
+
+00:04:34.646 --> 00:04:37.084
+el precio va a $4 la libra
+
+00:04:37.084 --> 00:04:40.501
+Misma dinámica, voy a dejar de sembrar otros cultivos.
+
+00:04:40.501 --> 00:04:42.326
+Y utilizarlas ahora para uvas
+
+00:04:42.326 --> 00:04:44.194
+porque son tan altos precios de la uvas
+
+00:04:44.194 --> 00:04:50.000
+así producirá 2750 libras
+
+00:04:50.000 --> 00:04:53.245
+Así podemos dibujar una curva de oferta
+
+00:04:53.245 --> 00:04:56.217
+igual que hemos trazado de curvas de demanda
+
+00:04:56.217 --> 00:05:00.257
+y es esta misma convención exacta
+
+00:05:00.257 --> 00:05:03.098
+que yo no soy un fan de poner precio en el eje vertical
+
+00:05:03.098 --> 00:05:04.367
+porque como ves,
+
+00:05:04.367 --> 00:05:07.154
+tendemos a hablar de precio como una variable independiente.
+
+00:05:07.154 --> 00:05:08.895
+no siempre hablamos sobre él de esa manera
+
+00:05:08.895 --> 00:05:10.753
+y en la mayoría de matemáticas y Ciencias
+
+00:05:10.753 --> 00:05:12.750
+volver a poner la variable independiente en el eje horizontal
+
+00:05:12.750 --> 00:05:14.677
+pero la Convención en economía es
+
+00:05:14.677 --> 00:05:16.767
+para ponerlo en el eje vertical.
+
+00:05:16.767 --> 00:05:18.299
+Precio así en el eje vertical
+
+00:05:18.299 --> 00:05:22.897
+así que esto realmente es precio por libra
+
+00:05:22.897 --> 00:05:28.210
+Y entonces en la cantidad de eje horizontal, producción.
+
+00:05:28.210 --> 00:05:32.133
+Permítanme sólo escriba la cantidad producida.
+
+00:05:32.133 --> 00:05:34.000
+Yo voy a decir en el año próximo
+
+00:05:34.000 --> 00:05:38.447
+nosotros estamos asumiendo que todo esto es para el próximo año
+
+NOTE Paragraph
+
+00:05:38.447 --> 00:05:40.600
+y es en miles de libras
+
+00:05:40.600 --> 00:05:45.374
+así que voy a poner en miles de libras.
+
+00:05:45.374 --> 00:05:48.833
+Y así que nos veamos desde 1000 a cerca de 3000
+
+00:05:48.833 --> 00:05:53.667
+así que esto es 1000
+
+00:05:53.667 --> 00:05:56.600
+es 1 para 1000 que es 2000 y 3000
+
+00:05:56.600 --> 00:05:58.911
+y el precio va todo el camino hasta 4
+
+00:05:58.911 --> 00:06:03.880
+por lo que es 1 2 3 y 4
+
+00:06:03.880 --> 00:06:06.202
+Tan sólo nos podemos trazar estos puntos
+
+00:06:06.202 --> 00:06:09.429
+se trata de puntos específicos en la curva de oferta.
+
+00:06:09.429 --> 00:06:15.606
+Tan en $1 suministraríamos 1000 libras
+
+NOTE Paragraph
+
+00:06:15.606 --> 00:06:17.287
+Es el escenario A.
+
+00:06:17.287 --> 00:06:23.965
+A $2 suministraríamos 2000 libras.
+
+00:06:23.965 --> 00:06:25.544
+Es escenario B.
+
+NOTE Paragraph
+
+00:06:25.544 --> 00:06:29.333
+En $3 suministraríamos 2500 libras.
+
+00:06:29.333 --> 00:06:32.324
+$3... Siento...
+
+00:06:32.324 --> 00:06:35.733
+Ver... Aviso me confundo mis ejes
+
+00:06:35.733 --> 00:06:36.933
+Este es el precio.
+
+00:06:36.933 --> 00:06:38.965
+Esto no es lo que cuando hablamos esta forma
+
+00:06:38.965 --> 00:06:41.420
+que nos estamos viendo algo como lo que está cambiando
+
+00:06:41.420 --> 00:06:42.920
+Aunque no siempre tiene que ser así.
+
+00:06:42.920 --> 00:06:50.862
+Así que $1-1000 libras, $2-2000 libras,
+
+00:06:50.862 --> 00:06:57.030
+$3--esto no, esto no es $3--esto es $3-$ 3-2500 libras.
+
+00:06:57.030 --> 00:06:59.306
+Así que voy a escribir sobre eso.
+
+00:06:59.306 --> 00:07:01.067
+Eso es cerca de 2500.
+
+00:07:01.067 --> 00:07:02.733
+Quiero hacerlo en ese color azul
+
+00:07:02.733 --> 00:07:04.867
+por lo que no se confunda
+
+00:07:04.867 --> 00:07:08.077
+Así que $3-2500 libras.
+
+00:07:08.077 --> 00:07:09.708
+Eso es derecho.
+
+00:07:09.708 --> 00:07:11.380
+Así que esto es escenario C.
+
+00:07:11.380 --> 00:07:14.008
+Y entonces el escenario D en $4
+
+00:07:14.008 --> 00:07:16.280
+Realmente me deja un poco más claro con eso
+
+00:07:16.280 --> 00:07:17.905
+ya que estamos recibiendo un poco estrecha
+
+00:07:17.905 --> 00:07:22.247
+Se trata de 2500 libras consigue que nos derecho aquí.
+
+00:07:22.247 --> 00:07:24.067
+Este es el escenario C.
+
+00:07:24.067 --> 00:07:29.099
+Y entonces escenario D en $4-2750
+
+00:07:29.099 --> 00:07:31.878
+Entonces 2750 es como derecho allí
+
+00:07:31.878 --> 00:07:33.416
+Por lo es de $4.
+
+00:07:33.416 --> 00:07:35.333
+Es escenario D.
+
+00:07:35.333 --> 00:07:36.644
+Y si nos conectamos
+
+00:07:36.644 --> 00:07:41.200
+debe estar en nuestra curva de oferta.
+
+00:07:41.200 --> 00:07:45.699
+Así que todos estarán...
+
+00:07:45.699 --> 00:07:47.733
+se vería algo como eso.
+
+00:07:47.733 --> 00:07:50.549
+Y hay algunos precio mínimo
+
+00:07:50.549 --> 00:07:52.667
+¿Necesitamos suministrar algunas uvas en absoluto.
+
+00:07:52.667 --> 00:07:53.752
+No les damos distancia gratis
+
+00:07:53.752 --> 00:07:57.055
+así que tal vez ese precio mínimo es como aquí.
+
+00:07:57.055 --> 00:07:59.097
+sólo que incluso empezar a producir uvas
+
+00:07:59.097 --> 00:08:00.839
+Por lo que es este derecho aquí
+
+00:08:00.839 --> 00:08:03.091
+parecería que la curva de oferta.
+
+00:08:03.091 --> 00:08:05.297
+Recuerde ahora lo único que estamos variando aquí
+
+00:08:05.297 --> 00:08:06.504
+es el precio.
+
+00:08:06.504 --> 00:08:09.131
+Así que si el precio fuera a cambiar todo lo demás igual
+
+00:08:09.131 --> 00:08:12.124
+movería a lo largo de esta curva aquí.
+
+00:08:12.124 --> 00:08:13.378
+Ahora en el siguiente par de videos
+
+00:08:13.378 --> 00:08:14.900
+Hablará sobre todas las otras cosas
+
+00:08:14.900 --> 00:08:16.350
+nos hemos mantenido iguales
+
+00:08:16.350 --> 00:08:17.720
+y lo que harían,
+
+00:08:17.720 --> 00:08:20.413
+en un dado momento de precio, a esta curva,
+
+00:08:20.413 --> 00:08:23.459
+o en general lo que harían a la curva.

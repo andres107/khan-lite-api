@@ -1,0 +1,171 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:04.370
+El costo de alimentar el coche es
+
+00:00:04.370 --> 00:00:10.540
+directamente proporcional al número de litros (galones es una medida de volumen, unos 4,5 litros) de combustible,
+
+00:00:10.540 --> 00:00:11.880
+que compran en la estación de gas.
+
+00:00:11.880 --> 00:00:15.800
+Esto significa que si x es igual al número de compra
+
+00:00:15.800 --> 00:00:28.790
+galones de combustible y y es igual a la cantidad hay que pagar para
+
+00:00:28.790 --> 00:00:35.300
+llenando el coche, esto significa que y
+
+00:00:35.300 --> 00:00:39.450
+es directamente proporcional a la cantidad de galones, que es x.
+
+00:00:39.450 --> 00:00:44.850
+Esto significa que es igual a una constante, deja
+
+00:00:44.850 --> 00:00:47.050
+Se k veces x.
+
+00:00:47.050 --> 00:00:49.310
+Se trata de la importancia del retorno, que algo es "directamente proporcional". /
+
+00:00:49.310 --> 00:00:51.670
+Si x aumenta, y también crece.
+
+00:00:51.670 --> 00:00:54.150
+Pero no sabemos cómo rápidamente crece, k es la constante de proporcionalidad, nos dice acerca de la rapidez y crece cuando x aumenta.
+
+00:00:54.150 --> 00:00:57.100
+Si x disminuye, y disminuye.
+
+00:00:57.100 --> 00:00:58.850
+Tenemos información adicional que
+
+00:00:58.850 --> 00:01:01.260
+nos ayudan a calcular la k.
+
+00:01:01.260 --> 00:01:07.570
+Si un galón de combustible cuesta 2,25 USD (dólares es el dinero que se paga en los Estados Unidos), cuántos galones de combustible pueden
+
+00:01:07.570 --> 00:01:09.700
+¿comprar por $ 18?
+
+00:01:09.700 --> 00:01:13.350
+Por lo tanto, si x es igual a 1 esta frase aquí, un galón de combustible-
+
+00:01:13.350 --> 00:01:17.090
+Si usted compra un galón, si x es igual a 1,
+
+00:01:17.090 --> 00:01:20.060
+¿es igual y 2.25 dólar está de acuerdo?
+
+00:01:20.060 --> 00:01:21.390
+y significa que el costo de la compra.
+
+00:01:21.390 --> 00:01:25.300
+1 Galón cuesta 2,25 dólar, estamos aquí
+
+00:01:25.300 --> 00:01:33.190
+Guardar, 2.25 dólar equivale a veces k x veces 1 galón.
+
+00:01:33.190 --> 00:01:35.190
+En General, no vale la pena escribir este uno.
+
+00:01:35.190 --> 00:01:37.330
+El significado de esto es
+
+00:01:37.330 --> 00:01:38.900
+k es la constante de proporcionalidad.
+
+00:01:38.900 --> 00:01:40.260
+No vale la pena escribir uno.
+
+00:01:40.260 --> 00:01:42.880
+(k) es igual a 2,25 USD/galón.
+
+00:01:42.880 --> 00:01:44.450
+Esto es debido a las condiciones de trabajo.
+
+00:01:44.450 --> 00:01:51.220
+Así la ecuación que dice cómo hacer y cambio, cuando el cambio de x es igual a la
+
+00:01:51.220 --> 00:01:56.710
+y = 2,25 veces x, donde x es el número de galones de combustible que has comprado un camión.
+
+00:01:56.710 --> 00:01:59.650
+y es el costo de la compra,
+
+00:01:59.650 --> 00:02:01.390
+2,25 dólares por galón.
+
+00:02:01.390 --> 00:02:06.320
+Ahora, calculamos cuántos galones de combustible se puede comprar
+
+00:02:06.320 --> 00:02:08.590
+por 18 dólares.
+
+00:02:08.590 --> 00:02:12.690
+18 dólares, que este es nuestro costo total, esto es y costo
+
+00:02:12.690 --> 00:02:13.990
+alimentando el coche.
+
+00:02:13.990 --> 00:02:19.690
+18 es igual a x 2,25 veces.
+
+00:02:19.690 --> 00:02:25.020
+Si quieres saber cuánto es x, dividimos a ambos lados por
+
+00:02:25.020 --> 00:02:29.730
+2,25, podzielmy así.
+
+00:02:29.730 --> 00:02:36.310
+Compuesto por 18 por 2,25 y conformado por 2,25 veces x 2,25
+
+00:02:36.310 --> 00:02:37.610
+¿y qué podemos hacer?
+
+00:02:37.610 --> 00:02:39.520
+Mover todo esto un poco a la cima.
+
+00:02:39.520 --> 00:02:43.650
+En el lado derecho, 2,25 para simplificar y va ser el mismo.
+
+00:02:43.650 --> 00:02:48.020
+¿En el lado izquierdo, donde es divisible por 2,25 18?
+
+00:02:48.020 --> 00:02:49.090
+He guardado esto aquí.
+
+00:02:49.090 --> 00:02:51.210
+En primer lugar, he ahorrado el 2,25 como una fracción.
+
+00:02:51.210 --> 00:02:57.930
+2.25 es lo mismo-he ahorrado esta igualdad aquí a 2,25
+
+00:02:57.930 --> 00:03:04.160
+2 y 1/4 y esto, a su vez, equivale a 9 por 4, nueve trimestres.
+
+00:03:04.160 --> 00:03:12.480
+18 dividido por 2,25 equivale a 18 dividido por 9/4.
+
+00:03:12.480 --> 00:03:18.960
+Y esto, a su vez, es igual a 4 18 veces a través de 9, 18 por 1
+
+00:03:18.960 --> 00:03:21.160
+tiempos de 4 por 9.
+
+00:03:21.160 --> 00:03:26.540
+Policzmy, 18 dividido por 9 equivale a 2, 9 dividido por 9 es 1.
+
+00:03:26.540 --> 00:03:29.330
+Esto es bien simplifica a 8.
+
+00:03:29.330 --> 00:03:37.915
+Para 18 dividido por 2,25 es igual a 8, es decir, para 18 dólares podemos zatankować 8 galones de combustible.
+
+00:03:37.915 --> 00:03:38.800
+Nos vemos en el siguiente video.

@@ -1,0 +1,198 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.267 --> 00:00:07.267
+Este vídeo trata sobre el perímetro y el área.
+
+00:00:07.267 --> 00:00:17.133
+Escribimos aquí el perímetro a la izquierda y el área a la derecha.
+
+00:00:17.133 --> 00:00:21.533
+Perímetro es la distancia para ir alrededor de algo.
+
+00:00:21.533 --> 00:00:25.733
+Si tuvieras que poner una valla alrededor o medir algo
+
+00:00:25.733 --> 00:00:31.533
+Si tuvieras que poner una cinta alrededor de una figura,
+
+00:00:31.533 --> 00:00:36.400
+Si yo tengo un rectángulo, y el rectángulo es una figura
+
+00:00:36.400 --> 00:00:44.867
+que tiene 4 lados y cuatro ángulos rectos,
+
+00:00:44.867 --> 00:00:48.200
+este tiene 4 ángulos rectos y 4 lados y los
+
+00:00:48.200 --> 00:00:55.867
+lados opuestos tienen la misma longitud.
+
+00:00:55.867 --> 00:01:02.867
+Llamo a estos puntos ABCD, digamos que nosotros
+
+00:01:02.867 --> 00:01:13.533
+sabemos que AB=7, y BC=5
+
+00:01:13.533 --> 00:01:23.733
+Nosotros queremos saber cuánto mide el perímetro de ABCD
+
+00:01:23.733 --> 00:01:29.667
+El perímetro del rectángulo ABCD = a la suma de las longitudes de sus lados
+
+00:01:29.667 --> 00:01:33.533
+Si yo fuera a construir una valla en esta parcela
+
+00:01:33.533 --> 00:01:37.933
+necesitaría medir la longitud de los lados,
+
+00:01:37.933 --> 00:01:46.533
+sabemos que la longitud AB es 7, la longitud BC es 5,
+
+00:01:46.533 --> 00:01:57.200
+DC va a ser la misma que AB = 7 y DA va a ser
+
+00:01:57.200 --> 00:02:06.800
+la misma longitud que BC=5
+
+00:02:06.800 --> 00:02:10.467
+Asi que tenemos 7+5+7+5=24, el perímetro es 24
+
+00:02:10.467 --> 00:02:23.400
+Podemos hacerlo al revés, digamos que tenemos un cuadrado
+
+00:02:23.400 --> 00:02:27.800
+Un cuadrado tiene 4 lados y 4 ángulos rectos y
+
+00:02:27.800 --> 00:02:44.467
+todos los lados son iguales. Déjame dibujar un cuadrado, éste es ABCD
+
+00:02:44.467 --> 00:02:58.400
+y este cuadrado tiene un perímetro de 36
+
+00:02:58.400 --> 00:03:01.600
+Dada éste, cuál es la longitud de cada lado.
+
+00:03:01.600 --> 00:03:05.800
+Todos los lados tienen la misma longitud, llamemos x a la longitud de un lado
+
+00:03:05.800 --> 00:03:16.733
+AB=x, BC=x, CD=x, DA=x
+
+00:03:16.733 --> 00:03:20.533
+Si queremos calcular el perímetro será x+x+x+x
+
+00:03:20.533 --> 00:03:31.600
+x+x+x+x = 4x = 36
+
+00:03:31.600 --> 00:03:35.200
+Para resolverlo son 4 veces algo = 36
+
+00:03:35.200 --> 00:03:43.200
+dividimos ámbos miembros por 4, y obtenemos x=9
+
+00:03:43.200 --> 00:03:53.800
+Esto nos da un cuadrado de 9 por 9. Esto era el perímetro.
+
+00:03:53.800 --> 00:03:59.667
+El área es una medida de cuánto espacio esta cosa nos ocupa
+
+00:03:59.667 --> 00:04:06.267
+Una manera de pensarlo es si tengo un cuadrado de 1 por 1
+
+00:04:06.267 --> 00:04:13.800
+para un rectángulo necesitas específicar 2 dimensiones ya que
+
+00:04:13.800 --> 00:04:16.733
+las otras medidas son iguales, para un rectángulo
+
+00:04:16.733 --> 00:04:23.333
+decimos que es un rectángulo de 5 por 7
+
+00:04:23.333 --> 00:04:36.400
+Si es un lado de un cuadrado es 1, todos los lados son 1
+
+00:04:36.400 --> 00:04:43.933
+El área de cualquier figura es cuántos cuadrados 1 por 1 puedes encajar dentro de esta figura
+
+00:04:43.933 --> 00:04:48.600
+Si volvemos al este rectángulo y queremos encontrar el área
+
+00:04:48.600 --> 00:04:52.533
+de este rectángulo y la notación que usaremos
+
+00:04:52.533 --> 00:05:01.333
+lo ponemos entre corchetes de área del rectángulo ABCD = &lt;ABCD&gt;
+
+00:05:01.333 --> 00:05:06.000
+es el número de cuadrados 1 por 1 que podemos encajar en este rectángulo
+
+00:05:06.000 --> 00:05:15.400
+Intentemos hacerlo, tenemos 5 cuadrados de 1 por 1 de esta forma
+
+00:05:15.400 --> 00:05:32.733
+y 7 cuadrados de 1 por 1 así
+
+00:05:32.733 --> 00:05:40.600
+Pasando por los lados ponemos 7, aquí
+
+00:05:40.600 --> 00:05:56.400
+podemos poner 5 filas, esto es desde 1 hasta 5
+
+00:05:56.400 --> 00:06:01.667
+y esto es desde 1 hasta 7
+
+00:06:01.667 --> 00:06:11.867
+ahora podemos contar el número de cuadrados 1 por 1
+
+00:06:11.867 --> 00:06:23.533
+y tenemos 5 filas y 7 columnas, luego tenemos 35 cuadrados
+
+00:06:23.533 --> 00:06:28.067
+así que el área de esta figura es 35.
+
+00:06:28.067 --> 00:06:31.333
+Así que el método general es coger una dimensión y
+
+00:06:31.333 --> 00:06:33.933
+multiplicarla por la otra dimensión
+
+00:06:33.933 --> 00:06:44.867
+Si yo tengo un rectángulo de dimensiones 1/2 por 2,
+
+00:06:44.867 --> 00:06:51.000
+simplemente podemos multiplicarlas 1/2 * 2 = 1
+
+00:06:51.000 --> 00:07:10.333
+En esta dimensión yo solo puedo encajar la mitad de un cuadrado
+
+00:07:10.333 --> 00:07:14.333
+cuando sumamos 2 mitades, tenemos 1
+
+00:07:14.333 --> 00:07:17.200
+Ahora veamos el área de un cuadrado.
+
+00:07:17.200 --> 00:07:21.200
+El cuadrado es un caso especial donde la longitud y la anchura son iguales
+
+00:07:21.200 --> 00:07:32.867
+Así que si tenemos un cuadrado y le llamamos XYZS,
+
+00:07:32.867 --> 00:07:38.867
+y queremos encontrar su área y conocemos que XS = 2, yo quiero
+
+00:07:38.867 --> 00:07:48.867
+encontrar el área de XYZS = &lt;XYZS&gt;
+
+00:07:48.867 --> 00:07:52.267
+sabemos que los lados son iguales,
+
+00:07:52.267 --> 00:07:56.600
+es un caso especial de un rectángulo, sabemos que si este mide 2
+
+00:07:56.600 --> 00:08:00.867
+este también mide 2, asi que simplemente multiplicamos 2 por 2 = 2*2=4
+
+00:08:00.867 --> 00:08:21.200
+y puedes ver que podemos encajar 4 cuadrados 1 por 1 en esta figura

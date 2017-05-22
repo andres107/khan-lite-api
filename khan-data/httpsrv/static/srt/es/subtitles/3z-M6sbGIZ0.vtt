@@ -1,0 +1,457 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.860 --> 00:00:03.540
+Digamos que eres una clase de "ingeniero del tráfico" y lo que
+
+00:00:03.540 --> 00:00:06.810
+tu quieres saber es, ¿cuántos carros pasan por determinado
+
+00:00:06.810 --> 00:00:08.320
+lugar en la calle en determinado momento?
+
+00:00:08.320 --> 00:00:10.210
+Y quieres conocer las probabilidades de que
+
+00:00:10.210 --> 00:00:14.010
+pasen cien carros o que pasen cinco en determinada hora.
+
+00:00:14.010 --> 00:00:15.810
+Así que un buen punto de inicio es definir una
+
+00:00:15.810 --> 00:00:20.530
+variable aleatoria que represente lo que a ti te interesa.
+
+00:00:20.530 --> 00:00:27.350
+Así que digámos que el número de carros que pasan en
+
+00:00:27.350 --> 00:00:30.407
+determinado tiempo, digámos, en una hora.
+
+00:00:31.710 --> 00:00:34.510
+Y tu objetivo es descifrar la distribución de probabilidad
+
+00:00:34.510 --> 00:00:37.050
+de esta variable aleatoria y una vez que conozcas
+
+00:00:37.050 --> 00:00:39.450
+la distribución de la probabilidad podrás conocer cuál es la
+
+00:00:39.450 --> 00:00:41.790
+probabilidad de que cien carros pasen en una hora, o la probabilidad
+
+00:00:41.790 --> 00:00:45.890
+de que ningún carro pase en una hora y serías imparable.
+
+00:00:45.890 --> 00:00:48.290
+Y sólo un poco de lado, sólo para seguir adelante con este video,
+
+00:00:48.290 --> 00:00:50.540
+hay dos suposiciones que tenemos que hacer porque
+
+00:00:50.540 --> 00:00:52.235
+vamos a estudiar la distribución Poisson.
+
+00:00:52.235 --> 00:00:54.110
+Y para estudiarla hay dos suposiciones
+
+00:00:54.110 --> 00:00:54.630
+que debemos hacer:
+
+00:00:54.630 --> 00:00:58.770
+Que cualqueir hora en este lugar de la calle no es diferente
+
+00:00:58.770 --> 00:00:59.650
+con cualquier otra hora.
+
+00:00:59.650 --> 00:01:01.340
+Y sabemos que eso es probablemente falso.
+
+00:01:01.340 --> 00:01:03.750
+A las horas pico en una situaicón real probablemente
+
+00:01:03.750 --> 00:01:06.640
+tendrás más carros que a otra hora pico.
+
+00:01:06.640 --> 00:01:08.640
+Y tu sabes, si quieres ser más realista quizás debamos
+
+00:01:08.640 --> 00:01:12.370
+hacerlo de día porque en el día cualquier periodo de tiempo---
+
+00:01:12.370 --> 00:01:12.750
+de hecho no,
+
+00:01:12.750 --> 00:01:14.120
+no debería hacerlo de día.
+
+00:01:14.120 --> 00:01:17.750
+Debemos aumir que cualquier hora es exactamente igual
+
+00:01:17.750 --> 00:01:19.650
+a cualquier otra hora, y de hecho, incluso dentro de una hora
+
+00:01:19.650 --> 00:01:22.990
+no hay diferencias de un segundo a otro segundo,
+
+00:01:22.990 --> 00:01:25.820
+en términos de la probabilidad de que un carro llegue.
+
+00:01:25.820 --> 00:01:27.950
+Así que ahí está un poco de los suposición que
+
+00:01:27.950 --> 00:01:29.950
+quizás no apliquen totalmente al tráfico, pero creo que
+
+00:01:29.950 --> 00:01:32.270
+podemos hacer esa suposición.
+
+00:01:32.270 --> 00:01:34.160
+Y luego la otra suposición que tenemos que haces es que si
+
+00:01:34.160 --> 00:01:36.690
+un grupo de carros pasan en una hora, eso no significa que menos
+
+00:01:36.690 --> 00:01:37.820
+carros vayan a pasar en la siguiente.
+
+00:01:37.820 --> 00:01:40.630
+De ninguna manera el númeo de carros que pasan en un periodo de tiempo
+
+00:01:40.630 --> 00:01:44.860
+afectan o están correlacionados o de alguna manera afectan al número de carros
+
+00:01:44.860 --> 00:01:45.380
+que pasen en el siguiente.
+
+00:01:45.380 --> 00:01:47.370
+Son verdaderamente independientes.
+
+00:01:47.370 --> 00:01:50.670
+Considerando eso, podemos al menos intentar usar las habilidades
+
+00:01:50.670 --> 00:01:53.480
+para modelar algún tipo de distribución.
+
+00:01:53.480 --> 00:01:55.770
+Lo primero que haces, y yo recomiendo hacer esto para cualquier
+
+00:01:55.770 --> 00:01:59.090
+distribución, es quizás estimar la media.
+
+00:01:59.090 --> 00:02:03.040
+Sentémonos en esa curva y midamos... qué variables es esta
+
+00:02:03.040 --> 00:02:05.170
+sobre un grupo de horas y luego promediémosla, y eso va a
+
+00:02:05.170 --> 00:02:08.890
+ser un muy buen estimador de la media real
+
+00:02:08.890 --> 00:02:09.880
+de nuestra población.
+
+00:02:09.880 --> 00:02:12.270
+O, puesto que es una variable aleatoria, el valor esperado
+
+00:02:12.270 --> 00:02:13.010
+de esta variable aleatoria.
+
+00:02:13.010 --> 00:02:16.660
+Digamos que haces eso y obtienes el mejor estimado del
+
+00:02:16.660 --> 00:02:22.270
+valor esperado de la variable aleatoria es--- usaré
+
+00:02:22.270 --> 00:02:24.850
+la letra lambda.
+
+00:02:24.850 --> 00:02:27.380
+Tu sábes, que esto puede ser nueve carros por hora,
+
+00:02:27.380 --> 00:02:30.190
+te sientas allá afuera--- puede ser 9.3 carros por hora,
+
+00:02:30.190 --> 00:02:32.670
+te sentaste allá cientos de horas y tú sólo cuentas
+
+00:02:32.670 --> 00:02:34.590
+el número de carros, cada hora, y los promedias todos.
+
+00:02:34.590 --> 00:02:37.250
+Y dices, en promedio, hay 9.3 carros por hora y crees
+
+00:02:37.250 --> 00:02:38.680
+que ese es un buena estimación.
+
+00:02:38.680 --> 00:02:40.080
+Así que eso es lo que tienes.
+
+00:02:40.080 --> 00:02:42.000
+Y veamos que podemos hacer,
+
+00:02:42.000 --> 00:02:45.560
+conocemos la distribución binomial
+
+00:02:45.560 --> 00:02:50.650
+La distribución binomial nos dice que el valor esperado de una
+
+00:02:50.650 --> 00:02:55.220
+variable aleatoria es igual al número de eventos que
+
+00:02:55.220 --> 00:02:57.460
+componen a esa variable aleatoria, cierto?
+
+00:02:57.460 --> 00:02:59.490
+Antes, en videos anteriores estuvimos contando el número
+
+00:02:59.490 --> 00:03:00.500
+de caras en un volado.
+
+00:03:00.500 --> 00:03:03.070
+Asi que esto sería el número de volados, por la
+
+00:03:03.070 --> 00:03:07.290
+probabilidad de éxito en cada volado.
+
+00:03:07.290 --> 00:03:09.000
+Eso es lo que hicimos en la distribución binomial.
+
+00:03:09.000 --> 00:03:11.670
+Así que quizás podamos modelar nuestra situación vehicular
+
+00:03:11.670 --> 00:03:12.780
+haciendo algo similar.
+
+00:03:12.780 --> 00:03:15.400
+Este es el número de carros que pasan en una hora.
+
+00:03:15.400 --> 00:03:22.800
+Así que quizás podamos decir que carros-lambda por hora
+
+00:03:22.800 --> 00:03:24.330
+es igual a--- no sé...
+
+00:03:26.850 --> 00:03:29.880
+Hagamos cada experimento o cada volado igual a
+
+00:03:29.880 --> 00:03:31.780
+si un carro pasa en determinado minuto.
+
+00:03:31.780 --> 00:03:37.980
+Hay 60 minutos por cada hora, así que
+
+00:03:37.980 --> 00:03:40.870
+serían 60 eventos.
+
+00:03:40.870 --> 00:03:43.190
+Y luego, la probabilidad de que tengamos éxito en cada uno de
+
+00:03:43.190 --> 00:03:46.990
+esos eventos, si modelamos esto como una distribución binomial
+
+00:03:46.990 --> 00:03:54.450
+sería lambda sobre 60 carros por minuto.
+
+00:03:54.450 --> 00:03:55.660
+Y esto sería una probabilidad.
+
+00:03:55.660 --> 00:03:58.640
+Esto sería n, y esto sería la probabilidad, si nosotros decimos
+
+00:03:58.640 --> 00:04:00.270
+que esto es una distribución binomial.
+
+00:04:00.270 --> 00:04:04.030
+Y esto probablemente no sería una aproximación tan mala.
+
+00:04:04.030 --> 00:04:06.130
+Si tu puedes decir, oh, esto es una distribución
+
+00:04:06.130 --> 00:04:10.380
+binomial, así que la probabilidad de que nuestra variable
+
+00:04:10.380 --> 00:04:12.940
+aleatoria se igual a un determinado valor, k.
+
+00:04:12.940 --> 00:04:16.170
+Tu sabes, que la probabilidad de que 3 carros, exactamente tres carros pasen en
+
+00:04:16.170 --> 00:04:19.750
+determinada hora, serían entonces iguales a n.
+
+00:04:19.750 --> 00:04:21.890
+así que n sería 60.
+
+00:04:21.890 --> 00:04:26.010
+Elige k, y bueno, tengo tres autos, multiplicado por
+
+00:04:26.010 --> 00:04:27.190
+la probabilidad de éxito.
+
+00:04:27.190 --> 00:04:29.570
+Así que la probabilidad de que un auto pase en cualquier minuto.
+
+00:04:29.570 --> 00:04:34.770
+Sería lambda sobre 60 elevado a la potencia
+
+00:04:34.770 --> 00:04:35.980
+del número de éxitos que necesitamos,
+
+00:04:35.980 --> 00:04:41.660
+así que a la k potencia, por, la probabilidad de fracaso
+
+00:04:41.660 --> 00:04:46.560
+o de que ningún auto pase, a la n menos k
+
+00:04:46.560 --> 00:04:50.230
+Si tenemos k éxitos, el número de fracasos sería
+60 menos k.
+
+00:04:50.230 --> 00:04:52.950
+Hay 60 menos k minutos en donde no pasó auto alguno.
+
+00:04:52.950 --> 00:04:55.270
+Esto no sería una aproximación tan mala, donde
+
+00:04:55.270 --> 00:04:57.250
+tienes 60 intervalos y dices que esto es una distribución
+
+00:04:57.250 --> 00:04:58.560
+binomial.
+
+00:04:58.560 --> 00:05:00.310
+Y probablemente obtengas resultados rasonables,
+
+00:05:00.310 --> 00:05:02.600
+pero hay un asunto importante aquí,
+
+00:05:02.600 --> 00:05:06.580
+en este modelo donde lo que modelamos tiene una distriución binomial,
+
+00:05:06.580 --> 00:05:09.980
+qué pasaría si más de un auto pasa en una hora?
+
+00:05:09.980 --> 00:05:11.630
+o más de un auto pasa en un minuto?
+
+00:05:11.630 --> 00:05:14.270
+De la manera en la que lo tenemos ahora, le llamamos éxito si un
+
+00:05:14.270 --> 00:05:15.320
+auto pasa en un minuto.
+
+00:05:15.320 --> 00:05:18.790
+Y si tienes cuidado de contar, cuenta como un éxito, incluso
+
+00:05:18.790 --> 00:05:21.190
+si 5 autos pasaran en un minuto.
+
+00:05:21.190 --> 00:05:23.390
+Así que dices, oh, OK Sal, veo la solución ahí,
+
+00:05:23.390 --> 00:05:26.040
+Sólo debo ser más específico,
+
+00:05:26.040 --> 00:05:28.870
+En vez de dividirlo en minutos, ¿por qué no
+
+00:05:28.870 --> 00:05:31.050
+dividirlo en segundos?
+
+00:05:31.050 --> 00:05:36.210
+Así que la probabilidad de que tenga k éxitos, en vez de tener
+
+00:05:36.210 --> 00:05:39.820
+60 intervalos, haré 3600 intervalos.
+
+00:05:39.820 --> 00:05:43.170
+Así que la probabilidad de k segundos éxitosos, así que el segundo
+
+00:05:43.170 --> 00:05:48.610
+en el que pase un auto, en ese momento, de 3,600 segundos.
+
+00:05:48.610 --> 00:05:52.190
+Eso es k de 3,600, por la probabilidad de que un auto
+
+00:05:52.190 --> 00:05:55.210
+pase en cualquier segundo.
+
+00:05:55.210 --> 00:05:57.930
+Eso es el esperado número de autos que pasen una hora, dividido por
+
+00:05:57.930 --> 00:06:00.430
+el número de segundos en una hora.
+
+00:06:00.430 --> 00:06:01.403
+Vamos a tener k éxitos,
+
+00:06:03.990 --> 00:06:06.270
+y éstos son los fracasos, la probabilidad de un fracaso
+
+00:06:06.270 --> 00:06:12.050
+y vas a tener 3,600 menos k fracasos.
+
+00:06:12.050 --> 00:06:13.910
+Y esto sería incluso una mejor aproximación.
+
+00:06:13.910 --> 00:06:16.770
+De hecho esto no estaría tan mal, pero de todas formas, tu tienes esta
+
+00:06:16.770 --> 00:06:19.100
+situación donde dos autos pueden pasar a medio
+
+00:06:19.100 --> 00:06:19.980
+segundo de diferencia.
+
+00:06:19.980 --> 00:06:21.910
+Y entonces me dices, oh, OK Sal, veo el patrón aquí,
+
+00:06:21.910 --> 00:06:23.650
+solo debemos ser más y más específicos.
+
+00:06:23.650 --> 00:06:26.170
+Solo tenemos que hacer este número más grande y
+
+00:06:26.170 --> 00:06:27.400
+más grande y más grande.
+
+00:06:27.400 --> 00:06:28.950
+Y tu intuición es correcta.
+
+00:06:28.950 --> 00:06:31.340
+Y si tu haces eso, terminarás obteniendo la
+
+00:06:31.340 --> 00:06:33.860
+distribución Poisson.
+
+00:06:33.860 --> 00:06:35.620
+Y esto es muy interesante porque muchas veces la gente
+
+00:06:35.620 --> 00:06:38.600
+te da la fórmula de la distribución Poisson y tú
+
+00:06:38.600 --> 00:06:40.420
+puedes sólo meter los números y usarla,
+
+00:06:40.420 --> 00:06:43.250
+pero es bonito saber que en realidad es sólo la distribución
+
+00:06:43.250 --> 00:06:45.790
+binomial, y la distribución binomial realmente vino
+
+00:06:45.790 --> 00:06:48.590
+del sentido común de hacer volados.
+
+00:06:48.590 --> 00:06:50.500
+De ahí es de donde todo viene,
+
+00:06:50.500 --> 00:06:53.710
+pero antes de probar que si tomamos el límite
+
+00:06:53.710 --> 00:06:55.670
+como --- déjenme cambiar de colores---
+
+00:06:55.670 --> 00:06:58.470
+Antes de que probemos que

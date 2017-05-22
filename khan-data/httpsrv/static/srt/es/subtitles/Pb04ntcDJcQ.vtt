@@ -1,0 +1,723 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.590 --> 00:00:03.600
+OK, yo lleno tu cerebro con un montón de derivadas parciales
+
+00:00:03.600 --> 00:00:05.920
+PSI, con respecto a x y y
+
+00:00:05.920 --> 00:00:09.820
+Creo que ahora es el momento de hacerlo realidad con un real
+
+00:00:09.820 --> 00:00:11.400
+ecuación diferencial y hacer las cosas un
+
+00:00:11.400 --> 00:00:12.195
+algo más concreto.
+
+00:00:12.195 --> 00:00:16.640
+Así que vamos a decir que tengo el diferencial, y, la
+
+00:00:16.640 --> 00:00:24.570
+ecuación diferencial, y coseno de x, más 2xe a la
+
+00:00:24.570 --> 00:00:34.360
+y, además de seno de x, plus--ya estoy acabando espacio--
+
+00:00:34.360 --> 00:00:40.140
+x al cuadrado, e a la y, menos 1, tiempos y
+
+00:00:40.140 --> 00:00:42.970
+primo, es igual a 0.
+
+00:00:42.970 --> 00:00:46.090
+Bien, tu cerebro ya está, ojalá, exacta
+
+00:00:46.090 --> 00:00:47.310
+modo de ecuaciones diferenciales.
+
+00:00:47.310 --> 00:00:49.510
+Pero si tuviera que ver este patrón en general, donde le
+
+00:00:49.510 --> 00:00:53.690
+ver una función de x y y, aquí--esto es solo algunos
+
+00:00:53.690 --> 00:00:56.870
+función de x y y--y, a continuación, usted tiene otra función de x
+
+00:00:56.870 --> 00:01:00.440
+y y, tiempos y prime, o tiempos dy, d de x, su cerebro debe
+
+00:01:00.440 --> 00:01:01.950
+inmediatamente decir si esto es inseparable.
+
+00:01:01.950 --> 00:01:04.180
+Y no voy a intentar hacer separables, sólo
+
+00:01:04.180 --> 00:01:05.530
+ya que llevo mucho tiempo.
+
+00:01:05.530 --> 00:01:07.460
+Pero si no es separable, su cerebro dijo, oh, tal vez
+
+00:01:07.460 --> 00:01:08.850
+Esta es una ecuación exacta.
+
+00:01:08.850 --> 00:01:11.350
+Y, digamos, me dejas probar si
+
+00:01:11.350 --> 00:01:13.040
+Esta es una ecuación exacta.
+
+00:01:13.040 --> 00:01:16.300
+Así que si se trata de una ecuación exacta, esta es nuestra función
+
+00:01:16.300 --> 00:01:19.160
+M, que es una función de x e y.
+
+00:01:19.160 --> 00:01:21.670
+Y esta es nuestra función N, que es un
+
+00:01:21.670 --> 00:01:23.140
+función de x e y.
+
+00:01:23.140 --> 00:01:25.700
+Ahora, la prueba es para ver si el parcial de esto, con respeto
+
+00:01:25.700 --> 00:01:30.290
+y, es igual al parcial de esto, con respecto a x.
+
+00:01:30.290 --> 00:01:31.420
+Así que vamos a ver.
+
+00:01:31.420 --> 00:01:36.240
+El parcial de M, con respecto a y, es igual a--a ver,
+
+00:01:36.240 --> 00:01:39.480
+y es, por lo que este coseno de x es igual a una constante, por lo que es justo
+
+00:01:39.480 --> 00:01:42.460
+coseno de x.
+
+00:01:42.460 --> 00:01:47.610
+Coseno de x plus--ahora, ¿qué es la derivada?
+
+00:01:47.610 --> 00:01:49.725
+Bien, x 2 es sólo una constante, lo que es la derivada de e a
+
+00:01:49.725 --> 00:01:50.820
+¿y, con respecto a y?
+
+00:01:50.820 --> 00:01:53.350
+¿Bueno, es justo e a la derecha y?
+
+00:01:53.350 --> 00:01:56.110
+Así que tenemos la constante en el exterior, el x 2 veces la
+
+00:01:56.110 --> 00:01:58.810
+derivados, con respecto a y, por eso es 2xe a la y.
+
+00:01:58.810 --> 00:01:59.910
+Bastante justo.
+
+00:01:59.910 --> 00:02:01.430
+Ahora, ¿qué es la derivada parcial de esto, con
+
+00:02:01.430 --> 00:02:02.950
+¿respecto a x?
+
+00:02:02.950 --> 00:02:09.100
+Sub tan n x, o el parcial de N, con respecto a x--por lo que
+
+00:02:09.100 --> 00:02:11.360
+¿Qué es la derivada del seno de x, con respecto a x?
+
+00:02:11.360 --> 00:02:17.630
+Bueno, eso es fácil, que es el coseno de x, más 2 x veces e
+
+00:02:17.630 --> 00:02:19.830
+¿a el y derecho? e e y son sólo una constante, porque es
+
+00:02:19.830 --> 00:02:22.030
+constante cuando estamos tomando el parcial, con respecto a x.
+
+00:02:22.030 --> 00:02:26.550
+Lo más 2xe a la y.
+
+00:02:26.550 --> 00:02:28.800
+Y entonces menos 1, la derivada de una constante, con
+
+00:02:28.800 --> 00:02:31.450
+respeto a nada va a ser 0.
+
+00:02:31.450 --> 00:02:34.310
+Así que los derivados de N--el parcial de N, con respeto a
+
+00:02:34.310 --> 00:02:38.460
+x, es el coseno de x, más 2xe a la y, que, lo aquí,
+
+00:02:38.460 --> 00:02:41.000
+es lo mismo que el derivado, el parcial de M,
+
+00:02:41.000 --> 00:02:43.120
+con respecto a y.
+
+00:02:43.120 --> 00:02:44.190
+Así que ahí lo tenemos.
+
+00:02:44.190 --> 00:02:48.860
+Hemos demostrado que m de y es igual a--o el parcial de
+
+00:02:48.860 --> 00:02:52.230
+M, con respecto y--es igual al parcial de N,
+
+00:02:52.230 --> 00:02:55.510
+con respecto a x, que nos dice
+
+00:02:55.510 --> 00:02:59.040
+Esta es una ecuación exacta.
+
+00:02:59.040 --> 00:03:06.380
+Ahora, dado que esto es una ecuación exacta--oh, mi esposa
+
+00:03:06.380 --> 00:03:08.120
+colarse detrás de mí, me preguntaba.
+
+00:03:08.120 --> 00:03:09.150
+Pensé que había algunos critter en
+
+00:03:09.150 --> 00:03:09.820
+mi casa, o algo.
+
+00:03:09.820 --> 00:03:13.440
+De todos modos, así que sabemos que esto es una ecuación exacta, así que lo que
+
+00:03:13.440 --> 00:03:14.020
+¿nos dicen?
+
+00:03:14.020 --> 00:03:17.990
+Bueno, eso nos dice que hay algunos psi, donde el
+
+00:03:17.990 --> 00:03:22.060
+derivada parcial de psi, con respecto a x, es igual a
+
+00:03:22.060 --> 00:03:26.420
+M y la derivada parcial de psi, con respecto a y, es
+
+00:03:26.420 --> 00:03:27.600
+igual a N.
+
+00:03:27.600 --> 00:03:30.800
+Y si sabemos que psi, entonces podemos reescribir nuestra
+
+00:03:30.800 --> 00:03:35.090
+ecuación diferencial como el derivado de psi, con
+
+00:03:35.090 --> 00:03:38.450
+respecto a x, es igual a 0.
+
+00:03:38.450 --> 00:03:40.790
+Así que vamos a resolver para psi.
+
+00:03:40.790 --> 00:03:43.765
+Así que sabemos que es el parcial de psi, con respecto a x,
+
+00:03:43.765 --> 00:03:44.390
+igual a M.
+
+00:03:44.390 --> 00:03:45.160
+Por lo podríamos escribir.
+
+00:03:45.160 --> 00:03:50.820
+Podríamos escribir el parcial de psi, con respecto a x, es
+
+00:03:50.820 --> 00:04:01.110
+igual a M, que es y coseno de x, más 2xe a la y.
+
+00:04:01.110 --> 00:04:01.600
+Está justo aquí.
+
+00:04:01.600 --> 00:04:02.570
+Es mi m de x.
+
+00:04:02.570 --> 00:04:03.440
+Podríamos haber hecho al revés.
+
+00:04:03.440 --> 00:04:06.160
+Nos podríamos haber dicho el parcial de y--el parcial de psi,
+
+00:04:06.160 --> 00:04:08.220
+con respecto a y, es esta cosa aquí.
+
+00:04:08.220 --> 00:04:10.430
+Pero vamos a hacerlo con x.
+
+00:04:10.430 --> 00:04:14.910
+Ahora, a por lo menos obtener el tipo de una primera aproximación de lo que
+
+00:04:14.910 --> 00:04:16.930
+tamaño--no una aproximación, pero para empezar a un sentido de
+
+00:04:16.930 --> 00:04:19.829
+It--tomemos la derivada de ambos lados, con respeto
+
+00:04:19.829 --> 00:04:22.000
+--para lo sentimos, tomar la primitiva--tomar la
+
+00:04:22.000 --> 00:04:25.270
+integral de ambos lados, con respecto a x.
+
+00:04:25.270 --> 00:04:28.280
+Así que si usted tomar la derivada de esto, con respecto a x, si
+
+00:04:28.280 --> 00:04:30.800
+integrar--lo siento, si tuviera que tomar la
+
+00:04:30.800 --> 00:04:34.220
+primitiva de esto, con respecto a x.
+
+00:04:34.220 --> 00:04:36.836
+Así que permítanme simplemente anote.
+
+00:04:36.836 --> 00:04:38.520
+El parcial, con respecto a x.
+
+00:04:38.520 --> 00:04:39.360
+Vamos a [? integrar?]
+
+00:04:39.360 --> 00:04:40.820
+que, con respecto a x.
+
+00:04:40.820 --> 00:04:45.030
+Va a ser igual a la integral de todo este
+
+00:04:45.030 --> 00:04:46.820
+cosa, con respecto a x.
+
+00:04:46.820 --> 00:04:51.940
+Coseno de x plus 2xe al y.
+
+00:04:51.940 --> 00:04:53.870
+Nos estamos integrando con respecto a x.
+
+00:04:53.870 --> 00:04:57.220
+Y normalmente al integrar con respecto a x,
+
+00:04:57.220 --> 00:04:59.430
+¿se podría decir, OK, además de c, derecha?
+
+00:04:59.430 --> 00:05:03.000
+Pero en realidad podría ser un plus--ya que es un
+
+00:05:03.000 --> 00:05:05.740
+parcial, con respecto a x, podríamos haber tenido alguna función
+
+00:05:05.740 --> 00:05:09.045
+de aquí y en general, porque y lo tratamos
+
+00:05:09.045 --> 00:05:10.730
+¿como una constante, correcta?
+
+00:05:10.730 --> 00:05:12.300
+Y que tiene sentido, porque si tuviera que tomar la
+
+00:05:12.300 --> 00:05:15.110
+parcial de ambos lados de ésta, con respecto a x, si fueras
+
+00:05:15.110 --> 00:05:17.430
+tomar el parcial de una función que es sólo una
+
+00:05:17.430 --> 00:05:19.420
+función de y, con respecto a x, lo haría
+
+00:05:19.420 --> 00:05:20.880
+han metido a 0 aquí.
+
+00:05:20.880 --> 00:05:22.200
+Así que cuando usted toma la primitiva, fuiste,
+
+00:05:22.200 --> 00:05:24.190
+gusta, oh bien, podría haber habido alguna función de y
+
+00:05:24.190 --> 00:05:26.780
+aquí que perdimos cuando tomamos el parcial,
+
+00:05:26.780 --> 00:05:28.790
+con respecto a x.
+
+00:05:28.790 --> 00:05:34.690
+Así que de todos modos, Esto simplificará a psi.
+
+00:05:34.690 --> 00:05:37.710
+PSI va a ser igual a la integral, con respeto a
+
+00:05:37.710 --> 00:05:40.340
+x, o la primitiva, con respecto a x, aquí, además de algunas
+
+00:05:40.340 --> 00:05:44.130
+función de y que nos podríamos haber perdido cuando tomamos la
+
+00:05:44.130 --> 00:05:46.520
+parcial, con respecto a x.
+
+00:05:46.520 --> 00:05:47.260
+Así que vamos a hacer eso.
+
+00:05:47.260 --> 00:05:49.260
+Vamos a averiguar esta integral.
+
+00:05:49.260 --> 00:05:52.890
+Lo haré en azul y es sólo una constante.
+
+00:05:52.890 --> 00:05:57.310
+Así que la primitiva de y coseno de x, es justo y seno de
+
+00:05:57.310 --> 00:06:04.020
+x, plus--ya sea la y es constante, por lo tanto 2 x.
+
+00:06:04.020 --> 00:06:06.060
+La primitiva de x 2, con respecto a x, es x al cuadrado, lo
+
+00:06:06.060 --> 00:06:10.920
+es x al cuadrado e al y.
+
+00:06:10.920 --> 00:06:18.440
+Y entonces además de alguna función de y.
+
+00:06:18.440 --> 00:06:20.540
+Y si desea comprobarlo, debe tomar la
+
+00:06:20.540 --> 00:06:22.080
+parcial de esto, con respecto a x.
+
+00:06:22.080 --> 00:06:24.200
+Si usted toma el parcial de esto, con respecto a x,
+
+00:06:24.200 --> 00:06:27.780
+vas a conseguir esto aquí, que es nuestra función,
+
+00:06:27.780 --> 00:06:30.310
+M, hasta aquí.
+
+00:06:30.310 --> 00:06:32.190
+Y, a continuación, cuando usted toma el parcial, con respeto
+
+00:06:32.190 --> 00:06:34.720
+x, obtendrá 0, y se pierde. OK, así
+
+00:06:34.720 --> 00:06:35.430
+Estamos casi allí.
+
+00:06:35.430 --> 00:06:38.270
+Casi hemos averiguado de nuestro psi, pero todavía tenemos que
+
+00:06:38.270 --> 00:06:42.030
+averiguar esta función de y.
+
+00:06:42.030 --> 00:06:43.880
+Ahora bien, sabemos si tomamos el parcial, con
+
+00:06:43.880 --> 00:06:47.340
+respecto a y, dado que esta es una ecuación exacta,
+
+00:06:47.340 --> 00:06:48.210
+lleguemos a esto.
+
+00:06:48.210 --> 00:06:49.410
+Lleguemos a nuestra función N.
+
+00:06:49.410 --> 00:06:51.150
+Así que vamos a hacer eso.
+
+00:06:51.150 --> 00:06:55.540
+Así que el parcial--voy cambiar notación, para exponerle
+
+00:06:55.540 --> 00:06:58.340
+para ti--el psi parcial, con respecto a y, va a ser
+
+00:06:58.340 --> 00:07:02.160
+igual a--hasta aquí, y seno de x, seno de x es un
+
+00:07:02.160 --> 00:07:04.420
+constante. y es justo y, por lo que la derivada de ésta, con
+
+00:07:04.420 --> 00:07:06.030
+respecto a y, es justo seno de x.
+
+00:07:08.920 --> 00:07:12.300
+Además la derivada de e a la y e a la y. x cuadrado
+
+00:07:12.300 --> 00:07:12.950
+es simplemente una constante.
+
+00:07:12.950 --> 00:07:18.600
+Así que es sólo x squared e al y, además, lo que tiene el
+
+00:07:18.600 --> 00:07:21.120
+¿parcial de f y, con respecto a y?
+
+00:07:21.120 --> 00:07:26.900
+Va a ser primo de f de y.
+
+00:07:26.900 --> 00:07:27.530
+Bien, ¿qué hicimos?
+
+00:07:27.530 --> 00:07:31.230
+Tomamos M, integramos con respecto a x, y nos dijo:
+
+00:07:31.230 --> 00:07:33.270
+bien, nos podríamos han perdido alguna función de y, por lo que hemos añadido
+
+00:07:33.270 --> 00:07:34.060
+a ella.
+
+00:07:34.060 --> 00:07:37.740
+Y luego tomamos el parcial de ese lado que tenemos casi
+
+00:07:37.740 --> 00:07:40.470
+construido, y tomamos el parcial,
+
+00:07:40.470 --> 00:07:42.040
+con respecto a y.
+
+00:07:42.040 --> 00:07:44.940
+Ahora, sabemos, ya que esto es exacto, que eso va a
+
+00:07:44.940 --> 00:07:46.960
+igual nuestro N.
+
+00:07:46.960 --> 00:07:48.670
+Así, nuestra n es ahí arriba.
+
+00:07:48.670 --> 00:07:52.585
+Coseno de x plus--por lo va a ser igual a--quiero
+
+00:07:52.585 --> 00:07:57.720
+¿para asegurarse de que yo puedo leerlo allí--a nuestro N, derecho?
+
+00:07:57.720 --> 00:07:58.390
+Oh no, lo siento.
+
+00:07:58.390 --> 00:07:59.930
+N es aquí.
+
+00:07:59.930 --> 00:08:00.540
+Nuestro n es aquí.
+
+00:08:00.540 --> 00:08:03.150
+Seno de x--déjame escribir--seno de x y x
+
+00:08:03.150 --> 00:08:05.450
+e cuadrado, estrella, menos 1.
+
+00:08:05.450 --> 00:08:13.760
+Así seno de x plus x e cuadrado, estrella, menos 1.
+
+00:08:17.820 --> 00:08:19.350
+Fue sólo nuestro N, nuestro original
+
+00:08:19.350 --> 00:08:21.470
+ecuación diferencial.
+
+00:08:21.470 --> 00:08:23.720
+Y ahora podemos resolver para prime f de y.
+
+00:08:23.720 --> 00:08:31.010
+Así que vamos a ver, obtenemos seno de x plus x al cuadrado, e a la y,
+
+00:08:31.010 --> 00:08:39.364
+Además prime f de y, es igual al seno de x plus x cuadrado, e a
+
+00:08:39.364 --> 00:08:42.150
+y, menos 1.
+
+00:08:42.150 --> 00:08:45.600
+Así que vamos a ver, podemos borrar seno de x de ambos lados.
+
+00:08:45.600 --> 00:08:48.640
+Podemos borrar x cuadrado e al y desde ambos lados.
+
+00:08:48.640 --> 00:08:49.740
+¿Y, a continuación, lo que nos quedamos con?
+
+00:08:49.740 --> 00:08:55.750
+Estamos salimos con f primo de y es igual a 1.
+
+00:08:55.750 --> 00:09:03.610
+Y entonces estamos salimos con f de y es igual a bueno, se
+
+00:09:03.610 --> 00:09:11.720
+¿es igual y además algunas constantes, c, derecha?
+
+00:09:11.720 --> 00:09:14.350
+¿Cuál es nuestro psi ahora?
+
+00:09:14.350 --> 00:09:17.040
+Escribimos nuestro psi hasta aquí, y hemos tenido esta f y aquí, así que nos
+
+00:09:17.040 --> 00:09:17.600
+puede escribirlo ahora.
+
+00:09:17.600 --> 00:09:20.640
+Tan psi es una función de x y y--estamos realmente bastante
+
+00:09:20.640 --> 00:09:24.240
+casi hecho solución it--psi es una función de x e y es
+
+00:09:24.240 --> 00:09:41.010
+igual a y seno de x, además de x al cuadrado, e al y, además y--
+
+00:09:41.010 --> 00:09:42.860
+Oh, lo siento, esto es f primo de y, menos 1.
+
+00:09:42.860 --> 00:09:44.330
+Así que esto es un signo menos 1.
+
+00:09:44.330 --> 00:09:46.350
+Así que esto es un signo menos y además c.
+
+00:09:46.350 --> 00:09:49.370
+Así que esto va a ser un signo menos y además c.
+
+00:09:49.370 --> 00:09:51.560
+Así que hemos resuelto psi.
+
+00:09:51.560 --> 00:09:52.800
+Y entonces, ¿que nos dicen?
+
+00:09:52.800 --> 00:09:55.390
+Bien, dijimos ecuación diferencial original, arriba
+
+00:09:55.390 --> 00:09:59.390
+aquí, usando la regla de cadena derivada parcial, que
+
+00:09:59.390 --> 00:10:03.270
+ecuación diferencial original, puede ser reescrita ahora
+
+00:10:03.270 --> 00:10:10.740
+como el dx derivado de psi es igual a--psi es una función
+
+00:10:10.740 --> 00:10:14.570
+de x y y--es igual a 0.
+
+00:10:14.570 --> 00:10:17.560
+O si fueras a integrar ambos lados de esta, lo haría
+
+00:10:17.560 --> 00:10:26.630
+conseguir que psi de xy es igual a c es una solución de que
+
+00:10:26.630 --> 00:10:27.430
+ecuación diferencial.
+
+00:10:27.430 --> 00:10:30.020
+Así que si tuviéramos que definir esto es igual a c, que la
+
+00:10:30.020 --> 00:10:30.700
+ecuación diferencial.
+
+00:10:30.700 --> 00:10:37.530
+Así que podríamos decir, y seno de x plus x e cuadrado, estrella,
+
+00:10:37.530 --> 00:10:42.890
+menos y--ahora podríamos decir, más este c--más este c, usted
+
+00:10:42.890 --> 00:10:44.990
+lo llaman c1, es igual a c2.
+
+00:10:44.990 --> 00:10:47.143
+Bien, podría restar la segunda de ambos lados y sólo
+
+00:10:47.143 --> 00:10:48.520
+quedar con una c al final.
+
+00:10:48.520 --> 00:10:53.380
+Pero de todos modos, hemos solucionado esta ecuación exacta, uno,
+
+00:10:53.380 --> 00:10:57.220
+en primer lugar, reconociendo era exacto, tomando el parcial
+
+00:10:57.220 --> 00:11:01.670
+Esto, con respecto a y y ver si eso era igual
+
+00:11:01.670 --> 00:11:04.110
+para el parcial de N, con respecto a x.
+
+00:11:04.110 --> 00:11:07.000
+Una vez que vimos que eran iguales, somos como, OK, esto es
+
+00:11:07.000 --> 00:11:08.090
+va a ser exacta.
+
+00:11:08.090 --> 00:11:09.850
+Así que vamos a averiguar psi.
+
+00:11:09.850 --> 00:11:13.340
+Ya que esto es exacto, M va a ser el parcial de
+
+00:11:13.340 --> 00:11:15.000
+PSI, con respecto a x.
+
+00:11:15.000 --> 00:11:17.700
+N es el parcial de psi, con respecto a y.
+
+00:11:17.700 --> 00:11:21.570
+Entonces para averiguar y, integramos M, con respecto a
+
+00:11:21.570 --> 00:11:25.130
+x, y llegamos a esto.
+
+00:11:25.130 --> 00:11:27.500
+Pero ya hemos dicho, ¡ oh, bien, en lugar de una c plus, podría
+
+00:11:27.500 --> 00:11:29.520
+han sido una función de y, porque tomamos el
+
+00:11:29.520 --> 00:11:32.140
+parcial, con respecto a x, por lo que esto podría haberse perdido. Para
+
+00:11:32.140 --> 00:11:36.100
+averiguar la función de y, entonces tomamos nuestro psi que nos
+
+00:11:36.100 --> 00:11:37.960
+averiguado, se llevó el parcial, con
+
+00:11:37.960 --> 00:11:40.290
+respecto a y, consiguió esto.
+
+00:11:40.290 --> 00:11:42.450
+Y dijimos que era una ecuación exacta, así que esto va a
+
+00:11:42.450 --> 00:11:45.710
+igual nuestro n de x y.
+
+00:11:45.710 --> 00:11:47.750
+Los establecemos iguales entre sí, y luego nos
+
+00:11:47.750 --> 00:11:50.420
+resuelto para f de y.
+
+00:11:50.420 --> 00:11:52.690
+Y luego tuvimos nuestro último psi.
+
+00:11:52.690 --> 00:11:54.320
+Nuestro psi final fue esto.
+
+00:11:54.320 --> 00:11:58.500
+Y entonces la ecuación diferencial, debido a la cadena
+
+00:11:58.500 --> 00:12:01.270
+regla de derivadas parciales, nos podríamos reescribir el
+
+00:12:01.270 --> 00:12:02.330
+ecuación diferencial como esto.
+
+00:12:02.330 --> 00:12:05.000
+La solución es la siguiente, y así que esta es la solución a nuestros
+
+00:12:05.000 --> 00:12:06.510
+ecuación diferencial.
+
+00:12:06.510 --> 00:12:08.780
+Nos vemos en el siguiente vídeo.

@@ -1,0 +1,909 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.690 --> 00:00:04.180
+En este video, voy a presentarles el concepto
+
+00:00:04.180 --> 00:00:09.950
+de la convolución, uno de los primeros tiempos de un matemático
+
+00:00:09.950 --> 00:00:11.810
+algo similar a lo que realmente el nombre
+
+00:00:11.810 --> 00:00:12.590
+está haciendo realidad.
+
+00:00:12.590 --> 00:00:14.590
+Realmente eres CONVOLUTING ó acustica las funciones.
+
+00:00:14.590 --> 00:00:16.970
+Y en este video, no voy a profundizar en el
+
+00:00:16.970 --> 00:00:20.830
+intuición de la convolución, porque hay un montón de
+
+00:00:20.830 --> 00:00:21.770
+se puede mirar de maneras diferentes.
+
+00:00:21.770 --> 00:00:23.430
+Que tiene un montón de diferentes aplicaciones y si usted
+
+00:00:23.430 --> 00:00:26.320
+convertirse en ingeniero realmente de ningún tipo, vas a ver
+
+00:00:26.320 --> 00:00:29.950
+la convolución en especie de una forma discreta y continua
+
+00:00:29.950 --> 00:00:31.620
+formulario y un montón de diferentes maneras.
+
+00:00:31.620 --> 00:00:35.620
+Pero en este video solo quiero hacerte cómoda con
+
+00:00:35.620 --> 00:00:39.100
+la idea de una circunvolución, especialmente en el contexto de
+
+00:00:39.100 --> 00:00:41.290
+teniendo a Laplace transformaciones.
+
+00:00:41.290 --> 00:00:44.760
+Tan convolución teorema--pozo, en realidad, antes incluso
+
+00:00:44.760 --> 00:00:46.970
+ir al teorema de convolución, permítame definir lo que un
+
+00:00:46.970 --> 00:00:48.470
+convolución es.
+
+00:00:48.470 --> 00:00:52.100
+Así que vamos a decir que algunos f función de t.
+
+00:00:52.100 --> 00:00:58.983
+Así que si circunvoluciona f con g--lo que significa me voy
+
+00:00:58.983 --> 00:01:02.250
+tomar la convolución de f y g y esto va a ser
+
+00:01:02.250 --> 00:01:04.220
+una función de t.
+
+00:01:04.220 --> 00:01:06.610
+Y hasta ahora, nada que he escrito debe hacer cualquier sentido
+
+00:01:06.610 --> 00:01:08.790
+a usted, porque yo no he definido lo que esto significa.
+
+00:01:08.790 --> 00:01:11.100
+Esto es como esos problemas del SAT donde dicen, como,
+
+00:01:11.100 --> 00:01:18.060
+usted sabe, un triángulo b significa un plus b más de 3 años, mientras que eres
+
+00:01:18.060 --> 00:01:19.840
+de pie sobre una pierna o algo así.
+
+00:01:19.840 --> 00:01:23.000
+Por eso necesito definir esto de alguna manera similar.
+
+00:01:23.000 --> 00:01:26.455
+Así que permítanme deshacer esta tontería que acaba de escribir allí.
+
+00:01:26.455 --> 00:01:28.960
+Y la definición de una circunvolución, vamos a hacer
+
+00:01:28.960 --> 00:01:32.200
+es sobre un--bueno, hay varias definiciones te vas
+
+00:01:32.200 --> 00:01:34.140
+ver, pero la definición que vamos a utilizar en este, contexto
+
+00:01:34.140 --> 00:01:36.150
+hay realmente una otra definición lo verá en el
+
+00:01:36.150 --> 00:01:45.290
+caso continuo, es la integral de 0 a t f de t
+
+00:01:45.290 --> 00:01:56.195
+menos tau, veces g t--permítanme simplemente escriben TI--perdón, tiene
+
+00:01:56.195 --> 00:02:00.400
+veces g de tau tau d.
+
+00:02:00.400 --> 00:02:04.970
+Ahora, esto puede parecer una cosa muy bizarro, y
+
+00:02:04.970 --> 00:02:07.560
+Usted es como la Sal, cómo incluso calcular
+
+00:02:07.560 --> 00:02:08.520
+¿una de estas cosas?
+
+00:02:08.520 --> 00:02:11.300
+Y tipo de darle esa comodidad, vamos a realmente
+
+00:02:11.300 --> 00:02:12.550
+calcular una convolución.
+
+00:02:15.790 --> 00:02:19.090
+En realidad, era difícil encontrar algunas funciones que son muy
+
+00:02:19.090 --> 00:02:21.345
+fáciles de calcular analíticamente, y vas a encontrar que
+
+00:02:21.345 --> 00:02:23.790
+vamos a entrar en muchas identidades trig realmente
+
+00:02:23.790 --> 00:02:24.860
+calcular esto.
+
+00:02:24.860 --> 00:02:31.680
+Pero si digo que f de t, si defino f de t igual a
+
+00:02:31.680 --> 00:02:36.980
+el seno de t, y definir coseno de t--Permítanme hacerlo
+
+00:02:36.980 --> 00:02:43.810
+naranja--o definir g t igual al coseno de t.
+
+00:02:43.810 --> 00:02:46.930
+Ahora vamos a circunvolucionan las dos funciones.
+
+00:02:46.930 --> 00:02:54.310
+Por lo que la convolución de f con g y esto va a ser un
+
+00:02:54.310 --> 00:02:59.000
+función de t, es igual a esto.
+
+00:02:59.000 --> 00:03:01.490
+Voy a mostrarle cómo aplicar esta integral.
+
+00:03:01.490 --> 00:03:05.040
+Por lo que es igual a la integral--voy a hacer en morado--la
+
+00:03:05.040 --> 00:03:09.120
+integral de 0 a t f t menos tau.
+
+00:03:09.120 --> 00:03:10.090
+Este es mi f de t.
+
+00:03:10.090 --> 00:03:17.810
+Por lo que se va a ser senoidal de t menos tau veces g de tau.
+
+00:03:17.810 --> 00:03:22.500
+Bueno, este es mi g de t, g de tau es coseno de tau,
+
+00:03:22.500 --> 00:03:27.700
+coseno de tau tau d.
+
+00:03:27.700 --> 00:03:30.660
+Eso es la integral, y ahora para evaluarlo, estamos
+
+00:03:30.660 --> 00:03:33.000
+vamos a tener que romper algunos trigonometría.
+
+00:03:33.000 --> 00:03:34.760
+Así que vamos a hacer eso.
+
+00:03:34.760 --> 00:03:37.100
+Esto es casi sólo una muy buena trigonometría y
+
+00:03:37.100 --> 00:03:38.510
+examen de integración.
+
+00:03:38.510 --> 00:03:39.510
+Así que vamos a evaluar esto.
+
+00:03:39.510 --> 00:03:41.470
+Pero quería evaluar esto en este video porque quiero
+
+00:03:41.470 --> 00:03:43.360
+para demostrar que esto no es algo abstracto, que usted
+
+00:03:43.360 --> 00:03:45.730
+realmente se puede evaluar estas funciones.
+
+00:03:45.730 --> 00:03:47.835
+Así que lo primero que quiero hacer--es decir, no sé qué
+
+00:03:47.835 --> 00:03:49.150
+es la primitiva de esto.
+
+00:03:49.150 --> 00:03:51.450
+Es tentador, ves un seno y un coseno, quizá son
+
+00:03:51.450 --> 00:03:52.800
+los derivados de otros, pero esto es el
+
+00:03:52.800 --> 00:03:55.830
+seno de t menos tau.
+
+00:03:55.830 --> 00:03:58.980
+Así que permítanme reescribir ese seno de t menos tau, y veremos sólo
+
+00:03:58.980 --> 00:04:05.210
+utilizar la identidad trig, que es el seno del t menos tau
+
+00:04:05.210 --> 00:04:15.010
+igualdad justa al seno de t veces el coseno de tau menos
+
+00:04:15.010 --> 00:04:18.990
+el seno del tau veces el coseno de t.
+
+00:04:18.990 --> 00:04:21.709
+Y efectivamente, acabo de hacer un video donde voy a través de todos
+
+00:04:21.709 --> 00:04:26.000
+de estas identidades de trig realmente sólo para revisarlos para
+
+00:04:26.000 --> 00:04:28.560
+Yo mismo y realmente hacer un video en mejor calidad en
+
+00:04:28.560 --> 00:04:29.420
+ellos también.
+
+00:04:29.420 --> 00:04:31.560
+Así que si hacemos este subsitution, esto encontrará
+
+00:04:31.560 --> 00:04:35.390
+en el interior de la tapa de cualquier libro de trigonometría o cálculo,
+
+00:04:35.390 --> 00:04:39.175
+obtendrá la convolución de f y g es igual a - I'll just
+
+00:04:39.175 --> 00:04:42.730
+escribir que g f-star; Sólo voy a escribir con la--es igual
+
+00:04:42.730 --> 00:04:48.660
+a la integral de 0 a t, en lugar de seno de t menos
+
+00:04:48.660 --> 00:04:50.780
+Tau, voy a escribir esta cosa allí.
+
+00:04:50.780 --> 00:04:56.970
+Así que voy a escribir el seno del t veces el coseno de tau
+
+00:04:56.970 --> 00:05:04.420
+menos el seno de tau veces el coseno de t y luego todos
+
+00:05:04.420 --> 00:05:06.355
+de es multiplicado por el coseno del tau.
+
+00:05:09.450 --> 00:05:12.970
+Tengo que ser cuidadoso con mi taus y organiza y vamos a ver, t
+
+00:05:12.970 --> 00:05:14.770
+tau, tau y t.
+
+00:05:14.770 --> 00:05:16.490
+Todo está funcionando hasta ahora.
+
+00:05:16.490 --> 00:05:19.810
+Así que vamos a ver, lo es dt.
+
+00:05:19.810 --> 00:05:20.860
+Oh, lo siento, d tau.
+
+00:05:20.860 --> 00:05:22.950
+Permítanme ser muy cuidadoso aquí.
+
+00:05:22.950 --> 00:05:26.460
+Ahora vamos a distribuir este coseno de tau,
+
+00:05:26.460 --> 00:05:27.880
+¿y lo que obtenemos?
+
+00:05:27.880 --> 00:05:32.640
+Conseguimos esto es igual a--f enrevesado con g, supongo que nos
+
+00:05:32.640 --> 00:05:38.710
+llamarlo f-star g, es igual a la integral de 0 a t de
+
+00:05:38.710 --> 00:05:43.560
+seno de t veces coseno de coseno veces tau tau.
+
+00:05:43.560 --> 00:05:44.620
+Yo sólo estoy distribuyendo este coseno de tau.
+
+00:05:44.620 --> 00:05:51.450
+Tan su coseno cuadrado de tau y entonces menos--vamos a reescribir
+
+00:05:51.450 --> 00:05:53.870
+el coseno de t primero y yo estoy haciendo eso porque somos
+
+00:05:53.870 --> 00:05:55.680
+integración con respecto a tau.
+
+00:05:55.680 --> 00:05:58.910
+Tan sólo voy a escribir mi coseno de t primero. Coseno así
+
+00:05:58.910 --> 00:06:09.950
+de t veces sinusoidal de tau veces el coseno de tau tau d.
+
+00:06:09.950 --> 00:06:13.420
+Y ahora, ya estamos tomando la integral de realmente dos
+
+00:06:13.420 --> 00:06:15.530
+cosas restando uno del otro, vamos a girar este
+
+00:06:15.530 --> 00:06:17.860
+en dos integrales separadas.
+
+00:06:17.860 --> 00:06:24.500
+Esto es igual a la integral de 0 a t, de seno
+
+00:06:24.500 --> 00:06:32.010
+de t, a veces el coseno cuadrado de tau tau d menos el
+
+00:06:32.010 --> 00:06:40.710
+integral de 0 a t de coseno de t veces sinusoidal de coseno de tau
+
+00:06:40.710 --> 00:06:43.910
+de tau tau d.
+
+00:06:43.910 --> 00:06:45.390
+Ahora, ¿qué podemos hacer?
+
+00:06:45.390 --> 00:06:48.550
+Bueno, para simplificar la TI más, recuerde, estamos integrando
+
+00:06:48.550 --> 00:06:51.330
+con respecto a--permítanme tenga cuidado aquí.
+
+00:06:51.330 --> 00:06:53.500
+Nos estamos integrando con respecto a tau.
+
+00:06:53.500 --> 00:06:54.700
+Escribí un t allí.
+
+00:06:54.700 --> 00:06:57.320
+Nos estamos integrando con respecto a tau.
+
+00:06:57.320 --> 00:06:59.580
+Así que todos estos, este coseno de t derecha
+
+00:06:59.580 --> 00:07:01.480
+aquí, es una constante.
+
+00:07:01.480 --> 00:07:02.650
+El seno de t es una constante.
+
+00:07:02.650 --> 00:07:04.320
+Para todo lo que sé, t podría ser igual a 5.
+
+00:07:04.320 --> 00:07:06.190
+No importa que uno de los límites de nuestra
+
+00:07:06.190 --> 00:07:07.520
+la integración también es una t.
+
+00:07:07.520 --> 00:07:09.610
+Ese sería un 5, en cuyo caso estos
+
+00:07:09.610 --> 00:07:10.730
+son todas constantes justas.
+
+00:07:10.730 --> 00:07:13.730
+Nos estamos integrando sólo con respecto a la tau, por lo que si
+
+00:07:13.730 --> 00:07:17.500
+coseno de 5, que es una constante, nosotros podemos sacar
+
+00:07:17.500 --> 00:07:17.960
+de la integral.
+
+00:07:17.960 --> 00:07:27.260
+Así que esto es igual al seno del t veces la integral de 0 a t
+
+00:07:27.260 --> 00:07:38.360
+de coseno cuadrado de tau tau d y entonces menos coseno de t--
+
+00:07:38.360 --> 00:07:41.500
+eso es sólo una constante; Traigo afuera--veces el
+
+00:07:41.500 --> 00:07:52.870
+integral de 0 a t del seno del coseno tau tau tau d.
+
+00:07:52.870 --> 00:07:55.270
+Ahora, esta primitiva es bastante sencillo.
+
+00:07:55.270 --> 00:07:57.230
+Usted podría hacer sustitución.
+
+00:07:57.230 --> 00:07:59.470
+Permítanme hacerlo aquí, en lugar de hacerlo en nuestras cabezas.
+
+00:07:59.470 --> 00:08:00.960
+Este es un problema complicado, por lo que no sabemos
+
+00:08:00.960 --> 00:08:02.260
+¿desea saltarse los pasos.
+
+00:08:02.260 --> 00:08:10.260
+Si hemos dicho u es igual al seno del tau, luego d du tau es igual
+
+00:08:10.260 --> 00:08:14.320
+el coseno del tau, sólo la derivada del seno.
+
+00:08:14.320 --> 00:08:18.180
+O podríamos escribir que du es igual a la
+
+00:08:18.180 --> 00:08:23.170
+coseno de tau tau d.
+
+00:08:28.440 --> 00:08:32.120
+Nos podrá deshacer la sustitución antes de que evaluamos la
+
+00:08:32.120 --> 00:08:33.150
+aquí en los extremos.
+
+00:08:33.150 --> 00:08:35.520
+Pero esto fue un poco más de un enigma.
+
+00:08:35.520 --> 00:08:37.370
+No sé cómo tomar la primitiva de coseno
+
+00:08:37.370 --> 00:08:38.360
+cuadrado de tau.
+
+00:08:38.360 --> 00:08:41.270
+No es evidente lo que es.
+
+00:08:41.270 --> 00:08:43.740
+Así que para hacer esto, vamos a salir más
+
+00:08:43.740 --> 00:08:45.600
+identidades trigonométricas.
+
+00:08:45.600 --> 00:08:48.250
+Y en un video que acaba de grabar, no sería la
+
+00:08:48.250 --> 00:08:57.830
+último video en la lista de reproducción, mostraba que el coseno cuadrado
+
+00:08:57.830 --> 00:09:02.960
+de tau--sólo estoy usando tau como un ejemplo--es igual a 1/2
+
+00:09:02.960 --> 00:09:12.660
+veces 1 más el coseno de 2 tau.
+
+00:09:12.660 --> 00:09:15.690
+Y una vez más, esto es simplemente una identidad trig que encontrará
+
+00:09:15.690 --> 00:09:19.250
+realmente en el interior cubierta de probablemente su libro de cálculo.
+
+00:09:19.250 --> 00:09:22.870
+Para que podamos hacer esta sustitución aquí, hacen de este
+
+00:09:22.870 --> 00:09:26.350
+sustitución allí y entonces vamos a ver lo que nuestros
+
+00:09:26.350 --> 00:09:29.930
+integrales se convierten en.
+
+00:09:29.930 --> 00:09:33.280
+Para que el primero de ellos más aquí, permítanme sólo escribirlo aquí.
+
+00:09:33.280 --> 00:09:42.520
+Obtenemos sinusoidal de t veces la integral de 0 a t de este
+
+00:09:42.520 --> 00:09:45.060
+cosa aquí.
+
+00:09:45.060 --> 00:09:50.055
+Permítaseme aprovechar solo la 1/2 out, para mantener las cosas simples.
+
+00:09:50.055 --> 00:09:51.800
+Así que voy a poner la 1/2 aquí.
+
+00:09:51.800 --> 00:09:52.980
+Es este 1/2.
+
+00:09:52.980 --> 00:10:00.080
+Entonces 1 plus coseno de tau 2 y todo eso es d tau.
+
+00:10:02.610 --> 00:10:04.530
+Es este derecho integral allí.
+
+00:10:04.530 --> 00:10:11.560
+Y luego tenemos este derecho integral aquí, menos el coseno de t
+
+00:10:11.560 --> 00:10:15.930
+veces la integral de--permítanme ser muy claro.
+
+00:10:15.930 --> 00:10:25.600
+Esto es tau es igual a 0 para el tau es igual a t.
+
+00:10:25.600 --> 00:10:27.960
+Y luego esta cosa derecha aquí, hice algunos u
+
+00:10:27.960 --> 00:10:28.510
+subsitution.
+
+00:10:28.510 --> 00:10:33.180
+Si usted es igual al seno de t, entonces se convierte en u.
+
+00:10:33.180 --> 00:10:36.710
+Y demostramos que du es igual al coseno--perdón, u es igual
+
+00:10:36.710 --> 00:10:38.060
+al seno del tau.
+
+00:10:38.060 --> 00:10:42.930
+Y, a continuación, mostramos que du es igual a tau coseno d tau, por lo que
+
+00:10:42.930 --> 00:10:46.010
+Esto aquí es igual a du.
+
+00:10:46.010 --> 00:10:53.290
+Por lo tanto es du u y vamos a ver si podemos hacer algo útil ahora.
+
+00:10:53.290 --> 00:11:01.210
+Así que esta integral derecho aquí, la primitiva de esto es
+
+00:11:01.210 --> 00:11:03.305
+¿bastante sencillo, así que lo vamos a conseguir?
+
+00:11:03.305 --> 00:11:05.110
+Déjame escribir esto fuera parte.
+
+00:11:05.110 --> 00:11:10.060
+Así tenemos 1/2 veces el seno de t.
+
+00:11:10.060 --> 00:11:13.220
+Y ahora aprovecho la primitiva de esto.
+
+00:11:13.220 --> 00:11:17.400
+Esto va a ser tau plus la primitiva de esto.
+
+00:11:17.400 --> 00:11:20.465
+Va a ser sinusoidal de 1/2 de 2 tau.
+
+00:11:24.870 --> 00:11:26.550
+O sea, podríamos haber hecho la sustitución de la u.
+
+00:11:26.550 --> 00:11:29.720
+nos podríamos haber dicho u es igual a 2 tau y todo eso, pero
+
+00:11:29.720 --> 00:11:31.460
+Creo que se podía hacer eso de reconocimiento, y si no lo hace
+
+00:11:31.460 --> 00:11:34.720
+Créanme, sólo tienes que tomar la derivada de esto.
+
+00:11:34.720 --> 00:11:38.230
+1/2 seno de tau 2 es la derivada de esto.
+
+00:11:38.230 --> 00:11:41.550
+Multiplicas, tomar la derivada del interior, por lo que
+
+00:11:41.550 --> 00:11:44.840
+es 2, por lo que cancelan el 2 y el 1/2 y la derivada
+
+00:11:44.840 --> 00:11:47.450
+del exterior, así que coseno de tau 2.
+
+00:11:47.450 --> 00:11:52.910
+Y vas a evaluar de 0 a t.
+
+00:11:52.910 --> 00:11:58.550
+Y luego tenemos menos coseno de t.
+
+00:11:58.550 --> 00:12:01.550
+Cuando tomamos la primitiva de esto--
+
+00:12:01.550 --> 00:12:02.690
+me hacerlo del lado.
+
+00:12:02.690 --> 00:12:07.540
+Así la integral de le du, es trivialmente fácil.
+
+00:12:07.540 --> 00:12:12.320
+Que es 1/2 u cuadrada.
+
+00:12:12.320 --> 00:12:15.940
+¿Ahora, que es de 1/2 u cuadrado, pero lo que le fue comenzar con?
+
+00:12:15.940 --> 00:12:18.610
+Era sinusoidal de tau.
+
+00:12:18.610 --> 00:12:22.970
+Por lo que la primitiva de esta cosa aquí es 1/2 u
+
+00:12:22.970 --> 00:12:25.290
+cuadrado, pero u es senoidal de tau.
+
+00:12:25.290 --> 00:12:33.490
+Así va a ser 1/2u, que es seno de tau al cuadrado.
+
+00:12:33.490 --> 00:12:39.130
+Y vamos a evaluar de 0 a t.
+
+00:12:39.130 --> 00:12:41.120
+Y aún no tenemos que hacer todas esta sustitución de u.
+
+00:12:41.120 --> 00:12:43.600
+La manera en que lo hago a menudo en mi cabeza, veo en el seno del tau,
+
+00:12:43.600 --> 00:12:44.790
+coseno de tau.
+
+00:12:44.790 --> 00:12:47.370
+Si tengo una función y su derivada, que pueda
+
+00:12:47.370 --> 00:12:50.140
+tratar igual que funcionan como si tuviera una x allí, por lo que
+
+00:12:50.140 --> 00:12:53.690
+sería seno cuadrado de tau más 2, que es exactamente lo que
+
+00:12:53.690 --> 00:12:54.980
+tenemos allí.
+
+00:12:54.980 --> 00:12:56.896
+Así que parece que estamos en la recta final.
+
+00:12:59.810 --> 00:13:03.790
+Estamos tomando la convolución de seno de t con coseno de t.
+
+00:13:03.790 --> 00:13:09.880
+Y así obtenemos sinusoidal de 1/2 de t.
+
+00:13:09.880 --> 00:13:12.520
+Ahora, si he de evaluar esta cosa en t, ¿qué obtengo?
+
+00:13:12.520 --> 00:13:18.230
+Obtener t plus 1/2 seno de 2t, que es cuando me
+
+00:13:18.230 --> 00:13:19.800
+evaluó en t.
+
+00:13:19.800 --> 00:13:23.160
+Y luego de necesito Réstelo evaluado en 0, así
+
+00:13:23.160 --> 00:13:30.720
+menos 0 menos 1/2 seno de 2 tiempos 0, que es
+
+00:13:30.720 --> 00:13:33.170
+sólo sinusoidal de 0.
+
+00:13:33.170 --> 00:13:35.930
+Así que aquí esta parte, todo esto derecho allí, lo que
+
+00:13:35.930 --> 00:13:37.460
+¿que simplifican a?
+
+00:13:37.460 --> 00:13:40.910
+Bueno esto es 0, seno de 0 es 0, así que esto es todo de 0.
+
+00:13:40.910 --> 00:13:47.940
+Así que esta primera integral allí simplifica a sinusoidal de 1/2
+
+00:13:47.940 --> 00:13:56.010
+de t veces t más sinusoidal de 1/2 de 2 t.
+
+00:14:00.740 --> 00:14:04.280
+¿Bien, ahora lo esta uno simplificar a aquí?
+
+00:14:04.280 --> 00:14:12.191
+Bueno, este uno aquí, tienes menos coseno de t.
+
+00:14:12.191 --> 00:14:14.900
+Y vamos a evaluar todo esto en t, por lo que usted
+
+00:14:14.900 --> 00:14:23.200
+Obtenga 1/2 seno cuadrado de t menos 1/2 el seno de 0
+
+00:14:23.200 --> 00:14:26.680
+cuadrado, que sólo es 0, por lo que es justo menos 0.
+
+00:14:26.680 --> 00:14:32.180
+Hasta ahora, todo lo que hemos escrito simplifica a--
+
+00:14:32.180 --> 00:14:34.550
+Permítanme multiplicarlo todo.
+
+00:14:34.550 --> 00:14:41.810
+Así que tengo 1/2--permítanme elige un buen color--sinusoidal de 1/2t
+
+00:14:41.810 --> 00:14:50.580
+de t--sólo estoy multiplicando los out--plus sinusoidal de 1/4 de t
+
+00:14:50.580 --> 00:14:53.110
+seno de 2 t.
+
+00:14:53.110 --> 00:15:02.210
+Y, a continuación, aquí he menos sinusoidal de 1/2 cuadrado t veces
+
+00:15:02.210 --> 00:15:03.640
+coseno de t.
+
+00:15:03.640 --> 00:15:05.910
+Acaba de tomar menos coseno t y multiplique el resultado por aquí
+
+00:15:05.910 --> 00:15:08.420
+y tengo.
+
+00:15:08.420 --> 00:15:11.200
+Ahora, esta es una respuesta válida, pero sospecho que podemos
+
+00:15:11.200 --> 00:15:15.000
+simplificar esto, tal vez con algunos más trigonométrica
+
+00:15:15.000 --> 00:15:16.160
+identidades.
+
+00:15:16.160 --> 00:15:20.720
+Y este chico allí parece maduro simplificar.
+
+00:15:20.720 --> 00:15:26.530
+Y sabemos que el seno de 2t--otra identidad trig
+
+00:15:26.530 --> 00:15:28.790
+encontrará en el interior cubierta de cualquiera de sus libros--
+
+00:15:28.790 --> 00:15:34.890
+es 2 veces el seno del t veces el coseno de t.
+
+00:15:34.890 --> 00:15:36.930
+Así que si allí se sustituye, lo que hace nuestro conjunto
+
+00:15:36.930 --> 00:15:38.480
+¿expresión igual?
+
+00:15:38.480 --> 00:15:40.705
+Esto le primer término.
+
+00:15:40.705 --> 00:15:42.890
+Permítanme Desplácese hacia abajo un poco.
+
+00:15:42.890 --> 00:15:54.280
+Obtendrá 1/2t veces el seno del t plus sinusoidal de 1/4 de t veces
+
+00:15:54.280 --> 00:16:01.640
+esta cosa aquí, así que veces 2 seno del coseno t de t.
+
+00:16:01.640 --> 00:16:04.230
+Sólo una vértice geodésico identidad, nada más que eso.
+
+00:16:04.230 --> 00:16:09.870
+Y entonces finalmente tengo esto menos sinusoidal de 1/2 cuadrado t
+
+00:16:09.870 --> 00:16:11.520
+coseno de t.
+
+00:16:11.520 --> 00:16:13.590
+Nadie nunca dijo que esto iba a ser fácil, pero
+
+00:16:13.590 --> 00:16:15.610
+Esperemos que es instructivo en algún nivel.
+
+00:16:15.610 --> 00:16:17.940
+Al menos le muestra que no memorizar su trig
+
+00:16:17.940 --> 00:16:20.230
+identidades para nada.
+
+00:16:20.230 --> 00:16:22.190
+Así que permítanme reescribir la cosa entera, o déjame solo
+
+00:16:22.190 --> 00:16:23.420
+reescribir esta parte.
+
+00:16:23.420 --> 00:16:26.100
+Esto es igual a 1/4.
+
+00:16:26.100 --> 00:16:29.810
+Ahora, yo he--bien déjame ver, 2 1/4 veces.
+
+00:16:29.810 --> 00:16:32.040
+1/4 veces 2 es 1/2.
+
+00:16:32.040 --> 00:16:35.450
+¿Y luego seno cuadrado de t, derecha?
+
+00:16:35.450 --> 00:16:39.490
+Este seno veces este seno es seno cuadrado del coseno t de t.
+
+00:16:39.490 --> 00:16:45.180
+Y luego esta aquí es menos sinusoidal de 1/2 cuadrado de t
+
+00:16:45.180 --> 00:16:46.930
+coseno de t.
+
+00:16:46.930 --> 00:16:50.920
+Y por suerte para nosotros, o suerte para nosotros, estos cancelan.
+
+00:16:50.920 --> 00:16:52.900
+Y, por supuesto, tuvimos este chico fuera en la parte delantera.
+
+00:16:52.900 --> 00:16:58.640
+Tuvimos este t 1/2t sine salida en la parte delantera.
+
+00:16:58.640 --> 00:17:01.900
+Ahora, este chico se cancela con este chico y todos que estamos dejamos
+
+00:17:01.900 --> 00:17:05.450
+con, a través de este problema toda peluda y esto es bonito
+
+00:17:05.450 --> 00:17:11.180
+satisfacción, es senoidal 1/2t de t.
+
+00:17:11.180 --> 00:17:16.450
+Por lo que sólo le mostramos que la convolución--si defino--
+
+00:17:16.450 --> 00:17:17.869
+Déjame escribir nuestro resultado.
+
+00:17:17.869 --> 00:17:23.260
+Tengo ganas de escribir esto en piedra porque
+
+00:17:23.260 --> 00:17:25.119
+Esto fue mucho trabajo.
+
+00:17:25.119 --> 00:17:32.800
+Pero si escribimos f de t es igual al seno de t y g t
+
+00:17:32.800 --> 00:17:35.870
+es igual al coseno de t, simplemente mostré lo que la
+
+00:17:35.870 --> 00:17:41.040
+convolución de f con g, que es una función de t, que es
+
+00:17:41.040 --> 00:17:48.950
+definida como la integral de 0 a t f t menos veces tau
+
+00:17:48.950 --> 00:17:54.180
+g de tau tau d, que era igual a--y voy a cambiar
+
+00:17:54.180 --> 00:17:59.400
+colores aquí--que era igual a la integral de 0 a t de
+
+00:17:59.400 --> 00:18:08.470
+seno de t menos tau veces g de tau tau d, que todo esto
+
+00:18:08.470 --> 00:18:12.180
+desorden, todos de esta convolución, todos iguales--y esto es
+
+00:18:12.180 --> 00:18:21.230
+bastante satisfactorio--todo equivale a 1/2t sinusoidal de t.
+
+00:18:21.230 --> 00:18:23.400
+Y la razón toda por qué fui a través de todo este lío
+
+00:18:23.400 --> 00:18:26.680
+y tipo de sacar de las neuronas que tenían el trig
+
+00:18:26.680 --> 00:18:29.280
+identidades memorizado o tener que comprobar ellos o lo que sea
+
+00:18:29.280 --> 00:18:32.310
+otra cosa es mostrar que esta circunvolución, es
+
+00:18:32.310 --> 00:18:34.740
+enrevesados y parece un poco extraño, pero usted
+
+00:18:34.740 --> 00:18:39.100
+realmente puede tomar las convoluciones de real
+
+00:18:39.100 --> 00:18:41.390
+funciones y obtener una respuesta real.
+
+00:18:41.390 --> 00:18:44.250
+Así es la convolución de seno de t con coseno de t
+
+00:18:44.250 --> 00:18:46.660
+1/2t sinusoidal de t.
+
+00:18:46.660 --> 00:18:49.060
+Así que, con suerte, tienes un poco de intuición de--bien,
+
+00:18:49.060 --> 00:18:52.370
+no de intuición, pero al menos hay un poco de
+
+00:18:52.370 --> 00:18:56.620
+comprensión práctica de cómo puede ser la convolución
+
+00:18:56.620 --> 00:18:57.870
+calculado.

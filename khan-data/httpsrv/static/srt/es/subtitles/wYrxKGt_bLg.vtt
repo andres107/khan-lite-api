@@ -1,0 +1,669 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.520 --> 00:00:03.530
+Vamos a resolver unos cuantos más sistemas de ecuaciones usando
+
+00:00:03.530 --> 00:00:07.520
+eliminación, pero en ellas no será un solo tipo de un paso
+
+00:00:07.520 --> 00:00:08.070
+eliminación.
+
+00:00:08.070 --> 00:00:11.350
+Vamos a tener que masaje las ecuaciones un poquito en
+
+00:00:11.350 --> 00:00:13.530
+fin de prepararlos para la eliminación.
+
+00:00:13.530 --> 00:00:20.480
+Así que vamos a decir que tenemos una ecuación, es cinco veces menos 10y
+
+00:00:20.480 --> 00:00:23.130
+igual a 15.
+
+00:00:23.130 --> 00:00:32.159
+Y tenemos otra ecuación, x 3 menos 2y es igual a 3.
+
+00:00:32.159 --> 00:00:34.350
+Y le dije que queremos hacer esto mediante la eliminación.
+
+00:00:34.350 --> 00:00:37.440
+Una vez más, podríamos utilizar sustitución, nosotros podríamos gráfico
+
+00:00:37.440 --> 00:00:40.430
+ambas líneas y dónde la figura que se intersecten.
+
+00:00:40.430 --> 00:00:41.930
+Pero vamos a utilizar la eliminación.
+
+00:00:41.930 --> 00:00:43.740
+Pero el primero que usted podría decir: bueno, Sal, ustedes saben, con
+
+00:00:43.740 --> 00:00:46.450
+eliminación, fueron restando la izquierda
+
+00:00:46.450 --> 00:00:49.160
+de una ecuación de otro o la adición de dos y luego
+
+00:00:49.160 --> 00:00:50.580
+la adición de los dos lados de la derecho.
+
+00:00:50.580 --> 00:00:52.610
+Y podría hacer eso, porque esencialmente fue agregar el
+
+00:00:52.610 --> 00:00:55.180
+lo mismo que a ambos lados de la ecuación.
+
+00:00:55.180 --> 00:00:57.010
+Pero aquí, no es evidente que
+
+00:00:57.010 --> 00:00:57.870
+sería de ayuda.
+
+00:00:57.870 --> 00:01:00.970
+Si añadimos estos dos lados izquierdos, obtendría
+
+00:01:00.970 --> 00:01:03.750
+8 x menos 12 y.
+
+00:01:03.750 --> 00:01:05.580
+Que no eliminan las variables.
+
+00:01:05.580 --> 00:01:06.930
+Y en el lado derecho, lo haría sólo
+
+00:01:06.930 --> 00:01:08.030
+quedar con un número.
+
+00:01:08.030 --> 00:01:09.400
+Y si resta, que no
+
+00:01:09.400 --> 00:01:10.420
+eliminar las variables.
+
+00:01:10.420 --> 00:01:12.710
+Entonces, ¿cómo va la eliminación a ayudar aquí?
+
+00:01:12.710 --> 00:01:16.370
+Y la respuesta es que nosotros podemos multiplicar ambas
+
+00:01:16.370 --> 00:01:20.070
+ecuaciones de tal manera que tal vez podemos conseguir uno de estos
+
+00:01:20.070 --> 00:01:24.250
+términos para cancelar con uno de los otros.
+
+00:01:24.250 --> 00:01:26.210
+Y realmente, puede elegir que plazo le
+
+00:01:26.210 --> 00:01:27.890
+¿desea cancelar.
+
+00:01:27.890 --> 00:01:31.690
+Digamos que queremos los términos y se cancelan. Así que iré sólo
+
+00:01:31.690 --> 00:01:34.510
+reescribir esta x 5 menos 10y aquí.
+
+00:01:34.510 --> 00:01:39.860
+5 x menos 10y es igual a 15.
+
+00:01:39.860 --> 00:01:43.260
+Ahora, hay algo que yo puedo multiplicar esta verde
+
+00:01:43.260 --> 00:01:47.420
+ecuación por lo que esta negativa 2y plazo será un
+
+00:01:47.420 --> 00:01:50.200
+¿término que se cancela con el 10y negativo?
+
+00:01:50.200 --> 00:01:52.980
+Así que básicamente quiero hacer este 2y negativo en un
+
+00:01:52.980 --> 00:01:54.690
+10 positivos y.
+
+00:01:54.690 --> 00:01:54.950
+¿Verdad?
+
+00:01:54.950 --> 00:01:57.660
+Porque si se trata de un 10y positivo, podrá cancelar fuera cuando me
+
+00:01:57.660 --> 00:02:00.400
+agregar los lados izquierdos de esta ecuación.
+
+00:02:00.400 --> 00:02:03.280
+Así que ¿qué puedo yo multiplicar esta ecuación por?
+
+00:02:03.280 --> 00:02:06.210
+Bueno, si multiplicar por 5 negativos, negativo 5 veces
+
+00:02:06.210 --> 00:02:08.880
+negativo 2 aquí sería positivo 10.
+
+00:02:08.880 --> 00:02:09.949
+Así que vamos a hacer eso.
+
+00:02:09.949 --> 00:02:15.870
+Vamos a multiplicar esta ecuación veces 5 negativos.
+
+00:02:15.870 --> 00:02:18.820
+Para multiplicar el lado izquierdo por 5 negativos, y
+
+00:02:18.820 --> 00:02:22.280
+la derecha se multiplica por 5 negativos.
+
+00:02:22.280 --> 00:02:23.310
+¿Y lo que obtienes?
+
+00:02:23.310 --> 00:02:25.110
+Recuerde que no somos fundamentalmente
+
+00:02:25.110 --> 00:02:26.490
+cambiar la ecuación.
+
+00:02:26.490 --> 00:02:28.700
+No estamos cambiando la información en la ecuación.
+
+00:02:28.700 --> 00:02:31.750
+Estamos haciendo lo mismo a ambos lados de la misma.
+
+00:02:31.750 --> 00:02:34.950
+Por lo tanto el lado izquierdo de la ecuación se convierte en negativo 5
+
+00:02:34.950 --> 00:02:40.310
+veces x 3 es negativo x 15.
+
+00:02:40.310 --> 00:02:46.010
+Y entonces negativo es de 5 veces 2y negativo es más 10y,
+
+00:02:46.010 --> 00:02:51.210
+igual a 3 veces negativa 5 es negativo 15.
+
+00:02:51.210 --> 00:02:54.820
+Y ahora, estamos listos para hacer nuestra eliminación.
+
+00:02:54.820 --> 00:02:57.980
+Si sumamos esto a la izquierda de la amarilla
+
+00:02:57.980 --> 00:03:01.120
+ecuación y nos Añadir 15 negativo a la derecha
+
+00:03:01.120 --> 00:03:04.690
+parte de la ecuación de amarilla, estamos agregando lo mismo
+
+00:03:04.690 --> 00:03:06.460
+a ambos lados de la ecuación.
+
+00:03:06.460 --> 00:03:08.230
+Porque esto es igual a.
+
+00:03:08.230 --> 00:03:09.480
+Así que vamos a hacer eso.
+
+00:03:13.260 --> 00:03:17.430
+Hasta 5 x menos 15y--, tenemos este pequeño signo negativo nos
+
+00:03:17.430 --> 00:03:21.020
+no quiero perder eso, que es negativo x 10.
+
+00:03:21.020 --> 00:03:22.320
+Cancela la y.
+
+00:03:22.320 --> 00:03:25.430
+Negativo 10y plus 10y, que es 0 y.
+
+00:03:25.430 --> 00:03:28.480
+Fue la razón detrás de esto por multiplicar
+
+00:03:28.480 --> 00:03:29.720
+5 negativos.
+
+00:03:29.720 --> 00:03:35.230
+Va a ser igual a--15 menos 15 es 0.
+
+00:03:35.230 --> 00:03:37.450
+Tan negativa 10 x es igual a 0.
+
+00:03:37.450 --> 00:03:43.250
+Dividir ambos lados por 10 negativos, y obtendrá
+
+00:03:43.250 --> 00:03:46.010
+x es igual a 0.
+
+00:03:46.010 --> 00:03:49.880
+Y ahora nos podemos sustituir a cualquiera de estas ecuaciones
+
+00:03:49.880 --> 00:03:51.920
+para averiguar qué y debe ser igual a.
+
+00:03:51.920 --> 00:03:53.960
+Vamos a sustituir en la ecuación superior.
+
+00:03:53.960 --> 00:04:01.280
+Por lo que obtener 5 veces 0, menos 10y, equivale a 15.
+
+00:04:01.280 --> 00:04:04.560
+O 10y negativo equivale a 15.
+
+00:04:04.560 --> 00:04:05.240
+Permítanme escribir.
+
+00:04:05.240 --> 00:04:08.290
+10Y negativo es igual a 15.
+
+00:04:08.290 --> 00:04:13.660
+Dividir ambos lados por 10 negativos.
+
+00:04:13.660 --> 00:04:16.670
+Y nos quedamos con y es igual a
+
+00:04:16.670 --> 00:04:21.620
+15/10, es negativo 3/2.
+
+00:04:21.620 --> 00:04:25.100
+Así que si fueras a ella, el punto de intersección de gráfica
+
+00:04:25.100 --> 00:04:29.430
+sería el punto 0, 3/2 negativos.
+
+00:04:29.430 --> 00:04:32.370
+Y puede comprobar que también cumple esta ecuación.
+
+00:04:32.370 --> 00:04:37.020
+La ecuación original aquí fue 3 x menos
+
+00:04:37.020 --> 00:04:39.290
+2y es igual a 3.
+
+00:04:39.290 --> 00:04:48.370
+es 3 veces 0, que es 0, menos 2 veces negativos 3/2, esto es
+
+00:04:48.370 --> 00:04:51.810
+0, esto es positivo 3.
+
+00:04:51.810 --> 00:04:52.080
+¿Verdad?
+
+00:04:52.080 --> 00:04:54.160
+Estos cancelar a estos ser positivos.
+
+00:04:54.160 --> 00:04:56.130
+Además 3 positiva es igual a 3.
+
+00:04:56.130 --> 00:05:00.040
+Por lo que de hecho esto satisfacer ambas ecuaciones.
+
+00:05:00.040 --> 00:05:03.160
+Vamos a hacer otro de estos donde tenemos que multiplicar, y
+
+00:05:03.160 --> 00:05:06.890
+a las ecuaciones de masaje y, a continuación, podemos eliminar uno de
+
+00:05:06.890 --> 00:05:09.000
+las variables.
+
+00:05:09.000 --> 00:05:11.550
+Vamos a hacer otro.
+
+00:05:11.550 --> 00:05:21.330
+Supongamos que tenemos 5 x plus 7y es igual a 15.
+
+00:05:21.330 --> 00:05:29.150
+Y tenemos 7--me deja hacer otro color--7 x menos 3 años es
+
+00:05:29.150 --> 00:05:31.350
+igual a 5.
+
+00:05:31.350 --> 00:05:33.810
+Ahora una vez más, si sólo agrega o resta tanto la
+
+00:05:33.810 --> 00:05:35.020
+lados izquierdos, no vas a
+
+00:05:35.020 --> 00:05:36.170
+eliminar las variables.
+
+00:05:36.170 --> 00:05:39.350
+Estos no son en modo alguno tipo de tener el mismo coeficiente
+
+00:05:39.350 --> 00:05:41.180
+o la negativa de su coeficiente.
+
+00:05:41.180 --> 00:05:42.940
+Así que vamos a seleccionar una variable para eliminar.
+
+00:05:42.940 --> 00:05:46.740
+Digamos que queremos eliminar la x esta vez.
+
+00:05:46.740 --> 00:05:49.180
+Y que literalmente podría elegir uno de los
+
+00:05:49.180 --> 00:05:49.930
+variables u otra.
+
+00:05:49.930 --> 00:05:50.480
+No importa.
+
+00:05:50.480 --> 00:05:52.415
+Se puede decir vamos a eliminar la y en primer lugar. Pero me voy
+
+00:05:52.415 --> 00:05:56.060
+¿desea eliminar primero el x. Y lo que necesito para
+
+00:05:56.060 --> 00:06:00.840
+hacer es masaje una o ambas de estas ecuaciones de manera que
+
+00:06:00.840 --> 00:06:03.330
+estos chicos tienen los mismos coeficientes, o sus
+
+00:06:03.330 --> 00:06:05.510
+coeficientes son los negativos entre sí, así que cuando me
+
+00:06:05.510 --> 00:06:08.400
+agregar los lados izquierdos, van a eliminar
+
+00:06:08.400 --> 00:06:09.600
+Uno al otro.
+
+00:06:09.600 --> 00:06:12.960
+Ahora, no hay nada evidente--yo puedo multiplicar esto por un
+
+00:06:12.960 --> 00:06:15.630
+fracción para que sea igual a la negativa de 5.
+
+00:06:15.630 --> 00:06:17.950
+O puedo multiplicar esto por una fracción para que sea igual a
+
+00:06:17.950 --> 00:06:18.930
+7 negativos.
+
+00:06:18.930 --> 00:06:22.420
+Pero incluso una diversión más lo es puedo tratar de obtener ambos
+
+00:06:22.420 --> 00:06:24.220
+ellos a su mínimo común múltiplo.
+
+00:06:24.220 --> 00:06:27.980
+Pude obtener de ambos a 35.
+
+00:06:27.980 --> 00:06:30.130
+Y la forma en que puedo hacerlo multiplicando por unos a otros.
+
+00:06:30.130 --> 00:06:32.775
+Así que puedo multiplicar esta ecuación superior por 7.
+
+00:06:38.170 --> 00:06:41.560
+Y yo estoy recogiendo 7 para que esto se convierte en un 35.
+
+00:06:41.560 --> 00:06:44.835
+Y yo puedo multiplicar esta ecuación inferior por 5 negativos.
+
+00:06:49.740 --> 00:06:52.230
+Y la razón de por qué estoy haciendo que es por lo que se convierte en un
+
+00:06:52.230 --> 00:06:53.270
+35 negativo.
+
+00:06:53.270 --> 00:06:55.980
+Recuerde, mi punto es que quiero eliminar la x
+
+00:06:55.980 --> 00:07:00.670
+Así que si esto hacer un 35, y si esto hacer un negativo 35,
+
+00:07:00.670 --> 00:07:01.630
+a continuación, voy a estar listo.
+
+00:07:01.630 --> 00:07:04.480
+Puedo añadir la izquierda y la derecha
+
+00:07:04.480 --> 00:07:06.070
+partes de las ecuaciones.
+
+00:07:06.070 --> 00:07:09.996
+Por lo tanto esta ecuación superior, cuando se multiplica por 7, se convierte en--
+
+00:07:09.996 --> 00:07:13.790
+Quiero subir un poco--que multiplicarlo por 7,
+
+00:07:13.790 --> 00:07:22.960
+se convierte en 35 x plus 49y es igual a--vamos a ver, se trata de 70
+
+00:07:22.960 --> 00:07:28.950
+Además 35 equivale a 105.
+
+00:07:28.950 --> 00:07:29.250
+¿Verdad?
+
+00:07:29.250 --> 00:07:31.930
+15 y 70, además de 35, es igual a 105.
+
+00:07:31.930 --> 00:07:33.960
+Eso es lo que se convierte en la ecuación superior.
+
+00:07:33.960 --> 00:07:38.000
+Esta ecuación de fondo se convierte en negativa es de 7 x 5 veces,
+
+00:07:38.000 --> 00:07:47.110
+negativo x 35, negativo 5 veces negativos 3 años es además 15 y.
+
+00:07:47.110 --> 00:07:48.520
+Cancelan los negativos.
+
+00:07:48.520 --> 00:07:51.640
+Y, a continuación, 5--esto no es un signo menos 5--esto es veces
+
+00:07:51.640 --> 00:07:53.060
+5 negativos.
+
+00:07:53.060 --> 00:07:57.640
+5 veces 5 negativo equivale a negativo 25.
+
+00:07:57.640 --> 00:08:01.760
+Ahora, podemos empezar con esta ecuación superior y agregar el mismo
+
+00:08:01.760 --> 00:08:05.220
+lo que a ambos lados, donde esa misma cosa es negativa
+
+00:08:05.220 --> 00:08:08.130
+25, que es también igual a esta expresión.
+
+00:08:08.130 --> 00:08:09.960
+Así que vamos a añadir a los lados izquierdos y
+
+00:08:09.960 --> 00:08:10.710
+los lados derecho.
+
+00:08:10.710 --> 00:08:13.250
+Porque realmente estamos agregando lo mismo a ambos lados
+
+00:08:13.250 --> 00:08:15.200
+de la ecuación.
+
+00:08:15.200 --> 00:08:17.430
+Por lo tanto el lado izquierdo, el x cancela.
+
+00:08:17.430 --> 00:08:20.050
+35 x menos x 35.
+
+00:08:20.050 --> 00:08:22.020
+Este fue el punto completo.
+
+00:08:22.020 --> 00:08:27.760
+Cancelan y sobre el y obtendrá 49y plus 15y,
+
+00:08:27.760 --> 00:08:30.360
+es decir 64 y.
+
+00:08:30.360 --> 00:08:37.470
+64y es igual a 105 menos 25 es igual a 80.
+
+00:08:37.470 --> 00:08:49.060
+Dividir ambos lados por 64 y obtendrá y es igual a 80/64.
+
+00:08:49.060 --> 00:08:50.820
+Y vamos a ver, si divide el numerador y el
+
+00:08:50.820 --> 00:08:55.570
+denominador por 8--realmente podría probablemente hacer 16.
+
+00:08:55.570 --> 00:08:56.780
+16 sería mejor.
+
+00:08:56.780 --> 00:08:58.590
+Pero vamos a hacer 8 en primer lugar, porque nos
+
+00:08:58.590 --> 00:08:59.860
+conocer nuestro 8 veces las tablas.
+
+00:08:59.860 --> 00:09:03.720
+Por lo que se convierte en 10/8, y luego se puede dividir por 2, y
+
+00:09:03.720 --> 00:09:06.200
+obtendrá 5/4.
+
+00:09:06.200 --> 00:09:08.020
+Si divide sólo hacia arriba por 16, habría ido
+
+00:09:08.020 --> 00:09:09.600
+directamente a 5/4.
+
+00:09:09.600 --> 00:09:11.340
+Por lo que es igual a 5/4.
+
+00:09:11.340 --> 00:09:13.390
+Vamos a averiguar qué es.
+
+00:09:13.390 --> 00:09:16.340
+Por lo tanto podemos sustituir o bien en una de estas ecuaciones,
+
+00:09:16.340 --> 00:09:18.300
+o en una de las ecuaciones originales.
+
+00:09:18.300 --> 00:09:21.140
+Vamos a sustituir en la segunda del original
+
+00:09:21.140 --> 00:09:26.250
+ecuaciones, donde teníamos 7 x menos 3 años es igual a 5.
+
+00:09:26.250 --> 00:09:29.450
+Que fue la versión original de la ecuación que nos
+
+00:09:29.450 --> 00:09:31.790
+más tarde se transformó en esto.
+
+00:09:31.790 --> 00:09:42.070
+Por lo que obtener 7 x menos y 3 veces, veces 5/4, es igual a 5.
+
+00:09:42.070 --> 00:09:49.180
+O es igual a 5 x 7 menos 15/4.
+
+00:09:49.180 --> 00:09:54.600
+Vamos a agregar 15/4--Oh, lo siento, no hice ese derecho.
+
+00:09:54.600 --> 00:10:00.780
+Esto sería 7 x menos 3 veces 4--Oh, lo siento, que tenía razón.
+
+00:10:00.780 --> 00:10:01.290
+¿Qué estoy haciendo?
+
+00:10:01.290 --> 00:10:05.520
+3 veces es 15/4.
+
+00:10:05.520 --> 00:10:07.290
+Es igual a 5.
+
+00:10:07.290 --> 00:10:16.960
+Vamos a agregar 15/4 a ambos lados.
+
+00:10:16.960 --> 00:10:18.290
+¿Y lo que obtenemos?
+
+00:10:18.290 --> 00:10:20.940
+La izquierda sólo se convierte en un x 7.
+
+00:10:20.940 --> 00:10:22.630
+Estos chicos se cancelan.
+
+00:10:22.630 --> 00:10:24.810
+Y es que va a ser igual a 5, el
+
+00:10:24.810 --> 00:10:27.000
+lo mismo que 20/4.
+
+00:10:27.000 --> 00:10:31.740
+20/4 y 15/4.
+
+00:10:31.740 --> 00:10:37.610
+O nosotros consigue que--permítanme que baje un poco--7 x es
+
+00:10:37.610 --> 00:10:41.820
+igual a 35/4.
+
+00:10:41.820 --> 00:10:45.750
+Podemos multiplicamos ambos lados por 1/7, o podríamos dividimos ambos
+
+00:10:45.750 --> 00:10:47.240
+lados por 7, lo mismo.
+
+00:10:47.240 --> 00:10:50.530
+Vamos a multiplicar ambos lados por 1/7.
+
+00:10:50.530 --> 00:10:53.380
+Lo mismo que dividir por 7.
+
+00:10:53.380 --> 00:10:56.520
+Por lo que estos se cancelan y te dejan con x es igual a:
+
+00:10:56.520 --> 00:10:59.190
+Aquí, si divide 35 por 7, obtendrá 5.
+
+00:10:59.190 --> 00:11:01.340
+Es dividir 7 por 7, obtendrá 1.
+
+00:11:01.340 --> 00:11:05.100
+Así que x es igual a 5 4 así.
+
+00:11:05.100 --> 00:11:09.960
+Hasta el punto de intersección de esto aquí es tanto x
+
+00:11:09.960 --> 00:11:14.170
+y y va a ser igual a 5/4.
+
+00:11:14.170 --> 00:11:18.900
+Así que si miraba como un gráfico, sería coma 5/4 5/4.
+
+00:11:18.900 --> 00:11:21.170
+Y vamos a comprobar que esto satisface la ecuación superior.
+
+00:11:21.170 --> 00:11:29.480
+Y si usted toma 5 veces 5/4, además de 7 veces
+
+00:11:29.480 --> 00:11:31.530
+5/4, ¿qué le llegar?
+
+00:11:31.530 --> 00:11:33.330
+Debe ser igual a 15.
+
+00:11:33.330 --> 00:11:39.580
+Así que esto es igual a 25/4, plus--¿qué es esto?
+
+00:11:39.580 --> 00:11:43.560
+Se trata además de 35/4.
+
+00:11:43.560 --> 00:11:48.020
+Que es igual a 60/4, que es de hecho igual a 15.
+
+00:11:48.020 --> 00:11:50.220
+Así que definitivamente satisfacer a esa ecuación superior.
+
+00:11:50.220 --> 00:11:52.750
+Y podría retirar esta ecuación inferior por sí mismo,
+
+00:11:52.750 --> 00:11:54.630
+pero debe ser, porque en realidad emplea este fondo
+
+00:11:54.630 --> 00:11:57.750
+ecuación de averiguar que x es igual a 5/4.

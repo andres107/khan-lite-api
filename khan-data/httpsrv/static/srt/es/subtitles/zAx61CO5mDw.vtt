@@ -1,0 +1,342 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.450 --> 00:00:03.630
+Sea un objeto en movimiento describiendo una trayectoria circular
+
+00:00:03.630 --> 00:00:08.200
+Digamos que este es el centro de la trayectoria, el centro de la circunferencia
+
+00:00:08.390 --> 00:00:12.880
+El objeto está describiendo la trayectoria circular que se parece a esta
+
+00:00:12.880 --> 00:00:16.600
+con sentido antihorario, se podría hacer igualmente con sentido horario
+
+00:00:16.870 --> 00:00:23.010
+Quiero saber cómo de rápido está girando o orbitando alrededor de su centro
+
+00:00:23.070 --> 00:00:25.930
+cuál es la relación con su velocidad
+
+00:00:25.950 --> 00:00:33.290
+Así que digamos que el objeto está describiendo cinco revoluciones por segundo
+
+00:00:33.310 --> 00:00:40.880
+Luego en un segundo, 1 2 3 4 5. Cada segundo está girando cinco veces
+
+00:00:40.900 --> 00:00:45.700
+Cuál es la relación con el número de radianes por segundo
+
+00:00:45.740 --> 00:00:48.660
+Recuerda que el radián es una unidad de medida de ángulos
+
+00:00:48.660 --> 00:00:50.710
+Podríamos hacerlo calculando cuántos grados por segundo
+
+00:00:54.550 --> 00:01:02.590
+Si lo hacemos con radianes, sabemos que cada revolución son 2 pi radianes
+
+00:01:02.610 --> 00:01:10.340
+Si das la vuelta completa a la circunferencia, hemos recorrido 2 pi radianes
+
+00:01:10.340 --> 00:01:16.800
+Que es justo lo que decimos que hemos recorrido al decribir 2 pi veces el radio, para cualquier valor del mismo
+
+00:01:16.820 --> 00:01:20.120
+y de ahí viene realmente la definición del radián
+
+00:01:20.140 --> 00:01:30.000
+Así que si das 5 revoluciones por segundo y eso son 2 pi por giro
+
+00:01:30.000 --> 00:01:33.350
+haciendo un poco de análisis dimensiones. Cancelando estos términos
+
+00:01:33.490 --> 00:01:41.450
+y se obtiene 5 veces 2 pi lo que nos deja 10 pi
+
+00:01:41.450 --> 00:01:47.760
+radianes por segundo
+
+00:01:47.770 --> 00:01:52.200
+Y el análisis dimensional es correcto y espero que esto tenga sentido para tí intuitivamente
+
+00:01:52.350 --> 00:01:56.640
+Si estás girando a cinco revoluciones por segundo, cada una de esas revoluciones son 2 pi radianes
+
+00:01:56.710 --> 00:02:00.030
+Luego estás describiendo 10 pi radianes por segundo. Cuentas
+
+00:02:00.310 --> 00:02:04.150
+1 2 3 4 5, luego resulta 10, o 2 pi 2 pi 2 pi 2 pi 2 pi radianes
+
+00:02:04.160 --> 00:02:08.550
+cada vez, lo haces 5 veces por segundo. Luego describes 10 pi radianes por segundo
+
+00:02:08.810 --> 00:02:12.730
+Así que el objeto describe, o bien 5 revoluciones por segunfo o 10 pi radianes por segundo
+
+00:02:12.780 --> 00:02:14.990
+ambas formas miden esencialmente lo mismo
+
+00:02:14.990 --> 00:02:18.990
+cómo de rápido estás orbitando alrededor del centro?
+
+00:02:19.310 --> 00:02:23.020
+y esta medida de cómo de rápido estas girando alrededor del centro
+
+00:02:23.020 --> 00:02:29.830
+se llama velocidad angular
+
+00:02:29.970 --> 00:02:32.460
+se llama velocidad angular porque si piensas sobre ello
+
+00:02:32.540 --> 00:02:40.360
+nos está diciendo cómo de rápido cambia nuestra posición angular, o la velocidad de cambio de la posición angular
+
+00:02:40.550 --> 00:02:43.280
+Cuando trabajas con esto en dos dimensiones y esto es
+
+00:02:43.430 --> 00:02:47.260
+típico en los cursos iniciales de física como en el que estamos
+
+00:02:47.260 --> 00:02:49.230
+incluso aunque se llame velocidad angular
+
+00:02:49.310 --> 00:02:51.020
+tiende a ser tratado como rapidez angular
+
+00:02:51.020 --> 00:02:52.870
+Tiene realmente caracter vectorial
+
+00:02:53.020 --> 00:02:56.360
+y no es muy intuitivo que el vector salga perpendicularmente al papel
+
+00:02:56.460 --> 00:02:59.860
+Es realmente un pseudo-vector y hablaremos más sobre ello en el futuro.
+
+00:02:59.920 --> 00:03:03.580
+Luego es una magnitud vectorial y la dirección del vector
+
+00:03:03.580 --> 00:03:06.580
+depende de que manera está girando. Así que por ejemplo
+
+00:03:06.580 --> 00:03:09.200
+cuándo está girando en sentido antihorario
+
+00:03:09.280 --> 00:03:13.530
+es un vector con dirección saliente de la hoja
+
+00:03:13.530 --> 00:03:16.700
+Pensemos en tres dimensiones
+
+00:03:16.730 --> 00:03:22.760
+Si tiene sentido horario, el vector velocidad angular entraría en la hoja
+
+00:03:22.800 --> 00:03:25.220
+La regla de la mano derecha determina cómo debes pensar
+
+00:03:25.230 --> 00:03:28.260
+cierra los dedos de tú mano derecha en la dirección de giro
+
+00:03:28.260 --> 00:03:33.380
+luego apunta con tú pulgar en la dirección
+
+00:03:33.380 --> 00:03:36.610
+que describe el vector
+
+00:03:36.610 --> 00:03:38.480
+No vamos a pensar mucho sobre ello
+
+00:03:38.510 --> 00:03:42.500
+Para nuestros propósitos, cuando estamos pensando en un plano bidimensional
+
+00:03:42.950 --> 00:03:49.320
+podemos imaginar la magnitud velocidad angular como formalmente hablando pseudo-escalar
+
+00:03:49.320 --> 00:03:55.820
+pero podemos añadir que escalar en tanto se especifique de qué forma rota
+
+00:03:55.830 --> 00:03:59.040
+Luego el objeto, a los 10 pi radianes por segundo
+
+00:03:59.040 --> 00:04:01.810
+los podemos llamar velocidad angular
+
+00:04:02.030 --> 00:04:06.300
+y el símbolo que lo representa es omega
+
+00:04:06.330 --> 00:04:08.370
+una omega minúscula aquí
+
+00:04:08.380 --> 00:04:10.250
+La omega mayúscula es así
+
+00:04:14.390 --> 00:04:16.430
+Así que hay un par de formas para pensar sobre ello
+
+00:04:16.450 --> 00:04:25.220
+Puedes decir que la velocidad angular es igual al cambio del ángulo con el tiempo
+
+00:04:25.320 --> 00:04:32.290
+Por ejemplo, este nos dice 10 pi radianes por segundo
+
+00:04:32.450 --> 00:04:41.820
+Or si tú quieres pensar en desde el punto de vista del cálculo y tomar velocidad angular instántanea
+
+00:04:41.950 --> 00:04:47.510
+sería la derivada de la posición angular respecto del tiempo
+
+00:04:47.590 --> 00:04:50.950
+Cómo varía la posición angular con el tiempo
+
+00:04:50.960 --> 00:04:56.100
+Con esto resuelto, quiero ver si podemos ver cómo se relaciona esto con la rápidez
+
+00:04:56.440 --> 00:05:00.460
+Cómo está relacionado con la velocidad real del objeto?
+
+00:05:00.660 --> 00:05:05.910
+PAra obtener la velocidad del objeto, debemos pensar cuánto recorre este objeto describiendo
+
+00:05:05.910 --> 00:05:08.200
+cada revolución que está haciendo
+
+00:05:08.860 --> 00:05:15.000
+Y lo que podemos hacer aquí--digamos que este es el radio r
+
+00:05:15.270 --> 00:05:19.760
+Así que en cada revolución, describe 2 pi r
+
+00:05:19.780 --> 00:05:24.080
+Digamos que r viene dado en metros. Fijemos unidades aquí
+
+00:05:24.420 --> 00:05:33.270
+Luego la circunferencia va a ser de 2 pi r metros
+
+00:05:33.290 --> 00:05:55.530
+La velocidad angular será igual a omega radianes por segundo
+
+00:05:56.070 --> 00:06:00.760
+Y cuántas revoluciones son esas por segundo?
+
+00:06:00.760 --> 00:06:03.450
+Podemos volver atrás desde aquí
+
+00:06:03.470 --> 00:06:10.710
+Tenemos que una revolución es igual a 2 pi radianes
+
+00:06:10.860 --> 00:06:14.940
+Siendo claros, algunas veces la velocidad angular es reamente descrita en revoluciones por segundo
+
+00:06:14.940 --> 00:06:17.640
+pero la unidad en el sistema internacional es la de radianes por segundo
+
+00:06:17.660 --> 00:06:22.040
+Aquí si quiero convertir omega de radianes por segundo a revoluciones por segundo
+
+00:06:22.280 --> 00:06:32.670
+Los radianes se simplifican. A la izquierda nos queda-- tenemos omega por 2 pi revoluciones por segundo
+
+00:06:32.920 --> 00:06:35.600
+Sabemos cuántos metros tenemos por revolución
+
+00:06:35.770 --> 00:06:40.520
+Tenemos 2 pi r metros por revolución
+
+00:06:40.830 --> 00:06:42.980
+Copiamos y pegamos
+
+00:06:43.360 --> 00:06:46.780
+Así que nuestra velocidad, si queremos revoluciones por segundo
+
+00:06:46.780 --> 00:06:50.970
+va a ser omega por 2 pi revoluciones por segundo
+
+00:06:51.540 --> 00:06:55.960
+Omega está en radianes por segundo si lo expresamos en revoluciones por segundo
+
+00:06:55.960 --> 00:06:58.560
+omega / 2 revoluciones por segundo
+
+00:06:58.900 --> 00:07:05.310
+Y luego multiplicando por el tiempo -- queremos expresarlo en metros por segundo
+
+00:07:05.310 --> 00:07:09.040
+Así que cuántos metros por revolución?
+
+00:07:09.320 --> 00:07:17.720
+Bien, vamos a describir una circunferencia completa por revolución, luego 2 p r metros por revolución
+
+00:07:17.740 --> 00:07:19.680
+Simplificando
+
+00:07:19.700 --> 00:07:21.990
+2 pi se simplifica con 2 pi
+
+00:07:21.990 --> 00:07:36.130
+Luego tenemos omega veces r metros por segundo
+
+00:07:36.500 --> 00:07:40.720
+Y igualmente, obtenemos la velocidad
+
+00:07:40.720 --> 00:07:44.750
+o podríamos decir que la rapidez del objeto al describir la circunferencia
+
+00:07:45.010 --> 00:07:48.720
+Así que lo que podemos decir es que el valor de la velocidad
+
+00:07:48.720 --> 00:07:51.460
+La especificaré por v-- quiero ser claro. No magnitud vectorial
+
+00:07:51.460 --> 00:07:54.320
+No la velocidad. El valor de la velocidad.
+
+00:07:54.560 --> 00:07:59.910
+O podemos decir la rapidez. Va a ser igual a omega veces r
+
+00:08:00.460 --> 00:08:08.070
+Luego el valor de la velocidad es igual a la velocidad angular veces r
+
+00:08:08.070 --> 00:08:14.030
+Podríamos decir que el valor de la velocidad angular veces el radio
+
+00:08:14.220 --> 00:08:17.150
+No quiero acabar liado. Estoy diciendo que sin considerarlas vectoriales.
+
+00:08:17.150 --> 00:08:21.460
+Si esto fuera un vector, le pondría una flecha justo encima
+
+00:08:21.680 --> 00:08:24.240
+Y si esto fuera un vector, le pondría una flecha encima
+
+00:08:24.240 --> 00:08:26.560
+me estaría refieriendo a lo que está saliendo perpendicular al papel hacia arriba
+
+00:08:26.560 --> 00:08:29.450
+pero aquí estoy hablando del valor de la velocidad angular
+
+00:08:29.710 --> 00:08:42.670
+así que en pocas palabras, tenemos que velocidad es igual a velocidad angualr
+
+00:08:42.670 --> 00:08:49.610
+si quieres ser preciso, el valor de la velocidad angular
+
+00:08:49.610 --> 00:08:54.870
+veces el radio de la circunferencia que se describe
+
+00:08:54.870 --> 00:08:57.640
+y si quieres despejar la velocidad angular
+
+00:08:57.640 --> 00:09:01.540
+divide ambos lados por el radio y tienes que la velocidad angular
+
+00:09:01.760 --> 00:09:14.880
+omega es igual a la velocidad v, dividido por el radio
+
+00:09:14.900 --> 00:09:19.020
+Podemos usar esta información para resolver otras cosas interesantes en el futuro
+
+00:09:19.030 --> 00:09:22.860
+Espero que esto te haya ayudado a comprender este tema.

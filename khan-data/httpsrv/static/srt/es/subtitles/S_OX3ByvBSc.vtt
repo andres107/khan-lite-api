@@ -1,0 +1,79 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.274 --> 00:00:03.311
+Pensemos ahora en expresiones que tienen más de una variable.
+
+00:00:03.311 --> 00:00:11.067
+Digamos que tengo la expresión: a+..., voy hacer una sencilla, a+b
+
+00:00:11.067 --> 00:00:16.810
+Y ahora al evaluar esta expresión, donde a=7
+
+00:00:16.810 --> 00:00:19.977
+Y b=2
+
+00:00:19.977 --> 00:00:22.003
+Te animo a que pongas pausa y lo intentes por ti mismo
+
+00:00:22.003 --> 00:00:26.059
+Bueno, donde sea que veamos la a, la reemplazaremos por un 7
+
+00:00:26.059 --> 00:00:29.610
+y donde sea que veamos la b, la reemplazaremos por un 2
+
+00:00:29.610 --> 00:00:31.898
+Entonces, si a=7 y b=2
+
+00:00:31.898 --> 00:00:37.483
+Esta expresión quedará como 7+2, la cual por supuesto, es igual a 9
+
+00:00:37.483 --> 00:00:41.900
+Por lo que esta expresión será igual a 9 en esta circunstancia.
+
+00:00:41.900 --> 00:00:44.481
+Hagamos una un poco más complicada.
+
+00:00:44.481 --> 00:00:46.894
+Digamos que tenemos la expresión:
+
+00:00:46.894 --> 00:01:00.484
+xy-y+x, aunque creo que debería hacerlo por +3x
+
+00:01:00.484 --> 00:01:03.649
+O dicho de otra forma, más 3 veces x
+
+00:01:03.649 --> 00:01:06.475
+Entonces, evaluemos esto.
+
+00:01:06.475 --> 00:01:14.569
+Cuando x=..., cuando x=3 y y=2
+
+00:01:14.569 --> 00:01:18.004
+Y otra vez, te animo a que pauses el video y lo intentes por ti mismo.
+
+00:01:18.004 --> 00:01:23.815
+Bueno, donde sea que veamos x, la reemplazaremos con un 3, y donde sea que veamos y, la reemplazaremos con un 2.
+
+00:01:23.815 --> 00:01:31.319
+Entonces esto será igual a: 3y, con y igual 2 en este caso.
+
+00:01:31.319 --> 00:01:42.736
+3 • 2 - 2 + este 3 por x, pero x también es ahora igual a 3
+
+00:01:42.736 --> 00:01:49.605
+¿Y entonces a que será igual esto ahora?
+Bueno, esto va a ser igual a: 3 por 2 es igual a 6
+
+00:01:49.605 --> 00:01:52.816
+Este 3 por 3 es igual a 9
+
+00:01:52.816 --> 00:01:56.474
+Y simplificando 6-2, lo cual es 4
+
+00:01:56.474 --> 00:01:59.406
+Mas 9, lo que es igual a 13.
+
+00:01:59.406 --> 00:02:03.147
+Por lo que en este caso es igual a 13.

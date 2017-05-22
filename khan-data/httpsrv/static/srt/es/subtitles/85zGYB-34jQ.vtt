@@ -1,0 +1,651 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.710 --> 00:00:03.020
+Hasta ahora, hemos usado las integrales para calcular
+
+00:00:03.020 --> 00:00:03.950
+el área bajo una curva.
+
+00:00:03.950 --> 00:00:06.320
+Y ahora revisemos un poco la intuición, aunque
+
+00:00:06.320 --> 00:00:08.830
+esto debería serte natural a esta altura.
+
+00:00:08.830 --> 00:00:12.720
+Si no lo es, convendría que revises los videos
+
+00:00:12.720 --> 00:00:15.360
+de integrales definidas.
+
+00:00:15.360 --> 00:00:18.280
+Pero si tengo alguna función-- esto es el plano xy,
+
+00:00:18.280 --> 00:00:22.300
+ese el eje x y aquel el eje y-- y tengo alguna función.
+
+00:00:22.300 --> 00:00:26.430
+Llamemos a eso, tú sabes, esto es "y" es igual a
+
+00:00:26.430 --> 00:00:27.660
+alguna función de x.
+
+00:00:27.660 --> 00:00:29.750
+Dame una x y yo te daré una y.
+
+00:00:29.750 --> 00:00:33.740
+Si yo quería averiguar el area bajo este curva, entre,
+
+00:00:33.740 --> 00:00:40.910
+digamos, "x" es igual a "a" y "x" es igual a "b".
+
+00:00:40.910 --> 00:00:42.980
+Así que este es el área que quiero averiguar.
+
+00:00:42.980 --> 00:00:46.870
+Lo que hago entonces es separarlo en un montón de columnas
+
+00:00:50.870 --> 00:00:52.890
+o en un montón de rectángulos.
+
+00:00:52.890 --> 00:00:56.510
+Donde-- déjame dibujar uno de esos rectángulos-- donde tú
+
+00:00:56.510 --> 00:00:58.610
+puedas ver-- y hay varias maneras de hacer esto.
+
+00:00:58.610 --> 00:01:00.330
+pero esto es tan solo un repaso.
+
+00:01:00.330 --> 00:01:04.080
+Donde tú puedes repasar-- este es quizás 1 de los rectángulos.
+
+00:01:04.080 --> 00:01:05.720
+Bien, el área del rectángulo es solo base
+
+00:01:05.720 --> 00:01:07.530
+por altura, verdad?
+
+00:01:07.530 --> 00:01:09.360
+Bien, vamos a hacer estos rectángulos verdaderamente flaquitos y
+
+00:01:09.360 --> 00:01:11.100
+simplemente les sumaremos un número infinito.
+
+00:01:11.100 --> 00:01:12.340
+Queremos hacerlos infinitamente pequeños.
+
+00:01:12.340 --> 00:01:17.060
+Pero simplemente llamemos la base de este rectángulo dx.
+
+00:01:17.060 --> 00:01:19.590
+Y luego la altura de este rectángulo será
+
+00:01:19.590 --> 00:01:21.620
+f de x, a ese punto.
+
+00:01:21.620 --> 00:01:24.545
+Será f de f-- si este es x0, o lo que sea, tú puedes
+
+00:01:24.545 --> 00:01:25.690
+simplemente llamarlo f de x, correcto?
+
+00:01:25.690 --> 00:01:28.170
+Esa es la altura de ese rectángulo.
+
+00:01:28.170 --> 00:01:30.470
+Y si quisiéramos llevar a cabo la suma de todos estos
+
+00:01:30.470 --> 00:01:31.090
+rectángulos-- verdad?
+
+00:01:31.090 --> 00:01:32.210
+Simplemente habrá un puñado de ellos
+
+00:01:32.210 --> 00:01:34.160
+Uno allí, uno allí.
+
+00:01:34.160 --> 00:01:36.910
+Luego obtendremos el área, y si tenemos un número infinito
+
+00:01:36.910 --> 00:01:38.860
+de estos rectángulos, y son infinitamente flaquitos, nosotros
+
+00:01:38.860 --> 00:01:40.840
+tenemos exactamente el área bajo esa curva.
+
+00:01:40.840 --> 00:01:43.160
+Esa es la intuición detrás de la Integra definidia.
+
+00:01:43.160 --> 00:01:47.140
+Y la manera en la que escribimos eso-- esto es la integral definida.
+
+00:01:47.140 --> 00:01:50.300
+Llevaremos a cabo la suma de estos rectángulos, desde "x" es
+
+00:01:50.300 --> 00:01:53.490
+igual a "a", hasta "x" es igual a "b".
+
+00:01:53.490 --> 00:01:57.120
+Y la suma, o las áreas que estamos sumando, serán
+
+00:01:57.120 --> 00:02:00.770
+-- la altura es "f" de "x" y el ancho es "d" de "x".
+
+00:02:00.770 --> 00:02:04.580
+Será "f" de "x" multiplicado por "d" de "x".
+
+00:02:04.580 --> 00:02:06.970
+Esto es igual al área bajo la curva.
+
+00:02:06.970 --> 00:02:09.630
+"f" de "x", "y" es igual a "f" de "x", desde "x" es igual a "a"
+
+00:02:09.630 --> 00:02:11.040
+hasta "x" es igual a "b".
+
+00:02:11.040 --> 00:02:12.440
+Y eso es sólo un poco de repaso.
+
+00:02:12.440 --> 00:02:14.720
+Pero esperemos, que ahora tú verás el paralelo de como
+
+00:02:14.720 --> 00:02:19.250
+extendremos esto para obtener el volumen bajo una superficie.
+
+00:02:19.250 --> 00:02:20.670
+Ante todo, qué es una superficie?
+
+00:02:20.670 --> 00:02:23.130
+Bien, si pensamos en tres dimensiones, una
+
+00:02:23.130 --> 00:02:27.540
+superficie será una función de x e y.
+
+00:02:27.540 --> 00:02:31.060
+Entonces podemos escribir superficie como, en vez de "y" es una función
+
+00:02:31.060 --> 00:02:32.930
+de "f" y "x"-- Perdón.
+
+00:02:32.930 --> 00:02:36.060
+En vez de decir que "y" es una función de "x", podemos definir una
+
+00:02:36.060 --> 00:02:42.810
+superficie como "z" es igual a una función de "x" e "y".
+
+00:02:42.810 --> 00:02:45.270
+Entonces podrás verlo como el dominio.
+
+00:02:45.270 --> 00:02:45.460
+Correcto?
+
+00:02:45.460 --> 00:02:48.030
+El dominio es todo el conjunto de cosas válidas que tú
+
+00:02:48.030 --> 00:02:49.200
+puedes asignar a una función.
+
+00:02:49.200 --> 00:02:52.690
+Ahora, antes, nuestro dominio era sólo-- al menos, lo sabes por
+
+00:02:52.690 --> 00:02:57.070
+la mayoría de las cosas que hemos tratado-- fue sólo el eje "x", o
+
+00:02:57.070 --> 00:02:59.640
+la línea de número real en la dirección "x".
+
+00:02:59.640 --> 00:03:02.580
+Ahora nuestro dominio es el plano "xy".
+
+00:03:02.580 --> 00:03:06.040
+Podemos dar cualquier "x" e "y"-- y trataremos solamente con los
+
+00:03:06.040 --> 00:03:07.740
+reales por ahora, no quiero ser demasiado técnico.
+
+00:03:07.740 --> 00:03:10.480
+Y luego saldrá otro número, y si nosotros queríamos
+
+00:03:10.480 --> 00:03:11.950
+graficarlo, este será nuestra altura.
+
+00:03:11.950 --> 00:03:13.970
+Y entonces eso podría ser la altura de una superficie.
+
+00:03:13.970 --> 00:03:15.960
+Déjame mostrarte cómo luce una superficie, en
+
+00:03:15.960 --> 00:03:16.800
+caso de que no lo recuerdes.
+
+00:03:16.800 --> 00:03:20.360
+Y nosotros averiguaremos el volumen bajo esta superficie.
+
+00:03:20.360 --> 00:03:22.080
+Así que esto es una superficie.
+
+00:03:22.080 --> 00:03:24.140
+Te diré su función en un segundo, pero es
+
+00:03:24.140 --> 00:03:25.370
+bastante interesante de observar.
+
+00:03:25.370 --> 00:03:26.400
+Pero como puedes ver, es una servilleta.
+
+00:03:26.400 --> 00:03:30.760
+Es como un pedazo de papel que está doblado.
+
+00:03:30.760 --> 00:03:33.870
+Veamos, déjame rotarlo hacia su forma tradicional.
+
+00:03:33.870 --> 00:03:37.485
+Entonces esta es la dirección "x", esta es la dirección "y".
+
+00:03:37.485 --> 00:03:43.120
+Y la altura es una función de dónde nos situamos en el plano "xy".
+
+00:03:43.120 --> 00:03:45.880
+Cómo calculamos, entonces. el volumen bajo una
+
+00:03:45.880 --> 00:03:48.970
+superficie como esta?
+
+00:03:48.970 --> 00:03:50.540
+Cómo averiguamos el volumen?
+
+00:03:50.540 --> 00:03:53.810
+Parece como un poco de esfuerzo, dado que hemos
+
+00:03:53.810 --> 00:03:55.500
+aprendido de esto.
+
+00:03:55.500 --> 00:03:58.300
+Pero que si-- y voy simplemente a dibujar una superficie
+
+00:03:58.300 --> 00:04:02.186
+abstracta aquí-- dejame dibujar un eje.
+
+00:04:02.186 --> 00:04:03.730
+Veamos, ese es mi eje "x".
+
+00:04:03.730 --> 00:04:06.390
+Ese es mi eje "y".
+
+00:04:09.072 --> 00:04:11.650
+Ese es mi eje "z".
+
+00:04:11.650 --> 00:04:14.970
+No practico estos videos con anticipación, así que suelo
+
+00:04:14.970 --> 00:04:17.590
+preguntarme que estoy por dibujar ahora.
+
+00:04:17.590 --> 00:04:17.960
+Ok.
+
+00:04:17.960 --> 00:04:22.420
+Eso es "x", eso es "y", y eso es "z".
+
+00:04:22.420 --> 00:04:23.990
+Y digamos que tengo alguna superficie.
+
+00:04:23.990 --> 00:04:27.350
+Simplemente dibujaré algo.
+
+00:04:30.330 --> 00:04:33.380
+No sé que es esto.
+
+00:04:33.380 --> 00:04:35.050
+Alguna superficie.
+
+00:04:35.050 --> 00:04:36.090
+Esta es nuestra superficie
+
+00:04:36.090 --> 00:04:38.300
+"z" es una función de "x" e "y".
+
+00:04:38.300 --> 00:04:41.470
+Así, por ejemplo, tú me das una coordenada en el plano "xy".
+
+00:04:41.470 --> 00:04:44.360
+Digamos, aquí, yo lo pondré en la función y este nos
+
+00:04:44.360 --> 00:04:45.630
+dará un valor "z" ahora.
+
+00:04:45.630 --> 00:04:47.290
+Y graficaré allí y ese será un punto
+
+00:04:47.290 --> 00:04:48.440
+en la superficie.
+
+00:04:48.440 --> 00:04:50.250
+Lo que queremos averiguar es el volumen
+
+00:04:50.250 --> 00:04:50.990
+bajo la superficie.
+
+00:04:50.990 --> 00:04:52.670
+Y tenemos que especificar límites, verdad?
+
+00:04:52.670 --> 00:04:56.330
+Desde aquí, dijimos "x" es igual a "a" hasta "x" es igual a "b".
+
+00:04:56.330 --> 00:04:59.030
+Hagamos un límite cuadrado primero, porque esto
+
+00:04:59.030 --> 00:05:00.610
+hace las cosas mucho más simples.
+
+00:05:00.610 --> 00:05:05.150
+Entonces digamos que el dominio o la región-- no el dominio--
+
+00:05:05.150 --> 00:05:09.770
+la región de-- la región "x" e "y" de esta parte de la
+
+00:05:15.650 --> 00:05:19.800
+superficie, la sombra estaría justo allí.
+
+00:05:19.800 --> 00:05:24.530
+Haré lo mejor que pueda para dibujarlo precisamente.
+
+00:05:24.530 --> 00:05:26.110
+De esto intentaremos averiguar
+
+00:05:26.110 --> 00:05:27.240
+el volumen.
+
+00:05:27.240 --> 00:05:30.490
+Y digamos-- entonces, si quisieramos dibujarlo en el plano "xy",
+
+00:05:34.210 --> 00:05:36.950
+como si puedieras ver la proyección de la
+
+00:05:36.950 --> 00:05:38.980
+superficie del plano "xy", o la sombra de la
+
+00:05:38.980 --> 00:05:40.240
+superficie del plano "xy".
+
+00:05:40.240 --> 00:05:41.450
+Cuáles son los límites?
+
+00:05:41.450 --> 00:05:44.470
+Tu casi puedes ver-- cuáles son los límites del dominio?
+
+00:05:44.470 --> 00:05:47.650
+Bien, digamos a este punto-- digamos que ese
+
+00:05:47.650 --> 00:05:51.340
+justo aquí, esto es 0,0 en el plano "xy".
+
+00:05:51.340 --> 00:05:54.470
+Digamos que ese es "y" igual a-- no lo sé,
+
+00:05:54.470 --> 00:05:57.780
+esto es "y" es igual a "a".
+
+00:05:57.780 --> 00:05:59.010
+Esto es esta línea justo aquí.
+
+00:05:59.010 --> 00:06:00.370
+"y" es igual a "a".
+
+00:06:00.370 --> 00:06:04.940
+y digamos que esta línea aquí es "x" es igual a "b".
+
+00:06:04.940 --> 00:06:05.910
+Espero que entendiste eso, si?
+
+00:06:05.910 --> 00:06:07.230
+Este es el plano "xy".
+
+00:06:07.230 --> 00:06:10.080
+Si tenemos una "x" constante, sería una línea como esa.
+
+00:06:10.080 --> 00:06:11.740
+Una "y" constante, una línea como esa.
+
+00:06:11.740 --> 00:06:13.370
+Y luego tenemos el área entre esto.
+
+00:06:13.370 --> 00:06:17.080
+Entonces, cómo averiguamos el volumen bajo esto?
+
+00:06:17.080 --> 00:06:23.130
+Bien, si yo sólo quisiera calcular el área de --
+
+00:06:23.130 --> 00:06:24.310
+digamos, esta raja.
+
+00:06:24.310 --> 00:06:26.560
+Digamo que tenemos una -- bien, mejor déjame
+
+00:06:26.560 --> 00:06:26.950
+hacerlo de otra manera.
+
+00:06:26.950 --> 00:06:28.570
+Digamos que tenemos una constante "y".
+
+00:06:28.570 --> 00:06:32.060
+Entonces, digamos que tenemos alguna raja.
+
+00:06:32.060 --> 00:06:33.100
+No quiero confundirte.
+
+00:06:33.100 --> 00:06:36.980
+Digamos que yo tengo alguna constante "y".
+
+00:06:36.980 --> 00:06:39.020
+Yo solo quiero darte la intuición.
+
+00:06:39.020 --> 00:06:39.810
+Tú sabes, digamos.
+
+00:06:39.810 --> 00:06:40.620
+No sé qué es eso.
+
+00:06:40.620 --> 00:06:42.665
+Es una "y" arbitraria.
+
+00:06:42.665 --> 00:06:47.820
+Pero por alguna constante "y", que si yo simplemente pudiera averiguar el
+
+00:06:47.820 --> 00:06:50.810
+área bajo la curva allí?
+
+00:06:50.810 --> 00:06:54.130
+Cómo calcularía yo, simplemente el área bajo esa curva?
+
+00:06:58.600 --> 00:07:01.210
+Sería una función de la "y" que yo elija, correcto?
+
+00:07:01.210 --> 00:07:03.050
+Porque si yo elijo una "y" aquí, sería un área diferente.
+
+00:07:03.050 --> 00:07:05.280
+Si yo elija una "y" allí, será un área diferente.
+
+00:07:05.280 --> 00:07:07.790
+Pero yo podría ver esto ahora como un problema muy similar
+
+00:07:07.790 --> 00:07:09.560
+a este aquí arriba.
+
+00:07:09.560 --> 00:07:12.265
+Podría tener mis "dx"-- déjame elegir un color vibrante
+
+00:07:12.265 --> 00:07:13.530
+para que puedas verlo.
+
+00:07:13.530 --> 00:07:14.930
+Digamos que eso es "dx".
+
+00:07:14.930 --> 00:07:16.760
+Eso es un cambio en "x".
+
+00:07:16.760 --> 00:07:27.940
+Y luego la altura será una función de la "x"
+
+00:07:27.940 --> 00:07:33.440
+que tengo y la "y" que he elegido.
+
+00:07:36.660 --> 00:07:42.990
+Entonces cuál sería el área de esta hoja de papel?
+
+00:07:42.990 --> 00:07:45.100
+Es como una constante "y".
+
+00:07:45.100 --> 00:07:48.390
+Es parte de -- es una hoja de papel dentro de este volumen,
+
+00:07:48.390 --> 00:07:49.990
+tú puedes como verlo.
+
+00:07:49.990 --> 00:07:53.750
+Bien, este sería-- dijimos que la altura de cada uno de estos
+
+00:07:53.750 --> 00:07:59.030
+rectángulos es "f" de "xy", verdad?
+
+00:07:59.030 --> 00:07:59.515
+Esa es la altura.
+
+00:07:59.515 --> 00:08:03.270
+Depende cuál "x" e "y" elijamos aquí abajo.
+
+00:08:08.830 --> 00:08:12.120
+Y luego si lo integramos, desde "x" igual a 0, lo cual era
+
+00:08:12.120 --> 00:08:14.530
+aquí atrás, hasta "x" es igual a "b",
+
+00:08:14.530 --> 00:08:16.006
+cómo luciría?
+
+00:08:16.006 --> 00:08:20.600
+Se vería como eso. "x" va desde 0 hasta "b".
+
+00:08:20.600 --> 00:08:21.120
+Suficiente.
+
+00:08:21.120 --> 00:08:26.220
+Y esto nos daría justamente una función de "y".
+
+00:08:26.220 --> 00:08:30.290
+Esto nos daría una expresión tal que yo sabría
+
+00:08:30.290 --> 00:08:35.670
+el área de esta especie de raja del volumen, para cualquier
+
+00:08:35.670 --> 00:08:36.690
+valor dado de "y".
+
+00:08:36.690 --> 00:08:39.300
+Si tú me das una "y" yo puedo darte el área de la raja.
+
+00:08:39.300 --> 00:08:42.680
+Eso corresponde a esa "y".
+
+00:08:42.680 --> 00:08:43.720
+Ahora que podría hacer?
+
+00:08:43.720 --> 00:08:47.110
+Si conozco el área de cual quier raja dada, qué si multiplico el
+
+00:08:47.110 --> 00:08:51.680
+área de esa raja por "dy"?
+
+00:08:51.680 --> 00:08:52.660
+Este es un "dy".
+
+00:08:52.660 --> 00:08:54.650
+Hagámoslo con un color vibrante.
+
+00:08:54.650 --> 00:08:59.180
+Entonces "dy, un muy pequeño cambio en "y".
+
+00:08:59.180 --> 00:09:02.430
+Si yo multiplicara este área por un pequeño "dy", luego
+
+00:09:02.430 --> 00:09:06.970
+todo derepente, yo tengo una raja de volumen.
+
+00:09:06.970 --> 00:09:09.840
+Espero que esto os haga sentido.
+
+00:09:09.840 --> 00:09:12.970
+Estoy haciendo ese-- ese pequeño corte que yo tomé del área de--
+
+00:09:12.970 --> 00:09:14.800
+haciéndolo tridimensional.
+
+00:09:14.800 --> 00:09:17.490
+Entonces cuál sería el volumen de esa raja?
+
+00:09:17.490 --> 00:09:20.820
+El volumen de esa raja será esta función de "y" por "dy",
+
+00:09:20.820 --> 00:09:23.280
+o toda esta cosa por "dy".
+
+00:09:23.280 --> 00:09:31.910
+Entonces sería la integral desde 0 hasta "b" de "f" de "xy" "dx".
+
+00:09:31.910 --> 00:09:34.670
+Eso nos da el área de esta lámina azul.
+
+00:09:34.670 --> 00:09:39.130
+Ahora si yo multiplico toda esta cosa por "dy",
+
+00:09:39.130 --> 00:09:40.710
+obtengo este volumen.
+
+00:09:40.710 --> 00:09:42.150
+Obtiene alguna profundidad.
+
+00:09:42.150 --> 00:09:44.150
+Esta pequeña área que estoy sombreando aquí, obtiene
+
+00:09:44.150 --> 00:09:46.010
+profundidad de esa lámina.
+
+00:09:46.010 --> 00:09:51.650
+Ahora si añadiera todas esas láminas que ahora tienen profundidad, si
+
+00:09:51.650 --> 00:09:55.130
+yo tomara la suma infinita-- entonces si tomo la integral de esto
+
+00:09:55.130 --> 00:10:04.120
+desde my límite inferior-- desde 0 hasta mi límite "y" superior, luego,
+
+00:10:04.120 --> 00:10:08.860
+al menos basado en nuestra intuición aquí-- quizás yo voy a haber
+
+00:10:08.860 --> 00:10:12.110
+calculado el volumen bajo esta superficie.
+
+00:10:12.110 --> 00:10:13.690
+Pero de todas maneras, no quería confundirte.
+
+00:10:13.690 --> 00:10:15.670
+Pero esa es la intuición de lo que haremos.
+
+00:10:15.670 --> 00:10:18.140
+Y pienso que tu vas a descubrir que en realidad
+
+00:10:18.140 --> 00:10:20.840
+calcular los volúmenes es bastante sencillo,
+
+00:10:20.840 --> 00:10:23.660
+especialmente cuando has fijado los límites "x" e "y".
+
+00:10:23.660 --> 00:10:26.510
+Y eso es lo que haremos en el próximo video.
+
+00:10:26.510 --> 00:10:28.012
+Nos vemos pronto.

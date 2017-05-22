@@ -1,0 +1,324 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.395 --> 00:00:04.621
+Parte C, escribe pero no evalues la expresion integral
+
+00:00:04.621 --> 00:00:07.733
+para el volumen del solido que se genera cuando R-
+
+00:00:07.733 --> 00:00:09.868
+-pues, me refiero a esta región acá -
+
+00:00:09.868 --> 00:00:14.884
+Cuando la region R es rotada alrededor de la linea y=1
+
+00:00:14.884 --> 00:00:18.228
+la linea y=1 seria esta.
+
+00:00:18.228 --> 00:00:20.933
+Entonces, a mi me gusta pensarlo... pensemos acerca del
+
+00:00:20.933 --> 00:00:24.265
+volumen si solo rotásemos la parte inferior de la función. Si solo
+
+00:00:24.265 --> 00:00:28.026
+tomamos f(x) - si solo tomamos f(x) - y
+
+00:00:28.026 --> 00:00:32.400
+rotamos esta función alrededor de y=x. Si nosotros rotamos
+
+00:00:32.400 --> 00:00:36.525
+esta linea alrededor de... perdón, alrededor de y=1 ¿Cual seria
+
+00:00:36.525 --> 00:00:39.636
+el volumen de eso? y después le voy a restar
+
+00:00:39.636 --> 00:00:42.516
+a ese volumen, el volumen que conseguiríamos si
+
+00:00:42.516 --> 00:00:44.652
+rotasemos la función g(x).
+
+00:00:44.652 --> 00:00:47.345
+Antes que nada, pemsemos en que volumen coseguiríamos
+
+00:00:47.345 --> 00:00:49.342
+y esto es esencialmente el metodo de discos, y ya explique
+
+00:00:49.342 --> 00:00:51.525
+con mucho más detalle el metodo en un video de cálculo anterior, pero
+
+00:00:51.525 --> 00:00:54.265
+pensemos en el volumen obtenido si f(x) se gira alrededor de
+
+00:00:54.265 --> 00:00:58.677
+este eje. Y para ello, imaginemos cada - cada
+
+00:00:58.677 --> 00:01:03.599
+hebra de ese volumen. Así que esto es - permítanme dibujar una liñita
+
+00:01:03.599 --> 00:01:06.711
+justo aquí - y si nos imaginamos esta pequeña
+
+00:01:06.711 --> 00:01:11.216
+hebra rotando, se forma la parte inferior... se forma, mejor
+
+00:01:11.216 --> 00:01:13.863
+imaginemos, podemos imaginar, esta linea es
+
+00:01:13.863 --> 00:01:17.733
+el radio de un disco. Y así - sólo imaginemos que
+
+00:01:17.733 --> 00:01:19.807
+Permítanme dibujar el disco entero.
+
+00:01:19.807 --> 00:01:22.361
+Así que si esto se gira alrededor de - si esto se gira
+
+00:01:22.361 --> 00:01:27.655
+se convertirá en un disco, se convertirá en un disco
+
+00:01:27.655 --> 00:01:31.278
+será un disco que se ve algo más o menos como esto, y
+
+00:01:31.278 --> 00:01:36.340
+Sólo te llaman la profundidad del disco - tan el disco si se
+
+00:01:36.340 --> 00:01:38.337
+imaginar una moneda es tipo de la cara de la moneda,
+
+00:01:38.337 --> 00:01:42.330
+la profundidad de la moneda - la profundidad de la moneda por allí.
+
+00:01:42.330 --> 00:01:47.021
+Sé que puedo señalar mejor que eso. Por lo tanto la profundidad
+
+00:01:47.021 --> 00:01:51.990
+de la moneda es simplemente así. Es una profundidad fija, y me voy
+
+00:01:51.990 --> 00:01:55.008
+para llamar a ese dx - eso, a esta distancia por aquí
+
+00:01:55.008 --> 00:01:59.095
+¿es el dx - y lo que va a ser la zona de esa moneda?
+
+00:01:59.095 --> 00:02:02.346
+Bien el área de la superficie de esta moneda, así que permítanme-
+
+00:02:02.346 --> 00:02:07.083
+Permítanme hacer como esta... en un color diferente. Por eso quiero
+
+00:02:07.083 --> 00:02:11.355
+hacerlo en azul - el área de esta moneda es justo pi veces el radio
+
+00:02:11.355 --> 00:02:15.024
+de esa moneda, cuadrado. Y ¿cuál es el radio de la moneda?
+
+00:02:15.024 --> 00:02:18.089
+Así, el radio de la moneda es esta altura - esto
+
+00:02:18.089 --> 00:02:20.467
+altura por aquí. ¿Y cuál es esa altura?
+
+00:02:20.467 --> 00:02:26.123
+Bueno es 1-f(x). Lo es igual al radio.
+
+00:02:26.123 --> 00:02:30.495
+Por lo tanto el área - el surf-la zona - el tipo de la cara
+
+00:02:30.495 --> 00:02:32.795
+de esta moneda va a ser pi - el área de la cara de este
+
+00:02:35.086 --> 00:02:39.033
+moneda va a ser tiempos de pi al cuadrado el radio,
+
+00:02:39.033 --> 00:02:46.092
+que es igual a pi veces uno menos f de x - uno menos f de x al cuadrado-
+
+00:02:46.092 --> 00:02:49.111
+que es esta zona azul por aquí, y si quiero
+
+00:02:49.111 --> 00:02:52.269
+encontrar el volumen de esta moneda que sería multiplíquelo por-
+
+00:02:52.269 --> 00:02:56.913
+por la profundidad de la moneda. Tan times - tan veces dx.
+
+00:02:56.913 --> 00:03:00.767
+Y si yo quería encontrar el volumen de este sólido completo-
+
+00:03:00.767 --> 00:03:04.761
+Esta toda rota, me gustaría encontrar la suma de
+
+00:03:04.761 --> 00:03:06.467
+todos estos volúmenes. Esto es sólo el disco correcto
+
+00:03:06.467 --> 00:03:09.359
+aquí, pero puedo tener otro disco, una similar
+
+00:03:09.359 --> 00:03:12.749
+disco que hago por aquí, podría tener otro
+
+00:03:12.749 --> 00:03:15.133
+disco derecho aquí, y quiero aprovechar la suma
+
+00:03:15.133 --> 00:03:19.668
+de todos esos discos. Por eso quiero tomar - quiero
+
+00:03:19.668 --> 00:03:22.594
+tomar - por lo que el volumen va a ser la suma de todos
+
+00:03:22.594 --> 00:03:26.495
+de esos discos - tan x va desde 0 - que es este delimitador
+
+00:03:26.495 --> 00:03:35.272
+punto - x es igual a 1/2 veces pi(1-f(x)) ^ 2 - esto es
+
+00:03:35.272 --> 00:03:39.266
+el área de e-fa-la zona de la cara de cada uno de esos discos
+
+00:03:39.266 --> 00:03:41.774
+y entonces multiplicar de tiempo la profundidad de cada uno de esos discos-
+
+00:03:41.774 --> 00:03:44.282
+no se da el volumen de cada uno de esos discos, y
+
+00:03:44.282 --> 00:03:46.418
+Estoy tomando la suma de todos ellos.
+
+00:03:46.418 --> 00:03:49.436
+Así que esto es el volumen - esto es el volumen si sólo
+
+00:03:49.436 --> 00:03:54.034
+girar f(x) alrededor y = 1 - realmente sólo debo escribir
+
+00:03:54.034 --> 00:03:57.424
+DX aquí - y por lo tanto este derecho aquí - esta expresión -
+
+00:03:57.424 --> 00:04:00.721
+Sólo lo hice realmente son iguales, esto es
+
+00:04:00.721 --> 00:04:02.733
+Obviamente, sólo el volumen de cada uno de esos discos.
+
+00:04:02.733 --> 00:04:07.037
+Así que esto es el volumen si tomar f(x) alrededor y = 1.
+
+00:04:07.037 --> 00:04:10.752
+Figura vamos a salir, así que permítanme llamar este volumen de f(x) -
+
+00:04:10.752 --> 00:04:14.096
+y por la misma lógica - la misma lógica exacta - podemos
+
+00:04:14.096 --> 00:04:18.200
+averiguar el volumen si tomamos g(x) - si nos gira g(x)
+
+00:04:18.200 --> 00:04:23.268
+alrededor - si nos girar g(x) - si construimos discos como este
+
+00:04:23.268 --> 00:04:27.819
+y girar alrededor y = 1. Y así el volumen -
+
+00:04:27.819 --> 00:04:33.438
+si tomo g(x) alrededor y = 1 sería de 0 a 1/2 veces
+
+00:04:33.438 --> 00:04:39.011
+PI(1-g(x) - 1-g(x) causa es cada uno de derecho estos radio
+
+00:04:39.011 --> 00:04:44.166
+aquí - cada uno de estos radio - cuadrado, dx.
+
+00:04:44.166 --> 00:04:47.138
+Por lo que el volumen de lo que están pidiendo nosotros - el
+
+00:04:47.138 --> 00:04:50.389
+volumen del sólido generado cuando se gira R - bien
+
+00:04:50.389 --> 00:04:53.872
+R es el tipo de espacio entre f(x) y g(x) - tan
+
+00:04:53.872 --> 00:04:56.449
+así que lo que va a ser - es g - se va el volumen
+
+00:04:56.449 --> 00:04:58.771
+la diferencia entre estos volúmenes - es
+
+00:04:58.771 --> 00:05:01.093
+va a ser este volumen - este es el tipo de exterior
+
+00:05:01.093 --> 00:05:03.183
+volumen y nos vamos a sacar de su núcleo hueco-
+
+00:05:03.183 --> 00:05:05.459
+vamos a lo hueco fuera ser restando este volumen.
+
+00:05:05.459 --> 00:05:08.524
+Por lo que el volumen de esa región va a ser la integral-
+
+00:05:08.524 --> 00:05:13.028
+Podrá hacerlo en un nuevo color - integral de 0 a 1/2 de
+
+00:05:13.028 --> 00:05:25.149
+PI(1-f(x)) ^ 2 dx menos la integral de 0 a 1/2 de pi(1-g(x)) ^ 2 dx
+
+00:05:25.149 --> 00:05:28.200
+y esto es completamente válida respuesta pero tal vez desee simplificar la TI
+
+00:05:28.200 --> 00:05:32.022
+tenemos los mismos límites de integración - tenemos el mismo
+
+00:05:32.022 --> 00:05:34.530
+variable de integración - y realmente tenemos este pi aquí
+
+00:05:34.530 --> 00:05:36.805
+tan sólo nos podíamos factor fuera - y esto es
+
+00:05:36.805 --> 00:05:40.196
+lo mismo que pi veces la integral de 0 a 1/2
+
+00:05:40.196 --> 00:05:49.994
+de (1-f(x)) ^ 2 menos (1-g(x)) ^ 2 -
+
+00:05:49.994 --> 00:05:55.428
+y luego todo ese dx. Y entonces - y en realidad probablemente
+
+00:05:55.428 --> 00:05:57.146
+Quisiera hacer-probablemente desea hacer
+
+00:05:57.146 --> 00:06:00.258
+Esto teniendo el examen de AP, no sólo dejarlo en
+
+00:06:00.258 --> 00:06:02.200
+términos de f(x) y g(x) - realmente desea escribir
+
+00:06:02.200 --> 00:06:06.388
+la expresión para lo que f(x)... son f(x) y g(x).
+
+00:06:06.388 --> 00:06:08.803
+Así que realmente sería probablemente la mejor respuesta:
+
+00:06:08.803 --> 00:06:12.843
+tiempos de la integral de 0 a 1/2 veces PI
+
+00:06:12.843 --> 00:06:18.694
+[1 (f(x) 1... así es la tercera potencia - 8 x 8 x a la
+
+00:06:18.694 --> 00:06:23.152
+tercera potencia, cuadrada. Signo menos, (1-g(x)... y g(x) es
+
+00:06:23.152 --> 00:06:30.165
+pecado de pi x. Que cuadrado - cuadrado veces dx.
+
+00:06:30.165 --> 00:06:33.137
+Y que sería nuestra respuesta y podía ver por qué
+
+00:06:33.137 --> 00:06:34.670
+no quieren pasar por la molestia
+
+00:06:34.670 --> 00:06:36.434
+de la evaluación-que sólo querían poder configurar
+
+00:06:36.434 --> 99:59:59.999
+esta integral.

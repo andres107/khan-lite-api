@@ -1,0 +1,867 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.850 --> 00:00:05.650
+Digamos que tenemos la fórmula de una elipse," x" cuadrada sobre
+
+00:00:05.650 --> 00:00:10.950
+"a" cuadada más "y" cuadrada sobre "b" cuadrada es igual a 1.
+
+00:00:10.950 --> 00:00:13.210
+Y por el bien de lo que trataremos , asumamos
+
+00:00:13.210 --> 00:00:15.030
+que "a" es mayor que "b"
+
+00:00:15.030 --> 00:00:17.420
+Y todo lo que esto hace por nosotros es dejarnos que esto
+
+00:00:17.420 --> 00:00:19.110
+sea un tipo de elipse corta y gruesa.
+
+00:00:19.110 --> 00:00:23.600
+O que el semieje mayor, o, el eje mayor, va a
+
+00:00:23.600 --> 00:00:24.730
+estar a lo largo de la horizontal.
+
+00:00:24.730 --> 00:00:26.580
+Y el eje menor a lo largo de la vertical.
+
+00:00:26.580 --> 00:00:28.960
+Y dibujemos eso.
+
+00:00:28.960 --> 00:00:31.330
+Dibuja esta elipse
+
+00:00:31.330 --> 00:00:35.070
+Quiero dibujar una elipse más ancha
+
+00:00:35.070 --> 00:00:40.120
+Digamos que esta es mi elipse, y ahora dejenme trazar mis ejes.
+
+00:00:40.120 --> 00:00:45.490
+OK, este es el horizontal justo ahi.
+
+00:00:45.490 --> 00:00:48.120
+Y aqui tenemos el vertical.
+
+00:00:48.120 --> 00:00:51.830
+Y hemos estudiado una elipse con bastante detalle hasta ahora.
+
+00:00:51.830 --> 00:00:58.160
+Sabemos como encontrar el semiradio menor, el cual
+
+00:00:58.160 --> 00:01:01.970
+en este caso sabemos que es "b".
+
+00:01:01.970 --> 00:01:03.320
+Esa es la misma "b" justo aquí.
+
+00:01:03.320 --> 00:01:05.510
+Y ese es sólo el semiradio menor.
+
+00:01:05.510 --> 00:01:06.670
+Porque "b" es menor que "a"
+
+00:01:06.670 --> 00:01:08.480
+Si "b" fuera mayor , sería el radio mayor.
+
+00:01:08.480 --> 00:01:11.170
+Y , por supuesto, el radio mayor es "a".
+
+00:01:11.170 --> 00:01:15.350
+Y la distancia está justo aquí.
+
+00:01:15.350 --> 00:01:18.540
+Ahora, otra superinteresante, y quizás la propiedad
+
+00:01:18.540 --> 00:01:21.750
+más interesante de una elipse, es, que si tomas
+
+00:01:21.750 --> 00:01:27.730
+cualquier punto sobre la elipse, y mides la distancia de
+
+00:01:27.730 --> 00:01:30.490
+ese punto hacia dos puntos especiales, los cuales por el bien
+
+00:01:30.490 --> 00:01:32.500
+del tema, (y no sólo por el bien de este
+
+00:01:32.500 --> 00:01:35.170
+tema, sino que por prácticamente para siempre) los llamaremos
+
+00:01:35.170 --> 00:01:38.120
+los focos de una elipse.
+
+00:01:38.120 --> 00:01:41.380
+Y estos dos puntos, siempre están situados sobre
+
+00:01:41.380 --> 00:01:42.280
+el eje mayor.
+
+00:01:42.280 --> 00:01:44.180
+Así que, en este caso, es el eje horizontal.
+
+00:01:44.180 --> 00:01:47.090
+Y son simétricos alrededor del centro de la elipse.
+
+00:01:47.090 --> 00:01:49.230
+Asi que llamemos a estos puntos... déjenme
+
+00:01:49.230 --> 00:01:51.700
+llamar a este "f1".
+
+00:01:51.700 --> 00:01:52.960
+Y a este es "f2".
+
+00:01:52.960 --> 00:01:54.710
+Y es por Foco.
+
+00:01:54.710 --> 00:01:55.920
+Focos.
+
+00:01:55.920 --> 00:01:56.810
+"f2".
+
+00:01:56.810 --> 00:02:00.220
+Así que la propiedad superinteresante, fascinante
+
+00:02:00.220 --> 00:02:01.100
+de una elipse,
+
+00:02:01.100 --> 00:02:03.900
+y que es frecuentemente usada como la definición de una elipse es, si
+
+00:02:03.900 --> 00:02:07.490
+tomas cualquier punto sobre la elipse, y mides su
+
+00:02:07.490 --> 00:02:09.360
+distancia a cada uno de estos dos puntos.
+
+00:02:09.360 --> 00:02:14.160
+Digamos que tengoe esta distancia justo aqui.
+
+00:02:14.160 --> 00:02:18.980
+Llamemos a esta distancia "d1".
+
+00:02:18.980 --> 00:02:23.200
+Y luego tengo esta distancia por aquí, asi que estoy tomando cualquier
+
+00:02:23.200 --> 00:02:25.400
+punto en la elipse, o este punto en particular, y estoy
+
+00:02:25.400 --> 00:02:29.980
+midiendo la distancia a cada uno de estos dos focos.
+
+00:02:29.980 --> 00:02:32.060
+Y este es "d2".
+
+00:02:32.060 --> 00:02:33.200
+Lo haremos en un color diferente.
+
+00:02:33.200 --> 00:02:35.950
+Estamos usando todos los colores.
+
+00:02:35.950 --> 00:02:36.730
+Así que este es "d2"
+
+00:02:36.730 --> 00:02:39.030
+Toda esta línea justo aquí.
+
+00:02:39.030 --> 00:02:39.680
+Es "d2"
+
+00:02:42.180 --> 00:02:47.100
+Así que, cuando encuentras estas dos distancias, las sumas.
+
+00:02:47.100 --> 00:02:52.280
+Así que este "d2" más "d1" , van a ser una constante
+
+00:02:52.280 --> 00:02:54.980
+que en realidad resulta ser igual a "2a".
+
+00:02:54.980 --> 00:02:58.000
+Pero resulta que esto es verdad en cualquier parte de la elipse.
+
+00:02:58.000 --> 00:02:59.600
+Déjenme aclarar este punto.
+
+00:02:59.600 --> 00:03:01.620
+Y de hecho voy a probarles que esta distancia
+
+00:03:01.620 --> 00:03:04.460
+constante es en realidad "2a", en donde esta "a" es la misma
+
+00:03:04.460 --> 00:03:05.280
+que la "a" justo aquí.
+
+00:03:05.280 --> 00:03:07.830
+Así que, sólo para asegurarme de que me entienden lo que estoy diciendo,
+
+00:03:07.830 --> 00:03:09.530
+déjenme tomar otro punto arbtrario
+
+00:03:09.530 --> 00:03:11.240
+sobre esta elipse.
+
+00:03:11.240 --> 00:03:12.690
+Tomémoslo justo aquí.
+
+00:03:12.690 --> 00:03:15.570
+Y si fuera a medir la distancia desde este punto a
+
+00:03:15.570 --> 00:03:27.660
+este foco... llamemos a este punto "d3" y luego medimos la
+
+00:03:27.660 --> 00:03:30.760
+distancia de este punto a este foco... llamemos
+
+00:03:30.760 --> 00:03:32.830
+"d4" a ese puto.
+
+00:03:35.680 --> 00:03:36.630
+"d4"
+
+00:03:36.630 --> 00:03:39.490
+Si fuera a sumar estas dos distancias, seguiría todavía
+
+00:03:39.490 --> 00:03:41.030
+siendo igual a "2a".
+
+00:03:41.030 --> 00:03:42.110
+Déjenme escribir eso.
+
+00:03:42.110 --> 00:03:49.260
+"d3" más "d4" seguiría todavía siendo igual a "2a"
+
+00:03:49.260 --> 00:03:50.280
+Eso es simplemente increíble.
+
+00:03:50.280 --> 00:03:53.550
+Y, en realidad, esto es a menudo utilizado como la definición para una
+
+00:03:53.550 --> 00:03:56.180
+elipse, donde dicen que una elipse es el conjunto de todos los
+
+00:03:56.180 --> 00:03:58.330
+puntos, o a veces usan el término "lugar geométrico", el cual es
+
+00:03:58.330 --> 00:04:01.090
+un tipo de representación gráfica de un conjunto de
+
+00:04:01.090 --> 00:04:06.630
+todos los puntos, en donde la suma de las distancias a cada uno
+
+00:04:06.630 --> 00:04:09.540
+de los Focos es igual a una constante.
+
+00:04:09.540 --> 00:04:11.900
+Y jugaremos con esto un poco, y descubriremos
+
+00:04:11.900 --> 00:04:13.930
+como encontrar los Focos en una elipse.
+
+00:04:13.930 --> 00:04:17.110
+Pero la primer cosa por hacer es solamente sentirse satisfecho con que
+
+00:04:17.110 --> 00:04:20.900
+la distancia, si esto fuera cierto, es igual a "2a".
+
+00:04:20.900 --> 00:04:25.060
+Y la manera más sencilla de averiguar esto es escogiendo estos,
+
+00:04:25.060 --> 00:04:28.560
+imagino que les podemos llamar puntos extremos, a lo largo de
+
+00:04:28.560 --> 00:04:30.570
+el eje x. Aquí y aquí.
+
+00:04:30.570 --> 00:04:33.630
+Estamos ya afirmando que la distancia de aquí hacia
+
+00:04:33.630 --> 00:04:37.190
+acá, déjenme dibujar eso en otro color,
+
+00:04:37.190 --> 00:04:43.390
+que esta distancia más esta distancia de acá, va a
+
+00:04:43.390 --> 00:04:45.450
+ser igual a una constante.
+
+00:04:45.450 --> 00:04:48.240
+Y usando este punto extremo voy a demostrarles que
+
+00:04:48.240 --> 00:04:52.110
+esa constante es igual a "2a". Así que averiguemos
+
+00:04:52.110 --> 00:04:52.860
+cómo hacer eso.
+
+00:04:52.860 --> 00:04:55.150
+Así que una cosa para darse cuenta es que estos dos focos son
+
+00:04:55.150 --> 00:04:57.270
+simétricos en torno al origen.
+
+00:04:57.270 --> 00:05:02.240
+Así que, cualquier distancia que sea ésta, será
+
+00:05:02.240 --> 00:05:04.510
+la misma que esta distancia.
+
+00:05:04.510 --> 00:05:05.250
+Justo aquí.
+
+00:05:05.250 --> 00:05:07.030
+Ya que estos dos puntos son simétricos en torno al origen.
+
+00:05:07.030 --> 00:05:12.630
+Así pues esta, justo aquí, es la misma distancia que esa.
+
+00:05:12.630 --> 00:05:15.920
+Y, por supuesto, tenemos --lo que queremos hacer es averiguar la
+
+00:05:15.920 --> 00:05:20.891
+suma de esta distancia más esta distancia mas grande justo aquí.
+
+00:05:20.891 --> 00:05:24.740
+Bueno, cuál es la suma de ésta mas esta distancia coloreada de verde?
+
+00:05:24.740 --> 00:05:27.190
+Bueno, ésta justo aquí es la misma que aquella.
+
+00:05:27.190 --> 00:05:30.710
+Así que ésta más la coloreada de ver --déjenme escribir eso...
+
+00:05:30.710 --> 00:05:37.410
+Déjenme escribir esto, déjenme llamar a esta distancia "g", sólo
+
+00:05:37.410 --> 00:05:40.890
+por decir, llamemos a esto "g", y llamemos a esto "h".
+
+00:05:40.890 --> 00:05:43.510
+Ahora, si esto es "g" y esto es "h", también sabemos que esto es "g"
+
+00:05:43.510 --> 00:05:44.760
+ya que todo es simétrico.
+
+00:05:44.760 --> 00:05:47.010
+Así que cuánto es "g" más "h"?
+
+00:05:47.010 --> 00:05:49.130
+Bueno, eso es lo mismo que "g" más "h",
+
+00:05:49.130 --> 00:05:53.750
+que es lo mismo que el total del diámetro mayor de esta elipse.
+
+00:05:53.750 --> 00:05:54.970
+Qué es lo mismo que qué?
+
+00:05:54.970 --> 00:05:57.960
+Bueno, sabemos que el radio menor es "a", así que esta distancia
+
+00:05:57.960 --> 00:05:59.960
+de aquí es también "a".
+
+00:05:59.960 --> 00:06:03.970
+Así que la distancia, o la suma de las distancias desde este punto en
+
+00:06:03.970 --> 00:06:07.630
+la elipse hasta este foco, más la distancia de este punto de la elipse hasta
+
+00:06:07.630 --> 00:06:12.740
+ese foco, es equivalente a "g" más "h". O esta gran parte de verde,
+
+00:06:12.740 --> 00:06:16.320
+que es lo mismo que el diámetro mayor de esta elipse,
+
+00:06:16.320 --> 00:06:18.430
+que es lo mismo que "2a".
+
+00:06:18.430 --> 00:06:18.890
+Muy bien.
+
+00:06:18.890 --> 00:06:23.520
+Esperemos que eso sea suficientemente bueno para ustedes.
+
+00:06:23.520 --> 00:06:26.090
+Ahora, lo siguiente que tenemos que descubrir es,
+
+00:06:26.090 --> 00:06:28.150
+cómo podemos averiguar dónde se encuentran los focos.
+
+00:06:28.150 --> 00:06:30.770
+O, si tenemos esta ecuación, cómo podemos averiguar
+
+00:06:30.770 --> 00:06:32.410
+lo que son estos dos puntos?
+
+00:06:32.410 --> 00:06:33.710
+Averigüemos eso.
+
+00:06:33.710 --> 00:06:36.990
+Así que, la primer cosa que nos damos cuenta de pronto es que no
+
+00:06:36.990 --> 00:06:39.110
+importa a dónde vamos, fue fácil hacerlo con estos puntos.
+
+00:06:39.110 --> 00:06:41.910
+Sin embargo si tomamos este punto de aquí y decimos "OK,
+
+00:06:41.910 --> 00:06:46.040
+cuál es esta distancia?", y la sumamos a esa distancia,
+
+00:06:46.040 --> 00:06:47.560
+eso tendría que ser también igual a "2a".
+
+00:06:47.560 --> 00:06:50.290
+Y podemos utilizar esa información para efectivamente averiguar
+
+00:06:50.290 --> 00:06:53.210
+dónde se encuentran los Focos.
+
+00:06:53.210 --> 00:06:57.905
+Así que, digamos que tengo --déjenme dibujar otra.
+
+00:07:06.050 --> 00:07:07.990
+Así que esta es mi elipse.
+
+00:07:07.990 --> 00:07:11.590
+Y ahora queremos dibujar los ejes
+
+00:07:11.590 --> 00:07:13.930
+para ser más claros.
+
+00:07:13.930 --> 00:07:15.480
+Déjenme escribir la ecuación de nuevo
+
+00:07:15.480 --> 00:07:18.310
+sólo para no perderla. "x" cuadrada sobre "a" cuadrada
+
+00:07:18.310 --> 00:07:23.030
+más "y" cuadrada sobre "b" cuadrada igual a 1.
+
+00:07:23.030 --> 00:07:25.120
+Tomemos este punto de aquí.
+
+00:07:25.120 --> 00:07:28.310
+Estos puntos extremos son siempre útiles cuando tratas
+
+00:07:28.310 --> 00:07:29.830
+de probar algo.
+
+00:07:29.830 --> 00:07:32.720
+O pueden no serlo, no quiero decir que siempre.
+
+00:07:32.720 --> 00:07:35.920
+Ahora, dijimos que tenemos estos dos Focos que son simétricos
+
+00:07:35.920 --> 00:07:38.240
+alrededor del centro de la elipse.
+
+00:07:38.240 --> 00:07:41.740
+Este es "f1", y este es "f2"
+
+00:07:41.740 --> 00:07:45.530
+Y ya hemos dicho que la elipse es el lugar geométrico de todos los
+
+00:07:45.530 --> 00:07:48.230
+puntos, o el set de todos los puntos, siendo que si tomas cada
+
+00:07:48.230 --> 00:07:52.780
+una de la distancia de estos puntos a cada uno de los Focos, y las sumas,
+
+00:07:52.780 --> 00:07:54.230
+obtienes un número constante.
+
+00:07:54.230 --> 00:07:56.120
+Y hemos averiguado que ese número constante es "2a".
+
+00:07:56.120 --> 00:07:59.100
+Así que hemos averiguado que si tomas esta distancia de aquí
+
+00:07:59.100 --> 00:08:03.320
+y la sumas a esta distancia de aquí,
+
+00:08:03.320 --> 00:08:06.240
+el resultado será igual a "2a".
+
+00:08:06.240 --> 00:08:15.370
+Entonces podríamos decir que si llamamos a esta "d" "d1", esta es "d2",
+
+00:08:15.370 --> 00:08:21.030
+sabemos que "d1" más "d2" es igual a "2a".
+
+00:08:21.030 --> 00:08:22.710
+Y una cosa interesante aquí es que todo esto
+
+00:08:22.710 --> 00:08:24.080
+es simétrico, cierto?
+
+00:08:24.080 --> 00:08:27.020
+Esta distancia será la misma; "d1" será la misma
+
+00:08:27.020 --> 00:08:29.340
+que "d2", pues todo lo que estamos haciendo es simétrico.
+
+00:08:29.340 --> 00:08:31.760
+Estas dos distancias al foco son simétricas.
+
+00:08:31.760 --> 00:08:35.160
+Esta distancia es la misma distancia que
+
+00:08:35.160 --> 00:08:36.710
+esta distancia de aquí.
+
+00:08:36.710 --> 00:08:38.870
+Así que, "d1" y "d2"tienen que ser lo mismo.
+
+00:08:38.870 --> 00:08:40.920
+No hay manera de que ustedes no puedan -- este es el punto
+
+00:08:40.920 --> 00:08:43.050
+central exacto de la elipse.
+
+00:08:43.050 --> 00:08:47.090
+La elipse es simétrica en torno al eje y.
+
+00:08:47.090 --> 00:08:50.990
+Así que si "d1" es igual a "d2", y eso equivale a "2a", entonces sabemos
+
+00:08:50.990 --> 00:08:54.240
+que esto tiene que ser igual a "a",
+
+00:08:54.240 --> 00:08:56.740
+y esto tiene que ser igual a "a".
+
+00:08:56.740 --> 00:08:58.690
+Pienso que estamos haciendo progreso.
+
+00:08:58.690 --> 00:09:00.760
+Y la otra cosa que tenemos que pensar, y ya lo hemos hecho
+
+00:09:00.760 --> 00:09:02.740
+en el dibujo de la elipse previo es, ¿Cuál
+
+00:09:02.740 --> 00:09:04.880
+es esta distancia?
+
+00:09:04.880 --> 00:09:07.880
+Esta distancia es el semiradio menor.
+
+00:09:07.880 --> 00:09:11.160
+El cuál ya hemos aprendido que es "b".
+
+00:09:11.160 --> 00:09:14.250
+Y esto, claro está, es la distancia al foco que estamos
+
+00:09:14.250 --> 00:09:16.360
+tratando de encontrar.
+
+00:09:16.360 --> 00:09:19.530
+Esto debería de resaltar en sus mentes como un problema
+
+00:09:19.530 --> 00:09:20.830
+del teorema de Pitágoras.
+
+00:09:20.830 --> 00:09:24.460
+Así que tenemos la "distancia focal".
+
+00:09:24.460 --> 00:09:26.120
+Y lo podríamos resolver en este triángulo o este triángulo.
+
+00:09:26.120 --> 00:09:27.140
+Yo lo haré en este triángulo de la derecha.
+
+00:09:27.140 --> 00:09:28.490
+La distancia focal es "f".
+
+00:09:28.490 --> 00:09:30.020
+Hay que llamarla "f".
+
+00:09:30.020 --> 00:09:34.450
+"f" cuadrada más "b" cuadrada será igual a
+
+00:09:34.450 --> 00:09:38.060
+la hipotenusa al cuadrado, que en este caso es "d2" o "a".
+
+00:09:38.060 --> 00:09:39.890
+Lo que es igual a "a" cuadrada.
+
+00:09:39.890 --> 00:09:42.870
+Y ahora tenemos una ecuación agradable en términos de "b" y "a".
+
+00:09:42.870 --> 00:09:46.070
+De la ecuación de la elipse sabemos los valores de
+
+00:09:46.070 --> 00:09:47.160
+"b" y "a".
+
+00:09:47.160 --> 00:09:48.820
+Así que resolvamos para la distancia focal.
+
+00:09:48.820 --> 00:09:52.760
+La distancia focal, "f" cuadrada, es igual a "a" cuadrada
+
+00:09:52.760 --> 00:09:55.360
+menos "b" cuadrada.
+
+00:09:55.360 --> 00:09:57.870
+Así, "f", la distancia focal, será igual a
+
+00:09:57.870 --> 00:10:02.020
+la raíz cuadrada de "a" cuadrada menos "b" cuadrada.
+
+00:10:02.020 --> 00:10:04.490
+Muy limpio y ordenado, y una manera muy intuitiva de
+
+00:10:04.490 --> 00:10:05.250
+pensar en algo.
+
+00:10:05.250 --> 00:10:08.520
+Así que literalmente sólo toma la diferencia de estos dos
+
+00:10:08.520 --> 00:10:11.520
+números, cual sea el más grande, o cual sea el más pequeño
+
+00:10:11.520 --> 00:10:12.340
+deben substraer uno del otro.
+
+00:10:12.340 --> 00:10:15.140
+Toman la raíz cuadrada y esa es la distancia focal.
+
+00:10:15.140 --> 00:10:17.840
+Ahora, veamos si podemos utilizar esto para aplicarlo a algunos
+
+00:10:17.840 --> 00:10:21.290
+problemas más reales donde les podrían preguntar: "hey, encuentra
+
+00:10:21.290 --> 00:10:21.930
+la distancia focal."
+
+00:10:21.930 --> 00:10:24.930
+o "encuentra las coordinadas de los focos".
+
+00:10:24.930 --> 00:10:34.820
+Así que agreguemos la ecuación "x" menos uno al cuadrado sobre nueve más
+
+00:10:34.820 --> 00:10:42.530
+"y" más dos al cuadrado sobre cuatro es igual a uno.
+
+00:10:42.530 --> 00:10:44.810
+Entonces grafiquemos esto antes que todo.
+
+00:10:44.810 --> 00:10:46.410
+Esto podría ser interesante.
+
+00:10:46.410 --> 00:10:48.770
+Así que dibujaré los ejes.
+
+00:10:48.770 --> 00:10:50.320
+Ese es el eje x.
+
+00:10:50.320 --> 00:10:52.790
+Este es el eje y.
+
+00:10:52.790 --> 00:10:54.890
+E inmediatamente vemos, ¿Cuál es el centro de esto?
+
+00:10:54.890 --> 00:10:57.730
+El centro va a estar localizado en el punto (1, -2).
+
+00:10:57.730 --> 00:11:00.230
+Y si eso es confuso, es posible que deseen revisar algunos
+
+00:11:00.230 --> 00:11:01.740
+de los videos previos.
+
+00:11:01.740 --> 00:11:04.440
+El centro está en 1, "x" es igual a 1.
+
+00:11:04.440 --> 00:11:07.560
+"y" es igual a -2.
+
+00:11:07.560 --> 00:11:08.970
+Ese es el centro.
+
+00:11:08.970 --> 00:11:14.330
+Y luego, el eje mayor es el eje x, pues esto es más grande.
+
+00:11:14.330 --> 00:11:18.050
+Y así, "b" cuadrada es --o "a" cuadrada es igual a 9.
+
+00:11:18.050 --> 00:11:20.870
+Y el semiradio menor será igual a 3.
+
+00:11:20.870 --> 00:11:23.230
+Así, si cuentas 1, 2, 3.
+
+00:11:25.750 --> 00:11:26.270
+Va aquí.
+
+00:11:26.270 --> 00:11:29.940
+Y luego cuentas 1, 2, 3.
+
+00:11:29.940 --> 00:11:30.510
+No.
+
+00:11:30.510 --> 00:11:32.240
+1, 2, 3.
+
+00:11:32.240 --> 00:11:32.820
+1, 2, 3.
+
+00:11:32.820 --> 00:11:33.701
+Yo pienso que está... - veamos.
+
+00:11:33.701 --> 00:11:35.530
+1, 2, 3.
+
+00:11:35.530 --> 00:11:38.130
+Va aquí, aproximadamente.
+
+00:11:38.130 --> 00:11:41.010
+Y luego en la dirección "y", el semiradio menor será
+
+00:11:41.010 --> 00:11:42.110
+2, ¿Cierto?
+
+00:11:42.110 --> 00:11:43.430
+La raíz cuadrada de eso.
+
+00:11:43.430 --> 00:11:44.670
+Así que "b" es igual a 2.
+
+00:11:44.670 --> 00:11:47.440
+Así que vas 2 para arriba, y luego 2 para abajo.
+
+00:11:47.440 --> 00:11:50.110
+Y esta elipse se verá algo así como...
+
+00:11:50.110 --> 00:11:52.050
+-- escogeremos un buen color.
+
+00:11:52.050 --> 00:11:56.750
+...se verá algo así como esto.
+
+00:11:56.750 --> 00:11:59.590
+Y lo que sí queremos hacer, queremos encontrar
+
+00:11:59.590 --> 00:12:01.830
+las coordinadas de los focos.
+
+00:12:01.830 --> 00:12:04.220
+Así que, los focos estarán ubicados sobre
+
+00:12:04.220 --> 00:12:06.970
+el semieje mayor.
+
+00:12:06.970 --> 00:12:09.920
+Y tenemos que encontrar las distancias focales.
+
+00:12:09.920 --> 00:12:11.690
+Y entonces podemos simplemente sumarlas y sustraerlas
+
+00:12:11.690 --> 00:12:12.860
+del centro.
+
+00:12:12.860 --> 00:12:14.430
+Y así tendremos las coordenadas.
+
+00:12:14.430 --> 00:12:17.260
+Lo que ya les he demostrado, o esperemos les haya demostrado, es
+
+00:12:17.260 --> 00:12:21.420
+que la distancia focal o esta distancia "f"... la distancia focal
+
+00:12:21.420 --> 00:12:24.670
+es simplemente equivalente a la raíz cuadrada de la diferencia
+
+00:12:24.670 --> 00:12:26.750
+de estos dos números, ¿cierto?
+
+00:12:26.750 --> 00:12:30.660
+Es sólo la raíz cuadrada de 9 menos 4.
+
+00:12:30.660 --> 00:12:35.660
+Así pues, la distancia focal equivale a la raíz cuadrada de 5.
+
+00:12:35.660 --> 00:12:38.540
+Entonces si este punto justo aquí es el punto -- y ya les he
+
+00:12:38.540 --> 00:12:42.920
+demostrado que este es el punto -- el centro de la elipse
+
+00:12:42.920 --> 00:12:46.930
+está en el punto (1, -2).
+
+00:12:46.930 --> 00:12:51.470
+La coordinada de este foco justo aquí será igual a
+
+00:12:51.470 --> 00:12:55.970
+(1 más la raíz cuadrada de 5, -2).
+
+00:12:55.970 --> 00:12:58.440
+Y la coordinada de este foco justo aquí será
+
+00:12:58.440 --> 00:13:02.630
+(1 menos la raíz cuadrada de 5, -2).
+
+00:13:02.630 --> 00:13:04.650
+Y todo lo que hice fue tomar la distancia focal y sustraerla
+
+00:13:04.650 --> 00:13:08.510
+-- ya que estamos sobre el eje mayor, o el eje x, sólo agrego
+
+00:13:08.510 --> 00:13:11.420
+y resto esto de la coordinada "x" para obtener estas dos
+
+00:13:11.420 --> 00:13:12.670
+coordinadas de aquí.
+
+00:13:12.670 --> 00:13:15.840
+Así que, de cualquier modo, esta es la cosa más increíble de las
+
+00:13:15.840 --> 00:13:18.240
+secciones cónicas, y es que éstas tienen estas propiedades tan interesantes en
+
+00:13:18.240 --> 00:13:22.230
+relación con estos focos (o en relación con estos puntos focales).
+
+00:13:22.230 --> 00:13:26.140
+Y en videos futuros les enseñaré los focos de una hipérbola o
+
+00:13:26.140 --> 00:13:29.820
+los focos de una (bueno, en realidad sólo tiene un foco)
+
+00:13:29.820 --> 00:13:31.440
+de la parábola.
+
+00:13:31.440 --> 00:13:33.340
+Pero esto está realmente empezando a mostrarnos lo que
+
+00:13:33.340 --> 00:13:34.350
+hace a las secciones cónicas interesantes.
+
+00:13:34.350 --> 00:13:36.740
+Todo lo que hemos hecho hasta este punto ha tratado mucho más
+
+00:13:36.740 --> 00:13:40.230
+sobre la mecánica de graficar y trazar y encontrar
+
+00:13:40.230 --> 00:13:41.350
+los centros de las secciones cónicas.
+
+00:13:41.350 --> 00:13:43.700
+Pero ahora nos estamos adentrando un poco en
+
+00:13:43.700 --> 00:13:46.340
+las partes matemáticas interesantes de las secciones cónicas.
+
+00:13:46.340 --> 00:13:46.900
+De cualquier modo,
+
+00:13:46.900 --> 00:13:48.770
+los veo en el siguiente video.

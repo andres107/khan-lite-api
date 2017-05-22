@@ -1,0 +1,561 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:04.124 --> 00:00:04.624
+Sigamos construyendo nuestra tabla de Laplace transformaciones. Y ahora
+
+00:00:06.267 --> 00:00:07.910
+vamos a hacer un problema bastante peludo, así que voy a tener
+
+00:00:10.205 --> 00:00:12.500
+concentrarnos para que no hago un error por descuido.
+
+00:00:14.295 --> 00:00:16.090
+Pero digamos que queremos tomar la transformada de Laplace--y
+
+00:00:17.360 --> 00:00:18.630
+Esto es útil.
+
+00:00:19.625 --> 00:00:20.620
+En realidad, todos ellos que hemos hecho hasta ahora son útiles.
+
+00:00:22.180 --> 00:00:23.740
+Os contaré cuando empezamos a hacer más no por lo útiles.
+
+00:00:25.695 --> 00:00:27.650
+Digamos que queremos tomar la transformada de Laplace de seno
+
+00:00:29.675 --> 00:00:31.700
+de constante de algunas veces t.
+
+00:00:33.450 --> 00:00:35.200
+Pues bien, nuestra definición de la transformada de Laplace, dice
+
+00:00:36.205 --> 00:00:37.210
+que es la integral impropia.
+
+00:00:38.050 --> 00:00:38.620
+Y recuerde, la transformada de Laplace es sólo una
+
+00:00:39.120 --> 00:00:39.620
+definición.
+
+00:00:40.530 --> 00:00:41.440
+Es simplemente una herramienta que ha resultado
+
+00:00:42.425 --> 00:00:43.410
+ser extremadamente útil.
+
+00:00:44.705 --> 00:00:46.000
+Y haremos más en la intuición más tarde.
+
+00:00:48.330 --> 00:00:50.660
+Pero de todas formas, es la integral de 0 a infinito del e de la
+
+00:00:52.205 --> 00:00:53.750
+menos st, veces--que estamos tomando la Laplace
+
+00:00:57.655 --> 00:01:01.560
+transformar de--veces seno de a, dt.
+
+00:01:04.470 --> 00:01:07.195
+Y ahora, tenemos que volver y encontrar nuestra integración por
+
+00:01:07.695 --> 00:01:08.195
+las partes de neurona.
+
+00:01:10.392 --> 00:01:12.560
+Y la mía siempre desaparece, así que tenemos que reprender
+
+00:01:13.060 --> 00:01:13.560
+integración por partes.
+
+00:01:14.250 --> 00:01:14.940
+No recomiendo que hagas todo el tiempo.
+
+00:01:15.830 --> 00:01:16.720
+Si tienes que hacerlo en un examen, puede que desee
+
+00:01:17.345 --> 00:01:17.970
+memorizar antes del examen.
+
+00:01:19.125 --> 00:01:20.280
+Pero siempre recuerde, integración por partes es sólo
+
+00:01:21.115 --> 00:01:21.950
+la regla del producto en orden inverso.
+
+00:01:22.620 --> 00:01:23.290
+Tan sólo haré en este rincón.
+
+00:01:24.025 --> 00:01:24.760
+Así que la regla del producto nos dice si tenemos dos
+
+00:01:26.490 --> 00:01:28.220
+funciones, u veces v.
+
+00:01:30.330 --> 00:01:32.440
+Y si tuviera que tomar la derivada de ustedes veces v.
+
+00:01:33.320 --> 00:01:34.200
+Digamos que son las funciones de t.
+
+00:01:34.745 --> 00:01:35.290
+Estos son ambas funciones de t.
+
+00:01:36.425 --> 00:01:37.560
+Yo podría haber escrito u de x veces u de x.
+
+00:01:39.350 --> 00:01:41.140
+A continuación, es igual a la derivada de las primeras veces
+
+00:01:41.140 --> 00:01:45.140
+la segunda función, además de las primeras veces de función la
+
+00:01:45.140 --> 00:01:46.600
+derivado de la segunda.
+
+00:01:46.600 --> 00:01:50.540
+Ahora, si yo fuera a integrar ambos lados, me sale uv--esto
+
+00:01:50.540 --> 00:01:54.780
+debe ser la revisión--es igual a la integral de cebe v,
+
+00:01:54.780 --> 00:01:56.580
+con respecto al dt--pero sólo estoy haciendo un poco de
+
+00:01:56.580 --> 00:02:01.570
+taquigrafía ahora--además de la integral de prime de uv.
+
+00:02:01.570 --> 00:02:04.790
+Sólo estoy tratando de mí ayudar a recordar esto.
+
+00:02:04.790 --> 00:02:07.460
+Y vamos a tomar esto y Réstelo de ambos lados.
+
+00:02:07.460 --> 00:02:17.240
+Así que tenemos esta integral de ustedes v principal va a ser igual
+
+00:02:17.240 --> 00:02:24.620
+a este, uv menos la integral de prime de uv.
+
+00:02:24.620 --> 00:02:25.920
+Y, por supuesto, esta es una función de t.
+
+00:02:25.920 --> 00:02:27.370
+Hay un dt aquí y todo eso.
+
+00:02:27.370 --> 00:02:29.770
+Pero sólo tengo que hacer esto en la esquina de mi página mucho,
+
+00:02:29.770 --> 00:02:32.780
+porque siempre se me olvida esto y con los primos y los
+
+00:02:32.780 --> 00:02:34.460
+integrales y todo eso, yo siempre olvidar.
+
+00:02:34.460 --> 00:02:38.070
+Una manera, si usted quería memorizar, dijo, OK, la
+
+00:02:38.070 --> 00:02:40.580
+integración por partes dice si tomar la integral de la
+
+00:02:40.580 --> 00:02:44.530
+derivado de una cosa y luego simplemente una función regular
+
+00:02:44.530 --> 00:02:47.560
+de otro, es igual a las dos funciones veces entre sí,
+
+00:02:47.560 --> 00:02:50.170
+menos la integral del reverso.
+
+00:02:50.170 --> 00:02:50.520
+¿Verdad?
+
+00:02:50.520 --> 00:02:54.080
+Aquí, cuando llevas la sustracción, está tomando la
+
+00:02:54.080 --> 00:02:55.530
+uno que tenía un derivado, ahora no es así.
+
+00:02:55.530 --> 00:02:58.370
+Y el que no tenía un derivado, ahora lo hace.
+
+00:02:58.370 --> 00:03:01.610
+Pero de todos modos, vamos a aplican a nuestro problema en
+
+00:03:01.610 --> 00:03:03.730
+mano, a éste.
+
+00:03:03.730 --> 00:03:07.060
+Bueno, podríamos ir de cualquier manera sobre él.
+
+00:03:07.060 --> 00:03:12.930
+Vamos a hacer u primo es igual a--haremos nuestra definición--
+
+00:03:12.930 --> 00:03:19.580
+prime u es igual a e para el st negativo, en cuyo caso le
+
+00:03:19.580 --> 00:03:22.890
+sería la primitiva, que es igual a menos
+
+00:03:22.890 --> 00:03:30.415
+¿1 sobre s e a la menos st, derecha?
+
+00:03:30.415 --> 00:03:33.950
+Y en realidad, esto va a ser una integración por partes
+
+00:03:33.950 --> 00:03:36.170
+doble problema, tan sólo realmente voy a definir el
+
+00:03:36.170 --> 00:03:38.950
+Transformada de Laplace como y.
+
+00:03:38.950 --> 00:03:40.240
+Vendrán útil más adelante.
+
+00:03:40.240 --> 00:03:43.810
+Y creo que realmente hice un ejemplo muy similar a esto
+
+00:03:43.810 --> 00:03:45.620
+cuando hicimos la integración por partes.
+
+00:03:45.620 --> 00:03:47.660
+Pero de todos modos, hacia la integración por partes.
+
+00:03:47.660 --> 00:03:48.760
+Por lo es u.
+
+00:03:48.760 --> 00:03:50.980
+Y me deja hacer v en un color diferente.
+
+00:03:50.980 --> 00:03:54.960
+¿Así que cuando v--Si este es primo de la u, derecha?
+
+00:03:54.960 --> 00:03:56.510
+Esto es primo de u, entonces esto es v.
+
+00:03:56.510 --> 00:04:01.395
+Tan v es igual al seno a.
+
+00:04:01.395 --> 00:04:04.320
+¿Y, a continuación, lo que es primo de v?
+
+00:04:04.320 --> 00:04:07.930
+¿Bueno, eso es sólo un coseno de a la derecha?
+
+00:04:07.930 --> 00:04:09.110
+La regla de la cadena.
+
+00:04:09.110 --> 00:04:12.120
+Y ahora, estamos listos para hacer nuestra integración.
+
+00:04:12.120 --> 00:04:17.519
+La transformada de Laplace y ya nos dirás justo y eso, y es
+
+00:04:17.519 --> 00:04:21.529
+igual a--y es lo que estamos tratando de resolver, la
+
+00:04:21.529 --> 00:04:24.070
+Laplace de seno en--es decir
+
+00:04:24.070 --> 00:04:27.210
+igual cebe v.
+
+00:04:27.210 --> 00:04:28.880
+¿Definí prime u en v, correcto?
+
+00:04:28.880 --> 00:04:29.650
+Es igual a la.
+
+00:04:29.650 --> 00:04:31.940
+La integral de prime times v.
+
+00:04:31.940 --> 00:04:34.260
+Equivale a uv.
+
+00:04:34.260 --> 00:04:46.700
+Eso es menos 1 sobre s e a la menos st, tiempos v, seno de
+
+00:04:46.700 --> 00:04:52.580
+al menos la integral.
+
+00:04:52.580 --> 00:04:57.970
+Y cuando haces la integración por partes, esto
+
+00:04:57.970 --> 00:05:00.540
+podría ser una integral indefinida, una inadecuada
+
+00:05:00.540 --> 00:05:01.950
+integral, una integral definida, sea cual sea.
+
+00:05:01.950 --> 00:05:03.080
+Pero se mantiene el límite.
+
+00:05:03.080 --> 00:05:10.210
+Y aún podemos decir, desde 0 hasta infinito de prime de uv.
+
+00:05:10.210 --> 00:05:20.800
+Entonces u es menos 1 sobre s e a la menos st, tiempos v prime,
+
+00:05:20.800 --> 00:05:32.350
+veces al coseno de a--muy bien--dt.
+
+00:05:32.350 --> 00:05:33.720
+Bien, ahora tenemos otro peludo
+
+00:05:33.720 --> 00:05:35.210
+integral que necesitamos resolver.
+
+00:05:35.210 --> 00:05:37.940
+Así que esto podría implicar otra integración por
+
+00:05:37.940 --> 00:05:42.360
+las partes y lo hace.
+
+00:05:42.360 --> 00:05:43.890
+Vamos a ver si podemos simplificar en [? todas.?]
+
+00:05:43.890 --> 00:05:45.340
+Vamos a tomar las constantes primero. Déjame
+
+00:05:45.340 --> 00:05:46.890
+simplemente escribir esto.
+
+00:05:46.890 --> 00:05:54.440
+Por lo que tenemos y es igual a menos e a la menos st
+
+00:05:54.440 --> 00:06:00.090
+sobre s, seno de a.
+
+00:06:00.090 --> 00:06:09.700
+Por lo que tiene un signo negativo más una más s--una dividida por s, y
+
+00:06:09.700 --> 00:06:12.250
+Luego de estos dos signos negativos cancelación fuera--veces el
+
+00:06:12.250 --> 00:06:19.420
+integral de 0 a infinito, e para el st negativo,
+
+00:06:19.420 --> 00:06:23.080
+coseno de a, dt.
+
+00:06:23.080 --> 00:06:25.110
+Vamos a hacer otra integración por partes.
+
+00:06:25.110 --> 00:06:27.250
+Y voy a hacer esto en un color púrpura, para que sepas esto
+
+00:06:27.250 --> 00:06:29.520
+es nuestra segunda integración por partes.
+
+00:06:29.520 --> 00:06:31.720
+Aquí.
+
+00:06:31.720 --> 00:06:40.670
+Vamos a definir una vez más, primo de u es igual a e el signo menos
+
+00:06:40.670 --> 00:06:43.550
+St. Así que esto es primo de u.
+
+00:06:43.550 --> 00:06:50.150
+Entonces u es igual a menos 1 sobre s e a la menos st.
+
+00:06:50.150 --> 00:06:53.010
+Haremos v igual al coseno de a.
+
+00:06:55.720 --> 00:06:58.730
+La parte más difícil de esto no hace errores por descuido.
+
+00:06:58.730 --> 00:07:02.590
+Y entonces v primer--sólo quiero que sea en la misma fila--es
+
+00:07:02.590 --> 00:07:09.560
+¿igual al menos una señal senoidal de, derecha?
+
+00:07:09.560 --> 00:07:12.160
+La regla de la cadena, derivada del coseno es signo.
+
+00:07:12.160 --> 00:07:17.070
+Así que vamos a sustituir ese respaldo en y nos obtenga--esto va
+
+00:07:17.070 --> 00:07:21.960
+para obtener peludas; en realidad, ya es vellosa--y es igual
+
+00:07:21.960 --> 00:07:35.620
+e a menos que el st negativo sobre s, seno de a, además de un
+
+00:07:35.620 --> 00:07:41.220
+sobre s, tiempos--OK.
+
+00:07:41.220 --> 00:07:42.810
+Integración por partes.
+
+00:07:42.810 --> 00:07:43.680
+UV.
+
+00:07:43.680 --> 00:07:53.540
+Por lo que es menos 1 sobre s e a la menos st, tiempos v, veces
+
+00:07:53.540 --> 00:08:06.910
+coseno, menos la integral de 0 a infinito.
+
+00:08:06.910 --> 00:08:08.310
+Este problema me está haciendo hambre.
+
+00:08:08.310 --> 00:08:10.800
+Está tomando tanta glucosa de mi sangre.
+
+00:08:10.800 --> 00:08:14.000
+Me estoy centrando tanto para no cometer errores por descuido.
+
+00:08:14.000 --> 00:08:16.380
+De todos modos, integral de 0 a infinito.
+
+00:08:16.380 --> 00:08:26.250
+Y ahora, tenemos prime de uv, por lo que es menos 1 u s e a la
+
+00:08:26.250 --> 00:08:30.460
+menos st. Es u.
+
+00:08:30.460 --> 00:08:34.480
+Y luego v primer veces menos una.
+
+00:08:34.480 --> 00:08:37.159
+Así que vamos a hacer menos Anular extracción con éste.
+
+00:08:37.159 --> 00:08:38.400
+Por lo se convierte en un plus.
+
+00:08:38.400 --> 00:08:46.860
+un seno de a, dt.
+
+00:08:46.860 --> 00:08:49.170
+Estoy empezando a ver la luz al final del túnel.
+
+00:08:49.170 --> 00:08:51.700
+Así pues, vamos a simplificar esta cosa.
+
+00:08:51.700 --> 00:08:53.610
+Y, por supuesto, vamos a tener que evaluar todo este
+
+00:08:53.610 --> 00:08:56.730
+¿lo correcto?
+
+00:08:56.730 --> 00:08:58.350
+En realidad, vamos a tener que evaluar todo.
+
+00:08:58.350 --> 00:09:00.440
+Solo Concentrémonos en la integral indefinida por ahora.
+
+00:09:00.440 --> 00:09:02.020
+Vamos a tener que tomar todo esto y
+
+00:09:02.020 --> 00:09:05.180
+evaluar--digamos que es la primitiva y
+
+00:09:05.180 --> 00:09:07.340
+luego evaluar desde el infinito a 0.
+
+00:09:07.340 --> 00:09:08.850
+De 0 a infinito.
+
+00:09:08.850 --> 00:09:15.125
+Así que es igual a menos e a la menos st y
+
+00:09:15.125 --> 00:09:19.072
+sobre s, seno de a.
+
+00:09:19.072 --> 00:09:21.690
+Ahora vamos a distribuir esto.
+
+00:09:21.690 --> 00:09:32.950
+Menos una s al cuadrado, e a la menos st, coseno de a.
+
+00:09:32.950 --> 00:09:33.430
+¿Verdad?
+
+00:09:33.430 --> 00:09:35.990
+OK, ahora quiero para asegurarse de que no hago un error por descuido.
+
+00:09:35.990 --> 00:09:36.380
+Vale.
+
+00:09:36.380 --> 00:09:39.390
+Ahora, vamos a multiplicar este momento esto y tomar todas las
+
+00:09:39.390 --> 00:09:40.520
+constantes de salida.
+
+00:09:40.520 --> 00:09:42.450
+Así que tenemos una una y una s.
+
+00:09:42.450 --> 00:09:43.790
+un sobre s.
+
+00:09:43.790 --> 00:09:44.740
+Hay un signo menos.
+
+00:09:44.740 --> 00:09:46.470
+Tenemos un plus un a la s.
+
+00:09:46.470 --> 00:09:56.740
+Por lo que tendremos un menos un cuadrado sobre s al cuadrado, veces
+
+00:09:56.740 --> 00:10:00.990
+la integral de 0--bien, dije que yo soy sólo preocuparse por
+
+00:10:00.990 --> 00:10:06.060
+a evaluar la integral indefinida ahora mismo y la
+
+00:10:06.060 --> 00:10:07.680
+límites más tarde.
+
+00:10:07.680 --> 00:10:13.760
+e el negativo st, seno de a, dt.
+
+00:10:13.760 --> 00:10:15.800
+Ahora, esta es la parte, y hemos hecho esto antes, es un
+
+00:10:15.800 --> 00:10:18.580
+poco de un truco con la integración por partes.
+
+00:10:18.580 --> 00:10:22.500
+Pero esta expresión, aviso, es lo mismo que nuestro
+
+00:10:22.500 --> 00:10:23.940
+y original.
+
+00:10:23.940 --> 00:10:24.400
+¿Verdad?
+
+00:10:24.400 --> 00:10:25.410
+Este es nuestro y original.
+
+00:10:25.410 --> 00:10:27.110
+Y nosotros estamos suponiendo que estamos haciendo la integral indefinida, y
+
+00:10:27.110 --> 00:10:28.340
+te evaluamos los límites más tarde.
+
+00:10:28.340 --> 00:10:30.440
+Aunque nos podríamos han mantenido las fronteras todo el tiempo,
+
+00:10:30.440 --> 00:10:32.120
+pero habría hecho incluso peludo.
+
+00:10:32.120 --> 00:10:34.440
+Por lo tanto podemos reescribir esta integral como y.
+
+00:10:34.440 --> 00:10:37.580
+Esa fue nuestra definición.
+
+00:10:37.580 --> 00:10:39.440
+Y efectivamente, acabo de darme cuenta estoy corriendo fuera de tiempo, modo
+
+00:10:39.440 --> 00:10:42.010
+Continuaré este problema peludo en el siguiente vídeo.
+
+00:10:42.010 --> 00:10:43.260
+Nos vemos luego.

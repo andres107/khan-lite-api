@@ -1,0 +1,248 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.976 --> 00:00:04.304
+Tenemos una función f(x) que está aquí graficada
+
+NOTE Paragraph
+
+00:00:04.304 --> 00:00:08.901
+y tenemos un conjunto de enunciados sobre el límite de f(x) cuando x se aproxima a diferentes valores
+
+00:00:08.945 --> 00:00:11.753
+y lo que quiero hacer es dilucidar cuáles de esos enunciados son verdaderos
+
+00:00:11.784 --> 00:00:13.971
+y cuáles son falsos
+
+00:00:13.971 --> 00:00:18.824
+Veamos entonces el primero de esos enunciados: el límite de f(x) cuando x se aproxima
+
+00:00:18.824 --> 00:00:23.563
+a uno desde la dirección positiva es igual a cero
+
+00:00:23.563 --> 00:00:26.303
+¿Es esto verdadero o falso?
+
+00:00:26.979 --> 00:00:30.922
+Veámoslo. Estamos hablando de x aproximándose a uno
+
+00:00:30.938 --> 00:00:35.139
+desde la dirección positiva, o sea que para valores mayores que uno
+
+00:00:35.232 --> 00:00:39.528
+Entonces, cuando x se aproxima a 1 desde una dirección positiva, ¿qué valor toma f(x)?
+
+00:00:39.544 --> 00:00:41.535
+Bueno, cuando es es, digamos, uno y medio
+
+00:00:41.535 --> 00:00:47.340
+f(x) está aquí; cuando x se acerca más y más a uno, f(x) se mantiene en uno
+
+00:00:47.401 --> 00:00:49.904
+Por lo tanto, cuando x se aproxima a uno...
+
+00:00:49.904 --> 00:00:54.221
+...desde la dirección positiva parece como si el límite de f(x)...
+
+00:00:54.421 --> 00:00:57.784
+... parece como si el límite de f(x) a medida que x se aproxima a uno desde la dirección positiva...
+
+00:00:57.784 --> 00:01:00.571
+no es cero. Parece que es uno.
+
+00:01:00.571 --> 00:01:04.370
+Por lo tanto, no es verdadero.
+
+00:01:04.370 --> 00:01:10.704
+Esto sería verdadero si, en vez de decir que nos aproximamos desde la dirección positiva, dijéramos que nos aproximamos desde la dirección negativa: desde la dirección negativa la función realmente parece como si...
+
+00:01:10.704 --> 00:01:15.451
+...el valor de la función realmente parece como si se estuviera aproximando a cero.
+
+00:01:15.451 --> 00:01:21.263
+Para aproximarse a uno desde la dirección negativa, cuando x está aquí, esto es f(x)...
+
+00:01:21.263 --> 00:01:23.393
+... cuando x está aquí, esto es f(x)...
+
+00:01:23.393 --> 00:01:26.368
+... cuando x está aquí, esto es f(x)
+
+00:01:26.368 --> 00:01:29.587
+y podemos ver que el valor de f(x) parece estar más y más cerca de cero.
+
+00:01:29.626 --> 00:01:33.035
+Por lo tanto esto sólo podría ser verdadero si nos estuviéramos aproximando desde la dirección negativa.
+
+00:01:33.035 --> 00:01:36.787
+Siguiente pregunta: el límite de f(x) a medida que x se aproxima a cero desde...
+
+00:01:36.787 --> 00:01:40.503
+... desde la dirección negativa es el mismo que el límite de f(x) con x aproximándose a cero...
+
+00:01:40.503 --> 00:01:43.205
+... desde la dirección positiva. ¿Es esta afirmación verdadera?
+
+00:01:44.682 --> 00:01:48.286
+Bueno, veamos: nuestra función f(x) a medida que nos aproximamos a cero desde...
+
+00:01:48.286 --> 00:01:52.703
+... desde la dirección negativa - Estoy usando un nuevo color - a medida que nos aproximamos a cero desde la dirección negativa...
+
+00:01:52.703 --> 00:01:57.704
+Entonces, tenemos aquí nuestro valor de f(x)
+
+00:01:57.723 --> 00:02:09.035
+...entonces, a medida que nos acercamos, este es nuestro valor de f(x), a medida que nos acercamos, este es nuestro valor de f(x). De forma que parece que desde la dirección negativa nos estamos aproximando a uno positivo; desde la dirección positiva...
+
+00:02:09.035 --> 00:02:13.035
+... cuando x es mayor que cero: vamos a probar.
+
+00:02:13.035 --> 00:02:16.011
+Entonces, digamos por ejemplo que x es un medio, este es nuestro f(x)...
+
+00:02:16.011 --> 00:02:19.544
+... si x es -digamos- un cuarto, este es nuestro f(x)...
+
+00:02:19.544 --> 00:02:22.943
+Si x es justo apenas mayor que cero, este es nuestro f(x).
+
+00:02:22.974 --> 00:02:28.702
+Entonces también parece que aproximando f(x)... f(x) es igual a uno.
+
+00:02:28.717 --> 00:02:33.454
+De forma que parece que es verdadero: ambos parecen estar aproximándose a un límite de uno.
+
+00:02:33.454 --> 00:02:37.237
+El límite aquí es uno, de forma que es absolutamente verdadero.
+
+00:02:37.237 --> 00:02:44.124
+Ahora veamos esta afirmación: el límite de f(x) a medida que x se aproxima a cero desde la dirección negativa es igual a uno.
+
+00:02:44.140 --> 00:02:46.052
+Bueno, ya hemos pensado sobre este caso.
+
+00:02:46.081 --> 00:02:48.971
+El límite de f(x) a medida que x se aproxima desde la dirección negativa...
+
+00:02:48.971 --> 00:02:56.970
+... el límite de f(x) a medida que x se aproxima a cero desde la dirección negativa, podemos ver que nos estamos acercando más y más a uno; a medida que x se aproxima más y más a cero...
+
+00:02:57.046 --> 00:03:00.739
+... f(x) se aproxima más y más a uno, entonces esto también es verdad.
+
+00:03:01.000 --> 00:03:05.406
+El límite de f(x) con x aproximándose a cero existe.
+
+00:03:05.432 --> 00:03:08.662
+Bueno, definitivamente exite - ya hemos establecido que es igual a uno...
+
+00:03:08.685 --> 00:03:10.152
+.. de forma que es verdadero.
+
+00:03:10.214 --> 00:03:15.122
+Ahora, el límite de f(x), con x aproximándose a uno, existe, ¿es eso verdad?
+
+00:03:16.598 --> 00:03:19.986
+Bueno, ya hemos visto que cuando estábamos aproximándonos desde la dirección positiva...
+
+00:03:20.055 --> 00:03:22.600
+... el límite parece estar aproximándose a uno...
+
+00:03:22.692 --> 00:03:28.142
+... cuando x es un medio teníamos que f(x) era uno, cuando x era un poco más que uno, f(x) era uno...
+
+00:03:28.219 --> 00:03:30.157
+... de forma que parece como si estuviéramos acercando más y más a uno.
+
+00:03:30.210 --> 00:03:31.170
+(Permítanme escribir eso aquí)
+
+00:03:31.208 --> 00:03:38.208
+El límite de f(x) a medida que x se aproxima a uno desde la dirección positiva es igual a uno.
+
+00:03:38.292 --> 00:03:40.415
+Y ahora, ¿cuál es el límite...
+
+00:03:40.438 --> 00:03:45.026
+... el límite de f(x) con x aproximándose a uno desde la dirección negativa?
+
+00:03:45.026 --> 00:03:48.375
+Bueno, aquí, este es nuestro f(x)...
+
+00:03:48.375 --> 00:03:49.828
+Aquí, este es nuestro f(x)...
+
+00:03:49.828 --> 00:03:55.743
+Parece como si nuestro f(x) se acerca más y más a cero cuando nos aproximamos a uno desde valores menores a uno.
+
+00:03:55.743 --> 00:03:57.750
+Entonces aquí es igual a cero.
+
+00:03:57.750 --> 00:04:01.643
+Entonces, si el límite desde el lado de la derecha es un valor diferente...
+
+00:04:01.643 --> 00:04:05.292
+... que el límite desde el lado de la izquierda, entonces el límite no existe.
+
+00:04:05.292 --> 00:04:10.067
+Entonces esto no es verdadero.
+
+00:04:10.067 --> 00:04:14.301
+Finalmente, el límite de f(x) con x aproximándose a 1,5 es igual a uno.
+
+00:04:14.301 --> 00:04:16.231
+Entonces, aquí...
+
+00:04:16.231 --> 00:04:19.974
+Entonces, todo lo que hemos estado analizando refiere a puntos de discontinuidad...
+
+00:04:19.974 --> 00:04:22.929
+... o puntos donde quizás la función no está bien definida...
+
+00:04:22.929 --> 00:04:27.396
+... pero aquí tenemos un punto simple; cuando x es igual a 1,5 que debe ser más o menos por aquí...
+
+00:04:27.396 --> 00:04:31.207
+Esto es f(1,5); aquí, este es el punto...
+
+00:04:31.207 --> 00:04:33.345
+Entonces, este es el valor de f(1,5)...
+
+00:04:33.345 --> 00:04:34.629
+Podemos decir que f(1,5)...
+
+00:04:34.629 --> 00:04:39.622
+Podemos decir que f(1,5) es igual a uno.
+
+00:04:39.683 --> 00:04:43.267
+Este aquí es el punto (1.5, 1)
+
+00:04:43.267 --> 00:04:47.935
+... y cuando nos aproximamos desde el lado de la izquierda, desde valores menos que este...
+
+00:04:47.935 --> 00:04:50.328
+... es uno, el límite parece ser uno...
+
+00:04:50.328 --> 00:04:52.796
+... y cuando nos aproximamos desde el lado derecho el límite parece ser uno.
+
+00:04:52.796 --> 00:04:54.572
+De forma que esto parece claro.
+
+00:04:54.572 --> 00:04:56.502
+El gráfico es continuo aquí...
+
+00:04:56.502 --> 00:05:00.150
+... y si miramos la gráfica...
+
+00:05:00.150 --> 00:05:02.587
+... el límite es el valor de la función aquí...
+
+00:05:02.587 --> 00:05:06.429
+No tienen que tener la función indefinida a efectos de encontrar un límite aquí.
+
+00:05:06.429 --> 00:05:14.992
+De forma que es un caso en que el límite de f(x) a medida que x se aproxima a 1,5 es igual a uno.

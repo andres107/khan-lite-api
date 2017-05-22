@@ -1,0 +1,501 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.670 --> 00:00:03.330
+Vamos a intentar llenar en nuestra tabla de transformada de Laplace un
+
+00:00:03.330 --> 00:00:03.960
+un poco más.
+
+00:00:03.960 --> 00:00:06.000
+Y es un buen lugar para empezar a escribir nuestra definición
+
+00:00:06.000 --> 00:00:07.820
+de la transformada de Laplace.
+
+00:00:07.820 --> 00:00:14.240
+La transformada de Laplace de alguna función f de t es igual a
+
+00:00:14.240 --> 00:00:19.340
+la integral de 0 a infinito, de e a la menos
+
+00:00:19.340 --> 00:00:23.540
+St, tiempos nuestra función, f de t dt.
+
+00:00:23.540 --> 00:00:24.860
+Es nuestra definición.
+
+00:00:24.860 --> 00:00:28.330
+La primera uno que solucionamos--podríamos incluso hacerlo en
+
+00:00:28.330 --> 00:00:32.630
+el aquí derecho lado--era la transformada de Laplace de 1.
+
+00:00:32.630 --> 00:00:35.550
+Sabes, casi podríamos ver que como t 0 y que
+
+00:00:35.550 --> 00:00:38.220
+era igual a la integral de 0 a infinito.
+
+00:00:38.220 --> 00:00:44.490
+f de t fue sólo 1, por lo que es la e a la menos st, dt, que es
+
+00:00:44.490 --> 00:00:47.080
+igual a la primitiva de e a la st negativo, que es
+
+00:00:47.080 --> 00:00:53.910
+menos 1 sobre s, e a la menos st. Y luego tienes que
+
+00:00:53.910 --> 00:00:56.870
+evaluar desde 0 hasta el infinito.
+
+00:00:56.870 --> 00:01:00.380
+Cuando usted toma el límite como este término enfoques infinito,
+
+00:01:00.380 --> 00:01:02.740
+este negativo, esto se convierte en e negativo
+
+00:01:02.740 --> 00:01:05.529
+infinito, si suponemos que s es mayor que 0.
+
+00:01:05.529 --> 00:01:08.160
+Así que si suponemos que s es mayores que 0, todo este
+
+00:01:08.160 --> 00:01:10.400
+término va a 0.
+
+00:01:10.400 --> 00:01:15.720
+Así que terminas con un 0 menos este lo evaluado en 0.
+
+00:01:15.720 --> 00:01:19.330
+Así que cuando usted evaluar t es igual a 0, este término derecho
+
+00:01:19.330 --> 00:01:24.790
+aquí se convierte en 1, e 0 se convierte en 1, por lo que es menos menos
+
+00:01:24.790 --> 00:01:29.585
+1/s, que es lo mismo como plus 1/s.
+
+00:01:29.585 --> 00:01:29.670
+¿el?
+
+00:01:29.670 --> 00:01:32.960
+Transformada de Laplace de 1, de sólo la constante
+
+00:01:32.960 --> 00:01:34.940
+función 1, es 1/s.
+
+00:01:34.940 --> 00:01:36.660
+Ya hemos solucionado.
+
+00:01:36.660 --> 00:01:38.700
+Ahora, vamos a incrementarlo poco a poco.
+
+00:01:38.700 --> 00:01:44.270
+Vamos a ver si podemos averiguar la transformada de Laplace de t.
+
+00:01:44.270 --> 00:01:45.720
+Así podemos ver esto como t 0.
+
+00:01:45.720 --> 00:01:47.750
+Ahora esto es t a la 1.
+
+00:01:47.750 --> 00:01:51.130
+Esto va a ser igual a la integral de 0 a
+
+00:01:51.130 --> 00:01:58.870
+infinito, de e a la st menos veces t dt.
+
+00:01:58.870 --> 00:01:59.560
+Ahora.
+
+00:01:59.560 --> 00:02:02.210
+Puedo decirles ahora que no tengo el
+
+00:02:02.210 --> 00:02:03.870
+primitiva de esta memorizado.
+
+00:02:03.870 --> 00:02:05.030
+No sé lo que es.
+
+00:02:05.030 --> 00:02:07.680
+Pero hay una sensación de que podría ser la integración por partes
+
+00:02:07.680 --> 00:02:10.269
+útil, porque la integración por partes tipo de se descompone en
+
+00:02:10.269 --> 00:02:11.680
+un problema más simple.
+
+00:02:11.680 --> 00:02:14.230
+Y siempre se me olvida integración por partes, por lo que seré
+
+00:02:14.230 --> 00:02:17.240
+rederive aquí en este color púrpura.
+
+00:02:17.240 --> 00:02:21.960
+Así que si tenemos u veces v, si tomamos la derivada con
+
+00:02:21.960 --> 00:02:25.620
+respecto a t, que es igual a la derivada de la
+
+00:02:25.620 --> 00:02:29.180
+primeros tiempos la segunda función además de la primera
+
+00:02:29.180 --> 00:02:31.190
+función veces la derivada de la segunda función.
+
+00:02:31.190 --> 00:02:32.950
+Es simplemente la regla del producto.
+
+00:02:32.950 --> 00:02:35.070
+Ahora, si tomamos la integral de ambos lados de este
+
+00:02:35.070 --> 00:02:40.950
+ecuación, obtenemos uv es igual a la primitiva de usted
+
+00:02:40.950 --> 00:02:47.250
+Cebe v plus la primitiva de prime de uv.
+
+00:02:47.250 --> 00:02:49.680
+Ahora, ya que queremos aplicar esto a una integral, tal vez
+
+00:02:49.680 --> 00:02:53.080
+vamos a hacer esto lo que queremos resolver, por lo que podemos conseguir
+
+00:02:53.080 --> 00:02:57.120
+la integral de uv primo es igual a--sólo podemos
+
+00:02:57.120 --> 00:03:00.310
+Esto reste de ese lado de la ecuación, por lo que tiene
+
+00:03:00.310 --> 00:03:03.290
+igualdad--yo estoy sólo intercambiar los lados, por lo que sólo estoy resolviendo para
+
+00:03:03.290 --> 00:03:06.330
+Esto, y para resolver esto, yo sólo restar esto que,
+
+00:03:06.330 --> 00:03:11.390
+por lo que es igual a uv menos la integral de cebe v.
+
+00:03:11.390 --> 00:03:12.290
+Así que ahí va.
+
+00:03:12.290 --> 00:03:15.040
+A pesar de que tengo problemas para memorizar esta fórmula, tiene
+
+00:03:15.040 --> 00:03:18.660
+no es demasiado duro para rederive como recuerdas la
+
+00:03:18.660 --> 00:03:21.350
+allí la regla del producto.
+
+00:03:21.350 --> 00:03:23.880
+Así que si vamos a hacer la integración por partes, tiene
+
+00:03:23.880 --> 00:03:27.740
+buena para definir nuestro primo v para ser algo que es fácil
+
+00:03:27.740 --> 00:03:29.460
+tomar la primitiva, porque vamos a tener que
+
+00:03:29.460 --> 00:03:32.480
+averiguar más tarde v, y es bueno que lo lleve a ser
+
+00:03:32.480 --> 00:03:34.690
+algo que es fácil tomar la derivada.
+
+00:03:34.690 --> 00:03:41.000
+Así que vamos a hacer t es igual a la nuestra le y hagamos e a la
+
+00:03:41.000 --> 00:03:44.010
+menos st como nuestro primer v.
+
+00:03:44.010 --> 00:03:47.810
+Si es así, ¿qué es v?
+
+00:03:47.810 --> 00:03:49.440
+Bueno, sólo v's la primitiva de que.
+
+00:03:49.440 --> 00:03:51.970
+De hecho, lo hemos hecho antes.
+
+00:03:51.970 --> 00:03:59.830
+Es menos 1/s, e a la menos st. Es v.
+
+00:03:59.830 --> 00:04:02.800
+Y luego si queremos averiguar prime u, porque estamos
+
+00:04:02.800 --> 00:04:04.980
+va a tener que averiguar más tarde de todos modos, de prime u
+
+00:04:04.980 --> 00:04:07.000
+sólo la derivada de t.
+
+00:04:07.000 --> 00:04:09.980
+Es simplemente igual a 1.
+
+00:04:09.980 --> 00:04:11.020
+Así que vamos a aplicar esta.
+
+00:04:11.020 --> 00:04:21.480
+Vamos a ver, por lo que la transformada de Laplace de t es igual a los rayos uv.
+
+00:04:21.480 --> 00:04:25.890
+u es t, v es este derecho aquí.
+
+00:04:25.890 --> 00:04:35.880
+Es veces menos 1/s, e negativo e el negativo st, St.
+
+00:04:35.880 --> 00:04:37.820
+es el término de uv allí.
+
+00:04:37.820 --> 00:04:40.110
+¿Y esto es una integral definida, correcta?
+
+00:04:40.110 --> 00:04:42.980
+Así que vamos a evaluar este término derecho
+
+00:04:42.980 --> 00:04:47.210
+aquí desde 0 hasta el infinito.
+
+00:04:47.210 --> 00:04:56.190
+Y entonces es menos la integral de 0 a infinito de
+
+00:04:56.190 --> 00:05:00.530
+prime u, que es sólo 1 veces v.
+
+00:05:00.530 --> 00:05:05.060
+v, sólo pensamos aquí, es menos--permítanme escribir en
+
+00:05:05.060 --> 00:05:09.720
+color de v's--veces menos 1/s--esto es mi v aquí--
+
+00:05:09.720 --> 00:05:15.610
+menos 1/s, e a la menos st, dt.
+
+00:05:15.610 --> 00:05:16.860
+Todo eso es dt.
+
+00:05:21.900 --> 00:05:23.540
+Así que vamos a ver si podemos simplificar esto.
+
+00:05:23.540 --> 00:05:31.640
+Así que esto es igual a menos t/s, e a la menos st, evaluados
+
+00:05:31.640 --> 00:05:33.740
+de 0 a infinito.
+
+00:05:33.740 --> 00:05:37.030
+Y vamos a ver, podríamos tomar--bien, esto es sólo 1.
+
+00:05:37.030 --> 00:05:38.080
+1 veces nada es 1.
+
+00:05:38.080 --> 00:05:39.430
+Simplemente no podemos escribir.
+
+00:05:39.430 --> 00:05:42.170
+Y luego sacar el negativo 1/s.
+
+00:05:42.170 --> 00:05:47.180
+Así que si traemos al menos 1/s out, esto se vuelve más 1/s
+
+00:05:47.180 --> 00:05:50.330
+veces la integral de 0 a infinito de e a
+
+00:05:50.330 --> 00:05:53.360
+el signo menos st, dt.
+
+00:05:53.360 --> 00:05:56.640
+Y esto debe parecer familiar a usted.
+
+00:05:56.640 --> 00:05:59.950
+Esto es exactamente lo que solucionamos para aquí.
+
+00:05:59.950 --> 00:06:03.150
+Fue la transformada de Laplace de 1.
+
+00:06:03.150 --> 00:06:04.850
+Así que vamos a tener eso en mente.
+
+00:06:04.850 --> 00:06:09.010
+Esto aquí es la transformada de Laplace de 1.
+
+00:06:09.010 --> 00:06:10.500
+Y quiero escribirlo de esa manera, porque vamos a
+
+00:06:10.500 --> 00:06:12.700
+ve un patrón de esto en el siguiente vídeo.
+
+00:06:12.700 --> 00:06:14.580
+Voy a escribir como una transformada de Laplace de 1.
+
+00:06:14.580 --> 00:06:16.180
+Pero ¿qué es este igual?
+
+00:06:16.180 --> 00:06:18.300
+Así que vamos a evaluar esto como agrega al infinito
+
+00:06:18.300 --> 00:06:22.790
+y luego reste desde que evalúan en 0.
+
+00:06:22.790 --> 00:06:25.520
+Tipo de puede verla como una sustitución, así que esto es igual
+
+00:06:25.520 --> 00:06:27.240
+para--bueno, me deja escribirlo de esta manera.
+
+00:06:27.240 --> 00:06:36.550
+Es el límite como una infinidad de enfoques, de menos A/s, e
+
+00:06:36.550 --> 00:06:39.580
+el signo menos sA.
+
+00:06:39.580 --> 00:06:42.100
+Lo es esta evaluado en el infinito.
+
+00:06:42.100 --> 00:06:43.900
+Y luego de eso, vamos a restar esto
+
+00:06:43.900 --> 00:06:44.960
+evaluado en 0.
+
+00:06:44.960 --> 00:06:48.360
+Lo negativo de todo esto, pero ya tenemos un signo menos
+
+00:06:48.360 --> 00:06:50.420
+aquí, por lo que podríamos escribir un plus.
+
+00:06:50.420 --> 00:06:56.930
+Plus 0/s veces e al menos s veces 0.
+
+00:06:56.930 --> 00:06:59.670
+Y luego, por supuesto, tenemos este término aquí.
+
+00:06:59.670 --> 00:07:01.030
+Así que permítanme escribir ese término.
+
+00:07:01.030 --> 00:07:04.330
+Voy hacerlo en amarillo o me deja hacerlo en azul.
+
+00:07:04.330 --> 00:07:09.040
+Además 1/s--es este derecho allí--veces el Laplace
+
+00:07:09.040 --> 00:07:12.650
+transformación de 1.
+
+00:07:12.650 --> 00:07:15.890
+¿Y lo que obtenemos?
+
+00:07:15.890 --> 00:07:19.590
+¿Cuál es el límite de esta como una infinidad de enfoques?
+
+00:07:19.590 --> 00:07:22.270
+Usted podría decir: wow, sabes, como un infinito de enfoques derecha
+
+00:07:22.270 --> 00:07:24.320
+aquí, esto se convierte en un número muy grande.
+
+00:07:24.320 --> 00:07:26.510
+Hay un signo menos en allí, así que sería un gran
+
+00:07:26.510 --> 00:07:27.550
+número negativo.
+
+00:07:27.550 --> 00:07:29.575
+Pero esto es un exponente.
+
+00:07:29.575 --> 00:07:31.340
+A es un exponente aquí.
+
+00:07:31.340 --> 00:07:35.520
+Tan e hasta el infinito negativo va a ir mucho a cero
+
+00:07:35.520 --> 00:07:37.160
+más rápido que esto va a ir hasta el infinito.
+
+00:07:37.160 --> 00:07:41.570
+Este término aquí es una función mucho más fuerte, me imagino que es
+
+00:07:41.570 --> 00:07:42.230
+la manera en que usted podría verlo.
+
+00:07:42.230 --> 00:07:43.830
+Y usted puede probarlo en su calculadora, si no
+
+00:07:43.830 --> 00:07:44.660
+Créeme.
+
+00:07:44.660 --> 00:07:47.470
+Este término va a dominar este término y lo
+
+00:07:47.470 --> 00:07:51.490
+todo esto va a ir a cero.
+
+00:07:51.490 --> 00:07:54.910
+Asimismo, e negativo--e 0, esto es 1, pero
+
+00:07:54.910 --> 00:07:57.170
+se está multiplicando veces un cero, por lo que esto también va a
+
+00:07:57.170 --> 00:07:59.800
+ir a cero, que es conveniente porque todo esto
+
+00:07:59.800 --> 00:08:01.620
+cosas desaparezca.
+
+00:08:01.620 --> 00:08:06.530
+Y nosotros estamos con la transformación de t es de Laplace
+
+00:08:06.530 --> 00:08:14.240
+igual a 1/s veces la transformada de Laplace de 1.
+
+00:08:14.240 --> 00:08:17.160
+Y sabemos lo que es la transformada de Laplace de 1.
+
+00:08:17.160 --> 00:08:21.135
+La transformada de Laplace de 1--sólo lo hicimos al comienzo de
+
+00:08:21.135 --> 00:08:24.840
+el video--era igual a 1/s, si suponemos que s es
+
+00:08:24.840 --> 00:08:26.450
+mayor que cero.
+
+00:08:26.450 --> 00:08:28.300
+De hecho, tenemos que asumir que s era mayor que cero
+
+00:08:28.300 --> 00:08:30.680
+aquí con el fin de asumir que esto tiende a cero.
+
+00:08:30.680 --> 00:08:33.370
+Sólo si s es mayor que cero, cuando llegas a un signo menos
+
+00:08:33.370 --> 00:08:35.559
+Infinity aquí lo hace acercarse a cero.
+
+00:08:35.559 --> 00:08:36.360
+Bastante justo.
+
+00:08:36.360 --> 00:08:43.710
+Por lo tanto la transformada de Laplace de t es igual a 1/s veces 1/s,
+
+00:08:43.710 --> 00:08:48.760
+que es igual a 1/s al cuadrado, donde s es mayor que cero.
+
+00:08:48.760 --> 00:08:52.330
+Así que tenemos una entrada más en nuestra mesa, y
+
+00:08:52.330 --> 00:08:53.890
+Luego podemos utilizar esto.
+
+00:08:53.890 --> 00:08:56.460
+¿Qué vamos a hacer en el siguiente vídeo es acumularse hasta el
+
+00:08:56.460 --> 00:09:02.940
+Transformada de Laplace de t para cualquier exponente arbitrario.
+
+00:09:02.940 --> 00:09:06.230
+Y haremos esto en el siguiente vídeo.

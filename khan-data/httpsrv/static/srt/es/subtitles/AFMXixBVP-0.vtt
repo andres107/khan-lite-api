@@ -1,0 +1,256 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Digamos que tenemos la función f(x) es igual a e elevado a la x
+
+99:59:59.999 --> 99:59:59.999
+solo para tener una noción de como se ve
+
+99:59:59.999 --> 99:59:59.999
+hacemos un dibujo rápido de f(x) es igual a e elevado a la x
+
+99:59:59.999 --> 99:59:59.999
+se vería algo parecido a esto. Se vería algo
+
+99:59:59.999 --> 99:59:59.999
+como eso. Así que eso es e elevado a la x, y lo que quiero hacer es aproximar f(x)=e a la x
+
+99:59:59.999 --> 99:59:59.999
+usando aproximación de series de taylor o series de expansión de taylor, y no quiero hacerlo
+
+99:59:59.999 --> 99:59:59.999
+alrededor de x=0, quiero hacerlo alrededor de x=3
+
+99:59:59.999 --> 99:59:59.999
+solamente para tomar otro valor arbitrario, así que lo haremos alrededor de x es igual a 3
+
+99:59:59.999 --> 99:59:59.999
+esto es x es igual a 3, esto de justo aquí, eso es f de 3
+
+99:59:59.999 --> 99:59:59.999
+f de 3 es e a la tercera potencia. así que esto es e a la tercera potencia
+
+99:59:59.999 --> 99:59:59.999
+justo por aquí. Así que cuando tomamos las series de expansión de taylor, si tenemos
+
+99:59:59.999 --> 99:59:59.999
+un grado cero polinomial aproximándosele, lo mejor que podemos hacer es tener una
+
+99:59:59.999 --> 99:59:59.999
+función constante que vaya justamente a través de e a la tres. Si hacemos una aproximación de primer orden
+
+99:59:59.999 --> 99:59:59.999
+para que tengamos un término de primer grado, luego va a ser la linea tangente.
+
+99:59:59.999 --> 99:59:59.999
+Mientras le agreguemos más y más grados, deberíamos
+
+99:59:59.999 --> 99:59:59.999
+ser capaces de, como que contornear o converger con
+
+99:59:59.999 --> 99:59:59.999
+la curva mejor y mejor y mejor. Después hablaremos más acerca de
+
+99:59:59.999 --> 99:59:59.999
+cómo podemos probar para convergencias, y que tan bien convergen, y todo
+
+99:59:59.999 --> 99:59:59.999
+ese tipo de cosas. Pero ya que hemos dicho eso solamente apliquemos la fórmula.
+
+99:59:59.999 --> 99:59:59.999
+Luego espero que tengamos la intuición para hacerlo en el video pasado. 
+Así que
+
+99:59:59.999 --> 99:59:59.999
+la expansión de series de taylor para f(x) es igual a e elevado a la x será el
+
+99:59:59.999 --> 99:59:59.999
+polinomial. Entonces qué es f o f de c; pues bien di f(x) es igual a 3, estamos diciendo
+
+99:59:59.999 --> 99:59:59.999
+que c es 3 en esta situación. así que si c es 3, f de 3 es e a la tercera potencia
+
+99:59:59.999 --> 99:59:59.999
+Entonces es e a la tercera potencia más, ¿eué es f prima de c? Pues bien,
+
+99:59:59.999 --> 99:59:59.999
+f prima de x también va a ser e elevado a la x. tomas la derivada de
+
+99:59:59.999 --> 99:59:59.999
+e a la x para llegar a e a la x. Esa es una de las cosas asombrosas
+
+99:59:59.999 --> 99:59:59.999
+de e a la x. Entonces esto también es f prima de x, francamente esto es la misma cosa
+
+99:59:59.999 --> 99:59:59.999
+que f, la derivada número n de x. Puedes seguir tomando la dervidad
+
+99:59:59.999 --> 99:59:59.999
+de esto y obtendrás e a la x, Entonces f prima de x es e a la x,
+
+99:59:59.999 --> 99:59:59.999
+evalúas eso en 3, obtienes e a la 3 de nuevo, por
+
+99:59:59.999 --> 99:59:59.999
+x menos 3, c es 3, más la segunda derivada de nuestra función,
+
+99:59:59.999 --> 99:59:59.999
+aun es e a la x, evalúas eso en 3, obtienes e a la tercera potencia
+
+99:59:59.999 --> 99:59:59.999
+sobre 2 factorial por x menos 3 a la segunda potencia, podemos seguir
+
+99:59:59.999 --> 99:59:59.999
+haciéndolo. La tercera derviada aun es x, evaluar eso en 3, c es tres en esta
+
+99:59:59.999 --> 99:59:59.999
+situación, así que obtienes e a la tercera potencia sobre 3 fatorial por x menos
+
+99:59:59.999 --> 99:59:59.999
+3 a la tercera potencia y podemos seguir haciendo esto pero
+
+99:59:59.999 --> 99:59:59.999
+ya tienen la idea general. Pero lo que es aun más interesante que solamente ir por los
+
+99:59:59.999 --> 99:59:59.999
+mecanismos para encontrar la expansión es ver cómo
+
+99:59:59.999 --> 99:59:59.999
+mientras añadimos más y más términos se aproxima a e a la x
+
+99:59:59.999 --> 99:59:59.999
+mejor y mejor y mejor, y nuestra aproximación se aleja más de
+
+99:59:59.999 --> 99:59:59.999
+x es igual a 3. Y para hacer eso utilicé Wolfram Alpha
+
+99:59:59.999 --> 99:59:59.999
+disponible en wolframalpha.com y creo que tecleé "taylor series expansion"
+
+99:59:59.999 --> 99:59:59.999
+e a la x y x=3, y el programa supo lo que quería, y me dio
+
+99:59:59.999 --> 99:59:59.999
+todo este asunto por aquí. Y puedes ver que es exactamente la misma cosa que tenemos
+
+99:59:59.999 --> 99:59:59.999
+por aquí, e a la 3 más e a la 3 por x menos 3 más 1/2. Lo que hicieron
+
+99:59:59.999 --> 99:59:59.999
+fue expandir el factorial, en vez de 3 factorial escribieron 6 aquí.
+
+99:59:59.999 --> 99:59:59.999
+e hicieron un montón de términos por aquí. Pero lo que es aun más interesante es que
+
+99:59:59.999 --> 99:59:59.999
+de echo grafican cada una de estas polinomiales con más y más términos
+
+99:59:59.999 --> 99:59:59.999
+Y en naranja tenemos e a la x, tenemos f es igual a e a la x, y ellos
+
+99:59:59.999 --> 99:59:59.999
+nos dicen, orden y aproximación mostrado con n puntos, así que
+
+99:59:59.999 --> 99:59:59.999
+la aproximacion de primer orden, así que esa debería ser la situación en la que tenemos
+
+99:59:59.999 --> 99:59:59.999
+un polinomio de primer grado, entonces literalmente un polinomio de primer grado serían estos
+
+99:59:59.999 --> 99:59:59.999
+tres términos justo por aquí, porque este es un grado cero, este es un grado 1
+
+99:59:59.999 --> 99:59:59.999
+sólo tenemos x a la 1 involucrado. eso va a ser, si solamente
+
+99:59:59.999 --> 99:59:59.999
+fuésemos a graficarlo, si este fuese nuestro polinomio que es graficado con
+
+99:59:59.999 --> 99:59:59.999
+un punto, y ese es este que está aquí con u punto, y graficaron,
+
+99:59:59.999 --> 99:59:59.999
+graficaron justo por aquí y podemos ver
+
+99:59:59.999 --> 99:59:59.999
+que es solamente una linea tangente en x es igual a 3, eso
+
+99:59:59.999 --> 99:59:59.999
+es x es igual a 3 justo por aquí. Entonces esta es la linea tangente.
+
+99:59:59.999 --> 99:59:59.999
+Si añadimos un término, ahora vamos a obtener un polinomio se segundo grado
+
+99:59:59.999 --> 99:59:59.999
+porque estamos añadiendo una x cuadrada, y si expandes esto vas a
+
+99:59:59.999 --> 99:59:59.999
+tener un término de x cuadrada y otro término de x, pero el grado
+
+99:59:59.999 --> 99:59:59.999
+del polinomio ahora será de segundo grado. Entonces busquemos 2 puntos
+
+99:59:59.999 --> 99:59:59.999
+es este que está por aquí, entonces veamos, 2 puntos viniendo
+
+99:59:59.999 --> 99:59:59.999
+mira no percatarás uno, sino dos puntos, entonces tienes dos puntos y se acercan
+
+99:59:59.999 --> 99:59:59.999
+y esta es una parábola, este es un polinomio de segundo grado y luego
+
+99:59:59.999 --> 99:59:59.999
+regresa de esta manera. Pero date cuenta, hace un mejor trabajo, especialmente alrededor de x igual a 3,
+
+99:59:59.999 --> 99:59:59.999
+para aproximar e a la x, se queda con la curva un poco más.
+
+99:59:59.999 --> 99:59:59.999
+Agregas otro término, déjame hacerlo en otro color, un color
+
+99:59:59.999 --> 99:59:59.999
+que no haya usado, agregas otro término, Ahora tienes un polinomio de tercer grado.
+
+99:59:59.999 --> 99:59:59.999
+si tienes todos estos combinados, si este es tu polinomio y quisieras
+
+99:59:59.999 --> 99:59:59.999
+graficarlo, entonces busquemos los 3 puntos por aquí
+
+99:59:59.999 --> 99:59:59.999
+entonces 1, 2, 3, es esta curva, polinomio de tercer grado es esta curva
+
+99:59:59.999 --> 99:59:59.999
+que está por aquí. Y date cuenta que comienza a contornearse con e a la x un poco
+
+99:59:59.999 --> 99:59:59.999
+antes que la versión de segundo grado y se queda con ella un poco
+
+99:59:59.999 --> 99:59:59.999
+más. se queda con ella un poco más, y entonces la tienes
+
+99:59:59.999 --> 99:59:59.999
+justo de esa manera. Agregas otro término y tienes un término de cuarto grado
+
+99:59:59.999 --> 99:59:59.999
+entonces ahora tendremos todo esto más todo esto, si este es
+
+99:59:59.999 --> 99:59:59.999
+tu polinomio ahora tendrás esta linda curva justo por aquí. Fíjate que si añades
+
+99:59:59.999 --> 99:59:59.999
+un término, se hace mejor y mejor en aproximar e a la x
+
+99:59:59.999 --> 99:59:59.999
+más y más lejos de x igual a 3 y si añades otro
+
+99:59:59.999 --> 99:59:59.999
+término obtienes este términoo de aquí arriba. Pero esperemos que
+
+99:59:59.999 --> 99:59:59.999
+eso te satisfaga de que nos acercamos cada vez más y más mientras más términos
+
+99:59:59.999 --> 99:59:59.999
+le añadamos, así que te podrás imaginar que es una aproximación muy muy buena

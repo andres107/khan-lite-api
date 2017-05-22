@@ -1,0 +1,276 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.545 --> 00:00:03.435
+Ahora, eres un filósofo matemático antiguo
+
+00:00:03.435 --> 00:00:06.225
+ha concluido que para que la multiplicación de números
+
+00:00:06.235 --> 00:00:08.425
+positivos y negativos sea consistente
+
+00:00:08.425 --> 00:00:11.358
+con todo lo que usted viene construyendo, de tal forma que,
+
+00:00:11.358 --> 00:00:13.038
+verifique todas las propiedades de la multiplicación que usted conoce bien
+
+00:00:13.088 --> 00:00:16.878
+Usted necesita que un número negativo por un número positivo
+
+00:00:16.878 --> 00:00:22.308
+o un positivo por un negativo le de un número negativo.
+
+00:00:22.308 --> 00:00:26.838
+y un negativo por un negativo de un número positivo.
+
+00:00:26.858 --> 00:00:29.388
+así usted acepta, que todo es consistente.
+
+00:00:29.388 --> 00:00:32.398
+pero aún usted no ha visto que todo sea concreto y tenga sentido completo.
+
+00:00:32.398 --> 00:00:36.518
+Usted tiene una amplia y profunda intuición. Así que podrá aceptar que
+
+00:00:36.518 --> 00:00:39.988
+esta será consistente con la propiedad distributiva y cualquier otra.
+
+00:00:39.988 --> 00:00:42.748
+así que puede tratar otro experimento completo.
+
+00:00:42.748 --> 00:00:45.408
+Usted dice, qué es lo que esta multiplicación básica está haciendo?
+
+00:00:45.408 --> 00:00:50.938
+si digo 2 por 3
+
+00:00:50.938 --> 00:00:55.408
+Una forma de comprender esta multiplicación básica
+
+00:00:55.408 --> 00:00:57.898
+es como una adición repetida, así usted puede ver esto como
+
+00:00:57.898 --> 00:01:02.488
+dos números tres, esto es, 3 más 3
+
+00:01:02.542 --> 00:01:06.542
+y note que hay dos de ellos
+
+00:01:06.542 --> 00:01:13.192
+o puedes ver esto como tres dos, lo mismo que, 2 más 2 más 2
+
+00:01:13.192 --> 00:01:16.240
+y allí hay tres de ellos
+
+00:01:16.305 --> 00:01:20.305
+y aunque tome cualquiera de ellos usted obtendrá la misma respuesta
+
+00:01:20.305 --> 00:01:24.305
+esto va a ser igual a 6
+
+00:01:24.305 --> 00:01:25.415
+bien justo
+
+00:01:25.415 --> 00:01:28.745
+Usted necesitará esto antes de tratar con números negativos
+
+00:01:28.745 --> 00:01:33.115
+ahora, vamos a tratar esto cuando uno de ellos es negativo y ver qué pasa
+
+00:01:33.115 --> 00:01:46.865
+Hagamos 2 por 3 negativo
+
+00:01:46.865 --> 00:01:50.704
+una forma de hacer esto, análogamente a lo de aquí, es
+
+00:01:50.714 --> 00:01:53.574
+escribiendo 3 negativo 2 veces
+
+00:01:53.574 --> 00:02:03.094
+así 3 negativo y otro 3 negativo
+
+00:02:03.094 --> 00:02:06.204
+o usted puede decir 3 negativo menos 3 or
+
+00:02:06.204 --> 00:02:08.774
+bien, esto es lo interesante, pues
+
+00:02:08.774 --> 00:02:13.994
+en lugar de decir 2 veces tres usted sumó el 2 tres veces
+
+00:02:13.994 --> 00:02:17.390
+pero, como aquí es 2 por 3 negativo usted puede también imaginar
+
+00:02:17.390 --> 00:02:20.156
+que usted va a SUSTRAER 2 tres veces
+
+00:02:20.156 --> 00:02:25.454
+luego, en lugar de tener literalmente escrito: mas 2 más 2 más 2
+
+00:02:25.454 --> 00:02:27.835
+porque este un número 3 positivo aquí
+
+00:02:27.835 --> 00:02:30.594
+nuestra sentencia será manejando un 3 negativo
+
+00:02:30.594 --> 00:02:36.493
+que podemos imaginar como RESTANDO 2 tres veces
+
+00:02:36.493 --> 00:02:51.674
+esto es menos 2 y luego resta otro 2 y luego resta otra vez 2 .......déjame colorearlos...
+
+00:02:51.694 --> 00:02:58.658
+una vez más lo hizo tres veces, porque es 3 negativo
+
+00:02:58.658 --> 00:03:02.265
+esencialmente usted está restando 2, tres veces
+
+00:03:02.265 --> 00:03:05.528
+de cualquier forma que usted comprenda esto aquí arriba
+
+00:03:05.528 --> 00:03:10.482
+usted va obtener 6 negativo, es la respuesta.
+
+00:03:10.482 --> 00:03:14.309
+Ahora, usted va empezar a sentirse bien con esta parte de aquí arriba
+
+00:03:14.319 --> 00:03:19.707
+negativo por positivo o positivo por negativo que da negativo.
+
+00:03:19.707 --> 00:03:23.980
+Ahora, tomemos la verdadera intuición, cuando usted tiene negativo por negativo
+
+00:03:23.980 --> 00:03:26.303
+usted dice negativo cancela negativo y da positivo,
+
+00:03:26.303 --> 00:03:27.478
+por qué ese es el caso?
+
+00:03:27.478 --> 00:03:31.134
+bien, podemos construir desde este ejemplo de aquí
+
+00:03:31.134 --> 00:03:51.348
+Digamos que tenemos 2 negativo por 3 negativo
+
+00:03:51.348 --> 00:03:55.140
+así que, ahora, podemos hacer lo mismo que hicimos antes
+
+00:03:55.140 --> 00:03:58.490
+aún estamos multiplicando "algo" por 3 negativo osea que
+
+00:03:58.490 --> 00:04:02.454
+podemos restar tres veces ese "algo", cualquiera que ese "algo" sea
+
+00:04:02.454 --> 00:04:07.143
+ahora, si ese "algo" fuera por 2 positivo, ese "algo" restaría repetidamente al 2 tres veces
+
+00:04:07.143 --> 00:04:08.769
+Entonces, hagamos claro esto:
+
+00:04:08.769 --> 00:04:12.474
+Esto va a restar "algo" tres veces
+
+00:04:12.474 --> 00:04:18.540
+así, restar "algo" restando "algo" restando "algo" 3 veces
+
+00:04:18.540 --> 00:04:21.018
+eso es lo que esta parte de aquí nos dice.
+
+00:04:21.018 --> 00:04:25.172
+lo que vamos a hacer entonces es escribir aquí tres veces
+
+00:04:25.172 --> 00:04:27.907
+aquí arriba había un 2 positivo que restamos 3 veces
+
+00:04:27.967 --> 00:04:30.052
+ahora tenemos un 2 negativo
+
+00:04:30.052 --> 00:04:32.806
+entonces escribimos 2 negativo
+
+00:04:32.816 --> 00:04:35.887
+y sabemos por la sustracción de números negativos
+
+00:04:35.887 --> 00:04:37.994
+(ya hemos construido esa situación)
+
+00:04:37.994 --> 00:04:43.063
+que sustraer un negativo es como tomar en deuda a alguien
+
+00:04:43.063 --> 00:04:46.344
+es lo mismo que sumar un positivo, osea,
+
+00:04:46.344 --> 00:04:54.412
+esto es lo mismo que 2 más 2 más 2, lo que da 6 positivo.
+
+00:04:54.412 --> 00:04:56.937
+Usted puede usar la misma lógica aquí.
+
+00:04:56.937 --> 00:04:59.644
+Ahora, en lugar de sumar 3 negativo dos veces
+
+00:04:59.644 --> 00:05:03.962
+en verdad pude escribirlo como en este ejemplo
+
+00:05:03.962 --> 00:05:10.447
+puedo escribir 3 negativo .... 3 negativo
+
+00:05:10.447 --> 00:05:13.482
+y nosotros lo SUMAMOS
+
+00:05:13.482 --> 00:05:15.827
+voy a resaltarlo con paréntesis para que se vea claro
+
+00:05:15.827 --> 00:05:17.917
+aquí arriba SUMAMOS dos veces
+
+00:05:17.917 --> 00:05:20.403
+SUMAMOS 3 negativo dos veces
+
+00:05:20.403 --> 00:05:24.923
+aquí tenemos 2 negativo entonces vamos a SUSTRAER 3 negativo dos veces
+
+00:05:24.923 --> 00:05:28.983
+vamos a restar "algo" y luego restar "algo" otra vez
+
+00:05:29.023 --> 00:05:33.883
+ese "algo" va a ser el 3 negativo, así
+
+00:05:33.883 --> 00:05:37.719
+negativo negativo y ponemos 3 aquí
+
+00:05:37.749 --> 00:05:41.920
+y una vez más restar un negativo es tomar en deuda a alguien
+
+00:05:41.920 --> 00:05:44.170
+lo que en esencia es que usted está dando el dinero
+
+00:05:44.170 --> 00:05:47.306
+lo que significa que es lo mismo que si está SUMANDO 3 más 3
+
+00:05:47.306 --> 00:05:48.452
+lo que nos va a dar 6 una vez más.
+
+00:05:48.452 --> 00:05:51.303
+Ahora, usted ya es un antiguo filósofo muy bueno
+
+00:05:51.303 --> 00:05:55.920
+Ahora, no solo hace que esto sea consistente con todas las matemáticas que usted conoce
+
+00:05:55.920 --> 00:05:58.130
+la propiedad distributiva y la propiedad asociativa
+
+00:05:58.130 --> 00:06:00.830
+multiplicando "algo" por todas estas cosas que usted ya sabe
+
+00:06:00.830 --> 00:06:03.643
+y ahora, hace que estas cosas tengan sentido
+
+00:06:03.643 --> 00:06:07.003
+porque eso es en verdad muy consistente con los conceptos,
+
+00:06:07.003 --> 00:06:13.000
+los conceptos originales de la multiplicación como suma repetida.

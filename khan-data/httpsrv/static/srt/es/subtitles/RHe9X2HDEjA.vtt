@@ -1,0 +1,84 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.665 --> 00:00:04.700
+Un carpintero está usando un torno para formar el pie final de una
+
+00:00:04.700 --> 00:00:05.830
+mesa hecho a mano.
+
+00:00:05.830 --> 00:00:08.790
+Un torno es una herramienta de carpintería que hace girar cosas y
+
+00:00:08.790 --> 00:00:11.480
+puede ser usado para hacer cosas que, puedes decir
+
+00:00:11.480 --> 00:00:15.330
+casi cilíndrico como un pie para
+
+00:00:15.330 --> 00:00:16.840
+una mesa o algo como así.
+
+00:00:16.840 --> 00:00:21.020
+Para que el pie funcione, tiene que ser 150 milímetros
+
+00:00:21.020 --> 00:00:26.390
+de ancho, permitiendo un margen de error de 2.5 milímetros.
+
+00:00:26.390 --> 00:00:31.480
+Así que, en un mundo ideal, sería exactamente 150 milímetros de ancho,
+
+00:00:31.480 --> 00:00:33.030
+pero cuando fabricas algo, no vas a
+
+00:00:33.030 --> 00:00:35.870
+sacar esa número exacto, así que este está diciendo que podemos ser 2 y
+
+00:00:35.870 --> 00:00:40.510
+1/2 milímetros por encima o por debajo esa 150 milímetros.
+
+00:00:40.510 --> 00:00:43.910
+Pues, quieren que escribimos una desigualdad con valor absoluto que
+
+00:00:43.910 --> 00:00:46.980
+modela esta relación, y entonces encuentra el intervalo de anchos
+
+00:00:46.980 --> 00:00:48.970
+que el pie de la mesa puede ser.
+
+00:00:48.970 --> 00:00:54.780
+Así que, la manera de pensar acerca esto, dejemos w ser el ancho
+
+00:00:54.780 --> 00:00:56.830
+del pie de la mesa.
+
+00:00:56.830 --> 00:01:01.030
+Así que, si tomamos la diferencia entre w y 150,
+
+00:01:01.030 --> 00:01:01.690
+que es eso?
+
+00:01:01.690 --> 00:01:03.540
+Es esencialmente la cantidad de error
+
+00:01:03.540 --> 00:01:04.959
+que hicimos, verdad?
+
+00:01:04.959 --> 00:01:10.170
+Si w va a ser más que 150, decimos que es 151,
+
+00:01:10.170 --> 00:01:12.250
+entonces esta diferencia va a ser 1 milímetro, estábamos
+
+00:01:12.250 --> 00:01:13.600
+en exceso por 1 milímetro.
+
+00:01:13.600 --> 00:01:16.760
+Si w es menos que 150, va a ser un número negativo.
+
+00:01:16.760 --> 00:01:22.160
+Si w fue 149, 149 menos 150 va a ser menos 1.
+
+00:01:22.160 --> 00:01:24.110
+Pero sólo nos preocupa por el margen absoluto.

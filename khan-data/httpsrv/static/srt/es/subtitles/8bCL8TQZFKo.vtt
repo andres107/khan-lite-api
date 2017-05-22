@@ -1,0 +1,750 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.690
+~Pausa~
+
+00:00:00.690 --> 00:00:04.230
+Este problema es del capítulo cinco del
+
+00:00:04.230 --> 00:00:09.860
+libro de texto de química de Kotz, Treichel, Townsend y reactividad química.
+
+00:00:09.860 --> 00:00:12.280
+Nos dicen, supongamos que quieres conocer la entalpía
+
+00:00:12.280 --> 00:00:15.090
+cambio--así el cambio de energía total--para la
+
+00:00:15.090 --> 00:00:19.140
+formación de metano, CH4, de carbono sólido como un
+
+00:00:19.140 --> 00:00:21.410
+grafito--que es derecho allí--y hidrógeno.
+
+00:00:21.410 --> 00:00:22.640
+Queremos averiguar el cambio de la entalpía
+
+00:00:22.640 --> 00:00:23.590
+de esta reacción.
+
+00:00:23.590 --> 00:00:26.130
+¿Cómo obtenemos metano?-- ¿Cuánta energía es absorbida o
+
+00:00:26.130 --> 00:00:28.670
+liberado cuando el metano forma por la reacción del--
+
+00:00:28.670 --> 00:00:31.740
+carbono sólido como el grafito y el gas hidrógeno?
+
+00:00:31.740 --> 00:00:34.080
+Nos dicen el cambio de entalpía para esta reacción
+
+00:00:34.080 --> 00:00:37.590
+no está medirse en el laboratorio porque
+
+00:00:37.590 --> 00:00:40.440
+la reacción es muy lenta.
+
+00:00:40.440 --> 00:00:42.470
+Así que normalmente, si pudiera medirlo tendría esto
+
+00:00:42.470 --> 00:00:45.320
+reacción ocurriendo y vería cuánto calor, o
+
+00:00:45.320 --> 00:00:48.140
+lo la temperatura cambia, de la solución circundante.
+
+00:00:48.140 --> 00:00:50.820
+Posiblemente esto está sucediendo tan lento que resulta muy difícil
+
+00:00:50.820 --> 00:00:53.380
+medir ese cambio de temperatura, o no puede hacer
+
+00:00:53.380 --> 00:00:55.600
+manera significativa.
+
+00:00:55.600 --> 00:00:59.140
+Sin embargo, podemos medir entalpía cambia para el
+
+00:00:59.140 --> 00:01:02.660
+combustión de carbón, hidrógeno y metano.
+
+00:01:02.660 --> 00:01:05.420
+Les están dando nos los cambios de entalpía para estos
+
+00:01:05.420 --> 00:01:07.660
+reacciones de combustión: la combustión de carbón,
+
+00:01:07.660 --> 00:01:10.760
+combustión de hidrógeno, combustión de metano.
+
+00:01:10.760 --> 00:01:13.050
+Usan esta información para calcular la
+
+00:01:13.050 --> 00:01:15.410
+cambio de entalpía para la formación de
+
+00:01:15.410 --> 00:01:17.370
+metano desde sus elementos.
+
+00:01:17.370 --> 00:01:19.440
+Así que cualquier momento ves este tipo de situación donde están
+
+00:01:19.440 --> 00:01:21.740
+brindándole a tú las entalpías para un montón de reacciones y
+
+00:01:21.740 --> 00:01:24.740
+decir que no sabemos la entalpía para otro
+
+00:01:24.740 --> 00:01:27.710
+reacción parece estar formada
+
+00:01:27.710 --> 00:01:30.590
+de cosas similares, su cerebro debe inmediatamente decir, bueno,
+
+00:01:30.590 --> 00:01:34.530
+tal vez esto es problema de ley de Hess.
+
+00:01:34.530 --> 00:01:35.960
+Ley de Hess.
+
+00:01:35.960 --> 00:01:40.450
+Y Ley de Hess dice si una reacción es la suma
+
+00:01:40.450 --> 00:01:43.610
+de dos o más reacciones, entonces el cambio en
+
+00:01:43.610 --> 00:01:46.520
+entalpía de esta reacción es la suma de el
+
+00:01:46.520 --> 00:01:49.890
+cambio en entalpías de esas reacciones.
+
+00:01:49.890 --> 00:01:52.600
+Ahora, cuando nos fijamos en esto y esto tienden ser confuso
+
+00:01:52.600 --> 00:01:56.240
+parte, ¿cómo puede usted construir esta reacción fuera de estos
+
+00:01:56.240 --> 00:01:57.790
+reacciones por aquí?
+
+00:01:57.790 --> 00:02:00.560
+Y lo que me gusta hacer es apenas comienzo con el producto.
+
+00:02:00.560 --> 00:02:04.630
+Asi me gusta empezar con el producto final, que es el metano
+
+00:02:04.630 --> 00:02:06.120
+en estado gaseoso.
+
+00:02:06.120 --> 00:02:08.870
+Y cuando miramos a todos estas ecuaciones aquí tenemos
+
+00:02:08.870 --> 00:02:10.100
+la combustión de metano.
+
+00:02:10.100 --> 00:02:11.850
+Por lo que esto implica metano, tan
+
+00:02:11.850 --> 00:02:13.140
+vamos a empezar con esto.
+
+00:02:13.140 --> 00:02:15.200
+Pero éste implica metano y como un
+
+00:02:15.200 --> 00:02:17.070
+reactivo, no un producto.
+
+00:02:17.070 --> 00:02:20.480
+Pero lo que podemos hacer es simplemente voltear esta flecha y escribirlo
+
+00:02:20.480 --> 00:02:21.820
+como metano como un producto.
+
+00:02:21.820 --> 00:02:24.260
+Así que si sólo escribimos esta reacción, nos lo mueva.
+
+00:02:24.260 --> 00:02:29.090
+Así que ahora tenemos gas de dióxido de carbono--me deja escribirlo
+
+00:02:29.090 --> 00:02:35.680
+aquí--de dióxido de carbono gas con--voy a hacer esto en otro
+
+00:02:35.680 --> 00:02:41.720
+color--con dos aguas--si estamos pensando de estos como
+
+00:02:41.720 --> 00:02:44.100
+moles, o dos moléculas de agua, incluso podría decir--
+
+00:02:44.100 --> 00:02:48.950
+dos moléculas de agua en su estado líquido.
+
+00:02:48.950 --> 00:02:52.570
+Que puede, supongo que se puede decir, esto no ocurriría
+
+00:02:52.570 --> 00:02:54.680
+espontáneamente porque requeriría energía.
+
+00:02:54.680 --> 00:02:57.450
+Pero si ponemos sólo esta en la dirección inversa, si vas
+
+00:02:57.450 --> 00:03:02.160
+en esta dirección vas a obtener dos aguas--o dos
+
+00:03:02.160 --> 00:03:05.330
+oxígenos, yo debería decir--lo haré en este color rosa.
+
+00:03:05.330 --> 00:03:12.140
+Así que dos oxígenos--y que está en su estado gaseoso--además de un
+
+00:03:12.140 --> 00:03:13.390
+metano gaseoso.
+
+00:03:13.390 --> 00:03:19.480
+~Pausa~
+
+00:03:19.480 --> 00:03:21.380
+CH4.
+
+00:03:21.380 --> 00:03:23.160
+CH4 en estado gaseoso.
+
+00:03:23.160 --> 00:03:26.670
+Y todo lo que hice es que escribí esta tercera ecuación, pero lo escribí
+
+00:03:26.670 --> 00:03:27.420
+en el orden inverso.
+
+00:03:27.420 --> 00:03:30.460
+Voy a los productos de los reactivos.
+
+00:03:30.460 --> 00:03:32.220
+Cuando vaya de los productos a los reactivos será
+
+00:03:32.220 --> 00:03:36.720
+Suelte 890,3 kilojulios por moles de la
+
+00:03:36.720 --> 00:03:38.290
+reacción que está ocurriendo.
+
+00:03:38.290 --> 00:03:41.920
+Pero si vas al revés, será necesario 890 kilojulios.
+
+00:03:41.920 --> 00:03:45.380
+Para que el delta h aquí--voy a hacer esto en el color neutro--tan
+
+00:03:45.380 --> 00:03:50.650
+el delta h de esta reacción correcta aquí va a ser el
+
+00:03:50.650 --> 00:03:51.720
+atrás de esto.
+
+00:03:51.720 --> 00:03:58.290
+Por lo que es positivos 890,3 kilojulios
+
+00:03:58.290 --> 00:04:01.160
+por mol de la reacción.
+
+00:04:01.160 --> 00:04:03.390
+Todo lo hice se invierte el orden de este
+
+00:04:03.390 --> 00:04:04.660
+reacción allí.
+
+00:04:04.660 --> 00:04:06.810
+Lo bueno de esto es que ahora tengo algo que en
+
+00:04:06.810 --> 00:04:08.690
+menos termina con lo que eventualmente
+
+00:04:08.690 --> 00:04:10.350
+desea terminar con.
+
+00:04:10.350 --> 00:04:12.630
+Esto es donde queremos llegar.
+
+00:04:12.630 --> 00:04:16.000
+Esto es donde queremos obtener eventualmente.
+
+00:04:16.000 --> 00:04:19.130
+Ahora, si queremos llegar finalmente, necesitamos algunos
+
+00:04:19.130 --> 00:04:21.000
+punto de tener algo del dióxido de carbono, y tenemos que tener
+
+00:04:21.000 --> 00:04:22.590
+en algún momento algo de agua a tratar.
+
+00:04:22.590 --> 00:04:24.410
+Entonces, ¿cómo podemos conseguir dióxido de carbono, y
+
+00:04:24.410 --> 00:04:25.300
+cómo podemos conseguir agua?
+
+00:04:25.300 --> 00:04:27.980
+Pues bien, estas dos reacciones aquí--derecho esta combustión
+
+00:04:27.980 --> 00:04:30.550
+reacción nos da dióxido de carbono, esta combustión
+
+00:04:30.550 --> 00:04:31.920
+reacción nos da agua.
+
+00:04:31.920 --> 00:04:33.380
+Por lo que sólo podemos reescribirlos.
+
+00:04:33.380 --> 00:04:38.180
+Permítanme sólo escribirlas aquí, y será--permítanme utilizar
+
+00:04:38.180 --> 00:04:38.720
+algunos colores.
+
+00:04:38.720 --> 00:04:43.060
+Así que si empiezo con grafito--carbono en forma de grafito--
+
+00:04:43.060 --> 00:04:47.630
+carbon en forma de grafito plus--ya tengo un color
+
+00:04:47.630 --> 00:04:55.980
+para oxígeno--plus oxígeno en su estado gaseoso, lo hará
+
+00:04:55.980 --> 00:04:59.870
+producen dióxido de carbono en su forma gaseosa.
+
+00:04:59.870 --> 00:05:02.430
+Se producen carbono--que es una sombra diferente de
+
+00:05:02.430 --> 00:05:07.840
+verde--producirá dióxido de carbono en su forma gaseosa.
+
+00:05:07.840 --> 00:05:11.620
+Y esta reacción, así que cuando llevas la entalpía de la
+
+00:05:11.620 --> 00:05:15.370
+dióxido de carbono y de que reste la entalpía de
+
+00:05:15.370 --> 00:05:17.030
+estos reactivos obtendrá un número negativo.
+
+00:05:17.030 --> 00:05:20.120
+Lo que significa que este tuvo una menor entalpía, que significa energía
+
+00:05:20.120 --> 00:05:20.960
+fue lanzado
+
+00:05:20.960 --> 00:05:22.440
+porque hay ahora menos energía en el
+
+00:05:22.440 --> 00:05:23.660
+sistema aquí.
+
+00:05:23.660 --> 00:05:25.890
+Así que esto es esencialmente cuánto es liberado.
+
+00:05:25.890 --> 00:05:29.180
+Pero nuestro cambio de entalpía aquí, nuestro cambio de entalpía
+
+00:05:29.180 --> 00:05:32.850
+de esta reacción correcta aquí, es reacción uno.
+
+00:05:32.850 --> 00:05:33.630
+Sólo te reescribirlo.
+
+00:05:33.630 --> 00:05:45.240
+Menos 393,5 kilojulios por mol de
+
+00:05:45.240 --> 00:05:46.290
+la reacción que ocurre.
+
+00:05:46.290 --> 00:05:48.850
+Así que la reacción produce a veces de mole.
+
+00:05:48.850 --> 00:05:50.260
+Esta sería la cantidad de energía
+
+00:05:50.260 --> 00:05:51.270
+que esencialmente es liberado.
+
+00:05:51.270 --> 00:05:53.540
+Este es nuestro cambio de entalpía.
+
+00:05:53.540 --> 00:05:56.300
+Así que si esto sucede, nos pondremos nuestro dióxido de carbono.
+
+00:05:56.300 --> 00:05:59.020
+Ahora también tenemos--y así nos liberaría tanta energía
+
+00:05:59.020 --> 00:06:01.820
+y tendríamos este producto para tratar--pero también ahora
+
+00:06:01.820 --> 00:06:02.780
+necesitan nuestra agua.
+
+00:06:02.780 --> 00:06:05.390
+Y esta reacción aquí nos da nuestra agua, la
+
+00:06:05.390 --> 00:06:07.360
+combustión de hidrógeno.
+
+00:06:07.360 --> 00:06:10.590
+Así que tenemos--y todavía no he hecho hidrógeno, así que permítanme
+
+00:06:10.590 --> 00:06:12.770
+representar hidrógeno en un nuevo color.
+
+00:06:12.770 --> 00:06:17.000
+Eso no es un color nuevo, así que usar azul.
+
+00:06:17.000 --> 00:06:19.110
+Tan bien que aquí tienes gas hidrógeno--estoy solo
+
+00:06:19.110 --> 00:06:24.180
+reescritura de ese gas de hidrógeno de reacción--plus 1/2 O2--
+
+00:06:24.180 --> 00:06:32.200
+Rosa es mi color para oxígeno--1/2 O2 gas producirá, será
+
+00:06:32.200 --> 00:06:33.910
+nos dan un poco de agua.
+
+00:06:33.910 --> 00:06:41.960
+H2O nos dará, nos dará un poco de agua líquida.
+
+00:06:41.960 --> 00:06:45.820
+Ahora, antes de que yo sólo Anote este número, vamos a pensar
+
+00:06:45.820 --> 00:06:47.580
+si tenemos todo que necesitamos.
+
+00:06:47.580 --> 00:06:50.250
+Para que esta reacción se produzca, porque esto nos lleva a nuestro
+
+00:06:50.250 --> 00:06:52.000
+producto final, esto nos llega a la gaseosa
+
+00:06:52.000 --> 00:06:54.960
+metano, necesitamos una mole.
+
+00:06:54.960 --> 00:06:58.380
+O podemos decir una molécula de dióxido de carbono y esto
+
+00:06:58.380 --> 00:07:01.460
+reacción nos da exactamente una molécula de dióxido de carbono.
+
+00:07:01.460 --> 00:07:02.790
+Por lo es un cheque.
+
+00:07:02.790 --> 00:07:05.990
+Y necesitamos dos moléculas de agua.
+
+00:07:05.990 --> 00:07:08.840
+Ahora, esta reacción sólo nos da una molécula de agua.
+
+00:07:08.840 --> 00:07:11.200
+Así que vamos a multiplicar ambos lados de la ecuación para obtener dos
+
+00:07:11.200 --> 00:07:12.550
+moléculas de agua.
+
+00:07:12.550 --> 00:07:16.280
+Así que esto es un 2, multiplicamos esto por 2, por lo que este esencialmente
+
+00:07:16.280 --> 00:07:16.830
+desaparezca.
+
+00:07:16.830 --> 00:07:19.830
+Multiplica por 2 1/2, sólo obtendrá un 1 allí.
+
+00:07:19.830 --> 00:07:21.360
+Y luego pones un 2 aquí.
+
+00:07:21.360 --> 00:07:24.470
+Tan sólo había multiplicado esta segunda ecuación por 2.
+
+00:07:24.470 --> 00:07:28.540
+Por lo que simplemente multiplica--esto es se convierte en un 1, esto se convierte en un 2.
+
+00:07:28.540 --> 00:07:31.280
+Y si estás haciendo dos veces más, porque nos
+
+00:07:31.280 --> 00:07:35.720
+multiplica por 2, el delta h ahora, el cambio de entalpía de
+
+00:07:35.720 --> 00:07:38.950
+la reacción, ahora va a ser dos veces esto.
+
+00:07:38.950 --> 00:07:42.490
+Obtenemos la calculadora.
+
+00:07:42.490 --> 00:07:49.640
+Resulta que ahora va a ser negativo 285.8 veces 2.
+
+00:07:49.640 --> 00:07:51.260
+Porque nosotros sólo multiplica los tiempos de reacción todo 2.
+
+00:07:51.260 --> 00:07:53.890
+-571.6.
+
+00:07:53.890 --> 00:07:59.470
+Por lo que es negativos 571,6 kilojulios
+
+00:07:59.470 --> 00:08:02.920
+por mol de la reacción.
+
+00:08:02.920 --> 00:08:05.250
+Ahora, vamos a ver si la combinación, si la suma de
+
+00:08:05.250 --> 00:08:10.820
+estas reacciones, en realidad es esta reacción aquí arriba.
+
+00:08:10.820 --> 00:08:13.330
+Y para ello--permítanme simplemente copiar y pegar esto
+
+00:08:13.330 --> 00:08:15.270
+top uno aquí porque esa es la clase de la orden que estamos
+
+00:08:15.270 --> 00:08:16.700
+van a ir.
+
+00:08:16.700 --> 00:08:18.680
+No es necesario, pero sólo hace que esperemos un poco
+
+00:08:18.680 --> 00:08:20.070
+poco más fácil entender.
+
+00:08:20.070 --> 00:08:22.990
+Así que permítanme simplemente copiar y pegar esto.
+
+00:08:22.990 --> 00:08:25.070
+Espera- yo pudo cortar y pegarlo.
+
+00:08:25.070 --> 00:08:28.610
+Corte y luego me deja pegarlo aquí abajo.
+
+00:08:28.610 --> 00:08:29.540
+Entonces la primera un.
+
+00:08:29.540 --> 00:08:31.470
+Y vamos a ver ahora qué va a suceder.
+
+00:08:31.470 --> 00:08:34.360
+~Pausa~
+
+00:08:34.360 --> 00:08:38.179
+A ver si algunas de estas reacciones realmente funciona
+
+00:08:38.179 --> 00:08:41.980
+terminan siendo esta reacción superior aquí, vamos a ver si nos
+
+00:08:41.980 --> 00:08:44.350
+puede cancelar reactivos y productos.
+
+00:08:44.350 --> 00:08:45.690
+Vamos a ver qué pasaría.
+
+00:08:45.690 --> 00:08:48.730
+Así que esto produce dióxido de carbono, pero luego esta mole,
+
+00:08:48.730 --> 00:08:51.100
+o esta molécula de dióxido de carbono, se utiliza en
+
+00:08:51.100 --> 00:08:52.350
+esta última reacción.
+
+00:08:52.350 --> 00:08:55.000
+Así que esto produce, esto lo utiliza.
+
+00:08:55.000 --> 00:08:55.910
+por lo que aquellos se cancelan.
+
+00:08:55.910 --> 00:08:58.210
+Quiero hacerlo en el mismo color, por lo que es en la pantalla.
+
+00:08:58.210 --> 00:09:02.070
+Esta reacción produce, utiliza esta reacción.
+
+00:09:02.070 --> 00:09:05.390
+Ahora, esta reacción aquí produce los dos
+
+00:09:05.390 --> 00:09:07.440
+moléculas de agua.
+
+00:09:07.440 --> 00:09:09.660
+Y ahora esta reacción hacia abajo aquí--quiero hacer ese mismo
+
+00:09:09.660 --> 00:09:11.960
+color--estas dos moléculas de agua.
+
+00:09:11.960 --> 00:09:14.110
+Ahora, esta reacción aquí abajo usa esos dos
+
+00:09:14.110 --> 00:09:15.920
+moléculas de agua.
+
+00:09:15.920 --> 00:09:20.590
+Ahora, esta reacción correcta aquí, requiere una molécula de
+
+00:09:20.590 --> 00:09:21.840
+oxígeno molecular.
+
+00:09:21.840 --> 00:09:24.640
+Éste requiere otra molécula de oxígeno molecular.
+
+00:09:24.640 --> 00:09:30.580
+Por lo que estas dos combinados son dos moléculas de oxígeno molecular.
+
+00:09:30.580 --> 00:09:31.700
+Estas son los reactivos.
+
+00:09:31.700 --> 00:09:34.040
+Y al final, los terminan como los productos
+
+00:09:34.040 --> 00:09:35.130
+de esta última reacción.
+
+00:09:35.130 --> 00:09:37.500
+Realmente, entran en el sistema y, a continuación,
+
+00:09:37.500 --> 00:09:40.250
+dejar el sistema, o de la suma
+
+00:09:40.250 --> 00:09:42.060
+de reacciones sin cambios.
+
+00:09:42.060 --> 00:09:43.730
+Por lo que se cancelan entre sí.
+
+00:09:43.730 --> 00:09:46.620
+Así que podríamos decir que y que cancelamos afuera.
+
+00:09:46.620 --> 00:09:47.850
+¿Y por lo tanto lo que nos quedamos con?
+
+00:09:47.850 --> 00:09:49.610
+¿Qué nos quedamos con la reacción?
+
+00:09:49.610 --> 00:09:53.820
+Bueno, tenemos algunos carbono sólido como grafito, más dos
+
+00:09:53.820 --> 00:09:58.260
+moles, o dos moléculas de hidrógeno molecular produciendo--
+
+00:09:58.260 --> 00:10:01.530
+nos queda en el lado del producto es algunos metano.
+
+00:10:01.530 --> 00:10:06.210
+Por lo que es cierto que la suma de estas reacciones es exactamente
+
+00:10:06.210 --> 00:10:07.240
+lo que queremos.
+
+00:10:07.240 --> 00:10:10.690
+Nos queda en el lado del producto es el grafito,
+
+00:10:10.690 --> 00:10:14.770
+el grafito sólido, más el hidrógeno molecular, además de la
+
+00:10:14.770 --> 00:10:18.200
+hidrógeno gaseoso--hacerlo en ese color--plus
+
+00:10:18.200 --> 00:10:21.300
+dos de hidrógeno.
+
+00:10:21.300 --> 00:10:28.390
+Y nos queda en el lado del producto es el metano.
+
+00:10:28.390 --> 00:10:31.260
+Nos queda es el metano en forma gaseosa.
+
+00:10:31.260 --> 00:10:33.920
+Por lo que es cierto que la suma de estas reacciones--Recuerde, nos
+
+00:10:33.920 --> 00:10:37.020
+hay que voltear esta reacción alrededor y cambiar su signo,
+
+00:10:37.020 --> 00:10:40.060
+y tenemos que multiplicar esta reacción por 2 para que la suma
+
+00:10:40.060 --> 00:10:43.470
+de estos se convierte en esta reacción que realmente nos importa.
+
+00:10:43.470 --> 00:10:45.840
+Esto es la suma de estas reacciones.
+
+00:10:45.840 --> 00:10:52.660
+Su cambio de entalpía de esta reacción va a ser el
+
+00:10:52.660 --> 00:10:54.240
+suma de estos aquí.
+
+00:10:54.240 --> 00:10:55.860
+Esa es la ley de Hess.
+
+00:10:55.860 --> 00:10:57.860
+Así que la diversión es parte.
+
+00:10:57.860 --> 00:11:00.190
+Tan solo agregar estos valores aquí.
+
+00:11:00.190 --> 00:11:03.350
+Así que tenemos negativos 393.--no, eso no es
+
+00:11:03.350 --> 00:11:04.880
+lo que quería hacer.
+
+00:11:04.880 --> 00:11:07.120
+Permítanme sólo desactivarla.
+
+00:11:07.120 --> 00:11:14.710
+Así que tengo 393,5 negativo, por lo paso es exotérmico.
+
+00:11:14.710 --> 00:11:19.600
+Y luego tenemos menos 571.6.
+
+00:11:19.600 --> 00:11:21.270
+También es exotérmica.
+
+00:11:21.270 --> 00:11:23.570
+Eran ambas reacciones de combustión, que son, como hemos
+
+00:11:23.570 --> 00:11:24.930
+saber, muy exotérmica.
+
+00:11:24.930 --> 00:11:27.580
+Y tenemos el paso endotérmico, el reverso de esa última
+
+00:11:27.580 --> 00:11:28.400
+reacción de combustión.
+
+00:11:28.400 --> 00:11:38.480
+Por lo tanto más 890.3 nos da negativo 74.8.
+
+00:11:38.480 --> 00:11:45.650
+Nos da negativos 74,8 kilojulios por cada mol de
+
+00:11:45.650 --> 00:11:47.930
+la reacción que ocurre.
+
+00:11:47.930 --> 00:11:50.800
+O si se produce la reacción, un tiempo de mole.
+
+00:11:50.800 --> 00:11:51.530
+Así que ahí va.
+
+00:11:51.530 --> 00:11:53.800
+Pensamos que el cambio de entalpía.
+
+00:11:53.800 --> 00:11:57.380
+Y es razonablemente exotérmica.
+
+00:11:57.380 --> 00:12:01.270
+Ni de cerca tan exotérmica como estas reacciones de combustión
+
+00:12:01.270 --> 00:12:06.060
+aquí, pero se va a liberar energía.
+
+00:12:06.060 --> 00:12:07.660
+Y hemos terminado. Gracias :)

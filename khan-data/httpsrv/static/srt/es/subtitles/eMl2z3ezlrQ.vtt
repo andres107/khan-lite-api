@@ -1,0 +1,279 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.163 --> 00:00:02.208
+Basado en ejemplos del video anterior
+
+00:00:02.208 --> 00:00:07.764
+Vamos a ver si podemos llegar a alguna regla de oro para averiguar cuantas cifras significativas,
+
+00:00:07.764 --> 00:00:08.957
+o cuantos dígitos significativos,
+
+00:00:08.957 --> 00:00:11.912
+hay en un número (o una medición).
+
+00:00:11.912 --> 00:00:16.834
+Entonces... La primer cosa bastante obvia es que cualquier dígito distinto de cero,
+
+00:00:16.834 --> 00:00:19.574
+y cualquiera de los dígitos cero en el medio son significativos
+
+00:00:19.574 --> 00:00:24.375
+En realidad el siete y el cinco son importantes y el cero entre ellos, también lo es.
+
+00:00:24.375 --> 00:00:37.763
+Entonces, vamos a escribir esto aquí: Cualquier dígito distinto a cero y cero entre otros,
+
+00:00:37.763 --> 00:00:43.677
+van a ser importantes. Esto es bastante sencillo.
+
+00:00:43.677 --> 00:00:49.436
+Los ceros que no están entre otras cifras son un poco más confusos.
+
+00:00:49.436 --> 00:00:52.315
+Así que vamos a intentar excluir algunos de ellos.
+
+00:00:52.315 --> 00:00:56.542
+Siempre puedes excluir, cuando piensas en cifras significativas,
+
+00:00:56.542 --> 00:00:57.875
+los ceros del principio.
+
+00:00:57.875 --> 00:01:00.169
+Y cuando hablo de los del principio, me refiero a los ceros
+
+00:01:00.169 --> 00:01:03.507
+que están justo antes que cualquier número distinto de cero.
+
+00:01:03.507 --> 00:01:06.897
+En este caso, estos son los ceros del principio.
+
+00:01:06.897 --> 00:01:11.169
+No hay ceros al principio en este, tampoco en este, en este, ni en este otro.
+
+00:01:11.169 --> 00:01:15.349
+Pero en cualquier situación, los ceros del principio no son importantes.
+
+00:01:15.349 --> 00:01:25.429
+Entonces... Los ceros del principio NO son importantes.
+
+00:01:25.429 --> 00:01:30.907
+Entonces lo único que tienes son números distintos de cero
+
+00:01:30.907 --> 00:01:33.044
+y ceros en medio. Puedes tener algunos ceros al principio
+
+00:01:33.044 --> 00:01:34.668
+que, como hemos dicho, no son importantes.
+
+00:01:34.668 --> 00:01:39.637
+Entonces lo único que tienes que resolver es que hacer con los últimos ceros,
+
+00:01:39.637 --> 00:01:46.510
+los ceros detrás, o a la derecha del último número distinto de cero.
+
+00:01:46.510 --> 00:01:51.665
+Éstos son los últimos ceros, aquí hay otros dos,
+
+00:01:51.665 --> 00:01:54.406
+y aquí hay otros tres ceros a la derecha.
+
+00:01:54.406 --> 00:02:01.502
+Dejame apuntar esto... entonces, últimos ceros.
+
+00:02:01.502 --> 00:02:02.669
+¿Qué hacemos con ellos?
+
+00:02:02.669 --> 00:02:05.643
+La forma fácil de pensar en esto, es que si tienes un decimal,
+
+00:02:05.643 --> 00:02:10.009
+si hay cualquier decimal en tu número, cuéntalos.
+
+00:02:10.009 --> 00:02:15.581
+Si tienes decimales cuéntalos como importantes,
+
+00:02:15.581 --> 00:02:20.597
+son importantes. Cuéntalos como importantes.
+
+00:02:20.597 --> 00:02:25.659
+Si no hay ningún decimal en el número,
+
+00:02:25.659 --> 00:02:27.563
+entonces las posibilidades son más ambiguas.
+
+00:02:27.563 --> 00:02:29.978
+No puedes estar seguro del todo.
+
+00:02:29.978 --> 00:02:33.662
+Claramente, aquí, hay un decimal en éste número
+
+00:02:33.662 --> 00:02:37.269
+por lo que cuentas los ceros a la derecha - son para añadir más precisión.
+
+00:02:37.269 --> 00:02:40.984
+Por aquí hay un decimal, por lo que cuentas el cero al final.
+
+00:02:40.984 --> 00:02:43.260
+Hay otro decimal aquí, así que cuentas los ceros del final.
+
+00:02:43.260 --> 00:02:45.349
+No hay ceros al final aquí.
+
+00:02:45.349 --> 00:02:49.669
+Y por aquí, como he puesto un decimal aquí,
+
+00:02:49.669 --> 00:02:54.312
+en este caso sí que los contarías, entonces si tienes un decimal en ese lugar, contarías los cinco.
+
+00:02:54.312 --> 00:02:59.978
+Si no tuvieras el decimal, si solo tuvieras el número así,
+
+00:02:59.978 --> 00:03:04.343
+es un caso más ambiguo, y si nadie te da más información
+
+00:03:04.343 --> 00:03:08.987
+lo mejor es que asumas que simplemente han medido al millar más cercano,
+
+00:03:08.987 --> 00:03:11.210
+que no han medido con exactitud y por casualidad
+
+00:03:11.210 --> 00:03:13.586
+el resultado es exactamente 37,000.
+
+00:03:13.586 --> 00:03:16.510
+Entonces, si no hay decimal, deja que escriba esto,
+
+00:03:16.510 --> 00:03:23.662
+es un caso ambiguo, lo que significa que no estas seguro de lo que significa,
+
+00:03:23.662 --> 00:03:27.333
+que no está claro, y lo mejor es que
+
+00:03:27.333 --> 00:03:35.644
+no cuentes los ceros del final.
+
+00:03:35.644 --> 00:03:38.568
+Si alguien de verdad lo mide, si midieras de verdad algo
+
+00:03:38.568 --> 00:03:43.260
+con precisión, entonces deberías poner un decimal al final, de esta forma.
+
+00:03:43.260 --> 00:03:46.862
+Existe una notación para especificar:
+
+00:03:46.862 --> 00:03:49.669
+digamos que mides - deja que coja otro número -
+
+00:03:49.669 --> 00:03:53.848
+digamos que tu medida es 56,000
+
+00:03:53.848 --> 00:03:59.003
+sí que existe una notación para especificar que el 6 es el último dígito importante
+
+00:03:59.003 --> 00:04:01.975
+y algunas veces verás una raya encima del 6
+
+00:04:01.975 --> 00:04:04.576
+y otras veces verás una raya debajo del 6.
+
+00:04:04.576 --> 00:04:07.642
+Y ésto puede ser útil, ya que tal vez, tu último
+
+00:04:07.642 --> 00:04:09.671
+dígito importante es éste cero de aquí
+
+00:04:09.671 --> 00:04:13.492
+tal vez has sido capaz de medir las centenas con un nivel de precisión razonable.
+
+00:04:13.492 --> 00:04:16.511
+Entonces escribirías algo así:
+
+00:04:16.511 --> 00:04:19.901
+escribirías de nuevo el 56,000
+
+00:04:19.901 --> 00:04:22.641
+pero pondrías una raya encima de ese cero,
+
+00:04:22.641 --> 00:04:26.681
+o debajo de él, para decir que ese es el último número importante.
+
+00:04:26.681 --> 00:04:30.582
+Entonces, si vieras algo así, dirías que los tres primeros dígitos son los importantes.
+
+00:04:30.582 --> 00:04:35.646
+Esta forma no es muy común. Otra mejor para decir que has medido
+
+00:04:35.646 --> 00:04:40.012
+hasta 3 dígitos significativos sería que lo escribieras en notación científica.
+
+00:04:40.012 --> 00:04:41.187
+Hay un vídeo sobre eso.
+
+00:04:41.187 --> 00:04:43.167
+Pero para escribir ésto en notación científica,
+
+00:04:43.167 --> 00:04:51.637
+podrías escribirlo como 5.60 multiplicado por 10 elevado a 4, ¿cierto?
+
+00:04:51.637 --> 00:04:55.335
+Porque si multiplicas esto por 10 elevado a 4
+
+00:04:55.335 --> 00:04:57.054
+moverías este decimal cuatro espacios
+
+00:04:57.054 --> 00:04:59.003
+para llegar hasta 56,000.
+
+00:04:59.003 --> 00:05:02.000
+Entonces, 5.60 multiplicado por 10 elevado a 4.
+
+00:05:02.000 --> 00:05:03.124
+Y si esto te parece confuso
+
+00:05:03.124 --> 00:05:05.319
+mira el vídeo sobre la notación científica.
+
+00:05:05.319 --> 00:05:06.991
+Con suerte te aclarará un poco las cosas.
+
+00:05:06.991 --> 00:05:10.010
+Pero cuando escribes un número en notación científica,
+
+00:05:10.010 --> 00:05:12.426
+se ve claramente tu precisión
+
+00:05:12.426 --> 00:05:14.400
+y con cuentos dígitos significativos estás trabajando.
+
+00:05:14.400 --> 00:05:17.054
+Entonces, en vez de usar esta notación algo anticuada,
+
+00:05:17.054 --> 00:05:18.601
+la cual no he visto usar muchas veces,
+
+00:05:18.601 --> 00:05:21.666
+con estas rayas debajo o encima del dígito significativo,
+
+00:05:21.666 --> 00:05:23.988
+puedes representarlo con un decimal
+
+00:05:23.988 --> 00:05:26.018
+en notación científica
+
+00:05:26.018 --> 00:05:31.000
+y entonces se ve claramente que tienes 3 dígitos significativos.
+
+00:05:31.000 --> 00:05:31.976
+Con suerte esto te ayudará.
+
+00:05:31.976 --> 00:05:33.133
+En los próximos vídeos
+
+00:05:33.133 --> 00:05:36.109
+exploraremos un poco más por qué los dígitos significativos son importantes
+
+00:05:36.109 --> 99:59:59.999
+especialmente cuando haces cálculos con varias medidas distintas.

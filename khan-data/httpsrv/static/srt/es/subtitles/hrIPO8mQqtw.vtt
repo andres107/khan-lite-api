@@ -1,0 +1,627 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.980
+(Comienzo del clip)
+
+00:00:00.980 --> 00:00:03.320
+En todas los integrales dobles que hemos calculado hasta ahora
+
+00:00:03.320 --> 00:00:06.820
+los limites en "x" e "y" eran fijos.
+
+00:00:06.820 --> 00:00:09.490
+Ahora veamos que ocurre cuando los límites
+
+00:00:09.490 --> 00:00:12.690
+en "x" e "y" son variables.
+
+00:00:12.690 --> 00:00:15.580
+Digamos que tengo la misma superficie, y no la voy a
+
+00:00:15.580 --> 00:00:16.910
+dibujar exactamente como se ve. Sólo la dibujaré
+
+00:00:16.910 --> 00:00:17.580
+en sentido figurado.
+
+00:00:17.580 --> 00:00:21.310
+Pero el problema que vamos a hacer ahora es "z", y este es
+
+00:00:21.310 --> 00:00:23.820
+exactamente el mismo que hemos estado realizando.
+
+00:00:23.820 --> 00:00:25.900
+El punto de esto no es mostrarte cómo integrar, el punto
+
+00:00:25.900 --> 00:00:28.020
+de esto es mostrarte cómo visualizar y pensar
+
+00:00:28.020 --> 00:00:29.100
+acerca de estos problemas.
+
+00:00:29.100 --> 00:00:31.430
+Y, francamente, en los problemas de integrales dobles la parte más difícil es
+
+00:00:31.430 --> 00:00:32.690
+encontrar los límites.
+
+00:00:32.690 --> 00:00:34.560
+Una vez que lo hayas hecho, la integración es bastante
+
+00:00:34.560 --> 00:00:35.130
+directa.
+
+00:00:35.130 --> 00:00:39.260
+Realmente no es dificil como como una variable de integracion
+
+00:00:39.260 --> 00:00:41.130
+Entonces, digamos que esa es nuestra superficie:Z is igual
+
+00:00:41.130 --> 00:00:42.990
+a xy al cuadrado.
+
+00:00:42.990 --> 00:00:47.150
+Dejame dibujar los ejes de nuevo.
+
+00:00:47.150 --> 00:00:51.140
+Entonces, este es mi eje de X.
+
+00:00:51.140 --> 00:00:53.950
+Este es my eje de Z.
+
+00:00:53.950 --> 00:00:55.310
+Ese es mi eje de Y.
+
+00:00:55.310 --> 00:00:58.155
+(pausa)
+
+00:00:58.155 --> 00:01:02.350
+X, Y y Z
+
+00:01:02.350 --> 00:01:05.290
+Y tu viste como era esta grafica varios videos atras.
+
+00:01:05.290 --> 00:01:08.340
+Yo saque todo el graficado y rotamos y cosas.
+
+00:01:08.340 --> 00:01:10.190
+Voy a dibujar la grafica de la manera que luce; Yo solo
+
+00:01:10.190 --> 00:01:13.020
+voy traer lo menos abstracticamente como solo una
+
+00:01:13.020 --> 00:01:14.140
+superficie abstracta.
+
+00:01:14.140 --> 00:01:16.210
+Por que el punto aca es realemente encontrar los
+
+00:01:16.210 --> 00:01:18.420
+limites de integracion.
+
+00:01:18.420 --> 00:01:20.033
+Antes de dibujar la superficie en si, yo voy
+
+00:01:20.033 --> 00:01:21.690
+a dibujar el contorno.
+
+00:01:21.690 --> 00:01:23.630
+La primera vez que hicimos este problema dijimos, bien, la x
+
+00:01:23.630 --> 00:01:27.600
+va desde 0 a 2, la y va desde 0 a 1, y luego calculamos
+
+00:01:27.600 --> 00:01:31.240
+el volumen sobre este dominio encerrado.
+
+00:01:31.240 --> 00:01:33.920
+Ahora hagamos algo mas.
+
+00:01:33.920 --> 00:01:36.785
+Digamos que x va desde 0 a 1
+
+00:01:36.785 --> 00:01:41.740
+(pausa)
+
+00:01:41.740 --> 00:01:51.590
+Digamos que el volumen que queremos resolver
+
+00:01:51.590 --> 00:01:55.920
+bajo la superficie, no viene de una y fija
+
+00:01:55.920 --> 00:01:58.370
+a una y a limite superior.
+
+00:01:58.370 --> 00:02:00.170
+Te lo muestro: es realmente una curva.
+
+00:02:00.170 --> 00:02:04.340
+Por lo que esto es todo en el plano xy, todo lo que estoy dibujando.
+
+00:02:04.340 --> 00:02:10.920
+Y esta curva, la podemos ver de dos maneras: podríamos decir que y es
+
+00:02:10.920 --> 00:02:13.450
+una función de x, y es igual a x al cuadrado.
+
+00:02:13.450 --> 00:02:16.380
+O podríamos escribir que es igual a la raíz cuadrada de y.
+
+00:02:16.380 --> 00:02:18.480
+No tenemos que escribir más o menos, ni nada parecido
+
+00:02:18.480 --> 00:02:20.880
+porque estamos en el primer cuadrante.
+
+00:02:20.880 --> 00:02:25.150
+Por lo que esta es el área de la cuál queremos
+
+00:02:25.150 --> 00:02:26.010
+resolver el volumen.
+
+00:02:26.010 --> 00:02:28.830
+(pausa)
+
+00:02:28.830 --> 00:02:32.070
+Déjame, si, no duele colorearla solo para que
+
+00:02:32.070 --> 00:02:36.070
+podamos realmente afinar lo que nos interesa.
+
+00:02:36.070 --> 00:02:38.170
+Por lo que esa es el área superior de la cuál queremos
+
+00:02:38.170 --> 00:02:39.490
+resolver es el volumen.
+
+00:02:39.490 --> 00:02:42.010
+Podríamos decir, que es nuestro limite del dominio.
+
+00:02:42.010 --> 00:02:44.520
+Y asi x va de 0 a 1, pero entonces este punto
+
+00:02:44.520 --> 00:02:45.190
+qué va a ser?
+
+00:02:45.190 --> 00:02:48.260
+Este punto será 1 coma 1, ¿verdad?
+
+00:02:48.260 --> 00:02:51.210
+1 es igual a 1 al cuadrado, 1 es igual a la raíz cuadrada de 1.
+
+00:02:51.210 --> 00:02:53.130
+Por lo que este punto es y es igual a 1.
+
+00:02:53.130 --> 00:02:56.480
+(escribe)
+
+00:02:56.480 --> 00:02:58.290
+Y entonces no dibujaré esta superficie de manera exacta.
+
+00:02:58.290 --> 00:03:01.530
+Simplemente te daré una idea de lo que es el volumen
+
+00:03:01.530 --> 00:03:04.700
+de la figura que estamos tratando de calcular.
+
+00:03:04.700 --> 00:03:07.210
+Si esto es solo una superficie arbitraria - déjame hacerlo
+
+00:03:07.210 --> 00:03:12.910
+en un color diferente - esto es la parte superior.
+
+00:03:12.910 --> 00:03:14.770
+Esta línea será vertical en dirección de z.
+
+00:03:14.770 --> 00:03:20.640
+(pausa)
+
+00:03:20.640 --> 00:03:23.340
+Realmente, podría dibujarla como esto, como si fuera una curva.
+
+00:03:23.340 --> 00:03:26.865
+Y entonces, esta curva de aquí atrás será como una pared.
+
+00:03:26.865 --> 00:03:33.090
+(pausa)
+
+00:03:33.090 --> 00:03:37.460
+Y quizá pintare este lado de la pared para que puedas ver
+
+00:03:37.460 --> 00:03:40.270
+mas o menos como se ve.
+
+00:03:40.270 --> 00:03:42.800
+Estoy haciéndolo lo mejor posible.
+
+00:03:42.800 --> 00:03:43.960
+Creo que te puedes hacer una idea.
+
+00:03:43.960 --> 00:03:46.890
+Déjame hacerlo un poco más oscuro; esto es más bien
+
+00:03:46.890 --> 00:03:53.220
+un ejercicio de arte que de matemáticas, en muchos sentidos.
+
+00:03:53.220 --> 00:03:54.090
+Te puedes hacer una idea.
+
+00:03:54.090 --> 00:03:57.460
+Y entonces el límite aquí es como esto.
+
+00:03:57.460 --> 00:03:59.260
+Y esta parte superior no es plana, ya sabes, podría
+
+00:03:59.260 --> 00:04:00.890
+ser una superficie curva.
+
+00:04:00.890 --> 00:04:03.420
+Lo estoy haciendo y poco así, pero es una superficie curva.
+
+00:04:03.420 --> 00:04:06.340
+Y ahora sabemos en el ejemplo que estamos apunto de hacer que la
+
+00:04:06.340 --> 00:04:08.770
+superficie aquí es z igual a x al cuadrado.
+
+00:04:08.770 --> 00:04:12.430
+Por lo que queremos resolver el volumen bajo esto.
+
+00:04:12.430 --> 00:04:14.400
+Y, ¿cómo lo hacemos?
+
+00:04:14.400 --> 00:04:16.840
+Bien, pensemos.
+
+00:04:16.840 --> 00:04:21.790
+Podríamos utilizar la intuición con lo que ya te he dicho.
+
+00:04:21.790 --> 00:04:25.030
+Vamos a esencialmente tomar una "da", que es un pequeño
+
+00:04:25.030 --> 00:04:31.440
+cuadrado de aquí, y esa pequeña área, es la
+
+00:04:31.440 --> 00:04:38.490
+misma que la de "dx" -- déjame utilizar un color más oscuro -- como la "dx"
+
+00:04:38.490 --> 00:04:42.320
+veces una "dy", y entonces la multiplicaremos por f de
+
+00:04:42.320 --> 00:04:46.480
+xy, lo que será, por cada área, y entonces
+
+00:04:46.480 --> 00:04:48.110
+sumarlos todos.
+
+00:04:48.110 --> 00:04:50.610
+Y luego podemos tomar la suma en la direccion-x primero
+
+00:04:50.610 --> 00:04:52.540
+o la direccion-y primero.
+
+00:04:52.540 --> 00:04:55.440
+Ahora antes de hacer eso, solo vamos a asegurarnos de que tengas
+
+00:04:55.440 --> 00:04:57.480
+la intuicion porque los limites son la parte dificil,
+
+00:04:57.480 --> 00:04:59.270
+dejame solo dibujar nuestro plano xy.
+
+00:04:59.270 --> 00:05:01.860
+Asi que dejame rotarlo asi.
+
+00:05:01.860 --> 00:05:04.610
+Solo estoy dibujando nuestro plano xy.
+
+00:05:04.610 --> 00:05:07.020
+Porque eso es lo que importa.
+
+00:05:07.020 --> 00:05:08.790
+Porque la parte dificil aqui es solo descifrar nuestros
+
+00:05:08.790 --> 00:05:09.745
+limites de integracion.
+
+00:05:09.745 --> 00:05:14.160
+(escribiendo)
+
+00:05:14.160 --> 00:05:17.600
+Asi que la curva es solo y es igual a x al cuadrado, se ve
+
+00:05:17.600 --> 00:05:20.730
+algo asi.
+
+00:05:20.730 --> 00:05:22.400
+Este es el punto y es igual a 1.
+
+00:05:22.400 --> 00:05:25.840
+Este es el eje-y, este es el eje-x, este es el
+
+00:05:25.840 --> 00:05:28.050
+punto x es igual a 1.
+
+00:05:28.050 --> 00:05:31.720
+(pausa)
+
+00:05:31.720 --> 00:05:32.780
+Esto no es una x, es un 1.
+
+00:05:32.780 --> 00:05:34.070
+Esta es la x.
+
+00:05:34.070 --> 00:05:38.770
+De todos modos, lo que queremos descifrar, ?como sumamos este dx
+
+00:05:38.770 --> 00:05:44.100
+multiplicado por dy, o esta da, a lo largo de este dominio?
+
+00:05:44.100 --> 00:05:44.760
+Vamos a dibujarlo.
+
+00:05:44.760 --> 00:05:46.590
+Vamos a visualimente dibujarlo y esto no duele hacerlo cuando
+
+00:05:46.590 --> 00:05:47.670
+tu en realidad tienes que hacer el problema porque es
+
+00:05:47.670 --> 00:05:49.200
+francamente la parte mas dificil.
+
+00:05:49.200 --> 00:05:52.300
+Muchos maestros de calculo puede que te hacan establecer
+
+00:05:52.300 --> 00:05:54.670
+la integral y luego digan, OK, bueno el resto es facil.
+
+00:05:54.670 --> 00:05:57.360
+O el resto es Calculo 1.
+
+00:05:57.360 --> 00:06:00.810
+OK, asi que esta area, esta area aqui es la misca cosa
+
+00:06:00.810 --> 00:06:02.540
+que esta area aqui,
+
+00:06:02.540 --> 00:06:07.730
+Su base es dx y su altura es dy.
+
+00:06:07.730 --> 00:06:10.020
+Y luego te puedes imaginar que estamos mirando a
+
+00:06:10.020 --> 00:06:11.320
+esto desde arriba.
+
+00:06:11.320 --> 00:06:13.430
+La superficie esta aqui arriba en algun lado y estamos mirando
+
+00:06:13.430 --> 00:06:17.260
+justo hacia abajo, y esto es solo esta area.
+
+00:06:17.260 --> 00:06:20.580
+Digamos que queremos sacar la integral con
+
+00:06:20.580 --> 00:06:21.850
+respecto a x primero.
+
+00:06:21.850 --> 00:06:28.250
+Vamos a sumar, si queremos el volumen sobre esta
+
+00:06:28.250 --> 00:06:33.270
+columna, primetro que nada, es el are multiplicado por dx, dy, cierto?
+
+00:06:33.270 --> 00:06:35.470
+Asi que escribamos el volumen sobre la columna.
+
+00:06:35.470 --> 00:06:39.700
+Va a ser el valor de la funcion, la altura a
+
+00:06:39.700 --> 00:06:48.830
+el punto, que es xy al cuadrado multiplicado por dx, dy.
+
+00:06:48.830 --> 00:06:52.360
+(pausa)
+
+00:06:52.360 --> 00:06:55.170
+Esta expresion nos da el volumen sobre esta area, o
+
+00:06:55.170 --> 00:06:56.540
+la columna aqui.
+
+00:06:56.540 --> 00:06:58.730
+Digamos que queremos sumar en la direccion-x primero.
+
+00:06:58.730 --> 00:07:02.980
+Queremos sumar la dx, suma una aqui, suma aqui,
+
+00:07:02.980 --> 00:07:04.290
+etcetera, etcetera.
+
+00:07:04.290 --> 00:07:05.910
+Vamos a sumar en la direccion-x.
+
+00:07:05.910 --> 00:07:08.540
+Mi pregunta para ti es, cual es nuestro
+
+00:07:08.540 --> 00:07:09.330
+limite infetior de integracion?
+
+00:07:09.330 --> 00:07:15.170
+(pausa)
+
+00:07:15.170 --> 00:07:18.620
+Bueno estamos manteniendo nuestra y constante, ?cierto?
+
+00:07:18.620 --> 00:07:21.700
+Si vamos hacia la izquierda, si vamos mas abajo y abajo en x
+
+00:07:21.700 --> 00:07:24.040
+como que chocamos con la curva aqui.
+
+00:07:24.040 --> 00:07:25.600
+Asi que el limite inferior de integracion es
+
+00:07:25.600 --> 00:07:27.530
+en realidad una curva.
+
+00:07:27.530 --> 00:07:29.780
+?Cual es esta curva si fueramos a excribir x
+
+00:07:29.780 --> 00:07:31.040
+como funcion de y?
+
+00:07:31.040 --> 00:07:34.260
+Esta curva es y es igual a x al cuadrado, o x es igual
+
+00:07:34.260 --> 00:07:36.230
+a la raiz cuadrada de y.
+
+00:07:36.230 --> 00:07:39.320
+Si estamos integrando con respecto a x por una y fija
+
+00:07:39.320 --> 00:07:42.130
+aqui--estamos integrando en la direccion horizontal
+
+00:07:42.130 --> 00:07:46.010
+primero---nuestro limite inferior es x es igual a la raiz cuadrada de y.
+
+00:07:46.010 --> 00:07:50.880
+(pausa)
+
+00:07:50.880 --> 00:07:51.550
+Esto es interesante.
+
+00:07:51.550 --> 00:07:53.140
+Creo que esta es la primera vez que probablemente vez un
+
+00:07:53.140 --> 00:07:54.420
+limite integral variable.
+
+00:07:54.420 --> 00:07:57.510
+Pero hace sentido porque para esta fila que estamos sumando
+
+00:07:57.510 --> 00:07:59.210
+aqui, el limite superior es facil.
+
+00:07:59.210 --> 00:08:02.330
+El limipe superior es x es igual a 1.
+
+00:08:02.330 --> 00:08:05.860
+El limite superior es x es igual a 1, pero el limite inferior es
+
+00:08:05.860 --> 00:08:07.810
+x es igual a la raiz cuadrada de y.
+
+00:08:07.810 --> 00:08:10.220
+Porque vuelves, o, yo choco con la curva.
+
+00:08:10.220 --> 00:08:10.800
+?Cual es la curva?
+
+00:08:10.800 --> 00:08:12.760
+Bueno la curva es x es igual a la raiz cuadrada de y porque
+
+00:08:12.760 --> 00:08:14.720
+no sabemos que y cojimos.
+
+00:08:14.720 --> 00:08:15.210
+Justo lo suficiente.
+
+00:08:15.210 --> 00:08:19.320
+Una vez que es calculado el volumen--asi que nos da el
+
+00:08:19.320 --> 00:08:23.470
+volumen sobre el rectangulo aqui--y luego
+
+00:08:23.470 --> 00:08:24.510
+queremos sumar los dy.
+
+00:08:24.510 --> 00:08:27.020
+(Pausa)
+
+00:08:27.020 --> 00:08:29.030
+Y recuerda, que hay todo un volumen sobre lo
+
+00:08:29.030 --> 00:08:30.330
+que estoy dibujando aqui.
+
+00:08:30.330 --> 00:08:35.370
+Solo estou dibujando esta parte en el plano xy.
+
+00:08:35.370 --> 00:08:37.590
+Lo que acabamos de hacer, esta expresion, como esta
+
+00:08:37.590 --> 00:08:41.840
+escrita, calcula el volumensobre
+
+00:08:41.840 --> 00:08:43.520
+el rectangulo.
+
+00:08:43.520 --> 00:08:49.300
+Si queremos calcular el volument del solido entero,
+
+00:08:49.300 --> 00:08:51.485
+tenemos que integrar a lo largo del eje-y.
+
+00:08:51.485 --> 00:08:53.710
+O sumamos todas las dy.
+
+00:08:53.710 --> 00:08:55.870
+Esto es una dy aqui, no una dx.
+
+00:08:55.870 --> 00:08:58.780
+Mi dx y dy se ven similares.
+
+00:08:58.780 --> 00:09:04.860
+?Cual es el limite inferior en el eje-y si estoy sumanso
+
+00:09:04.860 --> 00:09:05.560
+estos rectangulos?
+
+00:09:05.560 --> 00:09:08.180
+(pausa)
+
+00:09:08.180 --> 00:09:11.270
+Bueno, el limite inferior es y es igual a 0.
+
+00:09:11.270 --> 00:09:14.580
+Vamos a ir de y es igual a 0 a que--
+
+00:09:14.580 --> 00:09:15.910
+?cual es el limite superior?
+
+00:09:15.910 --> 00:09:18.630
+--es y es igual a 1.
+
+00:09:18.630 --> 00:09:19.400
+Hay lo tienes.
+
+00:09:19.400 --> 00:09:21.590
+Dejame re-escribir la integral.
+
+00:09:21.590 --> 00:09:26.250
+La doble integral viene de x es igual a la raiz
+
+00:09:26.250 --> 00:09:35.810
+cuadrada de y a x es igual a 1, xy al cuadrado, dx, dy.
+
+00:09:35.810 --> 00:09:43.090
+Y luego el limite de y, y va de 0 a y a 1.
+
+00:09:43.090 --> 00:09:44.580
+Me acabo de dar cuenta que se me acabo el tiempo.
+
+00:09:44.580 --> 00:09:47.020
+En el proximo video vamos a calcular esto, y luego
+
+00:09:47.020 --> 00:09:48.155
+vamos ha hacerlo en el otro orden.
+
+00:09:48.155 --> 00:09:49.770
+Los veo pronto.
+
+00:09:49.770 --> 00:09:50.400
+(Fin del video).

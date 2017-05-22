@@ -1,0 +1,285 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.450 --> 00:00:02.610
+Lo que quiero hacer en este video es pensar sobre
+
+00:00:02.610 --> 00:00:06.900
+las dos maneras diferentes de interpretar a g minúscula
+
+00:00:07.020 --> 00:00:14.380
+sobre las que ya hemos hablado. Muchos libros de texto te darán ya sea 9.81m/s^2
+
+00:00:14.380 --> 00:00:17.070
+hacia abajo o hacia el centro de la Tierra
+
+00:00:17.150 --> 00:00:20.950
+o algunas veces te dan una cantidad negativa que representa la dirección
+
+00:00:20.950 --> 00:00:25.260
+esencialmente hacia abajo, -9.81 m/s^2
+
+00:00:25.270 --> 00:00:29.100
+Y probablemente sea la manera más típica de interpretar este valor
+
+00:00:29.100 --> 00:00:44.680
+como la aceleración debido a la gravedad cerca de la superficie de la Tierra
+
+00:00:45.850 --> 00:00:49.510
+para un objeto en caida libre --esto es en lo que haremos hincapié en este video
+
+00:00:49.910 --> 00:00:56.120
+Para un objeto en caída libre
+
+00:00:56.600 --> 00:00:59.350
+y la razón por la cual enfatizo esto último
+
+00:00:59.500 --> 00:01:05.240
+es porque sabemos de muchos objetos que están cerca de la superficie de la Tierra
+
+00:01:05.240 --> 00:01:07.000
+pero que no están en caída libre
+
+00:01:07.000 --> 00:01:12.170
+Por ejemplo, yo estoy cerca de la superficie de la Tierra en este momento y no estoy en caída libre
+
+00:01:12.360 --> 00:01:15.610
+Lo que me sucede a mi en este momento es que estoy sentado en una silla
+
+00:01:15.640 --> 00:01:21.490
+Asi que esta es mi silla
+
+00:01:21.490 --> 00:01:24.500
+y este soy yo
+
+00:01:24.500 --> 00:01:27.240
+Digamos que la silla soporta todo mi peso
+
+00:01:27.570 --> 00:01:29.810
+mis piernas están volando en el aire
+
+00:01:29.850 --> 00:01:33.000
+Así que este soy yo, y ¿qué me está sucediendo?
+
+00:01:33.030 --> 00:01:37.270
+Si estuviese en caída libre, me estaría acelerando hacia el centro de la Tierra
+
+00:01:37.270 --> 00:01:40.500
+a 9.81 m/s al cuadrado
+
+00:01:40.600 --> 00:01:46.780
+Pero lo que está sucediendo es que toda la fuerza debido a la gravedad
+
+00:01:46.780 --> 00:01:54.200
+está completamente cancelada por la fuerza normal de la superficie de la silla sobre mi pantalón
+
+00:01:54.790 --> 00:02:01.890
+Así que esta es la fuerza normal. Las haré a ambas como vectores
+
+00:02:01.910 --> 00:02:10.430
+Así que la fuerza neta en mi situación es igual a cero, especialmente en esta dirección vertical
+
+00:02:10.600 --> 00:02:13.260
+Porque la fuerza neta es igual a cero
+
+00:02:13.270 --> 00:02:18.140
+No estoy acelerándome hacia el centro de la Tierra. No estoy en caída libre
+
+00:02:18.290 --> 00:02:24.480
+Y porque estos 9.81 m/s^2 aún parecen relevantes para mi situación
+
+00:02:24.480 --> 00:02:28.400
+les hablaré de ello en un segundo, pero no soy un objeto en caída libre
+
+00:02:28.470 --> 00:02:30.850
+Otra manera de interpretarlo
+
+00:02:30.850 --> 00:02:34.290
+no es como la aceleración debido a la gravedad cerca de la superficie de la Tierra
+
+00:02:34.290 --> 00:02:36.740
+de un objeto en caída libre. A pesar de que es
+
+00:02:36.840 --> 00:02:42.750
+Una manera tal vez más general de interpretarlo, es el campo gravitacional de la Tierra
+
+00:02:42.900 --> 00:02:46.510
+o es en realidad la aceleración promedio
+
+00:02:46.510 --> 00:02:49.780
+porque en realidad cambia un poco en toda la superficie de la Tierra
+
+00:02:49.800 --> 00:03:02.290
+Pero otra manera de verlo es como el promedio del campo gravitacional en la superficie de la Tierra
+
+00:03:02.830 --> 00:03:06.630
+Hablaré sobre qué significa un campo en el contexto de física en un segundo
+
+00:03:06.650 --> 00:03:14.380
+El campo gravitacional promedio en la superficie de la Tierra
+
+00:03:14.380 --> 00:03:17.880
+Esto es un poco más abstracto. Lo mencionaremos en in segundo
+
+00:03:17.960 --> 00:03:24.080
+Pero sí nos ayuda a pensar sobre cómo g se relaciona en este escenario en el que no soy un objeto en caída libre
+
+00:03:24.440 --> 00:03:27.660
+Un campo --cuando lo piensas en el contexto de la física
+
+00:03:27.660 --> 00:03:31.140
+es una noción un poco más abstracta en el contexto matemático
+
+00:03:31.170 --> 00:03:32.940
+Pero en el contexto de la física
+
+00:03:32.940 --> 00:03:38.270
+un campo es algo que asocia una cantidad con cada punto en el espacio
+
+00:03:38.300 --> 00:03:47.950
+Así que es simplemente una cantidad asociada con cada punto en el espacio
+
+00:03:48.100 --> 00:03:51.830
+y puede ser una cantidad escalar, en cuyo caso lo llamamos campo escalar
+
+00:03:51.840 --> 00:03:53.640
+Hay sólo valores
+
+00:03:54.020 --> 00:03:57.530
+O podría ser una cantidad vectorial con magnitud y dirección
+
+00:03:57.530 --> 00:03:59.570
+asociadas con cada punto del espacio
+
+00:03:59.570 --> 00:04:02.000
+En cuyo caso tenemos un campo vectorial
+
+00:04:02.240 --> 00:04:08.400
+Y la razón por la cual se llama un campo es porque esta cercano a la superficie terrestre
+
+00:04:08.420 --> 00:04:14.180
+Si me das una masa-- por ejemplo, quizá mi masa en kilogramos
+
+00:04:14.180 --> 00:04:21.020
+si estás cerca de la superficie de la Tierra, me das una masa. Digamos que la masa es de 10 kg
+
+00:04:21.140 --> 00:04:27.950
+Puedes usar g para obtener la fuerza actual sobre ella-- de la gravedad sobre ese objeto
+
+00:04:27.950 --> 00:04:30.630
+en ese punto del espacio
+
+00:04:31.010 --> 00:04:35.270
+Así que por ejemplo, si esto tiene una masa de 10 kg
+
+00:04:35.270 --> 00:04:37.640
+Esta es la superficie de la Tierra
+
+00:04:37.670 --> 00:04:39.170
+Ese es el centro de la Tierra
+
+00:04:39.170 --> 00:04:44.520
+Así que en realidad asocia una cantidad vectorial cuya dirección es hacia el centro de la Tierra
+
+00:04:44.690 --> 00:04:51.710
+y la magnitud de esta cantidad vectorial va a ser la masa por g
+
+00:04:51.860 --> 00:04:58.540
+Esto ya definió la dirección. Puedes decir 9.81 m/s^2 hacia el centro de la Tierra
+
+00:04:58.740 --> 00:05:07.770
+Y así que en esta situación sería 10 kg por 9.81 m/s^2
+
+00:05:07.790 --> 00:05:19.110
+que es aproximadamente 98.1 kg m/s^2
+
+00:05:19.110 --> 00:05:24.490
+que es la unidad de fuerza, o 98.1 N
+
+00:05:24.700 --> 00:05:28.080
+Y esto puede que no esté en caída libre. Así que esta es la razón
+
+00:05:28.270 --> 00:05:32.910
+por la que g es relevante aún en situaciones en las que el objeto no está en caída libre
+
+00:05:33.050 --> 00:05:43.980
+g nos ha dado la fuerza por unidad de masa de la gravedad sobre un objeto cercano a la superficie de la Tierra
+
+00:05:44.290 --> 00:05:49.830
+Déjenme pensarlo. Así que este es el campo gravitacional promedio
+
+00:05:49.850 --> 00:05:55.010
+lo que me da es la fuerza por masa
+
+00:05:55.010 --> 00:06:00.100
+así que si me das una masa cerca de la superficie de la Tierra, ya sea o no en caída libre
+
+00:06:00.380 --> 00:06:04.970
+multiplicas esa masa por g porque te está dando la fuerza por masa
+
+00:06:05.050 --> 00:06:10.040
+Y te daría la fuerza de la gravedad que actúa sobre ese objeto
+
+00:06:10.040 --> 00:06:12.690
+cerca de la superficie de la Tierra ya sea que esté o no en caída libre
+
+00:06:12.690 --> 00:06:14.870
+Sólo quiero enfatizar esta diferencia
+
+00:06:14.870 --> 00:06:18.950
+porque aunque g tiende a ser referido de esta manera de aquí
+
+00:06:18.950 --> 00:06:22.200
+a veces puede que te encuentres con esto y digas no no no no no
+
+00:06:22.350 --> 00:06:25.390
+pero g es relevante aún cuando no es en caída libre
+
+00:06:25.390 --> 00:06:30.960
+Obviamente no puedes decir que mi aceleración cuando estoy sentado en mi silla es de 9.81 m/s^2
+
+00:06:30.960 --> 00:06:33.860
+hacia el centro de la Tierra. No me estoy acelerando hacia el centro de la Tierra
+
+00:06:34.170 --> 00:06:38.690
+Así que por eso te dirán no no no no. No lo puedes llamar aceleración
+
+00:06:38.690 --> 00:06:43.810
+Es la aceleración cuando un objeto está en caída libre cerca a la superficie de la Tierra
+
+00:06:43.810 --> 00:06:49.470
+si no tienes resistencia del aire, si la fuerza neta es la fuerza de la gravedad
+
+00:06:49.490 --> 00:06:51.780
+entonces sí sería realmente la aceleración del objeto
+
+00:06:52.100 --> 00:06:56.320
+pero se vuelve relevante-- sabemos que muchos de los objetos no están en caída libre
+
+00:06:56.320 --> 00:06:59.840
+y un objeto en caída libre no se mantiene en caída libre por mucho tiempo porque chocará con algo
+
+00:07:00.180 --> 00:07:03.710
+pero ahora sabemos que g es relevante para todos los objetos
+
+00:07:03.710 --> 00:07:06.690
+nos dice la fuerza por masa
+
+00:07:06.710 --> 00:07:11.010
+Es tentador llamarlo siempre aceleración porque las unidades son las de aceleración
+
+00:07:11.030 --> 00:07:14.820
+pero aún cuando hables de ello en términos de campo gravitacional, es la misma cantidad
+
+00:07:14.820 --> 00:07:18.930
+aún posee las mismas unidades, la misma magnitud
+
+00:07:19.030 --> 00:07:21.990
+y la misma dirección. Es solamente una manera diferente de verlo
+
+00:07:22.140 --> 00:07:24.520
+Aquí la aceleración de un objeto en caída libre
+
+00:07:24.560 --> 00:07:29.240
+Aquí, algo para multiplica por la masa para encontrar la fuerza debido a la gravedad

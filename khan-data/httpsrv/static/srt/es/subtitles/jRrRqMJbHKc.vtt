@@ -1,0 +1,648 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.600 --> 00:00:01.270
+Muy bien.
+
+00:00:01.270 --> 00:00:02.860
+Estamos en el problema 26
+
+00:00:02.860 --> 00:00:06.250
+Para el cuadrilatero mostrado a continuación (un cuadrilatero tiene
+
+00:00:06.250 --> 00:00:10.120
+cuatro lados). ¿La medida del angulo A mas la medida del angulo C es
+
+00:00:10.120 --> 00:00:11.310
+igual a que?
+
+00:00:11.310 --> 00:00:14.770
+Y aqui deberias saber que la suma de todos los angulos en un
+
+00:00:14.770 --> 00:00:17.890
+cuadrilatero es igual a 360 grados.
+
+00:00:17.890 --> 00:00:22.410
+Y puedes pensar: "OK, sumaré eso a mi lista de
+
+00:00:22.410 --> 00:00:23.290
+cosas para memorizar,
+
+00:00:23.290 --> 00:00:25.340
+como los angulos en un triangulo que suman 180.
+
+00:00:25.340 --> 00:00:27.110
+Y ahora les voy a enseñar que no, no nesesitas memorizarlo.
+
+00:00:27.110 --> 00:00:30.010
+Porque si tu imaginas cualquier cuadrilatero, voy a dibujar
+
+00:00:30.010 --> 00:00:31.960
+un cuadrilatero para ti
+
+00:00:31.960 --> 00:00:35.970
+y esto es asi para cualquier polígono.
+
+00:00:35.970 --> 00:00:38.770
+Digamos que este es cualquier cuadrilatero
+
+00:00:38.770 --> 00:00:41.660
+no tienes porque memorizar que la suma de todos los angulos es
+
+00:00:41.660 --> 00:00:42.270
+igual a 360.
+
+00:00:42.270 --> 00:00:43.880
+Aunque puede ser util para un cuadrelatero.
+
+00:00:43.880 --> 00:00:45.040
+Pero te voy a enseñar como
+
+00:00:45.040 --> 00:00:46.630
+demostrarlo siempre para un poligono.
+
+00:00:46.630 --> 00:00:49.160
+Lo divides en triangulos,
+
+00:00:49.160 --> 00:00:50.770
+entonces solo tienes que recordar una cosa.
+
+00:00:50.770 --> 00:00:57.660
+Si lo separas en triangulos, este angulo
+
+00:00:57.660 --> 00:01:02.080
+mas ese angulo mas ese angulo sera igual a 180.
+
+00:01:02.080 --> 00:01:06.480
+Y este angulo, mas ese angulo, mas ese angulo tiene que ser
+
+00:01:06.480 --> 00:01:08.710
+igual a 180.
+
+00:01:08.710 --> 00:01:11.630
+Asique los angulos en el propio cuadrelatero son este
+
+00:01:11.630 --> 00:01:13.970
+angulo y este angulo.
+
+00:01:13.970 --> 00:01:17.550
+Y entonces este angulo, y este angulo.
+
+00:01:17.550 --> 00:01:19.680
+Bien este es la suma de esos dos, y este es
+
+00:01:19.680 --> 00:01:21.180
+la suma de esos dos.
+
+00:01:21.180 --> 00:01:23.340
+Asique entre todos suman 180.
+
+00:01:23.340 --> 00:01:25.150
+Y esos 3 suman 180
+
+00:01:25.150 --> 00:01:29.870
+Este, mas este, mas este, mas este suman 360.
+
+00:01:29.870 --> 00:01:32.150
+Y puedes hacer esto con un poligono con una forma arbitraria.
+
+00:01:32.150 --> 00:01:34.760
+Hagamos 5 lados, un pentagono.
+
+00:01:34.760 --> 00:01:40.290
+Asique uno, dos, tres, cuatro, cinco lados.
+
+00:01:40.290 --> 00:01:42.230
+Wow, cuantos angulos hay en un pentagono...
+
+00:01:42.230 --> 00:01:44.180
+Lo separamos en triangulos.
+
+00:01:44.180 --> 00:01:45.760
+¿Cuantos triangulos entran en el?
+
+00:01:45.760 --> 00:01:46.000
+Veamos.
+
+00:01:46.000 --> 00:01:49.060
+Uno, dos.
+
+00:01:49.060 --> 00:01:52.670
+Cada uno de esos triangulos, ellos suman 180.
+
+00:01:52.670 --> 00:01:59.970
+Asique si quieres saber ese, ese, ese y ese, ese
+
+00:01:59.970 --> 00:02:02.560
+ese, mas ese, ese, y ese.
+
+00:02:02.560 --> 00:02:06.490
+Eso será 180 veces 3, que será 350.
+
+00:02:06.490 --> 00:02:09.080
+Y esa sará la medida de los angulos del polígono.
+
+00:02:09.080 --> 00:02:11.440
+Porque estos tres angulos suman a aquel angulo
+
+00:02:11.440 --> 00:02:12.150
+Eso es.
+
+00:02:12.150 --> 00:02:13.940
+Esos angulos suman con aquel otro.
+
+00:02:13.940 --> 00:02:17.300
+Estos angulos se suman con aquel, y esos angulos suman
+
+00:02:17.300 --> 00:02:17.960
+a ese otro.
+
+00:02:17.960 --> 00:02:21.670
+Asique con suerte, si te doy un poligono con 20 lados tu
+
+00:02:21.670 --> 00:02:24.030
+puedes averiguar cuantas triangulos pueden entrar en el.
+
+00:02:24.030 --> 00:02:25.670
+Y sabrás cuantos angulos hay.
+
+00:02:25.670 --> 00:02:26.910
+Y la suma de todos ellos
+
+00:02:26.910 --> 00:02:29.980
+De todas formas, volvamos al cuadrilatero.
+
+00:02:29.980 --> 00:02:31.610
+En un cuadrilatero, la suma de todos los angulos
+
+00:02:31.610 --> 00:02:33.530
+sera de 380 grados.
+
+00:02:33.530 --> 00:02:38.540
+Asique, si decimos, la medida del angulo A, mas la suma del angulo
+
+00:02:38.540 --> 00:02:42.530
+C, mas esos dos angulos.
+
+00:02:42.530 --> 00:02:43.130
+Voy a escribirlo.
+
+00:02:43.130 --> 00:02:48.940
+Mas 95, mas 32 sera igual a 360.
+
+00:02:48.940 --> 00:02:52.620
+Asique voy a escribir A mas C, solo una nota rápida.
+
+00:02:52.620 --> 00:02:56.060
+Veamos, 95 mas 32, es 127
+
+00:02:56.060 --> 00:03:00.020
+mas 127, igual a 360.
+
+00:03:00.020 --> 00:03:05.062
+A mas C es igual a 360 menos 127.
+
+00:03:05.062 --> 00:03:06.070
+¿Y cuanto es eso?
+
+00:03:06.070 --> 00:03:08.680
+Es 233.
+
+00:03:08.680 --> 00:03:11.190
+Bien, y ahi esta la respuesta.
+
+00:03:11.190 --> 00:03:12.520
+Suficiente.
+
+00:03:12.520 --> 00:03:14.370
+Pregunta 27.
+
+00:03:14.370 --> 00:03:18.330
+Si ABCD es un paralelogramo, ( los lados son paralelos )
+
+00:03:18.330 --> 00:03:21.810
+¿Cual es la longitud del segmento BD?
+
+00:03:21.810 --> 00:03:23.960
+Quiere medir cuanto hay de aqui, a aqui.
+
+00:03:23.960 --> 00:03:25.730
+Y esta es otra cosa interesante, no
+
+00:03:25.730 --> 00:03:28.320
+voy a demostrarlo ahora, pero es bueno
+
+00:03:28.320 --> 00:03:30.350
+saber, especialmente si te vuelves un mate-athleta.
+
+00:03:30.350 --> 00:03:32.010
+Porque aparece en competiciones matematicas
+
+00:03:32.010 --> 00:03:33.340
+de vez en cuando.
+
+00:03:33.340 --> 00:03:36.020
+Si tienes un paralelograma, los lados opuestos son
+
+00:03:36.020 --> 00:03:39.070
+paralelos, entonces sus diagonales son de hecho
+
+00:03:39.070 --> 00:03:40.640
+bisectrizes entre si.
+
+00:03:40.640 --> 00:03:42.950
+Quiere decir que separan la otra diagonal a la mitad.
+
+00:03:42.950 --> 00:03:45.160
+Asique esta diagonal separa esta diagonal en dos.
+
+00:03:45.160 --> 00:03:48.180
+Asique si este es 6, este tambien será 6.
+
+00:03:48.180 --> 00:03:50.570
+Y esta diagonal separa BD en dos.
+
+00:03:50.570 --> 00:03:54.010
+Asique si esto es 5, este tambien es 5.
+
+00:03:54.010 --> 00:03:58.390
+Asique BD, ED es 5, entonces BD tiene que ser 10.
+
+00:03:58.390 --> 00:03:59.640
+Respuesta A.
+
+00:04:02.040 --> 00:04:15.950
+Voy a copiar y pegar el 28 aqui.
+
+00:04:15.950 --> 00:04:19.110
+Un cono circular tiene un radio de 5 pulgadas.
+
+00:04:19.110 --> 00:04:21.089
+y 8 pulgadas de altura.
+
+00:04:21.089 --> 00:04:23.620
+Suficiente, nos lo han dibujado.
+
+00:04:23.620 --> 00:04:27.160
+¿Cual es el area lateral del cono?
+
+00:04:27.160 --> 00:04:28.370
+bien, nos dan una definición.
+
+00:04:28.370 --> 00:04:34.720
+El area lateral del cono es igual a R multiplicado por pi multiplicado por L,
+
+00:04:34.720 --> 00:04:36.730
+donde L es la altura exterior.
+
+00:04:36.730 --> 00:04:41.500
+Asique sabemos cuanto es R,
+
+00:04:41.500 --> 00:04:43.780
+Solo tenemos que saber cuanto es la altura
+
+00:04:43.780 --> 00:04:45.330
+exterior, esta L.
+
+00:04:45.330 --> 00:04:48.430
+Bueno este parace ser un problema de theorema de Pitágoras.
+
+00:04:48.430 --> 00:04:50.280
+Este es un angulo recto, se que parece raro porque es
+
+00:04:50.280 --> 00:04:51.040
+tridimensional.
+
+00:04:51.040 --> 00:04:54.170
+Pero esto forma un angulo recto.
+
+00:04:54.170 --> 00:04:56.360
+Estamos viendo una tajada del cono que
+
+00:04:56.360 --> 00:04:59.630
+incluye una parte punteaguda.
+
+00:04:59.630 --> 00:05:09.500
+Decimos: el cuadrado de 5 mas el cuadrado de 8 es igual a L al cuadrado.
+
+00:05:09.500 --> 00:05:11.960
+Ese es el angulo recto, L es la hipotenusa.
+
+00:05:11.960 --> 00:05:17.610
+Asique tenemos 25 mas 64 es igual a L al cuadrado.
+
+00:05:17.610 --> 00:05:26.820
+asique es 89 es igual a L al cuadrado.
+
+00:05:26.820 --> 00:05:30.760
+Entonces, L es igual a la raíz cuadrada de 89.
+
+00:05:30.760 --> 00:05:33.140
+Salvo que... he hecho algo mal en algun lado...
+
+00:05:33.140 --> 00:05:36.160
+Raíz cuadrada de 89...
+
+00:05:36.160 --> 00:05:38.170
+Ah bien, veo la ya la raiz cuadrada de 89.
+
+00:05:38.170 --> 00:05:40.130
+Asique probablemente vamos por buen camino.
+
+00:05:40.130 --> 00:05:41.430
+Asique L es igual a la raíz cuadrada de 89.
+
+00:05:41.430 --> 00:05:44.650
+Y eso nos da la formula del area lateral de un
+
+00:05:44.650 --> 00:05:46.530
+cono como: pi, R, L.
+
+00:05:46.530 --> 00:05:53.120
+Asique pi R L es igual a pi multiplicado por R multiplicado por L.
+
+00:05:53.120 --> 00:05:54.760
+Que es 5...
+
+00:05:54.760 --> 00:06:01.255
+....veces esta altura exterior, que es la raíz cuadrada de 89.
+
+00:06:01.255 --> 00:06:04.730
+Esto igual a 5 veces pi por la raíz cuadrada de 89.
+
+00:06:04.730 --> 00:06:08.690
+Que es... ya lo vi, opcion D.
+
+00:06:08.690 --> 00:06:11.510
+Siempre que vez un numero como el 89, empiezas a preocuparte.
+
+00:06:11.510 --> 00:06:15.070
+Pero esta bien, ya que era una de las opciones.
+
+00:06:15.070 --> 00:06:18.150
+Problema 29.
+
+00:06:18.150 --> 00:06:19.285
+Ok.
+
+00:06:19.285 --> 00:06:20.870
+Voy a copiar y pegarlo.
+
+00:06:24.460 --> 00:06:25.710
+Borro esta imagen.
+
+00:06:28.885 --> 00:06:30.760
+Es domingo por la mañana, mi
+
+00:06:30.760 --> 00:06:33.310
+mujer aun esta durmiendo.
+
+00:06:33.310 --> 00:06:36.370
+Esperamos nuestro primer hijo en un mes.
+
+00:06:36.370 --> 00:06:39.560
+Asique imagino que dormir será bueno para ella.
+
+00:06:39.560 --> 00:06:42.140
+Me da mas tiempo para grabar mas videos de matematica.
+
+00:06:42.140 --> 00:06:45.480
+Ok, no se porque me voy por esas tangentes.
+
+00:06:45.480 --> 00:06:48.140
+OK, la figura ABCD is un rombo.
+
+00:06:48.140 --> 00:06:50.440
+Y se ve como un rombo.
+
+00:06:50.440 --> 00:06:56.350
+Cual es el area de la figura ABCD en centimetros cuadrados.
+
+00:06:56.350 --> 00:06:58.540
+Bueno todo nos lo están dando en centímetros.
+
+00:06:58.540 --> 00:07:00.030
+Asique si nosotros nos quedamos en centímetros
+
+00:07:00.030 --> 00:07:00.590
+no tendremos problemas.
+
+00:07:00.590 --> 00:07:02.520
+¿Asique cual es el area de esto?
+
+00:07:02.520 --> 00:07:06.730
+Asique averiguaremos cual es el área de estos triangulos.
+
+00:07:06.730 --> 00:07:08.170
+¿Cual es el area del triangulo?
+
+00:07:08.170 --> 00:07:09.860
+El area de un triangulo es igual a
+
+00:07:09.860 --> 00:07:14.540
+1/2 de la base por altura.
+
+00:07:14.540 --> 00:07:16.880
+¿Asique cual es el área de este triangulo?
+
+00:07:16.880 --> 00:07:18.380
+Bueno, de hecho es simetrico.
+
+00:07:18.380 --> 00:07:20.310
+si conocemos el area de este triangulo, sabremos el área de
+
+00:07:20.310 --> 00:07:20.970
+este triangulo.
+
+00:07:20.970 --> 00:07:23.550
+Ya que esto es 6 y 8, esto 6 y 8.
+
+00:07:23.550 --> 00:07:26.570
+Asique el area de este es 6 por 8.
+
+00:07:26.570 --> 00:07:32.450
+48 multiplicado 1/2 es 24.
+
+00:07:32.450 --> 00:07:34.950
+Este además va a ser 24 de hecho.
+
+00:07:34.950 --> 00:07:37.580
+Asique cuando los sumemos, nos dará 48.
+
+00:07:37.580 --> 00:07:41.150
+Estos dos combinados suman 48.
+
+00:07:41.150 --> 00:07:45.330
+Ahora, este triangulo, 8 por 15 por 1/2.
+
+00:07:45.330 --> 00:07:48.120
+Eso es 4 por 15, que es 60.
+
+00:07:48.120 --> 00:07:49.120
+Y esto va a ser la misma
+
+00:07:49.120 --> 00:07:50.960
+área.
+
+00:07:50.960 --> 00:07:51.460
+60.
+
+00:07:51.460 --> 00:07:53.410
+No vamos a multiplicar por 1/2, ya que vamos a
+
+00:07:53.410 --> 00:07:55.070
+multiplicar por de eventualmente.
+
+00:07:55.070 --> 00:07:57.090
+O sumarlos entre si de nuevo.
+
+00:07:57.090 --> 00:08:00.840
+Asique de todas formas, tenemos 60 mas 60 mas 24 mas 24, eso es 120,
+
+00:08:00.840 --> 00:08:04.470
+mas 48, asique 168.
+
+00:08:04.470 --> 00:08:07.660
+Respuesta C.
+
+00:08:07.660 --> 00:08:10.030
+Siguiente problema.
+
+00:08:10.030 --> 00:08:11.750
+Problema 31.
+
+00:08:11.750 --> 00:08:15.500
+Me gustan estos problemas. Ahora que salimos de la
+
+00:08:15.500 --> 00:08:18.490
+parte en que nos habíamos metido en
+
+00:08:18.490 --> 00:08:20.606
+congruencias y similares.
+
+00:08:20.606 --> 00:08:21.830
+Y pensé que habian hecho un par de
+
+00:08:21.830 --> 00:08:22.920
+errores en alguns de esos.
+
+00:08:22.920 --> 00:08:27.210
+De todas formas, si un barril cilindrico mide 22 pulgadas de
+
+00:08:27.210 --> 00:08:32.390
+diametro, ¿cuantas pulgadas girará en 8 revoluciones
+
+00:08:32.390 --> 00:08:34.320
+una superficie lisa?
+
+00:08:34.320 --> 00:08:37.679
+Podemos imaginarnos una llanta.
+
+00:08:37.679 --> 00:08:39.740
+Es un tipo de rueda.
+
+00:08:39.740 --> 00:08:41.309
+Asique dibujaré un circulo.
+
+00:08:41.309 --> 00:08:43.440
+Asi vemos al barril cilindrico desde el
+
+00:08:43.440 --> 00:08:46.440
+costado, ya que es lo que nos importa.
+
+00:08:46.440 --> 00:08:48.390
+Ese es el lado.
+
+00:08:48.390 --> 00:08:50.190
+Dicen, un barril cilindrico mide
+
+00:08:50.190 --> 00:08:51.700
+22 pulgadas de diametro.
+
+00:08:51.700 --> 00:08:54.090
+Asique la distancia justo aqui.
+
+00:08:57.650 --> 00:09:02.260
+Esta distancia aqui es 22.
+
+00:09:02.260 --> 00:09:05.450
+Y lo que dicen es, que esto va a girar 8
+
+00:09:05.450 --> 00:09:06.670
+revoluciones en una superficie lisa.
+
+00:09:06.670 --> 00:09:07.980
+Va a girar 8 veces.
+
+00:09:07.980 --> 00:09:11.220
+Va a girar y moverse a la derecha.
+
+00:09:11.220 --> 00:09:13.090
+¿Cuantó se desplazará?
+
+00:09:13.090 --> 00:09:15.070
+Asique si lo piensas, va a cubrir su
+
+00:09:15.070 --> 00:09:18.080
+circunsferencia 8 veces.
+
+00:09:18.080 --> 00:09:22.460
+Si este punto empieza tocando el suelo, tras
+
+00:09:22.460 --> 00:09:24.610
+moverse una circunsferencia de distancia, ese punto va a
+
+00:09:24.610 --> 00:09:27.040
+estar tocando el suelo de nuevo.
+
+00:09:27.040 --> 00:09:29.590
+Como una manera fácil de pensarlo, mientras esto se mueve a la
+
+00:09:29.590 --> 00:09:35.240
+derecha, mientras gira, mientras se mueve 1 pie, 1 pie a lo largo
+
+00:09:35.240 --> 00:09:37.880
+de la circunsferencia estará entonces estara el suelo.
+
+00:09:37.880 --> 00:09:41.770
+O 1 centímetro, o dos pulgadas, o lo que sea.
+
+00:09:41.770 --> 00:09:45.080
+Entonces 2 pulgadas a lo largo de la circunsferencia estará tocando
+
+00:09:45.080 --> 00:09:46.470
+el suelo.
+
+00:09:46.470 --> 00:09:48.860
+Asique va a recorrer 8 circunsferencias en 8
+
+00:09:48.860 --> 00:09:50.070
+revoluciones.
+
+00:09:50.070 --> 00:09:51.370
+¿Asique cual es la circunsferencia de esto?
+
+00:09:51.370 --> 00:09:55.700
+La circunsferencia es igual a pi multiplicado el diametro.
+
+00:09:55.700 --> 00:09:57.410
+El diametro que ya nos han dado es 22.
+
+00:09:57.410 --> 00:10:00.360
+Asique la circunsferencia es 22 multiplicado por pi.
+
+00:10:00.360 --> 00:10:02.630
+Asique se moverá 8 circunsferencias en 8
+
+00:10:02.630 --> 00:10:03.830
+revoluciones.
+
+00:10:03.830 --> 00:10:12.970
+Asique 22 multiplicado por pi multiplicado por 8 es 176.
+
+00:10:12.970 --> 00:10:15.570
+Y esa es la respuesta C.
+
+00:10:15.570 --> 00:10:17.450
+Nos vemos en el próximo video.

@@ -1,0 +1,507 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.690 --> 00:00:02.920
+Vamos a hacer otro problema con raíces repetidas.
+
+00:00:02.920 --> 00:00:06.375
+Así que vamos a decir que nuestra ecuación diferencial es el segundo
+
+00:00:06.375 --> 00:00:15.620
+derivado de y menos la primera derivada más 0.25--
+
+00:00:15.620 --> 00:00:20.800
+eso es lo que está escrito aquí--0.25y es igual a 0.
+
+00:00:20.800 --> 00:00:23.100
+Y realmente nos han dado algunas condiciones iniciales.
+
+00:00:23.100 --> 00:00:32.750
+Dijeron que es igual a 2 y de 0, y primo y 0 es
+
+00:00:32.750 --> 00:00:35.550
+igual a 1/3.
+
+00:00:35.550 --> 00:00:38.130
+Así como hemos hecho en cada una de estas constantes
+
+00:00:38.130 --> 00:00:41.360
+coeficiente lineal segundo orden diferencial homogénea
+
+00:00:41.360 --> 00:00:43.820
+ecuaciones, vamos a obtener la ecuación característica.
+
+00:00:43.820 --> 00:00:54.360
+Así que eso de r cuadrado menos r más 0.25--o nos podemos incluso
+
+00:00:54.360 --> 00:00:56.726
+Llame a lo más 1/4.
+
+00:00:56.726 --> 00:00:59.020
+Así que vamos a ver, cuando yo sólo inspeccionados, que siempre
+
+00:00:59.020 --> 00:01:00.310
+me confunde cuando tengo fracciones.
+
+00:01:00.310 --> 00:01:01.740
+Así que resulta muy difícil factor.
+
+00:01:01.740 --> 00:01:04.750
+Así que vamos a hacer la Fórmula cuadrática.
+
+00:01:04.750 --> 00:01:07.770
+Así que las raíces de este va a ser r es
+
+00:01:07.770 --> 00:01:09.410
+b igual al negativo.
+
+00:01:09.410 --> 00:01:10.930
+Bueno, b es negativo 1.
+
+00:01:10.930 --> 00:01:14.580
+Modo negativo b va a ser 1.
+
+00:01:14.580 --> 00:01:19.780
+Más o menos la raíz cuadrada de b al cuadrado.
+
+00:01:19.780 --> 00:01:20.860
+b es negativo 1.
+
+00:01:20.860 --> 00:01:22.530
+Por lo al cuadrado es 1.
+
+00:01:22.530 --> 00:01:26.920
+Menos 4 veces a, que es 1, tiempos c.
+
+00:01:26.920 --> 00:01:31.970
+Bien, 4 veces 1 veces 0,25, que es 1.
+
+00:01:31.970 --> 00:01:32.470
+Ah-ha.
+
+00:01:32.470 --> 00:01:35.570
+Así que observe que cuando usted tiene una raíz repetida, esto bajo el
+
+00:01:35.570 --> 00:01:36.430
+raíz cuadrada se convierte en 0.
+
+00:01:36.430 --> 00:01:38.970
+Y que tiene sentido, porque esto es lo más o menos en el
+
+00:01:38.970 --> 00:01:42.360
+Fórmula cuadrática que le da dos raíces, ya sean
+
+00:01:42.360 --> 00:01:43.210
+reales o complejos.
+
+00:01:43.210 --> 00:01:46.100
+Pero si la raíz cuadrada es 0, va a agregar más o menos 0
+
+00:01:46.100 --> 00:01:48.520
+y sólo te dejan con una raíz.
+
+00:01:48.520 --> 00:01:50.060
+De todas formas, no hemos terminado todavía.
+
+00:01:50.060 --> 00:01:51.830
+¿Cuál es el denominador de una ecuación cuadrática?
+
+00:01:51.830 --> 00:01:52.470
+2a.
+
+00:01:52.470 --> 00:01:55.860
+Por lo que una es 1, por lo tanto más 2.
+
+00:01:55.860 --> 00:02:00.080
+Así que nuestra una raíz repetida es 1 más o menos 0 más de 2 años, o
+
+00:02:00.080 --> 00:02:02.230
+es igual a 1/2.
+
+00:02:02.230 --> 00:02:07.110
+Y como aprendimos en el último video, usted puede simplemente
+
+00:02:07.110 --> 00:02:11.150
+decir, oh bueno, tal vez la solución es justa y es igual a
+
+00:02:11.150 --> 00:02:14.460
+CE al x 1/2.
+
+00:02:14.460 --> 00:02:16.450
+Pero como señalamos la última vez, tienes dos inicial
+
+00:02:16.450 --> 00:02:17.230
+condiciones.
+
+00:02:17.230 --> 00:02:22.060
+Y esta solución no es lo suficientemente general para dos iniciales
+
+00:02:22.060 --> 00:02:22.740
+condiciones.
+
+00:02:22.740 --> 00:02:24.630
+Y luego la última vez, dijimos, OK, si esto no es general
+
+00:02:24.630 --> 00:02:29.610
+suficiente, tal vez alguna solución que era alguna función de x
+
+00:02:29.610 --> 00:02:33.990
+tiempos e a la x 1/2, quizá sería nuestra solución.
+
+00:02:33.990 --> 00:02:35.980
+Y dijimos, resulta que lo es.
+
+00:02:35.980 --> 00:02:39.140
+Y que solución más general que encontramos, que
+
+00:02:39.140 --> 00:02:43.030
+hemos averiguado que v de x es realmente igual a algunos
+
+00:02:43.030 --> 00:02:47.290
+x veces algunos otro constante positivo permanente.
+
+00:02:47.290 --> 00:02:56.170
+Así es nuestra solución más general y es igual a c1 veces e a
+
+00:02:56.170 --> 00:03:04.460
+1/2 x pronto. Además c2 veces xe para el x 1/2.
+
+00:03:04.460 --> 00:03:06.380
+Olvidé la x aquí.
+
+00:03:06.380 --> 00:03:09.530
+Permítanme llamar aquí una línea para que no te confunde.
+
+00:03:09.530 --> 00:03:10.920
+De todas formas, es el razonamiento.
+
+00:03:10.920 --> 00:03:13.050
+Es cómo llegamos a esta cosa.
+
+00:03:13.050 --> 00:03:14.300
+Y es bueno saber.
+
+00:03:14.300 --> 00:03:16.200
+Porque más tarde cuando quieres saber más de la teoría de
+
+00:03:16.200 --> 00:03:17.840
+ecuaciones diferenciales--y que es realmente la cuestión
+
+00:03:17.840 --> 00:03:20.450
+aprender esto si tu meta entero no es sólo para pasar
+
+00:03:20.450 --> 00:03:22.090
+un examen--es bueno saber.
+
+00:03:22.090 --> 00:03:24.210
+Pero cuando usted realmente está resolviendo estos que podrías sólo
+
+00:03:24.210 --> 00:03:25.540
+tipo de saber la plantilla.
+
+00:03:25.540 --> 00:03:28.200
+Si tengo una raíz repetida, bien acabo de poner que repite
+
+00:03:28.200 --> 00:03:30.390
+raíz dos veces, y uno de ellos obtiene una x frente a él, y
+
+00:03:30.390 --> 00:03:31.700
+tienen dos constantes.
+
+00:03:31.700 --> 00:03:34.570
+De todas formas, esta es nuestra solución general y ahora podemos utilizar
+
+00:03:34.570 --> 00:03:38.490
+nuestras condiciones iniciales para resolver para c1 y c2.
+
+00:03:38.490 --> 00:03:40.950
+Así que vamos a averiguar sólo la derivada de esta primera. Por lo tanto
+
+00:03:40.950 --> 00:03:46.150
+se hace más fácil sustituir en c2.
+
+00:03:46.150 --> 00:04:01.410
+Así que es igual a 1/2 c1 e a la x 1/2, plus--ahora primer y
+
+00:04:01.410 --> 00:04:03.102
+Esto se vuelve un poco más complicada, vamos a
+
+00:04:03.102 --> 00:04:08.520
+hay que utilizar la regla de producto aquí--tan plus c2 veces--
+
+00:04:08.520 --> 00:04:12.320
+derivada de x es 1--tiempos e a la x 1/2, que la
+
+00:04:12.320 --> 00:04:14.140
+regla del producto.
+
+00:04:14.140 --> 00:04:18.959
+Además la derivada de e a los tiempos de 1/2 x x.
+
+00:04:18.959 --> 00:04:26.620
+Por lo que es 1/2 xe al x 1/2.
+
+00:04:26.620 --> 00:04:29.930
+O podemos escribir--no quiero perder esto por aquí--
+
+00:04:29.930 --> 00:04:38.940
+podemos escribir que es igual a--vamos a ver, tengo 1/2--así que me
+
+00:04:38.940 --> 00:04:42.210
+tienen c2 veces e a la x 1/2 y tengo c1 1/2 veces
+
+00:04:42.210 --> 00:04:43.050
+e a la x 1/2.
+
+00:04:43.050 --> 00:04:47.360
+Por lo que podría decir, es igual a e a la x 1/2
+
+00:04:47.360 --> 00:04:50.370
+veces c1 más 2.
+
+00:04:50.370 --> 00:04:51.340
+Eso es todo.
+
+00:04:51.340 --> 00:04:54.190
+Además de c2.
+
+00:04:54.190 --> 00:05:01.945
+Que se encarga de estos dos términos. Plus c2 más 2
+
+00:05:01.945 --> 00:05:06.250
+XE al x 1/2.
+
+00:05:06.250 --> 00:05:07.370
+Y ahora vamos a usar nuestras condiciones iniciales.
+
+00:05:07.370 --> 00:05:09.030
+Y me deja realmente claro hasta cierto espacio, porque creo que
+
+00:05:09.030 --> 00:05:11.340
+es agradable tener nuestras condiciones iniciales aquí donde estamos
+
+00:05:11.340 --> 00:05:12.400
+puede verlos.
+
+00:05:12.400 --> 00:05:13.800
+Así que permítanme eliminar todas esas cosas.
+
+00:05:13.800 --> 00:05:17.910
+Ojalá,, tiene sentido para usted por ahora.
+
+00:05:17.910 --> 00:05:19.670
+Sabes la ecuación característica.
+
+00:05:19.670 --> 00:05:21.860
+Hemos averiguado el general solu--no quiero borrar
+
+00:05:21.860 --> 00:05:24.740
+nuestras condiciones iniciales--hemos averiguados el general
+
+00:05:24.740 --> 00:05:26.040
+la solución fue esto.
+
+00:05:28.950 --> 00:05:32.030
+Mantendremos nuestra solución general allí.
+
+00:05:32.030 --> 00:05:35.640
+Y así, ahora solo sustituimos nuestras condiciones iniciales en
+
+00:05:35.640 --> 00:05:38.950
+Nuestra solución general y la derivada de la general
+
+00:05:38.950 --> 00:05:42.510
+solución y ojalá nos podemos obtener respuestas significativas.
+
+00:05:42.510 --> 00:05:46.010
+Por lo tanto sustituyendo en nuestra solución general, y de 0 es
+
+00:05:46.010 --> 00:05:46.680
+igual a 2.
+
+00:05:46.680 --> 00:05:49.940
+Por lo tanto y es igual a 2, cuando x es igual a 0.
+
+00:05:49.940 --> 00:05:53.386
+Así c1--cuando x es igual a 0, todos los términos e
+
+00:05:53.386 --> 00:05:56.370
+¿ser 1, derecha?
+
+00:05:56.370 --> 00:05:57.440
+Éste se convertirá en 1.
+
+00:05:57.440 --> 00:05:59.890
+Y, a continuación, observe, tenemos un xe 0.
+
+00:05:59.890 --> 00:06:01.390
+Así que ahora este x es 0.
+
+00:06:01.390 --> 00:06:03.880
+Por lo tanto este término todo va a ser igual a 0.
+
+00:06:03.880 --> 00:06:06.890
+Así que hemos terminado. C1 es igual a 2.
+
+00:06:06.890 --> 00:06:08.430
+Fue bastante sencillo.
+
+00:06:08.430 --> 00:06:10.500
+Esta x realmente hizo mucho más fácil.
+
+00:06:10.500 --> 00:06:12.290
+Así que c1 es igual a 2.
+
+00:06:12.290 --> 00:06:14.750
+Y ahora podemos usar la derivada.
+
+00:06:14.750 --> 00:06:18.710
+Así que vamos a ver, esta es la primera derivada.
+
+00:06:18.710 --> 00:06:21.530
+Y a sustituir a c1 allí para que podamos
+
+00:06:21.530 --> 00:06:23.420
+sólo resolver para c2.
+
+00:06:23.420 --> 00:06:30.280
+Así que nuestra primera derivada es primo de y es igual a--vamos a ver
+
+00:06:30.280 --> 00:06:40.790
+C1 - c2--así es--bien voy a escribir esto primero--además de 1/2
+
+00:06:40.790 --> 00:06:42.100
+2 es igual a 2.
+
+00:06:42.100 --> 00:06:56.006
+Por eso es 1 + c2 veces e a c2 plus x 1/2 más 2 veces
+
+00:06:56.006 --> 00:06:58.950
+XE al x 1/2.
+
+00:06:58.950 --> 00:07:01.370
+Hubo una x aquí.
+
+00:07:01.370 --> 00:07:05.600
+Así que cuando x es igual a 0, y prime es igual a 1/3.
+
+00:07:05.600 --> 00:07:09.810
+1/3 Es igual a--bien, x es igual a 0, esto estará 1--
+
+00:07:09.810 --> 00:07:14.440
+por lo que es igual a 1 + c2.
+
+00:07:14.440 --> 00:07:16.610
+Y, a continuación, este término, cuando x es igual a 0, todo esto
+
+00:07:16.610 --> 00:07:17.300
+¿se convierte en 0, derecha?
+
+00:07:17.300 --> 00:07:19.400
+Porque esta x sólo anula toda la cosa.
+
+00:07:19.400 --> 00:07:21.310
+Multiplicar por 0 obtendrá 0.
+
+00:07:21.310 --> 00:07:26.950
+Así entonces obtenemos 1/3 es igual a 1 + c2, o que c2 es igual
+
+00:07:26.950 --> 00:07:30.830
+1/3 de menos 1 es igual al menos 2/3.
+
+00:07:30.830 --> 00:07:33.010
+Y ahora tenemos nuestra solución particular.
+
+00:07:33.010 --> 00:07:35.980
+Permítaseme escribirlo y poner un cuadro alrededor de ella.
+
+00:07:35.980 --> 00:07:37.380
+Esto es nuestra solución general.
+
+00:07:37.380 --> 00:07:40.680
+Nuestra solución particular, dada estas condiciones iniciales para
+
+00:07:40.680 --> 00:07:45.890
+Este problema de raíz repetida, es y es igual a c1--pensamos
+
+00:07:45.890 --> 00:07:52.640
+fuera a ser rápidamente--2 2e al x 1/2 plus
+
+00:07:52.640 --> 00:07:54.640
+C2. C2 es menos 2/3.
+
+00:07:54.640 --> 00:08:01.940
+Lo menos 2/3 xe al x 1/2.
+
+00:08:01.940 --> 00:08:03.300
+Y terminamos.
+
+00:08:03.300 --> 00:08:05.580
+Es nuestra solución particular.
+
+00:08:05.580 --> 00:08:07.940
+Así que una vez más, el tipo de la prueba de cómo
+
+00:08:07.940 --> 00:08:09.160
+se llega a esto.
+
+00:08:09.160 --> 00:08:10.420
+¿Por qué existe esta x ahí?
+
+00:08:10.420 --> 00:08:12.384
+Y no era una prueba, fue realmente más de sólo para mostrar
+
+00:08:12.384 --> 00:08:14.240
+que la intuición de que procedencia.
+
+00:08:14.240 --> 00:08:17.350
+Y lo presentarle un método llamado, reducción de
+
+00:08:17.350 --> 00:08:20.200
+orden, para averiguar qué era esa función v, que terminó
+
+00:08:20.200 --> 00:08:23.280
+acaba de ser c1 y c2 veces x.
+
+00:08:23.280 --> 00:08:24.800
+Pero todo eso puede ser bastante complicado.
+
+00:08:24.800 --> 00:08:27.790
+Pero ves que una vez sabes el patrón, o una vez sabes
+
+00:08:27.790 --> 00:08:29.970
+que esto va a ser la solución general, son
+
+00:08:29.970 --> 00:08:30.870
+bastante fácil de resolver.
+
+00:08:30.870 --> 00:08:32.400
+Ecuación característica.
+
+00:08:32.400 --> 00:08:34.080
+Obtenga la solución general.
+
+00:08:34.080 --> 00:08:36.340
+Calcular la derivada de la general de la solución.
+
+00:08:36.340 --> 00:08:38.690
+Y, a continuación, sustituir sus condiciones iniciales para resolver
+
+00:08:38.690 --> 00:08:40.470
+para sus constantes.
+
+00:08:40.470 --> 00:08:41.799
+Y listo.
+
+00:08:41.799 --> 00:08:43.840
+De todas formas, nos vemos en el siguiente vídeo.
+
+00:08:43.840 --> 00:08:48.240
+Y en realidad, vamos a empezar a resolver no homogéneos
+
+00:08:48.240 --> 00:08:49.630
+ecuaciones diferenciales.
+
+00:08:49.630 --> 00:08:50.880
+Ver

@@ -1,0 +1,561 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.680 --> 00:00:03.540
+Bien, ahora es tan bueno como cualquiera a repasar algunos
+
+00:00:03.540 --> 00:00:06.670
+propiedades interesantes y muy útiles
+
+00:00:06.670 --> 00:00:07.670
+de la transformada de Laplace.
+
+00:00:07.670 --> 00:00:10.620
+Y el primero es mostrar que es un operador lineal.
+
+00:00:10.620 --> 00:00:11.230
+¿Y qué significa eso?
+
+00:00:11.230 --> 00:00:17.840
+Bien, digamos que quería tomar la transformada de Laplace
+
+00:00:17.840 --> 00:00:19.270
+la suma de--lo llamamos el
+
+00:00:19.270 --> 00:00:20.590
+suma ponderada de dos funciones.
+
+00:00:20.590 --> 00:00:25.222
+Eso dicen algunas constantes, c1, tiempos mi primera función, f de
+
+00:00:25.222 --> 00:00:30.600
+t, además de algunas constantes, c2, a veces mi segundo
+
+00:00:30.600 --> 00:00:31.850
+función, g t.
+
+00:00:34.560 --> 00:00:38.590
+Bien, por la definición de la transformada de Laplace, esto sería
+
+00:00:38.590 --> 00:00:45.280
+ser igual a la integral impropia de 0 a infinito de
+
+00:00:45.280 --> 00:00:51.810
+e para el negativo st, veces todo lo que nuestra función que
+
+00:00:51.810 --> 00:00:56.220
+Estamos tomando la transformada de Laplace, tan veces c1, f
+
+00:00:56.220 --> 00:01:01.480
+g t plus c2, de t--creo que sabes que es esto
+
+00:01:01.480 --> 00:01:04.410
+va--todos de ese dt.
+
+00:01:04.410 --> 00:01:09.820
+Y entonces que es igual a la integral de 0 a infinito.
+
+00:01:09.820 --> 00:01:12.780
+Vamos a distribuir sólo la e el negativo st.
+
+00:01:12.780 --> 00:01:15.350
+¿Que es igual a qué?
+
+00:01:15.350 --> 00:01:29.955
+Es igual a c1e hasta el menos st, f de t plus c2e a
+
+00:01:29.955 --> 00:01:38.560
+el signo menos st, g t, y todo eso veces dt.
+
+00:01:38.560 --> 00:01:42.220
+Y sólo por la definición de cómo las propiedades de
+
+00:01:42.220 --> 00:01:44.520
+integrales de trabajo, sabemos que tenemos esto podemos dividir en dos
+
+00:01:44.520 --> 00:01:45.650
+¿integrales, correctas?
+
+00:01:45.650 --> 00:01:49.170
+Si la integral de la suma de dos funciones es igual a la
+
+00:01:49.170 --> 00:01:50.580
+suma de sus integrales.
+
+00:01:50.580 --> 00:01:51.860
+Y estos son sólo constantes.
+
+00:01:51.860 --> 00:01:57.190
+Así que esto va a ser igual a c1 veces la integral de
+
+00:01:57.190 --> 00:02:04.860
+0 hasta el infinito de e a la menos st, tiempos f de t, d de
+
+00:02:04.860 --> 00:02:12.960
+t plus c2 veces la integral de 0 a infinito del e de la
+
+00:02:12.960 --> 00:02:17.840
+menos st, g t, dt.
+
+00:02:17.840 --> 00:02:21.880
+Y esta fue una manera de decir, muy largo aliento
+
+00:02:21.880 --> 00:02:22.410
+¿Qué es esto?
+
+00:02:22.410 --> 00:02:24.410
+Se trata de la transformada de Laplace de f de t.
+
+00:02:24.410 --> 00:02:26.060
+Se trata de la transformada de Laplace de g de t.
+
+00:02:26.060 --> 00:02:32.550
+Esto es igual a c1 veces la transformada de Laplace de f de
+
+00:02:32.550 --> 00:02:40.430
+t plus c2 veces--esto es la transformada de Laplace--la
+
+00:02:40.430 --> 00:02:45.110
+Transformada de Laplace de g de t.
+
+00:02:45.110 --> 00:02:48.730
+Y así, sólo hemos demostrado que es la transformada de Laplace
+
+00:02:48.730 --> 00:02:50.210
+¿un operador lineal, correcto?
+
+00:02:50.210 --> 00:02:53.030
+La transformada de Laplace de esto es igual a esto.
+
+00:02:53.030 --> 00:02:57.310
+Tan esencialmente, puede romper la suma de y tomar
+
+00:02:57.310 --> 00:02:59.830
+las constantes y solo tomar la transformada de Laplace.
+
+00:02:59.830 --> 00:03:01.720
+Que es útil saber algo, y es posible que tenga
+
+00:03:01.720 --> 00:03:03.260
+adivinado que fue el caso de todas formas.
+
+00:03:03.260 --> 00:03:05.150
+Pero ahora seguro que sabes.
+
+00:03:05.150 --> 00:03:08.640
+Ahora haremos algo que considero aún más
+
+00:03:08.640 --> 00:03:09.420
+interesante.
+
+00:03:09.420 --> 00:03:12.730
+Y esto realmente va a ser una gran pista sobre por qué
+
+00:03:12.730 --> 00:03:17.360
+Transformaciones de Laplace son extremadamente útiles para resolver
+
+00:03:17.360 --> 00:03:19.020
+ecuaciones diferenciales.
+
+00:03:19.020 --> 00:03:26.120
+Así que vamos a decir que quiero encontrar la transformada de Laplace de f
+
+00:03:26.120 --> 00:03:28.380
+primo de t.
+
+00:03:28.380 --> 00:03:31.050
+Así que tengo algunas f de t, aprovecho su derivado y luego
+
+00:03:31.050 --> 00:03:33.100
+desea que la transformada de Laplace de.
+
+00:03:33.100 --> 00:03:35.440
+Vamos a ver si podemos encontrar una relación entre la
+
+00:03:35.440 --> 00:03:37.840
+Transformada de Laplace de la derivada de una función, y
+
+00:03:37.840 --> 00:03:40.950
+la transformada de Laplace de la función.
+
+00:03:40.950 --> 00:03:44.180
+Así que vamos a utilizar algunos integración por partes aquí.
+
+00:03:46.700 --> 00:03:48.000
+Permítanme decir lo que es, en primer lugar.
+
+00:03:48.000 --> 00:03:55.360
+Esto es igual a la integral de 0 a infinito del e de la
+
+00:03:55.360 --> 00:04:03.390
+menos st, tiempos prime f de t, dt.
+
+00:04:03.390 --> 00:04:05.940
+Y para resolver esto, vamos a utilizar la integración por partes.
+
+00:04:05.940 --> 00:04:07.492
+Permítaseme escribirlo en la esquina, tan te
+
+00:04:07.492 --> 00:04:08.180
+Recuerde lo que es.
+
+00:04:08.180 --> 00:04:11.200
+Así que creo que memorizado, porque grabé que duran
+
+00:04:11.200 --> 00:04:13.305
+video no hace mucho tiempo.
+
+00:04:13.305 --> 00:04:14.200
+Voy a escribir esta forma abreviada.
+
+00:04:14.200 --> 00:04:20.149
+La integral de ustedes, bien, digamos primer uv, porque
+
+00:04:20.149 --> 00:04:25.390
+que coincidirá con lo que tenemos aquí mejor--es igual a
+
+00:04:25.390 --> 00:04:29.790
+ambas funciones sin los productos derivados, uv menos el
+
+00:04:29.790 --> 00:04:30.940
+integral de lo contrario.
+
+00:04:30.940 --> 00:04:32.720
+Así que lo contrario es u v principal.
+
+00:04:35.550 --> 00:04:38.550
+Así que aquí, la sustitución es bastante clara, ¿verdad?
+
+00:04:38.550 --> 00:04:43.460
+¿Porque queremos acabar con f de x, a la derecha?
+
+00:04:43.460 --> 00:04:46.880
+Así que vamos a hacer v prime es primo de f y vamos a hacer e u a
+
+00:04:46.880 --> 00:04:49.170
+el signo menos st. Así que vamos a hacer eso.
+
+00:04:49.170 --> 00:04:58.140
+u va a ser e a la menos st, y v va a
+
+00:04:58.140 --> 00:04:59.910
+¿igualdad de qué?
+
+00:04:59.910 --> 00:05:05.150
+v va a prime f igual de t.
+
+00:05:05.150 --> 00:05:14.070
+Y, a continuación, prime u sería menos se para al menos San Y
+
+00:05:14.070 --> 00:05:21.700
+¿Luego, v prime--oh, lo siento, esto es primo de v, derecho?
+
+00:05:21.700 --> 00:05:26.620
+primer v es primo de f de t, por lo que v sólo va a ser
+
+00:05:26.620 --> 00:05:27.720
+igual a f de t.
+
+00:05:27.720 --> 00:05:30.090
+Espero que no dije mal la primera vez.
+
+00:05:30.090 --> 00:05:31.270
+Pero ves lo que estoy diciendo.
+
+00:05:31.270 --> 00:05:37.650
+Esta es la u, que es la u, y esto es primo de v.
+
+00:05:37.650 --> 00:05:39.320
+Y si esto es v cebar, luego si fueras a tomar la
+
+00:05:39.320 --> 00:05:42.070
+primitiva de ambos lados, entonces v es igual a f de t.
+
+00:05:42.070 --> 00:05:45.490
+Así que vamos a aplicar integración por partes.
+
+00:05:45.490 --> 00:05:51.030
+Por lo tanto esta transformada de Laplace, que es esto, es igual a la uv,
+
+00:05:51.030 --> 00:06:01.470
+que es igual a e para el st negativo, tiempos v, f de t,
+
+00:06:01.470 --> 00:06:08.150
+menos la integral--y, por supuesto, vamos a tener que
+
+00:06:08.150 --> 00:06:10.570
+evaluar de 0 a infinito.
+
+00:06:10.570 --> 00:06:15.220
+Yo seguiré la integral impropia con
+
+00:06:15.220 --> 00:06:15.960
+nosotros todo el tiempo.
+
+00:06:15.960 --> 00:06:19.380
+No cambiar hacia adelante y hacia atrás entre la definitiva y
+
+00:06:19.380 --> 00:06:20.310
+integral indefinida.
+
+00:06:20.310 --> 00:06:22.590
+Lo menos esta parte.
+
+00:06:22.590 --> 00:06:28.650
+Así que prime la integral de 0 a infinito de ustedes.
+
+00:06:28.650 --> 00:06:36.640
+u primo es menos se negativo st veces v--
+
+00:06:36.640 --> 00:06:43.590
+v es f de t--dt.
+
+00:06:43.590 --> 00:06:43.790
+Ahora, vamos a ver.
+
+00:06:43.790 --> 00:06:45.275
+Tenemos un signo menos y un signo menos, vamos a hacer
+
+00:06:45.275 --> 00:06:47.390
+ambas de estas ventajas.
+
+00:06:47.390 --> 00:06:49.580
+Este s es solo una constante, por lo que nosotros podemos sacar.
+
+00:06:49.580 --> 00:07:02.150
+Por lo que es igual a e para el negativo st, f de t, evaluado
+
+00:07:02.150 --> 00:07:07.550
+desde 0 hasta el infinito, o como nos acercamos a infinito, además de s
+
+00:07:07.550 --> 00:07:13.890
+veces la integral de 0 a infinito de e a la menos st,
+
+00:07:13.890 --> 00:07:17.110
+f de t, dt.
+
+00:07:17.110 --> 00:07:19.070
+Y aquí vemos, ¿qué es esto?
+
+00:07:19.070 --> 00:07:22.230
+¿Esto es la transformada de Laplace de f de t, correcto?
+
+00:07:25.430 --> 00:07:27.010
+Vamos a evaluar esta parte.
+
+00:07:27.010 --> 00:07:29.310
+Cuando evaluamos en infinito, medida que nos acercamos
+
+00:07:29.310 --> 00:07:34.350
+infinito, e hasta el infinito negativo acerca a 0.
+
+00:07:34.350 --> 00:07:38.960
+f del infinito--ahora esto es una pregunta interesante.
+
+00:07:38.960 --> 00:07:40.180
+f de infinito--no sé.
+
+00:07:40.180 --> 00:07:43.570
+Que podría ser grande, que podría ser pequeño, que
+
+00:07:43.570 --> 00:07:46.400
+¿acerca de algún valor, derecho?
+
+00:07:46.400 --> 00:07:48.000
+Este enfoque 0, por lo que no estamos seguros.
+
+00:07:48.000 --> 00:07:51.970
+Si esto aumenta más rápido que esto acerca a 0, entonces esto
+
+00:07:51.970 --> 00:07:53.240
+se divergen.
+
+00:07:53.240 --> 00:07:55.920
+No voy a entrar en las matemáticas de si esto
+
+00:07:55.920 --> 00:07:59.180
+converge o diverge, pero digamos, en áspera
+
+00:07:59.180 --> 00:08:05.030
+términos, que esto se converge a 0 si f de t crece más lento
+
+00:08:05.030 --> 00:08:08.000
+a menos que se encoge st.
+
+00:08:08.000 --> 00:08:11.940
+Y tal vez más adelante vamos a hacer algunas definiciones más rigurosas
+
+00:08:11.940 --> 00:08:16.300
+de en qué condiciones será esto
+
+00:08:16.300 --> 00:08:17.810
+expresión realmente convergen.
+
+00:08:17.810 --> 00:08:23.290
+Pero supongamos que f de t crece más lentamente que e el st,
+
+00:08:23.290 --> 00:08:31.310
+o diverge más lento que esto converge, es otra forma
+
+00:08:31.310 --> 00:08:31.910
+para verlo.
+
+00:08:31.910 --> 00:08:35.070
+O esto crece más lentamente que este se reduce.
+
+00:08:35.070 --> 00:08:37.730
+Así que si esto crece más despacio que se encoge, entonces todo este
+
+00:08:37.730 --> 00:08:41.320
+expresión acercará a 0.
+
+00:08:41.320 --> 00:08:43.730
+Y, a continuación, desea restar esta expresión toda
+
+00:08:43.730 --> 00:08:45.180
+evaluado en 0.
+
+00:08:45.180 --> 00:08:52.805
+Tan e 0 es 1 veces f 0--por lo es justo f de 0--
+
+00:08:52.805 --> 00:08:57.030
+Además s veces--nos dijo, esto es la transformada de Laplace de f
+
+00:08:57.030 --> 00:08:58.810
+de t, que es nuestra definición--la Laplace
+
+00:08:58.810 --> 00:09:05.580
+transformación de f de t.
+
+00:09:05.580 --> 00:09:07.120
+Y ahora tenemos una propiedad interesante.
+
+00:09:07.120 --> 00:09:09.030
+¿Cuál fue la parte izquierda de todo lo que estábamos haciendo?
+
+00:09:09.030 --> 00:09:11.740
+La transformada de Laplace de prime f de t.
+
+00:09:11.740 --> 00:09:14.860
+Así que permítanme simplemente escribir todo otra vez.
+
+00:09:14.860 --> 00:09:15.850
+Y podrá cambiar de colores.
+
+00:09:15.850 --> 00:09:25.710
+La transformada de Laplace de prime f de t es igual a veces s
+
+00:09:25.710 --> 00:09:36.740
+la transformada de Laplace de f de t menos f de 0.
+
+00:09:36.740 --> 00:09:39.480
+Y ahora, vamos a simplemente extienda esto aún más.
+
+00:09:39.480 --> 00:09:41.090
+¿Cuál es la transformada de Laplace--y esto es un
+
+00:09:41.090 --> 00:09:44.800
+lo realmente útil saber--¿qué es transformar la Laplace
+
+00:09:44.800 --> 00:09:49.030
+¿f prime prime de t?
+
+00:09:49.030 --> 00:09:51.270
+¿Bien, podemos hacer una pequeña coincidencia aquí, derecho?
+
+00:09:51.270 --> 00:09:54.960
+Que va a ser a veces s la transformada de Laplace de su
+
+00:09:54.960 --> 00:09:59.000
+tiempos de la primitiva, la transformada de Laplace de prime f
+
+00:09:59.000 --> 00:10:02.750
+¿de t, correcto?
+
+00:10:02.750 --> 00:10:04.020
+Esto va a esto, que es una primitiva.
+
+00:10:04.020 --> 00:10:07.800
+Esto va a esto, que es una primitiva.
+
+00:10:07.800 --> 00:10:13.520
+¿Menos prime f 0, correcto?
+
+00:10:13.520 --> 00:10:16.780
+¿Pero luego lo la Laplace de esto?
+
+00:10:16.780 --> 00:10:21.720
+Esto va a ser igual a veces s la transformada de Laplace de
+
+00:10:21.720 --> 00:10:23.660
+prime f de t, pero ¿qué es eso?
+
+00:10:23.660 --> 00:10:26.560
+¿Esto, es derecho?
+
+00:10:26.560 --> 00:10:35.550
+Eso es s veces la transformada de Laplace de f de t, menos f
+
+00:10:35.550 --> 00:10:38.270
+¿de 0, correcto?
+
+00:10:38.270 --> 00:10:40.360
+Yo sólo sustituir esto con esto.
+
+00:10:40.360 --> 00:10:44.750
+Menos prime f 0.
+
+00:10:44.750 --> 00:10:47.380
+Y obtenemos la transformada de Laplace de la segunda
+
+00:10:47.380 --> 00:10:51.700
+derivada es igual a s squared times el Laplace
+
+00:10:51.700 --> 00:11:01.590
+transformación de nuestra función, f de t, menos s veces f 0,
+
+00:11:01.590 --> 00:11:04.430
+menos prime f 0.
+
+00:11:04.430 --> 00:11:05.840
+Y creo que estamos empezando a ver un patrón aquí.
+
+00:11:05.840 --> 00:11:10.530
+Esto es la transformada de Laplace de primer primo de f de t.
+
+00:11:10.530 --> 00:11:12.240
+Y creo que está empezando a ver por qué la Laplace
+
+00:11:12.240 --> 00:11:13.390
+la transformación es útil.
+
+00:11:13.390 --> 00:11:17.910
+Convierte derivados en multiplicaciones por f.
+
+00:11:17.910 --> 00:11:20.510
+Y en realidad, como se verá más adelante, resulta integración
+
+00:11:20.510 --> 00:11:22.330
+divisiones por s.
+
+00:11:22.330 --> 00:11:26.070
+Y puede tomar derivados arbitrarias y sólo mantener
+
+00:11:26.070 --> 00:11:27.290
+multiplicando por s.
+
+00:11:27.290 --> 00:11:28.000
+Y ve este patrón.
+
+00:11:28.000 --> 00:11:29.610
+Y estoy quedando sin tiempo.
+
+00:11:29.610 --> 00:11:31.310
+Pero dejaré hasta usted averiguar qué la Laplace
+
+00:11:31.310 --> 00:11:33.790
+es la transformación de la tercera derivada de f.
+
+00:11:33.790 --> 00:11:35.990
+Nos vemos en el siguiente vídeo.

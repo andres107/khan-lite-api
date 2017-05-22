@@ -1,0 +1,585 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.890 --> 00:00:02.680
+Veamos si podemos aprender una o dos cosas acerca de
+
+00:00:02.680 --> 00:00:04.070
+secciones cónicas.
+
+00:00:04.070 --> 00:00:06.240
+Primero, qué son y por qué se
+
+00:00:06.240 --> 00:00:07.630
+llaman secciones cónicas?
+
+00:00:07.630 --> 00:00:09.480
+En realidad, probablemente ya conozcas algunas de ellas
+
+00:00:09.480 --> 00:00:11.130
+y las voy a escribir.
+
+00:00:11.130 --> 00:00:22.070
+Son el círculo, la elipse, la parábola
+
+00:00:22.070 --> 00:00:23.668
+y la hypérbola
+
+00:00:29.420 --> 00:00:29.920
+esa es una p
+
+00:00:29.920 --> 00:00:31.040
+Hypérbola
+
+00:00:31.040 --> 00:00:33.750
+y ya sabes que son
+
+00:00:33.750 --> 00:00:35.590
+cuando aprendi sobre secciones conicas, yo decia, oh
+
+00:00:35.590 --> 00:00:36.540
+yo sé lo que es un círculo
+
+00:00:36.540 --> 00:00:37.660
+yo sé lo que es una parábola
+
+00:00:37.660 --> 00:00:40.120
+y hasta sé un poco acerca de elipses e hypérbolas
+
+00:00:40.120 --> 00:00:42.710
+pero por qué se llaman secciones cónicas?
+
+00:00:42.710 --> 00:00:46.450
+Entonces para hacerlo simple, es porque son la intersección
+
+00:00:46.450 --> 00:00:47.760
+de un plano y un cono
+
+00:00:47.760 --> 00:00:49.150
+Y en un momento lo voy a dibujar
+
+00:00:49.150 --> 00:00:51.260
+pero antes de eso, probablemente tendría mas sentido
+
+00:00:51.260 --> 00:00:53.360
+dibujarlas por separado
+
+00:00:53.360 --> 00:00:54.610
+y voy a cambiar de colores
+
+00:00:54.610 --> 00:00:56.360
+Círculo, todos sabemos lo que es.
+
+00:00:56.409 --> 00:01:00.540
+En realidad déjenme ver si puedo escoger una línea más gruesa
+
+00:01:00.540 --> 00:01:03.010
+para mis círculos
+
+00:01:03.010 --> 00:01:05.620
+Entonces un círculo luce algo así.
+
+00:01:05.620 --> 00:01:09.420
+Son todos los puntos equidistantes de algún centro
+
+00:01:09.420 --> 00:01:12.610
+y a esa distancia es el radio
+
+00:01:12.610 --> 00:01:17.130
+entonces si esto es r y este es el centro, el círculo es todos
+
+00:01:17.130 --> 00:01:19.926
+los puntos que estan exactamente "r" lejos del centro
+
+00:01:19.926 --> 00:01:21.814
+Lo aprendimos antes en nuestra educación
+
+00:01:25.214 --> 00:01:29.383
+Una elipse es como un círculo aplastado
+
+00:01:29.392 --> 00:01:31.564
+Puede ser más o menos así
+
+00:01:33.149 --> 00:01:35.895
+Haré la elipse en otro color
+
+00:01:36.233 --> 00:01:39.788
+Podría ser así o así
+
+00:01:41.588 --> 00:01:43.229
+También pueden estar inclinadas
+
+00:01:43.229 --> 00:01:44.513
+Pero generalmente ésta es la forma
+
+00:01:44.513 --> 00:01:46.899
+Y realmente los círculos son un caso especial de
+
+00:01:46.899 --> 00:01:49.804
+una elipse. Es una elipse que no está estirada
+
+00:01:49.804 --> 00:01:52.166
+en una dimensión más que en la otra
+
+00:01:56.074 --> 00:01:58.396
+Han aprendido sobre parábolas si están tomando
+
+00:01:58.396 --> 00:02:01.784
+Álgebra 2 y probablemente también si les importan
+
+00:02:01.784 --> 00:02:04.431
+las secciones cónicas pero una parábola
+
+00:02:04.431 --> 00:02:07.842
+Dibujaré líneas aquí para separar
+
+00:02:07.842 --> 00:02:10.632
+Una parábola se ve así
+
+00:02:10.632 --> 00:02:13.034
+con forma de U
+
+00:02:17.403 --> 00:02:18.889
+Probablemente estén familiarizados con la ecuación
+
+00:02:18.889 --> 00:02:20.622
+que es y es igual a x al cuadrado
+
+00:02:21.022 --> 00:02:25.225
+Puede estar al revés y se vería así
+
+00:02:25.225 --> 00:02:27.561
+Eso significa x es igual a y al cuadrado
+
+00:02:27.561 --> 00:02:29.689
+También pueden darle vuelta a esto
+
+00:02:29.689 --> 00:02:32.341
+Pero creo que ustedes saben la forma general
+
+00:02:32.341 --> 00:02:33.285
+de una parábola
+
+00:02:33.285 --> 00:02:35.305
+Hablaremos más de cómo se grafica
+
+00:02:35.305 --> 00:02:38.682
+o de cómo saber cuáles son los puntos de una parábola
+
+00:02:38.682 --> 00:02:40.713
+Y la última también la han visto antes
+
+00:02:40.713 --> 00:02:42.693
+es una hipérbola
+
+00:02:42.693 --> 00:02:44.581
+Es casi como dos parábolas pero
+
+00:02:44.581 --> 00:02:48.851
+no exactamente porque las curvas son un poco menos
+
+00:02:48.851 --> 00:02:51.796
+en forma de U. Son más abiertas.
+
+00:02:51.796 --> 00:02:54.208
+Pero ahora les explico a qué me refiero.
+
+00:02:54.208 --> 00:02:56.542
+La hipérbola se ve así
+
+00:02:56.542 --> 00:02:58.543
+estos son los ejes
+
+00:03:03.466 --> 00:03:08.211
+y ahora dibujaré las asíntotas
+
+00:03:08.211 --> 00:03:13.546
+justo a través del centro
+
+00:03:13.546 --> 00:03:17.566
+Éstas sólo son las asíntotas, no la hipérbola.
+
+00:03:17.566 --> 00:03:19.431
+Una hipérbola se vería algo así
+
+00:03:25.077 --> 00:03:26.760
+está cerca de las asíntotas
+
+00:03:26.760 --> 00:03:30.914
+cerca de esas líneas azules
+
+00:03:30.914 --> 00:03:33.219
+la dibujaré de este lado también
+
+00:03:39.773 --> 00:03:44.942
+Otra hipérbola puede ser vertical
+
+00:03:44.942 --> 00:03:46.882
+y se vería así
+
+00:03:46.882 --> 00:03:50.567
+está abajo de las asíntotas
+
+00:03:50.567 --> 00:03:53.643
+y allí, arriba de las asíntotas
+
+00:03:53.643 --> 00:03:56.732
+Entonces la azul sería una hipérbola
+
+00:03:56.732 --> 00:03:58.845
+Y la magenta sería una hipérbola diferente
+
+00:03:58.845 --> 00:04:02.143
+Ésas son las diferentes gráficas
+
+00:04:02.143 --> 00:04:04.001
+De seguro se están preguntando por qué
+
+00:04:04.001 --> 00:04:05.345
+son llamadas "secciones cónicas" y no
+
+00:04:05.345 --> 00:04:08.794
+bolas o variaciones de círculos
+
+00:04:08.794 --> 00:04:13.327
+pero la verdad es que la relación es bastante
+
+00:04:13.327 --> 00:04:15.424
+obvia entre círculos y elipses
+
+00:04:17.255 --> 00:04:20.761
+y talvez hasta parezca que las parábolas y las hipérbolas
+
+00:04:20.761 --> 00:04:23.574
+están relacionadas de alguna forma
+
+00:04:23.574 --> 00:04:25.225
+ambas tienen "bola" en su nombre
+
+00:04:25.225 --> 00:04:28.846
+y tienen forma de U
+
+00:04:28.846 --> 00:04:30.916
+aunque la hipérbola tiene dos y van en distintas
+
+00:04:30.916 --> 00:04:31.831
+direcciones
+
+00:04:31.831 --> 00:04:34.495
+Pero cuál es la relación entre todas?
+
+00:04:34.495 --> 00:04:38.465
+Y allí es de donde la palabra "cónica" proviene
+
+00:04:38.465 --> 00:04:43.062
+Veamos si puedo dibujar un cono tridimensional.
+
+00:04:43.062 --> 00:04:46.711
+Entonces éste es un cono...
+
+00:04:46.711 --> 00:04:49.376
+Esa es la parte de arriba
+
+00:04:56.668 --> 00:05:02.332
+No tiene final acá. Seguiría al infinito en esa dirección.
+
+00:05:02.332 --> 00:05:04.815
+Yo lo estoy partiendo para que vean que es un cono.
+
+00:05:04.815 --> 00:05:06.867
+Ésta sería la parte de abajo...
+
+00:05:06.867 --> 00:05:11.973
+Tomemos intersecciones diferentes de este cono.
+
+00:05:11.973 --> 00:05:14.968
+Veamos si podemos generar las diferentes formas
+
+00:05:14.968 --> 00:05:16.400
+de las que recién hablamos.
+
+00:05:16.400 --> 00:05:18.765
+Entonces tenemos un plano que va directamente
+
+00:05:18.765 --> 00:05:23.599
+por el eje de este cono tridimensional
+
+00:05:23.599 --> 00:05:26.598
+Si tenemos un plano que es exactamente
+
+00:05:26.598 --> 00:05:28.227
+perpendicular a ese eje
+
+00:05:30.935 --> 00:05:32.965
+Un plano tridimensional se vería así...
+
+00:05:32.965 --> 00:05:39.030
+Ésta es la línea del frente
+
+00:05:39.030 --> 00:05:45.695
+despúes tenemos otra línea acá atrás
+
+00:05:45.695 --> 00:05:49.432
+Todos sabemos que estos planos son infinitos
+
+00:05:49.432 --> 00:05:55.197
+Si este plano es perpendicular al eje
+
+00:05:55.197 --> 00:05:58.447
+la intersección de este plano y el cono va a ser
+
+00:05:58.447 --> 00:06:01.401
+así
+
+00:06:01.401 --> 00:06:03.650
+Si estuvieran viéndolo desde arriba
+
+00:06:09.235 --> 00:06:11.855
+Si le diera vuelta así
+
+00:06:14.485 --> 00:06:16.287
+La intersección sería
+
+00:06:16.287 --> 00:06:20.543
+un círculo, pero si tomamos nuestro plano y
+
+00:06:20.543 --> 00:06:22.181
+lo volteáramos un poco
+
+00:06:22.181 --> 00:06:28.094
+entonces tendríamos una situación así...
+
+00:06:38.678 --> 00:06:45.031
+tendría un lado así, y otro así
+
+00:06:45.031 --> 00:06:46.626
+luego los conecto
+
+00:06:48.349 --> 00:06:50.042
+entonces ese es el plano
+
+00:06:50.042 --> 00:06:55.715
+la intersección de este plano, que no es ortogonal
+
+00:06:55.715 --> 00:07:00.383
+ni perpendicular al eje de este cono tridimensional
+
+00:07:00.383 --> 00:07:02.924
+si tomamos la intersección del plano y el cono
+
+00:07:02.924 --> 00:07:05.146
+en los próximos videos no haremos el cono
+
+00:07:05.146 --> 00:07:12.677
+pero sí haremos las ecuaciones que les mostraré luego
+
+00:07:12.677 --> 00:07:14.809
+esta intersección se vería algo así
+
+00:07:14.809 --> 00:07:16.378
+creo que la pueden visualizar ahora
+
+00:07:16.378 --> 00:07:18.684
+sería algo así
+
+00:07:21.946 --> 00:07:25.813
+y si vieran este plano por arriba
+
+00:07:25.813 --> 00:07:33.294
+esto se vería algo así
+
+00:07:33.294 --> 00:07:35.026
+bueno, no me salió tan bien
+
+00:07:35.026 --> 00:07:37.076
+pero sería una elipse, ustedes saben cómo es
+
+00:07:37.076 --> 00:07:41.773
+y si volteara el plano, la elipse se vería aplastada
+
+00:07:41.773 --> 00:07:43.899
+de diferente forma
+
+00:07:43.899 --> 00:07:46.580
+eso puede explicar por qué ambas son secciones cónicas
+
+00:07:46.580 --> 00:07:49.211
+Ahora, algo bien interesante es que si seguimos
+
+00:07:49.211 --> 00:07:51.108
+volteando este plano
+
+00:07:58.170 --> 00:08:00.625
+veamos si puedo hacer esto
+
+00:08:00.625 --> 00:08:03.116
+es buen ejercicio para dibujar en 3D
+
+00:08:03.116 --> 00:08:05.982
+Digamos que se ve algo así
+
+00:08:05.982 --> 00:08:09.711
+quiero que atraviese ese punto...
+
+00:08:09.711 --> 00:08:13.525
+Este es mi plano tridimencional
+
+00:08:13.525 --> 00:08:16.298
+Lo estoy dibujando de una manera en la que sólo
+
+00:08:16.298 --> 00:08:18.266
+toque al cono de abajo
+
+00:08:18.266 --> 00:08:22.581
+la superficie del plano es paralela al lado de este
+
+00:08:22.581 --> 00:08:23.748
+cono de arriba
+
+00:08:23.748 --> 00:08:25.862
+En este caso la intersección del plano y el cono
+
+00:08:25.862 --> 00:08:27.845
+va a estar justo en este punto
+
+00:08:32.183 --> 00:08:39.893
+La intersección se vería algo así...
+
+00:08:43.431 --> 00:08:49.582
+Si lo vieramos desde arriba sería algo así
+
+00:08:49.582 --> 00:08:51.727
+Y allí tienen una parábola
+
+00:08:51.727 --> 00:08:56.605
+es interesante cómo si siguen volteando el plano
+
+00:08:56.605 --> 00:09:06.976
+tienen una elipse, y luego se abre
+
+00:09:06.976 --> 00:09:12.327
+justo cuando está paralelo al cono de arriba
+
+00:09:12.327 --> 00:09:16.258
+mi dibujo no está exacto pero la elipse se abre
+
+00:09:16.258 --> 00:09:17.898
+y se convierte en una parábola
+
+00:09:17.898 --> 00:09:19.745
+así que sí tienen relación
+
+00:09:19.745 --> 00:09:22.347
+La parábola es lo que pasa cuando un lado de la
+
+00:09:22.347 --> 00:09:24.267
+elipse se abre
+
+00:09:24.267 --> 00:09:30.016
+Y si seguimos volteando este plano
+
+00:09:30.016 --> 00:09:31.982
+lo haré en otro color
+
+00:09:31.982 --> 00:09:35.480
+Intersecta ambos lados del cono
+
+00:09:35.480 --> 00:09:38.427
+veamos si puedo dibujarlo...
+
+00:09:38.427 --> 00:09:42.648
+éste es mi nuevo plano
+
+00:09:45.079 --> 00:09:49.078
+se ve así, sé que cuesta verlo ahora
+
+00:09:49.078 --> 00:09:52.465
+entonces las intersecciones de este cono
+
+00:09:52.465 --> 00:09:53.780
+probablemente debería volver a dibujarlo todo
+
+00:09:53.780 --> 00:09:56.880
+pero espero que no se estén confundiendo tanto
+
+00:09:56.880 --> 00:09:59.261
+esta intersección se vería así
+
+00:09:59.261 --> 00:10:01.431
+tocaría al cono de abajo allí
+
+00:10:01.431 --> 00:10:04.291
+y al de arriba acá
+
+00:10:04.291 --> 00:10:07.646
+entonces tendrían algo así
+
+00:10:07.646 --> 00:10:10.727
+ésta sería la intersección del cono de abajo
+
+00:10:10.727 --> 00:10:13.745
+y luego acá arriba estaría la intersección del
+
+00:10:13.745 --> 00:10:14.646
+cono de arriba
+
+00:10:14.646 --> 00:10:15.976
+recuerden que este plano va en toda dirección
+
+00:10:15.976 --> 00:10:19.079
+hacia el infinito
+
+00:10:19.079 --> 00:10:20.480
+Este es un sentido general de lo que son
+
+00:10:20.480 --> 00:10:21.962
+secciones cónicas
+
+00:10:21.962 --> 00:10:25.079
+y por qué se llaman así
+
+00:10:25.079 --> 00:10:26.960
+Díganme si esto se puso confuso porque
+
+00:10:26.960 --> 00:10:29.013
+talvez lo haga de nuevo
+
+00:10:29.013 --> 00:10:31.983
+y lo dibuje mejor o encuentre una aplicación
+
+00:10:31.983 --> 00:10:33.726
+3D que lo haga mejor que yo
+
+00:10:33.726 --> 00:10:37.807
+pero esta es la razón por la cuál son
+
+00:10:37.807 --> 00:10:39.797
+secciones cónicas y están relacionadas
+
+00:10:39.797 --> 00:10:41.058
+entre sí mismas
+
+00:10:41.058 --> 00:10:42.839
+lo haremos más matematico en los próximos videos
+
+00:10:42.839 --> 00:10:44.796
+pero en el próximo, ahora que ya saben
+
+00:10:44.796 --> 00:10:46.673
+qué son y por qué son llamadas
+
+00:10:46.673 --> 00:10:47.913
+secciones cónicas
+
+00:10:47.913 --> 00:10:51.919
+les enseñaré sobre las fórmulas de esto y cómo reconocerlas
+
+00:10:52.011 --> 00:10:53.693
+cómo se hacen las gráficas de estas
+
+00:10:53.693 --> 00:10:55.793
+secciones cónicas
+
+00:10:55.793 --> 00:10:58.000
+hasta el próximo video

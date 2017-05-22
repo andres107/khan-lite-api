@@ -1,0 +1,375 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.825 --> 00:00:04.406
+Ahora que tenemos nuestra parametrización justo hasta aquí
+
+00:00:04.406 --> 00:00:08.588
+vamos a ponernos con el asunto de evaluar esta superficie integral
+
+00:00:08.588 --> 00:00:11.274
+Y es un poco complicado, pero lo intentaremos y lo haremos paso a paso.
+
+00:00:11.274 --> 00:00:15.042
+Entonces, lo primero que haré será entender qué es un D Sigma
+
+00:00:15.042 --> 00:00:19.292
+En términos de S y T, en términos de nuestros parámetros.
+
+00:00:19.292 --> 00:00:25.974
+Entonces podemos transformar todo esto en una doble integral en el plano S-T
+
+00:00:25.974 --> 00:00:32.939
+y recordar que D Sigma es sólo una pequeña parte de la superficie.
+
+00:00:32.939 --> 00:00:39.747
+y vimos en videos anteriores, en los que aprendimos qué es una superficie integral
+
+00:00:39.747 --> 00:00:48.098
+Vimos que D Sigma, hasta aquí, es equivalente a la magnitud del producto cruzado
+
+00:00:48.098 --> 00:00:52.705
+del partial de nuestra parametrización con respecto a un parámetro
+
+00:00:52.705 --> 00:00:57.590
+cruzado con la parametrización con respecto a otro parámetro
+
+00:00:57.590 --> 00:01:00.949
+de tiempo de otro parámetro de cada parámetro
+
+00:01:00.949 --> 00:01:02.596
+Por lo que esto es lo que vamos a usar, justo aquí
+
+00:01:02.596 --> 00:01:06.140
+y es una declaración aparentemente simple, pero como veremos
+
+00:01:06.140 --> 00:01:09.258
+resolver productos cruzados tiende a ser un poco lioso
+
+00:01:09.258 --> 00:01:11.825
+especialmente en productos cruzados de vectores tridimensionales.
+
+00:01:11.825 --> 00:01:13.201
+Pero lo haremos paso por paso
+
+00:01:13.201 --> 00:01:18.069
+pero primero cogeremos incluso el producto cruzado que tenemos primero para coger el parcial de este con respecto a S
+
+00:01:18.069 --> 00:01:20.758
+y entonces el parcial de este con respecto a T
+
+00:01:20.758 --> 00:01:24.092
+Entonces primero cogemos el parcial con respecto a S
+
+00:01:24.092 --> 00:01:26.907
+El parcial de R con respecto a S
+
+00:01:26.907 --> 00:01:30.885
+Entonces, justo aquí, todo esto de la T, puedes ver que es como una constante
+
+00:01:30.885 --> 00:01:36.773
+Entonces Coseno de T no va a cambiar, el derivado de Coseno de S con respecto a S
+
+00:01:36.773 --> 00:01:45.168
+es negativo Seno de S, entonces esto va a ser igual al negativo coseno de T veces Seno de S
+
+00:01:45.168 --> 00:01:48.107
+(Todo lo que la pertenece a T estará en morando)
+
+00:01:48.107 --> 00:01:54.439
+(los vectores en naranja)
+
+00:01:54.439 --> 00:01:57.522
+Entonces I y más...
+
+00:01:57.522 --> 00:02:02.175
+Y vamos a coger la derivada con respecto a S, Coseno de T es sólo una constante
+
+00:02:02.175 --> 00:02:05.068
+Derivado de Seno de S con respecto a S es Coseno de S
+
+00:02:05.068 --> 00:02:15.718
+Entonces esto será más Coseno de T "veces" Coseno de S
+
+00:02:15.718 --> 00:02:24.439
+Entonces J, y después más la derivada de éste con respecto a S
+
+00:02:24.439 --> 00:02:28.765
+Bien, ésto es sólo una constante, la derivada de 5 con respecto a S debería ser sólo cero.
+
+00:02:28.765 --> 00:02:32.725
+Esto no cambia con respecto a S
+
+00:02:32.725 --> 00:02:36.689
+Nuestro parcial con respecto a S es cero
+
+00:02:36.689 --> 00:02:42.974
+Entonces sólo escribiremos aquí "cero K"
+
+00:02:42.974 --> 00:02:47.421
+y es agradable de ver, porque será lo que haga nuestro producto cruzado un poco más sencillo
+
+00:02:47.421 --> 00:03:02.125
+Ahora hagamos el parcial con respecto a T
+
+00:03:02.125 --> 00:03:04.096
+Entonces la derivada de esto con respecto a T
+
+00:03:04.096 --> 00:03:10.023
+Ahora Coseno de S es una constante, la derivada de Coseno de T con respecto a T es menos Seno de T
+
+00:03:10.023 --> 00:03:20.480
+Entonces esto será menos Seno de T "veces" Coseno de S
+
+00:03:20.480 --> 00:03:26.886
+"veces" I, más...
+
+00:03:26.886 --> 00:03:31.637
+Ahora la derivada de éste con respecto a T, la derivada de Coseno de T es menos Seno de T
+
+00:03:31.637 --> 00:03:42.265
+Entonces, otra vez, tenemos menos Seno de T "veces" Seno de S
+
+00:03:42.265 --> 00:03:45.772
+Ya me duele la mano con esto, es un problema doloroso..
+
+00:03:45.772 --> 00:03:52.170
+Ahora J, + la derivada de Seno de T con respecot a T es sólo el Coseno de T
+
+00:03:52.170 --> 00:03:57.546
+Entonces, + Coseno de T
+
+00:03:57.546 --> 00:04:00.101
+y ahora "veces" de K vector unitario
+
+00:04:00.101 --> 00:04:05.133
+Ahora estamos preparados para coger el producto cruzado de estos dos caracteres de aquí
+
+00:04:05.133 --> 00:04:28.367
+para llevarlos al producto cruzado donde vamos a construir esta matriz tres por tres
+
+00:04:28.367 --> 00:04:31.296
+y escribiremos mi vector unitario aquí arriba
+
+00:04:31.296 --> 00:04:33.483
+I, J, K...
+
+00:04:33.483 --> 00:04:39.157
+/así es como me gusta recordar como coger productos cruzados de vectores tridimensionales,
+
+00:04:39.157 --> 00:04:42.323
+para cogere la determinante de esta matriz tres por tres)
+
+00:04:42.323 --> 00:04:44.037
+La primera línea es sólo nuestro vector unitario
+
+00:04:44.037 --> 00:04:47.683
+la segunda es el primer vector que estoy cogiendo como producto cruzado de
+
+00:04:47.683 --> 00:05:07.430
+entonces sólo voy a reescribir el mayor vector justo aquí
+
+00:05:07.430 --> 00:05:11.136
+y la última parte es cero, lo cuál simplificará nuestros cálculos
+
+00:05:11.136 --> 00:05:20.556
+y entonces tendrás el siguiente vector, esto es la tercera fila
+
+00:05:20.556 --> 00:05:22.668
+te animo a hacer esto por tu cuenta si ya sabes a dónde va a parar todo esto.
+
+00:05:22.668 --> 00:05:23.601
+es una buena manera de practicar
+
+00:05:23.601 --> 00:05:27.484
+incluso si tienes que ver esto entero para ver como está hecho intenta hacerlo otra vez solo
+
+00:05:27.484 --> 00:05:41.225
+esta es una de esas cosas que realmente tienes que hacer por ti mismo para comprenderlo
+
+00:05:41.225 --> 00:05:44.901
+entonces cogemos el determinante ahora
+
+00:05:44.901 --> 00:05:46.750
+primero pensaremos sobre nuestro componente I
+
+00:05:46.750 --> 00:05:51.169
+deberías ignorar esta columna, la primera columna y la primera fila
+
+00:05:51.169 --> 00:05:55.463
+y entonces coger el determinante de esta sub matriz justo aquí
+
+00:05:55.463 --> 00:06:16.973
+I, "veces" de algo (normalmente ves que ese algo delante de I, pero puedes cambiarlo)
+
+00:06:16.973 --> 00:06:24.693
+voy a escribir un poco más ordenado
+
+00:06:24.693 --> 00:06:29.725
+Lo último será sustraer cero veces aquello, pero podría dar cero, entonces no lo escribimos
+
+00:06:29.725 --> 00:06:32.389
+ahora vamos a a hacer la componente de J, pero recordarás probablemente el tablero de ajedrez
+
+00:06:32.389 --> 00:06:35.141
+cuando tienes que evaluar matrices tres por tres
+
+00:06:35.141 --> 00:06:44.048
+positivo, negativo, positivo, entonces tienes una J negativa "veces" algo
+
+00:06:44.048 --> 00:07:00.467
+Entonces ignoras las columnas J, las filas J
+
+00:07:00.467 --> 00:07:18.220
+asegurémonos de que estoy haciéndolo bien
+
+00:07:18.220 --> 00:07:21.920
+finalmente tienes la componente K, y de nuevo vuelves al positivo allí
+
+00:07:21.920 --> 00:07:24.157
+positivo, negativo, positivo en los coeficientes
+
+00:07:24.157 --> 00:07:26.739
+esto es sólo para evaluar matrices tres por tres
+
+00:07:26.739 --> 00:07:32.256
+entonces tienes + K "veces"... y esto debería volverse un poco más complicado...
+
+00:07:32.256 --> 00:07:34.038
+hasta que no tengamos el cero para ayudarnos
+
+00:07:34.038 --> 00:08:13.494
+ignora esta fila, ignora esta columna, coge el determinante de este sub dos por dos
+
+00:08:13.494 --> 00:08:27.895
+Déjame desplazarme a la derecha un poquito...
+
+00:08:27.895 --> 00:08:32.229
+Esto vuelve a ser un poco lioso, pero parece que hay una simplicación
+
+00:08:32.229 --> 00:08:33.728
+es por esto que los colores ayudan
+
+00:08:33.728 --> 00:08:38.222
+tengo ahora problemas haciendo ahora matemáticas en otra cosa que no sean colores pastel
+
+00:08:38.222 --> 00:08:41.530
+hace mucho más sencillo ver los patrones
+
+00:08:41.530 --> 00:08:46.748
+lo que podemos hacer es resolver el Coseno de T "veces" seno de T
+
+00:08:46.748 --> 00:08:57.152
+entonces esto es igual al Coseno de T seno de T "veces" seno cuadrado de S + Coseno cuadrado de S
+
+00:08:57.152 --> 00:09:01.816
+Y esto lo sabemos, la definición de círculo unitario, esto es igual a 1
+
+00:09:01.816 --> 00:09:04.604
+Esto es una gran simplificación
+
+00:09:04.604 --> 00:09:08.071
+Ahora cogemos nuestro producto cruzado, lo convertimos igual a
+
+00:09:08.071 --> 00:09:18.690
+nuestro producto cruzado R sub S cruzado con R sub T va a ser igual a
+
+00:09:18.690 --> 00:09:45.336
+Coseno cuadrado T Coseno S " veces" nuestro Vector unitario I + Coseno cuadrado T Seno de S "veces" nuestro vector unitario J
+
+00:09:45.336 --> 00:09:57.719
++ (Todo lo dejamos a un lado, porque esto es sólo uno) Coseno de T seno de T
+
+00:09:57.719 --> 00:10:02.139
+"veces" nuestro vector unitario K
+
+00:10:02.139 --> 00:10:04.604
+Entonces esto es muy buento, pero aún no está terminado
+
+00:10:04.604 --> 00:10:07.058
+necesitamos resolver la magnitud de esto
+
+00:10:07.058 --> 00:10:11.471
+recuerda: D sigma simplificado a la magnitud de esto "veces" dsdt
+
+00:10:11.471 --> 00:10:13.564
+Entonces resolvamos cuál es la magnitud de esto
+
+00:10:13.564 --> 00:10:18.587
+Esto es algo complicado, estoy cruzando los dedos para no haber cometido ningún error
+
+00:10:18.587 --> 00:10:26.682
+Entonces la magnitud de esto debe ser igua a:
+
+00:10:26.682 --> 00:10:34.565
+el cuadrado raiz de la sum de los cuadrados de cada uno de esos términos
+
+00:10:34.565 --> 00:10:45.465
+entonces lo primero será Coseno de la cuarta T coseno cuadrado de S
+
+00:10:45.465 --> 00:10:55.216
++ Coseno de la cuarta T Seno cuadrado de S
+
+00:10:55.216 --> 00:11:02.453
++ Coseno cuadrado T Seno cuadrado T
+
+00:11:02.453 --> 00:11:13.181
+ahora el primer patron que veo es esta primera parte, podemos resolver el Coseno da la cuarta T
+
+00:11:13.181 --> 00:11:23.877
+Estos primeros dos términos son iguales al Coseno de la cuarta T " veces" coseno cuadrado de S + Seno cuadrado de S
+
+00:11:23.877 --> 00:11:27.496
+El cuál de nuevo sabemos que es sólo uno
+
+00:11:27.496 --> 00:11:30.815
+entonces toda esta expresión se ha simplificado a Coseno de la cuarta T
+
+00:11:30.815 --> 00:11:35.475
++ coseno cuadrado de T seno cuadrado de T
+
+00:11:35.475 --> 00:11:41.730
+Ahora podemos intentar simplicar esto otra vez porque estos dos términos tienen Coseno cuadrado de T en ellos
+
+00:11:41.730 --> 00:11:44.492
+Resolvamos aquellos
+
+00:11:44.492 --> 00:11:46.422
+(todo lo estoy haciendo valo el signo radical)
+
+00:11:46.422 --> 00:11:55.903
+Entonces esto es igual a Coseno cuadrado T "veces" coseno cuadrado T
+
+00:11:55.903 --> 00:12:01.075
+y cuando resulevos el Coseno cuadrado T tienes + Seno cuadrado T
+
+00:12:01.075 --> 00:12:04.146
+y está genial porque simplificas de nuevo a uno.
+
+00:12:04.146 --> 00:12:10.693
+(Todo esto con signo radical, seguiré dibujándolo aquí para que se vea que está bajo signo radical)
+
+00:12:10.693 --> 00:12:17.743
+Esto es realmente útil para nosotros porque el cuadrado raiz de Coseno cuadrado de T es sólo Coseno de T
+
+00:12:17.743 --> 00:12:22.791
+Entonces TODO este real y finalmente simplifica a algo muy sencillo
+
+00:12:22.791 --> 00:12:30.142
+Todo esto será igual a Coseno de T
+
+00:12:30.142 --> 00:12:34.863
+Volviendo atrás a lo que queríamos antes, si queremos reescribir qué es D sigma
+
+00:12:34.863 --> 00:12:37.510
+Es sólo Coseno T, dsdt
+
+00:12:37.510 --> 00:12:39.158
+Déjame que lo escriba bajo..
+
+00:12:39.158 --> 00:12:48.389
+D sigma es igual a Coseno de T dsdt
+
+00:12:48.389 --> 99:59:59.999
+Y te veré en la parte siguiente

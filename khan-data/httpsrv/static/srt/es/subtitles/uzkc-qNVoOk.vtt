@@ -1,0 +1,423 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.700 --> 00:00:06.378
+Lo que quiero hacer en este vídeo es darte una revisión básica del concepto de probabilidad.
+
+00:00:06.479 --> 00:00:09.792
+Probabilidad, una palabra que "probablemente" hayas escuchado un montón
+
+00:00:09.847 --> 00:00:11.948
+y estés "probablemente" un poco familiarizado con ella.
+
+00:00:12.056 --> 00:00:14.879
+Pero espero llevarte a una comprensión un poco más profunda.
+
+00:00:14.925 --> 00:00:20.062
+Así que digamos que tengo una moneda "sin trampa".
+
+00:00:20.062 --> 00:00:21.508
+Cuando hablo de una moneda "sin trampa"
+
+00:00:21.508 --> 00:00:26.823
+me refiero a que tiene las mismas posibilidades de caer sobre una cara o la otra.
+
+00:00:26.823 --> 00:00:28.908
+Tal vez puedas verlo como que los lados son iguales,
+
+00:00:28.908 --> 00:00:31.342
+el peso es el mismo en cada lado,
+
+00:00:31.342 --> 00:00:36.085
+de forma que si la lanzo al aire, no es más probable que salga un lado o el otro.
+
+00:00:36.085 --> 00:00:37.574
+Son igualmente probables.
+
+00:00:37.574 --> 00:00:39.475
+Así que tenemos tenemos un lado de esta moneda
+
+00:00:39.475 --> 00:00:41.569
+que podría ser la cara, supongo
+
+00:00:41.569 --> 00:00:43.551
+Estoy tratando de dibujar la cara de George Washington
+
+00:00:43.551 --> 00:00:45.396
+sobre lo que asumo es algún tipo de moneda.
+
+00:00:45.396 --> 00:00:48.187
+y luego tenemos el otro lado que, por supuesto, es el sello.
+
+00:00:48.187 --> 00:00:52.190
+Así que esta es la cara y el otro lado justo por aquí es el sello.
+
+00:00:52.190 --> 00:00:55.431
+Así que si pregunto ¿cuál es la probabilidad?
+
+00:00:55.431 --> 00:00:59.254
+Voy a tirar la moneda
+
+00:00:59.254 --> 00:01:00.208
+y quiero saber
+
+00:01:00.208 --> 00:01:02.601
+¿cuál es la probabilidad de que salga cara?
+
+00:01:02.601 --> 00:01:04.141
+podría escribirlo así:
+
+00:01:04.141 --> 00:01:07.300
+La probailidad de que salga "cara"
+
+00:01:07.300 --> 00:01:11.829
+y "probablemente", sólo basado en esta pregunta, tengas una idea de lo que estoy preguntando
+
+00:01:11.829 --> 00:01:20.204
+Estoy preguntando por alguna manera de conocer sobre un evento que es fundamentalmente aleatorio.
+
+00:01:20.204 --> 00:01:22.817
+No sabemos si saldrá cara o sello,
+
+00:01:22.817 --> 00:01:27.333
+pero podemos comenzar a describir la suerte de que salga cara o sello.
+
+00:01:27.333 --> 00:01:30.294
+Hablaremos sobre diferentes maneras de describir esto.
+
+00:01:30.294 --> 00:01:31.840
+Así que una manera de pensarlo,
+
+00:01:31.840 --> 00:01:34.923
+y esta es la manera en que la probabilidad suele ser enseñada en los libros,
+
+00:01:34.923 --> 00:01:39.900
+es decir: bien, veamos ¿cuántas maneras diferentes igualmente posibles hay ahí?
+
+00:01:39.900 --> 00:01:43.662
+entonces, cuántas situaciones igualmente probables
+
+00:01:43.662 --> 00:01:57.331
+número de situaciones igualmente probables
+
+00:01:57.338 --> 00:02:00.298
+y sobre este número
+
+00:02:00.362 --> 00:02:04.810
+me preocupo por el número que contiene mi evento, que esta ahí
+
+00:02:04.875 --> 00:02:20.110
+número de posibilidades que cumplen mi condición.
+
+00:02:20.110 --> 00:02:22.844
+Así que en el caso de la probabilidad de que salga cara,
+
+00:02:22.844 --> 00:02:26.300
+¿cuál es el número de situaciones igualmente posibles?
+
+00:02:26.300 --> 00:02:28.233
+Bueno, hay sólo dos posibilidades,
+
+00:02:28.233 --> 00:02:31.962
+asumiendo que la moneda no puede caer parada de costado
+
+00:02:31.962 --> 00:02:33.723
+asumiendo que el terreno es plano
+
+00:02:33.754 --> 00:02:35.808
+Entonces hay dos posibilidades aquí.
+
+00:02:35.808 --> 00:02:37.738
+Dos situaciones igualmente probables.
+
+00:02:37.738 --> 00:02:40.787
+Puedes obtener cara o puedes obtener sello.
+
+00:02:40.787 --> 00:02:43.710
+y ¿cuál es el número de posibilidades que cumplen mi condición?
+
+00:02:43.710 --> 00:02:45.364
+Bueno, sólo hay una.
+
+00:02:45.364 --> 00:02:46.741
+Una condición de cara.
+
+00:02:46.790 --> 00:02:49.898
+Por lo que será uno sobre dos.
+
+00:02:49.898 --> 00:02:51.505
+Una manera de pensarlo es:
+
+00:02:51.505 --> 00:02:55.644
+la probabilidad de obtener cara es igual a uno sobre dos.
+
+00:02:55.644 --> 00:02:57.059
+Es igual a un medio.
+
+00:02:57.059 --> 00:02:59.044
+Si lo quiero escribir como porcentaje,
+
+00:02:59.044 --> 00:03:03.613
+sabemos que 1/2 es lo mismo que 50%.
+
+00:03:03.613 --> 00:03:07.752
+Ahora, otra manera de expresar la probabilidad,
+
+00:03:07.752 --> 00:03:10.187
+que te dará exactamente la misma respuesta,
+
+00:03:10.187 --> 00:03:15.190
+es decir: bueno, si fuera a realizar el experimento de lanzar una moneda.
+
+00:03:15.233 --> 00:03:17.854
+Lanzar una moneda lo puedes ver como un experimento.
+
+00:03:17.854 --> 00:03:20.515
+Sé que no es el tipo de experimento al que estás acostumbrado,
+
+00:03:20.515 --> 00:03:25.536
+Uno tiende a pensar en un experimento cuando hace algo con química o física o todas las otras,
+
+00:03:25.536 --> 00:03:29.413
+pero un experimento es cada vez que realizas este evento aleatorio.
+
+00:03:29.413 --> 00:03:31.448
+Así que una manera de pensar la probabilidad
+
+00:03:31.448 --> 00:03:35.502
+es suponer que tuviera que realizar este experimento muchas, muchas, muchas veces,
+
+00:03:35.502 --> 00:03:38.208
+unas cien veces o un millón de veces
+
+00:03:38.208 --> 00:03:40.454
+o mil millones de veces o un billón de veces,
+
+00:03:40.454 --> 00:03:41.905
+y mientras más mejor.
+
+00:03:41.905 --> 00:03:47.446
+¿Qué porcentaje de ellos me saldría cara?
+
+00:03:47.459 --> 00:03:51.690
+Otra manera de interpretar este 50% de obtener cara,
+
+00:03:51.690 --> 00:03:55.708
+es que si tuviera que hacer este experimento por mucho tiempo,
+
+00:03:55.721 --> 00:04:00.190
+si tuviera que realizarlo por siempre, o un infinito número de veces,
+
+00:04:00.192 --> 00:04:02.100
+¿Qué porcentaje de ellos será cara?
+
+00:04:02.131 --> 00:04:03.705
+Obtendrías 50%
+
+00:04:03.705 --> 00:04:06.408
+Y puedes correr esta simulación, puedes lanzar una moneda,
+
+00:04:06.408 --> 00:04:09.018
+de hecho es divertido hacerlo, te recomiendo que lo hagas,
+
+00:04:09.018 --> 00:04:13.885
+si tomas cien o dos cientas monedas y las metes en una caja grande,
+
+00:04:13.885 --> 00:04:18.321
+agitas la caja, de manera que estas lanzando simultáneamente todas las monedas,
+
+00:04:18.321 --> 00:04:20.813
+y luego cuentas cuántas de ellas son cara,
+
+00:04:20.813 --> 00:04:28.275
+verás que mientras más monedas ocupes, es más probable que obtengas algo cercano a 50%.
+
+00:04:28.275 --> 00:04:32.090
+Pero siempre habrá alguna posibilidad, incluso si lanzas la moneda 1 millón de veces,
+
+00:04:32.090 --> 00:04:35.423
+habrá una posibilidad muy muy pequeña de que salgan todas sello.
+
+00:04:35.423 --> 00:04:41.938
+Pero mientras más hagas, es más probable que obtengas una tendencia a que el 50%
+
+00:04:41.967 --> 00:04:43.675
+de las monedas salgan cara.
+
+00:04:43.675 --> 00:04:45.771
+Ahora apliquemos estas mismas ideas,
+
+00:04:45.771 --> 00:04:48.700
+y mientras estamos comenzando con probabilidades,
+
+00:04:48.700 --> 00:04:50.723
+por lo menos lo básico,
+
+00:04:50.723 --> 00:04:53.423
+esta es probablemente la cosa fácil de conceptualizar
+
+00:04:53.423 --> 00:04:55.525
+pero también una de las más útiles.
+
+00:04:55.525 --> 00:04:57.671
+Esta idea de que si haces un experimento muchas, muchas, muchas veces,
+
+00:04:57.671 --> 00:05:01.721
+qué porcentaje de esos ensayos van a darte lo que estas preguntando,
+
+00:05:01.721 --> 00:05:03.362
+En este caso, que sean cara.
+
+00:05:03.362 --> 00:05:07.336
+Ahora hagamos otro típico ejemplo de cuando comienzas a estudias probabilidades
+
+00:05:07.336 --> 00:05:13.362
+y este es la idea de lanzar un dado, así que este es mi dado, justo aquí.
+
+00:05:13.362 --> 00:05:18.121
+Y, por su puesto, tienes -tu sabes- diferentes lados en un dado
+
+00:05:18.121 --> 00:05:21.752
+así que este es el uno, este es el dos, este es el tres...
+
+00:05:21.752 --> 00:05:24.752
+Y lo que quiero hacer... y sabemos, por supuesto,
+
+00:05:24.752 --> 00:05:27.121
+que estoy asumiendo que este es un dado sin trampa,
+
+00:05:27.129 --> 00:05:30.102
+así que hay 6 situaciones igualmente posibles.
+
+00:05:30.146 --> 00:05:35.425
+Cuando lanzas un dado, puedes obtener un 1, un 2, un 3, un 4, un 5 o un 6.
+
+00:05:35.433 --> 00:05:37.398
+Esas son todas las situaciones igualmente probables.
+
+00:05:37.398 --> 00:05:42.736
+Así que si fuera a preguntarte cuál es la probabilidad,
+
+00:05:42.736 --> 00:05:44.752
+siendo que estoy lanzando un dado sin trampa,
+
+00:05:44.752 --> 00:05:47.238
+así que el experimento es lanzar este dado sin trampa,
+
+00:05:47.238 --> 00:05:51.079
+¿cuál es la probabilidad de obtener un 1?
+
+00:05:51.079 --> 00:05:54.171
+Bueno, ¿cuál es el número de situaciones igualmente posibles?
+
+00:05:54.171 --> 00:05:57.469
+Tengo 6 situaciones igualmente posibles.
+
+00:05:57.469 --> 00:06:00.275
+y ¿cuántas de ellas satisfacen mi condición?
+
+00:06:00.275 --> 00:06:02.295
+Bueno, solo una de ellas satisface mi condición.
+
+00:06:02.295 --> 00:06:03.664
+Esa de ahí.
+
+00:06:03.664 --> 00:06:06.238
+Así que hay un sexto de probabilidad
+
+00:06:06.238 --> 00:06:07.729
+de obtener un 1.
+
+00:06:07.741 --> 00:06:16.382
+¿Cuál es la probabilidad de obtener un 1 o un 6?
+
+00:06:16.382 --> 00:06:23.525
+Bueno, una vez más, hay seis situaciones igualmente posibles que puedo obtener
+
+00:06:23.525 --> 00:06:26.856
+y ahora hay dos posibilidades que satisfacen mi condición.
+
+00:06:26.864 --> 00:06:31.569
+Puedo obtener un 1 o puedo obtener un 6.
+
+00:06:31.569 --> 00:06:37.710
+Así que ahora hay dos posibilidades que cumplen mi restricción, mi condición.
+
+00:06:37.710 --> 00:06:42.636
+Así que hay un tercio de probabilidad de obtener un 1 o un 6.
+
+00:06:42.838 --> 00:06:45.913
+Ahora, ¿cuál es la probabilidad
+
+00:06:45.992 --> 00:06:48.038
+puede parecer un poco tonto hacer la pregunta,
+
+00:06:48.038 --> 00:06:50.021
+pero la haré, sólo para mantener las cosas claras,
+
+00:06:50.069 --> 00:06:55.608
+¿Cuál es la probabilidad de obtener un 2 y un 3?
+
+00:06:55.608 --> 00:06:57.948
+Y estoy hablando de sólo un lanzamiento del dado.
+
+00:06:57.962 --> 00:07:02.192
+Bueno, en cada lanzamiento del dado solo puedo obtener un 2 o un 3.
+
+00:07:02.192 --> 00:07:04.971
+No estoy hablando de lanzar dos veces este dado.
+
+00:07:04.971 --> 00:07:09.282
+Así que en esta situación, hay 6 posibilidades,
+
+00:07:09.356 --> 00:07:14.902
+pero ninguna de estas posibilidades es 2 Y 3
+
+00:07:14.902 --> 00:07:23.125
+En un intento, no puedes obtener un 2 y un 3 en el mismo experimento.
+
+00:07:23.133 --> 00:07:26.685
+Obtener un 2 o un 3 son eventos mutuamente exclusivos,
+
+00:07:26.685 --> 00:07:29.187
+no pueden ocurrir al mismo tiempo.
+
+00:07:29.187 --> 00:07:31.890
+Así que la probabilidad de esto es de hecho cero.
+
+00:07:31.890 --> 00:07:35.152
+No hay forma de lanzar este dado común y de repente obtener un 2 y un 3.
+
+00:07:35.152 --> 00:07:40.069
+No quiero confundirte con este tipo de cosas abstractas e imposibles.
+
+00:07:40.069 --> 00:07:43.500
+Así que hagamos una cruz sobre esto.
+
+00:07:43.500 --> 00:07:50.718
+Ahora, ¿cuál es la probabilidad de obtener un número par?
+
+00:07:50.718 --> 00:07:55.413
+Una vez más, tienes 6 situaciones igualmente posibles cuando lanzo este dado,
+
+00:07:55.413 --> 00:07:59.152
+y ¿cuál de esas posibilidades satisface mi condición?
+
+00:07:59.152 --> 00:08:01.833
+La condición de ser par.
+
+00:08:01.833 --> 00:08:06.125
+Bueno, 2 es par, 4 es par y 6 es par.
+
+00:08:06.125 --> 00:08:09.879
+Así que tres de las posibilidades satisface mi condición.
+
+00:08:09.879 --> 00:08:11.718
+Cumple mi restricción.
+
+00:08:11.718 --> 00:08:13.387
+Así que esto es un medio.
+
+00:08:13.387 --> 00:08:17.482
+Si lanzo un dado, tengo 1/2 de probabilidad de obtener un número par.

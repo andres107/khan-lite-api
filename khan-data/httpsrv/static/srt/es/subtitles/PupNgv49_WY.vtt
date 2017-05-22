@@ -1,0 +1,501 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.610 --> 00:00:03.580
+Bienvenidos a esta presentación de las propiedades de los logaritmos
+
+00:00:03.580 --> 00:00:05.960
+Ahora esto va a ser una presentación muy práctica.
+
+00:00:05.960 --> 00:00:08.570
+Si crees que una de estas propiedades sea verdadera
+
+00:00:08.580 --> 00:00:11.830
+y quieres ver la demostración, he realizado tres o cuatro vídeos
+
+00:00:11.830 --> 00:00:13.048
+que realmente demuestran estas propiedades.
+
+00:00:13.048 --> 00:00:15.890
+Y, a continuación, muestra cómo puede utilizarse.
+
+00:00:15.900 --> 00:00:17.510
+Va a ser algo más práctico.
+
+00:00:17.510 --> 00:00:22.606
+Tan sólo hagamos un poco de repaso
+
+00:00:28.725 --> 00:00:29.225
+Vamos a ver.
+
+00:00:29.225 --> 00:00:31.930
+Quiero a cambio--aquí está.
+
+00:00:31.940 --> 00:00:35.240
+Digamos que--permítanme comenzar de nuevo.
+
+00:00:35.250 --> 00:00:41.700
+a elevado a b es igual a c
+
+00:00:41.710 --> 00:00:44.650
+así que si-- a elevado a b es igual a c
+
+00:00:44.650 --> 00:00:47.410
+otra forma de escribir esta misma relación sería
+
+00:00:47.420 --> 00:00:49.960
+escribir el exponente, es escribir como un logaritmo.
+
+00:00:49.960 --> 00:00:57.530
+Por lo que podemos decir que el logaritmo de base a
+
+00:00:57.540 --> 00:01:02.030
+c es igual a b.
+
+00:01:06.963 --> 00:01:09.700
+de modo que si sabes a y b, obtienes c
+
+00:01:09.700 --> 00:01:12.010
+esto es lo que hace un exponente
+
+00:01:12.010 --> 00:01:14.240
+Y el segundo, sabes a y sabes que cuando
+
+00:01:14.250 --> 00:01:16.340
+lo expones a alguna potencia obtienes c
+
+00:01:16.340 --> 00:01:18.040
+y entonces obtienes b
+
+00:01:18.040 --> 00:01:20.540
+Por lo tanto son la misma relación, pero expuesta
+
+00:01:20.540 --> 00:01:22.080
+de una manera diferente.
+
+00:01:22.090 --> 00:01:24.900
+Ahora le presentaré algunas interesantes
+
+00:01:24.900 --> 00:01:25.960
+propiedades de logaritmo.
+
+00:01:25.960 --> 00:01:30.470
+Y en realidad sólo quedan fuera de esta relación y
+
+00:01:30.480 --> 00:01:32.730
+las reglas exponente regulares.
+
+00:01:32.730 --> 00:01:36.850
+Por lo que la primera es que el logaritmo--si me permites
+
+00:01:36.860 --> 00:01:39.340
+un color más alegre.
+
+00:01:39.340 --> 00:01:45.250
+El logaritmo, digamos, de cualquier base--así que vamos a poner
+
+00:01:45.260 --> 00:01:47.180
+la base--digamos b de base.
+
+00:01:47.180 --> 00:01:57.800
+Logaritmo en base b de a más el logaritmo en base b de c--y
+
+00:01:57.810 --> 00:01:59.760
+Esto sólo funciona si tenemos las mismas bases.
+
+00:01:59.760 --> 00:02:01.790
+esto es importante
+
+00:02:01.790 --> 00:02:12.770
+Que es igual el logaritmo de base b de a veces c.
+
+00:02:12.780 --> 00:02:14.650
+Ahora, ¿qué significa esto y cómo podemos usarlo?
+
+00:02:14.650 --> 00:02:18.300
+O vamos a simplemente incluso probarlo con algunos,
+
+00:02:18.310 --> 00:02:19.620
+no sé, ejemplos.
+
+00:02:19.620 --> 00:02:22.850
+Por lo que esta diciendo que--cambiaré de color.
+
+00:02:22.860 --> 00:02:25.380
+lo pondré--Malva--no sé.
+
+00:02:25.380 --> 00:02:26.720
+Nunca sé cómo decirlo bien.
+
+00:02:26.720 --> 00:02:29.460
+lo pondré como mi color de ejemplo
+
+00:02:29.460 --> 00:02:40.900
+Así que vamos a decir logaritmo de base dos--no sé--ocho
+
+00:02:40.910 --> 00:02:51.160
+Además de logaritmo base dos de--yo no sé decir--vamos a treinta y dos.
+
+00:02:53.022 --> 00:02:58.429
+Por lo tanto, en teoría, esto debe ser igual, si creemos esto
+
+00:02:58.429 --> 00:03:05.490
+¿propiedad, esto debe ser igual a logaritmo base dos de qué?
+
+00:03:05.500 --> 00:03:07.900
+Así decimos ocho veces treinta y dos.
+
+00:03:07.900 --> 00:03:17.650
+Hasta ocho veces treinta y dos es dos cien y cuarenta además dieciséis, dos doscientos y cincuenta y seis.
+
+00:03:17.650 --> 00:03:18.490
+Bien vamos a ver si eso es cierto.
+
+00:03:18.500 --> 00:03:20.730
+Sólo probando este número y esto es realmente no es una prueba.
+
+00:03:20.740 --> 00:03:22.860
+Pero lo voy a dar un poco de una intuición, creo, para
+
+00:03:22.860 --> 00:03:23.980
+lo que está sucediendo alrededor.
+
+00:03:23.990 --> 00:03:26.330
+Registro así--así que esto es--sólo utilizamos nuestra propiedad.
+
+00:03:26.340 --> 00:03:28.470
+Esta propiedad poco que presenté a usted.
+
+00:03:28.470 --> 00:03:29.870
+Y a solo ver si funciona.
+
+00:03:29.880 --> 00:03:31.850
+Registro así la base de dos de los ocho.
+
+00:03:31.860 --> 00:03:34.510
+¿dos a qué potencia son igual a ocho?
+
+00:03:34.520 --> 00:03:38.950
+¿Bien dos a la tercera potencia es igual a ocho, derecha?
+
+00:03:38.960 --> 00:03:41.300
+¿Es así que este término aquí, igual tres, derecho?
+
+00:03:41.310 --> 00:03:44.810
+Registro de base de que dos de los ocho son igual a tres.
+
+00:03:44.810 --> 00:03:48.400
+¿dos a qué potencia son igual a treinta y dos?
+
+00:03:48.400 --> 00:03:48.780
+Vamos a ver.
+
+00:03:48.780 --> 00:03:50.570
+dos a la cuarta potencia son 16 años.
+
+00:03:50.580 --> 00:03:53.290
+dos a la Quinta potencia son treinta y dos.
+
+00:03:53.300 --> 00:03:58.400
+¿Así que aquí esto es dos a--cinco, es justo?
+
+00:03:58.400 --> 00:04:02.740
+¿Y dos a la energía son igual a dos doscientos y cincuenta y seis?
+
+00:04:02.750 --> 00:04:05.880
+Bueno si eres una informática más importante, que te vas
+
+00:04:05.880 --> 00:04:07.200
+Sabemos que inmediatamente.
+
+00:04:07.210 --> 00:04:10.460
+Que una picadura puede tener dos doscientos y cincuenta y seis valores en él.
+
+00:04:10.460 --> 00:04:12.420
+Por eso, dos a la octava potencia.
+
+00:04:12.430 --> 00:04:15.510
+Pero si no sabes que la podría multiplicar por sí mismo.
+
+00:04:15.520 --> 00:04:16.700
+Pero esto es ocho.
+
+00:04:16.700 --> 00:04:18.480
+Y no estoy haciendo lo justo porque sabía que tres
+
+00:04:18.490 --> 00:04:19.460
+Además cinco es igual a ocho.
+
+00:04:19.470 --> 00:04:21.220
+Estoy haciendo esto independientemente.
+
+00:04:21.230 --> 00:04:22.290
+Esto es igual a ocho.
+
+00:04:22.300 --> 00:04:28.520
+Pero resulto de que tres más cinco es igual a ocho.
+
+00:04:28.520 --> 00:04:32.160
+Esto puede parecer como magia o puede parecer obvia.
+
+00:04:32.170 --> 00:04:35.550
+Y para aquellos de ustedes que puede parecer un poco evidente,
+
+00:04:35.560 --> 00:04:43.310
+probablemente estás pensando, pues dos para el tercero veces dos a la
+
+00:04:43.310 --> 00:04:49.490
+¿quinto es igual a dos a cinco, además de los tres derecho?
+
+00:04:49.500 --> 00:04:51.790
+Esto es sólo una regla exponente.
+
+00:04:51.800 --> 00:04:52.670
+¿Cómo llama esto?
+
+00:04:52.670 --> 00:04:54.740
+El aditiva prop exponente--no sé.
+
+00:04:54.750 --> 00:04:56.220
+No sé los nombres de las cosas.
+
+00:04:56.220 --> 00:04:59.910
+Y equivale a dos a ocho, dos en la octava.
+
+00:04:59.920 --> 00:05:03.160
+¿Y eso es exactamente lo que hicimos aquí, derecho?
+
+00:05:03.160 --> 00:05:07.062
+De este lado, dos tuvimos el tercer momento dos a
+
+00:05:09.720 --> 00:05:12.840
+Y lo que hace interesante a los logaritmos es y por qué--es
+
+00:05:12.850 --> 00:05:13.970
+un poco confuso al principio.
+
+00:05:13.970 --> 00:05:15.610
+Y puede ver las pruebas si realmente desea que tipo de
+
+00:05:15.620 --> 00:05:18.440
+una rigurosa--mis pruebas no son rigurosas.
+
+00:05:18.440 --> 00:05:19.930
+Pero si desea que el tipo de una mejor explicación
+
+00:05:19.930 --> 00:05:21.350
+¿Cómo funciona esto.
+
+00:05:21.360 --> 00:05:23.480
+Pero esto debe ojala te dan una matrícula por qué esto
+
+00:05:23.480 --> 00:05:25.320
+¿propiedad tiene derecho?
+
+00:05:25.320 --> 00:05:27.320
+Porque cuando usted multiplica dos números de la
+
+00:05:27.320 --> 00:05:29.250
+misma base, correcto?
+
+00:05:29.260 --> 00:05:31.710
+Dos expresiones exponenciales de la misma base,
+
+00:05:31.720 --> 00:05:33.550
+puede agregar a sus exponentes.
+
+00:05:33.560 --> 00:05:37.050
+Del mismo modo, cuando se tiene el registro de dos números multiplicada
+
+00:05:37.050 --> 00:05:41.700
+por otra, equivale en el registro de cada uno
+
+00:05:41.700 --> 00:05:43.510
+de los números añadidos uno al otro.
+
+00:05:43.520 --> 00:05:45.800
+Se trata de la misma propiedad.
+
+00:05:45.810 --> 00:05:49.930
+Si no me creen, mira los videos de pruebas.
+
+00:05:49.930 --> 00:05:56.360
+Así que vamos a hacer--permítanme mostrarles otra propiedad de registro.
+
+00:05:56.370 --> 00:05:58.220
+Es prácticamente la misma.
+
+00:05:58.230 --> 00:05:59.390
+Casi ver ellos mismo.
+
+00:05:59.390 --> 00:06:10.440
+Por lo que se trata de registro base b de un signo menos registro base b c
+
+00:06:10.440 --> 00:06:17.030
+es igual al registro base b--bien agotó.
+
+00:06:17.040 --> 00:06:19.290
+Estoy corriendo fuera del espacio--un dividido por c.
+
+00:06:19.290 --> 00:06:21.540
+Dice que un dividido por c.
+
+00:06:21.540 --> 00:06:25.230
+Y nosotros podemos, una vez más, probarlo con algunos números.
+
+00:06:25.240 --> 00:06:28.610
+Dos utilizo mucho porque dos son un número de fácil
+
+00:06:28.620 --> 00:06:29.790
+averiguar los poderes.
+
+00:06:29.790 --> 00:06:30.740
+Pero vamos a utilizar un número diferente.
+
+00:06:30.750 --> 00:06:41.190
+Digamos que registrar tres base de--no sé--registro--tres de base
+
+00:06:41.190 --> 00:06:44.810
+vamos bien saben, que sea interesante--registrar tres base de
+
+00:06:44.810 --> 00:06:56.920
+menos uno / nueve registrar tres base de ochenta y uno.
+
+00:06:56.930 --> 00:07:02.490
+Por lo tanto esta propiedad nos dice--esto es lo mismo que--
+
+00:07:02.500 --> 00:07:04.180
+También estoy terminando con un gran número.
+
+00:07:04.180 --> 00:07:12.990
+Registro base tres de uno y nueve dividido por ochenta y uno.
+
+00:07:12.990 --> 00:07:15.880
+Por lo es lo mismo que un nueve veces uno / 81.
+
+00:07:15.880 --> 00:07:19.690
+Usé dos grandes números para mi ejemplo, pero
+
+00:07:19.700 --> 00:07:21.310
+podrá avanzar.
+
+00:07:21.310 --> 00:07:21.740
+Así que vamos a ver.
+
+00:07:21.750 --> 00:07:25.690
+¿nueve veces ocho tiene siete ciento veinte, razón?
+
+00:07:25.690 --> 00:07:27.180
+nueve veces--derecho.
+
+00:07:27.180 --> 00:07:28.560
+nueve veces ocho es siete ciento veinte.
+
+00:07:28.570 --> 00:07:31.020
+Esto es uno / siete ciento veinte y nueve.
+
+00:07:31.030 --> 00:07:37.850
+Por lo tanto esto es registro base tres sobre uno / siete ciento veinte y nueve.
+
+00:07:37.860 --> 00:07:42.160
+¿Por qué--lo hace--tres al poder lo que son igual a uno y nueve?
+
+00:07:42.160 --> 00:07:45.330
+¿Bien tres al cuadrado son igual a nueve, derecho?
+
+00:07:45.330 --> 00:07:48.060
+Por lo que tres--por lo que sabemos que si tres al cuadrado es igual a nueve, entonces nosotros
+
+00:07:53.250 --> 00:07:56.940
+¿saber que tres a lo negativo dos son igual a uno y nueve, derecha?
+
+00:07:56.940 --> 00:07:58.180
+El negativo sólo invierte lo.
+
+00:07:58.180 --> 00:08:02.150
+¿Así que esto es igual a dos negativos, derecho?
+
+00:08:02.160 --> 00:08:06.110
+¿Y, a continuación, menos--tres a qué potencia es igual ochenta y uno?
+
+00:08:06.120 --> 00:08:07.870
+tres a la tercera potencia son 27.
+
+00:08:07.870 --> 00:08:11.380
+Por lo tanto tres a la cuarta potencia.
+
+00:08:11.380 --> 00:08:15.860
+Así que tenemos menos dos menos cuatro es iguales a--bien, que podríamos
+
+00:08:15.870 --> 00:08:16.700
+hacerlo de varias formas.
+
+00:08:16.700 --> 00:08:20.510
+Menos dos menos cuatro es igual al menos seis.
+
+00:08:20.520 --> 00:08:23.270
+Y ahora solo tenemos que confirmar que tres al menos sexto
+
+00:08:23.270 --> 00:08:26.070
+el poder es igual a uno / siete ciento veinte y nueve.
+
+00:08:26.070 --> 00:08:26.880
+Ese es mi pregunta.
+
+00:08:26.880 --> 00:08:34.410
+¿Es tres menos sexto poder, lo que equivale a siete--uno / siete ciento veinte y nueve?
+
+00:08:34.420 --> 00:08:36.890
+Así es lo mismo que decir 5:57 es poder
+
+00:08:36.890 --> 00:08:40.100
+igual a siete ciento veinte y nueve, ya que es el exponente negativo
+
+00:08:40.110 --> 00:08:41.750
+Does es lo invierte.
+
+00:08:41.750 --> 00:08:42.580
+Vamos a ver.
+
+00:08:42.590 --> 00:08:44.870
+Nosotros podríamos multiplicar fuera, pero que debería ser el caso.
+
+00:08:44.870 --> 00:08:46.470
+Pues bien, podríamos mirar aquí.
+
+00:08:46.480 --> 00:08:47.320
+Pero vamos a ver.
+
+00:08:47.320 --> 00:08:52.620
+tres en la tercera potencia--sería tres a la tercera potencia
+
+00:08:52.620 --> 00:08:57.440
+multiplicado por tres a la tercera potencia equivale a veintisiete veinte - siete veces.
+
+00:08:57.450 --> 00:08:58.530
+Que se ve bastante estrecha.
+
+00:08:58.530 --> 00:09:00.890
+Usted puede confirmar con una calculadora si usted
+
+00:09:00.890 --> 00:09:02.330
+no me creen.
+
+00:09:02.340 --> 00:09:04.940
+De todas formas, es todo el tiempo que tengo en este video.
+
+00:09:04.940 --> 00:09:07.490
+En el siguiente vídeo, presentaré le al último
+
+00:09:07.500 --> 00:09:08.670
+dos propiedades del logaritmo.
+
+00:09:08.670 --> 00:09:12.480
+Y, si tenemos tiempo, tal vez lo haré ejemplos con
+
+00:09:12.490 --> 00:09:13.440
+el tiempo restante.
+
+00:09:13.440 --> 00:09:15.110
+Nos vemos pronto.

@@ -1,0 +1,237 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.231 --> 00:00:05.410
+Ahora que sabemos lo que es un ángulo, veamos como se los mide. Ya hemos
+
+00:00:05.410 --> 00:00:09.938
+sugerido una forma de medirlo en el último video cuando dijimos
+
+00:00:09.938 --> 00:00:17.206
+"Vean, este ángulo XYZ parece un ángulo más abierto que el ángulo BAC, por lo que quizás la medida del ángulo XYZ
+
+00:00:17.206 --> 00:00:23.467
+debiera ser mayor que el ángulo BAC, y esto es exactamente la forma de pensar sobre la medición de ángulos
+
+00:00:23.467 --> 00:00:28.000
+Pero lo que quiero hacer en este video es explicar cómo se mide exactamente un ángulo.
+
+00:00:28.000 --> 00:00:33.274
+Lo que he dibujado aquí es un semicírculo, que es muy parecido
+
+00:00:33.274 --> 00:00:38.568
+a una herramienta que se puede comprar en un comercio, para medir ángulos.
+
+00:00:38.568 --> 00:00:45.862
+En realidad esto es un dibujo de un transportador, y lo que hacemos con un transportador
+
+00:00:45.862 --> 00:00:50.667
+- se puede incluso construir uno con un trozo de papel - es tomar un semi-círculo
+
+00:00:50.667 --> 00:00:56.800
+y dividirlo en 180 secciones, y cada una de estas marcar señala 10 de estas secciones.
+
+00:00:56.800 --> 00:01:02.229
+y lo que se hace para cualquier ángulo es poner uno de los lados del ángulo - de manera que cada uno de los rayos
+
+00:01:02.229 --> 00:01:11.146
+del ángulo se consideran uno de sus lados - entonces se pone el vértice del ángulo en el centro del
+
+00:01:11.146 --> 00:01:16.467
+semi-círculo, o se tienes un transportador lo colocas en el centro del trasportador
+
+00:01:16.467 --> 00:01:27.400
+y entonces pones un lado sobre la marca cero. Voy a volver a dibujar este ángulo aquí
+
+00:01:27.400 --> 00:01:32.000
+en el centro del transportador, entonces podemos decir si "Y" es esto, entonces "Z" viene aquí
+
+00:01:32.000 --> 00:01:41.249
+y entonces el otro rayo, el rayo "XY" en este ejemplo, irá en esta dirección.
+
+00:01:41.249 --> 00:01:49.993
+En el transportador está apuntando a lo que parece la sección 70,
+
+00:01:49.993 --> 00:01:55.937
+esta es la sección 80, por lo que quizás esta sea la sección 77
+
+00:01:55.937 --> 00:02:02.625
+entonces esto apunta hacia aquí. Entonces, cuando medimos un ángulo - podríamos decir que la medición de XYZ
+
+00:02:02.625 --> 00:02:07.559
+- asumiendo que lo dibujé correctamente aquí - podríamos decir que la medida
+
+00:02:07.559 --> 00:02:13.933
+del ángulo XYZ - a veces se dice "el ángulo XYZ es igual a" pero esto es un poco más formal - la
+
+00:02:13.933 --> 00:02:22.728
+medida del ángulo XYZ es igual a 77 - y lo que hacemos es nombrar a cada una de estas pequeñas secciones "grados"
+
+00:02:22.728 --> 00:02:30.267
+por lo que es igual a 77 - a veces se escribe así, de la misma manera que escribiríamos los grados de temperatura
+
+00:02:30.267 --> 00:02:35.202
+se podría escribir 77º o escribir la palabra "grados".
+
+00:02:35.202 --> 00:02:39.568
+Cada una de estas secciones está en grados, por lo que estamos midiendo grados, pero quiero ser muy claro:
+
+00:02:39.568 --> 00:02:44.676
+los grados no son la única manera de medir ángulos. Cualquier cosa que mida aperturas...
+
+00:02:44.676 --> 00:02:49.320
+cuando estudies trigonometría aprenderás que se pueden medir ángulos no solamente en grados sino
+
+00:02:49.320 --> 00:02:54.733
+ambién usando algo llamado "radianes", pero dejaré eso para otro día. Midamos este otro ángulo:
+
+00:02:54.733 --> 00:03:06.333
+Una vez más pondré "A" en el centro, y luego "AC". Pondré sobre este borde de cero grados
+
+00:03:06.333 --> 00:03:13.538
+de este transportador, y luego pondé el punto "AB" en el... bueno, suponiendo que estoy dibujando exactamente
+
+00:03:13.538 --> 00:03:18.067
+como está allá... normalmente en lugar de movel el ángulo en realidad moveríamos el transportador
+
+00:03:18.067 --> 00:03:23.933
+hacia el ángulo... se parece a ésto. Y pueden ver que apunta justamente hacia... bueno, digamos que
+
+00:03:23.933 --> 00:03:31.400
+justamente hacia la marca de 30º. Podríamos decir que la medida del ángulo BAC es igual a 30º.
+
+00:03:31.400 --> 00:03:37.989
+Entonces podríamos decir luego de evaluar estos numeros diciendo que 77º
+
+00:03:37.989 --> 00:03:45.071
+es claramente mayor que 30º, y por lo tanto es un ángulo mayor, lo que es logico porque
+
+00:03:45.071 --> 00:03:52.000
+es un ángulo más abierto. En general, podemos pensar algunas cosas interesantes sobre los ángulos.
+
+00:03:52.000 --> 00:03:58.867
+Si tenemos un ángulo de 0º, tenemos un ángulo cerrado... en realidad es solamente un rayo.
+
+00:03:58.867 --> 00:04:04.267
+A medida que el ángulo se agranda eventualmente llegaremos a un punto
+
+00:04:04.267 --> 00:04:09.267
+donde uno de los rayos es completamente derecho hacia arriba y hacia abajo, mientras que el otro lo sería de derecha a izquierda.
+
+00:04:09.267 --> 00:04:17.867
+Podemos imaginar un ángulo que se parece a éste, donde un rayo sube-baja así,
+
+00:04:17.867 --> 00:04:23.407
+y el otro va hacia la derecha-izquierda. O pueden imaginar un ángulo que se parece
+
+00:04:23.407 --> 00:04:28.800
+a ésto, donde desde el lugar desde el cual lo miramos no parece subir o bajar
+
+00:04:28.800 --> 00:04:34.274
+o que no va hacia la derecha o izquierda, pero que rotandolo, se parecería a este aquí
+
+00:04:34.274 --> 00:04:38.933
+donde uno sube y baja y el otro va hacia la derecha y hacia la izquierda.
+
+00:04:38.933 --> 00:04:45.000
+Y podemos ver por nuestra medición que nos da un ángulo de 90º que
+
+00:04:45.000 --> 00:04:52.571
+es un ángulo muy interesante que aparece muchas veces en geometría y en trigonometría. Hay una palabra específica
+
+00:04:52.571 --> 00:04:56.403
+para un ángulo de 90º. Se llama ANGULO RECTO.
+
+00:04:56.403 --> 00:05:01.000
+Entonces éste ángulo aquí, suponiendo que si lo rotamos se parecería a ésto, esto
+
+00:05:01.000 --> 00:05:08.841
+sería un ángulo recto. Y hay un simbolo para mostrar que es un ángulo recto: si dibujamos una
+
+00:05:08.841 --> 00:05:16.231
+pequeña cajita aquí eso nos señala que si lo rotamos exactamente
+
+00:05:16.231 --> 00:05:22.067
+hacia arriba y hacia abajo mientras esto está yendo exactamente hacia la derecha y hacia la izquierda... si lo rotamos correctamente o viceversa
+
+00:05:22.067 --> 00:05:30.333
+y luego lo abrimos cada vez más, hasta llegar finalmente a un ángulo
+
+00:05:30.333 --> 00:05:37.897
+que se parece a ésto. Podemos imaginar un ángulo donde los dos rayos que forman el ángulo se transforman en una línea.
+
+00:05:37.897 --> 00:05:45.467
+Los dos rayos... digamos que éste es el punto "X", éste el punto "Y" y éste el punto "Z"... ésto se llamaría el
+
+00:05:45.467 --> 00:05:52.467
+ángulo ZXY, pero en realidad está tan abierto que se ha transformado en una línea.
+
+00:05:52.467 --> 00:06:00.400
+Z, X e Y con co-lineales. Y lo que teemos aquí es un ángulo de 180º, o debieramos decir
+
+00:06:00.400 --> 00:06:07.554
+que la medida del ángulo ZXY es de 180º. Y se puede ir más allá.
+
+00:06:07.554 --> 00:06:15.267
+Si continuamos siguiendo el círculo, hasta llegar a los 360º
+
+00:06:15.267 --> 00:06:20.807
+y luego continuamos dando vueltas y vueltas y verán mucho más de ésto cuando ingresen
+
+00:06:20.807 --> 00:06:28.000
+a las clases de trigonometría. Ahora hay una o dos cosas que quiero introducir en este video.
+
+00:06:28.000 --> 00:06:34.252
+Son palabras especiales. Y hablaremos sobre otro tipo de ángulos en un próximo video, pero si
+
+00:06:34.252 --> 00:06:40.823
+un ángulo mide menos de 90º... por ejemplo los dos ángulos con los cuales comenzamos
+
+00:06:40.823 --> 00:06:50.533
+la clase miden menos de 90º... los llamamos ANGULOS AGUDOS. Este es agudo...
+
+00:06:50.533 --> 00:06:57.667
+éste es agudo, aquel es un ángulo agudo. Todos miden menos de 90º.
+
+00:06:57.667 --> 00:07:02.557
+¿Qué aspecto tiene un ángulo que no es agudo? (Y hay otras palabras para ángulos que no son agudos).
+
+00:07:02.557 --> 00:07:07.867
+Bueno, tienen más de 90º. Por ejemplo (dibujaré con un color que no he usado antes)
+
+00:07:07.867 --> 00:07:13.400
+un ángulo que se parece a ésto (voy a dibujar un poco mejor) un ángulo que se parece a ésto
+
+00:07:13.400 --> 00:07:18.555
+y éste un lado del ángulo, o uno de los rayos
+
+00:07:18.555 --> 00:07:22.572
+y luego podré el otro sobre la línea de base aquí. Claramente este es mayor de 90º.
+
+00:07:22.572 --> 00:07:28.800
+Aproximadamente... (veamos 100, 110, 120, casi 130)... entonces digamos que este ángulo mide 128º.
+
+00:07:28.800 --> 00:07:39.871
+Este es un ANGULO OBTUSO. (Aquí hace un pequeño juego de palabras en inglés, intraducible al español)
+
+00:07:39.871 --> 00:07:47.069
+Creo que agudo, en latin o griego, o quizás en los dos, significa algo como un alfiler o algo afilado
+
+00:07:47.069 --> 00:07:53.000
+de manera que así recuerdo la palabra. Un ángulo agudo parece más puntiagudo.
+
+00:07:53.000 --> 00:08:00.292
+Obtuso, me imagino algo grande o pesado, y es así como recuerdo la palabra.
+
+00:08:00.292 --> 00:08:03.829
+O pueden decir, no es agudo, no es puntiagudo. Es otra forma de recordarlo.
+
+00:08:03.829 --> 00:08:08.390
+Pero esto es solamente una terminologia general para diferentes tipos de ángulos:
+
+00:08:08.390 --> 00:08:12.936
+menos de 90º tenemos un ángulo agudo, de 90º tenemos un ángulo recto,
+
+00:08:12.936 --> 00:08:22.200
+más de 90º tenemos un ángulo obtuso. Si llegamos a los 180º el ángulo se ha transformado en una línea.

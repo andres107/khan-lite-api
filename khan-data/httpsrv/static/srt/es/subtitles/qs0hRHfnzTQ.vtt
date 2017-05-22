@@ -1,0 +1,394 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.850 --> 00:00:04.929
+Vamos a volver a la línea integral de F.n ds
+
+00:00:04.929 --> 00:00:07.792
+por aquí porque queremos asegurarnos que tenemos la concepción correcta
+
+NOTE Paragraph
+
+00:00:07.792 --> 00:00:10.090
+y yo era pequeño "afloja Goosey" con él en el último vídeo
+
+00:00:10.090 --> 00:00:13.775
+y en este video yo quiero ser mas exacto y usar unidades
+
+00:00:13.775 --> 00:00:16.557
+para que realmente entendamos que esta pasando aqui.
+
+00:00:16.557 --> 00:00:18.654
+Aqui e dibujado nuestra linia "C"
+
+NOTE Paragraph
+
+00:00:18.654 --> 00:00:22.119
+y estamos dirijiendonos por el lado positivo en direcction contra el reloj.
+
+00:00:22.119 --> 00:00:24.939
+y despues e tomado unos puntos como ejemplos para F
+
+00:00:24.939 --> 00:00:26.559
+en cual quier punto en el plano x-y
+
+00:00:26.559 --> 00:00:29.113
+que se asosie con el vector en segunda dimension
+
+00:00:29.113 --> 00:00:31.110
+quizás en ese momento el vector bidimensional ve como ese,
+
+00:00:31.110 --> 00:00:33.822
+quizás en ese momento el vector bidimensional ve como ese
+
+00:00:33.822 --> 00:00:41.992
+y, a continuación, n es por supuesto el vector normal de la unidad en cualquier punto de la curva
+
+00:00:41.992 --> 00:00:47.409
+el vector de unidad apuntando hacia fuera en cualquier punto de la curva
+
+00:00:47.409 --> 00:00:52.119
+Ahora en el último video, hablé acerca de f como algún tipo de una función de la velocidad
+
+00:00:52.119 --> 00:00:54.574
+que en cualquier momento le da la velocidad de las partículas se
+
+00:00:54.574 --> 00:00:56.518
+y que no era exactamente correcto
+
+00:00:56.518 --> 00:00:58.289
+para realmente entender lo que está sucediendo aquí
+
+00:00:58.289 --> 00:01:02.339
+con el fin de realmente conceptualizar esto como tipo de flujo a través de la frontera
+
+00:01:02.339 --> 00:01:05.984
+la tasa de masa sale este límite aquí
+
+00:01:05.984 --> 00:01:08.953
+realmente tenemos que introducir un aspecto de densidad a f
+
+00:01:08.953 --> 00:01:15.219
+Así que por aquí, he reescrito F, y yo he reescrito a partir de un producto de una función escalar y un vector
+
+00:01:15.219 --> 00:01:17.986
+por eso la parte escalar sobre aquí Rho de x, y
+
+00:01:17.986 --> 00:01:22.736
+Rho es una letra griega que se utiliza a menudo para representar la densidad de algún tipo
+
+00:01:22.736 --> 00:01:24.604
+en este caso la densidad de masa
+
+00:01:24.604 --> 00:01:30.590
+así en cualquier dado x, punto y esto nos dice es que la densidad de masa
+
+00:01:30.590 --> 00:01:34.680
+densidad de masa será algo de masa en un mundo bidimensional
+
+00:01:34.680 --> 00:01:36.754
+por lo que es masa por área
+
+00:01:36.754 --> 00:01:39.212
+y si queremos unidades específicas para nuestro ejemplo-
+
+00:01:39.212 --> 00:01:41.718
+una vez más, esto no es la única manera de que esto puede concebirse
+
+00:01:41.718 --> 00:01:45.536
+Hay otras aplicaciones, pero esta es la manera más fácil para mi cerebro procesarlo
+
+00:01:45.536 --> 00:01:51.907
+nos imaginamos como kilogramo por metro cuadrado
+
+00:01:51.907 --> 00:01:53.857
+y este derecho aquí es el vector de velocidad
+
+00:01:53.857 --> 00:01:57.399
+nos dice lo que es la velocidad de las partículas de ese punto
+
+00:01:57.399 --> 00:02:00.726
+para que este tipo de está diciendo, "¿cuánto partículas ¿tienes en una especie de punto?
+
+00:02:00.726 --> 00:02:05.615
+Densos cómo están?"y es"cuán rápidos están pasando y en qué dirección?"
+
+00:02:05.615 --> 00:02:09.864
+y todo esto es un vector, es un vector de velocidad
+
+00:02:09.864 --> 00:02:11.276
+pero los componentes aquí
+
+00:02:11.276 --> 00:02:15.290
+M de x, y es sólo un número y que multiplicas veces un vector
+
+00:02:15.290 --> 00:02:19.231
+por lo tanto m de x, y por aquí va a ser una función escalar
+
+00:02:19.231 --> 00:02:21.074
+Cuando se multiplica por el se convierte en un vector
+
+00:02:21.074 --> 00:02:23.460
+va a darle una velocidad
+
+00:02:23.460 --> 00:02:26.879
+y, a continuación, N de x, y también va a darle una velocidad
+
+00:02:26.879 --> 00:02:29.330
+y le indica una velocidad en sentido j
+
+00:02:29.330 --> 00:02:32.628
+por lo que se convierte en un vector y una velocidad en la i dirección se convierte en un vector, así
+
+00:02:32.628 --> 00:02:39.646
+pero estas velocidades, las unidades de velocidad (déjame escribir esto aquí)
+
+00:02:39.646 --> 00:02:41.887
+así que ahora estamos hablando en particular m de x, y y n de x, y
+
+00:02:41.887 --> 00:02:49.877
+eso sería en unidades de distancia por tiempo y tal vez este ejemplo que te decimos
+
+00:02:49.877 --> 00:02:52.285
+las unidades son metros por segundo
+
+00:02:52.285 --> 00:02:55.442
+Así que vamos a pensar en las unidades será para esta función
+
+00:02:55.442 --> 00:03:01.347
+Si distribuimos el Rho, porque realmente en un dado x, y, realmente es sólo un número
+
+00:03:01.347 --> 00:03:08.253
+así que si lo hacemos, nos vamos a meter F - no voy a seguir escribiendo f de x, y
+
+00:03:08.253 --> 00:03:12.692
+sólo te entendemos que F, Rho, M y n son funciones de x, y
+
+00:03:12.692 --> 00:03:22.469
+F va a ser igual a Rho veces veces M, vector de la unidad i
+
+00:03:22.469 --> 00:03:31.267
+Además de Rho veces n veces la unidad vector j
+
+00:03:31.267 --> 00:03:36.143
+Ahora, ¿cuáles son las unidades aquí? ¿Qué es Rho veces M-¿qué unidades vamos a llegar?
+
+00:03:36.143 --> 00:03:38.803
+y vamos a obtener las mismas unidades cuando hacemos veces Rho N
+
+00:03:38.803 --> 00:03:42.801
+Vamos vamos a tener, si recogemos estas unidades particulares, vamos a tener
+
+00:03:42.801 --> 00:03:51.482
+kilogramos por metro cuadrado veces metros por segundo
+
+00:03:51.482 --> 00:03:53.780
+así que un poco de análisis dimensional aquí
+
+00:03:53.780 --> 00:03:57.634
+Este medidor en el numerador se cancela con uno de los medidores en el denominador
+
+00:03:57.634 --> 00:04:00.566
+y nos quedamos con algo extraño tipo de
+
+00:04:00.566 --> 00:04:05.163
+kilogramos por metro segundo
+
+00:04:05.163 --> 00:04:11.445
+que es esencialmente lo que la si ver este vector tiene una magnitud en alguna dirección
+
+00:04:11.445 --> 00:04:16.266
+el componente de magnitud va a tener estas unidades por aquí
+
+00:04:16.266 --> 00:04:19.999
+y, a continuación, vamos a tomar esto y nos estamos salpicando con n
+
+00:04:19.999 --> 00:04:22.211
+N sólo nos da una dirección
+
+00:04:22.211 --> 00:04:26.610
+es un unidad menos vector-it sólo especifica una dirección en cualquier punto de la curva
+
+00:04:26.610 --> 00:04:34.978
+así que cuando tomo un producto escalar con esto, va a darnos esencialmente ¿cuál es la magnitud de f
+
+00:04:34.978 --> 00:04:43.240
+va en la dirección de N. Así este derecho aquí, cuando llevas el punto, es esencialmente
+
+00:04:43.240 --> 00:04:47.291
+una parte de la magnitud de f va en dirección de n
+
+00:04:47.291 --> 00:04:50.058
+y va a tener las mismas unidades exactas que f
+
+00:04:50.058 --> 00:04:56.323
+para las unidades de esta parte, vas a tener segundo kilogramos por metro
+
+00:04:56.323 --> 00:04:58.648
+y permítanme esta muy claro-
+
+00:04:58.648 --> 00:05:01.918
+Así que vamos a decir que nos estamos concentrando en este punto aquí
+
+00:05:01.918 --> 00:05:08.803
+F parece que, su magnitud, la longitud del vector de esa va a ser segundo en kilogramos por metro
+
+00:05:08.803 --> 00:05:11.914
+entonces tenemos un vector normal por ahí
+
+00:05:11.914 --> 00:05:13.579
+y cuando usted toma el producto escalar, usted está diciendo esencialmente
+
+00:05:13.579 --> 00:05:16.953
+"¿Cuál es la magnitud que va en la dirección normal?"
+
+00:05:16.953 --> 00:05:21.317
+tan esencialmente, ¿cuál es la magnitud de ese vector derecho allí
+
+00:05:21.317 --> 00:05:23.568
+va a ser segundo en kilogramos por metro
+
+00:05:23.568 --> 00:05:25.752
+y nos estamos multiplicando veces ds
+
+00:05:25.752 --> 00:05:30.717
+nos estamos multiplicando veces este segmento infinitesimal de la curva
+
+00:05:30.717 --> 00:05:32.584
+vamos a multiplicar tiempos ds
+
+00:05:32.584 --> 00:05:35.769
+bien, ¿cuáles son las unidades de ds? va a ser la unidad de longitud
+
+00:05:35.769 --> 00:05:37.464
+vamos a ir sólo con metros
+
+00:05:37.464 --> 00:05:39.650
+para que este derecho aquí va a ser metros
+
+00:05:39.650 --> 00:05:44.830
+Hay esta toda integral, vas a tener el kilogramo por metro segundo tiempos metros
+
+00:05:44.830 --> 00:05:54.994
+así que si tienes kilogramos por metro segundo y eras multiplicar veces metros, ¿qué sacas?
+
+00:05:54.994 --> 00:05:59.191
+bien este metros va a cancelar que metros y luego te sale algo un poco comienza a tener sentido
+
+00:05:59.191 --> 00:06:01.955
+tienes kilogramo por segundo
+
+00:06:01.955 --> 00:06:05.308
+y así esto esperemos que esto deja claro lo que está pasando aquí
+
+00:06:05.308 --> 00:06:09.602
+Esto nos dice cuánto masa es cruzar ese poco ds
+
+00:06:09.602 --> 00:06:12.439
+esa pequeña sección de la curva por segundo
+
+00:06:12.439 --> 00:06:15.022
+y si fueras a añadir arriba - y están lo que integrales,
+
+00:06:15.022 --> 00:06:19.086
+adición de un número infinito de estas infinitesimal ds
+
+00:06:19.086 --> 00:06:21.179
+Si se añaden todos que hasta
+
+00:06:21.179 --> 00:06:24.854
+vas a obtener-el valor de esta integral todo va a ser en kilogramos
+
+00:06:24.854 --> 00:06:27.945
+y kilogramos por segundo y básicamente va a decir,
+
+00:06:27.945 --> 00:06:34.446
+¿"Cuánto masa sale esto esta curva en un punto dado? ¿O en un momento dado?
+
+00:06:34.446 --> 00:06:46.128
+Por eso, este conjunto integral (permítanme reescribir) de F.n ds nos dice
+
+00:06:46.128 --> 00:06:57.493
+la masa que sale de la curva por segundo
+
+00:06:57.493 --> 00:06:59.402
+y esto también debe ser coherente en el último video
+
+00:06:59.402 --> 00:07:04.772
+vimos que esto es equivalente a- y esto es donde ven un poco como un teorema de la divergencia de dos dimensiones
+
+00:07:04.772 --> 00:07:11.753
+en el último video, vimos que esto es equivalente a la integral doble sobre el área de la divergencia de f
+
+00:07:11.753 --> 00:07:13.900
+que es esencialmente justo-pozo, podría escribir 2 formas
+
+00:07:13.900 --> 00:07:28.521
+la divergencia de f y este derecho aquí, que es sólo el parcial del i componente con respecto a x
+
+00:07:28.521 --> 00:07:32.213
+(permítanme escribir aquí, no quiero hacerlo demasiado rápido y suelto)
+
+00:07:32.213 --> 00:07:40.699
+para que este derecho aquí va a ser el parcial de Rho M (permítaseme escribirlo como este), Rho M
+
+00:07:40.699 --> 00:07:47.360
+con respecto a x más el parcial del componente y
+
+00:07:47.360 --> 00:07:58.856
+Rho n respecto y tiempos de cada pequeño fragmento de área
+
+00:07:58.856 --> 00:08:02.843
+Bien, ¿cuáles son las unidades de esta va a ser justo por aquí?
+
+00:08:02.843 --> 00:08:08.638
+Sabemos qué Rho M es-Rho M nos da kilogramo por metro segundo
+
+00:08:08.638 --> 00:08:12.555
+pero si tomamos la derivada con respecto a los metros de nuevo,
+
+00:08:12.555 --> 00:08:18.950
+las unidades de cualquiera de estos caracteres
+
+00:08:18.950 --> 00:08:25.170
+van a ser segundo kilogramos por metro por segundo
+
+00:08:25.170 --> 00:08:29.356
+porque estamos tomando la derivada con respeto - lo siento por metro, estamos tomando la derivada
+
+00:08:29.356 --> 00:08:33.692
+con respecto a otra unidad de distancia por lo que vas a tomar por metro
+
+00:08:33.692 --> 00:08:36.856
+así que vas a tener derecho de meter otro en el denominador
+
+00:08:36.856 --> 00:08:38.637
+va a ser las unidades aquí
+
+00:08:38.637 --> 00:08:44.649
+y luego está multiplicando veces un área
+
+00:08:44.649 --> 00:08:49.994
+así que sería metros cuadrados, este derecho aquí es metros cuadrados
+
+00:08:49.994 --> 00:08:51.941
+ellos cancelación afuera y una vez más
+
+00:08:51.941 --> 00:08:54.156
+Esta parte entera que se está sumando
+
+00:08:54.156 --> 00:08:59.167
+nos da kilogramos por segundo, así que tienes un montón de kilos por segundo
+
+00:08:59.167 --> 00:09:07.966
+y usted está simplemente sumando les en toda el área por aquí
+
+00:09:07.966 --> 00:09:13.395
+Así que esperemos que esto no tiene sentido un poco más, acerca de cómo un poco cómo conceptualizar esta función vectorial f
+
+00:09:13.395 --> 00:09:18.830
+Si te confunde, probar su mejor ignorarla que supongo
+
+00:09:18.830 --> 00:09:26.988
+para mí al menos, esto me ayudó a tener una concepción más fuerte de lo que vector f tipo de podría representar

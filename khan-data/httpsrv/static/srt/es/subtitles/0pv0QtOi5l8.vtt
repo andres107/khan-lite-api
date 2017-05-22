@@ -1,0 +1,669 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.800 --> 00:00:01.430
+Bienvenidos de nuevo
+
+00:00:01.430 --> 00:00:04.870
+En el último vídeo estábamos hallando el volumen bajo
+
+00:00:04.870 --> 00:00:06.990
+la superficie, y definimos estas bandas.
+
+00:00:06.990 --> 00:00:09.280
+Así que ahora veamos como evaluarlas
+
+00:00:09.280 --> 00:00:10.400
+Y veamos esto
+
+00:00:10.400 --> 00:00:13.510
+Y me acabo de dar cuenta que puedo desplazar la pantalla, lo que es muy
+
+00:00:13.510 --> 00:00:16.790
+útil porque ahora tengo mucho mas espacio en el tablero
+
+00:00:16.790 --> 00:00:18.290
+¿Así que cómo evaluamos ésta integral?
+
+00:00:18.290 --> 00:00:22.030
+Bueno, la primera integral que estoy integrando respecto a x
+
+00:00:22.030 --> 00:00:22.280
+de acuerdo?
+
+00:00:22.280 --> 00:00:24.770
+Estoy añadiendo las pequeñas sumas de x.
+
+00:00:24.770 --> 00:00:27.670
+y así, estoy formando este rectángulo aquí
+
+00:00:27.670 --> 00:00:27.960
+cierto?
+
+00:00:27.960 --> 00:00:30.550
+tu puedes ver que estoy dejando "y" constante y
+
+00:00:30.550 --> 00:00:32.730
+estoy integrando sobre el eje x
+
+00:00:32.730 --> 00:00:34.630
+Debería cambiar colores
+
+00:00:34.630 --> 00:00:38.660
+Entonces, ¿Cuál es la antiderivada de "x y" al cuadrado, con respecto a x?
+
+00:00:38.660 --> 00:00:44.000
+es x al cuadrado sobre 2
+
+00:00:44.000 --> 00:00:46.080
+y entonce tenemos la "y" al cuadrado -- que es una
+
+00:00:46.080 --> 00:00:48.900
+constante, todo sobre 2
+
+00:00:48.900 --> 00:00:55.890
+Y ahora voy a evaluarlo desde x = 1 hasta
+
+00:00:55.890 --> 00:00:58.660
+x es igual a la raíz cuadrada de "y", lo que te puede intimidar
+
+00:00:58.660 --> 00:01:00.930
+pero te darás cuenta que realmente no es tan malo
+
+00:01:00.930 --> 00:01:01.630
+una vez lo hallamos evaluado
+
+00:01:01.630 --> 00:01:03.540
+Y dejenme dibujar la parte exterior de la integral
+
+00:01:03.540 --> 00:01:06.620
+Esto es y = 0 hasta y = 1
+
+00:01:06.620 --> 00:01:08.830
+derivada de y
+
+00:01:08.830 --> 00:01:11.640
+ahora si x = 1, ésta expresión se convierte
+
+00:01:11.640 --> 00:01:13.400
+"y" al cuadrado sobre 2
+
+00:01:13.400 --> 00:01:14.470
+¿Cierto?
+
+00:01:14.470 --> 00:01:19.030
+"y" cuadrado sobre 2 menos; Ahora si x es igual a
+
+00:01:19.030 --> 00:01:21.320
+raíz cuadrada de "y", entonces ¿en qué se convierte esta expresión?
+
+00:01:21.320 --> 00:01:25.120
+si x es igual a la raiz cuadrada de "y", entonces
+
+00:01:25.120 --> 00:01:27.250
+x al cuadrado es y
+
+00:01:27.250 --> 00:01:30.870
+Y entonces "y" multiplicado por "y" cuadrado es "y" al cubo
+
+00:01:30.870 --> 00:01:31.180
+¿cierto?
+
+00:01:31.180 --> 00:01:36.210
+Entonces es "y" al cubo sobre 3
+
+00:01:36.210 --> 00:01:36.830
+Entendido
+
+00:01:36.830 --> 00:01:40.870
+Y ahora tomamos la integral respecto a y
+
+00:01:40.870 --> 00:01:45.520
+Y ahora sumamos todos estos rectángulos en la dirección de y
+
+00:01:45.520 --> 00:01:46.420
+0, 1
+
+00:01:46.420 --> 00:01:47.620
+esto es respecto a y
+
+00:01:47.620 --> 00:01:48.910
+Y esto es genial, no?
+
+00:01:48.910 --> 00:01:52.820
+Porque cuando tomamos la primera integral respecto a x
+
+00:01:52.820 --> 00:01:55.030
+terminamos con una función de y de todas formas, así que también debemos
+
+00:01:55.030 --> 00:01:57.120
+tener las banda como función de y s
+
+00:01:57.120 --> 00:01:59.510
+Esto no lo hace mas difícil
+
+00:01:59.510 --> 00:02:00.850
+Pero de todas formas, de vuelta al problema
+
+00:02:00.850 --> 00:02:07.440
+cuál es la antiderivada de y al cuadrado sobre 2
+
+00:02:07.440 --> 00:02:11.380
+menos y al cubo sobre 3
+
+00:02:11.380 --> 00:02:15.430
+bueno la anti derivada de y al cuadrado-- y tu tienes que
+
+00:02:15.430 --> 00:02:18.130
+dividir por 3, así que es y al cubo sobre 6
+
+00:02:18.130 --> 00:02:23.670
+menos y a la cuarta-- tu tienes que dividirla por 4
+
+00:02:23.670 --> 00:02:28.480
+menor y a la cuarta sobre-- me equivoque en algún paso?
+
+00:02:28.480 --> 00:02:32.385
+No, creo que es correcto, y a la cuarta sobre 12
+
+00:02:36.080 --> 00:02:36.530
+Esperen
+
+00:02:36.530 --> 00:02:37.480
+Por qué puse un 3 aquí?
+
+00:02:37.480 --> 00:02:38.330
+Ahí es donde me equivoque
+
+00:02:38.330 --> 00:02:39.360
+esto es un 2, verdad?
+
+00:02:44.490 --> 00:02:45.520
+Veamos
+
+00:02:45.520 --> 00:02:46.800
+x es la raíz cuadrada de y
+
+00:02:46.800 --> 00:02:48.270
+Si, este es un 2
+
+00:02:48.270 --> 00:02:49.150
+Ni se como lo hice
+
+00:02:49.150 --> 00:02:49.510
+Cierto?
+
+00:02:49.510 --> 00:02:52.270
+Raíz cuadrada de y al cuadrado es y, por y al cuadrado
+
+00:02:52.270 --> 00:02:53.575
+y al cubo sobre 2
+
+00:02:57.470 --> 00:02:58.030
+verdad?
+
+00:02:58.030 --> 00:03:00.900
+Y entonces cuando tomo la integral de esto
+
+00:03:00.900 --> 00:03:03.590
+es 4 multiplicado por 2
+
+00:03:03.590 --> 00:03:04.240
+ocho.
+
+00:03:04.240 --> 00:03:06.670
+Tengo que asegurarme de no hacer esos errores por descuido
+
+00:03:06.670 --> 00:03:07.440
+esa es la parte difícil
+
+00:03:07.440 --> 00:03:09.500
+Solo quiero asegurarme de que tu lo aprendiste también.
+
+00:03:09.500 --> 00:03:10.620
+Odio cuando me pasa eso.
+
+00:03:10.620 --> 00:03:12.350
+Pero no quiero volver a grabar todo el vídeo.
+
+00:03:12.350 --> 00:03:15.340
+Así que cuando evaluamos esto
+
+00:03:15.340 --> 00:03:17.490
+Esta bien, y entonces tomamos la anti derivada de y al cubo
+
+00:03:17.490 --> 00:03:21.430
+sobre 2, tenemos y a la cuarta sobre 8
+
+00:03:21.430 --> 00:03:26.550
+Y ahora evaluamos esto en 1 y 0
+
+00:03:26.550 --> 00:03:27.540
+Y eso que nos da?
+
+00:03:27.540 --> 00:03:34.290
+1/6 menos 1/8 -- bueno, estos dos cuando los evalúas
+
+00:03:34.290 --> 00:03:35.410
+van a ser 0
+
+00:03:35.410 --> 00:03:37.700
+entonces esto va a ser otro 0 menos 0
+
+00:03:37.700 --> 00:03:38.530
+Así que no te debes preocupar por eso
+
+00:03:38.530 --> 00:03:41.000
+Entonces, ¿cuanto es 1/6 menos 1/8?
+
+00:03:41.000 --> 00:03:41.930
+Veamos
+
+00:03:41.930 --> 00:03:43.310
+veinticuatro
+
+00:03:43.310 --> 00:03:50.070
+Eso es 4 menos 3 sobre 2, lo cual es igual a 1/24... Es el
+
+00:03:50.070 --> 00:03:51.600
+volumen de nuestra figura
+
+00:03:55.640 --> 00:04:00.280
+Asi que ahora, de la misma forma que lo hicimos, tomamos la integral
+
+00:04:00.280 --> 00:04:02.486
+con respecto a x primera, y despues lo hicimos con
+
+00:04:02.486 --> 00:04:02.950
+respecto a y
+
+00:04:02.950 --> 00:04:04.930
+Hagamoslo de forma contraria
+
+00:04:04.930 --> 00:04:07.520
+Dejenme borrar algunas cosas
+
+00:04:07.520 --> 00:04:11.390
+Y esperemos que no haga estos pequen'os errores de nuevo
+
+00:04:11.390 --> 00:04:14.670
+Mantendre esta figura, pero borrare esta
+
+00:04:19.486 --> 00:04:21.704
+Dejenme borrar todo esto
+
+00:04:24.280 --> 00:04:27.430
+Tenemos espacio para trabajar
+
+00:04:27.430 --> 00:04:29.150
+Mantuve esta figura
+
+00:04:29.150 --> 00:04:33.510
+pero dibujare de nuevo el plano xy, solo para que
+
+00:04:33.510 --> 00:04:36.300
+la visualizacion este bien
+
+00:04:36.300 --> 00:04:38.400
+Es mas importante visualizar el plano xy en
+
+00:04:38.400 --> 00:04:41.070
+estos problemas de lo que es visualizarlo
+
+00:04:41.070 --> 00:04:44.090
+en el de 3-d
+
+00:04:44.090 --> 00:04:46.350
+Ese es el eje de la y, ese es el eje de la x
+
+00:04:51.870 --> 00:04:52.230
+Bueno
+
+00:04:52.230 --> 00:04:55.720
+Nuestro limite superior, se puede decir, es la grafica y
+
+00:04:55.720 --> 00:04:56.460
+igual a x al cuadrado
+
+00:04:59.210 --> 00:05:00.848
+O se podria ver como el limite de x igual
+
+00:05:00.848 --> 00:05:02.000
+a la raiz cuadrada de y
+
+00:05:02.000 --> 00:05:06.510
+Eso es x=1, lo cual es y=1
+
+00:05:06.510 --> 00:05:09.930
+Y nos importa el volumen sobre la region sombrada
+
+00:05:09.930 --> 00:05:10.190
+Cierto?
+
+00:05:10.190 --> 00:05:12.750
+Esa region sombreada es la parte amarilla aqui
+
+00:05:12.750 --> 00:05:15.800
+y dibujemos nuestro da
+
+00:05:15.800 --> 00:05:18.520
+Dibujare un pequen'o cuadrado
+
+00:05:18.520 --> 00:05:20.025
+Y lo hare en magenta
+
+00:05:23.490 --> 00:05:26.190
+Bueno, este es nuestro pequen'o da
+
+00:05:26.190 --> 00:05:29.160
+Y la altura es dy
+
+00:05:29.160 --> 00:05:30.370
+Eso es una y
+
+00:05:30.370 --> 00:05:31.260
+dy
+
+00:05:31.260 --> 00:05:33.240
+Y esta con esta dx
+
+00:05:33.240 --> 00:05:33.870
+no es asi?
+
+00:05:33.870 --> 00:05:38.290
+Asi que el volumen sobre este pequen'o cuadro... es el mismo
+
+00:05:38.290 --> 00:05:39.680
+que este cuadrado chico
+
+00:05:39.680 --> 00:05:42.620
+Justo como se menciono antes, el volumen superior es igual al
+
+00:05:42.620 --> 00:05:43.850
+de el valor de la funcion
+
+00:05:43.850 --> 00:05:44.090
+Correcto?
+
+00:05:44.090 --> 00:05:49.210
+La altura es el valor de la funcion, el cual es x y cuadrado
+
+00:05:49.210 --> 00:05:51.390
+Y despues lo multiplicamos por el area de la base
+
+00:05:51.390 --> 00:05:54.700
+Bueno, se podria decir que el area de la base es da, pero sabemos
+
+00:05:54.700 --> 00:05:56.490
+que en realidad es dy por dx
+
+00:05:59.100 --> 00:06:00.680
+No tuve que escribir la multiplicacion ahi
+
+00:06:00.680 --> 00:06:02.450
+La pueden ignorar
+
+00:06:02.450 --> 00:06:03.800
+Y escribi la y primero solo porque vamos
+
+00:06:03.800 --> 00:06:05.490
+a integrar con respecto a y primero
+
+00:06:05.490 --> 00:06:07.310
+Vamos a sumar en la direccion y
+
+00:06:07.310 --> 00:06:09.300
+Entonces, que significa sumar en la direccion de y?
+
+00:06:09.300 --> 00:06:11.920
+Quiere decir que vamos a agregar ese cuadrado a ese
+
+00:06:11.920 --> 00:06:14.828
+cuadrado a ese cuadrado
+
+00:06:14.828 --> 00:06:16.070
+augh augh
+
+00:06:16.070 --> 00:06:16.800
+Disculpen
+
+00:06:16.800 --> 00:06:21.290
+Asi que estamos agregando todas las dy's juntas cierto?
+
+00:06:21.290 --> 00:06:26.230
+Bueno, mi pregunta para ti es, que es el limite superior sobre la y?
+
+00:06:26.230 --> 00:06:28.600
+Nuevamente, nos encontramos con la curva
+
+00:06:28.600 --> 00:06:28.970
+Correcto?
+
+00:06:28.970 --> 00:06:32.000
+Asi que la curva es el limite superior cuando vamos hacia arriba
+
+00:06:32.000 --> 00:06:34.130
+Y que es el limite superior sobre la curva
+
+00:06:34.130 --> 00:06:37.680
+Bueno, estamos sosteniendo a x fija, asi que por cualquier valor dado
+
+00:06:37.680 --> 00:06:40.300
+a x, cual es este punto?
+
+00:06:40.300 --> 00:06:41.730
+Sera x al cuadrado
+
+00:06:41.730 --> 00:06:42.000
+No es asi?
+
+00:06:42.000 --> 00:06:43.940
+Por que esta es la grafica de y es igual a x al cuadrado
+
+00:06:43.940 --> 00:06:48.700
+Asi que nuestro limite superior es y igual a x cuadrada
+
+00:06:48.700 --> 00:06:49.800
+Y que es nuestro limite inferior?
+
+00:06:49.800 --> 00:06:52.310
+Podemos seguir agregando esos cuadrados aqui abajo
+
+00:06:52.310 --> 00:06:54.550
+Estamos agregando todos los pequen'os cambios en y
+
+00:06:54.550 --> 00:06:55.610
+bien, que es nuestro limite inferior?
+
+00:06:55.610 --> 00:06:56.730
+bueno, nuetro limite inferior es solo 0
+
+00:06:56.730 --> 00:06:57.575
+Eso fue muy directo
+
+00:07:00.470 --> 00:07:06.600
+Esta es nuestra expresion, conforme se escribe ahora, es el
+
+00:07:06.600 --> 00:07:10.110
+volumen que hay sobre el rectangulo
+
+00:07:10.110 --> 00:07:11.940
+No es asi?
+
+00:07:11.940 --> 00:07:13.790
+Dejenme dibujarlo
+
+00:07:13.790 --> 00:07:15.860
+Es el volumen sobre este rectangulo
+
+00:07:15.860 --> 00:07:18.890
+Estos son los rectangulos
+
+00:07:18.890 --> 00:07:22.730
+El volumen sobre ese rectangulo
+
+00:07:22.730 --> 00:07:25.790
+Ahora, lo que queremos hacer es sumar todas las dx's juntas y
+
+00:07:25.790 --> 00:07:27.670
+obtendremos el volumen sobre la superficie entera
+
+00:07:27.670 --> 00:07:29.880
+Asi que, ese rectangulo, lo sumaremos a otro
+
+00:07:29.880 --> 00:07:32.240
+dx uno, dx uno como ese
+
+00:07:32.240 --> 00:07:34.920
+Bueno, que son los limites inferiores y superiores sobre el eje de la x?
+
+00:07:34.920 --> 00:07:37.070
+Vamos desde x es igual a cero, cierto?
+
+00:07:37.070 --> 00:07:39.650
+No nos encontramos con la grafica cuando vamos hacia abajo
+
+00:07:39.650 --> 00:07:41.950
+Asi que vamos de x es igual a 0
+
+00:07:41.950 --> 00:07:45.060
+y asi nuestro limite superior es x igual a 1
+
+00:07:45.060 --> 00:07:47.520
+dado que x es igual a cero, x es igual a 1
+
+00:07:47.520 --> 00:07:51.630
+y en general, una forma de verlo seria cuando estas
+
+00:07:51.630 --> 00:07:56.020
+haciendo algun tipo de suma final o de ultimo integral, tu realmente
+
+00:07:56.020 --> 00:07:59.160
+no deberias tener limites variables a este punto
+
+00:07:59.160 --> 00:07:59.520
+No es asi?
+
+00:07:59.520 --> 00:08:03.120
+Por que nuestra respuesta final tiene que ser un numero asumiendo
+
+00:08:03.120 --> 00:08:06.360
+que no estamos tratando con algo muy, muy abstracto
+
+00:08:06.360 --> 00:08:07.980
+pero nuestra respuesta final tendra que ser un numero
+
+00:08:07.980 --> 00:08:09.760
+asi que si tuviste algunas variables aqui probablemente
+
+00:08:09.760 --> 00:08:10.740
+hiciste algo mal
+
+00:08:10.740 --> 00:08:13.640
+y siempre es util, pienso yo, dibujar ese pequen'o da
+
+00:08:13.640 --> 00:08:16.160
+y despues descifrar... ok, estoy asumiendo dy primero
+
+00:08:16.160 --> 00:08:18.320
+cuando voy arriba me encuentro con la curva
+
+00:08:18.320 --> 00:08:20.210
+Que es ese limite superior si x es constante?
+
+00:08:20.210 --> 00:08:22.380
+oh, es x al cuadrado. y es igual a x al cuadrado
+
+00:08:22.380 --> 00:08:26.260
+si vamos hacia abajo, nos encontramos con el eje de las x's, o que y es igual a 0
+
+00:08:26.260 --> 00:08:27.410
+y asi susesivamente
+
+00:08:27.410 --> 00:08:29.910
+vayamos ahora a evaluar esto y confirmar que
+
+00:08:29.910 --> 00:08:32.110
+consigamos el mismo resultado
+
+00:08:32.110 --> 00:08:34.600
+estamos ahora integrando con respecto a y primero
+
+00:08:34.600 --> 00:08:40.040
+esto es x y a la tercera, aqui
+
+00:08:40.040 --> 00:08:42.990
+de x cuadrada y cero
+
+00:08:42.990 --> 00:08:46.050
+y despues tenemos nuestro integral exterior. x va de 0 a 1
+
+00:08:46.050 --> 00:08:48.050
+dx
+
+00:08:48.050 --> 00:08:51.490
+si substituimos x cuadrad por y
+
+00:08:51.490 --> 00:08:55.190
+x cuadrad a la tercera potencia es lo mismo que x a la sexta
+
+00:08:55.190 --> 00:08:58.800
+x a la sexta por x.... dejenme escribirlo
+
+00:08:58.800 --> 00:09:04.300
+asi que tenemos x por x cuadrada a la tercera potencia, sobre 3
+
+00:09:04.300 --> 00:09:08.540
+eso es igual a x a la septima
+
+00:09:08.540 --> 00:09:11.750
+correcto? x cuadrad a la tercera... multiplicas los exponentes y
+
+00:09:11.750 --> 00:09:16.350
+despues los sumas, X a la septima sobre 3, menos esto
+
+00:09:16.350 --> 00:09:17.790
+evaluado con y igual a 0
+
+00:09:17.790 --> 00:09:18.940
+pero eso solo va a ser 0
+
+00:09:18.940 --> 00:09:20.410
+no?
+
+00:09:20.410 --> 00:09:26.400
+y despues evaluamos eso de 0 a 1, dx
+
+00:09:26.400 --> 00:09:28.680
+ya casi terminamos
+
+00:09:28.680 --> 00:09:30.620
+incrementa el exponente
+
+00:09:30.620 --> 00:09:33.370
+re queda x a la octava sobre 8
+
+00:09:33.370 --> 00:09:36.950
+y ya tenemos un 3 aqui abajo, asi que es sobre 24
+
+00:09:36.950 --> 00:09:39.760
+y evaluas eso de 0 a 1
+
+00:09:39.760 --> 00:09:42.290
+y pienso que obtenemos el mismo resultado
+
+00:09:42.290 --> 00:09:46.100
+cuando lo avaluas a 1 te resulta 1/24 menos 0
+
+00:09:46.100 --> 00:09:49.180
+Nuevamente, cuando integramos en el otro orden
+
+00:09:49.180 --> 00:09:53.340
+seguimos obteniendo el volumen de la figura, siendo 1/4
+
+00:09:53.340 --> 00:09:55.290
+lo que sea, en unidades cubicas
+
+00:09:55.290 --> 00:09:57.760
+de cualquier forma, nos vemos en el siguiente video

@@ -1,0 +1,120 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:04.357 --> 00:00:05.866
+Considere lo siguiente:
+
+00:00:05.866 --> 00:00:08.407
+Imagine 2 habitaciones
+
+00:00:08.407 --> 00:00:12.977
+dentro de cada habitación hay un interruptor.
+
+00:00:12.977 --> 00:00:15.743
+En una habitación hay una hombre que maneja el interruptor
+
+00:00:15.743 --> 00:00:17.337
+de acuerdo con un lanzamiento de una moneda.
+
+00:00:17.337 --> 00:00:19.728
+Si sale cara, se enciende el interruptor
+
+00:00:19.728 --> 00:00:21.980
+si sale ceca se apaga.
+
+00:00:21.980 --> 00:00:24.942
+En la otra habitación una mujer maneja otro interruptor
+
+00:00:24.942 --> 00:00:26.608
+basada en una suposición ciega.
+
+00:00:26.608 --> 00:00:30.030
+Ella trata de simular aleatoriedad sin usar una moneda
+
+00:00:30.030 --> 00:00:31.934
+Entonces encendemos un reloj
+
+00:00:31.934 --> 00:00:35.674
+Y ellos manejan sus interruptores al unísono.
+
+00:00:39.704 --> 00:00:41.357
+¿Puedes determinar cuál bombilla de luz
+
+00:00:41.357 --> 00:00:43.977
+es la controlada con el lanzamiento de la moneda?
+
+00:00:48.996 --> 00:00:50.592
+La respuesta es SÍ.
+
+00:00:50.592 --> 00:00:52.656
+Pero ¿Cómo?
+
+00:00:59.746 --> 00:01:02.646
+El truco es considerar las propiedades de las secuencias
+
+00:01:02.646 --> 00:01:05.782
+en lugar de buscar un patrón especifico.
+
+00:01:05.782 --> 00:01:07.840
+Por ejemplo, primero podemos intentar
+
+00:01:07.840 --> 00:01:10.112
+contar el número de ceros y unos
+
+00:01:10.112 --> 00:01:11.321
+que aparecen en cada secuencia.
+
+00:01:11.321 --> 00:01:13.336
+Eso ayuda pero no lo suficiente
+
+00:01:13.336 --> 00:01:16.406
+ya que las dos parecen estar bastante parejas.
+
+00:01:16.406 --> 00:01:19.816
+La respuesta es contar secuencias de números
+
+00:01:19.816 --> 00:01:22.974
+tales como pistas de tres interruptores consecutivos
+
+00:01:22.974 --> 00:01:25.657
+Una secuencia verdaderamente aleatoria debería también
+
+00:01:25.657 --> 00:01:28.714
+contener de igual forma cualquier secuencia de cualquier longitud.
+
+00:01:28.714 --> 00:01:32.050
+Es lo que se llama propiedad de estabilidad de la frecuencia
+
+00:01:32.050 --> 00:01:35.053
+y se la demuestra con este grafico uniforme.
+
+00:01:35.053 --> 00:01:38.009
+La falsificación ahora es evidente
+
+00:01:38.009 --> 00:01:40.446
+Los humanos favorecemos ciertas secuencias cuando hacemos conjeturas.
+
+00:01:40.446 --> 00:01:43.553
+dando como resultado un patrón desparejo como el que vemos aquí.
+
+00:01:43.553 --> 00:01:45.125
+Una razón de que esto suceda
+
+00:01:45.125 --> 00:01:47.061
+es que caemos en el error de pensar
+
+00:01:47.061 --> 00:01:49.320
+que ciertos resultados son menos aleatorios que otros.
+
+00:01:49.320 --> 00:01:53.725
+Pero no existe nada parecido a un número de la suerte.
+
+00:01:53.725 --> 00:01:56.742
+Ni tampoco una secuencia de la suerte.
+
+00:01:56.742 --> 00:02:00.938
+Si lanzamos una moneda 10 veces, es igualmente posible que salgan
+
+00:02:00.938 --> 00:02:08.098
+todas caras, todas cecas o cualquier otra secuencia que te pueda imaginar.

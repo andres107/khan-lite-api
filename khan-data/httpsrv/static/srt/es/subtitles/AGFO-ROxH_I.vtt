@@ -1,0 +1,511 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.770 --> 00:00:03.420
+Jamir está entrenando para una carrera y está corriendo
+
+00:00:03.420 --> 00:00:05.170
+vueltas alrededor del campo.
+
+00:00:05.170 --> 00:00:10.070
+Si la distancia alrededor del campo es 300 yardas,
+
+00:00:10.070 --> 00:00:17.930
+¿cuántas vueltas completas necesitaría hacer para correr por lo menos 2 millas?
+
+00:00:17.930 --> 00:00:21.272
+Entonces nos dicen qué tan larga es una vuelta, es de 300 yardas
+
+00:00:21.272 --> 00:00:24.310
+pero necesitamos averiguar cuántas vueltas dar para hacer 2 millas.
+
+00:00:24.310 --> 00:00:27.210
+Un buen punto de comienzo sería convertir todo en la misma unidad
+
+00:00:27.210 --> 00:00:30.020
+Tenemos distancia aquí en términos de millas, lo tenemos aquí en
+
+00:00:30.020 --> 00:00:31.130
+términos de yardas.
+
+00:00:31.130 --> 00:00:32.960
+Entonces convirtamos todo en yardas.
+
+00:00:32.960 --> 00:00:34.470
+Entonces él necesita correr 2 millas.
+
+00:00:37.730 --> 00:00:39.450
+¿Cómo convertimos eso en yardas?
+
+00:00:39.450 --> 00:00:41.820
+Bueno, no tengo memorizado cuántas yardas hay
+
+00:00:41.820 --> 00:00:45.040
+por cada milla, pero si tengo memorizado cuántos pies
+
+00:00:45.040 --> 00:00:45.710
+hay por cada milla.
+
+00:00:45.710 --> 00:00:48.060
+Y es una buena cosa para tener en la memoria
+
+00:00:48.060 --> 00:00:54.940
+que en general tienes 5,280 pies por cada milla.
+
+00:00:54.940 --> 00:00:55.930
+Es un buen número a recordar.
+
+00:00:55.930 --> 00:00:58.740
+5,280 pies por cada milla.
+
+00:00:58.740 --> 00:01:01.530
+Si queremos convertir, podemos convertir primero las millas a pies,
+
+00:01:01.530 --> 00:01:04.050
+y luego sabemos que hay 3 pies por cada yarda, y
+
+00:01:04.050 --> 00:01:06.770
+luego tendremos 2 millas en términos de yardas.
+
+00:01:06.770 --> 00:01:09.930
+Entonces 2 millas, si las queremos convertidas en pies,
+
+00:01:09.930 --> 00:01:15.650
+queremos millas en el denominador y queremos pies en el numerador.
+
+00:01:15.650 --> 00:01:18.450
+Y la razón por la que digo eso es para que estas millas
+
+00:01:18.450 --> 00:01:19.850
+se cancelen con esas millas
+
+00:01:19.850 --> 00:01:21.050
+y tendremos pies ahí.
+
+00:01:21.050 --> 00:01:28.460
+Y acabo de escribir, que hay 5,280 pies por cada milla.
+
+00:01:28.460 --> 00:01:31.810
+o puedes decir 5,280 pies por cada 1 milla.
+
+00:01:31.810 --> 00:01:33.390
+Puedes escribirlo de cualquier forma
+
+00:01:33.390 --> 00:01:34.490
+pero escribamoslo así.
+
+00:01:34.490 --> 00:01:35.770
+Y luego podemos multiplicar.
+
+00:01:35.770 --> 00:01:37.460
+Entonces ¿qué nos va a dar esto?
+
+00:01:37.460 --> 00:01:44.340
+Si simplemente multiplicamos los números 2 veces 5,280.
+
+00:01:44.340 --> 00:01:45.310
+¿Qué es lo que eso va a ser?
+
+00:01:45.310 --> 00:01:46.820
+Quizá deba sacar una calculadora.
+
+00:01:46.820 --> 00:01:50.130
+O podríamos hacerlo en nuestra cabeza.
+
+00:01:50.130 --> 00:01:53.710
+Pensemos en eso de esta manera:
+2 veces 80 es 160.
+
+00:01:53.710 --> 00:01:56.990
+2 veces 200 es 400.
+
+00:01:56.990 --> 00:02:00.140
+Entonces va a ser 400 + 160 va a ser 560.
+
+00:02:00.140 --> 00:02:02.940
+Y luego 2 veces 5,000 es 10,000.
+
+00:02:02.940 --> 00:02:07.140
+Entonces es 10,560.
+
+00:02:07.140 --> 00:02:12.590
+Y luego las millas se cancelan,
+
+00:02:12.590 --> 00:02:14.020
+y nos quedamos solo con pies.
+
+00:02:14.020 --> 00:02:15.630
+Y de hecho déjame multiplicarlo.
+
+00:02:15.630 --> 00:02:17.900
+Lo hice en mi cabeza esa vez, pero eso no siempre es útil.
+
+00:02:17.900 --> 00:02:23.350
+Déjame verificar que 5.280
+
+00:02:23.350 --> 00:02:27.080
+por 2 de hecho es 10,560.
+
+00:02:27.080 --> 00:02:29.010
+Entonces 2 veces 0 es 0.
+
+00:02:29.010 --> 00:02:31.400
+2 veces 8 es 16.
+
+00:02:31.400 --> 00:02:32.500
+Llevo 1.
+
+00:02:32.500 --> 00:02:35.920
+2 veces 2 es 4, más 1 es 5.
+
+00:02:35.920 --> 00:02:37.840
+2 veces 5 es 10.
+
+00:02:37.840 --> 00:02:40.190
+10,560.
+
+00:02:40.190 --> 00:02:43.670
+Entonces él necesita correr 10,560 pies.
+
+00:02:43.670 --> 00:02:48.070
+Ahora, queremos esto en términos de yardas.
+
+00:02:48.070 --> 00:02:52.320
+Entonces 10,560 pies.
+
+00:02:52.320 --> 00:02:54.620
+Vamos a convertirlo en yardas.
+
+00:02:54.620 --> 00:02:55.860
+Bueno, lo queremos en yardas.
+
+00:02:55.860 --> 00:03:00.300
+Entonces queremos yardas en el numerador, y queremos pies
+
+00:03:00.300 --> 00:03:02.900
+en el denominador, para que los pies se cancelen con los pies
+
+00:03:02.900 --> 00:03:04.210
+justo aquí.
+
+00:03:04.210 --> 00:03:08.185
+Y sabemos que hay 3 pies por cada yarda.
+
+00:03:11.550 --> 00:03:14.450
+U otra forma de leer esto es que tienes 1/3 de yarda
+
+00:03:14.450 --> 00:03:15.730
+por cada pie.
+
+00:03:15.730 --> 00:03:17.760
+Y ahora podemos multiplicar.
+
+00:03:17.760 --> 00:03:18.590
+Y esto tiene sentido.
+
+00:03:18.590 --> 00:03:21.330
+Si estás yendo de pies a yardas, el número debería
+
+00:03:21.330 --> 00:03:23.720
+hacerse más pequeño, porque la yarda es una unidad más grande.
+
+00:03:23.720 --> 00:03:26.970
+Necesitas menos yardas para medir la misma distancia que en cierto
+
+00:03:26.970 --> 00:03:27.730
+número de pies.
+
+00:03:27.730 --> 00:03:29.770
+Entonces tiene sentido que estemos dividiendo.
+
+00:03:29.770 --> 00:03:32.740
+Lo mismo: 2 millas son muchos pies, entonces tuvo sentido que
+
+00:03:32.740 --> 00:03:34.760
+estuviéramos multiplicando por un número más grande.
+
+00:03:34.760 --> 00:03:36.720
+Aquí tiene sentido que estemos dividiendo.
+
+00:03:36.720 --> 00:03:37.970
+Entonces hagamos esto.
+
+00:03:37.970 --> 00:03:41.900
+Entonces esto se convierte en 10,560 veces 1 dividido por 3.
+
+00:03:41.900 --> 00:03:46.670
+Entonces es 10,560/3.
+
+00:03:46.670 --> 00:03:48.220
+Eso es esto y esta parte.
+
+00:03:48.220 --> 00:03:52.570
+Y luego los pies se cancelan
+
+00:03:52.570 --> 00:03:55.170
+y nos quedamos con yardas.
+
+00:03:55.170 --> 00:04:02.760
+Entonces 2 millas son 10,560 dividido por 3.
+
+00:04:02.760 --> 00:04:05.310
+Y vamos a averiguar qué es eso.
+
+00:04:05.310 --> 00:04:11.090
+Entonces 3 va dentro de 10,560.
+
+00:04:11.090 --> 00:04:12.460
+No entra en 1.
+
+00:04:12.460 --> 00:04:14.280
+Entra en 10 tres veces.
+
+00:04:14.280 --> 00:04:16.140
+3 veces 3 es 9.
+
+00:04:16.140 --> 00:04:17.589
+Y restamos.
+
+00:04:17.589 --> 00:04:18.630
+Nos queda 1.
+
+00:04:18.630 --> 00:04:19.910
+Bajamos el 5.
+
+00:04:19.910 --> 00:04:21.209
+Se convierte en 15.
+
+00:04:21.209 --> 00:04:24.190
+3 entra en 15 cinco veces.
+
+00:04:24.190 --> 00:04:27.380
+5 veces 3 es 15.
+
+00:04:27.380 --> 00:04:29.890
+no tenemos residuo, o 0.
+
+00:04:29.890 --> 00:04:32.220
+Bajamos el 6.
+
+00:04:32.220 --> 00:04:34.290
+3 entra en 6 dos veces.
+
+00:04:34.290 --> 00:04:35.980
+Déjame desplazarme hacia abajo un poco.
+
+00:04:35.980 --> 00:04:37.740
+2 veces 3 es 6.
+
+00:04:37.740 --> 00:04:38.590
+Restamos.
+
+00:04:38.590 --> 00:04:39.620
+No hay residuo.
+
+00:04:39.620 --> 00:04:41.430
+Bajamos el último 0.
+
+00:04:41.430 --> 00:04:44.000
+3 entra en 0 cero veces.
+
+00:04:44.000 --> 00:04:45.920
+0 veces 3 es 0.
+
+00:04:45.920 --> 00:04:49.150
+Y no tenemos residuo.
+
+00:04:49.150 --> 00:05:00.090
+Entonces 2 millas es equivalente a 3,520 yardas.
+
+00:05:00.090 --> 00:05:02.150
+Esa es la distancia total que él tiene que viajar.
+
+00:05:02.150 --> 00:05:04.680
+Ese es el equivalente a 2 millas.
+
+00:05:04.680 --> 00:05:06.770
+Ahora queremos averiguar cuantas vueltas hay.
+
+00:05:06.770 --> 00:05:10.820
+Queremos esto en términos de vueltas, no en términos de yardas.
+
+00:05:10.820 --> 00:05:15.070
+Así que queremos que las yardas se cancelen.
+
+00:05:15.070 --> 00:05:18.590
+Y queremos vueltas en el numerados ¿verdad?
+
+00:05:18.590 --> 00:05:20.690
+Porque cuando multiplicas, las yardas se cancelarán.
+
+00:05:20.690 --> 00:05:22.630
+y nos quedaremos solo con vueltas.
+
+00:05:22.630 --> 00:05:26.436
+Ahora, ¿cuántas vueltas hay por cada yardas o yardas por cada vuelta?
+
+00:05:26.436 --> 00:05:29.600
+Bueno, nos dicen que la distancia alrededor del campo es de 300 yardas.
+
+00:05:29.600 --> 00:05:35.530
+Entonces tenemos 300 yardas por cada vuelta.
+
+00:05:35.530 --> 00:05:37.900
+Entonces ahora, multiplicamos esto de aquí.
+
+00:05:37.900 --> 00:05:43.400
+Las yardas se cancelan, y obtenemos 3,520.
+
+00:05:43.400 --> 00:05:45.480
+Déjame hacer eso en un color diferente.
+
+00:05:45.480 --> 00:05:52.460
+Obtendremos 3,520 justo ahí, multiplicado por 1/300.
+
+00:05:52.460 --> 00:05:54.020
+Cuando lo multiplicas por 1, se convierte
+
+00:05:54.020 --> 00:05:57.860
+en 3,520 dividido por 300.
+
+00:05:57.860 --> 00:06:00.550
+Y en términos de las unidades, las yardas se cancelan.
+
+00:06:00.550 --> 00:06:03.430
+Nos quedamos solamente con las vueltas.
+
+00:06:03.430 --> 00:06:05.820
+Entonces esta es la cantidad de vueltas que necesita correr.
+
+00:06:05.820 --> 00:06:09.700
+Entonces 3,520 dividido por 300.
+
+00:06:09.700 --> 00:06:12.450
+Bueno podemos hacer un calculo al ojo esto de aquí.
+
+00:06:12.450 --> 00:06:15.170
+¿Qué es 11 veces 300?
+
+00:06:15.170 --> 00:06:16.830
+Vamos a aproximar esto de aquí.
+
+00:06:16.830 --> 00:06:22.100
+Entonces si hiciéramos 11 veces 300.
+
+00:06:22.100 --> 00:06:23.580
+¿Qué es lo que eso va a ser?
+
+00:06:23.580 --> 00:06:28.700
+Bueno, 11 veces 3 es 33, y luego tenemos 2 ceros aquí.
+
+00:06:28.700 --> 00:06:30.270
+Entonces esto será 3,300.
+
+00:06:30.270 --> 00:06:32.250
+Entonces es un poco menor que eso.
+
+00:06:32.250 --> 00:06:35.850
+Si tenemos 12 veces 300, ¿qué es lo que eso va a ser?
+
+00:06:35.850 --> 00:06:41.110
+12 veces 3 es 36, y luego tenemos estos 2 ceros.
+
+00:06:41.110 --> 00:06:43.490
+Así que es igual a 3,600.
+
+00:06:43.490 --> 00:06:45.680
+Así que esto va a ser 11 punto algo más.
+
+00:06:45.680 --> 00:06:48.540
+Es más grande que 11, ¿verdad?
+
+00:06:48.540 --> 00:06:51.130
+3,520 es mayor que 3,300.
+
+00:06:51.130 --> 00:06:53.140
+Entonces cuando divides por 300, vas a obtener algo
+
+00:06:53.140 --> 00:06:54.740
+mayor a 11.
+
+00:06:54.740 --> 00:06:58.280
+Pero este número de aquí es más pequeño que 3,600 así que
+
+00:06:58.280 --> 00:06:59.660
+cuando lo dividas por 300, vas a obtener algo un poco
+
+00:07:01.040 --> 00:07:02.420
+menor que 12.
+
+00:07:02.420 --> 00:07:05.800
+Entonces el número exacto de vueltas va a ser un poco menor
+
+00:07:05.800 --> 00:07:07.570
+que 12 vueltas.
+
+00:07:07.570 --> 00:07:10.620
+Entonces 2 millas es un poco menor que 12 vueltas.
+
+00:07:10.620 --> 00:07:12.820
+Pero hay que asegurarnos que estamos respondiendo correctamente a su pregunta.
+
+00:07:12.820 --> 00:07:17.170
+¿Cuántas vueltas completas él necesitaría hacer para
+
+00:07:17.170 --> 00:07:18.560
+correr al menos 2 millas?
+
+00:07:18.560 --> 00:07:22.190
+Entonces nos están diciendo que, mira, esto puede ser 11 punto
+
+00:07:22.190 --> 00:07:23.870
+algo, algo, algo, vueltas.
+
+00:07:23.870 --> 00:07:26.930
+Ese sería el número exacto de vueltas para correr 2 millas.
+
+00:07:26.930 --> 00:07:30.170
+Pero dicen ¿Cuántas vueltas completas él necesita correr?
+
+00:07:30.170 --> 00:07:33.240
+11 vueltas completas no serían suficientes.
+
+00:07:33.240 --> 00:07:35.820
+Él tendría que correr 12.
+
+00:07:35.820 --> 00:07:41.470
+Entonces nuestra respuesta aquí es 12 vueltas completas.
+
+00:07:41.470 --> 00:07:42.980
+Ese completo nos dice que ellos quieren un
+
+00:07:42.980 --> 00:07:44.310
+número entero de vueltas.
+
+00:07:44.310 --> 00:07:45.730
+No podemos simplemente dividir esto.
+
+00:07:45.730 --> 00:07:47.690
+Si dividimos esto, vamos a tener 11 punto
+
+00:07:47.690 --> 00:07:48.310
+algo algo.
+
+00:07:48.310 --> 00:07:50.420
+Lo puedes hacer con tu calculadora o a mano si estás
+
+00:07:50.420 --> 00:07:51.070
+interesado.
+
+00:07:51.070 --> 00:07:54.720
+Pero tenemos que hacer al menos 12 porque ese es el número entero
+
+00:07:54.720 --> 00:07:58.280
+más pequeño de vueltas, que recorrerá al menos está distancia
+
+00:07:58.280 --> 00:08:01.020
+de aquí, o este número de vueltas, o el
+
+00:08:01.020 --> 00:08:03.400
+equivalente a 2 millas.

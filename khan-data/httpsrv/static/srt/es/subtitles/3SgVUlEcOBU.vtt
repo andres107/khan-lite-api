@@ -1,0 +1,505 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.790
+Comienzo
+
+00:00:00.790 --> 00:00:04.520
+En el vídeo pasado nos dimos cuenta
+de cual es el valor presente
+
+00:00:04.520 --> 00:00:08.380
+de estas tres diferentes
+opciones de tiempos de pago.
+
+00:00:08.380 --> 00:00:12.650
+Si tuviéramos una tasa libre de riesgo del 5%,
+y si estos pagos fueran
+
+00:00:12.650 --> 00:00:15.080
+libres de riesgo, pensando en ello como
+
+00:00:15.080 --> 00:00:17.440
+parte de algún programa
+del gobierno, donde
+
+00:00:17.440 --> 00:00:20.000
+te nos preguntan para que
+elijas cuál de estos tres
+
+00:00:20.000 --> 00:00:22.060
+flujos de pagos por parte del gobierno
+es el que quieres?
+
+00:00:22.060 --> 00:00:25.860
+Y así, vamos a utilizar la misma tasa
+que el gobierno te pagaría
+
+00:00:25.860 --> 00:00:28.190
+si tu les prestas el dinero.
+
+00:00:28.190 --> 00:00:30.680
+Y esa tasa es dada por
+el Departamento del Tesoro.
+
+00:00:30.680 --> 00:00:34.760
+Y en el primer caso asumimos
+una tasa del Tesoro del 5%.
+
+00:00:34.760 --> 00:00:37.430
+Y si has visto el primer vídeo del Valor Presente,
+
+00:00:37.430 --> 00:00:41.470
+creo que entiendes por qué los valores compuestos hacia adelante, son lo mismo
+
+00:00:41.470 --> 00:00:45.100
+que los valores de descuento, por la misma tasa, hacia atrás.
+
+00:00:45.100 --> 00:00:47.350
+Si tú quieres saber qué tanto valdrán $100
+dentro de un año,
+
+00:00:47.350 --> 00:00:54.220
+multiplicas esa cantidad
+por uno mas la tasa de interés,
+correcto?
+
+00:00:54.220 --> 00:00:57.060
+Así , si la tasa es del 5%, multiplicas
+los $100 por 1.05
+
+00:00:57.060 --> 00:00:59.770
+Y si tomas $110 y vamos un año hacia atrás,
+
+00:00:59.770 --> 00:01:01.350
+dividimos los $100 entre 1.05
+
+00:01:01.350 --> 00:01:02.520
+Así que es justamente la misma operación.
+
+00:01:02.520 --> 00:01:03.920
+Solo estás yendo hacia adelante o hacia atrás.
+
+00:01:03.920 --> 00:01:07.240
+Hacia adelante multiplicando,
+y hacia atrás dividiendo
+
+00:01:07.240 --> 00:01:11.420
+De cualquier manera, el resultado que
+tuvimos en el vídeo anterior, es que
+
+00:01:11.420 --> 00:01:13.730
+el valor presente
+--voy a ponerlo en un color diferente
+
+00:01:13.730 --> 00:01:16.200
+y denotamos como PV
+
+00:01:16.200 --> 00:01:22.240
+al Valor Presente o PV,
+asumiendo una tasa del 5%
+
+00:01:22.240 --> 00:01:26.110
+sin importar cuanto tiempo o desde cuando se te da el dinero.
+
+00:01:26.110 --> 00:01:28.610
+Y verás lo que quiero decir
+porque voy a cambiar
+
+00:01:28.610 --> 00:01:29.720
+esa suposición en un segundo.
+
+00:01:29.720 --> 00:01:34.230
+Si suponemos que la
+tasa libre de riesgo es del 5%, entonces el
+
+00:01:34.230 --> 00:01:39.490
+valor presente de $100 hoy,
+bueno son los mismos $100.
+
+00:01:39.490 --> 00:01:48.360
+Para el caso 2, que son $110 en dos años,
+tenemos que dividiendo los $110 entre
+
+00:01:48.360 --> 00:01:49.230
+1.05 elevados al cuadrado, correcto?
+
+00:01:49.230 --> 00:01:53.710
+Divides entre 1.05 aquí y luego divides
+entre 1.05 otra vez
+
+00:01:53.710 --> 00:02:01.340
+Y entonces tienes $99.77
+
+00:02:01.340 --> 00:02:02.640
+No quiero utilizar mucho espacio
+
+00:02:02.640 --> 00:02:03.840
+Yo podría haber hecho todo esto
+
+00:02:03.840 --> 00:02:05.470
+quizá un poco mas grande
+
+00:02:05.470 --> 00:02:08.060
+Y entonces la opción número tres
+
+00:02:08.060 --> 00:02:08.860
+Cómo llegamos ahí?
+
+00:02:08.860 --> 00:02:11.320
+Bueno, permíteme utilizar un color diferente
+
+00:02:11.320 --> 00:02:17.850
+Esto es el valor presente de los $20 hoy,
+mas los $50 dentro de un año
+
+00:02:17.850 --> 00:02:22.240
+que se dividen para traerlos a Valor Presente,
+
+00:02:22.240 --> 00:02:31.460
+Entonces dividimos $50 entre 1.05, y seguimos
+sumando los $35 que se dividen entre 1.05 al cuadrado.
+
+00:02:31.460 --> 00:02:35.380
+Y tenemos un total de $99.36
+
+00:02:35.380 --> 00:02:39.100
+Y esto es lo que debería valer al día de hoy,
+
+00:02:39.100 --> 00:02:42.910
+si asumimos que estos pagos son libres de riesgo y
+
+00:02:42.910 --> 00:02:44.480
+a una tasa de descuento del 5%
+
+00:02:44.480 --> 00:02:45.380
+Me parecen justos.
+
+00:02:45.380 --> 00:02:48.050
+Y entonces basándonos en nuestros cálculos, 
+escogemos
+
+00:02:48.050 --> 00:02:50.390
+la opción número uno como la mejor,
+la opción dos como la segunda mejor,
+
+00:02:50.390 --> 00:02:53.230
+y la opción tres fué la tercera mejor, jusatamente.
+
+00:02:53.230 --> 00:02:57.020
+Pero qué pasa? Después de que planteamos
+la duda inicial
+
+00:02:57.020 --> 00:02:59.790
+quizá quisieras pensar en las opciones antes de que encontráramos la respuesta, y qué sucede
+
+00:02:59.790 --> 00:03:02.720
+si no consideramos una tasa de descuento del 5%?
+
+00:03:02.720 --> 00:03:08.670
+Qué pasa si asumimos que la tasa
+es del 2%?
+
+00:03:08.670 --> 00:03:09.600
+Lo anoto aquí
+
+00:03:09.600 --> 00:03:13.490
+Cuál es el Valor Presente de esto,
+si consideramos la tasa de 2%
+
+00:03:13.490 --> 00:03:17.020
+libre de riesgo, o una tasa de 2% de descuento?
+
+00:03:17.020 --> 00:03:19.180
+Bien, los $100 que tengo hoy en día
+
+00:03:19.180 --> 00:03:20.620
+siguen siendo $100 al Valor Presente
+
+00:03:20.620 --> 00:03:23.200
+Inclusive podríamos calcularlo como
+-permíteme utilizar un color vibrante
+
+00:03:23.200 --> 00:03:27.110
+100 dividido entre 1.02 elevado a la potencia cero
+
+00:03:27.110 --> 00:03:29.170
+por que los tenemos ahora, y no transcurre ningún año.
+
+00:03:29.170 --> 00:03:33.080
+Esto es 1.02 a la cero, es uno, que divide a $100,
+para darnos los mismos
+
+00:03:33.080 --> 00:03:33.740
+$100 al día de hoy
+
+00:03:33.740 --> 00:03:34.490
+Cuál es el Valor Presente?
+
+00:03:34.490 --> 00:03:36.140
+Es $100
+
+00:03:36.140 --> 00:03:41.100
+Ahora, los $110 dentro de dos años, valen la pena?
+
+00:03:41.100 --> 00:03:42.100
+Esto va a ser interesante
+
+00:03:42.100 --> 00:03:47.260
+Cuando la tasa de interés baja de
+5% a 2%
+
+00:03:47.260 --> 00:03:49.450
+estoy dividiendo entre un número más pequeño
+
+00:03:49.450 --> 00:03:54.630
+1.02 al cuadrado es más pequeño que 1.05 al cuadrado
+
+00:03:54.630 --> 00:03:59.020
+Así que el valor presente de ese pago,
+debería crecer.
+
+00:03:59.020 --> 00:03:59.610
+Interesante
+
+00:03:59.610 --> 00:04:01.680
+Esto es algo que debemos tener
+en mente para mas adelante
+
+00:04:01.680 --> 00:04:03.140
+cuando empecemos a pensar en bonos.
+
+00:04:03.140 --> 00:04:05.750
+Cuando bajas la tasa de interés, el Valor Presente
+
+00:04:05.750 --> 00:04:07.490
+de los pagos futuros, crece.
+
+00:04:07.490 --> 00:04:08.840
+Y esto viene de las matemáticas
+
+00:04:08.840 --> 00:04:11.190
+Estamos descontando un número más pequeño
+
+00:04:11.190 --> 00:04:12.720
+permiteme mostrarte como es esto
+
+00:04:12.720 --> 00:04:20.600
+Entonces tenemos $110 y divido
+entre 1.02 al cuadrado, cierto?
+
+00:04:20.600 --> 00:04:22.580
+descontamos doblemente,
+
+00:04:22.580 --> 00:04:32.390
+Tengo $105.72
+
+00:04:32.390 --> 00:04:33.380
+Oh, y cómo lo conseguimos?
+
+00:04:33.380 --> 00:04:35.780
+Esto fué igual a
+-lo estoy haciendo aquí
+
+00:04:35.780 --> 00:04:41.390
+igual a $110 dividido entre 1.02 al cuadrado
+
+00:04:41.390 --> 00:04:43.470
+Y nuestra intuición fué correcta!
+
+00:04:43.470 --> 00:04:47.160
+Únicamente porque la tasa de interés
+bajó del 5% al 2%
+
+00:04:47.160 --> 00:04:51.350
+el Valor Presente de este pago
+dentro de dos años,
+
+00:04:51.350 --> 00:04:53.330
+aparece en el año 3, pero es
+dentro de dos años
+
+00:04:53.330 --> 00:04:54.460
+Ahora debo renombrar esto
+
+00:04:54.460 --> 00:04:58.610
+ahora debo llamarlo,
+el presente
+
+00:04:58.610 --> 00:05:00.550
+y podría llamar a este el año uno
+
+00:05:00.550 --> 00:05:03.250
+y podríamos llamar a este el año dos, un año después.
+
+00:05:03.250 --> 00:05:04.250
+Pero creo que esto lo hace confuso
+
+00:05:04.250 --> 00:05:06.720
+así se llama ahora, el año dos
+
+00:05:06.720 --> 00:05:09.260
+Así que podemos decirle a este
+el año cero
+
+00:05:09.260 --> 00:05:10.530
+Este el año uno
+
+00:05:10.530 --> 00:05:12.820
+y este el año dos
+
+00:05:12.820 --> 00:05:13.410
+como sea
+
+00:05:13.410 --> 00:05:18.940
+el valor presente de esta opción se ha incrementado
+en $6 únicamente
+
+00:05:18.940 --> 00:05:22.430
+al disminuir la tasa de descuento en 3%
+
+00:05:22.430 --> 00:05:23.050
+Fascinante
+
+00:05:23.050 --> 00:05:25.370
+Ahora vamos a ver que sucede con
+la opción número tres
+
+00:05:25.370 --> 00:05:28.640
+Escogiendo la opción tres, los $20 hoy, bueno, valen eso precisamente: $20
+
+00:05:28.640 --> 00:05:29.892
+eso es valen $20
+
+00:05:29.892 --> 00:05:38.520
+El Valor Presente de la opción 3, es $20 más $50 divididos entre 1.02, más
+
+00:05:38.520 --> 00:05:43.840
+$35 divididos entre 1.02 al cuadrado
+
+00:05:43.840 --> 00:05:45.090
+Vamos a ver cuanto suma
+
+00:05:45.090 --> 00:05:47.100
+calculemos
+
+00:05:47.100 --> 00:05:58.130
+$20 mas $50 dividos entre 1.02, más $35
+
+00:05:58.130 --> 00:06:02.800
+divididos por 1.02 al cuadrado
+
+00:06:02.800 --> 00:06:11.200
+esto es $102.66
+
+00:06:11.200 --> 00:06:13.010
+Ahora hay un par de cosas realmente interesantes
+
+00:06:13.010 --> 00:06:16.920
+Y este es un buen momento para asimilar esto
+
+00:06:16.920 --> 00:06:18.760
+al bajar la tasa de interés
+
+00:06:18.760 --> 00:06:22.880
+ahora tenemos que la opción dos es la mejor,
+
+00:06:22.880 --> 00:06:25.580
+seguida de la opción tres como la segunda mejor
+y por último la opción uno
+
+00:06:25.580 --> 00:06:28.110
+Así que mientras la opción uno era la mejor cuando teníamos una tasa
+
+00:06:28.110 --> 00:06:29.730
+de descuento del 5%;
+
+00:06:29.730 --> 00:06:32.850
+ahora con una tasa del 2% la opción 2
+
+00:06:32.850 --> 00:06:33.840
+es de repente, la mejor
+
+00:06:33.840 --> 00:06:35.730
+Y hay algo más que es interesante aquí
+
+00:06:35.730 --> 00:06:38.710
+la opción dos mejoró mucho más cuando disminuimos
+
+00:06:38.710 --> 00:06:41.500
+la tasa de interés, que lo que mejoró la opción tres
+
+00:06:41.500 --> 00:06:46.130
+Su Valor Presente fué de $99.77 a $105.70,
+
+00:06:46.130 --> 00:06:47.770
+esto es casi $6
+
+00:06:47.770 --> 00:06:51.320
+Mientras que esta solamente mejoró por menos de $3.00, correcto?
+
+00:06:51.320 --> 00:06:53.160
+Ahora, por qué es esto?
+
+00:06:53.160 --> 00:06:56.130
+Bueno, cuando bajamos la tasa de interés, los términos
+
+00:06:56.130 --> 00:07:00.150
+que usan esta tasa de descuento son los mas beneficiados.
+
+00:07:00.150 --> 00:07:03.340
+Así que todo este pago ocurrió a dos años, correcto?
+
+00:07:03.340 --> 00:07:08.760
+Así que se benefició mas por el decremento de la
+tasa de descuento,
+
+00:07:08.760 --> 00:07:10.100
+el 1.02 al cuadrado
+
+00:07:10.100 --> 00:07:12.130
+cambió su valor totalmente
+
+00:07:12.130 --> 00:07:13.770
+Estos pagos se esparcen
+
+00:07:13.770 --> 00:07:15.850
+Solo uno de estos pagos es a dos años
+
+00:07:15.850 --> 00:07:18.040
+y entonces otro es en un año,
+
+00:07:18.040 --> 00:07:19.820
+lo que les beneficia menos
+
+00:07:19.820 --> 00:07:21.460
+y algún pago es al día de hoy
+
+00:07:21.460 --> 00:07:24.600
+entonces se beneficia por
+
+00:07:24.600 --> 00:07:25.610
+alguno de los pagos
+
+00:07:25.610 --> 00:07:28.520
+pero se beneficia en menor medida
+
+00:07:28.520 --> 00:07:30.690
+Como sea, voy a concluir este vídeo
+
+00:07:30.690 --> 00:07:33.700
+y en el siguiente vídeo
+vamos a ver que sucede cuando
+
+00:07:33.700 --> 00:07:36.450
+tenemos diferentes tasas de descuento
+
+00:07:36.450 --> 00:07:38.560
+para diferentes períodos de tiempo.
+
+00:07:38.560 --> 00:07:40.460
+Nos vemos en el siguiente vídeo.
+
+00:07:40.460 --> 00:07:41.500
+Fin.

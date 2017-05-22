@@ -1,0 +1,551 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+-2
+
+99:59:59.999 --> 99:59:59.999
+2.
+
+99:59:59.999 --> 99:59:59.999
+Que es 3
+
+99:59:59.999 --> 99:59:59.999
+cosas más complejas.
+
+99:59:59.999 --> 99:59:59.999
+de esta variable es.
+
+99:59:59.999 --> 99:59:59.999
+desconocido.
+
+99:59:59.999 --> 99:59:59.999
+menos x igual que.
+
+99:59:59.999 --> 99:59:59.999
+poner un 1 allí.
+
+99:59:59.999 --> 99:59:59.999
+puede tomar.
+
+99:59:59.999 --> 99:59:59.999
+que es negativo 2.
+
+99:59:59.999 --> 99:59:59.999
+x.
+
+99:59:59.999 --> 99:59:59.999
+y una ecuación.
+
+99:59:59.999 --> 99:59:59.999
+y z = 2
+
+99:59:59.999 --> 99:59:59.999
+y z = 2
+
+00:00:00.816 --> 00:00:02.341
+Cuando nosotros estamos tratando con arithmatic básico
+
+00:00:02.341 --> 00:00:04.592
+vemos allí los números concretos.
+
+00:00:04.592 --> 00:00:07.514
+Veremos 23 + 5
+
+00:00:07.514 --> 00:00:08.715
+sabemos cuáles son estos números por aquí
+
+00:00:08.715 --> 00:00:10.005
+y podemos calcular.
+
+00:00:10.005 --> 00:00:11.661
+va a ser 28.
+
+00:00:11.661 --> 00:00:13.898
+podemos 2 x 7.
+
+00:00:13.898 --> 00:00:17.476
+Podríamos decir 3 dividido por 4.
+
+00:00:17.476 --> 00:00:19.059
+y todos estos casos sabemos exactamente qué
+
+00:00:19.059 --> 00:00:20.872
+números que estamos tratando con.
+
+00:00:20.872 --> 00:00:23.776
+Ya empezamos a entrar en el mundo algebraico
+
+00:00:23.776 --> 00:00:25.873
+y probablemente han visto esto poco a poco ya.
+
+00:00:25.873 --> 00:00:30.051
+empezamos a tratar con las ideas de variables.
+
+00:00:30.051 --> 00:00:31.533
+Y variables, hay un montón de formas
+
+00:00:31.533 --> 00:00:32.283
+pensar en ellos, pero ellos están realmente
+
+00:00:32.283 --> 00:00:34.502
+sólo los valores y expresiones
+
+00:00:34.502 --> 00:00:36.252
+donde puede cambiar.
+
+00:00:36.252 --> 00:00:38.145
+pueden cambiar los valores de esas expresiones.
+
+00:00:38.145 --> 00:00:42.201
+así por ejemplo, si escribo... Si escribo,
+
+00:00:42.201 --> 00:00:44.781
+x + 5
+
+00:00:44.781 --> 00:00:46.647
+Esta es una expresión por aquí.
+
+00:00:46.647 --> 00:00:48.305
+Esto puede tener algún valor en función de
+
+00:00:48.305 --> 00:00:51.466
+¿Cuál es el valor de x.
+
+00:00:51.466 --> 00:00:56.656
+Si x es igual a... así que si x es igual a 1,
+
+00:00:56.656 --> 00:01:01.723
+entonces x + 5 nuestra expresión por aquí.
+
+00:01:01.723 --> 00:01:06.049
+Va a ser igual a 1.
+
+00:01:06.049 --> 00:01:07.070
+porque ahora x es 1.
+
+00:01:07.070 --> 00:01:08.321
+Va a ser 1 + 5.
+
+00:01:08.321 --> 00:01:11.101
+Tan x + 5 será igual a 6.
+
+00:01:11.101 --> 00:01:16.821
+Si x... Si x es igual a, no sé -7
+
+00:01:16.821 --> 00:01:22.183
+entonces x más 5. Va a ser igual.
+
+00:01:22.183 --> 00:01:24.120
+Bien ahora x es -7.
+
+00:01:24.120 --> 00:01:28.842
+va a ser -7 + 5
+
+00:01:28.842 --> 00:01:29.441
+Así que observe.
+
+00:01:29.441 --> 00:01:34.019
+x aquí es una variable... x aquí es la variable
+
+00:01:34.019 --> 00:01:37.705
+y su valor puede cambiar dependiendo del contexto.
+
+00:01:37.705 --> 00:01:39.946
+Y esto es en el contexto de una expresión.
+
+00:01:39.946 --> 00:01:42.174
+También verá en el contexto de una ecuación.
+
+00:01:42.174 --> 00:01:44.299
+Es realmente importante tener en cuenta
+
+00:01:44.299 --> 00:01:46.897
+Esta distinción entre la expresión
+
+00:01:46.897 --> 00:01:49.827
+Una expresión es realmente sólo una instrucción
+
+00:01:49.827 --> 00:01:51.734
+de valores, una declaración de algún tipo de cantidad.
+
+00:01:51.734 --> 00:01:54.327
+Por lo que se trata de una expresión.
+
+00:01:54.327 --> 00:01:56.639
+Una expresión sería algo así.
+
+00:01:56.639 --> 00:01:57.976
+Bien... lo que vimos aquí.
+
+00:01:57.976 --> 00:01:59.260
+x + 5
+
+00:01:59.260 --> 00:02:01.052
+se cambiará el valor de esta expresión
+
+00:02:01.052 --> 00:02:05.745
+dependiendo de cómo lo que el valor
+
+00:02:05.745 --> 00:02:09.058
+Y sólo podría evaluar diferentes valores
+
+00:02:09.058 --> 00:02:11.270
+Otra expresión podría ser algo como...
+
+00:02:11.270 --> 00:02:13.150
+No sé y + z.
+
+00:02:13.150 --> 00:02:14.340
+Ahora todo tiene una variable.
+
+00:02:14.340 --> 00:02:16.554
+Si es 1 y z es 2.
+
+00:02:16.554 --> 00:02:18.560
+va a ser 1 + 2.
+
+00:02:18.560 --> 00:02:21.392
+Si es 0 y z es -1
+
+00:02:21.392 --> 00:02:24.068
+va a ser 0 + (-1)
+
+NOTE Paragraph
+
+00:02:24.068 --> 00:02:25.897
+Estos pueden todos ser evaluados y te
+
+00:02:25.897 --> 00:02:27.416
+esencialmente darle un valor dependiendo de
+
+00:02:27.416 --> 00:02:30.811
+los valores de cada una de estas variables que
+
+00:02:30.811 --> 00:02:32.327
+conforman la expresión.
+
+00:02:32.327 --> 00:02:34.285
+Una ecuación, que esencialmente configuración
+
+00:02:34.285 --> 00:02:35.472
+expresiones sean iguales entre sí.
+
+00:02:35.472 --> 00:02:38.100
+es por eso llamamos 'ecuaciones'
+
+00:02:38.100 --> 00:02:40.122
+eres equiparar dos cosas.
+
+00:02:40.122 --> 00:02:42.919
+una ecuación verás una expresión
+
+00:02:42.919 --> 00:02:44.643
+ser igual a otra expresión.
+
+00:02:44.643 --> 00:02:47.869
+Así, por ejemplo, podría decir algo como...
+
+00:02:47.869 --> 00:02:52.062
+x + 3 = 1
+
+00:02:52.062 --> 00:02:54.459
+y en esta situación donde tienes una ecuación
+
+00:02:54.459 --> 00:02:57.883
+Cuando tienes una ecuación con sólo uno
+
+00:02:57.883 --> 00:02:59.273
+Realmente puede averiguar qué x debe ser
+
+00:02:59.273 --> 00:03:01.622
+en este escenario.
+
+00:03:01.622 --> 00:03:03.210
+y usted podría podría incluso hacerlo en su cabeza.
+
+00:03:03.210 --> 00:03:05.327
+¿Lo que más 3 es igual a 1?
+
+00:03:05.327 --> 00:03:06.432
+También puede hacerlo en su cabeza.
+
+00:03:06.432 --> 00:03:08.871
+Si tengo -2 + 3 es igual a 1.
+
+00:03:08.871 --> 00:03:12.033
+por lo que en este contexto se está iniciando una ecuación
+
+00:03:12.033 --> 00:03:15.134
+para restringir qué valor que esta variable
+
+00:03:15.134 --> 00:03:17.411
+pero no han necesariamente restringir tanto.
+
+00:03:17.411 --> 00:03:18.932
+Usted podría tener algo parecido,
+
+00:03:18.932 --> 00:03:25.734
+x + y + z = 5
+
+00:03:25.734 --> 00:03:27.784
+Ahora tienes esta expresión que es
+
+00:03:27.784 --> 00:03:29.368
+igual a esta otra expresión.
+
+00:03:29.368 --> 00:03:31.645
+5 es realmente sólo una expresión por aquí.
+
+00:03:31.645 --> 00:03:32.901
+y hay algunas restricciones.
+
+00:03:32.901 --> 00:03:35.004
+Si alguien te dice lo que y y z es y eres
+
+00:03:35.004 --> 00:03:36.314
+vamos a sacar una x.
+
+00:03:36.314 --> 00:03:38.226
+Si alguien te dice lo que x e y
+
+00:03:38.226 --> 00:03:39.925
+y limita lo que z es.
+
+00:03:39.925 --> 00:03:42.381
+Pero depende de lo que son las cosas diferentes.
+
+00:03:42.381 --> 00:03:44.060
+Así, por ejemplo
+
+00:03:44.060 --> 00:03:51.637
+Si hemos dicho y = 3
+
+00:03:51.637 --> 00:03:53.393
+Entonces ¿qué sería x en esa situación?
+
+00:03:53.393 --> 00:03:58.102
+así que si y = 3
+
+00:03:58.102 --> 00:03:58.608
+entonces te vas a tener.
+
+00:03:58.608 --> 00:04:00.487
+la expresión de la mano izquierda va a ser
+
+00:04:00.487 --> 00:04:02.148
+x + 3 + 2
+
+00:04:02.148 --> 00:04:04.998
+va a ser x + 5
+
+00:04:04.998 --> 00:04:06.813
+Esta parte derecha por acá va a ser 5
+
+00:04:06.813 --> 00:04:08.975
+x + 5 = 5
+
+00:04:08.975 --> 00:04:11.198
+y qué + 5 = 5?
+
+00:04:11.198 --> 00:04:12.632
+pues ahora nos estamos con-agotar
+
+00:04:12.632 --> 00:04:14.378
+x tendría que ser... x tendría que ser
+
+00:04:14.378 --> 00:04:16.938
+igual a 0
+
+00:04:16.938 --> 00:04:18.235
+Pero el punto importante aquí, uno
+
+00:04:18.235 --> 00:04:19.789
+Espero que te se dio cuenta de la diferencia
+
+00:04:19.789 --> 00:04:20.803
+entre una expresión y una ecuación.
+
+00:04:20.803 --> 00:04:21.850
+una ecuación es, esencialmente, eres
+
+00:04:21.850 --> 00:04:23.669
+equiparar dos expresiones.
+
+00:04:23.669 --> 00:04:25.370
+lo importante a tomar de aquí.
+
+00:04:25.370 --> 00:04:27.994
+es que una variable puede tomar valores diferentes
+
+00:04:27.994 --> 00:04:31.365
+dependiendo del contexto del problema.
+
+00:04:31.365 --> 00:04:32.778
+y golpear el punto de inicio, sólo permite
+
+00:04:32.778 --> 00:04:35.218
+evaluar un montón de expresiones,
+
+00:04:35.218 --> 00:04:38.056
+Cuando las variables tienen valores diferentes.
+
+00:04:38.056 --> 00:04:41.595
+Así por ejemplo, si tuviéramos la expresión
+
+00:04:41.595 --> 00:04:43.309
+Si tuviéramos la expresión,
+
+00:04:43.309 --> 00:04:47.799
+x al... x a la potencia y
+
+00:04:47.799 --> 00:04:51.955
+Si x es igual a si x es igual a 5
+
+00:04:51.955 --> 00:04:54.311
+y es igual a 2
+
+00:04:54.311 --> 00:04:55.791
+y es igual a 2.
+
+00:04:55.791 --> 00:04:58.908
+a continuación, nuestra expresión aquí se va a evaluar.
+
+00:04:58.908 --> 00:05:01.506
+Bien x ahora va a ser 5
+
+00:05:01.506 --> 00:05:02.888
+x va a ser 5.
+
+00:05:02.888 --> 00:05:04.363
+y va a ser 2
+
+00:05:04.363 --> 00:05:06.612
+va a ser de 5 a la segunda potencia.
+
+00:05:06.612 --> 00:05:08.154
+o se va a evaluar a
+
+00:05:08.154 --> 00:05:09.785
+25.
+
+00:05:09.785 --> 00:05:11.633
+Si el cambio de los valores,
+
+00:05:11.633 --> 00:05:14.360
+Si hemos dicho, x... Si nos dijo,
+
+00:05:14.360 --> 00:05:16.292
+Permítanme hacer eso en el mismo color.
+
+00:05:16.292 --> 00:05:20.965
+Si decimos que x es igual a... x es igual a
+
+00:05:20.965 --> 00:05:24.772
+y... y y es igual a 3
+
+00:05:24.772 --> 00:05:27.839
+luego evaluaría esta expresión
+
+00:05:27.839 --> 00:05:30.469
+sería evaluar, me deja hacer ese (color)
+
+00:05:30.469 --> 00:05:32.386
+por lo tanto sería evaluar a -2
+
+00:05:32.386 --> 00:05:35.376
+eso es lo que vamos a sustituir por x ahora
+
+00:05:35.376 --> 00:05:36.705
+en este contexto.
+
+00:05:36.705 --> 00:05:38.172
+y ahora es 3
+
+00:05:38.172 --> 00:05:42.080
+-2 a la tercera potencia... -2 a la tercera potencia
+
+00:05:42.080 --> 00:05:44.577
+que es -2 x -2 x -2
+
+00:05:44.577 --> 00:05:46.895
+que es -8
+
+00:05:46.895 --> 00:05:48.567
+-2 x -2 = + 4
+
+00:05:48.567 --> 00:05:52.154
+x - 2 nuevamente es igual a -8
+
+00:05:52.154 --> 00:05:53.367
+es igual a -8
+
+00:05:53.367 --> 00:05:55.713
+tal ves dependiendo de lo que los valores
+
+00:05:55.713 --> 00:05:58.280
+Estos son, saben que incluso podríamos hacer
+
+00:05:58.280 --> 00:05:59.681
+podríamos tener una expresión como,
+
+00:05:59.681 --> 00:06:06.609
+la raíz cuadrada de x + y y luego
+
+00:06:06.609 --> 00:06:11.878
+Si x es igual a, permite decir que x es igual a 1
+
+00:06:11.878 --> 00:06:16.013
+y y... y es igual a 8
+
+00:06:16.013 --> 00:06:18.571
+luego sería evaluar esta expresión
+
+00:06:18.571 --> 00:06:21.422
+así cada vez que vemos una x nos wanna
+
+00:06:21.422 --> 00:06:23.008
+así que tendríamos un 1 allí.
+
+00:06:23.008 --> 00:06:24.812
+y tendría un 1 allí.
+
+00:06:24.812 --> 00:06:26.746
+y cada vez que veo una y.
+
+00:06:26.746 --> 00:06:28.413
+pondría un 8 en su lugar.
+
+00:06:28.413 --> 00:06:30.819
+y en este contexto, estamos estableciendo estas variables
+
+00:06:30.819 --> 00:06:32.087
+así se podría ver un 8.
+
+00:06:32.087 --> 00:06:34.611
+así bajo el signo radical tendría un
+
+00:06:34.611 --> 00:06:37.821
+1 + 8, por lo que la raíz del principio de 9.
+
+00:06:37.821 --> 00:06:40.974
+así que todo este asunto sería simplificar en este contexto.
+
+00:06:40.974 --> 00:06:43.119
+Hemos creado estas variables que estas cosas.
+
+00:06:43.119 --> 00:06:45.586
+simplificar todo este asunto que 3
+
+00:06:45.586 --> 00:06:46.503
+1 plus 8 es 9
+
+00:06:46.503 --> 00:06:48.685
+raíz del principio de es 3
+
+00:06:48.685 --> 00:06:50.769
+y luego tienes 3-1
+
+00:06:50.769 --> 99:59:59.999
+que es igual a... que es igual a

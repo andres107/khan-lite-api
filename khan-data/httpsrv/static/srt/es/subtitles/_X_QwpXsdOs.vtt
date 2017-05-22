@@ -1,0 +1,624 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.640 --> 00:00:03.980
+Ahora creo que es un buen momento para añadir algunos notación y
+
+00:00:03.980 --> 00:00:07.560
+técnicas de nuestro kit de herramienta transformada de Laplace.
+
+00:00:07.560 --> 00:00:10.430
+Así que lo primero que quiero introducir es sólo de un
+
+00:00:10.430 --> 00:00:12.270
+forma rápida de hacer algo.
+
+00:00:12.270 --> 00:00:15.490
+Y esto es, si tuviera la transformada de Laplace, digamos
+
+00:00:15.490 --> 00:00:18.540
+quieren tomar la transformada de Laplace de la segunda
+
+00:00:18.540 --> 00:00:22.540
+derivado de y.
+
+00:00:22.540 --> 00:00:25.690
+Bien, hemos podido comprobar hace varios videos si quería tomar
+
+00:00:25.690 --> 00:00:30.830
+la transformada de Laplace de la primera derivada de y, que es
+
+00:00:30.830 --> 00:00:41.060
+igual a s veces la transformada de Laplace y menos y de 0.
+
+00:00:41.060 --> 00:00:43.970
+Y utilizamos esta propiedad en el último par de videos
+
+00:00:43.970 --> 00:00:46.170
+averiguar realmente la transformada de Laplace de la
+
+00:00:46.170 --> 00:00:47.630
+segunda derivada.
+
+00:00:47.630 --> 00:00:49.780
+Porque si usted solo, ya sabes, si dices esto es y primo,
+
+00:00:49.780 --> 00:00:51.640
+Esta es la primitiva de la misma y, a continuación, usted podría simplemente
+
+00:00:51.640 --> 00:00:52.260
+coincidencia de patrón.
+
+00:00:52.260 --> 00:00:55.220
+Se puede decir, bueno, la transformada de Laplace y primos
+
+00:00:55.220 --> 00:01:01.050
+primo, que es simplemente igual a s veces la transformada de Laplace de
+
+00:01:01.050 --> 00:01:08.800
+prime y menos y primo de 0.
+
+00:01:08.800 --> 00:01:11.960
+Esto es la derivada de esto, al igual que esto es el
+
+00:01:11.960 --> 00:01:14.430
+derivado de ello.
+
+00:01:14.430 --> 00:01:15.900
+Te dibuje una línea aquí sólo para que no te confunde.
+
+00:01:15.900 --> 00:01:18.410
+Así, la transformada de Laplace y primos primos es esta cosa.
+
+00:01:18.410 --> 00:01:21.580
+Y ahora podemos utilizar esto, que nos demostró hace varios videos,
+
+00:01:21.580 --> 00:01:23.740
+lo resubstitute y ponerlo en términos de la Laplace
+
+00:01:23.740 --> 00:01:25.120
+Transformación de y.
+
+00:01:25.120 --> 00:01:27.470
+Así podemos ampliar esta parte.
+
+00:01:27.470 --> 00:01:29.800
+La transformada de Laplace de la derivada de y, que es justo
+
+00:01:29.800 --> 00:01:39.770
+igual a s veces la transformada de Laplace y menos y de 0.
+
+00:01:39.770 --> 00:01:41.370
+¿Y luego tenemos el exterior derecho?
+
+00:01:41.370 --> 00:01:46.290
+Tenemos s menos y primo de 0.
+
+00:01:46.290 --> 00:01:48.180
+Y entonces cuando usted expandirlo todos y nos hemos hecho esto
+
+00:01:48.180 --> 00:01:53.700
+antes, te s squared veces la transformada de Laplace de
+
+00:01:53.700 --> 00:02:02.550
+y menos s veces y 0 negativo y primo de 0.
+
+00:02:02.550 --> 00:02:05.170
+Ahora hay algo interesante observar aquí, y
+
+00:02:05.170 --> 00:02:07.300
+Si aprendes esto lo harán mucho más rápido.
+
+00:02:07.300 --> 00:02:09.250
+No tendrás que pasar por todo esto y el riesgo de hacer
+
+00:02:09.250 --> 00:02:12.980
+errores por descuido cuando tienes escaso tiempo y papel en
+
+00:02:12.980 --> 00:02:17.050
+su prueba. Simplemente Observe que cuando llevas el Laplace
+
+00:02:17.050 --> 00:02:19.400
+¿Transformada de la derivada segunda, lo terminamos?
+
+00:02:19.400 --> 00:02:22.150
+¿Terminamos con s cuadrado, derecha?
+
+00:02:22.150 --> 00:02:22.940
+Esta fue la segunda derivada.
+
+00:02:22.940 --> 00:02:25.600
+Así que termino con s squared times la transformada de Laplace de
+
+00:02:25.600 --> 00:02:30.420
+y, menos s veces y 0 menos prime de veces 1 y 0.
+
+00:02:30.420 --> 00:02:33.710
+Cada término, empezamos con s al cuadrado y luego cada término
+
+00:02:33.710 --> 00:02:36.590
+bajamos el grado de s uno y luego todo excepto el
+
+00:02:36.590 --> 00:02:38.370
+primer término es un signo negativo.
+
+00:02:38.370 --> 00:02:41.830
+Y entonces empezamos con la transformada de Laplace de y, y
+
+00:02:41.830 --> 00:02:44.360
+a continuación, puede ver casi la transformada de Laplace como una especie de
+
+00:02:44.360 --> 00:02:46.390
+integral, por lo que tomamos de los derivados, por lo que
+
+00:02:46.390 --> 00:02:47.700
+luego te metes y.
+
+00:02:47.700 --> 00:02:48.550
+Y luego tomar la derivada
+
+00:02:48.550 --> 00:02:49.810
+de nuevo, llegas y prime.
+
+00:02:49.810 --> 00:02:51.380
+Y por supuesto cada otro término es negativo.
+
+00:02:51.380 --> 00:02:52.790
+Y estas no son las funciones reales.
+
+00:02:52.790 --> 00:02:54.600
+Estas son las funciones evaluadas en 0.
+
+00:02:54.600 --> 00:02:57.710
+Pero eso es una buena forma de ayudarle, ojalá, recuerda cómo
+
+00:02:57.710 --> 00:02:58.250
+para hacer estos.
+
+00:02:58.250 --> 00:03:01.000
+Y una vez que obtenga el colgar de la misma, usted puede tomar el Laplace
+
+00:03:01.000 --> 00:03:05.260
+Transformación de cualquier función arbitraria muy, muy rápidamente.
+
+00:03:05.260 --> 00:03:06.640
+O cualquier derivados arbitrarias.
+
+00:03:06.640 --> 00:03:11.550
+Así que vamos a decir que queríamos tomar la transformada de Laplace de,
+
+00:03:11.550 --> 00:03:13.950
+no sé, esto debe chocar con el punto de inicio, la cuarta
+
+00:03:13.950 --> 00:03:16.290
+derivado de y.
+
+00:03:16.290 --> 00:03:18.380
+Que 4 paréntesis significa la cuarta derivada.
+
+00:03:18.380 --> 00:03:21.450
+Que pude haber dibujado cuatro marcas principales, pero de cualquier manera.
+
+00:03:21.450 --> 00:03:22.430
+¿Qué es este igual?
+
+00:03:22.430 --> 00:03:25.620
+Si utilizamos esta técnica y sustituirlo, nosotros estamos obligados a
+
+00:03:25.620 --> 00:03:28.130
+hacer algún tipo de error por descuido u otro, y sería
+
+00:03:28.130 --> 00:03:30.040
+nos llevará para siempre y perdería un montón de papel.
+
+00:03:30.040 --> 00:03:33.940
+Pero ahora vemos el patrón, y por eso podemos simplemente decir, bueno,
+
+00:03:33.940 --> 00:03:36.540
+el Laplace de esto, en términos de la Laplace
+
+00:03:36.540 --> 00:03:39.020
+Transformación de la derecha, y eso es lo que queremos llegar, es
+
+00:03:39.020 --> 00:03:48.250
+va a ser s al cuarto veces la transformada de Laplace de
+
+00:03:48.250 --> 00:03:51.160
+y--ahora cada otro término va a tener un signo menos en la parte delantera
+
+00:03:51.160 --> 00:03:55.600
+de TI--menos--reducir el grado de la s--
+
+00:03:55.600 --> 00:03:57.880
+menos s a la tercera.
+
+00:03:57.880 --> 00:04:00.060
+Y, a continuación, usted podría tipo de decir, vamos a tomar, usted sabe,
+
+00:04:00.060 --> 00:04:06.210
+tal forma de derivado, por lo que obtendrá y 0--no es un verdadero
+
+00:04:06.210 --> 00:04:06.480
+derivado.
+
+00:04:06.480 --> 00:04:09.215
+La transformada de Laplace realmente no es la primitiva de y
+
+00:04:09.215 --> 00:04:11.500
+de 0, pero de todas formas, creo que usted consigue la idea.
+
+00:04:11.500 --> 00:04:15.260
+Y luego bajamos el grado s nuevamente, menos s al cuadrado,
+
+00:04:15.260 --> 00:04:16.450
+tomar la derivada.
+
+00:04:16.450 --> 00:04:17.820
+Y por supuesto estos no son funciones.
+
+00:04:17.820 --> 00:04:21.350
+Pero nosotros estamos evaluando la derivada de
+
+00:04:21.350 --> 00:04:23.110
+función ahora de 0.
+
+00:04:23.110 --> 00:04:28.350
+Así prime y de 0, menos--ahora bajamos el más uno de grado--
+
+00:04:28.350 --> 00:04:37.450
+menos s, tiempos--esto es un s--veces y primo primo de 0.
+
+00:04:37.450 --> 00:04:38.670
+Tenemos un mandato más.
+
+00:04:38.670 --> 00:04:40.520
+Reducir el grado de la s una vez más.
+
+00:04:40.520 --> 00:04:41.980
+A continuación, usted obtiene s 0, que es sólo 1.
+
+00:04:41.980 --> 00:04:45.560
+Por lo tanto menos--y 1 es un coeficiente--y luego te
+
+00:04:45.560 --> 00:04:50.281
+y, la tercera derivada de y - me deja desplazarse sobre un
+
+00:04:50.281 --> 00:04:52.330
+little bit--la tercera derivada de y
+
+00:04:52.330 --> 00:04:53.430
+evaluado en 0.
+
+00:04:53.430 --> 00:04:54.860
+Así que creo que ve ahora el patrón.
+
+00:04:54.860 --> 00:04:59.460
+Y esta es una manera mucho más rápida de evaluar la Laplace
+
+00:04:59.460 --> 00:05:02.990
+Transformación de un derivado arbitrario y, en oposición a
+
+00:05:02.990 --> 00:05:07.090
+Mantenga atravesando ese patrón una y otra vez.
+
+00:05:07.090 --> 00:05:09.500
+Otra cosa que quiero presentarles a es sólo un
+
+00:05:09.500 --> 00:05:11.850
+ahorro de notación.
+
+00:05:11.850 --> 00:05:13.990
+Y es algo que se verá, por lo que se puede como
+
+00:05:13.990 --> 00:05:15.330
+bien acostumbrarse a él.
+
+00:05:15.330 --> 00:05:17.790
+Y realmente ahorra tiempo, sabes, seguir escribiendo
+
+00:05:17.790 --> 00:05:19.820
+Este rizada l en este soporte.
+
+00:05:19.820 --> 00:05:27.110
+Si tengo la transformada de Laplace de y de t, que pueda
+
+00:05:27.110 --> 00:05:31.330
+escribir como, y las personas tienden a escribirlo como--bien, se va
+
+00:05:31.330 --> 00:05:37.000
+para ser una función de s, y lo que utilizan es un capital y
+
+00:05:37.000 --> 00:05:38.720
+para denotar la función de s.
+
+00:05:41.360 --> 00:05:44.910
+Tiene sentido, porque normalmente cuando estamos haciendo
+
+00:05:44.910 --> 00:05:48.880
+primitivas, sólo llevas--usted sabe, cuando usted
+
+00:05:48.880 --> 00:05:50.660
+aprender el teorema fundamental del cálculo, aprenderá
+
+00:05:50.660 --> 00:05:56.620
+la integral de f con respecto a dx, ustedes saben, desde 0 a x,
+
+00:05:56.620 --> 00:05:59.580
+es igual a capital f de x.
+
+00:05:59.580 --> 00:06:03.080
+Por lo que es tipo de pedir prestado esa notación, porque esto
+
+00:06:03.080 --> 00:06:06.550
+función de s es tipo de integrante y de t.
+
+00:06:06.550 --> 00:06:11.210
+La transformación de Laplace, hasta cierto punto, es como un tipo especial
+
+00:06:11.210 --> 00:06:13.210
+integral donde tiene una pequeña función exponencial
+
+00:06:13.210 --> 00:06:15.800
+allí para meterse con cosas un poco.
+
+00:06:15.800 --> 00:06:17.830
+De todas formas, sólo quería que acostumbrarse a esta notación.
+
+00:06:17.830 --> 00:06:20.410
+Cuando veas la capital y de s, que es lo mismo que un
+
+00:06:20.410 --> 00:06:22.190
+Transformada de Laplace de y de t.
+
+00:06:22.190 --> 00:06:25.820
+Y también podría verlo de esta manera.
+
+00:06:25.820 --> 00:06:36.250
+La transformada de Laplace de f de t es igual a capital f de s.
+
+00:06:36.250 --> 00:06:39.140
+Y la pista que te dice que esto no es simplemente una normal
+
+00:06:39.140 --> 00:06:42.950
+antiderivative, es el hecho de que están usando que s como
+
+00:06:42.950 --> 00:06:44.110
+la variable independiente.
+
+00:06:44.110 --> 00:06:46.620
+Porque en general, s representa la frecuencia
+
+00:06:46.620 --> 00:06:49.250
+dominio, y si gente utilizara s con sólo un general
+
+00:06:49.250 --> 00:06:51.350
+primitiva, gente que confunde,
+
+00:06:51.350 --> 00:06:53.350
+et cetera, et cetera.
+
+00:06:53.350 --> 00:06:56.520
+De todas formas, estoy tratando de pensar si tengo tiempo para enseñar
+
+00:06:56.520 --> 00:07:00.480
+usted conceptos más fascinantes de la transformada de Laplace.
+
+00:07:00.480 --> 00:07:02.260
+Bueno, sin duda, creo que hacemos.
+
+00:07:02.260 --> 00:07:04.586
+Así que mi siguiente pregunta para usted--y ahora te enseñaremos una
+
+00:07:04.586 --> 00:07:06.660
+pareja más propiedades, y esto será útil en la toma de
+
+00:07:06.660 --> 00:07:13.750
+De Laplace. ¿Cuál es la transformada de Laplace de e a
+
+00:07:13.750 --> 00:07:19.160
+¿el a veces f de t?
+
+00:07:19.160 --> 00:07:20.170
+Fascinante.
+
+00:07:20.170 --> 00:07:22.140
+Bien, vamos a sólo debería volver a nuestra definición de la
+
+00:07:22.140 --> 00:07:24.700
+Transformada de Laplace.
+
+00:07:24.700 --> 00:07:30.880
+Es la integral de 0 a infinito de e a la menos st
+
+00:07:30.880 --> 00:07:34.310
+veces lo que tenemos entre los corchetes.
+
+00:07:34.310 --> 00:07:43.980
+Así, con las llaves tenemos e a la f de t dt.
+
+00:07:43.980 --> 00:07:45.550
+Y ahora podemos añadir a estos exponentes.
+
+00:07:45.550 --> 00:07:47.630
+¿Tenemos una base similar, así que esto es igual a lo que?
+
+00:07:47.630 --> 00:07:53.660
+Esto es igual a la integral de 0 a infinito.
+
+00:07:53.660 --> 00:07:56.440
+Y vamos a ver, quiero escribirlo como pude escribirlo menos
+
+00:07:56.440 --> 00:08:02.680
+s plus, pero voy a escribirlo como menos s menos una t.
+
+00:08:02.680 --> 00:08:03.790
+Y se podría expandir esto.
+
+00:08:03.790 --> 00:08:06.490
+Se vuelve menos s plus, que es exactamente lo que tenemos
+
+00:08:06.490 --> 00:08:12.280
+veces aquí, f de t dt.
+
+00:08:12.280 --> 00:08:14.190
+Ahora Permítanme mostrarles algo.
+
+00:08:14.190 --> 00:08:24.300
+Si yo fuera justo tomar la transformada de Laplace de f de t,
+
+00:08:24.300 --> 00:08:26.320
+es igual a alguna función de s.
+
+00:08:30.400 --> 00:08:33.390
+Lo que básicamente tenemos aquí para s, se convierte en
+
+00:08:33.390 --> 00:08:35.440
+alguna función de eso.
+
+00:08:35.440 --> 00:08:36.900
+Esto es interesante.
+
+00:08:36.900 --> 00:08:38.820
+Se trata de alguna función de s.
+
+00:08:38.820 --> 00:08:42.309
+Aquí, todos los que hicimos para ir desde--bien realmente
+
+00:08:42.309 --> 00:08:43.080
+me permito escribir esto.
+
+00:08:43.080 --> 00:08:49.590
+El Laplace, que es igual a 0 e infinito negativo
+
+00:08:49.590 --> 00:08:55.380
+f St de t dt.
+
+00:08:55.380 --> 00:08:58.640
+La transformada de Laplace de f justa de t es igual a este, que
+
+00:08:58.640 --> 00:09:01.260
+es una función de s.
+
+00:09:01.260 --> 00:09:06.200
+Bien, el Laplace de e a la a, veces f de t, se
+
+00:09:06.200 --> 00:09:06.800
+equivale a esto.
+
+00:09:06.800 --> 00:09:10.510
+Y ¿cuál es la diferencia entre esto y esto?
+
+00:09:10.510 --> 00:09:12.770
+¿Cuál es la diferencia entre los dos?
+
+00:09:12.770 --> 00:09:13.910
+Bueno, no es mucho.
+
+00:09:13.910 --> 00:09:19.430
+Aquí, donde tengo una s, tengo una s menos una aquí.
+
+00:09:19.430 --> 00:09:22.350
+¿Si esto es una función de s, qué es este va a ser?
+
+00:09:22.350 --> 00:09:24.150
+Va a ser esa misma función.
+
+00:09:24.150 --> 00:09:27.220
+La transformada de Laplace de f fue lo que sea, va a ser
+
+00:09:27.220 --> 00:09:29.450
+esa misma función, pero en lugar de s, va a ser
+
+00:09:29.450 --> 00:09:33.510
+una función de s menos una.
+
+00:09:33.510 --> 00:09:35.540
+Una vez más, ¿y cómo conseguir?
+
+00:09:35.540 --> 00:09:38.200
+Bien decía que la transformada de Laplace de f es una función
+
+00:09:38.200 --> 00:09:40.940
+de s y es igual a esto.
+
+00:09:40.940 --> 00:09:44.420
+Bueno si basta con sustituir una s con una s menos una, me sale esto,
+
+00:09:44.420 --> 00:09:46.390
+que es una función de s menos una.
+
+00:09:46.390 --> 00:09:48.680
+Que fue la transformada de Laplace de e a la
+
+00:09:48.680 --> 00:09:50.490
+a veces f de t.
+
+00:09:50.490 --> 00:09:52.360
+Quizás es un poco confuso.
+
+00:09:52.360 --> 00:09:54.920
+Permítanme mostrarles un ejemplo.
+
+00:09:54.920 --> 00:10:03.390
+Vamos a tomar la transformada de Laplace de coseno de 2 t.
+
+00:10:03.390 --> 00:10:08.720
+Hemos demostrado es igual a--bien voy a escribir la notación--tiene
+
+00:10:08.720 --> 00:10:10.865
+igual a alguna función de s.
+
+00:10:10.865 --> 00:10:15.110
+Y que función de s s s squared plus 4.
+
+00:10:15.110 --> 00:10:16.940
+Ya hemos demostrado.
+
+00:10:16.940 --> 00:10:25.120
+Así que la transformada de Laplace de e a la, no sé, 3t
+
+00:10:25.120 --> 00:10:29.820
+tiempos coseno de 2t, va a ser igual a la misma
+
+00:10:29.820 --> 00:10:31.970
+función, pero en lugar de s, va a ser un
+
+00:10:31.970 --> 00:10:34.760
+función de s menos una.
+
+00:10:34.760 --> 00:10:46.170
+S lo menos 3, que es igual a s menos 3 s menos 3
+
+00:10:46.170 --> 00:10:52.220
+squared plus 4.
+
+00:10:52.220 --> 00:10:55.320
+Aviso, cuando simplemente multiplicas algo por esto, ya sea el
+
+00:10:55.320 --> 00:10:58.230
+3T y entonces o bien la de, tomar la transformada de Laplace
+
+00:10:58.230 --> 00:11:00.690
+de la misma, solo--es lo mismo que el de Laplace
+
+00:11:00.690 --> 00:11:03.010
+Transformar de esta función, pero en todas partes donde tenía
+
+00:11:03.010 --> 00:11:06.840
+una s, sustituirla con una s menos esto una.
+
+00:11:06.840 --> 00:11:08.870
+De todos modos, espero que no confundirle demasiado
+
+00:11:08.870 --> 00:11:09.600
+con esa última parte.
+
+00:11:09.600 --> 00:11:11.970
+Creo que en realidad fue mi adaptador de corriente.
+
+00:11:11.970 --> 00:11:14.210
+Espero que sigue grabando el video.
+
+00:11:14.210 --> 00:11:16.540
+Nos vemos en la siguiente.

@@ -1,0 +1,463 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.815 --> 00:00:09.451
+Lo que quiero hacer en este video es darte una idea intuitiva de cómo funciona realmente un mercado de divisas.
+
+00:00:09.451 --> 00:00:11.726
+Y es que es muy poco intuitivo para mucha gente.
+
+00:00:11.726 --> 00:00:17.067
+Porque vamos a hablar de divisas que se vuelven más caras o baratas --
+
+00:00:17.067 --> 00:00:20.467
+o el precio de una divisa [que se vuelve más cara o más barata] en términos de otra divisa.
+
+00:00:20.467 --> 00:00:22.593
+Y lo que quiero hacer es darte una idea muy intuitiva sobre esto.
+
+00:00:22.593 --> 00:00:27.841
+Así que digamos, -ya es un tema muy popular en estos días-
+
+00:00:27.841 --> 00:00:32.392
+tomemos las siguientes dos divisas, el Renminbi de China y el Dólar de Estados Unidos
+
+00:00:32.392 --> 00:00:35.828
+Y la unidad de intercambio - y con China es un poco confuso-
+
+00:00:35.828 --> 00:00:38.400
+porque a veces usan la palabra "Renminbi" y a veces usan la palabra "Yuan".
+
+00:00:38.400 --> 00:00:41.819
+El Yuan es la unidad [de cambio] del Renminbi.
+
+00:00:41.819 --> 00:00:46.138
+Así que digamos que justo ahora, si yo entrara a algún sitio web -
+
+00:00:46.138 --> 00:00:48.867
+Y este no es el tipo de cambio real en este momento
+
+00:00:48.867 --> 00:00:57.841
+Pero supongamos que justo ahora, el tipo de cambio quoted es 10 Yuan por US Dólar
+
+00:00:57.841 --> 00:01:02.113
+10 Yuan es igual a 1 Dólar
+
+00:01:02.113 --> 00:01:07.733
+Y cada vez que digo dólar en este video me refiero al Dólar estadounidense
+
+00:01:07.733 --> 00:01:09.657
+Creo que esto tiene sentido para mucha gente.
+
+00:01:09.657 --> 00:01:13.084
+Si tengo un dólar y quiero convertirlo a Yuan, obtengo 10 de estos [Yuan]
+
+00:01:13.084 --> 00:01:18.205
+Si tengo 10 Yuan y quiero convertirlos a dólares, alguien me dará un dólar por ellos.
+
+00:01:18.205 --> 00:01:20.109
+Ahora, imaginemos una situación
+
+00:01:20.109 --> 00:01:26.378
+(Y en los siguientes videos, construiré desbalances en intercambios donde de hecho eso suceda )
+
+00:01:26.378 --> 00:01:31.858
+Pero asumamos que vivimos en una realidad donde hay 1000 -
+
+00:01:31.858 --> 00:01:34.877
+- digamos que alguien tiene 1000 Yuan.
+
+00:01:34.877 --> 00:01:59.745
+Así que digamos que esta persona aquí tiene 1000 Yuan - y quiere convertirlos a dólares.
+
+00:01:59.745 --> 00:02:02.532
+Ahora digamos que de este lado -
+
+00:02:02.532 --> 00:02:05.829
+Y si miráramos superficialmente estos 1000 Yuan y miramos la tasa quoted, diríamos,
+
+00:02:05.829 --> 00:02:11.913
+"Hey, esos 1000 Yuan - los dividimos sabiendo que 10 Yuan/Dólar, entonces eso debe ser cien dólares, a la tasa de cambio quoted"
+
+00:02:11.913 --> 00:02:14.258
+Digamos que tienes otros dos actores por aquí.
+
+00:02:14.258 --> 00:02:17.230
+Y obviamente, este mercado involucra muchas muchas veces más que sólo tres personas.
+
+00:02:17.230 --> 00:02:22.617
+Pero esto nos ayudará a simplificar, o al menos entender, cómo funcionarían estas tasas de intercambio.
+
+00:02:22.617 --> 00:02:24.707
+Digamos que esta persona de aquí
+
+00:02:24.707 --> 00:02:28.608
+Digamos que esta persona de aquí con el bigote -
+
+00:02:28.608 --> 00:02:32.276
+Digamos que esta persona de aquí quizás... con un sombrero también-
+
+00:02:32.276 --> 00:02:56.541
+Digamos que él tiene 50 dólares- no, corrijo, él tiene 100 dólares
+
+00:02:56.541 --> 00:02:58.538
+Quizá quiere comprar algunos productos Chinos.
+
+00:02:58.538 --> 00:03:03.414
+Quizá es el dueño de una fábrica china que vendió sus productos en los Estados Unidos por 100 Dólares.
+
+00:03:03.414 --> 00:03:06.526
+Y ahora necesita convertirlos de regreso a Yuan para pagarle a sus empleados
+
+00:03:06.526 --> 00:03:08.755
+o pagar su propia hipoteca o quién sabe qué
+
+00:03:08.755 --> 00:03:13.074
+Y digamos que hay otra persona, digamos que hay otro personaje por aquí,
+
+00:03:13.074 --> 00:03:38.337
+Y digamos que ella también tiene 100 dólares que necesita convertir a Yuan.
+
+00:03:38.337 --> 00:03:40.334
+Así que neto-neto qué sucede aquí?
+
+00:03:40.334 --> 00:03:44.003
+Cuál es la demanda total para convertir Yuan a Dólares, y Dólares a Yuan?
+
+00:03:44.003 --> 00:03:48.467
+Bueno, si miras a la totalidad del mercado, tienes $200 dólares que necesitan ser convertidos a Yuan,
+
+00:03:48.467 --> 00:03:51.067
+déjame escribir eso aquí..
+
+00:03:51.067 --> 00:04:04.788
+Tenemos una situación donde 200 dólares necesitan ser convertidos a Yuan.
+
+00:04:04.788 --> 00:04:12.447
+Y luego, del otro lado de dicha transacción, tenemos 1000 Yuan que necesitan convertirse a Dólares
+
+00:04:12.447 --> 00:04:30.280
+Así que tenemos 1000 Yuan que necesitan ser convertidos a dólares.
+
+00:04:30.280 --> 00:04:35.017
+Y por simplicidad, asumamos que estos son los únicos actores. Ellos representan a todo el mercado.
+
+00:04:35.017 --> 00:04:41.937
+Aunque como sabemos, en los mercados de divisas especialmente, existen miles - o incluso millones- de actores
+
+00:04:41.937 --> 00:04:45.141
+participando activamente.
+
+00:04:45.141 --> 00:04:46.116
+¿Entonces qué va a suceder?
+
+00:04:46.116 --> 00:04:50.867
+Toda esta gente podría entrar a internet y buscar la tasa de cambio actual
+
+00:04:50.867 --> 00:04:53.467
+o el último más reciente - y [decir]
+
+00:04:53.467 --> 00:04:58.600
+"Hey , sabes qué, yo aquí con estos 100 dólares, debería serme posible convertirlos en 1000 Yuan
+
+00:04:58.600 --> 00:05:02.733
+Pero ella también dice "Debería poder cambiar estos 100 dólares a mil yuan".
+
+00:05:02.733 --> 00:05:08.600
+Así que colectivamente ellos piensan que 200 dólares pueden ser convertidos en 2000 yuan.
+
+00:05:08.600 --> 00:05:10.497
+Así que pondré eso entre signos de interrogación.
+
+00:05:10.497 --> 00:05:16.992
+¿Les será posible convertir esto en 2000 yuan?
+
+00:05:16.992 --> 00:05:21.271
+Y esta persona aquí, él dice, "Bueno, al tipo de cambio actual
+
+00:05:21.271 --> 00:05:26.658
+quizá pueda obtener por mis 1000 yuan- quizás pueda obtener 100 dólares
+
+00:05:26.658 --> 00:05:30.977
+pero todos buscan maximizar la cantidad de la otra moneda que obtiene, por obvias razones.
+
+00:05:30.977 --> 00:05:32.649
+Quieren maximizar la cantidad de dinero que obtienen
+
+00:05:32.649 --> 00:05:38.272
+Ahora, ¿Podrán estas 2 personas convertir su dinero a 2000 yuan?
+
+00:05:38.272 --> 00:05:40.312
+Recuerda, lo que dije es que este es el mercado entero.
+
+00:05:40.312 --> 00:05:41.658
+Es una enorme [sobre] simplificación
+
+00:05:41.658 --> 00:05:45.977
+Pero existe un desbalance aquí, más dólares a yuan que yuan a dólares.
+
+00:05:45.977 --> 00:05:51.179
+Ahora, ellos no podrán convertir a 2000 yuan porque sólo hay 1000 yuan que quieren ser intercambiados
+
+00:05:51.179 --> 00:05:55.080
+Sólo hay 1000 yuan que desean ser intercambiados
+
+00:05:55.080 --> 00:06:00.652
+Así que puedes imaginar, este señor de aquí, quizá él quiere hacerlo lentamente, sólo para ver de alguna manera cómo está el mercado.
+
+00:06:00.652 --> 00:06:06.643
+Así que digamos, al inicio él pone 10 Yuan en el mercado, esencialmente en oferta.
+
+00:06:06.643 --> 00:06:08.315
+Lo puedes hacer de cualquier manera.
+
+00:06:08.315 --> 00:06:11.659
+Tú podrías decir que quizás una de estas personas pone un dólar en oferta.
+
+00:06:11.659 --> 00:06:14.491
+Y este señor está ofertando por ese dólar en términos de Yuan.
+
+00:06:14.491 --> 00:06:17.324
+O este señor está ofertando Yuan-
+
+00:06:17.324 --> 00:06:20.343
+Y estas personas van a ofertar en términos de dólares.
+
+00:06:20.343 --> 00:06:23.687
+De cualquier manera. Y por eso es a veces confuso con divisas.
+
+00:06:23.687 --> 00:06:25.498
+Es porque estás comprando otra divisa.
+
+00:06:25.498 --> 00:06:31.837
+Pero dado que la divisa de este señor tiene más demanda.
+
+00:06:31.837 --> 00:06:38.756
+Para simplificar las cosas, lo haré el tipo de persona que es de cierta manera capaz de crear una situación similar a una subasta-
+
+00:06:38.756 --> 00:06:44.701
+Lo cual es realmente lo que los mercados tratan de hacer, de manera que puedas igualar oferta y demanda.
+
+00:06:44.701 --> 00:06:49.484
+Entonces él podría poner - él podría decir inicialmente:
+"Hey, sabes qué? Quiero convertir -"
+
+00:06:49.484 --> 00:06:53.710
+Él tiene 100 Yuan, y quiere convertirlos
+
+00:06:53.710 --> 00:06:57.704
+Así que dice: 
+"Estoy dispuesto a vender 100 Yuan por $10 dólares."
+
+00:06:57.704 --> 00:07:02.208
+Así que, digamos, vende 100 Yuan por 10 dólares.
+
+00:07:02.208 --> 00:07:18.787
+Así que vende 100 - u oferta debería decir -
+ofrece vender 100 Yuan por 10 dólares.
+
+00:07:18.787 --> 00:07:22.131
+Ella piensa que ese es un precio de oferta justo, justo aquí.
+
+00:07:22.131 --> 00:07:27.007
+Y este tipo de aquí, éste tipo de hecho está convirtiendo Yuan a Dólares.
+
+00:07:27.007 --> 00:07:28.308
+Bueno, ¿qué va a suceder?
+
+00:07:28.308 --> 00:07:30.490
+Bueno, una de estas personas simplemente va a lanzarse por esto,
+
+00:07:30.490 --> 00:07:32.487
+Dirá "Oh, sabes qué? creo que ese es un precio justo
+
+00:07:32.487 --> 00:07:35.200
+Y digamos que esta mujer de aquí lo toma.
+
+00:07:35.200 --> 00:07:39.639
+De hecho ambos quizá vieron esa oferta de vender 100 yuan por 10 dólares.
+
+00:07:39.639 --> 00:07:43.401
+Y ambos trataron de dar click en su mouse, o cómo sea que estén tratando de realizar la transacción
+
+00:07:43.401 --> 00:07:47.116
+Y ambos trataron de dar click en su mouse, o cómo sea que estén tratando de realizar la transacción
+
+00:07:47.116 --> 00:07:56.218
+Así que digamos, llamemos a esta Persona B, y esta persona A y esta persona C.
+
+00:07:56.218 --> 00:08:06.063
+Así que la Persona B acepta. Por lo que dos cosas acaban de suceder.
+
+00:08:06.063 --> 00:08:09.128
+Una es, la Persona C dice: "Bueno, eso fue rápido"
+
+00:08:09.128 --> 00:08:14.794
+"Alguien realmente deseaba tomarlos a 10 yuan por Dólar"
+
+00:08:14.794 --> 00:08:18.649
+Y entonces este tipo dice, "oh dios! necesito convertir mi dinero a Yuan; pero no pude"
+
+00:08:18.649 --> 00:08:20.460
+"Alguien más me ganó"
+
+00:08:20.460 --> 00:08:26.822
+Así que este señor de aquí dice, "Hey, quizá la gente está dispuesta a darme más dólares por Yuan"
+
+00:08:26.822 --> 00:08:38.809
+Así que imaginemos que este señor de aquí - 
+este señor en naranja - él entonces ofrece vender -
+
+00:08:38.809 --> 00:08:46.768
+Digamos que quiere vender 90 yuan por 10 dólares
+
+00:08:46.768 --> 00:08:53.548
+Nota que: El precio del Yuan ahora ha aumentado ahora -
+O el precio del dólar ha disminuido ahora.
+
+00:08:53.548 --> 00:08:58.146
+Cualquiera de los dos, ambos son enunciados simétricos. 
+Ambos Significan exactamente lo mismo.
+
+00:08:58.146 --> 00:09:02.975
+Entonces de pronto, esta persona tiene muchos dólares que necesita convertir a Yuan.
+
+00:09:02.975 --> 00:09:05.855
+Así que acepta rápidamente. 
+Así que la persona A acepta.
+
+00:09:05.855 --> 00:09:07.852
+Estoy haciendo una sobre simplificación
+
+00:09:07.852 --> 00:09:10.638
+Pero te da una idea general para mostrarte que esto realmente es un mercado
+
+00:09:10.638 --> 00:09:14.957
+Así que la persona A acepta.
+
+00:09:14.957 --> 00:09:17.279
+Y de pronto tenemos una nueva tasa de cambio quoted.
+
+00:09:17.279 --> 00:09:19.926
+De pronto tenemos una tasa de cambio de -
+
+00:09:19.926 --> 00:09:21.459
+Qué es esto, 9 Yuan
+
+00:09:21.459 --> 00:09:34.555
+Así que tenemos una nueva tasa de cambio quoted - 
+o la transacción se realiza a 9 Yuan por dólar
+
+00:09:34.555 --> 00:09:35.623
+¿Bueno qué pasa?
+
+00:09:35.623 --> 00:09:37.852
+Y creo que puedes ver la dinámica de lo que va a suceder.
+
+00:09:37.852 --> 00:09:44.493
+Hay más dólares que necesitan ser convertidos a Yuan, que Yuan que necesiten ser convertidos a dólares.
+
+00:09:44.493 --> 00:09:49.648
+Así que este señor - conforme ve que hay mucha demanda para obtener sus 1000 Yuan -
+
+00:09:49.648 --> 00:09:53.641
+Va a seguir ofreciendo cada vez menos Yuan por dólar.
+
+00:09:53.641 --> 00:10:00.514
+O, estas personas comenzarán a aceptar cada vez menos Yuan por cada uno de sus dólares.
+
+00:10:00.514 --> 00:10:04.601
+Así que mientras esto sucede, el precio del Yuan irá para arriba.
+
+00:10:04.601 --> 00:10:06.598
+Nota que: el precio del Yuan se fue para arriba aquí.
+
+00:10:06.598 --> 00:10:09.895
+Era 10 Yuan por dólar,
+ahora es 9 Yuan por dólar
+
+00:10:09.895 --> 00:10:12.219
+O puedes decir que el precio del dólar ha ido a la baja.
+
+00:10:12.219 --> 00:10:15.965
+Y esto continuará sucediendo hasta que todos ellos se puedan deshacer de sus divisas.
+
+00:10:15.965 --> 00:10:17.999
+De hecho depende-
+
+00:10:17.999 --> 00:10:20.971
+No hay fórmula matemática que diga cuál es el precio de venta
+
+00:10:20.971 --> 00:10:24.594
+De hecho depende de cuánto deseen cada una de estas personas realizar la transacción
+
+00:10:24.594 --> 00:10:27.287
+y realmente en qué tan buenos sean en ganarle uno al otro
+
+00:10:27.287 --> 00:10:33.092
+Pero el resultado general- y esto es lo que realmente quiero que entiendas en este video
+
+00:10:33.092 --> 00:10:39.431
+Es que: ya que no hay una ley en el mecanismo de la tasa de cambio en un mercado de divisas, que diga
+
+00:10:39.431 --> 00:10:44.075
+"Esta tiene que ser la tasa de cambio" - bueno, exploraremos como se puede fijar en el futuro.
+
+00:10:44.075 --> 00:10:47.233
+pero no hay nada que diga que este tiene que ser siempre el caso.
+
+00:10:47.233 --> 00:10:50.855
+Si hay más demanda de Yuan que de Dólares - 
+cómo vimos en este ejemplo -
+
+00:10:50.855 --> 00:10:56.922
+El precio del dólar irá para abajo.
+
+00:10:56.922 --> 00:11:05.136
+Haré esto en un - 
+Precio del dólar va para abajo. Y luego -
+
+00:11:05.136 --> 00:11:09.919
+-que es exactamente lo mismo- 
+que significa exactamente lo mismo que,
+
+00:11:09.919 --> 00:11:15.492
+"El precio del Yuan irá para arriba-"
+
+00:11:15.492 --> 00:11:17.210
+Realmente quiero que internalices esto.
+
+00:11:17.210 --> 00:11:21.390
+-irá para arriba, en términos de dólares.
+
+00:11:21.390 --> 00:11:24.826
+El precio de los dólares en términos de Yuan, irá para abajo,
+
+00:11:24.826 --> 00:11:26.869
+Y esta es la cruz del intercambio de divisas
+
+00:11:26.869 --> 00:11:32.860
+Si puedes al menos internalizar estas ideas y entender que realmente hay un mercado aquí,
+
+00:11:32.860 --> 00:11:35.229
+basado en la oferta y demanda del Yuan.
+
+00:11:35.229 --> 00:11:41.870
+aquí, la demanda de Yuan está excediendo su oferta por lo que el precio irá para arriba y -
+
+00:11:41.870 --> 00:11:43.820
+o lo puedes ver de la otra manera-
+
+00:11:43.820 --> 00:11:49.625
+la demanda de dólares está por debajo de la oferta, por lo que su precio ira para abajo
+
+00:11:49.625 --> 00:11:51.808
+En fin, te dejaré pensar sobre esto por un momento.
+
+00:11:51.808 --> 00:11:57.891
+Y en el siguiente video, vamos a aplicar este concepto para ver como este tipo de cambio flotante .
+
+00:11:57.891 --> 99:59:59.999
+puede ayudar a igualar - o debería igualar- 
+desequilibrios comerciales en un mundo ideal .

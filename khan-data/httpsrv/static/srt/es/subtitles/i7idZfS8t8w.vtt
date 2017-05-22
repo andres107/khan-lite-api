@@ -1,0 +1,867 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:04.610
+En este video te voy a mostrar lo que es quizá
+
+00:00:04.610 --> 00:00:07.860
+una de las 5 fórmulas más importantes en las
+
+00:00:07.860 --> 00:00:08.550
+Matemáticas.
+
+00:00:08.550 --> 00:00:11.460
+Si has visto algunos de mis videos, deben saber que
+
+00:00:11.460 --> 00:00:13.660
+no soy fanático de memorizar cosas.
+
+00:00:13.660 --> 00:00:17.400
+Pero recomendaría que se lo memorizen procurando
+
+00:00:17.400 --> 00:00:20.776
+que, a su vez, recuerden como provarlo, ya que no deseo
+
+00:00:20.776 --> 00:00:22.950
+que simplemente memorizen cosas sin saber
+
+00:00:22.950 --> 00:00:23.870
+su significado.
+
+00:00:23.870 --> 00:00:25.970
+Con eso dicho, déjame mostrarte de lo que estoy hablando:
+
+00:00:25.970 --> 00:00:32.330
+La Fórmula Cuadrática.
+
+00:00:32.330 --> 00:00:37.620
+Y como puedes haber adivinado, es usada para obtener las raices
+
+00:00:37.620 --> 00:00:40.900
+o los 'ceros' de una función cuadrática.
+
+00:00:40.900 --> 00:00:43.450
+Hablemos en términos generales y
+
+00:00:43.450 --> 00:00:44.850
+te mostraré unos ejemplos.
+
+00:00:44.850 --> 00:00:48.360
+Supongamos que tengo una ecuación de la forma
+
+00:00:48.360 --> 00:00:54.070
+ax² + bx + c = 0
+
+00:00:54.070 --> 00:00:55.620
+Deberías reconocer esto.
+
+00:00:55.620 --> 00:01:00.450
+Esto es una ecuación cuadrática donde 'a', 'b' y 'c' son-
+
+00:01:00.450 --> 00:01:02.730
+Bueno, 'a' es el coeficiente para el término 'x²' o el
+
+00:01:02.730 --> 00:01:05.540
+término de segundo grado. 'b' es el coeficiente para el término 'x' y
+
+00:01:05.540 --> 00:01:08.270
+'c' es, como puedes imaginar, es el coeficiente de 'x⁰'
+
+00:01:08.270 --> 00:01:10.550
+o, en otras palabras, la constante de la ecuación.
+
+00:01:10.550 --> 00:01:13.550
+Suponiendo que tienes una ecuación cuadrática general
+
+00:01:13.550 --> 00:01:16.786
+como esta, la Fórmula Cuadrática nos dice que
+
+00:01:16.786 --> 00:01:23.079
+las soluciones a esta ecuación son: x es igual a '-b'
+
+00:01:23.079 --> 00:01:28.804
+más o menos la raíz cuadrada de 'b²'
+
+00:01:28.804 --> 00:01:34.732
+menos 4ac, todo sobre 2a.
+
+00:01:34.732 --> 00:01:38.320
+Y se que todo esto suena loco, complejo y dificil de
+
+00:01:38.320 --> 00:01:41.160
+memorizar para ti por ahora, pero conforme le vas agarrando práctica,
+
+00:01:41.160 --> 00:01:44.170
+verás que es una fórmula razonablemente fácil
+
+00:01:44.170 --> 00:01:46.300
+de guardar en algún lugar de tu cerebro.
+
+00:01:46.300 --> 00:01:48.570
+Y podrá desir "Esta es una fórmula muy rara, ¿de donde
+
+00:01:48.570 --> 00:01:49.340
+es que viene?"
+
+00:01:49.340 --> 00:01:50.660
+Y en el siguiente video te mostraré
+
+00:01:50.660 --> 00:01:51.260
+de donde viene.
+
+00:01:51.260 --> 00:01:54.920
+Pero quiero que te acostumbres a usarla primero. Pero
+
+00:01:54.920 --> 00:01:57.670
+simplemente vino de completar cuadrados en
+
+00:01:57.670 --> 00:01:58.750
+esta ecuación.
+
+00:01:58.750 --> 00:02:00.880
+Si completas cuadrados aquí, obtendrás
+
+00:02:00.880 --> 00:02:06.400
+esta solución y esa es es la Fórmula Cuadrática.
+
+00:02:06.400 --> 00:02:09.949
+Ahora, apliquémosla a algunos problemas. Empecemos con
+
+00:02:09.949 --> 00:02:12.680
+algo que podriamos haber factorizado simplemente para verificar
+
+00:02:12.680 --> 00:02:14.120
+que nos esta dando la respuesta correcta.
+
+00:02:14.120 --> 00:02:22.900
+Supongamos que tenemos x² + 4x - 21 = 0
+
+00:02:22.900 --> 00:02:30.230
+En este caso --déjame hacer eso en otro color--
+
+00:02:30.230 --> 00:02:32.370
+'a' es igual a 1, cierto ?
+
+00:02:32.370 --> 00:02:34.415
+El coeficiente del termino 'x²' es 1.
+
+00:02:34.415 --> 00:02:40.920
+'b' es igual a 4, el coeficiente para el término 'x'.
+
+00:02:40.920 --> 00:02:44.240
+Finalmente, 'c' es igual a -21,
+
+00:02:44.240 --> 00:02:45.470
+la constante.
+
+00:02:45.470 --> 00:02:49.860
+Simplemente reemplacemos estas variables en la fórmula, y qué es lo que obtenemos?
+
+00:02:49.860 --> 00:02:56.200
+Obtenemos que 'x' va a ser igual a '-b'
+
+00:02:56.210 --> 00:03:02.346
+'-b' es '-4' --poniendo el símbolo menos en frente de
+
+00:03:02.346 --> 00:03:05.660
+eso-- '-b' más o menos la
+
+00:03:05.660 --> 00:03:08.770
+raiz cuadrada de 'b²'..
+
+00:03:08.770 --> 00:03:11.230
+'b²' es 16, cierto ?
+
+00:03:11.230 --> 00:03:21.860
+4 al cuadrado es 16, menos 4 veces 'a', que es 1, por 'c', que es -21.
+
+00:03:21.870 --> 00:03:24.750
+Podríamos poner un 21 ahí y el signo negativo
+
+00:03:24.750 --> 00:03:28.790
+se cancelaría, pero como esta es la primera
+
+00:03:28.790 --> 00:03:31.400
+vez que estamos haciendo esto, no me saltaré muchos pasos.
+
+00:03:31.400 --> 00:03:34.800
+Pongamos -21, para ver como entra, y a todo eso
+
+00:03:34.800 --> 00:03:39.330
+lo dividimos entre 2a.
+
+00:03:39.330 --> 00:03:42.760
+'a' es 1, asi que todo eso dividido entre 2.
+
+00:03:42.760 --> 00:03:45.460
+Es posible que esto se pueda simplificar.
+
+00:03:45.460 --> 00:03:50.120
+Obtenemos que 'x' es igual a 4 más o menos
+
+00:03:50.120 --> 00:03:53.110
+la raiz cuadrada de.. A ver, tenemos un negativo por
+
+00:03:53.110 --> 00:03:55.890
+un negativo. Esto nos dará un positivo.
+
+00:03:55.890 --> 00:04:00.470
+Y tenemos 16 más 4 veces 1, que es 4,
+
+00:04:00.470 --> 00:04:03.160
+por 21, que resulta 84.
+
+00:04:03.160 --> 00:04:06.380
+16 más 84 es 100.
+
+00:04:06.380 --> 00:04:07.810
+Eso es bueno,
+
+00:04:07.810 --> 00:04:09.180
+es un cuadrádo perfecto.
+
+00:04:09.180 --> 00:04:13.380
+Todo esto sobre 2. Esto es igual a
+
+00:04:13.380 --> 00:04:19.160
+-4 más o menos 10, sobre 2.
+
+00:04:19.160 --> 00:04:23.060
+Ahora podemos dividir ambos términos entre 2.
+
+00:04:23.060 --> 00:04:27.840
+Esto es igual a -4 dividido entre 2, que es -2
+
+00:04:27.840 --> 00:04:32.000
+más o menos 10 dividivo entre 2, que es 5.
+
+00:04:32.000 --> 00:04:38.490
+Esto nos dice que 'x' podria ser igual a -2 más 5,
+
+00:04:38.490 --> 00:04:44.930
+que es 3, o 'x' podría ser igual a -2 menos 5,
+
+00:04:44.930 --> 00:04:47.240
+que es -7.
+
+00:04:47.240 --> 00:04:49.420
+De esta forma, la Fórmula Cuadrática nos ha dado
+
+00:04:49.420 --> 00:04:50.500
+una respuesta a esto.
+
+00:04:50.500 --> 00:04:53.240
+Puedes verificar simpletemente reemplazando estos valores
+
+00:04:53.240 --> 00:04:55.840
+en la ecuación para comprobar que son correctos, o podrías factorizar
+
+00:04:55.840 --> 00:04:56.610
+la ecuación.
+
+00:04:56.610 --> 00:04:59.110
+Que dos números que al multiplicar
+
+00:04:59.110 --> 00:05:04.200
+obtienes -21 y cuando los sumas obtienes 4?
+
+00:05:04.200 --> 00:05:08.740
+Obtendrías (x+7) por (x-3)
+
+00:05:08.740 --> 00:05:10.690
+es igual a -21.
+
+00:05:10.690 --> 00:05:14.970
+Nota que 7 veces -3 es -21, y que 7 más -3
+
+00:05:14.970 --> 00:05:16.160
+es 4.
+
+00:05:16.160 --> 00:05:20.850
+Obtendrías --disculpa, no es -21, es
+
+00:05:20.850 --> 00:05:22.590
+igual a 0.
+
+00:05:22.590 --> 00:05:23.890
+Debería haber un 0 ahí.
+
+00:05:23.890 --> 00:05:29.380
+Entonces, obtienes x+7 es igual a 0, o x-3
+
+00:05:29.380 --> 00:05:30.810
+es igual a 0.
+
+00:05:30.810 --> 00:05:36.850
+'x' podría ser -7 o podría ser 3.
+
+00:05:36.850 --> 00:05:39.390
+Asi que definitivamente nos da la misma respuesta que al factorizar,
+
+00:05:39.390 --> 00:05:42.700
+por lo tanto, podrias decir "¿Por qué utilizar este enredo?"
+
+00:05:42.700 --> 00:05:45.140
+Y la razón por la cual quieres usar este enredo es
+
+00:05:45.140 --> 00:05:48.150
+porque también funcionará para problemas que son difíciles de factorizar.
+
+00:05:48.150 --> 00:05:50.210
+Asi que hagamos un par de esos, hagamos algunos
+
+00:05:50.210 --> 00:05:53.080
+de esos problemas difíciles de factorizar.
+
+00:05:53.080 --> 00:05:57.410
+Limpiemos el canvas para tener más espacio.
+
+00:05:57.410 --> 00:06:01.150
+Reescribamos la fórmula en caso de que
+
+00:06:01.150 --> 00:06:04.580
+no te la hayas memorizado todavia. 'x' es igual a '-b'
+
+00:06:04.580 --> 00:06:11.180
+más o menos la raiz cuadrada de 'b' menos 4ac,
+
+00:06:11.180 --> 00:06:14.480
+todo esto sobre 2a.
+
+00:06:14.480 --> 00:06:17.540
+Utilizaré esto en otro problema.
+
+00:06:17.540 --> 00:06:31.746
+Supongamos que tienes la ecuación 3x² + 6x = -10
+
+00:06:31.746 --> 00:06:33.610
+Lo primero que queremos hacer es acomodarlo de manera
+
+00:06:33.610 --> 00:06:35.980
+que todos los términos estan en el lado izquierdo, así que
+
+00:06:35.980 --> 00:06:38.450
+sumemos 10 a cada lado de la ecuación.
+
+00:06:38.450 --> 00:06:46.680
+Tenemos que 3x² + 6x + 10 = 0
+
+00:06:46.680 --> 00:06:49.930
+Ahora podemos usar la Fórmula Cuadrática.
+
+00:06:49.930 --> 00:06:51.320
+Apliquémosla aquí.
+
+00:06:51.320 --> 00:06:53.050
+'a' es igual a 3
+
+00:06:53.050 --> 00:06:59.900
+Ese es 'a', este es 'b' y este aquí es 'c'.
+
+00:06:59.900 --> 00:07:01.870
+La Fórmula Cuadrática nos va a dar
+
+00:07:01.870 --> 00:07:04.060
+las soluciones a esta ecuación,
+
+00:07:04.060 --> 00:07:09.570
+o las raices, como tambien se les
+
+00:07:09.570 --> 00:07:10.570
+llama.
+
+00:07:10.570 --> 00:07:13.300
+'x' va a ser igual a '-b',
+
+00:07:13.300 --> 00:07:17.920
+'b' es 6, asi que -6, más o menos la
+
+00:07:17.920 --> 00:07:21.350
+raiz cuadrada de b².
+
+00:07:21.350 --> 00:07:29.270
+'b' es 6, por lo que tenemos 6 al cuadrado menos 4 veces 'a', que es 3,
+
+00:07:29.270 --> 00:07:32.630
+multiplicado por 'c', que es 10.
+
+00:07:32.630 --> 00:07:37.050
+Alarguemos un poco la raiz.. Todo esto sobre
+
+00:07:37.050 --> 00:07:42.190
+2 veces 'a', 2 por 3.
+
+00:07:42.190 --> 00:07:46.380
+Esto da que 'x' es igual a -6 más o menos
+
+00:07:46.380 --> 00:07:57.320
+la raiz cuadrada de 36 --esto es interesante-- menos 4 por
+
+00:07:57.320 --> 00:07:59.090
+3 por 10.
+
+00:07:59.090 --> 00:08:05.690
+Esto es 4 por 3 por 10, que
+
+00:08:05.690 --> 00:08:11.500
+resulta ser 120.
+
+00:08:11.500 --> 00:08:15.010
+Todo esto sobre 6.
+
+00:08:15.010 --> 00:08:17.750
+Esto es interesante y quizás te has dado cuenta de
+
+00:08:17.750 --> 00:08:18.220
+por qué.
+
+00:08:18.220 --> 00:08:19.956
+¿Qué obtenemos al simplificar?
+
+00:08:19.956 --> 00:08:23.610
+¿36 menos 120 es qué?
+
+00:08:23.610 --> 00:08:30.630
+Es 84.
+
+00:08:30.630 --> 00:08:33.860
+Convertimos esto en un 10, esto se vuelve
+
+00:08:33.860 --> 00:08:36.159
+un 11, esto es 4.
+
+00:08:36.159 --> 00:08:39.590
+Si es 84. Entonces, esto va a ser igual a -6 más
+
+00:08:39.590 --> 00:08:42.799
+o menos la raiz de --Pero esto no es 84 positivo, lo cual resulta de
+
+00:08:42.799 --> 00:08:44.640
+120 menos 36.
+
+00:08:44.640 --> 00:08:46.920
+Tenemos 36 menos 120.
+
+00:08:46.920 --> 00:08:53.630
+Va a ser -84, todo esto sobre 6.
+
+00:08:53.630 --> 00:08:55.140
+Podrás decir que esto es una locura.
+
+00:08:55.140 --> 00:08:56.930
+"Qué clase de loca fórmula cuadrática me
+
+00:08:56.930 --> 00:08:58.000
+estas mostrando, Sal.
+
+00:08:58.000 --> 00:08:58.790
+No sirve.
+
+00:08:58.790 --> 00:09:03.020
+Simplemente me da la raiz cuadrada de un número negativo.
+
+00:09:03.020 --> 00:09:04.380
+No me esta dando ninguna respuesta."
+
+00:09:04.380 --> 00:09:06.750
+Y la razón por la que no te está dando una respuesta, al menos
+
+00:09:06.750 --> 00:09:11.450
+no la que tú quieres, es porque esto no tendrá ninguna
+
+00:09:11.450 --> 00:09:12.700
+solucion real.
+
+00:09:12.700 --> 00:09:17.910
+Ninguna solucion en los reales.
+
+00:09:17.910 --> 00:09:20.260
+Más adelante presentaremos algo llamado
+
+00:09:20.260 --> 00:09:23.310
+número imaginario, que es la raiz cuadrada de un número
+
+00:09:23.310 --> 00:09:27.720
+negativo, y podremos expresar esto en función
+
+00:09:27.720 --> 00:09:28.810
+de estos números.
+
+00:09:28.810 --> 00:09:31.540
+Así que esto si tienes soluciones, pero incluyen
+
+00:09:31.540 --> 00:09:32.660
+números imaginarios.
+
+00:09:32.660 --> 00:09:34.690
+Esto no tiene ninguna solucin en los reales, ya que estamos tomando
+
+00:09:34.690 --> 00:09:37.760
+la raiz cuadrada de un número negativo.
+
+00:09:37.760 --> 00:09:41.280
+Así que (b² - 4ac), si este
+
+00:09:41.280 --> 00:09:45.330
+término aqui es negativo, entonces no vamos a tener
+
+00:09:45.330 --> 00:09:47.290
+ninguna solución real.
+
+00:09:47.290 --> 00:09:48.610
+Asi que verifiquemos esto nosotros mismos.
+
+00:09:48.610 --> 00:09:51.240
+Cojamos nuestra calculadora graficadora y grafiquemos
+
+00:09:51.240 --> 00:09:54.600
+esta ecuación aquí.
+
+00:09:54.600 --> 00:09:57.710
+Pongamos que 'y' es igual a
+
+00:09:57.710 --> 00:10:10.510
+3x² + 6x + 10
+
+00:10:10.510 --> 00:10:11.920
+Esta es la ecuación donde veremos donde es que intersecta
+
+00:10:11.920 --> 00:10:13.210
+con el eje x.
+
+00:10:13.210 --> 00:10:15.370
+Donde es que la funcion resulta 0.
+
+00:10:15.370 --> 00:10:17.150
+Déjame graficarla.
+
+00:10:20.510 --> 00:10:23.700
+Date cuenta que esta parte se va para abajo y luego vuelve a subir.
+
+00:10:23.700 --> 00:10:26.880
+Su vértice esta por encima del eje x, y se abre
+
+00:10:26.880 --> 00:10:27.710
+hacia arriba.
+
+00:10:27.710 --> 00:10:30.290
+Nunca se intersecta con el eje x.
+
+00:10:30.290 --> 00:10:33.262
+Así que en ningun momento esta expresión, o
+
+00:10:33.262 --> 00:10:34.650
+función, resulta 0.
+
+00:10:34.650 --> 00:10:38.530
+En ningun momento 'y' llega a ser 0 en esta gráfica.
+
+00:10:38.530 --> 00:10:41.700
+Una vez más, la Fórmula Cuadrática parece funcionar.
+
+00:10:41.700 --> 00:10:44.710
+Hagamos un ejemplo más. Nunca puedes ver
+
+00:10:44.710 --> 00:10:46.730
+suficientes ejemplos aquí.
+
+00:10:46.730 --> 00:10:50.300
+Y quiero hacer algunos que no sean muy
+
+00:10:50.300 --> 00:10:52.160
+fáciles de factorizar.
+
+00:10:52.160 --> 00:11:03.760
+Supongamos que tenemos -3x² + 12x + 1 = 0
+
+00:11:03.770 --> 00:11:06.450
+Intentemos resolverla usando la Fórmula Cuadrática
+
+00:11:06.450 --> 00:11:07.740
+de memoria.
+
+00:11:07.740 --> 00:11:12.290
+Las 'x' que satisfacen esta ecuación van a ser
+
+00:11:12.290 --> 00:11:13.690
+-b,
+
+00:11:13.690 --> 00:11:18.580
+este es 'b' así que '-b' va a ser -12, más o menos la
+
+00:11:18.580 --> 00:11:27.300
+raiz cuadrada de b², que es 144, menos 4
+
+00:11:27.300 --> 00:11:33.870
+multiplicado por 'a', que es -3, por 'c', que es 1. Todo esto
+
+00:11:33.870 --> 00:11:39.540
+sobre 2 veces 'a', o sobre 2 veces -3.
+
+00:11:39.540 --> 00:11:43.970
+Así que todo esto sobre -6. Esto va a ser igual a
+
+00:11:43.970 --> 00:11:47.630
+-12 más o menos la raiz cuadrada
+
+00:11:47.630 --> 00:11:49.030
+de --Que tenemos aquí?
+
+00:11:49.030 --> 00:11:51.710
+Es un negativo por otro negativo asi que se cancelan,
+
+00:11:51.710 --> 00:12:01.220
+por lo que tengo 144 más 12, o 156.
+
+00:12:01.220 --> 00:12:06.910
+144 más 12, todo eso sobre -6.
+
+00:12:06.910 --> 00:12:10.350
+Sospecho que podemos simplificar este 156.
+
+00:12:10.350 --> 00:12:12.270
+Podriamos quizás sacar algo
+
+00:12:12.270 --> 00:12:13.850
+fuera de la raiz.
+
+00:12:13.850 --> 00:12:17.170
+Intentemos hacer eso.
+
+00:12:17.170 --> 00:12:20.020
+Descompongamos 156 en factores primos.
+
+00:12:20.020 --> 00:12:23.600
+A veces, la parte más dificil es simplificar la raiz.
+
+00:12:23.600 --> 00:12:30.080
+156 es igual a 2 veces 78, y
+
+00:12:30.080 --> 00:12:33.950
+78 es igual a 2 veces qué?
+
+00:12:33.950 --> 00:12:39.800
+2 veces 39.
+
+00:12:39.800 --> 00:12:48.960
+Asi que la raiz cuadrada de 156 es igual a la raiz de
+
+00:12:48.960 --> 00:12:53.930
+2 por 2 por 39, o en otras palabras, la raiz de 2 por 2
+
+00:12:53.930 --> 00:12:57.110
+por la raiz de 39.
+
+00:12:57.110 --> 00:12:58.810
+Y esto va a resultar siendo la raiz cuadrada
+
+00:12:58.810 --> 00:13:01.830
+de 4, o la raiz de 2 por 2, lo cual es 2.
+
+00:13:01.830 --> 00:13:06.310
+2 veces la raiz de 39, si es que hice eso correctamente.
+
+00:13:06.310 --> 00:13:07.710
+Veamos, 4 por 39.
+
+00:13:07.710 --> 00:13:10.150
+Si, está correcto.
+
+00:13:10.150 --> 00:13:17.590
+Asi que esto al simplificar resulta en -12 más o menos
+
+00:13:17.590 --> 00:13:23.220
+2 veces la raiz de 39, todo eso sobre 6.
+
+00:13:23.220 --> 00:13:25.650
+Ahora podemos dividir el numerador y el denominador
+
+00:13:25.650 --> 00:13:26.590
+por 2.
+
+00:13:26.590 --> 00:13:32.060
+Asi que esto será igual a -6 más o menos
+
+00:13:32.060 --> 00:13:36.020
+la raiz de 39 sobre -3.
+
+00:13:36.020 --> 00:13:38.540
+Podemos a su vez separar esto en dos términos.
+
+00:13:38.540 --> 00:13:42.800
+Esto es igual a -6 sobre -3
+
+00:13:42.800 --> 00:13:49.310
+más o menos la raiz de 39 sobre -3.
+
+00:13:49.310 --> 00:13:51.400
+Esto aquí es simplemente 2.
+
+00:13:51.400 --> 00:13:55.190
+Los signos se cancelan, 6 dividido entre 3 es 2, asi que tenemos 2.
+
+00:13:55.190 --> 00:13:57.810
+Si nos damos cuenta, al usar el signo menos,
+
+00:13:57.810 --> 00:13:59.780
+el signo positivo se vuelve negativo y el negativo
+
+00:13:59.780 --> 00:14:01.160
+se vuelve positivo.
+
+00:14:01.160 --> 00:14:02.390
+Pero aun así no importa, cierto?
+
+00:14:02.390 --> 00:14:05.260
+Podemos decir "menos o más", ya que es lo mismo que
+
+00:14:05.260 --> 00:14:10.010
+"más o menos" la raiz de 39 sobre 3.
+
+00:14:10.010 --> 00:14:12.940
+Creo que eso es lo más que podemos simplificar esto.
+
+00:14:12.940 --> 00:14:14.620
+Quiero dejar en claro lo que hice
+
+00:14:14.620 --> 00:14:16.420
+en ese último paso.
+
+00:14:16.420 --> 00:14:19.530
+No me olvide del signo negativo.
+
+00:14:19.530 --> 00:14:20.430
+Simplemente dije que no importaba.
+
+00:14:20.430 --> 00:14:22.190
+Va a convertir el positivo en negativo y, a su vez,
+
+00:14:22.190 --> 00:14:23.800
+convertir el negativo en positivo.
+
+00:14:23.800 --> 00:14:25.140
+Déjame reescribirlo.
+
+00:14:25.140 --> 00:14:29.660
+Esto aquí se puede reescribir como 2 más
+
+00:14:29.660 --> 00:14:36.210
+la raiz de 39 sobre -3 o 2 menos la raiz de 39
+
+00:14:36.210 --> 00:14:38.080
+sobre -3, cierto?
+
+00:14:38.080 --> 00:14:40.610
+Eso es lo que el signo más o menos significa. Puede ser este
+
+00:14:40.610 --> 00:14:42.600
+o ese, o ambos.
+
+00:14:42.600 --> 00:14:45.430
+Ahora, en este caso el -3 lo convertirá en 2
+
+00:14:45.430 --> 00:14:49.290
+menos la raiz cuadrada de 39 sobre 3.
+
+00:14:49.290 --> 00:14:51.150
+Estoy sacando el negativo del denominador.
+
+00:14:51.150 --> 00:14:53.130
+Aquí el negativo se convertirá en positivo, y
+
+00:14:53.130 --> 00:14:56.090
+obtendrás 2 más la raiz cuadrada
+
+00:14:56.090 --> 00:14:59.210
+de 39 sobre 3.
+
+00:14:59.210 --> 00:15:01.130
+Un negativo por otro negativo es un positivo.
+
+00:15:01.130 --> 00:15:04.400
+Asi que nuevamente tienes 2 más o menos
+
+00:15:04.400 --> 00:15:07.190
+la raiz de 39 sobre 3.
+
+00:15:07.190 --> 00:15:11.550
+2 más o menos la raiz de 39 sobre 3 son
+
+00:15:11.550 --> 00:15:16.795
+las soluciones a la ecuación de aquí.
+
+00:15:16.795 --> 00:15:17.300
+Déjame verificar.
+
+00:15:17.300 --> 00:15:19.920
+Me da curiosidad cómo lucirá la gráfica,
+
+00:15:19.920 --> 00:15:24.360
+así que revisémosla.
+
+00:15:24.360 --> 00:15:25.860
+Dejame borrar esto.
+
+00:15:25.860 --> 00:15:27.670
+Dónde esta el botón de borrado?
+
+00:15:27.670 --> 00:15:37.280
+Tenemos -3x² + 12x + 1, y ahora a
+
+00:15:37.280 --> 00:15:39.721
+graficarlo.
+
+00:15:39.721 --> 00:15:42.280
+Veamos donde se intersecta con el eje x.
+
+00:15:42.280 --> 00:15:47.180
+Sube por aquí y luego vuelve a bajar.
+
+00:15:47.180 --> 00:15:51.840
+2 más o menos la raiz de 39. La raiz de
+
+00:15:51.840 --> 00:15:56.330
+39 va a ser un poco mayor a 6, cierto?
+
+00:15:56.330 --> 00:15:58.090
+Porque 36 es 6 al cuadrado.
+
+00:15:58.090 --> 00:16:00.910
+Asi que va a ser un poco más que 6, por lo que esto va a ser
+
+00:16:00.910 --> 00:16:02.110
+un poco más que 2.
+
+00:16:02.110 --> 00:16:03.890
+Un poco más que 6 dividido entre 2 es un poco
+
+00:16:03.890 --> 00:16:04.615
+más que 2.
+
+00:16:04.615 --> 00:16:06.580
+Asi que vas a obtener un valor que es un poco
+
+00:16:06.580 --> 00:16:09.100
+más que 4 y otro valor que debería ser un poco
+
+00:16:09.100 --> 00:16:10.690
+menos que 1.
+
+00:16:10.690 --> 00:16:13.590
+Y ese parece ser el caso. Tienes 1, 2, 3, 4.
+
+00:16:13.590 --> 00:16:18.460
+Tienes un valor que es bien cercano a 4, y otro valor
+
+00:16:18.460 --> 00:16:25.020
+que es un poco cercano a 0, pero tal vez
+
+00:16:25.020 --> 00:16:26.540
+un poco menos que eso.
+
+00:16:26.540 --> 00:16:29.090
+De cualquier modo, espero que hayas encontrado esta explicación de
+
+00:16:29.090 --> 00:16:32.000
+la Fórmula Cuadrática útil.

@@ -1,0 +1,273 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.952 --> 00:00:05.000
+Número de problema 1: en el tiempo t, una partícula en el plano xy
+
+00:00:05.000 --> 00:00:09.800
+está en la posición (partida, y(t)), donde partida y y(t)
+
+00:00:09.800 --> 00:00:11.502
+no se dan explícitamente.
+
+00:00:11.764 --> 00:00:14.141
+Para t es mayor o igual que 0,
+
+00:00:14.141 --> 00:00:17.390
+la derivada de x con respecto a t es 4t + 1
+
+00:00:17.667 --> 00:00:21.797
+la derivada de y con respecto a t es sin(t^2)
+
+00:00:21.797 --> 00:00:26.240
+y en el tiempo t = 0, x (0) = 0 y y (0) =-4
+
+00:00:26.378 --> 00:00:28.800
+Justo, hagamos parte une a.
+
+00:00:28.800 --> 00:00:33.610
+Buscar la velocidad de la partícula en el tiempo t = 3,
+
+00:00:33.825 --> 00:00:37.067
+y encontrar el vector de aceleración de la partícula en
+
+00:00:37.067 --> 00:00:40.533
+tiempo t es igual a 3 así.
+
+00:00:40.533 --> 00:00:45.333
+Por lo tanto, la velocidad es realmente sólo la magnitud del vector de velocidad.
+
+00:00:45.333 --> 00:00:47.137
+¿Cuál es el vector de velocidad?
+
+00:00:47.137 --> 00:00:50.979
+Nuestro vector de velocidad como una función del tiempo
+
+00:00:50.979 --> 00:00:55.890
+va a ser igual a la derivada de nuestra posición x
+
+00:00:55.890 --> 00:00:59.467
+como una función del tiempo, o podríamos decir la velocidad en la dirección x
+
+00:00:59.467 --> 00:01:06.887
+i el tiempo vector unitario, además de la velocidad en la dirección y veces el vector de la unidad de j.
+
+00:01:06.887 --> 00:01:08.383
+Sólo escribí esto en notación de ingeniería,
+
+00:01:08.383 --> 00:01:12.307
+Obviamente hay muchas maneras que podría especificar un vector.
+
+00:01:12.307 --> 00:01:15.800
+Y, en este caso, x'(t), han ya dado a nosotros:
+
+00:01:15.800 --> 00:01:18.000
+x'(t) es 4t + 1
+
+00:01:18.000 --> 00:01:20.333
+sólo escribía como dx/dt.
+
+00:01:20.333 --> 00:01:27.005
+Así que esto aquí es 4t + 1 veces la i vector unitario,
+
+00:01:27.005 --> 00:01:31.467
+y, a continuación, esta aquí, esta y'(t), dieron a nosotros
+
+00:01:31.467 --> 00:01:33.933
+la derivada de y con respecto a t es sin(t^2).
+
+00:01:33.933 --> 00:01:41.800
+Por lo tanto, más sin(t^2) veces el vector de la unidad de j.
+
+00:01:41.800 --> 00:01:46.502
+Es nuestro vector de velocidad. ¿Cuál es nuestra velocidad-
+
+00:01:46.502 --> 00:01:49.134
+o este es nuestro vector de velocidad como una función del tiempo,
+
+00:01:49.134 --> 00:01:53.185
+¿Cuál es nuestra velocidad en el tiempo t = 3?
+
+00:01:53.400 --> 00:02:01.000
+Así, sólo tenemos que sustituir 3 para t, 4 (3) + 1 es 13i.
+
+00:02:01.123 --> 00:02:11.216
+Plus 3 cuadrado-3 al cuadrado es 9 - seno de 9. Además de sin9j.
+
+00:02:11.216 --> 00:02:15.000
+Nuestra velocidad, lo que nos quieren averiguar va a ser
+
+00:02:15.000 --> 00:02:20.200
+igual a- o tal vez debo escribirlo como nuestra velocidad al tiempo 3
+
+00:02:20.200 --> 00:02:26.400
+-nuestra velocidad va a ser igual a la magnitud de nuestro vector de velocidad al tiempo 3,
+
+00:02:26.400 --> 00:02:34.933
+que es igual a la magnitud del 13i + (sin9)j.
+
+00:02:34.933 --> 00:02:40.133
+Y, a continuación, esto nos literalmente, esto es, usamos esencialmente el teorema de Pitágoras
+
+00:02:40.133 --> 00:02:41.133
+para encontrar la magnitud.
+
+00:02:41.133 --> 00:02:47.400
+Esto va a ser igual a la raíz cuadrada de 169 (que es 13 cuadrado)
+
+00:02:47.400 --> 00:02:55.746
+Plus (sin9) ^ 2. Así que permítanme obtener mi TI-85 fuera.
+
+00:02:55.961 --> 00:03:00.048
+Esta parte del examen nos permite usar calculadoras.
+
+00:03:00.048 --> 00:03:15.058
+Por lo que obtener la raíz cuadrada de 169 + (sin9) ^ 2.
+
+00:03:15.535 --> 00:03:18.608
+Muy bien, es 13 cuadrado más sin9 al cuadrado.
+
+00:03:18.885 --> 00:03:24.133
+Y obtenemos-obtenemos 13.00-yo voy solo ronda 7,
+
+00:03:24.133 --> 00:03:27.513
+sólo para mostrar que tenemos no sólo rectas hasta 13,
+
+00:03:27.513 --> 00:03:30.067
+que el sin9 cuadrado hacer algo.
+
+00:03:30.067 --> 00:03:33.255
+Tan 13.007.
+
+00:03:33.255 --> 00:03:38.384
+Esto es aproximadamente igual a 13.007.
+
+00:03:38.384 --> 00:03:40.381
+Así hemos respondido a la primera parte.
+
+00:03:40.381 --> 00:03:45.200
+La velocidad de la partícula en el tiempo t = 3 es 13.007.
+
+00:03:45.200 --> 00:03:49.933
+A continuación, nos quieren encontrar el vector de aceleración de la partícula en el tiempo t = 3.
+
+00:03:49.933 --> 00:03:58.214
+Por lo tanto el vector de aceleración en función del tiempo sólo va a ser la segunda derivada de x
+
+00:03:58.214 --> 00:04:01.733
+con respecto a t, o te diría que la aceleración en la dirección x
+
+00:04:01.733 --> 00:04:06.769
+como una función como una función del tiempo tiempos, además de la aceleración en la dirección y.
+
+00:04:06.769 --> 00:04:11.472
+Es la segunda derivada de y con respecto a t en la dirección de j.
+
+00:04:11.472 --> 00:04:14.676
+Y esto, por supuesto, sólo va a ser igual a
+
+00:04:14.676 --> 00:04:19.800
+la derivada de x-la derivada de x - la segunda derivada de partida es simplemente la derivada de
+
+00:04:19.800 --> 00:04:23.667
+la primera derivada. Por lo tanto la primera derivada es 4t + 1,
+
+00:04:23.667 --> 00:04:25.892
+tomar la derivada de la, sólo obtendrá 4.
+
+00:04:26.215 --> 00:04:34.067
+Así, conseguimos 4i plus... y, a continuación, el derivado de la segunda derivada, o la segunda derivada de y con respecto a t
+
+00:04:34.067 --> 00:04:35.733
+es simplemente la derivada de la primera derivada.
+
+00:04:35.733 --> 00:04:39.963
+El derivado-la primera derivada es tan sin(t^2),
+
+00:04:39.963 --> 00:04:48.554
+derivado de va a ser 2t*cos(t^2), y por supuesto tenemos nuestro j.
+
+00:04:48.554 --> 00:04:52.400
+Tenemos nuestro j derecho por allí y sólo hice esto de la regla de la cadena.
+
+00:04:52.400 --> 00:04:58.533
+La derivada de t ^ 2 con respecto a t es 2t,
+
+00:04:58.533 --> 00:05:04.733
+derivados de sin(t^2) con respecto a t ^ 2 es cos(t^2).
+
+00:05:04.733 --> 00:05:08.440
+Y eso es el vector de aceleración en función de t
+
+00:05:08.440 --> 00:05:11.400
+pero les importa al tiempo t es igual a 3.
+
+00:05:11.400 --> 00:05:17.795
+Por,4 se esta 4, entonces tienes 2(3)+cos(9).
+
+00:05:17.795 --> 00:05:21.733
+Así que me escribir esto, esto va a ser nuestro vector de aceleración
+
+00:05:21.733 --> 00:05:24.667
+nuestro vector de aceleración al tiempo 3 va a ser
+
+00:05:24.667 --> 00:05:32.733
+4i plus... y vamos a poner justo, si esta es 2 veces 3, que es 6...
+
+00:05:35.225 --> 00:05:38.547
+(6cos9)j.
+
+00:05:38.547 --> 00:05:42.575
+Vamos a sacar la calculadora por lo que en realidad obtener allí un valor
+
+00:05:42.575 --> 00:05:45.242
+ya que nos permiten utilizar o casi nos quieren utilizar una calculadora aquí.
+
+00:05:45.242 --> 00:05:56.133
+Así, 6cos9 es 5,47 negativo o 5.467 si queremos.
+
+00:05:56.133 --> 00:06:02.400
+Por lo tanto, más negativo-AH, ¿qué estaba haciendo, esto es j
+
+00:06:02.400 --> 00:06:08.333
+-lo más - 5.467j.
+
+00:06:08.333 --> 00:06:09.867
+Por lo es nuestro vector de aceleración.
+
+00:06:09.867 --> 00:06:12.410
+Y una vez más, escribió en notación Ingeniería
+
+00:06:12.410 --> 00:06:15.800
+(que estoy seguro que el pueblo de examen de colocación avanzada no importa)
+
+00:06:15.800 --> 00:06:17.733
+pero también se puede escribir en especie-de
+
+00:06:20.102 --> 00:06:23.533
+la notación de vectores de paramiterized o su notación de par ordenado como un vector
+
+00:06:23.533 --> 00:06:27.733
+podría decir que la aceleración vector momento 3
+
+00:06:27.733 --> 00:06:29.067
+podría escribir es esto demasiado:
+
+00:06:29.067 --> 00:06:33.369
+&lt; 4,-5.467 &gt;
+
+00:06:33.369 --> 00:06:34.933
+Estos son realmente especificando la misma cosa.
+
+00:06:34.933 --> 00:06:36.133
+Este es el componente x del vector,
+
+00:06:36.133 --> 00:06:38.000
+Este es el componente y del vector.
+
+00:06:38.000 --> 00:06:39.221
+Este es el componente x del vector,
+
+00:06:39.221 --> 00:06:41.817
+Este es el componente y del vector.

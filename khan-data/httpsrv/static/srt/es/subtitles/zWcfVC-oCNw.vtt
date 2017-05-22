@@ -1,0 +1,93 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:05.267
+En este video quiero hacer un montón de problemas de ejemplo que aparecen en los exámenes estandarizados
+
+00:00:05.267 --> 00:00:10.200
+y sin duda le ayudará con nuestro módulo de divisibilidad, ya que está pidiendo este tipo de preguntas
+
+00:00:10.200 --> 00:00:12.800
+todos los números, y esto es sólo uno de los ejemplos,
+
+00:00:12.800 --> 00:00:18.067
+todos los números divisibles por 12 y 20 también son divisibles por
+
+00:00:18.067 --> 00:00:22.467
+y el truco aquí es darse cuenta de que si un número es divisible por 12 y 20
+
+00:00:22.467 --> 00:00:27.191
+tiene que ser divisible por cada uno de estos factores primos chico
+
+00:00:27.191 --> 00:00:29.443
+Así que vamos a tomar su factorización.
+
+00:00:29.443 --> 00:00:33.019
+La factorización de 12 es tiempo 2 6
+
+00:00:33.019 --> 00:00:36.333
+6 primer todavía no es, por lo que es de 6 3 2 veces,
+
+00:00:36.333 --> 00:00:37.361
+Por lo es primo
+
+00:00:37.361 --> 00:00:42.600
+por eso, cualquier número divisible por 12 debe ser divisible por 2 veces 2 veces 3
+
+00:00:42.600 --> 00:00:46.867
+Por lo que es factorización necesita tener un 2 veces una 2 veces un 3 en ella
+
+00:00:46.867 --> 00:00:49.467
+cualquier número que es divisible por 12
+
+00:00:49.467 --> 00:00:53.359
+Ahora, cualquier número que es divisible por 20, debe ser divisible por
+
+00:00:53.359 --> 00:00:56.448
+Vamos a tomar es factorización
+
+00:00:56.448 --> 00:01:00.133
+2 veces 10, 10 es 2 veces 5
+
+00:01:00.133 --> 00:01:06.933
+así que cualquier número divisible por 20, debe también ser divisible por 2 veces 2 veces 5
+
+00:01:06.933 --> 00:01:12.702
+o otra forma de pensar en ello, es necesario disponer de dos 2 y un 5 en es factorización
+
+00:01:12.702 --> 00:01:17.694
+Ahora si es divisible por ambos, necesita disponer de dos 2, un 3 y un 5.
+
+00:01:17.694 --> 00:01:23.067
+de dos 2 y un 3 de 12 y luego dos de 2 y un 5 de 20
+
+00:01:23.067 --> 00:01:25.867
+y puede comprobarlo por sí mismo si es divisible por ambos
+
+00:01:25.867 --> 00:01:34.800
+Obviamente, si se divide entre 20, es lo mismo que dividir por 2 veces 2 veces 5
+
+00:01:34.800 --> 00:01:38.400
+Por lo que vas a tener, el 2 se van a cancelar, el 5 se van a cancelar
+
+00:01:38.400 --> 00:01:43.133
+el solo va a tener un 3 sobrantes, por lo que es claramente divisible por 20
+
+00:01:43.133 --> 00:01:50.333
+y si fueras a dividir por 12, sería dividirlo por 2 veces 2 veces 3
+
+00:01:50.333 --> 00:01:51.867
+Esto es lo mismo que 12
+
+00:01:51.867 --> 00:01:55.200
+y por lo que estos chicos se cancelan, y que sólo tienen un 5 sobrantes
+
+00:01:55.200 --> 00:01:58.120
+por lo que es claramente divisible por ambos, y este número es 60
+
+00:01:58.120 --> 00:02:02.067
+4 veces 3, que es 12 veces, 5. Es 60
+
+00:02:02.067 --> 00:02:06.933
+Esto aquí es realmente el mínimo común múltiplo de 12 y 20

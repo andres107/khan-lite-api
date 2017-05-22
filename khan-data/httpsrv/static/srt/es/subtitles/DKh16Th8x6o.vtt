@@ -1,0 +1,30 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.138 --> 00:00:05.317
+Nos están pidiendo que encontremos la raíz cúbica de -512
+
+00:00:05.317 --> 00:00:08.615
+U otra manera de pensarlo es si tengo un número
+
+00:00:08.615 --> 00:00:12.934
+y es igual a la raíz cúbica de -512
+
+00:00:12.934 --> 00:00:17.533
+Esto simplemente quiere decir si tomo ese número y lo elevo a la tercera potencia
+
+00:00:17.533 --> 00:00:22.867
+entonces obtengo -512. Y si no les salta a la vista inmediatamente
+
+00:00:22.867 --> 00:00:29.667
+de qué es esto la tercera potencia o qué tenemos que elevar a la tercera potencia para obtener -512
+
+00:00:29.667 --> 00:00:33.400
+lo mejor que se puede hacer, es simplemente hacer una factorización de primos.
+
+00:00:33.400 --> 00:00:38.243
+Y antes de que hagamos una factorización de primos y para ver cuales de estos factores aparecen al menos 3 veces,
+
+00:00:38.243 --> 00:00:41.308
+al menos pensemos un poco acerca de la parte negativa.

@@ -1,0 +1,306 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.630 --> 00:00:01.380
+BIenvenidos de nuevo
+
+00:00:01.380 --> 00:00:04.460
+Estamos haciendo la última parte del Problema No. 1 del
+
+00:00:04.460 --> 00:00:07.390
+examen de Cálculo BC 2008
+
+00:00:07.390 --> 00:00:08.670
+y voy a repetir el problema,
+
+00:00:08.670 --> 00:00:12.800
+dice; la región R representa la superficie de una pequeña laguna.
+
+00:00:12.800 --> 00:00:20.550
+En todos los puntos de R a la distancia x del eje "y" la
+
+00:00:20.550 --> 00:00:24.300
+profundidad del agua esta dada por h(x) = 3 - x
+
+00:00:24.300 --> 00:00:26.400
+Encuentra el volumen del agua en la laguna.
+
+00:00:26.400 --> 00:00:28.900
+Así que pensamos, esto es, como sabes, un dibujo en perspectiva
+
+00:00:28.900 --> 00:00:31.950
+de esto, esta es la superficie de la laguna, justo aquí.
+
+00:00:31.950 --> 00:00:33.560
+Y estaba tratando de dibujar la profundidad.
+
+00:00:33.560 --> 00:00:39.480
+Entonces cuando x es igual a 0, la laguna es exactamente 3, pienso que, tú
+
+00:00:39.480 --> 00:00:42.060
+sabes, podemos decir pies, o cualesquiera otra unidad de profundo,
+
+00:00:42.060 --> 00:00:48.100
+y después cuando x es igual a 2, la laguna tiene de profundidad una unidad.
+
+00:00:48.100 --> 00:00:50.340
+Entonces para encontrar el volumen, pensamos de la misma manera.
+
+00:00:50.340 --> 00:00:52.730
+¿Cómo se ve una seccion transversal en cualquier punto de la
+
+00:00:52.730 --> 00:00:55.040
+laguna?
+
+00:00:55.040 --> 00:00:56.430
+Bueno si nosotros, vamos a ver.
+
+00:00:56.430 --> 00:00:59.300
+Entonces si fuéramos a tomar una sección transversal, entonces digamos que
+
+00:00:59.300 --> 00:01:01.970
+esto, vamos tomando esta sección transversal de la laguna.
+
+00:01:01.970 --> 00:01:04.230
+Déjame hacerlo de un color diferente, yo se que puede
+
+00:01:04.230 --> 00:01:05.560
+ser un poco confuso.
+
+00:01:05.560 --> 00:01:06.610
+Esto no es muy diferente.
+
+00:01:06.610 --> 00:01:09.110
+Entonces esto es verde.
+
+00:01:09.110 --> 00:01:12.480
+Entonces la altura a lo largo de la superficie de la laguna va ha ser la
+
+00:01:12.480 --> 00:01:14.730
+diferencia entre las dos funciones.
+
+00:01:14.730 --> 00:01:20.220
+Y sabemos que la función de arriba es el seno de pi x, y
+
+00:01:20.220 --> 00:01:22.990
+sabemos que la función de abajo es x a la
+
+00:01:22.990 --> 00:01:26.280
+tercera menos 4x.
+
+00:01:26.280 --> 00:01:29.530
+Entonces si dibujara yo, dejame ver si yo puedo dibujar
+
+00:01:29.530 --> 00:01:33.030
+esta seccion transversal.
+
+00:01:33.030 --> 00:01:36.530
+...
+
+00:01:36.530 --> 00:01:39.730
+Entonces sabemos que la altura, lo siento, lo ancho a lo largo de
+
+00:01:39.730 --> 00:01:42.410
+la superficie de esta seccion transversal va a ser la diferencia
+
+00:01:42.410 --> 00:01:46.460
+entre esta funcion y esta funcion, ¿cierto?
+
+00:01:46.460 --> 00:01:50.850
+Así que si dibujara, dejame ver si puedo, así que esto es
+
+00:01:50.850 --> 00:01:58.790
+la misma sección transversal, es el ancho a lo largo de la superficie, yo se que
+
+00:01:58.790 --> 00:02:02.120
+los estoy confundiendo, va a ser esta función menos
+
+00:02:02.120 --> 00:02:02.870
+esta función.
+
+00:02:02.870 --> 00:02:15.580
+Va a ser el seno de pi x menos x a la tercera potencia menos 4x
+
+00:02:15.580 --> 00:02:18.200
+y cual va a ser la altura, aquí?
+
+00:02:18.200 --> 00:02:19.020
+Bueno, pues nos dijeron
+
+00:02:19.020 --> 00:02:21.400
+La altura de la laguna o profundidad de la laguna en
+
+00:02:21.400 --> 00:02:24.630
+cualquier punto es 3 menos x, en cualquier valor de x en el que estemos.
+
+00:02:24.630 --> 00:02:28.720
+Así que va a ser 3 menos x
+
+00:02:28.720 --> 00:02:32.450
+Así que el area de esta sección transversal de la laguna va a ser
+
+00:02:32.450 --> 00:02:45.010
+el seno de pi x menos x a la tercera potencia menos 4 x por la
+
+00:02:45.010 --> 00:02:46.110
+profundida de la laguna, no es cierto?
+
+00:02:46.110 --> 00:02:48.410
+Esto es el ancho de la superficie por la profundidad.
+
+00:02:48.410 --> 00:02:52.470
+Así que esto por 3 menos x.
+
+00:02:52.470 --> 00:02:54.610
+Esta es el area de cada sección transversal.
+
+00:02:54.610 --> 00:02:57.630
+Si queremos el volumen de toda la laguna, tomamos
+
+00:02:57.630 --> 00:03:00.150
+esencialmente el volumen de cada una de estos dijéramos
+
+00:03:00.150 --> 00:03:01.950
+cortes transversos de la laguna.
+
+00:03:01.950 --> 00:03:04.730
+Así que tomamos el area de cada sección transversal, y la multiplicamos
+
+00:03:04.730 --> 00:03:10.060
+por un grosor muy pequeño, para obtener un corte transversal muy pequeño.
+
+00:03:10.060 --> 00:03:16.240
+Así que tomamos esto y lo multiplicamos por dx, y lo integramos.
+
+00:03:16.240 --> 00:03:20.720
+Sumamos todos los cortes transversales de la laguna desde x es igual
+
+00:03:20.720 --> 00:03:23.260
+a 0 hasta x igual a dos
+
+00:03:23.260 --> 00:03:24.680
+Hagamos esto!
+
+00:03:24.680 --> 00:03:28.660
+Vamos a integrar desde x igual a 0 hasta x igual a 2
+
+00:03:28.660 --> 00:03:31.410
+Una vez mas! Esto es una integral realmente ruda!
+
+00:03:31.410 --> 00:03:33.930
+O es algo que puedes hacer, especialmente si usas
+
+00:03:33.930 --> 00:03:36.440
+integración por partes, pero un poquito enmarañada y solo tienes
+
+00:03:36.440 --> 00:03:40.170
+45 minutos para hacer los 3 problemas del BC examen,
+
+00:03:40.170 --> 00:03:42.890
+por lo que asumo que querrán usar la calculadora acá
+
+00:03:42.890 --> 00:03:46.970
+Entonces usemos la calculadora para evaluarla.
+
+00:03:46.970 --> 00:03:48.080
+Veamos.
+
+00:03:48.080 --> 00:03:50.580
+usemos...
+
+00:03:50.580 --> 00:03:53.480
+Esto era la parte c que ya teníamos en nuestra calculadora.
+
+00:03:53.480 --> 00:03:57.660
+Podríamos hacer enter por segunda vez, y obtenemos la entrada anterior
+
+00:03:57.660 --> 00:04:00.236
+segundo enter
+
+00:04:00.236 --> 00:04:02.020
+Porque ya hemos introducido una cantidad de cosas.
+
+00:04:02.020 --> 00:04:05.350
+La única diferencia entre lo que hicimos en la parte C y ahora
+
+00:04:05.350 --> 00:04:09.590
+es, ahora, en vez de tenerlo en la parte C, tenemos esta
+
+00:04:09.590 --> 00:04:10.960
+expresión elevada al cuadrado.
+
+00:04:10.960 --> 00:04:12.575
+No la tenemos elevada, pero la multiplicamos
+
+00:04:12.575 --> 00:04:14.355
+por ella por 3 menos x
+
+00:04:14.355 --> 00:04:16.660
+Hagamos eso!
+
+00:04:16.660 --> 00:04:20.970
+Si vamos aca, podemos borrar este cuadrado.
+
+00:04:20.970 --> 00:04:22.710
+No lo elevaremos mas.
+
+00:04:22.710 --> 00:04:23.660
+Borrar
+
+00:04:23.660 --> 00:04:26.420
+Y ahora hagamos, quiero que vean las teclas que pulso
+
+00:04:26.420 --> 00:04:28.590
+Hagamos la segunda inserción
+
+00:04:28.590 --> 00:04:40.180
+Metamos por 3 menos x encerrado en paréntesis
+
+00:04:40.180 --> 00:04:41.000
+Y...veamos!
+
+00:04:41.000 --> 00:04:45.450
+Tenemos el seno de pi menos x a la tres mas 4x, correcto,
+
+00:04:45.450 --> 00:04:46.840
+eso es lo mismo que esto
+
+00:04:46.840 --> 00:04:49.160
+por tres menos x
+
+00:04:49.160 --> 00:04:51.810
+Y nuestra variable de integración es x, y estamos integrando
+
+00:04:51.810 --> 00:04:54.520
+de x igual a 0 a x igual a 2.
+
+00:04:54.520 --> 00:04:55.550
+Vamos a darle a enter!!
+
+00:04:55.550 --> 00:04:58.900
+...calculadora trabajando
+
+00:04:58.900 --> 00:05:00.980
+Esta calculando.
+
+00:05:00.980 --> 00:05:05.760
+Y nuestra respuesta es 8.37, creo que una respuesta justa
+
+00:05:05.760 --> 00:05:09.470
+De esta manera el volumen esta vez, el volumen del pozo
+
+00:05:09.470 --> 00:05:13.090
+es igual a 8.35
+
+00:05:13.090 --> 00:05:15.270
+De cualquier manera espero que hayas encontrado esto útil.
+
+00:05:15.270 --> 00:05:19.250
+Trataré de hacer cada día unos cuantos problemas similares
+
+00:05:19.250 --> 00:05:21.340
+Nos vemos en el próximo video!! : )
+
+00:05:21.340 --> 00:05:21.600
+Gracias!

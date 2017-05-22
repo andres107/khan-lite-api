@@ -1,0 +1,54 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.600 --> 00:00:09.333
+Parte D. Sea p4(x) el polinomio de Taylor de cuarto grado para f sobre x=0.Usando la información del
+
+00:00:09.333 --> 00:00:32.600
+gráfico de y=(f^(5) (x)) mostrado arriba, y este es el gráfico justo aquí, lo coloqué a un costado para ahorrar espacio. Muesta que el valor absoluto de (p^4(1/4)- f(1/4)) es &lt; que 1/3000.
+
+00:00:32.600 --> 00:00:37.800
+Entonces este es, parece ser un interesante problema el de aquí. Entonces primero debemos pensar qué es lo que nos están preguntando .
+
+00:00:37.800 --> 00:00:43.067
+Están preguntando por la diferencia entre el polinomio y la función evaluados en 1/4. En otras palabras
+
+00:00:43.067 --> 00:00:49.867
+nos piden que acotemos el error, el error de la aproximación de la función
+
+00:00:49.867 --> 00:00:57.000
+en x=1/4. Déjenme dibujar un pequeño gráfico aquí, así podemos visualizarlo mejor. Entonces,
+
+00:00:57.000 --> 00:01:06.067
+este es nuestro eje "y", déjenme dibujarlo así. Entonces este es nuestro eje "y" , y este es nuestro eje "x". Y
+
+00:01:06.067 --> 00:01:12.200
+nuestra función, digamos que nuestra función es parecido a esto. Nuestro polinomio está centrado en cero, es decir,
+
+00:01:12.200 --> 00:01:19.133
+el polinomio de cuarto grado está centrado en 0. Y por lo tanto será igual a la función en 0. Y luego
+
+00:01:19.133 --> 00:01:23.733
+se convertirá probablemente en una peor aproximación mientras nos alejemos del 0. Lo que
+
+00:01:23.733 --> 00:01:30.867
+están diciendo es: calculemos que tan mala aproximación es cuando x = 1/4. Entonces, si decimos que
+
+00:01:30.867 --> 00:01:37.667
+esto es x=1/4, aquí. Están diciendo: mira, toma el valor del polinomio en
+
+00:01:37.667 --> 00:01:43.667
+1/4, restalo del valor de la función en 1/4 y entonces toma el valor absoluto y eso
+
+00:01:43.667 --> 00:01:49.467
+nos dará esencialmente el valor absoluto del error, o nos dará el valor absoluto de la resta, o
+
+00:01:49.467 --> 00:01:55.933
+la distancia entre las dos funciones, y lo que quieren es que nosotros acotemos esa distancia.
+
+00:01:55.933 --> 00:02:02.333
+Ahora, para hacer este problema hay algo que necesitas saber y lo probé
+
+00:02:02.333 --> 00:02:04.733
+en otra serie de 2 videos, creo.

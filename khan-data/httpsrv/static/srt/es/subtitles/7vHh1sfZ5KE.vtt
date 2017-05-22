@@ -1,0 +1,712 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.080 --> 00:00:03.360
+Hagamos un circuito un poquito mas complicado ahora
+
+00:00:03.360 --> 00:00:06.370
+Digamos que tengo una bateria nuevamente, y dejenme hacerlo en
+
+00:00:06.370 --> 00:00:07.810
+un color diferente para variar.
+
+00:00:10.740 --> 00:00:13.273
+Este es el terminal positivo, ese es el terminal negativo
+
+00:00:13.273 --> 00:00:18.660
+Digamos que tengo este conductor perfecto, y digamos tambien
+
+00:00:18.660 --> 00:00:25.450
+que tengo esta resistencia y tengo otra resistencia
+
+00:00:25.450 --> 00:00:26.440
+y no se, para divertirnos digamos,
+
+00:00:26.440 --> 00:00:27.690
+que hay una tercer resistencia.
+
+00:00:31.400 --> 00:00:33.310
+Y sabemos, por supuesto, que la convencio es que
+
+00:00:33.310 --> 00:00:36.820
+la corriente fluje de positivo a negativo, y ese es el flujo de la
+
+00:00:36.820 --> 00:00:38.390
+corriente
+
+00:00:38.390 --> 00:00:42.810
+y recorda, corriente es solo la carga que fluje por unidad de
+
+00:00:42.810 --> 00:00:45.800
+tiempo o la velocidad de flujo de la carga.
+
+00:00:45.800 --> 00:00:48.610
+Pero sabemos, por supuesto, que en realidad lo que esta pasando
+
+00:00:48.610 --> 00:00:51.580
+si es que hubiera algo asi como LA realidad, es que tenemos
+
+00:00:51.580 --> 00:00:56.590
+un monton de electrones que, a causa de este voltaje
+
+00:00:56.590 --> 00:01:01.020
+a traves de las terminales de las baterias, estos electrones quieren realmente
+
+00:01:01.020 --> 00:01:02.410
+llegar al terminal positivo.
+
+00:01:02.410 --> 00:01:05.560
+Y cuanto mas alto el voltaje, mayor la necesidad
+
+00:01:05.560 --> 00:01:08.250
+de llegar a esta terminal positiva.
+
+00:01:08.250 --> 00:01:10.770
+Entonces, que va a pasar en este circuito?
+
+00:01:10.770 --> 00:01:12.030
+Dejame, etiquetar todo...
+
+00:01:12.030 --> 00:01:16.830
+Digamos que esto es R1, esto es R2
+
+00:01:16.830 --> 00:01:19.530
+y esto R3.
+
+00:01:19.530 --> 00:01:23.100
+La primer cosa que quiero que entiendas es que entre
+
+00:01:23.100 --> 00:01:25.550
+los elementos, el voltaje es siempre constante
+
+00:01:25.550 --> 00:01:26.110
+y porque es eso?
+
+00:01:26.110 --> 00:01:28.440
+Bueno, vamos a asumir que este es un conductor perfecto
+
+00:01:28.440 --> 00:01:31.650
+Este pequeño segmento aca, si?
+
+00:01:31.650 --> 00:01:33.100
+Entonces es un conductor perfecto.
+
+00:01:33.100 --> 00:01:34.620
+Bueno, miremos aqui
+
+00:01:34.620 --> 00:01:35.440
+Entonces, tenes todos estos electrones.
+
+00:01:35.440 --> 00:01:38.060
+Esto es un conductor perfecto, asi que no hay nada deteniendo
+
+00:01:38.060 --> 00:01:40.050
+a esos electrones de distribuirse
+
+00:01:40.050 --> 00:01:45.220
+a traves del cable.
+
+00:01:45.220 --> 00:01:50.060
+Antes de que encuentres un elemento en el circuito o
+
+00:01:50.060 --> 00:01:53.550
+maquina o como lo quieras llamar, vos podes ver este
+
+00:01:53.550 --> 00:01:56.070
+cable de conduccion ideal, desde un punto de vista esquematico
+
+00:01:56.070 --> 00:01:58.180
+como una extension del terminal negativo.
+
+00:01:58.180 --> 00:02:00.920
+Y de manera similar, vos podes ver este cable aca, esta
+
+00:02:00.920 --> 00:02:02.380
+parte del cable, como una extension de
+
+00:02:02.380 --> 00:02:03.570
+el terminal positivo.
+
+00:02:03.570 --> 00:02:05.410
+y la razon por la cual quiero decirlo es
+
+00:02:05.410 --> 00:02:08.190
+porque realmente resulta que no importa si vos medis
+
+00:02:08.190 --> 00:02:09.520
+el voltaje aca.
+
+00:02:09.520 --> 00:02:12.050
+Entonces digamos que mido el voltaje a traves de
+
+00:02:12.050 --> 00:02:14.500
+esos dos terminales usando lo que se llama voltimetro.
+
+00:02:14.500 --> 00:02:17.470
+Y despues hare todo un video acerca de como funcionan los voltimetros.
+
+00:02:17.470 --> 00:02:20.550
+Pero recorda, cuando medimos voltaje, tenemos que medirlo
+
+00:02:20.550 --> 00:02:21.180
+en dos puntos.
+
+00:02:21.180 --> 00:02:21.880
+y Porque?
+
+00:02:21.880 --> 00:02:24.430
+Porque el voltaje es una diferencia potencial.
+
+00:02:24.430 --> 00:02:25.790
+No es un numero absoluto.
+
+00:02:25.790 --> 00:02:28.430
+Es una diferencia esencialmente acerca de que tanto
+
+00:02:28.430 --> 00:02:30.510
+quieren los electrones llegar de aqui hacia alla.
+
+00:02:30.510 --> 00:02:32.980
+Entonces si medimos el voltaje entre esos dos puntos, seria
+
+00:02:32.980 --> 00:02:35.680
+exactamente el mismo que si midieramos el voltaje
+
+00:02:35.680 --> 00:02:37.810
+entre estos dos puntos.
+
+00:02:37.810 --> 00:02:39.530
+Teoricamente.
+
+00:02:39.530 --> 00:02:44.660
+Por lo que sabemos, no existen cables que realmente no tengan resistividad.
+
+00:02:44.660 --> 00:02:46.360
+Todos los cables tienen un poco, pero cuando dibujamos estos
+
+00:02:46.360 --> 00:02:49.840
+esquematicas, asumimos que los cables son conductores perfectos
+
+00:02:49.840 --> 00:02:52.000
+y que todas las resistencia toman lugar en el resistor (o resistencia).
+
+00:02:52.000 --> 00:02:53.840
+Entonces la primer cosa que quiero que entiendas, y que hace
+
+00:02:53.840 --> 00:02:56.780
+a las cosas bastante --- por ejemplo, todo a lo largo de este
+
+00:02:56.780 --> 00:03:00.460
+cable, esta parte del cable, el voltaje es constante.
+
+00:03:00.460 --> 00:03:03.040
+En cada parte a lo largo de este cable, el voltaje es constante.
+
+00:03:06.010 --> 00:03:09.965
+Dejame borrar algo de esto, porque no quiero que sea
+
+00:03:09.965 --> 00:03:11.215
+muy desprolijo.
+
+00:03:13.730 --> 00:03:15.830
+Es importante nocion cuando luego
+
+00:03:15.830 --> 00:03:18.190
+te conviertas en ingeniero en electricidad y tengas
+
+00:03:18.190 --> 00:03:19.375
+muchos problemas dificiles de resolver...
+
+00:03:19.375 --> 00:03:20.625
+Dejame borrar esto..
+
+00:03:23.120 --> 00:03:25.730
+Y borrar todo esto.
+
+00:03:25.730 --> 00:03:28.110
+Ahora voy a volver a dibujar eso, porque no podemos tener ese espacio ahi
+
+00:03:28.110 --> 00:03:31.040
+porque si hay un espacio, la corriente no fluiria.
+
+00:03:31.040 --> 00:03:33.440
+Bueno, despues dibujare como se hace un
+
+00:03:33.440 --> 00:03:35.170
+switch, porque un switch es esencialmente un espacio.
+
+00:03:35.170 --> 00:03:37.330
+Se ve como un espacio en el circuito que podes abrir
+
+00:03:37.330 --> 00:03:37.990
+o cerrar, no?
+
+00:03:37.990 --> 00:03:39.640
+Porque si lo abris, la corriente no fluye.
+
+00:03:39.640 --> 00:03:40.610
+Si lo cerras, si fluye.
+
+00:03:40.610 --> 00:03:43.820
+Bueno, entonces vos ya sabes que el voltaje
+
+00:03:43.820 --> 00:03:45.220
+entre objetos es constante
+
+00:03:45.220 --> 00:03:46.790
+La otra cosa de la que te tengo que convencer es que
+
+00:03:46.790 --> 00:03:49.920
+la corriente a traves de este ciurcuito es constante, y que
+
+00:03:49.920 --> 00:03:52.910
+aplica a cualquier circuito en serie.
+
+00:03:52.910 --> 00:03:53.990
+Ahora, que quiero decir con ¨en serie¨?
+
+00:03:53.990 --> 00:03:56.340
+Serie significa que todo lo que esta en el circuito
+
+00:03:56.340 --> 00:03:57.880
+esta uno despues del otro, si?
+
+00:03:57.880 --> 00:04:00.470
+Si tomamos la convencion y decimos que la corriente fluye en esta
+
+00:04:00.470 --> 00:04:02.710
+direccion, va a golpear a esta resistencia, despues la siguiente
+
+00:04:02.710 --> 00:04:04.100
+y despues a la siguiente.
+
+00:04:04.100 --> 00:04:07.420
+En ningun punto el circuito se abre y puede elegir
+
+00:04:07.420 --> 00:04:09.590
+si ir por el camino A o el camino B
+
+00:04:09.590 --> 00:04:14.000
+Entonces este circuito esta complemente en serie , y hay
+
+00:04:14.000 --> 00:04:17.800
+un par de formas en las que puedo convencerte que la corriente --- llamemos...
+
+00:04:17.800 --> 00:04:24.850
+la corriente aca I1
+
+00:04:24.850 --> 00:04:31.730
+Llamemos la corriente aca I2.
+
+00:04:31.730 --> 00:04:33.150
+LLamemos la corriente aca I3.
+
+00:04:33.150 --> 00:04:35.215
+Podria dibujar otra aca, i3.
+
+00:04:35.215 --> 00:04:37.550
+Entonces hay un par de maneras en las que puedo convencerte que i1
+
+00:04:37.550 --> 00:04:38.780
+es igual a i2, i3.
+
+00:04:38.780 --> 00:04:41.540
+Una es que podria decir que si experimentalmente lo probaste
+
+00:04:41.540 --> 00:04:43.910
+usando un Amperimetro, que mide corriente, vos podrias
+
+00:04:43.910 --> 00:04:45.230
+ver que sos identicas.
+
+00:04:45.230 --> 00:04:47.460
+Pero la otra forma de pensar en eso, y esta vez voy a
+
+00:04:47.460 --> 00:04:49.230
+realmente hablar acerca de los electrones, asi que
+
+00:04:49.230 --> 00:04:52.790
+hablemos de cosas yendo en esta direccion--- entonces
+
+00:04:52.790 --> 00:04:55.070
+estos electrones, a traves de este cable, pueden ir tan rapido como
+
+00:04:55.070 --> 00:04:56.400
+quieran, no?
+
+00:04:56.400 --> 00:04:58.570
+La velocidad de la luz o lo mas cercano a la velocidad de la luz, ya que
+
+00:04:58.570 --> 00:05:01.430
+ellos tienen muy muy muy poca masa.
+
+00:05:01.430 --> 00:05:03.980
+Y algun dia nos meteremos con la relatividad.
+
+00:05:03.980 --> 00:05:06.220
+Pero una vez que llegan a esta resistencia, empiezan a chocar
+
+00:05:06.220 --> 00:05:07.560
+contra cosas, y se enlentecen.
+
+00:05:07.560 --> 00:05:09.840
+La resistencia es el ¨embotellamiento¨ (o cuellode botella), no?
+
+00:05:09.840 --> 00:05:12.620
+Entonces aunque hayan tenido esta velocidad aca, tienen que
+
+00:05:12.620 --> 00:05:13.720
+disminuir aca.
+
+00:05:13.720 --> 00:05:16.510
+Y si disminuyen aca, disminuyen aca tambien
+
+00:05:16.510 --> 00:05:19.280
+porque si siguieran yendo superrapido ahi y despues ellos
+
+00:05:19.280 --> 00:05:21.660
+disminuyeran ahi, entonces se acumularian aca
+
+00:05:21.660 --> 00:05:23.650
+y eso no tendria sentido, porque sabemos que
+
+00:05:23.650 --> 00:05:25.260
+Estan separados de maneras iguales, etc
+
+00:05:25.260 --> 00:05:29.330
+De manera similar, podria salir de esa resistencia a una
+
+00:05:29.330 --> 00:05:31.650
+determinada velocidad y luego desacelerar mas aun a medida que chocan
+
+00:05:31.650 --> 00:05:36.070
+contra resistencias aca, pero si van a ir mas lento a este
+
+00:05:36.070 --> 00:05:39.540
+punto, entonces habria un cuello de botella aqui, entonces
+
+00:05:39.540 --> 00:05:43.330
+esencialmente, irian a esa frecuencia a traves
+
+00:05:43.330 --> 00:05:44.020
+de todo.
+
+00:05:44.020 --> 00:05:47.890
+Y otra manera de pensarlo es acerca de la resistencia como
+
+00:05:47.890 --> 00:05:49.090
+una cosa de probabilidad.
+
+00:05:49.090 --> 00:05:50.752
+Yo se que cuando pensas en un nivel Macro, decis, ah tiene
+
+00:05:50.752 --> 00:05:51.260
+esta resistencia.
+
+00:05:51.260 --> 00:05:52.490
+Solo lo desacelera.
+
+00:05:52.490 --> 00:05:54.980
+Pero cuanto mas tiempo haya una resistencia, aumenta
+
+00:05:54.980 --> 00:05:58.350
+la probabilidad que alguno de los electrones vayan a chocar
+
+00:05:58.350 --> 00:06:00.810
+contra algo y generar un poco de calor
+
+00:06:00.810 --> 00:06:02.240
+etc, etc
+
+00:06:02.240 --> 00:06:05.850
+Entonces cuando pones resistencias en serie, lo que estas haciendo
+
+00:06:05.850 --> 00:06:08.540
+es aumenta la probabilidad de que
+
+00:06:08.540 --> 00:06:11.700
+mas electrones choquen, no?
+
+00:06:11.700 --> 00:06:14.910
+Entonces, digamos que hay un electron que viaja --- digamos a traves
+
+00:06:14.910 --> 00:06:17.455
+de mucha suerte, y no golpea nada a medida que va
+
+00:06:17.455 --> 00:06:18.790
+por aqui (porque esta yendo muy rapido), pero luego
+
+00:06:18.790 --> 00:06:19.900
+se choca con algo aqui, si?
+
+00:06:19.900 --> 00:06:21.160
+Esto solo incrementa la probabilidad de que algo
+
+00:06:21.160 --> 00:06:22.240
+choque contra eso.
+
+00:06:22.240 --> 00:06:24.200
+entonces hay muchas maneras que podes pensar y yo
+
+00:06:24.200 --> 00:06:25.880
+te motivo a que me digas si hay otras
+
+00:06:25.880 --> 00:06:27.840
+maneras que te ayuden.
+
+00:06:27.840 --> 00:06:31.510
+Pero la corriente a traves de este circuito
+
+00:06:31.510 --> 00:06:33.130
+entero es constante.
+
+00:06:33.130 --> 00:06:36.750
+Ahora que tal si decimes, que mas podemos decir?
+
+00:06:36.750 --> 00:06:39.240
+Bueno, si la corriente aca -- digamos la corriente a traves
+
+00:06:39.240 --> 00:06:40.490
+aca es i1.
+
+00:06:43.020 --> 00:06:45.620
+Si la corriente por aca es i1, cuanto va a ser
+
+00:06:45.620 --> 00:06:50.470
+el voltaje que medi, de aca a aca?
+
+00:06:50.470 --> 00:06:54.060
+Cuanto es este voltaje aca?
+
+00:06:54.060 --> 00:06:55.570
+Lo medi con un voltimetro.
+
+00:06:55.570 --> 00:07:01.465
+Bueno, V1 va a ser igual a I1 por R1
+
+00:07:01.465 --> 00:07:03.310
+No se porque puse R.
+
+00:07:03.310 --> 00:07:04.380
+Es un 1 no una I.
+
+00:07:04.380 --> 00:07:06.790
+I1 x R1, si?
+
+00:07:06.790 --> 00:07:12.720
+De igual manera, si mido el voltaje de aca hasta aca
+
+00:07:12.720 --> 00:07:17.570
+ese voltaje va a ser igual I2 x R2.
+
+00:07:17.570 --> 00:07:20.080
+Digamos que aca es donde esta i3.
+
+00:07:20.080 --> 00:07:31.320
+Entonces si el voltaje, que si fuera a medirlo de aca a aca...
+
+00:07:31.320 --> 00:07:35.560
+Bueno, de cualquier manera, si miramos el voltaje de aca a aca
+
+00:07:35.560 --> 00:07:41.850
+va a ser i3 x R3
+
+00:07:41.850 --> 00:07:45.930
+Entonces lo que vemos es que el voltaje a traves del circuito
+
+00:07:45.930 --> 00:07:51.490
+que podemos escribir como V-total, va a ser igual a
+
+00:07:51.490 --> 00:07:54.790
+la baja potencial, la baja potencial a traves de
+
+00:07:54.790 --> 00:07:55.420
+cada uno de estos objetos.
+
+00:07:55.420 --> 00:07:58.980
+Entonces la manera de pensar sobre eso es--- bueno, pensemos
+
+00:07:58.980 --> 00:07:59.450
+en los electrones.
+
+00:07:59.450 --> 00:08:03.950
+Los electrones aca, quieren llegar aca.
+
+00:08:03.950 --> 00:08:06.270
+Pero despues de haber chocado un poco ellos
+
+00:08:06.270 --> 00:08:10.600
+llegan ahi, habiendo experimentado una caida en el potencial.
+
+00:08:10.600 --> 00:08:15.390
+Entonces los electrones aqui son un poquito menos avidos
+
+00:08:15.390 --> 00:08:16.710
+de llegar aqui.
+
+00:08:16.710 --> 00:08:18.460
+Y una vez que pasen por aqui, tal vez ya esten
+
+00:08:18.460 --> 00:08:19.960
+cansados de chocarse tanto.
+
+00:08:19.960 --> 00:08:21.480
+Y una vez ahi, van a estar con menos ganas de
+
+00:08:21.480 --> 00:08:23.060
+llegar alla.
+
+00:08:23.060 --> 00:08:26.200
+Entonces hay una caida en el potencial a traves de cada objeto, si?
+
+00:08:26.200 --> 00:08:29.220
+Entonces el voltaje total es igual a la caida del voltaje a traves
+
+00:08:29.220 --> 00:08:30.100
+de cada uno de los objetos.
+
+00:08:30.100 --> 00:08:31.822
+Y ahora vamos a volver a la convencion, y veremos que
+
+00:08:31.822 --> 00:08:33.570
+la corriente va en esta direccion.
+
+00:08:33.570 --> 00:08:41.970
+la caida del voltaje total es igual a v1 + v2 + v3
+
+00:08:41.970 --> 00:08:49.110
+entonces la caida total de voltaje es igual a I1 R1 +
+
+00:08:49.110 --> 00:08:55.080
+i2 R2 + i3 R3
+
+00:08:55.080 --> 00:08:56.420
+Y cual es el total en la caida en voltaje?
+
+00:08:56.420 --> 00:08:59.310
+Bueno eso es igual al total de la corriente a traves
+
+00:08:59.310 --> 00:09:00.330
+del sistema.
+
+00:09:00.330 --> 00:09:06.660
+I-total, o como lo podemos llamar I, x la resistencia total
+
+00:09:06.660 --> 00:09:15.540
+igual a I1 R1 , +I2 r2 + i3 R3
+
+00:09:15.540 --> 00:09:17.140
+Bueno ahora sabemos que todas las I´s son iguales.
+
+00:09:17.140 --> 00:09:21.120
+Con suerte, podes tomarlo de esta manera, conceptualmente
+
+00:09:21.120 --> 00:09:23.120
+si tiene sentido para vos que la corriente a traves del circuito entero
+
+00:09:23.120 --> 00:09:24.170
+va a ser la misma.
+
+00:09:24.170 --> 00:09:25.970
+entonces todas las I´s son iguales, asi que podemos
+
+00:09:25.970 --> 00:09:27.520
+cancelarlas.
+
+00:09:27.520 --> 00:09:28.680
+Dividir ambos lados por esa I
+
+00:09:28.680 --> 00:09:34.230
+Asumimos que no son cero, entonces I, I, I, I, I y despues tenemos que
+
+00:09:34.230 --> 00:09:38.200
+la resistencia total del circuito es igual a R1
+
+00:09:38.200 --> 00:09:41.600
++r2 +r3
+
+00:09:41.600 --> 00:09:44.590
+Entonces cuando tenes resistencias en serie como estas, la resistencia total
+
+00:09:44.590 --> 00:09:47.420
+su resistencia combinada, es igual
+
+00:09:47.420 --> 00:09:48.840
+a la suma de ellas.
+
+00:09:48.840 --> 00:09:51.030
+Y esa fuera una manera larga de explicar
+
+00:09:51.030 --> 00:09:53.600
+algo muy simple. Voy a dar un ejemplo.
+
+00:09:53.600 --> 00:09:56.580
+Digamos que este voltaje es ---- no se
+
+00:09:56.580 --> 00:10:00.650
+digamos que son 20 volts.
+
+00:10:00.650 --> 00:10:07.760
+Digamos que Resistencia 1 es de 2ohms. Digamos que Resistencia 2 es
+
+00:10:07.760 --> 00:10:16.930
+3 ohms, y digamos resistencia 3 es 5 ohms. Entonces cual es
+
+00:10:16.930 --> 00:10:18.670
+la resistencia total en este circuito?
+
+00:10:18.670 --> 00:10:22.130
+Bueno, la resistencia total es 2 ohms + 3 ohms + 5 ohms
+
+00:10:22.130 --> 00:10:25.580
+entonces es igual a 10 ohms.
+La resistencia total es
+
+00:10:25.580 --> 00:10:27.370
+igual a 10 ohms.
+
+00:10:27.370 --> 00:10:29.440
+Entonces si fuera a preguntarte cual es la corriente fluyendo
+
+00:10:29.440 --> 00:10:30.550
+en este circuito?
+
+00:10:30.550 --> 00:10:33.980
+Bueno la resistencia total es de 10 ohms. Ya sabemos la ley de Ohm
+
+00:10:33.980 --> 00:10:37.180
+voltaje es igual a la corriente x Resistencia
+
+00:10:37.180 --> 00:10:39.740
+El voltaje es igual a 20.
+
+00:10:39.740 --> 00:10:42.700
+20 es igual a la corriente x 10 , no?
+
+00:10:42.700 --> 00:10:45.380
+Recien añadimos las resistencias.
+
+00:10:45.380 --> 00:10:46.730
+Dividi ambos lados por 10.
+
+00:10:46.730 --> 00:10:53.410
+Obtenes que la corriente es igual a 2 ampers o
+
+00:10:53.410 --> 00:10:55.510
+2 coulumbs por segundo.
+
+00:10:55.510 --> 00:10:58.710
+Entonces lo que parecia una explicacion muy compleja
+
+00:10:58.710 --> 00:11:00.510
+realmente resulta en algo muy muy
+
+00:11:00.510 --> 00:11:02.070
+muy facil de aplicar.
+
+00:11:02.070 --> 00:11:05.100
+Cuando las resistencias estan en serie, las sumamos.
+
+00:11:05.100 --> 00:11:06.350
+Te veo en el proximo video!

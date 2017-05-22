@@ -1,0 +1,726 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+a un medio
+
+99:59:59.999 --> 99:59:59.999
+ambos lados
+
+99:59:59.999 --> 99:59:59.999
+aunque lo acabo de hacer.
+
+99:59:59.999 --> 99:59:59.999
+cah
+
+99:59:59.999 --> 99:59:59.999
+de sesenta grados.
+
+99:59:59.999 --> 99:59:59.999
+de sesenta y cinco.
+
+99:59:59.999 --> 99:59:59.999
+digamos que este lado de aquí
+
+99:59:59.999 --> 99:59:59.999
+dos, esto será cuatro por tres
+
+99:59:59.999 --> 99:59:59.999
+el coseno
+
+99:59:59.999 --> 99:59:59.999
+es dos
+
+99:59:59.999 --> 99:59:59.999
+la raíz cuadrada de sesenta y cinco.
+
+99:59:59.999 --> 99:59:59.999
+la raíz cuadrada de tres.
+
+99:59:59.999 --> 99:59:59.999
+la raíz de sesenta y cinco
+
+99:59:59.999 --> 99:59:59.999
+la tangente
+
+99:59:59.999 --> 99:59:59.999
+mide dos
+
+99:59:59.999 --> 99:59:59.999
+más dieciséis,
+
+99:59:59.999 --> 99:59:59.999
+o si alguien te preguntara cuánto es
+
+99:59:59.999 --> 99:59:59.999
+raíz cuadrada de tres
+
+99:59:59.999 --> 99:59:59.999
+raíz cuadrada de tres
+
+99:59:59.999 --> 99:59:59.999
+sobre
+
+99:59:59.999 --> 99:59:59.999
+sobre cuatro
+
+99:59:59.999 --> 99:59:59.999
+sobre hipotenusa, sobre cuatro
+
+99:59:59.999 --> 99:59:59.999
+sobre la hipotenusa.
+
+99:59:59.999 --> 99:59:59.999
+sobre la hipotenusa.
+
+99:59:59.999 --> 99:59:59.999
+sobre raíz cuadrada de tres
+
+99:59:59.999 --> 99:59:59.999
+sobre tres
+
+99:59:59.999 --> 99:59:59.999
+sobre... el lado adyacente
+
+99:59:59.999 --> 99:59:59.999
+son triángulos rectángulos
+
+99:59:59.999 --> 99:59:59.999
+toa
+
+99:59:59.999 --> 99:59:59.999
+treinta grados
+
+99:59:59.999 --> 99:59:59.999
+un medio
+
+00:00:00.800 --> 00:00:03.017
+Hagamos unos ejemplos más para comprobar que estamos
+
+00:00:03.017 --> 00:00:07.036
+entendiendo bien esta función trigonométrica.
+
+00:00:07.036 --> 00:00:11.447
+Vamos a construir unos cuántos triángulos rectángulos.
+
+00:00:11.447 --> 00:00:13.668
+Construyámonos algunos triángulos rectángulos, y quiero dejar muy clara la forma en que
+
+00:00:15.186 --> 00:00:18.042
+lo he definido hasta ahora así que si estás intentando encontrar las funciones
+
+00:00:18.042 --> 00:00:23.475
+trigonométricas de ángulos que no son de triángulos rectángulos, veremos que
+
+00:00:25.704 --> 00:00:27.867
+necesitaremos construir triángulos rectángulos, pero centrémonos en los triángulos rectángulos por ahora.
+
+00:00:27.867 --> 00:00:31.344
+Digamos que tengo un triángulo y que este lado de aquí abajo es siete,
+
+00:00:33.897 --> 00:00:37.757
+y digamos que este lado de aquí arriba es cuatro.
+
+00:00:39.452 --> 00:00:42.516
+Averigüemos cuánto valdrá esta hipotenusa de aquí. Sabemos
+
+00:00:42.516 --> 00:00:45.720
+-llamemos a la hipotenusa "h"-
+
+00:00:45.720 --> 00:00:52.200
+sabemos que "h" al cuadrado será igual a siete al cuadrado más cuatro al cuadrado,
+
+00:00:52.200 --> 00:00:55.194
+lo sabemos por el teorema de Pitágoras,
+
+00:00:55.194 --> 00:00:57.469
+que dice que el cuadrado de la hipotenusa es igual
+
+00:00:57.469 --> 00:01:01.974
+a la suma de los cuadrados de los otros dos lados.
+
+00:01:01.974 --> 00:01:04.533
+"h" al cuadrado es igual a siete al cuadrado más cuatro al cuadrado.
+
+00:01:04.533 --> 00:01:09.776
+Así que es igual a cuarenta y nueve
+
+00:01:09.776 --> 00:01:11.800
+cuarenta y nueve más dieciséis,
+
+00:01:11.800 --> 00:01:18.553
+cuarenta y nueve más diez es cincuenta y nueve, más seis es
+
+00:01:18.553 --> 00:01:21.107
+sesenta y cinco. Es sesenta y cinco así que esta "h" al cuadrado
+
+00:01:21.107 --> 00:01:25.705
+escribo: "h" al cuadrado
+
+00:01:25.705 --> 00:01:28.818
+-es otro tono de amarillo- así que tenemos que "h" al cuadrado es igual a
+
+00:01:28.818 --> 00:01:33.533
+sesenta y cinco. ¿Lo he hecho bien? Cuarenta y nueve más diez es cincuenta y nueve, más otros seis
+
+00:01:33.533 --> 00:01:37.600
+es sesenta y cinco, o podríamos decir que "h" es igual a, si tomamos la raíz cuadrada de
+
+00:01:37.600 --> 00:01:39.200
+raíz cuadrada
+
+00:01:39.200 --> 00:01:42.933
+raíz cuadrada de sesenta y cinco. Y no lo podemos simplificar en absoluto
+
+00:01:42.933 --> 00:01:44.699
+esto es trece
+
+00:01:44.699 --> 00:01:47.463
+así que es lo mismo que trece por cinco, ninguno de ellos es un cuadrado perfecto y
+
+00:01:50.388 --> 00:01:51.804
+ambos son primos, así que no podemos simplificar más.
+
+00:01:51.804 --> 00:01:55.467
+Esto es igual a la raíz cuadrada
+
+00:01:55.467 --> 00:02:02.114
+Ahora encontremos las funciones trigonométricas para este ángulo de aquí arriba. Llamemos a éste angulo de aquí arriba theta.
+
+00:02:05.457 --> 00:02:06.533
+Así que cuando lo hagas
+
+00:02:06.533 --> 00:02:09.467
+siempre querrás escribir -al menos a mí me funciona escribirlo-
+
+00:02:09.467 --> 00:02:11.714
+"soh cah toa" ("soh cah toa")
+
+00:02:11.714 --> 00:02:13.120
+soh (soh)
+
+00:02:13.120 --> 00:02:16.464
+soh cah toa (soh cah toa). Tengo un vago recuerdo
+
+00:02:16.464 --> 00:02:18.786
+de mi
+
+00:02:18.786 --> 00:02:21.293
+profesor de trigonometría, tal vez lo leí en algún libro, no lo recuerdo - sobre
+
+00:02:21.293 --> 00:02:23.867
+una princesa india llamada "soh cah toa" o algo así, pero es muy útil
+
+00:02:26.123 --> 00:02:27.564
+mnemotécnicamente, así que podemos usar "soh cah toa". Encontremos
+
+00:02:27.564 --> 00:02:31.046
+digamos que queremos encontrar el coseno. Queremos encontrar el coseno de nuestro ángulo.
+
+00:02:34.436 --> 00:02:37.965
+Queremos encontrar el coseno de nuestro ángulo, dices: "¡soh cah toa!"
+
+00:02:37.965 --> 00:02:40.800
+Así que el "cah". "Cah" nos dice qué hacer con el coseno,
+
+00:02:40.800 --> 00:02:43.027
+el "cah" nos dice
+
+00:02:43.027 --> 00:02:46.371
+que el coseno es el adyacente sobre la hipotenusa.
+
+00:02:46.371 --> 00:02:51.433
+El coseno es igual al adyacente
+
+00:02:51.433 --> 00:02:55.798
+Veamos la theta, ¿qué lado es el adyacente?
+
+00:02:55.798 --> 00:02:57.702
+Bueno, sabemos que la hipotenusa
+
+00:02:57.702 --> 00:03:00.767
+sabemos que la hipotenusa es este lado de aquí
+
+00:03:00.767 --> 00:03:04.761
+así que no puede ser ése lado. El único otro lado que es adyacente y que no es
+
+00:03:04.761 --> 00:03:07.133
+la hipotenusa, es este cuatro.
+
+00:03:07.133 --> 00:03:10.473
+Así que el lado adyacente de aquí, este lado está,
+
+00:03:10.473 --> 00:03:14.374
+está literalmente pegado junto al ángulo, es uno de los lados que forma el ángulo
+
+00:03:15.754 --> 00:03:17.133
+es cuatro
+
+00:03:17.133 --> 00:03:21.108
+La hipotenusa que ya conocemos es la raíz cuadrada de sesenta y cinco, así que es cuatro
+
+00:03:21.108 --> 00:03:25.380
+sobre
+
+00:03:25.380 --> 00:03:29.142
+A veces querrán que racionalices el denominador lo que significa que no les gusta
+
+00:03:29.142 --> 00:03:32.625
+tener un número irracional en el denominador, como la raíz de sesenta y cinco
+
+00:03:35.227 --> 00:03:39.359
+y si quieren que reescribas esto sin un
+
+00:03:39.359 --> 00:03:41.634
+número irracional en el denominador, puedes multiplicar el numerador y el denominador
+
+00:03:41.634 --> 00:03:43.306
+por la raíz cuadrada de sesenta y cinco.
+
+00:03:43.306 --> 00:03:45.094
+Esto no cambiará el valor numérico, porque estamos multiplicando y dividiendo por lo mismo, así que
+
+00:03:48.122 --> 00:03:49.111
+multiplicando el número por uno. Eso no cambiará el número, pero al menos nos libra del
+
+00:03:52.780 --> 00:03:54.127
+número irracional del denominador. Así que el numerador se convierte
+
+00:03:54.127 --> 00:03:57.800
+en cuatro por raíz de sesenta y cinco, y el denominador,
+
+00:03:57.800 --> 00:04:03.461
+raíz cuadrada de sesenta y cinco por raíz cuadrada de sesenta y cinco, que simplemente es sesenta y cinco.
+
+00:04:03.461 --> 00:04:07.130
+No nos hemos librado del número irracional, todavía está ahí, pero ahora en el numerador.
+
+00:04:07.130 --> 00:04:09.777
+Ahora calculemos el resto de funciones trigonométricas
+
+00:04:09.777 --> 00:04:12.401
+o al menos las otras funciones trigonométricas principales. Veremos más adelante que hay un montón
+
+00:04:14.399 --> 00:04:15.443
+de funciones, pero que todas se derivan de éstas
+
+00:04:15.443 --> 00:04:19.733
+así que pensemos cuál es el seno de theta. De nuevo miremos el "soh cah toa"
+
+00:04:19.733 --> 00:04:25.474
+el "soh" nos dice qué hacer con el seno. Seno es el opuesto sobre la hipotenusa.
+
+00:04:25.474 --> 00:04:29.200
+Seno es igual a
+
+00:04:29.200 --> 00:04:31.372
+opuesto sobre hipotenusa. Seno es opuesto sobre hipotenusa.
+
+00:04:31.372 --> 00:04:34.390
+¿Cuál es el lado opuesto para este ángulo?
+
+00:04:34.390 --> 00:04:38.430
+Simplemente vamos al opuesto del ángulo, aquél al que se abre, es opuesto al de siete
+
+00:04:38.430 --> 00:04:41.200
+así que el opuesto es el siete.
+
+00:04:41.200 --> 00:04:44.468
+Este de aquí - este es el lado opuesto
+
+00:04:44.468 --> 00:04:47.800
+y luego
+
+00:04:47.800 --> 00:04:51.109
+la hipotenusa, es el opuesto sobre la hipotenusa. La hipotenusa es
+
+00:04:52.966 --> 00:04:55.133
+y de nuevo si queremos racionalizar esto, podemos multiplicar por la raíz de sesenta y cinco
+
+00:04:55.133 --> 00:04:59.933
+sobre la raíz de sesenta y cinco
+
+00:04:59.933 --> 00:05:04.298
+y en el numerador, obtendremos siete por la raíz de sesenta y cinco y en el denominador tendremos
+
+00:05:04.298 --> 00:05:07.966
+simplemente sesenta y cinco otra vez.
+
+00:05:07.966 --> 00:05:10.474
+¡Ahora hagamos la tangente!
+
+00:05:10.474 --> 00:05:12.796
+Hagamos la tangente.
+
+00:05:12.796 --> 00:05:14.793
+Si pregunto la tangente
+
+00:05:14.793 --> 00:05:17.394
+de - la tangente de theta
+
+00:05:17.394 --> 00:05:20.784
+volvemos a "soh cah toa"
+
+00:05:20.784 --> 00:05:23.106
+el "toa" nos dice qué hacer con la tangente
+
+00:05:23.106 --> 00:05:24.800
+nos dice
+
+00:05:24.800 --> 00:05:27.053
+nos dice que la tangente
+
+00:05:27.053 --> 00:05:29.867
+es igual al opuesto sobre el adyacente. Es igual al opuesto
+
+00:05:29.867 --> 00:05:33.137
+sobre
+
+00:05:33.137 --> 00:05:35.867
+opuesto sobre adyacente
+
+00:05:35.867 --> 00:05:38.709
+así que para este ángulo
+
+00:05:38.709 --> 00:05:41.124
+el opuesto ya lo hemos encontrado antes, es el siete, que se abre al siete
+
+00:05:41.124 --> 00:05:42.533
+el siete
+
+00:05:42.533 --> 00:05:46.372
+así que es siete
+
+00:05:46.372 --> 00:05:48.200
+el cuatro es el adyacente
+
+00:05:48.200 --> 00:05:51.295
+este cuatro es adyacente así que el lado adyacente es cuatro
+
+00:05:51.295 --> 00:05:54.330
+así que es siete
+
+00:05:54.330 --> 00:05:56.133
+y ya está.
+
+00:05:56.133 --> 00:05:59.375
+Como hemos encontrado todas las razones trigonométricas de theta hagamos otro
+
+00:06:00.416 --> 00:06:02.719
+hagamos otro. Voy a hacerlo algo más concreto porque ahora mismo hemos estado diciendo
+
+00:06:02.719 --> 00:06:06.434
+tangente de x, tangente de theta. Hagámoslo algo más concreto
+
+00:06:06.434 --> 00:06:08.431
+digamos
+
+00:06:08.431 --> 00:06:10.799
+déjame dibujar otro triángulo rectángulo
+
+00:06:10.799 --> 00:06:13.772
+esto es otro triángulo rectángulo
+
+00:06:13.772 --> 00:06:17.533
+lo único con lo que vamos a trabajar
+
+00:06:17.533 --> 00:06:21.109
+digamos que la hipotenusa
+
+00:06:21.109 --> 00:06:26.357
+mide cuatro
+
+00:06:26.357 --> 00:06:31.790
+y digamos que esta distancia de aquí será el doble de la raíz de tres,
+
+00:06:31.790 --> 00:06:33.462
+podemos verificarlo
+
+00:06:33.462 --> 00:06:36.467
+si elevamos al cuadrado este lado, déjame escribirlo... dos por la raíz cuadrada
+
+00:06:36.467 --> 00:06:38.803
+de tres al cuadrado
+
+00:06:38.803 --> 00:06:42.471
+más dos al cuadrado es igual a
+
+00:06:42.471 --> 00:06:46.467
+esto es
+
+00:06:46.467 --> 00:06:49.763
+cuatro por tres más cuatro
+
+00:06:49.763 --> 00:06:53.478
+será igual a doce más cuatro igual a dieciséis y dieciséis es
+
+00:06:53.478 --> 00:06:57.800
+cuatro al cuadrado, así que esto es igual a cuatro al cuadrado.
+
+00:06:57.800 --> 00:07:01.790
+Si es igual a cuatro al cuadrado satisface el teorema de Pitágoras
+
+00:07:01.790 --> 00:07:06.133
+y si recuerdas algo de los triángulos de treinta sesenta noventa sobre los que puede que hayas
+
+00:07:07.781 --> 00:07:11.450
+aprendido en geometría, puede que reconozcas que este
+
+00:07:11.450 --> 00:07:13.133
+es un triángulo treinta sesenta noventa y que este de aquí es el ángulo rectángulo que debería
+
+00:07:13.133 --> 00:07:15.867
+haber dibujado desde el principio para marcar que es un triángulo rectángulo
+
+00:07:15.867 --> 00:07:20.366
+este ángulo de aquí es nuestro ángulo de treinta grados
+
+00:07:20.366 --> 00:07:23.385
+y este ángulo de aquí arriba, este ángulo es
+
+00:07:23.385 --> 00:07:26.125
+un ángulo de sesenta grados
+
+00:07:26.125 --> 00:07:27.797
+y es un triángulo treinta sesenta noventa porque
+
+00:07:27.797 --> 00:07:31.791
+el lado opuesto al de treinta grados es la mitad de la hipotenusa
+
+00:07:31.791 --> 00:07:36.800
+y que además el lado opuesto al de sesenta grados es el cuadrado de tres por el otro lado
+
+00:07:36.800 --> 00:07:38.432
+no es la hipotenusa
+
+00:07:38.432 --> 00:07:40.159
+y eso es todo. Esto no pretende ser un repaso de los triángulos treinta sesenta noventa
+
+00:07:43.415 --> 00:07:46.933
+Así que vamos a encontrar las razones trigonométricas de los diferentes ángulos
+
+00:07:46.933 --> 00:07:51.295
+así que si te pregutara
+
+00:07:51.295 --> 00:07:54.639
+cuánto es el seno de treinta grados
+
+00:07:54.639 --> 00:07:58.447
+y recuerda que treinta grados es uno de los ángulos en este triángulopero esto es aplicable
+
+00:07:58.447 --> 00:08:01.698
+siempre que tengas un ángulo de treinta grados y estés tratando con un triángulo rectángulo
+
+00:08:01.698 --> 00:08:05.135
+tendremos definiciones más amplias en el futuro, pero si tienes seno de treinta grados
+
+00:08:05.135 --> 00:08:09.035
+y este ángulo de aquí es de treinta grados así que puedo usar este triángulo rectángulo
+
+00:08:09.035 --> 00:08:12.133
+y solo tenemos que recordar soh cah toa
+
+00:08:12.133 --> 00:08:17.116
+reescribirlo de forma que
+
+00:08:17.116 --> 00:08:22.782
+soh nos dice qué hacer con el seno. Seno es opuesto sobre hipotenusa
+
+00:08:22.782 --> 00:08:26.358
+seno de treinta grados es el lado opuesto
+
+00:08:26.358 --> 00:08:30.723
+que es el lado opuesto que es dos
+
+00:08:30.723 --> 00:08:32.395
+sobre la hipotenusa. Aquí la hipotenusa es cuatro.
+
+00:08:32.395 --> 00:08:35.646
+Es dos cuartos que es lo mismo que un medio
+
+00:08:35.646 --> 00:08:40.800
+seno de treinta grados serás que siempre será igual
+
+00:08:40.800 --> 00:08:44.144
+ahora, cuánto vale
+
+00:08:44.144 --> 00:08:46.867
+cuánto es el coseno de
+
+00:08:46.867 --> 00:08:50.135
+de nuevo volvemos a soh cah toa.
+
+00:08:50.135 --> 00:08:52.643
+Cah nos dice qué hacer con el coseno. Coseno es adyacente sobre hipotenusa
+
+00:08:56.033 --> 00:08:59.051
+así que para el ángulo de treinta grados es el adyacente. Este de aquí es
+
+00:08:59.051 --> 00:09:01.791
+el adyacente, está justo al lado
+
+00:09:01.791 --> 00:09:05.467
+no es la hipotenusa
+
+00:09:05.467 --> 00:09:09.129
+es el adyacente sobre la hipotenusa así que es dos
+
+00:09:09.129 --> 00:09:13.633
+adyacente
+
+00:09:13.633 --> 00:09:16.977
+o si simplificamos dividiendo numerador y denominador por dos es la raíz cuadrada de tres
+
+00:09:16.977 --> 00:09:20.646
+sobre dos
+
+00:09:20.646 --> 00:09:22.782
+finalmente hacemos
+
+00:09:22.782 --> 00:09:27.800
+tangente de treinta grados
+
+00:09:27.800 --> 00:09:30.305
+volvemos a soh cah toa
+
+00:09:30.305 --> 00:09:31.699
+soh cah toa
+
+00:09:31.699 --> 00:09:34.800
+toa nos dice qué hacer con la tangente, es el opuesto sobre el adyacente
+
+00:09:34.800 --> 00:09:38.804
+vamos al ángulo de treinta grados porque es lo que nos interesa, tangente de treinta
+
+00:09:38.804 --> 00:09:42.101
+tangente de treinta, el opuesto es dos
+
+00:09:42.101 --> 00:09:46.200
+el opuesto es dos y el adyacente es dos raíz cuadrada de tres que está justo al lado.
+
+00:09:46.200 --> 00:09:48.045
+El adyacente
+
+00:09:48.045 --> 00:09:49.439
+adyacente significa justo al lado
+
+00:09:49.439 --> 00:09:52.039
+así que dos raíz cuadrada de tres
+
+00:09:52.039 --> 00:09:54.454
+así que esto es igual a
+
+00:09:54.454 --> 00:09:56.776
+los dos se cancelan, uno sobre raíz cuadrada de tres
+
+00:09:56.776 --> 00:10:00.723
+o podemos multiplicar numerador y denominador por la raíz cuadrada de tres
+
+00:10:00.723 --> 00:10:05.367
+así que tenemos
+
+00:10:05.367 --> 00:10:08.804
+así que esto será igual al numerador, raíz cuadrada de tres, y luego el denominador
+
+00:10:12.473 --> 00:10:15.800
+justo aquí será tres porque hemos racionalizado la raíz cuadrada de tres
+
+00:10:17.442 --> 00:10:20.693
+Ahora usemos el mismo triángulo para encontrar las razones para el ángulo de sesenta
+
+00:10:20.693 --> 00:10:22.457
+como ya lo tenemos dibujado
+
+00:10:22.457 --> 00:10:28.328
+cuánto es
+
+00:10:28.328 --> 00:10:30.166
+cuánto es el seno de sesenta grados y creo que ya le estás cogiendo el tranquillo
+
+00:10:30.166 --> 00:10:34.253
+seno es el opuesto sobre el adyacente. Soh de soh cah toa. Del ángulo de sesenta grados qué lado
+
+00:10:34.253 --> 00:10:36.668
+es el opuesto
+
+00:10:36.668 --> 00:10:39.315
+cuál se abre a las dos raíces cuadradas de tres de forma que el lado opuesto es dos por raíz cuadrada de tres
+
+00:10:42.566 --> 00:10:45.306
+y del ángulo de sesenta grados, el ady- oh perdón, es el
+
+00:10:45.306 --> 00:10:47.999
+opuesto sobre la hipotenusa, no quiero confundirte.
+
+00:10:47.999 --> 00:10:50.507
+Así que es el opuesto sobre la hipotenusa
+
+00:10:50.507 --> 00:10:54.315
+así que es dos por raíz cuadrada de tres sobre cuatro, cuatro es la hipotenusa,
+
+00:10:54.315 --> 00:10:59.981
+así que es igual a, esto se simplifica a raíz cuadrada de tres sobre dos.
+
+00:10:59.981 --> 00:11:05.507
+Cuánto es el coseno de sesenta grados. Cosenos de sesenta grados.
+
+00:11:05.507 --> 00:11:10.244
+Recuerda, soh cah toa. Coseno es el adyacente sobre la hipotenusa.
+
+00:11:10.244 --> 00:11:13.667
+Adyacentes son los dos lados junto al ángulo de sesenta grados así que es dos
+
+00:11:13.667 --> 00:11:17.907
+sobre la hipotenusa, que es cuatro,
+
+00:11:17.907 --> 00:11:20.972
+así que es igual a
+
+00:11:20.972 --> 00:11:24.176
+y finalmente
+
+00:11:24.176 --> 00:11:27.984
+cuánto es la tangente, cuánto es la tangente
+
+00:11:27.984 --> 00:11:32.349
+Soh cah toa, tangente es opuesto sobre adyacente
+
+00:11:32.349 --> 00:11:34.671
+opuesto de sesenta grados
+
+00:11:34.671 --> 00:11:36.400
+es dos raíz cuadrada de tres
+
+00:11:36.400 --> 00:11:38.000
+dos raíz cuadrada de tres
+
+00:11:38.000 --> 00:11:39.919
+y adyacente a ese
+
+00:11:39.919 --> 00:11:42.733
+adyacente a ese
+
+00:11:42.733 --> 00:11:44.800
+el adyacente a sesenta grados es dos
+
+00:11:44.800 --> 00:11:48.650
+así que el opuesto sobre el adyacente
+
+00:11:48.650 --> 00:11:52.644
+dos por raíz de tres dividido por dos, lo cuál es igual a
+
+00:11:52.644 --> 00:11:54.641
+Solo quiero que veamos cómo están relacionados
+
+00:11:54.641 --> 00:11:57.984
+el seno de treinta grados es lo mismo que el coseno de sesenta grados. El coseno de treinta grados es lo mismo que el seno de sesenta grados
+
+00:12:01.333 --> 00:12:03.966
+y entonces estos son el inverso el uno del otro y creo que si piensas un poco acerca de este triángulo
+
+00:12:05.635 --> 00:12:07.105
+empezará a cobrar sentido el porqué. Seguiremos expandiendo esto y practicando más en
+
+00:12:07.105 --> 00:12:08.461
+los próximos vídeos

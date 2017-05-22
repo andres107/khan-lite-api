@@ -1,0 +1,579 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.900 --> 00:00:04.430
+Creo que es muy importante tener tantas maneras como sea posible
+
+00:00:04.430 --> 00:00:06.450
+para ver un determinado problema, por lo quiero presentar
+
+00:00:06.450 --> 00:00:07.410
+una manera diferente.
+
+00:00:07.410 --> 00:00:10.710
+Algunas personas pudieron haberte enseñado este antes, pero la forma en
+
+00:00:10.710 --> 00:00:15.850
+la que lo enseñó en el primer vídeo de integrales es de la manera en que
+
+00:00:15.850 --> 00:00:17.100
+siempre pienso cuando hago los problemas.
+
+00:00:17.100 --> 00:00:19.330
+Pero a veces, es más útil pensar de la manera en la que
+
+00:00:19.330 --> 00:00:21.030
+les voy mostrar, y tal vez no podrás ver la diferencia,
+
+00:00:21.030 --> 00:00:22.530
+o tal vez diras, oh, Sal, eso es
+
+00:00:22.530 --> 00:00:24.010
+exactamente la mismo cosa.
+
+00:00:24.010 --> 00:00:26.420
+De hecho, alguien me envio un correo electrónico y me dijo que deberia hacerlo
+
+00:00:26.420 --> 00:00:28.360
+de forma que pueda desplazar las cosas, y yo dije:
+
+00:00:28.360 --> 00:00:28.810
+Ah, eso no es demasiado difícil de hacer.
+
+00:00:28.810 --> 00:00:32.140
+Asi que lo hice, y desplace mi dibujo.
+
+00:00:32.140 --> 00:00:34.820
+Pero bueno, supongamos que tenemos una superficie en 3 dimensiones.
+
+00:00:34.820 --> 00:00:36.120
+Es una función de x y y.
+
+00:00:36.120 --> 00:00:38.060
+Me das una coordenada aquí, y te digo
+
+00:00:38.060 --> 00:00:40.240
+a qué altura la superficie se encuentra en este punto.
+
+00:00:40.240 --> 00:00:43.330
+Y queremos averiguar el volumen bajo la superficie.
+
+00:00:43.330 --> 00:00:44.880
+Entonces.
+
+00:00:44.880 --> 00:00:49.360
+Muy fácilmente podemos averiguar el volumen de una muy
+
+00:00:49.360 --> 00:00:52.210
+pequeña columna debajo de la superficie.
+
+00:00:52.210 --> 00:00:55.870
+Este volumen es lo que estamos tratando de averiguar,
+
+00:00:55.870 --> 00:00:57.020
+justo entre las líneas de puntos.
+
+00:00:57.020 --> 00:00:59.050
+Creo que las puedes ver.
+
+00:00:59.050 --> 00:01:01.730
+Ya tiene alguna experiencia visualizando esto ahora.
+
+00:01:01.730 --> 00:01:05.940
+Así que digamos que tengo una pequeña área aquí.
+
+00:01:05.940 --> 00:01:09.550
+Podríamos llamarla da.
+
+00:01:09.550 --> 00:01:12.240
+Déjame ver si puedo dibujar esto.
+
+00:01:12.240 --> 00:01:15.430
+Supongamos que tenemos una pequeña área aquí abajo,
+
+00:01:15.430 --> 00:01:17.780
+un pequeño cuadrado en el plano x-y.
+
+00:01:17.780 --> 00:01:23.580
+Dependiendo de como la veas, este lado de aca es dx,
+
+00:01:23.580 --> 00:01:27.480
+su longitud es dx, y la altura, podrías decir,
+
+00:01:27.480 --> 00:01:29.700
+de ese lado es dy.
+
+00:01:29.700 --> 00:01:30.390
+¿Cierto?
+
+00:01:30.390 --> 00:01:33.100
+Porque hay un pequeño cambio en y, aqui, y hay un
+
+00:01:33.100 --> 00:01:36.490
+pequeño cambio en x aquí.
+
+00:01:36.490 --> 00:01:40.060
+Y su area, la area de este pequeño cuadrado,
+
+00:01:40.060 --> 00:01:42.800
+va a ser dx veces dy.
+
+00:01:42.800 --> 00:01:47.720
+Y si queríamos averiguar el volumen del sólido entre
+
+00:01:47.720 --> 00:01:52.090
+esta pequeña área y la superficie, sólo tendriamos que multiplicar
+
+00:01:52.090 --> 00:01:54.940
+esta área por la función.
+
+00:01:54.940 --> 00:01:55.250
+¿Verdad?
+
+00:01:55.250 --> 00:01:57.210
+Debido a que la altura en este punto va a ser el
+
+00:01:57.210 --> 00:01:59.090
+valor de la función, aproximadamente, en este punto.
+
+00:01:59.090 --> 00:01:59.300
+¿Verdad?
+
+00:01:59.300 --> 00:02:00.640
+Esto va a ser una aproximación, y despues
+
+00:02:00.640 --> 00:02:01.450
+vamos a tomar una suma infinita.
+
+00:02:01.450 --> 00:02:03.220
+Creo que sabes hacia donde voy.
+
+00:02:03.220 --> 00:02:04.170
+Pero permíteme hacer esto.
+
+00:02:04.170 --> 00:02:10.480
+Permíteme por lo menos dibujar la pequeña columna que quiero mostrarles.
+
+00:02:10.480 --> 00:02:16.690
+Esto es uno de los extremos, esto es otro extremo, esto
+
+00:02:16.690 --> 00:02:21.840
+la parte delantera, esto es el otro extremo.
+
+00:02:21.840 --> 00:02:25.660
+Así que tenemos una pequeña figura que se parece a algo así.
+
+00:02:25.660 --> 00:02:28.180
+¿Una perqueña columna, verdad?
+
+00:02:28.180 --> 00:02:30.400
+Intersecta la parte superior de la superficie.
+
+00:02:30.400 --> 00:02:33.950
+Y el volumen de esta columna, no es demasiado difícil.
+
+00:02:33.950 --> 00:02:38.420
+Va a ser esta pequeña área aquí abajo, que es,
+
+00:02:38.420 --> 00:02:39.360
+podríamos llamarla da.
+
+00:02:41.870 --> 00:02:43.300
+A veces escrita de esta manera. da.
+
+00:02:43.300 --> 00:02:44.565
+Es una pequeña área.
+
+00:02:44.565 --> 00:02:47.890
+Y vamos a multiplicar esta área por la altura de
+
+00:02:47.890 --> 00:02:51.280
+esta columna, y esta es la función en ese punto.
+
+00:02:51.280 --> 00:02:56.260
+Por lo que es f de x y y.
+
+00:02:56.260 --> 00:02:58.970
+Y por supuesto, tambien podríamos haberla escrito como,
+
+00:02:58.970 --> 00:03:02.590
+da es solamente dx por dy, o dy por dx.
+
+00:03:02.590 --> 00:03:04.920
+Voy a escribirla de todas las maneras distintas.
+
+00:03:04.920 --> 00:03:08.260
+Así que hubieramos podido haber escrito esto como f de
+
+00:03:08.260 --> 00:03:12.510
+xy por dx por dy.
+
+00:03:12.510 --> 00:03:14.730
+Y por supuesto, debido a que la multiplicación es asociativa,
+
+00:03:14.730 --> 00:03:21.140
+Pude también haberlo escrito como f de xy por dy dx.
+
+00:03:21.140 --> 00:03:24.270
+Estas son todas equivalentes, y todas estas representan el volumen
+
+00:03:24.270 --> 00:03:29.010
+de esta columna, lo que esta entre esta pequena área
+
+00:03:29.010 --> 00:03:31.550
+aquí y la superficie.
+
+00:03:31.550 --> 00:03:35.980
+Ahora, si queremos encontrar el volumen de toda la
+
+00:03:35.980 --> 00:03:37.850
+superficie, podríamos hacer varias cosas.
+
+00:03:37.850 --> 00:03:42.120
+Podríamos sumar todos los volúmenes en la dirección x,
+
+00:03:42.120 --> 00:03:45.230
+entre el límite inferior x y el límite superior x, y despues
+
+00:03:45.230 --> 00:03:49.330
+tendríamos una especie de hoja delgada, aunque ya tendria
+
+00:03:49.330 --> 00:03:51.710
+cierta profundidad, porque no estamos sumando solo las x.
+
+00:03:51.710 --> 00:03:53.060
+También hay un dy por aca atras.
+
+00:03:53.060 --> 00:03:56.870
+Entonces, tendremos un volumen de una figura que se extendera desde
+
+00:03:56.870 --> 00:04:03.170
+la parte inferior de x hasta la parte superior de x, regresa hasta dy,
+
+00:04:03.170 --> 00:04:04.210
+y volvera a aqui.
+
+00:04:04.210 --> 00:04:07.390
+Si quisiéramos sumar todos los dx.
+
+00:04:07.390 --> 00:04:11.050
+¿Y si queríamos hacerlo, qué expresión utilizariamos?
+
+00:04:11.050 --> 00:04:15.800
+Bien, estariamos sumando primero con respecto a x, por lo que podríamos
+
+00:04:15.800 --> 00:04:17.040
+usar esta expresión, ¿cierto?
+
+00:04:19.630 --> 00:04:21.035
+En realidad, nosotros podríamos escribirla aquí, pero
+
+00:04:21.035 --> 00:04:21.970
+se vovleria confuso.
+
+00:04:21.970 --> 00:04:24.880
+Si estamos sumando con respecto a x, pero tenemos
+
+00:04:24.880 --> 00:04:26.110
+dy escrito aquí primero.
+
+00:04:26.110 --> 00:04:28.430
+Realmente no es incorrecto, pero solo se vuelve un poco
+
+00:04:28.430 --> 00:04:30.740
+ambiguo, estamos sumando con respecto a x o y.
+
+00:04:30.740 --> 00:04:32.430
+Pero aquí, podríamos decir, OK.
+
+00:04:32.430 --> 00:04:36.140
+Si queremos sumar todos los dx primero, vamos a hacer eso.
+
+00:04:36.140 --> 00:04:38.890
+Estamos tomando la suma con respecto a x, permitanme, yo
+
+00:04:38.890 --> 00:04:41.270
+voy a escribir la actual, normalmente sólo escribo números
+
+00:04:41.270 --> 00:04:44.210
+aquí, pero voy a decir, bueno, aquí el límite inferior es x
+
+00:04:44.210 --> 00:04:51.320
+igual a a, y el límite superior aquí es x igual a b.
+
+00:04:54.650 --> 00:04:57.380
+Y esto nos dara el volumen, podrías imaginar
+
+00:04:57.380 --> 00:04:59.330
+una hoja con profundidad, cierto?
+
+00:04:59.330 --> 00:05:03.760
+La hoja va a ser paralela al eje x, ¿cierto?
+
+00:05:03.760 --> 00:05:07.060
+Y una vez tengamos esa hoja, en mi video, creo que
+
+00:05:07.060 --> 00:05:10.280
+son las personas del periódico tratando de venderme algo.
+
+00:05:10.280 --> 00:05:11.040
+De todos modos.
+
+00:05:11.040 --> 00:05:13.470
+Así que una vez que tengamos la hoja, voy a intentar dibujarla aquí, también,
+
+00:05:13.470 --> 00:05:16.930
+yo no quiero poner este dibujo muy confuso, pero una vez
+
+00:05:16.930 --> 00:05:20.010
+tengamos esa hoja, podemos integrarlos, podemos
+
+00:05:20.010 --> 00:05:21.360
+sumar las dy, cierto?
+
+00:05:21.360 --> 00:05:23.480
+Porque este ancho aquí todavía es dy.
+
+00:05:23.480 --> 00:05:25.300
+Podríamos sumar todos los diferentes dy y nosotros
+
+00:05:25.300 --> 00:05:27.390
+tendríamos el volumen de toda figura.
+
+00:05:27.390 --> 00:05:30.910
+Así que una vez que hagamos esta suma, podremos hacer esta suma.
+
+00:05:30.910 --> 00:05:35.320
+Donde y va desde su parte inferior, lo que hemos dicho con c,
+
+00:05:35.320 --> 00:05:39.230
+desde y igual a c hasta el limite superior de y, hasta
+
+00:05:39.230 --> 00:05:42.070
+y igual a d.
+
+00:05:42.070 --> 00:05:42.690
+Esta bien.
+
+00:05:42.690 --> 00:05:45.340
+Y despues, una vez evaluado todo este asunto, tenemos el
+
+00:05:45.340 --> 00:05:49.520
+volumen de este solido, o el volumen debajo de la superficie.
+
+00:05:49.520 --> 00:05:51.330
+Hubieramos podido hacerlo de la otra manera.
+
+00:05:51.330 --> 00:05:53.810
+Sé que esto esta un poco desordenado, pero creo
+
+00:05:53.810 --> 00:05:54.840
+que entiendes lo que estoy diciendo.
+
+00:05:54.840 --> 00:05:57.185
+Comencemos con la pequeña da que teniamos inicialmente.
+
+00:06:00.280 --> 00:06:04.520
+En lugar de irnos por este lado, en lugar de sumar los dx
+
+00:06:04.520 --> 00:06:08.910
+y formando esta hoja, sumemos los dy primero, bueno?
+
+00:06:08.910 --> 00:06:12.570
+Así que podemos tomar, estamos sumando en la dirección y primero.
+
+00:06:12.570 --> 00:06:16.420
+Ahora obtendríamos una hoja paralela al eje y.
+
+00:06:16.420 --> 00:06:21.770
+Por lo que la parte superior de la hoja se veria algo así.
+
+00:06:21.770 --> 00:06:25.705
+Si estamos sumando los dy primero, tomariamos la suma,
+
+00:06:25.705 --> 00:06:28.780
+tomaríamos la integral con respecto a y, y sería,
+
+00:06:28.780 --> 00:06:33.460
+el límite inferior sería y igual a c, y el límite superior
+
+00:06:33.460 --> 00:06:36.600
+es y igual a d.
+
+00:06:36.600 --> 00:06:39.346
+Y entonces tendremos esa hoja con un poco de profundidad,
+
+00:06:39.346 --> 00:06:44.790
+la profundidad es dx, y despues podríamos tomar la suma de todos ellos,
+
+00:06:44.790 --> 00:06:46.580
+perdon, mi garganta está seca.
+
+00:06:46.580 --> 00:06:50.290
+Acabo de comer un montón de almendras para tener la suficiente energía para poder
+
+00:06:50.290 --> 00:06:52.070
+grabar estos vídeos.
+
+00:06:52.070 --> 00:06:54.230
+Pero una vez tenga una de estas hojas, y si quiero sumar
+
+00:06:54.230 --> 00:06:58.180
+todos los x, entonces puede tomar la suma infinita de
+
+00:06:58.180 --> 00:07:02.520
+pequeñas columnas infinitas, o en este grafico, hojas, infinitamente
+
+00:07:02.520 --> 00:07:08.200
+delgadas, y el límite inferior es x igual a, y
+
+00:07:08.200 --> 00:07:10.100
+el límite superior es x igual a b.
+
+00:07:10.100 --> 00:07:12.660
+Y una vez más, tendre el volumen de la figura.
+
+00:07:12.660 --> 00:07:15.930
+Todo lo que te mostré aquí es que hay dos maneras de hacer
+
+00:07:15.930 --> 00:07:17.790
+el orden de integración.
+
+00:07:17.790 --> 00:07:21.060
+Ahora, otra forma de decir esto, si este pequeño
+
+00:07:21.060 --> 00:07:24.190
+cuadrado fuera da, esta es una forma abreviada que veras
+
+00:07:24.190 --> 00:07:27.300
+todo tiempo, especialmente en los libros de física, es que
+
+00:07:27.300 --> 00:07:33.440
+estamos integrando a lo largo del dominio, cierto?
+
+00:07:33.440 --> 00:07:35.770
+Porque el plano x-y aca es nuestro dominio.
+
+00:07:35.770 --> 00:07:37.690
+Así que vamos a hacer una integral doble, una integral
+
+00:07:37.690 --> 00:07:40.132
+bidimensional, estamos diciendo que el dominio aca es bidimensional,
+
+00:07:40.132 --> 00:07:48.110
+y vamos a tomar esto sobre f de x y y por da.
+
+00:07:48.110 --> 00:07:51.240
+Y la razón por la que quiero mostrarte esto, es porque
+
+00:07:51.240 --> 00:07:53.830
+tu ves esto en los libros de física todo el tiempo.
+
+00:07:53.830 --> 00:07:55.300
+No creo que sea gran cosa.
+
+00:07:55.300 --> 00:07:58.860
+Porque es una forma abreviada, y tal vez parezca simple, pero para
+
+00:07:58.860 --> 00:08:00.920
+mi, cada vez que veo algo que no sé cómo
+
+00:08:00.920 --> 00:08:04.180
+calcular o que no es evidente para mí saber cómo se calcula,
+
+00:08:04.180 --> 00:08:06.320
+es en realidad más confuso.
+
+00:08:06.320 --> 00:08:09.260
+Así que solo quería mostrarte lo que se ve en este
+
+00:08:09.260 --> 00:08:12.080
+libro de física, cuando alguien escribe esto, es exactamente
+
+00:08:12.080 --> 00:08:14.350
+la misma cosa que esto o esto.
+
+00:08:14.350 --> 00:08:18.170
+El da podría ser dx por dy, o podría ser dy
+
+00:08:18.170 --> 00:08:21.420
+por dx, y cuando hacen esta integral doble sobre el dominio,
+
+00:08:21.420 --> 00:08:24.380
+es la misma cosa, es simplemente sumar todos estos cuadrados.
+
+00:08:24.380 --> 00:08:26.550
+Donde lo hacemos aca, somos muy ordenados, cierto?
+
+00:08:26.550 --> 00:08:30.580
+Vamos en la dirección x, y despues sumamos todos aquellos en
+
+00:08:30.580 --> 00:08:32.350
+la dirección y, y obtenemos el volumen total.
+
+00:08:32.350 --> 00:08:34.020
+O lo podriamos hacer de la otra manera.
+
+00:08:34.020 --> 00:08:36.580
+Cuando decimos que estamos haciendo la doble integral,
+
+00:08:36.580 --> 00:08:37.950
+en primer lugar, esto nos dice que lo estamos haciendo en dos
+
+00:08:37.950 --> 00:08:40.710
+dimensiones, sobre un dominio, esto lo pone un poco
+
+00:08:40.710 --> 00:08:43.790
+ambiguo en términos de cómo vamos a sumar
+
+00:08:43.790 --> 00:08:45.430
+todas las da
+
+00:08:45.430 --> 00:08:47.990
+Y lo hacen intencionalmente en los libros de física, porque tu
+
+00:08:47.990 --> 00:08:50.750
+no tienes que hacerlo utilizando coordenadas cartesianas,
+
+00:08:50.750 --> 00:08:51.720
+usando x y y.
+
+00:08:51.720 --> 00:08:53.940
+Puedes hacerlo en coordenadas polares, podrías hacerlo de
+
+00:08:53.940 --> 00:08:55.260
+muchas maneras diferentes.
+
+00:08:55.260 --> 00:08:58.200
+Pero sólo quería mostrarte, esta es otra forma de
+
+00:08:58.200 --> 00:09:00.870
+tener intuición del volumen bajo una superficie.
+
+00:09:00.870 --> 00:09:04.620
+Y estas son las mismas cosas que este tipo de
+
+00:09:04.620 --> 00:09:07.840
+notación que podrías ver en un libro de física.
+
+00:09:07.840 --> 00:09:09.420
+A veces no escribiran un dominio, a veces escribiran
+
+00:09:09.420 --> 00:09:11.250
+sobre una superficie.
+
+00:09:11.250 --> 00:09:12.430
+Después haremos estas integrales.
+
+00:09:12.430 --> 00:09:15.080
+Aquí la superficie es fácil, es una superficie plana, pero algunas veces
+
+00:09:15.080 --> 00:09:17.380
+acabará siendo una curva o algo parecido.
+
+00:09:17.380 --> 00:09:19.790
+En todo caso, ya casi se me acaba el tiempo.
+
+00:09:19.790 --> 00:09:22.390
+Te veré en el siguiente video.

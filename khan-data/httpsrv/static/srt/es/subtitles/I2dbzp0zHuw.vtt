@@ -1,0 +1,421 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.450 --> 00:00:04.130
+En el último vídeo, vimos que si un campo vectorial puede ser
+
+00:00:04.130 --> 00:00:12.580
+escrito como el gradiente de un campo escalar-- u otra
+
+00:00:12.580 --> 00:00:17.080
+forma de decirlo es: esto sería igual a la derivada parcial de nuestra
+
+00:00:17.080 --> 00:00:23.060
+F grande respecto a x multiplicado por i, más la derivada parcial de F grande, nuestro
+
+00:00:23.060 --> 00:00:28.100
+campo escalar respecto a y multiplicado por j; y simplemente estoy escribiéndolo
+
+00:00:28.100 --> 00:00:30.690
+en múltiples maneras para que recordéis lo que es el gradiente
+
+00:00:30.690 --> 00:00:35.490
+--pero vimos que si nuestro campo vectorial es el gradiente de
+
+00:00:35.490 --> 00:00:38.780
+un campo escalar, entonces lo llamamos conservativo.
+
+00:00:38.780 --> 00:00:47.825
+Eso nos dice que f es un campo vectorial conservativo.
+
+00:00:50.510 --> 00:00:54.140
+Y también nos dice, y ésta fue la parte mas importante respecto
+
+00:00:54.140 --> 00:00:58.400
+al vídeo anterior, que la integral de línea de f entre dos
+
+00:00:58.400 --> 00:01:05.900
+puntos-- permitidme dibujar dos puntos aquí; así que permitidme dibujar mis
+
+00:01:05.900 --> 00:01:09.210
+coordenadas sólo para indicar que estamos en el plano xy.
+
+00:01:09.210 --> 00:01:12.780
+Mis ejes: eje-x, eje-y.
+
+00:01:12.780 --> 00:01:16.820
+Digamos que tengo un punto, tengo ese punto y ese punto,
+
+00:01:16.820 --> 00:01:19.620
+y tengo dos trayectorias diferentes entre dichos puntos.
+
+00:01:19.620 --> 00:01:24.190
+Así que tengo la trayectoria 1, que va como algo así, y le
+
+00:01:24.190 --> 00:01:27.005
+llamaré c1 y va dirigido en esa dirección.
+
+00:01:30.270 --> 00:01:32.380
+Y también tengo, quizá en otro tono de
+
+00:01:32.380 --> 00:01:38.010
+verde, c2 que va de esta forma.
+
+00:01:38.010 --> 00:01:41.010
+Los dos empiezan aquí y van allí.
+
+00:01:41.010 --> 00:01:43.520
+Aprendimos en el último vídeo que la integral de línea
+
+00:01:43.520 --> 00:01:48.330
+es independiente de la trayectoria entre dos puntos.
+
+00:01:48.330 --> 00:01:57.930
+Así que en este caso la integral de línea a lo largo de c1 de f punto dr
+
+00:01:57.930 --> 00:02:03.560
+va a ser igual a la integral de línea de c2, a lo largo de la
+
+00:02:03.560 --> 00:02:10.870
+trayectoria c2, de f punto dr. Si tenemos un potencial en
+
+00:02:10.870 --> 00:02:14.500
+la región, y podemos estar en todos puntos, entonces la integral
+
+00:02:14.500 --> 00:02:17.590
+de línea entre dos puntos es independiente de la trayectoria.
+
+00:02:17.590 --> 00:02:19.390
+Eso es lo bueno de un campo conservativo.
+
+00:02:19.390 --> 00:02:21.190
+Ahora lo que quiero hacer en este vídeo es ser un poco
+
+00:02:21.190 --> 00:02:23.680
+mas extensivo de lo que vimos en el último vídeo.
+
+00:02:23.680 --> 00:02:25.710
+En realidad es una extensión muy importante; puede que ya
+
+00:02:25.710 --> 00:02:27.540
+os parezca obvia.
+
+00:02:27.540 --> 00:02:29.550
+Ya he escrito esto aquí; Podría reordenar
+
+00:02:29.550 --> 00:02:31.410
+la ecuación un poco.
+
+00:02:31.410 --> 00:02:32.745
+Permitidme hacerlo.
+
+00:02:32.745 --> 00:02:35.310
+Permitidme reordenar esto.
+
+00:02:35.310 --> 00:02:36.976
+Reescribiré esto en naranja.
+
+00:02:36.976 --> 00:02:42.730
+Entonces la integral a lo largo de la trayectoria c1 de f punto dr menos-- Simplemente
+
+00:02:42.730 --> 00:02:48.670
+resto esto de ambos lados --menos la integral c2 de
+
+00:02:48.670 --> 00:02:53.110
+f punto dr va a ser igual a 0.
+
+00:02:53.110 --> 00:02:55.610
+Todo lo que hecho es coger lo mas relevante del ultimo vídeo y
+
+00:02:55.610 --> 00:02:58.430
+le resté esto en ambos lados.
+
+00:02:58.430 --> 00:03:04.370
+Ahora bien, aprendimos hace unos cuantos vídeos que si restamos tratando con una
+
+00:03:04.370 --> 00:03:08.560
+integral de línea de un campo vectorial-- no de un campo escalar
+
+00:03:08.560 --> 00:03:10.690
+--con un campo vectorial, la dirección de la
+
+00:03:10.690 --> 00:03:12.090
+trayectoria es importante.
+
+00:03:12.090 --> 00:03:20.370
+Aprendimos que la integral de línea sobre, digamos, c2 de f producto punto
+
+00:03:20.370 --> 00:03:26.580
+dr, es igual a menos la integral de línea de menos c2
+
+00:03:26.580 --> 00:03:32.830
+de f punto dr, donde menos c2 denota la misma trayectoria que
+
+00:03:32.830 --> 00:03:35.740
+c2, pero en dirección contraria.
+
+00:03:35.740 --> 00:03:39.370
+Por ejemplo, menos c2 la escribiría algo así-- permitidme
+
+00:03:39.370 --> 00:03:42.440
+hacerlo en distinto color --digamos entonces que esto es menos
+
+00:03:42.440 --> 00:03:46.740
+c2, sería una trayectoria como c2-- voy a llamarla
+
+00:03:46.740 --> 00:03:49.100
+menos c2 --pero en lugar de ir en esa dirección, voy ahora
+
+00:03:49.100 --> 00:03:51.380
+en esa dirección.
+
+00:03:51.380 --> 00:03:52.980
+Así que ignorad las antiguas flechas de c2.
+
+00:03:52.980 --> 00:03:56.030
+Empezamos ahora allí y venimos hacia aquí.
+
+00:03:56.030 --> 00:03:58.100
+Esto es menos c2.
+
+00:03:58.100 --> 00:04:00.220
+O podríamos escribir, podríamos poner, el menos en el otro
+
+00:04:00.220 --> 00:04:06.250
+lado y podríamos decir que la integral negativa de la c2
+
+00:04:06.250 --> 00:04:13.770
+a lo largo de la trayectoria c2 de f punto dr es igual a
+
+00:04:13.770 --> 00:04:19.510
+la integral de línea a lo largo de la trayectoria inversa de f punto dr. Todo lo que he hecho es
+
+00:04:19.510 --> 00:04:21.630
+cambiar el menos al otro lado; multiplicar
+
+00:04:21.630 --> 00:04:23.370
+ambos lados por menos 1.
+
+00:04:23.370 --> 00:04:27.900
+Reemplacemos entonces-- en esta ecuación tenemos menos
+
+00:04:27.900 --> 00:04:31.480
+de la trayectoria c2; tenemos eso ahí bien, y tenemos eso allí bien
+
+00:04:31.480 --> 00:04:33.880
+--así que podríamos simplemente sustituir esto con
+
+00:04:33.880 --> 00:04:34.800
+esto aquí mismo.
+
+00:04:34.800 --> 00:04:35.670
+Permitidme hacer eso.
+
+00:04:35.670 --> 00:04:37.670
+Escribiré primero esta parte.
+
+00:04:37.670 --> 00:04:43.410
+La integral a lo largo de la curva c1 de f por dr, en lugar de
+
+00:04:43.410 --> 00:04:49.200
+menos la integral de línea a lo largo de c2, voy a decir más la
+
+00:04:49.200 --> 00:04:51.200
+integral a lo largo de menos c2.
+
+00:04:51.200 --> 00:04:55.940
+Esto-- permitidme cambiar al verde --esto que hemos establecido
+
+00:04:55.940 --> 00:04:57.480
+es lo mismo que esto.
+
+00:04:57.480 --> 00:05:00.720
+Menos esta curva, o la integral a lo largo de este
+
+00:05:00.720 --> 00:05:04.950
+camino, es lo mismo que la integral de línea, más la
+
+00:05:04.950 --> 00:05:07.350
+integral de línea a lo largo del camino inverso.
+
+00:05:07.350 --> 00:05:13.610
+Diremos que más la integral de línea de menos c2 de
+
+00:05:13.610 --> 00:05:19.270
+f por dr es igual a 0.
+
+00:05:19.270 --> 00:05:20.670
+Ahora hay algo interesante.
+
+00:05:20.670 --> 00:05:23.550
+Miremos qué es la combinación de los caminos
+
+00:05:23.550 --> 00:05:26.560
+c1 y menos c2.
+
+00:05:26.560 --> 00:05:28.370
+c1 empieza por aquí.
+
+00:05:28.370 --> 00:05:30.280
+Permitidme utilizar un color bonito, vibrante.
+
+00:05:30.280 --> 00:05:32.580
+c1 empieza por aquí en este punto.
+
+00:05:32.580 --> 00:05:36.540
+Se mueve desde este punto a lo largo de la curva c1
+
+00:05:36.540 --> 00:05:38.020
+y llega a este punto.
+
+00:05:38.020 --> 00:05:39.840
+Y entonces hacemos menos c2.
+
+00:05:39.840 --> 00:05:43.590
+Menos c2 empieza en este punto y simplemente avanza y vuelve
+
+00:05:43.590 --> 00:05:45.810
+al punto original; se completa una vuelta.
+
+00:05:45.810 --> 00:05:48.270
+Por tanto esto es una integral a lo largo de una curva cerrada.
+
+00:05:48.270 --> 00:05:52.440
+Si combinamos esto, podríamos reescribirlo así.
+
+00:05:52.440 --> 00:05:53.660
+Recordad, es simplemente una vuelta.
+
+00:05:53.660 --> 00:05:56.365
+Haciendo el inverso de esto, en lugar de tener dos chicos empezando aquí
+
+00:05:56.365 --> 00:05:58.450
+y yendo allí, ahora puedo empezar aquí, ir por allí,
+
+00:05:58.450 --> 00:06:00.660
+y entonces volver todo el camino por
+
+00:06:00.660 --> 00:06:02.630
+el camino inverso de c2.
+
+00:06:02.630 --> 00:06:06.880
+Por tanto esto es equivalente a la integral a lo largo de la línea cerrada.
+
+00:06:06.880 --> 00:06:12.150
+Y es lo mismo que ella integral a lo largo de un camino cerrado.
+
+00:06:12.150 --> 00:06:15.730
+Quiero decir, podríamos llamar al camino cerrado, quizás, c1 más
+
+00:06:15.730 --> 00:06:18.200
+menos-c2, si quisiéramos ser precisos sobre
+
+00:06:18.200 --> 00:06:18.900
+el camino cerrado.
+
+00:06:18.900 --> 00:06:23.390
+Pero esto podría ser, señaló a c1 y c2 o menos c2 arbitrariamente;
+
+00:06:23.390 --> 00:06:29.600
+esto podría ser cualquier camino cerrado donde nuestro vector de campo f tiene un
+
+00:06:29.600 --> 00:06:33.000
+potencial, o donde es el gradiente de un campo escalar
+
+00:06:33.000 --> 00:06:34.960
+o cuando sea conservador.
+
+00:06:34.960 --> 00:06:38.620
+Y lo que este puede ser escrito como un camino cerrado de c1 más el
+
+00:06:38.620 --> 00:06:45.930
+reverso de c2 de dr de punto f.
+Eso es sólo una reescritura
+
+00:06:45.930 --> 00:06:49.040
+de eso y eso va a ser igual a 0.
+
+00:06:49.040 --> 00:06:53.050
+Y este es nuestro take away para este video.
+
+00:06:53.050 --> 00:06:56.110
+Esto es, puede verlo como un corolario.
+
+00:06:56.110 --> 00:06:59.160
+Es tipo de una conclusión de bajas que puede hacer
+
+00:06:59.160 --> 00:07:01.610
+Después de esta conclusión.
+
+00:07:01.610 --> 00:07:05.900
+Así que ahora sabemos que si tenemos un vector de campo que tiene el
+
+00:07:05.900 --> 00:07:09.570
+gradiente de un campo escalar en alguna región, o tal vez sobre la
+
+00:07:09.570 --> 00:07:13.440
+plano xy todo--y esto se llama el potencial de f;
+
+00:07:13.440 --> 00:07:15.320
+Esta es una función potencial.
+
+00:07:15.320 --> 00:07:17.370
+A menudo será el negativo de la misma, pero es fácil
+
+00:07:17.370 --> 00:07:21.670
+se metiera con negativos--pero si tenemos un campo vectorial
+
+00:07:21.670 --> 00:07:24.650
+el gradiente de un campo escalar, llamamos a ese vector
+
+00:07:24.650 --> 00:07:26.100
+campo conservador.
+
+00:07:26.100 --> 00:07:29.880
+Nos dice en cualquier punto de la región donde esto es
+
+00:07:29.880 --> 00:07:33.860
+es válido, de la línea integral de un punto a otro
+
+00:07:33.860 --> 00:07:36.150
+independiente de la trayectoria; eso es lo que recibimos de
+
+00:07:36.150 --> 00:07:37.130
+el último video.
+
+00:07:37.130 --> 00:07:42.890
+Y por eso, un bucle cerrado línea integral o una cerrada
+
+00:07:42.890 --> 00:07:45.570
+línea integral, por lo que si tenemos algún otro lugar, si tomamos
+
+00:07:45.570 --> 00:07:52.915
+cualquier otro integral de línea cerrada o tome la línea integral de
+
+00:07:52.915 --> 00:07:57.490
+el campo vectorial en cualquier lazo cerrado, se convertirá en 0 porque
+
+00:07:57.490 --> 00:07:58.740
+es independiente de la ruta de acceso.
+
+00:07:58.740 --> 00:08:02.240
+Eso es puro llevar aquí, que si sabes que
+
+00:08:02.240 --> 00:08:05.370
+Esto es conservador, si has visto algo como esto:
+
+00:08:05.370 --> 00:08:10.580
+Si ves este dr de punto f y alguien le pide evaluar
+
+00:08:10.580 --> 00:08:13.840
+Este dado que f es conservador, o dado que f
+
+00:08:13.840 --> 00:08:16.710
+es el gradiente de otra función, o dado que f es
+
+00:08:16.710 --> 00:08:19.960
+ruta independiente, puede ahora inmediatamente decir, que va
+
+00:08:19.960 --> 00:08:24.170
+ser equivalente a 0, lo cual simplifica bastante el cálculo.

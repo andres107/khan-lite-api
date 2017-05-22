@@ -1,0 +1,687 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.380
+(vacío)
+
+00:00:00.380 --> 00:00:03.460
+En este video quiero hablar acerca de de algo que probablemente
+
+00:00:03.460 --> 00:00:06.990
+es uno de los conceptos fundamentales y profundos en la estadística
+
+00:00:06.990 --> 00:00:08.560
+y tal vez en las matemáticas.
+
+00:00:08.560 --> 00:00:10.240
+Y éste es el Teorema del Límite Central.
+
+00:00:10.240 --> 00:00:16.940
+(vacío)
+
+00:00:16.940 --> 00:00:18.760
+Y lo que nos dice es que podemos empezar con cualquier distribución
+
+00:00:18.760 --> 00:00:22.100
+que tenga una media y varianza bien definida.
+
+00:00:22.100 --> 00:00:24.080
+Y si tiene una varianza bien definida,
+
+00:00:24.080 --> 00:00:24.850
+tiene una desviación estándar bien definida.
+
+00:00:24.850 --> 00:00:27.720
+Puede ser una distribución continua o una discreta.
+
+00:00:27.720 --> 00:00:30.100
+Dibujaré una discreta, sólo porque es más fácil de
+
+00:00:30.100 --> 00:00:32.920
+imaginar, al menos para los propósitos de este video.
+
+00:00:32.920 --> 00:00:35.170
+Entonces, digamos que tengo una función de distribución de
+
+00:00:35.170 --> 00:00:37.210
+probabilidad discreta.
+
+00:00:37.210 --> 00:00:39.630
+Y quiero ser muy cuidadoso de no hacerlo ver
+
+00:00:39.630 --> 00:00:41.640
+parecido a una distribución normal, porque quiero mostrarte
+
+00:00:41.640 --> 00:00:44.220
+el poder del Teorema del Límite Central.
+
+00:00:44.220 --> 00:00:45.440
+Digamos que tengo una distribución.
+
+00:00:45.440 --> 00:00:47.290
+Digamos que tomará valores entre 1 y
+
+00:00:47.290 --> 00:00:50.920
+1,2,3,4,5,6.
+
+00:00:50.920 --> 00:00:52.520
+Es algún tipo de "dado loco".
+
+00:00:52.520 --> 00:00:55.220
+Es muy común que el resultado sea 1, y digamos que es imposible
+
+00:00:55.220 --> 00:00:57.560
+--déjame dibujar una linea recta-- es muy probable
+
+00:00:57.560 --> 00:01:00.620
+obtener un 1, imposible obtener un 2,
+
+00:01:00.620 --> 00:01:03.350
+es más o menos probable obtener un 3 o 4.
+
+00:01:03.350 --> 00:01:04.560
+Digamos que es imposible obtener un 5.
+
+00:01:04.560 --> 00:01:07.850
+y digamos que es muy probable obtener un 6.
+
+00:01:07.850 --> 00:01:10.330
+Entonces esta es mi función de distribución de probabilidad.
+
+00:01:10.330 --> 00:01:12.830
+Si fuese a dibujar la media, esto es simétrico, luego tal vez la media
+
+00:01:12.830 --> 00:01:14.580
+sería algo así.
+
+00:01:14.580 --> 00:01:16.280
+La media sería en la mitad.
+
+00:01:16.280 --> 00:01:17.690
+Luego esa sería la media, ahí mismo.
+
+00:01:17.690 --> 00:01:20.020
+La desviación estándar, tal vez, se vería-- sería
+
+00:01:20.020 --> 00:01:22.720
+así de lejos, hacia arriba y abajo de la media.
+
+00:01:22.720 --> 00:01:25.080
+Pero esta es mi función de distribución
+
+00:01:25.080 --> 00:01:26.300
+de probabilidad discreta.
+
+00:01:26.300 --> 00:01:29.130
+Ahora, lo que voy a hacer acá, en vez de sólo tomar muestras
+
+00:01:29.130 --> 00:01:32.640
+de esta variable aleatoria que está descrita por esta función
+
+00:01:32.640 --> 00:01:35.690
+de distribución, voy a tomar muestras de ella.
+
+00:01:35.690 --> 00:01:38.670
+Pero voy a tomar el promedio de las muestras y luego voy a mirar
+
+00:01:38.670 --> 00:01:41.620
+esas muestras y ver la frecuencia de los promedios que obtengo.
+
+00:01:41.620 --> 00:01:43.170
+Y cuando digo promedio, me refiero a la media.
+
+00:01:43.170 --> 00:01:45.650
+Entonces digamos que --y déjame definir algo-- digamos que mi
+
+00:01:45.650 --> 00:01:48.620
+tamaño de la muestra, y puedo poner cualquier número aquí, pero digamos que
+
+00:01:48.620 --> 00:01:57.570
+primero tratamos con un tamaño de muestra n igual a 4.
+
+00:01:57.570 --> 00:01:59.440
+Y lo que esto significa es que voy a tomar 4
+
+00:01:59.440 --> 00:02:00.230
+muestras de esto.
+
+00:02:00.230 --> 00:02:02.990
+Digamos que la primera vez tomo 4 muestras.
+
+00:02:02.990 --> 00:02:04.100
+Entonces mi tamaño de muestra es 4.
+
+00:02:04.100 --> 00:02:07.880
+Supongamos que obtengo un 1, luego otro 1,
+
+00:02:07.880 --> 00:02:10.830
+luego un 3, y un 6.q
+
+00:02:10.830 --> 00:02:14.780
+Luego esta es mi primer muestra de la muestra de tamaño 4.
+
+00:02:14.780 --> 00:02:16.980
+Sé que la terminología puede resultar confusa, porque esto es
+
+00:02:16.980 --> 00:02:19.870
+una muestra que esta hecha de 4 muestras.
+
+00:02:19.870 --> 00:02:23.490
+Pero cuando hablamos acerca de la media muestral y la
+
+00:02:23.490 --> 00:02:25.770
+distribución de muestreo de la media muestral, de la cual hablaremos más y más
+
+00:02:25.770 --> 00:02:29.630
+en los siguientes videos, normalmente la muestra
+
+00:02:29.630 --> 00:02:32.850
+se refiere al conjunto de muestras de tu distribución.
+
+00:02:32.850 --> 00:02:36.210
+Y el tamaño de la muestra te dice cuántas realmente tomaste
+
+00:02:36.210 --> 00:02:37.100
+de tu distribución.
+
+00:02:37.100 --> 00:02:40.030
+Pero la terminología puede ser muy confusa porque puedes
+
+00:02:40.030 --> 00:02:42.330
+fácilmente ver uno de estos como una muestra.
+
+00:02:42.330 --> 00:02:43.990
+Pero estamos tomando 4 muestras de aquí.
+
+00:02:43.990 --> 00:02:45.690
+Tenemos un tamaño de muestra de 4.
+
+00:02:45.690 --> 00:02:47.920
+Y lo que voy a hacer es que voy a tomar el promedio de ellas.
+
+00:02:47.920 --> 00:02:50.880
+Entonces digamos que la media--Voy a ser muy cuidadoso cuando
+
+00:02:50.880 --> 00:02:55.100
+diga promedio-- cuál es la media de esta primera muestra de tamaño 4?
+
+00:02:55.100 --> 00:02:56.090
+1 más 1 es 2.
+
+00:02:56.090 --> 00:02:58.060
+2 más 3 es 5.
+
+00:02:58.060 --> 00:02:59.590
+5 más 6 es 11.
+
+00:02:59.590 --> 00:03:06.040
+11 dividido entre 4 es 2,75.
+
+00:03:06.040 --> 00:03:11.270
+Esta es mi primera media muestral de mi primer muestra de tamaño 4.
+
+00:03:11.270 --> 00:03:12.260
+Déjame hacer otra.
+
+00:03:12.260 --> 00:03:14.450
+Mi segundo muestra de tamaño 4.
+
+00:03:14.450 --> 00:03:20.650
+Digamos que obtengo un 3, un 4, otro 3,
+
+00:03:20.650 --> 00:03:21.790
+y digamos que obtengo un 1.
+
+00:03:21.790 --> 00:03:23.370
+Simplemente no ocurrió que obtuviéramos un 6 esta vez.
+
+00:03:23.370 --> 00:03:25.400
+Y tampoco un 2 o un 5.
+
+00:03:25.400 --> 00:03:27.120
+Eso es imposible para esta distribución.
+
+00:03:27.120 --> 00:03:28.770
+La probabilidad de obtener un 2 o un 5 es cero.
+
+00:03:28.770 --> 00:03:30.950
+Entonces no puedo tener ningún 2 o 5 por aquí.
+
+00:03:30.950 --> 00:03:37.610
+Entonces para esta segunda muestra de tamaño 4, mi media muestral--
+
+00:03:37.610 --> 00:03:41.580
+entonces mi segunda media muestral será 3 más 4, 7.
+
+00:03:41.580 --> 00:03:46.050
+7 más 3 es 10 más 1 es 11.
+
+00:03:46.050 --> 00:03:50.030
+11 dividido entre 4 es, una vez más, 2.75.
+
+00:03:50.030 --> 00:03:51.930
+Déjame hacer una más porque realmente quiero que quede claro
+
+00:03:51.930 --> 00:03:53.220
+lo que estamos haciendo aquí.
+
+00:03:53.220 --> 00:03:55.030
+Entonces haré una más -- realmente vamos a hacer muchísimas
+
+00:03:55.030 --> 00:03:57.030
+más, pero déjame hacer una más en detalle.
+
+00:03:57.030 --> 00:04:01.493
+Digamos que en mi tercer muestra de tamaño 4 obtengo --
+
+00:04:01.493 --> 00:04:03.480
+Voy a tomar 4 muestras en realidad.
+
+00:04:03.480 --> 00:04:06.450
+Entonces mi muestra esta conformada por 4 muestras de esta
+
+00:04:06.450 --> 00:04:08.120
+distribución loca y original.
+
+00:04:08.120 --> 00:04:13.070
+digamos que obtengo un 1, un 1, un 6 y otro 6.
+
+00:04:13.070 --> 00:04:18.620
+Entonces mi tercer media muestral será 1 más 1 es dos.
+
+00:04:18.620 --> 00:04:20.440
+2 más 6 es 8.
+
+00:04:20.440 --> 00:04:22.110
+8 más 6 es 14-
+
+00:04:22.110 --> 00:04:26.990
+14 divido entre 4 es 3,5.
+
+00:04:26.990 --> 00:04:29.780
+(vacío)
+
+00:04:29.780 --> 00:04:33.210
+y mientras estoy encontrando estas medias muestrales --entonces para cada una de
+
+00:04:33.210 --> 00:04:37.400
+mis muestras de tamaño 4 hallo la media-- y mientras hago cada una de ellas
+
+00:04:37.400 --> 00:04:40.300
+voy a graficarlas en una distribución de frecuencia.
+
+00:04:40.300 --> 00:04:43.990
+Y esto va a sorprenderte en algunos segundos.
+
+00:04:43.990 --> 00:04:46.390
+Entonces grafico todo en una distribución de frecuencia.
+
+00:04:46.390 --> 00:04:49.350
+Digamos, que en mi primera muestra
+
+00:04:49.350 --> 00:04:52.190
+la media muestral fue 2,75.
+
+00:04:52.190 --> 00:04:54.880
+Entonces voy a graficar la verdadera frecuencia de las medias muestrales
+
+00:04:54.880 --> 00:04:55.800
+que obtuve de cada muestra.
+
+00:04:55.800 --> 00:04:58.510
+Entonces 2,57 la obtuve una vez.
+
+00:04:58.510 --> 00:04:59.720
+Entonces pondré una pequeña gráfica aquí.
+
+00:04:59.720 --> 00:05:01.940
+Luego esta es de esa.
+
+00:05:01.940 --> 00:05:04.790
+Y la siguiente vez también obtuve un 2,75.
+
+00:05:04.790 --> 00:05:07.060
+Esto es un 2,75 ahí.
+
+00:05:07.060 --> 00:05:08.050
+Luego lo obtuve dos veces.
+
+00:05:08.050 --> 00:05:10.090
+Entonces voy a graficar la frecuencia.
+
+00:05:10.090 --> 00:05:11.130
+Luego obtuve un 3,5.
+
+00:05:11.130 --> 00:05:14.080
+Entonces todos los valores possibles, Puedo tener un 3, puedo obtener
+
+00:05:14.080 --> 00:05:16.910
+un 3,25, puedo obtener un 3,5.
+
+00:05:16.910 --> 00:05:19.720
+Luego tengo un 3,5, entonces lo graficaré aquí.
+
+00:05:19.720 --> 00:05:21.420
+Y lo que voy a hacer es que voy a seguir
+
+00:05:21.420 --> 00:05:22.510
+tomando estas muestras.
+
+00:05:22.510 --> 00:05:25.000
+Tal vez 10.000.
+
+00:05:25.000 --> 00:05:26.880
+Entonces seguiré tomando estas muestras.
+
+00:05:26.880 --> 00:05:29.770
+Entonces tomaré todo el camino hasta 10.000.
+
+00:05:29.770 --> 00:05:31.170
+Haré un montón de éstas.
+
+00:05:31.170 --> 00:05:33.840
+Y como se va a ver a través del tiempo es que cada uno de éstos.
+
+00:05:33.840 --> 00:05:37.200
+Voy a hacer un punto porque voy a tener que enfocar hacia afuera.
+
+00:05:37.200 --> 00:05:41.430
+Si lo miro así, a través del tiempo, sigue teniendo todos
+
+00:05:41.430 --> 00:05:43.180
+los valores que pueden ser posibles resultados.
+
+00:05:43.180 --> 00:05:44.950
+Tu sabes, 2,75 puede estar ahí.
+
+00:05:44.950 --> 00:05:48.605
+Entonces el primer punto será esta aquí mismo,
+
+00:05:48.605 --> 00:05:51.690
+y el segundo está aquí
+
+00:05:51.690 --> 00:05:56.530
+y luego este en 3,5 estará ahí mismo.
+
+00:05:56.530 --> 00:05:57.830
+Pero lo voy a hacer 10.000 veces, entonces
+
+00:05:57.830 --> 00:05:58.990
+voy a tener 10.000.
+
+00:05:58.990 --> 00:06:00.170
+y digamos que mientras lo hago, voy a
+
+00:06:00.170 --> 00:06:01.500
+seguir graficándolos.
+
+00:06:01.500 --> 00:06:04.470
+Simplemente voy a seguir graficando las frecuencias.
+
+00:06:04.470 --> 00:06:06.510
+Voy a seguir graficandolas una
+
+00:06:06.510 --> 00:06:07.820
+y otra vez.
+
+00:06:07.820 --> 00:06:10.480
+Y lo que verás es que a medida que tomo muchas
+
+00:06:10.480 --> 00:06:12.760
+muestras de tamaño 4.
+
+00:06:12.760 --> 00:06:14.630
+voy a tener algo que se va a empezar a
+
+00:06:14.630 --> 00:06:18.060
+aproximar a una distribución normal.
+
+00:06:18.060 --> 00:06:22.500
+Entonces cada uno de estos puntos representa una incidencia de una media muestral.
+
+00:06:22.500 --> 00:06:24.830
+entonces a medida que siga agregando en esta columna, esto significa
+
+00:06:24.830 --> 00:06:27.560
+que seguí obteniendo una media muestral de 2,75.
+
+00:06:27.560 --> 00:06:30.420
+Entonces a través del tiempo voy a tener algo que
+
+00:06:30.420 --> 00:06:32.740
+se aproxima a una distribución normal.
+
+00:06:32.740 --> 00:06:36.120
+Y esta es un resultado muy buena onda acerca del Teorema del límite Central.
+
+00:06:36.120 --> 00:06:39.380
+Entonces el Teorema --y en este caso, para-- entonces
+
+00:06:39.380 --> 00:06:42.190
+en naranja, ese es el caso para n igual a 4.
+
+00:06:42.190 --> 00:06:45.350
+Esto era para tamaño de la muestra de tamaño 4.
+
+00:06:45.350 --> 00:06:49.590
+Ahora si hiciera la misma cosa con un tamaño de muestra de 20..
+
+00:06:49.590 --> 00:06:52.210
+Luego en este caso, en vez de tomar sólo 4 muestras de mi
+
+00:06:52.210 --> 00:06:56.840
+distribución loca y original, cada muestra tendría 20
+
+00:06:56.840 --> 00:07:00.440
+datos de mi variable aleatoria y tomando el promedio de éstos 20, y luego
+
+00:07:00.440 --> 00:07:02.950
+graficando la media muestral.
+
+00:07:02.950 --> 00:07:04.770
+Luego en este caso, Voy a obtener una distribución
+
+00:07:04.770 --> 00:07:06.600
+que se verá así.
+
+00:07:06.600 --> 00:07:08.580
+Y lo discutiremos en más videos.
+
+00:07:08.580 --> 00:07:12.600
+Pero resulta que si fuera a graficar 10.000 de las medias muestrales
+
+00:07:12.600 --> 00:07:15.380
+aquí, voy a tener algo así--dos cosas:
+
+00:07:15.380 --> 00:07:17.960
+estará aún más aproximada a una
+
+00:07:17.960 --> 00:07:18.750
+distribución normal.
+
+00:07:18.750 --> 00:07:20.350
+Y vamos a ver en videos futuros, que realmente
+
+00:07:20.350 --> 00:07:24.210
+va a tener más pequeña-- bueno, déjame ser claro--
+
+00:07:24.210 --> 00:07:25.780
+Va a tener la misma media.
+
+00:07:25.780 --> 00:07:26.570
+Entonces ésta es la media.
+
+00:07:26.570 --> 00:07:28.660
+Esto va a tener la misma media.
+
+00:07:28.660 --> 00:07:30.730
+Va a tener una desviación estándar menor.
+
+00:07:30.730 --> 00:07:33.790
+Entonces debería graficar éstos desde el fondo,
+
+00:07:33.790 --> 00:07:34.500
+porque se están apilando.
+
+00:07:34.500 --> 00:07:36.780
+primero obtienes uno, y luego otro dato, y luego otro dato.
+
+00:07:36.780 --> 00:07:38.990
+Pero este se estará acercando más y más a
+
+00:07:38.990 --> 00:07:40.320
+una distribución normal.
+
+00:07:40.320 --> 00:07:44.250
+Entonces la realidad es que--y esto es lo que es muy buena onda
+
+00:07:44.250 --> 00:07:53.040
+acerca del teorema del límite central, es que a medida que tu tamaño de muestra sea más grande,
+
+00:07:53.040 --> 00:07:55.250
+o inclusive puedes decir que se acerque a infinito,
+
+00:07:55.250 --> 00:07:57.560
+(pero tu realmente no tienes que estar tan cerca de infinito para tener un
+
+00:07:57.560 --> 00:07:58.740
+resultado cerca de una distribución normal.
+
+00:07:58.740 --> 00:08:01.820
+Inclusive si tienes tamaños de muestras de 10 o 20,
+
+00:08:01.820 --> 00:08:04.320
+vas a estar cerca de una distribución normal.
+
+00:08:04.320 --> 00:08:06.500
+De hecho, será una aproximación tan bueno como las
+
+00:08:06.500 --> 00:08:07.375
+que vemos día a día.
+
+00:08:07.375 --> 00:08:09.970
+Pero lo que es muy buena onda que podemos empezar con cualquier
+
+00:08:09.970 --> 00:08:11.290
+distribución loca, no?
+
+00:08:11.290 --> 00:08:13.860
+Esto no tiene nada que ver con una distribución normal.
+
+00:08:13.860 --> 00:08:16.160
+Pero si tenemos un tamaño de muestra -- en este caso era n=4--
+
+00:08:16.160 --> 00:08:19.980
+pero si tenemos un tamaño de muestra de n igual a 10, o igual a 100, y fuéramos a
+
+00:08:19.980 --> 00:08:23.360
+tomar 100 de éstos, en vez de 4, y tomarles el promedio
+
+00:08:23.360 --> 00:08:25.050
+y graficarlos en la frecuencia.
+
+00:08:25.050 --> 00:08:27.270
+y luego tomáramos 100 de nuevo, los promediáramos,
+
+00:08:27.270 --> 00:08:28.500
+tomáramos la media, y graficáramos de nuevo.
+
+00:08:28.500 --> 00:08:30.700
+Y se hiciéramos eso muchas veces, de hecho,
+
+00:08:30.700 --> 00:08:32.940
+si lo hiciéramos un número infinito de veces, encontraríamos--
+
+00:08:32.940 --> 00:08:35.300
+especialmente si tuviéramos un tamaño de muestra infinito--
+
+00:08:35.300 --> 00:08:37.730
+encontraríamos la distribución normal perfecta.
+
+00:08:37.730 --> 00:08:39.300
+Esta es la parte loca.
+
+00:08:39.300 --> 00:08:42.370
+Y no solamente aplica tomando la media muestral.
+
+00:08:42.370 --> 00:08:44.755
+Esta vez tomamos la media muestral cada vez, pero también pudimos haber tomado
+
+00:08:44.755 --> 00:08:46.530
+la suma muestral.
+
+00:08:46.530 --> 00:08:48.740
+El Teorema de Límite Central seguiría aplicando.
+
+00:08:48.740 --> 00:08:51.070
+Pero esto es lo que es tan útil acerca de esto.
+
+00:08:51.070 --> 00:08:54.250
+Porque en la vida hay muchos tipos de procesos,
+
+00:08:54.250 --> 00:08:57.370
+Proteínas chocándose contra otras, personas haciendo
+
+00:08:57.370 --> 00:09:00.860
+cosas locas, humanos interactuando de extrañas maneras.
+
+00:09:00.860 --> 00:09:02.720
+Y no sabes la función de distribución de probabilidad
+
+00:09:02.720 --> 00:09:04.360
+de ninguna de estas cosas.
+
+00:09:04.360 --> 00:09:07.010
+Pero el Teorema del límite Central nos dice es que si
+
+00:09:07.010 --> 00:09:09.880
+tomamos muchas de estas acciones y las juntamos, asumiendo
+
+00:09:09.880 --> 00:09:12.550
+que todas tienen la misma distribución, o si tomáramos la media
+
+00:09:12.550 --> 00:09:15.010
+de todas esas acciones juntas y graficáramos
+
+00:09:15.010 --> 00:09:18.160
+la frecuencia de esas medias, obtenemos una
+
+00:09:18.160 --> 00:09:18.740
+distribución normal.
+
+00:09:18.740 --> 00:09:22.350
+Y esto es lo que es francamente hace que la distribución normal
+
+00:09:22.350 --> 00:09:26.720
+se vea tanto en estadística y realmente es una muy buena aproximación
+
+00:09:26.720 --> 00:09:29.980
+de la suma de las medias de muchos
+
+00:09:29.980 --> 00:09:31.370
+procesos.
+
+00:09:31.370 --> 00:09:34.430
+Distribución Normal.
+
+00:09:34.430 --> 00:09:36.253
+Lo que te voy a mostrar en los siguientes videos es, realmente
+
+00:09:36.253 --> 00:09:37.640
+voy a mostrarte que esto es una realidad.
+
+00:09:37.640 --> 00:09:40.520
+Que mientras incrementes tu tamaño de muestra, mientras incrementes
+
+00:09:40.520 --> 00:09:43.410
+tu n, mientras tomes muchas muestras, vas a tener
+
+00:09:43.410 --> 00:09:46.470
+una gráfica de frecuencia que se parecerá mucho
+
+00:09:46.470 --> 00:09:48.190
+a una distribución normal.
+
+00:09:48.190 --> 00:09:48.322
+(vacío)

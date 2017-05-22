@@ -1,0 +1,801 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.430
+...
+
+00:00:00.430 --> 00:00:02.760
+Estamos en el problema 21.
+
+00:00:02.760 --> 00:00:05.330
+En la figura de abajo, n es un númro entero.
+
+00:00:05.330 --> 00:00:05.880
+Bien.
+
+00:00:05.880 --> 00:00:08.720
+¿Cuál es el menor valor posible para n?
+
+00:00:08.720 --> 00:00:10.650
+Ok, ambos lados valen n.
+
+00:00:10.650 --> 00:00:12.380
+Y es algo realmente bueno para
+
+00:00:12.380 --> 00:00:13.190
+entenderlo.
+
+00:00:13.190 --> 00:00:15.870
+Porque esto aparece en muchos tipos de tests.
+
+00:00:15.870 --> 00:00:18.550
+Así que pensemos sobre como de pequeño podemos hacer el valor de n.
+
+00:00:18.550 --> 00:00:22.600
+Y mientras más baja sea la cima de la piramide,
+
+00:00:22.600 --> 00:00:24.550
+más bajo se vuelve el valor de n.
+
+00:00:24.550 --> 00:00:27.130
+Si pusiéramos la cima de la piramide muy alta, entonces n
+
+00:00:27.130 --> 00:00:29.720
+tendría que ser enorme.
+
+00:00:29.720 --> 00:00:33.688
+Por ejemplo, si convertimos el triángulo en esto,
+
+00:00:33.688 --> 00:00:37.380
+entonces claramente, esta longitud es menor que esa.
+
+00:00:37.380 --> 00:00:41.540
+Queremos seguir disminuyendo la altura para conseguir el n más pequeño posible.
+
+00:00:41.540 --> 00:00:43.310
+¿Pero que pasa si la hacemos lo más pequeña posible?
+
+00:00:43.310 --> 00:00:45.350
+Si alisamos el triangulo.
+
+00:00:45.350 --> 00:00:48.970
+Si lo alisamos del todo.
+
+00:00:48.970 --> 00:00:51.690
+Esencialmente esto sería su cima y esto podría
+
+00:00:51.690 --> 00:00:53.080
+ser n.
+
+00:00:53.080 --> 00:00:54.780
+Espero que lo estés visualizando adecuadamente.
+
+00:00:54.780 --> 00:00:56.520
+He alisado el triángulo
+
+00:00:56.520 --> 00:00:59.840
+Así que estos dos lado simplemente caen en la base.
+
+00:00:59.840 --> 00:01:02.010
+Y la cima, si la coloreara
+
+00:01:02.010 --> 00:01:06.420
+de magenta, está justo aquí.
+
+00:01:06.420 --> 00:01:09.170
+Así que esto es lo más pequeño que n puede ser.
+
+00:01:09.170 --> 00:01:11.920
+Se podría discutir si esto sigue siendo un triangulo.
+
+00:01:11.920 --> 00:01:14.340
+Realmente ahora es una línea, ya que he eliminado
+
+00:01:14.340 --> 00:01:15.530
+todo el área que contenía.
+
+00:01:15.530 --> 00:01:19.070
+Pero incluso en este caso, n se habría convertido,
+
+00:01:19.070 --> 00:01:21.220
+en el valor más pequeño, que sería 7,5
+
+00:01:21.220 --> 00:01:25.050
+Cada n sería la mitad de este 15.
+
+00:01:25.050 --> 00:01:29.610
+Así que, al empujar la base, ese será el limite
+
+00:01:29.610 --> 00:01:30.390
+al que n tiende.
+
+00:01:30.390 --> 00:01:33.950
+n no puede ser más pequeño que 7.5
+
+00:01:33.950 --> 00:01:37.640
+Y el enunciado dice que n es un número entero.
+
+00:01:37.640 --> 00:01:41.500
+Así que n tiene que ser mayor que 7,5 para
+
+00:01:41.500 --> 00:01:43.680
+que esto sea un triángulo.
+
+00:01:43.680 --> 00:01:47.460
+y n es un número entero, así que n es igual a 8.
+
+00:01:47.460 --> 00:01:48.880
+Eso es la opción c.
+
+00:01:48.880 --> 00:01:50.920
+Y esto es un concepto importante a poseer en general:
+
+00:01:50.920 --> 00:01:54.830
+El tercer lado de un triángulo nunca puede ser mayor
+
+00:01:54.830 --> 00:01:57.100
+que los otros dos lados combinados.
+
+00:01:57.100 --> 00:01:58.540
+Si no estarías tratatando con otra cosa
+
+00:01:58.540 --> 00:02:01.010
+que no sería un triángulo.
+
+00:02:01.010 --> 00:02:04.020
+Incluso si el tercer lado fuera igual que los otros dos,
+
+00:02:04.020 --> 00:02:05.190
+estarías considerando una línea.
+
+00:02:05.190 --> 00:02:07.980
+Porque tienes que eliminar todo el área del
+
+00:02:07.980 --> 00:02:10.910
+triangulo para conseguirlo.
+
+00:02:10.910 --> 00:02:13.520
+De cualquier forma, me gusta este problema.
+
+00:02:13.520 --> 00:02:16.770
+Siguiente pregunta.
+
+00:02:16.770 --> 00:02:18.860
+Creo, con solo mirarlo por encima, que quieren
+
+00:02:18.860 --> 00:02:20.330
+que hagamos lo mismo.
+
+00:02:20.330 --> 00:02:21.580
+Mismo tipo de concepto.
+
+00:02:21.580 --> 00:02:24.270
+...
+
+00:02:24.270 --> 00:02:27.170
+Tengo un discurso en mi último video sobre como
+
+00:02:27.170 --> 00:02:30.090
+no se hacen problemas que te proporcionan un
+
+00:02:30.090 --> 00:02:31.420
+concepto o te examinan sobre un concepto.
+
+00:02:31.420 --> 00:02:33.650
+Pero retirare lo dicho, porque creo que eso es lo
+
+00:02:33.650 --> 00:02:35.010
+que se está poniendo a test hoy,
+
+00:02:35.010 --> 00:02:38.250
+Cual de los siguientes conjuntos de números puede representar las
+
+00:02:38.250 --> 00:02:40.760
+longitudes de los lados de un triángulo.
+
+00:02:40.760 --> 00:02:41.670
+2, 2 y 5.
+
+00:02:41.670 --> 00:02:43.190
+Estamos en el mismo problema de nuevo.
+
+00:02:43.190 --> 00:02:47.150
+Cómo puedo tener dos lados de un triangulo que
+
+00:02:47.150 --> 00:02:48.200
+sumados sean menores que el tercer lado.
+
+00:02:48.200 --> 00:02:51.590
+Y so tuviera una longitud de 2, y entonces otro lado
+
+00:02:51.590 --> 00:02:55.620
+de longitud 2, no hay forma de que el último lado sea 5,
+
+00:02:55.620 --> 00:02:59.780
+Incluso si alisara del todo el triángulo, 2 y 2, el
+
+00:02:59.780 --> 00:03:01.615
+lo más grande que el último lado podría ser,
+
+00:03:01.615 --> 00:03:03.500
+sería 4.
+
+00:03:03.500 --> 00:03:05.970
+Así que esto no puede ser un triángulo.
+
+00:03:05.970 --> 00:03:07.500
+Siguiendo con esto, observemos las otras opciones.
+
+00:03:07.500 --> 00:03:08.360
+3, 3 y 5.
+
+00:03:08.360 --> 00:03:11.970
+No hay razón por la que no pudiera ser un triángulo.
+
+00:03:11.970 --> 00:03:13.260
+3, 3 y 6.
+
+00:03:13.260 --> 00:03:16.590
+Si alisáramos el triángulo, el lado mayor sería
+
+00:03:16.590 --> 00:03:17.920
+como mucho 6.
+
+00:03:17.920 --> 00:03:21.590
+y obviamente puedo juntarlos así
+
+00:03:21.590 --> 00:03:24.550
+3 y 3, y entonces esta pequeño tercer lado sería algo
+
+00:03:24.550 --> 00:03:25.030
+realmente pequeño.
+
+00:03:25.030 --> 00:03:27.970
+porque es cualquier cosa entre 0 y 6.
+
+00:03:27.970 --> 00:03:29.210
+así que obviamente puede ser 5.
+
+00:03:29.210 --> 00:03:31.900
+Así que esa va a ser la respuesta.
+
+00:03:31.900 --> 00:03:32.950
+4, 4 y 8.
+
+00:03:32.950 --> 00:03:33.840
+Mismo problema
+
+00:03:33.840 --> 00:03:36.515
+Podría aplastar el triángulo mucho,
+
+00:03:36.515 --> 00:03:40.890
+pero si estos son dos de los lados, 4 y 4, el
+
+00:03:40.890 --> 00:03:42.590
+último seguirá siendo menor que 8.
+
+00:03:42.590 --> 00:03:45.370
+La única forma de que sea 8 es si presiono la cima
+
+00:03:45.370 --> 00:03:49.280
+hacia abajo y lo convierto en una línea.
+
+00:03:49.280 --> 00:03:51.830
+De nuevo, un lado del triánculo no puede ser mayor
+
+00:03:51.830 --> 00:03:52.860
+que la suma de los otros dos lados.
+
+00:03:52.860 --> 00:03:54.360
+De hecho, no puede ser igual
+
+00:03:54.360 --> 00:03:55.320
+a la suma de los otros dos lados.
+
+00:03:55.320 --> 00:03:56.920
+Eso sería una línea.
+
+00:03:56.920 --> 00:03:58.890
+Así que de nuevo el mismo concepto,
+
+00:03:58.890 --> 00:04:01.890
+y la opción correcta es la B.
+
+00:04:01.890 --> 00:04:05.080
+23.
+
+00:04:05.080 --> 00:04:06.330
+Lo estoy copiando y pegando.
+
+00:04:06.330 --> 00:04:09.350
+...
+
+00:04:09.350 --> 00:04:10.770
+OK.
+
+00:04:10.770 --> 00:04:13.220
+Intento no hablar cuando estoy copiando y pegando
+
+00:04:13.220 --> 00:04:15.630
+porque creo que ralentiza mi ordenador.
+
+00:04:15.630 --> 00:04:19.910
+En el diagrama las líneas paralelas L y M son
+
+00:04:19.910 --> 00:04:21.760
+cortadas por la línea transversal T.
+
+00:04:21.760 --> 00:04:23.860
+Así que estamos ante un problema clásico de
+
+00:04:23.860 --> 00:04:25.300
+líneas paralelas con un corte transversal.
+
+00:04:25.300 --> 00:04:26.050
+Y son paralelas
+
+00:04:26.050 --> 00:04:27.760
+Es por lo que hice esas flechas
+
+00:04:27.760 --> 00:04:31.575
+¿Que frase sobre el angulo 1 y 2 es cierta?
+
+00:04:31.575 --> 00:04:34.120
+...
+
+00:04:34.120 --> 00:04:36.350
+No sé si has visto los videos de la academía Khan
+
+00:04:36.350 --> 00:04:38.290
+sobre el juego de los angulos, pero eso es lo que vamos
+
+00:04:38.290 --> 00:04:40.720
+a jugar aquí, el juego del ángulo.
+
+00:04:40.720 --> 00:04:44.670
+Así que ángulo 1, si quieres buscar su correspondiente
+
+00:04:44.670 --> 00:04:48.020
+ángulo, en la otra paralela, o
+
+00:04:48.020 --> 00:04:49.340
+con la transversal y la otra paralela
+
+00:04:49.340 --> 00:04:50.980
+está justo aquí.
+
+00:04:50.980 --> 00:04:52.580
+Y van a ser congruentes.
+
+00:04:52.580 --> 00:04:54.710
+Estos dos ángulos van a ser congruentes.
+
+00:04:54.710 --> 00:04:58.790
+Así que puedes decir que esto es igual a la medida del ángulo 1.
+
+00:04:58.790 --> 00:05:03.530
+He escogido la terminología bien, creo.
+
+00:05:03.530 --> 00:05:05.380
+Así que esto es igual a la medida del ángulo 1.
+
+00:05:05.380 --> 00:05:08.070
+Y esto es obviamente el ángulo 2.
+
+00:05:08.070 --> 00:05:11.380
+Se ve inmediatamente que son suplementarios.
+
+00:05:11.380 --> 00:05:16.450
+Porque si los sumas tendrás 180 grados.
+
+00:05:16.450 --> 00:05:19.310
+Juntos forman
+
+00:05:19.310 --> 00:05:21.960
+una línea
+
+00:05:21.960 --> 00:05:24.700
+Así que sabes que este ángulo y éste son
+
+00:05:24.700 --> 00:05:25.050
+suplementarios.
+
+00:05:25.050 --> 00:05:28.330
+Y si este angulo es congruente al ángulo 1, entonces
+
+00:05:28.330 --> 00:05:31.330
+el ángulo 1 y el 2 deben ser suplementarios.
+
+00:05:31.330 --> 00:05:32.760
+¿Así que, qué dicen?
+
+00:05:32.760 --> 00:05:34.600
+El ángulo 1 no es necesariamente
+
+00:05:34.600 --> 00:05:36.610
+congruente al ángulo 2.
+
+00:05:36.610 --> 00:05:38.370
+Es congruente a este ángulo aquí.
+
+00:05:38.370 --> 00:05:40.980
+El ángulo 1 es complementario al ángulo 2.
+
+00:05:40.980 --> 00:05:42.390
+Complementario significa que suman 90 grados.
+
+00:05:42.390 --> 00:05:44.060
+No, nosotros sabemos que son suplementarios.
+
+00:05:44.060 --> 00:05:45.750
+Así que esa no es.
+
+00:05:45.750 --> 00:05:47.630
+El ángulo 1 es suplementario al ángulo 2.
+
+00:05:47.630 --> 00:05:49.090
+Esa si que es.
+
+00:05:49.090 --> 00:05:50.750
+Y no hay nada que diga que son ángulos derechos.
+
+00:05:50.750 --> 00:05:51.990
+Esa es absurda.
+
+00:05:51.990 --> 00:05:53.240
+Bien, siguiente problema.
+
+00:05:53.240 --> 00:05:58.620
+...
+
+00:05:58.620 --> 00:06:02.210
+Copiando y pegando...
+
+00:06:02.210 --> 00:06:04.160
+OK.
+
+00:06:04.160 --> 00:06:06.810
+Lo pego.
+
+00:06:06.810 --> 00:06:08.130
+Listo.
+
+00:06:08.130 --> 00:06:11.370
+¿Qué valores -- permiteme coger un buen color -- Que valores de A
+
+00:06:11.370 --> 00:06:16.070
+y B hacen el cuadrilatero MNOP un paralelogramo?
+
+00:06:16.070 --> 00:06:17.620
+Para que esto sea un paralelogramo,
+
+00:06:17.620 --> 00:06:18.890
+los lados opuestos tienen que ser iguales.
+
+00:06:18.890 --> 00:06:21.790
+Yo te reto a que intentes dibujar un
+
+00:06:21.790 --> 00:06:23.830
+paralelogramo con los lados opuestos son paralelos
+
+00:06:23.830 --> 00:06:26.120
+donde los otros lados no sean iguales.
+
+00:06:26.120 --> 00:06:29.110
+si haces dos de los lados distintos, entonces
+
+00:06:29.110 --> 00:06:30.550
+las otras dos líneas no serán ya paralelas.
+
+00:06:30.550 --> 00:06:32.190
+Y puedes jugar con ello si quieres...
+
+00:06:32.190 --> 00:06:34.070
+Pero si los lados opuestos tienen que ser iguales
+
+00:06:34.070 --> 00:06:40.820
+eso significa que 4A + B = 21.
+
+00:06:40.820 --> 00:06:42.570
+Porque son lados opuestos, así que tienen que ser
+
+00:06:42.570 --> 00:06:43.780
+iguales entre sí.
+
+00:06:43.780 --> 00:06:47.370
+De igual forma, 3A - 2B = 13 porque son
+
+00:06:47.370 --> 00:06:48.860
+lados opuestos.
+
+00:06:48.860 --> 00:06:54.750
+así que 3A - 2B = 13
+
+00:06:54.750 --> 00:06:57.400
+Tenemos dos ecuaciones lineales con dos incónitas.
+
+00:06:57.400 --> 00:07:00.460
+Así que es un problema de Algebra 1 disfrazado.
+
+00:07:00.460 --> 00:07:03.860
+Veamos, quieren que lo resolvamos para ambas.
+
+00:07:03.860 --> 00:07:04.900
+A ver si podemos cancelar B.
+
+00:07:04.900 --> 00:07:09.930
+Multipliquemos esta ecuación de arriba por 2.
+
+00:07:09.930 --> 00:07:11.980
+Lo hago para cancelar las B's.
+
+00:07:11.980 --> 00:07:22.570
+Así que tenamos que 8A + 2B = 42.
+
+00:07:22.570 --> 00:07:25.720
+Hice esto para que 2B - 2B se cancelen.
+
+00:07:25.720 --> 00:07:27.750
+Así que sumemos las dos ecuaciones.
+
+00:07:27.750 --> 00:07:32.850
+En el lado izquierdo tenemos que 3A + 8A = 11A
+
+00:07:32.850 --> 00:07:36.900
+Las B's se cancelan: -2B + 2B no quedan B's
+
+00:07:36.900 --> 00:07:41.720
+Todo ello igual a 42 + 13 = 55
+
+00:07:41.720 --> 00:07:43.070
+Funcionó.
+
+00:07:43.070 --> 00:07:47.380
+Y si dividimos ambos lados por 11 tenemos que A = 5.
+
+00:07:47.380 --> 00:07:49.460
+Si A = 5, ¿Cuánto es B?
+
+00:07:49.460 --> 00:07:52.100
+Sustituyamoslo en la primera ecuacion.
+
+00:07:52.100 --> 00:07:54.290
+Aunque podríamos coger cualquiera.
+
+00:07:54.290 --> 00:07:59.940
+Así que 4 veces 5 más B es igual a 21.
+
+00:07:59.940 --> 00:08:03.150
+20 + B = 21.
+
+00:08:03.150 --> 00:08:06.220
+Restamos B de ambos lados... B = 1.
+
+00:08:06.220 --> 00:08:08.340
+Así que A es 5, B es 1.
+
+00:08:08.340 --> 00:08:10.950
+Esa es la opción B.
+
+00:08:10.950 --> 00:08:15.580
+Problema 25.
+
+00:08:15.580 --> 00:08:17.300
+Creo que tengo que limpiar esto ahora.
+
+00:08:17.300 --> 00:08:27.700
+...
+
+00:08:27.700 --> 00:08:30.960
+El cuadrilatero ABCD es un paralelogramo
+
+00:08:30.960 --> 00:08:34.010
+Si los ángulos adyacentes son congruentes.
+
+00:08:34.010 --> 00:08:35.970
+¿Qué afirmación es verdadera?
+
+00:08:35.970 --> 00:08:37.570
+Bién.
+
+00:08:37.570 --> 00:08:39.750
+Déjame pintar un paralelogramo,
+
+00:08:39.750 --> 00:08:41.860
+lo haré rapido y en sucio.
+
+00:08:41.860 --> 00:08:46.210
+Así que en un paralelogramo sus lados son paralelos.
+
+00:08:46.210 --> 00:08:50.490
+Eso es paralelo a esto y esto es paralelo eso.
+
+00:08:50.490 --> 00:08:51.800
+Pero nos dan otra afirmación.
+
+00:08:51.800 --> 00:08:53.690
+dicen que los lados adyacentes son congruentes
+
+00:08:53.690 --> 00:08:58.930
+...
+
+00:08:58.930 --> 00:09:02.760
+Así que esto es congruente a esto otro.
+
+00:09:02.760 --> 00:09:04.570
+Pone si los ángulos adjacentes son congruentes...
+
+00:09:04.570 --> 00:09:06.200
+así que no sé si dicen que solo lo es uno de ellos
+
+00:09:06.200 --> 00:09:06.660
+o todos.
+
+00:09:06.660 --> 00:09:07.590
+Pero es lo mismo en realidad.
+
+00:09:07.590 --> 00:09:09.970
+Si este angulo es congruente a este,
+
+00:09:09.970 --> 00:09:11.840
+algo interesante pasará.
+
+00:09:11.840 --> 00:09:13.520
+Ambos tienen que tener 90 grados.
+
+00:09:13.520 --> 00:09:14.940
+Y quiero que lo pienses un poco...
+
+00:09:14.940 --> 00:09:17.350
+Así que dejame dibujar la parte de abajo
+
+00:09:17.350 --> 00:09:18.600
+del paralelogramo
+
+00:09:18.600 --> 00:09:26.380
+...
+
+00:09:26.380 --> 00:09:30.450
+Y dibuje más, así que si dices que esta linea de
+
+00:09:30.450 --> 00:09:31.700
+aquí es transversal.
+
+00:09:31.700 --> 00:09:35.330
+...
+
+00:09:35.330 --> 00:09:37.370
+Y desde que nos hallamos frente a un paralelogramo
+
+00:09:37.370 --> 00:09:39.155
+sabemos que esta línea es paralela a esta otra.
+
+00:09:39.155 --> 00:09:44.430
+...
+
+00:09:44.430 --> 00:09:47.320
+Así que tenemos un transversal entre líneas paralelas.
+
+00:09:47.320 --> 00:09:50.310
+Este ángulo es congruente a ese otro, son
+
+00:09:50.310 --> 00:09:51.810
+ángulos correspondientes
+
+00:09:51.810 --> 00:09:55.670
+Y este ángulo es suplementario a este otro.
+
+00:09:55.670 --> 00:09:57.620
+Suman 180 grados.
+
+00:09:57.620 --> 00:10:00.910
+Así que este ángulo, el rojo, y este marrón tienen
+
+00:10:00.910 --> 00:10:01.770
+que ser suplementarios.
+
+00:10:01.770 --> 00:10:04.760
+O podríamos decir que el ángulo 1 y el 2
+
+00:10:04.760 --> 00:10:07.200
+tienen que sumar 180 grados
+
+00:10:07.200 --> 00:10:11.480
+La medida del ángulo 1 más la del ángulo 2 tiene
+
+00:10:11.480 --> 00:10:13.060
+que ser igual a 180
+
+00:10:13.060 --> 00:10:14.020
+Pero nos dicen incluso más
+
+00:10:14.020 --> 00:10:15.880
+Dicen que son congruentes.
+
+00:10:15.880 --> 00:10:17.470
+Estos son ángulos adyacentes, ¿Verdad?
+
+00:10:17.470 --> 00:10:18.950
+Éste es ángulo 1 éste es ángulo 2.
+
+00:10:18.950 --> 00:10:19.910
+Son adjacentes.
+
+00:10:19.910 --> 00:10:23.320
+Así que si ambos son congruentes, si sus medidas
+
+00:10:23.320 --> 00:10:28.310
+son iguales entre sí, ambos tienen que ser 90 grados.
+
+00:10:28.310 --> 00:10:31.290
+Así que si ángulos adyacentes son congruentes
+
+00:10:31.290 --> 00:10:33.430
+en el paralelogramos, esos ángulos tienen que ser 90.
+
+00:10:33.430 --> 00:10:35.760
+Y si esos ángulos valen 90, estos también valdrán 90
+
+00:10:35.760 --> 00:10:36.990
+por el mismo argumento.
+
+00:10:36.990 --> 00:10:39.430
+Así que no estamos lidiando solo con un paralelogramo.
+
+00:10:39.430 --> 00:10:41.815
+No lo quería pintar relleno.
+
+00:10:41.815 --> 00:10:44.170
+Salió mal.
+
+00:10:44.170 --> 00:10:46.330
+Es un rectangulo.
+
+00:10:46.330 --> 00:10:48.070
+El cuadrilatero ABCD es un cuadrado.
+
+00:10:48.070 --> 00:10:50.550
+Podría ser un cuadrado, pero para ello
+
+00:10:50.550 --> 00:10:52.000
+tendrían que decir que todos sus lados son
+
+00:10:52.000 --> 00:10:53.040
+iguales entre sí.
+
+00:10:53.040 --> 00:10:55.510
+Así que no es A.
+
+00:10:55.510 --> 00:10:57.350
+Podría ser, pero no tiene porqué.
+
+00:10:57.350 --> 00:10:59.230
+ABCD es un rombo.
+
+00:10:59.230 --> 00:11:01.050
+No, en un rombo todos los lados tendrían que ser
+
+00:11:01.050 --> 00:11:02.330
+iguales entre sí
+
+00:11:02.330 --> 00:11:03.610
+No dicen eso
+
+00:11:03.610 --> 00:11:04.780
+ABCD es un rectangulo.
+
+00:11:04.780 --> 00:11:05.330
+Sin duda.
+
+00:11:05.330 --> 00:11:09.280
+Porque sabemos que todos sus ángulos son de 90 grados.
+
+00:11:09.280 --> 00:11:11.180
+y así la opción es la C
+
+00:11:11.180 --> 00:11:12.430
+¡Hasta el próximo video!
+
+00:11:12.430 --> 00:11:13.050
+...

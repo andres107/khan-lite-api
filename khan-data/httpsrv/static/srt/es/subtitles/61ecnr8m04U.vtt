@@ -1,0 +1,63 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.387 --> 00:00:04.436
+en el pasado video observamos la funcion e intentamos dibujar las lineas de la derivada
+
+00:00:04.658 --> 00:00:10.479
+ahora en este video obersevaremos la funcion e intentaremos dibujar su antiderivada
+
+00:00:10.479 --> 00:00:13.044
+que suena como una palabra elegante
+
+00:00:13.044 --> 00:00:19.640
+pero solo digamos que la antiderivada es una funcion cuya derivada es esa funcion
+
+00:00:19.887 --> 00:00:23.338
+asi que por ejemplo si tenemos f(x)
+
+00:00:23.338 --> 00:00:39.889
+y digamos que su antiderivada de f(x) es (F) mayuscula de (x)
+
+00:00:39.889 --> 00:00:42.978
+esto significa, literalmente significa
+
+00:00:42.978 --> 00:00:51.827
+que la derivada de (F) mayuscula, lo cual es igual a (F) prima mayuscula
+
+00:00:51.827 --> 00:00:55.788
+es igual a f(x), entonces lo que tratamos de hacer aqui
+
+00:00:55.788 --> 00:00:58.414
+tenemos nuestra f(x) y vamos a tratar de pensar
+
+00:00:58.414 --> 00:01:02.904
+cual es la posible funcion de la cual esta podria ser la derivada
+
+00:01:02.904 --> 00:01:05.794
+y vas a estudiar mas esta definicion cuando empieces
+
+00:01:05.794 --> 00:01:08.069
+con calculo integral
+
+00:01:08.069 --> 00:01:11.417
+pero hay muchas funciones de las cuales esta podria ser su derivada
+
+00:01:11.417 --> 00:01:12.890
+y lo que vamos a hacer en este video
+
+00:01:12.890 --> 00:01:14.935
+es encontrar una posibilidad razonable
+
+00:01:15.012 --> 00:01:17.887
+asi que vamos a pensarlo un poco
+
+00:01:17.887 --> 00:01:23.208
+aqui arriba tenemos que y es igual (F) mayuscula de (x)
+
+00:01:23.208 --> 00:01:26.756
+lo que intenteramos dibujar es una funcion que su derivada
+
+00:01:26.756 --> 00:01:28.831
+pueda verse asi

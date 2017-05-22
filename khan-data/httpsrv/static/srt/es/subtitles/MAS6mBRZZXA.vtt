@@ -1,0 +1,246 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+llegare a mi velocidad final
+
+00:00:00.933 --> 00:00:04.249
+La meta de este vídeo es el de explorar algunos de los conceptos de
+
+00:00:04.249 --> 00:00:06.664
+formulas que puedan ver en una clase de física tradicional
+
+00:00:06.664 --> 00:00:09.265
+incluso mas importante para ver que estas son
+
+00:00:09.265 --> 00:00:09.765
+ideas de sentido común
+
+00:00:10.457 --> 00:00:13.619
+asi que empecemos con un ejemplo sencillo
+
+00:00:13.619 --> 00:00:16.042
+digamos que, y por el bien de este vídeo para
+
+00:00:16.057 --> 00:00:19.533
+no tener que seguir diciendo esto es la magnitud de velocidad
+
+00:00:19.533 --> 00:00:21.533
+esta es la dirección de la velocidad, etcétera
+
+00:00:21.533 --> 00:00:25.519
+asumamos solo que si tengo un número positivo
+
+00:00:25.519 --> 00:00:28.600
+por ejemplo si tengo una velocidad positiva significa que
+
+00:00:28.600 --> 00:00:31.835
+voy hacia la derecha y digamos que si tengo un número negativo
+
+00:00:31.835 --> 00:00:34.133
+lo que no veremos en este video, supongamos que voy
+
+00:00:34.133 --> 00:00:37.245
+a la izquierda y de esa forma puedo escribir un número
+
+00:00:37.245 --> 00:00:39.733
+solo estamos operando en una dimensión, saben que es
+
+00:00:39.733 --> 00:00:41.564
+especificando con la magnitud y la dirección
+
+00:00:41.564 --> 00:00:44.164
+si decimos que la velocidad era 5 metros por segundo
+
+00:00:44.164 --> 00:00:46.301
+eso significa 5 metros por segundo a la derecha
+
+00:00:46.301 --> 00:00:48.390
+si decimos menos 5 metros por segundo eso significa
+
+00:00:48.390 --> 00:00:51.316
+que son 5 metros por segundo a la izquierda
+
+00:00:51.316 --> 00:00:53.580
+ahora digamos, solo por simplicidad, solo digamos que si
+
+00:00:53.580 --> 00:00:57.681
+iniciamos con una velocidad inicial, iniciamos con una velocidad inicial de
+
+00:00:57.681 --> 00:00:59.577
+5 metros por segundo
+
+00:00:59.577 --> 00:01:02.086
+otra vez estoy especificando con una magnitud y una direccion
+
+00:01:02.086 --> 00:01:03.494
+a causa de esta convención
+
+00:01:03.494 --> 00:01:05.697
+sabemos que es hacia la derecha
+
+00:01:05.697 --> 00:01:08.092
+y digamos que tenemos una aceleración constante
+
+00:01:08.092 --> 00:01:11.262
+tenemos una aceleración constante en juego
+
+00:01:11.354 --> 00:01:16.801
+de 2 metros por segundo cuadrado, o 2 m/s²
+
+00:01:16.801 --> 00:01:20.109
+y otra ves como es positivo, esta va hacia la derecha
+
+00:01:20.109 --> 00:01:23.235
+y digamos que hacemos esto por un tiempo
+
+00:01:23.250 --> 00:01:33.197
+así mi cambio en el tiempo, digamos que lo hacemos por una duración de 4 seg
+
+00:01:34.628 --> 00:01:36.873
+así que S para este vídeo es segundos
+
+00:01:37.212 --> 00:01:39.356
+asi que lo que quiero hacer es pensar que
+
+00:01:39.525 --> 00:01:41.614
+tan lejos viajamos
+
+00:01:41.858 --> 00:01:43.335
+bueno, hay dos cosas aquí
+
+00:01:43.465 --> 00:01:46.311
+1) que tan rápido vamos, después de 4 segundos???
+
+00:01:46.311 --> 00:01:51.360
+y 2) que tan lejos viajamos en el transcurso de esos 4 seg.???
+
+00:01:51.506 --> 00:01:55.476
+entonces dibujemos nosotros mismos un pequeño diagrama aquí
+
+00:01:55.476 --> 00:01:57.756
+así que este es mi eje de velocidad
+
+00:01:58.264 --> 00:02:01.100
+y este es mi eje de tiempo
+
+00:02:01.322 --> 00:02:02.580
+dejenme dibujar una linea mas recta que esta
+
+00:02:03.303 --> 00:02:05.394
+entonces este es mi eje de tiempo
+
+00:02:06.794 --> 00:02:12.555
+así que esta es mi velocidad, esta es mi velocidad justo ahi
+
+00:02:13.241 --> 00:02:15.432
+y estoy empezando en 5 m/s
+
+00:02:15.832 --> 00:02:18.470
+este es 5 m/s justo aquí
+
+00:02:18.652 --> 00:02:23.154
+asi que "V i" es igual a 5 m/s
+
+00:02:23.378 --> 00:02:26.742
+y después cada segundo que pasa voy 2 m/s mas rápido
+
+00:02:27.014 --> 00:02:29.373
+porque es 2 metros por segundo por segundo
+
+00:02:30.118 --> 00:02:32.349
+cada segundo que pasa
+
+00:02:32.349 --> 00:02:36.402
+así después de un segundo... voy a ir 2 m/s mas rápido... entonces estaré en 7
+
+00:02:36.799 --> 00:02:38.060
+u otra forma de pensarlo
+
+00:02:38.277 --> 00:02:42.787
+es que la pendiente de esta linea de velocidad es mi aceleración
+
+00:02:43.218 --> 00:02:44.064
+tengo una pendiente constante aquí
+
+00:02:44.293 --> 00:02:47.499
+así que se vería como algo así
+
+00:02:47.999 --> 00:02:50.709
+entonces ¿que pasa después de 4 segundos???
+
+00:02:51.162 --> 00:02:54.608
+entonces 1...2...3...4... así que esta es mi delta T
+
+00:02:55.252 --> 00:03:01.506
+así que mi velocidad final va a estar justo aqui
+
+00:03:02.152 --> 00:03:05.464
+lo voy a escribir aquí por que esta en el camino de esta palabra "velocidad"
+
+00:03:05.995 --> 00:03:09.293
+y entonces esta es mi "V f", esta es mi velocidad final
+
+00:03:09.579 --> 00:03:10.646
+y ¿Cuál será???
+
+00:03:10.846 --> 00:03:14.548
+bueno estoy empezando en 5 m/s, entonces lo voy a hacer de ambas formas
+
+00:03:14.687 --> 00:03:17.658
+usando las variables y usando los números concretos
+
+00:03:17.658 --> 00:03:21.718
+entonces estoy empezando en una velocidad inicial
+
+00:03:22.022 --> 00:03:24.504
+el subindice "i" es "i" por inicial
+
+00:03:24.902 --> 00:03:29.264
+y después cada segundo que pasa, me estoy volviendo mas rápido
+
+00:03:29.674 --> 00:03:32.190
+entonces si quiero ver que tan veloz me he vuelto
+
+00:03:32.215 --> 00:03:39.326
+multiplico el número de los segundos que pasan por mi aceleración
+
+00:03:42.436 --> 00:03:44.077
+y otra ves es justo aqui
+
+00:03:44.569 --> 00:03:47.843
+acabo de escribir el subindice "c" diciendo que la aceleración es constante
+
+00:03:48.008 --> 00:03:50.625
+entonces eso me va a decir que tan veloz me he vuelto
+
+00:03:50.882 --> 00:03:55.124
+si comienzo en este punto, y multiplico la duración del tiempo por mi pendiente
+
+00:03:55.324 --> 00:03:59.863
+voy a llegar así de alto, y obtendré mi velocidad final
+
+00:04:01.463 --> 00:04:03.089
+y solo para hacerlo claro con números
+
+00:04:03.560 --> 00:04:05.728
+estos números realmente pueden ser cualquiera
+
+00:04:06.124 --> 99:59:59.999
+solo estoy escogiendo estos para hacerlo concreto en sus mentes
+
+99:59:59.999 --> 99:59:59.999
+tu tienes 5 m/s por 4 seg
+
+99:59:59.999 --> 99:59:59.999
+voy a hacer eso en amarillo
+
+99:59:59.999 --> 99:59:59.999
+por 4 segundos
+
+99:59:59.999 --> 99:59:59.999
+por nuestra aceleración de 2 m/s²
+
+99:59:59.999 --> 99:59:59.999
+y eso va a ser igual a

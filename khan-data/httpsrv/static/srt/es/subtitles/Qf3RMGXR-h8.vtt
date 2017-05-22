@@ -1,0 +1,872 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:01.010
+
+
+00:00:01.010 --> 00:00:03.031
+Este vídeo es innovador
+
+00:00:03.031 --> 00:00:05.033
+por varios motivos.
+
+00:00:05.033 --> 00:00:09.091
+Uno, voy a introducirles a la varianza muestral,
+
+00:00:09.091 --> 00:00:11.075
+lo que ya es interesante por sí mismo.
+
+00:00:11.075 --> 00:00:14.051
+Y estoy intentando grabar este vídeo en HD.
+
+00:00:14.051 --> 00:00:16.037
+Así que espero que lo puedan ver más grande y claro
+
+00:00:16.037 --> 00:00:17.003
+que nunca antes.
+
+00:00:17.003 --> 00:00:19.014
+Pero veremos qué tal va todo.
+
+00:00:19.014 --> 00:00:22.005
+Es un poco experimento, así que sigan conmigo.
+
+00:00:22.005 --> 00:00:25.017
+Pero antes de ir con la varianza muestral
+
+00:00:25.017 --> 00:00:28.008
+creo que es interesante que repasemos la varianza
+
+00:00:28.008 --> 00:00:28.087
+de la población.
+
+00:00:28.087 --> 00:00:32.017
+Y podemos comparar sus fórmulas.
+
+00:00:32.017 --> 00:00:34.078
+La varianza de una población --Y esta letra griega
+
+00:00:34.078 --> 00:00:36.010
+sigma.
+
+00:00:36.010 --> 00:00:37.042
+Sigma minúscula al cuadrado.
+
+00:00:37.042 --> 00:00:38.050
+Eso significa varianza.
+
+00:00:38.050 --> 00:00:41.000
+Sé que es raro que una variable ya
+
+00:00:41.000 --> 00:00:41.071
+esté elevada al cuadrado.
+
+00:00:41.071 --> 00:00:42.084
+Pero no están elevando la variable al cuadrado.
+
+00:00:42.084 --> 00:00:44.024
+Esto es la variable.
+
+00:00:44.024 --> 00:00:45.078
+Sigma al cuadrado significa varianza.
+
+00:00:45.078 --> 00:00:46.084
+Dejen que lo escriba.
+
+00:00:46.084 --> 00:00:48.000
+Esto es igual a la varianza.
+
+00:00:48.000 --> 00:00:51.054
+
+
+00:00:51.054 --> 00:00:55.042
+Y eso es igual a --Toman cada dato-- y
+
+00:00:55.042 --> 00:00:58.079
+los llamaremos x sub i
+
+00:00:58.079 --> 00:01:01.070
+Toman cada dato y averiguan lo lejos que están
+
+00:01:01.070 --> 00:01:08.075
+de la media de la población, lo elevan al cuadrado
+
+00:01:08.075 --> 00:01:11.015
+y hacen la media de todos.
+
+00:01:11.015 --> 00:01:12.090
+Toman el promedio, lo suman todo.
+
+00:01:12.090 --> 00:01:14.020
+Van desde i igual a 1.
+
+00:01:14.020 --> 00:01:17.070
+Desde el primer elemento hasta el que ocupa la posición n.
+
+00:01:17.070 --> 00:01:19.093
+Y entonces hacen la media, lo suman todo y
+
+00:01:19.093 --> 00:01:21.096
+después lo dividen por n.
+
+00:01:21.096 --> 00:01:25.096
+La varianza es la media del cuadrado de las distancias
+
+00:01:25.096 --> 00:01:27.039
+de cada dato a la media.
+
+00:01:27.039 --> 00:01:29.070
+Y para que puedan verlo intuitivamente, básicamente
+
+00:01:29.070 --> 00:01:32.092
+dice, en promedio, como de lejos están cada uno de los
+
+00:01:32.092 --> 00:01:34.042
+datos de la media.
+
+00:01:34.042 --> 00:01:36.025
+Esta es la mejor forma de pensar en la varianza.
+
+00:01:36.025 --> 00:01:37.064
+Pero qué pasa si lo que tenemos es --Esto era
+
+00:01:37.064 --> 00:01:39.014
+la población, verdad?
+
+00:01:39.014 --> 00:01:42.004
+Y habíamos dicho que si queríamos saber la varianza de las
+
+00:01:42.004 --> 00:01:44.057
+alturas de todos los hombres del país sería muy difícil
+
+00:01:44.057 --> 00:01:46.048
+averiguar la varianza de la población.
+
+00:01:46.048 --> 00:01:48.090
+Tendrían que medir
+
+00:01:48.090 --> 00:01:49.079
+a todo el mundo.
+
+00:01:49.079 --> 00:01:51.035
+250 millones de personas.
+
+00:01:51.035 --> 00:01:55.007
+żO si se trata de una población en la que
+
+00:01:55.007 --> 00:01:56.085
+es totalmente imposible tener los datos
+
+00:01:56.085 --> 00:01:57.064
+o una variable aleatoria?
+
+00:01:57.064 --> 00:01:59.009
+Profundizaremos en eso después.
+
+00:01:59.009 --> 00:02:02.065
+Así que muchas veces lo que querrán es estimar la varianza
+
+00:02:02.065 --> 00:02:04.068
+tomando la varianza de una muestra.
+
+00:02:04.068 --> 00:02:07.042
+De la misma manera que no podían obtener la media de la población,
+
+00:02:07.042 --> 00:02:09.056
+pero quizá la quieran estimar mediante la media
+
+00:02:09.056 --> 00:02:11.006
+de la muestra.
+
+00:02:11.006 --> 00:02:13.088
+Y eso ya lo aprendimos en le primer vídeo.
+
+00:02:13.088 --> 00:02:17.052
+Si esto es --si esto es toda la población.
+
+00:02:17.052 --> 00:02:20.028
+Son millones de datos, o incluso datos
+
+00:02:20.028 --> 00:02:21.087
+futuros que nunca podrán obtener porque
+
+00:02:21.087 --> 00:02:23.028
+son una variable aleatoria.
+
+00:02:23.028 --> 00:02:24.024
+Así que esto es la población.
+
+00:02:24.024 --> 00:02:26.091
+
+
+00:02:26.091 --> 00:02:32.038
+Puede que quieran estimar usando una muestra.
+
+00:02:32.038 --> 00:02:35.002
+Y esto es en lo que consiste la mayor parte
+
+00:02:35.002 --> 00:02:36.036
+de la estadística inferencial.
+
+00:02:36.036 --> 00:02:38.071
+Averiguar estadísticas descriptivas de la muestra
+
+00:02:38.071 --> 00:02:40.088
+y hacer inferencias sobre la población.
+
+00:02:40.088 --> 00:02:44.061
+Dejen que pruebe esta droga en 100 personas, y si
+
+00:02:44.061 --> 00:02:46.087
+consigo resultados estadísticamente relevantes,
+
+00:02:46.087 --> 00:02:48.084
+probablemente funcionará en toda la población.
+
+00:02:48.084 --> 00:02:49.080
+En eso consiste todo.
+
+00:02:49.080 --> 00:02:51.091
+Así que es realmente muy importante que entiendan
+
+00:02:51.091 --> 00:02:53.058
+la diferencia entre una muestra y una población.
+
+00:02:53.058 --> 00:02:57.050
+Y que sean capaces de calcular estadísticas de la muestra
+
+00:02:57.050 --> 00:03:00.015
+que puedan describir a la población y nos ayuden a estimar
+
+00:03:00.015 --> 00:03:03.071
+lo que se llaman parámetros de la población.
+
+00:03:03.071 --> 00:03:07.033
+Así que cuál es el significado de --dejen que vuelva a escribirlo
+
+00:03:07.033 --> 00:03:08.083
+żCuál es la media de la población?
+
+00:03:08.083 --> 00:03:09.093
+Lo haré en morado.
+
+00:03:09.093 --> 00:03:11.062
+Morado para población.
+
+00:03:11.062 --> 00:03:13.068
+La media de la población.
+
+00:03:13.068 --> 00:03:19.069
+Simplemente toman cada uno de los puntos en la población, x sub i.
+
+00:03:19.069 --> 00:03:21.084
+Y los suman.
+
+00:03:21.084 --> 00:03:23.083
+Empiezan con el primer elemento y van
+
+00:03:23.083 --> 00:03:25.062
+hasta el que ocupa la posición n.
+
+00:03:25.062 --> 00:03:26.074
+Y lo dividen todo por n.
+
+00:03:26.074 --> 00:03:27.080
+Lo suman todo y dividen por n.
+
+00:03:27.080 --> 00:03:28.091
+Eso es la media.
+
+00:03:28.091 --> 00:03:30.050
+Y ahora lo metemos en esta fórmula.
+
+00:03:30.050 --> 00:03:33.006
+Y pueden ver lo lejos que está cada punto de ese punto
+
+00:03:33.006 --> 00:03:34.027
+central, de la media.
+
+00:03:34.027 --> 00:03:36.025
+Y obtienen la varianza.
+
+00:03:36.025 --> 00:03:39.066
+żPero que pasa si lo hacemos para una muestra?
+
+00:03:39.066 --> 00:03:43.034
+Si queremos estimar la media de una población mediante
+
+00:03:43.034 --> 00:03:46.059
+el cálculo de la media de la población, lo mejor que
+
+00:03:46.059 --> 00:03:49.016
+se me ocurre --Y esto son fórmulas diseńadas por el hombre
+
+00:03:49.016 --> 00:03:51.013
+Esto son personas diciendo żcuál es la mejor forma
+
+00:03:51.013 --> 00:03:51.071
+de obtener una muestra?
+
+00:03:51.071 --> 00:03:54.055
+Lo que podemos hacer es calcular el promedio de de la muestra
+
+00:03:54.055 --> 00:03:56.081
+Y eso es la media de la población.
+
+00:03:56.081 --> 00:03:58.091
+Y ya aprendimos en el primer vídeo que esa notación--
+
+00:03:58.091 --> 00:04:00.044
+La fórmula es casi idéntica a esto.
+
+00:04:00.044 --> 00:04:01.053
+Es sólo la notación lo que cambia.
+
+00:04:01.053 --> 00:04:04.099
+En vez de escribir mu, escriben x con una línea encima.
+
+00:04:04.099 --> 00:04:08.062
+La media de la muestra es igual a --una vez más, toman cada
+
+00:04:08.062 --> 00:04:12.009
+dato en la muestra, no en la población.
+
+00:04:12.009 --> 00:04:16.037
+Los suman desde el primero hasta el que ocupa
+
+00:04:16.037 --> 00:04:17.037
+el lugar n, żno?
+
+00:04:17.037 --> 00:04:20.063
+Lo que dicen es que hay n elementos en esta muestra.
+
+00:04:20.063 --> 00:04:23.038
+Y entonces dividen por el número de elementos que tienen.
+
+00:04:23.038 --> 00:04:24.031
+Suficiente.
+
+00:04:24.031 --> 00:04:25.066
+Es realmente la misma fórmula.
+
+00:04:25.066 --> 00:04:27.050
+Igual que hice con la media de la población. Dije, bien, si lo que
+
+00:04:27.050 --> 00:04:29.058
+tengo es sólo una muestra, voy a calcular la media de la misma manera.
+
+00:04:29.058 --> 00:04:32.056
+Y seguramente es una buena estimación de la media
+
+00:04:32.056 --> 00:04:33.093
+de la población.
+
+00:04:33.093 --> 00:04:36.033
+Pero se pone interesante cuando hablamos de la varianza.
+
+00:04:36.033 --> 00:04:39.025
+Su reacción natural es, bien, tengo esta muestra.
+
+00:04:39.025 --> 00:04:43.025
+Si lo que quiero es estimar la varianza de la población,
+
+00:04:43.025 --> 00:04:45.023
+żpor qué no aplicar esta misma fórmula
+
+00:04:45.023 --> 00:04:46.014
+a la muestra?
+
+00:04:46.014 --> 00:04:49.032
+Podría decir --Y de hecho esto es la varianza de la muestra
+
+00:04:49.032 --> 00:04:54.056
+Usan la fórmula s al cuadrado.
+
+00:04:54.056 --> 00:04:58.022
+Sigma es más o menos la letra griega equivalente a la s.
+
+00:04:58.022 --> 00:04:59.098
+Así que ahora cuando estemos tratando con la muestra
+
+00:04:59.098 --> 00:05:01.000
+simplemente escribiremos s.
+
+00:05:01.000 --> 00:05:02.031
+Esto es la varianza de la muestra.
+
+00:05:02.031 --> 00:05:03.006
+Dejen que lo escriba.
+
+00:05:03.006 --> 00:05:03.094
+Varianza de la muestra.
+
+00:05:03.094 --> 00:05:11.086
+
+
+00:05:11.086 --> 00:05:15.087
+Así que seguramente diremos, puede que una buena forma de
+
+00:05:15.087 --> 00:05:17.033
+obtener la varianza de la muestra es hacerlo igual.
+
+00:05:17.033 --> 00:05:23.067
+Tomemos la distancia de cada uno de los elementos de la muestra.
+
+00:05:23.067 --> 00:05:26.060
+Averigüemos cómo de lejos están de la media de la muestra.
+
+00:05:26.060 --> 00:05:29.023
+Aquí usamos la media de la población, pero ahora
+
+00:05:29.023 --> 00:05:31.044
+usaremos la media de la muestra porque es todo lo que podemos tener.
+
+00:05:31.044 --> 00:05:33.016
+No sabemos cuál es la media de la población
+
+00:05:33.016 --> 00:05:35.050
+si no podemos mirar toda la población.
+
+00:05:35.050 --> 00:05:36.039
+Eleven esto al cuadrado.
+
+00:05:36.039 --> 00:05:38.016
+Esto lo hace positivo y también le ańade otras propiedades,
+
+00:05:38.016 --> 00:05:40.016
+sobre las que iremos después.
+
+00:05:40.016 --> 00:05:42.073
+Y entonces tomen el promedio de todas estas distancias al cuadrado.
+
+00:05:42.073 --> 00:05:44.097
+Las suman todas.
+
+00:05:44.097 --> 00:05:47.043
+Y hay n de ellas, żverdad?
+
+00:05:47.043 --> 00:05:48.039
+n minúscula.
+
+00:05:48.039 --> 00:05:51.081
+Y dividen por n minúscula.
+
+00:05:51.081 --> 00:05:53.023
+Y piensan que esto es una buena estimación.
+
+00:05:53.023 --> 00:05:55.057
+Sea cuál sea la varianza, esto podría ser una buena estimación
+
+00:05:55.057 --> 00:05:56.072
+para el total de la población.
+
+00:05:56.072 --> 00:06:00.062
+Y de hecho esto a lo que algunos se refieren cuando
+
+00:06:00.062 --> 00:06:01.098
+hablan de la varianza muestral.
+
+00:06:01.098 --> 00:06:05.025
+Y a veces se referiran a ello así.
+
+00:06:05.025 --> 00:06:07.051
+Pondrán una n minúscula ahí.
+
+00:06:07.051 --> 00:06:09.083
+Y la razón por la que lo harán es porque hemos dividido por n.
+
+00:06:09.083 --> 00:06:11.083
+Y ustedes dirán, ży cuál es el problema?
+
+00:06:11.083 --> 00:06:14.000
+Y el problema --y les daré una explicación intuitiva
+
+00:06:14.000 --> 00:06:16.018
+es algo que solía confundirme.
+
+00:06:16.018 --> 00:06:19.033
+Y de hecho aún tengo alguna dificultad con la
+
+00:06:19.033 --> 00:06:21.052
+explicación intuitiva que hay detrás.
+
+00:06:21.052 --> 00:06:24.050
+Tengo la intuición, pero en realidad es más que me
+
+00:06:24.050 --> 00:06:26.094
+lo he demostrado de manera rigurosa que es así.
+
+00:06:26.094 --> 00:06:28.027
+Pero piensen en esto.
+
+00:06:28.027 --> 00:06:29.090
+Si tengo un conjunto de números, y dibujaré
+
+00:06:29.090 --> 00:06:32.074
+una línea de números aquí.
+
+00:06:32.074 --> 00:06:35.074
+Dibujaré una línea de números aquí --Así que digamos que lo saben--
+
+00:06:35.074 --> 00:06:39.043
+Y digamos que tengo un conjunto de números en mi población.
+
+00:06:39.043 --> 00:06:41.066
+Voy a poner unos cuantos números al azar
+
+00:06:41.066 --> 00:06:44.027
+en mi población.
+
+00:06:44.027 --> 00:06:45.092
+Y los de la derecha son más grandes
+
+00:06:45.092 --> 00:06:46.035
+que los de la izquierda.
+
+00:06:46.035 --> 00:06:48.089
+
+
+00:06:48.089 --> 00:06:52.099
+Y si fuera a tomar una muestra de ellos, quizá tomaría--
+
+00:06:52.099 --> 00:06:54.081
+La muestra, es aleatoria.
+
+00:06:54.081 --> 00:06:56.020
+Realmente ustedes deben tomar una muestra aleatoria.
+
+00:06:56.020 --> 00:06:57.031
+No quieren que las cosas se desvirtúen.
+
+00:06:57.031 --> 00:07:02.089
+Así que tomo éste, éste, éste
+
+00:07:02.089 --> 00:07:05.042
+y este otro, żbien?
+
+00:07:05.042 --> 00:07:07.048
+Y entonces si tuviera que calcular la media de este número,
+
+00:07:07.048 --> 00:07:08.045
+este número, este número, este número.
+
+00:07:08.045 --> 00:07:09.031
+Será un punto entre ellos.
+
+00:07:09.031 --> 00:07:11.000
+Podría ser más o menos por aquí.
+
+00:07:11.000 --> 00:07:13.024
+Y entonces si quisiera calcular la varianza muestral usando
+
+00:07:13.024 --> 00:07:16.077
+esta fórmula, diría esta distancia al cuadrado más
+
+00:07:16.077 --> 00:07:21.006
+esta distancia al cuadrado, más esta distancia al cuadrado más
+
+00:07:21.006 --> 00:07:23.051
+esta distancia al cuadrado y luego el promedio de todo ello.
+
+00:07:23.051 --> 00:07:24.069
+Y obtendría este número.
+
+00:07:24.069 --> 00:07:27.081
+Y esto sería probablemente una aproximación bastante buena
+
+00:07:27.081 --> 00:07:30.025
+a la varianza del total de la población.
+
+00:07:30.025 --> 00:07:32.006
+La media de la población va a estar
+
+00:07:32.006 --> 00:07:33.002
+--no sé--
+
+00:07:33.002 --> 00:07:35.001
+Puede estar muy cerca de aquí.
+
+00:07:35.001 --> 00:07:37.014
+Si realmente tomamos todos los elementos y hacemos el promedio
+
+00:07:37.014 --> 00:07:39.006
+probablemente esté por aquí.
+
+00:07:39.006 --> 00:07:40.066
+Y si averiguan la varianza, seguramente esté
+
+00:07:40.066 --> 00:07:43.058
+bastante cerca de la media de todas estas líneas, żno?
+
+00:07:43.058 --> 00:07:46.081
+Todas las distancias de la muestra, żbien?
+
+00:07:46.081 --> 00:07:47.025
+Suficiente.
+
+00:07:47.025 --> 00:07:47.089
+Así que dicen.
+
+00:07:47.089 --> 00:07:49.070
+Esto ya está bastante bien.
+
+00:07:49.070 --> 00:07:51.093
+Pero hay un pequeńo truco.
+
+00:07:51.093 --> 00:07:54.056
+Qué pasa si --Siempre hay una posibilidad de que, en vez
+
+00:07:54.056 --> 00:07:56.099
+de tomar estos números bien distribuidos por mi muestra
+
+00:07:56.099 --> 00:08:00.080
+qué pasa si tomo este número, este número
+
+00:08:00.080 --> 00:08:03.092
+y este número, y digamos que éste también,
+
+00:08:03.092 --> 00:08:05.039
+como mi muestra.
+
+00:08:05.039 --> 00:08:08.037
+Sea cual sea su muestra su media siempre va estar
+
+00:08:08.037 --> 00:08:10.020
+dentro de ella, żno?
+
+00:08:10.020 --> 00:08:12.095
+Así que en este caso su media de la muestra puede estar aquí.
+
+00:08:12.095 --> 00:08:15.000
+Así que con estos números pueden decir, vale, este número
+
+00:08:15.000 --> 00:08:17.081
+no está lejos de este número, este número no está muy lejos, y
+
+00:08:17.081 --> 00:08:19.010
+este otro tampoco está muy alejado.
+
+00:08:19.010 --> 00:08:21.079
+Así que su varianza muestra puede
+
+00:08:21.079 --> 00:08:23.061
+acabar siendo algo baja.
+
+00:08:23.061 --> 00:08:26.092
+Porque todos estos números, va a estar,
+
+00:08:26.092 --> 00:08:28.092
+casi por definición, bastante cerca de la
+
+00:08:28.092 --> 00:08:30.035
+media de cada uno de los otros.
+
+00:08:30.035 --> 00:08:34.060
+Pero en este caso su muestra está algo desvirtuada y la
+
+00:08:34.060 --> 00:08:37.098
+media real de la población está más o menos por aquí.
+
+00:08:37.098 --> 00:08:40.079
+Así que la varianza de la muestra, si realemente hubieran
+
+00:08:40.079 --> 00:08:43.066
+conocido la media --sé que esto es un poco confuso.
+
+00:08:43.066 --> 00:08:44.098
+Si hubieran tenido la media.
+
+00:08:44.098 --> 00:08:46.083
+Dirían, oh, vaya.
+
+00:08:46.083 --> 00:08:48.038
+Hubieran encontrado que estas distancias serían
+
+00:08:48.038 --> 00:08:51.032
+mucho mayores.
+
+00:08:51.032 --> 00:08:53.063
+Lo que intento decir es que cuando toman una muestra
+
+00:08:53.063 --> 00:08:58.027
+hay una cierta posibilidad de que la media de la muestra
+
+00:08:58.027 --> 00:09:00.037
+esté cerca de la media de la población, żno?
+
+00:09:00.037 --> 00:09:02.061
+Puede que su media de la muestra está aquí y la de la
+
+00:09:02.061 --> 00:09:03.036
+población está aquí.
+
+00:09:03.036 --> 00:09:05.076
+Y entonces esta fórmula funcionará bastante bien,
+
+00:09:05.076 --> 00:09:07.076
+al menos con estos elementos y para calcular
+
+00:09:07.076 --> 00:09:09.027
+cuál es la varianza.
+
+00:09:09.027 --> 00:09:14.024
+Pero hay también una probabilidad de que la media de la muestra
+
+00:09:14.024 --> 00:09:16.073
+--La media de la muestra siempre va estar dentro de la muestra, żno?
+
+00:09:16.073 --> 00:09:18.074
+Siempre va a ser el centro de la muestra
+
+00:09:18.074 --> 00:09:21.047
+Pero es perfectamente posible que la media de la población
+
+00:09:21.047 --> 00:09:22.059
+esté fuera de la muestra.
+
+00:09:22.059 --> 00:09:24.075
+Puede que hayan seleccionado elementos que
+
+00:09:24.075 --> 00:09:28.011
+no contienen a la media de la población
+
+00:09:28.011 --> 00:09:31.066
+Y entonces esta varianza muestral calculada así
+
+00:09:31.066 --> 00:09:34.099
+va a infraestimar la
+
+00:09:34.099 --> 00:09:36.024
+varianza de la población, żno?
+
+00:09:36.024 --> 00:09:38.023
+Porque siempre van a estar más cerca de su propia media
+
+00:09:38.023 --> 00:09:39.096
+que de la media de la población.
+
+00:09:39.096 --> 00:09:43.046
+Y si están entendiendo el 10% de esto
+
+00:09:43.046 --> 00:09:45.076
+ya son estudiantes de estadística muy avanzados.
+
+00:09:45.076 --> 00:09:49.012
+Pero estoy diciendo todo esto para darles una intuición
+
+00:09:49.012 --> 00:09:53.050
+de que esto con frecuencia infraestima,
+
+00:09:53.050 --> 00:09:57.024
+esta fórmula con frecuencia infraestima
+
+00:09:57.024 --> 00:09:59.011
+la varianza de la población.
+
+00:09:59.011 --> 00:10:01.041
+Y tenemos esta fórmula --y esto se ha probado de forma
+
+00:10:01.041 --> 00:10:04.074
+más rigurosa que como lo haré yo, que se considera que es
+
+00:10:04.074 --> 00:10:08.000
+una estimación mejor, no sesgada,
+
+00:10:08.000 --> 00:10:09.002
+de la varianza de la población.
+
+00:10:09.002 --> 00:10:11.038
+O la varianza muestral no sesgada.
+
+00:10:11.038 --> 00:10:14.015
+Y a veces se representa con la s al cuadrado.
+
+00:10:14.015 --> 00:10:18.092
+Y otras con esta s n menos 1 al cuadrado.
+
+00:10:18.092 --> 00:10:20.072
+Y les enseńaré por qué.
+
+00:10:20.072 --> 00:10:22.034
+Es casi lo mismo.
+
+00:10:22.034 --> 00:10:24.073
+Toman cada uno de los elementos, averiguan
+
+00:10:24.073 --> 00:10:28.016
+como de lejos están de la media de la muestra.
+
+00:10:28.016 --> 00:10:28.089
+Los elevan al cuadrado.
+
+00:10:28.089 --> 00:10:31.083
+Y entonces obtienen el promedio de esos cuadrados,
+
+00:10:31.083 --> 00:10:33.042
+excepto por una pequeńa diferencia.
+
+00:10:33.042 --> 00:10:35.072
+de i igual a 1 a i igual a n
+
+00:10:35.072 --> 00:10:39.037
+En vez de dividir por n, dividen por un número
+
+00:10:39.037 --> 00:10:41.091
+algo más pequeńo.
+
+00:10:41.091 --> 00:10:44.035
+Dividen por n menos 1.
+
+00:10:44.035 --> 00:10:46.087
+Así, cuando dividen por n menos 1 en vez de por n,
+
+00:10:46.087 --> 00:10:49.059
+obtendrán un número algo mayor.
+
+00:10:49.059 --> 00:10:51.005
+Y resulta que esto es una estimación
+
+00:10:51.005 --> 00:10:52.025
+mucho mejor.
+
+00:10:52.025 --> 00:10:54.080
+Y algún día escribiré un programa informático
+
+00:10:54.080 --> 00:10:57.042
+para demostrarme a mí mismo que esto
+
+00:10:57.042 --> 00:11:01.075
+es una estimación mejor de la varianza de la población.
+
+00:11:01.075 --> 00:11:03.042
+Y se calcula igual.
+
+00:11:03.042 --> 00:11:05.026
+Pero hay que dividir por n menos 1.
+
+00:11:05.026 --> 00:11:07.045
+La otra forma de pensar en ello --De hecho, no
+
+00:11:07.045 --> 00:11:08.034
+Estoy fuera de tiempo
+
+00:11:08.034 --> 00:11:09.050
+Lo dejaremos ahí de momento.
+
+00:11:09.050 --> 00:11:10.071
+Y en el próximo vídeo haremos un par
+
+00:11:10.071 --> 00:11:12.059
+de cálculos para que no se sientan
+
+00:11:12.059 --> 00:11:13.026
+sobrepasados por estas ideas.
+
+00:11:13.026 --> 00:11:14.080
+Porque estamos siendo un poco abstractos.
+
+00:11:14.080 --> 00:11:16.065
+Nos vemos en el próximo vídeo.
+
+00:11:16.065 --> 00:11:17.000

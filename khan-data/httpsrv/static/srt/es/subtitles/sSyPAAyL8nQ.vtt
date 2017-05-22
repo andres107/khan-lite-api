@@ -1,0 +1,414 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.570
+(Comienzo del video)
+
+00:00:00.570 --> 00:00:03.260
+Digamos que tengo una trayectoria en el plano xy que es esencialmente
+
+00:00:03.260 --> 00:00:03.990
+el circulo unitario.
+
+00:00:03.990 --> 00:00:06.860
+el circulo unitario.
+
+00:00:06.860 --> 00:00:15.080
+Asi que este es mi eje-y, este es mi eje-x, y nuestra trayectoria va
+
+00:00:15.080 --> 00:00:16.780
+a ser el circulo unitario.
+
+00:00:16.780 --> 00:00:21.550
+a ser el circulo unitario.
+
+00:00:21.550 --> 00:00:24.070
+Y vamos atravesarlo asi.
+
+00:00:24.070 --> 00:00:25.940
+Lo vamos a atravesar en el sentido de las agujas del reloj
+
+00:00:25.940 --> 00:00:33.470
+Lo vamos a atravesar en el sentido de las agujas del reloj
+
+00:00:33.470 --> 00:00:35.460
+Creo que entiendes.
+
+00:00:35.460 --> 00:00:37.530
+Así que su ecuación es el círculo de las unidades.
+
+00:00:37.530 --> 00:00:41.600
+Por lo que la ecuación de esta es x^2 + y^2 = 1
+
+00:00:41.600 --> 00:00:44.440
+tiene un radio de un círculo de 1 unidad.
+
+00:00:44.440 --> 00:00:49.690
+Y la que estamos trabajando es la integral de línea
+
+00:00:49.690 --> 00:00:52.700
+sobre esta curva c.
+
+00:00:52.700 --> 00:00:54.310
+Es una curva cerrada c.
+
+00:00:54.310 --> 00:00:57.580
+Es una curva cerrada c.
+
+00:00:57.580 --> 00:01:11.400
+Realmente va en esa dirección de 2ydx menos 3xdy.
+
+00:01:11.400 --> 00:01:14.760
+Por lo tanto, estamos probablemente tentados a utilizar la Teorema de Green
+
+00:01:14.760 --> 00:01:16.520
+¿y por qué no?
+
+00:01:16.520 --> 00:01:17.200
+Así que vamos a intentar.
+
+00:01:17.200 --> 00:01:18.970
+Este es nuestro trayectoria.
+
+00:01:18.970 --> 00:01:25.510
+Teorema de Green nos dice que la integral de alguna curva
+
+00:01:25.510 --> 00:01:33.640
+f punto dr sobre alguna trayectoria donde f es igual a--déjame escribir
+
+00:01:33.640 --> 00:01:35.020
+es un poco mejor.
+
+00:01:35.020 --> 00:01:46.650
+Donde f de x, y es igual a p de x, y, más Q de x, y j.
+
+00:01:46.650 --> 00:01:53.960
+Que esta integral es igual a la doble integral sobre el
+
+00:01:53.960 --> 00:01:56.510
+región--sería la región en cuestión
+
+00:01:56.510 --> 00:01:57.780
+en este ejemplo.
+
+00:01:57.780 --> 00:02:10.140
+Sobre la región del parcial de Q con respecto a x
+
+00:02:10.140 --> 00:02:18.170
+menos el parcial de p con respecto a y.
+
+00:02:18.170 --> 00:02:22.250
+Todos que dA, el diferencial de área.
+
+00:02:22.250 --> 00:02:25.110
+Y por supuesto, la región es lo que yo te mostró.
+
+00:02:25.110 --> 00:02:30.690
+Ahora, tal vez recuerdas--bien, hay una
+
+00:02:30.690 --> 00:02:32.500
+cosa poca y sutil, que te daría
+
+00:02:32.500 --> 00:02:33.590
+la respuesta incorrecta.
+
+00:02:33.590 --> 00:02:36.370
+En el video anterior dijimos que el teorema de Green se aplica cuando
+
+00:02:36.370 --> 00:02:39.220
+vamos en sentido contrario al de las agujas del reloj
+
+00:02:39.220 --> 00:02:40.905
+Aviso, en esta cosita en la integral, lo hice
+
+00:02:40.905 --> 00:02:42.410
+ir hacia la izquierda.
+
+00:02:42.410 --> 00:02:45.740
+En nuestro ejemplo, la curva va hacia la derecha.
+
+00:02:45.740 --> 00:02:47.430
+La región es nuestro derecho.
+
+00:02:47.430 --> 00:02:50.295
+Teorema de Green esto se aplica cuando la región está a nuestra izquierda.
+
+00:02:50.295 --> 00:02:55.620
+Teorema de Green esto se aplica cuando la región está a nuestra izquierda.
+
+00:02:55.620 --> 00:02:58.000
+En esta situación cuando la región es a la derecha y
+
+00:02:58.000 --> 00:02:59.340
+Estamos yendo--así que esto es hacia la izquierda.
+
+00:02:59.340 --> 00:03:04.020
+Estamos yendo--así que esto es hacia la izquierda.
+
+00:03:04.020 --> 00:03:07.140
+En nuestro ejemplo, hacia dónde nos dirigimos hacia la derecha, es la región
+
+00:03:07.140 --> 00:03:09.960
+a la derecha, la teorema de Green va a ser la
+
+00:03:09.960 --> 00:03:10.730
+negación de esto.
+
+00:03:10.730 --> 00:03:14.970
+Así en nuestro ejemplo, vamos a tener la integral de c y
+
+00:03:14.970 --> 00:03:16.670
+vamos a ir en el sentido de las agujas del reloj.
+
+00:03:16.670 --> 00:03:21.910
+Tal vez te dibuja como la de dr de punto f. Esto va
+
+00:03:21.910 --> 00:03:25.000
+a ser igual a la integral doble sobre la región.
+
+00:03:25.000 --> 00:03:28.960
+Sólo podría intercambiar estos dos--el parcial de p con respecto a
+
+00:03:28.960 --> 00:03:35.880
+y menos el parcial de q con respecto a x da.
+
+00:03:35.880 --> 00:03:36.650
+Así que vamos a hacer eso.
+
+00:03:36.650 --> 00:03:39.480
+Así que esto va a ser igual a, en este ejemplo, la
+
+00:03:39.480 --> 00:03:41.420
+integral sobre la región--pues, vamos a mantenerlo
+
+00:03:41.420 --> 00:03:43.000
+en abstracto por ahora.
+
+00:03:43.000 --> 00:03:45.420
+Que podríamos empezar a establecer los límites, pero sólo vamos a
+
+00:03:45.420 --> 00:03:46.930
+mantener la región en abstracto.
+
+00:03:46.930 --> 00:03:51.790
+Y ¿qué es el parcial de p con respecto, vamos a recordar,
+
+00:03:51.790 --> 00:03:55.650
+Este aquí es nuestro--creo que podríamos reconocer
+
+00:03:55.650 --> 00:03:59.010
+ahora que si tomamos f punto dr vamos a obtenerlo..
+
+00:03:59.010 --> 00:04:00.940
+El dr contribuye a esos componentes.
+
+00:04:00.940 --> 00:04:04.330
+La f contribuye a estos dos componentes.
+
+00:04:04.330 --> 00:04:05.570
+Esto es p de x, y.
+
+00:04:05.570 --> 00:04:08.370
+Esto es p de x, y.
+
+00:04:08.370 --> 00:04:13.370
+Y entonces esto es Q de x, y.
+
+00:04:13.370 --> 00:04:13.865
+Y lo hemos visto.
+
+00:04:13.865 --> 00:04:16.010
+No quiero ser enredado en el punto dr y tomar el
+
+00:04:16.010 --> 00:04:16.950
+producto escalar del punto una y otra vez.
+
+00:04:16.950 --> 00:04:19.120
+Creo que puede ver que esto es el producto escalar
+
+00:04:19.120 --> 00:04:20.570
+de dos vectores.
+
+00:04:20.570 --> 00:04:23.310
+Este es el componente x de f, y componente de f.
+
+00:04:23.310 --> 00:04:28.300
+Este es el componente x del dr, y componente de dr. Así que vamos a
+
+00:04:28.300 --> 00:04:31.290
+tomar el parcial de p con respecto a y.
+
+00:04:31.290 --> 00:04:33.740
+Tomar la derivada con respecto a y, obtienes 2.
+
+00:04:33.740 --> 00:04:35.740
+Derivado de 2y es 2.
+
+00:04:35.740 --> 00:04:40.590
+Entonces, usted obtiene 2 y luego, menos la derivada de
+
+00:04:40.590 --> 00:04:42.270
+Q con respecto a x.
+
+00:04:42.270 --> 00:04:44.100
+Derivado de esto con respecto a x es -3.
+
+00:04:44.100 --> 00:04:49.800
+Así que vamos a obtener -3 y luego todos da.
+
+00:04:49.800 --> 00:04:53.430
+Y esto es igual a la integral sobre la región.
+
+00:04:53.430 --> 00:04:55.540
+¿Qué es esto, es 2 menos -3?
+
+00:04:55.540 --> 00:04:57.510
+Es lo mismo que 2 más 3.
+
+00:04:57.510 --> 00:05:01.190
+Por eso es la integral sobre la región del 5dA.
+
+00:05:01.190 --> 00:05:04.280
+5 es sólo una constante, por lo que podemos llevarlo fuera de la integral.
+
+00:05:04.280 --> 00:05:07.230
+Así que esto va a tener un problema bastante sencillo como resultado.
+
+00:05:07.230 --> 00:05:11.790
+Así que esto va a ser igual a 5 veces la integral doble
+
+00:05:11.790 --> 00:05:14.870
+sobre el dA de la región R.
+
+00:05:14.870 --> 00:05:16.080
+Ahora, ¿qué es esto?
+
+00:05:16.080 --> 00:05:18.610
+¿Qué es esta cosa aquí?
+
+00:05:18.610 --> 00:05:20.880
+Parece muy abstracto, pero podemos resolver esto.
+
+00:05:20.880 --> 00:05:25.770
+Esto es sólo el área de la región.
+
+00:05:25.770 --> 00:05:27.550
+Es lo que representa esa integral doble.
+
+00:05:27.550 --> 00:05:29.470
+Suma todos los poco dA
+
+00:05:29.470 --> 00:05:31.490
+Es un dA...es un dA.
+
+00:05:31.490 --> 00:05:33.270
+Suma las sumas infinitas de esos poco
+
+00:05:33.270 --> 00:05:35.150
+dA sobre la región.
+
+00:05:35.150 --> 00:05:37.580
+Bien, ¿cuál es el área de este círculo de unidad?
+
+00:05:37.580 --> 00:05:40.730
+Aquí sólo usamos un poco de la geometría o álgebra
+
+00:05:40.730 --> 00:05:43.630
+de noveno grado--en realidad,
+
+00:05:43.630 --> 00:05:44.860
+las matemáticas antes de noveno grado
+
+00:05:44.860 --> 00:05:47.960
+Área es igual a pi por r al cuadrado.
+
+00:05:47.960 --> 00:05:49.360
+¿Cuál es nuestra radio?
+
+00:05:49.360 --> 00:05:52.800
+Círculo unitario, nuestra radio es 1.
+
+00:05:52.800 --> 00:05:53.980
+La longitud es 1.
+
+00:05:53.980 --> 00:05:56.200
+Así, el área aquí es pi.
+
+00:05:56.200 --> 00:05:59.290
+Esta cosa aquí, así todo es
+
+00:05:59.290 --> 00:06:01.350
+justo igual a pi.
+
+00:06:01.350 --> 00:06:06.460
+Entonces la respuesta a nuestra línea integral es sólo 5 pi, que
+
+00:06:06.460 --> 00:06:07.570
+es bastante sencillo.
+
+00:06:07.570 --> 00:06:10.420
+O sea, nosotros podríamos han tomado la molestia de establecer un doble
+
+00:06:10.420 --> 00:06:12.870
+integral donde tomamos la primitiva con respecto a
+
+00:06:12.870 --> 00:06:16.990
+y primera y escribimos y es igual a la raíz cuadrada negativa de 1
+
+00:06:16.990 --> 00:06:19.990
+menos x al cuadrado por y es igual a la raíz cuadrada positiva.
+
+00:06:19.990 --> 00:06:21.810
+x va desde -1 a 1.
+
+00:06:21.810 --> 00:06:26.060
+Pero eso habría sido muy exasperante y irritante.
+
+00:06:26.060 --> 00:06:28.250
+Y sólo tenemos que darnos cuenta, no, esto es sólo el área.
+
+00:06:28.250 --> 00:06:31.000
+Y lo interesante es que lo desafío a evaluar
+
+00:06:31.000 --> 00:06:34.170
+el mismo integral sin utilizar el teorema de Green.
+
+00:06:34.170 --> 00:06:38.310
+Sabes, después de generar una parametrización para esta
+
+00:06:38.310 --> 00:06:41.230
+curva, va en esa dirección, teniendo los derivados
+
+00:06:41.230 --> 00:06:42.660
+de x de t y y de t.
+
+00:06:42.660 --> 00:06:44.880
+Multiplicando por la cosa apropiada y luego tomando la
+
+00:06:44.880 --> 00:06:48.540
+primitiva-- mas irritante que lo hicimos sólo utilizando
+
+00:06:48.540 --> 00:06:51.810
+Teorema de Green para obtener pi por 5.
+
+00:06:51.810 --> 00:06:54.645
+Y recuerde, la razón de por qué no fue -5 por pi aquí
+
+00:06:54.645 --> 00:06:57.980
+es porque vamos en sentido horario.
+
+00:06:57.980 --> 00:07:00.040
+Si fuéramos hacia la izquierda nos
+
+00:07:00.040 --> 00:07:02.330
+podríamos aplicar la teorema de Green, y
+
+00:07:02.330 --> 00:07:04.200
+habríamos obtener menos pi 5.
+
+00:07:04.200 --> 00:07:06.530
+De todas formas, espero que esta explicación sea útil.
+
+00:07:06.530 --> 00:07:06.533
+De todas formas, espero que esta explicación sea útil.

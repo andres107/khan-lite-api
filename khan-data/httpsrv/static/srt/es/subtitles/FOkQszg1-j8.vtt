@@ -1,0 +1,510 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:03.844
+En este video, quiero hablar un poco acerca de la aceleración.
+
+00:00:03.844 --> 00:00:06.711
+Aceleración.
+
+00:00:06.711 --> 00:00:09.497
+Y es probable que ya sepan algo sobre el tema, o por lo menos hayan oído la palabra.
+
+00:00:09.497 --> 00:00:12.469
+Y es probable que ya sepan algo sobre el tema, o por lo menos hayan oído la palabra.
+
+00:00:12.469 --> 00:00:18.181
+La aceleración es simplemente el cambio de velocidad con respecto al tiempo.
+
+00:00:18.181 --> 00:00:25.844
+El cambio de velocidad con respecto al tiempo.
+
+00:00:25.844 --> 00:00:30.727
+Para los que les gustan los autos, un ejemplo típico es que muchas veces
+
+00:00:30.727 --> 00:00:34.482
+se habla de la aceleración del auto, especialmente de los deportivos.
+
+00:00:34.482 --> 00:00:36.107
+se habla de la aceleración del auto, especialmente de los deportivos.
+
+00:00:36.107 --> 00:00:40.844
+En realidad, si se fijan en las guías de precios o donde sea que hayan estadísticas sobre diferentes autos,
+
+00:00:40.844 --> 00:00:45.598
+éstas dirían algo acerca de... no sé, digamos un Porsche
+
+00:00:45.598 --> 00:00:48.573
+-- e inventaré unas cifras como ejemplo --
+
+00:00:48.573 --> 00:00:53.290
+digamos que tenemos un Porsche 911. Porsche 911.
+
+00:00:53.290 --> 00:00:57.237
+Tomarían medidas con un cronómetro, literalmente, y dirían que un Porsche 911 puede ir de 0 a 60 millas por hora
+
+00:00:57.237 --> 00:01:01.892
+Tomarían medidas con un cronómetro, literalmente, y dirían que un Porsche 911 puede ir de 0 a 60 millas por hora
+
+00:01:01.969 --> 00:01:04.517
+-- no son las medidas exactas, pero creo que estoy cerca --
+
+00:01:04.517 --> 00:01:08.794
+0 a 60 millas por hora en, digamos, tres segundos.
+
+00:01:10.631 --> 00:01:13.108
+En tres segundos.
+
+00:01:13.385 --> 00:01:16.467
+Aunque realmente lo que te están dando es la rapidez, porque sólo te dicen la magnitud y no la dirección,
+
+00:01:16.467 --> 00:01:19.133
+Aunque realmente lo que te están dando es la rapidez, porque sólo te dicen la magnitud y no la dirección,
+
+00:01:19.133 --> 00:01:22.520
+se puede asumir que la dirección siempre es la misma,
+
+00:01:22.520 --> 00:01:27.308
+y se puede decir 0 millas por hora hacia el este, a 60 millas por horas hacia el este, en tres segundos.
+
+00:01:27.308 --> 00:01:30.397
+¿Cuál es la aceleración en este caso?
+
+00:01:30.397 --> 00:01:33.071
+Les acabo de decir que la definición de la aceleración es el cambio de velocidad con respecto al tiempo.
+
+00:01:33.071 --> 00:01:35.360
+Les acabo de decir que la definición de la aceleración es el cambio de velocidad con respecto al tiempo.
+
+00:01:35.360 --> 00:01:39.326
+Así que la aceleración -- y para reiterar, la aceleración es un vector.
+
+00:01:39.326 --> 00:01:43.287
+No sólo queremos saber el cambio de velocidad con respecto al tiempo, sino también la dirección.
+
+00:01:43.287 --> 00:01:45.283
+No sólo queremos saber el cambio de velocidad con respecto al tiempo, sino también la dirección.
+
+00:01:45.283 --> 00:01:48.933
+Lo cual es lógico porque la velocidad es un vector. Necesita magnitud y dirección.
+
+00:01:48.933 --> 00:01:51.061
+Lo cual es lógico porque la velocidad es un vector. Necesita magnitud y dirección.
+
+00:01:51.061 --> 00:01:52.708
+Entonces la aceleración en este caso, y supondremos que vamos hacia la derecha,
+
+00:01:52.708 --> 00:01:57.208
+Entonces la aceleración en este caso, y supondremos que vamos hacia la derecha,
+
+00:01:57.208 --> 00:01:59.560
+0 a 60 millas por hora hacia la derecha.
+
+00:01:59.560 --> 00:02:05.323
+Entonces será el cambio de velocidad -- déjenme escribirlo con otra notación, para que se acostumbren por si la ven escrita así en un libro.
+
+00:02:05.323 --> 00:02:08.200
+Entonces será el cambio de velocidad -- déjenme escribirlo con otra notación, para que se acostumbren por si la ven escrita así en un libro.
+
+00:02:08.200 --> 00:02:16.886
+El cambio de velocidad... este símbolo "delta" escrito aquí significa "cambio".
+
+00:02:16.886 --> 00:02:21.646
+Cambio de velocidad con respecto al tiempo. Al tiempo.
+
+00:02:21.646 --> 00:02:24.397
+Y como he mencionado en videos anteriores, cuando digo tiempo, en realidad me refiero al cambio de tiempo, pero simplemente escribiré "tiempo".
+
+00:02:24.397 --> 00:02:30.210
+Y como he mencionado en videos anteriores, cuando digo tiempo, en realidad me refiero al cambio de tiempo, pero simplemente escribiré "tiempo".
+
+00:02:30.210 --> 00:02:32.036
+Estos 3 segundos son realmente el cambio en el tiempo.
+
+00:02:32.036 --> 00:02:35.997
+O sea, por ejemplo, si el cronómetro dijera 5 segundos al empezar, y 8 segundos al terminar, habrían pasado 3 segundos.
+
+00:02:35.997 --> 00:02:39.707
+O sea, por ejemplo, si el cronómetro dijera 5 segundos al empezar, y 8 segundos al terminar, habrían pasado 3 segundos.
+
+00:02:39.707 --> 00:02:41.263
+O sea, por ejemplo, si el cronómetro dijera 5 segundos al empezar, y 8 segundos al terminar, habrían pasado 3 segundos.
+
+00:02:41.263 --> 00:02:46.230
+Así que la medida del tiempo es el cambio en segundos. Pero simplemente pondremos "tiempo", o "t".
+
+00:02:46.338 --> 00:02:47.921
+Así que la medida del tiempo es el cambio en segundos. Pero simplemente pondremos "tiempo", o "t".
+
+00:02:47.921 --> 00:02:50.196
+Entonces, ¿cuál es el cambio de velocidad? La velocidad final es 60 millas por hora.
+
+00:02:50.196 --> 00:02:53.556
+Entonces, ¿cuál es el cambio de velocidad? La velocidad final es 60 millas por hora.
+
+00:02:53.556 --> 00:02:55.865
+La velocidad final es 60 millas por hora.
+
+00:02:55.865 --> 00:02:58.819
+Y la velocidad inicial era 0 millas por hora,
+
+00:02:58.819 --> 00:03:01.714
+así que es 60 menos 0 millas por hora.
+
+00:03:04.176 --> 00:03:06.581
+Y ¿cuál es el tiempo?
+
+00:03:06.581 --> 00:03:08.731
+¿Cuál es el tiempo aquí?
+
+00:03:08.731 --> 00:03:10.974
+Bueno, el tiempo es -- o mejor dicho, el cambio de tiempo --
+
+00:03:10.974 --> 00:03:12.631
+Bueno, el tiempo es -- o mejor dicho, el cambio de tiempo --
+
+00:03:12.631 --> 00:03:15.038
+el cambio de tiempo es 3 segundos.
+
+00:03:15.808 --> 00:03:17.674
+3 segundos.
+
+00:03:18.028 --> 00:03:22.907
+Todo esto nos da 20 millas por hora por segundo.
+
+00:03:22.907 --> 00:03:24.515
+Lo escribiré. La parte de arriba es 60.
+
+00:03:24.515 --> 00:03:27.102
+Lo escribiré. La parte de arriba es 60.
+
+00:03:27.102 --> 00:03:29.363
+60 dividido 3 es 20,
+
+00:03:29.363 --> 00:03:32.226
+así que 20... pero las unidades son un poco raras.
+
+00:03:32.226 --> 00:03:35.291
+Tenemos las millas... en vez de "mph", escribiré millas sobre horas.
+
+00:03:35.291 --> 00:03:39.582
+Tenemos las millas... en vez de "mph", escribiré millas sobre horas.
+
+00:03:40.474 --> 00:03:43.186
+Que es lo mismo que millas por hora.
+
+00:03:43.186 --> 00:03:46.513
+Y en el denominador, aquí...
+
+00:03:46.513 --> 00:03:49.421
+aquí en el denominador tenemos segundos.
+
+00:03:49.421 --> 00:03:51.713
+aquí en el denominador tenemos segundos.
+
+00:03:51.713 --> 00:03:53.729
+Lo cual es un poco raro. Y como verán, las unidades de aceleración parecen algo raras.
+
+00:03:53.729 --> 00:03:57.411
+Lo cual es un poco raro. Y como verán, las unidades de aceleración parecen algo raras.
+
+00:03:57.411 --> 00:04:00.169
+Pero al pensarlo bien, veremos que tienen sentido.
+
+00:04:00.169 --> 00:04:02.959
+Millas por hora... y podemos escribir "segundos" aquí, o "por segundo".
+
+00:04:02.959 --> 00:04:06.945
+Millas por hora... y podemos escribir "segundos" aquí, o "por segundo".
+
+00:04:06.945 --> 00:04:08.461
+Veamos qué significa esto, y después podremos usar segundos, u horas, o lo que sea.
+
+00:04:08.461 --> 00:04:11.659
+Veamos qué significa esto, y después podremos usar segundos, u horas, o lo que sea.
+
+00:04:11.675 --> 00:04:15.569
+Esto significa que cada segundo, el Porsche 911 puede aumentar su velocidad por 20 millas por hora.
+
+00:04:15.569 --> 00:04:19.109
+Esto significa que cada segundo, el Porsche 911 puede aumentar su velocidad por 20 millas por hora.
+
+00:04:19.109 --> 00:04:23.036
+Por lo tanto, su aceleración es 20 millas por hora por segundo.
+
+00:04:23.036 --> 00:04:25.732
+Y en realidad, como se trata de un vector, deberíamos incluir la dirección.
+
+00:04:26.619 --> 00:04:29.567
+Va hacia el este.
+
+00:04:29.567 --> 00:04:32.744
+Y aquí también, hacia el este.
+
+00:04:32.744 --> 00:04:35.562
+Como estos son vectores, hay que darles una dirección: hacia el este.
+
+00:04:35.562 --> 00:04:37.268
+Como estos son vectores, hay que darles una dirección: hacia el este.
+
+00:04:37.268 --> 00:04:41.641
+Cada segundo, aumenta su velocidad por 20 millas por hora.
+
+00:04:41.641 --> 00:04:44.477
+Espero haberlo explicado bien.
+
+00:04:44.477 --> 00:04:46.498
+20 millas por hora... por segundo. Eso es lo que esto significa.
+
+00:04:46.498 --> 00:04:48.687
+20 millas por hora... por segundo. Eso es lo que esto significa.
+
+00:04:48.687 --> 00:04:51.979
+Ahora, también podemos escribirlo así: es lo mismo que decir
+
+00:04:51.979 --> 00:04:56.811
+20 millas por hora...
+
+00:04:58.000 --> 00:05:01.360
+porque si dividimos algo por segundo,
+
+00:05:01.360 --> 00:05:04.254
+es lo mismo que multiplicarlo por "uno sobre segundo".
+
+00:05:04.254 --> 00:05:08.338
+Así que es millas por hora-segundos.
+
+00:05:08.338 --> 00:05:12.082
+Y aunque está bien dicho, no es tan fácil de comprenderlo así.
+
+00:05:12.551 --> 00:05:15.098
+Este de aquí dice que cada segundo, aumenta en velocidad por 20 millas por hora.
+
+00:05:15.098 --> 00:05:17.271
+Este de aquí dice que cada segundo, aumenta en velocidad por 20 millas por hora.
+
+00:05:17.271 --> 00:05:21.037
+Un aumento de 20 millas por hora de velocidad por segundo.
+
+00:05:21.037 --> 00:05:22.834
+Así, me parece bastante lógico.
+
+00:05:22.834 --> 00:05:25.200
+Aquí, dice 20 millas por hora-segundos.
+
+00:05:25.200 --> 00:05:28.471
+Lo cual, como dije, no suena tan comprensible.
+
+00:05:28.471 --> 00:05:30.966
+Pero podemos escribirlo como una sola unidad de tiempo, aunque no es obligatorio.
+
+00:05:30.966 --> 00:05:33.056
+Pero podemos escribirlo como una sola unidad de tiempo, aunque no es obligatorio.
+
+00:05:33.056 --> 00:05:35.879
+Podemos cambiarlo para eliminar las horas en el denominador.
+
+00:05:35.879 --> 00:05:37.880
+Podemos cambiarlo para eliminar las horas en el denominador.
+
+00:05:37.880 --> 00:05:40.520
+Y la mejor manera de eliminar las horas en el denominador es multiplicándolo por algo que tenga horas en el numerador.
+
+00:05:40.520 --> 00:05:43.287
+Y la mejor manera de eliminar las horas en el denominador es multiplicándolo por algo que tenga horas en el numerador.
+
+00:05:43.287 --> 00:05:49.275
+Por lo tanto, horas y segundos... y aquí,
+
+00:05:49.275 --> 00:05:54.233
+las unidades más pequeñas son los segundos, que son 3600 segundos por cada hora.
+
+00:05:54.325 --> 00:05:56.795
+Es decir, una hora son 3600 segundos,
+
+00:05:56.887 --> 00:06:01.141
+o, cada segundo es un 3600avo de hora.
+
+00:06:01.141 --> 00:06:05.825
+Son todas maneras legítimas de interpretar esto que está escrito en magenta.
+
+00:06:05.825 --> 00:06:07.479
+Y ahora, multiplicamos. Un poco de análisis dimensional.
+
+00:06:07.479 --> 00:06:09.129
+Y ahora, multiplicamos. Un poco de análisis dimensional.
+
+00:06:09.129 --> 00:06:12.253
+Las horas se cancelan entre sí, y nos queda...
+
+00:06:12.253 --> 00:06:14.621
+Las horas se cancelan entre sí, y nos queda...
+
+00:06:14.621 --> 00:06:18.621
+nos queda 20 sobre 3600.
+
+00:06:18.621 --> 00:06:21.200
+20 sobre 3600...
+
+00:06:21.200 --> 00:06:23.969
+millas por segundo por segundo.
+
+00:06:23.969 --> 00:06:28.069
+Es decir, millas... déjenme escribirlo así.
+
+00:06:28.069 --> 00:06:31.769
+Millas por segundo por segundo, o podríamos decir, millas por segundo...
+
+00:06:31.860 --> 00:06:34.561
+Millas por segundo por segundo, o podríamos decir, millas por segundo...
+
+00:06:34.592 --> 00:06:36.769
+Lo escribiré con otro color.
+
+00:06:36.769 --> 00:06:39.361
+Millas por segundo al cuadrado.
+
+00:06:39.757 --> 00:06:44.204
+Millas por segundo al cuadrado.
+
+00:06:44.204 --> 00:06:45.882
+Y podemos simplificarlo un poco. Dividimos el denominador y el numerador por 10,
+
+00:06:45.882 --> 00:06:48.825
+Y podemos simplificarlo un poco. Dividimos el denominador y el numerados por 10,
+
+00:06:48.825 --> 00:06:51.545
+y nos da 2 sobre 360.
+
+00:06:51.545 --> 00:06:57.849
+Lo cual es lo mismo que 1 sobre 180 millas por segundo al cuadrado.
+
+00:06:57.849 --> 00:07:04.271
+Lo cual es lo mismo que 1 sobre 180 millas por segundo al cuadrado. Lo abreviaré así.
+
+00:07:04.271 --> 00:07:06.276
+Lo cual es lo mismo que 1 sobre 180 millas por segundo al cuadrado. Lo abreviaré así.
+
+00:07:06.276 --> 00:07:08.405
+Y como dije, esto... un 180avo de milla, ¿cuánto es?
+
+00:07:08.405 --> 00:07:10.521
+Y como dije, esto... un 180avo de milla, ¿cuánto es?
+
+00:07:10.521 --> 00:07:11.871
+Lo podríamos convertir a pies, pero lo importante es
+
+00:07:11.871 --> 00:07:13.315
+Lo podríamos convertir a pies, pero lo importante es
+
+00:07:13.315 --> 00:07:14.748
+demostrarles cómo se calcula la aceleración,
+
+00:07:14.748 --> 00:07:16.446
+demostrarles cómo se calcula la aceleración,
+
+00:07:16.446 --> 00:07:18.548
+y que entiendan lo que significa.
+
+00:07:18.548 --> 00:07:20.738
+Y nuevamente, esto de aquí, los segundos al cuadrado en el denominador,
+
+00:07:20.738 --> 00:07:22.954
+Y nuevamente, esto de aquí, los segundos al cuadrado en el denominador,
+
+00:07:22.954 --> 00:07:26.600
+no nos suena muy lógico, pero se puede escribir como está aquí arriba.
+
+00:07:26.600 --> 00:07:36.067
+Es 1 sobre 180 millas por segundo...
+
+00:07:36.067 --> 00:07:40.655
+y lo dividimos de nuevo por segundos. Por segundo.
+
+00:07:40.655 --> 00:07:44.208
+O tal vez lo pueda escribir así: por segundo.
+
+00:07:44.208 --> 00:07:46.585
+Todo esto es el numerador.
+
+00:07:46.585 --> 00:07:49.884
+Y así es un poco más lógico, del punto de vista de la aceleración.
+
+00:07:49.884 --> 00:07:52.673
+1 sobre 180 millas por segundo por segundo...
+
+00:07:52.673 --> 00:07:55.523
+cada segundo, el Porsche 911 irá un 180avo de milla por segundo más rápido.
+
+00:07:55.523 --> 00:08:01.631
+cada segundo, el Porsche 911 irá un 180avo de milla por segundo más rápido.
+
+00:08:01.631 --> 00:08:04.790
+En realidad, es más intuitivo usar millas por hora, porque nos resulta más conocido.
+
+00:08:04.790 --> 00:08:07.529
+En realidad, es más intuitivo usar millas por hora, porque nos resulta más conocido.
+
+00:08:07.529 --> 00:08:09.387
+Otra manera de verlo:
+
+00:08:09.387 --> 00:08:10.734
+Otra manera de verlo:
+
+00:08:10.734 --> 00:08:13.446
+si estuviéramos manejando ese Porsche, y miráramos el velocímetro,
+
+00:08:13.446 --> 00:08:16.225
+si estuvieramos manejando ese Porsche, y miráramos el velocímetro,
+
+00:08:16.225 --> 00:08:17.856
+y si la aceleración fuera constante, y en realidad no sería constante del todo,
+
+00:08:17.856 --> 00:08:20.344
+y si la aceleración fuera constante, y en realidad no sería constante del todo,
+
+00:08:20.344 --> 00:08:22.128
+pero si miráramos el velocímetro -- lo dibujaré.
+
+00:08:22.128 --> 00:08:23.271
+pero si miráramos el velocímetro -- lo dibujaré.
+
+00:08:23.271 --> 00:08:30.328
+Diría 10, 20, 30, 40, 50, 60.
+
+00:08:30.328 --> 00:08:32.748
+Seguro que el velocímetro de un Porsche no luce así.
+
+00:08:32.748 --> 00:08:35.386
+Éste se parecería más al de un cochecito de cuatro cilindros, me imagino.
+
+00:08:35.386 --> 00:08:38.594
+Éste se parecería más al de un cochecito de cuatro cilindros, me imagino.
+
+00:08:38.594 --> 00:08:40.305
+El velocímetro del Porsche llega a mucho más que 60 millas por hora, pero igual veríamos que
+
+00:08:40.305 --> 00:08:42.782
+El velocímetro del Porsche llega a mucho más que 60 millas por hora, pero igual veríamos que
+
+00:08:42.782 --> 00:08:46.136
+si acelerara así de rápido, es que al empezar, el velocímetro marcaría aquí.
+
+00:08:46.136 --> 00:08:48.364
+si acelerara así de rápido, es que al empezar, el velocímetro marcaría aquí.
+
+00:08:48.364 --> 00:08:51.462
+Y cada segundo, sería 20 millas por hora más rápido.
+
+00:08:51.462 --> 00:08:54.758
+Así que después de un segundo, el velocímetro se habrá movido hasta aquí.
+
+00:08:54.758 --> 00:08:57.837
+Tras un segundo más, el velocímetro se habrá movido hasta aquí.
+
+00:08:57.837 --> 00:09:01.400
+Y tras un segundo más, el velocímetro se habrá movido hasta aquí.
+
+00:09:01.400 --> 00:09:04.246
+Y durante todo este tiempo, hubiéramos estado pegados al respaldo del asiento.

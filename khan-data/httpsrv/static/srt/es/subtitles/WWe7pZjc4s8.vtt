@@ -1,0 +1,205 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.667 --> 00:00:06.764
+Espero que a raíz del ultimo vídeo hayamos dejado alguna intuición de por qué, o mejor, de qué se trata la serie de
+
+00:00:06.764 --> 00:00:11.733
+Maclaurin. Como dije al final del video, la serie de Maclaurin es solo un caso especial
+
+00:00:11.733 --> 00:00:15.800
+de la serie de Taylor. En el caso de la serie de Maclaurin , nos aproximamos
+
+00:00:15.800 --> 00:00:22.800
+a la función cuando x es igual a 0. En la serie de Taylor, como veremos en otro video,
+
+00:00:22.800 --> 00:00:29.800
+se puede elegir arbitrariamente el valor de x, o de f(x), Mejor dicho, se aproxima la función alrededor de ese valor.
+
+00:00:29.800 --> 00:00:34.133
+Dicho esto, vamos a concentrarnos en Maclaurin, porque hasta cierto punto es un poco más simple,
+
+00:00:34.133 --> 00:00:39.800
+y por sí misma nos puede llevar a algunas conclusiones muy profundas sobre las matemáticas,
+
+00:00:39.800 --> 00:00:41.733
+que en realidad es a donde trato de llegar.
+
+00:00:41.733 --> 00:00:45.133
+Así que vamos a llevar la serie Maclaurin con algunas funciones interesantes.
+
+00:00:45.133 --> 00:00:48.359
+Voy a manejar funciones para las que es bien fácil tomar las derivadas. Se puede
+
+00:00:48.359 --> 00:00:53.067
+continuar tomando las derivadas una y otra y otra y otra y otra vez.
+
+00:00:53.067 --> 00:01:01.733
+Tomemos la serie de Maclaurin del coseno de x, o sea, f(x) = cos (x),
+
+00:01:01.733 --> 00:01:06.867
+entonces - antes de aplicar la fórmula que dedujimos en el último video,
+
+00:01:06.867 --> 00:01:08.800
+o al menos la intuimos entonces -
+
+00:01:08.800 --> 00:01:13.067
+vamos a tomar un montón de derivadas de f (x), para formarnos una idea.
+
+00:01:13.067 --> 00:01:20.467
+Así, si tomamos la primera derivada, si tomamos la primera derivada, derivada de cos (x) =-sen (x).
+
+00:01:20.467 --> 00:01:25.800
+Si tomamos la derivada de eso, si tomamos la derivada de eso,
+
+00:01:25.800 --> 00:01:30.467
+derivada de sen(x) es cos(x), y como era negativa queda -cos(x)
+
+00:01:30.467 --> 00:01:35.867
+si ahora tomamos la derivada... esta es la tercera derivada de cos (x),
+
+00:01:35.867 --> 00:01:41.067
+Ahora va a ser seno de x positivo. Y si tomamos otra vez la derivada,
+
+00:01:41.067 --> 00:01:42.733
+obtenemos cos (x) de nuevo.
+
+00:01:42.733 --> 00:01:47.800
+Tenemos coseno de x nuevamente. Al derivar otra vez,
+
+00:01:47.800 --> 00:01:50.200
+vamos en la cuarta derivada, debo usar esta notación
+
+00:01:50.200 --> 00:01:52.867
+y ya tenemos la idea. Tenemos cos (x) de nuevo.
+
+00:01:52.867 --> 00:01:57.733
+Recordando lo dicho en el último video, queremos algo diferente - lo que queremos
+
+00:01:57.733 --> 00:02:01.200
+es la función; queremos las derivadas evaluadas para 0,
+
+00:02:01.200 --> 00:02:10.800
+así que vamos a evaluarlas. Así, f (0), cos (0) es 1, el coseno de cero es uno.
+
+00:02:10.800 --> 00:02:15.133
+Ya sea que estemos hablando de cero radianes o cero grados, no importa.
+
+00:02:15.133 --> 00:02:28.467
+Seno de cero es cero, así que esto es f prima de... f prima de cero, es cero. Y ahora cos (0)
+
+00:02:28.467 --> 00:02:32.867
+es, de nuevo, uno, pero teníamos el signo negativo, por lo que se convierte en negativo.
+
+00:02:32.867 --> 00:02:37.467
+Por lo tanto f - la segunda derivada evaluada en cero es negativa.
+
+00:02:37.467 --> 00:02:42.800
+Tomemos la tercera derivada, la tercera derivada evaluada en cero
+
+00:02:42.800 --> 00:02:48.000
+así, seno de cero es simplemente cero, y luego la cuarta derivada evaluado en cero.
+
+00:02:48.000 --> 00:02:54.467
+Coseno de cero es uno. Por lo tanto f prima prima prima en cero, ahora es igual a uno.
+
+00:02:54.467 --> 00:02:57.800
+Así, ya se ve un patrón interesante aquí - uno, cero, uno negativo, cero, uno
+
+00:02:57.800 --> 00:03:00.133
+luego vuelve a cero. Luego vamos a uno negativo, cero...
+
+00:03:00.133 --> 00:03:05.600
+Si aplicamos esto para encontrar la representación de Maclaurin, ¿qué obtenemos?
+
+00:03:05.600 --> 00:03:12.133
+Déjenme hacer mi mejor esfuerzo en esto. Obtenemos... el polinomio será...
+
+00:03:12.133 --> 00:03:19.533
+nuestra aproximación polinómica de coseno de x va a ser f (0),
+
+00:03:19.533 --> 00:03:28.600
+f(0) es uno, y luego tenemos uno más f '(0) por x .
+.
+
+00:03:28.600 --> 00:03:33.600
+Pero como f '(0) es cero, no vamos a tener este término allá. Va a ser
+
+00:03:33.600 --> 00:03:38.800
+cero por x, que ni siquiera me tomo la molestia de escribirlo; sería este cero
+
+00:03:38.800 --> 00:03:44.133
+por x. Entonces, ahora f prima prima o segunda derivada, que es uno negativo.
+
+00:03:44.133 --> 00:03:49.467
+así que voy a escribir negativo - negativo, esto es uno negativo aquí.
+
+00:03:49.467 --> 00:03:53.133
+Es uno negativo, por x al cuadrado x, por x al cuadrado,
+
+00:03:53.133 --> 00:03:59.600
+sobre 2 factorial que es simplemente dos.
+
+00:03:59.600 --> 00:04:04.333
+Voy a escribirlo aquí como dos factorial, para que el patrón se vea más obvio.
+
+00:04:04.333 --> 00:04:09.333
+Luego vamos al siguiente término, la tercera derivada evaluada en cero...
+
+00:04:09.333 --> 00:04:14.200
+pero la tercera derivada evaluada en cero es cero, por lo que este término no estará allí tampoco.
+
+00:04:14.200 --> 00:04:19.431
+Luego vamos a la cuarta derivada; la cuarta derivada evaluada en cero es uno positivo,
+
+00:04:19.431 --> 00:04:23.733
+por lo que este coeficiente de aquí va a ser un uno, y vamos a tener
+
+00:04:23.733 --> 00:04:30.533
+uno por x a la cuarta sobre cuatro factorial; así... más x a la cuarta sobre cuatro factorial
+
+00:04:30.533 --> 00:04:33.000
+y creo que ya se empieza a ver un patrón.
+
+00:04:33.000 --> 00:04:36.600
+Tenemos cambios en los signos - esto se ve si seguimos adelante.
+
+00:04:36.600 --> 00:04:39.133
+Pueden verificarlo ustedes mismos si no me creen;
+
+00:04:39.133 --> 00:04:44.200
+tendremos signo positivo, signo negativo, signo positivo y luego
+
+00:04:44.200 --> 00:04:50.067
+signo negativo, etc, etc. Esto es, ah, uno por x a la potencia cero.
+
+00:04:50.067 --> 00:04:54.800
+Luego saltamos uno para x al cuadrado, saltamos uno para x a la cuarta y
+
+00:04:54.800 --> 00:04:58.267
+si seguimos con esto, tendremos un signo positivo, luego uno negativo,
+
+00:04:58.267 --> 00:05:03.267
+será x a la sexta sobre seis factorial, después se tiene signo positivo,
+
+00:05:03.267 --> 00:05:07.800
+x a la octava sobre ocho factorial y ahora se tiene signo negativo,
+
+00:05:07.800 --> 00:05:13.867
+x a la décima sobre diez factorial y se puede seguir de esta manera.
+
+00:05:13.867 --> 00:05:18.867
+Al continuar con esta serie, se tendrá la representación polinómica de
+
+00:05:18.867 --> 00:05:23.533
+coseno de x. Francamente es genial poderlo representar de esta manera.
+
+00:05:23.533 --> 00:05:27.600
+Es un patrón muy sencillo, para una función trigonométrica.
+
+00:05:27.600 --> 00:05:30.800
+Nuevamente, vemos que estás matemáticas están todas conectadas. Vamos a ver en los 2 o 3 videos siguientes,
+
+00:05:30.800 --> 99:59:59.999
+que estas conecciones son mucho más profundas de lo que uno pudiera pensar.

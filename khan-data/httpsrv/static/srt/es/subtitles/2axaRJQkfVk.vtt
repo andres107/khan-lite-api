@@ -1,0 +1,141 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+ahora estamos en la parte c
+
+99:59:59.999 --> 99:59:59.999
+evalúe la integral definida de 0 a 10 de H prima de t dt
+
+99:59:59.999 --> 99:59:59.999
+usando las unidades correctas, explique el significado de la expresión en el contexto de este problema
+
+99:59:59.999 --> 99:59:59.999
+Entonces, si sabemos que si solo queremos evaluar la integral definida
+
+99:59:59.999 --> 99:59:59.999
+de 0 a 10 de H'(t) dt
+
+99:59:59.999 --> 99:59:59.999
+es la misma cosa que evaluar la anti-derivada
+
+99:59:59.999 --> 99:59:59.999
+de esta cosa de aquí, que es justamente h(t) a 10
+
+99:59:59.999 --> 99:59:59.999
+y substraer de ahí la anti-derivada de esto evaluada a cero
+
+99:59:59.999 --> 99:59:59.999
+Esta es la segunda teoría fundamental del cálculo
+
+99:59:59.999 --> 99:59:59.999
+esta es la forma exacta en la que evaluamos las integrales definidas
+
+99:59:59.999 --> 99:59:59.999
+y cuando usted lo ve así, usted verá que cuando lo evalúa
+
+99:59:59.999 --> 99:59:59.999
+nos da la diferencia en temperatura de 0 a 10 minutos
+
+99:59:59.999 --> 99:59:59.999
+se tomó la temperatura a 10 minutos
+
+99:59:59.999 --> 99:59:59.999
+y de ahí, sustraemos la temperatura a 0 minutos
+
+99:59:59.999 --> 99:59:59.999
+entonces esto es realmente el cambio en temperatura en esos 10 minutos
+
+99:59:59.999 --> 99:59:59.999
+y entonces podemos evaluarlo
+
+99:59:59.999 --> 99:59:59.999
+sabemos cuál es la temperatura despué de los 10 minutos
+
+99:59:59.999 --> 99:59:59.999
+H(10) es 43 grados Celsius (o centígrados).
+
+99:59:59.999 --> 99:59:59.999
+Entonces esto es 43, exactamente aquí.
+
+99:59:59.999 --> 99:59:59.999
+y de ahí, vamos a substraer nuestra temperatura inicial.
+
+99:59:59.999 --> 99:59:59.999
+nuestra temperatura a 0 minutos
+
+99:59:59.999 --> 99:59:59.999
+que es 66 grados Celsius
+
+99:59:59.999 --> 99:59:59.999
+Vamos a substraer 88 grados Celsius
+
+99:59:59.999 --> 99:59:59.999
+esto nos da -23 grados Celsius
+
+99:59:59.999 --> 99:59:59.999
+entonces nuestro cambio en la temperatura es -23 grados
+
+99:59:59.999 --> 99:59:59.999
+nuestra temperatura bajó 23 grados en el período de los primeros 10 minutos.
+
+99:59:59.999 --> 99:59:59.999
+Entonces esta es la parte c,
+
+99:59:59.999 --> 99:59:59.999
+ahora hagamos la parte d. A tiempo t=0,
+
+99:59:59.999 --> 99:59:59.999
+los bizcochos se removieron del horno a una temperatura de 100 grados,
+
+99:59:59.999 --> 99:59:59.999
+entonces ahora estamos hablando de bizcochos. Empezamos con té, ahora son bizcochos.
+
+99:59:59.999 --> 99:59:59.999
+la temperatura de los bizcochos al tiempo t está modelada por la función diferencial B.
+
+99:59:59.999 --> 99:59:59.999
+de lo cuál se conoce que B es igual a este negocio de aquí,
+
+99:59:59.999 --> 99:59:59.999
+dando el modelo al tiempo t=10, cuánto más frío están los bizcochos que el té
+
+99:59:59.999 --> 99:59:59.999
+bueno, sabemos cuál es la temperatura del té,
+
+99:59:59.999 --> 99:59:59.999
+solo tenemos que averiguar la temperatura de los bizcochos,
+
+99:59:59.999 --> 99:59:59.999
+para saber qué tanto más fríos están que el té.
+
+99:59:59.999 --> 99:59:59.999
+Esta es exactamente la misma idea.
+
+99:59:59.999 --> 99:59:59.999
+Sabemos que los bizcochos empezaron a apagarse a los 100 grados
+
+99:59:59.999 --> 99:59:59.999
+y podemos decir, cuánto se enfriaron,
+
+99:59:59.999 --> 99:59:59.999
+o cuál fue el cambio de temperatura en los últimos 10 minutos
+
+99:59:59.999 --> 99:59:59.999
+si sabemos cuál fue el cambio de temperatura, podemos usar esa información
+
+99:59:59.999 --> 99:59:59.999
+entonces podemos contestar a la pregunta,
+
+99:59:59.999 --> 99:59:59.999
+entonces, el cambio de temperatura en el lapso de 10 minutos, es la integral definida de 0 a 10 de este negocio,
+
+99:59:59.999 --> 99:59:59.999
+Déjenme escribirlo. Este es el mismo patrón que vimos aquí,
+
+99:59:59.999 --> 99:59:59.999
+Esto fue para las galletas, ahora es para los bizcochos,
+
+99:59:59.999 --> 99:59:59.999
+Esto de aquí, es la integral definida de 0 a 10. B'(t) dt

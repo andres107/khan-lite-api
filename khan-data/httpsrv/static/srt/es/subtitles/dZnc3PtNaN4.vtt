@@ -1,0 +1,357 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.690 --> 00:00:04.000
+Acabo de completar unos videos sobre el teorema del binomio. Pues, pienso que--
+
+00:00:04.000 --> 00:00:07.550
+Ahora, porque los he terminado, pienso que ahora mismo es un buen tiempo para hacer
+
+00:00:07.550 --> 00:00:13.660
+la prueba de la derivada de la forma general.
+
+00:00:13.660 --> 00:00:18.500
+Pues, tomamos la derivada de x al n.
+
+00:00:18.500 --> 00:00:20.300
+Ahora, porque sabemos el teorema del binomio,
+
+00:00:20.300 --> 00:00:22.440
+tenemos las herramientas para hacerlo.
+
+00:00:22.440 --> 00:00:23.830
+¿Cómo tomamos la derivada?
+
+00:00:23.830 --> 00:00:26.070
+Y bien, ¿Qué es la definición clásica de la derivada?
+
+00:00:26.070 --> 00:00:36.220
+Es el límite cuando delta x tiende a cero de la función
+
+00:00:36.220 --> 00:00:39.130
+f de x más delta x. ¿Claro?
+
+00:00:39.130 --> 00:00:44.210
+Entonces, en esta situación, f de x más delta x es x más delta x,
+
+00:00:44.210 --> 00:00:48.000
+todo al exponente n, ¿claro?
+
+00:00:48.000 --> 00:00:52.720
+menos f de x, lo cual es x al exponente n.
+
+00:00:52.720 --> 00:00:54.100
+Todo de eso sobre delta x.
+
+00:00:57.710 --> 00:01:01.610
+Ahora, porque sabemos el teorema del binomio, podemos calcular
+
+00:01:01.610 --> 00:01:05.200
+la expansión de x más delta x, todo al exponente n.
+
+00:01:05.200 --> 00:01:07.340
+Y si no sabes el teorema del binomio, vaya a mi
+
+00:01:07.340 --> 00:01:10.040
+lista de reproducción para precálculo y mira los videos sobre
+
+00:01:10.040 --> 00:01:11.710
+el teorema del binomio.
+
+00:01:11.710 --> 00:01:15.290
+Pues, el teorema del binomio nos muestra que esto es igual a--
+
+00:01:15.290 --> 00:01:20.170
+Voy a requerir espacio para esto--
+
+00:01:20.170 --> 00:01:23.310
+el límite cuando delta x tiende a cero--
+
+00:01:23.310 --> 00:01:24.860
+y ¿qué es el teorema del binomio?
+
+00:01:24.860 --> 00:01:26.960
+Esto va a ser igual a-- Sólo calculo el numerador,
+
+00:01:26.960 --> 00:01:39.630
+x al n más las combinaciones de n en 1.
+
+00:01:39.630 --> 00:01:42.440
+De nuevo, revisita el teorema del binomio si esto te parece como
+
+00:01:42.440 --> 00:01:44.340
+latín y no sabes latín.
+
+00:01:44.340 --> 00:02:00.780
+Las combinaciones de n en 1 por x al n menos 1 por delta x más las combinaciones de n en 2 por x al n menos 2--
+
+00:02:00.780 --> 00:02:07.650
+eso es x al exponente n menos 2 por delta x cuadrado.
+
+00:02:07.650 --> 00:02:10.490
+Luego mas, y ahora tenemos un monton de digitos, y esto es
+
+00:02:10.490 --> 00:02:12.560
+prueba de que no tenemos que ir a traves de todos los digitos pero el
+
+00:02:12.560 --> 00:02:14.810
+teorema de binomio nos dice lo que son, por supuesto, el
+
+00:02:14.810 --> 00:02:20.790
+ultimo digito que seguimos añadiendo sera 1--- seria
+
+00:02:20.790 --> 00:02:22.450
+n al exponente de las combinaciones de n que a su vez es 1.
+
+00:02:22.450 --> 00:02:26.030
+Denme un momento para escribir eso. n escoge n
+
+00:02:26.030 --> 00:02:36.920
+Va a ser x exponente zero multiplicado por delta x exponente n
+
+00:02:36.920 --> 00:02:39.030
+Esa es la expansion del teorema del binomio
+
+00:02:39.030 --> 00:02:44.450
+Permitame volver a menos, verde eso es x mas delta x
+
+00:02:44.450 --> 00:02:49.740
+exponente n, menos x a la potencia n
+
+00:02:49.740 --> 00:02:51.840
+Esto es x a la n, se que lo he empujado allí
+
+00:02:51.840 --> 00:02:56.810
+Esto es todo sobre delta x.
+
+00:02:56.810 --> 00:02:58.590
+Vamos a ver si podemos simplificarlo.
+
+00:02:58.590 --> 00:03:00.940
+En primer lugar tenemos una x para la n aquí, y al final
+
+00:03:00.940 --> 00:03:05.880
+sustraemos una x de n, de manera que se cancelan
+
+00:03:05.880 --> 00:03:09.080
+Si nos fijamos en cada término aquí, cada término en el numerador tiene
+
+00:03:09.080 --> 00:03:13.310
+un delta x, por lo que podemos dividir el numerador y el
+
+00:03:13.310 --> 00:03:16.820
+denominador por delta x.
+
+00:03:16.820 --> 00:03:19.210
+Esto es lo mismo que 1 sobre delta x veces
+
+00:03:19.210 --> 00:03:19.960
+todo esto.
+
+00:03:19.960 --> 00:03:29.670
+Por lo que es igual al límite como delta x acerca a cero,
+
+00:03:29.670 --> 00:03:31.910
+por lo que dividimos la parte superior e inferior por delta x, o nos
+
+00:03:31.910 --> 00:03:34.530
+multiplica el numerador veces 1 sobre delta x.
+
+00:03:34.530 --> 00:03:42.310
+Obtenemos n Elija 1 x al n menos 1.
+
+00:03:42.310 --> 00:03:45.580
+¿Qué es delta x dividido por delta x, que es sólo 1.
+
+00:03:45.580 --> 00:03:52.440
+Plus n Elija 2, x a la n menos 2.
+
+00:03:52.440 --> 00:03:56.310
+Se trata de delta x al cuadrado, pero dividimos por delta x nosotros
+
+00:03:56.310 --> 00:03:57.940
+acaba de obtener un delta x aquí.
+
+00:03:57.940 --> 00:03:59.490
+Delta x.
+
+00:03:59.490 --> 00:04:02.100
+Y entonces nosotros seguimos teniendo un montón de términos, vamos a dividir
+
+00:04:02.100 --> 00:04:04.180
+todos ellos por delta x.
+
+00:04:04.180 --> 00:04:07.190
+Y entonces el último término es delta x a la n, pero luego
+
+00:04:07.190 --> 00:04:09.130
+vamos a dividir que por delta x.
+
+00:04:09.130 --> 00:04:14.550
+Por lo que se convierte en el último término n Elija n, x al cero es 1,
+
+00:04:14.550 --> 00:04:17.940
+podemos ignorar. Delta x a la n dividido por delta x.
+
+00:04:17.940 --> 00:04:21.910
+Bueno, eso es delta x a n menos 1.
+
+00:04:25.150 --> 00:04:26.690
+¿Entonces qué hacemos ahora?
+
+00:04:26.690 --> 00:04:28.505
+Recuerde, estamos tomando el límite como delta
+
+00:04:28.505 --> 00:04:30.760
+x acerca a cero.
+
+00:04:30.760 --> 00:04:33.220
+Como delta x acerca a cero, bastante mucho cada término que
+
+00:04:33.220 --> 00:04:37.290
+tiene un delta x, éste se convierte en cero.
+
+00:04:37.290 --> 00:04:40.850
+Cuando multiplicas pero cero, obtendrá cero.
+
+00:04:40.850 --> 00:04:42.650
+Este primer término no tiene ningún delta x, pero
+
+00:04:42.650 --> 00:04:43.730
+hace cada otro término.
+
+00:04:43.730 --> 00:04:45.950
+Cada otro término, incluso después de que hemos dividido por delta x
+
+00:04:45.950 --> 00:04:46.680
+tiene un delta x.
+
+00:04:46.680 --> 00:04:47.930
+Eso es un cero.
+
+00:04:47.930 --> 00:04:50.970
+Cada término es cero, todos los otro n menos 1
+
+00:04:50.970 --> 00:04:52.940
+términos, son todos ceros.
+
+00:04:52.940 --> 00:04:58.390
+Todos estamos salimos con es que esto es igual a n elegir
+
+00:04:58.390 --> 00:05:02.520
+1 de x el n menos 1.
+
+00:05:02.520 --> 00:05:04.530
+¿Y lo n Elija 1?
+
+00:05:04.530 --> 00:05:13.070
+Es igual a n factorial más 1 factorial dividido por n menos 1
+
+00:05:13.070 --> 00:05:17.170
+factoriales veces x a n menos 1.
+
+00:05:17.170 --> 00:05:19.390
+factorial de 1 es 1.
+
+00:05:19.390 --> 00:05:23.430
+Si tengo 7 factorial dividido por 6 factorial, que es sólo 1.
+
+00:05:23.430 --> 00:05:26.070
+O si tengo factorial 3 dividido por 2 factorial, que
+
+00:05:26.070 --> 00:05:27.650
+sólo 3, usted puede resolverla.
+
+00:05:27.650 --> 00:05:30.660
+factorial 10 dividido por 9 factorial que es 10.
+
+00:05:30.660 --> 00:05:32.830
+Por lo tanto n factorial dividido por n menos 1 factorial,
+
+00:05:32.830 --> 00:05:34.600
+es simplemente igual a n.
+
+00:05:34.600 --> 00:05:39.540
+Así que esto es igual a n veces x a n menos 1.
+
+00:05:39.540 --> 00:05:43.866
+Es la derivada de x a las n veces n.
+
+00:05:43.866 --> 00:05:45.900
+x a la n menos 1.
+
+00:05:45.900 --> 00:05:52.470
+Sólo demostramos la derivada de cualquier número entero positivo cuando
+
+00:05:52.470 --> 00:05:55.610
+x a la potencia n, donde n es cualquier número entero positivo.
+
+00:05:55.610 --> 00:05:59.790
+Y después vemos que realmente funciona para todos los reales
+
+00:05:59.790 --> 00:06:02.990
+los números y el exponente.
+
+00:06:02.990 --> 00:06:05.980
+Nos vemos en un video futuro.
+
+00:06:05.980 --> 00:06:08.860
+Otra cosa que quería señalar es, sabes dije
+
+00:06:08.860 --> 00:06:10.150
+hemos tenido que conocer el teorema del binomio.
+
+00:06:10.150 --> 00:06:12.050
+Pero si pones a pensar, realmente no incluso tenemos que saber
+
+00:06:12.050 --> 00:06:15.630
+el teorema del binomio porque sabíamos que en cualquier binomial
+
+00:06:15.630 --> 00:06:17.960
+expansión--o sea, tendría que saber un poco--pero si
+
+00:06:17.960 --> 00:06:19.350
+hiciste una pequeña experimentación que lo haría
+
+00:06:19.350 --> 00:06:25.470
+conscientes de que siempre ampliar a más b a la n-ésima
+
+00:06:25.470 --> 00:06:29.040
+potencia, primer trimestre va a ser un a n y el segundo
+
+00:06:29.040 --> 00:06:35.670
+plazo va a ser más n un a n menos 1 b.
+
+00:06:35.670 --> 00:06:37.320
+Y, a continuación, va a seguir teniendo un montón de términos.
+
+00:06:37.320 --> 00:06:40.190
+Pero estos son los únicos términos que son relevantes para esta prueba
+
+00:06:40.190 --> 00:06:43.575
+porque todos los otros términos se canceló cuando delta
+
+00:06:43.575 --> 00:06:44.980
+x acerca a cero.
+
+00:06:44.980 --> 00:06:47.110
+Así que si usted solamente sabía que podría haber hecho esto, pero es
+
+00:06:47.110 --> 00:06:49.150
+mucho mejor que hacerlo con el teorema del binomio.
+
+00:06:49.150 --> 00:06:50.880
+Ignorar lo que decir si se le confunde.
+
+00:06:50.880 --> 00:06:55.280
+Sólo estoy diciendo que nosotros podríamos acaba de decir el resto de
+
+00:06:55.280 --> 00:06:56.950
+estos terminos terminan en zero
+
+00:06:56.950 --> 00:06:59.700
+De todos modos, esperemos que encontraste ese cumplimiento.
+
+00:06:59.700 --> 00:07:01.960
+los vere en futuros videos

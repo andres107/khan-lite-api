@@ -1,0 +1,572 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.660 --> 00:00:03.390
+Intentemos con ecuaciones un poco más complicadas.
+
+00:00:03.390 --> 00:00:13.340
+Digamos que tenemos 3 por x más 5-- Quiero asegurarme
+
+00:00:13.340 --> 00:00:27.593
+de que todos los colores estén bien-- es igual a 17.
+
+00:00:27.593 --> 00:00:29.817
+Lo diferente en este video, con respecto al anterior
+
+00:00:29.817 --> 00:00:32.290
+es que, de repente, ahora tenemos este +5
+
+00:00:32.290 --> 00:00:35.250
+Si fuera sólo 3x = 17, podríamos dividir ambos
+
+00:00:35.250 --> 00:00:37.570
+lados por 3, y tendríamos la respuesta.
+
+00:00:37.570 --> 00:00:41.080
+Pero ahora este 5 complica las cosas un poco.
+
+00:00:41.080 --> 00:00:43.610
+Ahora, antes de resolverlo, pensemos un poco
+
+00:00:43.610 --> 00:00:44.170
+qué significa.
+
+00:00:44.170 --> 00:00:47.500
+Resolvámoslo de una forma tangible, entonces
+
+00:00:47.500 --> 00:00:49.800
+lo resolveremos usando operaciones que, esperemos
+
+00:00:49.800 --> 00:00:50.650
+tendrán sentido después de eso.
+
+00:00:50.650 --> 00:00:54.440
+Entonces, 3 por x literalmente significa --déjenme escribirlo aquí.
+
+00:00:54.440 --> 00:00:55.870
+Entonces tenemos 3 por x.
+
+00:00:55.870 --> 00:00:59.960
+Entonces literalmente tenemos una x más una x más una x.
+
+00:00:59.960 --> 00:01:01.630
+Eso es 3x.
+
+00:01:01.630 --> 00:01:04.170
+Y ahora le sumamos 5, y efectivamente voy a escribirlo
+
+00:01:04.170 --> 00:01:05.770
+como cinco objetos.
+
+00:01:05.770 --> 00:01:12.130
+Entonces, más 1, 2, 3, 4, 5.
+
+00:01:12.130 --> 00:01:19.395
+Esto aquí, este 3x más 5, es igual a 17
+
+00:01:19.395 --> 00:01:20.818
+Permítanme que escriba el signo =.
+
+00:01:23.599 --> 00:01:25.807
+Ahora, déjenme dibujar 17 objetos aquí.
+
+00:01:25.810 --> 00:01:38.020
+1, 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 16, 17.
+
+00:01:38.020 --> 00:01:40.910
+Ahora, estas dos cosas son iguales, así que cualquier cosa que hagamos
+
+00:01:40.910 --> 00:01:42.440
+a este lado, tenemos que hacérsela a ese lado.
+
+00:01:42.440 --> 00:01:44.460
+Si queremos deshacernos de un objeto aquí, tenemos que deshacernos
+
+00:01:44.460 --> 00:01:46.730
+de un objeto allí para que la igualdad
+
+00:01:46.730 --> 00:01:48.730
+siga siendo cierta.
+
+00:01:48.730 --> 00:01:52.530
+Ahora, ¿qué podemos hacer a los dos lados de la ecuación para
+
+00:01:52.530 --> 00:01:54.690
+llevarla a la forma a la que estamos acostumbrados,
+
+00:01:54.690 --> 00:01:57.040
+donde sólo tenemos 3x en el lado izquierdo, y
+
+00:01:57.040 --> 00:01:58.840
+no tenemos este 5?
+
+00:01:58.840 --> 00:02:00.810
+Bueno, idealmente, nos desharíamos de estos
+
+00:02:00.810 --> 00:02:02.210
+cinco objetos.
+
+00:02:02.210 --> 00:02:04.460
+Literalmente nos desharíamos de estos cinco objetos:
+
+00:02:04.460 --> 00:02:06.710
+1, 2, 3, 4, 5.
+
+00:02:06.710 --> 00:02:09.300
+Pero, como dije, si la parte original fuera igual a la
+
+00:02:09.300 --> 00:02:12.410
+parte original de la derecha, si nos deshacemos de los cinco objetos del
+
+00:02:12.410 --> 00:02:14.680
+lado izquierdo, tenemos que deshacernos de cinco objetos
+
+00:02:14.680 --> 00:02:15.900
+del lado derecho.
+
+00:02:15.900 --> 00:02:20.600
+Entonces debemos hacerlo ahí también: 1, 2, 3, 4, 5.
+
+00:02:20.600 --> 00:02:24.030
+Ahora, ¿cuál sería una forma simbólica de representar
+
+00:02:24.030 --> 00:02:25.800
+el retirar cinco elementos?
+
+00:02:25.800 --> 00:02:29.550
+Bueno, estamos restando 5 de ambos lados de la ecuación.
+
+00:02:29.550 --> 00:02:32.100
+Eso es lo que hacemos aquí cuando quitamos 5
+
+00:02:32.100 --> 00:02:33.410
+de la izquierda y de la derecha
+
+00:02:33.410 --> 00:02:35.660
+Entonces, restamos 5 de la izquierda.
+
+00:02:35.660 --> 00:02:36.820
+Eso hicimos aquí
+
+00:02:36.820 --> 00:02:39.800
+Y también restamos 5 de la derecha.
+
+00:02:39.800 --> 00:02:41.390
+Hacemos eso aquí.
+
+00:02:41.390 --> 00:02:43.790
+Ahora, ¿en qué se transforma ahora
+
+00:02:43.790 --> 00:02:45.220
+el lado izquierdo de la ecuación?
+
+00:02:45.220 --> 00:02:47.300
+En el lado izquierdo, tienes 5 menos 5.
+
+00:02:47.300 --> 00:02:48.170
+Éstos se cancelan.
+
+00:02:48.170 --> 00:02:49.800
+Queda 3x.
+
+00:02:52.769 --> 00:02:54.531
+Es una tonalidad diferente de verde...
+
+00:02:54.531 --> 00:02:58.930
+Queda a la izquierda 3x.
+
+00:02:58.930 --> 00:03:01.260
+El 5 y el 5 negativo se cancelan.
+
+00:03:01.260 --> 00:03:02.300
+y eso se ve aquí.
+
+00:03:02.300 --> 00:03:04.070
+Cuando nos deshacemos de estos 5 objetos, quedan
+
+00:03:04.070 --> 00:03:06.410
+sólo las 3x.
+
+00:03:06.410 --> 00:03:09.340
+Esto aquí son las 3x.
+
+00:03:09.340 --> 00:03:11.490
+Y la única razón por la que restamos 5 es porque
+
+00:03:11.490 --> 00:03:13.780
+queríamos que este 5 desapareciera.
+
+00:03:13.780 --> 00:03:16.790
+Ahora, ¿a qué se asemeja el lado derecho de la ecuación?
+
+00:03:16.790 --> 00:03:19.450
+Entonces, 3x va a ser --permítanme escribir el signo =
+
+00:03:19.450 --> 00:03:22.210
+justo debajo-- es igual a --o podríamos en su lugar
+
+00:03:22.210 --> 00:03:23.060
+hacerlo matemáticamente.
+
+00:03:23.060 --> 00:03:24.980
+Digamos, OK, 17 menos 5.
+
+00:03:24.980 --> 00:03:28.310
+17 menos 5 es 12.
+
+00:03:28.310 --> 00:03:30.120
+O podríamos simplemente contar aquí.
+
+00:03:30.120 --> 00:03:30.910
+Tengo 17 cosas.
+
+00:03:30.910 --> 00:03:31.900
+Quito 5.
+
+00:03:31.900 --> 00:03:37.800
+Me quedan 12: 1, 2, 3, 4,
+5, 6, 7, 8, 9, 10, 11, 12.
+
+00:03:37.800 --> 00:03:39.090
+Eso es la sustracción.
+
+00:03:39.090 --> 00:03:41.180
+Es sólo quitar cinco cosas.
+
+00:03:41.180 --> 00:03:43.820
+Ahora lo tenemos en una forma bastante directa.
+
+00:03:43.820 --> 00:03:46.350
+3x es igual a 12.
+
+00:03:46.350 --> 00:03:48.450
+Todo lo que tenemos que hacer es dividir ambos lados
+
+00:03:48.450 --> 00:03:50.330
+de esta ecuación por 3.
+
+00:03:50.330 --> 00:03:53.930
+Entonces queda una x en la izquierda.
+
+00:03:53.930 --> 00:03:56.840
+Dividimos por-- permítanme elegir un color más agradable.
+
+00:03:56.840 --> 00:04:00.490
+Déjenme hacer esto color rosa.
+
+00:04:00.490 --> 00:04:02.340
+Dividimos el lado izquierdo por 3, el
+
+00:04:02.340 --> 00:04:03.540
+lado derecho por 3.
+
+00:04:03.540 --> 00:04:05.260
+Y recordemos a que es equivalente esto.
+
+00:04:05.260 --> 00:04:08.070
+En el lado izquierdo, nada de esto existe ya,
+
+00:04:08.070 --> 00:04:09.570
+así que debemos ignorarlo.
+
+00:04:09.570 --> 00:04:11.120
+Nada de esto existe ya.
+
+00:04:11.120 --> 00:04:13.270
+De hecho, déjenme borrarlo, así ni siquiera
+
+00:04:13.270 --> 00:04:14.190
+tenemos que verlo.
+
+00:04:14.190 --> 00:04:17.730
+Lo restamos, así que permítanme borrarlo.
+
+00:04:17.730 --> 00:04:20.350
+Borrarlo aquí.
+
+00:04:20.350 --> 00:04:21.740
+Borrarlo aquí.
+
+00:04:21.740 --> 00:04:24.300
+Entonces ahora dividimos ambos lados por 3.
+
+00:04:24.300 --> 00:04:25.640
+Dividimos el lado izquierdo por 3.
+
+00:04:25.640 --> 00:04:27.890
+Es 1, 2, 3.
+
+00:04:27.890 --> 00:04:30.580
+Entonces, tres grupos, cada uno tiene una x dentro.
+
+00:04:30.580 --> 00:04:35.670
+Si dividimos el lado derecho por 3, tenemos 1, 2 y 3.
+
+00:04:35.670 --> 00:04:38.560
+Quedan tres grupos de cuatro.
+
+00:04:38.560 --> 00:04:40.550
+Por lo tanto, cuando lo hacen matemáticamente,
+
+00:04:40.550 --> 00:04:41.680
+los 3 se cancelan.
+
+00:04:41.680 --> 00:04:43.975
+3 veces algo dividido por 3, es ese algo.
+
+00:04:43.975 --> 00:04:48.220
+Entonces nos queda x es igual a, y el 12
+
+00:04:48.220 --> 00:04:50.103
+dividido por 3 es 4.
+
+00:04:53.072 --> 00:04:55.157
+Queda que x es igual a 4, y obtenemos exactamente
+
+00:04:55.157 --> 00:04:56.070
+lo mismo aquí.
+
+00:04:56.070 --> 00:04:59.140
+Cuando dividimos 3x en grupos de 3, cada uno
+
+00:04:59.140 --> 00:05:01.730
+de los grupos tiene una x dentro.
+
+00:05:01.730 --> 00:05:04.610
+Cuando dividimos 12 en grupos de tres, cada uno de los grupos
+
+00:05:04.610 --> 00:05:09.230
+tiene un 4 dentro, así que x debe ser igual a 4.
+
+00:05:09.230 --> 00:05:12.390
+x es igual a 4.
+
+00:05:12.390 --> 00:05:15.110
+Hagamos otro, y esta vez no voy a dibujarlo
+
+00:05:15.110 --> 00:05:17.610
+así, pero espero que puedan ver que el mismo tipo
+
+00:05:17.610 --> 00:05:20.750
+de procesos está involucrado.
+
+00:05:20.750 --> 00:05:24.380
+Digamos que tengo-- permítanme bajar un poco.
+
+00:05:24.380 --> 00:05:29.060
+Digamos que tengo 7x.
+
+00:05:29.060 --> 00:05:36.880
+Entonces 7x-- Haré uno un poco más complicado esta vez.
+
+00:05:36.880 --> 00:05:48.330
+7x menos 2 es igual a-- Haré que los números no funcionen
+
+00:05:48.330 --> 00:05:54.360
+tan claro y bien-- es igual a 10 negativo.
+
+00:05:54.360 --> 00:05:57.400
+Ahora, de repente, esto se convierte en mucho más-- ya saben,
+
+00:05:57.400 --> 00:05:58.570
+tenemos un signo negativo.
+
+00:05:58.570 --> 00:06:00.310
+Tenemos un negativo aquí, pero vamos a
+
+00:06:00.310 --> 00:06:02.300
+hacer exactamente lo mismo.
+
+00:06:02.300 --> 00:06:04.510
+Lo primero que queremos hacer si queremos simplificar
+
+00:06:04.510 --> 00:06:07.450
+el lado izquierdo a sólo 7x es deshacernos
+
+00:06:07.450 --> 00:06:08.950
+de este 2 negativo.
+
+00:06:08.950 --> 00:06:12.170
+¿Y qué podemos agregar o sustraer a ampos lados de la ecuación
+
+00:06:12.170 --> 00:06:14.200
+para deshacernos de este 2 negativo?
+
+00:06:14.200 --> 00:06:18.050
+Bueno, si agregamos 2 al lado izquierdo, estos dos
+
+00:06:18.050 --> 00:06:19.470
+muchachos se cancelan.
+
+00:06:19.470 --> 00:06:21.420
+Pero recuerden, esto es igual a eso.
+
+00:06:21.420 --> 00:06:23.950
+Si queremos que la igualdad se mantenga, si agregamos 2 al
+
+00:06:23.950 --> 00:06:28.070
+lado izquierdo, también tenemos que hacerlo con el lado derecho.
+
+00:06:28.070 --> 00:06:31.990
+Entonces, ¿a qué va a ser igual el nuevo lado izquierdo?
+
+00:06:31.990 --> 00:06:36.950
+Tenemos 7x, 2 negativo más 2 es 0.
+
+00:06:36.950 --> 00:06:39.090
+Podría escribir "más 0", o no escribir nada.
+
+00:06:39.090 --> 00:06:40.130
+Y no escribiré nada.
+
+00:06:40.130 --> 00:06:44.920
+Entonces tenemos 7x igual a-- ¿cuánto es 10 negativo menos 2?
+
+00:06:44.920 --> 00:06:46.670
+Esto es un poco de revisión de adición y
+
+00:06:46.670 --> 00:06:48.970
+sustracción de números negativos.
+
+00:06:48.970 --> 00:06:49.810
+Recuerden.
+
+00:06:49.810 --> 00:06:51.840
+Dibujaré la recta numérica aquí para ustedes.
+
+00:06:51.840 --> 00:06:56.090
+Si dibujo la recta numérica-- éste es 9, éste es 1.
+
+00:06:56.090 --> 00:06:58.360
+Podríamos seguir yéndo hacia la dirección positiva.
+
+00:06:58.360 --> 00:06:59.550
+10 negativo está aquí.
+
+00:06:59.550 --> 00:07:03.850
+10 negativo, 9 negativo, 8 negativo, 7 negativo.
+
+00:07:03.850 --> 00:07:05.860
+Hay muchos números aquí.
+
+00:07:05.860 --> 00:07:07.040
+Ya saben, punto, punto, punto.
+
+00:07:07.040 --> 00:07:09.350
+No tengo espacio para dibujarlos todos, pero empezamos en
+
+00:07:09.350 --> 00:07:14.350
+10 negativo, y añadimos 2, así que nos estamos moviendo
+
+00:07:14.350 --> 00:07:15.780
+hacia la dirección positiva de la recta numérica.
+
+00:07:15.780 --> 00:07:17.960
+Nos movemos 1, 2.
+
+00:07:17.960 --> 00:07:19.520
+Entonces es 8 negativo.
+
+00:07:19.520 --> 00:07:20.540
+No se confundan.
+
+00:07:20.540 --> 00:07:23.130
+No digan "OK, 10 más 2 es 12, entonces 10 negativo
+
+00:07:23.130 --> 00:07:24.070
+más 2 es 12 negativo".
+
+00:07:24.070 --> 00:07:24.800
+¡No!
+
+00:07:24.800 --> 00:07:27.260
+10 negativo menos 2 sería 12 negativo porque
+
+00:07:27.260 --> 00:07:28.440
+iríamos más hacia el lado negativo.
+
+00:07:28.440 --> 00:07:30.200
+Aquí tenemos un número negativo, pero vamos
+
+00:07:30.200 --> 00:07:30.960
+hacia la derecha.
+
+00:07:30.960 --> 00:07:32.640
+Vamos en la dirección positiva, así que esto
+
+00:07:32.640 --> 00:07:35.020
+es 8 negativo.
+
+00:07:35.020 --> 00:07:38.010
+Entonces tenemos que 7x es igual a 8 negativo.
+
+00:07:38.010 --> 00:07:40.990
+Así que ahora podríamos preguntarnos cómo resolvemos
+
+00:07:40.990 --> 00:07:42.760
+este tipo de problema.
+
+00:07:42.760 --> 00:07:44.170
+Ya saben, tengo un número negativo aquí.
+
+00:07:44.170 --> 00:07:45.425
+Hacemos exactamente lo mismo.
+
+00:07:45.425 --> 00:07:49.410
+Si queremos tener sólo una x en el lado izquierdo, tenemos que
+
+00:07:49.410 --> 00:07:53.850
+dividir el lado izquierdo por 7, para que el 7x se dividiera por 7,
+
+00:07:53.850 --> 00:07:56.610
+los 7 se cancelan, y quedamos con x.,
+
+00:07:56.610 --> 00:07:58.220
+Entonces hagamos eso.
+
+00:07:58.220 --> 00:08:00.880
+Si dividimos por 7, ésos se cancelan, pero no podemos sólo
+
+00:08:00.880 --> 00:08:02.130
+hacerlo en el lado izquierdo.
+
+00:08:02.130 --> 00:08:03.880
+Lo que sea que hagamos al lado izquierdo, tenemos que hacerlo al derecho
+
+00:08:03.880 --> 00:08:06.950
+para que la igualdad siga siendo cierta.
+
+00:08:06.950 --> 00:08:10.360
+Entonces dividamos el lado derecho también por 7.
+
+00:08:10.360 --> 00:08:15.270
+Y quedamos con x igual a
+
+00:08:15.270 --> 00:08:16.760
+8 negativo dividido por 7.
+
+00:08:16.760 --> 00:08:17.560
+Podemos resolverlo.
+
+00:08:17.560 --> 00:08:19.810
+Sería algún decimal, si estás usando una
+
+00:08:19.810 --> 00:08:21.810
+calculadora, o podemos dejarlo en forma de fracción.
+
+00:08:21.810 --> 00:08:26.200
+8 negativo dividido por 7 es 8/7 negativo.
+
+00:08:26.200 --> 00:08:29.560
+8/7 negativo, o si queremos escribirlo como número compuesto, x
+
+00:08:29.560 --> 00:08:33.500
+es igual a... 7 cabe en 8 una vez, y resta un 1,
+
+00:08:33.500 --> 00:08:36.560
+por lo que es 1 y 1/7 negativos.
+
+00:08:36.560 --> 00:08:39.690
+Cualquiera sería aceptable.

@@ -1,0 +1,498 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.780 --> 00:00:04.190
+He hablado mucho acerca de segundo orden lineal homogénea
+
+00:00:04.190 --> 00:00:07.376
+ecuaciones diferenciales en términos abstractos y cómo si g
+
+00:00:07.376 --> 00:00:09.320
+es una solución, entonces algunos constante
+
+00:00:09.320 --> 00:00:10.740
+veces g también es una solución.
+
+00:00:10.740 --> 00:00:12.770
+O si g y h son soluciones y, a continuación, g
+
+00:00:12.770 --> 00:00:14.200
+Plus h también es una solución.
+
+00:00:14.200 --> 00:00:16.900
+Vamos a hacer realmente problemas, porque creo que será
+
+00:00:16.900 --> 00:00:18.860
+realmente le ayudan a aprender, a diferencia de
+
+00:00:18.860 --> 00:00:20.120
+ayuda que se confunde.
+
+00:00:20.120 --> 00:00:24.210
+Así que vamos a decir que tengo esta ecuación diferencial, la
+
+00:00:24.210 --> 00:00:31.840
+segunda derivada de y, con respecto a x, además de 5 veces el
+
+00:00:31.840 --> 00:00:38.080
+primera derivada y, con respecto a x, y y 6 veces
+
+00:00:38.080 --> 00:00:41.160
+es igual a 0.
+
+00:00:41.160 --> 00:00:44.570
+Así que tenemos que encontrar una y donde 1 veces su segunda derivada,
+
+00:00:44.570 --> 00:00:46.890
+más de 5 veces su primera derivada, más de 6 veces
+
+00:00:46.890 --> 00:00:48.760
+Sí, es igual a 0.
+
+00:00:48.760 --> 00:00:51.680
+Y ahora, vamos a simplemente hacer un poco de--un paso
+
+00:00:51.680 --> 00:00:56.100
+atrás y pensar en qué tipo de función--si tengo el
+
+00:00:56.100 --> 00:00:58.010
+función y yo tome su derivado y luego tomar su
+
+00:00:58.010 --> 00:01:00.410
+segunda derivada, mayoría de las veces me sale
+
+00:01:00.410 --> 00:01:02.760
+algo totalmente diferente.
+
+00:01:02.760 --> 00:01:14.770
+Como, si fue x al cuadrado, entonces primer y sería 2 x e y
+
+00:01:14.770 --> 00:01:16.200
+primer primo sería 2.
+
+00:01:16.200 --> 00:01:18.500
+Y luego añadirlos juntos usted diría, bueno, cómo sería mi
+
+00:01:18.500 --> 00:01:22.770
+¿x cancelan términos para que tienes a 0 en el final?
+
+00:01:22.770 --> 00:01:26.140
+Sorteo así en tu cerebro y piensa, existe algún
+
+00:01:26.140 --> 00:01:31.470
+función cuando tomo sus derivados primeras y segunda,
+
+00:01:31.470 --> 00:01:34.630
+y derivados terceros y cuarto, esencialmente
+
+00:01:34.630 --> 00:01:35.730
+¿se hace la misma función?
+
+00:01:35.730 --> 00:01:41.010
+Tal vez la constante frente a la función cambia a medida que tomo
+
+00:01:41.010 --> 00:01:42.080
+la derivada.
+
+00:01:42.080 --> 00:01:44.970
+Y si has escuchado mucho de mis videos, lo haría
+
+00:01:44.970 --> 00:01:48.970
+conscientes de que probablemente es lo que considero más
+
+00:01:48.970 --> 00:01:52.290
+función sorprendente en matemáticas.
+
+00:01:52.290 --> 00:01:56.230
+Y esa es la función e a la x.
+
+00:01:56.230 --> 00:01:59.770
+Y en particular, tal vez e a la x no funcionará aquí--o le
+
+00:01:59.770 --> 00:02:01.010
+¿puede incluso probarlo, derecho?
+
+00:02:01.010 --> 00:02:03.550
+Si hiciste e a la x, que no satisfacer
+
+00:02:03.550 --> 00:02:06.850
+¿Esta ecuación, correcta?
+
+00:02:06.850 --> 00:02:10.490
+Se obtendría e a la x, además de 5e al x plus 6e al x.
+
+00:02:10.490 --> 00:02:12.030
+No sería igual a 0.
+
+00:02:12.030 --> 00:02:25.440
+Pero tal vez y es igual a e a algunos r constante, a veces x.
+
+00:02:25.440 --> 00:02:27.640
+Vamos a hacer la suposición de que es igual a algunos
+
+00:02:27.640 --> 00:02:31.510
+constante r veces x, sustituto hacia atrás en esto, y entonces
+
+00:02:31.510 --> 00:02:33.640
+ver si realmente podemos resolver para una r que hace esto
+
+00:02:33.640 --> 00:02:34.140
+true de la ecuación.
+
+00:02:34.140 --> 00:02:37.730
+Y si podemos, hemos encontrado la solución, o quizá hemos encontrado
+
+00:02:37.730 --> 00:02:38.580
+varias soluciones.
+
+00:02:38.580 --> 00:02:39.360
+Así que vamos a probarlo.
+
+00:02:39.360 --> 00:02:43.680
+Vamos a probar y es igual a e a la rx en esto
+
+00:02:43.680 --> 00:02:44.520
+ecuación diferencial.
+
+00:02:44.520 --> 00:02:46.260
+¿Cuál es la primera derivada de
+
+00:02:46.260 --> 00:02:48.600
+que, en primer lugar.
+
+00:02:48.600 --> 00:02:50.830
+Y tan pronto. ¿primo es igual a qué?
+
+00:02:50.830 --> 00:02:51.840
+Regla de la cadena de derivados.
+
+00:02:51.840 --> 00:02:54.846
+Derivado del interior es r.
+
+00:02:54.846 --> 00:02:56.390
+Y luego derivado del exterior sigue siendo
+
+00:02:56.390 --> 00:02:58.660
+e sólo para rx.
+
+00:02:58.660 --> 00:03:00.490
+¿Y lo que es la segunda derivada?
+
+00:03:00.490 --> 00:03:05.530
+primer primo y es igual a la derivada--r es sólo una
+
+00:03:05.530 --> 00:03:08.370
+constante--derivado del interior es r, tiempos r en
+
+00:03:08.370 --> 00:03:13.140
+el exterior, que es r cuadrado, tiempos e la RX.
+
+00:03:13.140 --> 00:03:15.610
+Y ahora estamos listos para sustituir a.
+
+00:03:15.610 --> 00:03:17.760
+Y cambiará de colores.
+
+00:03:17.760 --> 00:03:23.570
+Así la segunda derivada, que es r squared times e
+
+00:03:23.570 --> 00:03:31.970
+la rx plus 5 veces la primera derivada, por lo es 5re a
+
+00:03:31.970 --> 00:03:40.310
+la rx plus 6 veces nuestra función--6 veces e a rx
+
+00:03:40.310 --> 00:03:42.600
+es igual a 0.
+
+00:03:42.600 --> 00:03:45.760
+Y algo ya podría ser superficie a usted como algo
+
+00:03:45.760 --> 00:03:47.700
+podemos hacer esta ecuación a resolver para r.
+
+00:03:47.700 --> 00:03:50.820
+Todos estos términos a la izquierda todos tienen una e en la rx, tan
+
+00:03:50.820 --> 00:03:52.840
+vamos a factor fuera.
+
+00:03:52.840 --> 00:04:04.360
+Así que esto es igual a e a rx veces r cuadrado más 5r,
+
+00:04:04.360 --> 00:04:10.420
+Además 6 es igual a 0.
+
+00:04:10.420 --> 00:04:14.370
+Y nuestro objetivo, recuerdo, era resolver para el r o el Santander,
+
+00:04:14.370 --> 00:04:15.440
+harán de este verdadero.
+
+00:04:15.440 --> 00:04:18.850
+Y en orden para este lado de la ecuación que
+
+00:04:18.850 --> 00:04:20.740
+0, ¿qué sabemos?
+
+00:04:20.740 --> 00:04:23.570
+¿Puede e la RX nunca igual a 0?
+
+00:04:23.570 --> 00:04:28.010
+¿Puede nunca conseguir algo a algún exponente y obtener 0?
+
+00:04:28.010 --> 00:04:28.610
+Bueno, no.
+
+00:04:28.610 --> 00:04:30.150
+Así que esto no puede igual a 0.
+
+00:04:30.150 --> 00:04:33.290
+En orden para este lado izquierdo de la ecuación 0,
+
+00:04:33.290 --> 00:04:37.480
+Este término, esta expresión aquí, tiene que ser 0.
+
+00:04:37.480 --> 00:04:39.980
+Y lo haré en un color diferente.
+
+00:04:39.980 --> 00:04:43.810
+Por lo que sabemos, si queremos resolver para r, que este, r
+
+00:04:43.810 --> 00:04:48.110
+cuadrado más 5r, más 6, que tiene que ser 0.
+
+00:04:48.110 --> 00:04:51.630
+Y esto se conoce como la ecuación característica.
+
+00:04:51.630 --> 00:04:55.120
+Esto, la r cuadrada más 5r, más 6, se llama el
+
+00:04:55.120 --> 00:04:56.135
+ecuación característica.
+
+00:04:56.135 --> 00:04:58.490
+Y debería ser obvio para usted que ahora este
+
+00:04:58.490 --> 00:05:00.830
+ya no es cálculo.
+
+00:05:00.830 --> 00:05:03.050
+Esto sólo es factoring una cuadrática.
+
+00:05:03.050 --> 00:05:04.480
+Y realmente es bastante
+
+00:05:04.480 --> 00:05:06.200
+factor sencillo.
+
+00:05:06.200 --> 00:05:06.740
+¿Qué es esto?
+
+00:05:06.740 --> 00:05:17.930
+Esto es r plus 2 veces, r plus 3 es igual a 0.
+
+00:05:17.930 --> 00:05:21.070
+Y por lo tanto las soluciones de la ecuación característica--o
+
+00:05:21.070 --> 00:05:25.180
+en realidad, las soluciones a esta ecuación original--son r
+
+00:05:25.180 --> 00:05:34.050
+es igual al negativo 2 y r es igual a menos 3.
+
+00:05:34.050 --> 00:05:37.000
+Por lo que dices, hey, encontramos dos soluciones, porque encontramos
+
+00:05:37.000 --> 00:05:40.520
+dos le adecuado erres que hacen esto
+
+00:05:40.520 --> 00:05:41.610
+ecuación diferencial true.
+
+00:05:41.610 --> 00:05:42.770
+Y ¿qué son esos?
+
+00:05:42.770 --> 00:05:46.190
+Bueno, la primera de ellas es igual a e y
+
+00:05:46.190 --> 00:05:50.460
+¿al menos 2 x, a la derecha?
+
+00:05:50.460 --> 00:05:52.090
+Podemos llamar a ese y1.
+
+00:05:52.090 --> 00:05:58.560
+Y luego la segunda solución encontramos, y2 e--
+
+00:05:58.560 --> 00:06:00.640
+¿Qué es esto?--r es menos x 3.
+
+00:06:03.150 --> 00:06:04.980
+Ahora mi pregunta es, esto es la
+
+00:06:04.980 --> 00:06:07.060
+¿una solución más general?
+
+00:06:07.060 --> 00:06:09.080
+Bien, en el último video, en especie de nuestros introductoria
+
+00:06:09.080 --> 00:06:12.710
+video, aprendimos que es una constante siempre una solución
+
+00:06:12.710 --> 00:06:14.170
+aún una solución.
+
+00:06:14.170 --> 00:06:18.050
+Así, si y1 es una solución, también sabemos que nos podemos multiplicar
+
+00:06:18.050 --> 00:06:19.515
+Y1 veces cualquier constante.
+
+00:06:19.515 --> 00:06:20.300
+Así que vamos a hacer eso.
+
+00:06:20.300 --> 00:06:22.340
+Vamos a multiplicarlo por c1.
+
+00:06:22.340 --> 00:06:23.750
+Es un c1 allí.
+
+00:06:23.750 --> 00:06:25.120
+Esto también va a ser una solución.
+
+00:06:25.120 --> 00:06:27.180
+¿Y ahora es un poco más general, verdad?
+
+00:06:27.180 --> 00:06:29.360
+Es toda una clase de funciones.
+
+00:06:29.360 --> 00:06:32.590
+El c no tiene que ser sólo 1, puede ser cualquier constante.
+
+00:06:32.590 --> 00:06:35.210
+Y luego al utilizar sus valores iniciales, usted realmente
+
+00:06:35.210 --> 00:06:37.110
+puede averiguar qué es ese constante.
+
+00:06:37.110 --> 00:06:38.330
+Y lo mismo para y2.
+
+00:06:38.330 --> 00:06:42.160
+Y2 no tiene que ser al menos 3 x 1 veces, tiene que
+
+00:06:42.160 --> 00:06:43.640
+ser cualquier constante.
+
+00:06:43.640 --> 00:06:46.340
+Y nos enteramos que en el último video, que si
+
+00:06:46.340 --> 00:06:48.410
+algo es una solución, algunas veces constantes
+
+00:06:48.410 --> 00:06:49.700
+También es una solución.
+
+00:06:49.700 --> 00:06:52.480
+Y también aprendimos que si tenemos dos soluciones diferentes,
+
+00:06:52.480 --> 00:06:55.630
+que si agrega juntos, también obtendrá una solución.
+
+00:06:55.630 --> 00:06:59.600
+Solución lo más general de esta ecuación diferencial
+
+00:06:59.600 --> 00:07:06.310
+es y--podríamos decir y de x, para golpearlo casa que esto
+
+00:07:06.310 --> 00:07:11.930
+definitivamente es que una función de x--y de x es igual a c1e a
+
+00:07:11.930 --> 00:07:19.190
+al menos 2 x plus c2e al menos x 3.
+
+00:07:19.190 --> 00:07:22.040
+Y esta es la solución general de esta
+
+00:07:22.040 --> 00:07:22.860
+ecuación diferencial.
+
+00:07:22.860 --> 00:07:25.370
+Y no probarlo porque la prueba es bastante involucrada.
+
+00:07:25.370 --> 00:07:27.210
+O sea, sólo tratamos de cabo e para rx.
+
+00:07:27.210 --> 00:07:29.380
+Tal vez haya alguna otra función wacko que tendría
+
+00:07:29.380 --> 00:07:30.150
+trabajó aquí.
+
+00:07:30.150 --> 00:07:32.180
+Pero te voy a decir ahora, y tipo de tienes que tomarlo como un
+
+00:07:32.180 --> 00:07:35.670
+salto de fe, que es la solución sólo general.
+
+00:07:35.670 --> 00:07:38.990
+No hay algún loco fuera de función hay que tendría
+
+00:07:38.990 --> 00:07:40.210
+También trabajó.
+
+00:07:40.210 --> 00:07:43.050
+Y la otra pregunta que puede ir apareciendo en el cerebro
+
+00:07:43.050 --> 00:07:48.170
+es, Sal, cuando primero pedimos las ecuaciones diferenciales,
+
+00:07:48.170 --> 00:07:49.460
+sólo teníamos una constante.
+
+00:07:49.460 --> 00:07:52.170
+Y que estaba bien, porque tuvimos un juego inicial
+
+00:07:52.170 --> 00:07:54.410
+condiciones y hemos resuelto para nuestras constantes.
+
+00:07:54.410 --> 00:07:55.910
+Pero aquí, tengo dos constantes.
+
+00:07:55.910 --> 00:07:58.710
+Así que si quería una solución particular, ¿cómo puedo yo solucionar para
+
+00:07:58.710 --> 00:08:01.350
+¿dos variables si sólo me ha dado una condición inicial?
+
+00:08:01.350 --> 00:08:03.990
+Y si eso es lo realmente pensaba, su
+
+00:08:03.990 --> 00:08:05.270
+intuición sería correcta.
+
+00:08:05.270 --> 00:08:09.450
+Realmente necesita dos condiciones iniciales para solucionar esto
+
+00:08:09.450 --> 00:08:10.840
+ecuación diferencial.
+
+00:08:10.840 --> 00:08:15.070
+Necesitaría saber, en un valor dado de x,
+
+00:08:15.070 --> 00:08:16.560
+lo que es igual a.
+
+00:08:16.560 --> 00:08:19.960
+Y, tal vez en un valor dado de x, lo que la
+
+00:08:19.960 --> 00:08:21.960
+es la primera derivada.
+
+00:08:21.960 --> 00:08:25.260
+Y eso es lo que haremos en el siguiente vídeo.
+
+00:08:25.260 --> 00:08:26.510
+Ver

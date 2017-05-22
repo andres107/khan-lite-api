@@ -1,0 +1,108 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.800 --> 00:00:01.770
+Hola de nuevo!
+
+00:00:01.770 --> 00:00:03.750
+Así que tenemos ese muelle verde aquí, y... vamos a ver...
+
+00:00:03.750 --> 00:00:04.910
+Hay una pared aquí.
+
+00:00:04.910 --> 00:00:06.080
+Eatà conectada a la pared.
+
+00:00:06.080 --> 00:00:09.690
+Y digamos que ese es el uelle en estado natural.
+
+00:00:09.690 --> 00:00:12.560
+Por lo tanto, si no empujo el muelle va a medir
+
+00:00:12.560 --> 00:00:14.040
+todo eso.
+
+00:00:14.040 --> 00:00:16.410
+Pero en este caso, empujo el muelle por lo tanto
+
+00:00:16.410 --> 00:00:19.560
+tiene un desplazamiento de X
+
+00:00:19.560 --> 00:00:21.450
+Solo nos interesa la magnitud así que no te preocupes mucho
+
+00:00:21.450 --> 00:00:23.770
+por la dirección.
+
+00:00:23.770 --> 00:00:25.680
+Voy a pensar un momento... Bien, lo primero que
+
+00:00:25.680 --> 00:00:29.710
+quiero hacer ahora es dibujar cuanta fuerza he aplicado en distintos
+
+00:00:29.710 --> 00:00:31.920
+puntos a mesura que comprimia el muelle
+
+00:00:31.920 --> 00:00:35.140
+Y después voy a usar ese dibujo para, quizas, darme cuenta
+
+00:00:35.140 --> 00:00:38.270
+cuanto trabajo he hecho en comprimir el muelle
+
+00:00:38.270 --> 00:00:45.300
+vamos a ver... Ahora estoy comprimiendo hacia la izquierda...
+
+00:00:45.300 --> 00:00:48.990
+Quizas deberia empujar a la derecha, para que puedas... bien.
+
+00:00:48.990 --> 00:00:51.050
+solo nos preocupamos de la magnitud del axis X
+
+00:00:51.050 --> 00:00:53.960
+Vamos a dibujar una pequeña grafica aquí
+
+00:00:53.960 --> 00:00:59.050
+Esos son Mi axis Y e X
+
+00:01:03.960 --> 00:01:09.350
+Ese axis es cuanto lo he comprimido, X, y ese
+
+00:01:09.350 --> 00:01:14.170
+axis, el axis Y, es cuanta fuerza he aplicado
+
+00:01:14.170 --> 00:01:18.850
+Por lo tanto, cuando el muelle esta inicialmente extendido
+
+00:01:18.850 --> 00:01:21.180
+aqui, para comprimirlo un poquito ¿cuanta fuerza
+
+00:01:21.180 --> 00:01:22.670
+tengo que aplicar?
+
+00:01:22.670 --> 00:01:25.950
+Bien, eso es en estado original ¿No?
+
+00:01:25.950 --> 00:01:29.190
+Y sabemos que... Bueno, la ley de Hook nos dice que la
+
+00:01:29.190 --> 00:01:34.570
+puerza elastica, vvoy a poner una r pequeña aquí, es
+
+00:01:34.570 --> 00:01:39.400
+equivalente al negativo de K, donde K es la constante de el muelle por
+
+00:01:39.400 --> 00:01:42.010
+el desplazamiento, ¿cierto?
+
+00:01:42.010 --> 00:01:44.580
+Esa es la fuerza Elastica, por lo tanto, esa es la fuerza que
+
+00:01:44.580 --> 00:01:47.470
+el muelle aplica a cualquier cosa empujandolo.
+
+00:01:47.470 --> 00:01:50.260
+La fuerza para comprimirlo es exactamente la misma, pero
+
+00:01:50.260 --> 00:01:51.980
+va en la misma dirección que la X

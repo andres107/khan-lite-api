@@ -1,0 +1,123 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:12.080
+Vamos a multiplicar "9 por... 8000... 8085".
+
+00:00:12.423 --> 00:00:15.503
+Este debería ser un pequeño cálculo muy divertido de resolver.
+
+00:00:15.733 --> 00:00:20.330
+Así que, como siempre, vamos a reescribir esto, reescribo el 8085.
+
+00:00:20.614 --> 00:00:24.435
+Escribo la unidad 9 a la derecha, debajo de las unidades del 8085, y añado nuestro pequeño símbolo de multiplicar.
+
+00:00:24.806 --> 00:00:29.533
+Y ahora estamos listos para calcular. Así que primero, empezamos con "9 por 5".
+
+00:00:29.718 --> 00:00:32.662
+Bien, sabemos que "9 por 5" es 45.
+
+00:00:33.034 --> 00:00:37.336
+Podemos escribir el 5 en su sitio y nos "llevamos" el 4 al lugar de las decenas.
+
+00:00:37.471 --> 00:00:40.637
+Por tanto, "9 por 5" es igual a 45.
+
+00:00:40.929 --> 00:00:44.895
+Ahora estamos listos para calcular "9 por 8".
+
+00:00:45.157 --> 00:00:49.509
+Calculamos "9 por 8" y después sumamos al resultado los 4 que nos llevamos antes.
+
+00:00:49.936 --> 00:00:56.168
+"9 por 8" son 72, más el 4 son 76.
+
+00:00:56.719 --> 00:01:00.921
+Escribimos el 6 justo aquí, en el lugar de las decenas y nos llevamos el 7 para las centenas.
+
+00:01:01.666 --> 00:01:06.643
+Ahora, estamos listos para calcular (y estoy buscando un color adecuado)...
+
+00:01:07.069 --> 00:01:11.995
+"9 por 0"... "9 por 0 centenas" más...
+
+00:01:12.536 --> 00:01:14.919
+(y este es el 7 que está el lugar de las centenas es en realidad 700)
+
+00:01:15.071 --> 00:01:19.084
+... o si estamos sólo calculando, "9 por 0" más 7.
+
+00:01:19.138 --> 00:01:24.065
+Bien, "9 por 0" es 0, más 7 son 7... es 7.
+
+00:01:24.657 --> 00:01:27.996
+Y finalmente, tenemos...
+
+00:01:28.203 --> 00:01:30.577
+(y una vez más que estoy buscando un color adecuado)
+
+00:01:31.033 --> 00:01:35.634
+"9 por 8", "9 por 8", esto es lo último que tenemos que calcular.
+
+00:01:36.112 --> 00:01:42.638
+Ya sabemos que "9 por 8" es 72 y lo escribimos aquí abajo.
+
+00:01:42.867 --> 00:01:43.698
+¡Y ya está!
+
+00:01:43.853 --> 00:01:50.038
+"8085 por 9" son "72765".
+
+00:01:50.139 --> 00:01:53.975
+Vamos a hacer un ejemplo más, sólo para asegurarsnos de que te ha quedado claro.
+
+00:01:54.171 --> 00:01:57.242
+Al menos, el proceso para hacer esto, y también quiero que pienses en por qué esto funciona.
+
+00:01:57.947 --> 00:02:09.502
+Así que vamos a intentarlo... vamos a intentar "7 por 5000"... "5396".
+
+00:02:09.612 --> 00:02:11.909
+Y también te animo a hacer una pausa y probar por tu cuenta.
+
+00:02:12.742 --> 00:02:20.996
+Bueno, 5000... (Voy a volver a escribir) "5396 por 7" - primero vamos a pensar en...
+
+00:02:21.362 --> 00:02:25.912
+... primero vamos a pensar en cuanto es "7 por 6", sabemos que es 42.
+
+00:02:26.280 --> 00:02:29.331
+Colocamos el 2 en su lugar y nos llevamos el 4.
+
+00:02:30.006 --> 00:02:33.910
+Después tenemos que preocuparnos por cuánto es "7 por 9".
+
+00:02:34.440 --> 00:02:37.178
+Pero entonces tenemos que calcular eso y luego sumarle el 4.
+
+00:02:37.531 --> 00:02:42.569
+"7 por 9" son 63 más 4 son "67".
+
+00:02:43.139 --> 00:02:47.255
+Así que, tenemos... ponemos el 7 aquí debajo y nos llevamos el 6.
+
+00:02:48.005 --> 00:02:55.814
+Luego, resolvemos cuanto es "7 por 3" más la suma de ese 6 que acabamos de llevarnos.
+
+00:02:56.074 --> 00:03:00.838
+"7 por 3" son 21 más 6 son "27".
+
+00:03:01.539 --> 00:03:05.703
+Escribimos el 7 in el lugar de las centenas y nos llevamos el 2.
+
+00:03:05.936 --> 00:03:13.022
+Finalmente, tenemos que "7 por 5" son 35 pero le tenemos que sumar ese 2.
+
+00:03:13.273 --> 00:03:16.272
+"32 más 2" son 37.
+
+00:03:16.585 --> 00:03:22.522
+Por lo tanto, "5396 por 7" son "37772".

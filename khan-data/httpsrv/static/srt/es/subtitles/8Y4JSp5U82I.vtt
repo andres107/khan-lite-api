@@ -1,0 +1,702 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.920 --> 00:00:02.860
+Hemos aprendido un poco sobre la gravedad.
+
+00:00:02.860 --> 00:00:05.120
+Hemos aprendido un poco sobre electrostática.
+
+00:00:05.120 --> 00:00:09.280
+Así, ahora es tiempo para conocer una nueva y fundamental
+
+00:00:09.280 --> 00:00:10.300
+fuerza del universo.
+
+00:00:10.300 --> 00:00:13.180
+Y ésta es probablemente la segunda más conocida para nosotros,
+
+00:00:13.180 --> 00:00:13.890
+junto a la gravedad.
+
+00:00:13.890 --> 00:00:15.140
+Y es el magnetismo.
+
+00:00:17.310 --> 00:00:18.240
+¿De dónde viene esta palabra?
+
+00:00:18.240 --> 00:00:21.810
+Bueno, creo que varias civilizaciones -- No soy
+
+00:00:21.810 --> 00:00:29.810
+un historiador -- encontraron estas piedras imanes, estos objetos que
+
+00:00:29.810 --> 00:00:33.260
+atraen a otros objetos como él, otros imanes.
+
+00:00:33.260 --> 00:00:37.720
+O incluso atraen objetos metálicos como el hierro.
+
+00:00:37.720 --> 00:00:39.260
+Objetos ferrosos.
+
+00:00:39.260 --> 00:00:41.320
+Y fueron llamadas imanes.
+
+00:00:41.320 --> 00:00:43.150
+Esto es, supongo, el término occidental para ello.
+
+00:00:43.150 --> 00:00:45.800
+Y la razón por qué llamamos imanes es porque
+
+00:00:45.800 --> 00:00:50.590
+fueron tambien llamados después de imanes como donde fueron encontrados, cercano a la
+
+00:00:50.590 --> 00:00:51.840
+Provincia Griega de Magnesia.
+
+00:00:56.800 --> 00:00:58.330
+Y creo realmente que las personas que vivían allí eran
+
+00:00:58.330 --> 00:01:00.160
+llamado Magnates.
+
+00:01:00.160 --> 00:01:03.790
+Pero de todas formas, podrías utilizar Wikipedia y aprender más
+
+00:01:03.790 --> 00:01:05.459
+acerca de esto que lo que yo sé.
+
+00:01:05.459 --> 00:01:08.090
+Pero de todos modos vamos a centrarnos en qué es el magnetismo.
+
+00:01:08.090 --> 00:01:12.010
+Y creo que la mayoría de nosotros tienen al menos conocimientos básicos de
+
+00:01:12.010 --> 00:01:15.490
+lo que es; todos hemos jugado con imanes y nos hemos ocupado
+
+00:01:15.490 --> 00:01:16.470
+con brújulas.
+
+00:01:16.470 --> 00:01:20.910
+Pero te voy a decir esto ahora, lo que realmente es, es
+
+00:01:20.910 --> 00:01:22.250
+bastante profundo.
+
+00:01:22.250 --> 00:01:25.740
+Y creo que es bastante --Y no creo que nadie lo tenga-- nosotros
+
+00:01:25.740 --> 00:01:28.940
+podemos matemáticamente entenderlo y manipularlo y ver
+
+00:01:28.940 --> 00:01:31.410
+cómo se relaciona a la electricidad.
+
+00:01:31.410 --> 00:01:33.890
+Realmente les mostraré que la fuerza electrostática y la
+
+00:01:33.890 --> 00:01:37.480
+fuerza magnética son realmente la misma cosa, sólo vista
+
+00:01:37.480 --> 00:01:39.090
+desde diferentes marcos de referencia.
+
+00:01:39.090 --> 00:01:40.420
+Sé que todo eso suena muy
+
+00:01:40.420 --> 00:01:41.560
+complicado y el resto de eso.
+
+00:01:41.560 --> 00:01:45.370
+Pero en nuestro mundo clásico newtoniano los tratamos como dos
+
+00:01:45.370 --> 00:01:46.040
+diferentes fuerzas.
+
+00:01:46.040 --> 00:01:48.830
+Pero lo que estoy diciendo es aunque estamos acostumbrados
+
+00:01:48.830 --> 00:01:52.480
+a un imán al igual que estamos acostumbrados a la gravedad, al igual que gravedad
+
+00:01:52.480 --> 00:01:54.620
+es también bastante misteriosa cuando piensas realmente en lo que
+
+00:01:54.620 --> 00:01:56.530
+es, igual es el magnetismo.
+
+00:01:56.530 --> 00:01:59.290
+Así que con esto dicho, al menos intentaremos conseguir algún
+
+00:01:59.290 --> 00:02:02.550
+conocimiento valido de cómo podemos tratar con el magnetismo.
+
+00:02:02.550 --> 00:02:07.650
+Asi que, estamos todos familiarizados con un imán.
+
+00:02:07.650 --> 00:02:10.610
+No quería que sea amarillo.
+
+00:02:10.610 --> 00:02:12.060
+Podría hacer el límite amarillo.
+
+00:02:12.060 --> 00:02:16.100
+No, no queremos que sea así tampoco.
+
+00:02:16.100 --> 00:02:21.360
+Por lo que si se trata de un imán, sabemos que un imán
+
+00:02:21.360 --> 00:02:24.120
+siempre tiene dos polos.
+
+00:02:24.120 --> 00:02:28.330
+Tiene un polo norte y un polo sur.
+
+00:02:28.330 --> 00:02:30.450
+Y estos fueron llamados así sólo por conveniencia.
+
+00:02:30.450 --> 00:02:33.630
+Porque cuando la gente descubrió por primera vez estas piedras,
+
+00:02:33.630 --> 00:02:37.300
+o tomaron un imán y magnetizaron una aguja con
+
+00:02:37.300 --> 00:02:40.190
+el imán, y luego ponen esa aguja sobre un corcho en un
+
+00:02:40.190 --> 00:02:44.840
+cubo de agua y esa aguja apuntaría a la
+
+00:02:44.840 --> 00:02:46.000
+Al Polo Norte terrestre.
+
+00:02:46.000 --> 00:02:48.250
+Ellos dijeron: oh, bien al lado de la aguja esta apuntando
+
+00:02:48.250 --> 00:02:50.820
+al norte de la tierra, llamemos le "el Polo Norte".
+
+00:02:50.820 --> 00:02:52.860
+Y el punto de la aguja que apunta al polo sur
+
+00:02:52.860 --> 00:02:57.300
+--lo siento, el punto de la aguja que apunta al
+
+00:02:57.300 --> 00:02:59.210
+Sur geográfico de la tierra, le llamaremos
+
+00:02:59.210 --> 00:03:00.230
+a este el Polo Sur.
+
+00:03:00.230 --> 00:03:03.050
+O en otra forma de decirlo, si tenemos un imán, la
+
+00:03:03.050 --> 00:03:05.790
+dirección del imán o el lado del imán que
+
+00:03:05.790 --> 00:03:07.980
+se orienta así mismo --si le hes permitido orientarse libremente
+
+00:03:07.980 --> 00:03:11.330
+sin fricción-- hacia nuestro norte geográfico, le llamaremos
+
+00:03:11.330 --> 00:03:12.280
+el Polo Norte.
+
+00:03:12.280 --> 00:03:14.820
+Y al otro lado es el Polo Sur.
+
+00:03:14.820 --> 00:03:23.710
+Y esto es realmente un poco-- obviamente llamamos la
+
+00:03:23.710 --> 00:03:26.930
+parte superior de la tierra al Polo Norte.
+
+00:03:26.930 --> 00:03:30.600
+Ustedes saben, este es el Polo Norte.
+
+00:03:30.600 --> 00:03:34.530
+Y llamamos a esto el Polo Sur.
+
+00:03:34.530 --> 00:03:38.840
+Y hay otra noción del norte magnético.
+
+00:03:38.840 --> 00:03:42.380
+Y es donde--supongo, usted podrías decir-- que
+
+00:03:42.380 --> 00:03:47.270
+es donde una brújula, el punto norte de una
+
+00:03:47.270 --> 00:03:48.690
+brújula, apuntara.
+
+00:03:48.690 --> 00:03:51.730
+Y efectivamente, el norte magnético se mueve alrededor porque tenemos
+
+00:03:51.730 --> 00:03:54.150
+todo este fluido en movimiento dentro de la tierra.
+
+00:03:54.150 --> 00:03:55.215
+Y un montón de otras interacciones.
+
+00:03:55.215 --> 00:03:56.690
+Es una interacción muy compleja.
+
+00:03:56.690 --> 00:04:01.130
+Pero el norte magnético esta de hecho aproximadamente en el norte de Canadá.
+
+00:04:01.130 --> 00:04:04.240
+Por lo que el norte magnético podría estar aquí.
+
+00:04:04.240 --> 00:04:05.510
+Asi que esto podría ser el norte magnético.
+
+00:04:05.510 --> 00:04:07.420
+Y el sur magnético, no sé exactamente donde esta.
+
+00:04:07.420 --> 00:04:09.340
+Pero puede moverse un poco alrededor.
+
+00:04:09.340 --> 00:04:10.360
+No esta en el mismo lugar.
+
+00:04:10.360 --> 00:04:14.860
+Asi que esta un poco fuera de el eje del polo norte geográfico
+
+00:04:14.860 --> 00:04:16.180
+y el Polo Sur.
+
+00:04:16.180 --> 00:04:19.540
+Y esto es otra cosa un poco confusa.
+
+00:04:19.540 --> 00:04:23.720
+El Norte magnético es la ubicación geográfica, donde el
+
+00:04:23.720 --> 00:04:26.970
+Polo Norte de un imán va a apuntar.
+
+00:04:26.970 --> 00:04:31.730
+Pero que en realidad sería el Polo Sur, si se ve la
+
+00:04:31.730 --> 00:04:32.980
+Tierra como un imán.
+
+00:04:35.240 --> 00:04:38.800
+Así que si la tierra era un gran imán, usted de hecho
+
+00:04:38.800 --> 00:04:40.820
+vera como un polo sur del imán.
+
+00:04:40.820 --> 00:04:43.780
+Y el Polo Sur geográfico es el
+
+00:04:43.780 --> 00:04:44.640
+Polo Norte del imán.
+
+00:04:44.640 --> 00:04:46.390
+Puede leer más acerca de esto en Wikipedia, sé que es un
+
+00:04:46.390 --> 00:04:47.390
+poco confuso.
+
+00:04:47.390 --> 00:04:49.520
+Pero en general, cuando la mayoría de las personas se refieren al
+
+00:04:49.520 --> 00:04:51.920
+Norte magnético o el Polo Norte, está hablando sobre la
+
+00:04:51.920 --> 00:04:53.930
+zona norte geográfico.
+
+00:04:53.930 --> 00:04:56.940
+Y el Polo Sur es el área geográfica del Sur.
+
+00:04:56.940 --> 00:05:00.170
+Pero la razón de por qué hago esta distinción porque sabemos
+
+00:05:00.170 --> 00:05:03.520
+que cuando tratamos con imanes, así como con electricidad, o
+
+00:05:03.520 --> 00:05:06.590
+electrostática --pero yo voy a mostrar una diferencia clave muy
+
+00:05:06.590 --> 00:05:10.760
+pronto--es que polos opuestos se atraen.
+
+00:05:10.760 --> 00:05:14.770
+Así que si esta parte de mi imán es atraída al polo Norte de la tierra
+
+00:05:14.770 --> 00:05:19.730
+entonces el Polo Norte-- o el norte magnético de la tierra--
+
+00:05:19.730 --> 00:05:22.690
+de hecho debe ser el polo sur de dicho imán.
+
+00:05:22.690 --> 00:05:23.370
+Y viceversa.
+
+00:05:23.370 --> 00:05:26.110
+El polo sur de mi imán va a ser atraído
+
+00:05:26.110 --> 00:05:28.090
+hacia el sur magnético de la tierra.
+
+00:05:28.090 --> 00:05:29.770
+el cuál es realmente el Polo Norte del
+
+00:05:29.770 --> 00:05:31.660
+imán que llamamos tierra.
+
+00:05:31.660 --> 00:05:34.220
+De todos modos, pondre la tierra fuera de la ecuación porque se pone
+
+00:05:34.220 --> 00:05:35.070
+un poco confuso.
+
+00:05:35.070 --> 00:05:37.650
+Y solo me alineare con las barras ya que tiende a ser un
+
+00:05:37.650 --> 00:05:40.930
+poco más consistente.
+
+00:05:40.930 --> 00:05:44.220
+Déjenme borrar esto.
+
+00:05:44.220 --> 00:05:45.500
+Aquí vamos.
+
+00:05:45.500 --> 00:05:46.750
+Voy borrar mi Magnesia.
+
+00:05:49.680 --> 00:05:52.200
+Me pregunto si el elemento magnesio fue descubierto por primero
+
+00:05:52.200 --> 00:05:53.370
+en Magnesia, así.
+
+00:05:53.370 --> 00:05:55.870
+Probablemente.
+
+00:05:55.870 --> 00:05:57.200
+Y en realidad busco mexclar
+
+00:05:57.200 --> 00:05:58.920
+la Magnesia, lo cual es laxativo.
+
+00:05:58.920 --> 00:06:02.780
+Y esto no fue descubierto en Magnesia, pero tiene
+
+00:06:02.780 --> 00:06:04.780
+magnesio en ella.
+
+00:06:04.780 --> 00:06:08.060
+Así que supongo que sus raíces podrían estar en Magnesia si el magnesio fue
+
+00:06:08.060 --> 00:06:09.410
+descubierto en Magnesia.
+
+00:06:09.410 --> 00:06:11.530
+De cualquier forma, basta en relación a Magnesia.
+
+00:06:11.530 --> 00:06:13.870
+Volvemos a los imanes.
+
+00:06:13.870 --> 00:06:18.350
+Así que si esto es un imán y permítanme llamar otro imán.
+
+00:06:18.350 --> 00:06:20.700
+De hecho, quiero borrar todo esto.
+
+00:06:23.990 --> 00:06:24.935
+Muy bien.
+
+00:06:24.935 --> 00:06:26.730
+Así que permítanme señalar dos imanes más.
+
+00:06:32.840 --> 00:06:36.700
+Sabemos desde la experimentación que cuando éramos todos chicos, esto es
+
+00:06:36.700 --> 00:06:38.810
+el Polo Norte, esto es el Polo Sur.
+
+00:06:38.810 --> 00:06:43.210
+Que el Polo Norte va a ser atraídos hacia el polo sur
+
+00:06:43.210 --> 00:06:45.700
+de otro imán.
+
+00:06:45.700 --> 00:06:48.490
+Y que si volteamos este imán al otro lado, sería
+
+00:06:48.490 --> 00:06:52.480
+en realidad repelería al norte-- serían dos imanes de frente de cara Norte
+
+00:06:52.480 --> 00:06:54.330
+y se repelerían entre sí.
+
+00:06:54.330 --> 00:06:56.930
+Y por eso tenemos esta idea, al igual que la tuvimos en
+
+00:06:56.930 --> 00:07:01.120
+electrostática, que un imán genera un campo.
+
+00:07:01.120 --> 00:07:05.520
+Genera estos vectores alrededor de él, así que si pones
+
+00:07:05.520 --> 00:07:09.840
+algo en ese campo que puede verse afectado por él, sera
+
+00:07:09.840 --> 00:07:15.630
+alguna fuerza neta actuando sobre él.
+
+00:07:15.630 --> 00:07:17.850
+Por lo que en realidad, antes de ir en el campo magnético, realmente
+
+00:07:17.850 --> 00:07:24.030
+quiero hacer una enorme diferencia entre magnetismo
+
+00:07:24.030 --> 00:07:25.360
+y electrostática.
+
+00:07:25.360 --> 00:07:30.140
+Magnetismo siempre viene en la forma de un dipolo.
+
+00:07:30.140 --> 00:07:30.910
+¿Qué significa un dipolo?
+
+00:07:30.910 --> 00:07:32.700
+Esto significa que tenemos dos polos.
+
+00:07:32.700 --> 00:07:34.520
+Un norte y un sur.
+
+00:07:34.520 --> 00:07:40.430
+En electrostática, tienes dos cargas.
+
+00:07:40.430 --> 00:07:43.480
+Tienes una carga positiva y una carga negativa.
+
+00:07:43.480 --> 00:07:44.630
+Así que tienes dos cargas.
+
+00:07:44.630 --> 00:07:46.530
+Pero podrían ser por ellas mismas.
+
+00:07:46.530 --> 00:07:48.230
+Podrías tener solo un protón.
+
+00:07:48.230 --> 00:07:49.600
+No tienes que tener allí un electrón
+
+00:07:49.600 --> 00:07:50.490
+justo a su lado.
+
+00:07:50.490 --> 00:07:54.620
+Usted solo podría tener un protón y crearía un
+
+00:07:54.620 --> 00:07:56.140
+campo electrostático positivo.
+
+00:07:56.140 --> 00:07:57.950
+Y nuestras líneas de campo son lo que un punto positivo
+
+00:07:57.950 --> 00:07:59.000
+de carga haría.
+
+00:07:59.000 --> 00:08:00.260
+Y sería rechazado.
+
+00:08:00.260 --> 00:08:05.340
+Así que no siempre tienes que tener allí una carga negativa.
+
+00:08:05.340 --> 00:08:07.250
+Asimismo puede tener sólo un electrón.
+
+00:08:07.250 --> 00:08:08.690
+Y no tienes que tener allí un protón.
+
+00:08:08.690 --> 00:08:10.460
+Así que podríamos tener monopolos.
+
+00:08:10.460 --> 00:08:12.740
+Estos son llamados monopolos, cuando sólo tienes una carga
+
+00:08:12.740 --> 00:08:14.770
+cuando hablamos de electrostática.
+
+00:08:14.770 --> 00:08:17.420
+Pero con magnetismo siempre tienes un dipolo.
+
+00:08:17.420 --> 00:08:20.200
+Si tuviera que tomar este imán, este derecho aquí, y si
+
+00:08:20.200 --> 00:08:28.510
+lo fuera a cortar por la mitad, de alguna manera milagrosamente cada uno de
+
+00:08:28.510 --> 00:08:30.150
+esas mitades de ese imán se convertirán
+
+00:08:30.150 --> 00:08:31.560
+en dos imanes más.
+
+00:08:31.560 --> 00:08:34.260
+Cuando se trata del Sur, esto será el norte, esto te
+
+00:08:34.260 --> 00:08:36.679
+ser del Sur, será el norte.
+
+00:08:36.679 --> 00:08:41.200
+Y efectivamente, teóricamente, he leído --mis propias habilidades
+
+00:08:41.200 --> 00:08:44.110
+no van tan lejos-- podría haber tal cosa como un
+
+00:08:44.110 --> 00:08:46.200
+Monopolo magnético, aunque no ha sido
+
+00:08:46.200 --> 00:08:48.320
+aún observado en la naturaleza.
+
+00:08:48.320 --> 00:08:51.130
+Así que todo lo que hemos visto en la naturaleza ha sido un dipolo.
+
+00:08:51.130 --> 00:08:54.260
+Así usted podría sólo mantenerse cortando estos, todo el camino hasta que
+
+00:08:54.260 --> 00:08:56.000
+si sólo quede un electrón.
+
+00:08:56.000 --> 00:08:59.230
+Y en realidad resulta que incluso un electrón es todavía un
+
+00:08:59.230 --> 00:09:00.400
+dipolo magnético.
+
+00:09:00.400 --> 00:09:04.400
+Todavía está generando, todavía tiene un polo norte y un
+
+00:09:04.400 --> 00:09:05.310
+Polo Sur.
+
+00:09:05.310 --> 00:09:08.830
+Y en realidad resulta que todos los imanes, el campo magnético es
+
+00:09:08.830 --> 00:09:12.380
+realmente generado por los electrones dentro de ella.
+
+00:09:12.380 --> 00:09:14.710
+Por el giro de electrones y esto-- ustedes conocen, cuando hablamos
+
+00:09:14.710 --> 00:09:16.970
+acerca de vueltas de electrónes imaginamos algunos pequeña
+
+00:09:16.970 --> 00:09:18.430
+pelota de carga girando.
+
+00:09:18.430 --> 00:09:20.910
+Pero son electrones --lo conocen, es difícil de--
+
+00:09:20.910 --> 00:09:21.900
+tienen masa.
+
+00:09:21.900 --> 00:09:23.590
+Pero empiezan a hacerse borroso ya que ellos
+
+00:09:23.590 --> 00:09:24.720
+son energía o masa.
+
+00:09:24.720 --> 00:09:26.990
+Y entonces ¿cómo una bola de energía gira?
+
+00:09:26.990 --> 00:09:27.510
+Et cetera, et cetera.
+
+00:09:27.510 --> 00:09:31.900
+Así que se pone casi metafísico.
+
+00:09:31.900 --> 00:09:33.220
+Así que no quiero ir demasiado lejos en ella.
+
+00:09:33.220 --> 00:09:35.710
+Y francamente, no creo que realmente puedan obtener una intuición.
+
+00:09:35.710 --> 00:09:38.080
+Es casi--es un territorio en el que no
+
+00:09:38.080 --> 00:09:39.790
+operamos normalmente.
+
+00:09:39.790 --> 00:09:43.340
+Pero incluso estos grandes imanes con los que usted trabaja, el campo magnético
+
+00:09:43.340 --> 00:09:47.120
+es generado por los electrones girando dentro de el mismo
+
+00:09:47.120 --> 00:09:51.040
+y por los campos magnéticos reales generados por el
+
+00:09:51.040 --> 00:09:53.620
+movimiento de electrones alrededor de los protones.
+
+00:09:53.620 --> 00:09:56.350
+Bueno, espero que no les he abrumado (confundido).
+
+00:09:56.350 --> 00:09:58.370
+Y usted podría decir: bueno, por qué a veces puede una barra de metal
+
+00:09:58.370 --> 00:10:00.700
+¿ser magnetizada y otras veces no?
+
+00:10:00.700 --> 00:10:02.940
+Bueno, cuando todos los electrones están haciendo aleatoriamente
+
+00:10:02.940 --> 00:10:06.220
+diferentes cosas en una barra de metal, entonces no es magnetizado.
+
+00:10:06.220 --> 00:10:10.590
+Porque los giros magnéticos, o el magnetismo creado por los
+
+00:10:10.590 --> 00:10:11.920
+electrones se anulan todos mutuamente,
+
+00:10:11.920 --> 00:10:12.790
+porque es aleatorio.
+
+00:10:12.790 --> 00:10:16.100
+Pero si alinearan los giros de los electrones y si usted
+
+00:10:16.100 --> 00:10:20.130
+alinea sus rotaciones, entonces usted tendrá una
+
+00:10:20.130 --> 00:10:21.060
+barra cargada magneticamente.
+
+00:10:21.060 --> 00:10:23.620
+Pero en cualquier caso, estoy pasado la marca de diez minutos, pero ojalá
+
+00:10:23.620 --> 00:10:26.140
+esto les de un poco de conocimientos básicos de
+
+00:10:26.140 --> 00:10:27.190
+que es un imán.
+
+00:10:27.190 --> 00:10:31.170
+Y en el siguiente video, se mostrará lo que es el efecto.
+
+00:10:31.170 --> 00:10:34.490
+Así, uno, explicaré cómo pensamos acerca de un campo magnético.
+
+00:10:34.490 --> 00:10:36.100
+Y, a continuación, lo que es el efecto de un
+
+00:10:36.100 --> 00:10:38.870
+campo magnético sobre un electrón.
+
+00:10:38.870 --> 00:10:41.140
+O no un electrón, en una carga en movimiento.
+
+00:10:41.140 --> 00:10:43.010
+Nos vemos en el siguiente video.

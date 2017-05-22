@@ -1,0 +1,807 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.500 --> 00:00:03.620
+Siempre me ayuda ver
+un montón de ejemplos de algo, así que
+
+00:00:03.620 --> 00:00:07.010
+imaginé que no haría mal hacer más ejemplos de notación científica.
+
+00:00:07.010 --> 00:00:09.910
+Tan sólo voy a escribir un montón de números y luego
+
+00:00:09.920 --> 00:00:11.390
+los representaré en notación científica.
+
+00:00:11.390 --> 00:00:14.170
+Esperemos que esto cubra casi todos los casos que puedan
+
+00:00:14.170 --> 00:00:16.150
+llegar a ver y, al final de este video, haremos algunos
+
+00:00:16.160 --> 00:00:18.420
+cálculos con ellos sólo para asegurarnos de que podemos
+
+00:00:18.420 --> 00:00:20.950
+realizar cálculos con notación científica.
+
+00:00:20.960 --> 00:00:23.890
+Déjenme escribir algunos números.
+
+00:00:23.890 --> 00:00:28.370
+0.00852.
+
+00:00:28.370 --> 00:00:29.630
+Ése es mi primer número.
+
+00:00:29.640 --> 00:00:39.440
+Mi segundo número es 70120000000
+
+00:00:39.440 --> 00:00:42.030
+Estoy deteniendo arbitrariamente los ceros.
+
+00:00:42.030 --> 00:00:50.600
+El siguiente número es 0.0000000... 
+(Sólo dibujaré un par más.
+
+00:00:50.610 --> 00:00:54.930
+Si sigo diciendo "cero" 
+podrían encontrarlo molesto.)
+
+00:00:54.930 --> 00:01:01.250
+...500. El siguiente número--justo aquí, hay un
+
+00:01:01.250 --> 00:01:02.570
+punto decimal justo allí.
+
+00:01:02.570 --> 00:01:09.080
+El próximo número que voy a hacer es el 723.
+
+00:01:09.090 --> 00:01:12.130
+El siguiente número será--tengo muchos sietes aquí.
+
+00:01:12.130 --> 00:01:14.070
+Hagamos un 0,6.
+
+00:01:14.070 --> 00:01:19.980
+Eso es, 0.6. Y hagamos uno más, sólo para asegurarnos
+
+00:01:19.990 --> 00:01:21.580
+de que hemos cubierto todas nuestras bases.
+
+00:01:21.600 --> 00:01:26.640
+Digamos... 823 y luego vamos a agregar
+
+00:01:26.640 --> 00:01:29.640
+un número arbitrario de ceros allí.
+
+00:01:29.640 --> 00:01:33.450
+Así que éste, justo aquí - si queremos escribirlo
+
+00:01:33.450 --> 00:01:35.900
+en notación científica tenemos que encontrar
+
+00:01:35.900 --> 00:01:38.080
+el mayor exponente de diez que encaje en él.
+
+00:01:38.090 --> 00:01:40.300
+Así que vamos a su primer término distinto de cero,
+
+00:01:40.310 --> 00:01:41.230
+que está justo allí.
+
+00:01:41.230 --> 00:01:44.670
+Contamos cuántas posiciones hay
+
+00:01:44.670 --> 00:01:48.110
+a la derecha del punto decimal, incluyendo a ese término.
+
+00:01:48.110 --> 00:01:51.550
+Así que va a ser igual a esto.
+
+00:01:51.560 --> 00:01:54.230
+Así que va a ser igual a ocho--es ese dígito
+
+00:01:54.230 --> 00:01:56.370
+justo allí--0,52.
+
+00:01:56.370 --> 00:01:58.210
+Por lo tanto todo después de ese primer termino va a
+
+00:01:58.210 --> 00:01:59.170
+estar detrás del punto decimal.
+
+00:02:03.080 --> 00:02:03.330
+Así 0,52 por 10 al número de términos que tenemos.
+
+00:02:03.340 --> 00:02:03.691
+Uno, dos, tres.
+
+00:02:03.691 --> 00:02:03.941
+diez a la menos tres.
+
+00:02:07.390 --> 00:02:09.430
+Otra forma de pensar: esto es un poco más.
+
+00:02:09.430 --> 00:02:12.270
+Es aproximadamente ocho milésimas y media, ¿correcto?
+
+00:02:12.280 --> 00:02:13.420
+Cada una de estas son milésimas.
+
+00:02:13.430 --> 00:02:15.280
+Tenemos ocho y media de ellas.
+
+00:02:15.280 --> 00:02:16.510
+Vamos a hacer esto.
+
+00:02:16.520 --> 00:02:17.890
+Vamos a ver cuántos cero es que tenemos.
+
+00:02:17.900 --> 00:02:23.610
+Tenemos tres, seis, nueve, doce.
+
+00:02:23.620 --> 00:02:26.620
+Por lo que queremos hacer--una vez más, empezamos con el más grande
+
+00:02:26.620 --> 00:02:27.710
+término que tenemos.
+
+00:02:27.720 --> 00:02:29.320
+Nuestro mayor termino que no es cero.
+
+00:02:29.330 --> 00:02:30.740
+En este caso, va a ser el término que
+
+00:02:30.750 --> 00:02:31.430
+está más a la izquierda.
+
+00:02:31.430 --> 00:02:32.890
+Que es nuestro siete.
+
+00:02:32.900 --> 00:02:35.560
+Por lo tanto va a ser 7.012.
+
+00:02:35.560 --> 00:02:40.950
+Va a ser igual a 7.012 por 10 ¿a la qué?
+
+00:02:40.960 --> 00:02:45.340
+Bueno va a ser por diez a la uno con todos estos ceros.
+
+00:02:45.340 --> 00:02:46.290
+Entonces, ¿Cuantas cosas?
+
+00:02:46.300 --> 00:02:48.300
+Teníamos un uno aquí.
+
+00:02:48.300 --> 00:02:56.690
+Luego teniamos uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce ceros.
+
+00:02:56.690 --> 00:02:57.480
+Quiero ser muy claro.
+
+00:02:57.490 --> 00:02:58.590
+No sólo están contando los ceros.
+
+00:03:00.213 --> 00:03:02.850
+Están contando todo después de este primer
+
+00:03:02.860 --> 00:03:03.720
+Término justo allí.
+
+00:03:03.720 --> 00:03:07.540
+Por lo que sería equivalente a uno seguido de doce ceros.
+
+00:03:07.550 --> 00:03:11.360
+Por lo que es multiplicado por diez a la doceava potencia.
+
+00:03:11.360 --> 00:03:12.010
+Así nomás.
+
+00:03:12.020 --> 00:03:12.780
+No es demasiado difícil.
+
+00:03:12.780 --> 00:03:14.620
+Vamos a hacer este justo aquí.
+
+00:03:14.620 --> 00:03:16.640
+Así que vamos detrás del punto decimal.
+
+00:03:16.650 --> 00:03:18.520
+Encontramos el primer número que no es cero.
+
+00:03:18.520 --> 00:03:19.970
+Es nuestro cinco.
+
+00:03:19.970 --> 00:03:21.600
+Va a ser igual a cinco.
+
+00:03:21.610 --> 00:03:24.790
+No hay nada a la derecha, por lo que es 5.00 si queríamos
+
+00:03:24.800 --> 00:03:26.700
+agregarle algo de precisión.
+
+00:03:26.710 --> 00:03:30.870
+Pero es cinco por y ¿Cuántos números a la derecha, o
+
+00:03:30.870 --> 00:03:32.770
+a la derecha atrás del punto decimal tendrémos?
+
+00:03:32.780 --> 00:03:40.740
+Contamos con uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, trece y
+
+00:03:40.750 --> 00:03:42.810
+tenemos que incluir a este, catorce.
+
+00:03:42.810 --> 00:03:47.680
+cinco por diez a la menos catorceava potencia.
+
+00:03:47.690 --> 00:03:50.620
+Ahora este número, podría ser un poco excesivo escribir esto
+
+00:03:50.630 --> 00:03:52.660
+en notación científica, pero nunca está de más para hacer
+
+00:03:52.660 --> 00:03:53.690
+la práctica.
+
+00:03:53.690 --> 00:03:56.480
+¿Cual es el la potencia de diez más grande que entra en este?
+
+00:03:56.490 --> 00:03:58.630
+Bien, cien entra en este.
+
+00:03:58.630 --> 00:04:02.140
+Y pudo averiguar que es cien o diez al cuadrado diciendo: "OK, este
+
+00:04:02.150 --> 00:04:06.990
+es nuestro término más grande". Y, a continuación, tenemos dos ceros detrás de el
+
+00:04:06.990 --> 00:04:11.200
+porque podemos decir que cien entrará en setecientos veintitres.
+
+00:04:11.210 --> 00:04:14.133
+Así que va a ser igual a 7.23 por, podríamos decir por
+
+00:04:17.056 --> 00:04:19.980
+cien, pero lo queremos en notación científica, por lo que
+
+00:04:19.990 --> 00:04:22.230
+escribiré por diez al cuadrado.
+
+00:04:22.240 --> 00:04:24.360
+Ahora tenemos a este personaje aquí.
+
+00:04:24.360 --> 00:04:25.950
+¿Cuál es nuestro primer término que no es cero?
+
+00:04:25.950 --> 00:04:29.300
+Es ese justo allí, así que va a ser seis por y
+
+00:04:29.310 --> 00:04:31.300
+entonces ¿cuántos términos tenemos a la derecha del punto decimal?
+
+00:04:31.300 --> 00:04:32.350
+Tenemos sólo uno.
+
+00:04:32.350 --> 00:04:34.290
+Así que se multiplica por diez a la menos uno.
+
+00:04:34.300 --> 00:04:36.520
+Eso tiene mucho sentido debido a es esencialmente
+
+00:04:36.520 --> 00:04:39.160
+igual a seis dividido por diez porque diez a la menos
+
+00:04:39.170 --> 00:04:42.500
+1 es 1/10 que es 0,6.
+
+00:04:42.500 --> 00:04:44.110
+Uno más.
+
+00:04:44.120 --> 00:04:45.760
+Permítanme tirar algunas comas aquí sólo para hacer de este un
+
+00:04:45.760 --> 00:04:48.510
+poco más fácil mirar.
+
+00:04:48.520 --> 00:04:50.600
+Así que vamos a tomar nuestro valor más grande allí.
+
+00:04:50.610 --> 00:04:53.790
+Tenemos nuestros ocho.
+
+00:04:53.790 --> 00:04:56.940
+Esto va a ser 8.23--no tenemos que añadir otras
+
+00:05:00.090 --> 00:05:03.240
+cosas porque todo lo demás es cero--por diez a la--
+
+00:05:03.250 --> 00:05:06.060
+sólo contamos cuantos términos hay después del ocho.
+
+00:05:06.060 --> 00:05:12.940
+Por eso tenemos uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
+
+00:05:12.950 --> 00:05:15.160
+8.23 por 10 a la 10.
+
+00:05:15.170 --> 00:05:16.290
+Pienso que entienden la idea ahora.
+
+00:05:16.290 --> 00:05:17.580
+Es bastante sencillo.
+
+00:05:17.580 --> 00:05:20.850
+Y más que ser capaz de calcular esto, que es una
+
+00:05:20.860 --> 00:05:23.190
+buena habilidad por sí misma, yo quiero que ustedes entiendan el porqué
+
+00:05:23.190 --> 00:05:23.930
+Este es el caso.
+
+00:05:23.930 --> 00:05:25.800
+Con suerte el último video lo explica.
+
+00:05:25.810 --> 00:05:28.370
+Y si no es así, simplemente multipliquen esto.
+
+00:05:28.380 --> 00:05:31.420
+Literalmente multiplicar 8.23 por 10 a la 10 y
+
+00:05:31.430 --> 00:05:32.760
+obtendrán este número.
+
+00:05:32.760 --> 00:05:34.180
+Quizá podrían probar con algo más pequeño
+
+00:05:34.180 --> 00:05:35.030
+que diez a las diez.
+
+00:05:35.040 --> 00:05:36.100
+Quizás diez a la Quinta.
+
+00:05:36.110 --> 00:05:38.130
+Y bien, obtendrán un número diferente, pero
+
+00:05:38.130 --> 00:05:40.970
+acabarán con cinco dígitos después del ocho.
+
+00:05:40.980 --> 00:05:45.170
+Pero igual, permítanme hacer un par más de ejemplos de cálculo.
+
+00:05:45.180 --> 00:05:54.790
+Digamos que teníamos los números--permítanme hacer algo
+
+00:05:54.790 --> 00:05:58.410
+realmente pequeño--0.0000064.
+
+00:05:58.410 --> 00:06:00.050
+Permítanme hacer un gran número.
+
+00:06:00.060 --> 00:06:03.100
+Digamos que tengo ese número y quiero multiplicarlo.
+
+00:06:03.100 --> 00:06:06.440
+Quiero multiplícarlo por--digamos que tengo un número
+
+00:06:06.440 --> 00:06:11.600
+muy grande--tres dos--voy a tirar un montón de ceros aquí.
+
+00:06:11.610 --> 00:06:12.520
+No sé cuando voy a parar.
+
+00:06:12.520 --> 00:06:13.890
+Digamos que me detengo allí.
+
+00:06:13.890 --> 00:06:15.550
+Por lo que a éste se puede multiplicar.
+
+00:06:15.560 --> 00:06:18.640
+Pero es un poco difícil.
+
+00:06:18.640 --> 00:06:20.670
+Pero vamos a ponerlo en notación científica.
+
+00:06:20.680 --> 00:06:23.080
+Uno, sería más fácil representar estos números y
+
+00:06:23.080 --> 00:06:25.790
+entonces con suerte se verá que la multiplicación de verdad
+
+00:06:25.800 --> 00:06:27.720
+se simplifica también.
+
+00:06:27.720 --> 00:06:30.540
+Por lo que este de aquí arriba, ¿cómo podemos escribirlo
+
+00:06:30.550 --> 00:06:31.110
+en notación científica?
+
+00:06:31.110 --> 00:06:37.550
+¿Sería 6,4 por 10 a la qué?
+
+00:06:37.560 --> 00:06:40.430
+uno, dos, tres, cuatro, cinco, seis.
+
+00:06:40.430 --> 00:06:41.430
+Tengo que incluir los seis.
+
+00:06:41.430 --> 00:06:43.470
+Así que multiplicado por diez a la menos seis.
+
+00:06:43.480 --> 00:06:45.790
+¿Y como se puede escribir a este?
+
+00:06:45.800 --> 00:06:47.920
+Este va a ser 3.2.
+
+00:06:47.930 --> 00:06:51.140
+Y luego pueden contar cuántos dígitos hay después del tres.
+
+00:06:53.560 --> 00:06:59.320
+uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once.
+
+00:06:59.320 --> 00:07:02.740
+Entonces 3.2 por 10 a la 11.
+
+00:07:02.750 --> 00:07:06.180
+Así que si multiplicamos estas dos cosas, esto es equivalente a seis
+
+00:07:06.180 --> 00:07:12.640
+--quiero hacerlo en un color diferente--6.4 por 10 a
+
+00:07:12.640 --> 00:07:21.570
+la menos 6 por 3.2 por 10 a la 11.
+
+00:07:21.580 --> 00:07:26.150
+Que vimos en el último video que es equivalente a 6.4 por 3.2.
+
+00:07:26.160 --> 00:07:29.350
+Sólo voy a cambiar el orden de la multiplicación.
+
+00:07:29.360 --> 00:07:36.550
+Multiplicado por diez a la menos seis por diez a la undécima potencia.
+
+00:07:36.560 --> 00:07:38.300
+Y ahora ¿a qué sera igual?
+
+00:07:38.300 --> 00:07:40.480
+Bueno, para hacer esto, no quiero usar una calculadora.
+
+00:07:40.490 --> 00:07:42.520
+Por eso calculemos nada más.
+
+00:07:42.520 --> 00:07:47.820
+6.4 por 3.2.
+
+00:07:47.820 --> 00:07:49.440
+Vamos a ignorar los decimales por un segundo.
+
+00:07:49.440 --> 00:07:50.620
+Nos preocuparemos de eso al final.
+
+00:07:50.630 --> 00:07:55.050
+Así que dos por cuatro ocho, dos por seis es doce.
+
+00:07:55.060 --> 00:07:57.760
+No hay donde llevarse el uno, por lo que es ciento veintiocho.
+
+00:07:57.760 --> 00:07:58.800
+Pongo un cero allá abajo.
+
+00:07:58.810 --> 00:08:02.290
+tres por cuatro es doce, me llevo uno.
+
+00:08:02.290 --> 00:08:04.360
+tres por seis es 18.
+
+00:08:04.370 --> 00:08:08.310
+Tienen un uno ahí, por lo que es ciento noventa y dos.
+
+00:08:08.310 --> 00:08:08.680
+¿Verdad?
+
+00:08:08.690 --> 00:08:09.500
+Sí.
+
+00:08:09.500 --> 00:08:09.660
+ciento noventa y dos.
+
+00:08:09.670 --> 00:08:13.920
+Se suman y se obtiene ocho, cuatro, uno más nueve es diez.
+
+00:08:13.920 --> 00:08:14.580
+Me llevo uno.
+
+00:08:14.580 --> 00:08:15.760
+Se obtiene dos.
+
+00:08:15.770 --> 00:08:17.910
+Ahora, sólo tenemos que contar los números detrás
+
+00:08:17.920 --> 00:08:19.120
+del punto decimal.
+
+00:08:19.120 --> 00:08:21.260
+Tenemos un número allí, tenemos otro número allí.
+
+00:08:21.270 --> 00:08:23.030
+Tenemos dos números detrás del punto decimal,
+
+00:08:23.040 --> 00:08:25.110
+por lo que cuenten uno, dos.
+
+00:08:25.120 --> 00:08:34.870
+Así que 6.4 por 3.2 es igual a 20.48 por 10 a la
+
+00:08:34.870 --> 00:08:37.910
+tenemos una misma base aquí, así que podemos sumar los exponentes solamente.
+
+00:08:37.920 --> 00:08:40.440
+¿Cuánto es menos seis más once?
+
+00:08:40.450 --> 00:08:45.820
+Es diez a la quinta potencia, ¿correcto?
+
+00:08:45.830 --> 00:08:46.170
+Derecho.
+
+00:08:46.170 --> 00:08:47.570
+Menos seis y once.
+
+00:08:47.580 --> 00:08:49.030
+diez a la Quinta potencia.
+
+00:08:49.030 --> 00:08:50.680
+Y ahora la siguiente pregunta, ustedes podrían decir: "he terminado.
+
+00:08:50.690 --> 00:08:52.940
+He hecho el cálculo". Y lo que tienes.
+
+00:08:52.940 --> 00:08:55.020
+Y es una respuesta válida.
+
+00:08:55.020 --> 00:08:58.260
+Pero la siguiente pregunta ¿está esto en notación científica?
+
+00:08:58.260 --> 00:09:01.160
+Y si querías ser estricto acerca del tema, no está en
+
+00:09:01.170 --> 00:09:03.520
+notación científica porque tenemos algo que se podría
+
+00:09:03.520 --> 00:09:06.130
+tal vez simplificar un poco.
+
+00:09:06.130 --> 00:09:09.090
+Podríamos escribir esto--permítanme hacerlo así.
+
+00:09:09.100 --> 00:09:10.960
+Permítanme dividir esto por diez.
+
+00:09:10.960 --> 00:09:13.950
+Por eso, cualquier número se puede multiplicar y dividir por diez.
+
+00:09:13.950 --> 00:09:16.120
+Por lo que podríamos reescribirlo de esta manera.
+
+00:09:16.120 --> 00:09:19.600
+Podríamos escribir uno sobre diez en este lado y entonces podemos multiplicar
+
+00:09:19.610 --> 00:09:21.260
+por diez en ese lado, ¿correcto?
+
+00:09:21.260 --> 00:09:22.890
+No debería cambiar el número.
+
+00:09:22.900 --> 00:09:24.640
+Dividen por 10 y multiplican por diez.
+
+00:09:24.640 --> 00:09:27.760
+Es igual que multiplicar por uno o dividir por uno.
+
+00:09:27.760 --> 00:09:33.000
+Entonces si dividen este lado por 10, obtendrán 2.048.
+
+00:09:33.000 --> 00:09:36.260
+Multiplican ese lado por diez y obtendrán por diez a la
+
+00:09:36.270 --> 00:09:38.720
+--por diez es sólo por diez a la primera.
+
+00:09:38.730 --> 00:09:39.770
+Pueden sumar los exponentes solamente.
+
+00:09:39.770 --> 00:09:41.270
+Por diez a la sexta.
+
+00:09:42.770 --> 00:09:44.270
+Y ahora, si eres un estricto acerca de esto, esta es
+
+00:09:44.270 --> 00:09:48.830
+buena notación científica ahí mismo.
+
+00:09:48.840 --> 00:09:50.610
+Ahora, he hecho un montón de multiplicación.
+
+00:09:50.620 --> 00:09:54.500
+Vamos a hacer alguna división.
+
+00:09:54.500 --> 00:09:57.000
+Vamos a dividir a este por ese.
+
+00:09:57.000 --> 00:10:04.970
+Así que si tenemos 3.2 por 10 a la undécima potencia dividido por
+
+00:10:04.980 --> 00:10:09.600
+6.4 por 10 a la menos seis, ¿a que es igual?
+
+00:10:09.600 --> 00:10:13.940
+Bueno, esto es igual a 3.2 sobre 6.4.
+
+00:10:13.940 --> 00:10:16.290
+Podemos simplemente separarles porque es asociativo.
+
+00:10:16.290 --> 00:10:23.200
+Por lo tanto, es por diez a la undécima sobre diez a
+
+00:10:23.210 --> 00:10:24.280
+la menos seis, ¿correcto?
+
+00:10:24.280 --> 00:10:25.520
+Si se multiplican estas dos cosas, van a
+
+00:10:25.520 --> 00:10:26.910
+llegar allí.
+
+00:10:26.920 --> 00:10:30.120
+Entonces 3.2 sobre 6.4.
+
+00:10:30.120 --> 00:10:32.010
+Esto es simplemente igual a 0.5, ¿correcto?
+
+00:10:32.020 --> 00:10:36.150
+32 es la mitad de 64 o 3.2 es la mitad de 6.4, así que este
+
+00:10:36.160 --> 00:10:38.130
+es 0.5 allí.
+
+00:10:38.130 --> 00:10:39.340
+Y ¿qué es esto?
+
+00:10:39.350 --> 00:10:43.100
+Se trata de diez a la undécima sobre diez a la menos seis.
+
+00:10:43.100 --> 00:10:45.700
+Cuando tienes algo en el denominador, lo
+
+00:10:45.700 --> 00:10:46.610
+podrían escribir de esta manera.
+
+00:10:46.620 --> 00:10:51.500
+Esto es equivalente a diez a la undécima sobre diez a la menos seis.
+
+00:10:51.500 --> 00:10:56.060
+Es igual a diez a la undécima multiplicado por diez a la
+
+00:10:56.070 --> 00:10:58.790
+menos seis a la menos uno.
+
+00:10:58.790 --> 00:11:03.040
+O esto es igual a diez a la undécima multiplicado por diez a la sexta.
+
+00:11:03.050 --> 00:11:04.600
+¿Y Que hice allí?
+
+00:11:04.610 --> 00:11:07.130
+Este es uno por diez a la menos seis.
+
+00:11:07.130 --> 00:11:09.570
+Así que uno sobre algo es ese algo a la
+
+00:11:09.580 --> 00:11:10.490
+potencia negativa uno.
+
+00:11:10.500 --> 00:11:12.270
+Y, a continuación, multipliqué los exponentes.
+
+00:11:12.270 --> 00:11:16.966
+Se puede pensar de esa forma y así esto sería igual
+
+00:11:16.966 --> 00:11:20.097
+a 10 a la 17 o otra forma de pensarlo
+
+00:11:20.097 --> 00:11:23.228
+Es si se tienen
+
+00:11:23.228 --> 00:11:26.360
+a las mismas bases, diez en este caso, y se están dividiendo
+
+00:11:26.360 --> 00:11:29.390
+sólo toman el del numerador y restan el
+
+00:11:29.390 --> 00:11:30.210
+exponente del denominador.
+
+00:11:30.220 --> 00:11:35.000
+Así que es once menos menos seis, que es once mas seis,
+
+00:11:35.000 --> 00:11:36.890
+que es igual a diecisiete.
+
+00:11:36.900 --> 00:11:41.200
+Así que este problema de División terminó siendo igual a
+
+00:11:41.210 --> 00:11:46.280
+0.5 por 10 a la decimoséptima.
+
+00:11:46.280 --> 00:11:49.140
+Que es la respuesta correcta, pero si querías ser un
+
+00:11:49.140 --> 00:11:50.820
+estricto y ponerla en notación científica, queremos
+
+00:11:52.500 --> 00:11:54.180
+algo tal vez mayor que uno aquí.
+
+00:11:54.190 --> 00:11:55.790
+Así que la manera en que podemos hacerlo, vamos a multiplicar
+
+00:11:55.790 --> 00:11:59.410
+por diez en este lado.
+
+00:11:59.410 --> 00:12:02.980
+Y dividir por diez en este lado o multiplicar por uno sobre diez.
+
+00:12:02.990 --> 00:12:04.870
+Recuerde, no estamos cambiando el número si se multiplica
+
+00:12:04.870 --> 00:12:06.640
+por 10 y se divide por diez.
+
+00:12:06.650 --> 00:12:08.940
+Lo estamos haciendo a diferentes partes del producto.
+
+00:12:08.950 --> 00:12:15.620
+Para este lado va a ser cinco--lo haré en rosa--diez
+
+00:12:15.620 --> 00:12:20.910
+por 0.5 es 5 por 10 a la 17 dividido por 10.
+
+00:12:20.920 --> 00:12:24.180
+Es lo mismo que diez a la diecisiete por diez
+
+00:12:24.190 --> 00:12:25.640
+A la menos uno, ¿correcto?
+
+00:12:25.640 --> 00:12:27.110
+Es de diez a la menos uno.
+
+00:12:27.120 --> 00:12:29.320
+Por lo que es igual a diez a la potencia 16.
+
+00:12:29.320 --> 00:12:31.920
+Que es la respuesta cuando se dividen estos dos
+
+00:12:35.330 --> 00:12:36.480
+Números de allí.
+
+00:12:36.490 --> 00:12:39.740
+Así que esperemos que estos ejemplos hayan llenado todas
+
+00:12:39.750 --> 00:12:42.250
+Las brechas o los escenarios inciertos referidos a la
+
+00:12:42.250 --> 00:12:43.250
+notación científica.
+
+00:12:43.250 --> 00:12:46.210
+Si no he cubierto algo, no duden en escribir un comentario sobre
+
+00:12:46.220 --> 00:12:48.500
+este video o envíen un correo electrónico.

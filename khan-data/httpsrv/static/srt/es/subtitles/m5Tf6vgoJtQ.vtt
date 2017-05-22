@@ -1,0 +1,336 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.570 --> 00:00:02.910
+Vamos a hacer un par de problemas relacionados con
+
+00:00:02.910 --> 00:00:05.940
+crecimiento exponencial y decaimiento.
+
+00:00:05.940 --> 00:00:10.930
+Así que este primer problema, supongamos que una sustancia radiactiva se desintegra
+
+00:00:10.930 --> 00:00:15.130
+a una tasa del 3,5% por hora.
+
+00:00:15.130 --> 00:00:19.400
+¿Qué porcentaje de la sustancia se deja después de 6 horas?
+
+00:00:19.400 --> 00:00:23.970
+Así que vamos a hacer una mesita aquí, sólo imaginar
+
+00:00:23.970 --> 00:00:24.700
+Qué pasa.
+
+00:00:24.700 --> 00:00:26.940
+Y entonces intentaremos llegar a una fórmula para, en
+
+00:00:26.940 --> 00:00:30.210
+general, cuánto queda después de n horas.
+
+00:00:30.210 --> 00:00:32.980
+Así que vamos a decir las horas han pasado
+
+00:00:32.980 --> 00:00:34.240
+y el porcentaje de izquierda.
+
+00:00:38.270 --> 00:00:41.880
+Así que después de 0 horas, ¿qué porcentaje queda?
+
+00:00:41.880 --> 00:00:45.710
+Bueno, no ha decaído aún, así que tenemos 100% de izquierda.
+
+00:00:45.710 --> 00:00:49.570
+¿Después de 1 hora, lo que ha sucedido?
+
+00:00:49.570 --> 00:00:53.200
+Decae a una tasa del 3,5% por hora.
+
+00:00:53.200 --> 00:00:56.140
+Hasta 3,5% se ha ido.
+
+00:00:56.140 --> 00:01:01.220
+U otra forma de pensar es 0.965.
+
+00:01:01.220 --> 00:01:07.860
+Recuerde, si usted toma 1 menos 3,5%, o si usted toma 100 %
+
+00:01:07.860 --> 00:01:12.390
+menos 3,5%--se trata de cuánto estamos perdiendo cada hora--
+
+00:01:12.390 --> 00:01:15.360
+equivale al 96,5%.
+
+00:01:15.360 --> 00:01:19.360
+Por lo que cada hora que vamos a tener el 96.5% de
+
+00:01:19.360 --> 00:01:20.720
+la hora anterior.
+
+00:01:20.720 --> 00:01:28.840
+Así que en hora 1, vamos a tener el 96.5% de hora 0 o 0.965
+
+00:01:28.840 --> 00:01:33.970
+veces 100, veces hora 0.
+
+00:01:33.970 --> 00:01:35.325
+Ahora, ¿qué sucede en hora 2?
+
+00:01:37.850 --> 00:01:41.540
+Bueno, vamos a tener 96.5% de la hora anterior.
+
+00:01:41.540 --> 00:01:46.120
+Habrá perdido 3,5%, lo que significa que tenemos 96.5% de
+
+00:01:46.120 --> 00:01:47.190
+la hora anterior.
+
+00:01:47.190 --> 00:01:59.870
+Así va a ser 0.965 veces, épocas 0.965 veces 100.
+
+00:01:59.870 --> 00:02:02.660
+Creo que ver que esto está pasando, en general.
+
+00:02:02.660 --> 00:02:06.510
+Así en la primera hora, tenemos 0.965 al primer
+
+00:02:06.510 --> 00:02:07.780
+energía, épocas 100.
+
+00:02:07.780 --> 00:02:10.759
+En la hora cero, tenemos 0.965 a la potencia cero.
+
+00:02:10.759 --> 00:02:13.730
+No lo vemos, pero hay un 1 allí, veces 100.
+
+00:02:13.730 --> 00:02:18.110
+En la segunda hora, 0.965 poder segundo veces 100.
+
+00:02:18.110 --> 00:02:22.040
+En general, en la hora n--permítanme hacer esto en un
+
+00:02:22.040 --> 00:02:25.860
+agradable audaz color--en la hora n, vamos a tener
+
+00:02:25.860 --> 00:02:33.850
+0.965 a la enésima potencia, veces 100 a la izquierda de
+
+00:02:33.850 --> 00:02:36.130
+la sustancia radiactiva.
+
+00:02:36.130 --> 00:02:38.100
+Y a menudo verás escrito así.
+
+00:02:38.100 --> 00:02:44.380
+Tienes tus tiempos de cantidad inicial su relación común, 0.965
+
+00:02:44.380 --> 00:02:45.450
+a la enésima potencia.
+
+00:02:45.450 --> 00:02:48.500
+Se trata de cuánto vas a han dejado después de n horas.
+
+00:02:48.500 --> 00:02:49.820
+Bien, ahora podemos responder a la pregunta.
+
+00:02:49.820 --> 00:02:52.310
+Después de 6 horas ¿cuánto vamos a han dejado?
+
+00:02:52.310 --> 00:02:58.860
+Bueno, vamos a tener 100 veces 0.965 a
+
+00:02:58.860 --> 00:03:00.520
+la sexta potencia de izquierda.
+
+00:03:00.520 --> 00:03:04.150
+Y podríamos utilizar una calculadora para averiguar lo que es.
+
+00:03:04.150 --> 00:03:07.000
+Vamos a usar nuestra calculadora de confianza.
+
+00:03:07.000 --> 00:03:16.880
+Así que tenemos 100 veces 0.965 a la sexta potencia, que es
+
+00:03:16.880 --> 00:03:21.820
+igual a 80.75.
+
+00:03:21.820 --> 00:03:23.080
+Esto es todo en porcentajes.
+
+00:03:23.080 --> 00:03:27.220
+Por lo que es 80.75% de la sustancia original.
+
+00:03:32.600 --> 00:03:34.646
+Vamos a hacer una de estas.
+
+00:03:34.646 --> 00:03:41.570
+Así que tenemos, Nadia posee una cadena de restaurantes de comida rápida
+
+00:03:41.570 --> 00:03:48.360
+Opera 200 tiendas en 1999.
+
+00:03:48.360 --> 00:03:51.500
+Si la tasa de incremento es--oh, hay un error tipográfico
+
+00:03:51.500 --> 00:03:56.670
+aquí, debe ser 8%, la tasa de incremento es del 8 %
+
+00:03:56.670 --> 00:03:58.760
+cada año, cuántas tiendas hace el
+
+00:03:58.760 --> 00:04:02.450
+¿Restaurante funcionar en el 2007?
+
+00:04:02.450 --> 00:04:06.400
+Así que vamos a pensar lo mismo.
+
+00:04:06.400 --> 00:04:13.860
+Así que digamos que años después de 1999.
+
+00:04:13.860 --> 00:04:21.019
+Y vamos a hablar de cómo muchas tiendas Nadia está funcionando, le
+
+00:04:21.019 --> 00:04:22.820
+cadena de comida rápida.
+
+00:04:22.820 --> 00:04:29.950
+1999 Se quede 0 años después de 1999.
+
+00:04:29.950 --> 00:04:33.710
+Y ella está funcionando 200 tiendas.
+
+00:04:33.710 --> 00:04:38.620
+Luego en el año 2000, que es de un año después de 1999, cuántos es ella
+
+00:04:38.620 --> 00:04:40.040
+¿va a estar operando?
+
+00:04:40.040 --> 00:04:43.190
+Bueno, ella crece a un ritmo de 8% anualmente.
+
+00:04:43.190 --> 00:04:48.060
+Así que ella te operan todas las tiendas que tenía antes de
+
+00:04:48.060 --> 00:04:51.210
+más 8% de la tienda tenía antes.
+
+00:04:51.210 --> 00:04:55.980
+1.08 Veces el número de tiendas que tenía antes.
+
+00:04:55.980 --> 00:04:58.660
+Y vas a ver, la relación común aquí es de 1.08.
+
+00:04:58.660 --> 00:05:01.380
+Si usted está creciendo 8%, equivale a
+
+00:05:01.380 --> 00:05:03.460
+multiplicando por 1.08.
+
+00:05:03.460 --> 00:05:04.740
+Permítanme hacer eso en claro.
+
+00:05:04.740 --> 00:05:09.290
+200 más 0.08, veces 200.
+
+00:05:09.290 --> 00:05:15.040
+Bueno, esto es sólo 1 veces 200 más 0.08, veces 200.
+
+00:05:15.040 --> 00:05:17.700
+Es 200 veces 1.08.
+
+00:05:17.700 --> 00:05:21.920
+Luego en el 2001, ¿qué está sucediendo?
+
+00:05:21.920 --> 00:05:27.310
+Se trata ahora de 2 años después de 1999, y vas a crecer
+
+00:05:27.310 --> 00:05:29.230
+8% de este número.
+
+00:05:29.230 --> 00:05:33.330
+Vas a multiplicar a 1.08 veces ese número,
+
+00:05:33.330 --> 00:05:37.510
+veces 1.08 veces 200.
+
+00:05:37.510 --> 00:05:42.060
+Creo que tienes la esencia general. Si, después de n años después
+
+00:05:42.060 --> 00:05:46.550
+1999, va a ser 1.08--Déjame escribirlo así.
+
+00:05:46.550 --> 00:05:54.660
+Va a ser 200 veces 1.08 a la enésima potencia.
+
+00:05:54.660 --> 00:05:57.200
+Después de 2 años, 1.08 cuadrados.
+
+00:05:57.200 --> 00:05:59.370
+1 año, 1.08 a la primera potencia.
+
+00:05:59.370 --> 00:06:02.960
+0 años, esta es la misma cosa como 1 veces 200, que
+
+00:06:02.960 --> 00:06:05.870
+es de 1.08 a la potencia cero.
+
+00:06:05.870 --> 00:06:08.620
+Por lo que nos está pidiendo, cuántas tiendas hace el restaurante
+
+00:06:08.620 --> 00:06:10.550
+¿funcionar en el 2007?
+
+00:06:10.550 --> 00:06:17.320
+Bueno, el 2007 es 8 años después de 1999.
+
+00:06:17.320 --> 00:06:21.090
+Asique n es igual a 8.
+
+00:06:21.090 --> 00:06:24.110
+Solo tenemos que sustituir n es igual a 8.
+
+00:06:24.110 --> 00:06:29.180
+La respuesta a nuestra pregunta será 200 veces 1.08 a la
+
+00:06:29.180 --> 00:06:30.410
+octava potencia.
+
+00:06:30.410 --> 00:06:34.000
+Vamos a sacar nuestra calculadora y calcularlo.
+
+00:06:34.000 --> 00:06:41.570
+Por eso queremos averiguar 200 veces 1.08
+
+00:06:41.570 --> 00:06:46.090
+a la octava potencia.
+
+00:06:46.090 --> 00:06:49.840
+Ella va a estar operando 370 restaurantes, y ella estará
+
+00:06:49.840 --> 00:06:52.250
+en el proceso de abrir un poco más.
+
+00:06:52.250 --> 00:06:58.050
+Así que si nos redondeando, ella va a estar operando 370
+
+00:06:58.050 --> 00:06:58.900
+restaurantes.
+
+00:06:58.900 --> 00:07:03.255
+Así un crecimiento del 8% puede no parecer como algo que es tan rápido
+
+00:07:03.255 --> 00:07:04.910
+o que emocionante.
+
+00:07:04.910 --> 00:07:08.430
+Pero en una década, en sólo 8 años, ella habría conseguido
+
+00:07:08.430 --> 00:07:12.390
+su cadena de restaurantes de 200 a 370 restaurantes.
+
+00:07:12.390 --> 00:07:17.020
+Así que más de 8 años, verá que el crecimiento compuesto por 8%
+
+00:07:17.020 --> 00:07:20.440
+realmente termina siendo muy dramáticas.

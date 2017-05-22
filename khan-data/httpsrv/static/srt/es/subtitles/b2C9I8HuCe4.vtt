@@ -1,0 +1,258 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.768 --> 00:00:03.667
+Un ecologo estudia la edad de aproximadamente 100 arboles
+
+00:00:03.667 --> 00:00:05.322
+en un bosque local
+
+00:00:05.322 --> 00:00:07.757
+Usa un diagrama de caja
+
+00:00:07.757 --> 00:00:10.090
+para asignar sus datos, indicados abajo.
+
+00:00:10.090 --> 00:00:13.816
+Cual es el alcance de edades de los arboles que el estudio?
+
+00:00:13.816 --> 00:00:17.000
+Qual es la edad mediana de un arbol el el bosque?
+
+00:00:17.000 --> 00:00:18.004
+Asi que primero, solo...
+
+00:00:18.004 --> 00:00:19.066
+Aseguremonos que entendemos
+
+00:00:19.066 --> 00:00:21.082
+Que nos dice este diagrama de caja.
+
+00:00:21.082 --> 00:00:24.082
+Esto es realmente una manera de ver la distribucion
+
+00:00:24.097 --> 00:00:25.661
+de todos los datos,
+
+00:00:25.661 --> 00:00:27.246
+cual es la edad de los arboles,
+
+00:00:27.246 --> 00:00:28.834
+y tambien darnos otra informacion,
+
+00:00:28.834 --> 00:00:29.981
+por ejemplo cual es la mediana y
+
+00:00:29.981 --> 00:00:32.267
+donde las mayorias... donde ya mayoria
+
+00:00:32.267 --> 00:00:33.419
+de las edades de los arboles se encuentran.
+
+00:00:33.434 --> 00:00:34.953
+Asi que estos "bigotes"...
+
+00:00:34.953 --> 00:00:36.578
+Se puede ver que esta parte negra es un bigote,
+
+00:00:36.578 --> 00:00:37.896
+esta es la caja
+
+00:00:37.896 --> 00:00:39.500
+y este es otro bigote aqui.
+
+00:00:39.500 --> 00:00:42.421
+Los bigotes nos dicen basicamente la extension
+
+00:00:42.421 --> 00:00:43.711
+de los datos.
+
+00:00:43.711 --> 00:00:46.370
+Y nos dice que el dato mas bajo en esta muestra
+
+00:00:46.370 --> 00:00:48.213
+es un arbol de 8 años.
+
+00:00:48.213 --> 00:00:51.405
+Estoy asumiendo que el eje aqui esta definido en años.
+
+00:00:51.405 --> 00:00:55.147
+Y dice aqui que el mas alto, el arbol mas biejo, aqui,
+
+00:00:55.147 --> 00:00:55.983
+tiene 50 años.
+
+00:00:55.983 --> 00:00:57.967
+Entonces si queremos el alcance y pensamos
+
+00:00:57.967 --> 00:01:00.412
+de este alcance desde el puto de vista de estadistica
+
+00:01:00.412 --> 00:01:02.441
+Pensamos entonces del dato mas alto,
+
+00:01:02.441 --> 00:01:04.221
+menos el dato mas bajo.
+
+00:01:04.221 --> 00:01:07.036
+Asi que entonces es 50 - 8.
+
+00:01:07.036 --> 00:01:09.637
+Tenemos entonces un alcance de 42.
+
+00:01:09.637 --> 00:01:11.333
+Eso es lo que nos indican los "bigotes".
+
+00:01:11.333 --> 00:01:13.491
+Nos muestran que todo cae dentro de 8 y 50 años.
+
+00:01:13.491 --> 00:01:16.250
+incluyendo 8 y 50 años.
+
+00:01:16.250 --> 00:01:19.229
+Ahora lo que muestra esta caja, la caja comienza...
+
+00:01:19.229 --> 00:01:21.572
+Permitanme explicarlo de esta manera:
+
+00:01:21.572 --> 00:01:23.894
+El med... Esta linea aqui es la media
+
+00:01:23.894 --> 00:01:26.962
+Esto aqui es la media.
+
+00:01:26.962 --> 00:01:31.045
+Asi que mitad de las edades van a ser menores que la media,
+
+00:01:31.045 --> 00:01:33.367
+Vemos aqui que la media es 21.
+
+00:01:33.367 --> 00:01:35.550
+Entonces este diagrama de caja nos dice
+
+00:01:35.550 --> 00:01:38.894
+que mitad de los arboles van a ser menores de 21 años.
+
+00:01:38.894 --> 00:01:42.069
+Y mitad mayores de 21.
+
+00:01:42.069 --> 00:01:44.652
+Y estos puntos a los extremos, aqui,
+
+00:01:44.652 --> 00:01:47.299
+Estos son las medias para cada una de estas secciones.
+
+00:01:47.299 --> 00:01:49.297
+Entonces esta es la medi para estos arboles
+
+00:01:49.297 --> 00:01:51.154
+que son menores a la media,
+
+00:01:51.154 --> 00:01:53.151
+o menores al promedio.
+
+00:01:53.151 --> 00:01:55.473
+Y este es el medio de todos los arboles
+
+00:01:55.473 --> 00:01:57.284
+que tienen menos de 21
+
+00:01:57.284 --> 00:02:00.303
+Esta es la mediana edad para todos los arboles
+
+00:02:00.303 --> 00:02:02.067
+mas grandes, o viejos de 21.
+
+00:02:02.067 --> 00:02:04.841
+Y asi, estos esencialmente dividen...
+
+00:02:04.841 --> 00:02:08.290
+Estamos dividiendo los datos en cuatro grupos:
+
+00:02:08.290 --> 00:02:11.030
+esto... lo llamaremos el primer cuartil.
+
+00:02:11.030 --> 00:02:12.981
+Entonces llamare al primer cuartil Q1.
+
+00:02:12.981 --> 00:02:15.309
+Quizas lo hare 1Q.
+
+00:02:15.309 --> 00:02:17.506
+Este es el primer cuartil,
+
+00:02:17.506 --> 00:02:19.981
+o aproximadamente un cuarto de todos los arboles
+
+00:02:19.981 --> 00:02:21.453
+porque la manera que se calcula a veces
+
+00:02:21.453 --> 00:02:22.958
+un arbol termina en un punto u otro.
+
+00:02:22.958 --> 00:02:25.061
+Aproximadamente un cuarto de los arboles terminan aqui,
+
+00:02:25.061 --> 00:02:27.984
+un cuarto de los arboles estan entre 14 y 21,
+
+00:02:27.984 --> 00:02:30.814
+un cuarto estan entre 21 y aparentemente 33,
+
+00:02:30.814 --> 00:02:32.720
+y luego otro cuarto estan en este cuartil.
+
+00:02:32.720 --> 00:02:36.619
+Asi que llamamos a este el primer cuartil, el segundo cuartil
+
+00:02:36.619 --> 00:02:39.820
+el tercer cuartil, y el cuarto cuartil.
+
+00:02:39.820 --> 00:02:41.938
+Asi que para responder la pregunta,
+
+00:02:41.938 --> 00:02:43.636
+lla hemos hecho el alcance
+
+00:02:43.636 --> 00:02:47.160
+Hay una difuncion de 42 años entre el albol mas joven y el mas biejo.
+
+00:02:47.160 --> 00:02:50.040
+y luego la media de un arbol en el bosque
+
+00:02:50.040 --> 00:02:51.467
+esta en 21.
+
+00:02:51.467 --> 00:02:53.668
+Entonces aunque tengas arboles que
+
+00:02:53.668 --> 00:02:55.122
+tengan 50 años,
+
+00:02:55.122 --> 00:02:57.352
+la media del bosque esta mas cerca
+
+00:02:57.352 --> 00:02:59.289
+a la parte mas baja de todo
+
+00:02:59.289 --> 00:03:02.733
+de el espectro completo de las edades.
+
+00:03:02.733 --> 00:03:06.421
+Asi que si miras al medio como tu medida de tendencia central,
+
+00:03:06.421 --> 00:03:09.112
+solo esta en 21 años.
+
+00:03:09.112 --> 00:03:10.605
+Hasta se puede ver.
+
+00:03:10.605 --> 00:03:12.108
+Esta mas cerca a la izquierda de la caja
+
+00:03:12.108 --> 00:03:15.320
+y mas cerca a la izquierda, al fin de el bigote izquierdo
+
+00:03:15.320 --> 99:59:59.999
+que al fin del bigote derecho.

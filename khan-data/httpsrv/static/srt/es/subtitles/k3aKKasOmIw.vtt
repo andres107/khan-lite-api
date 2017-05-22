@@ -1,0 +1,186 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.720 --> 00:00:05.735
+Determinar la media, la mediana y la moda del siguiente serie de datos,
+
+00:00:05.735 --> 00:00:07.361
+y se nos dan los números aquí.
+
+00:00:07.361 --> 00:00:09.404
+Si alguien dice "la media",
+
+00:00:09.404 --> 00:00:13.723
+en realidad se está refiriendo a lo que con frecuencia también llamamos "el promedio".
+
+00:00:13.723 --> 00:00:15.395
+A veces también es conocida como "la media aritmética"
+
+00:00:15.395 --> 00:00:18.042
+porque vas a aprender que en realidad hay otros métodos para calcular una media.
+
+00:00:18.042 --> 00:00:20.364
+Pero simplemente sumamos todos los números
+
+00:00:20.364 --> 00:00:22.129
+y la suma la dividimos por la cantidad de números que tenemos.
+
+00:00:22.129 --> 00:00:24.776
+Así que es una medida de la tendencia central
+
+00:00:24.776 --> 00:00:27.051
+o, podríamos decir el promedio.
+
+00:00:27.051 --> 00:00:28.398
+Así que esto es la media.
+
+00:00:28.398 --> 00:00:31.649
+Queremos calcular la media de 23 más 29,
+
+00:00:31.649 --> 00:00:41.773
+o queremos sumar 23 más 29 más 20 más 32 más 23 más 21 más 33 más 25
+
+00:00:41.773 --> 00:00:44.698
+y entonces dividir por el número de datos.
+
+00:00:44.698 --> 00:00:49.900
+Así que [contando] 1,2,3,4,5,6,7,8 números.
+
+00:00:49.900 --> 00:00:51.479
+Por lo tanto quieres dividir por 8.
+
+00:00:51.479 --> 00:00:53.568
+Y calculemos la respuesta.
+
+00:00:53.568 --> 00:00:55.472
+De hecho, voy a usar la calculadora para hacerlo.
+
+00:00:55.472 --> 00:00:59.373
+Podría hacerlo a mano, pero ahorraremos un poco de tiempo de esta manera
+
+00:00:59.373 --> 00:01:20.364
+Así que tenemos 23 más 29 más 20 más 20 más 32 más 23 más 21 más 33 más 25.
+
+00:01:20.364 --> 00:01:23.476
+Y la suma de todos los números es 206,
+
+00:01:23.476 --> 00:01:25.798
+y entonces queremos dividir 206 por 8.
+
+00:01:25.798 --> 00:01:34.067
+Así, 206 dividido por 8 nos da una respuesta de 25,75.
+
+00:01:34.067 --> 00:01:38.151
+Por lo tanto la media es 25,75.
+
+00:01:38.151 --> 00:01:41.030
+Y esta es una manera de medir el centro, la tendencia central.
+
+00:01:41.030 --> 00:01:45.302
+Otro método es con la mediana. Y esto consiste en determinar cuál es el número en la posición central.
+
+00:01:45.302 --> 00:01:47.485
+La mediana.
+
+00:01:47.485 --> 00:01:51.479
+Y para identificar la mediana, lo que queremos hacer es arreglar todos los número en orden del menor al mayor.
+
+00:01:51.479 --> 00:01:56.123
+Aquí parece que el menor es 20. Veinte.
+
+00:01:56.123 --> 00:01:59.978
+Y el siguiente es 21. Veintiuno.
+
+00:01:59.978 --> 00:02:02.533
+Entonces, no hay un 22 aquí.
+
+00:02:02.533 --> 00:02:07.361
+Hay, pues, veremos, hay dos 23... 23 y un 23.
+
+00:02:07.361 --> 00:02:10.473
+Así 23 y un 23.
+
+00:02:10.473 --> 00:02:13.817
+Y ningún 24. Sí hay un 25. Veinticinco.
+
+00:02:13.817 --> 00:02:18.693
+No hay [contando] 26, 27, 28, sí hay un 29. Veintinueve.
+
+00:02:18.693 --> 00:02:24.637
+Y luego tenemos el 32. Treinta y dos. Y luego el 33. Treinta y tres.
+
+00:02:24.637 --> 00:02:26.448
+Así que, ahora que los tenemos en orden ¿cuál es el número en el centro?
+
+00:02:26.448 --> 00:02:30.814
+Tenemos [contando] 1,2,3,4,5,6,7,8 números; esto ya lo sabemos.
+
+00:02:30.814 --> 00:02:32.811
+Así que en realidad va a haber dos números en el centro.
+
+00:02:32.811 --> 00:02:37.455
+Si tienes dos... si tienes un número par, en realidad hay dos números que realmente están
+
+00:02:37.455 --> 00:02:40.705
+cerca del centro, y para realmente calcular la mediana tendremos que encontrar su media.
+
+00:02:40.705 --> 00:02:43.120
+Así que 23 va a ser uno de ellos.
+
+00:02:43.120 --> 00:02:44.467
+Pero a solas no puede ser la mediana,
+
+00:02:44.467 --> 00:02:47.133
+porque hay tres números menores, y hay cuatro mayores.
+
+00:02:47.133 --> 00:02:52.455
+Y 25 a solas tampoco puede ser la mediana porque hay tres números mayores y cuatro menores...
+
+00:02:52.455 --> 00:02:57.795
+Por eso lo que hacemos es determinar la media de estos dos números y el resultado es la mediana.
+
+00:02:57.795 --> 00:03:05.365
+Así que 23 más 25 es 48, y dividido por 2 es 24.
+
+00:03:05.365 --> 00:03:09.312
+Y aunque 24 no es uno de estos números, la mediana es 24.
+
+00:03:09.312 --> 00:03:10.984
+Este es el número en el medio, el centro.
+
+00:03:10.984 --> 00:03:14.978
+Así que otra vez, esta es una manera de pensar en la tendencia central.
+
+00:03:14.978 --> 00:03:17.718
+Si quisieras un número que pudiera representar el centro,
+
+00:03:17.718 --> 00:03:19.715
+y quiero dejar claro que no hay una sola manera de hacerlo,
+
+00:03:19.715 --> 00:03:24.777
+este es uno de los métodos para medir el centro, el centro, pongámoslo entre comillas,
+
+00:03:24.777 --> 00:03:28.446
+"el centro", si tuviéras que representar estos datos con un solo número.
+
+00:03:28.446 --> 00:03:31.046
+Y esta es otra manera de representar el centro.
+
+00:03:31.046 --> 00:03:33.368
+Entonces finalmente podemos considerar "la moda".
+
+00:03:33.368 --> 00:03:37.316
+Y la moda es simplemente el número que aparece más veces en este conjunto de números.
+
+00:03:37.324 --> 00:03:42.470
+Y todos estos números aparecen una vez con la excepción del 23 que aparece dos veces.
+
+00:03:42.470 --> 00:03:46.789
+Y por eso, porque 23 aparece más que los otros,
+
+00:03:46.789 --> 00:03:49.111
+aparece dos veces, todos los otros números aparecen una vez,
+
+00:03:49.204 --> 99:59:59.999
+23...23 es nuestra moda.

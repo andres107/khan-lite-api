@@ -1,0 +1,939 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.330 --> 00:00:03.110
+una de las ideas mas fundamentales en toda la fisica
+
+00:00:03.110 --> 00:00:05.385
+es la idea de trabajo
+
+00:00:05.385 --> 00:00:08.450
+Ahora, cuando tu aprendes sobre el "trabajo" por primera vez, tu dices, "oh, eso
+
+00:00:08.450 --> 00:00:10.120
+es solamente la fuerza multiplicada por distancia"
+
+00:00:10.120 --> 00:00:12.200
+Pero después, cuando aprendes un poco sobre
+
+00:00:12.200 --> 00:00:14.770
+los vectores, te das cuenta que la fuerza no siempre se dirije
+
+00:00:14.770 --> 00:00:17.610
+en la misma dirección que el desplazamiento.
+
+00:00:17.610 --> 00:00:21.450
+Entonces cuando aprendes que el trabajo, es en verdad la magnitud, déjame
+
+00:00:21.450 --> 00:00:33.070
+escribir esto... la magnitud de la fuerza, en la dirección,
+
+00:00:33.070 --> 00:00:39.460
+o el componente de la fuerza en la dirección
+
+00:00:39.460 --> 00:00:41.740
+del desplazamiento.
+
+00:00:41.740 --> 00:00:44.206
+El desplazamiento es solo la distancia con alguna dirección
+
+00:00:49.970 --> 00:00:55.290
+Por la magnitud del desplazamiento, o podrías decir,
+
+00:00:55.290 --> 00:00:56.695
+que es por la distancia desplazada.
+
+00:01:00.810 --> 00:01:02.330
+Y el ejemplo clásico.
+
+00:01:02.330 --> 00:01:06.250
+A lo mejor tienes un hielo, o algun tipo de bloque.
+
+00:01:06.250 --> 00:01:08.740
+Digo hielo, para que no haya mucha fricción.
+
+00:01:08.740 --> 00:01:12.510
+A lo mejor está encima de una superficie congelada, o algo parecido.
+
+00:01:12.510 --> 00:01:15.030
+Y estarás tirando de ese cubo de hielo en un ángulo
+
+00:01:15.030 --> 00:01:17.610
+un angulo asi
+
+00:01:17.610 --> 00:01:20.820
+Esa es mi fuerza, allí
+
+00:01:20.820 --> 00:01:24.080
+digamos que mi fuerza es igual a--bueno ese
+
+00:01:24.080 --> 00:01:25.160
+es mi vector de fuerza.
+
+00:01:25.160 --> 00:01:33.870
+Digamos que la magnitud de my vector de fuerza
+
+00:01:33.870 --> 00:01:35.310
+es de 10 newtons.
+
+00:01:35.310 --> 00:01:37.650
+y digamos que la direccion de my vector de fuerza,
+
+00:01:37.650 --> 00:01:41.080
+tiene que tener una magnituda y una direccion,
+
+00:01:41.080 --> 00:01:44.920
+digamos que tiene un angulo de 60 grados
+
+00:01:44.920 --> 00:01:47.770
+sobre la horizontal
+
+00:01:47.770 --> 00:01:49.560
+entonce esa es la dirccion en la que jalo
+
+00:01:49.560 --> 00:01:52.600
+y digamos que la desplazo
+
+00:01:52.600 --> 00:01:55.930
+Ojala que todo esto sea solo un resumen
+
+00:01:55.930 --> 00:01:59.225
+si lo estas desplazando, digamos 5 newtons
+
+00:01:59.225 --> 00:02:02.570
+Digamos entonces que el desplazamiento, ése es el vector de desplazamiento
+
+00:02:02.570 --> 00:02:10.290
+justo ahí, y su magnitud es igual a 5 metros.
+
+00:02:10.290 --> 00:02:13.460
+Entonces haz aprendido de la definición de trabajo, no puedes
+
+00:02:13.460 --> 00:02:16.940
+decir, oh, estoy tirando con 10 newtons de fuerza y
+
+00:02:16.940 --> 00:02:18.360
+lo estoy moviendo 5 metros.
+
+00:02:18.360 --> 00:02:22.560
+Simplemente no puedes multiplicar los 10 newtons por los 5 metros.
+
+00:02:22.560 --> 00:02:25.660
+Tienes que encontrar la magnitud del componente yendo
+
+00:02:25.660 --> 00:02:29.050
+en la misma dirección que mi desplazamiento.
+
+00:02:29.050 --> 00:02:31.860
+Así que esencialmente lo que tengo que hacer, la distancia, si tu
+
+00:02:31.860 --> 00:02:34.930
+te imaginas la distancia de este vector siendo 10, ésa es la
+
+00:02:34.930 --> 00:02:37.750
+fuerza total, pero tienes que descubrir la distancia del
+
+00:02:37.750 --> 00:02:40.770
+vector, ése es el componente de la fuerza, yendo en la misma
+
+00:02:40.770 --> 00:02:43.460
+dirección como mi desplazamiento.
+
+00:02:43.460 --> 00:02:45.570
+Y un poco de simple trigonometría, tú sabes que
+
+00:02:45.570 --> 00:02:53.120
+esto es 10 multiplicado el coseno de 60 grados, o es igual a,
+
+00:02:53.120 --> 00:02:58.010
+coseno de 60 grados es 1/2, así que eso es igual a 5.
+
+00:02:58.010 --> 00:03:00.380
+Así que esta magnitud, la magnitud de la fuerza yendo
+
+00:03:00.380 --> 00:03:02.410
+en la misma dirección que el desplazamiento en este
+
+00:03:02.410 --> 00:03:04.810
+caso, es 5 newtons.
+
+00:03:07.500 --> 00:03:09.850
+Y luego puedes darte cuenta del trabajo.
+
+00:03:09.850 --> 00:03:19.560
+Puedes decir que el trabajo es igual a 5 newtons multiplicado, voy
+
+00:03:19.560 --> 00:03:20.630
+a escribir un punto por la multiplicación.
+
+00:03:20.630 --> 00:03:22.290
+No quiero que piensen que es un producto cruzado.
+
+00:03:22.290 --> 00:03:26.680
+Multiplicado por 5 metros, que es 25 newton metros, o podrías
+
+00:03:26.680 --> 00:03:31.250
+incluso decir 25 Joules de trabajo se han hecho.
+
+00:03:31.250 --> 00:03:35.280
+Y todo esto es un repaso de física básica.
+
+00:03:35.280 --> 00:03:36.720
+Pero piensa acerca de lo que ha pasado, aquí.
+
+00:03:36.720 --> 00:03:37.430
+Cuál era el trabajo?
+
+00:03:37.430 --> 00:03:39.190
+Si escribo en lo abstracto.
+
+00:03:39.190 --> 00:03:42.550
+El trabajo es igual a los 5 newtons.
+
+00:03:42.550 --> 00:03:46.700
+Esa era la magnitud de mi vector de fuerza, así que era
+
+00:03:46.700 --> 00:03:52.630
+la magnitud de mi vector de fuerza, multiplicado por el coseno de éste ángulo.
+
+00:03:52.630 --> 00:03:53.860
+Entonces, llamemos a eso theta.
+
+00:03:53.860 --> 00:03:55.010
+Digámoslo de manera general.
+
+00:03:55.010 --> 00:03:58.150
+Entonces multiplicado el coseno del ángulo.
+
+00:03:58.150 --> 00:04:01.740
+Esta es la cantidad de trabajo en la dirección del
+
+00:04:01.740 --> 00:04:04.960
+desplazamiento, el coseno del ángulo entre ellos, multiplicado por
+
+00:04:04.960 --> 00:04:06.800
+la magnitud del desplazamiento.
+
+00:04:06.800 --> 00:04:12.260
+Entonces multiplicado la magnitud del desplazamiento.
+
+00:04:12.260 --> 00:04:15.560
+O si quisiera reescribir eso, yo podría escribirlo como, la
+
+00:04:15.560 --> 00:04:18.940
+magnitud del desplazamiento multiplicado por la magnitud de
+
+00:04:18.940 --> 00:04:23.400
+la fuerza multiplicado por el coseno de theta.
+
+00:04:23.400 --> 00:04:26.760
+Y como hice múltiples videos acerca de esto, en la lista de álgebra linear,
+
+00:04:26.760 --> 00:04:28.880
+en la lista de física, donde hablo acerca de
+
+00:04:28.880 --> 00:04:31.580
+el producto punto y la multiplicación cruzada y todo eso, pero
+
+00:04:31.580 --> 00:04:40.470
+esto es el producto punto de los vectores d y f.
+
+00:04:40.470 --> 00:04:43.700
+Entonces en general, si estas tratando de encontrar el trabajo para un desplazamiento
+
+00:04:43.700 --> 00:04:46.730
+constante, y tienes una fuerza constante, simplemente tomas
+
+00:04:46.730 --> 00:04:48.530
+el producto punto de estos dos vectores.
+
+00:04:48.530 --> 00:04:51.330
+Y si el producto punto es un concepto completamente extraño para
+
+00:04:51.330 --> 00:04:53.770
+ti, podrías querer mirar, creo haber hecho múltiples, 4
+
+00:04:53.770 --> 00:04:56.380
+o 5 videos del producto punto, y su intuición,
+
+00:04:56.380 --> 00:04:57.420
+y como se compara.
+
+00:04:57.420 --> 00:04:59.280
+Pero sólo para darte un poquito de esa intuición aquí
+
+00:04:59.280 --> 00:05:03.920
+mismo, el producto punto, cuando tomo f punto d, o d punto f,
+
+00:05:03.920 --> 00:05:08.440
+lo que me está dando es, estoy multiplicando la magnitud, bueno
+
+00:05:08.440 --> 00:05:10.130
+yo podría simplemente leerlo.
+
+00:05:10.130 --> 00:05:13.590
+Pero la idea del producto punto es, tomar cuanto de este
+
+00:05:13.590 --> 00:05:16.800
+vector está yendo en la misma dirección que este vector,
+
+00:05:16.800 --> 00:05:18.500
+en este caso, este tanto.
+
+00:05:18.500 --> 00:05:21.110
+Y luego multiplicar las dos magnitudes.
+
+00:05:21.110 --> 00:05:22.410
+Y eso es lo que hemos hecho aquí.
+
+00:05:22.410 --> 00:05:26.230
+Entonces el trabajo va a hacer el vector de fuerza, punto, tomando la
+
+00:05:26.230 --> 00:05:28.980
+parte del punto del vector de fuerza con el vector de desplazamiento,
+
+00:05:28.980 --> 00:05:30.840
+y este, obviamente, es un valor escalar.
+
+00:05:30.840 --> 00:05:33.040
+Y haremos paso a paso algunos ejemplos en el futuro donde
+
+00:05:33.040 --> 00:05:34.360
+verás que eso es verdadero.
+
+00:05:34.360 --> 00:05:39.000
+Hasta ahora, estamos repasando física elementario
+
+00:05:39.000 --> 00:05:42.500
+Pero ahora pasamos a un ejemplo mas complejo
+
+00:05:42.500 --> 00:05:43.670
+que muestra la misma idea
+
+00:05:43.670 --> 00:05:45.873
+Definamos un campo vectorial
+
+00:05:48.660 --> 00:05:51.371
+Digamos que tengo un campo vectorial, y en un segundo
+
+00:05:51.371 --> 00:05:54.050
+vamos a enfocar el significado
+
+00:05:54.050 --> 00:05:58.890
+Es una función de x e y, que iguala a una función escalar
+
+00:05:58.890 --> 00:06:04.490
+de x e y multiplicado por el vector unitario i, o
+
+00:06:04.490 --> 00:06:08.760
+el vector unitario horizontal mas alguna otra función, escalar
+
+00:06:08.760 --> 00:06:14.250
+función de x e y, multiplicado por el vector unitario vertical
+
+00:06:14.250 --> 00:06:15.580
+Entonces, ¿qué sería algo de este estilo?
+
+00:06:15.580 --> 00:06:17.460
+Es un campo vectorial
+
+00:06:17.460 --> 00:06:20.210
+Un campo vectorial en el espacio de dos dimenciones
+
+00:06:20.210 --> 00:06:21.330
+Estamos en el plan x-y
+
+00:06:31.190 --> 00:06:35.840
+O incluso se podría decir, en R2.
+
+00:06:35.840 --> 00:06:37.690
+De cualquier manera, no quiero entrar demasiado en
+
+00:06:37.690 --> 00:06:39.230
+la mathiness de la misma.
+
+00:06:39.230 --> 00:06:40.590
+Pero ¿qué hace esto?
+
+00:06:40.590 --> 00:06:47.270
+Bueno, si tuviera que señalar mi plano x-y, por lo que es mi, de nuevo,
+
+00:06:47.270 --> 00:06:49.070
+tiene problemas para dibujar una línea recta.
+
+00:06:49.070 --> 00:06:50.610
+Bien, allá vamos.
+
+00:06:50.610 --> 00:06:54.050
+Es mi eje y, y es mi eje x.
+
+00:06:54.050 --> 00:06:56.360
+Yo sólo estoy sacando el primer cuadrante, y pero usted podría
+
+00:06:56.360 --> 00:06:59.450
+vaya negativo en cualquier dirección, si lo desea.
+
+00:06:59.450 --> 00:07:01.260
+¿Qué hace esta cosa?
+
+00:07:01.260 --> 00:07:02.350
+Pues esencialmente es decir, mira.
+
+00:07:02.350 --> 00:07:06.800
+Darme cualquier x, cualquier, darle cualquier x, y en el plano x-y,
+
+00:07:06.800 --> 00:07:09.970
+¿y estos van a acabar con algunos números, correctas?
+
+00:07:09.970 --> 00:07:12.655
+Cuando pones x, y aquí, vas a obtener algún valor, cuando
+
+00:07:12.655 --> 00:07:14.310
+pones x, y aquí, vas a obtener algún valor.
+
+00:07:14.310 --> 00:07:16.980
+Así que vas a obtener una combinación de la i-
+
+00:07:16.980 --> 00:07:18.070
+y vectores unitarios j.
+
+00:07:18.070 --> 00:07:19.770
+Así que vas a obtener algunos vectores.
+
+00:07:19.770 --> 00:07:23.020
+Así que lo que hace esto, define un vector que está asociado
+
+00:07:23.020 --> 00:07:24.810
+cada punto en el plano x-y.
+
+00:07:24.810 --> 00:07:28.780
+Por lo tanto se puede decir, si tomo este punto en el plano x-y,
+
+00:07:28.780 --> 00:07:32.480
+y yo sería pop en esto, voy a algo veces me plus
+
+00:07:32.480 --> 00:07:34.730
+algo veces j, y cuando añades esos 2, tal vez me sale un
+
+00:07:34.730 --> 00:07:37.130
+vector que algo parecido.
+
+00:07:37.130 --> 00:07:38.100
+Y se podía hacer eso en cada punto.
+
+00:07:38.100 --> 00:07:39.190
+Sólo estoy tomando muestras aleatorias.
+
+00:07:39.190 --> 00:07:41.420
+Tal vez cuando me voy de aquí, se ve el vector
+
+00:07:41.420 --> 00:07:42.280
+algo así.
+
+00:07:42.280 --> 00:07:44.910
+Tal vez cuando me voy de aquí, el vencedor este aspecto.
+
+00:07:44.910 --> 00:07:47.560
+Tal vez cuando me voy de aquí, el vector parece como ese.
+
+00:07:47.560 --> 00:07:50.350
+Y quizás cuando voy aquí, el vector va así.
+
+00:07:50.350 --> 00:07:52.320
+Sólo al azar yo estoy recogiendo puntos.
+
+00:07:52.320 --> 00:07:57.090
+Define un vector en todas la x, y coordenadas donde
+
+00:07:57.090 --> 00:08:00.920
+Estas funciones escalares están definidas correctamente.
+
+00:08:00.920 --> 00:08:02.370
+Y por eso se llama un campo vectorial.
+
+00:08:02.370 --> 00:08:06.580
+Define qué potencial, tal vez, sería la fuerza,
+
+00:08:06.580 --> 00:08:11.430
+o algún otro tipo de fuerza, en cualquier momento.
+
+00:08:11.430 --> 00:08:14.350
+En cualquier momento, si usted tiene algo allí.
+
+00:08:14.350 --> 00:08:15.900
+Quizás eso es lo que la función.
+
+00:08:15.900 --> 00:08:17.750
+Y yo pude seguir haciendo esto para siempre, y
+
+00:08:17.750 --> 00:08:18.790
+llenar todos los vacíos.
+
+00:08:18.790 --> 00:08:19.660
+Pero creo que usted consigue la idea.
+
+00:08:19.660 --> 00:08:24.790
+Se asocia un vector a cada punto en el plano x-y.
+
+00:08:24.790 --> 00:08:29.010
+Ahora, esto se llama un campo vectorial, así que probablemente tiene un
+
+00:08:29.010 --> 00:08:30.950
+mucho sentido que esto podría ser usado para describir
+
+00:08:30.950 --> 00:08:31.870
+cualquier tipo de campo.
+
+00:08:31.870 --> 00:08:33.410
+Podría ser un campo de gravitación.
+
+00:08:33.410 --> 00:08:36.840
+Podría ser un campo eléctrico, puede ser un campo magnético.
+
+00:08:36.840 --> 00:08:39.630
+Y esto podría ser esencialmente indica cuánta fuerza
+
+00:08:39.630 --> 00:08:43.190
+habría en algunas partículas en ese campo.
+
+00:08:43.190 --> 00:08:44.660
+Eso es exactamente lo que describiría esto.
+
+00:08:44.660 --> 00:08:48.950
+Ahora, supongamos que en este campo, tengo algunas partículas
+
+00:08:48.950 --> 00:08:51.610
+viajando en el plano x-y.
+
+00:08:51.610 --> 00:08:58.620
+Vamos a decir empieza allí y en virtud de todas estas loco
+
+00:08:58.620 --> 00:09:03.850
+s las fuerzas que actúan sobre él y quizás en algunos temas
+
+00:09:03.850 --> 00:09:06.900
+o algo, por lo que no siempre se mueva exactamente en la
+
+00:09:06.900 --> 00:09:09.360
+dirección que el campo está tratando de mover a.
+
+00:09:09.360 --> 00:09:14.030
+Digamos que se mueve en una ruta que pasa algo como esto.
+
+00:09:14.030 --> 00:09:17.710
+Y digamos que esta ruta, o esta curva es definida por
+
+00:09:17.710 --> 00:09:22.010
+una función del vector de posición.
+
+00:09:22.010 --> 00:09:25.150
+Así que vamos a decir es definido por r t, que es
+
+00:09:25.150 --> 00:09:33.780
+x justo de t veces además de y de t veces nuestra unidad factor j.
+
+00:09:33.780 --> 00:09:35.130
+Es r t allí.
+
+00:09:35.130 --> 00:09:37.730
+Bueno, en orden para que esto sea una ruta finita, esto es cierto
+
+00:09:37.730 --> 00:09:42.370
+antes de que t es mayor o igual a una y menos
+
+00:09:42.370 --> 00:09:45.640
+o igual que b.
+
+00:09:45.640 --> 00:09:47.830
+Este es el camino que la partícula solo pasa a
+
+00:09:47.830 --> 00:09:50.370
+tomar, debido a todas estas fuerzas extravagantes.
+
+00:09:50.370 --> 00:09:54.270
+Así que cuando la partícula está justo aquí, tal vez el campo vectorial
+
+00:09:54.270 --> 00:09:56.960
+actuando sobre ella, tal vez está poniendo una fuerza como ese.
+
+00:09:56.960 --> 00:09:59.520
+Pero ya la cosa está en algún tipo de pistas, se mueve
+
+00:09:59.520 --> 00:10:00.400
+en este sentido.
+
+00:10:00.400 --> 00:10:03.830
+Y luego cuando está aquí, quizá el campo vectorial es como ese,
+
+00:10:03.830 --> 00:10:05.740
+pero se mueve en esa dirección, porque es en algunas
+
+00:10:05.740 --> 00:10:06.940
+tipo de pistas.
+
+00:10:06.940 --> 00:10:09.500
+Ahora, todo lo que he hecho en este video es para construir
+
+00:10:09.500 --> 00:10:11.180
+a una pregunta fundamental.
+
+00:10:11.180 --> 00:10:13.910
+¿Cuál fue el trabajo realizado sobre la partícula por el campo?
+
+00:10:24.960 --> 00:10:28.620
+Para responder a esa pregunta, podríamos acercar un poco.
+
+00:10:28.620 --> 00:10:31.100
+Me voy a acercar sólo un poco pequeño
+
+00:10:31.100 --> 00:10:34.710
+fragmento de nuestro camino.
+
+00:10:34.710 --> 00:10:38.010
+Y vamos a intentar averiguar lo que el trabajo se realiza un muy
+
+00:10:38.010 --> 00:10:40.470
+pequeña parte de nuestro camino, porque está cambiando constantemente.
+
+00:10:40.470 --> 00:10:42.190
+El campo está cambiando de dirección.
+
+00:10:42.190 --> 00:10:43.630
+mi objeto es cambiar de dirección.
+
+00:10:43.630 --> 00:10:47.780
+Así que vamos a decir cuando estoy aquí, y vamos a decir mover un
+
+00:10:47.780 --> 00:10:49.740
+pequeña cantidad de mi camino.
+
+00:10:49.740 --> 00:10:55.860
+Así que vamos a decir me muevo, esto es un infinitesimalmente
+
+00:10:55.860 --> 00:10:58.500
+dr pequeña. ¿Verdad?
+
+00:10:58.500 --> 00:11:00.810
+Tengo un diferencial, es un vector diferencial, infinitamente
+
+00:11:00.810 --> 00:11:02.630
+pequeño desplazamiento.
+
+00:11:02.630 --> 00:11:06.800
+y digamos que en el transcurso de que es el campo vectorial
+
+00:11:06.800 --> 00:11:08.840
+actuando en esta zona, digamos que parece
+
+00:11:08.840 --> 00:11:10.480
+algo así.
+
+00:11:10.480 --> 00:11:13.490
+Que proporciona una fuerza que se ve algo así.
+
+00:11:13.490 --> 00:11:16.640
+Por lo es el campo vectorial en esa área, o la fuerza
+
+00:11:16.640 --> 00:11:18.750
+dirigido en esa partícula derecha cuando es en ese momento.
+
+00:11:18.750 --> 00:11:18.870
+¿Verdad?
+
+00:11:18.870 --> 00:11:22.420
+Es una cantidad infinitesimal de tiempo en el espacio.
+
+00:11:22.420 --> 00:11:24.440
+Se podría decir, OK, sobre ese punto pequeño poco, nos
+
+00:11:24.440 --> 00:11:26.600
+tener esta fuerza constante.
+
+00:11:26.600 --> 00:11:29.790
+¿Cuál fue el trabajo realizado durante este período de pequeña?
+
+00:11:29.790 --> 00:11:32.330
+Se puede decir, ¿cuál es el intervalo pequeño de trabajo?
+
+00:11:32.330 --> 00:11:36.120
+Se puede decir d trabajo, o un diferencial de trabajo.
+
+00:11:36.120 --> 00:11:38.940
+Bien, por la misma lógica exacta que hicimos con la simple
+
+00:11:38.940 --> 00:11:43.810
+problema, es la magnitud de la fuerza en la dirección de
+
+00:11:43.810 --> 00:11:48.550
+nuestro desplazamiento veces la magnitud de nuestro desplazamiento.
+
+00:11:48.550 --> 00:11:52.800
+Y sabemos lo que es, sólo este ejemplo aquí.
+
+00:11:52.800 --> 00:11:54.810
+Es el producto escalar.
+
+00:11:54.810 --> 00:11:58.340
+Es el producto escalar de la fuerza y nuestro super-small
+
+00:11:58.340 --> 00:11:59.480
+desplazamiento.
+
+00:11:59.480 --> 00:12:07.860
+Por lo que es igual al producto escalar de nuestra fuerza y nuestra
+
+00:12:07.860 --> 00:12:09.870
+desplazamiento Super-Small.
+
+00:12:09.870 --> 00:12:13.240
+Ahora, sólo haciendo esto, nosotros estamos simplemente averiguar el trabajo
+
+00:12:13.240 --> 00:12:16.440
+más, tal vez como un dr. super-small, realmente pequeño pero
+
+00:12:16.440 --> 00:12:18.820
+lo que queremos hacer, es que queremos todo suma.
+
+00:12:18.820 --> 00:12:21.870
+Queremos resumir todos los drs para averiguar el total,
+
+00:12:21.870 --> 00:12:25.090
+todos los drs de punto f averiguar el total de trabajan.
+
+00:12:25.090 --> 00:12:27.510
+Y que es donde entra en juego la integral.
+
+00:12:27.510 --> 00:12:32.570
+Haremos una línea integral de--o sea, usted podría
+
+00:12:32.570 --> 00:12:33.910
+Piénsalo dos formas.
+
+00:12:33.910 --> 00:12:37.440
+Podría escribir allí sólo d punto w, pero podríamos decir, veremos
+
+00:12:37.440 --> 00:12:42.700
+hacer una integral de línea a lo largo de esta curva c, podría llamar a que c
+
+00:12:42.700 --> 00:12:46.410
+o a lo largo de r, lo que quieras decir de dw.
+
+00:12:46.410 --> 00:12:47.800
+Nos daremos el trabajo total.
+
+00:12:47.800 --> 00:12:49.500
+Así que vamos a decir, es igual a la obra.
+
+00:12:49.500 --> 00:12:54.040
+O también nos podríamos escribir sobre la integral, más de lo mismo
+
+00:12:54.040 --> 00:13:00.500
+curva de f de f punto Rd.
+
+00:13:00.500 --> 00:13:03.580
+Y esto podría parecer como una realidad, ustedes lo saben, Caray,
+
+00:13:03.580 --> 00:13:05.120
+es muy abstracto, Sal.
+
+00:13:05.120 --> 00:13:09.220
+¿Cómo realidad calculamos algo como esto?
+
+00:13:09.220 --> 00:13:13.130
+Sobre todo porque tenemos todo parametrizada
+
+00:13:13.130 --> 00:13:14.030
+en términos de t.
+
+00:13:14.030 --> 00:13:16.130
+¿Cómo hacemos esto en términos de t?
+
+00:13:16.130 --> 00:13:19.710
+Y si usted sólo piense en él, ¿qué es f punto r?
+
+00:13:19.710 --> 00:13:21.030
+O ¿qué es f punto dr?
+
+00:13:21.030 --> 00:13:23.300
+Bueno, en realidad, para contestar eso, recordemos
+
+00:13:23.300 --> 00:13:25.830
+parecía qué dr.
+
+00:13:25.830 --> 00:13:36.200
+Si recuerdas, dr/dt es igual a x prime de t, me dirijo a usted
+
+00:13:36.200 --> 00:13:39.120
+así, podría haber escrito dx dt si quería hacerlo, muchas veces la
+
+00:13:39.120 --> 00:13:45.180
+vector de la unidad i, plus y primo de t, a veces el vector j-unidad.
+
+00:13:45.180 --> 00:13:49.320
+Y si queríamos dr, podríamos multiplicar ambos lados, si
+
+00:13:49.320 --> 00:13:51.850
+nosotros estamos siendo un poco más manos-ondulados con el
+
+00:13:51.850 --> 00:13:53.470
+diferenciales, no demasiado rigurosos.
+
+00:13:53.470 --> 00:13:58.480
+Nos pondremos dr es igual a x prime de t dt veces la unidad
+
+00:13:58.480 --> 00:14:05.070
+vector i plus y primo de t veces el diferencial dt
+
+00:14:05.070 --> 00:14:07.280
+veces la unidad vector j.
+
+00:14:07.280 --> 00:14:09.070
+Este es nuestro dr aquí.
+
+00:14:12.110 --> 00:14:16.280
+Y recordar lo que fue nuestro campo vectorial.
+
+00:14:16.280 --> 00:14:17.440
+Fue esta cosa aquí.
+
+00:14:17.440 --> 00:14:19.590
+Me deja copiarlo y pegarlo.
+
+00:14:19.590 --> 00:14:21.030
+Y veremos que es el producto escalar
+
+00:14:21.030 --> 00:14:23.360
+realmente no es tan loco.
+
+00:14:23.360 --> 00:14:26.710
+Lo copie y me deja pegarlo aquí abajo.
+
+00:14:31.130 --> 00:14:33.820
+¿Qué es esta integral va a parecer?
+
+00:14:33.820 --> 00:14:37.600
+Esta integral aquí, da el trabajo total realizado por
+
+00:14:37.600 --> 00:14:40.790
+el campo, sobre la partícula, que se mueve a lo largo de ese camino.
+
+00:14:40.790 --> 00:14:44.090
+Simplemente super fundamental para prácticamente cualquier física grave
+
+00:14:44.090 --> 00:14:47.170
+que eventualmente puede encontrar usted mismo haciendo.
+
+00:14:47.170 --> 00:14:48.170
+Por lo tanto se puede decir, bien gee.
+
+00:14:48.170 --> 00:14:52.420
+Va a ser la integral, vamos a decir justo de t es igual
+
+00:14:52.420 --> 00:14:55.320
+a, para t es igual a b.
+
+00:14:55.320 --> 00:14:58.310
+¿Verdad? una es donde comenzamos en el camino, t es igual
+
+00:14:58.310 --> 00:14:59.790
+para una t es igual a b.
+
+00:14:59.790 --> 00:15:01.760
+Os podéis imaginar como está programado, como una partícula
+
+00:15:01.760 --> 00:15:03.610
+movimiento, como el tiempo aumenta.
+
+00:15:03.610 --> 00:15:07.000
+Y entonces ¿qué es f punto dr?
+
+00:15:07.000 --> 00:15:10.640
+Bueno, si te acuerdas de sólo a lo que el producto escalar es, usted
+
+00:15:10.640 --> 00:15:15.310
+esencialmente sólo puede tomar el producto de la correspondiente
+
+00:15:15.310 --> 00:15:17.740
+componentes de su de vector y les sume.
+
+00:15:17.740 --> 00:15:20.070
+Así que esto va a ser la integral de t es igual a una t
+
+00:15:20.070 --> 00:15:27.246
+es igual a b, de la p de p x, realmente, en lugar de escribir x,
+
+00:15:27.246 --> 00:15:30.740
+¿y, es x de t, correcto? x como una función de t, y como
+
+00:15:30.740 --> 00:15:32.350
+una función de t.
+
+00:15:32.350 --> 00:15:33.690
+Así que eso es todo.
+
+00:15:33.690 --> 00:15:37.600
+¿Veces esta cosa derecha aquí, tiempos este componente, correcto?
+
+00:15:37.600 --> 00:15:39.300
+Nos estamos multiplicando los componentes i.
+
+00:15:39.300 --> 00:15:50.650
+Tan veces veces prime de t d t y, a continuación, que además, nos vamos
+
+00:15:50.650 --> 00:15:52.370
+hacer lo mismo con la función de q.
+
+00:15:52.370 --> 00:15:56.060
+Esto es q además, iré a otra línea.
+
+00:15:56.060 --> 00:15:57.760
+Ojala te das cuenta de que podía han mantenido escribiendo solo, pero
+
+00:15:57.760 --> 00:15:59.020
+Estoy quedando sin espacio.
+
+00:15:59.020 --> 00:16:09.960
+Plus q x de t, y de t, veces el componente de nuestros tiempos de dr.
+
+00:16:09.960 --> 00:16:11.900
+la componente y, o el componente de j.
+
+00:16:11.900 --> 00:16:15.530
+y primo de t dt.
+
+00:16:15.530 --> 00:16:16.620
+Y hemos terminado!
+
+00:16:16.620 --> 00:16:17.480
+Y hemos terminado.
+
+00:16:17.480 --> 00:16:19.300
+Esto todavía puede parecer un poco abstracto, pero vamos
+
+00:16:19.300 --> 00:16:23.020
+para ver en el siguiente vídeo, todo está ahora en términos de
+
+00:16:23.020 --> 00:16:25.480
+t, así que esto es sólo una integración vertical,
+
+00:16:25.480 --> 00:16:27.170
+con respecto al dt.
+
+00:16:27.170 --> 00:16:30.150
+Si queremos, podríamos tomar el dt fuera de la ecuación,
+
+00:16:30.150 --> 00:16:32.270
+y veremos un poco más normal para usted.
+
+00:16:32.270 --> 00:16:34.640
+Pero esto es básicamente todo lo que tenemos que hacer.
+
+00:16:34.640 --> 00:16:38.080
+Y vamos a ver algunos ejemplos concretos de tomar un
+
+00:16:38.080 --> 00:16:43.230
+línea integral a través de un campo vectorial, o utilizando vectores
+
+00:16:43.230 --> 00:16:45.790
+funciones, en el siguiente vídeo.

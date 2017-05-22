@@ -1,0 +1,453 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.660 --> 00:00:04.310
+Vamos a resolver otro segundo orden lineal homogénea
+
+00:00:04.310 --> 00:00:05.880
+ecuación diferencial.
+
+00:00:05.880 --> 00:00:09.050
+Y esta uno--bien, no te doy los detalles antes de
+
+00:00:09.050 --> 00:00:09.760
+realmente escribirlo.
+
+00:00:09.760 --> 00:00:13.750
+Así que la ecuación diferencial es 4 veces la segunda derivada
+
+00:00:13.750 --> 00:00:20.160
+y con respecto a x, menos 8 veces la primera derivada,
+
+00:00:20.160 --> 00:00:25.540
+Plus 3 veces y de veces la función, es igual a 0.
+
+00:00:25.540 --> 00:00:28.600
+Y tenemos nuestra condiciones iniciales y de
+
+00:00:28.600 --> 00:00:32.490
+0 es igual a 2.
+
+00:00:32.490 --> 00:00:40.750
+Y tenemos y primo de 0 es igual a 1/2.
+
+00:00:40.750 --> 00:00:45.710
+Ahora pude ir en el y toda la cosa es igual a e a la
+
+00:00:45.710 --> 00:00:48.790
+RX es una solución, sustituirlo en factor luego a e a
+
+00:00:48.790 --> 00:00:51.050
+la rx, y tener la ecuación característica.
+
+00:00:51.050 --> 00:00:53.530
+Y si quieres ver todo eso otra vez, puede
+
+00:00:53.530 --> 00:00:55.550
+Quiero ver el video anterior, solo para ver dónde que
+
+00:00:55.550 --> 00:00:57.320
+ecuación característica proviene.
+
+00:00:57.320 --> 00:01:00.730
+Pero en este video, simplemente voy a mostrarle, literalmente,
+
+00:01:00.730 --> 00:01:05.970
+¿con qué rapidez puede hacer estos mecánicamente el tipo de problemas.
+
+00:01:05.970 --> 00:01:08.710
+Así que si esta es nuestra ecuación diferencial original, la
+
+00:01:08.710 --> 00:01:12.020
+ecuación característica va a ser--y voy a hacer esto
+
+00:01:12.020 --> 00:01:20.900
+en un color diferente--es 4r cuadrado menos 8r más 3r
+
+00:01:20.900 --> 00:01:23.370
+igual a 0.
+
+00:01:23.370 --> 00:01:25.220
+Y ver el vídeo anterior si usted no sabe donde esta
+
+00:01:25.220 --> 00:01:26.940
+ecuación característica proviene.
+
+00:01:26.940 --> 00:01:29.340
+Pero si quieres hacer estos problemas realmente rápidos, usted
+
+00:01:29.340 --> 00:01:31.780
+sólo sustituir los segundo derivados con una r al cuadrado,
+
+00:01:31.780 --> 00:01:34.100
+los primeros derivados con una r y, a continuación, la función
+
+00:01:34.100 --> 00:01:36.790
+con--oh lo siento, no.
+
+00:01:36.790 --> 00:01:39.330
+Esto se supone que es una constante--
+
+00:01:39.330 --> 00:01:43.820
+Y entonces el coeficiente de la función original es sólo
+
+00:01:43.820 --> 00:01:44.830
+¿una constante, correcta?
+
+00:01:44.830 --> 00:01:46.240
+Creo que ves lo que hice.
+
+00:01:46.240 --> 00:01:48.370
+2 º r derivado al cuadrado.
+
+00:01:48.370 --> 00:01:50.020
+1 º r derivado.
+
+00:01:50.020 --> 00:01:53.100
+No derivado--se podría decir que r 1 0, o simplemente.
+
+00:01:53.100 --> 00:01:56.640
+Pero esta es nuestra ecuación característica.
+
+00:01:56.640 --> 00:01:59.210
+Y ahora sólo podemos averiguar de sus raíces.
+
+00:01:59.210 --> 00:02:02.980
+Esto no es trivial para mí factor, si no es
+
+00:02:02.980 --> 00:02:05.810
+trivial, sólo puede utilizar la ecuación cuadrática.
+
+00:02:05.810 --> 00:02:10.690
+Así que podríamos decir que la solución de esto es r es igual a
+
+00:02:10.690 --> 00:02:18.050
+b negativo--b es negativo 8, por lo que es positivo 8--8 plus o
+
+00:02:18.050 --> 00:02:21.630
+menos la raíz cuadrada de b al cuadrado.
+
+00:02:21.630 --> 00:02:28.310
+Así es 64, menos 4 veces a que es 4,
+
+00:02:28.310 --> 00:02:30.960
+veces c que es 3.
+
+00:02:30.960 --> 00:02:32.850
+Todo eso sobre la 2a.
+
+00:02:32.850 --> 00:02:34.810
+2 veces 4 es 8.
+
+00:02:34.810 --> 00:02:42.530
+Equivale a 8 más o menos la raíz cuadrada de 64 menos--
+
+00:02:42.530 --> 00:02:48.250
+¿Qué es 16 veces 3--menos 48.
+
+00:02:48.250 --> 00:02:50.230
+Todo eso sobre 8.
+
+00:02:50.230 --> 00:02:53.430
+¿Qué es 64 menos 48?
+
+00:02:53.430 --> 00:02:56.550
+¿Vamos a ver, es la 16, correcto?
+
+00:02:56.550 --> 00:02:56.880
+Derecho.
+
+00:02:56.880 --> 00:02:59.850
+10 plus 48 es 58, luego otro--por lo que es la de 16.
+
+00:02:59.850 --> 00:03:04.600
+Así que tenemos la r es igual a 8 más o menos la raíz cuadrada
+
+00:03:04.600 --> 00:03:13.020
+de 16, sobre 8, es igual a 8 más o menos 4 sobre 8.
+
+00:03:13.020 --> 00:03:18.140
+Es igual a 1 más o menos 1/2.
+
+00:03:18.140 --> 00:03:22.060
+Por lo tanto las dos soluciones de esta ecuación característica--
+
+00:03:22.060 --> 00:03:25.060
+ignorar, permítanme scratch out en negro para que usted sepa
+
+00:03:25.060 --> 00:03:28.990
+no es igual un 30 o algo--las dos soluciones
+
+00:03:28.990 --> 00:03:34.150
+de esta ecuación característica son r es igual a--
+
+00:03:34.150 --> 00:03:39.220
+bien 1 + 1/2 es igual a 3/2--y r es igual a 1
+
+00:03:39.220 --> 00:03:41.590
+menos 1/2, es igual a 1/2.
+
+00:03:41.590 --> 00:03:45.380
+Sabemos que nuestros dos erres, y sabemos que, desde la anterior
+
+00:03:45.380 --> 00:03:49.445
+experiencia en el último video, y es igual a c veces e
+
+00:03:49.445 --> 00:03:51.160
+la RX es una solución.
+
+00:03:51.160 --> 00:03:55.880
+Por lo tanto la solución general de esta ecuación diferencial es
+
+00:03:55.880 --> 00:04:02.360
+y es igual a c1 veces e--vamos a usar nuestro primer r--e a
+
+00:04:02.360 --> 00:04:09.280
+el 3/2 x, además de c2 veces e a la x 1/2.
+
+00:04:11.800 --> 00:04:15.290
+Este problema de ecuaciones diferenciales fue literalmente un
+
+00:04:15.290 --> 00:04:18.209
+problema en el uso de la ecuación cuadrática.
+
+00:04:18.209 --> 00:04:19.839
+Y una vez que puedes adivinar el Santander tiene
+
+00:04:19.839 --> 00:04:20.980
+la solución general.
+
+00:04:20.980 --> 00:04:23.600
+Y ahora solo tenemos que usar nuestras condiciones iniciales.
+
+00:04:23.600 --> 00:04:25.630
+Así que para conocer las condiciones iniciales, tenemos que saber y
+
+00:04:25.630 --> 00:04:27.780
+de x, y necesitamos saber y primo de x.
+
+00:04:27.780 --> 00:04:28.720
+Sólo hagamos ahora.
+
+00:04:28.720 --> 00:04:30.720
+¿Así que lo cebar y?
+
+00:04:30.720 --> 00:04:35.860
+y primo de nuestra solución general es igual a 3/2 veces
+
+00:04:35.860 --> 00:04:43.660
+C1 e al 3/2 x plus--derivado del interior--1/2
+
+00:04:43.660 --> 00:04:46.730
+veces c2 e a la x 1/2.
+
+00:04:49.600 --> 00:04:51.930
+Y ahora vamos a usar nuestros reales condiciones iniciales.
+
+00:04:51.930 --> 00:04:53.940
+No quiero perderlos--me deja escribirlas aquí abajo
+
+00:04:53.940 --> 00:04:54.860
+así puedo Desplácese hacia abajo.
+
+00:04:54.860 --> 00:05:00.345
+Por lo que sabemos y de 0 es igual a 2 y prime y de 0
+
+00:05:00.345 --> 00:05:02.690
+es igual a 1/2.
+
+00:05:02.690 --> 00:05:05.110
+Estas son nuestras condiciones iniciales.
+
+00:05:05.110 --> 00:05:06.480
+Así que vamos a utilizar esa información.
+
+00:05:06.480 --> 00:05:10.240
+Y así de 0--¿Qué sucede cuando se sustituye x
+
+00:05:10.240 --> 00:05:11.140
+¿es igual a 0 aquí.?
+
+00:05:11.140 --> 00:05:17.530
+Obtendrá c1 veces e 0, esencialmente, por lo que es sólo 1,
+
+00:05:17.530 --> 00:05:23.010
+Plus c2--así que es justo e 0 nuevamente, porque es de x
+
+00:05:23.010 --> 00:05:27.070
+0--es igual a--esto es, cuando x es igual a 0, lo que es
+
+00:05:27.070 --> 00:05:28.780
+¿y? y es igual a 2.
+
+00:05:28.780 --> 00:05:31.150
+Y 0 es igual a 2.
+
+00:05:31.150 --> 00:05:33.180
+Y entonces vamos a usar la ecuación de segunda.
+
+00:05:33.180 --> 00:05:36.930
+Así que cuando sustituimos x es igual a 0 en el derivado--
+
+00:05:36.930 --> 00:05:45.740
+así que cuando x es 0 obtenemos 3/2 c1--esto va a 1 nuevo--plus
+
+00:05:45.740 --> 00:05:53.116
+1/2 c2--esto es 1 nuevamente, e a los tiempos de la mitad de 1/2 0 es e
+
+00:05:53.116 --> 00:05:58.110
+el 0, que es 1--es igual a--así que cuando x es 0 para el
+
+00:05:58.110 --> 00:06:01.080
+derivados, y es igual a 1/2, o la derivada es 1/2 a
+
+00:06:01.080 --> 00:06:03.230
+ese punto, o la pendiente es 1/2 en ese momento.
+
+00:06:03.230 --> 00:06:09.680
+Y ahora tenemos dos ecuaciones y dos incógnitas, y podríamos
+
+00:06:09.680 --> 00:06:10.630
+resolverlo un montón de formas.
+
+00:06:10.630 --> 00:06:12.730
+Creo que usted sabe cómo resolverlos.
+
+00:06:12.730 --> 00:06:15.060
+Vamos a multiplicar la ecuación superior--no sé--
+
+00:06:15.060 --> 00:06:19.360
+¿vamos a multiplicar por 3/2, y lo que obtenemos?
+
+00:06:19.360 --> 00:06:23.800
+Obtenemos--lo haré en un color diferente--obtenemos 3/2
+
+00:06:23.800 --> 00:06:37.970
+¿C1 y c2 de 3/2 es igual a--lo que es 3/2 veces 2?
+
+00:06:37.970 --> 00:06:40.490
+Es igual a 3.
+
+00:06:40.490 --> 00:06:46.810
+Y ahora, vamos a restar--bueno, no quiero confundir
+
+00:06:46.810 --> 00:06:48.780
+usted, sólo así vamos a restar la parte inferior de la parte superior, por lo que
+
+00:06:48.780 --> 00:06:50.050
+Esto anula.
+
+00:06:50.050 --> 00:06:52.140
+¿Qué es 1/2 menos 3/2?
+
+00:06:52.140 --> 00:06:54.810
+1/2 menos 1 y 1/2.
+
+00:06:54.810 --> 00:06:56.940
+¿Bueno, eso es sólo menos de 1, derecha?
+
+00:06:56.940 --> 00:07:02.970
+Por lo tanto menos c2 es igual a--¿qué es 1/2 menos 3?
+
+00:07:02.970 --> 00:07:05.570
+Es menos 2 y 1/2 o menos 5/2.
+
+00:07:08.910 --> 00:07:13.040
+Y así obtenemos c2 es igual a 5/2.
+
+00:07:13.040 --> 00:07:15.570
+Y nosotros podemos sustituir en esta ecuación superior.
+
+00:07:15.570 --> 00:07:23.570
+C1 plus 5/2 es igual a 2, o c1 es igual a 2, que es el
+
+00:07:23.570 --> 00:07:30.380
+lo mismo que 4/2, menos 5/2, lo que equivale a menos de 1/2.
+
+00:07:30.380 --> 00:07:33.110
+Y ahora sólo podemos sustituimos c1 y c2 en nuestro
+
+00:07:33.110 --> 00:07:37.720
+solución general y nos hemos encontrado la solución particular
+
+00:07:37.720 --> 00:07:44.790
+de esta ecuación diferencial, que es y es igual a c1 - c1
+
+00:07:44.790 --> 00:07:58.320
+es menos de 1/2--menos de 1/2 e a 3/2 x plus c2--c2 es
+
+00:07:58.320 --> 00:08:10.920
+5/2--plus c2, que es 5/2, e a la x 1/2, y terminamos.
+
+00:08:10.920 --> 00:08:12.600
+Y puede parecer apetezca.
+
+00:08:12.600 --> 00:08:14.770
+Nosotros estamos para resolver una ecuación diferencial.
+
+00:08:14.770 --> 00:08:17.080
+Nuestra solución tiene e.
+
+00:08:17.080 --> 00:08:18.670
+Estamos tomando derivados y que estamos haciendo
+
+00:08:18.670 --> 00:08:20.070
+todo tipo de cosas.
+
+00:08:20.070 --> 00:08:24.660
+Pero realmente la carne de este problema fue resolver un
+
+00:08:24.660 --> 00:08:27.360
+cuadrática, que fue nuestra ecuación característica.
+
+00:08:27.360 --> 00:08:31.650
+Y ver el vídeo anterior solo para ver por qué esto
+
+00:08:31.650 --> 00:08:33.180
+ecuación característica funciona.
+
+00:08:33.180 --> 00:08:35.230
+Pero es muy fácil llegar a la característica
+
+00:08:35.230 --> 00:08:36.039
+¿ecuación, correcto?
+
+00:08:36.039 --> 00:08:39.770
+Creo que obviamente ves que Prime y se convierte en r al cuadrado,
+
+00:08:39.770 --> 00:08:43.620
+prime y se convierte en r, y, a continuación, y sólo se convierte en 1,
+
+00:08:43.620 --> 00:08:44.840
+esencialmente.
+
+00:08:44.840 --> 00:08:46.600
+Para resolver una cuadrática.
+
+00:08:46.600 --> 00:08:48.750
+Y, a continuación, después de hacerlo, sólo tienes que tomar uno
+
+00:08:48.750 --> 00:08:50.880
+derivados--porque tras resolver la cuadrática, usted
+
+00:08:50.880 --> 00:08:53.410
+inmediatamente tenemos la solución general--y luego tomar su
+
+00:08:53.410 --> 00:08:55.410
+derivado, utilice sus condiciones iniciales.
+
+00:08:55.410 --> 00:08:59.040
+Tiene un sistema de ecuaciones lineales que es álgebra I.
+
+00:08:59.040 --> 00:09:02.030
+Y luego usted resolver para las dos constantes, c1 y c2,
+
+00:09:02.030 --> 00:09:04.680
+y terminan con su solución particular.
+
+00:09:04.680 --> 00:09:06.950
+Y eso es todo hay.
+
+00:09:06.950 --> 00:09:09.800
+Nos vemos en el siguiente vídeo.

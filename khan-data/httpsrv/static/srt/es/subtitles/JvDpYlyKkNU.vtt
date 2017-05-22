@@ -1,0 +1,159 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.428 --> 00:00:06.009
+La ecuacion de la circunferencia C es (x+3)²+(y-4)²=49
+
+00:00:06.009 --> 00:00:09.209
+¿Cuál es su centro (h,k) y su radio r?
+
+00:00:09.209 --> 00:00:12.015
+Así que vamos a recordar a nosotros mismos lo que es un círculo.
+
+00:00:12.015 --> 00:00:15.870
+Tienes algún punto, el mismo que lo llamaremos (h,k)
+
+00:00:15.870 --> 00:00:21.737
+La circunferencia es un conjunto de puntos que tienen igual distancias desde ese punto.
+
+00:00:21.737 --> 00:00:26.427
+Así que trazemos un conjunto de todos los puntos que son r alrededor de ese punto.
+
+00:00:26.427 --> 00:00:30.470
+Así que digamos que esta distancia por aquí,
+
+00:00:30.470 --> 00:00:33.347
+es R , por lo que queremos todo el conjunto de puntos que son exactamente r.
+
+00:00:33.347 --> 00:00:39.873
+por lo que todos los puntos ( x, y ) que son r de distancia
+
+00:00:39.873 --> 00:00:44.937
+Así que usted puede imaginar que puede girar alrededor y todos estos puntos van a ser de distancia r .
+
+00:00:44.937 --> 00:00:50.604
+Intentaré mi mejor esfuerzo para dibujar un al menos un círculo de aspecto perfecto ,
+
+00:00:50.604 --> 00:00:52.211
+No voy a ser capaz de hacer un trabajo perfecto en ella,
+
+00:00:52.211 --> 00:00:53.538
+pero tiene un sentido.
+
+00:00:53.538 --> 00:00:59.332
+Todos estos son exactamente r de distancia, por lo menos si yo fuera a dibujar correctamente,
+
+00:00:59.332 --> 00:01:00.935
+son r de distancia.
+
+00:01:00.935 --> 00:01:04.930
+Así que , ¿cómo encontrar una ecuación en términos de r y (h, k )
+
+00:01:04.930 --> 00:01:08.336
+y x e y que describe todos estos puntos?
+
+00:01:08.336 --> 00:01:12.675
+Bien sabemos cómo encontrar la distancia entre dos puntos en un plano de coordenadas
+
+00:01:12.675 --> 00:01:15.665
+y de hecho, se trata directamente del teorema de Pitágoras .
+
+00:01:15.665 --> 00:01:18.808
+Si tuviéramos que trazar una línea vertical por aquí que, básicamente,
+
+00:01:18.808 --> 00:01:22.545
+es el cambio en el eje vertical entre estos dos puntos,
+
+00:01:22.545 --> 00:01:28.075
+hasta aquí, estamos en y , aquí , estamos en k,
+
+00:01:28.075 --> 00:01:31.735
+por lo que esta distancia va a ser menos y-k.
+
+00:01:31.828 --> 00:01:39.066
+Podemos hacer exactamente lo mismo en la línea horizontal,
+
+00:01:39.066 --> 00:01:43.808
+Esta coordenada x es x , mientras que la coordenada x es h
+
+00:01:43.808 --> 00:01:49.677
+así que esta distancia será x-h,
+
+00:01:49.677 --> 00:01:55.538
+Así que esto es un triángulo rectángulo porque estamos midiendo la distancia vertical de aquí
+
+00:01:55.538 --> 00:01:59.344
+Estamos midiendo la distancia horizontal en este caso , por lo que estas dos cosas son perpendiculares.
+
+00:01:59.344 --> 00:02:06.431
+Así que desde el teorema de Pitágoras , sabemos que este cuadrado más este cuadrado debe ser igual
+
+00:02:06.431 --> 00:02:09.203
+r² -cuadrado de la distancia- , por lo que aquí es donde la fórmula de la distancia viene.
+
+00:02:09.203 --> 00:02:18.349
+Así que sabemos que (x - h)² más (y - k)² se enfrentaron
+
+00:02:18.349 --> 00:02:22.097
+debe ser igual a r².
+
+00:02:22.097 --> 00:02:29.799
+Cualquier x e y que satisface esta ecuación se sentará en este círculo.
+
+00:02:29.799 --> 00:02:31.759
+Ahora con eso fuera del camino , vamos a responder a la pregunta .
+
+00:02:31.759 --> 00:02:34.268
+La ecuación del círculo es esta cosa.
+
+00:02:34.268 --> 00:02:37.209
+Y esto se ve muy cerca de lo que acabo de escribir,
+
+00:02:37.209 --> 00:02:39.936
+sólo tenemos que asegurarnos de que no nos confundamos con el negativo.
+
+00:02:39.936 --> 00:02:43.008
+recuerde, tiene que ser la forma (x - h) y (y-k)
+
+00:02:43.008 --> 00:02:45.534
+Así que vamos a escribir un poco diferente.
+
+00:02:45.534 --> 00:02:49.537
+En lugar de (x + 3)² , se puede escribir, como (x - -3)² ,
+
+00:02:49.537 --> 00:03:00.943
+y luego + (y - 4)² es igual a
+
+00:03:00.943 --> 00:03:05.136
+en vez de 49 , sólo podemos llamar a eso 7²
+
+00:03:05.136 --> 00:03:08.869
+Así que ahora se hace bastante claro ,
+
+00:03:08.869 --> 00:03:23.426
+que nuestro h =-3, y nuestro k =+4 ,
+
+00:03:23.426 --> 00:03:26.542
+y que nuestra r es 7.
+
+00:03:26.542 --> 00:03:35.345
+Así que podemos decir (h, k ) = ( -3,4 ) .
+
+00:03:35.345 --> 00:03:36.538
+Se podría decir que bueno, hay un cuatro negativo aquí
+
+00:03:36.538 --> 00:03:39.015
+pero no, parece que es k menos , por lo k es 4.
+
+00:03:39.015 --> 00:03:41.603
+Del mismo modo , es menos h , se podría decir , bueno, tal vez es un h
+
+00:03:41.603 --> 00:03:44.469
+positivo de tres , pero no, estás restando la h ,
+
+00:03:44.469 --> 00:03:46.877
+por lo que ibas a decir menos negativos de 3 .
+
+00:03:46.877 --> 00:03:50.639
+Y del mismo modo , el radio es de 7 .

@@ -1,0 +1,284 @@
+WEBVTT
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Estamos en la Parte B
+
+NOTE Paragraph
+
+99:59:59.999 --> 99:59:59.999
+Escribe los primeros cuatro terminos distintos a cero de la serie de Taylor para coseno de x alrededor de x = 0
+
+99:59:59.999 --> 99:59:59.999
+Usa esta serie y la serie para seno de x cuadrado
+
+99:59:59.999 --> 99:59:59.999
+que se encontró en la Parte A para escribir los primeros cuatro terminos distintos a cero
+
+99:59:59.999 --> 99:59:59.999
+de la serie de Taylor para f
+
+99:59:59.999 --> 99:59:59.999
+(entonces para esta f por aquí)
+
+99:59:59.999 --> 99:59:59.999
+alrededor de x = 0.
+
+99:59:59.999 --> 99:59:59.999
+Entones vamos a hacer la primera parte
+
+99:59:59.999 --> 99:59:59.999
+vamos a primero encontrar los primeros cuatro terminos distintos a dero
+
+99:59:59.999 --> 99:59:59.999
+de la serie de Taylor para coseno de x
+
+99:59:59.999 --> 99:59:59.999
+alrededor de x igual a 0.
+
+99:59:59.999 --> 99:59:59.999
+Vamos a decir entonces - vamos a poner nuestra casi
+
+99:59:59.999 --> 99:59:59.999
+formula para la serie de Taylor acá arriba
+
+99:59:59.999 --> 99:59:59.999
+alrededor de x es igual a 0
+
+99:59:59.999 --> 99:59:59.999
+Entonces estamos centrandolo alrededor de x igual a 0 por aquí.
+
+99:59:59.999 --> 99:59:59.999
+Entonces si decimos que h de x es igual a
+
+99:59:59.999 --> 99:59:59.999
+coseno de x, entonces h de 0 va a ser
+
+99:59:59.999 --> 99:59:59.999
+igual a coseno de 0, que es igual a 1.
+
+99:59:59.999 --> 99:59:59.999
+Entonces si tienes h prima de x,
+
+99:59:59.999 --> 99:59:59.999
+eso va a ser igual a negativo seno de x.
+
+99:59:59.999 --> 99:59:59.999
+Y lo puedes ver aqui:
+
+99:59:59.999 --> 99:59:59.999
+esto es esencialmente h de x, y esto va
+
+99:59:59.999 --> 99:59:59.999
+a ser h prima de x.
+
+99:59:59.999 --> 99:59:59.999
+Entonces es esencialmente solo un paso alante
+
+99:59:59.999 --> 99:59:59.999
+de donde estábamos con g de x.
+
+99:59:59.999 --> 99:59:59.999
+Vamos a rehacerlo por aquí
+
+99:59:59.999 --> 99:59:59.999
+solo para que esté claro.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la primera derivada en 0 es
+
+99:59:59.999 --> 99:59:59.999
+negativo seno de 0, que es solo 0.
+
+99:59:59.999 --> 99:59:59.999
+Y entonces tienes la segunda derivada-
+
+99:59:59.999 --> 99:59:59.999
+segunda derivada de h de x.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la derivada de seno de x es coseno de x,
+
+99:59:59.999 --> 99:59:59.999
+pero tenemos ese negativo al frente
+
+99:59:59.999 --> 99:59:59.999
+pues es negativo coseno de x.
+
+99:59:59.999 --> 99:59:59.999
+Entonces h prima prima de 0 va a ser
+
+99:59:59.999 --> 99:59:59.999
+igual a - coseno de 0 es 1. Tienes ese
+
+99:59:59.999 --> 99:59:59.999
+negativo al frente, pues es -1.
+
+99:59:59.999 --> 99:59:59.999
+Entonces tienes la tercera derivada
+
+99:59:59.999 --> 99:59:59.999
+de h es igual a la derivada de negativo coseno de x
+
+99:59:59.999 --> 99:59:59.999
+es positivo seno de x.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la tercera derivada en 0 va a ser
+
+99:59:59.999 --> 99:59:59.999
+igual a 0. Entones, esto tambien es,
+
+99:59:59.999 --> 99:59:59.999
+y entonces tomas la derivada de esto,
+
+99:59:59.999 --> 99:59:59.999
+vas a tener coseno de x otra vez.
+
+99:59:59.999 --> 99:59:59.999
+Y entonces el ciclo comienza otra vez
+
+99:59:59.999 --> 99:59:59.999
+Por lo tanto yo puedo escribir, esto también va a ser igual a
+
+99:59:59.999 --> 99:59:59.999
+la cuarta derivada en 0.
+
+99:59:59.999 --> 99:59:59.999
+Bien, voy a dejar claro lo que estoy diciendo.
+
+99:59:59.999 --> 99:59:59.999
+Si tomo la derivada de esto, me da coseno de x.
+
+99:59:59.999 --> 99:59:59.999
+La cuarta derivada de h es coseno de x otra vez.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la cuarta derivada en 0 va a ser
+
+99:59:59.999 --> 99:59:59.999
+lo mismo que la funcion evaluada
+
+99:59:59.999 --> 99:59:59.999
+en 0, lo cual es 1.
+
+99:59:59.999 --> 99:59:59.999
+Entonces la quinta derivada en 0
+
+99:59:59.999 --> 99:59:59.999
+va a ser 0.
+
+99:59:59.999 --> 99:59:59.999
+La sexta derivada en 0 va a ser -1.
+
+99:59:59.999 --> 99:59:59.999
+Y entonces la séptima derivada en 0
+
+99:59:59.999 --> 99:59:59.999
+va a ser 0.
+
+99:59:59.999 --> 99:59:59.999
+Pues eso es suficiente por ahora. Creo que tenemos-
+
+99:59:59.999 --> 99:59:59.999
+definitivamente tenemos cuatro términos distintos a cero.
+
+99:59:59.999 --> 99:59:59.999
+Tenemos este termino- dejame escoger un buen color aquí.
+
+99:59:59.999 --> 99:59:59.999
+Tenemos este termino, porque tenemos un coeficiente 1.
+
+99:59:59.999 --> 99:59:59.999
+Esto va a ser un 0 porque tenemos un 0 coeficiente.
+
+99:59:59.999 --> 99:59:59.999
+Esto es un término distinto a cero. Entonces esto es un término distinto a cero.
+
+99:59:59.999 --> 99:59:59.999
+porque tenemos el 1 otra vez.
+
+99:59:59.999 --> 99:59:59.999
+Entonces esto es un término distinto a cero, porque
+
+99:59:59.999 --> 99:59:59.999
+tenemos el -1. Pues podemos decir,
+
+99:59:59.999 --> 99:59:59.999
+coseno de x es aproximadamente igual a-
+
+99:59:59.999 --> 99:59:59.999
+porque solo estamos aproximandolo
+
+99:59:59.999 --> 99:59:59.999
+con los primeros cuatro términos distintos a cero.
+
+99:59:59.999 --> 99:59:59.999
+Entonces, f de 0 es 1.
+
+99:59:59.999 --> 99:59:59.999
+Eso es ese término por aquí.
+
+99:59:59.999 --> 99:59:59.999
+En vez de f de x, estamos llamandolo h de x aquí
+
+99:59:59.999 --> 99:59:59.999
+para no confundirnos con
+
+99:59:59.999 --> 99:59:59.999
+el f original definido en el problema
+
+99:59:59.999 --> 99:59:59.999
+que vamos a estar trabajando en la segunda parte de-
+
+99:59:59.999 --> 99:59:59.999
+esta sección del problema.
+
+99:59:59.999 --> 99:59:59.999
+Entonces coseno de x es igual a 1,
+
+99:59:59.999 --> 99:59:59.999
+f prima de 0, o h prima de 0 es 0, entonces no hay un término ahí.
+
+99:59:59.999 --> 99:59:59.999
+Entones f prima prima de 0--segunda derivada-- es -1.
+
+99:59:59.999 --> 99:59:59.999
+Pues es negativo x cuadrado sobre dos factorial.
+
+99:59:59.999 --> 99:59:59.999
+Entones tienes otro 0 para el término de tercer grado.
+
+99:59:59.999 --> 99:59:59.999
+Entonces tienes otro 1 para el término de cuarto grado.
+
+99:59:59.999 --> 99:59:59.999
+Mas 1 -- y no tenemos que escribir el 1,
+
+99:59:59.999 --> 99:59:59.999
+está implicitamente ahí. Mas 1 por x a la cuatro
+
+99:59:59.999 --> 99:59:59.999
+sobre cuatro factorial. Entonces, el próximo
+
+99:59:59.999 --> 99:59:59.999
+término distinto a cero es este -1 por aquí.
+
+99:59:59.999 --> 99:59:59.999
+Y -1, podemos escribir simplemente como menos,
+
+99:59:59.999 --> 99:59:59.999
+y eso es un término de sexto grado.
+
+99:59:59.999 --> 99:59:59.999
+Entonces x a la seis sobre seis factorial.
+
+99:59:59.999 --> 99:59:59.999
+Y terminamos. Esos son los primeros cuatro
+
+99:59:59.999 --> 99:59:59.999
+términos distintos a cero de coseno de x.
+
+99:59:59.999 --> 99:59:59.999
+Ahora vamos a hacer la segunda parte del problema.

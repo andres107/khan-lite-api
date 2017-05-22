@@ -1,0 +1,471 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.640
+­i
+
+00:00:00.640 --> 00:00:05.290
+Digamos que tenemos la integral indefinida de uno
+
+00:00:05.290 --> 00:00:15.300
+sobre 36 más x al cuadrado
+
+00:00:15.300 --> 00:00:17.910
+Ahora bien, como se puede imaginar, esta no es una integral sencilla de
+
+00:00:17.910 --> 00:00:19.830
+resolver sin la trigonometría.
+
+00:00:19.830 --> 00:00:22.130
+No puedo hacer la sustitución u, no tengo la derivada de
+
+00:00:22.130 --> 00:00:23.480
+esto sentado en algún lugar.
+
+00:00:23.480 --> 00:00:25.340
+Esto sería fácil si yo tuviera una sesión 2x allí.
+
+00:00:25.340 --> 00:00:27.910
+Lo que yo diría, oh la derivada de esto es 2x,
+
+00:00:27.910 --> 00:00:30.470
+Que podía hacer la sustitución u y me había propuesto ser.
+
+00:00:30.470 --> 00:00:32.880
+Pero no hay 2x allí, así que ¿cómo lo hago?
+
+00:00:32.880 --> 00:00:35.640
+Bueno, recurro a nuestras identidades trigonométricas.
+
+00:00:35.640 --> 00:00:38.100
+Vamos a ver qué identidad trigonométrica podemos llegar hasta aquí.
+
+00:00:38.100 --> 00:00:40.840
+La primera cosa que hago siempre, esto es sólo la forma en que mi cerebro
+
+00:00:40.840 --> 00:00:43.920
+obras, siempre me gusta - Puedo ver que esto es una ventaja constante
+
+00:00:43.920 --> 00:00:46.350
+algo cuadrado, lo que me dice que debería utilizar un
+
+00:00:46.350 --> 00:00:47.300
+identidad trigonométrica.
+
+00:00:47.300 --> 00:00:50.600
+Pero siempre me gusta en términos de un cuadrado y algo más.
+
+00:00:50.600 --> 00:00:54.210
+Yo sólo voy a escribir mi integrante como igual a,
+
+00:00:54.210 --> 00:00:55.720
+déjame escribir el dx en el numerador.
+
+00:00:55.720 --> 00:00:57.870
+Esto es sólo tiempos dx.
+
+00:00:57.870 --> 00:00:59.430
+Permítanme escribir una integrante más agradable que eso.
+
+00:00:59.430 --> 00:01:07.370
+Esto es igual a la integral de dx más de 36 veces 1
+
+00:01:07.370 --> 00:01:11.800
+más x cuadrado de más de 36.
+
+00:01:11.800 --> 00:01:14.130
+1 + X al cuadrado más de 36 años, que es otra forma de
+
+00:01:14.130 --> 00:01:15.420
+escribir mi integral.
+
+00:01:15.420 --> 00:01:19.110
+Vamos a ver si alguna de nuestras identidades trigonométricas alguna manera puede ser
+
+00:01:19.110 --> 00:01:22.400
+sustituido aquí por eso que de alguna manera
+
+00:01:22.400 --> 00:01:24.560
+simplificar el problema.
+
+00:01:24.560 --> 00:01:28.190
+Así que el que viene a la mente, y si usted no sabe
+
+00:01:28.190 --> 00:01:30.430
+esto ya, voy a escribir aquí, es un plus
+
+00:01:30.430 --> 00:01:31.630
+tangemte al cuadrado de theta
+
+00:01:31.630 --> 00:01:35.390
+f
+
+00:01:35.390 --> 00:01:36.900
+Vamos a probar esto
+
+00:01:36.900 --> 00:01:39.790
+Tangente al cuadrado de theta, esto es igual a 1, más simplemente
+
+00:01:39.790 --> 00:01:45.210
+definición de seno cuadrado tangente de theta sobre
+
+00:01:45.210 --> 00:01:47.160
+coseno cuadrado de theta.
+
+00:01:47.160 --> 00:01:50.160
+Ahora 1 es solo coseno cuadrado sobre coseno al cuadrado.
+
+00:01:50.160 --> 00:01:57.250
+Así que yo puedo reescribir esto como igual al coseno cuadrado de theta sobre
+
+00:01:57.250 --> 00:02:02.990
+coseno cuadrado de theta, que es 1, plus sine squared theta sobre
+
+00:02:02.990 --> 00:02:04.860
+coseno cuadrado de theta, ahora que tenemos un
+
+00:02:04.860 --> 00:02:06.320
+denominador común.
+
+00:02:06.320 --> 00:02:08.490
+Ahora ¿qué es coseno al cuadrado más el seno al cuadrado?
+
+00:02:08.490 --> 00:02:09.970
+Definición del círculo unidad.
+
+00:02:09.970 --> 00:02:14.210
+Es igual a 1 sobre coseno cuadrado de theta.
+
+00:02:14.210 --> 00:02:17.600
+O podríamos decir que es igual a 1 sobre coseno al cuadrado.
+
+00:02:17.600 --> 00:02:19.540
+Uno sobre coseno es secante.
+
+00:02:19.540 --> 00:02:24.090
+Esto es igual a la secante cuadrada de theta.
+
+00:02:24.090 --> 00:02:28.270
+Si hacemos la sustitución, si decimos que vamos a hacer esta cosa
+
+00:02:28.270 --> 00:02:32.340
+derecho aquí igual a la tangente de theta o tangente
+
+00:02:32.340 --> 00:02:33.590
+cuadrado de theta.
+
+00:02:33.590 --> 00:02:37.310
+Entonces esta expresión será 1 plus tangente cuadrado de theta.
+
+00:02:37.310 --> 00:02:38.700
+Que es igual a la secante al cuadrado.
+
+00:02:38.700 --> 00:02:42.860
+Lo mejor le ayudarán a simplificar esta ecuación un poco.
+
+00:02:42.860 --> 00:02:50.080
+Vamos a decir que x al cuadrado más 36 es igual a
+
+00:02:50.080 --> 00:02:52.710
+tangente cuadrado de theta.
+
+00:02:52.710 --> 00:02:55.440
+Vamos a tomar la raíz cuadrada de ambos lados de esta ecuación y
+
+00:02:55.440 --> 00:03:04.090
+usted consigue x más 6 es igual a la tangente de theta, o que x
+
+00:03:04.090 --> 00:03:08.540
+es igual a 6 tangente de theta.
+
+00:03:08.540 --> 00:03:10.950
+Si tomamos la derivada de ambos lados de esto con respeto
+
+00:03:10.950 --> 00:03:16.140
+a theta obtenemos d x d theta es igual a lo que tiene el
+
+00:03:16.140 --> 00:03:18.610
+¿derivada de la tangente de theta?
+
+00:03:18.610 --> 00:03:21.120
+Yo pude enseñárselo a usted justo al pasar de estos básicos
+
+00:03:21.120 --> 00:03:23.070
+principios aquí.
+
+00:03:23.070 --> 00:03:26.670
+Realmente me deja hacerlo por si acaso.
+
+00:03:26.670 --> 00:03:29.000
+Así la derivada de tangente theta--nunca me duele hacerlo
+
+00:03:29.000 --> 00:03:31.140
+en el lado, permítanme hacerlo aquí.
+
+00:03:31.140 --> 00:03:34.470
+Va a ser 6 veces la derivada con respecto a
+
+00:03:34.470 --> 00:03:36.490
+Theta de tangente de theta.
+
+00:03:36.490 --> 00:03:39.050
+Que necesitamos para la figura, así que vamos a averiguar.
+
+00:03:39.050 --> 00:03:43.040
+La derivada de la tangente de theta, que es lo mismo
+
+00:03:43.040 --> 00:03:48.030
+como d d theta de seno de theta sobre coseno de theta.
+
+00:03:48.030 --> 00:03:50.270
+Es simplemente la derivada de la tangente.
+
+00:03:50.270 --> 00:03:54.380
+O es la misma cosa como la derivada con respecto
+
+00:03:54.380 --> 00:03:57.520
+a theta, permítanme Desplácese hacia la derecha un poco.
+
+00:03:57.520 --> 00:03:59.650
+Porque nunca recuerdo la regla del cociente, te lo he dicho en
+
+00:03:59.650 --> 00:04:04.090
+el pasado que es un poco cojo, del seno de tiempos de theta
+
+00:04:04.090 --> 00:04:09.560
+coseno de theta al menos 1 poder.
+
+00:04:09.560 --> 00:04:10.860
+¿Qué es este igual?
+
+00:04:10.860 --> 00:04:14.090
+Podríamos decir que es igual, pues la derivada de la
+
+00:04:14.090 --> 00:04:17.520
+primera expresión o la primera función, podríamos decir, que
+
+00:04:17.520 --> 00:04:19.050
+es justo coseno de theta.
+
+00:04:19.050 --> 00:04:21.760
+Esto es igual al coseno de theta, que es sólo la
+
+00:04:21.760 --> 00:04:25.050
+derivada de seno de theta veces nuestra segunda expresión.
+
+00:04:25.050 --> 00:04:29.660
+Coseno de tiempos de theta al menos 1.
+
+00:04:29.660 --> 00:04:32.810
+He puesto estos paréntesis y poner el signo menos 1 ahi
+
+00:04:32.810 --> 00:04:34.610
+porque no quería poner el signo menos 1 aquí y hacerte
+
+00:04:34.610 --> 00:04:37.590
+Creo que estoy hablando un coseno inverso o un arco coseno.
+
+00:04:37.590 --> 00:04:41.680
+Lo es la derivada de seno coseno de veces y ahora
+
+00:04:41.680 --> 00:04:45.690
+Quiero aprovechar más la derivada del coseno.
+
+00:04:45.690 --> 00:04:48.720
+­l;
+
+00:04:48.720 --> 00:04:50.770
+No sólo el coseno, el derivado si coseno al menos 1.
+
+00:04:50.770 --> 00:04:57.710
+Eso es menos veces 1 coseno al menos poder 2 theta.
+
+00:04:57.710 --> 00:05:01.466
+Que es el derivado de los tiempos fuera del
+
+00:05:01.466 --> 00:05:03.110
+derivado del interior.
+
+00:05:03.110 --> 00:05:05.060
+Me permito desplazarse más.
+
+00:05:05.060 --> 00:05:06.620
+Por lo es la derivada de la parte exterior.
+
+00:05:06.620 --> 00:05:09.160
+Si la theta de coseno fue sólo una x, usted diría x negativo
+
+00:05:09.160 --> 00:05:12.360
+1 derivado es menos de 1 x a la menos 2.
+
+00:05:12.360 --> 00:05:14.560
+Ahora veces la derivada del interior.
+
+00:05:14.560 --> 00:05:16.230
+De coseno de theta con respecto a theta.
+
+00:05:16.230 --> 00:05:21.180
+Eso es a veces menos seno de theta.
+
+00:05:21.180 --> 00:05:26.350
+Voy a multiplicar todo eso veces sinusoidal de theta.
+
+00:05:26.350 --> 00:05:28.690
+La derivada de esta cosa, que es la materia en verde,
+
+00:05:28.690 --> 00:05:30.550
+tiempos de la primera expresión.
+
+00:05:30.550 --> 00:05:32.520
+Así que ¿qué significa esto?
+
+00:05:32.520 --> 00:05:34.890
+Estos coseno de theta dividido por el coseno del
+
+00:05:34.890 --> 00:05:36.960
+Theta, es igual a 1.
+
+00:05:36.960 --> 00:05:40.400
+Y luego tengo una 1 negativo y tengo un seno negativo de theta.
+
+00:05:40.400 --> 00:05:42.670
+Es plus plus.
+
+00:05:42.670 --> 00:05:43.190
+¿Qué tengo?
+
+00:05:43.190 --> 00:05:45.910
+Tengo seno cuadrado, seno de seno de tiempo theta de theta
+
+00:05:45.910 --> 00:05:47.980
+sobre coseno al cuadrado.
+
+00:05:47.980 --> 00:05:54.430
+Así más plazas sinusoidal de theta sobre coseno cuadrado de theta.
+
+00:05:54.430 --> 00:05:58.570
+Que es igual a 1 más tangente cuadrado de theta.
+
+00:05:58.570 --> 00:06:00.290
+¿Qué es 1 plus tangente cuadrado de theta?
+
+00:06:00.290 --> 00:06:00.980
+Yo sólo le mostramos.
+
+00:06:00.980 --> 00:06:04.720
+Es igual a la secante cuadrado de theta.
+
+00:06:04.720 --> 00:06:07.100
+Por lo que es igual a la derivada de la tangente de theta
+
+00:06:07.100 --> 00:06:09.410
+secante cuadrado de theta.
+
+00:06:09.410 --> 00:06:11.940
+Todos los que trabajan para sacarnos bastante algo--es bueno
+
+00:06:11.940 --> 00:06:13.490
+Cuando sale simple.
+
+00:06:13.490 --> 00:06:17.440
+Tan d x d theta, esto es simplemente igual a la secante
+
+00:06:17.440 --> 00:06:19.780
+cuadrado de theta.
+
+00:06:19.780 --> 00:06:23.440
+Si queremos averiguar qué x d es igual a, d x es igual a
+
+00:06:23.440 --> 00:06:25.510
+sólo ambos lados veces d theta.
+
+00:06:25.510 --> 00:06:32.680
+Por lo que es theta de secante cuadrado de 6 veces d theta.
+
+00:06:32.680 --> 00:06:34.290
+Es nuestro d x.
+
+00:06:34.290 --> 00:06:37.330
+Por supuesto, en el futuro vamos a tener que volver
+
+00:06:37.330 --> 00:06:39.780
+sustituir, por lo que queremos resolver por theta.
+
+00:06:39.780 --> 00:06:41.000
+Es bastante sencillo.
+
+00:06:41.000 --> 00:06:43.600
+Simplemente tome el arco tangente de ambos lados de esta ecuación.
+
+00:06:43.600 --> 00:06:50.270
+Consigues que el arco tangente de x más 6 es igual a la theta.
+
+00:06:50.270 --> 00:06:52.600
+Esto nos ahorrará para más tarde.
+
+00:06:52.600 --> 00:06:54.640
+Así que ¿qué es nuestra integral reducido a?
+
+00:06:54.640 --> 00:06:58.020
+¿Nuestra integral se convierte ahora en la integral de x d?
+
+00:06:58.020 --> 00:06:59.210
+¿Qué es x d?
+
+00:06:59.210 --> 00:07:06.430
+Es 6 de secante cuadrado de theta d theta.
+
+00:07:06.430 --> 00:07:11.860
+Todo eso sobre este denominador, que es de 36
+
+00:07:11.860 --> 00:07:19.380
+tiempos 1 plus tangente cuadrado de theta.
+
+00:07:19.380 --> 00:07:23.600
+Sabemos que esta ahí es secante cuadrado de theta.
+
+00:07:23.600 --> 00:07:25.420
+Creo que he mostrado que varias veces.
+
+00:07:25.420 --> 00:07:27.470
+Esto es secante cuadrado de theta en el denominador.
+
+00:07:27.470 --> 00:07:31.370
+Tenemos una secante al cuadrado en el numerador, cancelan.
+
+00:07:31.370 --> 00:07:32.990
+Por lo que aquellos se cancelan.
+
+00:07:32.990 --> 00:07:37.400
+Son tan integral se reduce a, suerte para nosotros, 6/36 que
+
+00:07:37.400 --> 00:07:40.910
+es simplemente theta de 1/6 d.
+
+00:07:40.910 --> 00:07:45.760
+Que es igual a 1/6 theta plus c.
+
+00:07:45.760 --> 00:07:48.650
+Ahora sustituimos atrás utilizando este resultado.
+
+00:07:48.650 --> 00:07:52.240
+Theta es igual al arco tangente x 6 más.
+
+00:07:52.240 --> 00:07:55.710
+La primitiva 1 sobre 36 plus x cuadrado es
+
+00:07:55.710 --> 00:07:58.220
+igual a 1/6 veces theta.
+
+00:07:58.220 --> 00:08:06.210
+Theta s justo igual que el arco tangente x más 6 plus c.
+
+00:08:06.210 --> 00:08:07.000
+Y hemos terminado.
+
+00:08:07.000 --> 00:08:09.770
+Para que uno no estaba demasiado mal.
+
+00:08:09.770 --> 00:08:10.144
+­.

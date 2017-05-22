@@ -1,0 +1,684 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.760 --> 00:00:02.510
+Vamos a aprender un poco sobre el producto escalar.
+
+00:00:02.510 --> 00:00:06.040
+El producto escalar, francamente, fuera de las dos maneras de multiplicar
+
+00:00:06.040 --> 00:00:08.410
+vectores, creo que es la más fácil.
+
+00:00:08.410 --> 00:00:09.820
+¿Qué hace el producto escalar?
+
+00:00:09.820 --> 00:00:11.406
+Por eso no te doy la definición, y luego voy a dar
+
+00:00:11.406 --> 00:00:12.080
+es una intuición.
+
+00:00:12.080 --> 00:00:23.960
+Así que si tengo dos vectores; vector de un punto vector b--que
+
+00:00:23.960 --> 00:00:24.660
+¿Cómo llamar mis flechas.
+
+00:00:24.660 --> 00:00:26.300
+Puedo llamar mis flechas como ese.
+
+00:00:26.300 --> 00:00:31.940
+Que es igual a la magnitud del vector a veces la
+
+00:00:31.940 --> 00:00:36.610
+magnitud del vector b veces el coseno de la
+
+00:00:36.610 --> 00:00:38.430
+ángulo entre ellos.
+
+00:00:38.430 --> 00:00:39.520
+¿Ahora esto de dónde viene?
+
+00:00:39.520 --> 00:00:41.480
+Esto puede parecer un poco arbitraria, pero creo que con un
+
+00:00:41.480 --> 00:00:44.500
+explicación visual, hará un poco más de sentido.
+
+00:00:44.500 --> 00:00:48.850
+Así que permítanme dibujar, arbitrariamente, estos dos vectores.
+
+00:00:48.850 --> 00:00:54.060
+Por lo que es mi vector--Niza vector grande y gordo.
+
+00:00:54.060 --> 00:00:56.710
+Es bueno para mostrar el punto.
+
+00:00:56.710 --> 00:00:58.810
+Y permítanme llamar como ese vector b.
+
+00:01:01.350 --> 00:01:02.380
+Vector b.
+
+00:01:02.380 --> 00:01:05.180
+Y luego me deja sacar el coseno, o déjame, al menos,
+
+00:01:05.180 --> 00:01:06.650
+dibujar el ángulo entre ellos.
+
+00:01:06.650 --> 00:01:09.090
+Esto es theta.
+
+00:01:09.090 --> 00:01:10.650
+Así que hay dos maneras de ver esto.
+
+00:01:10.650 --> 00:01:12.600
+Permítanme etiquetarlos.
+
+00:01:12.600 --> 00:01:14.886
+Esto es vector de una.
+
+00:01:14.886 --> 00:01:17.010
+Estoy tratando de ser de color uniforme.
+
+00:01:17.010 --> 00:01:18.740
+Este es el vector b.
+
+00:01:18.740 --> 00:01:22.120
+Así que hay dos formas de ver este producto.
+
+00:01:22.120 --> 00:01:27.360
+También se podría ver como vector--porque la multiplicación es
+
+00:01:27.360 --> 00:01:29.130
+asociativa, podría cambiar el orden.
+
+00:01:29.130 --> 00:01:32.400
+Así que esto también podría escribirse como la magnitud del vector de un
+
+00:01:32.400 --> 00:01:39.200
+coseno de tiempos de theta, veces--y yo lo haré en color
+
+00:01:39.200 --> 00:01:41.700
+caso--vector b.
+
+00:01:41.700 --> 00:01:43.300
+Y este momento, este es el producto escalar.
+
+00:01:43.300 --> 00:01:44.470
+Casi no tengo que escribirlo.
+
+00:01:44.470 --> 00:01:45.860
+Esto es la multiplicación sólo regular, porque estos
+
+00:01:45.860 --> 00:01:47.200
+son todas las cantidades escalares.
+
+00:01:47.200 --> 00:01:49.300
+Cuando vea el punto entre vectores, estás hablando
+
+00:01:49.300 --> 00:01:51.550
+el producto escalar de vectores.
+
+00:01:51.550 --> 00:01:53.640
+Así que si éramos simplemente reorganizar esta expresión esto
+
+00:01:53.640 --> 00:01:54.410
+cierto, ¿qué significa?
+
+00:01:54.410 --> 00:01:57.110
+¿Qué es un coseno de theta?
+
+00:01:57.110 --> 00:01:58.180
+Permítame hacerle una pregunta.
+
+00:01:58.180 --> 00:02:01.970
+Si tuviera que caer un ángulo recto, justo aquí,
+
+00:02:01.970 --> 00:02:06.740
+perpendicular a b--justo así que vamos a colocar un ángulo recto
+
+00:02:06.740 --> 00:02:14.900
+allí--coseno de theta soh-coh-toa--así, cah coseno
+
+00:02:14.900 --> 00:02:20.260
+es igual a adyacentes de una hipotenusa, ¿verdad?
+
+00:02:20.260 --> 00:02:21.990
+Bien, ¿qué es la adyacente?
+
+00:02:21.990 --> 00:02:24.540
+Es igual a esto.
+
+00:02:24.540 --> 00:02:28.900
+¿Y la hipotenusa es igual a la magnitud de un, derecho?
+
+00:02:28.900 --> 00:02:29.740
+Permítanme reescribir.
+
+00:02:29.740 --> 00:02:34.230
+Para el coseno de theta--y esto se aplica a la un vector.
+
+00:02:34.230 --> 00:02:40.270
+Coseno de theta de este ángulo es igual a ajacent, que
+
+00:02:40.270 --> 00:02:42.800
+es--no sé lo que se podría llamar esto--vamos a llamar
+
+00:02:42.800 --> 00:02:47.130
+esta la proyección de un a b.
+
+00:02:47.130 --> 00:02:49.890
+Es como si fueras a brillar una luz perpendicular a b--
+
+00:02:49.890 --> 00:02:54.080
+Si hubo aquí una fuente de luz y la luz fue
+
+00:02:54.080 --> 00:02:57.440
+hacia abajo, sería la sombra de un a b.
+
+00:02:57.440 --> 00:03:00.110
+O casi se podría pensar de como parte de una va
+
+00:03:00.110 --> 00:03:01.440
+en la misma dirección de b.
+
+00:03:01.440 --> 00:03:07.340
+Así que esta proyección, llaman TI--por lo menos la manera de que obtener
+
+00:03:07.340 --> 00:03:09.050
+la intuición de una proyección de lo que es, que tipo de vista
+
+00:03:09.050 --> 00:03:09.910
+es como una sombra.
+
+00:03:09.910 --> 00:03:13.480
+Si tuvieras una fuente de luz que surgió de forma perpendicular, lo que
+
+00:03:13.480 --> 00:03:16.590
+¿sería la sombra de ese vector a éste?
+
+00:03:16.590 --> 00:03:21.260
+Así que si pones a pensar, esta aquí derecho sombra--pudiera
+
+00:03:21.260 --> 00:03:23.240
+que, la proyección de un a b.
+
+00:03:23.240 --> 00:03:24.180
+O bien, no sé.
+
+00:03:24.180 --> 00:03:27.200
+Vamos a justo llamarlo, a b sub.
+
+00:03:27.200 --> 00:03:29.240
+¿Y es la magnitud de la misma, derecho?
+
+00:03:29.240 --> 00:03:33.520
+Es cuánto de vector a goes en el vector b sobre--que la
+
+00:03:33.520 --> 00:03:35.650
+laterales adyacentes--sobre la hipotenusa.
+
+00:03:35.650 --> 00:03:38.790
+La hipotenusa es sólo la magnitud del vector un.
+
+00:03:38.790 --> 00:03:41.810
+Es sólo nuestro cálculo básico.
+
+00:03:41.810 --> 00:03:44.500
+O de otra manera podría ver, simplemente multiplique ambos lados
+
+00:03:44.500 --> 00:03:46.190
+por la magnitud del vector de un.
+
+00:03:46.190 --> 00:03:51.390
+Obtendrá la proyección de un sobre b, que es sólo una fantasía
+
+00:03:51.390 --> 00:03:55.830
+manera de decir, de este lado; la parte de una que va el
+
+00:03:55.830 --> 00:03:59.750
+misma dirección de b--es otra forma de decir de TI--es
+
+00:03:59.750 --> 00:04:03.590
+igual a sólo multiplicando ambos lados veces la magnitud de un
+
+00:04:03.590 --> 00:04:08.240
+es igual a la magnitud de un, coseno de theta.
+
+00:04:08.240 --> 00:04:10.430
+Que es exactamente lo que tenemos aquí.
+
+00:04:10.430 --> 00:04:12.570
+Y la definición del producto escalar.
+
+00:04:12.570 --> 00:04:15.860
+Por lo que es otra forma de visualizar el producto escalar, usted podría
+
+00:04:15.860 --> 00:04:19.570
+sustituir este término por la magnitud de la proyección de
+
+00:04:19.570 --> 00:04:22.760
+un sobre b--que es simplemente esto--veces el
+
+00:04:22.760 --> 00:04:24.870
+magnitud de b.
+
+00:04:24.870 --> 00:04:26.360
+Es interesante.
+
+00:04:26.360 --> 00:04:29.410
+Todo el producto escalar de dos vectores es--tomemos sólo
+
+00:04:29.410 --> 00:04:30.650
+un vector.
+
+00:04:30.650 --> 00:04:33.720
+Vamos a averiguar cómo mucho de ese vector--qué componente
+
+00:04:33.720 --> 00:04:36.650
+es magnitud--va en la misma dirección que el
+
+00:04:36.650 --> 00:04:39.570
+otros vectores y vamos a multiplicar sólo les.
+
+00:04:39.570 --> 00:04:41.250
+¿Y donde es útil?
+
+00:04:41.250 --> 00:04:42.040
+Bien, piense en ello.
+
+00:04:42.040 --> 00:04:43.020
+¿Funciona?
+
+00:04:43.020 --> 00:04:44.720
+¿Cuando nos enteramos de trabajo en física?
+
+00:04:44.720 --> 00:04:46.870
+Trabajo es fuerza veces distancia.
+
+00:04:46.870 --> 00:04:48.600
+Pero no es sólo la fuerza total
+
+00:04:48.600 --> 00:04:49.460
+veces la distancia total.
+
+00:04:49.460 --> 00:04:51.110
+Es la fuerza va en el mismo
+
+00:04:51.110 --> 00:04:52.360
+dirección de la distancia.
+
+00:04:56.030 --> 00:04:58.320
+Usted debe revisar la lista de reproducción física si estás viendo
+
+00:04:58.320 --> 00:05:04.150
+Esto dentro de la lista de reproducción de cálculo. Digamos que tengo un
+
+00:05:04.150 --> 00:05:08.250
+objeto de 10 newton.
+
+00:05:08.250 --> 00:05:11.710
+Está sentado sobre el hielo, así que no hay ninguna fricción.
+
+00:05:11.710 --> 00:05:13.920
+No queremos que preocuparse ahora de ficción.
+
+00:05:13.920 --> 00:05:15.915
+Y digamos que tirar de él.
+
+00:05:15.915 --> 00:05:20.485
+Digamos que mi vector fuerza--esto es mi vector de fuerza.
+
+00:05:25.540 --> 00:05:34.440
+Digamos que mi vector de fuerza es 100 newtons.
+
+00:05:34.440 --> 00:05:37.910
+Estoy haciendo los números hacia arriba.
+
+00:05:37.910 --> 00:05:40.250
+100 newtons.
+
+00:05:40.250 --> 00:05:46.940
+Y digamos que deslice hacia la derecha, así que mi distancia
+
+00:05:46.940 --> 00:05:54.720
+vector es 10 metros paralelos al suelo.
+
+00:05:57.910 --> 00:06:02.820
+Y el ángulo entre ellos es igual a 60 grados, que es
+
+00:06:02.820 --> 00:06:05.080
+lo mismo es pi más 3.
+
+00:06:05.080 --> 00:06:06.125
+Nos quedo en grados.
+
+00:06:06.125 --> 00:06:07.790
+Es un poco más intuitivo.
+
+00:06:07.790 --> 00:06:09.660
+Es 60 grados.
+
+00:06:09.660 --> 00:06:11.940
+Esta distancia aquí es de 10 metros.
+
+00:06:11.940 --> 00:06:16.550
+Así que mi pregunta es, tirando de esta cuerda, o lo que sea, en
+
+00:06:16.550 --> 00:06:20.360
+el ángulo de 60 grados, con una fuerza de 100 newtons, y
+
+00:06:20.360 --> 00:06:23.980
+tirando de este bloque hacia la derecha para 10 metros, cuánto
+
+00:06:23.980 --> 00:06:25.560
+¿trabajo estoy haciendo?
+
+00:06:25.560 --> 00:06:28.990
+Bueno, trabajo es fuerza veces la distancia, pero no sólo la
+
+00:06:28.990 --> 00:06:29.890
+total de la fuerza.
+
+00:06:29.890 --> 00:06:32.880
+La magnitud de la fuerza en la dirección de la distancia.
+
+00:06:32.880 --> 00:06:35.150
+¿Cuál es la magnitud de la fuerza en la
+
+00:06:35.150 --> 00:06:36.590
+¿dirección de la distancia?
+
+00:06:36.590 --> 00:06:41.730
+Sería el componente horizontal de esta fuerza
+
+00:06:41.730 --> 00:06:42.690
+¿vector, correcto?
+
+00:06:42.690 --> 00:06:45.110
+Por lo que sería 100 veces newtons la
+
+00:06:45.110 --> 00:06:46.520
+coseno de 60 grados.
+
+00:06:46.520 --> 00:06:47.620
+Le dirá cuánto de que 100
+
+00:06:47.620 --> 00:06:49.180
+Newtons va a la derecha.
+
+00:06:49.180 --> 00:06:50.540
+O también otra forma se podría ver si este
+
+00:06:50.540 --> 00:06:55.390
+es el vector de fuerza.
+
+00:06:55.390 --> 00:06:59.110
+Y aquí abajo es el vector de distancia.
+
+00:06:59.110 --> 00:07:03.710
+Se podría decir que el trabajo total realizado es igual a
+
+00:07:03.710 --> 00:07:10.350
+el punto del vector de fuerza el vector de distancia, usando el punto
+
+00:07:10.350 --> 00:07:11.940
+producto--tomando el producto escalar, a la fuerza y la
+
+00:07:11.940 --> 00:07:12.650
+factor de distancia.
+
+00:07:12.650 --> 00:07:14.930
+Y sabemos que la definición es la magnitud de
+
+00:07:14.930 --> 00:07:18.700
+el vector de fuerza, que es de 100 newtons, veces la magnitud
+
+00:07:18.700 --> 00:07:22.880
+del vector de distancia, que es de 10 metros, veces el coseno
+
+00:07:22.880 --> 00:07:23.990
+el ángulo entre ellos.
+
+00:07:23.990 --> 00:07:27.030
+Coseno del ángulo es de 60 grados.
+
+00:07:27.030 --> 00:07:32.890
+Lo es igual a 1.000 metros de newton
+
+00:07:32.890 --> 00:07:34.010
+veces coseno de 60.
+
+00:07:34.010 --> 00:07:36.410
+¿Coseno de 60 es qué?
+
+00:07:36.410 --> 00:07:38.510
+La raíz cuadrada de 3 a 2.
+
+00:07:41.690 --> 00:07:45.040
+Raíz cuadrada de 3 por 2, si recuerdo mal.
+
+00:07:45.040 --> 00:07:47.750
+Lo veces la raíz cuadrada de 3 a 2.
+
+00:07:47.750 --> 00:07:50.290
+Así que el 2 se convierte en 500.
+
+00:07:50.290 --> 00:07:56.160
+Así que resulta es 500 raíces cuadradas de 3 julios, cualquiera que sea.
+
+00:07:56.160 --> 00:07:57.990
+No sé 700 algo, estoy adivinando.
+
+00:07:57.990 --> 00:07:58.960
+Quizás sea algo 800.
+
+00:07:58.960 --> 00:07:59.920
+No estoy muy seguro.
+
+00:07:59.920 --> 00:08:01.950
+Pero lo importante para darse cuenta que es el punto
+
+00:08:01.950 --> 00:08:03.010
+producto es útil.
+
+00:08:03.010 --> 00:08:04.880
+Se aplica al trabajo.
+
+00:08:04.880 --> 00:08:07.230
+Realmente calcula qué componente de qué vector pasa
+
+00:08:07.230 --> 00:08:08.280
+en la otra dirección.
+
+00:08:08.280 --> 00:08:09.400
+Ahora podría interpretar al revés.
+
+00:08:09.400 --> 00:08:12.190
+Se podría decir que esta es la magnitud de un
+
+00:08:12.190 --> 00:08:14.500
+coseno de b tiempos de theta.
+
+00:08:14.500 --> 00:08:16.110
+Y eso es completamente válida.
+
+00:08:16.110 --> 00:08:18.370
+Y ¿qué es el coseno de b de theta?
+
+00:08:18.370 --> 00:08:21.920
+Bueno, si usted tomó coseno b de theta, y esto podría trabajar
+
+00:08:21.920 --> 00:08:24.370
+hacia fuera como un ejercicio para ti, que es la cantidad de
+
+00:08:24.370 --> 00:08:26.020
+la magnitud de la b que vector de
+
+00:08:26.020 --> 00:08:27.580
+va el sentido.
+
+00:08:27.580 --> 00:08:29.630
+Así que no importa qué orden vas.
+
+00:08:29.630 --> 00:08:33.520
+Así que cuando usted toma el producto cruzado, importa si
+
+00:08:33.520 --> 00:08:35.680
+haces una cruz b, o b cruzar una.
+
+00:08:35.680 --> 00:08:37.980
+Pero cuando estás haciendo el producto escalar, no importa
+
+00:08:37.980 --> 00:08:38.740
+¿qué orden.
+
+00:08:38.740 --> 00:08:42.049
+Theta de coseno b sería la magnitud del vector b que
+
+00:08:42.049 --> 00:08:43.570
+va en la dirección de un.
+
+00:08:43.570 --> 00:08:49.810
+Así que si fueras a dibujar una línea perpendicular, b
+
+00:08:49.810 --> 00:08:51.455
+theta de coseno sería este vector.
+
+00:08:54.030 --> 00:08:56.660
+Eso sería theta de coseno de b.
+
+00:08:56.660 --> 00:08:59.590
+La magnitud de theta de coseno de b.
+
+00:08:59.590 --> 00:09:03.090
+Por lo que se puede decir cuánto de vector b va en el mismo
+
+00:09:03.090 --> 00:09:03.820
+¿dirección como una?
+
+00:09:03.820 --> 00:09:05.730
+A continuación, multiplique las dos magnitudes.
+
+00:09:05.730 --> 00:09:08.460
+O se podría decir cuánto de vector a va en el mismo
+
+00:09:08.460 --> 00:09:09.680
+¿dirección es vector b?
+
+00:09:09.680 --> 00:09:11.970
+Y luego multiplicar las dos magnitudes.
+
+00:09:11.970 --> 00:09:14.410
+Y ahora, esto es, creo, un buen momento para asegurarse de que sólo
+
+00:09:14.410 --> 00:09:16.590
+entiendes la diferencia entre el producto escalar y
+
+00:09:16.590 --> 00:09:18.240
+el producto cruzado.
+
+00:09:18.240 --> 00:09:20.200
+El producto escalar se termina con un número.
+
+00:09:20.200 --> 00:09:23.280
+Multiplicas dos vectores y todo lo que tiene es un número.
+
+00:09:23.280 --> 00:09:25.990
+Terminas con sólo una cantidad escalar.
+
+00:09:25.990 --> 00:09:27.950
+Y ¿por qué es interesante?
+
+00:09:27.950 --> 00:09:32.610
+Bueno, que le dice cuánto estas--se podría casi decir--
+
+00:09:32.610 --> 00:09:34.280
+Estos vectores refuerzan mutuamente.
+
+00:09:34.280 --> 00:09:37.330
+Porque usted está tomando las piezas de sus magnitudes
+
+00:09:37.330 --> 00:09:39.305
+ir en la misma dirección y multiplicando los.
+
+00:09:39.305 --> 00:09:42.420
+El producto es realmente casi lo contrario.
+
+00:09:42.420 --> 00:09:45.110
+¿Usted está tomando sus componentes ortogonales, correctas?
+
+00:09:45.110 --> 00:09:47.390
+La diferencia fue, esto fue una una señal senoidal de theta.
+
+00:09:47.390 --> 00:09:49.110
+No quiero que te lío por esta imagen demasiado.
+
+00:09:49.110 --> 00:09:51.460
+Pero usted debe revisar los vídeos de producto cruzado.
+
+00:09:51.460 --> 00:09:53.020
+Y voy a hacer otro video donde realmente comparar y
+
+00:09:53.020 --> 00:09:53.880
+contraste.
+
+00:09:53.880 --> 00:09:56.240
+Pero el producto Cruz, estás diciendo, vamos a multiplicar
+
+00:09:56.240 --> 00:09:59.820
+las magnitudes de los vectores que son perpendiculares a cada uno
+
+00:09:59.820 --> 00:10:01.660
+otro, que no van en la misma dirección, que son
+
+00:10:01.660 --> 00:10:03.380
+realmente ortogonales entre sí.
+
+00:10:03.380 --> 00:10:05.770
+Y luego, tienes que elegir una dirección ya no estás
+
+00:10:05.770 --> 00:10:07.230
+diciendo, bueno, la misma dirección que
+
+00:10:07.230 --> 00:10:08.570
+ambos van.
+
+00:10:08.570 --> 00:10:11.060
+Así que está recogiendo la dirección que es ortogonal a
+
+00:10:11.060 --> 00:10:12.150
+ambos vectores.
+
+00:10:12.150 --> 00:10:14.813
+Y entonces, por qué es importante la orientación y usted
+
+00:10:14.813 --> 00:10:16.370
+hay que tomar la regla de la mano derecha, porque realmente no hay
+
+00:10:16.370 --> 00:10:19.190
+dos vectores perpendiculares a los otros dos
+
+00:10:19.190 --> 00:10:20.810
+vectores en tres dimensiones.
+
+00:10:20.810 --> 00:10:22.380
+De todas formas, estoy fuera de tiempo.
+
+00:10:22.380 --> 00:10:25.750
+A seguir, esperemos que no demasiado confuso, discusión
+
+00:10:25.750 --> 00:10:26.330
+en el siguiente vídeo.
+
+00:10:26.330 --> 00:10:28.730
+Voy a comparar y contrastar la Cruz
+
+00:10:28.730 --> 00:10:30.260
+producto y el producto escalar.
+
+00:10:30.260 --> 00:10:32.070
+Nos vemos en el siguiente vídeo.

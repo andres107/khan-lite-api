@@ -1,0 +1,51 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.336 --> 00:00:09.003
+Mire la tabla con los valores de la función f de (x) = (3sin5x) / sen2x para valores de x alrededor 0
+
+00:00:09.003 --> 00:00:15.887
+En la mesa, que parece ser el límite de la función cuando x tiende alrededor de 0?
+
+00:00:15.887 --> 00:00:24.478
+Así que tenemos valores que están cerca de 0 desde abajo. En primer lugar, -0,1, y f de (x) es 7,239550.
+
+00:00:24.478 --> 00:00:35.944
+Entonces estamos aún más cerca de 0, x es -0.01 (de nuevo, acercándose a los valores de 0 a menos de 0) y ahora tenemos a 7,497375.
+
+00:00:35.944 --> 00:00:41.738
+Nos acercamos aún más a 0 y entonces tenemos 7.499974.
+
+00:00:41.738 --> 00:00:50.209
+Ahora vamos a ver lo que sucede cuando nos acercamos a 0 con antelación, utilizando los valores superiores a 0 Cuando x es 0,1 entonces, tenemos 7.239550.
+
+00:00:50.209 --> 00:00:59.066
+¿Cuál es el mismo que el valor de x = -0.1. Cuando x es 0,01, el valor es 7,497375. Igual que -0,01.
+
+00:00:59.066 --> 00:01:08.330
+Y de nuevo, cuando tenemos 0001, todavía los valores superiores a 0, este valor es el valor es 7,499974.
+
+00:01:08.330 --> 00:01:17.604
+Es una cosa curiosa. El límite de los dos lados da la impresión más cerca de 7,5.
+
+00:01:17.604 --> 00:01:27.621
+Se puede imaginar que sería ... pero ahora escribe para comprobarlo. Así que ahora escriba una respuesta, vamos a ver. Es bueno.
+
+00:01:27.621 --> 00:01:42.267
+Pero imaginar qué aspecto tiene, tome una calculadora gráfica. Estoy empezando en la pantalla principal, prosigo gráfico. Defino mi función f de (x).
+
+00:01:59.539 --> 00:02:22.558
+Y ahora yo defino el campo. Así Sea X sobre 0 Valores de Y alrededor de 7 u 8 Que sea un poco y negativo, y -1-8
+
+00:02:22.558 --> 00:02:30.785
+Debido a que no se ve como si tuviera más de 8, al menos no en este conjunto de valores, lo que hemos hablado antes. Y ahora vamos a dibujar.
+
+00:02:30.785 --> 00:02:45.535
+Okey, por lo que el gráfico hace diferentes grandes cosas ... Pero cuando estamos más cerca y más cerca de 0, x se aproxima a 0 desde el lado negativo, vemos que la función se aproxima 7.5.
+
+00:02:45.535 --> 00:02:55.135
+Del mismo modo, cuando x tiende a 0 desde el lado positivo, la función parece estar más cerca de 7,5.
+
+00:02:55.135 --> 00:02:59.135
+Esta función no está definida en el punto 7.5, pero lo que parece, y en realidad es bastante claro que casi lo suficientemente cerca para llegar allí.

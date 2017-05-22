@@ -1,0 +1,561 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.760 --> 00:00:03.130
+Hasta ahora, cuando yo he dicho sobre el punto y la Cruz
+
+00:00:03.130 --> 00:00:06.440
+productos, me he dado la definición como la magnitud
+
+00:00:06.440 --> 00:00:08.710
+veces el coseno o el seno de la
+
+00:00:08.710 --> 00:00:09.710
+ángulo entre ellos.
+
+00:00:09.710 --> 00:00:12.430
+Pero, ¿qué pasa si no eres le los vectores visualmente?
+
+00:00:12.430 --> 00:00:14.210
+Y ¿qué pasa si no está dado el ángulo entre ellos?
+
+00:00:14.210 --> 00:00:17.240
+¿Cómo calcular el punto y los productos de la Cruz?
+
+00:00:17.240 --> 00:00:19.160
+Bueno, te voy a dar la definición que
+
+00:00:19.160 --> 00:00:20.000
+Le dando ya.
+
+00:00:20.000 --> 00:00:26.710
+Así que vamos a decir que tengo un punto b punto producto.
+
+00:00:26.710 --> 00:00:31.610
+Que es la magnitud de una veces la magnitud de los tiempos de b
+
+00:00:31.610 --> 00:00:34.200
+coseno del ángulo entre ellos.
+
+00:00:34.200 --> 00:00:39.730
+a b Cruz es igual a la magnitud de una veces la
+
+00:00:39.730 --> 00:00:44.670
+magnitud de b veces el seno del ángulo entre ellos - tan
+
+00:00:44.670 --> 00:00:48.360
+las proyecciones perpendiculares de ellos--veces el normal
+
+00:00:48.360 --> 00:00:50.130
+vector perpendicular a ambos.
+
+00:00:50.130 --> 00:00:53.750
+El vector normal de la unidad y usted averiguar cuál de los
+
+00:00:53.750 --> 00:00:55.500
+dos vectores perpendiculares es mediante el uso de
+
+00:00:55.500 --> 00:00:56.620
+la regla de la mano derecha.
+
+00:00:56.620 --> 00:01:00.170
+Pero qué pasa si no tenemos las thetas; el
+
+00:01:00.170 --> 00:01:01.320
+¿ángulos entre ellos?
+
+00:01:01.320 --> 00:01:04.760
+¿Qué pasa si, por ejemplo, tuviera que decirle que el vector
+
+00:01:04.760 --> 00:01:09.990
+una,--si tuviera que dar en la notación de ingeniería.
+
+00:01:09.990 --> 00:01:12.090
+En la notación de ingeniería, esencialmente sólo eres
+
+00:01:12.090 --> 00:01:16.270
+rompiendo el vector en sus x, y y z componentes.
+
+00:01:16.270 --> 00:01:23.580
+Así que vamos a decir vector un es 5i--es sólo el vector unitario en
+
+00:01:23.580 --> 00:01:31.890
+la dirección de x, menos 6j, más 3 k.
+
+00:01:34.740 --> 00:01:37.790
+i, j y k son simplemente los vectores de la unidad de la x, y y z
+
+00:01:37.790 --> 00:01:38.310
+direcciones.
+
+00:01:38.310 --> 00:01:40.700
+Y el 5 es cuánto va en la dirección x.
+
+00:01:40.700 --> 00:01:43.400
+Al menos 6 es cuánto va en la dirección y.
+
+00:01:43.400 --> 00:01:45.890
+Y el 3 es cuánto va en la dirección z.
+
+00:01:45.890 --> 00:01:47.040
+Podría intentarlo de la gráfica.
+
+00:01:47.040 --> 00:01:48.960
+Y realmente, estoy tratando de buscar una calculadora gráfica
+
+00:01:48.960 --> 00:01:51.370
+que voy hacer esto, por lo que le puedo mostrar todo en videos para dar
+
+00:01:51.370 --> 00:01:52.360
+usted más intuición.
+
+00:01:52.360 --> 00:01:53.830
+Pero permite decir esto es lo que le está dado.
+
+00:01:53.830 --> 00:02:00.100
+Y digamos sólo estoy haciendo estos números--b--
+
+00:02:00.100 --> 00:02:04.170
+digamos que es menos 2i--y, por supuesto, estamos trabajando
+
+00:02:04.170 --> 00:02:14.480
+tres dimensiones ahora--plus 7j plus 4 k.
+
+00:02:14.480 --> 00:02:15.300
+Podría gráfico lo.
+
+00:02:15.300 --> 00:02:19.030
+Pero obviamente, si se da un problema y si usted
+
+00:02:19.030 --> 00:02:22.270
+realmente estaban tratando de vectores de modelo en un equipo
+
+00:02:22.270 --> 00:02:23.510
+simulación, esto es la forma que lo haría.
+
+00:02:23.510 --> 00:02:25.690
+Sería romper en los componentes x, y y z debido
+
+00:02:25.690 --> 00:02:26.780
+los vectores de agregar.
+
+00:02:26.780 --> 00:02:28.600
+Sólo tienes que añadir los componentes respectivos.
+
+00:02:28.600 --> 00:02:31.210
+Pero ¿cómo multiplicas ellos ya sea tomando la Cruz o el
+
+00:02:31.210 --> 00:02:32.340
+¿producto escalar?
+
+00:02:32.340 --> 00:02:34.580
+Bueno realmente resulta no voy a probarlo pero aquí
+
+00:02:34.580 --> 00:02:35.400
+Sólo mostraré cómo hacerlo.
+
+00:02:35.400 --> 00:02:38.100
+El producto escalar es muy fácil cuando lo tienes
+
+00:02:38.100 --> 00:02:39.330
+dado en esta notación.
+
+00:02:39.330 --> 00:02:40.880
+Y realmente otra forma de escribir esta notación,
+
+00:02:40.880 --> 00:02:42.360
+a veces resulta en notación de soporte.
+
+00:02:42.360 --> 00:02:46.955
+A veces podría reescribir esto como 5 menos 6, 3.
+
+00:02:46.955 --> 00:02:49.455
+O es sólo de las magnitudes de la x, y y z dirección.
+
+00:02:49.455 --> 00:02:53.170
+Sólo quiero para asegurarse de que usted está cómodo con todos
+
+00:02:53.170 --> 00:02:54.270
+estas notaciones diferentes.
+
+00:02:54.270 --> 00:02:57.360
+Podría haber escrito b como menos es 2, 7, 4.
+
+00:02:57.360 --> 00:02:58.380
+Estas son todas las mismas cosas.
+
+00:02:58.380 --> 00:03:00.360
+Usted no debería recibir espantarse si ves uno o el otro.
+
+00:03:00.360 --> 00:03:05.430
+Pero de todos modos, ¿cómo debo tomar un punto b?
+
+00:03:08.110 --> 00:03:10.670
+Esto, creo que encontrará bastante agradable.
+
+00:03:10.670 --> 00:03:15.410
+Todo lo que hacen es multiplicas i componentes, añadir que a la
+
+00:03:15.410 --> 00:03:18.270
+componentes j multiplicaron y agregue al k
+
+00:03:18.270 --> 00:03:20.210
+componentes multiplican juntos.
+
+00:03:20.210 --> 00:03:34.350
+Así que sería 5 veces menos 2 más menos 7 6 veces más 3
+
+00:03:34.350 --> 00:03:45.260
+4, por lo que es igual a menos 10 menos 42 más 12.
+
+00:03:45.260 --> 00:03:52.020
+Así que esto es menos 52 más 12, por lo que es igual a menos de 40.
+
+00:03:52.020 --> 00:03:52.460
+Eso es todo.
+
+00:03:52.460 --> 00:03:54.840
+Es sólo un número.
+
+00:03:54.840 --> 00:03:57.090
+Y realmente sería curioso esto de la gráfica en un tres
+
+00:03:57.090 --> 00:04:00.980
+grapher dimensional para ver por qué es menos de 40.
+
+00:04:00.980 --> 00:04:03.600
+Debe van en direcciones opuestas.
+
+00:04:03.600 --> 00:04:05.680
+Y sus proyecciones sobre cada ir en frente
+
+00:04:05.680 --> 00:04:06.070
+direcciones.
+
+00:04:06.070 --> 00:04:07.770
+Y por eso recibimos un número negativo.
+
+00:04:11.000 --> 00:04:13.030
+El propósito de esto--no desea obtener demasiado en la
+
+00:04:13.030 --> 00:04:15.050
+intuición--esto es simplemente cómo calcular, pero es bastante
+
+00:04:15.050 --> 00:04:15.900
+sencillo.
+
+00:04:15.900 --> 00:04:18.930
+Simplemente multiplicas los componentes de x.
+
+00:04:18.930 --> 00:04:22.029
+Agregar que al y componentes multiplicaron y añaden que a la
+
+00:04:22.029 --> 00:04:23.450
+componentes de z multiplicados.
+
+00:04:23.450 --> 00:04:25.710
+Así que siempre me ha dado algo de ingeniería o
+
+00:04:25.710 --> 00:04:28.470
+notación de soporte y tienen que encontrar el producto escalar, es
+
+00:04:28.470 --> 00:04:33.680
+casi calmante y no tan propenso.
+
+00:04:33.680 --> 00:04:37.390
+Pero, como se verá, tomando el producto cruzado de estos dos
+
+00:04:37.390 --> 00:04:40.160
+vectores cuando en esta notación no es lo
+
+00:04:40.160 --> 00:04:41.490
+sencillo.
+
+00:04:41.490 --> 00:04:43.020
+Y quiero que tenga en cuenta, de otra manera usted podría
+
+00:04:43.020 --> 00:04:44.590
+haberlo hecho, podría haber averiguado la magnitud de
+
+00:04:44.590 --> 00:04:49.470
+cada uno de estos vectores y, a continuación, usted podría haber utilizado algunos fancy
+
+00:04:49.470 --> 00:04:51.770
+trigonometría a figura fuera los thetas y luego utiliza este
+
+00:04:51.770 --> 00:04:52.370
+definición.
+
+00:04:52.370 --> 00:04:56.230
+Pero creo que aprecias el hecho de que se trata de un muy
+
+00:04:56.230 --> 00:04:57.350
+forma más sencilla de hacerlo.
+
+00:04:57.350 --> 00:04:59.140
+Por lo tanto el producto escalar es un montón de diversión.
+
+00:04:59.140 --> 00:05:02.570
+Ahora vamos a ver si podríamos tomar el producto cruzado.
+
+00:05:02.570 --> 00:05:04.450
+Y una vez más, no voy a probarlo.
+
+00:05:04.450 --> 00:05:06.230
+Voy a mostrarle cómo hacerlo.
+
+00:05:06.230 --> 00:05:09.370
+En un video futuro, estoy seguro de que voy a una solicitud para hacerlo
+
+00:05:09.370 --> 00:05:11.710
+Finalmente, y yo voy a probarlo.
+
+00:05:11.710 --> 00:05:15.270
+Pero el producto cruzado, esto es más complicado.
+
+00:05:15.270 --> 00:05:18.210
+Y nunca espero que teniendo el producto cruzado de
+
+00:05:18.210 --> 00:05:20.290
+dos vectores en la notación de ingeniería.
+
+00:05:20.290 --> 00:05:22.700
+a b Cruz.
+
+00:05:22.700 --> 00:05:23.760
+Es igual a.
+
+00:05:23.760 --> 00:05:27.530
+Esto es una aplicación de matrices.
+
+00:05:27.530 --> 00:05:31.850
+Así que qué es que tomar el determinante--te llamo un gran
+
+00:05:31.850 --> 00:05:34.120
+línea determinante--en la línea superior del determinante.
+
+00:05:34.120 --> 00:05:35.190
+Esto es realmente sólo una forma de hacerle
+
+00:05:35.190 --> 00:05:37.090
+memorizar cómo hacerlo.
+
+00:05:37.090 --> 00:05:39.240
+No darle mucha intuición, pero la intuición
+
+00:05:39.240 --> 00:05:41.690
+está dada por la definición.
+
+00:05:41.690 --> 00:05:44.010
+¿Cuánto de los vectores son perpendiculares entre sí.
+
+00:05:44.010 --> 00:05:45.050
+Multiplicar esas magnitudes.
+
+00:05:45.050 --> 00:05:47.210
+Regla de la mano derecha descubre qué dirección
+
+00:05:47.210 --> 00:05:48.360
+Usted está apuntando en.
+
+00:05:48.360 --> 00:05:51.380
+Pero la manera de hacerlo si eres dado notación de ingeniería,
+
+00:05:51.380 --> 00:05:55.763
+escribes la i, j, unidad k vectores la fila superior.
+
+00:05:55.763 --> 00:06:00.080
+i, j, k.
+
+00:06:00.080 --> 00:06:02.230
+Escriba el primer vector en el producto de la Cruz,
+
+00:06:02.230 --> 00:06:03.560
+debido a cuestiones de orden.
+
+00:06:03.560 --> 00:06:09.550
+Por lo que es el 5 menos 6, 3.
+
+00:06:09.550 --> 00:06:12.320
+A continuación, tomar el segundo vector que es b, que es
+
+00:06:12.320 --> 00:06:16.970
+menos 2, 7, 4.
+
+00:06:16.970 --> 00:06:19.880
+Por lo tanto tomar el determinante de la matriz de 3 por 3,
+
+00:06:19.880 --> 00:06:21.350
+y ¿cómo lo hago?
+
+00:06:21.350 --> 00:06:25.930
+Así es igual a la subdeterminante para.
+
+00:06:25.930 --> 00:06:28.460
+Para que el subdeterminant para que, si usted deshacerse de esta columna
+
+00:06:28.460 --> 00:06:31.920
+y esta fila, el factor determinante que quede, por lo que de
+
+00:06:31.920 --> 00:06:40.760
+menos de 6, 3, 7, 4 veces lo--quizá desee revisar
+
+00:06:40.760 --> 00:06:42.430
+determinantes si no recuerda cómo hacerlo, pero
+
+00:06:42.430 --> 00:06:47.770
+tal vez sólo funciona a través de ella se jog su memoria.
+
+00:06:47.770 --> 00:06:50.590
+Y recuerde, tiene más, menos, más.
+
+00:06:50.590 --> 00:06:53.550
+Entonces menos la subdeterminante de j.
+
+00:06:53.550 --> 00:06:55.500
+¿Qué es el subdeterminante para j?
+
+00:06:55.500 --> 00:06:57.470
+Cruzar columnas y fila j.
+
+00:06:57.470 --> 00:07:01.065
+Tienes 5, 3, menos 2, 4.
+
+00:07:05.030 --> 00:07:07.650
+Sólo cruzamos j fila y columna.
+
+00:07:07.650 --> 00:07:09.770
+Y lo que queda, esos son los números en su
+
+00:07:09.770 --> 00:07:11.470
+subdeterminante.
+
+00:07:11.470 --> 00:07:13.420
+Eso es lo que yo llamo.
+
+00:07:13.420 --> 00:07:18.136
+j plus--quiero hacerlo todo en una línea porque sería
+
+00:07:18.136 --> 00:07:19.870
+han sido un poco mejor--además de la
+
+00:07:19.870 --> 00:07:20.840
+subdeterminante para k.
+
+00:07:20.840 --> 00:07:23.290
+Tache la fila y la columna k.
+
+00:07:23.290 --> 00:07:35.010
+Estamos salimos con 5 menos 6, menos 2 y 7 veces k.
+
+00:07:35.010 --> 00:07:36.980
+Y ahora vamos a calcularlos.
+
+00:07:36.980 --> 00:07:39.440
+Y quiero hacer algo de espacio, porque me has
+
+00:07:39.440 --> 00:07:41.130
+escrito esto demasiado grande.
+
+00:07:41.130 --> 00:07:43.790
+No creo que esto necesitamos ya.
+
+00:07:43.790 --> 00:07:46.460
+¿Lo que obtenemos?
+
+00:07:46.460 --> 00:07:49.400
+Tomemos esto aquí.
+
+00:07:49.400 --> 00:07:51.090
+Así que estos determinantes de 2 por 2 son bastante fáciles.
+
+00:07:51.090 --> 00:07:58.690
+Esto es menos 6 veces 4 menos 3 7 veces.
+
+00:07:58.690 --> 00:08:00.180
+Siempre hago descuidados errores aquí.
+
+00:08:00.180 --> 00:08:10.770
+Menos 24 menos 21 veces lo menos 5 veces 4 es 20, menos
+
+00:08:10.770 --> 00:08:23.270
+menos 2 veces 3, así que menos menos 6 j, plus 5 veces 7, 35
+
+00:08:23.270 --> 00:08:25.640
+menos menos 2 veces menos 6.
+
+00:08:25.640 --> 00:08:29.330
+Por eso es menos positiva 12 k.
+
+00:08:29.330 --> 00:08:34.330
+Nosotros podríamos simplificar esto, lo que equivale a menos de 24 menos 21.
+
+00:08:34.330 --> 00:08:40.830
+Es menos 35--no tengo que poner un paréntesis--i, y
+
+00:08:40.830 --> 00:08:43.720
+entonces ¿qué es 20 menos menos 6?
+
+00:08:43.720 --> 00:08:46.600
+Bueno, eso es 20 plus plus 6, así que 26.
+
+00:08:46.600 --> 00:08:47.590
+Y luego tenemos un signo menos aquí.
+
+00:08:47.590 --> 00:08:51.640
+Así que menos 26j.
+
+00:08:51.640 --> 00:08:54.340
+Y que fue 35 menos 12, eso es 23.
+
+00:08:54.340 --> 00:08:57.190
+Además de 23 k.
+
+00:08:57.190 --> 00:08:58.690
+Por lo es el producto de la Cruz.
+
+00:08:58.690 --> 00:09:01.150
+Y si fueras a este gráfico en tres dimensiones,
+
+00:09:01.150 --> 00:09:03.710
+ver--y esto es lo que es interesante--verá
+
+00:09:03.710 --> 00:09:09.410
+ese vector, si mis matemáticas son correcto, menos 35i, menos 26j,
+
+00:09:09.410 --> 00:09:15.750
+Además 23 k, es perpendicular a ambos de estos vectores.
+
+00:09:15.750 --> 00:09:19.440
+Creo que te dejaré allí por ahora, y nos vemos en
+
+00:09:19.440 --> 00:09:20.050
+el siguiente vídeo.
+
+00:09:20.050 --> 00:09:22.140
+Y esperemos que puedo rastrear un programa de gráficos vectoriales.
+
+00:09:22.140 --> 00:09:25.880
+Porque creo que va a ser divertido tanto calcular el punto y
+
+00:09:25.880 --> 00:09:29.130
+los productos de Cruz utilizando los métodos sólo mostré le y
+
+00:09:29.130 --> 00:09:29.840
+luego al gráfico de ellas.
+
+00:09:29.840 --> 00:09:31.320
+Y para demostrar que realmente funcionan.
+
+00:09:31.320 --> 00:09:36.930
+Que realmente este vector es perpendicular a estos dos
+
+00:09:36.930 --> 00:09:40.820
+y apuntando en la dirección que usted predeciría usando el
+
+00:09:40.820 --> 00:09:42.520
+regla de la mano derecha.
+
+00:09:42.520 --> 00:09:43.990
+Nos vemos en el siguiente vídeo.

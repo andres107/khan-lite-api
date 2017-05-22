@@ -1,0 +1,96 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:07.987 --> 00:00:10.409
+Imagina que dos personas que comparten un secreto importante
+
+00:00:10.409 --> 00:00:12.409
+tengan que separarse
+
+00:00:14.409 --> 00:00:16.411
+Esto requiere que ellos comuniquen
+
+00:00:16.411 --> 00:00:19.053
+su información privada a distancia.
+
+00:00:19.053 --> 00:00:20.253
+Sin, embargo una persona entrometida que llamamos Alice
+
+00:00:21.453 --> 00:00:22.653
+también quiere esta información,
+
+00:00:22.653 --> 00:00:25.856
+y tiene la habilidad de interceptar los mensajes de ellos.
+
+00:00:25.856 --> 00:00:27.718
+Por lo tanto, Alice decide comunicarse
+
+00:00:27.718 --> 00:00:31.636
+usando cartas escritas en algún tipo de código secreto.
+
+00:00:31.636 --> 00:00:33.954
+La siguiente analogía es de ayuda.
+
+00:00:33.954 --> 00:00:36.421
+Primero, Alice encierra su mensaje en una caja,
+
+00:00:36.421 --> 00:00:38.026
+usando un candado del que solo ella y Bob
+
+00:00:38.026 --> 00:00:39.951
+tienen la combinación.
+
+00:00:39.951 --> 00:00:42.669
+Esto se conoce como 'cifrado.'
+
+00:00:42.669 --> 00:00:45.768
+Luego, el mensaje cerrado es enviado a Bob.
+
+00:00:45.768 --> 00:00:47.982
+Cuando Bob recibe la caja, la abre
+
+00:00:47.997 --> 00:00:51.221
+usando el código que ellos compartieron inicialmente.
+
+00:00:51.221 --> 00:00:54.792
+Esto se llama 'descifrado.'
+
+00:00:54.792 --> 00:00:57.866
+La criptografía comienza cuando abandonamos los candados fisicos
+
+00:00:57.866 --> 00:01:00.183
+y usamos 'sistemas de cifrado'.
+
+00:01:00.183 --> 00:01:02.862
+Piensa que los 'sistemas de cifrado' son candados virtuales.
+
+00:01:02.862 --> 00:01:04.837
+Los sistemas de cifrado permiten que Alice y Bob puedan revolver
+
+00:01:04.837 --> 00:01:06.534
+y luego combinar sus mensajes
+
+00:01:06.534 --> 00:01:08.222
+para que parezca que no tienen sentido
+
+00:01:08.222 --> 00:01:11.289
+si Eve los interceptase.
+
+00:01:11.289 --> 00:01:13.956
+La criptografía existe desde hace miles de años.
+
+00:01:13.956 --> 00:01:15.977
+Ha decidido guerras, y esta en el centro de
+
+00:01:15.977 --> 00:01:18.917
+la red de comunicación mundial hoy en día.
+
+00:01:18.917 --> 00:01:20.817
+La fascinante historia de la criptografía
+
+00:01:20.817 --> 00:01:23.824
+requiere que entendamos dos ideas muy antiguas
+
+00:01:23.824 --> 00:01:28.134
+relacionadas a la teoría numérica y a la teoría de la probabilidad.

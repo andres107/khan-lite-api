@@ -1,0 +1,234 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.630 --> 00:00:03.810
+En nuestro vídeo anterior, nuestra hipótesis nula era
+
+00:00:03.810 --> 00:00:04.920
+que la droga no tenía efecto.
+
+00:00:04.920 --> 00:00:07.100
+Y nuestra hipótesis alterna era que la
+
+00:00:07.100 --> 00:00:09.300
+sólo tiene efecto.
+
+00:00:09.300 --> 00:00:12.990
+No dijimos si la droga disminuiría el tiempo de respuesta
+
+00:00:12.990 --> 00:00:15.090
+o elevaría el tiempo de respuesta.
+
+00:00:15.090 --> 00:00:19.320
+Sólo dijimos que la droga tenía un efecto, que la media cuando
+
+00:00:19.320 --> 00:00:22.290
+tienes la droga no será lo mismo
+
+00:00:22.290 --> 00:00:23.440
+que la media de la población.
+
+00:00:23.440 --> 00:00:25.580
+Y luego la hipótesis nula nos dice no, tu media con la droga
+
+00:00:25.580 --> 00:00:27.517
+será lo mismo que la media de la población
+
+00:00:27.517 --> 00:00:28.910
+y esta no tiene efecto.
+
+00:00:28.910 --> 00:00:31.420
+En esta situación donde realmente sólo estamos haciendo pruebas para determinar si
+
+00:00:31.420 --> 00:00:35.750
+tenía un efecto, sea un efecto positivo extremo,
+
+00:00:35.750 --> 00:00:39.380
+o un efecto negativo extremo, ambos hubieran sido
+
+00:00:39.380 --> 00:00:40.620
+considerados como un efecto.
+
+00:00:40.620 --> 00:00:44.170
+Hicimos algo llamado la prueba de dos colas. Esto se
+
+00:00:44.170 --> 00:00:52.950
+llama una prueba de dos colas. Por que francamente, un tiempo de respuesta
+
+00:00:52.950 --> 00:00:55.700
+super elevado, si tuviéramos un tiempo de respuesta que fuera mayor a
+
+00:00:55.700 --> 00:00:58.510
+que 3 desviaciones estándar, eso nos elevaría nuestra probabilidad de
+
+00:00:58.510 --> 00:01:01.410
+rechazar nuestra hipótesis nula.
+
+00:01:01.410 --> 00:01:04.010
+Asi que estamos lidiando con ambos tipos de colas.
+
+00:01:04.010 --> 00:01:07.330
+Se podría hacer un tipo de hipótesis similar con
+
+00:01:07.330 --> 00:01:10.590
+el mismo experimento donde se tiene sólo una prueba de una cola.
+
+00:01:10.590 --> 00:01:13.110
+Y la manera en que podríamos hacerlo es que nosotros todavía podríamos
+
+00:01:13.110 --> 00:01:20.075
+suponer que la hipótesis nula es que la droga no tiene efecto.
+
+00:01:25.560 --> 00:01:28.670
+O que la media con la droga-- la media, y podría decir que
+
+00:01:28.670 --> 00:01:32.320
+la media con la droga-- seguirá siendo
+
+00:01:32.320 --> 00:01:35.520
+1.2 segundos, nuestro tiempo medio de respuesta.
+
+00:01:35.520 --> 00:01:38.030
+Ahora bien, si quisieramos hacer una prueba de una cola, pero por algún
+
+00:01:38.030 --> 00:01:42.060
+motivo nosotros ya habíamos tenido tal vez una indicación que esta droga
+
+00:01:42.060 --> 00:01:46.050
+disminuiría el tiempo de respuesta, entonces nuestra hipótesis alterna-- y
+
+00:01:46.050 --> 00:01:48.220
+sólo para que te familiarices con diferentes tipos de notación
+
+00:01:48.220 --> 00:01:50.390
+algunos libros o maestros escriben la hipótesis alterna
+
+00:01:50.390 --> 00:01:54.170
+como H1, en ocasiones como H alternativa
+
+00:01:54.170 --> 00:01:57.320
+cualquiera esta bien.
+
+00:01:57.320 --> 00:02:00.090
+Si deseas efectuar una prueba de una cola, se puede decir que
+
+00:02:00.090 --> 00:02:08.509
+la droga disminuye el tiempo de respuesta.
+
+00:02:11.070 --> 00:02:18.340
+O que la media con la droga es menor de 1.2 segundos.
+
+00:02:18.340 --> 00:02:22.790
+Ahora si efectúas una prueba de una cola como esta, lo que
+
+00:02:22.790 --> 00:02:27.040
+tenemos en mente es, lo que queremos observar es, bien
+
+00:02:27.040 --> 00:02:29.290
+tenemos una distribución de muestreo.
+
+00:02:29.290 --> 00:02:31.960
+En realidad, puedo utilizar el dibujo que tenía aquí arriba.
+
+00:02:31.960 --> 00:02:34.250
+Tenías tu distribución de muestreo
+
+00:02:34.250 --> 00:02:35.610
+de la media de la muestra.
+
+00:02:35.610 --> 00:02:39.360
+Conocemos lo que la media de eso era, es 1.2 segundos, igual que
+
+00:02:39.360 --> 00:02:40.500
+la media de la población.
+
+00:02:40.500 --> 00:02:44.060
+Fuimos capaces de estimar su desviación estándar utilizando nuestra
+
+00:02:44.060 --> 00:02:47.260
+desviación estándar de la población, y esto resultó razonable por que
+
+00:02:47.260 --> 00:02:50.250
+teníamos un tamaño de muestra mayor que 30, así que todavía podemos
+
+00:02:50.250 --> 00:02:52.530
+lidiar con una distribución normal para la
+
+00:02:52.530 --> 00:02:53.540
+distribución del muestreo.
+
+00:02:53.540 --> 00:02:58.250
+Y al utilizar eso vimos que el resultado, la media de la muestra
+
+00:02:58.250 --> 00:03:02.960
+que obtuvimos fue de 1.05 segundos, es de a 3
+
+00:03:02.960 --> 00:03:05.025
+desviaciones estándar debajo de la media
+
+00:03:08.340 --> 00:03:10.780
+Así que si observamos-- permite me volver a dibujarlo con nuestra nueva
+
+00:03:10.780 --> 00:03:14.490
+prueba de hipótesis. Así que esto es la distribución del muestreo
+
+00:03:18.110 --> 00:03:22.920
+y tiene una media aquí mismo a 1.2 segundos.
+
+00:03:22.920 --> 00:03:25.890
+Y el resultado que obtuvimos fue de 3 desviaciones
+
+00:03:25.890 --> 00:03:27.810
+estándar debajo de la media.
+
+00:03:30.770 --> 00:03:34.480
+1,2,3 desviaciones estándar debajo de la media.
+
+00:03:34.480 --> 00:03:37.910
+Eso era lo que nuestros 1.05 segundos eran.
+
+00:03:37.910 --> 00:03:39.870
+Entonces cuando lo preparas de esta forma donde no estas solamente
+
+00:03:39.870 --> 00:03:42.890
+diciendo que la droga tiene un efecto-- in este caso, y
+
+00:03:42.890 --> 00:03:44.460
+esa era la última vista, observarías ambas colas.
+
+00:03:44.460 --> 00:03:49.400
+Pero aquí estamos diciendo que sólo nos importa que si la droga disminuye
+
+00:03:49.400 --> 00:03:50.740
+nuestro tiempo de respuesta?
+
+00:03:50.740 --> 00:03:53.590
+Y tal como lo hicimos antes, dices OK, digamos que la droga
+
+00:03:53.590 --> 00:03:55.040
+no disminuye nuestro tiempo de respuesta.
+
+00:03:55.040 --> 00:03:58.170
+Si la droga no disminuye nuestro tiempo de respuesta, cuál era
+
+00:03:58.170 --> 00:04:01.730
+la probabilidad o cuál es la probabilidad de obtener
+
+00:04:01.730 --> 00:04:04.980
+una disminución así de extrema o más extrema?
+
+00:04:04.980 --> 00:04:08.120
+Entonces aquí será sólo una de las colas que podríamso
+
+00:04:08.120 --> 00:04:11.810
+considerar cuando planteemos nuestra hipótesis alterna como
+
+00:04:11.810 --> 00:04:14.320
+que, pensamos que disminuye.
+
+00:04:14.320 --> 00:04:22.410
+Entonces si nuestra hipótesis es verdad, la probabilidad de
+
+00:04:22.410 --> 00:04:35.900
+obtener un resultado mas extremo que 1.05 segundos,

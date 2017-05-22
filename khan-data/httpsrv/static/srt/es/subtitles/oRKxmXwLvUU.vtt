@@ -1,0 +1,129 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.856 --> 00:00:03.395
+Ahora que sabemos un poco sobre vectores y escalares
+
+00:00:03.425 --> 00:00:07.225
+Intentemos aplicar lo que sabemos sobre ello para algunos bastante comunes
+
+00:00:07.256 --> 00:00:08.908
+problemas que tuviste alguna vez en la clase de física
+
+00:00:08.954 --> 00:00:11.200
+Pero son tambien problemas comunes que verías en tu vida cotidiana
+
+00:00:11.246 --> 00:00:13.031
+e intenta imaginar cúan lejos has ido ó
+
+00:00:13.092 --> 00:00:17.200
+cuán rápido estás yendo ó cuánto tomaría para llegar a algún lugar.
+
+00:00:17.277 --> 00:00:24.431
+Bueno, primero tengo, Si Shantanu pudo viajar 5 km al norte en un hora
+
+00:00:24.492 --> 00:00:28.292
+en su carro, ¿cúal fue su velocidad promedio?
+
+00:00:28.308 --> 00:00:32.559
+Bien, debemos revisar un poco sobre lo que sabemos sobre vectores y escalares
+
+00:00:32.575 --> 00:00:37.810
+Bien, nos están dando que el pudo viajar 5 km al norte
+
+00:00:37.871 --> 00:00:40.390
+Asi que nos dieron una magnitud - Eso es los 5 kms, Es el tamaño de
+
+00:00:40.436 --> 00:00:45.677
+cuánto él se movió.
+
+00:00:45.708 --> 00:00:47.518
+Y dieron tambien una dirección
+
+00:00:47.548 --> 00:00:51.871
+Pues se movió una distancia de 5km, la distancia es un escalar
+
+00:00:51.933 --> 00:00:55.569
+Pero si te dan la dirección tambien, obtienes el desplazamiento
+
+00:00:55.631 --> 00:00:57.592
+Esto aquí es una cantidad vectorial.
+
+00:00:57.623 --> 00:01:00.990
+ÉL recorrió 5 km hacia el norte
+
+00:01:01.159 --> 00:01:03.625
+y lo hizo en una hora en su carro
+
+00:01:03.656 --> 00:01:06.002
+¿Cuál fue su velocidad promedio?
+
+00:01:06.033 --> 00:01:09.825
+Bueno, velocidad, hay muchas maneras de que puedas verlo definido
+
+00:01:09.856 --> 00:01:12.369
+Pero velocidad, otra vez, es una cantidad vectorial
+
+00:01:12.523 --> 00:01:16.092
+y la manera que diferenciamos entre cantidades vectoriales y
+
+00:01:16.138 --> 00:01:18.885
+escalares, es que ponemos una pequeña flecha encima de las cantidades vectoriales.
+
+00:01:19.050 --> 00:01:22.000
+Normalmente están acentuadas (en negrita) y pueden tener un espacio de letra
+
+00:01:22.015 --> 00:01:23.623
+y tienen una flecha encima y te dice
+
+00:01:24.245 --> 00:01:28.652
+que no nos importa el valor de ésto ó si me importa el valor de esta cosa
+
+00:01:28.698 --> 00:01:30.877
+ó si me importa la dirección de la flecha, simplemente nos dice que es una cantidad vectorial
+
+00:01:35.862 --> 00:01:41.508
+Así que, la velocidad de algo es su cambio de posición, incluyendo
+
+00:01:41.554 --> 00:01:44.575
+la dirección de su cambio de posición
+
+00:01:44.621 --> 00:01:49.323
+Así que puedes decir que su desplazamiento, y la letra para desplazamiento
+
+00:01:52.703 --> 00:01:54.252
+es "s", y la flecha nos dice que ésta es una cantidad vectorial
+
+00:01:54.298 --> 00:01:56.031
+que es su desplazamiento.
+
+00:01:56.046 --> 00:01:57.323
+Y te estarás preguntando porque no usan "d" para desplazamiento.
+
+00:02:01.177 --> 00:02:03.954
+Parece mucho màs natural la primera letra y mi mejor
+
+00:02:03.985 --> 00:02:05.610
+sentido de eso, cuando empiezas a hacer cálculo, empiezas usando "d"
+
+00:02:10.021 --> 00:02:11.556
+para algo diferente para el operador derivativo.
+
+00:02:11.587 --> 00:02:14.231
+Y entonces, no te confundas, Esa es la razón por qué usamos "s"
+
+00:02:16.536 --> 00:02:18.456
+para desplazamiento, y si alguien tiene una mejor explicación
+
+00:02:18.518 --> 00:02:22.195
+de..., siéntanse libre de comentar en este y anadiré
+
+00:02:22.210 --> 00:02:25.495
+otro video explicando ésto.
+
+00:02:25.568 --> 00:02:32.329
+Entonces, velocidad es tu desplazamiento en el tiempo
+
+00:02:32.405 --> 00:02:36.895
+Si quieres escribir una cosa análoga para las cantidades escalares

@@ -1,0 +1,837 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.620
+Es mas interesante que encontrar el inverso de un
+
+00:00:00.620 --> 00:00:03.800
+Quizás aún más interesante que encontrar la inversa de una
+
+00:00:03.800 --> 00:00:07.210
+matriz está tratando de determinar cuándo una inversa de una matriz
+
+00:00:07.210 --> 00:00:09.950
+no existe. O cuando es indefinido.
+
+00:00:09.950 --> 00:00:14.865
+Y una matriz cuadrada para la que no hay inversa, de los cuales
+
+00:00:14.865 --> 00:00:17.340
+una inversa no está definido se denomina matriz singular.
+
+00:00:17.340 --> 00:00:19.970
+Así que vamos a pensar en lo que es una matriz singular se verá
+
+00:00:19.970 --> 00:00:23.440
+gusta, y cómo se aplica a los diferentes problemas que
+
+00:00:23.440 --> 00:00:25.140
+hemos de direcciones utilizando matrices.
+
+00:00:25.140 --> 00:00:27.410
+Así que si tuviera los otros 2 por 2, porque eso es
+
+00:00:27.410 --> 00:00:28.420
+sólo un ejemplo más sencillo.
+
+00:00:28.420 --> 00:00:31.470
+Pero en realidad se traslada a cualquier tamaño de la matriz cuadrada
+
+00:00:31.470 --> 00:00:33.530
+Así que vamos a tomar nuestra matriz 2 por 2.
+
+00:00:33.530 --> 00:00:38.320
+Y los elementos son a, b, c y d.
+
+00:00:38.320 --> 00:00:41.220
+¿Cuál es la inversa de la matriz?
+
+00:00:41.220 --> 00:00:43.510
+Esperamos que esto es un poco de una segunda naturaleza para usted ahora.
+
+00:00:43.510 --> 00:00:51.765
+Es 1 sobre el determinante de una, veces el adjunto de un.
+
+00:00:51.765 --> 00:00:53.780
+Y en este caso, que acaba de cambiar estos dos términos. Así que
+
+00:00:53.780 --> 00:00:55.200
+tienen un d y un una.
+
+00:00:55.200 --> 00:00:56.480
+Y que estos dos términos negativos.
+
+00:00:56.480 --> 00:01:00.710
+Así que hay menos C y B menos.
+
+00:01:00.710 --> 00:01:04.420
+Así que mi pregunta es, ¿qué hará este completo
+
+00:01:04.420 --> 00:01:06.410
+expresión no definida?
+
+00:01:06.410 --> 00:01:09.260
+Bueno, no importa qué número tengo. Si tengo
+
+00:01:09.260 --> 00:01:11.740
+números aquí que marcan la define, entonces, obviamente, puede
+
+00:01:11.740 --> 00:01:13.470
+intercambiarlos o hacerlos negativo, y no va a cambiar
+
+00:01:13.470 --> 00:01:15.030
+esta parte de la expresión.
+
+00:01:15.030 --> 00:01:20.130
+Pero lo que crearía un problema si intentáramos
+
+00:01:20.130 --> 00:01:21.410
+dividir por 0 aquí.
+
+00:01:21.410 --> 00:01:26.100
+Si el determinante de la matriz A no estaban definidos.
+
+00:01:26.100 --> 00:01:40.560
+Así que una inversa está definida, si y sólo si - y en matemáticas se
+
+00:01:40.560 --> 00:01:46.770
+a veces escribir que si con dos f's - si y sólo si el
+
+00:01:46.770 --> 00:01:49.460
+determinante de A es igual a 0.
+
+00:01:49.460 --> 00:01:51.910
+Así que la otra manera de ver esto es, si un determinante de cualquier
+
+00:01:51.910 --> 00:01:54.720
+matriz es igual a 0, entonces esa matriz es singular
+
+00:01:54.720 --> 00:01:59.480
+matriz, y no tiene inversa, o el inverso no está definido.
+
+00:01:59.480 --> 00:02:02.950
+Así que vamos a pensar en términos conceptuales, al menos la
+
+00:02:02.950 --> 00:02:06.200
+dos problemas que hemos visto, lo que es un determinante 0
+
+00:02:06.200 --> 00:02:08.500
+medios, y ver si podemos conseguir un poco de intuición para
+
+00:02:08.500 --> 00:02:11.580
+por qué no hay inversa.
+
+00:02:11.580 --> 00:02:12.830
+Entonces, ¿qué es un determinante 0?
+
+00:02:12.830 --> 00:02:14.850
+En este caso, lo que es un factor determinante de este 2 por 2?
+
+00:02:14.850 --> 00:02:18.170
+Bueno, el determinante de A es igual a qué?
+
+00:02:18.170 --> 00:02:20.900
+Es igual a menos ad y bc.
+
+00:02:20.900 --> 00:02:25.560
+pausa
+
+00:02:25.560 --> 00:02:30.360
+Así esta matriz es singular, o que no tiene inversa, si este
+
+00:02:30.360 --> 00:02:31.680
+expresión es igual a 0.
+
+00:02:31.680 --> 00:02:32.990
+Así que permítanme que escribir aquí.
+
+00:02:32.990 --> 00:02:40.380
+Así que si el anuncio es igual a BC - o simplemente podemos manipular las cosas,
+
+00:02:40.380 --> 00:02:47.350
+y podríamos decir si a / b es igual a c/d-- yo dividido
+
+00:02:47.350 --> 00:02:50.230
+ambos lados por b, y divide ambos lados por d - por lo que si el
+
+00:02:50.230 --> 00:02:55.200
+elación de a: b es la misma que la relación de c: d, entonces este
+
+00:02:55.200 --> 00:02:57.010
+no tendrá inversa.
+
+00:02:57.010 --> 00:03:01.230
+O de otra manera podríamos escribir esta expresión, si a/c-- si
+
+00:03:01.230 --> 00:03:07.310
+dividir ambos lados por c, y dividir ambos lados por d - se
+
+00:03:07.310 --> 00:03:10.600
+igual a b / d.
+
+00:03:10.600 --> 00:03:14.360
+Así que otra manera de que esto sería singular es que si - y es todo
+
+00:03:14.360 --> 00:03:15.290
+en realidad la misma manera.
+
+00:03:15.290 --> 00:03:16.570
+Si esto es cierto, entonces esto es cierto.
+
+00:03:16.570 --> 00:03:17.630
+Estos son los mismos.
+
+00:03:17.630 --> 00:03:20.150
+Sólo un poco de manipulación algebraica.
+
+00:03:20.150 --> 00:03:23.690
+Pero si la relación de a: c es igual a la relación de b: d, y
+
+00:03:23.690 --> 00:03:25.270
+usted puede pensar acerca de por qué esa es la misma cosa.
+
+00:03:25.270 --> 00:03:26.900
+La relación de a: b es la misma cosa que
+
+00:03:26.900 --> 00:03:27.610
+la relación de c: d.
+
+00:03:27.610 --> 00:03:29.200
+Pero de todos modos, yo no quiero confundirte.
+
+00:03:29.200 --> 00:03:33.180
+Pero vamos a pensar en lo que se traduce en algunos de los
+
+00:03:33.180 --> 00:03:35.350
+problemas que nos parecía.
+
+00:03:35.350 --> 00:03:40.900
+Así que digamos que hemos querido ver el problema - Vamos a
+
+00:03:40.900 --> 00:03:45.110
+decir que tuvimos esta matriz representa el lineal
+
+00:03:45.110 --> 00:03:45.920
+ecuación problema.
+
+00:03:45.920 --> 00:03:47.000
+Bueno, en realidad, éste sería uno u otro.
+
+00:03:47.000 --> 00:04:01.290
+Así que tengo a, b​​, c, d x veces, y es igual a las otras dos
+
+00:04:01.290 --> 00:04:06.530
+números que no hemos utilizado todavía, ey f.
+
+00:04:06.530 --> 00:04:09.850
+Así que si tenemos esta ecuación representa la matriz
+
+00:04:09.850 --> 00:04:11.830
+problema de la ecuación lineal, entonces el problema de la ecuación lineal
+
+00:04:11.830 --> 00:04:23.360
+se traduciría un veces x más b veces y es igual a e.
+
+00:04:23.360 --> 00:04:31.290
+Y c x veces más d veces y es igual a f.
+
+00:04:31.290 --> 00:04:33.690
+Y nos gustaría ver que estos dos se cruzan.
+
+00:04:33.690 --> 00:04:34.950
+Eso sería la solución, el vector
+
+00:04:34.950 --> 00:04:37.150
+solución a esta ecuación.
+
+00:04:37.150 --> 00:04:40.850
+Y así, sólo para obtener una comprensión visual de lo que estos
+
+00:04:40.850 --> 00:04:43.850
+dos líneas parecer, vamos a ponerlo en la
+
+00:04:43.850 --> 00:04:45.200
+y pendiente-intersección.
+
+00:04:45.200 --> 00:04:47.930
+Así que esto se convertiría en qué?
+
+00:04:47.930 --> 00:04:52.190
+En este caso, y es igual a lo que?
+
+00:04:52.190 --> 00:05:04.610
+y es igual a menos a / b, x más e / b.
+
+00:05:04.610 --> 00:05:05.620
+Sólo estoy omitiendo algunos pasos.
+
+00:05:05.620 --> 00:05:08.630
+Pero le reste hacha por ambos lados.
+
+00:05:08.630 --> 00:05:11.580
+Y luego divide ambos lados por b, y te entiendo.
+
+00:05:11.580 --> 00:05:14.365
+Y entonces esta ecuación, si lo pones en la misma forma, sólo
+
+00:05:14.365 --> 00:05:15.690
+resolver para y.
+
+00:05:15.690 --> 00:05:35.930
+Usted consigue y es igual a menos c / d x más f / y.
+
+00:05:35.930 --> 00:05:40.120
+Así que vamos a pensar en esto.
+
+00:05:40.120 --> 00:05:42.720
+Probablemente debería cambiar de color porque se ve demasiado -
+
+00:05:42.720 --> 00:05:46.910
+Vamos a pensar en lo que estas dos ecuaciones se vería
+
+00:05:46.910 --> 00:05:48.160
+Si esto es.
+
+00:05:48.160 --> 00:05:50.730
+pausa
+
+00:05:50.730 --> 00:05:53.580
+Y nos dijo que si esto se cumple, entonces no tenemos determinante,
+
+00:05:53.580 --> 00:05:57.260
+y esto se convierte en una matriz singular, y que no tiene inversa.
+
+00:05:57.260 --> 00:05:59.990
+Y puesto que no tiene inversa, no se puede resolver esta ecuación
+
+00:05:59.990 --> 00:06:02.110
+multiplicando ambos lados por el inverso, porque la
+
+00:06:02.110 --> 00:06:03.430
+inversa no existe.
+
+00:06:03.430 --> 00:06:04.560
+Así que vamos a pensar en esto.
+
+00:06:04.560 --> 00:06:07.410
+Si esto es cierto, no tenemos determinante, pero sí lo
+
+00:06:07.410 --> 00:06:11.200
+Eso significa intuitivamente en términos de estas ecuaciones?
+
+00:06:11.200 --> 00:06:18.540
+Bueno, si a / b es igual a c / d, estas dos líneas tendrán la
+
+00:06:18.540 --> 00:06:20.380
+misma pendiente.
+
+00:06:20.380 --> 00:06:21.670
+Ellos tendrán la misma pendiente.
+
+00:06:21.670 --> 00:06:24.150
+Así que si estas dos expresiones son diferentes, entonces lo que hacemos
+
+00:06:24.150 --> 00:06:25.400
+sabemos de ellos?
+
+00:06:25.400 --> 00:06:27.380
+Si dos líneas que tienen la misma pendiente y diferentes
+
+00:06:27.380 --> 00:06:30.450
+intersecciones, son paralelas entre sí, y lo harán
+
+00:06:30.450 --> 00:06:32.170
+nunca, nunca se cruzan.
+
+00:06:32.170 --> 00:06:46.000
+Así que permítanme que llamar, sólo para obtener el - esta línea top -
+
+00:06:46.000 --> 00:06:47.690
+Ellos no tienen que ser números positivos, pero como este tiene un
+
+00:06:47.690 --> 00:06:51.130
+negativo, lo voy a dibujar como una pendiente negativa.
+
+00:06:51.130 --> 00:06:54.740
+Así que esa es la primera línea.
+
+00:06:54.740 --> 00:07:00.310
+Y su intersección con el eje en este e / b.
+
+00:07:00.310 --> 00:07:02.830
+pausa
+
+00:07:02.830 --> 00:07:05.960
+Es esta línea aquí.
+
+00:07:05.960 --> 00:07:10.970
+Y luego la segunda línea - déjenme hacerlo en otro color - I
+
+00:07:10.970 --> 00:07:12.800
+No sé si esto va a estar por encima o por debajo de esa línea, pero
+
+00:07:12.800 --> 00:07:14.610
+que va a ser paralelos.
+
+00:07:14.610 --> 00:07:15.910
+Se verá algo como esto.
+
+00:07:15.910 --> 00:07:19.750
+pausa
+
+00:07:19.750 --> 00:07:23.520
+Y esa línea de intersección - por lo que es esta línea - que
+
+00:07:23.520 --> 00:07:28.570
+y la línea de intersección que va a ser f / y.
+
+00:07:28.570 --> 00:07:32.370
+Así que si e / b, f / y son términos diferentes, pero ambos
+
+00:07:32.370 --> 00:07:34.290
+líneas tienen la misma ecuación, que van a ser paralelas
+
+00:07:34.290 --> 00:07:36.280
+y que nunca se cruzan
+
+00:07:36.280 --> 00:07:37.780
+Así que en realidad no habría solución.
+
+00:07:37.780 --> 00:07:40.800
+Si alguien te dijo - de la manera tradicional que has
+
+00:07:40.800 --> 00:07:43.730
+hecho, ya sea por sustitución o por medio de
+
+00:07:43.730 --> 00:07:45.920
+sumar o restar las ecuaciones lineales - que
+
+00:07:45.920 --> 00:07:47.450
+no sería capaz de encontrar una solución en la que estos dos
+
+00:07:47.450 --> 00:07:50.470
+cruzan, si a / b es igual a c / d.
+
+00:07:50.470 --> 00:07:53.040
+Así que una manera de ver la matriz singular es que se
+
+00:07:53.040 --> 00:07:54.140
+tienen líneas paralelas.
+
+00:07:54.140 --> 00:07:56.610
+Bueno, entonces usted podría decir: hey Sal, pero lo haría estas dos líneas
+
+00:07:56.610 --> 00:07:59.490
+si se cruzan e / b igualado f / y.
+
+00:07:59.490 --> 00:08:01.800
+Si este y este fuera el mismo, entonces éstos
+
+00:08:01.800 --> 00:08:03.510
+en realidad ser las líneas idénticas.
+
+00:08:03.510 --> 00:08:05.730
+Y no sólo se entrecruzan, lo harían
+
+00:08:05.730 --> 00:08:08.060
+intersectan en un número infinito de lugares.
+
+00:08:08.060 --> 00:08:10.550
+Pero aún así no tendría solución única.
+
+00:08:10.550 --> 00:08:14.260
+Usted no tendría una solución a esta ecuación.
+
+00:08:14.260 --> 00:08:17.320
+Sería cierto en todos los valores de x e y.
+
+00:08:17.320 --> 00:08:20.290
+Así que usted puede tipo de vista que cuando se aplica a las matrices
+
+00:08:20.290 --> 00:08:21.970
+este problema.
+
+00:08:21.970 --> 00:08:24.780
+La matriz es singular, si las dos líneas que se están
+
+00:08:24.780 --> 00:08:29.960
+representados son paralelos, o son el
+
+00:08:29.960 --> 00:08:31.230
+misma línea exacta.
+
+00:08:31.230 --> 00:08:33.559
+Son paralelos y no se cortan en absoluto.
+
+00:08:33.559 --> 00:08:36.450
+O son exactamente la misma línea, y se cortan en un
+
+00:08:36.450 --> 00:08:40.880
+número infinito de puntos.
+
+00:08:40.880 --> 00:08:42.159
+Y así es como que tiene sentido que la A
+
+00:08:42.159 --> 00:08:44.039
+inversa no se definió.
+
+00:08:44.039 --> 00:08:47.610
+Así que vamos a pensar acerca de esto en el contexto de la lineal
+
+00:08:47.610 --> 00:08:50.070
+combinaciones de vectores.
+
+00:08:50.070 --> 00:08:51.970
+Eso no es lo que quería utilizar para borrarlo.
+
+00:08:51.970 --> 00:08:59.250
+pausa
+
+00:08:59.250 --> 00:09:01.970
+Así que cuando pensamos en este problema en términos de lineal
+
+00:09:01.970 --> 00:09:06.220
+combinación de factores, se puede pensar que es así.
+
+00:09:06.220 --> 00:09:15.010
+Que esto es lo mismo que el vector x ac veces más el
+
+00:09:15.010 --> 00:09:25.500
+vector bd veces y, es igual a la ef vector.
+
+00:09:25.500 --> 00:09:27.180
+Así que vamos a pensar un poco.
+
+00:09:27.180 --> 00:09:30.110
+Estamos diciendo, hay alguna combinación de los ac vector
+
+00:09:30.110 --> 00:09:34.510
+y la bd vector que es igual al vector ef.
+
+00:09:34.510 --> 00:09:39.440
+Pero acaba de decir que si no tenemos inverso aquí, sabemos
+
+00:09:39.440 --> 00:09:41.890
+que debido a que el determinante es 0.
+
+00:09:41.890 --> 00:09:45.400
+Y si el determinante es 0, entonces sabemos que en esta situación
+
+00:09:45.400 --> 00:09:50.580
+que a / c debe ser igual a b / d.
+
+00:09:50.580 --> 00:09:53.120
+Entonces, a / a es igual a b / d.
+
+00:09:53.120 --> 00:09:56.050
+Entonces, ¿qué nos dice eso?
+
+00:09:56.050 --> 00:09:58.730
+Pues déjenme dibujarlo.
+
+00:09:58.730 --> 00:10:00.710
+Y tal vez los números sería más útil aquí.
+
+00:10:00.710 --> 00:10:02.950
+Pero creo que obtendrá la intuición.
+
+00:10:02.950 --> 00:10:05.390
+Voy a dibujar el primer cuadrante.
+
+00:10:05.390 --> 00:10:09.282
+Voy a suponer que ambos sectores están en el primer cuadrante.
+
+00:10:09.282 --> 00:10:10.835
+Déjame dibujar.
+
+00:10:10.835 --> 00:10:17.990
+dubujar
+
+00:10:17.990 --> 00:10:19.590
+El vector de corriente alterna.
+
+00:10:19.590 --> 00:10:20.755
+Digamos que esta es una.
+
+00:10:20.755 --> 00:10:23.072
+Déjame hacerlo en un color diferente.
+
+00:10:23.072 --> 00:10:24.860
+Así que voy a señalar a la ac vector.
+
+00:10:24.860 --> 00:10:31.540
+Así que si se trata de un, y esto es c, entonces el vector
+
+00:10:31.540 --> 00:10:33.870
+ac se ve así.
+
+00:10:33.870 --> 00:10:34.260
+Déjame dibujar.
+
+00:10:34.260 --> 00:10:36.210
+Quiero dejar esto limpio.
+
+00:10:36.210 --> 00:10:40.440
+El aire acondicionado vector es así.
+
+00:10:40.440 --> 00:10:43.120
+Y luego tenemos la flecha.
+
+00:10:43.120 --> 00:10:44.950
+¿Y cuál sería el vector bd parece?
+
+00:10:44.950 --> 00:10:49.700
+pausa
+
+00:10:49.700 --> 00:10:54.310
+Bueno, la bd vector - Y yo podría dibujar
+
+00:10:54.310 --> 00:10:55.210
+arbitrariamente en algún lugar.
+
+00:10:55.210 --> 00:10:58.580
+Pero estamos suponiendo que no hay derivada - lo siento,
+
+00:10:58.580 --> 00:10:59.660
+no determinante.
+
+00:10:59.660 --> 00:11:01.330
+¿He estado diciendo derivado todo el tiempo?
+
+00:11:01.330 --> 00:11:02.090
+Espero que no.
+
+00:11:02.090 --> 00:11:03.380
+Bueno, estamos suponiendo que no hay
+
+00:11:03.380 --> 00:11:06.070
+determinante de esta matriz.
+
+00:11:06.070 --> 00:11:08.010
+Así que si no hay determinante, sabemos que
+
+00:11:08.010 --> 00:11:11.510
+a / c es igual a b / d.
+
+00:11:11.510 --> 00:11:16.120
+O otra manera de ver es que c / d es igual a d / b
+
+00:11:16.120 --> 00:11:17.930
+Pero lo que usted dice es que estos dos vectores
+
+00:11:17.930 --> 00:11:19.350
+tipo de tener la misma pendiente.
+
+00:11:19.350 --> 00:11:22.580
+Así que si los dos empiezan en el punto 0, van a ir en la
+
+00:11:22.580 --> 00:11:23.140
+misma dirección.
+
+00:11:23.140 --> 00:11:25.500
+Puede ser que tengan una magnitud diferente, pero estamos pasando
+
+00:11:25.500 --> 00:11:27.080
+para ir en la misma dirección.
+
+00:11:27.080 --> 00:11:37.010
+Así que si este es el punto B, y este es el punto D, el vector es bd
+
+00:11:37.010 --> 00:11:39.540
+va a estar aquí.
+
+00:11:39.540 --> 00:11:42.050
+Y si eso no te resulta obvio, piensa un poco sobre
+
+00:11:42.050 --> 00:11:46.080
+por qué estos dos vectores, si esto es cierto, van a apuntar en
+
+00:11:46.080 --> 00:11:48.200
+la misma dirección.
+
+00:11:48.200 --> 00:11:52.020
+Así que el vector se va a solapan esencialmente.
+
+00:11:52.020 --> 00:11:56.040
+Se va a tener la misma dirección que este vector, pero
+
+00:11:56.040 --> 00:11:59.260
+que sólo va a tener una magnitud diferente.
+
+00:11:59.260 --> 00:12:00.730
+Se podría tener la misma magnitud.
+
+00:12:00.730 --> 00:12:04.480
+Así que mi pregunta es, vector ef, no sabemos dónde
+
+00:12:04.480 --> 00:12:05.600
+vector ef es.
+
+00:12:05.600 --> 00:12:08.190
+Bueno, vamos a escoger un punto arbitrario.
+
+00:12:08.190 --> 00:12:12.080
+Digamos que este es e, y esto es f.
+
+00:12:12.080 --> 00:12:13.700
+Así que este es el vector ef allí.
+
+00:12:13.700 --> 00:12:17.130
+Déjame hacerlo en un color diferente.
+
+00:12:17.130 --> 00:12:19.250
+Vector ef, digamos que está ahí.
+
+00:12:19.250 --> 00:12:23.420
+pausa
+
+00:12:23.420 --> 00:12:26.510
+Así que mi pregunta es, si estos dos vectores están en el
+
+00:12:26.510 --> 00:12:27.310
+misma dirección.
+
+00:12:27.310 --> 00:12:28.850
+Tal vez de diferente magnitud.
+
+00:12:28.850 --> 00:12:32.620
+Hay alguna manera de que usted puede agregar o restar combinaciones
+
+00:12:32.620 --> 00:12:35.140
+de estos dos vectores para llegar a este vector?
+
+00:12:35.140 --> 00:12:37.420
+Pues no, usted puede escalar estos vectores y agregarlos.
+
+00:12:37.420 --> 00:12:39.650
+Y todo lo que vamos a hacer es una especie de movimiento a lo largo de esta línea.
+
+00:12:39.650 --> 00:12:41.610
+Se puede llegar a cualquier otro vector.
+
+00:12:41.610 --> 00:12:43.800
+Hay un múltiplo de uno de estos vectores.
+
+00:12:43.800 --> 00:12:46.990
+Pero debido a que se trata de la misma dirección exacta,
+
+00:12:46.990 --> 00:12:49.560
+no se puede llegar a cualquier vector que está en una dirección diferente.
+
+00:12:49.560 --> 00:12:53.050
+Así que si este vector es en una dirección diferente, hay
+
+00:12:53.050 --> 00:12:54.260
+ninguna solución aquí.
+
+00:12:54.260 --> 00:13:00.530
+Si este vector sólo pasó a ser en la misma dirección que
+
+00:13:00.530 --> 00:13:03.980
+esto, entonces no sería una solución, en la que sólo podría
+
+00:13:03.980 --> 00:13:04.790
+escalar esos.
+
+00:13:04.790 --> 00:13:08.100
+En realidad, habría un número infinito de soluciones
+
+00:13:08.100 --> 00:13:09.500
+en función de x e y.
+
+00:13:09.500 --> 00:13:13.580
+Pero si el vector es ligeramente diferente, en términos de su
+
+00:13:13.580 --> 00:13:15.320
+dirección, entonces no hay ninguna solución.
+
+00:13:15.320 --> 00:13:18.310
+No hay combinación de este vector y el vector de esta
+
+00:13:18.310 --> 00:13:19.980
+que se suman a esta.
+
+00:13:19.980 --> 00:13:22.385
+Y es algo para lo piensas un poco.
+
+00:13:22.385 --> 00:13:23.360
+Puede ser que sea obvio para usted.
+
+00:13:23.360 --> 00:13:24.730
+Pero otra manera de verlo es pensar, cuando usted está tratando de
+
+00:13:24.730 --> 00:13:29.000
+tomar sumas de vectores, cualquier otro vector, con el fin de mover
+
+00:13:29.000 --> 00:13:31.150
+en ese sentido, hay que tener un poco de un
+
+00:13:31.150 --> 00:13:33.470
+dirección y un poco de otra dirección, para llegar a
+
+00:13:33.470 --> 00:13:34.230
+cualquier otro vector.
+
+00:13:34.230 --> 00:13:36.520
+Y si ambos vectores sus ingredientes son los mismos
+
+00:13:36.520 --> 00:13:39.240
+dirección, no hay manera de llegar a una diferente.
+
+00:13:39.240 --> 00:13:42.450
+De todos modos, estoy probablemente sólo ser circular en lo que estoy
+
+00:13:42.450 --> 00:13:43.240
+explicando.
+
+00:13:43.240 --> 00:13:48.150
+Pero espero que te da un poco de una intuición de
+
+00:13:48.150 --> 00:13:50.800
+así, uno, ya sabes lo que es una matriz singular es.
+
+00:13:50.800 --> 00:13:57.850
+Usted sabe cuando usted no puede encontrar su inversa.
+
+00:13:57.850 --> 00:14:01.320
+Usted sabe que cuando el determinante es 0, no podrá
+
+00:14:01.320 --> 00:14:01.800
+encontrar un inverso.
+
+00:14:01.800 --> 00:14:03.730
+Y es de esperar - y este fue el punto central de este
+
+00:14:03.730 --> 00:14:07.870
+video - tiene una intuición de por qué es así.
+
+00:14:07.870 --> 00:14:10.050
+Porque si usted está buscando en el problema vector, no hay
+
+00:14:10.050 --> 00:14:12.830
+manera que usted puede encontrar - que, o bien no hay una solución a
+
+00:14:12.830 --> 00:14:14.650
+encontrar la combinación de los vectores que se llega a que
+
+00:14:14.650 --> 00:14:16.200
+vector, o hay un número infinito.
+
+00:14:16.200 --> 00:14:18.030
+Y lo mismo es cierto de encontrar la
+
+00:14:18.030 --> 00:14:19.090
+intersección de dos líneas.
+
+00:14:19.090 --> 00:14:21.480
+Son ya sea en paralelo, o son la misma línea, si el
+
+00:14:21.480 --> 00:14:22.640
+determinante es 0.
+
+00:14:22.640 --> 00:14:25.850
+De todos modos, voy a ver en el siguiente video.
+
+00:14:25.850 --> 00:14:26.500
+adios!

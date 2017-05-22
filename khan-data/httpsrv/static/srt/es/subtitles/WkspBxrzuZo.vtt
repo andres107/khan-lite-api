@@ -1,0 +1,237 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.369 --> 00:00:08.868
+Encuentra la pediente de la línea que pasa por los pares de coordenadas (4,2) y (-3,16).
+
+00:00:08.868 --> 00:00:16.455
+Esto es solo un recordatorio, la pendiente se define como la inclinación dividido sobre la horizontal,
+
+00:00:16.455 --> 00:00:19.846
+o también lo puedes ver como la inclinación es el cambio en el eje Y
+
+00:00:19.846 --> 00:00:22.485
+y la horizontal es el cambio en el eje X.
+
+00:00:22.485 --> 00:00:26.741
+El triángulo de aquí representa el símbolo Delta que significa "cambio en".
+
+00:00:26.741 --> 00:00:30.725
+Y otra forma que puedes verlo y que tiende a ser un poco complicada,
+
+00:00:30.725 --> 00:00:33.146
+sólo recuerda éstas dos cosas que están aquí.
+
+00:00:33.146 --> 00:00:38.377
+A veces la pediente es representada con la variable "m".
+
+00:00:38.377 --> 00:00:48.721
+Y "m" es igual a lo que tenemos aquí, en el cambio en el eje Y se denota como: "Y2" menos "Y1", dividido sobre "X2" menos "X1".
+
+00:00:48.721 --> 00:00:52.708
+Esta notación tiende a ser un poco complicada, pero todo ésto quiere decir que
+
+00:00:52.708 --> 00:00:57.767
+si tomas el valor de "Y" del punto final y lo restas al valor de "Y" del punto inicial.
+
+00:00:57.767 --> 00:01:00.033
+Eso te da el resultado de lo lo que el el "cambio en el eje Y".
+
+00:01:00.033 --> 00:01:07.167
+Igualmente ocurre aquí, si tomas el valor de X del punto final y lo restas al valor de X de del punto inicial,
+
+00:01:07.167 --> 00:01:08.698
+éso te dará el resultado del "cambio en el eje X".
+
+00:01:08.698 --> 00:01:11.105
+Puedes usar la forma que mejor te funcione.
+
+00:01:11.105 --> 00:01:16.300
+Ahora vamos a encontar la pendiente de la línea que pasa a través de éstos dos puntos.
+
+00:01:17.377 --> 00:01:23.413
+Podemos hacerlo de dos formas, empezar en el punto (4,2) y terminando en el punto (-3,16), o alrevés, empezando en el punto (-3,16)
+
+00:01:23.413 --> 00:01:25.848
+y terminando en el punto (4,2).
+
+00:01:25.848 --> 00:01:35.267
+Vamos hacerlo de las dos formas. Digamos que nuestro punto de inicio es (4,2),
+
+00:01:35.267 --> 00:01:42.836
+y el punto final es (-3,16).
+
+00:01:42.852 --> 00:01:47.700
+Entonces, ¿Cuál va a ser el "cambio en el eje X" en éste caso?
+
+00:01:47.700 --> 00:01:53.933
+Vamos a ir desde 4 hacia el -3. Si algo va desde el 4 hasta el -3, ¿Cuál sería el cambio?
+
+00:01:53.933 --> 00:02:00.451
+Tendrías que bajar del 4 al 0, y bajar otras 3 unidades, del 0 al -3.
+
+00:02:00.451 --> 00:02:05.838
+Entonces el "cambio en X", es -7.
+
+00:02:05.838 --> 00:02:18.262
+Vamos a escribirlo mejor de ésta manera, el "cambio en X" es igual a -3 menos 4, que es lo mismo que -7.
+
+00:02:18.262 --> 00:02:25.371
+Es decir, si voy desde el 4 al -3, mi resultado será -7. El "cambio en X" es -7.
+
+00:02:25.371 --> 00:02:30.982
+Vamos hacer lo mismo para el "cambio de Y". Por cierto, implicítamente yo use esa fórmula aquí arriba, éste mi "cambio en X".
+
+00:02:30.982 --> 00:02:39.183
+El "cambio en X" era el valor que tengo aquí, el valor de X del punto final, menos el valor de X del punto inicial.
+
+00:02:39.183 --> 00:02:48.967
+Haremos lo mismo para el "cambio en Y". Nuestro "cambio en Y" es. Si comenzamos en 2 y nos dirigimos hasta el 16, quiere decir que contamos 14.
+
+00:02:48.967 --> 00:02:56.269
+Otra forma de explicarlo es, "el valor de Y del punto final" menos el "valor de Y del punto inicial", éso nos dará 14.
+
+00:02:56.269 --> 00:02:59.048
+Entonces, ¿Cúal es la pendiente aquí?
+
+00:02:59.048 --> 00:03:02.710
+Bueno, la pendiente es el "cambio en Y" dividido sobre el "cambio en X",
+
+00:03:02.710 --> 00:03:07.085
+la pendiente es el "cambio en Y" dividido sobre el "cambio en X".
+
+00:03:07.085 --> 00:03:14.352
+El "cambio en Y" es igual a 14 y el "cambio en X" es igual a -7.
+
+00:03:14.352 --> 00:03:21.218
+Y si queremos simplicar 14 dividido sobre -7, el resultado es -2.
+
+00:03:21.371 --> 00:03:24.444
+Ahora les quiero mostrar que también se puede hacer de la otra forma.
+
+00:03:24.444 --> 00:03:28.208
+Podemos hacer que éste punto sea ahora el punto inicial y éste punto el punto final;
+
+00:03:28.208 --> 00:03:34.065
+lo que hace que éste valor que tenemos aquí, ahora va a ser negativo, y hubiésemos obtenido igualmente -2.
+
+00:03:34.065 --> 00:03:46.654
+Vamos a probarlo, digamos que el punto de inicio es (-3,16) y digamos que el punto final es (4,2)
+
+00:03:46.654 --> 00:03:49.576
+Entonces, en éste caso, ¿Cuál sería el "cambio en X"?
+
+00:03:49.576 --> 00:03:55.705
+"El cambio en X", si empezamos desde -3 y voy hacia el 4, significa que contamos 7 unidades positivas.
+
+00:03:55.705 --> 00:04:00.275
+Y si quieres calcularlo, sería 4 menos -3.
+
+00:04:00.275 --> 00:04:05.623
+4 menos -3. Como ya dijimos son 7 unidades positivas.
+
+00:04:05.623 --> 00:04:07.734
+Y ¿Cuál es el "cambio en Y"?
+
+00:04:07.734 --> 00:04:15.087
+El "cambio en Y", o también podemos llamarlo inclinación. Si empezamos en 16 y terminamos en 2,
+
+00:04:15.087 --> 00:04:22.331
+quiere decir que bajamos 14 unidades, o también se puede ver como 2 menos 16, es -14.
+
+00:04:22.331 --> 00:04:24.609
+Bajamos 14 unidades.
+
+00:04:24.609 --> 00:04:28.305
+Entonces tu dices: inclinación dividido sobre la horizontal,
+
+00:04:28.305 --> 00:04:30.837
+que es lo mismo que el "cambio en Y" dividido sobre el "cambio en X",
+
+00:04:30.837 --> 00:04:34.679
+la inclinación sería -14 y la horizontal sería 7.
+
+00:04:34.679 --> 00:04:39.295
+Puedes observar que son los mismos valores en las fracciones pero con los signos invertidos
+
+00:04:39.448 --> 00:04:43.069
+y el resultado nuevamente va a ser -2.
+
+00:04:43.069 --> 00:04:49.878
+Vamos a visualizarlo, vamos hacer una pequeña gráfica para mostrarles como la pendiente se vería.
+
+00:04:49.878 --> 00:04:57.787
+Vamos a dibujar los dos puntos, aquí está mi "eje X" y aquí está mi "eje Y".
+
+00:04:57.787 --> 00:05:05.141
+Este punto de aquí (4,2) vamos a graficarlo. También vamos a ir hasta el 16 aquí arriba, por lo que necesitamos espacio.
+
+00:05:05.141 --> 00:05:14.921
+Uno, dos, tres, cuatro. Cuatro coma, uno, dos. El (4,2) está aquí.
+
+00:05:14.921 --> 00:05:22.571
+Ahora sigamos con el punto (-3,16). Lo dibujamos así, uno negativo, dos, tres. Ahora debo ir hasta 16.
+
+00:05:22.571 --> 00:05:30.705
+Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, one, doce, trece, catorce, quince, dieciseis
+
+00:05:30.705 --> 00:05:38.208
+Vá aquí. El punto (-3,16) vá aquí.
+
+00:05:38.208 --> 00:05:46.510
+La linea que va a través éstos dos puntos se debería ver algo así. Voy hacer mi mejor esfuerzo para graficarlo.
+
+00:05:46.571 --> 00:05:51.485
+Es una línea recta, y los extremos deben prolongarse.
+
+00:05:51.485 --> 00:05:52.846
+Bueno ésto es lo que mejor pude hacer.
+
+00:05:52.846 --> 00:05:57.815
+Puedes darte cuenta que es una recta decreciente. Cuando el valor de X aumenta, la línea decrece.
+
+00:05:57.815 --> 00:06:01.056
+La recta vá desde de la parte superior izquierda, hacia la parte superior derecha.
+
+00:06:01.056 --> 00:06:03.462
+Cuando el valor de X aumenta, el valor de Y decrece.
+
+00:06:03.462 --> 00:06:05.869
+Así es como se muestra una recta que decrece .
+
+00:06:05.869 --> 00:06:10.325
+Y sólo para que lo visualices, observa "el cambio de X" y el "cambio de Y" que tenemos aquí.
+
+00:06:10.325 --> 00:06:18.008
+Cuando empezamos en 4 y terminamos en, o empezamos en (4,2) y terminamos en (-3,16),
+
+00:06:18.008 --> 00:06:21.895
+en la gráfica, es lo mismo empezar aquí, y terminar por acá.
+
+00:06:21.895 --> 00:06:30.545
+El cambio en X, es -7. Tenemos que movernos hacia atrás en la horizontal, hacia la izquierda 7 unidades.
+
+00:06:30.545 --> 00:06:32.936
+Por eso es -7.
+
+00:06:32.936 --> 00:06:39.659
+Ahora tenemos que movernos en la dirección vertical, 14 positivo. Por eso en fórmula, inclinación es positiva,
+
+00:06:39.659 --> 00:06:42.315
+14 dividido sobre -7, dá resultado -2.
+
+00:06:42.315 --> 00:06:48.077
+Cuando lo hicimos de la otra forma, nosotros empezamos por éste punto y terminamos en éste punto;
+
+00:06:48.077 --> 00:06:51.121
+empezamos por el punto (-3, 16) y terminamos en (4,2).
+
+00:06:51.121 --> 00:07:03.746
+En ese caso, nuestra horizontal es 7, y ahora tenemos que bajar en la dirección vertical -14.
+
+00:07:03.746 --> 00:07:07.577
+La horizontal es 7 positivo y la inclinación es ahora 14 negativo.
+
+00:07:07.577 --> 99:59:59.999
+En cualquiera de las dos formas, obtuvimos la misma pendiente.

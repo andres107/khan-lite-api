@@ -1,0 +1,975 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.710
+-
+
+00:00:00.710 --> 00:00:03.150
+Vamos a aplicar todo lo que hemos aprendido a una
+
+00:00:03.150 --> 00:00:04.390
+ecuación diferencial real.
+
+00:00:04.390 --> 00:00:07.850
+En lugar de simplemente tomar la transformada de Laplace y tomar su
+
+00:00:07.850 --> 00:00:09.940
+inversa, vamos a resolver realmente un problema.
+
+00:00:09.940 --> 00:00:13.880
+Así que vamos a decir que la segunda derivada de mi
+
+00:00:13.880 --> 00:00:22.550
+función y más 4 veces mi función y es igual al seno del
+
+00:00:22.550 --> 00:00:36.370
+t menos la función de escalón unidad 0 hasta 2 pi de t veces
+
+00:00:36.370 --> 00:00:42.890
+seno de t menos 2 pi.
+
+00:00:42.890 --> 00:00:45.120
+Vamos a resolver esta ecuación diferencial, una
+
+00:00:45.120 --> 00:00:45.870
+interpretación de la misma.
+
+00:00:45.870 --> 00:00:47.950
+Y de hecho voy a hacer una lista de reproducción dedicada a interpretaciones de
+
+00:00:47.950 --> 00:00:50.440
+ecuaciones diferenciales y de como se modelan, pero saben,
+
+00:00:50.440 --> 00:00:52.490
+pueden medio notar que esta es una función "forzada".
+
+00:00:52.490 --> 00:00:55.830
+Eso es una funcion forzada muy rara la que es aplicada
+
+00:00:55.830 --> 00:00:58.280
+a un peso con, saben, éste es el
+
+00:00:58.280 --> 00:00:59.470
+término de aceleración, correcto?
+
+00:00:59.470 --> 00:01:01.490
+La segunda derivada con respecto al tiempo es la
+
+00:01:01.490 --> 00:01:02.290
+aceleración.
+
+00:01:02.290 --> 00:01:09.540
+Por lo que la masa sería 1 de cualquier unidad y luego como una
+
+00:01:09.540 --> 00:01:11.340
+función de su posición, esto es probablemente algún tipo de
+
+00:01:11.340 --> 00:01:12.150
+constante de resorte.
+
+00:01:12.150 --> 00:01:13.210
+De todas formas, no iré allí.
+
+00:01:13.210 --> 00:01:15.650
+No quiero perder su tiempo con la interpretación
+
+00:01:15.650 --> 00:01:17.860
+de la misma, pero vamos a resolverlo.
+
+00:01:17.860 --> 00:01:19.600
+Podemos hacer más sobre interpretaciones más tarde.
+
+00:01:19.600 --> 00:01:21.600
+Así que vamos a tomar la transformada de Laplace de ambos
+
+00:01:21.600 --> 00:01:23.340
+lados de esta ecuación.
+
+00:01:23.340 --> 00:01:25.550
+Así que cuál es la transformada de Laplace
+
+00:01:25.550 --> 00:01:26.610
+del lado izquierdo?
+
+00:01:26.610 --> 00:01:30.680
+la transformada de Laplace de la segunda derivada de y es
+
+00:01:30.680 --> 00:01:34.530
+simplemente s al cuadrado, por lo que ahora estoy tomando la transformada de Laplace
+
+00:01:34.530 --> 00:01:35.880
+de eso.
+
+00:01:35.880 --> 00:01:38.570
+La transformada de Laplace de s cuadrada multiplicada por la transformada de Laplace
+
+00:01:38.570 --> 00:01:45.110
+de y menos--reducimos el grado de allí una vez--menos
+
+00:01:45.110 --> 00:01:52.170
+s veces y 0 negativo y primo de 0.
+
+00:01:52.170 --> 00:01:54.520
+Así que claramente, tedré que darles algunas condiciones
+
+00:01:54.520 --> 00:01:56.980
+iniciales para hacerlo correctamente.
+
+00:01:56.980 --> 00:02:05.490
+Y luego mas 4 veces la transformada de Laplace de y es
+
+00:02:05.490 --> 00:02:10.979
+igual a-- cuál es la transformada de Laplace de seno de t?
+
+00:02:10.979 --> 00:02:12.690
+Eso debe ser muy simple ahora.
+
+00:02:12.690 --> 00:02:17.530
+Es sólo 1 sobre s cuadrada más 1.
+
+00:02:17.530 --> 00:02:20.160
+Y luego tenemos menos la transformada
+
+00:02:20.160 --> 00:02:21.790
+de Laplace de esta cosa.
+
+00:02:21.790 --> 00:02:25.390
+Y voy a hacer una pequeña nota de lado aquí para averiguar la transformada
+
+00:02:25.390 --> 00:02:30.020
+de Laplace de esta cosa aquí.
+
+00:02:30.020 --> 00:02:32.630
+Y sabemos, les mostré un par de videos hace un tiempo,
+
+00:02:32.630 --> 00:02:39.320
+mostramos ésta transformada de Laplace-- podría
+
+00:02:39.320 --> 00:02:42.370
+únicamente escribirlo aquí.
+
+00:02:42.370 --> 00:02:45.290
+Esto va a ser lo mismo que la transformada de Laplace
+
+00:02:45.290 --> 00:02:49.510
+del seno de t, pero vamos a tener que multiplica por e
+
+00:02:49.510 --> 00:02:52.130
+el negativo--si recuerdan la última fórmula--e a la
+
+00:02:52.130 --> 00:02:55.520
+menos cs, donde c es 2 pi.
+
+00:02:55.520 --> 00:02:58.480
+En realidad, permítanme que lo anote.
+
+00:02:58.480 --> 00:03:00.720
+Decidí escribirlo, entonces decidí, oh, no, yo
+
+00:03:00.720 --> 00:03:02.080
+no quiero hacer esto.
+
+00:03:02.080 --> 00:03:03.110
+Pero permítanme escribir.
+
+00:03:03.110 --> 00:03:06.940
+Por lo tanto la transformada de Laplace de la función escalón
+
+00:03:06.940 --> 00:03:12.950
+que sube hasta c multiplicado por alguna función desplazado por c es igual
+
+00:03:12.950 --> 00:03:20.240
+a e a la menos cs multiplicado por la transformada de Laplace de
+
+00:03:20.240 --> 00:03:26.510
+la función original multiplicada por la transformada de Laplace de f de t.
+
+00:03:26.510 --> 00:03:28.600
+Así que si estamos tomando la transformada de Laplace de esto
+
+00:03:28.600 --> 00:03:31.330
+nuestra c es 2 pi.
+
+00:03:31.330 --> 00:03:37.690
+Nuestra f de t es sólo sinusoidal de t, ¿verdad?
+
+00:03:37.690 --> 00:03:41.240
+Entonces esto sólo va a ser igual a--si sólo hacemos
+
+00:03:41.240 --> 00:03:45.630
+Esta pieza derecha aquí--va a ser igual a e a la
+
+00:03:45.630 --> 00:03:53.480
+menos cs--nuestro c es 2 pi--e a menos 2 pi s multiplicado por la
+
+00:03:53.480 --> 00:03:57.270
+Transformada de Laplace de f de t. f de t es sólo sinusoidal de t antes de
+
+00:03:57.270 --> 00:03:58.120
+que la hemos cambiado.
+
+00:03:58.120 --> 00:04:00.340
+Esto es f de t menos 2 pi.
+
+00:04:00.340 --> 00:04:03.090
+Así que f de t sólo va a ser senoidal de t.
+
+00:04:03.090 --> 00:04:07.340
+Así que va a ser multiplicado por 1 sobre s squared más 1.
+
+00:04:07.340 --> 00:04:09.860
+Se trata de la transformada de Laplace de seno de t.
+
+00:04:09.860 --> 00:04:14.000
+Así que volvamos a donde habíamos dejado.
+
+00:04:14.000 --> 00:04:16.490
+Así que hemos tomado de ambos lados de la transformada de Laplace de
+
+00:04:16.490 --> 00:04:17.490
+Esta ecuación.
+
+00:04:17.490 --> 00:04:20.870
+Y claramente, tengo algunas condiciones iniciales aquí, así que
+
+00:04:20.870 --> 00:04:23.420
+el problema seguramente me ha dado algunas y solo se me olvido
+
+00:04:23.420 --> 00:04:25.290
+anotarlas.
+
+00:04:25.290 --> 00:04:28.190
+Así que vamos a ver, las condiciones iniciales que me ha dado y
+
+00:04:28.190 --> 00:04:31.150
+se escriben en el margen aquí, nos dicen--
+
+00:04:31.150 --> 00:04:37.340
+Lo haré en color naranja, nos dicen que y de 0 es igual
+
+00:04:37.340 --> 00:04:44.310
+a 0 y y primo de 0 es igual a 0.
+
+00:04:44.310 --> 00:04:46.090
+Facilita las matemáticas.
+
+00:04:46.090 --> 00:04:49.110
+Es 0 y es 0.
+
+00:04:49.110 --> 00:04:52.550
+Así que vamos a ver si puedo simplificar la mi ecuación.
+
+00:04:52.550 --> 00:04:54.290
+Así que del lado izquierdo, vamos a factorizar
+
+00:04:54.290 --> 00:04:55.920
+a la transformada de Laplace.
+
+00:04:55.920 --> 00:04:59.440
+Así que vamos a sacar éste término y ese término.
+
+00:04:59.440 --> 00:05:06.760
+Así obtenemos la transformada de Laplace de y multiplicado por esto y
+
+00:05:06.760 --> 00:05:13.740
+esto multiplicado por s cuadrado más 4 es igual al lado derecho.
+
+00:05:13.740 --> 00:05:15.130
+Y ¿qué es el lado derecho?
+
+00:05:15.130 --> 00:05:18.270
+-
+
+00:05:18.270 --> 00:05:19.570
+Nosotros podríamos simplificar esto.
+
+00:05:19.570 --> 00:05:20.650
+Bueno, sólo lo escribiré.
+
+00:05:20.650 --> 00:05:22.170
+No quiero hacer demasiados pasos a la vez.
+
+00:05:22.170 --> 00:05:30.180
+Es 1 sobre s cuadrado más 1 y luego más--o menos
+
+00:05:30.180 --> 00:05:32.420
+en realidad, esto es un signo menos--menos la transformada de Laplace de
+
+00:05:32.420 --> 00:05:39.010
+Esto, que era e a la menos 2 pi s sobre s
+
+00:05:39.010 --> 00:05:41.720
+cuadrada más 1.
+
+00:05:41.720 --> 00:05:45.510
+-
+
+00:05:45.510 --> 00:05:48.190
+Por lo tanto si dividimos ambos lados de esta ecuación por la s cuadrada
+
+00:05:48.190 --> 00:05:55.650
+más 4, entonces obtenemos a la transformada de Laplace de y es
+
+00:05:55.650 --> 00:06:00.620
+igual a--y de hecho, puedo simplemente combinar estas dos.
+
+00:06:00.620 --> 00:06:01.810
+Son el mismo denominador.
+
+00:06:01.810 --> 00:06:04.700
+Así que antes de que divida por s cuadrada más 4,
+
+00:06:04.700 --> 00:06:07.090
+el lado derecho se verá así.
+
+00:06:07.090 --> 00:06:11.410
+Se verá como con un denominador de s cuadrado más
+
+00:06:11.410 --> 00:06:19.280
+1 y tienes un numerador de 1 menos e a la menos 2 pi s.
+
+00:06:19.280 --> 00:06:21.150
+Y, por supuesto, nos estamos dividiendo a ambos lados de esta ecuación por
+
+00:06:21.150 --> 00:06:23.260
+s cuadrada más 4, por lo que vamos a tener que dejar esa s
+
+00:06:23.260 --> 00:06:27.150
+cuadrada más 4 por aquí.
+
+00:06:27.150 --> 00:06:29.610
+Ahora, estamos en la parte más difícil.
+
+00:06:29.610 --> 00:06:31.910
+Con el fin de averiguar por qué, tenemos que tomar el inverso
+
+00:06:31.910 --> 00:06:34.140
+de la Transformada de Laplace de esta cosa.
+
+00:06:34.140 --> 00:06:35.620
+Entonces, ¿cómo tomamos la transformada inversa de Laplace
+
+00:06:35.620 --> 00:06:36.720
+de esta cosa?
+
+00:06:36.720 --> 00:06:39.400
+Esta es siempre la parte complicada, saben, se hace
+
+00:06:39.400 --> 00:06:41.060
+fácil resolver una ecuación diferencial si ustedes saben
+
+00:06:41.060 --> 00:06:45.213
+las transformadas de Laplace. Así que parece que vamos a tener
+
+00:06:45.213 --> 00:06:48.040
+hacer algunas expansiónes de fracciones parciales.
+
+00:06:48.040 --> 00:06:49.290
+Así que vamos a ver si podemos hacer eso.
+
+00:06:49.290 --> 00:06:53.675
+Podemos reescribir este derecho de la ecuación aquí.
+
+00:06:53.675 --> 00:06:56.830
+-
+
+00:06:56.830 --> 00:06:59.670
+En realidad, vamos a escribirlo como esta, porque esto va a
+
+00:06:59.670 --> 00:07:01.250
+simplificar nuestro trabajo.
+
+00:07:01.250 --> 00:07:02.710
+Vamos a factorizar todo esto afuera.
+
+00:07:02.710 --> 00:07:08.370
+Así que vamos a escribirlo como 1 menos e a la menos 2 pi s
+
+00:07:08.370 --> 00:07:13.340
+todo ese multiplicado--lo haré en naranja--todo eso multiplicado
+
+00:07:13.340 --> 00:07:21.940
+por 1 sobre s squared plus 1 multiplicado por s cuadrado más 4.
+
+00:07:21.940 --> 00:07:24.410
+Ahora, tenemos que hacer algunas expansiónes de fracciones parciales para
+
+00:07:24.410 --> 00:07:27.430
+simplificar esta cosa aquí.
+
+00:07:27.430 --> 00:07:29.260
+Vamos a hacerlo en el lado.
+
+00:07:29.260 --> 00:07:32.390
+Tal vez debo hacerlo a la derecha aquí.
+
+00:07:32.390 --> 00:07:38.300
+Esta cosa--permítanme reescribirlo--1 sobre s cuadrado más 1
+
+00:07:38.300 --> 00:07:44.990
+multiplicado por s cuadrado más 4 debe ser capaz de ser reescrita como dos
+
+00:07:44.990 --> 00:07:50.100
+fracciones separadas, s cuadrada más 1 y s cuadrada más 4,
+
+00:07:50.100 --> 00:07:52.680
+con los numeradores.
+
+00:07:52.680 --> 00:07:56.070
+Este sería como A s mas B.
+
+00:07:56.070 --> 00:07:57.770
+Va a tener que tener grado 1, porque
+
+00:07:57.770 --> 00:07:58.600
+se trata de grado 2 aquí.
+
+00:07:58.600 --> 00:08:03.700
+Y entonces tendríamos Cs más D.
+
+00:08:03.700 --> 00:08:11.360
+Así que cuando agregan estas dos cosas, se obtiene As más b
+
+00:08:11.360 --> 00:08:23.000
+multiplicado por s cuadrado más 4 más Cs más d multiplicado por s cuadrado más 1,
+
+00:08:23.000 --> 00:08:27.870
+todo ello sobre el denominador común.
+
+00:08:27.870 --> 00:08:31.330
+Hemos visto esta historia antes.
+
+00:08:31.330 --> 00:08:33.650
+Sólo tenemos que hacer algo de álgebra aquí.
+
+00:08:33.650 --> 00:08:35.520
+Como pueden ver, estos problemas de ecuaciones diferenciales
+
+00:08:35.520 --> 00:08:37.190
+requieren mucha resistencia.
+
+00:08:37.190 --> 00:08:40.830
+De cierto modo deben de decir voy a seguir avanzando y
+
+00:08:40.830 --> 00:08:43.700
+hacer el álgebra que necesito hacer para obtener la respuesta.
+
+00:08:43.700 --> 00:08:45.950
+Y deben, de cierto modo, emocionarse con la idea de que tienen
+
+00:08:45.950 --> 00:08:48.570
+toda ésta álgebra por hacer.
+
+00:08:48.570 --> 00:08:49.660
+Así que vamos a entenderlo.
+
+00:08:49.660 --> 00:09:00.200
+Esta parte de arriba puede simplificarse como As a la tercera más Bs
+
+00:09:00.200 --> 00:09:10.570
+cuadrado más 4as más 4B.
+
+00:09:10.570 --> 00:09:19.330
+Y luego está ésta, terminas con Cs a la tercera potencia más Ds
+
+00:09:19.330 --> 00:09:27.850
+cuadrada más Cs más D.
+
+00:09:27.850 --> 00:09:32.350
+Así que al agregar estos juntos, obtienen--y esto
+
+00:09:32.350 --> 00:09:35.410
+es todo el álgebra que tenemos que hacer, para bien o
+
+00:09:35.410 --> 00:09:43.510
+para mal--A más c sobre s a la tercera potencia más b más d multiplicado por s
+
+00:09:43.510 --> 00:09:49.920
+cuadrado más 4A más c multiplicado por s--vamos a desplazarnos un poco
+
+00:09:49.920 --> 00:09:54.770
+--más 4B más D.
+
+00:09:54.770 --> 00:09:59.730
+Y ahora solo tenemos que decir, OK, todo esto es igual a
+
+00:09:59.730 --> 00:10:00.710
+esta cosa de aquí.
+
+00:10:00.710 --> 00:10:01.770
+Éste es el numerador.
+
+00:10:01.770 --> 00:10:03.140
+Sólo hemos simplificado el numerador.
+
+00:10:03.140 --> 00:10:05.050
+Éste es el numerador.
+
+00:10:05.050 --> 00:10:06.840
+Ésto de aquí es el numerador.
+
+00:10:06.840 --> 00:10:11.740
+Y todo esto va a ser sobre su s cuadrada original.
+
+00:10:11.740 --> 00:10:15.280
+más 1 multiplicado por su s cuadrada más 4.
+
+00:10:15.280 --> 00:10:18.150
+Y hemos establecido que esta cosa debe ser--Permítanme sólo
+
+00:10:18.150 --> 00:10:23.610
+escribir esto--que 1 sobre s cuadrado mas 1 multiplicado por s cuadrado
+
+00:10:23.610 --> 00:10:26.240
+más 4 debe ser igual a ésto de aquí.
+
+00:10:26.240 --> 00:10:29.010
+Y entonces sólo deben de hacer coincidir los coeficientes.
+
+00:10:29.010 --> 00:10:33.420
+Ésto es sólo expansión de fracciones parciales.
+
+00:10:33.420 --> 00:10:36.190
+Y dicen, miren, A más c es el coeficiente de los términos de s al cubo
+
+00:10:36.190 --> 00:10:38.610
+No veo aquí ningún término de s al cubo.
+
+00:10:38.610 --> 00:10:43.180
+Así que a más C, debe ser igual a 0.
+
+00:10:43.180 --> 00:10:46.070
+Y entonces ves, OK, B más d es el coeficiente del termino de
+
+00:10:46.070 --> 00:10:48.010
+s al cuadrado. No veo ningún termino de s al cuadrado.
+
+00:10:48.010 --> 00:10:53.670
+Así b más d debe ser igual a 0.
+
+00:10:53.670 --> 00:10:56.220
+4A más C, el coeficiente de los términos de s. No veo ningún
+
+00:10:56.220 --> 00:10:57.070
+termino de s aquí.
+
+00:10:57.070 --> 00:11:01.080
+Así 4A más c debe ser igual a 0.
+
+00:11:01.080 --> 00:11:02.490
+Y, a continuación, hemos casi terminado.
+
+00:11:02.490 --> 00:11:05.490
+4B más d debe ser los términos constantes. Hay un
+
+00:11:05.490 --> 00:11:06.530
+término constante allí.
+
+00:11:06.530 --> 00:11:10.465
+Así 4B más d es igual a 1.
+
+00:11:10.465 --> 00:11:12.490
+Así que vamos a ver si podemos hacer algo aquí.
+
+00:11:12.490 --> 00:11:17.680
+Si restamos esto a eso, obtenemos que menos 3A es igual a 0,
+
+00:11:17.680 --> 00:11:19.160
+o a es igual a 0.
+
+00:11:19.160 --> 00:11:22.840
+Si a es igual a 0, entonces c es igual a 0.
+
+00:11:22.840 --> 00:11:24.720
+Y vamos a ver lo que podemos conseguir aquí.
+
+00:11:24.720 --> 00:11:31.010
+Si restamos esto de eso, obtenemos menos 3B.
+
+00:11:31.010 --> 00:11:32.020
+Las D´s se cancelan.
+
+00:11:32.020 --> 00:11:36.290
+Es igual a menos 1, o b es igual a 1/3.
+
+00:11:36.290 --> 00:11:40.470
+Y luego, por supuesto, tenemos d es igual a menos B, si
+
+00:11:40.470 --> 00:11:44.550
+restan b de ambos lados. De modo que d es igual a 1/3.
+
+00:11:44.550 --> 00:11:46.960
+Así que funcionan, y realmente tenemos un
+
+00:11:46.960 --> 00:11:48.400
+resultado bastante simple.
+
+00:11:48.400 --> 00:11:52.190
+-
+
+00:11:52.190 --> 00:12:00.660
+Nuestra ecuación, esta cosa aquí, puede ser reescrita como--la a
+
+00:12:00.660 --> 00:12:01.630
+desapareció.
+
+00:12:01.630 --> 00:12:06.130
+Es 1/3 sobre s cuadrada más 1.
+
+00:12:06.130 --> 00:12:10.490
+B fue el coeficiente en-- permitanme dejar esto muy claro.
+
+00:12:10.490 --> 00:12:14.230
+B fue el coeficiente de--o era un término en la parte superior de la
+
+00:12:14.230 --> 00:12:17.400
+s cuadrada más 1, por eso estoy usando b allí.
+
+00:12:17.400 --> 00:12:22.730
+Y entonces d es menos B, por lo que d es menos 1.
+
+00:12:22.730 --> 00:12:23.510
+Así que permítanme asegurarme de que que tengo eso.
+
+00:12:23.510 --> 00:12:29.060
+B es 1/3 menos--permítanme asegurarme de que estoy en lo correcto.
+
+00:12:29.060 --> 00:12:30.260
+D es 1/3.
+
+00:12:30.260 --> 00:12:36.830
+Así que, lo siento, B de burro es 1/3, por lo que d es menos 1/3.
+
+00:12:36.830 --> 00:12:40.930
+Así que B, hay un término en la parte superior de s cuadrada más 1.
+
+00:12:40.930 --> 00:12:45.560
+Y entonces tienes menos d sobre el menos 1/3 sobre s
+
+00:12:45.560 --> 00:12:50.510
+cuadrado más 4.
+
+00:12:50.510 --> 00:12:53.560
+Esto toma mucho aguante para grabar este video.
+
+00:12:53.560 --> 00:12:56.370
+Espero que lo aprecien.
+
+00:12:56.370 --> 00:12:59.090
+Ok, así que déjenme reescribir todo, de modo que podamos
+
+00:12:59.090 --> 00:13:01.450
+volver al problema porque al tomar la desviación de las fracciones parciales
+
+00:13:01.450 --> 00:13:05.740
+olvidamos-- ya no el problema
+
+00:13:05.740 --> 00:13:07.620
+sino que olvidamos hasta que día es.
+
+00:13:07.620 --> 00:13:12.810
+Veamos, obtenemos que la transformada de Laplace de y es
+
+00:13:12.810 --> 00:13:20.060
+igual a 1 menos e a la menos 2 pi s multiplicado por
+
+00:13:20.060 --> 00:13:23.673
+ese desorden que resolvimos, multiplicado-- y lo
+
+00:13:23.673 --> 00:13:24.360
+voy a escribir así.
+
+00:13:24.360 --> 00:13:34.440
+1/3 multiplicado por1 sobre s cuadrada más 1 menos 1/3 multiplicado--
+
+00:13:34.440 --> 00:13:35.470
+De hecho, déjenme escribirlo de ésta manera.
+
+00:13:35.470 --> 00:13:38.190
+Porque tengo ésta s cuadrada más 4, así que realmente quiero
+
+00:13:38.190 --> 00:13:39.880
+tener un 2 ahí.
+
+00:13:39.880 --> 00:13:41.680
+Así que quiero tener un 2 en el numerador, así que quieren tener
+
+00:13:41.680 --> 00:13:44.825
+un 2 sobre s cuadrada mas 4.
+
+00:13:44.825 --> 00:13:48.690
+Así que si pongo un 2 en el numerador aqui, tengo que
+
+00:13:48.690 --> 00:13:51.440
+dividir ésto entre 2 también.
+
+00:13:51.440 --> 00:13:55.140
+Asi que déjenme cambiar esto a 6.
+
+00:13:55.140 --> 00:13:58.690
+menos 1/6 multiplicado por 2 es menos 1/3.
+
+00:13:58.690 --> 00:14:00.800
+Así que hice eso para que quedara en la forma de la
+
+00:14:00.800 --> 00:14:03.860
+transformada de Laplaca del seno de t.
+
+00:14:03.860 --> 00:14:06.920
+Ahora, veamos si hay algo que
+
+00:14:06.920 --> 00:14:09.090
+que pueda hacer desde aqui.
+
+00:14:09.090 --> 00:14:11.640
+Éste es un problema épico!
+
+00:14:11.640 --> 00:14:13.750
+Me sorprenderé mucho si no hago un error despistado
+
+00:14:13.750 --> 00:14:16.320
+mientras hago todo esto.
+
+00:14:16.320 --> 00:14:19.170
+Así que podemos reescribir todo.
+
+00:14:19.170 --> 00:14:21.280
+Veamos si puedo simplificarlo.
+
+00:14:21.280 --> 00:14:23.880
+Y al simplificarlo, únicamente lo voy a hacer más largo.
+
+00:14:23.880 --> 00:14:28.400
+Podemos escribir la transformada de Laplace de y es igual a--
+
+00:14:28.400 --> 00:14:30.640
+Únicamente voy a multiplicar el 1 afuera, y luego voy a
+
+00:14:30.640 --> 00:14:32.660
+multiplicar la e a la menos 2 pi s afuera.
+
+00:14:32.660 --> 00:14:39.540
+Así que si multiplican el 1 afuera, obtienen 1/3 multiplicado por 1 sobre s
+
+00:14:39.540 --> 00:14:43.840
+cuadrada mas 1-- Únicamente estoy multiplicando el 1 afuera-- menos
+
+00:14:43.840 --> 00:14:50.060
+1/6-- esos son los 1´s multiplicados por el 1-- multiplicados por 2 sobre s
+
+00:14:50.060 --> 00:14:52.020
+cuadrada más 4.
+
+00:14:52.020 --> 00:14:55.660
+Y voy a multiplicar la menos e.
+
+00:14:55.660 --> 00:14:58.670
+Déjenme cambiar colores, hacer la menos e.
+
+00:14:58.670 --> 00:15:06.820
+Así que obtenemos menos e a la menos 2 pi s sobre 3 multiplicado por 1
+
+00:15:06.820 --> 00:15:09.430
+sobre s cuadrado más 1.
+
+00:15:09.430 --> 00:15:11.860
+Y luego el menos y el menos se cancelan, obtienen
+
+00:15:11.860 --> 00:15:20.680
+mas e a la menos 2 pi s sobre 6 multiplicado por 2 sobre s
+
+00:15:20.680 --> 00:15:22.680
+cuadrado más 4.
+
+00:15:22.680 --> 00:15:25.630
+Ahora, tomar la transformada de Laplace inversa the éstas
+
+00:15:25.630 --> 00:15:26.800
+cosas de aquí es muy sencillo.
+
+00:15:26.800 --> 00:15:27.580
+Hagámos eso.
+
+00:15:27.580 --> 00:15:31.000
+Tomemos la transformada inversa de Laplace de todo eso.
+
+00:15:31.000 --> 00:15:36.280
+Y obtenemos y es igual a la transformada inversa de Laplace de
+
+00:15:36.280 --> 00:15:44.390
+este amigo de aqui, es sólo 1/3 por el seno de t-- No tengo
+
+00:15:44.390 --> 00:15:48.330
+que usar paréntesis aquí-- seno de t, y luego ésto es
+
+00:15:48.330 --> 00:15:56.590
+multiplicado por menos 1/6-- esa es la transformada de Laplace
+
+00:15:56.590 --> 00:15:57.840
+del seno de 2t.
+
+00:15:57.840 --> 00:16:00.820
+-
+
+00:16:00.820 --> 00:16:02.730
+Ese es el término justo ahí.
+
+00:16:02.730 --> 00:16:05.410
+Ahora, esos son casi iguales, pero tenemos a este
+
+00:16:05.410 --> 00:16:06.700
+personaje molesto por aquí.
+
+00:16:06.700 --> 00:16:10.250
+Tenemos este e a la menos 2 pi s.
+
+00:16:10.250 --> 00:16:12.486
+Y ahí, tenemos que recordarlo-- Lo escribiré
+
+00:16:12.486 --> 00:16:13.550
+aquí abajo.
+
+00:16:13.550 --> 00:16:15.520
+Sólo debemos recordarnos que la transformada de Laplace
+
+00:16:15.520 --> 00:16:21.380
+de la función escalón-- Pondre el pi
+
+00:16:21.380 --> 00:16:28.470
+ahí, sólo 2 pi multiplicado por f de tmenos 2 pi-- debería ponerlo
+
+00:16:28.470 --> 00:16:36.260
+como la función escalón de t-- es igual a e a la menos 2 pi s
+
+00:16:36.260 --> 00:16:39.865
+multiplicado por la transformada de Laplace o únicamente déjenme escribirlo
+
+00:16:39.865 --> 00:16:45.860
+de ésta manera-- multiplicado por la transformada de Laplace de f de t.
+
+00:16:45.860 --> 00:16:50.040
+Así que si vemos f de t unicamente como seno de t o seno de 2t, entonces
+
+00:16:50.040 --> 00:16:52.290
+podemos encontrar el patrón que corresponde.
+
+00:16:52.290 --> 00:16:54.790
+Y tendremos que moverlo y multiplicarlo por
+
+00:16:54.790 --> 00:16:58.500
+la función escalón unitario.
+
+00:16:58.500 --> 00:17:00.050
+Así que quería dejar eso en claro.
+
+00:17:00.050 --> 00:17:03.690
+Si no tuvieran a éste amigo aquí, la inversa de la transformada de Laplace
+
+00:17:03.690 --> 00:17:06.010
+de éste amigo sería igual a la del de acá.
+
+00:17:06.010 --> 00:17:07.110
+Sería únicamente seno de t.
+
+00:17:07.110 --> 00:17:09.210
+La transformada inversa de éste amigo
+
+00:17:09.210 --> 00:17:10.579
+sería seno de 2t.
+
+00:17:10.579 --> 00:17:13.450
+Pero tenemos a éste personaje molesto aquí, que
+
+00:17:13.450 --> 00:17:16.079
+escencialmente, en lugar de tener la transformada inversa de Laplace
+
+00:17:16.079 --> 00:17:19.190
+siendo nuestra f de t, será nuestra f de t desplazada
+
+00:17:19.190 --> 00:17:23.510
+por 2 pi multiplicada por la función escalón unitario, que
+
+00:17:23.510 --> 00:17:26.050
+se escalona en 2pi.
+
+00:17:26.050 --> 00:17:34.340
+Asi que ésto será menos 1/3 multiplicado por la función escalón
+
+00:17:34.340 --> 00:17:41.010
+donde c es 2 pi de t multiplicado por-- en lugar de seno de t--
+
+00:17:41.010 --> 00:17:46.150
+seno de t menos 2pi.
+
+00:17:46.150 --> 00:17:49.170
+Y ya casi hemos terminado.
+
+00:17:49.170 --> 00:17:51.660
+Lo haré en color magenta para celebrar.
+
+00:17:51.660 --> 00:17:58.030
+Más ése último término, que es 1/6 multiplicado por la función escalón
+
+00:17:58.030 --> 00:18:03.550
+unitario 2 pi de t, la función escalón unitario que se escalona
+
+00:18:03.550 --> 00:18:13.780
+en 2 pi multiplicado por el seno de-- y tenemos que tener mucho cuidado aquí.
+
+00:18:13.780 --> 00:18:16.990
+Donde sea que tengamos una t antes, la vamos a tener que reemplazar por
+
+00:18:16.990 --> 00:18:18.750
+una t menos 2 pi.
+
+00:18:18.750 --> 00:18:20.850
+Asi que seno de, en lugar de 2t, será 2
+
+00:18:20.850 --> 00:18:25.270
+multiplicado por t menos 2 pi.
+
+00:18:25.270 --> 00:18:26.540
+Y ahí lo tienen.
+
+00:18:26.540 --> 00:18:31.650
+Finalmente resolvimos nuestro problema tan complicado.
+
+00:18:31.650 --> 00:18:34.600
+Podríamos tomar un tiempo si queremos simplificar
+
+00:18:34.600 --> 00:18:35.250
+ésto un poco.
+
+00:18:35.250 --> 00:18:36.780
+De hecho, hagamoslo de una vez.
+
+00:18:36.780 --> 00:18:39.580
+Corriendo el riesgo de hacer un error por distracción en el último
+
+00:18:39.580 --> 00:18:42.690
+momento, permitanme hacer algunas simplificaciones aquí.
+
+00:18:42.690 --> 00:18:48.350
+-
+
+00:18:48.350 --> 00:18:52.470
+Bueno, podríamos factorizar ésto de aquí, pero fuera de eso,
+
+00:18:52.470 --> 00:18:54.090
+parece que es lo más simple que podemos tenerlo.
+
+00:18:54.090 --> 00:18:58.180
+Así que ésta es nuestra función de t que satisface nuestra
+
+00:18:58.180 --> 00:19:01.330
+ecuacion diferencial que se ve tan simple aquí arriba.
+
+00:19:01.330 --> 00:19:03.850
+Ésto se veía muy sencillo, pero obtuvimos éste
+
+00:19:03.850 --> 00:19:08.340
+gran desorden de aquí que satisface la ecuación, dadas
+
+00:19:08.340 --> 00:19:11.130
+esas condiciones iniciales que nos dieron al empezar.

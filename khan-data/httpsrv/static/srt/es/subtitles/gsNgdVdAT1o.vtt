@@ -1,0 +1,912 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.760
+Hola...
+
+00:00:00.760 --> 00:00:04.280
+En el video pasado vimos como una matriz, y al encontrar su inverso
+
+00:00:04.280 --> 00:00:06.730
+Puede ser usado para resolver un sistema de operaciones.
+
+00:00:06.730 --> 00:00:07.790
+Y hicmios un 2 por 2.
+
+00:00:07.790 --> 00:00:09.200
+Y en el futuro, haremos los 3 por 3.
+
+00:00:09.200 --> 00:00:11.170
+No haremos los 4 por 4 porque estos tomas demasiado tiempo.
+
+00:00:11.170 --> 00:00:13.740
+Pero verán que aplica más o menos a una matriz de n por n.
+
+00:00:13.740 --> 00:00:17.310
+Y eso problamente es la aplicacion de las matrices que aprendera
+
+00:00:17.310 --> 00:00:20.420
+Si aprende esto en su clase de álgebra 2, o en
+
+00:00:20.420 --> 00:00:22.190
+Su clase de álgebra 1
+
+00:00:22.190 --> 00:00:23.720
+Y a veces uno piensa, porque hacer
+
+00:00:23.720 --> 00:00:25.120
+Todo esto de las matrices?
+
+00:00:25.120 --> 00:00:28.570
+Ahora voy a mostrarles otra aplicacion de matrices que
+
+00:00:28.570 --> 00:00:31.920
+Veran mas frecuentemente en su clase de álgebra lineal
+
+00:00:31.920 --> 00:00:34.200
+Cuando la tomen en la universidad.
+
+00:00:34.200 --> 00:00:37.030
+Pero la cosa maravillosa es - y pienso que esto
+
+00:00:37.030 --> 00:00:40.220
+Lo ilustrara mejor, es que la representación de la matriz
+
+00:00:40.220 --> 00:00:43.360
+Es sólo una manera más de representar muchos tipos
+
+00:00:43.360 --> 00:00:45.550
+De problemas. Y lo interesante es que si hay diferentes
+
+00:00:45.550 --> 00:00:47.590
+Problemas pueden ser presentados de la misma manera; nos dice
+
+00:00:47.590 --> 00:00:48.920
+Por lo tanto que son el mismo problema.
+
+00:00:48.920 --> 00:00:50.550
+Y eso se llama un isomorfismo en matemáticas.
+
+00:00:50.550 --> 00:00:53.240
+Si se puede reducir un problema a otro problema,
+
+00:00:53.240 --> 00:00:54.450
+Entonces todo el trabajo que se hizo con uno de los problemas
+
+00:00:54.450 --> 00:00:55.570
+Se aplica al otro.
+
+00:00:55.570 --> 00:00:58.330
+De todas formas, encontremos una nueva manera
+
+00:00:58.330 --> 00:01:00.580
+Para usar la matrices
+
+00:01:00.580 --> 00:01:03.120
+Voy entonces a dibujar algunos vectores.
+
+00:01:03.120 --> 00:01:06.880
+Digamos que tengo el vector-- Llamemoslo vector a.
+
+00:01:06.880 --> 00:01:12.920
+Aqui esta el vector a.
+
+00:01:12.920 --> 00:01:14.920
+Y voy a escribir esto como un vector de columna.
+
+00:01:14.920 --> 00:01:16.780
+...Todo esto es sólo convencional.
+
+00:01:16.780 --> 00:01:18.080
+Estas son, solamente, cosas inventadas por los seres humanos.
+
+00:01:18.080 --> 00:01:19.320
+Yo podría haber escrito esto diagonalmente.
+
+00:01:19.320 --> 00:01:20.640
+Yo podría haber escrito eso en cualquier manera.
+
+00:01:20.640 --> 00:01:31.120
+Pero si yo digo vector a es 3, 6 negativo.
+
+00:01:31.120 --> 00:01:33.265
+Y veo esto como el "x" componente del vector, y
+
+00:01:33.265 --> 00:01:35.330
+Esto es egual al "y" componente del vector.
+
+00:01:35.330 --> 00:01:36.690
+Y después tengo el vector "b"...
+
+00:01:36.690 --> 00:01:41.920
+...Vector b...
+
+00:01:41.920 --> 00:01:57.810
+El vector b es igual a 2, 6.
+
+00:01:57.810 --> 00:02:04.330
+Y qiero saber si hay algunas combinaciones de los vectores
+
+00:02:04.330 --> 00:02:08.949
+a y b-- donde se puede decir, 5 veces vector a, más 3 veces
+
+00:02:08.949 --> 00:02:13.350
+Vector b, o 10 veces vector a menos 6 veces vector b--algunas
+
+00:02:13.350 --> 00:02:19.420
+Combinaciones del vector a y b, donde puedo obtener vector c.
+
+00:02:19.420 --> 00:02:31.250
+Y el vector c es el vector 7, 6.
+
+00:02:31.250 --> 00:02:33.205
+Permitame ver si puedo visualmente dibujar este problema.
+
+00:02:33.205 --> 00:02:35.560
+Permitame dibujar los ejes de coordenadas.
+
+00:02:35.560 --> 00:02:36.300
+Vemos este.
+
+00:02:36.300 --> 00:02:37.490
+3, 6 negativo.
+
+00:02:37.490 --> 00:02:39.440
+Estaran en el cuadrante-- estos dos estan
+
+00:02:39.440 --> 00:02:40.180
+en la primera cuadrante.
+
+00:02:40.180 --> 00:02:42.840
+Y entonces sólo quiero averiguar cuanto
+
+00:02:42.840 --> 00:02:43.900
+De los ejes necesito dibujar.
+
+00:02:43.900 --> 00:02:47.580
+A ver-- Con otro color.
+
+00:02:47.580 --> 00:02:52.640
+...
+
+00:02:52.640 --> 00:02:53.670
+Esto es el eje y.
+
+00:02:53.670 --> 00:02:56.160
+No estoy dibujando la segunda o tercera cuadrante, porque
+
+00:02:56.160 --> 00:02:58.140
+No pienso los vectores deben estar allí.
+
+00:02:58.140 --> 00:03:01.385
+Y después este es el eje x.
+
+00:03:01.385 --> 00:03:03.910
+...
+
+00:03:03.910 --> 00:03:05.365
+Déjame dibujar cada uno de estos vectores.
+
+00:03:05.365 --> 00:03:08.270
+...
+
+00:03:08.270 --> 00:03:11.130
+Primero hare el vector a.
+
+00:03:11.130 --> 00:03:13.310
+Eso es 3, -6.
+
+00:03:13.310 --> 00:03:17.770
+1, 2, 3, y luego -6.
+
+00:03:17.770 --> 00:03:24.170
+1, 2, 3, 4, 5, 6.
+
+00:03:24.170 --> 00:03:26.970
+Ahi lo ponemos...
+
+00:03:26.970 --> 00:03:31.010
+Asi que si quisiera dibujarlo como un vector
+
+00:03:31.010 --> 00:03:32.260
+Generalmente se empieza en el origen.
+
+00:03:32.260 --> 00:03:34.894
+...
+
+00:03:34.894 --> 00:03:36.980
+Y no tiene que empezar en el origen asi...
+
+00:03:36.980 --> 00:03:37.730
+Yo solo opto por hacerlo de esta manera
+
+00:03:37.730 --> 00:03:39.990
+Uno puede moverse alrededor del vector.
+
+00:03:39.990 --> 00:03:42.190
+Solamente tiene que tener la misma orientacion
+
+00:03:42.190 --> 00:03:45.680
+Y la misma magnitud.
+
+00:03:45.680 --> 00:03:52.620
+Asi que ese es el vector verde.
+
+00:03:52.620 --> 00:03:56.670
+Ahora hare uno en color magenta
+
+00:03:56.670 --> 00:03:59.050
+Eso es 2, 6.
+
+00:03:59.050 --> 00:04:04.280
+1, 2, 3, 4, 5, 6.
+
+00:04:04.280 --> 00:04:12.630
+Asi que 2, 6 esta ubicado aqui.
+
+00:04:12.630 --> 00:04:14.740
+Y ese es el vector b.
+
+00:04:14.740 --> 00:04:22.160
+...
+
+00:04:22.160 --> 00:04:25.300
+Se parecera asi
+
+00:04:25.300 --> 00:04:27.370
+Ese es el vector b.
+
+00:04:27.370 --> 00:04:30.630
+Y luego permitame escribir el vector a aqui abajo.
+
+00:04:30.630 --> 00:04:32.790
+Ese es el vector a.
+
+00:04:32.790 --> 00:04:35.210
+Y quiero tomar algunas combinaciones
+
+00:04:35.210 --> 00:04:36.720
+de vectores a y b.
+
+00:04:36.720 --> 00:04:38.400
+Y sumarlas para conseguir el vector c.
+
+00:04:38.400 --> 00:04:39.690
+A que se parece el vector c?
+
+00:04:39.690 --> 00:04:41.620
+Es 7, 6.
+
+00:04:41.620 --> 00:04:43.290
+Voy a dibujarlo en purpura.
+
+00:04:43.290 --> 00:04:50.390
+Asi que 1, 2, 3, 4, 5, 6, 7.
+
+00:04:50.390 --> 00:04:52.240
+...Coma 6.
+
+00:04:52.240 --> 00:04:55.940
+Asi que 7, 6 esta ubicado ahi.
+
+00:04:55.940 --> 00:04:57.190
+Ese es el vector c.
+
+00:04:57.190 --> 00:05:00.400
+...
+
+00:05:00.400 --> 00:05:02.145
+El vector c se ve asi.
+
+00:05:02.145 --> 00:05:09.000
+...
+
+00:05:09.000 --> 00:05:10.730
+Voy a dibujarlo asi.
+
+00:05:10.730 --> 00:05:14.640
+Y ese es el vector c.
+
+00:05:14.640 --> 00:05:16.010
+Cual fue el problema original que habia postulado?
+
+00:05:16.010 --> 00:05:19.460
+Dije que queria sumar algun multiple de vector a
+
+00:05:19.460 --> 00:05:21.890
+A algun multiple de vector b, y obtener el vector c.
+
+00:05:21.890 --> 00:05:24.000
+Y quiero ver cuales son esos multiples.
+
+00:05:24.000 --> 00:05:25.650
+Digamos entonces que el multiple que utilizo
+
+00:05:25.650 --> 00:05:27.650
+para multiplicar con vector a es "x".
+
+00:05:27.650 --> 00:05:29.210
+Y el multiple del vector b es "y".
+
+00:05:29.210 --> 00:05:33.380
+Entonces esencialmente quiero decir ... Lo hare en un color neutral...
+
+00:05:33.380 --> 00:05:42.330
+Que el vector ax (esa es la cantidad del vector a que estoy
+
+00:05:42.330 --> 00:05:49.740
+contribuyendo) mas el vector by (esa es la cantidad del vector b que estoy
+
+00:05:49.740 --> 00:05:54.920
+contribuyendo) es igual al vector c.
+
+00:05:54.920 --> 00:05:56.200
+Y quizas no pueda.
+
+00:05:56.200 --> 00:05:59.470
+Quizas no haya combinaciones de los vectores a y b cuando
+
+00:05:59.470 --> 00:06:00.830
+Los sumas que igualen al vector c
+
+00:06:00.830 --> 00:06:03.120
+Pero veamos si podemos resolver esto.
+
+00:06:03.120 --> 00:06:03.830
+Asi que como lo hacemos?
+
+00:06:03.830 --> 00:06:05.900
+Agrandemos los vectores a y b.
+
+00:06:05.900 --> 00:06:06.710
+Vector a es que?
+
+00:06:06.710 --> 00:06:07.860
+3, -6.
+
+00:06:07.860 --> 00:06:17.210
+Asi que el vector a puede ser escrito como 3, -6 por x.
+
+00:06:17.210 --> 00:06:20.120
+Eso solo nos dice cuanto del vector a estamos contribuyendo.
+
+00:06:20.120 --> 00:06:22.120
+Mas el vector b, que es 2, 6.
+
+00:06:22.120 --> 00:06:26.790
+...
+
+00:06:26.790 --> 00:06:29.240
+Y aqui y es cuanto del vector b estamos contribuyendo.
+
+00:06:29.240 --> 00:06:33.960
+Y eso es igual a 7, 6.
+
+00:06:33.960 --> 00:06:36.920
+Vector c.
+
+00:06:36.920 --> 00:06:41.440
+Ahora esto, este problema puede ser re-escrito
+
+00:06:41.440 --> 00:06:43.990
+solo basado en como hemos definido la multiplicacion de matriz,
+
+00:06:43.990 --> 00:06:47.150
+et cetera, et cetera, asi.
+
+00:06:47.150 --> 00:07:07.780
+3, -6, 2, 6, por x, y, es igual a 7, 6.
+
+00:07:07.780 --> 00:07:09.150
+Como entonces, se resuelve esto?
+
+00:07:09.150 --> 00:07:11.850
+Bueno, piensa en como la multiplicacion de matrices se hace.
+
+00:07:11.850 --> 00:07:16.530
+De la manera que aprendimos a la multiplicacion de matrices
+
+00:07:16.530 --> 00:07:25.250
+Dijimos que 3 por x, mas 2 por y es igual a 7.
+
+00:07:25.250 --> 00:07:28.740
+3 por x mas 2 por y es igual a 7.
+
+00:07:28.740 --> 00:07:30.800
+Asi es como aprendimos la multiplicacion de matrices.
+
+00:07:30.800 --> 00:07:31.700
+Es lo mismo aqui.
+
+00:07:31.700 --> 00:07:37.170
+3 por x, mas 2 por y, va a ser igual a 7.
+
+00:07:37.170 --> 00:07:39.270
+Este "x" y "y" aqui solamente son numeros escalados.
+
+00:07:39.270 --> 00:07:41.380
+Asi que 3 por x mas 2 por y es igual a 7.
+
+00:07:41.380 --> 00:07:45.630
+Y luego la multiplicacion de matriz aqui, -6 por x mas
+
+00:07:45.630 --> 00:07:47.030
+6 por y es igual a 6.
+
+00:07:47.030 --> 00:07:49.080
+Eso es solamente, la multiplicacion de matriz que aprendimos
+
+00:07:49.080 --> 00:07:50.330
+Hace ya algunos videos.
+
+00:07:50.330 --> 00:07:51.120
+Es lo mismo aqui.
+
+00:07:51.120 --> 00:07:54.390
+-6x mas 6y es igual a 6.
+
+00:07:54.390 --> 00:07:56.560
+Estos x's y y's son solo numeros
+
+00:07:56.560 --> 00:07:57.410
+Solamente numeros escalados
+
+00:07:57.410 --> 00:07:58.380
+No son vectores ni nada por el estilo.
+
+00:07:58.380 --> 00:08:01.640
+Simplemente los multiplicariamos con estos dos numeros.
+
+00:08:01.640 --> 00:08:03.710
+Espero entonces que vean que este problema es exactamente
+
+00:08:03.710 --> 00:08:04.580
+lo mismo que este otro.
+
+00:08:04.580 --> 00:08:08.030
+Y quizas ya an tenido un momento de epifania, si han
+
+00:08:08.030 --> 00:08:08.700
+mirado el video anterior...
+
+00:08:08.700 --> 00:08:16.070
+Porque esta matriz tambien represento el problema, donde
+
+00:08:16.070 --> 00:08:18.210
+Encotramos la interseccion de las dos lineas?
+
+00:08:18.210 --> 00:08:20.220
+Donde las dos lineas- Lo voy a hacer al costado
+
+00:08:20.220 --> 00:08:24.290
+Aqui- La interseccion de las dos lineas, 3x mas
+
+00:08:24.290 --> 00:08:26.210
+2y es igual a 7.
+
+00:08:26.210 --> 00:08:31.800
+Y -6x mas 6y es igual a 6.
+
+00:08:31.800 --> 00:08:33.409
+Y asi, he dibujado dos lineas.
+
+00:08:33.409 --> 00:08:34.900
+Y hemos dicho, cual es el punto de interceccion,
+
+00:08:34.900 --> 00:08:35.600
+et cetera, et cetera.
+
+00:08:35.600 --> 00:08:37.539
+Y fue representado por este problema.
+
+00:08:37.539 --> 00:08:39.860
+Pero aqui, tenemos- bueno no diria un problema
+
+00:08:39.860 --> 00:08:41.140
+Completamente diferente, porque estamos aprendiendo que
+
+00:08:41.140 --> 00:08:43.580
+Son bastante similares- pero aqui estoy haciendo un problema de
+
+00:08:43.580 --> 00:08:46.870
+Estoy tratando de encontrar la combinancion de matrices
+
+00:08:46.870 --> 00:08:49.570
+a y b, sumarlas a la matriz c.
+
+00:08:49.570 --> 00:08:53.340
+Pero se ha reducido a la misma representacion de matriz.
+
+00:08:53.340 --> 00:08:56.430
+Y entonces podemos resolver esto de exactamente la misma manera
+
+00:08:56.430 --> 00:08:57.750
+que resolvimos este problema.
+
+00:08:57.750 --> 00:09:02.570
+Si llamamos esto la matriz a, figuremos la inversa.
+
+00:09:02.570 --> 00:09:06.190
+Conceguimos entonces a inversa es igual a que?
+
+00:09:06.190 --> 00:09:08.222
+Es igual a 1 sobre el determinante de a.
+
+00:09:08.222 --> 00:09:10.740
+El determinante de a is 3 por 6.
+
+00:09:10.740 --> 00:09:13.850
+18 menos -12
+
+00:09:13.850 --> 00:09:18.560
+Asi que eso es 18 mas 12, que es 1/30
+
+00:09:18.560 --> 00:09:19.850
+Y ya hemos hecho esto en el video anterior.
+
+00:09:19.850 --> 00:09:21.170
+Intercambias estos dos numeros
+
+00:09:21.170 --> 00:09:23.150
+Y entonces concigues 6 y 3.
+
+00:09:23.150 --> 00:09:25.120
+Y luego negativizas estos dos.
+
+00:09:25.120 --> 00:09:28.600
+Y entoces resulta en -6 y -2.
+
+00:09:28.600 --> 00:09:29.730
+Esa es la inversa.
+
+00:09:29.730 --> 00:09:32.590
+Y ahora para resolver para x y para y, podemos multiplicar
+
+00:09:32.590 --> 00:09:34.210
+los dos lados de esta ecuación por la inversa.
+
+00:09:34.210 --> 00:09:37.340
+Si multiplicas a inversa por a, esto se cancela.
+
+00:09:37.340 --> 00:09:45.790
+Concigues entonces x, y es igual a a inversa por esto.
+
+00:09:45.790 --> 00:09:53.740
+Es igual a 1/30 por 6, -2, 6, 3.
+
+00:09:53.740 --> 00:09:55.330
+Por 7, 6.
+
+00:09:55.330 --> 00:09:58.250
+Y recuerden, con las matrices, el orden que
+
+00:09:58.250 --> 00:09:59.830
+multiplican importa.
+
+00:09:59.830 --> 00:10:01.830
+Asi que en este lado, multiplicamos a inversa
+
+00:10:01.830 --> 00:10:03.250
+En este lado de la ecuación
+
+00:10:03.250 --> 00:10:06.580
+Asi que debemos hacer a inversa on el lado izquierdo
+
+00:10:06.580 --> 00:10:07.530
+De la ecuación
+
+00:10:07.530 --> 00:10:08.360
+Por eso entonces, lo hice aqui.
+
+00:10:08.360 --> 00:10:11.570
+Si lo hubieramos hecho de la otra manera, todo se desmorona.
+
+00:10:11.570 --> 00:10:13.310
+Asi que cual es el resultado?
+
+00:10:13.310 --> 00:10:17.860
+Esto es igual a 1/30 por - Y ya hicimos esto
+
+00:10:17.860 --> 00:10:21.060
+en el problema anterior - 6 por 7 es 42, menos 12
+
+00:10:21.060 --> 00:10:22.250
+30.
+
+00:10:22.250 --> 00:10:23.410
+6 por 7, 42.
+
+00:10:23.410 --> 00:10:24.220
+Mas 18
+
+00:10:24.220 --> 00:10:26.170
+60.
+
+00:10:26.170 --> 00:10:30.800
+Asi que eso es igual 1, 2.
+
+00:10:30.800 --> 00:10:32.170
+Que entonces, nos dice esto?
+
+00:10:32.170 --> 00:10:37.130
+Esto nos dice que si tenmos 1 por el vector a, mas
+
+00:10:37.130 --> 00:10:38.610
+2 por el vector b
+
+00:10:38.610 --> 00:10:43.360
+1 por... este es 1... y 2 por vector b.
+
+00:10:43.360 --> 00:10:46.420
+Asi que 1 por vector a mas 2 por el vector b es
+
+00:10:46.420 --> 00:10:47.685
+Igual al vector c.
+
+00:10:47.685 --> 00:10:49.090
+Y confrimemos esto visualmente.
+
+00:10:49.090 --> 00:10:50.820
+Asi que 1 por vector a.
+
+00:10:50.820 --> 00:10:52.140
+Bueno, ese es el vecto a aqui.
+
+00:10:52.140 --> 00:10:55.410
+Asi que si sumamos 2 vectores b a esto, obtendremos vector c.
+
+00:10:55.410 --> 00:10:57.300
+Veramos entonces si podemos hacerlo.
+
+00:10:57.300 --> 00:11:01.150
+Asi que si solamente movemos el vector b a este lado,
+
+00:11:01.150 --> 00:11:03.330
+Veremos, el vector b esta 2 hacia este lado y 6 hacia arriba.
+
+00:11:03.330 --> 00:11:08.020
+2 hacia este lado, y 6 hacia arriba nos pondria ahi.
+
+00:11:08.020 --> 00:11:12.230
+Asi que, 1, vector b- solo haciendo un metodo visual de "patas arriba"
+
+00:11:12.230 --> 00:11:16.240
+De sumar vectores - nos llevaria ahi.
+
+00:11:16.240 --> 00:11:17.271
+1, 2, 3.
+
+00:11:17.271 --> 00:11:18.521
+Bueno.
+
+00:11:18.521 --> 00:11:20.820
+...
+
+00:11:20.820 --> 00:11:23.250
+No, dejenme ver.
+
+00:11:23.250 --> 00:11:26.780
+1, 2, 3.
+
+00:11:26.780 --> 00:11:30.340
+Y luego el vector b va dos mas..
+
+00:11:30.340 --> 00:11:33.140
+Dos mas...
+
+00:11:33.140 --> 00:11:35.240
+Asi no llevara 6 hacia arriba.
+
+00:11:35.240 --> 00:11:36.860
+Es asi,
+
+00:11:36.860 --> 00:11:40.410
+Asi que 1, vector b.
+
+00:11:40.410 --> 00:11:43.550
+Y luego, si sumamos otro- pero queremos el doble de vector b.
+
+00:11:43.550 --> 00:11:45.180
+Esencialmente necesitamos dos vectores b
+
+00:11:45.180 --> 00:11:47.820
+Ya teniamos uno, y ahora sumamos otro.
+
+00:11:47.820 --> 00:11:51.395
+Creo que visualmente veras que hace actualmente... No queria
+
+00:11:51.395 --> 00:11:52.160
+Hacerlo de esta manera.
+
+00:11:52.160 --> 00:11:55.240
+Queria usar la linea del programa porque se ve mas prolijo.
+
+00:11:55.240 --> 00:11:56.830
+Sumas entonces otro vector b.
+
+00:11:56.830 --> 00:11:59.840
+Y ahi lo tienes.
+
+00:11:59.840 --> 00:12:01.320
+Ese es un vector b.
+
+00:12:01.320 --> 00:12:02.680
+Es 2 veces vector b.
+
+00:12:02.680 --> 00:12:05.530
+Esta en la misma direccion que el vector b, pero es dos veces
+
+00:12:05.530 --> 00:12:06.270
+De largo
+
+00:12:06.270 --> 00:12:07.610
+Asi que lo demostramos visualmente.
+
+00:12:07.610 --> 00:12:10.530
+Lo resolvimos algebraicamente.
+
+00:12:10.530 --> 00:12:13.990
+Pero el aprendizage realmente, y el gran descubrimiento
+
+00:12:13.990 --> 00:12:18.730
+De este video, es mostrar que la representacion de matriz
+
+00:12:18.730 --> 00:12:23.720
+Puede representar muchos diferentes problemas.
+
+00:12:23.720 --> 00:12:26.210
+Esto fue encontrar las combinaciones de un problema de vectores
+
+00:12:26.210 --> 00:12:28.360
+Y el anterior fue para figurar si
+
+00:12:28.360 --> 00:12:30.090
+las dos lineas intersectaban.
+
+00:12:30.090 --> 00:12:32.420
+Pero lo que esto nos dice es que estos dos problemas
+
+00:12:32.420 --> 00:12:33.980
+estan conectados de una manera muy profunda.
+
+00:12:33.980 --> 00:12:37.830
+Que aclarando nuestra vision, que debajo,
+
+00:12:37.830 --> 00:12:39.260
+Encontramos son la misma cosa.
+
+00:12:39.260 --> 00:12:41.890
+Y francamente, por eso es que la matematica es tan interesante.
+
+00:12:41.890 --> 00:12:45.480
+Porque cuando te das cuenta que dos problemas realmente
+
+00:12:45.480 --> 00:12:48.540
+Son la misma cosa, limpia todos los arreglos humanos superficiales
+
+00:12:48.540 --> 00:12:49.780
+Y aclara las cosas
+
+00:12:49.780 --> 00:12:52.280
+Porque nuestros cerebros estan acostumbrados a percibir el mundo
+
+00:12:52.280 --> 00:12:52.790
+De una manera en particular.
+
+00:12:52.790 --> 00:12:56.330
+Pero esto nos dice que hay una especie de Verdad Fundamental.
+
+00:12:56.330 --> 00:13:00.050
+independiente de nuestra percepcion, que ata todas
+
+00:13:00.050 --> 00:13:01.350
+Estas cosas diferentes juntas.
+
+00:13:01.350 --> 00:13:03.800
+De qualquier manera, no quiero convertime en un mistico con ustedes.
+
+00:13:03.800 --> 00:13:05.780
+Pero si tu ves el misticismo en
+
+00:13:05.780 --> 00:13:07.310
+La matematica, mucho mejor.
+
+00:13:07.310 --> 00:13:10.890
+Espero entonces que hallas encontrado esto bastante interesante.
+
+00:13:10.890 --> 00:13:12.660
+Y realmente, ya se que me pase de tiempo, pero creo que
+
+00:13:12.660 --> 00:13:15.820
+Esto es - Mucha gente toma algebra linear, y aprenden
+
+00:13:15.820 --> 00:13:17.500
+Como hacer todas las operaciones, y dicen, y cual es el
+
+00:13:17.500 --> 00:13:18.180
+Punto de todo esto?
+
+00:13:18.180 --> 00:13:20.020
+Pero esto es una cosa bastante
+
+00:13:20.020 --> 00:13:22.250
+interesante para pensar.
+
+00:13:22.250 --> 00:13:27.070
+Teniamos este vector a y este vector b.
+
+00:13:27.070 --> 00:13:29.310
+Y luego pudimos decir, bueno hay algunas combinaciones
+
+00:13:29.310 --> 00:13:31.600
+De los vectores a y b, que cuando las sumemos,
+
+00:13:31.600 --> 00:13:34.400
+Obtendremos al vector c.
+
+00:13:34.400 --> 00:13:38.250
+Asi que una pregunta interesante es, cuales son todos los vectores
+
+00:13:38.250 --> 00:13:42.390
+Que pueda conceguir sumando las combinaciones
+
+00:13:42.390 --> 00:13:43.220
+de los vectores a y b.
+
+00:13:43.220 --> 00:13:44.600
+Sumando o restando.
+
+00:13:44.600 --> 00:13:46.280
+O se puede decir, puedo multiplicarlos
+
+00:13:46.280 --> 00:13:47.090
+Por numeros negativos,
+
+00:13:47.090 --> 00:13:47.730
+Pero de cualquier forma.
+
+00:13:47.730 --> 00:13:51.260
+Cuales son todos los vectores que puedo obtener
+
+00:13:51.260 --> 00:13:53.490
+Tomando combinaciones lineares de los vectores a y b?
+
+00:13:53.490 --> 00:13:57.600
+Y es se llama el espacio de vector
+
+00:13:57.600 --> 00:13:58.360
+Ocupado por los vectores a y b.
+
+00:13:58.360 --> 00:14:01.060
+Y haremos mas de esto en algebra linear.
+
+00:14:01.060 --> 00:14:02.460
+Y aqui estamos operando con
+
+00:14:02.460 --> 00:14:04.450
+Un espacio duo-dimensional Euclideano.
+
+00:14:04.450 --> 00:14:06.160
+Podriamos tambien tener vectores tri-dimensionales.
+
+00:14:06.160 --> 00:14:07.740
+Podriamos tener vectores en n-dimensiones.
+
+00:14:07.740 --> 00:14:09.990
+Asi que se puede convertir muy, muy, muy abstracto.
+
+00:14:09.990 --> 00:14:14.390
+Pero esto es, creo, una muy buena manera para "mojarse los deditos de los pies"
+
+00:14:14.390 --> 00:14:14.980
+Y entrar en el mundo de algebra lineal tambien.
+
+00:14:14.980 --> 00:14:17.110
+Espero entonces no haberlos confundido o abrumado.
+
+00:14:17.110 --> 00:14:19.430
+Y los vere en el proximo video
+
+00:14:19.430 --> 00:14:19.500
+Traducido por un voluntario anonimo de khanacademy.org

@@ -1,0 +1,663 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.790 --> 00:00:04.540
+Vamos a explorar las repercusiones de este
+
+00:00:04.540 --> 00:00:05.590
+ecuación de algunos más.
+
+00:00:05.590 --> 00:00:06.810
+¿Cuál fue la ecuación?
+
+00:00:06.810 --> 00:00:10.300
+Lo que fue la fuerza de un campo magnético en movimiento
+
+00:00:10.300 --> 00:00:14.220
+partícula cargada es igual a la carga--que no es lo que
+
+00:00:14.220 --> 00:00:17.860
+quería hacer--es igual a la carga de la partícula--y
+
+00:00:17.860 --> 00:00:21.200
+eso es sólo una cantidad escalar--veces el
+
+00:00:21.200 --> 00:00:25.520
+velocidad--el producto vectorial de la velocidad de la
+
+00:00:25.520 --> 00:00:30.620
+partícula--con el campo magnético.
+
+00:00:30.620 --> 00:00:35.550
+Ahora, no es la velocidad vector sólo lo mismo que la
+
+00:00:35.550 --> 00:00:38.000
+¿vector de distancia dividido por el tiempo?
+
+00:00:38.000 --> 00:00:41.370
+Así que el vector de velocidad es igual a--vamos a llamar la
+
+00:00:41.370 --> 00:00:45.280
+distancia que recorre el electrón, l.
+
+00:00:45.280 --> 00:00:47.620
+Distancia dividida por tiempo.
+
+00:00:47.620 --> 00:00:51.180
+Así nos podríamos volver a escribir que el vector de fuerza es igual a
+
+00:00:51.180 --> 00:00:55.780
+los tiempos de carga--y yo estoy haciendo esto a propósito--1
+
+00:00:55.780 --> 00:00:57.600
+¿tiempo, correcto?
+
+00:00:57.600 --> 00:01:03.720
+Veces el vector de distancia tomado--tomar la Cruz
+
+00:01:03.720 --> 00:01:06.530
+producto con el campo magnético.
+
+00:01:06.530 --> 00:01:10.730
+Todo lo que hice es reescribió velocidad según tiempos de tiempo
+
+00:01:10.730 --> 00:01:13.140
+distancia, o distancia por tiempo.
+
+00:01:13.140 --> 00:01:15.950
+Y esto es una cantidad escalar, al menos para nuestros propósitos,
+
+00:01:15.950 --> 00:01:17.890
+tiempo sólo tiene una magnitud.
+
+00:01:17.890 --> 00:01:19.660
+Quizás podríamos llamarlo cambio en el tiempo.
+
+00:01:19.660 --> 00:01:20.850
+Pero no tiene sentido.
+
+00:01:20.850 --> 00:01:23.470
+No vamos a un ángulo en el tiempo.
+
+00:01:23.470 --> 00:01:25.120
+Así que podríamos tomar la cantidad escalar.
+
+00:01:25.120 --> 00:01:27.110
+No afecta a este vector producto cruzado.
+
+00:01:27.110 --> 00:01:32.440
+Por lo que solamente queda es, fuerza es igual a la carga por
+
+00:01:32.440 --> 00:01:36.250
+tiempos de tiempo--y esto es sólo una horas regulares, porque esto
+
+00:01:36.250 --> 00:01:39.010
+es sólo un número, no es un vector--veces la Cruz
+
+00:01:39.010 --> 00:01:46.420
+producto del vector de distancia y el campo magnético.
+
+00:01:46.420 --> 00:01:49.840
+¿Y lo que cobran por hora?
+
+00:01:49.840 --> 00:01:51.350
+¿Coulombs por segundo?
+
+00:01:51.350 --> 00:01:52.770
+Bueno, eso es justo actual.
+
+00:01:52.770 --> 00:02:00.790
+Así obtenemos que la fuerza es igual a la actual veces la distancia
+
+00:02:00.790 --> 00:02:08.199
+que la corriente fluye a lo largo, tomada--y tomar
+
+00:02:08.199 --> 00:02:11.930
+el producto cruzado de con el campo magnético.
+
+00:02:11.930 --> 00:02:14.160
+Y a veces esto se escribe como un capital l porque tiene una
+
+00:02:14.160 --> 00:02:16.940
+Vector y todo eso, pero comenzamos con una l minúscula,
+
+00:02:16.940 --> 00:02:18.660
+así que quedo con la l minúscula.
+
+00:02:18.660 --> 00:02:21.750
+Así que vamos a ver si podemos aplicar esta fórmula, que es realmente
+
+00:02:21.750 --> 00:02:22.580
+lo mismo que esto.
+
+00:02:22.580 --> 00:02:25.800
+Simplemente tomamos la división por tiempo y tomó de
+
+00:02:25.800 --> 00:02:27.380
+velocidad por lo que obtenemos la distancia.
+
+00:02:27.380 --> 00:02:30.660
+Y lo tomamos y hemos dividido las coulombs, o tomamos el
+
+00:02:30.660 --> 00:02:32.070
+carga dividida por.
+
+00:02:32.070 --> 00:02:36.470
+Así que tomamos cargo dividido por tiempo o carga por unidad de
+
+00:02:36.470 --> 00:02:37.770
+tiempo, obtienes actual.
+
+00:02:37.770 --> 00:02:42.000
+Así que esto es simplemente otra forma de escribir esto.
+
+00:02:42.000 --> 00:02:43.710
+Ni siquiera es una nueva fórmula.
+
+00:02:43.710 --> 00:02:45.100
+Podría probarlo casi a sí mismo si
+
+00:02:45.100 --> 00:02:46.510
+nunca la olvida.
+
+00:02:46.510 --> 00:02:52.420
+Pero vamos a ver si podemos utilizar esto para averiguar el efecto
+
+00:02:52.420 --> 00:02:56.330
+que tiene un campo magnético en un alambre de transporte actual.
+
+00:02:56.330 --> 00:02:58.520
+Así que permítanme--en realidad, probablemente quiero poner esto para arriba
+
+00:02:58.520 --> 00:03:02.550
+en la parte superior, justa por lo que tengo espacio para dibujar una corriente
+
+00:03:02.550 --> 00:03:03.355
+cable de transporte.
+
+00:03:03.355 --> 00:03:05.640
+Así que permítanme reescribir en verde.
+
+00:03:05.640 --> 00:03:09.220
+Así que estás familiarizado con la fórmula de todos los colores.
+
+00:03:09.220 --> 00:03:13.680
+Así que ahora nuestra nueva derivación es que la fuerza de un magnético
+
+00:03:13.680 --> 00:03:19.280
+campo de un cable de transporte actual es igual a la corriente
+
+00:03:19.280 --> 00:03:22.770
+en el cable--y que es sólo una cantidad escalar, aunque se
+
+00:03:22.770 --> 00:03:25.760
+puede ser positiva o negativa dependiendo de la dirección.
+
+00:03:25.760 --> 00:03:29.400
+Bueno, actual es siempre un número, positivo, pero si esta
+
+00:03:29.400 --> 00:03:31.650
+corriente va en sentido contrario a nuestro
+
+00:03:31.650 --> 00:03:33.040
+vector de distancia, entonces podría ser negativo.
+
+00:03:33.040 --> 00:03:34.810
+Pero no se preocupe acerca de eso por ahora.
+
+00:03:34.810 --> 00:03:37.530
+Supongamos que se trata de una corriente en la dirección de
+
+00:03:37.530 --> 00:03:39.080
+el vector de distancia.
+
+00:03:39.080 --> 00:03:43.210
+Por lo que es un escalar cantidad actual veces nuestra distancia
+
+00:03:43.210 --> 00:03:47.200
+vector l, o tal vez la longitud del conductor.
+
+00:03:47.200 --> 00:03:49.650
+Llevas el producto cruzado de l con el
+
+00:03:49.650 --> 00:03:52.980
+vector de campo magnético.
+
+00:03:52.980 --> 00:03:54.360
+Así que vamos a ver si podemos aplicar.
+
+00:03:54.360 --> 00:03:57.430
+Supongamos que tenemos un cable.
+
+00:03:57.430 --> 00:04:02.070
+En realidad, primero hagamos el campo magnético. Me has
+
+00:04:02.070 --> 00:04:03.130
+estado haciendo un montón de campos magnéticos
+
+00:04:03.130 --> 00:04:04.490
+salga de la pantalla.
+
+00:04:04.490 --> 00:04:07.810
+Vamos a hacer un campo magnético que entra en la pantalla.
+
+00:04:07.810 --> 00:04:09.310
+Y esos son aún más fáciles de dibujar.
+
+00:04:09.310 --> 00:04:11.080
+Son solo x
+
+00:04:11.080 --> 00:04:12.550
+Ahora, ¿por qué es una x?
+
+00:04:12.550 --> 00:04:16.750
+Porque estás mirando la parte trasera de una flecha.
+
+00:04:16.750 --> 00:04:17.720
+Por eso es una x.
+
+00:04:17.720 --> 00:04:21.740
+Y eso es por qué un círculo con un punto significa que un campo o un vector
+
+00:04:21.740 --> 00:04:24.420
+saliendo de la ventana.
+
+00:04:24.420 --> 00:04:27.750
+Porque si una flecha fue tiroteada, todo se podría ver es
+
+00:04:27.750 --> 00:04:30.350
+la punta de la flecha con quizás un poco
+
+00:04:30.350 --> 00:04:31.140
+un círculo alrededor de ella.
+
+00:04:31.140 --> 00:04:34.160
+Pero de todas formas, esto nos muestra un vector que va en la pantalla.
+
+00:04:34.160 --> 00:04:36.430
+Este es nuestro campo magnético.
+
+00:04:36.430 --> 00:04:38.970
+Es B.
+
+00:04:38.970 --> 00:04:40.620
+No sé, vamos a asignar cierto valor.
+
+00:04:40.620 --> 00:04:49.200
+Supongamos que la magnitud de b es igual a 1 tesla.
+
+00:04:49.200 --> 00:04:53.140
+Y digamos que tengo un cable que va a través de
+
+00:04:53.140 --> 00:04:56.300
+ese campo magnético.
+
+00:04:56.300 --> 00:05:04.400
+Digamos que el cable va a lo largo o es en el plano de
+
+00:05:04.400 --> 00:05:06.800
+el monitor del ordenador.
+
+00:05:06.800 --> 00:05:15.280
+Permítanme llamar solo un alambre pasando por el campo magnético.
+
+00:05:15.280 --> 00:05:18.210
+Y mi pregunta a usted--déjame contarte un poco de
+
+00:05:18.210 --> 00:05:20.620
+información acerca de este cable.
+
+00:05:20.620 --> 00:05:24.050
+Digamos que el cable está llevando a cabo una corriente.
+
+00:05:24.050 --> 00:05:27.670
+Así va en esa dirección.
+
+00:05:27.670 --> 00:05:32.410
+Y está llevando a cabo una corriente de--sólo estoy haciendo
+
+00:05:32.410 --> 00:05:38.330
+números--5 amperios, o 5 coulombs por segundo.
+
+00:05:38.330 --> 00:05:44.060
+Mi pregunta es, ¿cuál es la fuerza neta de este magnético
+
+00:05:44.060 --> 00:05:47.550
+¿campo de una sección de este hilo?
+
+00:05:47.550 --> 00:05:50.370
+Y vamos a hacer esta sección del cable, no sé, vamos a
+
+00:05:50.370 --> 00:05:53.190
+dicen que es una sección de 2 metros de cable.
+
+00:05:56.890 --> 00:06:00.720
+Así que, evidentemente, cuanta más cable que tiene, el movimiento más cargada
+
+00:06:00.720 --> 00:06:03.390
+partículas que tendrás. Una sección así el más grande tiene, la
+
+00:06:03.390 --> 00:06:06.960
+más de una fuerza que tendrás en ese pedazo largo de alambre.
+
+00:06:06.960 --> 00:06:08.540
+Así que tenemos que escoger nuestro largo.
+
+00:06:08.540 --> 00:06:10.610
+Por lo que queremos saber, ¿cuál es la fuerza de la magnética
+
+00:06:10.610 --> 00:06:12.970
+¿campo en esta sección de cable?
+
+00:06:12.970 --> 00:06:16.590
+Desde aquí hasta aquí.
+
+00:06:16.590 --> 00:06:17.910
+Tan sólo vamos a esta fórmula.
+
+00:06:17.910 --> 00:06:20.200
+La fuerza es igual a la corriente.
+
+00:06:20.200 --> 00:06:21.760
+Por lo es de 5 amperios.
+
+00:06:21.760 --> 00:06:24.320
+Y recuerde, sólo de lo que aprendimos acerca de electricidad,
+
+00:06:24.320 --> 00:06:28.390
+la corriente es la dirección que nocional cargas positivas
+
+00:06:28.390 --> 00:06:30.090
+viajaría en y nos convenga fino.
+
+00:06:30.090 --> 00:06:33.830
+Porque cuando hicimos la primera ecuación, nos preocupaba la
+
+00:06:33.830 --> 00:06:35.360
+se iría dirección una carga positiva.
+
+00:06:35.360 --> 00:06:37.770
+Y si fue un electrón o carga negativa, pondríamos
+
+00:06:37.770 --> 00:06:38.630
+hay un signo negativo.
+
+00:06:38.630 --> 00:06:39.570
+Lo funciona bien.
+
+00:06:39.570 --> 00:06:41.850
+Pero si alguna vez tiene que visualizar cosas que tal vez
+
+00:06:41.850 --> 00:06:44.260
+en realidad, pero cuando hablas de electrones es difícil
+
+00:06:44.260 --> 00:06:46.130
+decir que son realmente la realidad, porque son
+
+00:06:46.130 --> 00:06:48.310
+casi más una idea de un objeto.
+
+00:06:48.310 --> 00:06:50.760
+Pero siempre es bueno recordar que cuando la corriente
+
+00:06:50.760 --> 00:06:53.170
+está fluyendo en este sentido, que sería verdad.
+
+00:06:53.170 --> 00:06:55.820
+Porque si fueran cargas positivas móviles, pero sabemos
+
+00:06:55.820 --> 00:06:59.150
+es una carga negativa que se mueve en la dirección opuesta.
+
+00:06:59.150 --> 00:07:01.960
+O usted puede considerar como, tal vez, de los agujeros.
+
+00:07:01.960 --> 00:07:03.490
+Bueno, no quiero entrar en.
+
+00:07:03.490 --> 00:07:07.130
+Pero de todas formas, la corriente--usted puede visualizarlo si lo desea
+
+00:07:07.130 --> 00:07:08.770
+como cargas positivas va en esta dirección.
+
+00:07:08.770 --> 00:07:10.650
+Por lo que la corriente va en esta dirección.
+
+00:07:10.650 --> 00:07:13.170
+Así podría ver este vector de distancia
+
+00:07:13.170 --> 00:07:15.490
+que nos importa.
+
+00:07:15.490 --> 00:07:17.670
+Su magnitud es de 2 metros.
+
+00:07:17.670 --> 00:07:19.990
+Porque esa es la longitud del cable en cuestión.
+
+00:07:19.990 --> 00:07:22.700
+Y su dirección es la dirección de la corriente.
+
+00:07:22.700 --> 00:07:27.110
+Así que permítanme--esto es l.
+
+00:07:27.110 --> 00:07:30.990
+A veces me pongo un poco arrastrados sobre tangentes.
+
+00:07:30.990 --> 00:07:32.280
+Por lo es l.
+
+00:07:35.530 --> 00:07:38.100
+Es 2 metros en esa dirección.
+
+00:07:38.100 --> 00:07:39.660
+Es de 5 amperios.
+
+00:07:39.660 --> 00:07:42.050
+Y ya pensamos que el
+
+00:07:42.050 --> 00:07:44.910
+campo magnético es 1 tesla.
+
+00:07:44.910 --> 00:07:46.950
+¿Qué es este va a ser igual?
+
+00:07:46.950 --> 00:07:52.180
+Por lo que la fuerza va a ser igual a--estamos utilizando SI todos
+
+00:07:52.180 --> 00:07:57.110
+unidades, por lo que no tenemos nada--convertir 5 amperios
+
+00:07:57.110 --> 00:08:02.840
+tiempos de 2 metros en esa dirección.
+
+00:08:02.840 --> 00:08:05.030
+No especifico ahora, digamos que un
+
+00:08:05.030 --> 00:08:07.540
+magnitud de l.
+
+00:08:07.540 --> 00:08:08.530
+En realidad, me deja escribirlo.
+
+00:08:08.530 --> 00:08:18.220
+Bueno, metros 2 veces el campo magnético, 1 tesla.
+
+00:08:18.220 --> 00:08:20.350
+Así que cuando usted toma un producto cruzado de algo, esto es
+
+00:08:20.350 --> 00:08:21.290
+simplemente un recordatorio.
+
+00:08:21.290 --> 00:08:22.050
+l Cruz B.
+
+00:08:22.050 --> 00:08:29.130
+Es igual a la magnitud de l veces la magnitud de b
+
+00:08:29.130 --> 00:08:35.700
+veces en el seno del ángulo entre ellos veces algunos unidad
+
+00:08:35.700 --> 00:08:37.299
+vector direccional que nosotros averiguar con
+
+00:08:37.299 --> 00:08:38.480
+la regla de la mano derecha.
+
+00:08:38.480 --> 00:08:40.870
+Así que ya hicimos la magnitud de
+
+00:08:40.870 --> 00:08:41.580
+el vector de distancia.
+
+00:08:41.580 --> 00:08:42.460
+Era de 2 metros.
+
+00:08:42.460 --> 00:08:45.590
+Hicimos la magnitud del campo magnético.
+
+00:08:45.590 --> 00:08:47.910
+Y ¿qué es el seno del ángulo entre ellos?
+
+00:08:47.910 --> 00:08:51.970
+Bueno, si el campo magnético es entrar en la pantalla, si es
+
+00:08:51.970 --> 00:08:53.690
+entrar directamente en la pantalla, se podría imaginar un
+
+00:08:53.690 --> 00:08:55.550
+hay un montón de flechas disparando en la pantalla.
+
+00:08:55.550 --> 00:08:56.930
+Esos son los vectores.
+
+00:08:56.930 --> 00:09:02.990
+Mientras nuestro vector de distancia, o esta l está en la pantalla,
+
+00:09:02.990 --> 00:09:04.980
+realmente son perpendiculares, en 3 dimensiones.
+
+00:09:04.980 --> 00:09:06.580
+Así, este ángulo es 90 grados.
+
+00:09:06.580 --> 00:09:09.400
+Por lo que en realidad se convierte en 1.
+
+00:09:09.400 --> 00:09:11.280
+Por lo tanto en términos de magnitud, hemos terminado.
+
+00:09:11.280 --> 00:09:15.250
+El l Cruz magnitud b es 2 veces 1 tesla.
+
+00:09:15.250 --> 00:09:17.030
+Y luego tenemos multiplicar veces la corriente.
+
+00:09:17.030 --> 00:09:19.360
+Y luego tenemos realmente la magnitud de la fuerza.
+
+00:09:19.360 --> 00:09:23.900
+La magnitud de esta fuerza va a ser igual a 5 amperios
+
+00:09:23.900 --> 00:09:26.570
+veces metros 2 veces 1 tesla.
+
+00:09:26.570 --> 00:09:30.090
+Que es igual a 10 newtons.
+
+00:09:30.090 --> 00:09:32.980
+Y entonces la única pregunta que queda es, ¿cuál es la dirección
+
+00:09:32.980 --> 00:09:35.400
+¿de la fuerza que ejerce el campo magnético?
+
+00:09:35.400 --> 00:09:38.360
+Y esto es donde nosotros romper la regla de la mano derecha.
+
+00:09:38.360 --> 00:09:39.220
+Y no es diferente.
+
+00:09:39.220 --> 00:09:44.980
+Sólo podrías imaginar una de las partículas positivas en movimiento
+
+00:09:44.980 --> 00:09:46.950
+en ese sentido y sólo utilizar la regla de la mano derecha.
+
+00:09:46.950 --> 00:09:50.450
+Así que vamos a sacar nuestra mano.
+
+00:09:50.450 --> 00:09:52.670
+Y si nos--permítanme dibujan una mano.
+
+00:09:52.670 --> 00:09:54.840
+Una mano derecha.
+
+00:09:54.840 --> 00:09:58.400
+Este es mi mano derecha.
+
+00:09:58.400 --> 00:10:00.500
+Si tengo mi pulgar sobresale como ese.
+
+00:10:00.500 --> 00:10:03.550
+Así que la l va a ser mi dedo índice.
+
+00:10:03.550 --> 00:10:05.910
+Lo primero en el producto cruzado.
+
+00:10:05.910 --> 00:10:08.610
+Y luego el b es el campo magnético.
+
+00:10:08.610 --> 00:10:09.980
+Va en la pantalla.
+
+00:10:09.980 --> 00:10:11.210
+Así que usted no puede verlo.
+
+00:10:11.210 --> 00:10:13.710
+Todo que puede tomar mi palabra por que es mi dedo
+
+00:10:13.710 --> 00:10:16.390
+hacia abajo en la pantalla y luego mi otra
+
+00:10:16.390 --> 00:10:18.700
+los dedos sólo están haciendo otra cosa.
+
+00:10:18.700 --> 00:10:20.100
+Y ahí lo tienen.
+
+00:10:20.100 --> 00:10:22.760
+El pulgar es realmente la dirección de la fuerza.
+
+00:10:25.450 --> 00:10:31.150
+El dedo índice es la dirección de--nos dirá l para
+
+00:10:31.150 --> 00:10:32.180
+estos propósitos.
+
+00:10:32.180 --> 00:10:34.430
+Y, a continuación, el campo magnético va en ella, por lo que no puedes
+
+00:10:34.430 --> 00:10:36.250
+ver mi dedo pero está apuntando hacia abajo.
+
+00:10:36.250 --> 00:10:38.780
+Me pude llamar un poco x allí, para mostrar que va hacia abajo.
+
+00:10:38.780 --> 00:10:41.100
+Y, a continuación, la fuerza es lo que está haciendo mi pulgar.
+
+00:10:41.100 --> 00:10:44.400
+Así que la fuerza en este hilo, o al menos en esa sección del
+
+00:10:44.400 --> 00:10:47.630
+alambre, va a ser perpendicular a la dirección
+
+00:10:47.630 --> 00:10:48.830
+de la corriente.
+
+00:10:48.830 --> 00:10:52.290
+Y en ese sentido va a ser una fuerza de 10 newton.
+
+00:10:52.290 --> 00:10:54.790
+De todas formas, he agotado a tiempo.

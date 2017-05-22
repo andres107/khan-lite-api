@@ -1,0 +1,162 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.161 --> 00:00:03.533
+Lo que quiero hacer ahora es una serie de problemas
+
+00:00:03.533 --> 00:00:05.828
+que nos permitan asegurar que sabemos
+
+00:00:05.828 --> 00:00:09.267
+cuando trabajamos con líneas paralelas y triángulos
+
+00:00:09.267 --> 00:00:11.000
+y todo esto. Y que lo que tenemos aquí
+
+00:00:11.000 --> 00:00:14.745
+es un problema clásico. Lo que quiero hacer es
+
+00:00:14.745 --> 00:00:16.933
+lo que quiero resolver con la información que aquí tengo
+
+00:00:16.933 --> 00:00:19.760
+obviamente tengo un triángulo aquí y tengo otro
+
+00:00:19.760 --> 00:00:26.006
+triángulo aquí y nos han dado algunos de los ángulos internos de estos triángulos. A partir de esta información
+
+00:00:26.006 --> 00:00:30.133
+quiero resolver cuál es la medida de éste ángulo
+
+00:00:30.133 --> 00:00:35.533
+justo aquí. Quiero saber qué hay en la interrogación. Así que podrías intentarlo
+
+00:00:35.533 --> 00:00:42.267
+haciendo uso de lo que sabes de la suma de las medidas de los ángulos internos de un triángulo y
+
+00:00:42.267 --> 00:00:46.867
+tal vez un poco de lo que sabes de los ángulos suplementarios así que podrías pausar esto y hacer un intento
+
+00:00:46.867 --> 00:00:53.333
+por tí mismo ya que estoy por darte la solución. Lo primero que deberás decir, y es una manera general
+
+00:00:53.333 --> 00:00:57.467
+de pensar en estos problemas que te dan algunos ángulos y debes resolver otros ángulos
+
+00:00:57.467 --> 00:01:02.508
+basándote en que la suma de los ángulos internos de un triángulo es igual a 180, o en que éste no tiene líneas paralelas pero puedes
+
+00:01:02.508 --> 00:01:08.133
+observar uno con líneas paralelas y líneas suplementarias y complementarias poniendo todo
+
+00:01:08.133 --> 00:01:14.067
+y puedes imaginar un camino u otro que te permitan resolver qué hay en esta interrogación
+
+00:01:14.067 --> 00:01:19.087
+Lo primero que me viene a la mente es que tenemos un triángulo justo aquí, tenemos
+
+00:01:19.087 --> 00:01:25.200
+un triángulo a la izquierda, y sobre éste de la izquierda nos han dado dos ángulos. Y si tienes
+
+00:01:25.200 --> 00:01:29.267
+dos de los ángulos en un triángulo siempre puedes resolver el tercer ángulo porque
+
+00:01:29.267 --> 00:01:40.426
+siempre sumarán 180 grados.. Si lo llamamos 'x' sabemos que 'x' + 50 + 64 será igual
+
+00:01:40.426 --> 00:01:52.083
+a 180 grados. O podríamos decir 'x' mas 114 es igual a 180 grados, podemos restar 114 de ambos lados
+
+00:01:52.083 --> 00:02:03.867
+de esta ecuación y obtenemos 'x' es igual a 180 menos 114 por lo que 80 menos 14, 80 menos 10 es 70 menos
+
+00:02:03.867 --> 00:02:13.933
+otro 4 es 66. Si 'x' es 66 grados, si 'x' es 66 grados deberás encontrar que hay otro ángulo que no es
+
+00:02:13.933 --> 00:02:26.843
+difícil de resolver. Déjame escribirlo como 'x' es igual a 66 grados. Bueno, si nosotros
+
+00:02:26.843 --> 00:02:30.733
+conocemos éste ángulo de aquí, si sabemos que la medida del ángulo es 66 grados. Sabemos que
+
+00:02:30.733 --> 00:02:38.200
+el ángulo suplementario con éste ángulo de aquí, los lados externos forman un ángulo recto y son
+
+00:02:38.200 --> 00:02:47.021
+adyacentes. Sí llamamos a este ángulo 'y' y sabemos que 'y' mas 'x' será igual a 180 grados
+
+00:02:47.021 --> 00:02:56.100
+y sabemos que 'x' es igual a 66 grados, así que este es 66 por lo que podemos restar 66 de amboas lados y
+
+00:02:56.100 --> 00:03:06.085
+obtenemos que 'y' es igual a 180 - 66 es 114 y que el número 'n' debe ser familiar para tí. Observa que
+
+00:03:06.085 --> 00:03:12.933
+114 es la suma exacta de estos dos ángulos que están aquí. En realidad es una idea general que mostraré
+
+00:03:12.933 --> 00:03:19.761
+al lado y demostrártela. Digamos que tengo estos dos ángulos que y digamos que la medida
+
+00:03:19.761 --> 00:03:25.267
+de éste ángulo es 'a', de ese ángulo es 'b', la medida de éste ángulo sabemos que será 180 menos 'a'
+
+00:03:25.267 --> 00:03:32.333
+menos 'b', que es el ángulo que está aquí. Y este ángulo se considera ser un ángulo exterior
+
+00:03:32.333 --> 00:03:39.000
+así que en este ejemplo 'y' es un ángulo exterior en este ejemplo es tal que nuestro ángulo exterior será
+
+00:03:39.000 --> 00:03:47.667
+suplementario a 180 menos 'a' menos 'b' por lo que el ángulo mas 180 - a - b será igual a 180
+
+00:03:47.667 --> 00:03:59.514
+si llamamos a éste ángulo 'y' tendremos 'y' mas 180-a-b es igual a 180 podemos restar 180
+
+00:03:59.514 --> 00:04:07.757
+de ambos lados, puedes sumar 'a' y 'b' a ambos lados entonces +a +b me estoy quedando sin espacio en el lado derecho
+
+00:04:07.757 --> 00:04:13.200
+y nos queda en - estos se cancelan - el lado izquierdo nos queda 'y' en el lado derecho
+
+00:04:13.200 --> 00:04:19.088
+es igual a 'a' + 'b'. Esta es una propiedad general. Puedes hacer un razonamiento
+
+00:04:19.088 --> 00:04:25.067
+personal sólo con la suma de las medidas internas de los ángulos del
+
+00:04:25.067 --> 00:04:29.746
+triángulo suman 180 grados y también tenemos los ángulos suplementarios por aquí, también aquí y entonces
+
+00:04:29.746 --> 00:04:37.733
+puedes decir ¡Mira! sí tengo los ángulos exteriores por aquí y es igual que la suma de los ángulos interiores remotos
+
+00:04:37.733 --> 00:04:43.400
+y es sólo un poco de terminología de manera que 'y' es igual a 'a' + 'b', los 114 grados que ya habíamos
+
+00:04:43.400 --> 00:04:49.867
+mostrado es igual a 64 + 50 grados, de todos modos e independientemente de cómo lo hicimos razonamos
+
+00:04:49.867 --> 00:04:55.867
+paso por paso o sí solamente ya conocíamos esta propiedad y sabemos que 'y' = 14 grados y
+
+00:04:55.867 --> 00:05:02.092
+quiero pensarlo cada vez para asegurarme que no estoy adelentando conclusiones. Aspi que si 'y' es 114
+
+00:05:02.092 --> 00:05:07.467
+grados, conocemos este ángulo, si nos dieran éste ángulo desde el inicio sabríamos que sólo tenemos
+
+00:05:07.467 --> 00:05:13.353
+que resolver éste tercer ángulo en el tríangulo, así sí lo llamamos 'z', si llamamos a la interrogación e
+
+00:05:13.353 --> 00:05:26.000
+igualamos a 'z' sabemos que 'z' + 114 + 31 es igual a 180 grados. La suma de las medidas de los ángulos
+
+00:05:26.000 --> 00:05:31.418
+internos de un triángulo es 180 grados, es la única propiedad que utilizamos en esta paso.
+
+00:05:31.418 --> 00:05:44.607
+Así obtenemos 'z' mas lo que resulta de 145, 145 = 180, ¿lo hice bien? si tengo un 15 y un 30 ¡claro! 145 es
+
+00:05:44.607 --> 00:05:55.533
+igual a 180. Resto 145 de ambos lados de esta ecuación y resulta que z = 80 - 45 es igual a 35. Y terminamos.

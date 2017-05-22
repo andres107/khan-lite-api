@@ -1,0 +1,651 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.790 --> 00:00:01.530
+Bienvenido.
+
+00:00:01.530 --> 00:00:04.140
+Estamos finalmente utilizando la transformada de Laplace para hacer
+
+00:00:04.140 --> 00:00:05.460
+algo útil.
+
+00:00:05.460 --> 00:00:07.880
+En la primera parte de este problema, solamente teníamos esto
+
+00:00:07.880 --> 00:00:09.850
+ecuación diferencial bastante sencilla.
+
+00:00:09.850 --> 00:00:11.730
+Y sé que ahora mismo, es un poco frustrante porque
+
+00:00:11.730 --> 00:00:13.650
+eres igual, esto es tan fácil solucionar utilizando la
+
+00:00:13.650 --> 00:00:15.260
+ecuación característica.
+
+00:00:15.260 --> 00:00:16.640
+¿Por qué estamos haciendo de Laplace?
+
+00:00:16.640 --> 00:00:18.410
+También quiero mostrar que incluso éstos pueden resolver
+
+00:00:18.410 --> 00:00:20.660
+problemas. Pero más tarde allí van a ser las clases de
+
+00:00:20.660 --> 00:00:24.650
+problemas que, francamente, nuestros métodos tradicionales no son como
+
+00:00:24.650 --> 00:00:26.500
+bueno como la transformada de Laplace.
+
+00:00:26.500 --> 00:00:27.790
+¿Pero de todos modos, cómo solucionamos esto?
+
+00:00:27.790 --> 00:00:29.850
+Simplemente tomamos la transformada de Laplace de ambos lados del
+
+00:00:29.850 --> 00:00:30.870
+Esta ecuación.
+
+00:00:30.870 --> 00:00:33.540
+Tenemos todo este lío peluda.
+
+00:00:33.540 --> 00:00:36.145
+Hemos utilizado la propiedad de la derivada de funciones, donde
+
+00:00:36.145 --> 00:00:38.030
+tomar la transformada de Laplace, y terminamos,
+
+00:00:38.030 --> 00:00:40.100
+Después de hacer un montón de álgebra esencialmente, tenemos esto.
+
+00:00:40.100 --> 00:00:43.110
+Llegamos a la transformada de Laplace de y es igual a esta cosa.
+
+00:00:43.110 --> 00:00:45.330
+Simplemente tomamos la transformada de Laplace de ambos lados y
+
+00:00:45.330 --> 00:00:47.170
+manipular algebraicamente.
+
+00:00:47.170 --> 00:00:50.540
+Ahora nuestra tarea en este video es averiguar qué y
+
+00:00:50.540 --> 00:00:52.786
+¿Transformada de Laplace es esta cosa?
+
+00:00:52.786 --> 00:00:55.070
+Y básicamente lo que estamos intentando hacer, es que tratamos de
+
+00:00:55.070 --> 00:00:58.250
+tomar la transformada inversa de Laplace de ambos lados de
+
+00:00:58.250 --> 00:00:58.810
+Esta ecuación.
+
+00:00:58.810 --> 00:01:03.010
+Así que otra forma de decirlo, podríamos decir que y--si tomamos
+
+00:01:03.010 --> 00:01:05.247
+la inversa de Laplace de ambos lados--podríamos decir
+
+00:01:05.247 --> 00:01:09.190
+y es igual a la transformada inversa de Laplace
+
+00:01:09.190 --> 00:01:12.260
+Transformación de esta cosa.
+
+00:01:12.260 --> 00:01:19.372
+2S plus 13, sobre s squared plus 5s plus 6.
+
+00:01:19.372 --> 00:01:21.780
+Ahora veremos finalmente Aprenda la definición formal de
+
+00:01:21.780 --> 00:01:23.600
+la inversa de Laplace.
+
+00:01:23.600 --> 00:01:27.040
+¿Cómo ir desde el dominio de s para el dominio de t?
+
+00:01:27.040 --> 00:01:28.210
+O cómo ir desde la frecuencia
+
+00:01:28.210 --> 00:01:29.880
+¿dominio para el dominio del tiempo?
+
+00:01:29.880 --> 00:01:32.010
+No vamos a preocuparse de ahora mismo.
+
+00:01:32.010 --> 00:01:34.330
+Lo que vamos hacer es que vamos a conseguirlo en un
+
+00:01:34.330 --> 00:01:36.750
+forma que reconocemos y decir, oh,
+
+00:01:36.750 --> 00:01:38.180
+Sé que esas funciones.
+
+00:01:38.180 --> 00:01:40.200
+Es la transformada de Laplace de cualquiera que sea y cualquiera que sea.
+
+00:01:40.200 --> 00:01:42.270
+Y entonces sabremos qué es.
+
+00:01:42.270 --> 00:01:44.230
+Así que vamos a intentar hacer eso.
+
+00:01:44.230 --> 00:01:47.750
+Así que lo que vamos a utilizar es algo que usted probablemente
+
+00:01:47.750 --> 00:01:50.970
+no has utilizado desde álgebra dos, que es cuando creo
+
+00:01:50.970 --> 00:01:52.720
+se enseña en, que sabes, octavo, noveno,
+
+00:01:52.720 --> 00:01:53.680
+o décimo grado, según.
+
+00:01:53.680 --> 00:01:55.740
+Y finalmente verlo ahora en ecuaciones diferenciales que
+
+00:01:55.740 --> 00:01:57.640
+realmente tiene algún uso.
+
+00:01:57.640 --> 00:01:58.450
+Permítaseme escribirlo.
+
+00:01:58.450 --> 00:02:01.780
+Vamos a utilizar la expansión de fracciones.
+
+00:02:01.780 --> 00:02:04.080
+Y voy a hacer el primer un poco en, en caso de que no
+
+00:02:04.080 --> 00:02:04.740
+lo recuerda.
+
+00:02:04.740 --> 00:02:08.539
+Así que de todos modos, vamos a sólo factor la parte inferior derecha aquí.
+
+00:02:08.539 --> 00:02:11.510
+Y verá dónde voy con esto.
+
+00:02:11.510 --> 00:02:19.130
+Así que si factor la parte inferior, recibo s plus 2 veces s plus 3.
+
+00:02:19.130 --> 00:02:25.420
+Y lo que queremos hacer, es que queremos volver a escribir esta fracción
+
+00:02:25.420 --> 00:02:28.980
+como la suma de 2--supongo que podrías
+
+00:02:28.980 --> 00:02:30.570
+lo llaman fracciones parciales.
+
+00:02:30.570 --> 00:02:33.230
+Yo creo que por eso se denomina expansión de fracciones.
+
+00:02:33.230 --> 00:02:41.110
+Así que queremos escribir esto como una suma de un sobre s plus 2, plus b
+
+00:02:41.110 --> 00:02:43.250
+sobre s plus 3.
+
+00:02:43.250 --> 00:02:48.280
+Y si podemos hacerlo, entonces--y campanas ya podrían
+
+00:02:48.280 --> 00:02:54.710
+zumbido en su cabeza--sabemos que estas cosas que parecen
+
+00:02:54.710 --> 00:02:56.650
+como este son la transformada de Laplace de funciones que
+
+00:02:56.650 --> 00:02:57.960
+nosotros ya hemos solucionado para.
+
+00:02:57.960 --> 00:03:01.110
+Y voy a hacer una pequeña revisión en en un segundo.
+
+00:03:01.110 --> 00:03:03.680
+Pero de todos modos, ¿cómo figura hacia afuera a y B?
+
+00:03:03.680 --> 00:03:06.800
+Bueno si estábamos realmente Añadir A y B, si tuviéramos que--
+
+00:03:06.800 --> 00:03:12.850
+vamos un poco a un lado derecho aquí--por lo que si nos dice que A--
+
+00:03:12.850 --> 00:03:16.480
+así que si queríamos darles un denominador común, que es
+
+00:03:16.480 --> 00:03:21.295
+Esto, s plus 2 veces s plus 3.
+
+00:03:21.295 --> 00:03:22.750
+¿Luego lo convertiría A?
+
+00:03:22.750 --> 00:03:25.350
+¿Tendríamos que multiplicar a veces s más 3, correcto?
+
+00:03:25.350 --> 00:03:29.030
+Nos reuníamos como plus 3A.
+
+00:03:31.640 --> 00:03:34.220
+Esto, como que he escrito ahora mismo, es lo mismo como a
+
+00:03:34.220 --> 00:03:34.980
+sobre s plus 2.
+
+00:03:34.980 --> 00:03:39.080
+Usted podría anular un s plus 3 en la parte superior e inferior.
+
+00:03:39.080 --> 00:03:41.080
+Y ahora vamos a agregar la b a la misma.
+
+00:03:41.080 --> 00:03:45.500
+Así plus--lo haré en un color diferente--además--bueno,
+
+00:03:45.500 --> 00:03:48.110
+Si tenemos esto como el denominador, nosotros podríamos multiplicar
+
+00:03:48.110 --> 00:03:49.140
+el numerador y el denominador
+
+00:03:49.140 --> 00:03:51.100
+¿por s plus 2, correcto?
+
+00:03:51.100 --> 00:03:58.890
+Para obtener b veces s plus 2B, y que va
+
+00:03:58.890 --> 00:04:01.470
+para igualar esta cosa.
+
+00:04:01.470 --> 00:04:03.360
+Y todo lo hice, se añadirá estas dos fracciones.
+
+00:04:03.360 --> 00:04:04.350
+Nada más elegante que allí.
+
+00:04:04.350 --> 00:04:05.920
+Fue álgebra dos.
+
+00:04:05.920 --> 00:04:07.230
+En realidad, creo que debo hacer una real
+
+00:04:07.230 --> 00:04:08.335
+Video sobre tan bien.
+
+00:04:08.335 --> 00:04:11.410
+Pero eso de ir a esta cosa es igual.
+
+00:04:11.410 --> 00:04:20.899
+2S plus 13, todo ello sobre s plus 2 veces s plus 3.
+
+00:04:20.899 --> 00:04:23.250
+Aviso en todas las ecuaciones diferenciales, la parte hairiest
+
+00:04:23.250 --> 00:04:24.690
+siempre el álgebra.
+
+00:04:24.690 --> 00:04:26.780
+Así que ahora lo que hacemos es igualamos.
+
+00:04:26.780 --> 00:04:29.110
+Decimos, bueno, vamos a agregar la s condiciones aquí.
+
+00:04:29.110 --> 00:04:31.440
+Y podríamos decir que los numeradores tienen igualdad de cada uno
+
+00:04:31.440 --> 00:04:33.350
+otros, porque los denominadores son iguales.
+
+00:04:33.350 --> 00:04:51.960
+Así que nos tienen a plus Bs plus 3A plus 2B es igual a 2s plus B.
+
+00:04:51.960 --> 00:04:55.110
+Así, el coeficiente de s, en el lado derecho, es 2.
+
+00:04:55.110 --> 00:04:57.910
+El coeficiente del lado izquierdo es a y B, así
+
+00:04:57.910 --> 00:04:59.980
+Sabemos que a y B, además es igual a 2.
+
+00:05:02.950 --> 00:05:08.270
+Y luego a la derecha, vemos 3A plus debe 2B
+
+00:05:08.270 --> 00:05:11.150
+ser igual a--oh, esto es un 13.
+
+00:05:11.150 --> 00:05:11.930
+¿digo B?
+
+00:05:11.930 --> 00:05:14.190
+Se trata de un 13.
+
+00:05:14.190 --> 00:05:15.530
+Es un 13.
+
+00:05:15.530 --> 00:05:16.890
+¿Ve igual a B, derecha?
+
+00:05:16.890 --> 00:05:19.100
+Fue 2s plus 13.
+
+00:05:19.100 --> 00:05:28.640
+De todos modos, así sucesivamente la derecha que llego, fue 3A plus 2B
+
+00:05:28.640 --> 00:05:32.150
+es igual a 13.
+
+00:05:32.150 --> 00:05:34.790
+Ahora tenemos dos ecuaciones con dos incógnitas,
+
+00:05:34.790 --> 00:05:35.610
+¿y lo que obtenemos?
+
+00:05:35.610 --> 00:05:37.250
+Sé que esto es muy cansino, pero va a ser
+
+00:05:37.250 --> 00:05:38.260
+satisfacer al final.
+
+00:05:38.260 --> 00:05:39.460
+Porque realmente te resuelve algo
+
+00:05:39.460 --> 00:05:40.515
+con la transformada de Laplace.
+
+00:05:40.515 --> 00:05:43.660
+Así que vamos a multiplicar la ecuación superior por 2, o simplemente vamos a
+
+00:05:43.660 --> 00:05:44.350
+decir menos 2.
+
+00:05:44.350 --> 00:05:50.320
+Así obtenemos menos 2A menos 2B es igual a menos 4.
+
+00:05:50.320 --> 00:05:54.240
+Y luego solamente--añadimos las dos ecuaciones--llegas a es igual
+
+00:05:54.240 --> 00:05:57.170
+a--estas cancelar fuera--A es igual a 9.
+
+00:05:57.170 --> 00:05:58.000
+Gran.
+
+00:05:58.000 --> 00:06:00.530
+Si a es igual a 9, ¿qué es b igual a?
+
+00:06:00.530 --> 00:06:05.520
+¿B es igual a 9 más de lo que es igual a 2?
+
+00:06:05.520 --> 00:06:09.130
+O 2 menos 9 es menos 7.
+
+00:06:09.130 --> 00:06:12.160
+Y hemos hecho algunos grave simplificación.
+
+00:06:12.160 --> 00:06:15.770
+Porque ahora podemos volver a escribir esta expresión toda como el
+
+00:06:15.770 --> 00:06:23.390
+Transformada de Laplace de y es igual a la a sobre s plus 2,
+
+00:06:23.390 --> 00:06:34.060
+igual a 9 sobre s plus 2, menos 7 sobre s más 3.
+
+00:06:34.060 --> 00:06:38.810
+U otra manera de escribirlo, lo podríamos escribir como igual a
+
+00:06:38.810 --> 00:06:47.620
+1 9 veces sobre s plus 2, menos 7 veces 1 sobre s más 3.
+
+00:06:47.620 --> 00:06:49.630
+¿Por qué lo hizo tomar la molestia de hacer esto?
+
+00:06:49.630 --> 00:06:51.920
+Bueno esperemos que reconoces que esto fue realmente
+
+00:06:51.920 --> 00:06:55.010
+de la segunda Laplace que hemos averiguados.
+
+00:06:58.200 --> 00:06:59.290
+¿Qué fue eso?
+
+00:06:59.290 --> 00:07:01.950
+Voy a escribir aquí justo abajo por lo que recuerdo.
+
+00:07:01.950 --> 00:07:11.970
+Fue la transformada de Laplace de e a la a, era igual a 1
+
+00:07:11.970 --> 00:07:15.000
+sobre s menos una.
+
+00:07:15.000 --> 00:07:18.070
+Fue de la segunda Laplace hemos averiguados.
+
+00:07:18.070 --> 00:07:21.200
+Esto es interesante.
+
+00:07:21.200 --> 00:07:22.880
+¿Esta es la transformada de Laplace de qué?
+
+00:07:22.880 --> 00:07:24.730
+Así que si tuviéramos que tomar la transformada inversa de Laplace transformar--
+
+00:07:24.730 --> 00:07:26.900
+realmente me deja simplemente permanecer consistente.
+
+00:07:26.900 --> 00:07:32.820
+Es así que significa que se trata de la transformada de Laplace de y,
+
+00:07:32.820 --> 00:07:36.360
+¿igual a 9 veces la transformada de Laplace de qué?
+
+00:07:36.360 --> 00:07:38.850
+Si acabamos pattern matching, si esto es s menos
+
+00:07:38.850 --> 00:07:41.080
+entonces a es menos 2.
+
+00:07:41.080 --> 00:07:45.220
+Hasta 9 veces la Laplace de e
+
+00:07:45.220 --> 00:07:48.970
+al menos 2 t.
+
+00:07:48.970 --> 00:07:50.380
+¿Tiene sentido?
+
+00:07:50.380 --> 00:07:52.900
+Tome esto, pongo en este uno, que hemos averiguados, y usted
+
+00:07:52.900 --> 00:07:54.190
+superar 1 s plus 2.
+
+00:07:54.190 --> 00:07:56.205
+Y permítanme limpiar esto un poco, porque me estoy volviendo
+
+00:07:56.205 --> 00:07:57.455
+a necesitar esa inmobiliaria.
+
+00:08:02.450 --> 00:08:03.120
+Voy a escribir esto.
+
+00:08:03.120 --> 00:08:06.270
+Dejaré hay, porque aún utilizaremos.
+
+00:08:06.270 --> 00:08:10.800
+Y luego tenemos menos 7 veces--esto es la Laplace
+
+00:08:10.800 --> 00:08:11.500
+¿Transformación de qué?
+
+00:08:11.500 --> 00:08:16.190
+Esta es la transformada de Laplace de e a la menos 3 t.
+
+00:08:20.450 --> 00:08:25.190
+Esta coincidencia, eres como, wow, si has visto esto,
+
+00:08:25.190 --> 00:08:27.270
+iría a su mesa transformada de Laplace, si no
+
+00:08:27.270 --> 00:08:28.640
+Recuerde, usted vería esto.
+
+00:08:28.640 --> 00:08:31.430
+Eres como, wow, luce mucho como ese.
+
+00:08:31.430 --> 00:08:33.000
+Sólo tengo que averiguar lo que una es.
+
+00:08:33.000 --> 00:08:33.960
+Tengo s plus 3.
+
+00:08:33.960 --> 00:08:35.320
+Tengo s menos una.
+
+00:08:35.320 --> 00:08:37.520
+En este caso, una es igual a menos 3.
+
+00:08:37.520 --> 00:08:39.894
+Así que si una es igual a menos 3, esto es la transformada de Laplace
+
+00:08:39.894 --> 00:08:42.760
+e al menos 3 t.
+
+00:08:42.760 --> 00:08:46.390
+Así que ahora podemos tomar la transformada inversa de Laplace--en realidad,
+
+00:08:46.390 --> 00:08:47.070
+antes de que lo hacemos.
+
+00:08:47.070 --> 00:08:49.750
+Lo sabemos porque la transformada de Laplace es lineal
+
+00:08:49.750 --> 00:08:54.760
+operador--y realmente ahora podemos eliminar aquí--nos
+
+00:08:54.760 --> 00:08:57.140
+Sabemos que la transformada de Laplace es lineal
+
+00:08:57.140 --> 00:09:00.110
+operador, así podemos escribir esto.
+
+00:09:00.110 --> 00:09:01.710
+Y normalmente no pasan a través de todos estos pasos.
+
+00:09:01.710 --> 00:09:05.530
+Realmente quiero hacer comprender lo que estamos haciendo.
+
+00:09:05.530 --> 00:09:08.140
+Así que podríamos decir que esto es lo mismo que el de Laplace
+
+00:09:08.140 --> 00:09:16.700
+Transformación de 9e a la 2t negativo, menos 7e al menos 3 t.
+
+00:09:19.570 --> 00:09:20.860
+Ahora tenemos algo interesante.
+
+00:09:20.860 --> 00:09:23.400
+La transformada de Laplace de y es igual a la de Laplace
+
+00:09:23.400 --> 00:09:24.830
+Transformación de este.
+
+00:09:24.830 --> 00:09:30.570
+Bien si es el caso, a continuación, y debe ser igual a 9e a la
+
+00:09:30.570 --> 00:09:35.320
+menos 2t, menos 7e al menos 3 t.
+
+00:09:35.320 --> 00:09:38.080
+Y yo nunca le resultó, pero es la transformada de Laplace
+
+00:09:38.080 --> 00:09:40.300
+realmente una transformación de 1:1.
+
+00:09:40.300 --> 00:09:43.330
+Que si una función de transformada de Laplace, si tomo un
+
+00:09:43.330 --> 00:09:45.420
+función contra la transformada de Laplace y, si fuera
+
+00:09:45.420 --> 00:09:48.810
+tomar la inversa de Laplace, la única función
+
+00:09:48.810 --> 00:09:50.820
+cuya transformada de Laplace que es
+
+00:09:50.820 --> 00:09:51.710
+esa función original.
+
+00:09:51.710 --> 00:09:54.550
+No es como dos diferentes funciones pueden tener el mismo
+
+00:09:54.550 --> 00:09:56.050
+Transformada de Laplace.
+
+00:09:56.050 --> 00:09:58.680
+De todas formas, un par de cosas que pensar aquí.
+
+00:09:58.680 --> 00:10:02.070
+Aviso, tuvimos esa cosa que parecía el tipo de una
+
+00:10:02.070 --> 00:10:04.980
+ecuación característica emerge aquí y allá.
+
+00:10:04.980 --> 00:10:08.340
+Y todavía tenemos que resolver un sistema de dos ecuaciones con
+
+00:10:08.340 --> 00:10:08.850
+dos incógnitas.
+
+00:10:08.850 --> 00:10:13.750
+Son dos cosas que teníamos que hacer cuando solucionamos un
+
+00:10:13.750 --> 00:10:17.030
+problema de valor inicial, cuando usamos sólo tradicionales, la
+
+00:10:17.030 --> 00:10:18.340
+ecuación característica.
+
+00:10:18.340 --> 00:10:20.150
+Pero aquí sucedió una sola vez.
+
+00:10:20.150 --> 00:10:21.900
+Y francamente es un poco peludo porque tuvimos que
+
+00:10:21.900 --> 00:10:24.040
+hacer toda esta expansión de fracciones.
+
+00:10:24.040 --> 00:10:25.050
+Pero es bastante limpio.
+
+00:10:25.050 --> 00:10:28.210
+La transformada de Laplace nos hizo algo útil.
+
+00:10:28.210 --> 00:10:30.970
+En el siguiente vídeo realmente a hacer una no homogéneos
+
+00:10:30.970 --> 00:10:33.850
+ecuación y mostrar que la transformada de Laplace se aplica
+
+00:10:33.850 --> 00:10:34.830
+igualmente bien allí.
+
+00:10:34.830 --> 00:10:37.680
+Por lo que es el tipo de una teoría más consistente de resolver
+
+00:10:37.680 --> 00:10:39.730
+ecuaciones diferenciales, en lugar de adivinar
+
+00:10:39.730 --> 00:10:43.140
+soluciones y problemas para los coeficientes y todo eso.
+
+00:10:43.140 --> 00:10:45.100
+Nos vemos en el siguiente vídeo.

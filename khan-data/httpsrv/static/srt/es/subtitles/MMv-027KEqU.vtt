@@ -1,0 +1,243 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:02.522 --> 00:00:03.960
+Sabemos como encontrar las derivadas de
+
+00:00:03.960 --> 00:00:07.440
+funciones. Si aplico la operación derivada de
+
+00:00:07.440 --> 00:00:12.635
+X^2 obtengo 2X
+
+00:00:12.635 --> 00:00:15.630
+Ahora si también aplico la operación derivada de
+
+00:00:15.630 --> 00:00:20.036
+X^2+1 también obtengo 2X.
+
+00:00:20.036 --> 00:00:23.943
+Si aplico la operación derivada de X^2
+
+00:00:23.943 --> 00:00:27.235
+X^2+Pi, también obtengo 2X. La derivada de X^2
+
+00:00:27.235 --> 00:00:31.714
+es 2X, la derivada respecto a X de pi de una constante
+
+00:00:31.714 --> 00:00:34.249
+es solo 0. La derivada con respecto de X de 1
+
+00:00:34.249 --> 00:00:36.281
+es solo una constante, solo 0.
+
+00:00:36.281 --> 00:00:39.082
+Entonces, esto simplemente va a ser igual a 2X.
+
+00:00:39.082 --> 00:00:43.187
+En , la derivada con respecto a x de X^2
+
+00:00:43.187 --> 00:00:47.309
+mas cualquier constante, cualquier constante, va a ser
+
+00:00:47.309 --> 00:00:50.569
+igual a 2X. La derivada de X^2 con respecto a X es 2X
+
+00:00:50.569 --> 00:00:54.838
+La derivada de una constante con respecto a X, una constante no cambia
+
+00:00:54.838 --> 00:00:57.277
+con respecto a X, entonces solo es igual
+
+00:00:57.277 --> 00:01:00.901
+a 0. Entonces tiene, tomas la derivada, aplicas la operación derivada
+
+00:01:00.901 --> 00:01:04.391
+de cualquiera de estas expresiones, y obtienes 2X.
+
+00:01:04.391 --> 00:01:08.974
+Ahora vamos por el otro lado. Pensemos en la antiderivada.
+
+00:01:08.974 --> 00:01:13.254
+Anti-derivada. Y una manera de
+
+00:01:13.254 --> 00:01:14.782
+pensar sobre es, es la, es la,
+
+00:01:14.782 --> 00:01:18.294
+vamos a hacer el opuesto de una operacion derivada.
+
+00:01:18.294 --> 00:01:20.174
+En la operacion derivada, obtienes una expresión,
+
+00:01:20.174 --> 00:01:21.785
+y encuentras esta derivada
+
+00:01:21.785 --> 00:01:24.861
+Ahora lo que queremos hacer, dada alguna expresion,
+
+00:01:24.861 --> 00:01:25.810
+queremos encontrar
+
+00:01:25.810 --> 00:01:28.260
+lo que la podría ser la derivada de
+
+00:01:28.260 --> 00:01:30.045
+lo que la podría ser la derivada de
+
+00:01:30.045 --> 00:01:32.357
+Si alguien fuera a decirte,
+
+00:01:32.357 --> 00:01:33.980
+fuera a darte 2X
+
+00:01:33.980 --> 00:01:36.213
+Si alguien fuera a decir, 2X
+
+00:01:36.213 --> 00:01:41.132
+Entonces si alguien fuera a preguntarte: Que es
+
+00:01:41.132 --> 00:01:44.901
+que es 2X
+
+00:01:44.901 --> 00:01:49.432
+la derivada, derivada
+
+00:01:49.432 --> 00:01:53.072
+de? Estan esencialmente preguntandote por
+
+00:01:53.072 --> 00:01:55.464
+la antiderivada!
+
+00:01:55.464 --> 00:01:57.302
+Entonces podrias decir: bueno, 2x es
+
+00:01:57.302 --> 00:01:59.518
+la derivada de X^2.
+
+00:01:59.518 --> 00:02:01.624
+2X es la derivada de X^2
+
+00:02:01.624 --> 00:02:05.020
+Pero podrias decir: 2X es la derivada de X^2 mas 1.
+
+00:02:05.020 --> 00:02:08.014
+También podiras decir que 2X es la derivada de X^2 mas pi.
+
+00:02:08.014 --> 00:02:09.612
+Creo que entiendes la idea general.
+
+00:02:09.612 --> 00:02:11.934
+Entonces si tu quisieras escribirlo en el sentido más general
+
+00:02:11.934 --> 00:02:12.991
+escribirias:
+
+00:02:12.991 --> 00:02:14.433
+que 2X es la derivada de X^2
+
+00:02:14.433 --> 00:02:18.301
+mas alguna constante.
+
+00:02:18.301 --> 00:02:19.368
+Entonces esto es lo que considerarías
+
+00:02:19.368 --> 00:02:22.511
+la antiderivada de 2X.
+
+00:02:22.511 --> 00:02:25.072
+Ahora esto esta muy lindo, pero esto es un poco
+
+00:02:25.072 --> 00:02:27.279
+torpe tener que escribir oraciones como estas
+
+00:02:27.279 --> 00:02:29.523
+entonces utilicemos un tipo de notacion
+
+00:02:29.523 --> 00:02:30.969
+para la antiderivada
+
+00:02:30.969 --> 00:02:33.100
+Y convenciolamente aqui debemos utilizar
+
+00:02:33.100 --> 00:02:35.412
+este tipo raro de notacion
+
+00:02:35.412 --> 00:02:38.012
+Es para uasr una
+
+00:02:38.012 --> 00:02:40.142
+gran, enlogada, cosa parecida una s como eso
+
+00:02:40.142 --> 00:02:43.844
+y el dx al lado de la función
+
+00:02:43.844 --> 00:02:45.406
+estas intentando tomar la antiderivada
+
+00:02:45.406 --> 00:02:49.085
+de. Entonces en este caso, se veria algo como esto.
+
+00:02:49.085 --> 00:02:49.844
+Esto es solo
+
+00:02:49.844 --> 00:02:51.076
+decir: esto es igual a la antiderivada de 2x
+
+00:02:51.076 --> 00:02:56.371
+Y la antiderivada de 2x, como ya vimos,
+
+00:02:56.371 --> 00:03:01.304
+es X^2, es X^2 mas C.
+
+00:03:01.304 --> 00:03:03.216
+Ahora, se podría decir:
+
+00:03:03.216 --> 00:03:04.689
+Porque usamos este tipo
+
+00:03:04.689 --> 00:03:07.170
+de notación loca?
+
+00:03:07.170 --> 00:03:08.519
+Se volvería más obvio cuando nosotros
+
+00:03:08.519 --> 00:03:10.901
+estudiemos la integral definida, y las areas bajo las curvas,
+
+00:03:10.901 --> 00:03:12.363
+y tomar las sumas de
+
+00:03:12.363 --> 00:03:16.185
+rectángulos, en orden de aproximar el area de una curva.
+
+00:03:16.185 --> 00:03:19.500
+Aquí, realmente deberia ser vista solo como una notacion para
+
+00:03:19.500 --> 00:03:21.839
+antiderivadas.
+
+00:03:21.839 --> 00:03:24.701
+Y, esta notación, aquí,
+
+00:03:24.701 --> 00:03:26.160
+esta expresión entera, se llama:
+
+00:03:26.160 --> 00:03:28.644
+un integral indefinido.
+
+00:03:28.644 --> 00:03:31.810
+El indefinido... indefinido..
+
+00:03:31.810 --> 00:03:36.825
+integral indefinido de 2X
+
+00:03:36.825 --> 00:03:37.845
+lo cual es otra manera de decir:
+
+00:03:37.845 --> 00:03:40.300
+la antiderivada de
+
+00:03:40.300 --> 00:03:42.300
+2X

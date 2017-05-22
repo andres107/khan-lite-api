@@ -1,0 +1,150 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:01.324 --> 00:00:06.757
+Parte C: Encontrar el valor promedio de f en el intervalo [ -1 , 1 ]
+
+00:00:06.757 --> 00:00:11.076
+Así, el valor promedio de una función en un intervalo va a ser
+
+00:00:11.076 --> 00:00:13.769
+-- escribamos "Avg" --
+
+00:00:13.769 --> 00:00:18.739
+El valor promedio de nuestra función justo va a ser la integral sobre el intervalo
+
+00:00:18.739 --> 00:00:22.407
+la integral sobre el intervalo
+
+00:00:22.407 --> 00:00:23.197
+-1 a 1
+
+00:00:23.197 --> 00:00:25.008
+de f(x) dx
+
+00:00:25.008 --> 00:00:26.076
+dividido por lo que cambió x
+
+00:00:26.076 --> 00:00:40.194
+y nuestro cambio en x es 1 menos -1
+
+00:00:40.194 --> 00:00:43.677
+de forma que esto será igual a 1/2 veces la
+
+00:00:43.677 --> 00:00:45.256
+integral
+
+00:00:45.256 --> 00:00:48.089
+y aquí, f(x) está definida a trozos
+
+00:00:48.089 --> 00:00:51.014
+de forma que lo que podemos hacer es romper esta integral en dos integrales, cada una para cada intervalo donde está definida la función f
+
+00:00:51.014 --> 00:00:52.733
+Podemos decir, la integral de -1 a 0 de f(x) dx
+
+00:00:52.733 --> 00:01:12.330
+más la integral de 0 a 1 de f(x) dx
+
+00:01:12.330 --> 00:01:14.095
+y la razón de por qué lo escribo así es porque esta
+
+00:01:14.095 --> 00:01:20.411
+función está definida a trozos.
+
+00:01:20.411 --> 00:01:23.197
+La función es diferente cuando x es menor o igual a 0
+
+00:01:23.197 --> 00:01:26.262
+que cuando x es mayor a cero.
+
+00:01:26.262 --> 00:01:31.742
+De modo que tenemos que es igual a un medio
+
+00:01:31.742 --> 00:01:39.080
+esta primera parte podemos escribirla como
+
+00:01:39.080 --> 00:01:41.355
+la integral de -1 a 0
+
+00:01:41.355 --> 00:01:45.070
+¿Cómo está definida f(x) de -1 a 0? Es 1-2 sen(x)
+
+00:01:45.070 --> 00:01:55.334
+dx
+
+00:01:55.334 --> 00:01:59.327
+más la integral de 0 a 1
+
+00:01:59.327 --> 00:02:02.439
+¿y cómo es nuestra función de cero a uno?
+
+00:02:02.439 --> 00:02:04.529
+Es e a la -4x
+
+00:02:04.529 --> 00:02:08.522
+dx
+
+00:02:08.522 --> 00:02:11.077
+y ahora podemos resolver cada una de estas integrales de forma separada
+
+00:02:11.077 --> 00:02:13.770
+entonces esto va a ser igual a
+
+00:02:13.770 --> 00:02:19.529
+un medio, abro corchetes,
+
+00:02:19.529 --> 00:02:28.770
+y ahora, tomemos la antiderivada
+
+00:02:28.770 --> 00:02:30.860
+de 1-2 sen(x)
+
+00:02:30.860 --> 00:02:34.529
+la antiderivada de 1 con respecto a x, es simplemente x
+
+00:02:34.529 --> 00:02:36.758
+-2 sen(x)
+
+00:02:36.758 --> 00:02:40.659
+bueno, la derivada de cos(x) es -sen(x)
+
+00:02:40.659 --> 00:02:44.420
+entonces esto será 2 cos(x)
+
+00:02:44.420 --> 00:02:46.092
+y ustedes pueden verificarlo
+
+00:02:46.092 --> 00:02:53.941
+Entonces, vamos a evaluar esto en cero
+
+00:02:53.941 --> 00:02:56.077
+y en menos 1
+
+00:02:56.077 --> 00:02:58.445
+y a esto le vamos a sumar
+
+00:02:58.445 --> 00:03:01.418
+hagamos esta integral aquí
+
+00:03:01.418 --> 00:03:04.018
+la antiderivada de e a la -4x
+
+00:03:04.018 --> 00:03:07.780
+la antiderivada será igual a
+
+00:03:07.780 --> 00:03:13.260
+-e a la -4x sobre 4
+
+00:03:13.260 --> 00:03:17.764
+y la forma como te puedes dar cuenta es que si tú simplemente tienes e a la x
+
+00:03:17.764 --> 00:03:20.086
+la antiderivada sería e a la x,
+
+00:03:20.086 --> 00:03:22.687
+si tenemos e a la -4x
+
+00:03:22.687 --> 99:59:59.999
+entonces sabemos que cualquiera que sea su antiderivada ésta va a tener

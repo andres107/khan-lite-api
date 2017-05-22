@@ -1,0 +1,586 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.790 --> 00:00:05.240
+Donde quedamos, se tenia esta lamina infinita.
+
+00:00:05.240 --> 00:00:07.900
+Esta es solo una lamina infinita que esta cargada con
+
+00:00:07.900 --> 00:00:09.410
+una densidad de carga sigma.
+
+00:00:09.410 --> 00:00:12.830
+y que lo hicimos fue decir, OK, bueno, estamos tomando este
+
+00:00:12.830 --> 00:00:16.140
+punto aquí a h unidades sobre la superficie de
+
+00:00:16.140 --> 00:00:20.300
+la lamina cargada, y queríamos averiguar el campo eléctrico
+
+00:00:20.300 --> 00:00:25.150
+en este punto, generado por un anillo de radio r con
+
+00:00:25.150 --> 00:00:31.400
+la base centrada sobre el lugar donde se encuentra el punto.
+
+00:00:31.400 --> 00:00:33.830
+Queremos averiguar cual es el campo eléctrico generado
+
+00:00:33.830 --> 00:00:36.130
+por este anillo en ese punto?
+
+00:00:36.130 --> 00:00:42.450
+Y ya averiguamos que el campo eléctrico era esto, y
+
+00:00:42.450 --> 00:00:44.900
+entonces, porque hicimos un argumento de simetría en el vídeo
+
+00:00:44.900 --> 00:00:47.110
+anterior, solo nos interesa la componente-y.
+
+00:00:47.110 --> 00:00:49.700
+Porque supimos que para el campo eléctrico generado
+
+00:00:49.700 --> 00:00:52.510
+desde cualquier punto, las componentes-x se cancelan,
+
+00:00:52.510 --> 00:00:55.295
+porque si tenemos un punto aquí, este tendrá alguna
+
+00:00:55.295 --> 00:00:55.560
+componente-x.
+
+00:00:55.560 --> 00:00:58.710
+La componente-x del campo podría estar en esta dirección a la
+
+00:00:58.710 --> 00:01:00.650
+derecha, pero entonces hay otro punto por aquí, y
+
+00:01:00.650 --> 00:01:03.130
+su componente se anulará.
+
+00:01:03.130 --> 00:01:05.760
+Así que solo nos ocuparemos de la componente-y.
+
+00:01:05.760 --> 00:01:10.280
+de este modo, calculamos cuidadosamente cual es
+
+00:01:10.280 --> 00:01:15.110
+la componente-y del campo eléctrico generado por el anillo,
+
+00:01:15.110 --> 00:01:18.570
+a h unidades sobre la superficie.
+
+00:01:18.570 --> 00:01:22.570
+ahora con eso terminado, veamos si podemos sumar un
+
+00:01:22.570 --> 00:01:26.480
+grupo de anillos yendo desde un radio infinito a un radio cero
+
+00:01:26.480 --> 00:01:28.950
+y averiguar la componente-y total.
+
+00:01:28.950 --> 00:01:30.750
+o esencialmente el campo eléctrico total, porque
+
+00:01:30.750 --> 00:01:33.490
+comprendimos que todas las componentes x se cancelan, es
+
+00:01:33.490 --> 00:01:37.120
+el campo eléctrico total en ese punto, a h unidades sobre la
+
+00:01:37.120 --> 00:01:39.930
+superficie del plano.
+
+00:01:39.930 --> 00:01:46.110
+ahora déjame borrar parte de esto así puedo liberar
+
+00:01:46.110 --> 00:01:49.405
+algo de este calculo complicado.
+
+00:01:49.405 --> 00:01:54.130
+y este es mas o menos todo el calculo hasta ahora.
+
+00:01:54.130 --> 00:01:55.640
+déjame borrar todo esto.
+
+00:01:55.640 --> 00:01:58.090
+Mira el vídeo anterior si olvidaste como se concluyó esto.
+
+00:02:01.370 --> 00:02:03.380
+Incluso déjame borrar esto, creo que
+
+00:02:03.380 --> 00:02:04.630
+necesitaré bastante espacio.
+
+00:02:07.400 --> 00:02:09.220
+ahí esta.
+
+00:02:09.220 --> 00:02:12.770
+OK, déjame re-dibujar un poco así no olvidaremos
+
+00:02:12.770 --> 00:02:17.390
+lo que estamos haciendo porque a veces pasa.
+
+00:02:17.390 --> 00:02:20.390
+Entonces este es mi plano que sale en todas las direcciones.
+
+00:02:25.110 --> 00:02:28.050
+Acá esta mi punto sobre el plano donde tratábamos
+
+00:02:28.050 --> 00:02:29.130
+de averiguar el campo eléctrico.
+
+00:02:29.130 --> 00:02:30.740
+Y hemos llegado a la conclusión de que el campo va
+
+00:02:30.740 --> 00:02:32.640
+hacia arriba del punto, así que solo nos ocupamos de
+
+00:02:32.640 --> 00:02:33.860
+la componente-y.
+
+00:02:33.860 --> 00:02:39.590
+esta a h unidades sobre la superficie, y estamos
+
+00:02:39.590 --> 00:02:43.200
+averiguando el campo eléctrico generado por un anillo
+
+00:02:43.200 --> 00:02:46.630
+alrededor de este punto de radio r.
+
+00:02:46.630 --> 00:02:49.010
+Y que es la componente-y de este campo eléctrico?
+
+00:02:49.010 --> 00:02:50.760
+Concluimos que era esto.
+
+00:02:50.760 --> 00:02:53.230
+ahora lo que haremos es tomar la integral.
+
+00:02:53.230 --> 00:03:00.870
+Entonces el campo eléctrico total desde la lamina será
+
+00:03:00.870 --> 00:03:06.440
+la integral desde- -una muy fea integral--
+
+00:03:06.440 --> 00:03:09.620
+un radio de cero a un radio infinito.
+
+00:03:09.620 --> 00:03:11.970
+Así que tomaremos la suma de todos los anillos, empezando
+
+00:03:11.970 --> 00:03:14.960
+con un radio de cero hasta llegar a el anillo que tiene un
+
+00:03:14.960 --> 00:03:16.620
+radio de infinito, porque este es un plano infinito así que
+
+00:03:16.620 --> 00:03:20.180
+estamos calculando el impacto de todo el plano.
+
+00:03:20.180 --> 00:03:24.060
+Entonces vamos a tomar la suma de todos los anillos, así el campo
+
+00:03:24.060 --> 00:03:26.240
+generado por todos los anillos, y este es el campo generado
+
+00:03:26.240 --> 00:03:28.275
+por cada anillo.
+
+00:03:28.275 --> 00:03:29.710
+lo haré con un color distinto.
+
+00:03:29.710 --> 00:03:32.340
+Este azul claro esta un poco monótono.
+
+00:03:32.340 --> 00:03:47.050
+Kh 2pi sigma r dr sobre h al cuadrado mas r
+
+00:03:47.050 --> 00:03:50.030
+al cuadrado a la 3/2.
+
+00:03:50.030 --> 00:03:51.280
+Ahora, simplifiquemos esto un poco.
+
+00:03:51.280 --> 00:03:54.040
+Sacaré algunas constantes de aquí, así la ecuación
+
+00:03:54.040 --> 00:03:56.410
+lucirá un poco mas simple.
+
+00:03:56.410 --> 00:04:04.795
+Y esto es igual a la integral desde cero a -- ahora
+
+00:04:04.795 --> 00:04:06.670
+saquemos la K--voy a dejar el dos allí.
+
+00:04:06.670 --> 00:04:08.370
+Veras porque en un momento, pero voy a sacar todas las
+
+00:04:08.370 --> 00:04:10.770
+otras constantes que no estamos integrando.
+
+00:04:10.770 --> 00:04:23.690
+Entonces esto es igual a Kh pi sigma por la integral desde cero
+
+00:04:23.690 --> 00:04:27.270
+a infinito de, que es esto?
+
+00:04:27.270 --> 00:04:28.930
+Que quedo dentro de ahí?
+
+00:04:28.930 --> 00:04:35.480
+Deje un 2r, así podríamos reescribirlo como--bueno,
+
+00:04:35.480 --> 00:04:37.560
+ahora me estoy quedando sin espacio.
+
+00:04:37.560 --> 00:04:50.470
+2r dr sobre h al cuadrado mas r al cuadrado a la 3/2, o
+
+00:04:50.470 --> 00:04:53.380
+podemos verlo como el negativo de 3/2, cierto?
+
+00:04:53.380 --> 00:04:55.380
+Entonces cual es la anti-derivada de esto?
+
+00:04:55.380 --> 00:04:58.800
+bueno, esto es principalmente el inverso de la regla de la cadena, cierto?
+
+00:04:58.800 --> 00:05:00.850
+Podría hacer una sustitución aquí, si te parece mas
+
+00:05:00.850 --> 00:05:03.390
+cómodo usar la regla de la sustitución, pero tu
+
+00:05:03.390 --> 00:05:04.950
+podrías ser capaz de calcular esto a esas alturas.
+
+00:05:04.950 --> 00:05:12.390
+Podemos hacer la sustitución haciendo u igual a-- 
+si solo
+
+00:05:12.390 --> 00:05:14.530
+queremos averiguar la anti-derivada de esto-- si u
+
+00:05:14.530 --> 00:05:18.300
+es igual a h al cuadrado mas r al cuadrado-- h is solo una
+
+00:05:18.300 --> 00:05:25.100
+constante,OK--entonces du sera igual a-- Me refiero a,
+el du
+
+00:05:25.100 --> 00:05:33.610
+dr-- esto es una constante, y esto es igual a 2r, o podemos decir que du
+
+00:05:33.610 --> 00:05:36.670
+es igual a 2r dr.
+
+00:05:36.670 --> 00:05:45.490
+y entonces si estamos tratando de obtener la anti-derivada de 2r dr
+
+00:05:45.490 --> 00:05:53.370
+sobre h al cuadrado mas r al cuadrado a la 3/2, esto es lo mismo
+
+00:05:53.370 --> 00:05:56.320
+que tomar la anti-derivada con esta
+
+00:05:56.320 --> 00:05:57.310
+sustitución.
+
+00:05:57.310 --> 00:05:59.680
+2r dr, como ya vimos aquí, es lo mismo
+
+00:05:59.680 --> 00:06:01.650
+que du, cierto?
+
+00:06:01.650 --> 00:06:06.100
+asi que es du sobre-- y entonces esto es u, cierto?
+
+00:06:06.100 --> 00:06:07.370
+h al cuadrado mas r al cuadrado es u.
+
+00:06:07.370 --> 00:06:08.590
+hacemos esto por definición.
+
+00:06:08.590 --> 00:06:13.350
+Entonces u a la 3/2, lo cual es igual a la anti-derivada
+
+00:06:13.350 --> 00:06:20.260
+de--podemos escribir esto como u a la menos 3/2 du.
+
+00:06:20.260 --> 00:06:20.960
+y ahora es fácil.
+
+00:06:20.960 --> 00:06:25.100
+Esto es un tipo de inversa de la regla del exponente.
+
+00:06:25.100 --> 00:06:32.710
+y esto es igual a menos 2u a la menos 1/2, y se puede
+
+00:06:32.710 --> 00:06:33.530
+comprobar, cierto?
+
+00:06:33.530 --> 00:06:35.750
+si tomamos la derivada de esto, menos 1/2 por menos 2
+
+00:06:35.750 --> 00:06:40.320
+es 1, y entonces sacamos el 1 de aquí, tenemos menos 3/2.
+
+00:06:40.320 --> 00:06:42.440
+y entonces podemos agregar mas c, pero como eventualmente
+
+00:06:42.440 --> 00:06:43.590
+vamos a hacer una integral definida, la
+
+00:06:43.590 --> 00:06:45.290
+c se cancela.
+
+00:06:45.290 --> 00:06:48.600
+O podríamos decir que esto es igual a- desde que 
+hicimos esa
+
+00:06:48.600 --> 00:06:57.950
+sustitución--menos 2 sobre--menos 1/2, que es lo
+
+00:06:57.950 --> 00:07:03.170
+mismo que sobre la raíz cuadrada de h al cuadrado
+
+00:07:03.170 --> 00:07:05.570
+mas r al cuadrado, cierto?
+
+00:07:05.570 --> 00:07:08.290
+Así que todo esto que hice en magenta fue solo para
+averiguar
+
+00:07:08.290 --> 00:07:11.330
+la anti-derivada de esto, y encontramos que es
+
+00:07:11.330 --> 00:07:18.270
+: menos 2 sobre la raíz cuadrada de h
+
+00:07:18.270 --> 00:07:19.220
+al cuadrado mas r al cuadrado.
+
+00:07:19.220 --> 00:07:22.760
+Así que con esto concluido, continuamos 
+evaluando nuestra
+
+00:07:22.760 --> 00:07:25.020
+integral definida.
+
+00:07:25.020 --> 00:07:29.170
+Así que esta expresión se reduce a-- este es un 
+problema
+
+00:07:29.170 --> 00:07:33.920
+larguísimo, pero sustancioso--K--tomemos todas las constantes--
+
+00:07:33.920 --> 00:07:43.320
+Kh pi sigma-- podemos incluso sacar este menos 2-
+por menos
+
+00:07:43.320 --> 00:07:46.970
+2, y todo esto, y ahora vamos a evaluar la integral
+
+00:07:46.970 --> 00:07:53.910
+definida entre los dos limites-- 1 sobre la raíz
+
+00:07:53.910 --> 00:08:00.700
+cuadrada de h al cuadrado mas r al cuadrado evaluada al infinito
+
+00:08:00.700 --> 00:08:05.040
+menos la misma evaluada en 0, cierto?
+
+00:08:05.040 --> 00:08:09.150
+Bien, y a que es igual esta expresión?
+
+00:08:09.150 --> 00:08:11.840
+Que es 1 sobre la raíz cuadrada de h al cuadrado
+
+00:08:11.840 --> 00:08:13.280
+mas infinito, cierto?
+
+00:08:13.280 --> 00:08:15.210
+Que sucede cuando evaluamos r al infinito?
+
+00:08:15.210 --> 00:08:18.420
+Bueno, la raíz cuadrada de infinito es aun infinito,
+
+00:08:18.420 --> 00:08:21.955
+y 1 sobre infinito es 0, así que esta expresión aquí
+
+00:08:21.955 --> 00:08:23.140
+se vuelve 0.
+
+00:08:23.140 --> 00:08:27.500
+Cuando evalúas esto al infinito, esto es 0 menos
+
+00:08:27.500 --> 00:08:29.750
+esta expresión evaluada en 0.
+
+00:08:29.750 --> 00:08:31.670
+Entonces que pasa cuando se evalúa en 0?
+
+00:08:31.670 --> 00:08:35.710
+Cuando r al cuadrado es 0, tenemos 1 sobre la raíz cuadrada de h
+
+00:08:35.710 --> 00:08:37.960
+al cuadrado, cierto?
+
+00:08:37.960 --> 00:08:39.080
+Ahora transcribamos todo esto.
+
+00:08:39.080 --> 00:08:47.730
+Esto es menos 2Kh sigma por 0 menos 1 sobre la
+
+00:08:47.730 --> 00:08:49.140
+raíz cuadrada de h al cuadrado.
+
+00:08:49.140 --> 00:09:01.870
+Bien esto es igual a menos 2Kh pi sigma por--bueno, 1
+sobre la
+
+00:09:01.870 --> 00:09:05.080
+raíz cuadrada de h al cuadrado, es solo 1 sobre h,
+cierto?
+
+00:09:05.080 --> 00:09:09.130
+y esto es menos por menos 1 sobre h.
+
+00:09:09.130 --> 00:09:12.820
+Bien, este menos y este menos se cancelan.
+
+00:09:12.820 --> 00:09:17.730
+y entonces esta h y esta 1 sobre h deberían cancelarse.
+
+00:09:17.730 --> 00:09:21.170
+y ahora tenemos, después de hacer todo este trabajo, 
+y
+
+00:09:21.170 --> 00:09:23.590
+Lo haré en color brillante porque hemos hecho bastante
+
+00:09:23.590 --> 00:09:28.760
+trabajo hasta aquí, es 2K pi sigma.
+
+00:09:31.380 --> 00:09:33.150
+Ahora veamoslo a varios niveles.
+
+00:09:33.150 --> 00:09:35.270
+Primero que todo, que hicimos hasta ahora?
+
+00:09:35.270 --> 00:09:37.010
+Nos pudimos haber perdido entre la matemática.
+
+00:09:37.010 --> 00:09:41.640
+Esta es la red eléctrica, el campo eléctrico total, en un
+
+00:09:41.640 --> 00:09:48.970
+punto a altura h sobre esta lamina infinita que tiene una
+
+00:09:48.970 --> 00:09:52.390
+carga uniforme, y con densidad de carga igual a sigma.
+
+00:09:52.390 --> 00:09:55.250
+Pero fíjese, este es el campo eléctrico a este punto,
+
+00:09:55.250 --> 00:09:56.700
+pero no hay h aqui.
+
+00:09:56.700 --> 00:10:00.430
+Así que esencialmente nos dice que la fuerza del
+
+00:10:00.430 --> 00:10:05.320
+campo de ninguna manera depende de que tan arriba del campo
+
+00:10:05.320 --> 00:10:08.160
+estemos, lo que nos dice que el campo va a ser constante.
+
+00:10:08.160 --> 00:10:10.020
+Podemos estar en cualquier lugar sobre el plato y la
+
+00:10:10.020 --> 00:10:11.540
+carga será la misma.
+
+00:10:11.540 --> 00:10:13.830
+La única cosa--oh, lo, disculpen , no la carga.
+
+00:10:13.830 --> 00:10:18.600
+El campo será el mismo, y si tenemos una carga de prueba,
+
+00:10:18.600 --> 00:10:20.110
+la fuerza será la misma.
+
+00:10:20.110 --> 00:10:23.000
+y la única cosa de la que fuerza o el campo o la
+
+00:10:23.000 --> 00:10:25.450
+fuerza de la fuerza electrostática ejercida
+
+00:10:25.450 --> 00:10:28.090
+depende, es la densidad de carga, cierto?
+
+00:10:28.090 --> 00:10:32.130
+Esta es la constante de Coulomb, pi es pi,2pi, y creo que es
+
+00:10:32.130 --> 00:10:34.100
+algo interesante que involucre a pi, pero
+
+00:10:34.100 --> 00:10:35.465
+esto es algo para considerar.
+
+00:10:35.465 --> 00:10:39.640
+Pero todo lo que importa es la densidad de carga.
+
+00:10:39.640 --> 00:10:43.210
+Así que espero, que encuentres esta razonablemente satisfactorio, y lo
+
+00:10:43.210 --> 00:10:46.930
+mas importante que aprendimos aquí es que si se tiene una lamina
+
+00:10:46.930 --> 00:10:52.500
+infinita uniformemente cargada, el campo-- y estando yo a una distancia
+
+00:10:52.500 --> 00:10:57.860
+h sobre ese campo--sobre ese campo, no depende de
+
+00:10:57.860 --> 00:10:58.750
+que valor tenga h.
+
+00:10:58.750 --> 00:11:02.210
+Yo puedo estar aquí, o estar aquí, o estar aquí.
+
+00:11:02.210 --> 00:11:05.560
+En todos estos puntos, el campo tiene la misma
+
+00:11:05.560 --> 00:11:08.300
+fuerza, o fuerza de conexión electrostática en una carga
+
+00:11:08.300 --> 00:11:11.470
+de prueba en estos puntos tiene la misma fuerza, y
+
+00:11:11.470 --> 00:11:13.290
+es realmente fantástico.
+
+00:11:13.290 --> 00:11:15.590
+Y ahora si comprende todo lo que paso en los últimos
+
+00:11:15.590 --> 00:11:20.980
+dos vídeos, ahora usted puede entender que existen
+
+00:11:20.980 --> 00:11:23.400
+campos eléctricos uniformes y que se encuentran
+
+00:11:23.400 --> 00:11:25.670
+entre laminas paralelas, especialmente lejos de
+
+00:11:25.670 --> 00:11:26.770
+los limites.
+
+00:11:26.770 --> 00:11:28.240
+Nos vemos pronto.

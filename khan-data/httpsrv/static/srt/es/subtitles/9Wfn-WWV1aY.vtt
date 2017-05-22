@@ -1,0 +1,471 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.000 --> 00:00:00.590
+...
+
+00:00:00.590 --> 00:00:03.590
+Ahora presentaré a la idea de una
+
+00:00:03.590 --> 00:00:04.840
+ecuación homogénea diferencial.
+
+00:00:04.840 --> 00:00:07.210
+...
+
+00:00:07.210 --> 00:00:10.580
+Homogénea es la misma palabra que utilizamos para la leche, cuando nos
+
+00:00:10.580 --> 00:00:13.490
+decimos que la leche ha sido--que tienen todos los grumos de grasas han
+
+00:00:13.490 --> 00:00:14.640
+sido distribuida.
+
+00:00:14.640 --> 00:00:17.690
+Pero la aplicación aquí, al menos yo no veo la
+
+00:00:17.690 --> 00:00:18.510
+conexión.
+
+00:00:18.510 --> 00:00:20.340
+Ecuación diferencial de homogénea.
+
+00:00:20.340 --> 00:00:22.880
+Y aún dentro de las ecuaciones diferenciales, aprenderemos más tarde
+
+00:00:22.880 --> 00:00:25.180
+existe un tipo diferente de homogéneo
+
+00:00:25.180 --> 00:00:25.950
+ecuación diferencial.
+
+00:00:25.950 --> 00:00:28.050
+Aquellas son llamadas las ecuaciones diferenciales lineales homogéneas,
+
+00:00:28.050 --> 00:00:32.210
+pero significan algo realmente diferente.
+
+00:00:32.210 --> 00:00:34.930
+Pero de todos modos, para ello, voy a mostrarte
+
+00:00:34.930 --> 00:00:36.640
+ecuaciones diferenciales homogéneas.
+
+00:00:36.640 --> 00:00:38.190
+Y lo que estamos tratando con van a
+
+00:00:38.190 --> 00:00:39.750
+ser ecuaciones de primeras orden.
+
+00:00:39.750 --> 00:00:42.450
+¿Qué es una ecuación diferencial homogénea?
+
+00:00:42.450 --> 00:00:46.110
+Bueno, decir que tenía sólo una primera orden regular diferencial
+
+00:00:46.110 --> 00:00:47.650
+ecuación que podría escribirse como este.
+
+00:00:47.650 --> 00:00:57.140
+Por lo tanto dy dx es igual a alguna función de x e y.
+
+00:00:57.140 --> 00:01:00.350
+Digamos que intentamos hacer esto y no es separable,
+
+00:01:00.350 --> 00:01:01.900
+y no es exacto.
+
+00:01:01.900 --> 00:01:06.985
+Lo que aprendemos es que si puede ser homogéneo, si es
+
+00:01:06.985 --> 00:01:09.680
+una ecuación diferencial homogénea, que podemos hacer una
+
+00:01:09.680 --> 00:01:10.860
+sustitución de variables.
+
+00:01:10.860 --> 00:01:14.310
+Y que la sustitución de variables permite esta ecuación convertir
+
+00:01:14.310 --> 00:01:15.710
+en una separable.
+
+00:01:15.710 --> 00:01:17.690
+Pero antes de que tengo que demostrarle que, tengo que decirle, lo que
+
+00:01:17.690 --> 00:01:19.550
+significa ser homogénea.
+
+00:01:19.550 --> 00:01:23.310
+Bueno, si puedo manipular algebraicamente este lado a la derecha de
+
+00:01:23.310 --> 00:01:25.310
+Esta ecuación, por lo que realmente puedo reescribirlo.
+
+00:01:25.310 --> 00:01:28.890
+En lugar de una función de x e y, si pude escribir esto
+
+00:01:28.890 --> 00:01:33.990
+ecuación diferencial por lo dy dx es igual a alguna
+
+00:01:33.990 --> 00:01:41.440
+función, llamemos a ese G o le llamamos capital F.
+
+00:01:41.440 --> 00:01:43.410
+Si puedo reescribirlo algebraicamente, por lo que es un
+
+00:01:43.410 --> 00:01:46.090
+función de y dividido por x.
+
+00:01:46.090 --> 00:01:47.790
+Entonces puedo hacer una sustitución de variables
+
+00:01:47.790 --> 00:01:50.350
+hace que sea separable.
+
+00:01:50.350 --> 00:01:51.870
+Así que ahora, parece todo confuso.
+
+00:01:51.870 --> 00:01:53.120
+Permítanme mostrarles un ejemplo.
+
+00:01:53.120 --> 00:01:55.740
+...
+
+00:01:55.740 --> 00:01:57.800
+Y sólo te muestran los ejemplos, mostrarle algunos elementos,
+
+00:01:57.800 --> 00:01:58.850
+y, a continuación, sólo vamos a hacer las sustituciones.
+
+00:01:58.850 --> 00:02:03.100
+Así que vamos a decir que mi ecuación diferencial es la
+
+00:02:03.100 --> 00:02:08.216
+derivada de y con respecto a x es igual a
+
+00:02:08.216 --> 00:02:12.170
+x más y dividido por x.
+
+00:02:12.170 --> 00:02:16.100
+Y usted puede, si usted desea, usted puede intentar hacer esto una
+
+00:02:16.100 --> 00:02:18.380
+separable, pero no es trivial que resolver.
+
+00:02:18.380 --> 00:02:20.240
+O por lo menos, estoy mirando una inspección, y no
+
+00:02:20.240 --> 00:02:22.130
+parece trivial que resolver.
+
+00:02:22.130 --> 00:02:24.860
+Y como vemos aquí, tenemos la derivada.
+
+00:02:24.860 --> 00:02:26.870
+Es igual a alguna función de x e y.
+
+00:02:26.870 --> 00:02:29.570
+Y mi pregunta es a usted, puedo simplemente algebraicamente reescribir
+
+00:02:29.570 --> 00:02:33.270
+¿este modo se convierte en una función de y sobre x?
+
+00:02:33.270 --> 00:02:37.240
+Bueno, sin duda, si sólo dividimos ambos términos superiores por x.
+
+00:02:37.240 --> 00:02:45.380
+Esto es lo mismo como x sobre x más y sobre x.
+
+00:02:45.380 --> 00:02:48.110
+Esta ecuación es lo mismo que dy sobre
+
+00:02:48.110 --> 00:02:50.310
+DX es igual a esto.
+
+00:02:50.310 --> 00:02:52.970
+Que es lo mismo que reescribir todo esta
+
+00:02:52.970 --> 00:02:56.300
+ecuación--voy a cambiar colores arbitrariamente--como este,
+
+00:02:56.300 --> 00:02:59.890
+DY sobre dx es igual a x dividido por x es igual a 1, si
+
+00:02:59.890 --> 00:03:02.120
+Suponemos que x no es igual a 0.
+
+00:03:02.120 --> 00:03:04.790
+Más y sobre x.
+
+00:03:04.790 --> 00:03:07.340
+Así que probablemente te estás preguntando ¿qué significó por una función
+
+00:03:07.340 --> 00:03:08.650
+¿de y sobre x?
+
+00:03:08.650 --> 00:03:10.090
+Bien, usted puede ver aquí.
+
+00:03:10.090 --> 00:03:14.070
+Cuando yo apenas algebraicamente manipulado esta ecuación,
+
+00:03:14.070 --> 00:03:16.350
+superado 1 más y x.
+
+00:03:16.350 --> 00:03:19.350
+Así que si dijo que sobre x es igual a alguna tercera variable,
+
+00:03:19.350 --> 00:03:21.750
+Esto es sólo una función de esa tercera variable.
+
+00:03:21.750 --> 00:03:24.330
+Y en realidad, voy a hacerlo ahora.
+
+00:03:24.330 --> 00:03:28.140
+Así que vamos a hacer una sustitución de y sobre x.
+
+00:03:28.140 --> 00:03:32.380
+Supongamos que v--y haremos v en un color diferente, vamos a
+
+00:03:32.380 --> 00:03:36.550
+decir que v es igual a y sobre x.
+
+00:03:36.550 --> 00:03:39.380
+U otra manera, si usted sólo multiplica ambos lados por x,
+
+00:03:39.380 --> 00:03:44.240
+podría escribir que y es igual a xv.
+
+00:03:44.240 --> 00:03:47.060
+Y vamos a sustituir v de y sobre x, pero también estamos
+
+00:03:47.060 --> 00:03:49.050
+vamos a tener que sustituir dy sobre dx.
+
+00:03:49.050 --> 00:03:51.530
+Así que vamos a averiguar lo que es en términos de la
+
+00:03:51.530 --> 00:03:52.520
+derivados de v.
+
+00:03:52.520 --> 00:03:56.640
+Por lo tanto la derivada de y con respecto a x es igual a--
+
+00:03:56.640 --> 00:03:58.750
+¿Qué es la derivada de esto con respecto a x?
+
+00:03:58.750 --> 00:04:01.970
+Bien, si asumimos v es también una función de x, entonces
+
+00:04:01.970 --> 00:04:03.350
+sólo vamos a utilizar la regla del producto.
+
+00:04:03.350 --> 00:04:09.790
+Por lo tanto la derivada de x es 1 por v más x por la
+
+00:04:09.790 --> 00:04:13.700
+derivada de v con respecto a x.
+
+00:04:13.700 --> 00:04:17.290
+Y ahora, nos podemos sustituir este y esta de nuevo en esto
+
+00:04:17.290 --> 00:04:21.070
+ecuación ya haz--dy así sobre dx,
+
+00:04:21.070 --> 00:04:22.000
+es igual a esto.
+
+00:04:22.000 --> 00:04:28.440
+Así obtenemos v más dx dv de x, la derivada de v con respeto
+
+00:04:28.440 --> 00:04:31.450
+a x, es igual a--que es sólo el lado izquierdo--tiene
+
+00:04:31.450 --> 00:04:34.370
+igual a 1 más y sobre x.
+
+00:04:34.370 --> 00:04:36.900
+Pero estamos haciendo esta sustitución que v es igual
+
+00:04:36.900 --> 00:04:37.720
+a y sobre x.
+
+00:04:37.720 --> 00:04:39.790
+Así que vamos a hacer 1 más v.
+
+00:04:39.790 --> 00:04:42.190
+Y ahora, esto debe ser bastante sencillo.
+
+00:04:42.190 --> 00:04:44.720
+Así que vamos a ver, podemos restar v de ambos
+
+00:04:44.720 --> 00:04:45.970
+lados de esta ecuación.
+
+00:04:45.970 --> 00:04:49.880
+...
+
+00:04:49.880 --> 00:04:50.980
+¿Y entonces qué ¿nos han dejado?
+
+00:04:50.980 --> 00:04:54.620
+Tenemos x dv dx es igual a 1.
+
+00:04:54.620 --> 00:04:56.670
+Vamos a dividir ambos lados por x.
+
+00:04:56.670 --> 00:05:01.490
+Y obtenemos la derivada de v con respecto a x es
+
+00:05:01.490 --> 00:05:04.710
+igual a 1 sobre x.
+
+00:05:04.710 --> 00:05:07.110
+Tal vez debería comenzar cada vez un poco más claro lo que el
+
+00:05:07.110 --> 00:05:09.980
+solución aquí es, pero vamos a continuar hacia adelante.
+
+00:05:09.980 --> 00:05:15.150
+Así que Si multiplicamos ambos lados por dx, obtenemos dv es igual a 1
+
+00:05:15.150 --> 00:05:17.120
+sobre x por dx.
+
+00:05:17.120 --> 00:05:20.440
+Ahora, podemos observar la primitiva de ambos lados,
+
+00:05:20.440 --> 00:05:23.130
+integrar ambos lados.
+
+00:05:23.130 --> 00:05:29.490
+Y nos estamos quedado con v es igual al logaritmo natural de la
+
+00:05:29.490 --> 00:05:34.530
+valor de absoluto de x más c.
+
+00:05:34.530 --> 00:05:37.680
+Y tipo de terminamos, pero sería bueno que esto
+
+00:05:37.680 --> 00:05:41.180
+solución en términos sólo de y y x, y no tiene esta tercera
+
+00:05:41.180 --> 00:05:41.980
+v variable aquí.
+
+00:05:41.980 --> 00:05:45.390
+Porque nuestro problema original era sólo en términos de x e y.
+
+00:05:45.390 --> 00:05:46.100
+Así que vamos a hacer eso.
+
+00:05:46.100 --> 00:05:47.230
+¿Cuál fue la v?
+
+00:05:47.230 --> 00:05:49.765
+Hicimos la sustitución que v es igual a y sobre x.
+
+00:05:49.765 --> 00:05:52.850
+Así que vamos a invertir sustituirlo ahora, o lo unsubstitute.
+
+00:05:52.850 --> 00:06:00.790
+Por lo que obtener y x es igual al logaritmo natural de x más c,
+
+00:06:00.790 --> 00:06:01.840
+Algunos constante.
+
+00:06:01.840 --> 00:06:03.770
+Multiplique ambos lados por x.
+
+00:06:03.770 --> 00:06:07.510
+Y te y es igual a x por el natural
+
+00:06:07.510 --> 00:06:12.590
+logaritmo de x más c.
+
+00:06:12.590 --> 00:06:13.490
+Y terminamos.
+
+00:06:13.490 --> 00:06:18.340
+Solucionamos ese diferencial ecuación aparentemente inseparable
+
+00:06:18.340 --> 00:06:21.320
+por reconocer que era homogénea y que hace
+
+00:06:21.320 --> 00:06:24.320
+esa sustitución de variables v es igual a y sobre x.
+
+00:06:24.320 --> 00:06:27.540
+Lo convirtió en un separable
+
+00:06:27.540 --> 00:06:29.700
+ecuación en términos de v.
+
+00:06:29.700 --> 00:06:31.150
+Y, a continuación, hemos resuelto.
+
+00:06:31.150 --> 00:06:33.290
+Y luego nos unsubstituted hacia atrás.
+
+00:06:33.290 --> 00:06:35.390
+Y tenemos la solución a la ecuación diferencial.
+
+00:06:35.390 --> 00:06:38.410
+Usted puede verificar por sí mismo, que es igual al
+
+00:06:38.410 --> 00:06:41.520
+logaritmo natural de x el valor absoluto de x más c.
+
+00:06:41.520 --> 00:06:43.050
+Ah, en realidad, he cometido un error.
+
+00:06:43.050 --> 00:06:45.960
+y sobre x es igual al logaritmo natural de x más c.
+
+00:06:45.960 --> 00:06:48.740
+Si multiplique a ambos lados de esta época de ecuación x, lo que de
+
+00:06:48.740 --> 00:06:49.790
+¿la solución?
+
+00:06:49.790 --> 00:06:52.500
+No es solo x por el logaritmo natural de x.
+
+00:06:52.500 --> 00:06:55.250
+¿Hay que multiplicar esta por x, también, no?
+
+00:06:55.250 --> 00:06:58.970
+Propiedad distributiva--que fue un error de aficionados.
+
+00:06:58.970 --> 00:07:02.580
+Por lo que es la solución correcta y es igual a x el logaritmo natural de
+
+00:07:02.580 --> 00:07:06.710
+el valor absoluto de x más x por c.
+
+00:07:06.710 --> 00:07:09.020
+Y si usted quiere averiguar c, tendría que darle
+
+00:07:09.020 --> 00:07:10.030
+algunas condiciones iniciales.
+
+00:07:10.030 --> 00:07:10.980
+Y, a continuación, usted podría calcular el valor de c.
+
+00:07:10.980 --> 00:07:13.600
+Y que sería la solución particular, entonces, para
+
+00:07:13.600 --> 00:07:14.900
+Esta ecuación diferencial.
+
+00:07:14.900 --> 00:07:16.610
+En el siguiente video, simplemente voy a hacer un par más de estos
+
+00:07:16.610 --> 00:07:19.100
+problemas. Nos vemos luego.
+
+00:07:19.100 --> 00:07:21.000
+...

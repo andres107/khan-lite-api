@@ -1,0 +1,196 @@
+WEBVTT
+
+NOTE Paragraph
+
+00:00:00.743 --> 00:00:03.887
+Encuentra la probabilidad de sacar una canica amarilla de la bolsa
+
+00:00:03.887 --> 00:00:06.870
+con 3 amarillas, 2 rojas, 2 verdes,
+
+00:00:06.870 --> 00:00:09.852
+y 1 azul (me supongo) canicas.
+
+00:00:09.852 --> 00:00:12.700
+La probabilidad (diré solo "P" para referirme a probabilidad)
+
+00:00:12.700 --> 00:00:17.484
+La probabilidad de sacar una canica amarilla
+
+00:00:17.484 --> 00:00:20.666
+y este es aveces el evento en cuestión justo aquí,
+
+00:00:20.666 --> 00:00:21.806
+sacar la canica amarilla.
+
+00:00:21.806 --> 00:00:24.303
+Voy a escribir la palabra 'sacar'(picking)
+
+00:00:24.303 --> 00:00:25.566
+Y cuando dicen probabilidad,
+
+00:00:25.566 --> 00:00:27.801
+es solo una forma de medir las chances
+
+00:00:27.801 --> 00:00:29.518
+de que algo va a suceder.
+
+00:00:29.518 --> 00:00:31.835
+Y la manera en la que vamos a pensar acerca de esto es,
+
+00:00:31.835 --> 00:00:35.149
+cuántos de los resultados de este intento,
+
+00:00:35.149 --> 00:00:37.349
+de sacar una canica de la bolsa,
+
+00:00:37.349 --> 00:00:40.917
+cuántos de los resultados satisfacen las características de este evento?
+
+00:00:40.917 --> 00:00:43.950
+y cuántos posibles resultados existen?
+
+00:00:43.950 --> 00:00:46.482
+Así que permiteme escribir todos los posibles resultados justo aqui,
+
+00:00:46.482 --> 00:00:52.083
+entoces posibles resultados.
+
+00:00:52.083 --> 00:00:54.833
+Y te darás cuenta que es una idea muy sencilla.
+
+00:00:54.833 --> 00:00:56.503
+Pero me asegurare de que comprendas
+
+00:00:56.503 --> 00:00:58.831
+todas las palabras que la gente pudiera decir.
+
+00:00:58.831 --> 00:01:01.186
+Entoces el conjunto de todos los resultados posibles:
+
+00:01:01.186 --> 00:01:02.537
+Bueno, hay tres canicas amarillas.
+
+00:01:02.537 --> 00:01:03.908
+Entonces yo pudiera sacar esa canica amarilla,
+
+00:01:03.908 --> 00:01:08.568
+esa canica amarilla, o esa canica amarilla.
+
+00:01:08.568 --> 00:01:10.470
+Estas son claramente amarillas.
+
+00:01:10.470 --> 00:01:12.260
+Hay dos canicas rojas en la bolsa.
+
+NOTE Paragraph
+
+00:01:12.260 --> 00:01:16.747
+Entoces yo pudiera sacar esa canica roja, o esa canica roja.
+
+00:01:16.747 --> 00:01:19.578
+Hay dos canicas verdes en la bolsa.
+
+00:01:19.578 --> 00:01:23.217
+Entoces yo pudiera sacar esa canica verde, o esa canica verde.
+
+00:01:23.217 --> 00:01:25.949
+Y finalmente hay una canica azul en la bolsa.
+
+00:01:25.949 --> 00:01:27.890
+Hay una canica azul .
+
+00:01:27.890 --> 00:01:30.506
+Entoces estos son todos los posibles resultados.
+
+00:01:30.506 --> 00:01:31.831
+y a veces a esto se le denomina
+
+00:01:31.831 --> 00:01:34.817
+como el espacio muestral
+
+00:01:34.817 --> 00:01:37.249
+muestral...el conjunto de todos los posibles resultados,
+
+00:01:37.249 --> 00:01:39.195
+una palabra elegante para una idea simple.
+
+00:01:39.195 --> 00:01:42.251
+Cuando yo saco algo de la bolsa
+
+00:01:42.251 --> 00:01:44.565
+y a esa accion se le llama intento.
+
+00:01:44.565 --> 00:01:46.693
+Existen ocho posibles cosas que puedo hacer.
+
+00:01:46.693 --> 00:01:49.663
+Por lo que cuando pienso de la probabilidad de sacar una canica amarilla,
+
+00:01:49.663 --> 00:01:52.830
+quiero pensar, bueno cuales son todas las posibilidades?
+
+00:01:52.830 --> 00:01:56.978
+Bueno, hay ocho possibilidades por mi intento
+
+00:01:56.978 --> 00:02:02.208
+por lo que el número de posibles resultados,
+
+00:02:02.208 --> 00:02:04.735
+lo pudieras vizualizar como la medida del espacio muestral,
+
+00:02:04.735 --> 00:02:06.496
+número de posibles resultados
+
+00:02:06.496 --> 00:02:07.756
+Y es tan simple como decir,
+
+00:02:07.756 --> 00:02:09.614
+mira tengo ocho canicas.
+
+00:02:09.614 --> 00:02:11.928
+Y tu me dices cuantas de esas canicas cumplen con mi limitante,
+
+00:02:11.928 --> 00:02:14.543
+que satisface este evento?
+
+00:02:14.543 --> 00:02:17.794
+Bueno, hay tres canicas que satisfacen mi evento.
+
+00:02:17.794 --> 00:02:22.613
+Existen tres resultados que permitirán que este evento suceda
+
+00:02:22.613 --> 00:02:24.044
+Supongo esta es una forma de decirlo.
+
+00:02:24.044 --> 00:02:25.711
+entoces hay tres por aqui.
+
+NOTE Paragraph
+
+00:02:25.711 --> 00:02:33.473
+entonces número que satisface el evento,
+
+00:02:33.473 --> 00:02:35.288
+o la limitante aquí.
+
+00:02:35.288 --> 00:02:38.078
+Si ves son ideas muy simples, pero muchas veces las palabras
+
+00:02:38.078 --> 00:02:40.420
+las hacen mas complicadas de lo que necesitan.
+
+00:02:40.420 --> 00:02:43.127
+Si digo cual es la probabilidad de sacar una canica amarilla,
+
+00:02:43.127 --> 00:02:46.195
+bueno cuántos tipos de canicas diferentes puedo sacar?
+
+00:02:46.195 --> 00:02:48.576
+Bueno hay ocho canicas diferentes que pudiera sacar
+
+00:02:48.576 --> 00:02:50.732
+Y entonces cuántas de ellas son amarillas?
+
+00:02:50.732 --> 00:02:55.479
+Bueno, hay tres de ellas que son solo amarillas.
